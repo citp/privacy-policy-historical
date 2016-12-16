@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529193709id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216054510id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ATTN:
 
-attn: wants to make media authentic and relevant to you, and so we have a very simple policy when it comes to your information.  We use your information only to provide you with information that we think may be relevant to you.  Most of the time, we generate that content ourselves.  But we also team up with others, and we can share with our affiliates, allies and media partners.  If we get it wrong and share your information in a way that you do not want, just tell us and we will not share your information or, if you choose, we will delete your information from our system.  It is your choice.  
+ATTN: wants to make media authentic and relevant to you, and so we have a very simple policy when it comes to your information.  We use your information only to provide you with information that we think may be relevant to you.  Most of the time, we generate that content ourselves.  But we also team up with others, and we can share with our affiliates, allies and media partners.  If we get it wrong and share your information in a way that you do not want, just tell us and we will not share your information or, if you choose, we will delete your information from our system.  It is your choice.  
 
 Our Privacy Policy is organized around the following basic ideas: 
 
@@ -50,7 +50,7 @@ We may also collect technical, non-personal information about people using our S
 
 ## Law Enforcement Requests 
 
-attn: believes in the freedom to read, think, and discuss without governmental oversight or intervention, especially when ideas may be disfavored by the political majority.  In certain circumstances, such as a search warrant, we could be required to respond to law enforcement demands for information, and we could need to use or share information in connection with legal rights or legal proceedings.  That being said, if attn: believes that law enforcement has gone too far, we reserve our rights to fight such requests.  And we will give you notice if we are legally able to do so that you can assert your rights and fight for your privacy as you see fit.  
+ATTN: believes in the freedom to read, think, and discuss without governmental oversight or intervention, especially when ideas may be disfavored by the political majority.  In certain circumstances, such as a search warrant, we could be required to respond to law enforcement demands for information, and we could need to use or share information in connection with legal rights or legal proceedings.  That being said, if attn: believes that law enforcement has gone too far, we reserve our rights to fight such requests.  And we will give you notice if we are legally able to do so that you can assert your rights and fight for your privacy as you see fit.  
 
 ## Cookies and Other Passive Information Collection
 
@@ -97,7 +97,7 @@ Phone:     202-660-1333
 
 Email:     info@attn.com
 
-Mail:      7661 Melrose Ave #1 Los Angeles CA 90046
+Mail:      7521 Melrose Avenue, Los Angeles, CA 90046
 
 ## Changes to This Privacy Policy 
 
