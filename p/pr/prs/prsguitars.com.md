@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331223017id_/https%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216135810id_/http%3A//prsguitars.com/privacy.php) for the most accurate reproduction.*
 
 # PRS Guitars PRS Guitars Privacy Policy
 
@@ -13,6 +13,8 @@ No user information is required to visit the PRS website. The only personal info
 ## Non-Personal Information Gathering
 
 We will collect no personally identifiable information about you the user unless you choose to provide personal information to us. Therefore, if you do nothing but browse through the site or download information from the site, no personal information will be gathered. However, we will gather and store certain information that does not identify you personally. Such nonpersonal information may include the Internet domain name and the Internet Protocol address from which you access the site; the type of browser and operating system used to access the site; the date and time you access the site; the address of any website from which you used a link to access the site; and the site pages, areas and services you accessed during your visit. This nonpersonal information helps us determine what services and tools are most beneficial to our users and how we can best serve our users.
+
+We have implemented Google Analytics features based on Display Advertising (Google Analytics Demographics and Interest Reporting). You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. In addition, you can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We will use the data provided by Google Analytics Demographics and Interest Reporting to develop the site and content around our users’ interests and to help refine our advertising strategies.
 
 PRS Guitars uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site , as well as on third-party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other websites. The information collected and used by this process is always anonymous, and does not enable any third-party to identify you individually.
 
@@ -50,7 +52,7 @@ The Site may contain links to other sites. Once you link to another site(s), you
 
 ## Children
 
-The Site is not directed to children and it does not specifically collect information from children under the age of thirteen (13); therefore, the Children's Online Privacy Protection Act (COPPA) does not apply to the Site. We highly recommend that parents view with their children the Federal Trade Commission's Web site at [http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index) to learn more about how COPPA protects children's privacy online.
+The Site is not directed to children and it does not specifically collect information from children under the age of thirteen (13); therefore, the Children's Online Privacy Protection Act (COPPA) does not apply to the Site. We highly recommend that parents view with their children the [Federal Trade Commission's Web site](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) to learn more about how COPPA protects children's privacy online.
 
 ## Contacting The Website
 
