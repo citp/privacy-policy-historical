@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319122419id_/http%3A//www.abhi2you.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhi2you.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216035810id_/http%3A//www.abhi2you.com/p/privacy.html) for the most accurate reproduction.*
 
-# A2Y | Free Recharge Tricks, Loot Deals & Coupons - March 2016: Privacy Policy
-
-_**  Privacy Policy**_
+# A2Y | Free Recharge Tricks, Loot Deals, Coupons - December 2016: Privacy Policy
 
 This Privacy Policy governs the manner in which Abhi 2 You | The Tech World collects, uses, maintains and discloses information collected from users (each, a "User") of the http://abhi2you.blogspot.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Abhi 2 You | The Tech World.
 
@@ -69,8 +67,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-**Abhi 2 You | The Tech World**  
-[http://abhi2you.blogspot.com](http://abhi2you.blogspot.com/)  
-[abhi5678chrs@gmail.com](mailto:abhi5678chrs@gmail.com)
+**A2Y - India's Loot Hub**  
+[http://abhi2you.com](http://abhi2you.blogspot.com/)  
+[admin@abhi2you.com](mailto:abhi5678chrs@gmail.com)
 
-**This document was last updated on March 27, 2014**
+**This document was last updated on 1st November, 2016**
