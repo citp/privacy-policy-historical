@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611003321id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216165340id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
 # Inspire3 Ltd - Privacy Policy
 
@@ -26,7 +26,7 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We collect all the information you'd expect for our sites to operate correctly.
   * For email subscriptions, we collect the name and email address provided, as well as the signup & confirmation IP addresses.
-  * For purchases, we collect the name, email address, postal address, and payment details provided, as well as your IP address.
+  * For purchases, we collect the name, email address, postal address, telephone number, and payment details provided, as well as your IP address.
   * For support questions, we use the return email address to reply to the query, and possibly offer an email subscription.
   * We may also collect other aggregate information to improve our systems, such as server logs and email click counts.
 
@@ -35,7 +35,7 @@ Your privacy is important to us. That's why we've created this simplified privac
 ### Secure Purchases
 
   * Your payment information is handled in the most secure manner possible.
-  * All payment data is secured during the  ordering process using 256-bit military grade encryption.
+  * All payment data is secured during the ordering process using 256-bit military grade encryption.
   * We NEVER permanently store your credit card details. Payment data is typically handled by our PayPal merchant account.
   * We may use PayPal Reference Transactions to bill the original payment method if you authorize additional purchases.
 
@@ -45,9 +45,9 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We will use the information you provide to help complete the service you have asked of us.
   * For email subscriptions, we will use this data to send you the information you requested - such as our regular newsletter.
-  * For purchases, we will use this data to complete the order - such as sending out download links, or physically mailing out a product.
-  * If you have provided your telephone number to us, we may call you to check on your progress, and maybe offer additional coaching.
-  * If you have provided your mailing address, we may send you extra material that we deem relevant.
+  * For purchases, we will use this data to complete the order, such as sending download links, or physically mailing a product. We will also typically subscribe you to our customer newsletter.
+  * If you provide a telephone number to us, we may pass it to a close business partner, Achieve Today. They may call you to discuss your progress, and offer additional coaching.
+  * If you have provided your mailing address, we (or a close business partner) may send you extra material that we deem relevant.
   * We aim for all of our communications to be relevant. You can opt-out of any communication at any time simply by letting us know.
 
 
