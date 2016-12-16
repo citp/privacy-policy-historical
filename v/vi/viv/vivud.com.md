@@ -1,84 +1,83 @@
-> *The following text is extracted and transformed from the vivud.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625191458id_/http%3A//vivud.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivud.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216171937id_/http%3A//vivud.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Page - VIVUD.com
 
-## I. General
+#### 
 
-### A.
+This privacy policy ("Policy") describes how we collect, protect and use the personally identifiable information ("Personal Information") you ("User", "you" or "your") provided on the [http://www.vivud.com](http://www.vivud.com/) website and any of its products or services (collectively, "Website" or "Services"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-The operative parties referred to in this policy are Company and you, the user of this site.   
-1.VIVUD, is the publisher and operator of the websites listed at the beginning of this policy. Hereinafter, VIVUD. shall be referred to as "Company". When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Company. Additionally, when the terms "The Site" or "Site" are used, these terms refer to the websites listed at the beginning of this policy.   
-2.You, the User - As the user of this site, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the site shall be referred to in applicable second- person pronouns. 
+## Collection of personal information
 
-### B.
+#### 
 
-This Privacy Policy describes how we use information received about you when you visit our Site or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the Site. 
+We receive and store any information you knowingly provide to us when you create an account, publish content, fill any online forms on the Website. When required this information may include your email address, name, or other Personal Information. You can choose not to provide us with certain information, but then you may not be able to take advantage of some of the Website's features.
 
-## II. Revisions to this Policy
+## Collection of non-personal information
 
-We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "last modified" date remains unchanged after you have -1- clicked the "refresh" button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed "last modified" dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
+#### 
 
-## III. Personal information that we collect
+When you visit the Website our servers automatically record information that your browser sends. This data may include information such as your computer's IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to our Website, pages of our Website that you visit, the time spent on those pages, information you search for on our Website, access times and dates, and other statistics.
 
-Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
+## Use of collected information
 
-### A. Members
+#### 
 
-Members are those users who interact with our services in a way which requires registration, such as by uploading content to the Site. Members will be prompted to provide their e-mail address in the process of registering a username. 
+Any of the information we collect from you may be used to personalize your experience; improve our website; run and operate our Website and Services. Non-personal information collected is used only to identify potential cases of abuse and establish statistical information regarding Website traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-### B. Browsers
+#### 
 
-Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below). 
+## Cookies
 
-## IV. How we collect information from you
+#### 
 
-### A. Passive Collection
+The Website uses "cookies" to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We may use cookies to collect, store, and track information for statistical purposes to operate our Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the features of the Website and Services.
 
-We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address and other session data. 
+## Advertisement
 
-### B. Active Collection
+#### 
 
-We collect information from you, such as your e-mail address and IP address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
 
-## V.How we use your information
+## Links to other websites
 
-The primary use for your information is to provide you with services you have requested. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.   
-We generally will use your information for the purposes for which you specifically provide it, for example, to verify membership, if applicable. We -2- also use your information for market research purposes - in order to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
+#### 
 
-## VI. Special Cases.
+Our Website contains links to other websites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Website and to read the privacy statements of each and every website that may collect personal information.
 
-It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including:   
-1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;   
-2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies;   
-3\. To operate our Services properly;   
-4\. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.   
-5\. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+## Information security
 
-## VII. Transmittals from Us
+#### 
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting youjizzadmin@gmail.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.   
-If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you -3- understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of personal information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your personal information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Website cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.
 
-## VIII. Public Forums and Other Public Areas:
+## Data breach
 
-### A. Public Forums
+#### 
 
-We may offer forums or other interactive features on the Site. We may also provide services that allow Members or Browsers to post messages or comments to the public. Any and all information posted to the Site, whether as a comment to a video or any other post, should immediately be considered to be public information.
+In the event we become aware that the security of the Website has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do we will send you an email.
 
-### B.
+## Legal disclosure
 
-Any information or content you voluntarily provide to Us should be considered public. You may have the opportunity to provide additional information or content that is not required for registration to the Site, and your voluntary provision of such information is solely your decision.
+#### 
 
-## IX. Our Commitment to Data Security.
+We will disclose any information we collect, use or receive if required or permitted by law, such as to comply with a subpoena, or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third- party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber- criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
+## Changes and amendments
 
-## X. How to Access or Modify Your Information.
+#### 
 
-We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at youjizzadmin(at)gmail.com.
+We reserve the right to modify this privacy policy relating to the Website or Services at any time, effective upon posting of an updated version of this privacy policy on the Website. When we do we will revise the updated date at the bottom of this page. Continued use of the Website after any such changes shall constitute your consent to such changes.
 
-## XI. Where to Direct Questions About Our Privacy Policy.
+## Acceptance of this policy
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at youjizzadmin(at)gmail.com. 
+#### 
 
-### \- End -
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.
+
+## Contacting us
+
+#### 
+
+If you have any questions about this Policy, please [contact us](http://vivud.com/pages/support/).
+
+This document was last updated on September 20, 2016
