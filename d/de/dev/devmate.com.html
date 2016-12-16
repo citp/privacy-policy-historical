@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the devmate.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406181459id_/http%3A//devmate.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devmate.com privacy policy that was archived on 2016-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216212537id_/http%3A//devmate.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" data-doc="policy"><head>
 	<meta charset="UTF-8">
@@ -59,6 +59,137 @@
 
 <!-- Header-->
 <header class="site-header">
+	<!-- banner -->
+	<style>
+		body {
+			padding-top: 98px;
+		}
+		.banner {
+			background: #003f7c;
+			background: -moz-linear-gradient(top, #003f7c 0%, #0a5fb6 100%);
+			background: -webkit-linear-gradient(top, #003f7c 0%,#0a5fb6 100%);
+			background: linear-gradient(to bottom, #003f7c 0%,#0a5fb6 100%);
+			position: relative;
+			min-height: 98px;
+			top: 0;
+			left: 0;
+			width: 100%;
+			z-index: 9999;
+		}
+		.banner-content {
+			max-width: 1060px;
+			margin: 0 auto;
+			padding: 13px 20px 13px 40px;
+			position: relative;
+			text-align: center;
+		}
+		.banner-title {
+			font-family: 'SofiaProRegular', 'Helvetica Neue', sans-serif;
+			font-size: 22px;
+			color: #ffffff;
+			padding-right: 30px;
+			line-height: 27px;
+			display: inline-block;
+		}
+		.banner-btn {
+			font-family: 'ProximaNova-Semibold', 'Helvetica Neue', sans-serif;
+			background: #fff;
+			background-image: -webkit-linear-gradient(top, #fff 0, #f7f7f7 100%);
+			background-image: linear-gradient(top, #fff 0, #f7f7f7 100%);
+			box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.20);
+			border-radius: 4px;
+			font-size: 20px;
+			color: #054E97;
+			line-height: 34px;
+			height: 34px;
+			display: inline-block;
+			text-decoration: none;
+			padding: 0 20px;
+		}
+		.banner-btn:hover {
+			background: #f2f2f2;
+			background-image: -webkit-linear-gradient(top, #f2f2f2 0, #e3e3e3 100%);
+			background-image: linear-gradient(top, #f2f2f2 0, #e3e3e3 100%);
+			color: #054E97;
+			box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .3);
+		}
+		.banner-close {
+			width: 20px;
+			height: 20px;
+			background: url(/landings/windows-beta/img/close.svg) no-repeat center center;
+			position: absolute;
+			top: 50%;
+			margin-top: -10px;
+			left: 10px;
+			cursor: pointer;
+			z-index: 3;
+		}
+		.banner-close:hover {
+			opacity: 0.7;
+		}
+		.banner-btn {
+			position: absolute;
+			right: 20px;
+			top: 50%;
+			margin-top: -22px;
+			font-size: 22px;
+			height: 44px;
+			line-height: 44px;
+			padding: 0 25px;
+		}
+		.banner-title {
+			font-family: 'SofiaProBold', 'Helvetica Neue', sans-serif;
+			font-size: 26px;
+			padding-left: 115px;
+		}
+		.banner-subtitle {
+			font-family: 'SofiaProRegular', 'Helvetica Neue', sans-serif;
+			font-size: 21px;
+			color: #ffffff;
+			margin-top: 5px;
+			padding-left: 115px;
+		}
+		.banner-content {
+			text-align: left;
+			padding: 23px 20px 23px 40px;
+		}
+		.banner-img {
+			position: absolute;
+			left: 40px;
+			bottom: 0;
+		}
+		@media (max-width : 800px) {
+			.banner {
+				display: none;
+			}
+			body {
+				padding-top: 0;
+			}
+		}
+
+	</style>
+
+	<script src="/js/modules/banners.js"></script>
+	<div class="banner" id="windows-beta-banner">
+		<div class="banner-close" data-banner-close=""></div>
+		<div class="banner-content">
+			<img class="banner-img" src="/landings/windows-beta/img/banner_logo.png" srcset="/landings/windows-beta/img/banner_logo_2x.png 2x" alt="">
+			<div class="banner-title">DevMate is coming to Windows.</div>
+			<div class="banner-subtitle">Be part of the Beta!</div>
+			<a class="banner-btn" href="/windows-beta">Learn more</a>
+		</div>
+	</div>
+	<script>
+		if (document.cookie.indexOf("windows-beta-banner") >= 0) {
+			document.querySelector('body').style['paddingTop'] = 0;
+			document.getElementById('windows-beta-banner').style['display'] = 'none';
+		} else {
+			new Banner('#windows-beta-banner', 'windows-beta-banner');
+		}
+	</script>
+
+
+	<!-- end banner -->
 	<div class="container clearfix">
 		<!-- Logo -->
 		<a href="/" class="devmate-logo" title="DevMate"><img src="/img/devmate.png" alt="DevMate" width="118" height="40"></a>
@@ -70,7 +201,7 @@
 			<a href="/customers" class="">Customers</a>
 			<a href="/support" class="">Support</a>
 			
-			<a href="http://blog.devmate.com/" class="js--ga-track-nav-blog" data-ga-label="Navigation Bar">Blog</a>
+			<a href="/windows-beta" class="">Windows Beta</a>
 			<a href="https://dashboard.devmate.com" class="hide">Log In</a>
 			<a href="https://dashboard.devmate.com/signup" class="nav-signup js--ga-track-signup" data-ga-label="Navigation Bar">Get Started</a>
 		</nav>
@@ -297,6 +428,7 @@
 			<div class="table">
 				<div class="tr">
 					<div class="td">
+						<a href="/windows-beta">Windows Beta</a><br>
 						<a href="/features/development">Development</a><br>
 						<a href="/features/distribution">Distribution</a><br>
 						<a href="/features/analytics">Analytics</a><br>
