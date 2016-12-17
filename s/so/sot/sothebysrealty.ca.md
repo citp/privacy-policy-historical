@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611084139id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217104049id_/http%3A//sothebysrealty.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sotheby's International Realty Canada
 
-This Privacy Policy contains ten principles that are observed by Sotheby’s International Realty Canada regarding the collection, use and disclosure of personal information. 
+This Privacy Policy contains ten principles that are observed by Sotheby’s International Realty Canada regarding the collection, use and disclosure of personal information.
 
   * The Policy applies to personal information about Sotheby’s International Realty Canada's customers and other individuals that is collected, used or disclosed by Sotheby’s International Realty Canada. 
   * The Policy does not apply to information about Sotheby’s International Realty Canada's corporate customers; however, such information is protected by other Sotheby’s International Realty Canada policies and practices and through contractual arrangements. 
@@ -28,7 +28,7 @@ Max Wright Real Estate Corporation does business as Sotheby’s International Re
 
 “Use” is the treatment, handling and management of personal information by and within an organization.
 
-**Principle 1 - Accountability**
+ **Principle 1 - Accountability**
 
 1.1 Sotheby’s International Realty Canada shall designate one or more persons to be accountable for compliance with the Policy.   
 1.2 Sotheby’s International Realty Canada shall make known, upon request, the name of the person or persons designated to oversee Sotheby’s International Realty Canada's compliance with the Policy.  
@@ -52,7 +52,7 @@ Further references to "identified purposes" mean the purposes identified in this
 
 2.2 Sotheby’s International Realty Canada shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Sotheby’s International Realty Canada who shall explain the purposes.
 
-**Principle 3 - Consent**
+ **Principle 3 - Consent**
 
 When required by Applicable Law, the knowledge and consent of a Protected Individual are required for the collection, use or disclosure of personal information.
 
@@ -64,7 +64,7 @@ Sotheby’s International Realty Canada may disclose personal information withou
 3.4 In determining the appropriate form of consent, Sotheby’s International Realty Canada shall take into account the sensitivity of the personal information and the reasonable expectations of the individual.  
 3.5 Where consent is required for a particular use or disclosure, an individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Sotheby’s International Realty Canada for more information regarding the implications of withdrawing consent.
 
-**Principle 4 - Limiting Collection of Personal Information**
+ **Principle 4 - Limiting Collection of Personal Information**
 
 Sotheby’s International Realty Canada shall limit the collection of personal information to that which is necessary for the purposes identified by Sotheby’s International Realty Canada and as permitted by law.   
 4.1 Sotheby’s International Realty Canada collects personal information primarily from the individual to whom the information relates.  
@@ -74,7 +74,7 @@ Sotheby’s International Realty Canada shall limit the collection of personal i
 
 Sotheby’s International Realty Canada shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Sotheby’s International Realty Canada shall retain personal information only as long as necessary for the fulfillment of those purposes or as required or permitted by law. 
 
-5.1 Sotheby’s International Realty Canada may disclose an individual's personal information to: 
+5.1 Sotheby’s International Realty Canada may disclose an individual's personal information to:
 
   1. a person who in the reasonable judgment of Sotheby’s International Realty Canada is seeking the information as an agent of the individual; 
   2. a company or individual employed by Sotheby’s International Realty Canada to perform functions on its behalf, such as but not limited to research or data processing; 
@@ -93,26 +93,26 @@ Sotheby’s International Realty Canada shall not use or disclose personal infor
 5.4 Sotheby’s International Realty Canada shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required or permitted by law to be retained. Such information shall be destroyed, erased or made anonymous.  
 5.5 Where appropriate, Sotheby’s International Realty Canada may communicate updates of personal information to third parties.
 
-**Principle 6 - Accuracy**
+ **Principle 6 - Accuracy**
 
 Sotheby’s International Realty Canada shall take steps to ensure that personal information is as accurate, complete and up-to-date as is appropriate for its purposes. 
 
 6.1 Personal information used by Sotheby’s International Realty Canada shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about an individual.  
 6.2 Sotheby’s International Realty Canada shall update personal information about individuals as and when reasonably necessary to fulfill the identified purposes or as reasonably requested by the individual.
 
-**Principle 7 - Security Safeguards  
+ **Principle 7 - Security Safeguards  
 **  
 Sotheby’s International Realty Canada shall protect personal information by security safeguards appropriate to the sensitivity of the information. 
 
 7.1 Sotheby’s International Realty Canada shall take appropriate and reasonable steps to protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction.  
 7.2 Sotheby’s International Realty Canada shall take appropriate and reasonable steps to protect personal information disclosed to third parties, for example by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
 
-**Principle 8 - Openness**
+ **Principle 8 - Openness**
 
-Sotheby’s International Realty Canada shall make readily available to individuals specific information about its policies and practices relating to the management of personal information. 
+Sotheby’s International Realty Canada shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
 
 8.1 Copies of the Policy will be made available upon request.  
-8.2 Sotheby’s International Realty Canada shall make information about its policies and procedures easy to understand, including: 
+8.2 Sotheby’s International Realty Canada shall make information about its policies and procedures easy to understand, including:
 
   1. the title and addresses of the person or persons accountable for Sotheby’s International Realty Canada's compliance with the Policy and to whom inquiries or complaints can be forwarded; 
   2. the means of gaining access to personal information held by Sotheby’s International Realty Canada; and 
@@ -129,7 +129,7 @@ Upon request, Sotheby’s International Realty Canada shall inform an individual
 9.3 Individuals can seek access to their personal information by contacting a designated representative at Sotheby’s International Realty Canada.  
 9.4 Sotheby’s International Realty Canada will endeavor to respond to all requests within 30 days or, in any event, as required or permitted by applicable law.
 
-**Principle 10 - Handling Inquiries and Challenges**
+ **Principle 10 - Handling Inquiries and Challenges**
 
 An individual shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Sotheby’s International Realty Canada's compliance with the Policy.
 
