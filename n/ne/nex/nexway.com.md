@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexway.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402135614id_/http%3A//corporate.nexway.com/legal-notice-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexway.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217121818id_/http%3A//corporate.nexway.com/legal-notice-privacy) for the most accurate reproduction.*
 
 # Nexway | Legal notice & Privacy
 
@@ -11,14 +11,19 @@ French law will govern these conditions of use. The French Courts have the juris
 
 **Legal Information:**
 
-Website is published by: NEXWAY, S.A.S., 1 Boulevard des Bouvets – 92000 Nanterre  
-Head Office address: NEXWAY – 1 Boulevard des Bouvets – 92000 Nanterre  
+Website is published by: NEXWAY, S.A.S., Tour PB5 – 1 avenue du Général de Gaulle – 92074 Paris – La Défense CEDEX, France  
+Head Office address: NEXWAY – Tour PB5 – 1 avenue du Général de Gaulle – 92074 Paris – La Défense CEDEX, France  
 Greffe of NANTERRE  
 SIRET: 44095385900046  
 RCS Nanterre: B 440 953 859
 
 Tel: +33 (0)1 55 17 31 55  
 Hosting: Alionis, 30 rue Saint Lazare, 75009 Paris, France.
+
+Share Capital of the company: 1.632.221 Euros
+
+VAT Number: FR 33 440953859  
+eMail contact : [srvc@nexway.com](mailto:srvc@nexway.com)
 
 **Privacy Statement:**
 
