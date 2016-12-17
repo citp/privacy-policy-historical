@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvessyl.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617115751id_/http%3A//myvessyl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvessyl.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217101710id_/http%3A//myvessyl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
