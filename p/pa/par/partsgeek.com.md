@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313220809id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partsgeek.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217125123id_/http%3A//www.partsgeek.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Partsgeek.com
 
-Privacy is very important to us. Our privacy practices are held to high standards by outside organizations such as TRUSTe. As part of the normal operation of our services we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about Parts Geek, LLC. The privacy practices of this statement apply to the partsgeek.com website. 
+Privacy is very important to us. Our privacy practices are held to high standards by outside organizations such as TRUSTe. As part of the normal operation of our services we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about Parts Geek, LLC. The privacy practices of this statement apply only to the partsgeek.com website. Please review the privacy policy of other websites that may be linked to this website as they may have their own privacy policy that differ from our own. 
 
 #### This Privacy Policy tells you:
 
@@ -188,7 +188,7 @@ Parts Geek, LLC cooperates with law enforcement inquiries, as well as other thir
 
 You may not use the Email This to a Friend service or other email forwarding services that we offer to send spam or otherwise send content that would violate our Conditions of Use Agreement. We do not permanently store the email messages or the email addresses. 
 
-If you send an email using the Email ThisÂ  to a Friend service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. We generally discard the email addresses some time after they have been used to send your email. 
+If you send an email using the Email This to a Friend service to an email address that is not registered in our community, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. We generally discard the email addresses some time after they have been used to send your email. 
 
 ## Control of Your Password
 
