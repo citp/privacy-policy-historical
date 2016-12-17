@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217055809id_/http%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
 
 # Geekzone Privacy Statement
 
+  
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
   * IP addresses
@@ -23,29 +24,29 @@ We have created this privacy statement in order to demonstrate our firm commitme
 
 
  _ **IP addresses**_  
-We use your IP address to help diagnose problems with our server and to administer our web site. Your IP address is not used to identify you. However, all posts in our forums and comments to articles have an associated IP address recorded. This IP address is never shown to other users and it is only collected in order to help us to prevent unsolicited posting to our forums (see Spammers below) or other breaches of our [Forum Usage Guidelines (FUG)](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/content.asp?contentid=1046).
+We use your IP address to help diagnose problems with our server and to administer our web site. Your IP address is not used to identify you. However, all posts in our forums and comments to articles have an associated IP address recorded. This IP address is never shown to other users and it is only collected in order to help us to prevent unsolicited posting to our forums (see Spammers below) or other breaches of our [Forum Usage Guidelines (FUG)](https://www.geekzone.co.nz/content.asp?contentid=1046).
 
  _ **Personal information**_  
-All users have their user name, country and date of inclusion listed in our [User List](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/users.asp). This list is only visible to other registered users. The _email_ icon allows users to send private messages between them, but neither the sender's or recipient's email addresses are disclosed. If the user requires privacy, an option is available on your [user settings page](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/upd_user.asp) to hide the user name from this list and prevent other users from contacting via those private messages. 
+All users have their user name, country and date of inclusion listed in our [User List](https://www.geekzone.co.nz/users.asp). This list is only visible to other registered users. The _email_ icon allows users to send private messages between them, but neither the sender's or recipient's email addresses are disclosed. If the user requires privacy, an option is available on your [user settings page](https://www.geekzone.co.nz/upd_user.asp) to hide the user name from this list and prevent other users from contacting via those private messages. 
 
 Our site's registration form requires users to give us contact information (such as their email address) and optional personal and demographic information (such as name, city and country).
 
-You [public user profile](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/user_public.asp) page will be indexed by search engines. If you don't want your name and/or location showing up in search engine results, leave those fields empty. 
+You [public user profile](https://www.geekzone.co.nz/user_public.asp) page will be indexed by search engines. If you don't want your name and/or location showing up in search engine results, leave those fields empty. 
 
 _**Cookies**_  
 Our site uses cookies to keep track of your login. Cookies are simple data files that store information. We do not install any program on your computer while visiting our site. The information stored in the cookie file is used to store the login information if the user decides to use our auto login feature. We also store a randomly generated value that allows our site to prevent hijacking of forms and controls.
 
- _ **Emails**_  
+ _ **Email addresses**_  
 We use the user's email address to send forum notifications such as replies to their posts. Users can opt-out of these notifications at any time by clicking a link in those emails. Users can set a profile option to default to subscribe to these forum notifications or not. Users can also opt-in or opt-out of individual discussions when posting a reply. Users can also subscribe to subforums and receive notifications when a new discussion is posted.
 
-Users have access to a [page to stop all those forum notifications](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/forumclear.asp) and can use this at any time.
+Users have access to a [page to stop all those forum notifications](https://www.geekzone.co.nz/forumclear.asp) and can use this at any time.
 
-If the user opts in, we use the contact information (email address) from the registration form to send any important information regarding its registration with Geekzone. 
+If the user opts in, we use the contact information (email address) from the registration form to send any important information regarding its registration with Geekzone. Email addresses are kept to allow us to prevent users creating multiple accounts.
 
-Our [daily email updates](https://web.archive.org/web/20160618205927id_/http%3A//www.geekzone.co.nz/newsletter.asp) are managed by Google Feedburner. We do not supply email address to this service. The user has to actively subscribe to the service directly with Google, through our page.
+Our [daily email updates](https://www.geekzone.co.nz/newsletter.asp) are managed by Google Feedburner. We do not supply email address to this service. The user has to actively subscribe to the service directly with Google, through our page.
 
  _ **Spammers**_  
-If spam is found in our forums the associated account is banned and certain information (username, email address and IP address) is submitted to [Stop Forum Spam](http://www.stopforumspam.com/), a third party database service tracking such activities. We do no submit any other information and we do not submit information if a user account is banned for other reasons than spam. We use this service to identify potential spammers and deny registration or access to our forums.
+If spam is found in our forums the associated account is banned and certain information (username, email address and IP address) is submitted to [Stop Forum Spam](http://www.stopforumspam.com/), a third party database service tracking such activities. We do no submit any other information and we do not submit information if a user account is banned for reasons other than spam. We also use this service to identify spammers and deny registration or access to our forums.
 
 We use the Cloudflare CDN services. Cloudflare may at any time present visitors with a request for information before giving access to our site. This request for information is generally presented when Cloudflare has reasons to believe the visitor is using a compromised browser or system, act as a spammer or a bad actor in general. This request for information is automated and no information is automatically exchanged between us and Cloudflare. We manually add IP address ranges to Cloudflare from time to time to prevent known spammers from accessing our website.
 
@@ -58,11 +59,11 @@ More specifically Google, as a third party vendor, uses cookies to serve ads on 
 This site contains links to other sites. Geekzone is not responsible for the privacy practices or the content of such web sites. 
 
 _**Third party services**_  
-We use scripts from the following services to monitor, manage and monetise our site:
+We use services from the following providers to monitor, manage and monetise our site:
 
+  * Admiral
   * Amazon Affiliate
   * Cloudflare
-  * DGM Performance
   * Disqus
   * Facebook
   * GeniusLink
@@ -71,15 +72,11 @@ We use scripts from the following services to monitor, manage and monetise our 
   * Google DFP
   * Google Feedburner
   * Google reCaptcha
-  * Pagefair
   * PayPal
-  * Pingdom
   * PriceMe
-  * PushBullet
   * SkimLink
   * Stopforumspam
-  * SourcePoint
-  * Tradedoubler
+  * ThisData
   * TribalFusion
   * Twitter
   * Viglink
@@ -110,4 +107,4 @@ Geekzone is a participant in the Skimlinks Affiliate Program, an affiliate adv
  _ **PageFair disclosure**_  
 Geekzone is a participant in the PageFair Program, a service that measures the number of adblock users visiting our pages. We also use PageFair to show acceptable ads to those users that block our ads.
 
- _ **Last update**_ : 6th December 2015 
+ _ **Last update**_ : 27th August 2016
