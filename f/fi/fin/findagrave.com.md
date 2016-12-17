@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326173950id_/http%3A//findagrave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findagrave.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/privacy.html) for the most accurate reproduction.*
 
 # Find A Grave - Privacy Statement
 
-[](https://web.archive.org/web/20160326173950id_/http%3A//findagrave.com/index.html)
+[](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/index.html)
 
 **Last updated on 23 May, 2014**
 
@@ -14,7 +14,7 @@ Find A Grave's mission is to find, record and present final disposition informat
 
 In this Privacy Statement, we, Find A Grave, provide information on what personal information is collected and why as well as how we use the personal information to provide you with a personalized, relevant, user-friendly experience on the Websites. As a reminder, by registering with any of the Websites you are becoming part of the "Ancestry Community" a collaborative resource in which the users of the Websites and other websites and platforms owned or operated by Find A Grave and its group companies ("Group Companies") (including such sites as ancestry.com, ancestry.co.uk, ancestry.com.au, archives.com, ancestry.ca) participate. Please be aware that some sites may have some additional specific policies or different functionality and you should read and / or understand these before using the relevant services.
 
-This Privacy Statement should be read in conjunction with the [Terms of Service.](https://web.archive.org/disclaimer.html)
+This Privacy Statement should be read in conjunction with the [Terms of Service.](https://web.archive.org/terms.html)
 
 1\. What personal information does Find A Grave collect?  
 2\. How does Find A Grave use your personal information?  
@@ -125,7 +125,7 @@ If you have any questions or complaints about this Privacy Statement, Find A Gra
 
 **Need Help?**
 
-**Email us at:** [info@findagrave.com](https://web.archive.org/web/20160326173950id_/http%3A//findagrave.com/info@findagrave.com)
+**Email us at:** [info@findagrave.com](https://web.archive.org/web/20161217170315id_/http%3A//www.findagrave.com/info@findagrave.com)
 
 **Or write to us at:**  
 Find A Grave, Inc.  
