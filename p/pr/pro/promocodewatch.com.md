@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodewatch.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616132740id_/http%3A//www.promocodewatch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodewatch.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217081927id_/http%3A//www.promocodewatch.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Promocodewatch
 
@@ -121,9 +121,10 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  *  **promocodewatch.com**
-  * Santa Monica, CA 90025
-  * United States
+  *  **PromoCodeWatch LLC,**
+  * 555 W 5th Street
+  * Suite 36034, 35th Floor
+  * Los Angeles CA 90013
   * admin@promocodewatch.com
 
 
