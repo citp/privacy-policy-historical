@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102402id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217204942id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
 
 # Graphics Factory.com's Privacy Policy
 
@@ -9,17 +9,14 @@ Your credit card is safe with GraphicsFactory.com - [**we guarantee it!**](http:
 Your browser and GraphicsFactory.com's secure server encrypts confidential information during transmission, ensuring that transactions stay private and protected. GraphicsFactory.com guarantees the safety of your credit card information in the following manner: if any unauthorized use of your credit card occurs as a result of your credit card purchase at GraphicsFactory.com, simply contact us and we will credit your card, no questions asked.
 
 **We Protect Your Right to Privacy**   
-GraphicsFactory.com respects your privacy. We support the [TRUSTe](http://www.truste.org/) orginization and comply with their privacy standards. We also support [eTrust Pro's](http://www.etrust.pro/) Best Practices in protecting your privacy. 
+GraphicsFactory.com respects your privacy. We support [eTrust Pro's](http://www.etrust.pro/) Best Practices in protecting your privacy. 
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. To demonstrate our commitment to your privacy, we have asked TRUSTe to review and audit our privacy practices. 
+eTrust Pro is an independent, organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of providing secure content. To demonstrate our commitment to your privacy and security, we have asked eTrust Pro to review and audit our privacy practices. 
 
-When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of:   
-• What information is gathered/tracked   
-• How the information is used   
-• With whom information is shared   
-• This site's opt-out policy   
-• This site's policy on correcting and updating personally identifiable information   
-• This site's policy on deleting or deactivating your name from our database
+When you visit a Web site displaying the eTrust Pro logo, you can expect the following:   
+• A secure service protected by the latest encryptions  
+• Your personal information is protected   
+• Your payment information is protected 
 
 ####  Information Automatically Logged 
 
