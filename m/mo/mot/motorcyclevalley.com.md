@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcyclevalley.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161127id_/http%3A//www.motorcyclevalley.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclevalley.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217010649id_/http%3A//www.motorcyclevalley.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Motorcycle Price in Bangladesh. Bike Price in BD. TVS Suzuki Pulsar Bajaj Yamaha Honda Hero.
 
