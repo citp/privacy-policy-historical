@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118070241id_/http%3A//www.predictad.com/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217220049id_/http%3A//www.predictad.com/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
