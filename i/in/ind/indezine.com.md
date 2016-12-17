@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324185201id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217060255id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
 
-# Indezine.com - Privacy Policy
-
-**Date Created:** November 5th, 2004   
-**Last Updated:** March 19th, 2009 
-
-* * *
+# Privacy Policy
 
 The principal activity of this site is to provide rich content to users of software applications.
 
-You can access and browse this site without disclosing your personal data (excluding your IP address).
+## Personal Identification Information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our site anonymously without disclosing personal data (excluding their IP address). We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+
+## Other Information
 
 This site does not enable visitors to communicate with other visitors (excluding links to external sites) or to post information to be accessed by others. Such external sites may collect personal data about their visitors.
 
@@ -29,11 +28,4 @@ In March 2009, Google (one of the advertisers on this site) announced that they 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-  
 
-
-* * *
-
-Plagiarism will be detected by Copyscape
-
-since November 02, 2000
