@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510012912id_/http%3A//www.esr.cri.nz/footer/privacy-police) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esr.cri.nz privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217053401id_/http%3A//www.esr.cri.nz/footer/privacy-police) for the most accurate reproduction.*
 
 # Privacy Policy | ESR
 
@@ -6,8 +6,16 @@ Modern information and communication technologies play a fundamental role in the
 
 Information transmitted over the Internet is inherently insecure, unless pages use encryption to protect the information during transmission.
 
+ESR websites have security measures in place to prevent the loss, misuse and alteration of information under our control.
+
+In order to maintain the cyber security of ESR systems and information, ESR systems are subject to ongoing monitoring (including activity logging) analysis and auditing.
+
 Anonymous access  
-ESR is committed to ensuring that your privacy is protected. You can access and browse our website without disclosing your personal information. Any information automatically retrieved during your visit, such as browser type and pages visited, is anonymous and is used for statistical analysis of the use of this site. We do not automatically log personal information and no data on individual visitors is saved in any format.
+ESR is committed to ensuring that your privacy is protected. You can access and browse our website without disclosing your personal information. Any information automatically retrieved during your visit, such as browser type and pages visited, is anonymous and is used for statistical analysis of the use of this site, and to prevent unauthorised access or attacks or to resolve such events. We may use this information even if you are not involved in such activity.
+
+ESR may use the services from one or more third party suppliers to monitor or maintain the cyber security of its systems and information. These third party suppliers will have access to monitoring and logging information, as well as information processed on ESR websites and other IT systems.
+
+Use of ESR websites and/or other IT systems implies acceptance of their information being monitored.
 
 What information do we collect?  
 We only collect information that you actively give us by emailing your personal details to Marketing and Communications or giving your personal details to a member of our staff. This usually includes your name, job title, organisation, mailing address, email address and phone number.
