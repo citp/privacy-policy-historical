@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319051530id_/http%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modiphius.net privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217165215id_/https%3A//www.modiphius.net/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Modiphius Entertainment
 
@@ -6,7 +6,7 @@
 
 **Modiphius Entertainment Ltd. Full Privacy policy**
 
-At Modiphius Entertainment we are committed to protecting your privacy. We use the information we collect about you on behalf of our clients and to provide a more personalised experience. Any personal information provided to or gathered by Modiphius Entertainment through this website or otherwise as processed by Modiphius Entertainment Ltd, 35 Turneville Road, London. W14 9PS
+At Modiphius Entertainment we are committed to protecting your privacy. We use the information we collect about you on behalf of our clients and to provide a more personalised experience. Any personal information provided to or gathered by Modiphius Entertainment through this website or otherwise as processed by Modiphius Entertainment Ltd, Ashbourne House, 3rd Floor,35 Harwood Road, London, SW6 4QP, United Kingdom
 
 Modiphius Entertainment Ltd is also the controller where no client privacy policy applies. 
 
