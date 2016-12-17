@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamimommysavings.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621030427id_/http%3A//miamimommysavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamimommysavings.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217201852id_/http%3A//cleverlyme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Miami Mommy Savings
+# Privacy Policy | Cleverly Me - South Florida Lifestyle Blog
 
 **Privacy Policy**
 
@@ -37,3 +37,6 @@ Website visitors may opt out of the use of the DART cookie by visiting the Googl
 If you have any questions about our Privacy Policy, please contact Ana at MiamiMommySavings (at) gmail (dot) com
 
 (last updated July 25, 2011)
+
+  
+
