@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimmerbros.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622002546id_/http%3A//www.rimmerbros.co.uk/content--name-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimmerbros.co.uk privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217042916id_/http%3A//www.rimmerbros.co.uk/content--name-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
