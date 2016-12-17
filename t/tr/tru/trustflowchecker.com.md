@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustflowchecker.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616032211id_/http%3A//trustflowchecker.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustflowchecker.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217062841id_/http%3A//www.trustflowchecker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TrustFlowChecker.com
+# Privacy Policy | TrustFlowChecker.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -33,5 +33,12 @@ TrustFlowChecker.com will disclose your personal information, without notice, on
   * Act under exigent circumstances to protect the personal safety of users of TrustFlowChecker.com, or the public
 
 
+
+  
+
+
+**Tool Summary:** You can check the Privacy Policy of any URL with the **Privacy Policy**.
+
+**Usage Tips:** Run this mass Privacy Policy tool for all your website's page.
 
 | 
