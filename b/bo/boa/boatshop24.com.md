@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boatshop24.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214202643id_/http%3A//www.boatshop24.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatshop24.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217172137id_/http%3A//www.boatshop24.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Boatshop24.com
+# Privacy Policy | Boatshop24
 
 This privacy policy is effective for all users who register on or after 04/25/2011 at BoatShop24.com from the date of registration in force. For all users who registered before 04/25/2011 at BoatShop24.com, this Privacy Policy applies from 04/25/2011.
 
@@ -10,11 +10,11 @@ By accepting this Privacy Policy and User Agreement when you register, you expre
 
 **This Directive shall enter into force on 04/25/2011.**
 
-## Responsible office
+##  Responsible office
 
 Responsible office [of the data protection officer "for their personal data] within the meaning of the Federal Data Protection Act is Boatshop24 Software GmbH (hereinafter:" BoatShop24.com "), Hohenzollern Damm 152, D-14199 Berlin.
 
-## Collection of personal data
+##  Collection of personal data
 
 You can visit our websites without telling us who you are or revealing personal data. Once you tell us your personal data, they are no longer anonymous.
 
@@ -30,7 +30,7 @@ We collect and store the following personal information:
 
 
 
-## Use of Personal Data
+##  Use of Personal Data
 
 We use the personal data of our users if necessary anonymously or using a pseudonym in order to:
 
@@ -49,7 +49,7 @@ We use the personal data of our users if necessary anonymously or using a pseudo
 
 After the pseudonymous use of your personal data for purposes of marketing and market research or for the demand-oriented design of our website via email to contradict datenschutz@boatshop24.com.
 
-## Disclosure of personal data
+##  Disclosure of personal data
 
 Without your express consent we will not sell or rent your personal data to third parties for their marketing purposes or consideration. We may need to disclose your personal information to meet legal requirements, enforce our policies, respond to claims that violate an advertisement or other content of the website, the rights of third parties, and to the rights, property or safety of any person to protect (eg if you provide incorrect contact information or impersonate another person, in such cases we will not share your personal data to the injured party in each case, only to the appropriate law enforcement authority). In addition, we will forward personal information to the following parties:
 
@@ -61,26 +61,26 @@ Without your express consent we will not sell or rent your personal data to thir
 
 
 
-## Data you disclose to third parties
+##  Data you disclose to third parties
 
 We would like to point out that on BoatShop24 data set in each case are open to the public and other users of BoatShop24.
 
 The completion of a transaction may require you to provide third party personal data and account information. We can not ensure the protection or security of any information you transmit to other users directly Boatshop24. Accordingly, you should check the privacy and security policies of your trading partner before entering into a transaction with him and disclose your information.
 
-## Third-party data that you disclose to us
+##  Third-party data that you disclose to us
 
 If you disclose the personal information of third parties, you shall have any liability for compliance with the provisions of the Data Protection Act (BDSG) as well as other data protection regulations. You may only disclose personal information whose disclosure you have received the necessary consent and approval. These data are in accordance with data protection legislation in the form of processing data and for use in the present policy purposes described (to correspond approximately to legal requirements, enforce our policies or the rights, to protect the property or safety of any person). This personal information is not used for marketing purposes or for market research, unless the user has expressly consented to such use.
 
-## Cookies
+##  Cookies
 
-Sometimes we or our service providers will save when you visit BoatShop24 on your computer "cookies" (a "cookie" is a small file that is stored on the hard drive of your computer) or Web beacons (a "web beacon" is an electronic image, known as single pixel or clear GIF image and is integrated into the code of a website). Most cookies are "session cookies" that are at the end of a session is automatically deleted from your hard drive, for example, if you close your browser. It may be that we use for the purposes of an analysis of our webpage history both persistent cookies and session cookies to our services, content and advertising specific to our users to vote, to measure the effectiveness of advertising campaigns and to promote trust and safety. Some of the services we can function only under the authorization cookies are used. You can block our cookies by changing the settings on your browser, however, we might not be able to determine provide services to you (for details, see Accepting and deleting cookies. For more information on the reasons for which We use cookies, see Cookies, Web Beacons and Privacy Policy.   
-It is possible that third parties use cookies on certain sections of our website, which we have no control. We occasionally work together with service providers that store any cookies on your computer to collect anonymous information about your usage habits of the property of BoatShop24 and its affiliates related websites. Based on these data, we provide our services to customize our content and advertising to the needs of our users. We allow these companies do not charge to use these cookies personal information about you. 
+Sometimes we or our service providers will save when you visit BoatShop24 on your computer "cookies" (a "cookie" is a small file that is stored on the hard drive of your computer) or Web beacons (a "web beacon" is an electronic image, known as single pixel or clear GIF image and is integrated into the code of a website). Most cookies are "session cookies" that are at the end of a session is automatically deleted from your hard drive, for example, if you close your browser. It may be that we use for the purposes of an analysis of our webpage history both persistent cookies and session cookies to our services, content and advertising specific to our users to vote, to measure the effectiveness of advertising campaigns and to promote trust and safety. Some of the services we can function only under the authorization cookies are used. You can block our cookies by changing the settings on your browser, however, we might not be able to determine provide services to you (for details, see Accepting and deleting cookies. For more information on the reasons for which We use cookies, see Cookies, Web Beacons and Privacy Policy.  
+It is possible that third parties use cookies on certain sections of our website, which we have no control. We occasionally work together with service providers that store any cookies on your computer to collect anonymous information about your usage habits of the property of BoatShop24 and its affiliates related websites. Based on these data, we provide our services to customize our content and advertising to the needs of our users. We allow these companies do not charge to use these cookies personal information about you.
 
-## Use of data from BoatShop24
+##  Use of data from BoatShop24
 
 You may use personal information gathered from BoatShop24 only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that.
 
-## Messages and e-tools
+##  Messages and e-tools
 
 By accepting this Privacy Policy, you consent to agree to the fact that we provide you with marketing information via marketing e-newsletter, fax or telephone, unless you tell us that you do not want such information. If you do not wish to receive any marketing communications from us, please follow the unsubscribe instructions in the email.
 
@@ -90,7 +90,7 @@ BoatShop24 allows you to use third parties for the purpose of concluding transac
 
 You agree to use the user information only for purposes related to BoatShop24 transactions that are not unsolicited commercial messages, and other selected by the user explicitly uses.
 
-## Access, Modification, and Deletion
+##  Access, Modification, and Deletion
 
 You can see, modify or erase your personal information by reviewing your posting or account status page. Contact us here to review any personal information we store that is not available on Boatshop24. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent abuse of BoatShop24.
 
@@ -98,25 +98,25 @@ If you have any questions, please contact us at: datenschutz@boatshop24.com
 
 You can also contact our Customer Service Department.
 
-## Links to other websites
+##  Links to other websites
 
 As a convenience to you, Neath boatshop24 makes every effort to ensure that the links from this Website to other Websites operated by other entities are relevant and provide useful information.
 
 By clicking on these links you leave the site of BoatShop24. The web pages and the data protection measures applicable to those outside the control range of BoatShop24. BoatShop24 is not responsible for the information or content on the websites of third party suppliers. Any personal information you provide with non-affiliated third party suppliers BoatShop24 do not fall under the scope of this Privacy Policy.
 
-## Security
+##  Security
 
 BoatShop24 uses various tools such as firewalls, data encryption systems and access restrictions to protect your personal information from unauthorized access and unauthorized disclosure.
 
-## General
+##  General
 
 This policy can be updated at anytime. Any updates apply after your next listing comes into force, or 30 days after the announcement of the updated policy on our website, whichever of these events occurs first. If we or our affiliates are in a merger or acquisition process with another company, we will use the personal data together with the company, continuing to applying the present policy. If you have any questions regarding this policy please contact us.
 
-## Cookies, Web Beacons and Data Protection
+##  Cookies, Web Beacons and Data Protection
 
 We use cookies, web beacons, and similar tools from third parties to enhance the functions and services supported by your buying and selling experience. To protect your privacy, we limit the extent to which these tools can be used to BoatShop24.
 
-## BoatShop24 as cookies and web beacons used
+##  BoatShop24 as cookies and web beacons used
 
 "Cookies" are small files that are stored on the hard drive of your computer. Most cookies are "session cookies", which means they are automatically deleted from your hard drive when they log off or close your web browser BoatShop24.
 
@@ -134,13 +134,13 @@ We use cookies to provide special features and services, including:
 
 A "Web Beacon" is an electronic image that is integrated into the code of a website. We use web beacons to monitor the traffic patterns of users from a BoatShop24 page to the next and to improve the performance of our website.
 
-## Cookies You have the choice
+##  Cookies You have the choice
 
 We offer certain features that can be used only by the use of cookies. You are always free to block the use of cookies. Blocking cookies may result in you not being able to use certain features of BoatShop24 can possibly mean you enter your password more frequently during a session. We encourage you to deal with the management of cookies.
 
 We also use flash cookies (cookies created with Flash technology) and allow our service providers to do so. These cookies will make your account security and simultaneously detect irregularities in behavior to prevent your user account is taken in bad faith.
 
-## Cookies and Web beacons by third parties
+##  Cookies and Web beacons by third parties
 
 We occasionally work with other companies that rely on our web pages use cookies or web beacons. These companies support the function of our websites and offer you additional products and services. You are bound by confidentiality agreements with Friday Media Group and other legal restrictions. BoatShop24 not allowed these companies to raise the use of cookies or web beacons on our websites personal data.  
 Google and OpenX use as our service provider cookies or Web beacons, and help us in dealing with the provision of their own content and the creation of anonymous site metrics and analytics. These companies are obliged by us to use the data gathered only to provide the contracted services.
@@ -151,15 +151,15 @@ Third, it is prohibited to integrate in their BoatShop24 placed on content (such
 
 Some cookies enable Web sites recognize you when you visit this site again. Without these cookies BoatShop24 will treat each visit you make to the website at as a new user. For more information about accepting and deleting cookies, please see the Help option of your browser.
 
-## No spam, spyware or spoofing
+##  No spam, spyware or spoofing
 
 Spam is not tolerated by us nor by our members. Make sure that you set your notification preferences so that we can communicate with you in the desired manner. You may not add without their express consent any other members to your mailing list (email or post), even if a member purchased an item from you. To report Boatshop24 with Boatshop24 related spam or spoof emails, please forward the relevant e-mail please go to spoof@boatshop24.com. You may not use our communication tools to send spam or any other content that violate our terms and conditions. We scan messages and automatically filter them to manually in order to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but not permanently store messages we sent to these tools. When you send an e-mail to an e-mail address that is not registered in our community ("Send to a friend via or other tools), we do not store the e-mail permanently and do not use this e-mail Address for marketing purposes. We do not rent or sell these email addresses.
 
-## Show, check and change your personal information
+##  Show, check and change your personal information
 
 You can call to check most of your personal information and edit, by logging in Boatshop24.com. Basically, we do not manually change your personal information, as it is very difficult to verify your identity in absentia. You are required to update your personal information immediately if they change or are inaccurate. Once you publish content, you can not possibly change or remove more. If you do this, we may close your account and block your personal data so that they are not publicly available as soon as possible depending on your account activity and in accordance with applicable laws. We keep personal information from closed accounts to comply with legal requirements to prevent fraud, collect overdue fees, resolve disputes, troubleshoot problems, to support investigations, the terms and conditions of Boatshop24 to enforce and take other measures to the extent permitted by law.
 
-## General
+##  General
 
 We may change this Privacy Policy at any time by posting the amended terms on this website. The amended terms shall apply automatically 30 days after initial publication. In addition, we will notify you by e-mail to the address you provided in My Boatshop24.
 
