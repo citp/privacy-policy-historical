@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211164113id_/http%3A//www.stripes.com/customer-service/web-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217061146id_/http%3A//www.stripes.com/customer-service/web-notice) for the most accurate reproduction.*
 
 # Web Notice - Stripes
-
-Published: October 18, 2013
 
   
 This Service (including, but not limited to text, content, photographs, video and audio) is protected by copyright as a collective work or compilation. You must abide by all additional copyright notices or restrictions contained in this Service.
