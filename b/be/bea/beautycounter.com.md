@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629114822id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217041000id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautycounter
 
@@ -51,8 +51,8 @@ For your convenience, this Site may contain certain hyperlinks to other websites
 We may use the personally identifiable information we collect from you to provide you with opportunities to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of such email communications or by contacting us in writing at:
 
 Beautycounter  
-1727 Berkeley Street, Studio 1  
-Santa Monica, CA 90404
+2803 Colorado Avenue  
+Santa Monica, California 90404
 
 If you would no longer like to receive offers from our marketing partners, you can unsubscribe from additional offers by following the unsubscribe link located at the bottom of each email communication.
 
