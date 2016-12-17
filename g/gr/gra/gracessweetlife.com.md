@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610050607id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracessweetlife.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217223810id_/http%3A//gracessweetlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for the Grace's Sweet Life Website
 
@@ -36,7 +36,7 @@ In operating the Website,  **Grace’s Sweet Life**  may include registration,
 
 Our advertising partners include:
 
-Martha’s Circle through DoubleClick by Google
+Martha’s Circle through DoubleClick by Google (administered by Meredith Publishing)
 
 Google AdSense
 
@@ -50,7 +50,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 **Third Party Privacy Policies**. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The  **Grace’s Sweet Life’s**   **Privacy Policy**  does not apply to, and we cannot control the activities of, other advertisers or Websites.
 
-**[Martha Stewart Privacy Policy](http://www.marthastewart.com/privacy-policy "Martha Stewart Privacy Policy")**
+**[Martha Stewart – Meredith Publishing Privacy Policy](http://www.meredith.com/policyMSO.html "Martha Stewart - Meredith Publishing Privacy Policy")**
 
 [**Google Privacy Policy**](http://www.google.ca/policies/privacy/ "Google Privacy Policy")
 
