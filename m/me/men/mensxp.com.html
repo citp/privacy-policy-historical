@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mensxp.com privacy policy that was archived on 2016-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160526081319id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mensxp.com privacy policy that was archived on 2016-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161217220205id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         
@@ -46,9 +46,9 @@
 
 
 
-        <link type="text/css" href="http://media.mensxp.com/resources/theme_migration/css/normalize.min.css?v=18.6" rel="stylesheet" media="all">
-        <link type="text/css" href="http://media.mensxp.com/resources/theme_migration/css/main.min.css?v=18.6" rel="stylesheet" media="all">
-        <link type="text/css" href="http://www.mensxp.com/resources/theme_migration/css/fonts/fonts.min.css?v=18.6" rel="stylesheet" media="all">
+        <link type="text/css" href="http://media.mensxp.com/resources/theme_migration/css/normalize.min.css?v=19.6" rel="stylesheet" media="all">
+        <link type="text/css" href="http://media.mensxp.com/resources/theme_migration/css/main.min.css?v=19.6" rel="stylesheet" media="all">
+        <link type="text/css" href="http://www.mensxp.com/resources/theme_migration/css/fonts/fonts.min.css?v=19.6" rel="stylesheet" media="all">
     
 <!-- Begin comScore Tag -->
 <script src="http://platform.linkedin.com/in.js"></script><script src="http://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=121697241177107&amp;version=v2.0"></script><script async="" type="text/javascript" src="http://static.clmbtech.com/ad/commons/js/colombia_v2.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
@@ -72,10 +72,26 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   
+   // Creates an adblock detection plugin.
+	ga('provide', 'adblockTracker', function(tracker, opts) {
+	  var ad = document.createElement('ins');
+	  ad.className = 'AdSense';
+	  ad.style.display = 'block';
+	  ad.style.position = 'absolute';
+	  ad.style.top = '-1px';
+	  ad.style.height = '1px';
+	  document.body.appendChild(ad);
+	  tracker.set('dimension' + opts.dimensionIndex, !ad.clientHeight);
+	  document.body.removeChild(ad);
+	});
+  
   ga('create', 'UA-16245912-1', 'mensxp.com');
     
   ga('require', 'displayfeatures');
-    ga('send', 'pageview');
+    // Requires plugins (including the adblockTracker plugin provided above).
+  ga('require', 'linkid');
+  ga('require', 'adblockTracker', {dimensionIndex: 1});
+  ga('send', 'pageview');
   
   function socialTrack(network, action, href) {    
     if(!href) {
@@ -86,7 +102,7 @@
     
 </script>
 <!-- End Google Analytics Tag -->
-
+<noscript id="GoogleAnalytics" style="display:none;"></noscript>
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -103,6 +119,8 @@ fbq('track', 'ViewContent');
 src="https://www.facebook.com/tr?id=1490590564599357&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+<script src="https://ade.clmbtech.com/cde/ae/2658/var=_ccaud" async=""></script>
+
 
 <!--[if lt IE 9]>
 <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/html5.js?v=1.0"></script>
@@ -118,13 +136,17 @@ src="https://www.facebook.com/tr?id=1490590564599357&ev=PageView&noscript=1"
    var preview_site_url= "preview.mensxp.com";
    
    document.domain= "www.mensxp.com";
+   JSHOST= "www.mensxp.com";
 </script>
 
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery-1.8.0.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.easing.1.3.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/modernizr-2.6.1.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.inview.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/common.min.js?v=18.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery-1.8.0.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.easing.1.3.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/modernizr-2.6.1.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.inview.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/lunametrics-scroll-tracking.gtm.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/common.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/ads.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/riveted.min.js?v=19.6"></script>
 
 
 <link href="http://media.mensxp.com/resources/theme_migration/images/favicon144.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png">
@@ -165,13 +187,23 @@ src="https://www.facebook.com/tr?id=1490590564599357&ev=PageView&noscript=1"
             
         }
   }
-</script><script type="text/javascript">
+    $(document).ready(function() {
+        riveted.init({
+            reportInterval: 10,   // Default: 5
+            idleTimeout: 30,      // Default: 30
+            nonInteraction: true  // Default: true
+        });
+    });
+</script>
+<script type="text/javascript">
+    var scr = document.createElement("script");
+    scr.src = "https://notify.mensxp.com/js/main.js" + "?ts=" + new Date().getTime();
+    scr.async = true;
+    document.getElementsByTagName("head")[0].appendChild(scr);
+</script><script src="https://notify.mensxp.com/js/main.js?ts=1580443675576" async=""></script>
+<script type="text/javascript">
 var SOURCE_IN_URL = "";
 </script>
-    
-<!-- Lotame audience extraction script for ad-targeting -->
-<script type="text/javascript" src="http://ad.crwdcntrl.net/5/c=2800/pe=y/var=_ccaud"></script>
-<!-- End lotame audience extraction-->
 
 <script type="text/javascript">
 var brand_name='';
@@ -220,6 +252,8 @@ return v;
                      slot_top_header.addService(googletag.pubads());        
                         slot_right_second = googletag.defineSlot('/7176/MensXP/MensXP_SpecialFeatures/MensXP_SpecialFeatures_Home/MXP_ROS_BTF_SF_300', [[300, 250], [300, 600]], 'div-gpt-ad-1397419664987-2');
                      slot_right_second.addService(googletag.pubads());        
+                        slot_right_third = googletag.defineSlot('/7176/MensXP/MensXP_SpecialFeatures/MensXP_SpecialFeatures_Home/MXP_ROS_BTF_SF_300', [[300, 250], [300, 600]], 'div-gpt-ad-1397419664987-3');
+                     slot_right_third.addService(googletag.pubads());        
                         slot_oop_innov = googletag.defineOutOfPageSlot('/7176/MensXP/MensXP_SpecialFeatures/MensXP_SpecialFeatures_Home/MXP_ROS_OOP_SF_Innov', 'div-gpt-ad-1397419664987-0-oop1');
                      slot_oop_innov.addService(googletag.pubads());        
                         slot_oop_inter = googletag.defineOutOfPageSlot('/7176/MensXP/MensXP_SpecialFeatures/MensXP_SpecialFeatures_Home/MXP_ROS_OOP_SF_Inter', 'div-gpt-ad-1397419664987-0-oop2');
@@ -310,7 +344,7 @@ function megaMenuCallBack(data,container)
 <!---------------- end HP Blocks --------------------------------->
 
 
-<script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/banner/detail_ctn.js?v=18.6"></script>
+<script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/banner/detail_ctn.js?v=19.6"></script>
     
         <!--[if lte IE 9]>
             <script type="text/javascript" src="js/searchBox.js"></script>
@@ -360,18 +394,7 @@ function megaMenuCallBack(data,container)
     <a href="http://www.mensxp.com/work-life.html" class="worklife " id="worklife"><span>Power &amp; Money</span></a>
     <a href="http://www.mensxp.com/technology.html" class="technology " id="technology"><span>Technology</span></a>
     <a href="http://www.mensxp.com/entertainment.html" class="entertainment " id="entertainment"><span>Entertainment</span></a>
-</nav>
-<style>
-@-moz-document url-prefix() {
-  #gillette { right:123px !important; }
-}
-.rebuilt-wrap:hover #gillette
-{
-	display:block;
-}
-#isayyes{text-transform:none;}
-#gillette{position:absolute; z-index:1009; right:119px; top:46px; background-color:#252525; padding:0px 0px; display:none; border-top: 1px solid #000;}
-</style>        <div class="topActivities">
+</nav>        <div class="topActivities">
             <a href="javascript:void(0)" class="search" onclick="$('body').showSearch()"><span>Search</span></a>
             <a href="javascript:void(0)" class="userLogin"><span>User Login</span></a>      
             <div style="display:none" class="usrLoginBlk lc">
@@ -431,7 +454,6 @@ function megaMenuCallBack(data,container)
     <div class="loader"><img src="http://media.mensxp.com/resources/theme_migration/images/loading-anim3.gif"> </div>
 </div>
 
-<div id="adsdivLyr" width="980" align="center"></div>
 
 <div class="adSpot tophead" align="center">
                     <!-- /7176/MensXP/MensXP_SpecialFeatures/MensXP_SpecialFeatures_Home/MXP_ROS_ATF_SF_980 -->
@@ -440,6 +462,8 @@ function megaMenuCallBack(data,container)
                 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1397419664987-1'); });                
             </script>
                         </div>
+
+<div class="adsdivlyr" id="adsdivLyr"></div>
             
                             
             
@@ -476,13 +500,13 @@ function megaMenuCallBack(data,container)
 <p class="MsoNormal"><strong>COOKIES</strong></p>
 <p class="MsoNormal">To improve the responsiveness for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via website, application or Service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.</p>
 <p class="MsoNormal"><strong>Opting out</strong></p>
-<p class="MsoNormal">If a user opts out using the <a href="http://www.google.com/ads/preferences" target="_blank">Ads Settings</a>, the unique DoubleClick cookie ID on the user's browser is overwritten with the phrase "OPT_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.</p>
+<p class="MsoNormal">If a user opts out using the <a href="http://www.google.com/ads/preferences" target="_blank" rel="nofollow">Ads Settings</a>, the unique DoubleClick cookie ID on the user's browser is overwritten with the phrase "OPT_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.</p>
 <p class="MsoNormal"><strong>Log File Information</strong></p>
 <p class="MsoNormal">We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed, and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.</p>
 <p class="MsoNormal"><strong>Information from other Sources:</strong></p>
 <p class="MsoNormal">We may receive information about you from other sources, add it to our account information and treat it in accordance with this policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the Services or to communicate with you</p>
 <p class="MsoNormal"><strong>Demographic and purchase information:</strong></p>
-<p class="MsoNormal">We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don’t want Analytics to be used in your browser, you can <a href="http://tools.google.com/dlpage/gaoptout" target="_blank">install the Google Analytics browser add-on</a></p>
+<p class="MsoNormal">We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don’t want Analytics to be used in your browser, you can <a href="http://tools.google.com/dlpage/gaoptout" target="_blank" rel="nofollow">install the Google Analytics browser add-on</a></p>
 <p class="MsoNormal"><strong>LINKS TO THIRD PARTY SITES / AD-SERVERS</strong></p>
 <p class="MsoNormal">The website or application may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the application's homepage, you should contact the application or website owners directly for more information. When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites or Applications -- it is usually in the form of aggregated statistics on traffic to various pages / content within our websites or Applications. We use third-party advertising companies to serve ads when you visit our websites or Applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other websites or application, in order to provide advertisements about goods and services of interest to you. We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.</p>
 <p class="MsoNormal"><strong>INFORMATION SHARING</strong></p>
@@ -532,140 +556,67 @@ function megaMenuCallBack(data,container)
                                             </div>
                                     </div>
             </div>            
-            
-<footer>
-    <div class="SignUpBlock">
-        <div class="wrap">
-            <div class="blk">
-                <div class="SignupCont lc">
-                    <div class="SignupText">SIGN UP FOR OUR WEEKLY NEWSLETTER</div>
-                    <div class="Text">Get the best of MensXP - in your INBOX. Stay in the know about the best in men's health, relationships, fashion, power, money and more with India's largest men's lifestyle platform.</div>
-                </div>
-                <div class="subscribe lc">
-                    <div class="InputBox lc">
-                        <div class="ProfilePic lc"></div>
-                        <input type="text" placeholder="ENTER YOUR EMAIL ID" class="lc">
+                <footer>
+        <div class="SignUpBlock">
+            <div class="wrap">
+                <div class="blk">
+                    <div class="SignupCont lc">
+                        <div class="SignupText">SIGN UP FOR OUR WEEKLY NEWSLETTER</div>
+                        <div class="Text">Get the best of MensXP - in your INBOX. Stay in the know about the best in men's health, relationships, fashion, power, money and more with India's largest men's lifestyle platform.</div>
                     </div>
-                    <a href="javascript:;" class="SubscribeBtn">Subscribe</a>                                </div>
-            </div>   
+                    <div class="subscribe lc">
+                        <div class="InputBox lc">
+                            <div class="ProfilePic lc"></div>
+                            <input type="text" placeholder="ENTER YOUR EMAIL ID" class="lc">
+                        </div>
+                        <a href="javascript:;" class="SubscribeBtn">Subscribe</a>                                </div>
+                </div>   
+            </div>
         </div>
-    </div>
 
 
-    <div class="CompanyDetailsblock blk">
-        <div class="wrap">
-            <div class="blk">
-                <div class="FindUs Catgry lc">
-                    <div class="Title">FIND US ELSEWHERE</div>
-                    <div class="List blk">
-                        <a href="http://www.facebook.com/mensxp" class="Facebook" target="_blank">Facebook</a>
-                        <a href="http://www.twitter.com/mensxp" class="TWITTER" target="_blank">TWITTER</a>
-                        <a href="https://www.youtube.com/channel/UC7eZNThpjgXe5H0QwBN-XsQ/" class="YOUTUBE" target="_blank">YOUTUBE</a>
-                        <a href="https://plus.google.com/101053081957476792811" class="GOOGLE" target="_blank">GOOGLE +</a>
+        <div class="CompanyDetailsblock blk">
+            <div class="wrap">
+                <div class="blk">
+                    <div class="FindUs Catgry lc">
+                        <div class="Title">FIND US ELSEWHERE</div>
+                        <div class="List blk">
+                            <a href="http://www.facebook.com/mensxp" class="Facebook" target="_blank" rel="me">Facebook</a>
+                            <a href="http://www.twitter.com/mensxp" class="TWITTER" target="_blank" rel="me">TWITTER</a>
+                            <a href="https://www.youtube.com/channel/UC7eZNThpjgXe5H0QwBN-XsQ/" class="YOUTUBE" target="_blank" rel="me">YOUTUBE</a>
+                            <a href="https://plus.google.com/101053081957476792811" class="GOOGLE" target="_blank" rel="me">GOOGLE +</a>
+                        </div>
+                    </div>                           
+
+                    <div class="Catgry our lc">
+                                                <div class="Title">OUR CATEGORIES</div>
+                        <div class="List">          
+                                                        <a href="http://www.mensxp.com/gallery/actors.html">Actors</a>                                                                <a href="http://www.mensxp.com/gallery/actresses.html">Actresses</a>                                                                <a href="http://www.mensxp.com/health/addiction.html">Addiction</a>                                                                <a href="http://www.mensxp.com/technology/apps.html">Apps</a>                                                                <a href="http://www.mensxp.com/fine-living/auto.html">Auto</a>                                                                <a href="http://www.mensxp.com/work-life/balance-work-life.html">Balance Work &amp; Life</a>                                                                <a href="http://www.mensxp.com/work-life/be-a-better-manager.html">Be a Better Manager</a>                                                                <a href="http://www.mensxp.com/sexuality/better-bedroom-performance.html">Better Bedroom Performance</a>                                                                <a href="http://www.mensxp.com/relationships/better-partner.html">Better Partner</a>                                                                <a href="http://www.mensxp.com/health/body-building.html">Body Building</a>                                                                <a href="http://www.mensxp.com/relationships/break-ups.html">Break Ups</a>                                                                <a href="http://www.mensxp.com/work-life/business-skills.html">Business Skills</a>                                                                <a href="http://www.mensxp.com/work-life/career-growth.html">Career Growth</a>                                                                <a href="http://www.mensxp.com/entertainment/celeb-trends.html">Celeb Trends</a>                                                                <a href="http://www.mensxp.com/health/celebrity-fitness.html">Celebrity Fitness</a>                                                                <a href="http://www.mensxp.com/entertainment/celebrity-photos.html">Celebrity Photos</a>                                                                <a href="http://www.mensxp.com/health/cure-sleeping-disorders.html">Cure Sleeping Disorders</a>                                                                <a href="http://www.mensxp.com/dating/dating-tips.html">Dating Tips</a>                                                                <a href="http://www.mensxp.com/dating/deal-breakers.html">Deal Breakers</a>                                                                <a href="http://www.mensxp.com/health/diabetes.html">Diabetes</a>                                                                <a href="http://www.mensxp.com/work-life/entrepreneurship.html">Entrepreneurship</a>                                                                <a href="http://www.mensxp.com/relationships/fatherhood.html">Fatherhood</a>                                                                <a href="http://www.mensxp.com/health/fitness.html">Fitness</a>                                                                <a href="http://www.mensxp.com/dating/flirting-attraction.html">Flirting &amp; Attraction</a>                                                                </div>
+                                <div class="List">
+                                                                <a href="http://www.mensxp.com/sexuality/foreplay.html">Foreplay</a>                                                                <a href="http://www.mensxp.com/relationships/friendship.html">Friendship</a>                                                                <a href="http://www.mensxp.com/technology/gaming.html">Gaming</a>                                                                <a href="http://www.mensxp.com/work-life/get-better-at-finance.html">Get Better at Finance</a>                                                                <a href="http://www.mensxp.com/work-life/get-better-at-interviews.html">Get Better at Interviews</a>                                                                <a href="http://www.mensxp.com/dating/girlfriend-grooming.html">Girlfriend Grooming</a>                                                                <a href="http://www.mensxp.com/entertainment/gossip.html">Gossip</a>                                                                <a href="http://www.mensxp.com/grooming/hair-care.html">Hair Care</a>                                                                <a href="http://www.mensxp.com/grooming/hair-removal.html">Hair Removal</a>                                                                <a href="http://www.mensxp.com/grooming/hairfall.html">Hairfall</a>                                                                <a href="http://www.mensxp.com/health/health-conditions.html">Health Conditions</a>                                                                <a href="http://www.mensxp.com/health/healthy-habits.html">Healthy Habits</a>                                                                <a href="http://www.mensxp.com/special-features/horoscope.html">Horoscope</a>                                                                <a href="http://www.mensxp.com/relationships/impress-a-girl.html">Impress a Girl</a>                                                                <a href="http://www.mensxp.com/entertainment/interviews.html">Interviews</a>                                                                <a href="http://www.mensxp.com/special-features/james-bond-lifestyle.html">James Bond Lifestyle</a>                                                                <a href="http://www.mensxp.com/technology/latest.html">Latest</a>                                                                <a href="http://www.mensxp.com/work-life/leadership.html">Leadership</a>                                                                <a href="http://www.mensxp.com/buzz-on-web/lifestyle.html">Lifestyle</a>                                                                <a href="http://www.mensxp.com/relationships/long-distance-relationship.html">Long Distance Relationship</a>                                                                <a href="http://www.mensxp.com/sexuality/marital-sex.html">Marital Sex</a>                                                                <a href="http://www.mensxp.com/relationships/marriage.html">Marriage</a>                                                                <a href="http://www.mensxp.com/gallery/models.html">Models</a>                                                                <a href="http://www.mensxp.com/entertainment/movie-reviews.html">Movie Reviews</a>                                                                </div>
+                                <div class="List">
+                                                                <a href="http://www.mensxp.com/buzz-on-web/news.html">News</a>                                                                <a href="http://www.mensxp.com/special-features/office-politicians.html">Office Politicians</a>                                                                <a href="http://www.mensxp.com/brands/partner.html">Partner</a>                                                                <a href="http://www.mensxp.com/grooming/personal-hygiene.html">Personal Hygiene</a>                                                                <a href="http://www.mensxp.com/technology/portable-media.html">Portable Media</a>                                                                <a href="http://www.mensxp.com/relationships/relationship-problems.html">Relationship Problems</a>                                                                <a href="http://www.mensxp.com/dating/seduction-science.html">Seduction Science</a>                                                                <a href="http://www.mensxp.com/relationships/sex-intimacy.html">Sex &amp; Intimacy</a>                                                                <a href="http://www.mensxp.com/health/sexual-health.html">Sexual Health</a>                                                                <a href="http://www.mensxp.com/sexuality/sexual-positions.html">Sexual Positions</a>                                                                <a href="http://www.mensxp.com/dating/sexuality.html">Sexuality</a>                                                                <a href="http://www.mensxp.com/grooming/shaving.html">Shaving</a>                                                                <a href="http://www.mensxp.com/grooming/skin-care.html">Skin Care</a>                                                                <a href="http://www.mensxp.com/technology/smart-phones.html">Smart Phones</a>                                                                <a href="http://www.mensxp.com/buzz-on-web/sports.html">Sports</a>                                                                <a href="http://www.mensxp.com/health/stress-relief.html">Stress Relief</a>                                                                <a href="http://www.mensxp.com/fashion/style-guide.html">Style Guide</a>                                                                <a href="http://www.mensxp.com/fashion/style-trends.html">Style Trends</a>                                                                <a href="http://www.mensxp.com/special-features/today.html">Today</a>                                                                <a href="http://www.mensxp.com/special-features/top-10.html">Top 10</a>                                                                <a href="http://www.mensxp.com/relationships/understanding-women.html">Understanding Women</a>                                                                <a href="http://www.mensxp.com/IPL-2016.html">IPL 2016</a>                                                                <a href="http://www.mensxp.com/entertainment/cricket/4289-meet-the-ipl-team-owners.html">IPL Team Owners</a>                                                                <a href="http://timesofindia.indiatimes.com/news" rel="nofollow">Latest News- TOI</a>                                                                </div>
+                                <div class="List">
+                                  
+                        </div>
                     </div>
-                </div>                           
-
-                <div class="Catgry our lc">
-                                        <div class="Title">OUR CATEGORIES</div>
-                    <div class="List">          
-                                            <a href="http://www.mensxp.com/gallery/actors.html">Actors</a>
-						                        <a href="http://www.mensxp.com/gallery/actresses.html">Actresses</a>
-						                        <a href="http://www.mensxp.com/health/addiction.html">Addiction</a>
-						                        <a href="http://www.mensxp.com/fine-living/auto.html">Auto</a>
-						                        <a href="http://www.mensxp.com/work-life/balance-work-life.html">Balance Work &amp; Life</a>
-						                        <a href="http://www.mensxp.com/work-life/be-a-better-manager.html">Be a Better Manager</a>
-						                        <a href="http://www.mensxp.com/sexuality/better-bedroom-performance.html">Better Bedroom Performance</a>
-						                        <a href="http://www.mensxp.com/relationships/better-partner.html">Better Partner</a>
-						                        <a href="http://www.mensxp.com/health/body-building.html">Body Building</a>
-						                        <a href="http://www.mensxp.com/relationships/break-ups.html">Break Ups</a>
-						                        <a href="http://www.mensxp.com/work-life/business-skills.html">Business Skills</a>
-						                        <a href="http://www.mensxp.com/work-life/career-growth.html">Career Growth</a>
-						                        <a href="http://www.mensxp.com/entertainment/celeb-trends.html">Celeb Trends</a>
-						                        <a href="http://www.mensxp.com/health/celebrity-fitness.html">Celebrity Fitness</a>
-						                        <a href="http://www.mensxp.com/entertainment/celebrity-photos.html">Celebrity Photos</a>
-						                        <a href="http://www.mensxp.com/health/cure-sleeping-disorders.html">Cure Sleeping Disorders</a>
-						                        <a href="http://www.mensxp.com/dating/dating-tips.html">Dating Tips</a>
-						                        <a href="http://www.mensxp.com/dating/deal-breakers.html">Deal Breakers</a>
-						                        <a href="http://www.mensxp.com/health/diabetes.html">Diabetes</a>
-						                        <a href="http://www.mensxp.com/work-life/entrepreneurship.html">Entrepreneurship</a>
-						                        <a href="http://www.mensxp.com/relationships/fatherhood.html">Fatherhood</a>
-						                        <a href="http://www.mensxp.com/health/fitness.html">Fitness</a>
-						                        <a href="http://www.mensxp.com/dating/flirting-attraction.html">Flirting &amp; Attraction</a>
-						                        <a href="http://www.mensxp.com/sexuality/foreplay.html">Foreplay</a>
-						                            </div>
-                            <div class="List">
-                                                    <a href="http://www.mensxp.com/relationships/friendship.html">Friendship</a>
-						                        <a href="http://www.mensxp.com/technology/gaming.html">Gaming</a>
-						                        <a href="http://www.mensxp.com/work-life/get-better-at-finance.html">Get Better at Finance</a>
-						                        <a href="http://www.mensxp.com/work-life/get-better-at-interviews.html">Get Better at Interviews</a>
-						                        <a href="http://www.mensxp.com/dating/girlfriend-grooming.html">Girlfriend Grooming</a>
-						                        <a href="http://www.mensxp.com/entertainment/gossip.html">Gossip</a>
-						                        <a href="http://www.mensxp.com/grooming/hair-care.html">Hair Care</a>
-						                        <a href="http://www.mensxp.com/grooming/hair-removal.html">Hair Removal</a>
-						                        <a href="http://www.mensxp.com/grooming/hairfall.html">Hairfall</a>
-						                        <a href="http://www.mensxp.com/health/health-conditions.html">Health Conditions</a>
-						                        <a href="http://www.mensxp.com/health/healthy-habits.html">Healthy Habits</a>
-						                        <a href="http://www.mensxp.com/special-features/horoscope.html">Horoscope</a>
-						                        <a href="http://www.mensxp.com/relationships/impress-a-girl.html">Impress a Girl</a>
-						                        <a href="http://www.mensxp.com/entertainment/interviews.html">Interviews</a>
-						                        <a href="http://www.mensxp.com/special-features/james-bond-lifestyle.html">James Bond Lifestyle</a>
-						                        <a href="http://www.mensxp.com/technology/latest.html">Latest</a>
-						                        <a href="http://www.mensxp.com/work-life/leadership.html">Leadership</a>
-						                        <a href="http://www.mensxp.com/buzz-on-web/lifestyle.html">Lifestyle</a>
-						                        <a href="http://www.mensxp.com/relationships/long-distance-relationship.html">Long Distance Relationship</a>
-						                        <a href="http://www.mensxp.com/sexuality/marital-sex.html">Marital Sex</a>
-						                        <a href="http://www.mensxp.com/relationships/marriage.html">Marriage</a>
-						                        <a href="http://www.mensxp.com/gallery/models.html">Models</a>
-						                        <a href="http://www.mensxp.com/entertainment/movie-reviews.html">Movie Reviews</a>
-						                        <a href="http://www.mensxp.com/buzz-on-web/news.html">News</a>
-						                            </div>
-                            <div class="List">
-                                                    <a href="http://www.mensxp.com/special-features/office-politicians.html">Office Politicians</a>
-						                        <a href="http://www.mensxp.com/brands/partner.html">Partner</a>
-						                        <a href="http://www.mensxp.com/grooming/personal-hygiene.html">Personal Hygiene</a>
-						                        <a href="http://www.mensxp.com/technology/portable-media.html">Portable Media</a>
-						                        <a href="http://www.mensxp.com/relationships/relationship-problems.html">Relationship Problems</a>
-						                        <a href="http://www.mensxp.com/dating/seduction-science.html">Seduction Science</a>
-						                        <a href="http://www.mensxp.com/relationships/sex-intimacy.html">Sex &amp; Intimacy</a>
-						                        <a href="http://www.mensxp.com/health/sexual-health.html">Sexual Health</a>
-						                        <a href="http://www.mensxp.com/sexuality/sexual-positions.html">Sexual Positions</a>
-						                        <a href="http://www.mensxp.com/dating/sexuality.html">Sexuality</a>
-						                        <a href="http://www.mensxp.com/grooming/shaving.html">Shaving</a>
-						                        <a href="http://www.mensxp.com/grooming/skin-care.html">Skin Care</a>
-						                        <a href="http://www.mensxp.com/technology/smart-phones.html">Smart Phones</a>
-						                        <a href="http://www.mensxp.com/buzz-on-web/sports.html">Sports</a>
-						                        <a href="http://www.mensxp.com/health/stress-relief.html">Stress Relief</a>
-						                        <a href="http://www.mensxp.com/fashion/style-guide.html">Style Guide</a>
-						                        <a href="http://www.mensxp.com/fashion/style-trends.html">Style Trends</a>
-						                        <a href="http://www.mensxp.com/special-features/today.html">Today</a>
-						                        <a href="http://www.mensxp.com/special-features/top-10.html">Top 10</a>
-						                        <a href="http://www.mensxp.com/relationships/understanding-women.html">Understanding Women</a>
-						                        <a href="http://www.mensxp.com/technology/web-social.html">Web &amp; Social</a>
-						                        <a href="http://www.mensxp.com/IPL-2016.html">IPL 2016</a>
-						                        <a href="http://www.mensxp.com/entertainment/cricket/4289-meet-the-ipl-team-owners.html">IPL Team Owners</a>
-						                        <a href="http://timesofindia.indiatimes.com/news">Latest News- TOI</a>
-						                            </div>
-                            <div class="List">
-                              
-                    </div>
-                </div>
-                <div class="Catgry lc">
-                    <div class="Title">OUR LINKS</div>
+                    <div class="Catgry lc">
+                        <div class="Title">OUR LINKS</div>
 <div class="List"><a href="http://www.mensxp.com/contact-us.html">Contact Us</a> <a href="http://www.mensxp.com/about-us.html">About Us</a> <a href="http://www.mensxp.com/advertise-with-us.html">Advertise with us</a> <a href="http://www.mensxp.com/privacy-policy.html">Privacy Policy</a> <a href="http://www.mensxp.com/terms-of-use.html">Terms &amp; Conditions</a> <a href="http://www.mensxp.com/sitemap.html">Sitemap</a> <a href="http://www.mensxp.com/authors.html">Authors</a> <a href="http://www.mensxp.com/sports.html">Sports</a> <a href="http://www.mensxp.com/fine-living.html">Fine Living</a> <a href="http://www.mensxp.com/gallery.html">Gallery</a> <a href="http://www.mensxp.com/special-features.html">Special Features</a> <a href="http://www.mensxp.com/buzz-on-web.html">Buzz on web</a> <a href="http://www.mensxp.com/topic.html">Topics</a></div>
 <p>&nbsp;</p>
 <div class="Title">LINKS FROM NETWORK</div>
-<div class="List"><a href="http://timesofindia.indiatimes.com/techgadget/Micromax" target="_blank">Micromax Mobiles</a> <a href="http://timesofindia.indiatimes.com/techgadget/Motorola" target="_blank">Motorola Mobiles</a> <a href="http://romedynow.com" target="_blank">Romedy Now</a> <a href="http://www.happytrips.com/destinations/the-top-10-honeymoon-destinations-in-india/ss30279112.cms" target="_blank">Honeymoon Destinations in India</a> <a href="http://www.happytrips.com/destinations" target="_blank">Travel Destinations</a> <a href="http://www.happytrips.com/hotels" target="_blank">Hotels</a> <a href="http://timesofindia.indiatimes.com/techgadget/Samsung" target="_blank">Samsung Mobiles</a> <a href="http://www.astrospeak.com/sun-sign/prediction/daily" target="_blank">Daily Horoscope</a> <a href="http://www.astrospeak.com/sun-sign/aries/" target="_blank">Aries Horoscope</a> <a href="http://timesofindia.indiatimes.com/techgadget/Apple" target="_blank">Apple Mobile Phones</a></div>                </div>
-            </div>
+<div class="List"><a href="http://timesofindia.indiatimes.com/techgadget/Micromax" target="_blank" rel="nofollow">Micromax Mobiles</a> <a href="http://timesofindia.indiatimes.com/techgadget/Motorola" target="_blank" rel="nofollow">Motorola Mobiles</a> <a href="http://romedynow.com" target="_blank" rel="nofollow">Romedy Now</a> <a href="http://www.happytrips.com/destinations/the-top-10-honeymoon-destinations-in-india/ss30279112.cms" target="_blank" rel="nofollow">Honeymoon Destinations in India</a> <a href="http://www.happytrips.com/destinations" target="_blank" rel="nofollow">Travel Destinations</a> <a href="http://www.happytrips.com/hotels" target="_blank" rel="nofollow">Hotels</a> <a href="http://timesofindia.indiatimes.com/techgadget/Samsung" target="_blank" rel="nofollow">Samsung Mobiles</a> <a href="http://www.astrospeak.com/sun-sign/prediction/daily" target="_blank" rel="nofollow">Daily Horoscope</a> <a href="http://www.astrospeak.com/sun-sign/aries/" target="_blank" rel="nofollow">Aries Horoscope</a> <a href="http://timesofindia.indiatimes.com/techgadget/Apple" target="_blank" rel="nofollow">Apple Mobile Phones</a></div>                    </div>
+                </div>
 
-            <div class="Footerlinks">
-                <div class="logoNav blk">
-                    <div class="LogoFoot lc">
-                        <a href="http://www.mensxp.com" class="logo lc"> <span> </span> </a>
-                        <div class="lc CompDtl">INDIA’S LARGEST MEN’S LIFESTYLE WEBSITE</div>
-                    </div>
-                    <div class="NavFoot lc">
-                        <div class="Title">Our Channels</div>
-                        <nav class="NavLinks ga-block ga-entity" data-ga_action="Top Menu" data-ga_label="Main Menu">
+                <div class="Footerlinks">
+                    <div class="logoNav blk">
+                        <div class="LogoFoot lc">
+                            <a href="http://www.mensxp.com" class="logo lc"> <span> </span> </a>
+                            <div class="lc CompDtl">INDIA’S LARGEST MEN’S LIFESTYLE WEBSITE</div>
+                        </div>
+                        <div class="NavFoot lc">
+                            <div class="Title">Our Channels</div>
+                            <nav class="NavLinks ga-block ga-entity" data-ga_action="Top Menu" data-ga_label="Main Menu">
     <a href="http://www.mensxp.com" class="home"><span>Home</span></a>
     <a href="http://www.mensxp.com/health.html" class="health " id="health"><span>Health</span></a>    
     <a href="http://www.mensxp.com/relationships.html" class="relationship " id="relationship"><span>relationships</span></a>
@@ -674,37 +625,27 @@ function megaMenuCallBack(data,container)
     <a href="http://www.mensxp.com/work-life.html" class="worklife " id="worklife"><span>Power &amp; Money</span></a>
     <a href="http://www.mensxp.com/technology.html" class="technology " id="technology"><span>Technology</span></a>
     <a href="http://www.mensxp.com/entertainment.html" class="entertainment " id="entertainment"><span>Entertainment</span></a>
-</nav>
-<style>
-@-moz-document url-prefix() {
-  #gillette { right:123px !important; }
-}
-.rebuilt-wrap:hover #gillette
-{
-	display:block;
-}
-#isayyes{text-transform:none;}
-#gillette{position:absolute; z-index:1009; right:119px; top:46px; background-color:#252525; padding:0px 0px; display:none; border-top: 1px solid #000;}
-</style>					                  
+</nav>					                  
+                        
+                        </div>
                     </div>
-                </div>
 
-                <div class="CopyRight blk">
-                    <div class="rc Rights">All Rights Reserved                        
-                        | <a href="http://www.mensxp.com/terms-of-use.html">Terms &amp; Conditions</a>                        
-                        | <a href="http://www.mensxp.com/privacy-policy.html">Privacy Policy</a>                        
+                    <div class="CopyRight blk">
+                        <div class="rc Rights">All Rights Reserved                        
+                            | <a href="http://www.mensxp.com/terms-of-use.html">Terms &amp; Conditions</a>                        
+                            | <a href="http://www.mensxp.com/privacy-policy.html">Privacy Policy</a>                        
+                        </div>
+                        <div class="lc Copy"> © 2009 - 2016 TIMES INTERNET LIMITED &nbsp; | &nbsp; MENSXP IS A PART OF INDIATIMES LIFESTYLE NETWORK</div>
                     </div>
-                    <div class="lc Copy"> © 2009 - 2016 TIMES INTERNET LIMITED &nbsp; | &nbsp; MENSXP IS A PART OF INDIATIMES LIFESTYLE NETWORK</div>
                 </div>
             </div>
         </div>
-    </div>
-</footer>	
-    
+    </footer>	
+
     <div class="joinNotification" id="joinNotification" style="display: none;">
-    <a href="javascript:;" class="clsBtn rc" onclick="$(this).parent('#joinNotification').slideUp(500);">x</a>
-    <div class="inWrap">    
-    </div>
+        <a href="javascript:;" class="clsBtn rc" onclick="$(this).parent('#joinNotification').slideUp(500);">x</a>
+        <div class="inWrap">    
+        </div>
     </div>
 
     <div class="flyStar"></div>
@@ -811,14 +752,14 @@ body > img{
         return _tkr_SETUP;
     }
 
-</script>        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.lazyload.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/comments.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/plugins.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.jscrollpane.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.mousewheel.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/js.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/overlay_content.min.js?v=18.6"></script>
-        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/bottom_common.min.js?v=18.6"></script>
+</script>        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.lazyload.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/comments.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/plugins.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.jscrollpane.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/vendor/jquery.mousewheel.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/js.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/overlay_content.min.js?v=19.6"></script>
+        <script type="text/javascript" src="http://media.mensxp.com/resources/theme_migration/js/bottom_common.min.js?v=19.6"></script>
 
 <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script> 
 <script type="text/javascript">      
@@ -911,12 +852,10 @@ body > img{
         }
         
     </script>
-<!-- BOF of Lotame code -->
-<script src="http://tags.crwdcntrl.net/c/2821/cc.js?ns=_cc2821" id="LOTCC_2821"></script> 
-<script> 
-  _cc2821.bcp(); 
-</script>
-<!-- EOF of Lotame code -->
+
+
+<!-- DMP SCRIPT Added--->
+<script src="http://static.clmbtech.com/ase/2312/32/aa.js" type="text/javascript"></script>
         
                 
 </body></html>
