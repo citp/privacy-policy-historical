@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406144355id_/http%3A//www.toboc.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217141756id_/http%3A//www.toboc.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Toboc.com Privacy Policy, Global B2B Portal, International Business Directory Services
 
@@ -47,9 +47,10 @@ Email address: [anne.francis@toboc.com](mailto:anne.francis@toboc.com) ________
   * **Feedback:**  
 If you have any questions/feedback, you can contact us at:  
 TOBOC B2B MARKETPLACE INDIA PVT LTD  
-R. K. Chambers,  
-No.37-1/1 Aga Abbas Ali Road,  
-Ulsoor, Bangalore – 560 042, India  
+CPB Complex, #749, 1st A Cross,  
+Krishna Temple Road,  
+Indiranagar 1st Stage,  
+Bangalore – 560 038, India  
 Email: [info@toboc.com](mailto:info@toboc.com)  
 _________________________________________________________________________________________________________________________________________
 
