@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002537id_/http%3A//services.prmac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217122757id_/http%3A//services.prmac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to prMac, a service brought to you by GeekSuit LLC. This policy concerns the use of the prMac website at http://prmac.com. We respect and take care to maintain your privacy. prMac does not share or sell information with any other organization for commercial purposes, except to provide the service you've requested of us.
+Welcome to prMac, a service brought to you by GeekSuit LLC. This policy concerns the use of the prMac website at https://prmac.com. We respect and take care to maintain your privacy. prMac does not share or sell information with any other organization for commercial purposes, except to provide the service you've requested of us.
 
 You must be 18 years of age or older to use prMac service and this privacy policy makes no provision for use of the site by those younger.
 
