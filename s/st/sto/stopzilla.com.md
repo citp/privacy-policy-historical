@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402013648id_/https%3A//www.stopzilla.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopzilla.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217085401id_/https%3A//www.stopzilla.com/about/privacy.php) for the most accurate reproduction.*
 
 # STOPzilla Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **http://www.stopzilla.com**  
 Effective Date: 04th of October 2010  
-Last Edited: 23rd of March 2014 
+Last Edited: 17th of November 2016 
 
 #### iS3 Privacy Statement
 
@@ -26,7 +26,20 @@ iS3 is committed to protecting your personal information! When you use our sites
 
 #### Cookies:
 
-Cookies are small text files that most Web sites, including iS3, place on your computer. Cookies help us identify the current state of the iS3 application(s) as well as when and where you heard about such application(s). iS3 does not use cookies to track your activities on the Web outside of our sites. No cookie delivered by us will interfere with the operation of your computer.
+Cookies are small files—usually consisting of letters and numbers—placed on your computer, tablet, phone, or similar device, when you use that device to visit a web site. Cookies are widely used by web site owners, including iS3, to make their web sites operate, work more efficiently, and provide analytic information.
+
+We use different types of “cookies”:
+
+  * \- Third party cookies
+  * \- First party cookies
+  * \- Social plug-in tracking cookies
+
+
+
+We use these types of cookies and widgets from our partners and popular social networks to improve your visit experience on our websites. If you are concerned about this, you can disable third-party cookies in your browser settings.
+
+**Social Networks Widget Tracking**  
+For not being tracked by social media widgets, log out of all social networks you're logged in to before visiting our website.
 
 #### Shared Information:
 
