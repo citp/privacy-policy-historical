@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610122102id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217041638id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
 
 # About Us
 
@@ -37,6 +37,4 @@ You can review the personal information you provided us and make any desired cha
 **Changes to this Privacy Policy**  
 NyFifth may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your NyFifth account or by displaying a prominent notice on this site.   
 **Questions or Comments**  
-If you have questions or comments about this privacy policy, please email us at [privacy@NyFifth.com](mailto:privacy@NyFifth.com).   
-  
-Free Domestic Shipping Over $200 For Blank Apparel 100% Satisfaction Guarantee Online Shipment Tracking 
+If you have questions or comments about this privacy policy, please email us at [privacy@NyFifth.com](mailto:privacy@NyFifth.com). 
