@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiptoptens.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614225406id_/http%3A//www.tiptoptens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptoptens.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217072958id_/http%3A//www.tiptoptens.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TipTopTens.com
+# Privacy Policy - Tip Top Tens.com
 
 **Privacy Policy**
 
