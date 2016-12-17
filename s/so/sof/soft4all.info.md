@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft4all.info privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610044742id_/http%3A//soft4all.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4all.info privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217115918id_/http%3A//soft4all.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Software for All
 
