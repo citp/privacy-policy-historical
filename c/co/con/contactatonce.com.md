@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506015100id_/http%3A//www.contactatonce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217073441id_/http%3A//www.contactatonce.com/privacy) for the most accurate reproduction.*
 
 # Contact At Once! Privacy Policy
 
