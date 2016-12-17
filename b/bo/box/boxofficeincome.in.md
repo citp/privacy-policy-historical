@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625014513id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficeincome.in privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217065934id_/http%3A//boxofficeincome.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Box Office Income | Box Office Income
+# Privacy Policy- Box Office Income
 
 **BoxOfficeIncome.in** has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
