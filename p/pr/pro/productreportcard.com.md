@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823093244id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreportcard.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217175509id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.*
 
 # Product Report Card Privacy Policy
 
-## Privacy PolicyUpdated July 8, 2014
-
-Thank you for visiting www.productreportcard.com (the "Website"). This privacy policy (the "Privacy Policy") is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms of Use available at [http://www.productreportcard.com/terms-of-use](https://web.archive.org/terms-of-use) describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of this Privacy Policy.
+Thank you for visiting www.productreportcard.com (the "Website"). This privacy policy (the "Privacy Policy") is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms of Use available at [/terms-of-use](https://web.archive.org/terms-of-use) describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of this Privacy Policy.
 
 In order to use the Website to and surveys and earn rewards, you will need to create an account. To set up an account, we will collect several personally identifiable information ("Personal Information"). We may also collect certain indirect and/or aggregate information as a result of your use of, and interaction with, the Website ("Usage Information").
 
