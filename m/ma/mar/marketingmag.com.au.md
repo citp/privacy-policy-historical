@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518130345id_/https%3A//www.marketingmag.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217122145id_/https%3A//www.marketingmag.com.au/privacy_policy) for the most accurate reproduction.*
 
 # privacy_policy | Marketing Magazine
 
@@ -8,7 +8,7 @@ At Marketing we understand that privacy is important, and we’ve created this p
 
 We revaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
-Privacy Officer Niche Media Pty Ltd. 142 Dorcas Street South Melbourne VIC 3205 AUSTRALIA
+Privacy Officer Niche Media Pty Ltd. 1 Queens Rd, Melbourne VIC 3004 AUSTRALIA
 
 Or to [websupport@niche.com.au](mailto:%20websupport@niche.com.au)
 
