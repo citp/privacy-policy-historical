@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nicorgas.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326092747id_/https%3A//www.nicorgas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicorgas.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217070521id_/https%3A//www.nicorgas.com/privacy-policy) for the most accurate reproduction.*
 
-# NicorGas - Privacy Policy
+# Privacy Policy
 
 We respect your privacy and are committed to keeping confidential any personal information you share with us. Please read this privacy policy statement carefully. It covers the collection, use, disclosure, and protection of information that we collect about individuals through this website. This statement does not apply to those of our websites or portions of our websites that do not display or link to this privacy policy statement or that have their own privacy policy statement. 
 
@@ -74,7 +74,6 @@ Any personal information you provide us when applying for a career position with
 **If you have any questions or concerns about this privacy policy statement, please email us at [privacy@aglresources.com](mailto:privacy@aglresources.com). You can also reach us by regular mail or fax at: 
 
 Privacy Officer   
-AGL Resources Inc.   
 Ten Peachtree Place, Location #1470   
 Atlanta, GA 30309   
 Fax: **404.584.3714**
