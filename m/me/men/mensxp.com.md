@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526081319id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217220205id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
