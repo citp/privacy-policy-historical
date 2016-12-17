@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625033954id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217083254id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nykaa
 
@@ -106,5 +106,9 @@ However, we shall not be liable to any user for any loss, damage (whether direct
 
 **Phone:** +91 9222 20 1010
 
-**Contact Days:** Monday to Saturday (8:00 a.m. to 10:00 p.m.)   
-                        Sunday (10.00 a.m. to 6.00 p.m.)
+**Contact Days:**
+
+  * Monday to Saturday (8:00 a.m. to 10:00 p.m.)
+  * Sunday (10.00 a.m. to 6.00 p.m.)
+
+
