@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zypog.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625144533id_/http%3A//www.zypog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zypog.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217033105id_/http%3A//www.zypog.com/privacy) for the most accurate reproduction.*
 
 # Free Prepaid Mobile recharge | Free online Recharge | Free Talk time
 
