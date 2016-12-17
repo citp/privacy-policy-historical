@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524034625id_/http%3A//www.ebookrenta.com/renta/sc/frm/page/help/security_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217111145id_/http%3A//www.ebookrenta.com/renta/sc/frm/page/help/security_1.htm) for the most accurate reproduction.*
 
 # Renta! - Protection of Personal Information and Security Measures
 
@@ -43,5 +43,15 @@ We may send e-mails to the customer's e-mail address to provide information such
 We may use cookies in this website to identify our customers' computers.  
 The cookies used in this website do not retain data related to personal information. We provide pertinent protection for data that combine information collected with cookies and personal information, in accordance with our personal information protection policy.  
 Customers can disable cookies on their computers, but they may not be able to use all or parts of the services provided in this website.
+
+We use cookies on this site for the following purposes:  
+\- For providing a customized service for each individual when logged in by referencing the information registered.  
+\- For serving the most relevant advertising banners to you on other sites based on your preferences and how you use our site.  
+\- For tracking the number of users and traffic to our site.  
+\- For improving our service.  
+Furthermore, there are times when cookies belonging to our site are saved through third party sites that are consigned to serve our advertising banners. 
+
+  
+
 
 * * *
