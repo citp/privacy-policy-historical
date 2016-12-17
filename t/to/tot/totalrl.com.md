@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104922id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217190300id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest News. Match Results. What the fans are predicting. Everything you need to know about what's happening in Rugby League today. Take a look here!
 
