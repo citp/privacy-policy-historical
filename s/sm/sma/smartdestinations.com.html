@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartdestinations.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623023200id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartdestinations.com privacy policy that was archived on 2016-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161217081005id_/http%3A//www.smartdestinations.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -21,7 +21,7 @@
 	<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 
-	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi.1456760405825.css">
+	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi.1479487869641.css">
 	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6074072/789784/css/fonts.css">
 
 	
@@ -33,11 +33,11 @@
 
 
 	<!--[if (lte IE 8) & (!IEMobile)]>
-	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi_ie8.1456760405825.css"/>
+	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi_ie8.1479487869641.css"/>
 	<![endif]-->
 
 	<!--[if (IE 9) & (!IEMobile)]>
-	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi_ie9.1456760405825.css"/>	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/template-resources/css/build/sdi_ie9.1479487869641.css"/>	<![endif]-->
 
 	<!--[if lt IE 9]>
 		<script src="/template-resources/js/vendor/utilities/html5shiv.min.js"></script>
@@ -142,12 +142,82 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-	<div class="site-header" id="site-header">
+
+		<script>
+		function showCookieNotice(){
+			$('.js-cookie-banner').show();
+			_.delay(function(){
+				$('.js-cookie-banner').removeClass('hidden');
+			}, 500);
+		}
+		function showCookiesAreDisabledNotice(){
+			$('.js-cookies-turned-off-banner').show();
+			_.delay(function(){
+				$('.js-cookies-turned-off-banner').removeClass('hidden');
+			}, 500);
+		}
+		function hideCookieNotice(button){
+			var cookieBanner = $(button).parent().addClass('hidden');
+			_.delay(function(){ cookieBanner.hide(); }, 500);
+			jQuery.cookie( 'cookieNoticeHidden', true, {path:'/'} );
+		}
+		var countries = ['BE','EL','LT','PT','BG','ES','LU','RO','CZ','FR','HU','SI','DK','HR','MT','SK','DE','IT','NL','FI','EE','CY','AT','SE','IE','LV','PL','UK'];
+		jQueryReady(function(){
+			jQuery.ajax({
+				url: 'http://ip-api.com/json'
+			}).then(function(ipData){
+				if ( countries.indexOf(ipData.countryCode) > -1 ){
+					if ( !jQuery.cookie('cookieNoticeHidden') ){
+						jQuery.cookie( 'testCookie', true, {path:'/'} );
+						if ( jQuery.cookie('testCookie') ){
+							showCookieNotice();
+						}
+						else {
+							showCookiesAreDisabledNotice();
+						}
+					}
+				}
+			});
+		});
+	</script>
+	<div class="cookie-banner js-cookie-banner hide hidden">
+		By using our services, you agree to use our cookies.
+		<br>
+		We use cookies to support site features, analyze web traffic, and share anonymous user browsing activity with our advertising and analytics partners.
+		<a href="/privacy.html" target="_blank">Learn more</a>
+		<button type="button" class="close" onclick="hideCookieNotice(this)">
+			<span aria-hidden="true">×</span>
+			<span class="sr-only">close</span>
+		</button>
+	</div>
+	<div class="cookie-banner js-cookies-turned-off-banner hide hidden">
+		Your browser's cookie functionality seems to be turned off.
+		<br>
+		By using our services, you agree to use our cookies.
+		<br>
+		We use cookies to support site features, analyze web traffic, and share anonymous user browsing activity with our advertising and analytics partners.
+		<br>
+		In order to purchase our products, you'll need to turn cookies back on.
+		<a href="/privacy.html" target="_blank">Learn more</a>
+		<button type="button" class="close" onclick="hideCookieNotice(this)">
+			<span aria-hidden="true">×</span>
+			<span class="sr-only">close</span>
+		</button>
+	</div>
+
+
+		<div class="site-header" id="site-header">
 		<a class="nav-btn open-btn" id="nav-open-btn" href="#navmenu">Menu</a>
 		<div class="utility-nav wrap_fullwidth" id="top">
 	    	<div class="wrap">
 		    	<span class="utility-nav--corporate" style="padding-left: 120px;">A division of Smart Destinations</span><!--
 
+			## temporary holiday gifting promo in nav
+	     	--><div class="utility-nav--item holiday-gifting sm-down-hide-from-view sl_hide"><!--
+	     	--><a href="/dialog/gifts/pt_gifting.html" data-toggle="modal" data-target="#reusableModal" data-track-category="Gifting" data-track-label="Text Black Nav" data-title="The Gift of Go City Card" title="Give Fun Experiences!"><!--
+	    	--><span class="icon-star"></span> <span class="pr" style="color: #ED1944">Holiday Gifting</span></a></div><!--
+
+	    	
     		 --><div class="utility-nav--item utility-nav--item_cs">
 		    		<a href="/contact.html#callUs">Need help? Contact Us</a>
 	    		</div><!--
@@ -159,7 +229,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<li class="sdi-dropdown--menu--item"><a href="/boston-attractions-and-tours/_d_Bos-p1.html?pass=Bos_Prod_Go" role="menuitem" tabindex="-1">Boston</a></li>
 							<li class="sdi-dropdown--menu--item"><a href="/chicago-attractions-and-tours/_d_Chi-p1.html?pass=Chi_Prod_Go" role="menuitem" tabindex="-1">Chicago</a></li>
 							<li class="sdi-dropdown--menu--item"><a href="/las-vegas-attractions-and-tours/_d_Las-p1.html?pass=Las_Prod_Exp" role="menuitem" tabindex="-1">Las Vegas</a></li>
-							<li class="sdi-dropdown--menu--item"><a href="/london/_d_Lon-p1.html?pass=Lon_Prod_Exp&amp;allInc=true&amp;currency=GBP" role="menuitem" tabindex="-1">London</a></li>
+							<li class="sdi-dropdown--menu--item"><a href="/london/_d_Lon-p1.html?pass=Lon_Prod_Exp" role="menuitem" tabindex="-1">London</a></li>
 							<li class="sdi-dropdown--menu--item"><a href="/los-angeles-attractions-and-tours/_d_Lax-p1.html?pass=Lax_Prod_Go" role="menuitem" tabindex="-1">Los Angeles</a></li>
 							<li class="sdi-dropdown--menu--item"><a href="/miami-attractions-and-tours/_d_Mia-p1.html?pass=Mia_Prod_Go" role="menuitem" tabindex="-1">Miami</a></li>
 							<li class="sdi-dropdown--menu--item"><a href="/new-york-attractions-and-tours/_d_Nyc-p1.html?pass=Nyc_Prod_Exp" role="menuitem" tabindex="-1">New York</a></li>
@@ -202,7 +272,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			    	</form>
 				</li>
 			</ul>
-		</div>
+		</div><!--## temporary holiday gifting promo in nav
+                  --><div class="utility-nav--item holiday-gifting md-up-hide-from-view sl_hide align-center"><!--
+                  --><a href="/dialog/gifts/pt_gifting.html" data-toggle="modal" data-target="#reusableModal" data-track-category="Gifting" data-track-label="Text Black Nav" data-title="The Gift of Go City Card" title="Give Fun Experiences!"><!--
+                  --><span class="icon-star"></span> <span class="pr" style="color: #ED1944">Holiday Gifting</span></a></div>
 	</div>
 
 			</div>
@@ -325,24 +398,52 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div><!-- /.wrap -->
 
-<div class="footer hFont_normal prose" id="loc-footer">
-	<div class="footer--inner wrap" id="loc-supLinks">
+<section class="footer hFont_normal prose">
+
+    <!-- ##BOF: temporary gifting banner -->
+        <div class="footer--gifting-promo g-group g-group-md_row">
+            <div class="md-3-12 align-center footer--gifting-promo-baubles sm-down-hide-from-all">
+                <img src="/gift/three-baubles-white-bg.png" alt="">
+            </div>
+            <div class="g-group-lg_row md-9-12 g-group_align-center">
+                <div class="sm-12-12 lg-9-12 align-left ">
+                    <p class="gift-promo--heading font-large">Think Outside the Gift Box</p>
+                    <p>Send them to a museum, on a tour, to a theme park, and more.
+                    </p><p class="gift-promo-red">Delivered instantly by email or printable cards.</p>
+                </div>
+                <div class="sm-12-12 lg-3-12 pb">
+                    <a href="/dialog/gifts/pt_gifting.html" class="btn" data-toggle="modal" data-target="#reusableModal" data-track-category="Gifting" data-track-label="Footer Banner" data-title="The Gift of Go City Card" title="Give Fun Experiences!">
+                        GIFT EXPERIENCES &gt;
+                    </a>
+                </div>
+            </div>
+		</div>
+	<!-- ##end gifting promo -->
+	<style>
+	.gifting-page .footer--gifting-promo {
+	    display: none !important;
+	}
+
+	</style>
+
+	<div class="footer--inner wrap">
 		<div class="g-group g-group-md_row">
 			<div class="footer--primary md-8-12 md-order-3">
 				<div class="footer--guarantee">
 					<div class="footer-icon">
-						<img src="/img/icons/shield-ko.png" alt="Guarantee icon">
+						<div aria-hidden="true" class="icon-guarantee-shield"></div>
 					</div>
 					<div class="mbXL prose">
-						   	<h2 class="mt0">Risk Free Guarantee</h2>
-						   	<p>If for any reason you don't activate your pass within a year of purchase, we'll give you a full refund. No questions asked. <a href="/dialog/satisfaction.html" id="loc-guarantee-sidebar" data-toggle="modal" data-target="#reusableModal" data-title="Risk-Free Guarantee" title="Risk-Free Guarantee">Learn more.</a></p>
+					   	<h2 class="mt0">Risk Free Guarantee</h2>
+					   	<p>Our Risk Free Guarantee gives you one year from your purchase date to return any non-activated passes for a full refund.
+					   	 <a href="/dialog/satisfaction.html" data-toggle="modal" data-target="#reusableModal" data-title="Risk-Free Guarantee" title="Risk-Free Guarantee">&nbsp;Learn more.</a></p>
 					</div>
 				</div>
 
 				<div class="g-group g-group-sm_row">
 					<div class="sm-6-12">
 						<h2>GO City Card Destinations</h2>
-						<ul class="footer-linklist sm-type-columns_2" id="loc-footer_productLinks">
+						<ul class="footer-linklist sm-type-columns_2">
 							<li><a href="/boston-attractions-and-tours/_d_Bos-p1.html?pass=Bos_Prod_Go" title="Boston attractions and tours">Boston</a></li>
 							<li><a href="/chicago-attractions-and-tours/_d_Chi-p1.html?pass=Chi_Prod_Go" title="Chicago attractions and tours">Chicago</a></li>
 							<li><a href="/las-vegas-attractions-and-tours/_d_Las-p1.html?pass=Las_Prod_Exp" title="Las Vegas attractions and tours">Las Vegas</a></li>
@@ -381,11 +482,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 				<div>
 					<!-- Brand USA-->
-					<a href="http://www.discoveramerica.com" rel="nofollow" class="inline-block mr" style="vertical-align:top"><img src="/img/attr-logos/brand-usa-ko.png"></a>
+					<a href="http://www.discoveramerica.com" rel="nofollow" class="inline-block mr" style="vertical-align:top">
+						<img src="/img/attr-logos/brand-usa-ko.png" alt="Badge for partnership with Brand, USA">
+					</a>
 
 					<!-- BBB -->
 					<a href="https://www.bbb.org/boston/business-reviews/travel-agencies-and-bureaus/smart-destinations-inc-in-boston-ma-98103/#bbbonlineclick" class="inline-block" style="vertical-align:top; margin-right: 10px">
-						<img src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/98103/H2/0/seal.png" alt="BBB Business Review">
+						<img class="lazy" src="https://ourbbbonline2.bbb.org/Boston/BBBOnlineSeal/98103/H2/0/seal.png" alt="BBB Business Review">
 					</a>
 				</div>
 
@@ -394,10 +497,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 			<div class="footer--community md-3-12 md-order-1">
-				<div class="sl_hide">
+				<div class="sl_hide js-email-signup">
 					<h2 class="mt0">Sign Up and Save $10*</h2>
 					<p class="small">*Valid for All-Inclusive and Explorer purchases over $250</p>
-						<form class="newsletter-form" action="http://email.smartdestinations.com/public/webform/process/" method="post">
+						<form class="newsletter-form" data-listid="0bce03ec00000000000000000000000c1350" action="http://email.smartdestinations.com/public/webform/process/" method="post">
 						    <input type="hidden" name="fid" value="6apjdbtr3bvip90f20l6i1i2en942">
 						    <input type="hidden" name="sid" value="2652bef7e9c164c74b29babc48741c69">
 						    <input type="hidden" name="delid" value="">
@@ -412,7 +515,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						            <div class="email field_block">
 						                <div class="field">
 						                    <span>
-						                    <input type="text" class="text field fb-email" size="35" name="51789" value="" style="width:100%;" placeholder="Enter your email">
+					                    	<label class="sr-only" for="newsletterSignup_footer">Email address for newsletter</label>
+						                    <input type="text" class="text field fb-email" size="35" id="newsletterSignup_footer" name="51789" value="" style="width:100%;" placeholder="Enter your email" title="Sign up for our newsletter and get extra discounts">
 						                    </span>
 						                    <div class="field_error"></div>
 						                </div>
@@ -436,18 +540,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						    Join our email list and receive exclusive promotions, offers, travel tips, and more.
 						    <a href="/dialog/privacy.html" title="Privacy Policy" rel="nofollow" data-toggle="modal" data-target="#reusableModal" data-title="Zero Spam Policy">Zero spam policy</a>
 						</p>
-
 				</div>
 
 				<div class="goCommunity">
-					<ul data-track="externallinks">
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="facebook"><a href="http://www.facebook.com/smart-destinations" target="_blank" data-category="social" data-action="social profile click" data-label="Facebook"><i class="icon-facebook"></i></a></div></li>
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="twitter"><a href="https://twitter.com/gocitycard" target="_blank" data-category="social" data-action="social profile click" data-label="Twitter"><i class="icon-twitter"></i></a></div></li>
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="google-plus"><a href="https://plus.google.com/109759809443943040454?rel=author" target="_blank" data-category="social" data-action="social profile click" data-label="Google+"><i class="icon-google-plus"></i></a></div></li>
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="youtube"><a href="http://www.youtube.com/user/smartdestinations" target="_blank" data-category="social" data-action="social profile click" data-label="YouTube"><i class="icon-youtube"></i></a></div></li>
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="pinterest"><a href="http://pinterest.com/gocitycard/" target="_blank" data-category="social" data-action="social profile click" data-label="Pinterest"><i class="icon-pinterest"></i></a></div></li>
-						<li class="footer-social-icon"><div class="footer-social-icon--bg" id="instagram"><a href="https://instagram.com/smartdestinations/" target="_blank" data-category="social" data-action="social profile click" data-label="Instagram"><i class="icon-instagram"></i></a></div></li>
-					</ul>
+					<ul class="row" data-track="externallinks">
+				        <li class="social-icon">
+				            <a class="social-icon--link color-facebook" title="Facebook" id="facebook" href="http://www.facebook.com/smart-destinations" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Facebook" data-action="social profile click" data-label="Facebook">
+				                <span aria-hidden="true" class="icon-facebook"></span>
+				                <span class="sr-only">Facebook</span>
+				            </a>
+				        </li>
+				        <li class="social-icon">
+				            <a class="social-icon--link color-twitter" title="Twitter" id="twitter" href="https://twitter.com/gocitycard" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Twitter" data-action="social profile click" data-label="Twitter">
+				            <span aria-hidden="true" class="icon-twitter"></span>
+				                <span class="sr-only">Twitter</span>
+				            </a>
+				        </li>
+				        <li class="social-icon">
+				            <a class="social-icon--link color-google-plus" title="Google+" id="google-plus" href="https://plus.google.com/109759809443943040454?rel=author" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Google+" data-action="social profile click" data-label="Google+">
+				            <span aria-hidden="true" class="icon-google-plus"></span>
+				                <span class="sr-only">Google Plus</span>
+				            </a>
+				        </li>
+				        <li class="social-icon">
+				            <a class="social-icon--link color-youtube" title="YouTube" id="youtube" href="http://www.youtube.com/user/smartdestinations" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Youtube" data-action="social profile click" data-label="Youtube">
+				            <span aria-hidden="true" class="icon-youtube"></span>
+				                <span class="sr-only">YouTube</span>
+				            </a>
+				        </li>
+				        <li class="social-icon">
+				            <a class="social-icon--link color-pinterest" title="Pinterest" id="pinterest" href="http://pinterest.com/gocitycard/" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Pinterest" data-action="social profile click" data-label="Pinterest">
+				            <span aria-hidden="true" class="icon-pinterest"></span>
+				                <span class="sr-only">Pinterest</span>
+				            </a>
+				        </li>
+				         <li class="social-icon">
+				            <a class="social-icon--link color-instagram" title="Instagram" id="instagram" href="https://instagram.com/smartdestinations/" target="_blank" data-track-category="Social" data-track-action="Profile Click" data-track-label="Instagram" data-action="social profile click" data-label="Instagram">
+				            <span aria-hidden="true" class="icon-instagram"></span>
+				                <span class="sr-only">Instagram</span>
+				            </a>
+				        </li>
+				    </ul>
 
 					<!-- AddThis Button START -->
 					<div class="row addthis_toolbox addthis_default_style">
@@ -466,7 +599,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="g-group g-group-md_row">
 				<div class="md-2-12">
 					<div class="footer-logo">
-						<a href="/" id="footerLogo"><img src="/img/logos/go-city-card-footer.svg" alt="Go City Card Logo"></a>
+						<a href="/" id="footerLogo"><img class="lazy" src="/img/logos/go-city-card-footer.svg" alt="Go City Card Logo"></a>
 					</div>
 				</div>
 
@@ -488,7 +621,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 		</div><!-- /.wrap -->
 	</div><!-- /.sub-footer -->
-</div><!-- /.footer -->
+</section><!-- /.footer -->
 
 <!-- HIDDEN MODALS -->
 <div class="modal fade" id="reusableModal" tabindex="-1" role="dialog" aria-labelledby="reusableModalLabel" aria-hidden="true">
@@ -501,37 +634,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 
-<!-- DO WE USE THIS?? -->
-<!-- HIDDEN MODALS -->
-<div class="modal fade modal_menu" id="choose-dest" tabindex="-1" role="dialog" aria-labelledby="choose-dest--title" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span data-icn="✕"></span></button>
-			<!--<h1 class="modal-title" id="choose-dest--title">Choose Destination</h1>--></div>
-			<div class="modal-body">
-				<ul class="sdi-dropdown--menu sdi-dropdown--menu_utility">
-					<li class="sdi-dropdown--menu--item"><a href="/boston-attractions-and-tours/_d_Bos-p1.html?pass=Bos_Prod_Go" id="loc-nav_bos" role="menuitem" tabindex="-1">Boston</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/chicago-attractions-and-tours/_d_Chi-p1.html?pass=Chi_Prod_Go" id="loc-nav_chi" role="menuitem" tabindex="-1">Chicago</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/las-vegas-attractions-and-tours/_d_Las-p1.html?pass=Las_Prod_Exp" id="loc-nav_las" role="menuitem" tabindex="-1">Las Vegas</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/los-angeles-attractions-and-tours/_d_Lax-p1.html?pass=Lax_Prod_Go" id="loc-nav_lax" role="menuitem" tabindex="-1">Los Angeles</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/london/_d_Lon-p1.html?pass=Lon_Prod_Exp&amp;allInc=true&amp;currency=GBP" id="loc-nav_lon" role="menuitem" tabindex="-1">London</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/miami-attractions-and-tours/_d_Mia-p1.html?pass=Mia_Prod_Go" id="loc-nav_mia" role="menuitem" tabindex="-1">Miami</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/new-york-attractions-and-tours/_d_Nyc-p1.html?pass=Nyc_Prod_Exp" id="loc-nav_nyc" role="menuitem" tabindex="-1">New York</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/oahu-attractions-and-tours/_d_Hio-p1.html?pass=Hio_Prod_Go" id="loc-nav_hio" role="menuitem" tabindex="-1">Oahu</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/orlando-attractions-and-tours/_d_Orl-p1.html?pass=Orl_Prod_Go" id="loc-nav_orl" role="menuitem" tabindex="-1">Orlando</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/san-diego-attractions-and-tours/_d_Sdo-p1.html?pass=Sdo_Prod_Go" id="loc-nav_sdo" role="menuitem" tabindex="-1">San Diego</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/san-francisco-attractions-and-tours/_d_Sfo-p1.html?pass=Sfo_Prod_Go" id="loc-nav_sfo" role="menuitem" tabindex="-1">San Francisco</a></li>
-					<li class="sdi-dropdown--menu--item"><a href="/washington-dc/_d_Sfo-p1.html?pass=Dca_Prod_Exp&amp;allInc=true" id="loc-nav_dca" role="menuitem" tabindex="-1">Washington DC</a></li>
-				</ul>
-			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
 <!--========================================-->
 <!-- JS	-->
 <!--========================================-->
-	<script src="/template-resources/js/build/sdi/sdi-global-min.1456760405825.js"></script>
+	<script src="/template-resources/js/build/sdi/sdi-global-min.1479487869641.js"></script>
 
 
 	
@@ -564,6 +670,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	</script>
 	<!-- END Google page tracking -->
+
+
 
 	
 
