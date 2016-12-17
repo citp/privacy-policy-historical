@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etouches.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326155207id_/https%3A//www.etouches.com/event-software/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etouches.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217063803id_/https%3A//www.etouches.com/event-software/privacy-policy) for the most accurate reproduction.*
 
-# etouches, Inc. Privacy Policy - etouches
+# Privacy Policy | etouches
 
 Effective Date: July 6, 2015
 
@@ -25,7 +25,7 @@ etouches, Inc. complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Sw
 
 etouches is the sole owner of the information collected on our corporate web sites, www.etouches.com and www.tapcrowd.com. etouches collects information at several different points on our Web sites. Information collected through our corporate sites, such as name, address, and phone number, is only collected for purposes of engaging in a sales dialog per a prospect’s request. Information collected via the etouches application is collected on behalf of our customers for event registration or for users of the etouches administrative application.
 
-Certain modules of the etouches application and mobile event app allow the communication between direct users, however no end user details are shared unless explicitly requested to be so by both parties. Users have the option to participate in this activity for the purpose of contacting by email or regular mail. 
+Certain modules of the etouches application and mobile event app allow the communication between direct users, however no end user details are shared unless explicitly requested to be so by both parties. Users have the option to participate in this activity for the purpose of contacting by email or regular mail.
 
 We encourage users to provide optional information so we can provide a more personalized experience on our site. The reason we use this information is to complete the current transaction, contact by email or regular mail and understand your interests.
 
