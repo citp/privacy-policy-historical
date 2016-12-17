@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613040344id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217130539id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -45,7 +45,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology. Our Shopping Cart features Norton Secure SSL Encryption Security, to keep your information safe. Our Norton Secure SSL Certificate features extended validation, or EV. You'll know your cart is secure when the address bar in your browser turns green. EV provides more security for personal information than standard SSL encryption. Information you enter is encrypted into our Payment gateway providers database and is only accessible by those authorized with special access rights to such systems. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology. Our Shopping Cart features Thawte Secure SSL Encryption Security, to keep your information safe. Our Thawte Secure SSL Certificate features extended validation, or EV. You'll know your cart is secure when the address bar in your browser turns green. EV provides more security for personal information than standard SSL encryption. Information you enter is encrypted into our Payment gateway providers database and is only accessible by those authorized with special access rights to such systems. 
 
 After a transaction, your credit cards numbers are not even stored on our servers. 
 
@@ -89,7 +89,7 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on /17/2013 
+This policy was last modified on 10/5/2016 
 
 ### Contacting Us
 
@@ -100,7 +100,7 @@ United States
 info@organizeit.com   
 248-299-3350 
 
-[](http://secure.trust-guard.com/certificates/6888) [](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.organizeit.com&lang=en)
+[](http://secure.trust-guard.com/certificates/6888)
 
 Our site maintains full SSL encryption security and is tested daily for vulnerabilities by TrustGuard. This service preforms an in depth analysis of our site and our server to make sure it is secure from hackers.  
   
