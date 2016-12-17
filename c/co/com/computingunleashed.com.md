@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computingunleashed.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609223536id_/http%3A//www.computingunleashed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computingunleashed.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217033710id_/http%3A//www.computingunleashed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
