@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viewmixed.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529114001id_/http%3A//viewmixed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewmixed.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217141539id_/http%3A//viewmixed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ViewMixed
+# Privacy Policy – ViewMixed
 
 _Last Updated: March  19, 2015_
 
