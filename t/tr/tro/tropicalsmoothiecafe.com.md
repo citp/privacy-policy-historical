@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604071727id_/http%3A//tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217150030id_/http%3A//www.tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Tropical Smoothie Café · Privacy Policy · Eat Better. Feel Better.
+# Tropical Smoothie Cafe · Privacy Policy · Eat Better. Feel Better.
 
 ## Privacy Policy
 
-Tropical Smoothie Café, LLC is committed to protecting the privacy of our customers and users of our websites. This page presents our internet privacy policy. 
+Tropical Smoothie Cafe, LLC is committed to protecting the privacy of our customers and users of our websites. This page presents our internet privacy policy. 
 
 ####  1\. Types of Information We Collect and How It Is Used 
 
-Tropical Smoothie Café only gathers personal information, such as first and last names, addresses, email addresses and mobile numbers when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our website and our products or to enter you in one of our contests or sweepstakes. 
+Tropical Smoothie Cafe only gathers personal information, such as first and last names, addresses, email addresses and mobile numbers when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our website and our products or to enter you in one of our contests or sweepstakes. 
 
 ####  2\. Sharing of Personal Information 
 
-Tropical Smoothie Café may share personal information within affiliated companies that we own or control, as well our franchisees. Any affiliated companies and franchisees must comply with our privacy policy. 
+Tropical Smoothie Cafe may share personal information within affiliated companies that we own or control, as well our franchisees. Any affiliated companies and franchisees must comply with our privacy policy. 
 
 We may also share personal information with other companies engaged by us to perform a variety of functions, such as fulfilling orders, assisting with promotions, providing technical services for our websites, etc. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose. 
 
-Tropical Smoothie Café reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
+Tropical Smoothie Cafe reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
 
 We do not sell, transfer or disclose personal information to any other company without your permission, except as described above. 
 
@@ -44,7 +44,7 @@ Requests from Parents Regarding Our Children’s Privacy Practices: Parents may 
 
 Who Should I Contact with Questions? If you have any questions about our Children’s Privacy Notice, please contact us at: 
 
-Tropical Smoothie Café  
+Tropical Smoothie Cafe  
 1117 Perimeter Center West  
 Suite W200  
 Atlanta, GA 30338  
@@ -71,11 +71,11 @@ This privacy policy is effective as of November 1, 2013. If we change our policy
 
 ####  8\. How to Contact Us 
 
-Tropical Smoothie Café Corporate Support Center  
+Tropical Smoothie Cafe Corporate Support Center  
 1117 Perimeter Center West  
 Suite W200  
 Atlanta, GA 30338  
 Telephone: (770) 821-1900  
 Email: [info@tropicalsmoothie.com](mailto:info@tropicalsmoothie.com)
 
-#### More About Tropical Smoothie Café
+#### More About Tropical Smoothie Cafe
