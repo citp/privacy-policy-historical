@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141228id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217013429id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Digital UK - Privacy Policy
+# Digital UK | Privacy Policy
 
 _Last updated 7 November 2014_   
 
@@ -86,3 +86,5 @@ From time to time we may update this Privacy Policy. A notice will be posted on 
 
 
 This Website is maintained by Digital UK. If you have any queries about this Privacy Policy please write to Web Feedback, Digital UK, Met Building, 22 Percy Street, London W1T 2BU
+
+ 
