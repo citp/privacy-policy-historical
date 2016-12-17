@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421192750id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givepulse.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217135201id_/https%3A//www.givepulse.com/policies) for the most accurate reproduction.*
 
 # Policies | GivePulse
 
@@ -42,7 +42,7 @@ However, we welcome Volunteers of all ages, including children under the age of 
 
 ### Changing or Deleting Your Information
 
-All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us at terms@GivePulse.com or editing the relevant part of their profile. If you would like us to cancel your GivePulse Account, please contact us or select the "Cancel Account" feature of the Service and we will attempt to accommodate your request if we do not have any legal obligation or a legitimate business reason to retain the information contained in your GivePulse Account. Please note that, if you cancel your GivePulse Account, any reviews you have posted via the Site and Application will remain publicly viewable via the Site and Application. Please see below for privacy contact information. 
+All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us at terms@GivePulse.com or editing the relevant part of their profile. If you would like us to deactivate or delete your GivePulse Account, please contact us with the subject "Deactivate Account" or "Delete Account" and we will attempt to accommodate your request if we do not have any legal obligation or a legitimate business reason to retain the information contained in your GivePulse Account. Please note that, if you cancel your GivePulse Account, any comments you have posted via the Site and Application will remain publicly viewable via the Site and Application. Please see below for privacy contact information. 
 
 ### Log Data
 
@@ -90,7 +90,7 @@ We may also use our email lists for sending out other GivePulse outbound communi
 
 ### How To Contact Us
 
-We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with GivePulse. Please send email to [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse") 
+We appreciate your questions or comments about this privacy statement, the practices of this Web site, or your dealings with GivePulse. Please send email to [support@givepulse.com](mailto:support@givepulse.com "Contact Us @ GivePulse")
 
 ### Changes to Policy
 
