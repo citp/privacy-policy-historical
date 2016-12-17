@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325053742id_/http%3A//www.naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217021514id_/http%3A//www.naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nigeria Latest News today & Breaking news | Read on NAIJAONPOINT.COM
+# Privacy Policy
 
 Naijaonpoint.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -57,5 +57,3 @@ Naijaonpoint.com may amend this Privacy Policy from time to time, at its sole d
 Conditions of Use
 
 If you decide to visit Naijaonpoint.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Republic of Ghanaís Laws.
-
-Kindly Click Next To Continue...
