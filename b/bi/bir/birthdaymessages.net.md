@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612041250id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaymessages.net privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218032437id_/http%3A//www.birthdaymessages.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Advertisement
 
 * * *
 
@@ -33,7 +31,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of using the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of using the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 We also allow certain third-party companies to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to BirthdayMessages.net and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third-party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
@@ -60,6 +58,3 @@ BirthdayMessages.net reserves the right to make changes to this policy. If there
 
 
 Your use of this site indicates acceptance of this privacy policy.
-
-  
-
