@@ -1,149 +1,185 @@
-> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531110620id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversource.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/legal-statements) for the most accurate reproduction.*
 
-# Legal Statements
+# Privacy Policy & Legal Statements
 
-This Privacy Statement has been created and is maintained by Eversource ("Company," "we" or "our") for its utility affiliates and other affiliates, to demonstrate Eversource's firm commitment to protecting your privacy online. 
+This Privacy Policy has been created by Eversource Energy and its affiliates (collectively "Eversource," "we" or "our") and sets forth our policies concerning the information we collect and use and the measures we take to protect and limit access to it.  
 
-The Company maintains rigorous security measures to protect against the loss, misuse and alteration of the information under our control. Please read this Privacy Statement to understand how we gather and use information.
+This policy also describes the options you have to access, change or correct your information. We take seriously the protection of your personal information, but you must also safeguard your accounts from unauthorized access and use of your information. 
 
-This Privacy Statement covers all the websites for the Company and will be updated, revised and enhanced as needed to ensure the continued full protection of your privacy and personal information. We encourage you to periodically check for updates and revisions to our Privacy Statement.
+This Privacy Policy may be updated from time to time and we encourage you to periodically check for updates and revisions to this Policy.  
 
-If you have any questions regarding this Privacy Statement, or if you prefer to not receive email or postal product mailings from the Company, please [Contact Us](https://web.archive.org/Content/general/about/contact).
+If you have any questions regarding this Privacy Policy, please [contact us](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/contact).
 
-This Privacy Statement answers the following questions:
+This Privacy Policy answers the following questions:
 
-#### What additional protection measures are we taking?
+  * What information we collect and how we collect it?
+  * How do we use information we collect?
+  * Who do we share your information with?
+  * How we safeguard your information?
+  * How can you safeguard your information?
+  * How you can access, change  or correct your information?
 
-You will be asked to provide additional security information before you can complete certain transactions on our website. Residential customers will be asked to provide the last four digits of the primary account holder's "Primary ID." Commercial customers will be asked for their [phone number](http://www.cl-p.com/CUSTOMER/ManageAccount/UpdatePhoneNumber.aspx).
 
-A Primary ID is the unique identification number you provided at the time you set up service. For most residential customers, it will be the last four digits of the Social Security Number. If we do not have a primary ID, you have the option of completing ID verification online or you may call our Customer Service Center for assistance.
 
-#### What else do I need to know?
+Other topics covered in this policy include:
 
-You will receive a notification when the ID verification process is completed. You can request changes of access to your account by contacting Customer Service.
+  * Eversource's Linking Policy
+  * Protecting Children's Privacy Online
 
-Only authorized persons will be able to complete the following transactions on your account.
 
-  * Single Direct Debit payments
-  * Enrolling in or updating information for Recurring Direct Debit payments
-  * Credit Card payments through JP Morgan Chase
-  * Stopping or transferring service
-  * Updates to your phone number or mailing address
 
+### **What information we collect and how we collect it?**
 
+****We collect information that you voluntarily provide to us when you communicate with Eversource, and contractors and service providers of Eversource, directly and indirectly, through any form or medium.  
 
-You will receive a notification every time one of the listed transactions is completed. Please use [update your email address](https://web.archive.org/Content/general/about/##) to ensure you receive email confirmations of your transactions.
+**Personal Information:** The information we collect includes the personal information that you provide to us, when you establish electric or gas service with us or provide to us later, such as: your name; mailing and service address; email address; phone number; utility account numbers; financial account numbers; and personal identification numbers, such as Social Security Number, Driver’s License Number, and/or a government issued ID number.  
 
-#### I pay a family member's account on the web. How will the changes affect me?
+In the event that you are requesting utility service, we may also supplement the information you provide with additional information obtained from third party sources such as credit check services. We also collect the information you provide to us via forms and surveys.
 
-You will be asked to provide the last four digits of your family member's Primary ID in order to continue.
+**Online Information:** We and our contractors and service providers also collect information you provide through your online activity, access and use of our and their websites and applications using tracking technologies such as cookies, pixel tags, web beacons, and clear GIFs and browsers.  
 
-#### Why are we taking these measures?
+Examples of the information that we collect through these tracking technologies  include your Internet Provider (IP) address (a number that is automatically assigned to the device that you are using by your Internet Service Provider (ISP) is identified and logged automatically in our server log files whenever you visit our websites);  your Media Access Control (MAC) address, device type, screen resolution, operating system version, browser type and version, time spent on our websites, pages you visited, location and your relationship with us, and statistical  information about your usage of our websites and applications . 
 
-These measures help protect your confidential personal information and ensure only authorized access to your account. Your information is stored only in our customer information system. These additional protections verify customers' identity and mitigate risks to customer and company information.
+_Note: You may opt out of providing certain types of information by not providing or it by discontinuing your use of the websites and applications.  Please note that even if you discontinue use of online account services, we will still store some personal information in our customer billing systems._
 
-#### Who is collecting my information?
+_Note: You can opt out of cookies by managing your cookie settings for each device and browser you use.  Please note that opting out of cookies may impact your ability to fully use our websites and some online features and services.  For example, you will need to select a region each time you log-in and select a function that is region specific.  In addition, you may not receive customized communications or content that may be relevant to your interests and needs._
 
-When you visit our websites and you provide us with personal information, you are sharing that information with the Company. We collect this information in order to provide an easy, fast way to access our services and to verify who you are, so others cannot access information that only you or those whom you authorize are privileged to view.
+**Aggregated/De-Identified Information:** We also collect information in an aggregated and de-identified form various sources, including but not limited to accounts, transactions and usage.
 
-We also have links from our websites to other non-Company websites for your convenience and information. We are not responsible for the content of linked websites, or your use of these unaffiliated party websites, and we do not share information with those unaffiliated party websites unless you expressly consent to the sharing of such information. In providing these links, the Company does not endorse, monitor or control the content, products, services, activities or viewpoints expressed by these unaffiliated party websites. When you leave the Company websites and visit the website of an unaffiliated party, the Company’s website policies, including this Privacy Statement, no longer apply and you will be subject to the unaffiliated party's policies regarding their website. These websites may have their own privacy statements in place, which we recommend that you review. See our Linking Policy below for more information.
+Such information does not identify individual customers, but may be used for our business purposes – to identify new offerings, communications,   research or analyzing market trends, and other purposes consistent with applicable laws.
 
-#### What information is collected?
+**Third party widgets:**  We may allow certain widgets (e.g., social share buttons) on our sites and the sites of service providers and contractors that enable users to easily share information on another platform, such as a social media platform.  
 
-For each visit to our websites, our Web server automatically recognizes and collects certain information including: the domain name; the pages accessed; information volunteered by the visitor, such as survey information and/or website registrations; visitor preferences; and past visitor activity on our website. If you provide us with your mailing address or communicate with us via email or social media, we also store that information.
+The third parties that own these widgets may have access to information about your browsing on the pages of our sites where these widgets are placed.  We recommend that you review the privacy and security policies and other terms and conditions of these third party sites.
 
-We use small text files placed on your computer, called “cookies,” to help us better understand your preferences so that we can customize our content to meet your needs. ”Cookies” do not lend themselves to an opt out process; your use of our websites constitutes your permission to supply our service providers with necessary information, such as your IP address, to provide these custom applications. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set.
+### **How do we use information we collect?**
 
-When you register at a Company website, you are asked to select your own User ID and password to verify who you are and to protect your private information. The Company stores general personal information about you when you register, including your first and last name, account number, Social Security number (when you request utility service), and an email address. We may use contact information you provide to respond to your requests and to send you updated information about our Company and services available to you.
+Eversource may share contact or personal information provided by you for legitimate business purposes such as providing appropriate customer service, conducting business operations, complying with law, legal process or regulators, protecting the security of critical infrastructure and key resources, and ensuring information security. 
 
-To access certain services, we will ask you to identify yourself using unique information that only you can provide. For example, if you are a customer who wishes to view your bill online, we will ask you to provide your account number and an additional identifier that confirms your authorization in order to access the requested information. If you are a supplier who wants to check the status of an invoice, we will ask you for your Vendor Code, Purchase Order Number and Invoice Number.
+Such information may be made available to third parties such as service providers and contractors to the Company or its affiliates (for example, service providers providing energy conservation services or payment processing services) and regulators and governmental authorities, to protect the security of critical infrastructure and key resources, ensure information security, or to comply with any applicable law, regulation, legal process, or enforceable governmental request. 
 
-Our online surveys ask you for contact information (email address, for example) and information relating to your energy needs. We appreciate your survey responses, which help us to improve our business operations and service to you.
+Information may also be shared between the Company’s affiliates, but only if we reasonably believe it complies with legal and regulatory requirements. 
 
-#### How does the company use my information?
+Information that you provide and we collect may be used to:
 
-The Company uses the contact or personal information that you provide for legitimate business purposes, such as providing appropriate customer service, or conducting business operations, and complying with law, legal process or regulators. The information we collect is used to respond to your requests, provide better customer service and to improve our websites by customizing the content and/or layout of our pages for your use.
+  * Provide you with personalized and optimal  customer service;
+  * Respond to your requests and communicate with you; 
+    * If you provide us with your email address or communicate with us via email, we will consider that information or communication to us as your authorization and consent for us to communicate to you by email;
+    * If you provide us with your phone number, we will consider that your authorization and consent for us to communicate to you at that phone number by call or if a mobile phone number, by call or text;
+    * If you supply us with your postal address, you may receive periodic mailings from us or our service providers regarding products and services or upcoming events;
+    * Our websites use electronic forms for customers to request information, products and services.  Your contact information and responses or requests and unique identifiers (such as customer account numbers or vendor numbers) are used to respond to customer requests;
+  * Improve our websites by customizing the content and layout of our pages for your use, by analyzing the statistical information that we collect about your usage of our websites to enable us to improve the design and functionality, to monitor responses of our communications and content, and to assist us with resolving customer questions regarding our websites; 
+    * IP Address:  We collect and use your IP address to personalize your experience with us on and offline, and to maintain the full functionality of our websites, including  calculating Site usage, diagnosing server problems, compliance and security purposes.  Collecting IP addresses is standard practice on the internet and is done automatically by many sites. 
+    * Cookies: We use cookie information for security purposes, to facilitate navigation, to display information more effectively, to customize your experience and to recognize your device to allow for an easy and convenient use of our online services. The cookies may save your User ID (not your password) so you don't have to re-enter it each time you visit our websites.  Cookies may also be used for communications purposes. We use cookies on your computer and portable devices  to help us better understand your preferences so that we can customize our content to best meet your needs.  Cookies help us to provide you with a continuous and more personalized experience.    
+    * Browser and Device: Information collected by most browsers and/or through your device, such as your Media Access Control (MAC) address, device type, screen resolution, operating system version and internet browser type and version, is used to ensure our Sites function properly, for fraud detection and prevention, and security purposes. 
+    * Tracking technologies:  We may use tracking technologies such as pixel tags, web beacons, and clear GIFs with some Site pages and HTML-formatted email messages to measure the effectiveness and success of our communications,  to compile statistics about usage and response rates, to customize your online experience, for fraud detection and prevention, and for online advertising.
 
-If you provide us with your email address or communicate with us via email, we will consider that information or communication to us as your authorization and consent for us to communicate to you by email.
 
-If you supply us with your postal address, you may receive periodic mailings from us or our service providers regarding products and services or upcoming events.
 
-In the event that you are requesting utility service, we may also supplement the information you provide with additional information provided by credit check services to the Company.
+### **Who do we share your information your information with?**
 
-We use your Internet Provider address to maintain the full functionality of our websites. We also use cookies to save your User ID (not your password) so you don't have to re-enter it each time you visit our websites. Our websites use electronic forms for customers to request information, products and services. Your contact information and responses or requests and unique identifiers (such as customer account numbers or vendor numbers) are used to respond to customer requests.
+We may share contact or personal information provided by you with third parties such as credit reporting agencies and service providers and contractors to Eversource for legitimate business purposes such as conducting business operations, providing customer service and complying with law, legal process or regulators.  
 
-#### Does the company share my information?
+Information may also be shared between the Eversource’s affiliates, but only if we reasonably believe it complies with legal and regulatory requirements.  
 
-The Company may share contact or personal information provided by you for legitimate business purposes such as complying with law, legal process or regulators, providing appropriate customer service, or conducting business operations. Such information may be made available to third parties who are service providers to the Company or its affiliates (for example, service providers providing energy conservation services or payment processing services). Information may be shared between the Company’s affiliates, but only if we reasonably believe it complies with legal and regulatory requirements.
+At any time and for any lawful purpose, Eversource may monitor, intercept, record, and search any communications or data transiting or stored on our information systems.
 
-We do not sell the personal information, email or postal addresses or telephone numbers, or other demographic information of our website visitors to third parties.
+At Eversource’s sole discretion, we may disclose pertinent information to the U.S. Government and its authorized representatives to protect the security of critical infrastructure and key resources, to ensure information security, or to comply with any applicable law, regulation, legal process, or enforceable governmental request. 
 
-If you have provided written authorization to the Company to release your information to third parties, we will comply with your authorization and release such information to those parties as directed by you.
+The Eversource may disclose information it determines in good faith to be necessary to investigate, prevent or respond to suspected illegal activities or interference with the operation of our websites or [Terms and Conditions](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/terms-conditions).
 
-The Company may disclose information it determines in good faith to be necessary to investigate, prevent or respond to suspected illegal activities or interference with the operation of our websites or terms of use.
+If you have provided written authorization to the Eversource to release your information to third parties, we will comply with your authorization and release such information to those parties as directed by you.
 
-#### How can I access, change or delete my information?
+**Social Media Sites**
 
-You can access or change your information at any time. You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our Log In page or selecting one of the [Contact Us](https://web.archive.org/Content/general/about/contact "Contact Us") options provided on our website.
+Eversource provides experiences on social media platforms including Facebook®, Twitter®, YouTube® and LinkedIn® that enable online sharing and collaboration among registered users. 
 
-#### How is the company safeguarding my information?
+When visiting any official Eversource social media page, you are subject to this Eversource Privacy Policy.
 
-The Company has rigorous security measures in place to protect and prevent the loss, misuse and alteration of information you provide us that is under our control. Industry-standard encryption technologies are used when transferring, receiving and displaying specific data requested by visitors to our websites.
+In addition, please note that any content you post on official Eversource managed social media pages, such as pictures, opinions, or any personal information that you make available to other participants on these social platforms, is subject to the Terms of Use and Privacy Policies of those respective platforms.  
 
-We protect the confidentiality of the personal information we collect, including Social Security numbers, by maintaining physical, electronic, and procedural safeguards. Including:
+We recommend that you review their privacy and security policies and other terms and conditions to understand your rights and obligations.  
 
-  * Limiting access to personal information, including Social Security numbers, that we collect;
-  * Prohibiting unlawful disclosure of the Social Security numbers we collect;
-  * Reviewing these safeguards on a regular basis;
-  * Training our employees in the proper handling of personal information, including Social Security numbers; and
-  * Requiring that third parties with access to personal information, including Social Security numbers protect its confidentiality.
+### **How is the company safeguarding my information?**
 
+We have rigorous security measures in place to protect and prevent the loss, misuse and alteration of the information that you provide to Eversource that is under our control. These measures may include device safeguards, industry-standard encryption technologies, secured files and buildings.  
 
+To protect your information, especially personal Information, from unauthorized access and use, we use security measures that comply with applicable federal and state laws, as well as governmental and quasi-governmental agencies with regulatory authority over Eversource.  
 
-It is important to note that email is not considered a secure medium and the transmission, receipt or security of information which you send via email cannot be guaranteed. Our email communications to you is available to anyone with access to your email account.
+We protect the confidentiality of the personal information we collect by maintaining physical, electronic, and procedural safeguards, with additional security measures and precautions for highly sensitive personal information such as Social Security Numbers and financial account numbers. 
 
-As an important security measure, never tell anyone your password, and always log out of your User ID and close your browser window when you have finished working to ensure that no one else can access your information. This is especially important if you share a computer with someone else or are using a computer in a library or other public place. The Company will never ask you for your password in an unsolicited phone call or unsolicited email.
+The measures we use to safeguard your information, particularly personal information,  include:
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. Although we use the best available technology (i.e., encryption, firewalls, access control software, etc.) to protect your information, we cannot guarantee the security of any information you transmit to us through our online products or services. As such, you provide information at your own risk. Once we receive your transmission, we employ rigorous security measures to protect against the loss, misuse and alteration of information on our systems.
+  * Information technology and physical security measures;
+  * Limiting access to personal information;
+  * Prohibiting unlawful disclosure of personal information;
+  * Training our employees in the proper handling of personal information;
+  * Requiring that third parties that receive or have access to personal information, such as service providers and contractors, comply with all applicable laws and secure, keep confidential and limit access to and use of your personal information;
+  * reviewing our safeguards on a regular basis.
 
-Some states and public utility commissions which regulate the Company’s utility businesses have specific requirements regarding the disclosure and protection of certain customer and personal information, including MA (201 CMR 17.00: M.G.L. c. 93H) and CT (C.G.S. Ch. 743dd Section 42-470- 42-473).
 
-See:
 
-  * <http://www.mass.gov/courts/case-legal-res/law-lib/laws-by-subj/about/identitytheft.html>
-  * <http://www.jud.ct.gov/lawlib/law/identitytheft.htm>
+### **How can you safeguard your information?**
 
+As an important security measure, you should never share your User ID or password with anyone else, and always be sure to log-out and close your browser window when you have finished working to ensure that no one else can access your information. 
 
+This is especially important if you share a computer with someone else or are using a computer in a library or other public place. 
 
-[](http://www.jud.ct.gov/lawlib/law/identitytheft.htm)**Linking Policy**
+Eversource will never ask you for your password in an unsolicited phone call or unsolicited email. 
 
-Eversource may provide links to websites of unaffiliated parties for your convenience and information. We are not responsible for the content of linked sites or any use of these unaffiliated party sites. In providing these links, Eversource does not endorse the content, products, services or viewpoints expressed by these unaffiliated party sites. Once you leave Eversource's Web site and link to the Web site of an unaffiliated party, Eversource's Internet policies no longer apply and you will be subject to the unaffiliated party's policies regarding their Web site. These sites may have their own privacy statements in place, which we recommend you review.
+It is important to note that email is not considered a secure medium and the transmission, receipt or security of information which you send via email cannot be guaranteed. Our email communications to you are available to anyone with access to your email account.
 
-#### Links to the Eversource website:
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. Although we use the best available technology (i.e., encryption, firewalls, access control software, etc.) to protect your information, we cannot guarantee the security of any information you transmit to us through our online products or services. 
 
-Linking to Eversource.com is authorized under certain circumstances. If you link to this site, you
+As such, you provide information at your own risk. Once we receive your transmission, we employ rigorous security measures to protect against the loss, misuse and alteration of information on our systems.
 
-  * Should not use Eversource copyrighted information or the Eversource logos, trademarks or service marks or the intellectual property of any affiliate of Eversource except for the permitted use set forth in this Linking Policy;
-  * Should not portray Eversource or any person identified on the Eversource.com site or content from the Eversource.com site in any way that is false or misleading;
-  * Should not indicate or imply that Eversource promotes or endorses any products or services, ideas, political objectives or any other causes, or Internet sites; and
-  * Should not use Eversource content for business, commercial, or political purposes.
+### **How can I access, change or correct my information?**
 
+You can access your account information at any time.
 
+You will need your User ID and password to do so. If you have forgotten your password, you can request a new one by selecting the “Forgot Your Password” option on our login page.
 
-To link to Eversource.com, please use: [http://www.eversource.com](http://acme.com/).
+Please note that if you choose not to have an online account with us, we will still store some of your personal information in our billing system if you are a customer.
 
-Once you have created a link to Eversource.com, test the link to confirm that it operates correctly and send a [comment or feedback](https://web.archive.org/Content/general/about/contact) to notify Eversource.
+You can update or correct your account information online or ​[contact ​us](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/contact). 
 
-#### Third party websites:
+### **Linking Policy**
 
-Eversource has permitted links from and to Internet sites maintained by unaffiliated parties but Eversource has no control over such unaffiliated party sites. Accordingly, Eversource does not endorse and is not responsible for the content, operators, or any products or services offered on such sites, or the site's availability, accuracy, quality or privacy practices. Eversource shall not be responsible or liable, directly or indirectly, for any damage or loss caused or claimed to be caused by, relating to or arising from use of or reliance on any such information, content, products or services available on or through such sites.
+For your convenience and to provide additional information, our websites may link to other non-Eversource websites for your convenience and information. 
 
-#### Disclaimer
+In providing these links, the Eversource does not endorse, monitor or control the content, products, services, activities or viewpoints expressed by these unaffiliated party websites.
 
-The purpose of this site is to provide you with information about Eversource. The information is not a representation, prospectus or circular in respect of any security of Eversource or partners.
+When you leave the Eversource websites and visit the website of an unaffiliated party, this Privacy Policy no longer applies and you will be subject to the unaffiliated party's policies regarding their website, which we recommend that you review. 
 
-Although we have tried to keep the information available through our web pages current and correct, we do not guarantee its accuracy or usefulness in any way. Your use of information on this site is at your own risk. We cannot be responsible for any damage you may incur through your accessing or use of this site, and we cannot guarantee that information you provide us through forms or e-mail will be kept confidential.
+Eversource does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness, or reliability of their information. We are not responsible for the content of linked websites, or your use of these unaffiliated party websites.    
+
+### **Protecting Children's Privacy Online**
+
+Special notice to young visitors of Eversource.com:  
+
+  * **If you are under the age of 18** you must review this Privacy Policy with your parent or legal guardian, make sure you understand it, and use the websites only with your parent or guardian's express consent. 
+  * **If you are under the age of 13** you may not provide us with your name, email address, phone number or any other personal information.
+
+
+
+For the sites this Privacy Policy applies to, we do not knowingly collect information from children under 18. Visit the [Federal Trade Commission website](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) for more information about the Children's Online Privacy Protection Act. 
+
+**Note** : The [Eversource In-School Programs for Energy Conservation website](http://www.eversourceinschool.com/#img1), which ​is directed to individuals under the age of 18, has a separate privacy policy.
+
+## Disclaimer
+
+The purpose of this site is to provide you with information about Eversource. The information is not a representation, prospectus or circular in respect of any security of Eversource or partners.
+
+Although we make every effort to keep the information available through our web pages current and correct, we do not guarantee its accuracy or usefulness in any way. Your use of information on this site is at your own risk. We cannot be responsible for any damage you may incur through your accessing or use of this site, and we cannot guarantee that information you provide us through forms or e-mail will be kept confidential.
 
 Links from pages on Eversource's website do not constitute an endorsement by Eversource, its subsidiaries, operating units or partners, of any entities, advertisers, products or services therein, or of the activities of any entities therein. We are not responsible for and do not control or monitor the content of non-Eversource sites or the accuracy of information found therein.
 
 Certain materials on our websites are copyright protected. Use of any Web site material is prohibited without express written permission from Eversource. Any unauthorized use of these materials could be in violation of copyright, trademark, publicity or privacy laws.
+
+* * *
+
+### **Related Links:**
+
+  * [Terms & Conditions](https://web.archive.org/web/20161218202852id_/https%3A//www.eversource.com/Content/general/about/terms-conditions)
+
+
