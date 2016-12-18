@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151847id_/http%3A//www.lecreuset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lecreuset.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218143733id_/http%3A//www.lecreuset.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Le Creuset
 
