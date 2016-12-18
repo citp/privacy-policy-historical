@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416031318id_/http%3A//aps2k.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsearchonline.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218193357id_/http%3A//aps2k.com/privacy) for the most accurate reproduction.*
 
 # Contact: SmartSearch - Recruit the Right Way, Right Away
 
@@ -24,7 +24,9 @@ Generally, you can visit APS on the internet at [www.aps2k.com](http://www.aps2k
 
 We respect your privacy and are committed to protect any personal information you share with us.  This policy describes how we collect and use that information.
 
-If you have any questions or concerns about our privacy policy, please contact us:
+APS complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. APS has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/.](https://www.privacyshield.gov/)
+
+In compliance with the Privacy Shield Principles, APS commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact APS Privacy Concerns at:
 
 Email:   [privacy@aps2k.com](mailto:privacy@aps2k.com)
 
@@ -111,4 +113,4 @@ Although we choose our business partners carefully, APS is not responsible for t
 
 APS may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will post a notice on this site.
 
-_Last updated January 2012_
+_Last updated November 2016_
