@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614053537id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218160436id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Apple announces Swift Playgrounds for iPad, coming this fall](http://www.ilounge.com/index.php/news/comments/apple-announces-swift-playgrounds-for-ipad-coming-this-fall "Apple announces Swift Playgrounds for iPad, coming this fall")
-  * [Apple’s iOS 10: the ‘mother of all iOS updates’](http://www.ilounge.com/index.php/news/comments/apple-unveils-ios-10-the-mother-of-all-ios-updates "Apple’s iOS 10: the ‘mother of all iOS updates’")
-  * [Apple’s next tvOS update introduces Single Sign-On for cable authentication, Dark Mode + More](http://www.ilounge.com/index.php/news/comments/apples-next-tvos-update-introduces-single-sign-on-for-cable-authentication- "Apple’s next tvOS update introduces Single Sign-On for cable authentication, Dark Mode + More")
-  * [Apple announces watchOS 3](http://www.ilounge.com/index.php/news/comments/apple-announces-watchos-3 "Apple announces watchOS 3")
-  * [What to watch for during today’s WWDC Keynote](http://www.ilounge.com/index.php/news/comments/what-to-watch-for-during-todays-wwdc-keynote "What to watch for during today’s WWDC Keynote")
+  * [Super Mario Run tops 2.85 million downloads on first day](http://www.ilounge.com/index.php/news/comments/super-mario-run-tops-2.85-million-downloads-on-first-day "Super Mario Run tops 2.85 million downloads on first day")
+  * [Capcom bringing Mega Man series to iOS in Japan next year](http://www.ilounge.com/index.php/news/comments/capcom-bringing-mega-man-series-to-ios-in-japan-next-year "Capcom bringing Mega Man series to iOS in Japan next year")
+  * [Apple TV gets 21 new Aerial screensavers](http://www.ilounge.com/index.php/news/comments/apple-tv-gets-21-new-aerial-screensavers "Apple TV gets 21 new Aerial screensavers")
+  * [Report: LG Display to supply foldable OLED displays to Apple](http://www.ilounge.com/index.php/news/comments/report-lg-display-to-supply-foldable-oled-displays-to-apple "Report: LG Display to supply foldable OLED displays to Apple")
+  * [AirPods coming to Apple retail stores Monday Dec. 19](http://www.ilounge.com/index.php/news/comments/airpods-coming-to-apple-retail-stores-monday-dec.-19 "AirPods coming to Apple retail stores Monday Dec. 19")
 
 
-  * [BMW including CarPlay option in 2017 M3 and M4 models](http://www.ilounge.com/index.php/news/comments/bmw-including-carplay-option-in-2017-m3-and-m4-models "BMW including CarPlay option in 2017 M3 and M4 models")
-  * [Apple to use Intel modem chips in next iPhone](http://www.ilounge.com/index.php/news/comments/apple-to-use-intel-modem-chips-in-next-iphone "Apple to use Intel modem chips in next iPhone")
-  * [Rumor: Apple to release ‘Deep Blue’ iPhone 7 color option?](http://www.ilounge.com/index.php/news/comments/rumor-apple-to-release-deep-blue-iphone-7-color-option "Rumor: Apple to release ‘Deep Blue’ iPhone 7 color option?")
-  * [Rumor: Apple to announce iMessage for Android at WWDC next week?](http://www.ilounge.com/index.php/news/comments/rumor-apple-to-announce-imessage-for-android-at-wwdc-next-week "Rumor: Apple to announce iMessage for Android at WWDC next week?")
-  * [Report: Bluetooth 5 to be announced next week](http://www.ilounge.com/index.php/news/comments/report-bluetooth-5-to-be-announced-next-week "Report: Bluetooth 5 to be announced next week")
+  * [Apple reveals service pricing for lost AirPods, battery replacements](http://www.ilounge.com/index.php/news/comments/apple-reveals-service-pricing-for-lost-airpods-battery-replacements "Apple reveals service pricing for lost AirPods, battery replacements")
+  * [Super Mario Run now available on App Store](http://www.ilounge.com/index.php/news/comments/super-mario-run-now-available-on-app-store "Super Mario Run now available on App Store")
+  * [Apple clarifies relationship between Apple Music and iTunes Match](http://www.ilounge.com/index.php/news/comments/apple-clarifies-relationship-between-apple-music-and-itunes-match "Apple clarifies relationship between Apple Music and iTunes Match")
+  * [Wireless charging startup Energous is teaming up with Apple supplier Dialog](http://www.ilounge.com/index.php/news/comments/wireless-charging-startup-energous-is-teaming-up-with-apple-supplier-dialog "Wireless charging startup Energous is teaming up with Apple supplier Dialog")
+  * [Apple releases first developer betas of iOS 10.2.1, tvOS 10.1.1](http://www.ilounge.com/index.php/news/comments/apple-releases-first-developer-betas-of-ios-10.2.1-tvos-10.1.1 "Apple releases first developer betas of iOS 10.2.1, tvOS 10.1.1")
 
 
 
 ### Recent Reviews
 
-  * [Zagg Flex Arc Wireless Earbuds + Speakers](http://www.ilounge.com/index.php/reviews/entry/zagg-flex-arc-wireless-earbuds-speakers "Zagg Flex Arc Wireless Earbuds + Speakers")
-  * [Audio-Technica ATH-MSR7NC SonicPro Headphones with Active Noise Cancellation](http://www.ilounge.com/index.php/reviews/entry/audio-technica-ath-msr7nc-sonicpro-over-ear-headphones "Audio-Technica ATH-MSR7NC SonicPro Headphones with Active Noise Cancellation")
-  * [Twelve South BookBook for 12.9” iPad Pro](http://www.ilounge.com/index.php/reviews/entry/twelve-south-bookbook-for-12.9-ipad-pro "Twelve South BookBook for 12.9” iPad Pro")
-  * [Spigen Rugged Armor, Style Armor + Wallet S for iPhone SE](http://www.ilounge.com/index.php/reviews/entry/spigen-rugged-armor-style-armor-wallet-s-for-iphone-se "Spigen Rugged Armor, Style Armor + Wallet S for iPhone SE")
-  * [OtterBox Symmetry Series Hybrid Case for 12.9” iPad Pro](http://www.ilounge.com/index.php/reviews/entry/otterbox-symmetry-series-hybrid-case-for-12.9-ipad-pro "OtterBox Symmetry Series Hybrid Case for 12.9” iPad Pro")
+  * [Elgato Eve Motion](http://www.ilounge.com/index.php/reviews/entry/elgato-eve-motion "Elgato Eve Motion")
+  * [Olloclip Core Lens Set for iPhone 7/7 Plus](http://www.ilounge.com/index.php/reviews/entry/olloclip-core-lens-set-for-iphone-7-7-plus "Olloclip Core Lens Set for iPhone 7/7 Plus")
+  * [Logitech Pop Home Switch Starter Pack](http://www.ilounge.com/index.php/reviews/entry/logitech-pop-home-switch-starter-pack "Logitech Pop Home Switch Starter Pack")
+  * [Elgato Eve Light Switch](http://www.ilounge.com/index.php/reviews/entry/elgato-eve-light-switch "Elgato Eve Light Switch")
+  * [iHome iPLWBT5 Docking Clock Radio for iPhone and Apple Watch](http://www.ilounge.com/index.php/reviews/entry/ihome-iplwbt5-docking-clock-radio-for-iphone-and-apple-watch "iHome iPLWBT5 Docking Clock Radio for iPhone and Apple Watch")
 
 
-  * [Logitech Logi BASE Charging Stand for iPad Pro](http://www.ilounge.com/index.php/reviews/entry/logitech-logi-base-charging-stand-for-ipad-pro "Logitech Logi BASE Charging Stand for iPad Pro")
-  * [Twelve South TimePorter for Apple Watch](http://www.ilounge.com/index.php/reviews/entry/twelve-south-timeporter-for-apple-watch "Twelve South TimePorter for Apple Watch")
-  * [August Doorbell Cam](http://www.ilounge.com/index.php/reviews/entry/august-doorbell-cam "August Doorbell Cam")
-  * [August Smart Lock HomeKit enabled + Smart Keypad](http://www.ilounge.com/index.php/reviews/entry/august-smart-lock-homekit-enabled-smart-keypad "August Smart Lock HomeKit enabled + Smart Keypad")
-  * [ecobee3 HomeKit-enabled smart Wi-Fi thermostat](http://www.ilounge.com/index.php/reviews/entry/ecobee3-homekit-enabled-smart-wi-fi-thermostat "ecobee3 HomeKit-enabled smart Wi-Fi thermostat")
+  * [Brydge 12.9 iPad Pro Keyboard](http://www.ilounge.com/index.php/reviews/entry/brydge-12.9-ipad-pro-keyboard "Brydge 12.9 iPad Pro Keyboard")
+  * [Sen.se GuardPeanut](http://www.ilounge.com/index.php/reviews/entry/sen.se-guardpeanut "Sen.se GuardPeanut")
+  * [iHome iZBT10 Zenergy Bedside Sleep Therapy Speaker](http://www.ilounge.com/index.php/reviews/entry/ihome-izbt10-zenergy-bedside-sleep-therapy-speaker "iHome iZBT10 Zenergy Bedside Sleep Therapy Speaker")
+  * [Twelve South HiRise Duet for Apple Watch and iPhone](http://www.ilounge.com/index.php/reviews/entry/twelve-south-hirise-duet-for-apple-watch-and-iphone "Twelve South HiRise Duet for Apple Watch and iPhone")
+  * [IK Multimedia iLoud Micro Monitor](http://www.ilounge.com/index.php/reviews/entry/ik-multimedia-iloud-micro-monitor "IK Multimedia iLoud Micro Monitor")
 
 
 
 ### Recent Articles
 
-  * [Filling the Gap: A look at third-party HomeKit apps](http://www.ilounge.com/index.php/articles/comments/filling-the-gap-a-look-at-third-party-homekit-apps "Filling the Gap: A look at third-party HomeKit apps")
-  * [Instant Expert: Secrets & Features of tvOS 9.2](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-9.2 "Instant Expert: Secrets & Features of tvOS 9.2")
-  * [Instant Expert: Secrets & Features of iOS 9.3](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-9.3 "Instant Expert: Secrets & Features of iOS 9.3")
-  * [Opinion: Why Apple needs a dedicated HomeKit app](http://www.ilounge.com/index.php/articles/comments/opinion-why-apple-needs-a-dedicated-homekit-app "Opinion: Why Apple needs a dedicated HomeKit app")
-  * [Inside the betas: What’s new in iOS 9.3 and tvOS 9.2 (Updated)](http://www.ilounge.com/index.php/articles/comments/whats-new-in-ios-9.3-and-tvos-9.2 "Inside the betas: What’s new in iOS 9.3 and tvOS 9.2 \(Updated\)")
+  * [Top Five: The Best Products for Building a Smart Home with HomeKit](http://www.ilounge.com/index.php/articles/comments/top-five-the-best-products-for-creating-a-smart-home-with-homekit "Top Five: The Best Products for Building a Smart Home with HomeKit")
+  * [Instant Expert: Secrets & Features of watchOS 3](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-3 "Instant Expert: Secrets & Features of watchOS 3")
+  * [Instant Expert: Secrets & Features of tvOS 10](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-10 "Instant Expert: Secrets & Features of tvOS 10")
+  * [Instant Expert: Secrets & Features of iOS 10](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-10 "Instant Expert: Secrets & Features of iOS 10")
+  * [Inside the betas: iOS 10 Photos gets Advanced Computer Vision](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-photos-gets-advanced-computer-vision "Inside the betas: iOS 10 Photos gets Advanced Computer Vision")
 
 
-  * [Life with HomeKit: Our experiences with Apple’s home automation system](http://www.ilounge.com/index.php/articles/comments/life-with-homekit-our-experiences-with-apples-home-automation-system "Life with HomeKit: Our experiences with Apple’s home automation system")
-  * [Under the Radar: 10 ‘hidden’ details about the new Apple TV](http://www.ilounge.com/index.php/articles/comments/under-the-radar-10-hidden-details-about-the-new-apple-tv "Under the Radar: 10 ‘hidden’ details about the new Apple TV")
-  * [Instant Expert: Secrets & Features of iOS 9.0](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-9.0 "Instant Expert: Secrets & Features of iOS 9.0")
-  * [Under the Radar: A closer look at smaller iPhone 6s and iPhone 6s Plus changes](http://www.ilounge.com/index.php/articles/comments/under-the-radar-a-closer-look-at-overlooked-iphone-6s-and-iphone-6s-plus-ch "Under the Radar: A closer look at smaller iPhone 6s and iPhone 6s Plus changes")
-  * [A First Look at iOS 9’s Transit in Apple Maps (Updated for watchOS 2)](http://www.ilounge.com/index.php/articles/comments/a-first-look-at-ios-9s-transit-in-apple-maps "A First Look at iOS 9’s Transit in Apple Maps \(Updated for watchOS 2\)")
+  * [Inside the betas: iOS 10 Music app delivers ‘clarity and simplicity’](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-music-app-delivers-clarity-and-simplicity "Inside the betas: iOS 10 Music app delivers ‘clarity and simplicity’")
+  * [Inside the betas: iOS 10 Maps gets a major redesign](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-maps-gets-a-major-redesign "Inside the betas: iOS 10 Maps gets a major redesign")
+  * [Inside the betas: iOS 10 shakes up the user experience](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-shakes-up-the-user-experience "Inside the betas: iOS 10 shakes up the user experience")
+  * [Inside the betas: watchOS 3 promises a real speed boost](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-watchos-3-promises-a-real-speed-boost "Inside the betas: watchOS 3 promises a real speed boost")
+  * [Inside the betas: A sneak peek at what’s new in tvOS 10](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-a-sneak-peek-at-whats-new-in-tvos-10 "Inside the betas: A sneak peek at what’s new in tvOS 10")
 
 
