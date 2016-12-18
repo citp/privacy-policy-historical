@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcc.gov privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624083924id_/http%3A//www.azcc.gov/Divisions/Administration/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcc.gov privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218055837id_/http%3A//www.azcc.gov/Divisions/Administration/Privacy.asp) for the most accurate reproduction.*
 
 # Arizona Corporation Commission:
 
