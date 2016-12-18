@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514125654id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenews.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218043317id_/http%3A//www.collegenews.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement - College News
 
