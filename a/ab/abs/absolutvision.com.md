@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501222028id_/http%3A//www.absolutvision.com/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutvision.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218012029id_/http%3A//absolutvision.com/privacy.policy.php) for the most accurate reproduction.*
 
 # AbsolutVision Stock Photo Gallery
 
