@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suksh.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205232452id_/http%3A//www.suksh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suksh.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218060855id_/http%3A//www.suksh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # moneyduniya.com - Privacy Policy
 
