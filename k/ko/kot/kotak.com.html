@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kotak.com privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614015816id_/http%3A//www.kotak.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kotak.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219003809id_/http%3A//www.kotak.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,9 +23,9 @@ div.textsize-130 { font-size: 130% !important; }
 <meta name="keywords" content="privacy policy,bank privacy policy,privacy policy of bank">
 <meta name="description" content="View Kotak Bank's privacy policy and commitment. We assure to provide secure and best banking &amp; financial services to our customers.">
 <title>Privacy Policy by Kotak Mahindra Bank</title>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_b99c0a1df4d84e3d5e8e53e01bf32b22.css">
-<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_4c3f30c1d9f17802f8e240c394f43bfd.css">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKVL"></script><script type="text/javascript" src="/sites/default/files/js/js_b08793b41da11fc87f27e5bc78186e05.js"></script>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_fbf7aa53e408cb2774ab1f885677d2f2.css">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_ee0ba746d6fdd565419baa31f054440e.css">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MKVL"></script><script type="text/javascript" src="/sites/default/files/js/js_ccf3b02fc4d4e84a344195c16c884b3c.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "enable": 0 }, "clientsideValidation": { "forms": { "search-theme-form": { "errorPlacement": "5", "errorJquerySelector": "", "customErrorFunction": "", "rules": { "search_theme_form": { "maxlength": 128, "messages": { "maxlength": " field has to have maximum 128 values." } } } } }, "general": { "errorClass": "error", "wrapper": "li", "validateTabs": 1, "scrollTo": 0, "scrollSpeed": 1000, "validateOnBlur": "0", "validateOnKeyUp": "0", "validateOnSubmit": "1" } }, "viewsSlideshowSingleFrame": { "#views_slideshow_singleframe_main_banner_view-block_1": { "num_divs": 5, "id_prefix": "#views_slideshow_singleframe_main_", "div_prefix": "#views_slideshow_singleframe_div_", "vss_id": "banner_view-block_1", "timeout": 9000, "sort": 1, "effect": "scrollLeft", "speed": 900, "start_paused": 0, "delay": 0, "fixed_height": 1, "random": 0, "pause": 1, "pause_on_click": 0, "pause_when_hidden": 0, "pause_when_hidden_type": "full", "amount_allowed_visible": "", "remember_slide": 0, "remember_slide_days": 1, "controls": 2, "items_per_slide": 1, "pager": 2, "pager_type": "Numbered", "pager_hover": 2, "pager_click_to_page": 0, "image_count": 0, "nowrap": 0, "sync": 1, "advanced": "", "ie": { "cleartype": "true", "cleartypenobg": "false" } } } });
@@ -136,9 +136,98 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 </script>
 <!-- Quick links code start  -->
 <!-- Quick links code end  -->
+<script type="text/javascript">
+$("#applyNow").click(function(){
 
+dataLayer.push({
+'category'	:'Quick Links',
+'action'	:'Main',
+'label'	    :'Apply Now',
+'product'	:'Click on Apply Now',
+'event'		:'event quick links'
+});
+	
+});
+
+$("li .triggerWrap").click(function() {
+  //alert($(this).attr('href'));
+  var h=$(this).attr('href');
+  var lbl,pro_name;
+  if(h=="#HL1"){
+	  //alert("h1");
+	  lbl="Home Loan";
+	  pro_name="Click on Quick Links>Home Loan";	  
+  }
+  if(h=="#HL2"){
+	  
+	  lbl="Savings Account";
+	  pro_name="Click on Quick Links>Savings Acc";
+  } 
+  if(h=="#HL3"){
+	
+	 lbl="Personal Loans";
+	 pro_name="Click on Quick Links>Personal Loans";
+  }
+  if(h=="#HL4"){
+	 lbl="Credit Cards";
+	 pro_name="Click on Quick Links>Credit Cards";
+  }
+  if(h=="#HL5"){
+	 lbl="Current Account";
+	 pro_name="Click on Quick Links>Current Acc";
+  } 
+ 
+ dataLayer.push({
+'category'	:'Quick Links',
+'action'	: 'product',
+'label'	    : lbl,
+'product'	: pro_name,
+'event'		:'event quick links'
+}); 
+
+});
+
+$("li .btnViewAll").click(function() {
+	//alert("hi");
+   // alert($(this).attr('id'));
+   var h1=$(this).attr('id');
+   var act,pro;
+  if(h1=="#HL1"){
+	  //alert("h1");
+	  act="Home Loan";
+	  pro="Click on Quick Links>Home Loan>Apply Now";	  
+  }
+  if(h1=="#HL2"){ 
+	  act="Savings Account";
+	  pro="Click on Quick Links>Savings Acc>Apply Now";
+  } 
+  if(h1=="#HL3"){
+	 act="Personal Loans";
+	 pro="Click on Quick Links>Personal Loans>Apply Now";
+  }
+  if(h1=="#HL4"){
+	 act="Credit Cards";
+	 pro="Click on Quick Links>Credit Cards>Apply Now";
+  }
+  if(h1=="#HL5"){
+	 act="Current Account";
+	 pro="Click on Quick Links>Current Acc>Apply Now";
+  } 
+ 
+ dataLayer.push({
+'category'	:'Quick Links',
+'action'	: act,
+'label'	    :'Apply Now',
+'product'	: pro,
+'event'		:'event quick links'
+}); 
+  
+});
+
+</script>
+<!-- Event Tracking code end for quick link-->
 <!-- End Google Tag Manager -->
-<a class="feedBackBtn" onclick="javascript:navigateToPromoURL('', 'https://www.surveymonkey.com/s/JHKJMPK');" href="javascript:void(0);">FeedBack</a>
+<!--<a class="feedBackBtn" onclick="javascript:navigateToPromoURL('', 'https://www.surveymonkey.com/s/JHKJMPK');" href="javascript:void(0);">FeedBack</a>-->
 
 	<div class="wrapper">
 	
@@ -210,647 +299,628 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 
   <div class="content">
 <div class="navSrch">
-	<div>		
-        <div class="mainNav">
-			<ul>
-								<li class="section ">
-						<a href="/personal-banking.html"><span>Personal</span></a>	
-						<div class="subNavLink">									
-							 <ul>									
-									<li class="subsection">
-										<span class="subMainCat">Accounts &amp; Deposits</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/personal-banking/savings-accounts.html">Savings Accounts</a></li>
-																													<li><a href="/personal-banking/accounts/current-account.html">Current Accounts</a></li>
-																													<li><a href="/personal-banking/accounts/corporate-salary-account.html">Corporate Salary Accounts</a></li>
-																													<li><a href="/personal-banking/accounts-deposits/jifi-account.html">Jifi Account</a></li>
-																													<li><a href="/personal-banking/accounts/term-deposits.html">Term Deposits</a></li>
-																													<li><a href="http://www.kotak.com/personal/accounts-deposits/kotak-3-1-account.html">Kotak 3-in-1 Account</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/safe-deposit-lockers.html">Safe Deposit Lockers</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/accounts-deposits/FATCA.html">FATCA</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																									<li class="dropdownAd">
-														<div class="img">
-															<img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/My-Family-Navigation-Banner.jpg">
-														</div>
-														<div class="imgInfo">
-															<h1>My Family - 6% is now a family matter</h1>
-															<p>Maintain balance as a family &amp; get a dedicated Relationship Manager.</p>
-															<a href="http://www.kotak.com/personal-banking/accounts-deposits/savings-accounts/my-family.html">
-																Know More															</a>
-														</div>
-													</li>
-																									<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Loans</span>											<ul class="subNavSectionLink longList2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/car-loan.html">Car Loans</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/home-loans.html">Home Loans</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/personal-loans.html">Personal Loans</a></li>
-																														<li><a href="http://www.kotak.com/personal/loans/tractor-finance.html">Tractor Finance</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/education-loan.html">Education Loan</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/rural-auto-farm-equipment-finance.html">Rural Auto &amp; Farm Equipment Finance</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/loan-against-property.html">Loan Against Property</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/home-improvement-loans.html">Home Improvement Loans</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/home-loan-balance-transfer.html">Home Loan Balance Transfer</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/commercial-vehicle-finance.html">Commercial Vehicle Finance</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/gold-loans.html">Gold Loans</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/construction-equipment-infrastructure-finance.html">Construction Equipment / Infrastructure Finance</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/loans/kotak-stock-ace.html">Loan Against Securities</a></li>
-																													<li><a href="http://www.kotak.com/personal/loans/unnati-auto-finance.html">Unnati Auto Finance</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																									<li class="dropdownAd">
-														<div class="img">
-															<img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/Personal_Loan.jpg">
-														</div>
-														<div class="imgInfo">
-															<h1>Personal Loans at attractive interest rates</h1>
-															<p>Quick approval &amp; Hassle free processing</p>
-															<a href="https://apply.kotak.com/personalloan/?ptr=Kotak&amp;src=offsite&amp;source=website&amp;banner=SmallAddBanner&amp;src=offsite">
-																Know More															</a>
-														</div>
-													</li>
-																									<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Cards</span>											<ul class="subNavSectionLink longList2">
-												<li class="nav">
-													<ul>
-																													<li><a href="https://www.kotak.com/OPR/fpass/pinGen/regeneration-pin.jsp">Generate PIN for Debit / Credit Cards</a></li>
-																													<li><a href="/personal-banking/cards/global-debit-cards.html">Debit Cards</a></li>
-																													<li><a href="/personal-banking/cards/debit-card-services.html">Debit Card Services</a></li>
-																													<li><a href="/credit-cards.html">Credit Cards</a></li>
-																													<li><a href="/compare-credit-cards.html">Compare Credit Cards</a></li>
-																													<li><a href="/personal-banking/cards/credit-card-services.html">Credit Card Services</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/cards/netcard.html">Kotak Netc@rd</a></li>
-																													<li><a href="/personal/cards/prepaid-card.html">Prepaid Cards</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
-																													<li><a href="http://www.kotak.com/kotakoffers/">Kotak Offers</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																									<li class="dropdownAd">
-														<div class="img">
-															<img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/Cards.jpg">
-														</div>
-														<div class="imgInfo">
-															<h1>Savings. Rewards. Entertainment</h1>
-															<p>Choose the Kotak Credit Card that best compliments your lifestyle.</p>
-															<a href="http://www.kotak.com/compare-credit-cards.html">
-																Know More															</a>
-														</div>
-													</li>
-																									<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Investments &amp; Insurance</span>											<ul class="subNavSectionLink longList2">
-												<li class="nav">
-													<ul>
-																													<li><a href="/personal/investments-insurance/pradhan-mantri-bima-yojana.html">Pradhan Mantri Bima Yojana</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/sovereign-gold-bond-scheme.html">Sovereign Gold Bond Scheme</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/atal-pension-yojana.html">Atal Pension Yojana (APY)</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/life-insurance.html">Life Insurance</a></li>
-																													<li><a href="http://www.kotak.com/personal/investments-insurance/qualified-foreign-investor-qfi.html">Qualified Foreign Investor (QFI)</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/asba.html">ASBA</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/mutual-funds.html">Mutual Funds</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/demat-account.html">Demat Account</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/national-pension-system.html">National Pension System</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/investments-insurance/FATCA.html">FATCA</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Financial Inclusion </span>											<ul class="subNavSectionLink ad1">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion.html">Financial Inclusion</a></li>
-																													<li><a href="http://www.kotak.com/personal/financial-inclusion/bsbda-bank-branches.html">BSBDA - Bank Branches</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/small-accounts-business-correspondent-fino-ltd.html">Small Accounts - Business correspondent (FINO Ltd.) </a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/bsbdasmall-accounts-business-correspondent-manipal-technologies-ltd">BSBDA/Small Accounts - Business Correspondent (Manipal Technologies Ltd.)</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/business-correspondent-details.html">Business Correspondent Details </a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/grievance-redressal.html">Grievance Redressal </a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/news.html">News</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/financial-inclusion/list-villages-covered-bc-model.html">List of Villages covered by BC Model</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Convenience Banking</span>											<ul class="subNavSectionLink ad2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/contests-winners.html">Contests &amp; Winners</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/hashtag-banking.html">Hashtag Banking</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/instacheck-service.html">Instacheck service</a></li>
-																													<li><a href="/personal/convenience-banking/money-watch.html">Money Watch</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/atm-branch-locator.html">ATM Branch Locator</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/net-banking.html">Net Banking</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
-																													<li><a href="http://www.kotak.com/personal/convenience-banking/insta-balance-service.html">Insta Balance Service</a></li>
-																													<li><a href="http://www.kotak.com/personal/convenience-banking/unstructured-supplementary-service-data-ussd.html">Unstructured Supplementary Service Data (USSD)</a></li>
-																													<li><a href="http://www.kotak.com/personal/convenience-banking/alerts.html">Alerts</a></li>
-																													<li><a href="http://www.kotak.com/personal/convenience-banking/atm-network.html">ATM Network</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
-																													<li><a href="http://www.kotak.com/personal/convenience-banking/list-billers.html">List of Billers</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Make Payments</span>											<ul class="subNavSectionLink ad3 lastUl">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/online-shopping.html">Online Shopping</a></li>
-																													<li><a href="http://www.kotak.com/personal/make-payments/travel-entertainment.html">Travel &amp; Entertainment</a></li>
-																													<li><a href="/personal-banking/make-payments-online/bills-recharges-donate.html">Utility Payments &amp; Recharge</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/asset-reconstruction-retail-payments.html">Asset Reconstruction - Retail Payments</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/message-money.html">Message Money</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/mail-money.html">Mail Money</a></li>
-																													<li><a href="/personal-banking/make-payments/credit-card-payment.html">Credit Card Payment</a></li>
-																													<li><a href="/personal-banking/make-payments/etaxes.html">eTaxes</a></li>
-																													<li><a href="/personal-banking/make-payments/money-transfer.html">Money Transfer</a></li>
-																													<li><a href="/pay-loan-emi.html">Pay Loan EMI</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/netcard.html">Kotak Netc@rd</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/make-payments/verfiedbyvisa-mastercard.html">Secure your Online transactions (VerfiedByVISA / MasterCard SecureCode)</a></li>
-																													<li><a href="http://www.kotak.com/personal/make-payments/kaypay.html">Kaypay</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection lastsubsection">
-										<span class="subMainCat">Agri Business</span>											<ul class="subNavSectionLink ad4 lastUl2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/personal/agri-business/about-us.html">About Us</a></li>
-																													<li><a href="http://www.kotak.com/personal/agri-business/agri-sme.html">Agri SME</a></li>
-																													<li><a href="http://www.kotak.com/personal/agri-business/agri-corporate.html">Agri Corporate</a></li>
-																													<li><a href="http://www.kotak.com/personal-banking/agri-business/media-center.html">Media Center</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																		
-							 </ul>						                
-                		              		</div>
-              		<div class="CL"></div>
-            	</li>
-            					<li class="section ">
-						<a href="/nri-banking.html"><span>NRI</span></a>	
-						<div class="subNavLink">									
-							 <ul>									
-									<li class="subsection">
-										<span class="subMainCat">Accounts &amp; Deposits</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/nri-banking/accounts/savings-account.html">Savings Account</a></li>
-																													<li><a href="/nri-banking/accounts/current-account.html">Current Accounts</a></li>
-																													<li><a href="/nri-banking/deposits/term-deposits.html">Term Deposits</a></li>
-																													<li><a href="/nri-banking/accounts-deposits/structured-products.html">Structured Products</a></li>
-																													<li><a href="/nri-banking/accounts-deposits/special-products.html-0">Special Products</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Transfer Money</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/nri-banking/transfer-money/click2remit.html">Click2Remit</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/transfer-money/wire-transfer.html">Wire Transfer</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/transfer-money/remittances-from-ME.html">Remittances from Exchange House</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/transfer-money/cheque.html">Cheque &amp; Demand Draft</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Loans</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/nri-banking/loans/nri-home-loan.html">NRI Home Loan</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/loans/nri-home-improvement-loan.html">NRI Home Improvement Loan</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Cards</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/nri-banking/cards/global-debit-card.html">Debit Cards</a></li>
-																													<li><a href="/nri-banking/cards/credit-cards.html">Credit Cards</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/cards/netcard.html">Kotak Netc@rd</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/cards/access-india-debit-card.html">Access India</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/cards/best-compliments-cards.html">Best Compliments Cards</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Investments &amp; Insurance</span>											<ul class="subNavSectionLink lastUl">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/nri-banking/investments-insurance/life-insurance.html">Life Insurance</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/investments-insurance/mutual-funds.html">Mutual Funds</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/investments-insurance/national-pension-system.html">National Pension System</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/investments-insurance/portfolio-investments-schemes.html">Portfolio Investments Schemes</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/investments-insurance/demat-account.html">Demat Account</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection lastsubsection">
-										<span class="subMainCat">Convenience Banking</span>											<ul class="subNavSectionLink lastUl2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/net-banking.html">Net Banking</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/p-o-box-services.html">P O Box services</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/atm-network.html">ATM Network</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
-																													<li><a href="http://www.kotak.com/nri-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																		
-							 </ul>						                
-                		              		</div>
-              		<div class="CL"></div>
-            	</li>
-            					<li class="section ">
-						<a href="http://privyleague.kotak.com/" target="_blank"><span>Privy League</span></a>	
-						<div class="subNavLink">              		</div>
-              		<div class="CL"></div>
-            	</li>
-            					<li class="section ">
-						<a href="http://wealthmanagement.kotak.com/" target="_blank"><span>Wealth</span></a>	
-						<div class="subNavLink">              		</div>
-              		<div class="CL"></div>
-            	</li>
-            					<li class="section ">
-						<a href="/sme-banking.html"><span>SME</span></a>	
-						<div class="subNavLink">									
-							 <ul>									
-									<li class="subsection">
-										<span class="subMainCat">Accounts</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/sme-banking/current-accounts.html">Current Accounts</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Loans &amp; Overdrafts</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/k-value.html">K-Value</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/business-banking-solutions.html">Business Banking Solutions</a></li>
-																													<li><a href="http://www.kotak.com/sme/loans-overdrafts/tractor-finance.html">Tractor Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme/loans-overdrafts/rural-auto-farm-equipment-finance.html">Rural Auto &amp; Farm Equipment Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/term-loans-strategic-business-loans.html">Term Loans (Strategic Business Loans)</a></li>
-																													<li><a href="http://www.kotak.com/sme/loans-overdrafts/loan-against-property.html">Loan Against Property</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/fccr.html">Facility Against Credit Card Receivables</a></li>
-																													<li><a href="http://www.kotak.com/sme/loans-overdrafts/commercial-vehicle-finance.html">Commercial Vehicle Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/construction-equipment-infrastructure-finance.html">Construction Equipment / Infrastructure Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/unnati-auto-finance.html">Unnati Auto Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/credit-access.html">Credit Access</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/business-loans.html">Business Loans</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Working Capital Finance</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/sme-banking/working-capital-finance/msme-cgtmse.html">MSME/CGTMSE</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/working-capital-finance/micro-small-and-medium-enterprises.html">MSME</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/working-capital-finance.html">Working Capital Finance</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/working-capital-finance/channel-finance.html">Channel Finance</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Dealer Finance</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/sme-banking/dealer-finance.html">Dealer Finance</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Trade Services</span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/sme-banking/trade-services/trade-services.html-0">Trade Services</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Convenience Banking</span>											<ul class="subNavSectionLink lastUl">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/net-banking.html">Net Banking</a></li>
-																													<li><a href="http://www.kotak.com/sme/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
-																													<li><a href="http://www.kotak.com/sme/convenience-banking/unstructured-supplementary-service-data-ussd-.html">Unstructured Supplementary Service Data (USSD)</a></li>
-																													<li><a href="http://www.kotak.com/sme/convenience-banking/alerts.html">Alerts</a></li>
-																													<li><a href="http://www.kotak.com/sme/convenience-banking/atm-network.html">ATM Network</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
-																													<li><a href="http://www.kotak.com/sme/convenience-banking/cheque-deposit-kiosk-cdk-.html">Cheque Deposit Kiosk (CDK)</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection lastsubsection">
-										<span class="subMainCat">Government Business</span>											<ul class="subNavSectionLink lastUl2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/sme-banking/government-business/delhi-vat-and-cst.html">Delhi VAT and CST</a></li>
-																													<li><a href="http://www.kotak.com/sme-banking/government-business/gujarat-commercial-tax.html">Gujarat Commercial Tax</a></li>
-																													<li><a href="http://www.kotak.com/sme/government-business/andhra-pradesh-commercial-tax.html">Andhra Pradesh Commercial Tax</a></li>
-																													<li><a href="https://www.pextax.com/PEXWAR/appmanager/pexportal/PunjabExcise">Punjab VAT &amp; CST </a></li>
-																													<li><a href="https://www.biharcommercialtax.gov.in/bweb/">Bihar VAT &amp; CST </a></li>
-																													<li><a href="https://odishatax.gov.in/ ">Odisha VAT &amp; CST </a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																		
-							 </ul>						                
-                		              		</div>
-              		<div class="CL"></div>
-            	</li>
-            					<li class="section ">
-						<a href="/wholesale-banking.html"><span>Wholesale</span></a>	
-						<div class="subNavLink">									
-							 <ul>									
-									<li class="subsection">
-										<span class="subMainCat">Accounts </span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/accounts/current-account.html">Current Account</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Funded Products </span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/funded-products/working-capital-financing.html">Working Capital</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/funded-products/structured-products.html">Structured Products</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Non - Funded Products </span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="/wholesale-banking/non-funded-products/securities-services.html">Securities Services</a></li>
-																													<li><a href="/wholesale-banking/non-funded-products/trade-services.html">Trade Services</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/non-funded-products/transaction-banking.html">Transaction Banking</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/fixed-income-products.html">Fixed Income Products</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Treasury Products </span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/treasury-products.html">Treasury Products </a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Investment Products </span>											<ul class="subNavSectionLink">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/investment-products/bancassurance.html">Bancassurance</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/investment-products/term-deposits.html">Term Deposits </a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/investment-products/mutual-funds.html">Mutual Funds</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection">
-										<span class="subMainCat">Convenience Banking</span>											<ul class="subNavSectionLink lastUl">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/net-banking.html">Net Banking</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/convenience-banking/unstructured-supplementary-service-data-ussd-.html">Unstructured Supplementary Service Data (USSD)</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/convenience-banking/alerts.html">Alerts</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/convenience-banking/atm-network.html">ATM Network</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/convenience-banking/cheque-deposit-kiosk-cdk-.html">Cheque Deposit Kiosk (CDK)</a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																			
-									<li class="subsection lastsubsection">
-										<span class="subMainCat">Government Business</span>											<ul class="subNavSectionLink lastUl2">
-												<li class="nav">
-													<ul>
-																													<li><a href="http://www.kotak.com/wholesale-banking/government-business/delhi-vat-and-cst.html">Delhi VAT and CST</a></li>
-																													<li><a href="http://www.kotak.com/wholesale-banking/government-business/gujarat-commercial-tax.html">Gujarat Commercial Tax</a></li>
-																													<li><a href="http://www.kotak.com/wholesale/government-business/andhra-pradesh-commercial-tax.html">Andhra Pradesh Commercial Tax</a></li>
-																													<li><a href="https://www.pextax.com/PEXWAR/appmanager/pexportal/PunjabExcise">Punjab VAT &amp; CST </a></li>
-																													<li><a href="https://www.biharcommercialtax.gov.in/bweb/">Bihar VAT &amp; CST </a></li>
-																													<li><a href="https://odishatax.gov.in/ ">Odisha VAT &amp; CST </a></li>
-																											</ul>
-												</li>
-												
-												<!-- Navigation Banner and Footer Start -->
-																								<!-- Navigation Banner and Footer End -->
-											
-											</ul>										
-										</li>
-																		
-							 </ul>						                
-                		              		</div>
-              		<div class="CL"></div>
-            	</li>
-            
-			<!--<li class="section ing-kotak">
+  <div>
+    <div class="mainNav">
+      <ul>
+                <li class="section ">
+          <a href="/personal-banking.html"><span>Personal</span></a>          <div class="subNavLink">
+                        <ul>
+                            <li class="subsection">
+                                <span class="subMainCat">Accounts &amp; Deposits</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/personal-banking/savings-accounts.html">Savings Accounts</a></li>
+                                            <li><a href="/personal-banking/accounts/current-account.html">Current Accounts</a></li>
+                                            <li><a href="/personal-banking/accounts/corporate-salary-account.html">Corporate Salary Accounts</a></li>
+                                            <li><a href="/personal-banking/accounts-deposits/jifi-account.html">Jifi Accounts</a></li>
+                                            <li><a href="/personal-banking/accounts/term-deposits.html">Term Deposits</a></li>
+                                            <li><a href="http://www.kotak.com/personal/accounts-deposits/kotak-3-1-account.html">Kotak 3-in-1 Account</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/safe-deposit-lockers.html">Safe Deposit Lockers</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/accounts-deposits/FATCA.html">FATCA</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <li class="dropdownAd">
+                    <div class="img"> <img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/My-Family-Navigation-Banner.jpg"> </div>
+                    <div class="imgInfo">
+                      <h1>My Family - 6% is now a family matter</h1>
+                      <p>Maintain balance as a family &amp; get a dedicated Relationship Manager.</p>
+                      <a href="http://www.kotak.com/personal-banking/accounts-deposits/savings-accounts/my-family.html"> Know More </a> </div>
+                  </li>
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Loans</span>
+                                                <ul class="subNavSectionLink longList2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/car-loan.html">Car Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/personal-loans.html">Personal Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/home-loans.html">Home Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/tractor-finance.html">Tractor Finance</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/education-loan.html">Education Loan</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/crop-loans.html">Crop Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/loan-against-property.html">Loan Against Property</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/rural-auto-farm-equipment-finance.html">Rural Auto &amp; Farm Equipment Finance</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/home-improvement-loans.html">Home Improvement Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/home-loan-balance-transfer.html">Home Loan Balance Transfer</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/gold-loans.html">Gold Loans</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans-overdrafts/commercial-vehicle-finance.html">Commercial Vehicle Finance</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/loans/kotak-stock-ace.html">Loan Against Securities</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/construction-equipment-infrastructure-finance.html">Construction Equipment / Infrastructure Finance</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
+                                            <li><a href="http://www.kotak.com/personal/loans/unnati-auto-finance.html">Unnati Auto Finance</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <li class="dropdownAd">
+                    <div class="img"> <img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/Personal_Loan.jpg"> </div>
+                    <div class="imgInfo">
+                      <h1>Personal Loans at attractive interest rates</h1>
+                      <p>Quick approval &amp; Hassle free processing</p>
+                      <a href="https://rcasprod.kotak.com/personal-loan?source=website&amp;banner=NavigationBanner&amp;src=offsite"> Apply Now </a> </div>
+                  </li>
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Cards</span>
+                                                <ul class="subNavSectionLink longList2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="https://www.kotak.com/OPR/fpass/pinGen/regeneration-pin.jsp">Generate PIN For Debit / Credit / Gift Cards</a></li>
+                                            <li><a href="/personal-banking/cards/global-debit-cards.html">Debit Cards</a></li>
+                                            <li><a href="/personal-banking/cards/debit-card-services.html">Debit Card Services</a></li>
+                                            <li><a href="/credit-cards.html">Credit Cards</a></li>
+                                            <li><a href="/compare-credit-cards.html">Compare Credit Cards</a></li>
+                                            <li><a href="/personal-banking/cards/credit-card-services.html">Credit Card Services</a></li>
+                                            <li><a href="/personal/cards/prepaid-card.html">Prepaid Cards</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/cards/netcard.html">Kotak Netc@rd</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/accounts-deposits/erstwhile-ing-vysya-variants.html">Erstwhile ING Vysya variants</a></li>
+                                            <li><a href="http://www.kotak.com/kotakoffers/">Kotak Offers</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <li class="dropdownAd">
+                    <div class="img"> <img width="244" height="125" src="http://www.kotak.com/sites/default/files/revamp/menu_banners/Cards.jpg"> </div>
+                    <div class="imgInfo">
+                      <h1>Savings. Rewards. Entertainment</h1>
+                      <p>Choose the Kotak Credit Card that best compliments your lifestyle.</p>
+                      <a href="http://www.kotak.com/compare-credit-cards.html"> Know More </a> </div>
+                  </li>
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Investments &amp; Insurance</span>
+                                                <ul class="subNavSectionLink longList2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/personal/investments-insurance/pradhan-mantri-bima-yojana.html">Pradhan Mantri Bima Yojana</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/sovereign-gold-bond-scheme.html">Sovereign Gold Bond Scheme</a></li>
+                                            <li><a href="/personal-banking/investments-insurance/general-insurance.html">General Insurance</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/atal-pension-yojana.html">Atal Pension Yojana</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/life-insurance.html">Life Insurance</a></li>
+                                            <li><a href="http://www.kotak.com/personal/investments-insurance/qualified-foreign-investor-qfi.html">Qualified Foreign Investor (QFI)</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/asba.html">ASBA</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/mutual-funds.html">Mutual Funds</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/demat-account.html">Demat Account</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/national-pension-system.html">National Pension System (NPS)</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/investments-insurance/FATCA.html">FATCA</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Financial Inclusion </span>
+                                                <ul class="subNavSectionLink ad1">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/personal-banking/financial-inclusion.html">Financial Inclusion</a></li>
+                                            <li><a href="http://www.kotak.com/personal/financial-inclusion/financial-inclusion-savings-accounts.html">Financial Inclusion - Savings Accounts</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/financial-inclusion/business-correspondent-details.html">Business Correspondent Details </a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/financial-inclusion/bsbdasmall-accounts-business-correspondent-manipal-technologies-ltd.html">BSBDA/Small Accounts - Business Correspondent (Manipal Technologies Ltd.)</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/financial-inclusion/grievance-redressal.html">Nodal Branch Details</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/financial-inclusion/list-villages-covered-bc-model.html">List of Villages covered by BC Model</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Convenience Banking</span>
+                                                <ul class="subNavSectionLink ad2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/personal/convenience-banking/money-watch.html">Money Watch</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/hashtag-banking.html">Hashtag Banking</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/instacheck-service.html">Instacheck service</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/atm-branch-locator.html">ATM Branch Locator</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/net-banking.html">Net Banking</a></li>
+                                            <li><a href="http://www.kotak.com/personal/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
+                                            <li><a href="http://www.kotak.com/personal/convenience-banking/insta-balance-service.html">Insta Balance Service</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/unstructured-supplementary-service-data-ussd.html">Unstructured Supplementary Service Data (USSD)</a></li>
+                                            <li><a href="http://www.kotak.com/personal/convenience-banking/alerts.html">Alerts</a></li>
+                                            <li><a href="http://www.kotak.com/personal/convenience-banking/atm-network.html">ATM Network</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
+                                            <li><a href="http://www.kotak.com/personal/convenience-banking/list-billers.html">List of Billers</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Make Payments</span>
+                                                <ul class="subNavSectionLink ad3 lastUl">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/online-shopping.html">Online Shopping</a></li>
+                                            <li><a href="http://www.kotak.com/personal/make-payments/travel-entertainment.html">Travel &amp; Entertainment</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/message-money.html">Message Money</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/mail-money.html">Mail Money</a></li>
+                                            <li><a href="/personal-banking/make-payments-online/bills-recharges-donate.html">Utility Payments &amp; Recharge</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/asset-reconstruction-retail-payments.html">Retail - Asset Reconstruction</a></li>
+                                            <li><a href="/personal-banking/make-payments/credit-card-payment.html">Credit Card Payment</a></li>
+                                            <li><a href="/personal-banking/make-payments/etaxes.html">eTaxes</a></li>
+                                            <li><a href="/personal-banking/make-payments/money-transfer.html">Money Transfer</a></li>
+                                            <li><a href="/pay-loan-emi.html">Pay Loan EMI</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/netcard.html">Kotak Netc@rd</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/verfiedbyvisa-mastercard.html">Secure your Online transactions (VerfiedByVISA / MasterCard SecureCode)</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/make-payments/kaypay.html">Kaypay</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection lastsubsection">
+                                <span class="subMainCat" onclick="instantbillpay();">Instant Bill Pay</span>
+                                            </li></ul>
+                      </div>
+          <div class="CL"></div>
+        </li>
+                <li class="section ">
+          <a href="/nri-banking.html"><span>NRI</span></a>          <div class="subNavLink">
+                        <ul>
+                            <li class="subsection">
+                                <span class="subMainCat">Accounts &amp; Deposits</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/nri-banking/accounts/savings-account.html">Savings Account</a></li>
+                                            <li><a href="/nri-banking/accounts/current-account.html">Current Accounts</a></li>
+                                            <li><a href="/nri-banking/deposits/term-deposits.html">Term Deposits</a></li>
+                                            <li><a href="/nri-banking/accounts-deposits/structured-products.html">Structured Products</a></li>
+                                            <li><a href="/nri-banking/accounts-deposits/special-products.html">Special Products</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Transfer Money</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/nri-banking/transfer-money/click2remit.html">Click2Remit</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/transfer-money/wire-transfer.html">Wire Transfer</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/transfer-money/remittances-from-ME.html">Remittances from Exchange House</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/transfer-money/cheque.html">Cheque &amp; Demand Draft</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Loans</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/nri-banking/loans/nri-home-loan.html">NRI Home Loan</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/loans/nri-home-improvement-loan.html">NRI Home Improvement Loan</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Cards</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/nri-banking/cards/global-debit-card.html">Debit Cards</a></li>
+                                            <li><a href="/nri-banking/cards/credit-cards.html">Credit Cards</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/cards/netcard.html">Kotak Netc@rd</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/cards/access-india-debit-card.html">Access India</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/cards/best-compliments-cards.html">Best Compliments Cards</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Investments &amp; Insurance</span>
+                                                <ul class="subNavSectionLink lastUl">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/nri-banking/investments-insurance/life-insurance.html">Life Insurance</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/investments-insurance/mutual-funds.html">Mutual Funds</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/investments-insurance/national-pension-system.html">National Pension System (NPS)</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/investments-insurance/portfolio-investments-schemes.html">Portfolio Investments Schemes</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/investments-insurance/demat-account.html">Demat Account</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection lastsubsection">
+                                <span class="subMainCat">Convenience Banking</span>
+                                                <ul class="subNavSectionLink lastUl2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/net-banking.html">Net Banking</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/p-o-box-services.html">P O Box services</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/atm-network.html">ATM Network</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
+                                            <li><a href="http://www.kotak.com/nri-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                          </ul>
+                      </div>
+          <div class="CL"></div>
+        </li>
+                <li class="section ">
+          <a href="http://privyleague.kotak.com/" target="_blank"><span>Privy League</span></a>          <div class="subNavLink">
+                      </div>
+          <div class="CL"></div>
+        </li>
+                <li class="section ">
+          <a href="http://wealthmanagement.kotak.com/" target="_blank"><span>Wealth</span></a>          <div class="subNavLink">
+                      </div>
+          <div class="CL"></div>
+        </li>
+                <li class="section ">
+          <a href="/sme-banking.html"><span>SME</span></a>          <div class="subNavLink">
+                        <ul>
+                            <li class="subsection">
+                                <span class="subMainCat">Accounts</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/sme-banking/current-accounts.html">Current Accounts</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Loans &amp; Overdrafts</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/k-value.html">K-Value</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/business-banking-solutions.html">Business Banking Solutions</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/tractor-finance.html">Tractor Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/crop-loans.html">Crop Loans</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/rural-auto-farm-equipment-finance.html">Rural Auto &amp; Farm Equipment Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/loan-against-property.html">Loan Against Property</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/term-loans-strategic-business-loans.html">Term Loans (Strategic Business Loans)</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/fccr.html">Facility Against Credit Card Receivables</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/commercial-vehicle-finance.html">Commercial Vehicle Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/construction-equipment-infrastructure-finance.html">Construction Equipment / Infrastructure Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/unnati-auto-finance.html">Unnati Auto Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/credit-access.html">Credit Access</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/loans-overdrafts/business-loans.html">Business Loans</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Working Capital Finance</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/sme-banking/working-capital-finance/msme-cgtmse.html">MSME/CGTMSE</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/working-capital-finance/micro-small-and-medium-enterprises.html">MSME</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/working-capital-finance.html">Working Capital Finance</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/working-capital-finance/channel-finance.html">Channel Finance</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Dealer Finance</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/sme-banking/dealer-finance.html">Dealer Finance</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Trade Services</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/sme-banking/trade-services/trade-services.html-0">Trade Services</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Convenience Banking</span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/net-banking.html">Net Banking</a></li>
+                                            <li><a href="http://www.kotak.com/sme_banking/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/unstructured-supplementary-service-data-ussd.html">Unstructured Supplementary Service Data (USSD)</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/alerts.html">Alerts</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/atm-network.html">ATM Network</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Govt Business</span>
+                                                <ul class="subNavSectionLink lastUl">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/sme-banking/government-business/delhi-vat-and-cst.html">Delhi VAT and CST</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/government-business/gujarat-commercial-tax.html">Gujarat Commercial Tax</a></li>
+                                            <li><a href="http://www.kotak.com/sme-banking/government-business/andhra-pradesh-commercial-tax.html">Andhra Pradesh Commercial Tax</a></li>
+                                            <li><a href="https://www.pextax.com/PEXWAR/appmanager/pexportal/PunjabExcise">Punjab VAT &amp; CST </a></li>
+                                            <li><a href="https://www.biharcommercialtax.gov.in/bweb/">Bihar VAT &amp; CST </a></li>
+                                            <li><a href="https://odishatax.gov.in/ ">Odisha VAT &amp; CST </a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection lastsubsection">
+                                <span class="subMainCat">Agri</span>
+                                                <ul class="subNavSectionLink ad4 lastUl2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/personal/agri-business/about-us.html">About Us</a></li>
+                                            <li><a href="http://www.kotak.com/personal/agri-business/agri-sme.html">Agri SME</a></li>
+                                            <li><a href="http://www.kotak.com/personal/agri-business/agri-corporate.html">Agri Corporate</a></li>
+                                            <li><a href="http://www.kotak.com/personal-banking/agri-business/media-center.html">Media Center</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                          </ul>
+                      </div>
+          <div class="CL"></div>
+        </li>
+                <li class="section ">
+          <a href="/wholesale-banking.html"><span>Wholesale</span></a>          <div class="subNavLink">
+                        <ul>
+                            <li class="subsection">
+                                <span class="subMainCat">Accounts </span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/accounts/current-account.html">Current Account</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Funded Products </span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/funded-products/working-capital-financing.html">Working Capital</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/funded-products/structured-products.html">Structured Products</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Non - Funded Products </span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="/wholesale-banking/non-funded-products/securities-services.html">Securities Services</a></li>
+                                            <li><a href="/wholesale-banking/non-funded-products/trade-services.html">Trade Services</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/non-funded-products/transaction-banking.html">Transaction Banking</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/fixed-income-products.html">Fixed Income Products</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Treasury Products </span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/treasury-products.html">Treasury Products </a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Investment Products </span>
+                                                <ul class="subNavSectionLink">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/investment-products/term-deposits.html">Term Deposits </a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/investment-products/mutual-funds.html">Mutual Funds</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection">
+                                <span class="subMainCat">Convenience Banking</span>
+                                                <ul class="subNavSectionLink lastUl">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/net-banking.html">Net Banking</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/immediate-payment-service.html">Immediate Payment Service</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/sms-banking.html">SMS Banking</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/kotak-payment-gateway.html">Kotak Payment Gateway</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/mobile-banking.html">Mobile Banking</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/unstructured-supplementary-service-data-ussd.html">Unstructured Supplementary Service Data (USSD)</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/alerts.html">Alerts</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/atm-network.html">ATM Network</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/phone-banking.html">Phone Banking</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/cash-deposit-machine.html">Cash Deposit Machine</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/convenience-banking/cheque-deposit-kiosk-cdk.html">Cheque Deposit Kiosk (CDK)</a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                            <li class="subsection lastsubsection">
+                                <span class="subMainCat">Government Business</span>
+                                                <ul class="subNavSectionLink lastUl2">
+                  <li class="nav">
+                    <ul>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/government-business/delhi-vat-and-cst.html">Delhi VAT and CST</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale-banking/government-business/gujarat-commercial-tax.html">Gujarat Commercial Tax</a></li>
+                                            <li><a href="http://www.kotak.com/wholesale/government-business/andhra-pradesh-commercial-tax.html">Andhra Pradesh Commercial Tax</a></li>
+                                            <li><a href="https://www.pextax.com/PEXWAR/appmanager/pexportal/PunjabExcise">Punjab VAT &amp; CST </a></li>
+                                            <li><a href="https://www.biharcommercialtax.gov.in/bweb/">Bihar VAT &amp; CST </a></li>
+                                            <li><a href="https://odishatax.gov.in/ ">Odisha VAT &amp; CST </a></li>
+                                          </ul>
+                  </li>
+                  
+                  <!-- Navigation Banner and Footer Start -->
+                                    <!-- Navigation Banner and Footer End -->
+                  
+                </ul>
+              </li>
+                          </ul>
+                      </div>
+          <div class="CL"></div>
+        </li>
+                
+        <!--<li class="section ing-kotak">
 				<a href="http://ingvysya.kotak.com/personal-banking/products/home.aspx" target="_blank"><span>ING Vysya (now Kotak)</span></a>
-			</li>-->
-			<!-- Merger link 12052016 -->
-			<li class="">
-				<a href="http://www.kotak.com/about-merger.htm" target="_blank"><span>About Merger</span></a>
-			</li>
-		</ul>
-	</div>
-	<!--Main Nav End-->	
-		
-	<!-- Search Start-->
-	
-
-	<div class="rtSrch">
-		<form action="" id="cse-search-box">
-			<script type="text/javascript">
+			</li>--> 
+        <!-- Merger link 12052016 -->
+        <li class=""> <a href="http://www.kotak.com/about-merger.htm" target="_blank"><span>About Merger</span></a> </li>
+      </ul>
+    </div>
+    <!--Main Nav End--> 
+    
+    <!-- Search Start-->
+        <div class="rtSrch">
+      <form action="" id="cse-search-box">
+        <script type="text/javascript">
 				$(function(){
 					$('#cse-search-box').submit(function(){
 						searchSubmit();
@@ -908,28 +978,32 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 						window.location.replace(str);
 					}
 				}
+                function instantbillpay()
+				{
+					window.open("http://www.kotak.com/InstaPay-Disclaimer.htm",'_self');
+						
+				}
 			</script>
-			
-			<div id="edit-search-block-form-1-wrapper" class="form-item">
-				<input type="text" id="q" name="q" maxlength="128" value="">
-			</div>
-			<a class="submitsearch FR" href="javascript:void(0);" onclick="javascript:searchSubmit();"></a>
-		</form>
-	</div>
-	
-	<!-- Google custom search box Start -by BloggerSentral.com -->
-		<div class="CL"></div>
-	<!-- Search End-->
-	</div>
-	
-	<!-- SubNav Bg Start-->
-	<div class="subMainNav" style="display: block">
-		<div class="leftCv"></div>
-		<div class="midBg"></div>
-		<div class="rightCv"></div>
-		<div class="CL"></div>
-	</div>
-	<!-- SubNav Bg End-->
+        <div id="edit-search-block-form-1-wrapper" class="form-item">
+          <input type="text" id="q" name="q" maxlength="128" value="">
+        </div>
+        <a class="submitsearch FR" href="javascript:void(0);" onclick="javascript:searchSubmit();"></a>
+      </form>
+    </div>
+    
+    <!-- Google custom search box Start -by BloggerSentral.com -->
+    <div class="CL"></div>
+    <!-- Search End--> 
+  </div>
+  
+  <!-- SubNav Bg Start-->
+  <div class="subMainNav" style="display: block">
+    <div class="leftCv"></div>
+    <div class="midBg"></div>
+    <div class="rightCv"></div>
+    <div class="CL"></div>
+  </div>
+  <!-- SubNav Bg End--> 
 </div>
 <script language="javascript" type="text/javascript">
 	/* Mn updated at 01-10-2014 04:42 PM file 78 */
@@ -1033,6 +1107,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 												<li><a href="https://www.kotak.com/j1001mp/netapp/BANKAWAYConverge.jsp" target="_blank">Wholesale Banking</a></li>
 												<li><a href="https://kapps.kotak.com/TransactCashWeb/CorpLogin.jsp" target="_blank">CMS NETIT</a></li>
 												<li><a id="loginNetBanking" href="https://www.kotak.com/j1001mp/netapp/MainPage.jsp">Corporate Salary Upload</a></li>
+												<li><a href="http://kotak.liquidice.in/liquidice" target="_blank">LIQUIDICE</a></li>
 										</ul>
 			
 		</li>
@@ -1051,7 +1126,8 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 										<li><a href="http://www.kotak.com/personal-banking/cards/credit-cards/apply-now.html?source=Website&amp;banner=HmePg-WS-loginbox-CC-genric" target="_blank">Credit Card</a></li>
 										<li><a href="https://rcasprod.kotak.com/personal-loan?source=website&amp;banner=HmePg-WS-loginbox-PL-genric" target="_blank">Personal Loan</a></li>
 										<li><a href="https://apply.kotak.com/savingaccount/ri_home.jsp?src=SAJIFIS&amp;Source=Website&amp;anpc=25519&amp;Banner=HmePg-WS-loginbox-JIFI-genric" target="_blank">Jifi Saver</a></li>
-										<li><a href="https://apply.kotak.com/accounts/?src=CCA&amp;ptr=CCA&amp;Source=Websiteloginbox" target="_blank">Current Account</a></li>
+										<li><a href="https://apply.kotak.com/accounts/?src=sme&amp;ptr=SME&amp;pdt=CCA&amp;utm_source=Websitedropdown&amp;utm_banner=applynow&amp;utm_campaign=kotakhomepage&amp;journey=Direct" target="_blank">Current Account</a></li>
+										<li><a href="http://holidaybuilder.kotak.com/leadcapture1 " target="_blank">Holiday Builder</a></li>
 								</ul>
 			
 		</li>
@@ -1267,9 +1343,17 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
   <div class="collapse ">
     <h2> <a href="/important-information.html">Important Customer Information</a> </h2>
   </div>
-  <div class="collapse ">
-    <h2> <a href="/download-forms.html">Download Forms</a> </h2>
-  </div>
+  <!--<div class="collapse ">
+    <h2>  </h2>
+	
+	</div>-->
+<div class="collapse  ">
+<h2>Download Forms</h2>
+<ul>
+<li><a href="/download-forms/personal.html">Personal Banking</a></li>
+<li><a href="/download-forms.html">Other Forms</a></li>
+</ul>
+</div>
   
   <!-- <div class="collapse">
 <h2>Offers &amp; Deals</h2>
@@ -1284,9 +1368,13 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
   <div class="collapse ">
     <h2><a href="/atm-branch-locator.html">Tools &amp; Utilities</a></h2>
         <ul style="display:none">
-      <li> <a href="http://www.kotak.com/personal-banking/convenience-banking/atm-branch-locator.html">Branch &amp; ATM Locations </a> </li>
-            <li><a href="/neft-rtgs-timings.html">NEFT &amp; RTGS Timings</a></li>
-            <li> <a href="http://www.kotak.com/calculator/rd_cal/index.php">Recurring Deposit Calculator </a> </li>
+       <li> <a href="http://www.kotak.com/personal-banking/convenience-banking/atm-branch-locator.html">Branch &amp; ATM Locations </a> </li>
+             <li><a href="/neft-rtgs-timings.html">NEFT &amp; RTGS Timings</a></li>
+      		<li> <a href="http://www.kotak.com/calculator/rd_cal/index.php" target="_blank">Recurring Deposit Calculator </a> </li>
+		<li><a href="http://www.kotak.com/personal-banking/loans/personal-loan-emi-calculator.php" target="_blank">Personal Loan EMI Calculator </a></li>
+		<li><a href="http://www.kotak.com/personal-banking/loans/home-loan-emi-calculator.php" target="_blank">Home Loan EMI Calculator </a></li>
+		<li><a href="http://www.kotak.com/personal-banking/loans/business-loan-emi-calculator.php" target="_blank">Business Loan EMI Calculator</a></li>
+		<li><a href="http://www.kotak.com/personal-banking/loans/car-loan-emi-calculator.php" target="_blank">Car Loan EMI Calculator</a></li>
     </ul>
   </div>
   <div class="collapse ">
@@ -1334,14 +1422,13 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
   <h1>
     Privacy Policy  </h1>
   <div class="pageAction">
-    <div class="contactBx">
-      <div id="img"><img src="/sites/default/files/iconCall.jpg"></div>
-      <div id="info">
-        <h2>1860 266 2666</h2>
-        <p><b>(24 X 7)</b></p>
-      </div>
-      <div class="CL"></div>
-    </div>
+ <div class="contactBx">
+			<div id="img"><img src="/sites/default/files/iconCall.jpg"></div>
+						<div id="info">
+			  <h2>1860 266 2666</h2>
+                          <p>Local call rates apply</p>
+			</div>			<div class="CL"></div>
+		</div>
     <div class="socialCnct">
       <a class="facebook" title="Facebook" href="https://www.facebook.com/KotakBank" target="_blank">&nbsp;</a> 
 <a class="twitter" title="Twitter" href="http://twitter.com/#!/kotakbankltd" target="_blank">&nbsp;</a>
@@ -1563,7 +1650,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 		<div class="ftrlinkBx ">
 		<p>SME Banking</p>
 		<ul>
-			<li><a href="/sme-banking/current-accounts.html">Accounts</a></li><li><a href="/sme-banking/loans-overdrafts/business-loans.html">Loans &amp; Overdrafts</a></li><li><a href="/sme-banking/working-capital-finance.html">Working Capital Finance</a></li><li><a href="/sme-banking/dealer-finance.html">Dealer Finance</a></li><li><a href="/sme-banking/trade-services/trade-services.html-0">Trade Services</a></li><li><a href="http://www.kotak.com/sme/convenience-banking/immediate-payment-service.html">Convenience Banking</a></li>			
+			<li><a href="/sme-banking/current-accounts.html">Accounts</a></li><li><a href="/sme-banking/loans-overdrafts/business-loans.html">Loans &amp; Overdrafts</a></li><li><a href="/sme-banking/working-capital-finance.html">Working Capital Finance</a></li><li><a href="/sme-banking/dealer-finance.html">Dealer Finance</a></li><li><a href="/sme-banking/trade-services/trade-services.html-0">Trade Services</a></li><li><a href="http://www.kotak.com/sme_banking/convenience-banking/immediate-payment-service.html">Convenience Banking</a></li><li><a onclick="javascript:void(0);" target="_blank" href="http://www.kotak.com/sme/?utm_source=kotaksitefooter&amp;utm_medium=footerurl&amp;utm_term=smeconsultant&amp;utm_campaign=footerurl">SME Consultant</a></li>			
 		</ul>
 	</div>
 		<div class="ftrlinkBx last">
@@ -1581,7 +1668,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 
 										<li><a href="/personal-banking/savings-accounts.html">Accounts &amp; Deposits</a></li>
 								
-											<li><a href="/personal-banking/loans/car-loan.html">Loans</a></li>
+											<li><a href="/personal-banking/loans/personal-loans-0.html">Loans</a></li>
 								
 											<li><a href="/personal-banking/cards/global-debit-cards.html">Cards</a></li>
 								
@@ -1593,7 +1680,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 								
 											<li><a href="/personal-banking/make-payments-online/bills-recharges-donate.html">Make Payments</a></li>
 								
-											<li><a href="/personal/agri-business/about-us.html">Agri Business</a></li>
+											<li>Instant Bill Pay</li>
 								
 			
 		</ul>
@@ -1635,7 +1722,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 								
 											<li><a href="/sme-banking/loans-overdrafts/k-value.html">Loans &amp; Overdrafts</a></li>
 								
-											<li><a href="/sme-banking/working-capital-finance/micro-small-and-medium-enterprises.html">Working Capital Finance</a></li>
+											<li><a href="/sme-banking/working-capital-finance/msme-cgtmse.html">Working Capital Finance</a></li>
 								
 											<li><a href="/sme-banking/dealer-finance.html">Dealer Finance</a></li>
 								
@@ -1643,7 +1730,9 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 								
 											<li><a href=http://www.kotak.com/sme-banking/convenience-banking/net-banking.html>Convenience Banking</a></li>
 								
-											<li><a href=http://www.kotak.com/sme-banking/government-business/delhi-vat-and-cst.html>Government Business</a></li>
+											<li><a href=http://www.kotak.com/sme-banking/government-business/delhi-vat-and-cst.html>Govt Business</a></li>
+								
+											<li><a href="/personal/agri-business/about-us.html">Agri</a></li>
 								
 			
 		</ul>
@@ -1661,7 +1750,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "getdirections_colorbox": { "e
 								
 											<li><a href="/wholesale-banking/treasury-products.html">Treasury Products </a></li>
 								
-											<li><a href="/wholesale-banking/investment-products/bancassurance.html">Investment Products </a></li>
+											<li><a href="/wholesale-banking/investment-products/term-deposits.html">Investment Products </a></li>
 								
 											<li><a href=http://www.kotak.com/wholesale-banking/convenience-banking/net-banking.html>Convenience Banking</a></li>
 								
