@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514154123id_/http%3A//www.dailynews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynews.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218210043id_/http%3A//www.dailynews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -152,3 +152,5 @@ Digital First Media
 Denver, CO 80202-5177   
 Copyright 2015  
 
+
+[Click here to subscribe to Digital & Home Delivery - 50% off](https://myaccount.dailynews.com/Dsssubscribe.aspx?icmp=templateb&pid=545)
