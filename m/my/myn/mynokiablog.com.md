@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynokiablog.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613012650id_/http%3A//mynokiablog.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynokiablog.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218211603id_/http%3A//mynokiablog.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : My Nokia Blog - 200
+# Privacy Policy – My Nokia Blog
 
 **MyNokiaBlog.com respects your privacy.**
 
