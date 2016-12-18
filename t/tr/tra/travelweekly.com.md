@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620195013id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218133302id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # 
 
-        
-|  
-
-**PRIVACY POLICY  
-UPDATED AND REVISED AS OF AUGUST 28, 2012**
+**PRIVACY POLICY    
+UPDATED AND REVISED AS OF MAY 27, 2016**
 
 Northstar Travel Media, LLC ("Northstar") publishes this Internet Privacy Policy to inform you of our practices concerning the collection and use of information you provide us through interactions with this website and other Northstar-affiliated websites. This policy is not applicable to information gathered by other methods or controlled by other agreements.
 
@@ -20,9 +17,13 @@ If you are purchasing something from a Northstar website, we need to know person
 
 COOKIES AND RELATED TECHNOLGIES
 
-We collect information through technology, such as cookies and Web beacons, including when you visit our websites. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Northstar or its advertisers may send a cookie to your computer through your browser. Northstar uses cookies to track page requests and the duration of each user's visit, and the use of cookies allows us to provide a user's browser with information tailored to the visitor's preferences and needs and to also streamline the user's visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended.
+We collect information through technology, such as cookies, pixels, and Web beacons, including when you visit our websites. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Northstar or its advertisers may send a cookie to your computer through your browser. Northstar uses cookies to track page requests and the duration of each user's visit, and the use of cookies allows us to provide a user's browser with information tailored to the visitor's preferences and needs and to also streamline the user's visits to our website. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies or allow your browser to show you when a cookie is being sent. If you choose not to accept cookies, your experience at our website and other websites may be diminished and some features may not work as intended.
+
+Pixel tags are tiny graphic images that tell us what parts of the website have been visited or measure the effectiveness of searches users perform on the website. We may also use pixel tags in email messages to tell us whether emails have been opened to assure that we are only sending messages that are of interest to our users.
 
 In addition, Northstar automatically receives and records information on our server logs from your browser, including your IP address, Northstar cookie information, and the website page you request. Northstar uses this information to help diagnose problems with our servers, for system administration, and to examine our website traffic in aggregate. The information may be collected and used to improve the content of our Web pages and to customize content and/or layout for each user.
+
+Please note that Northstar may allow third party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Among other things, these third parties may use cookies, pixel tags and other technologies to enable such third parties to record which ads your browser has loaded and which pages you may have been viewing when the ads were delivered or accessed. Advertisers' use of cookies is subject to their own privacy policies, not the Northstar Privacy Policy.
 
 USE OF PERSONAL INFORMATION BY NORTHSTAR
 
@@ -81,9 +82,9 @@ In general, Northstar does not rent, sell, or share personal information about y
 
 
 
-DISPLAY OF ADVERTISING 
+DISPLAY OF ADVERTISING 
 
-Northstar reserves the right to use certain personal information for the presentation of relevant advertisements. Northstar may use ad networks to customize and display advertising on this website. Northstar may share certain information about you as a user (such as age, zip code, or other information we have collected or received) with certain ad network and service providers to help them deliver more relevant content and advertisements through their networks.
+Northstar or one of our web-advertising partners may deliver ads appearing on the website to users of our website. Our web-advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers only the use of cookies by Northstar and does not cover the use of cookies by any third party advertisers.
 
 DISCUSSION GROUPS AND FORUMS
 
@@ -111,8 +112,7 @@ CHANGES TO THIS PRIVACY POLICY
 
 Northstar reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon posting on the website. Users will be informed of changes to this Privacy Policy via the "updated as of" notice on this Policy.
 
-WHAT ELSE I SHOULD KNOW ABOUT MY PRIVACY WHEN ONLINE?  
-
+WHAT ELSE I SHOULD KNOW ABOUT MY PRIVACY WHEN ONLINE?
 
 The Northstar website contains many hyperlinks to other websites. The Northstar website also contains advertisements of third parties. Northstar is not responsible for the privacy practices or the content of such third party websites or advertisers. Northstar does not share any of the individual personal information you provide Northstar with the websites to which Northstar links, except as stated elsewhere within this Privacy Policy, although Northstar may share aggregate data with such websites (such as how many people use our website).
 
@@ -127,6 +127,10 @@ YOUR CALIFORNIA PRIVACY RIGHTS
 Under a provision of California law, a California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an opt-out or opt-in choice for use of your personal information by third parties for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. Because this website is intended for use on a business-to-business basis, this provision of California law will not apply, in most cases, to the information collected.
 
 California residents who utilize this website for personal, family, or household purposes may request further information about our compliance with this law by e-mailing lbuchanan@ntmllc.com. You should put the statement “Your California Privacy Rights” in the subject field of your email. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
+
+DO-NOT-TRACK
+
+Our website does not respond to "do-not-track" settings in users' web browsers at this time. However, there are various ways to opt out of interest-based advertising, such as TRUSTe’s Ad Choices, the Network Advertising Initiative’s Consumer Opt-Out Page, or you can also visit Google's Ad Settings to manage the ads Google serves.
 
 YOUR CONSENT TO THIS POLICY
 
