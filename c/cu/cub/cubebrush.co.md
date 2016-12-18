@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312033716id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubebrush.co privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218205537id_/https%3A//cubebrush.co/privacy) for the most accurate reproduction.*
 
 # Cubebrush
 
@@ -83,8 +83,8 @@ We may update its Privacy Policy from time to time, and so you should review thi
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@cubebrush.com](mailto:info@cubebrush.com), or send mail to: 
 
 Cubebrush, LLC   
-1415 Bryan Ave.   
-Tustin, CA 92780 
+PO Box 426   
+Tustin, CA 92781 
 
 
 
