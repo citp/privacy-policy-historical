@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506083856id_/http%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diamonds.net privacy policy that was archived on 2016-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161218203402id_/http%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Diamonds.Net - Privacy Policy
 </title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta property="fb:app_id" content="203230413170905"><meta name="application-name" content="Rapaport Diamonds.Net"><meta name="msapplication-TileColor" content="#d2002d"><meta name="msapplication-TileImage" content="Images/Win8Tiles/DnetTile.png"><meta name="keywords" content=""><meta name="description" content=""><link rel="SHORTCUT ICON" href="../Favicon.ico">
     
-    <script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRST"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Javascripts/jquery-1.7.2.min.js" type="text/javascript" language="javascript"> </script>
+    <script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RRST"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Javascripts/jquery-1.7.2.min.js" type="text/javascript" language="javascript"> </script>
     <link href="../Styles/Dnet.css" rel="stylesheet" type="text/css">
     <!--[if IE]>
 	<link href="../Styles/ieDnet.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     <script type="text/javascript" language="javascript">
 
         /****************************************************************************/
@@ -79,6 +80,9 @@
         }
 
         function post_to_url(path, params, method) {
+
+            //alert(path);
+
             method = method || "post";
             // Set method to post by default, if not specified.
             // The rest of this code assumes you are not using a library.
@@ -97,107 +101,107 @@
             form.submit();
         }
 
-        var clockDateTime = new Date(parseInt("1462509526669.68"));
-		var tick;
+        var clockDateTime = new Date(parseInt("1482075186856.71"));
+        var tick;
 
-		$(document).ready(function () {
-		    ActivateClearInput();
-		    UpdateClock();
+        $(document).ready(function () {
+            ActivateClearInput();
+            UpdateClock();
 
-		    $("#TopLoginBox").hover(function () {
-		        isInsideLogin = true;
+            $("#TopLoginBox").hover(function () {
+                isInsideLogin = true;
+            }, function () {
+                isInsideLogin = false;
+            });
+
+            $(".CloseLoginForm").click(function () {
+                $(".CloseLoginFormButton").click();
+            });
+
+            SetDefaultButton("#TopSearchBox", "#TopSearchBoxIcon");
+            SetDefaultButton("#ctl00_ContentPlaceHolderTopNavigation_txtPassword", "#TopLoginButton");
+
+		    $("#BlackLoginTab").click(function () {
+		        $("#TopLoginBox").hide();
+		    });
+
+		    $("body").mouseup(function () {
+		        if (!isInsideLogin) $("#TopLoginBox").hide();
+		    });
+
+		    $(".SocialboxWrapper").hover(function () {
+		        $(this).find(".Socialbox").show();
 		    }, function () {
-		        isInsideLogin = false;
+		        $(this).find(".Socialbox").hide();
 		    });
 
-		    $(".CloseLoginForm").click(function () {
-		        $(".CloseLoginFormButton").click();
+		    $("#TopSearchBox").focus(function () {
+
+
+		        $(this).animate({ "width": "120px" }, "slow");
+		        $(this).width(120);
 		    });
 
-		    SetDefaultButton("#TopSearchBox", "#TopSearchBoxIcon");
-		    SetDefaultButton("#ctl00_ContentPlaceHolderTopNavigation_txtPassword", "#TopLoginButton");
-
-			$("#BlackLoginTab").click(function () {
-			    $("#TopLoginBox").hide();
-			});
-
-			$("body").mouseup(function () {
-			    if (!isInsideLogin) $("#TopLoginBox").hide();
-			});
-
-			$(".SocialboxWrapper").hover(function () {
-			    $(this).find(".Socialbox").show();
-			}, function () {
-			    $(this).find(".Socialbox").hide();
-			});
-
-			$("#TopSearchBox").focus(function () {
+		    $("#TopSearchBox").blur(function () {
 
 
-			    $(this).animate({ "width": "120px" }, "slow");
-			    $(this).width(120);
-			});
+		        $(this).animate({ "width": "120px" }, "slow");
+		        $(this).width(120);
+		    });
 
-			$("#TopSearchBox").blur(function () {
+		    $('.OpenInlineModalWindow').click(function () {
+		        var openingLink = $(this);
+		        var iFramePage = openingLink.attr('ref');
+		        var refreshOnClose = false;
+		        var showCloseButton = true;
 
+		        if (iFramePage.indexOf("RefreshOnClose=true") != -1)
+		            refreshOnClose = true;
 
-			    $(this).animate({ "width": "120px" }, "slow");
-			    $(this).width(120);
-			});
+		        if (iFramePage.indexOf("ShowCloseButton=false") != -1)
+		            showCloseButton = false;
+		        ShowInlineModalWindow("", iFramePage, null, null, refreshOnClose, showCloseButton, openingLink, null);
 
-			$('.OpenInlineModalWindow').click(function () {
-			    var openingLink = $(this);
-			    var iFramePage = openingLink.attr('ref');
-			    var refreshOnClose = false;
-			    var showCloseButton = true;
-
-			    if (iFramePage.indexOf("RefreshOnClose=true") != -1)
-			        refreshOnClose = true;
-
-			    if (iFramePage.indexOf("ShowCloseButton=false") != -1)
-			        showCloseButton = false;
-			    ShowInlineModalWindow("", iFramePage, null, null, refreshOnClose, showCloseButton, openingLink, null);
-
-			    return false;
-			});
+		        return false;
+		    });
 
 		    //Close Popups and Fade Layer
-			$(document).bind('CloseInlineModalWindow', function () {
-			    CloseInlineModalWindow(true, false);
-			});
-			$(".CloseInlineModalWindow").live("click", function () {
-			    var refreshOnClose = false;
-			    if ($(this).hasClass("RefreshOnClose")) {
-			        refreshOnClose = true;
-			    }
-			    var redirectOnClose = false;
-			    if ($(this).hasClass("RedirectOnClose")) {
-			        redirectOnClose = true;
-			    }
-			    CloseInlineModalWindow(refreshOnClose, redirectOnClose);
-			});
+		    $(document).bind('CloseInlineModalWindow', function () {
+		        CloseInlineModalWindow(true, false);
+		    });
+		    $(".CloseInlineModalWindow").live("click", function () {
+		        var refreshOnClose = false;
+		        if ($(this).hasClass("RefreshOnClose")) {
+		            refreshOnClose = true;
+		        }
+		        var redirectOnClose = false;
+		        if ($(this).hasClass("RedirectOnClose")) {
+		            redirectOnClose = true;
+		        }
+		        CloseInlineModalWindow(refreshOnClose, redirectOnClose);
+		    });
 
-			window.___gcfg = { lang: 'en' };
-			(function () {
-			    var po = document.createElement("script");
-			    po.type = "text/javascript";
-			    po.async = true;
-			    po.src = "https://apis.google.com/js/plusone.js";
-			    var s = document.getElementsByTagName("script")[0];
-			    s.parentNode.insertBefore(po, s);
-			})();
+		    window.___gcfg = { lang: 'en' };
+		    (function () {
+		        var po = document.createElement("script");
+		        po.type = "text/javascript";
+		        po.async = true;
+		        po.src = "https://apis.google.com/js/plusone.js";
+		        var s = document.getElementsByTagName("script")[0];
+		        s.parentNode.insertBefore(po, s);
+		    })();
 
-			!function (d, s, id) {
-			    var js, fjs = d.getElementsByTagName(s)[0];
-			    if (!d.getElementById(id)) {
-			        js = d.createElement(s);
-			        js.id = id;
-			        js.src = "//platform.twitter.com/widgets.js";
-			        fjs.parentNode.insertBefore(js, fjs);
-			    }
-			}(document, "script", "twitter-wjs");
+		    !function (d, s, id) {
+		        var js, fjs = d.getElementsByTagName(s)[0];
+		        if (!d.getElementById(id)) {
+		            js = d.createElement(s);
+		            js.id = id;
+		            js.src = "//platform.twitter.com/widgets.js";
+		            fjs.parentNode.insertBefore(js, fjs);
+		        }
+		    }(document, "script", "twitter-wjs");
 
-			$("#facebookContainer").attr("src", "https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Frapaport&amp;width=200&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false");
+		    $("#facebookContainer").attr("src", "https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Frapaport&amp;width=200&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false");
 		});
 
         function SetDefaultButton(sender, button) {
@@ -227,55 +231,55 @@
             }
             if (page != "") {
                 $("#WindowFadeiFrame").attr("src", "/InlineModalWindows/" + page);
-			    $("#WindowFadeiFrame").load(function () {
-			        //This must be first to obtain the objects in it
-			        $(".InlineModalWindow").show();
-			        var width = frameWidth;
-			        var height = frameHeight;
-			        //Use .MainLayout to give the size of the innder layout if not found it will use the size of the body
-			        if (frameWidth == null || frameHeight == null) {
-			            width = $("#WindowFadeiFrame").contents().find(".MainLayout").width();
-			            height = $("#WindowFadeiFrame").contents().find(".MainLayout").height();
-			        }
-			        if (width == null) {
-			            width = $("#WindowFadeiFrame").contents().find("body").width();
-			            height = $("#WindowFadeiFrame").contents().find("body").height();
-			        }
-			        if (width != null) {
-			            //set size to fit with padding of the box
-			            width = width + 40;
-			            height = height + 10;
-			            $("#WindowFadeiFrameContainer").css("width", width + "px");
-			            $("#WindowFadeiFrameContainer").css("height", height + "px");
-			        }
-			        if (openingLink != null) {
-			            $(".InlineModalWindow").css("top", openingLink.position().top);
-			        }
-			        else {
-			            $(".InlineModalWindow").center();
+                $("#WindowFadeiFrame").load(function () {
+                    //This must be first to obtain the objects in it
+                    $(".InlineModalWindow").show();
+                    var width = frameWidth;
+                    var height = frameHeight;
+                    //Use .MainLayout to give the size of the innder layout if not found it will use the size of the body
+                    if (frameWidth == null || frameHeight == null) {
+                        width = $("#WindowFadeiFrame").contents().find(".MainLayout").width();
+                        height = $("#WindowFadeiFrame").contents().find(".MainLayout").height();
+                    }
+                    if (width == null) {
+                        width = $("#WindowFadeiFrame").contents().find("body").width();
+                        height = $("#WindowFadeiFrame").contents().find("body").height();
+                    }
+                    if (width != null) {
+                        //set size to fit with padding of the box
+                        width = width + 40;
+                        height = height + 10;
+                        $("#WindowFadeiFrameContainer").css("width", width + "px");
+                        $("#WindowFadeiFrameContainer").css("height", height + "px");
+                    }
+                    if (openingLink != null) {
+                        $(".InlineModalWindow").css("top", openingLink.position().top);
+                    }
+                    else {
+                        $(".InlineModalWindow").center();
 
-			            //This must be first to obtain the objects in it
-			            $(".InlineModalWindow").show();
-			        }
-			    });
-			} else {
-			    $("#InlineModalWindowMessage").html(message);
-			    $(".InlineModalWindow").show();
-			    $("#WindowFadeiFrame").hide();
-			    if (frameWidth != null && frameHeight != null) {
-			        $("#WindowFadeiFrameContainer").css("width", frameWidth + "px");
-			        $("#WindowFadeiFrameContainer").css("height", frameHeight + "px");
-			    }
-			    if (openingLink != null) {
-			        $(".InlineModalWindow").css("top", openingLink.position().top);
-			    }
-			    else {
-			        $(".InlineModalWindow").center();
+                        //This must be first to obtain the objects in it
+                        $(".InlineModalWindow").show();
+                    }
+                });
+            } else {
+                $("#InlineModalWindowMessage").html(message);
+                $(".InlineModalWindow").show();
+                $("#WindowFadeiFrame").hide();
+                if (frameWidth != null && frameHeight != null) {
+                    $("#WindowFadeiFrameContainer").css("width", frameWidth + "px");
+                    $("#WindowFadeiFrameContainer").css("height", frameHeight + "px");
+                }
+                if (openingLink != null) {
+                    $(".InlineModalWindow").css("top", openingLink.position().top);
+                }
+                else {
+                    $(".InlineModalWindow").center();
 
-			        //This must be first to obtain the objects in it
-			        $(".InlineModalWindow").show();
-			    }
-			}
+                    //This must be first to obtain the objects in it
+                    $(".InlineModalWindow").show();
+                }
+            }
 
             if (refreshOnClose)
                 $(".CloseInlineModalWindow").addClass("RefreshOnClose");
@@ -309,7 +313,7 @@
                 }
             }
 
-		    //Fade in Background
+            //Fade in Background
             $('body').append('<div id="WindowFade"></div>');
             $('#WindowFade').css({ 'filter': 'alpha(opacity=40)' }).fadeIn(500);
         }
@@ -428,13 +432,13 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 		})(window, document, 'script', 'dataLayer', 'GTM-RRST');</script>
     <!-- End Google Tag Manager -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"cb7388bad0","applicationID":"2499170","transactionName":"ZlFWMhMFD0dZVkQLDV8bdTUxSw1RX1RcTRJDXUIHAh0RW1RcUxtMUEdEHg==","queueTime":0,"applicationTime":2,"ttGuid":"3196DB482622611C","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(e,t){return function(){o(e,[(new Date).getTime()].concat(a(arguments)),null,t)}}var o=e("handle"),i=e(2),a=e(3);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var u=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(u,function(e,t){newrelic[t]=r(f+t,"api")}),i(c,function(e,t){newrelic[t]=r(f+t)}),t.exports=newrelic,newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),o("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(0>o?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?u(e,a,i):i()}function n(n,r,o){e&&e(n,r,o);for(var i=t(o),a=l(n),u=a.length,c=0;u>c;c++)a[c].apply(i,r);var s=f[g[n]];return s&&s.push([m,n,r,i]),i}function p(e,t){w[e]=l(e).concat(t)}function l(e){return w[e]||[]}function d(e){return s[e]=s[e]||o(n)}function v(e,t){c(e,function(e,n){t=t||"feature",g[n]=t,t in f||(f[t]=[])})}var w={},g={},m={on:p,emit:n,get:d,listeners:l,context:t,buffer:v};return m}function i(){return new r}var a="nr@context",u=e("gos"),c=e(2),f={},s={},p=t.exports=o();p.backlog=f},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!w++){var e=v.info=NREUM.info,t=s.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&t){c(l,function(t,n){e[t]||(e[t]=n)});var n="https"===p.split(":")[0]||e.sslForHttp;v.proto=n?"https://":"http://",u("mark",["onload",a()],null,"api");var r=s.createElement("script");r.src=v.proto+e.agent,t.parentNode.insertBefore(r,t)}}}function o(){"complete"===s.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=window,s=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},e(1);var p=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),v=t.exports={offset:a(),origin:p,features:{},xhrWrappable:d};s.addEventListener?(s.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(s.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),u("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader"]);</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"cb7388bad0","applicationID":"2499170","transactionName":"ZlFWMhMFD0dZVkQLDV8bdTUxSw1RX1RcTRJDXUIHAh0RW1RcUxtMUEdEHg==","queueTime":0,"applicationTime":3,"ttGuid":"F8700CC7ACF1DDF5","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
     <form name="aspnetForm" method="post" action="./PrivacyPolicy.aspx" id="aspnetForm">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYEAgEPZBYEAgcPFgIeBFRleHQFIzxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSIiIC8+ZAIIDxYCHwAFJjxNRVRBIE5BTUU9ImRlc2NyaXB0aW9uIiBDT05URU5UPSIiIC8+ZAIDD2QWBAIED2QWBAIDDxYCHgdWaXNpYmxlaGQCDQ8WAh8BaGQCBQ9kFgJmD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCCWQWEmYPZBYCZg8VAcMBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTcxMTMmQXJ0aWNsZVRpdGxlPUJsdWUrTmlsZSVlMiU4MCU5OXMrMVErUmV2ZW51ZStGYWxscythcytFbmdhZ2VtZW50K1NhbGVzK0Ryb3AnPkJsdWUgTmlsZeKAmXMgMVEgUmV2ZW51ZSBGYWxscyBhcyBFbmdhZ2VtZW50IFNhbGVzIERyb3A8L2E+ZAICD2QWAmYPFQGpATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU3MTEyJkFydGljbGVUaXRsZT1EaWFtb25kQ29ycCtTYXlzK1dvcnN0K2lzK0JlaGluZCtSb3VnaCtNYXJrZXQnPkRpYW1vbmRDb3JwIFNheXMgV29yc3QgaXMgQmVoaW5kIFJvdWdoIE1hcmtldDwvYT5kAgQPZBYCZg8VAY8BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTcxMTEmQXJ0aWNsZVRpdGxlPUx1Y2FyYSVlMiU4MCU5OXMrMVErU2FsZXMrU29hcis3MSUyNSc+THVjYXJh4oCZcyAxUSBTYWxlcyBTb2FyIDcxJTwvYT5kAgYPZBYCZg8VAasBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTcxMDkmQXJ0aWNsZVRpdGxlPVNpbmdhcG9yZStEaWFtb25kK0ludmVzdG1lbnQrRXhjaGFuZ2UrTGF1bmNoZXMnPlNpbmdhcG9yZSBEaWFtb25kIEludmVzdG1lbnQgRXhjaGFuZ2UgTGF1bmNoZXM8L2E+ZAIID2QWAmYPFQHTATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU3MTA4JkFydGljbGVUaXRsZT1HZW1maWVsZHMrU2VsbHMrRW1lcmFsZHMrYXQrUmVjb3JkK0F2ZXJhZ2UrUHJpY2UraW4rWmFtYmlhK0F1Y3Rpb24nPkdlbWZpZWxkcyBTZWxscyBFbWVyYWxkcyBhdCBSZWNvcmQgQXZlcmFnZSBQcmljZSBpbiBaYW1iaWEgQXVjdGlvbjwvYT5kAgoPZBYCZg8VAb8BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTcxMDcmQXJ0aWNsZVRpdGxlPURlK0JlZXJzK1JhaXNlcytTb2NpYWwrJTI2K1RyYWluaW5nK1NwZW5kK2J5KzEzJTI1K2luKzIwMTUnPkRlIEJlZXJzIFJhaXNlcyBTb2NpYWwgJiBUcmFpbmluZyBTcGVuZCBieSAxMyUgaW4gMjAxNTwvYT5kAgwPZBYCZg8VAb0BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTcxMDYmQXJ0aWNsZVRpdGxlPUJsdWUrTmlsZStUZXJtaW5hdGVzK1NvdXRoK0Rha290YStCdXNpbmVzcytPdmVyK1RheCtMYXcnPkJsdWUgTmlsZSBUZXJtaW5hdGVzIFNvdXRoIERha290YSBCdXNpbmVzcyBPdmVyIFRheCBMYXc8L2E+ZAIOD2QWAmYPFQG/ATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU3MTAzJkFydGljbGVUaXRsZT1MZXNlZGkrTGErUm9uYStEaWFtb25kK0Fzc2lnbmVkKyUyNDcwTSsrQXVjdGlvbitQcmljZStUYWcnPkxlc2VkaSBMYSBSb25hIERpYW1vbmQgQXNzaWduZWQgJDcwTSsgQXVjdGlvbiBQcmljZSBUYWc8L2E+ZAIQD2QWAmYPFQG9ATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU3MTAyJkFydGljbGVUaXRsZT1GYW5jeStCbHVlK0RpYW1vbmQrUHJpY2VzK091dHBhY2UrWWVsbG93cyUyYytQaW5rcytpbisxUSc+RmFuY3kgQmx1ZSBEaWFtb25kIFByaWNlcyBPdXRwYWNlIFllbGxvd3MsIFBpbmtzIGluIDFRPC9hPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFM2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlclRvcE5hdmlnYXRpb24kY2hrUmVtZW1iZXJNZbnb3H9joZ3J4aNMafZlTIK1d0Vj">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTgxMjAzNjcwD2QWAmYPZBYEAgEPZBYEAgcPFgIeBFRleHQFIzxNRVRBIE5BTUU9ImtleXdvcmRzIiBDT05URU5UPSIiIC8+ZAIIDxYCHwAFJjxNRVRBIE5BTUU9ImRlc2NyaXB0aW9uIiBDT05URU5UPSIiIC8+ZAIDD2QWBAIED2QWBAIDDxYCHgdWaXNpYmxlaGQCDQ8WAh8BaGQCBQ9kFgJmD2QWAgIBDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCCmQWFGYPZBYCZg8VAZ0BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNjMmQXJ0aWNsZVRpdGxlPVBhbmRvcmErVGFrZXMrQ29udHJvbCtvZitCZWxnaXVtK1N0b3Jlcyc+UGFuZG9yYSBUYWtlcyBDb250cm9sIG9mIEJlbGdpdW0gU3RvcmVzPC9hPmQCAg9kFgJmDxUBsQE8YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01ODM2MiZBcnRpY2xlVGl0bGU9TmV3K0RHU0UrQm9zcytFeWVzK0FjcXVpc2l0aW9ucyt0bytSZXZpdmUrUHJvZml0cyc+TmV3IERHU0UgQm9zcyBFeWVzIEFjcXVpc2l0aW9ucyB0byBSZXZpdmUgUHJvZml0czwvYT5kAgQPZBYCZg8VAZEBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNjEmQXJ0aWNsZVRpdGxlPUxlc2VkaStMYStSb25hK1BvaXNlZCtGb3IrMUgrU2FsZSc+TGVzZWRpIExhIFJvbmEgUG9pc2VkIEZvciAxSCBTYWxlPC9hPmQCBg9kFgJmDxUBnwE8YSBjbGFzcz0nVGlja2VyJyBocmVmPScvTmV3cy9OZXdzSXRlbS5hc3B4P0FydGljbGVJRD01ODM2MCZBcnRpY2xlVGl0bGU9QmVsZ2l1bSVlMiU4MCU5OXMrQ2FyYXQrVGF4K1Bhc3NlZCtpbnRvK0xhdyc+QmVsZ2l1beKAmXMgQ2FyYXQgVGF4IFBhc3NlZCBpbnRvIExhdzwvYT5kAggPZBYCZg8VAbEBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNTcmQXJ0aWNsZVRpdGxlPU1lcmxpbitGaW5kcytGaXJzdCtCbHVlK0RpYW1vbmQrYXQrQXVzdHJhbGlhK01pbmUnPk1lcmxpbiBGaW5kcyBGaXJzdCBCbHVlIERpYW1vbmQgYXQgQXVzdHJhbGlhIE1pbmU8L2E+ZAIKD2QWAmYPFQGjATxhIGNsYXNzPSdUaWNrZXInIGhyZWY9Jy9OZXdzL05ld3NJdGVtLmFzcHg/QXJ0aWNsZUlEPTU4MzU2JkFydGljbGVUaXRsZT1Jc3JhZWwrR2VhcmluZytmb3IrRGlhbW9uZCtNYXJrZXQrUmVjb3ZlcnknPklzcmFlbCBHZWFyaW5nIGZvciBEaWFtb25kIE1hcmtldCBSZWNvdmVyeTwvYT5kAgwPZBYCZg8VAaEBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNTUmQXJ0aWNsZVRpdGxlPUhSRCtBbnR3ZXJwK1RpZXMrVXArd2l0aCtDaGluZXNlK1JldGFpbGVyJz5IUkQgQW50d2VycCBUaWVzIFVwIHdpdGggQ2hpbmVzZSBSZXRhaWxlcjwvYT5kAg4PZBYCZg8VAY8BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNTEmQXJ0aWNsZVRpdGxlPUhhcnJvZHMrRHVzdHMrT2ZmKzIyOGN0LitEaWFtb25kJz5IYXJyb2RzIER1c3RzIE9mZiAyMjhjdC4gRGlhbW9uZDwvYT5kAhAPZBYCZg8VAY8BPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNTAmQXJ0aWNsZVRpdGxlPUFuYWx5c3QrVXBiZWF0K29uK0RpYW1vbmQrTWFya2V0Jz5BbmFseXN0IFVwYmVhdCBvbiBEaWFtb25kIE1hcmtldDwvYT5kAhIPZBYCZg8VAZkBPGEgY2xhc3M9J1RpY2tlcicgaHJlZj0nL05ld3MvTmV3c0l0ZW0uYXNweD9BcnRpY2xlSUQ9NTgzNDkmQXJ0aWNsZVRpdGxlPU1vc3QrS2Fyb3dlK01pbmUrV29ya2Vycyt0bytLZWVwK0pvYnMnPk1vc3QgS2Fyb3dlIE1pbmUgV29ya2VycyB0byBLZWVwIEpvYnM8L2E+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUzY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyVG9wTmF2aWdhdGlvbiRjaGtSZW1lbWJlck1lpaVr1SE2oYkUjHAeo/dmVUHQ4Co=">
 </div>
 
 <script type="text/javascript">
@@ -462,7 +466,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="86DE8B8D">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAaJzZl6O0fEm2MEtKE+jEEVn1RcjtHAj66REed34CUNnqUF4enLXO3emfMk8iBi1qtcfV3Vae6Tm9hxjZ4JZutGzrmHhOXCMrJJ0j5pqSHIhAUIV18bWJiIQ4bDrCzwKWKAehSJCNhseaNjrOnH3lSc6BspNw==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbpCtgER+2IMpGnpx9o+dg6n1RcjtHAj66REed34CUNnqUF4enLXO3emfMk8iBi1qtcfV3Vae6Tm9hxjZ4JZutGzrmHhOXCMrJJ0j5pqSHIhAUIV18bWJiIQ4bDrCzwKWIx31K05McgO0brkLYDgIqfxaYFNA==">
 </div>
         <script type="text/javascript">
 //<![CDATA[
@@ -557,7 +561,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                     <ul>
                                         <li><a href="http://www.diamonds.net/LAB/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Labs']); ">Rapaport Lab Express</a></li>
                                         <li><a href="http://technet.rapaport.com/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'Technet']); ">Rapaport TechNet</a></li>
-                                        
                                         <li><a href="http://www.rapaportfairtrade.com/" onclick=" _gaq.push(['_trackEvent', 'Tabbar', 'Clicks', 'FairTrade']); ">FairTrade</a></li>
                                     </ul>
                                     More<span class="TabIcon" style="display: inline-block; margin-right: 9px; width: 16px; height: 16px; background-image: url('/Images/icons/HomePage/tab_bar_sprite_sheet.png'); background-repeat: no-repeat; background-position: -64px 0; margin-left: 6px;"></span>
@@ -581,18 +584,18 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                             </div>
                             <div class="SocialboxWrapper facebook">
                                 
-                                 <a href="https://www.facebook.com/rapaport" target="_blank">
+                                <a href="https://www.facebook.com/rapaport" target="_blank">
                                     <img src="/Images/Icons/HomePage/facebook_icon.png" alt="Facebook" style="margin-left: 3px;"></a>
 
 
-                           
+                                
                             </div>
                             <div class="SocialboxWrapper">
                                 <a href="/NewsFeed/default.aspx" style="vertical-align: middle;">
                                     <img src="/Images/Icons/HomePage/rss_icon.png" style="border: none; margin-left: 3px; height: 20px;" alt="RSS Feeds" title="RSS Feeds"></a>
                             </div>
                             
-                            <div style="white-space: nowrap; text-shadow: 0 1px white; font-weight: bold; margin-left: 10px; float: left; padding-top: 4px;" id="divTopClock">May 6, 2016 04:38 NY</div>
+                            <div style="white-space: nowrap; text-shadow: 0 1px white; font-weight: bold; margin-left: 10px; float: left; padding-top: 4px;" id="divTopClock">Dec 18, 2016 15:33 NY</div>
                             
                         </div>
                     </div>
@@ -607,12 +610,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                         <tbody><tr>
                             <td>
                                 <a href="/" style="display: block;">
-                                    <img id="ctl00_ContentPlaceHolderTopNavigation_imgHeaderLogo" src="../Images/Masterpage/header_logo.gif" alt="Diamonds.Net" style="width:502px;border-width:0px;border: none;">
+                                    <img id="ctl00_ContentPlaceHolderTopNavigation_imgHeaderLogo" src="../Images/Masterpage/Header_Logo_small.gif" alt="Diamonds.Net" style="width:232px;border-width:0px;border: none;">
                                 </a>
                             </td>
                             <td align="right" style="text-align: right;">
                                 
-                                    <iframe id="ifrmResultsBanner" src="/Ads/PageBanner.aspx?BannerGroup=0" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                                    <iframe id="ifrmResultsBanner" src="/Ads/PageBanner.aspx?BannerGroup=0" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
                                 
                             </td>
                         </tr>
@@ -706,6 +709,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                     <li><a href="/Magazine/About.aspx">About the Magazine</a>
                                         <div class="MenuSeparator">
                                     </div></li>
+                                     <li><a href="/Magazine/SpecialSupplements.aspx">Special Supplements</a>
+                                        <div class="MenuSeparator"></div>
+                                    </li>
                                     <li id="ctl00_ContentPlaceHolderTopNavigation_liMagazineSubscribe"><a href="/Subscribe/">Subscribe</a>
                                     </li>
                                 </ul>
@@ -729,10 +735,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                     <li><a href="/Trading/LabServices.aspx">Rapaport Laboratory Services</a>
                                         <div class="MenuSeparator">
                                     </div></li>
-                                    <li><a href="/Trading/InventoryLink.aspx">RapNet Instant Inventory</a>
+                                    <li><a href="http://info.rapnet.com/rapnet-instant-inventory">RapNet Instant Inventory</a>
                                         <div class="MenuSeparator">
                                     </div></li>
-                                    <li><a href="/Subscribe/">Join RapNet</a></li>
+                                    <li><a href="http://www.rapnet.com/rapnet-membership-plans/">Join RapNet</a></li>
                                 </ul>
                             </li>
                             <li><a href="../About/" id="ctl00_ContentPlaceHolderTopNavigation_aAbout">About Us</a>
@@ -741,6 +747,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                         <div class="MenuSeparator">
                                     </div></li>
                                     <li><a href="/MediaCenter/">Media Center</a>
+                                        <div class="MenuSeparator">
+                                    </div></li>
+                                    <li><a href="/NewsBrief/InvestmentDiamonds/">Investment Diamonds</a>
                                         <div class="MenuSeparator">
                                     </div></li>
                                     <li><a href="/About/Events.aspx">Rapaport Events</a>
@@ -837,7 +846,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                                     </tbody></table>
                                 </div>
                             </div>
-                         <a href="/subscribe/default.aspx" class="LoginJoinButton" style="margin-right: 5px;">Join</a> <a class="LoginJoinButton" style="cursor: pointer; margin-right: 10px; padding-left: 10px; padding-right: 6px;" onclick=" ShowTopLoginBox(); ">Login ▼</a>
+                            <a href="/subscribe/default.aspx" class="LoginJoinButton" style="margin-right: 5px;">Join</a> <a class="LoginJoinButton" style="cursor: pointer; margin-right: 10px; padding-left: 10px; padding-right: 6px;" onclick=" ShowTopLoginBox(); ">Login ▼</a>
                         </div>
                         
                     </div>
@@ -855,39 +864,43 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 											<table id="ctl00_ContentPlaceHolderTopTitleDate_dlTicker" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
 		<tbody><tr>
 			<td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57113&amp;ArticleTitle=Blue+Nile%e2%80%99s+1Q+Revenue+Falls+as+Engagement+Sales+Drop">Blue Nile’s 1Q Revenue Falls as Engagement Sales Drop</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58363&amp;ArticleTitle=Pandora+Takes+Control+of+Belgium+Stores">Pandora Takes Control of Belgium Stores</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57112&amp;ArticleTitle=DiamondCorp+Says+Worst+is+Behind+Rough+Market">DiamondCorp Says Worst is Behind Rough Market</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58362&amp;ArticleTitle=New+DGSE+Boss+Eyes+Acquisitions+to+Revive+Profits">New DGSE Boss Eyes Acquisitions to Revive Profits</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57111&amp;ArticleTitle=Lucara%e2%80%99s+1Q+Sales+Soar+71%25">Lucara’s 1Q Sales Soar 71%</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58361&amp;ArticleTitle=Lesedi+La+Rona+Poised+For+1H+Sale">Lesedi La Rona Poised For 1H Sale</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57109&amp;ArticleTitle=Singapore+Diamond+Investment+Exchange+Launches">Singapore Diamond Investment Exchange Launches</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58360&amp;ArticleTitle=Belgium%e2%80%99s+Carat+Tax+Passed+into+Law">Belgium’s Carat Tax Passed into Law</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57108&amp;ArticleTitle=Gemfields+Sells+Emeralds+at+Record+Average+Price+in+Zambia+Auction">Gemfields Sells Emeralds at Record Average Price in Zambia Auction</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58357&amp;ArticleTitle=Merlin+Finds+First+Blue+Diamond+at+Australia+Mine">Merlin Finds First Blue Diamond at Australia Mine</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57107&amp;ArticleTitle=De+Beers+Raises+Social+%26+Training+Spend+by+13%25+in+2015">De Beers Raises Social &amp; Training Spend by 13% in 2015</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58356&amp;ArticleTitle=Israel+Gearing+for+Diamond+Market+Recovery">Israel Gearing for Diamond Market Recovery</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57106&amp;ArticleTitle=Blue+Nile+Terminates+South+Dakota+Business+Over+Tax+Law">Blue Nile Terminates South Dakota Business Over Tax Law</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58355&amp;ArticleTitle=HRD+Antwerp+Ties+Up+with+Chinese+Retailer">HRD Antwerp Ties Up with Chinese Retailer</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57103&amp;ArticleTitle=Lesedi+La+Rona+Diamond+Assigned+%2470M++Auction+Price+Tag">Lesedi La Rona Diamond Assigned $70M+ Auction Price Tag</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58351&amp;ArticleTitle=Harrods+Dusts+Off+228ct.+Diamond">Harrods Dusts Off 228ct. Diamond</a></span>
 												</td><td style="white-space:nowrap;">
 													&nbsp;&nbsp;---&nbsp;&nbsp;
 												</td><td>
-													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=57102&amp;ArticleTitle=Fancy+Blue+Diamond+Prices+Outpace+Yellows%2c+Pinks+in+1Q">Fancy Blue Diamond Prices Outpace Yellows, Pinks in 1Q</a></span>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58350&amp;ArticleTitle=Analyst+Upbeat+on+Diamond+Market">Analyst Upbeat on Diamond Market</a></span>
+												</td><td style="white-space:nowrap;">
+													&nbsp;&nbsp;---&nbsp;&nbsp;
+												</td><td>
+													<span style="white-space: nowrap;"><a class="Ticker" href="/News/NewsItem.aspx?ArticleID=58349&amp;ArticleTitle=Most+Karowe+Mine+Workers+to+Keep+Jobs">Most Karowe Mine Workers to Keep Jobs</a></span>
 												</td><td></td>
 		</tr>
 	</tbody></table>
