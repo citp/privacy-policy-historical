@@ -1,46 +1,53 @@
-> *The following text is extracted and transformed from the barnfun.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213223id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnfun.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218193134id_/http%3A//www.barnfun.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - barnfun.com
 
-Updated: April 20, 2009
+We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+## 1.Log Files
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+## 2.Cookies
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. Our site does not use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
+
+## 3.Use of Facebook and Google Social Plugins
+
+barnfun.com ("BarnFun") uses social plugins ("plugins") of the social networks Facebook and Google on its website from facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, United States ("Facebook") and google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043, United States ("Google+1"). The plugins are marked with their logos: Facebook and Google+1. If the customer visits a web page on BarnFun, which contains such a plugin, the browser builds up a direct link to the Facebook or Google servers. The contents of the plugin is from Facebook and Google directly to the browser of the customer and integrated into this website.
+
+By integrating these plugins Facebook and Google receive information that the customer has visited BarnFun. If the customer is logged into Facebook or Google, these companies can assign the visit of BarnFun to his or her Facebook/Google account. When the customer interacts with the plugins, for example, the "Like" button, "+1 Button" or add a comment, the corresponding information from the client's browser is sent directly to Facebook or Google and stored there. Purpose and scope of data collection and further processing and use of data through Facebook or Google are related to the settings of the customer to protect his privacy, refer to the privacy policies of Facebook or Google.
+
+## 4.Links
+
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+## 5.Advertisers
+
+We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, we do not have access to this information. We work with the ad companies: Google. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/policies/technologies/ads/)
+
+## 6.Information Usage
+
+We will only use your personally identifiable information as described below, unless you have specifically consented to another type of use, either at the time the personally identifiable information is collected from you or through some other form of consent from you: 
+
+  1. We will use personally identifiable information to provide you with the specific services that you have requested; 
+  2. We will use your personally identifiable information to respond to questions that you send to us; 
+  3. We will use your personally identifiable information to send you emails from time to time, such as newsletters and notices about our promotions; 
+  4. We may disclose personally identifiable information as required by law or legal process; and 
+  5. We may disclose personally identifiable information to investigate suspected fraud, harassment or other violations of any law, rule or regulation, or the terms or policies for the Web site. 
 
 
-## Personally Identifiable Information
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+## 7.OPT OUT/CORRECTIONS
 
-## Non-Personally Identifiable Information
+Upon your request, we will
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+  1. correct or update your personal information; 
+  2. stop sending emails to your email address; and/or 
+  3. disable your account to prevent any future purchases through that account. 
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
 
-## Personally identifiable information
+You can make these requests at the customer information section, or by telephoning, or emailing your request to BarnFun’s Customer Support department at [support@barnfun.com](mailto:support@barnfun.com). 
 
-We do not collect PII.
-
-## Non-personally identifiable information
-
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
-
-We do not collect PII.
-
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-## Non-personally identifiable information
-
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
-
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
-
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
-
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+Please do not email your credit card number or other sensitive information. 
