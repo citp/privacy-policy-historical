@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618035652id_/http%3A//carbonfund.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219005045id_/https%3A//carbonfund.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Carbonfund.org
 
@@ -10,7 +10,7 @@ This policy applies to all information received by Carbonfund.org Foundation, bo
 
 To the extent any donations are processed through a third-party service provider, our donors’ information will only be used for purposes necessary to process the donation.
 
-The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [**Terms of Use**](https://web.archive.org/web/20160618035652id_/http://carbonfund.org/privacy-policy/terms-of-use). If you have any questions, please [**contact us**](https://web.archive.org/web/20160618035652id_/http://carbonfund.org/privacy-policy/contact).
+The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [**Terms of Use**](https://carbonfund.org/terms-of-use/). If you have any questions, please [**contact us**](https://carbonfund.org/contact/).
 
 ### What personal information is collected and how is it used?
 
