@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324033213id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218223202id_/https%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for kenable.co.uk
 
@@ -29,11 +29,7 @@ Here at kenable we **value your privacy**. The following privacy policy applies 
 
 Thank you for shopping at kenable Ltd.  
   
-|   
----  
-   
-[](http://validator.w3.org/check?uri=referer)  
-  Thursday 24 March, 2016    
+  Sunday 18 December, 2016    
 ---  
 :::: 
 
@@ -52,7 +48,7 @@ Sandwash Close, Rainford, St Helens, WA11 8LY, UK
 
 ::::  
   
-[](http://www.kenable.co.uk/waste.php)
+[](https://www.kenable.co.uk/waste.php)
 
   
 
