@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javxyz.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514213608id_/http%3A//javxyz.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javxyz.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218012521id_/http%3A//javxyz.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - JavXYZ.com
 
