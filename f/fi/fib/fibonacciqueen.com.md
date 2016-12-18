@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibonacciqueen.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610112152id_/http%3A//www.fibonacciqueen.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibonacciqueen.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218133357id_/http%3A//www.fibonacciqueen.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
