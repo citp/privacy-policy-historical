@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morbark.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509050419id_/http%3A//www.morbark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morbark.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218184154id_/http%3A//www.morbark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Morbark, LLC
+# Privacy Policy | Morbark, LLC
 
 **Our Privacy Policy**
 
