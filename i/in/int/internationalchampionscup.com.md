@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalchampionscup.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502111720id_/http%3A//www.internationalchampionscup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalchampionscup.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218063701id_/http%3A//www.internationalchampionscup.com/privacy) for the most accurate reproduction.*
 
 # Privacy - International Champions Cup
 
