@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091206id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218140438id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Campbell Cohen Law Firm & CanadaVisa
 
 The domain name **www.canadavisa.com** belongs to Canadian Immigration Attorney David Cohen and is part of the **Campbell Cohen Immigration Network** ( _henceforth referred to as the CCIN or "our" or "we"_ ). This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
