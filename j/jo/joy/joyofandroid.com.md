@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407041936id_/http%3A//www.joyofandroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218135314id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JoyofAndroid.com
 
-At JoyofAndroid.com, the privacy of our visitors is our ultimate concern.  Because we want our visitors to be confident and comfortable in using our website and our services, we are executing appropriate processes and procedures to protect the personal information that you have shared with us. This Privacy Policy summarize the types of personal information that are received and collected as well as how it is used by JoyofAndroid.com
+At JoyofAndroid.com, the privacy of our visitors is our ultimate concern.  Because we want our visitors to be confident and comfortable in using our website and our services, we are executing appropriate processes and procedures to protect the personal information that you have shared with us. This Privacy Policy summarize the types of personal information that are received and collected as well as how it is used by JoyofAndroid.com 
 
 ## Definition of Terms
 
@@ -64,6 +64,6 @@ From time to time, JoyofAndroid.com may link to external websites which might b
 
 All content – texts, media files, images and videos are copyright to the owners of JoyofAndroid.com. You may not copy, or reproduce it online or in offline without the written permission of the owners. Such behavior will call for DMCA take down and legal actions if necessary.
 
-JoyofAndroid.com reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <http://www.joyofandroid.com/contact-us/>.
+JoyofAndroid.com reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <http://joyofandroid.com/contact-us/>.
 
 **This document was last updated on November  02, 2014**
