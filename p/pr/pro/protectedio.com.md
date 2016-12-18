@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectedio.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604081318id_/http%3A//protectedio.com/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectedio.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218172509id_/http%3A//protectedio.com/index.php/privacy_policy) for the most accurate reproduction.*
 
 # ProtectedIO - Security already in the cloud!
 
