@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625024708id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
 # It's Nice That | Privacy Policy and Cookies
 
 **Introduction**  
-We at It’s Nice That Ltd are committed to ensuring that our website (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure. If you have any questions about this privacy policy or do not agree with it, please contact us at [studio@itsnicethat.com](mailto:studio@itsnicethat.com) or on 0207 739 5222 before using our website.
+We at It’s Nice That Ltd are committed to ensuring that our website (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure. If you have any questions about this privacy policy or do not agree with it, please contact us at [studio@itsnicethat.com](mailto:studio@itsnicethat.com) or on +44 (0)207 739 5222 before using our website.
 
 Our website terms of use available [here](http://www.itsnicethat.com/terms-conditions) explain the terms on which you are allowed to use our website. In accordance with the Data Protection Act 1998, It’s Nice That Ltd is registered as a ‘Data Controller’ on the public Register of Data Controllers as maintained by the UK’s Information Commissioner. We may change this privacy notice from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes.
 
@@ -85,7 +85,7 @@ _ga | Used to distinguish users. | Persistent
 _gat | Used to throttle request rate | Persistent  
 10 minutes  
   
-For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20160625024708id_/http%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
+For more information on Google Analystics cookies please visit [this link](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
 To opt out of being tracked by Google Analytics across all websites visit: [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
@@ -100,7 +100,7 @@ These cookies are used by our ad provider (DoubleClick for Publishers) to decide
 A lot of the advertisements you see on It’s Nice That are provided by other organisations.  
 We and our authorised third party partners may use device identification, cookies, web beacons, or similar technologies to deliver more relevant advertising and communications to consumers. Such advertisements are generally targeted and served to particular users and may come from third party companies. These companies could include advertising networks, third party advertising servers, media or advertising agencies. We do not provide personal information to anyone for use outside of the services. The companies that generate these cookies have their own privacy policies, and we have no access to read or write these cookies. These organisations may use their cookies to anonymously target advertising to you on other websites, based on your visit to It’s Nice That.
 
-If you would like an us or our partners to not set or use cookies on your computer or mobile device, you can visit the following site [www.aboutads.info/choices/](http://www.aboutads.info/choices/)
+If you would like us or our partners to not set or use cookies on your computer or mobile device, you can visit the following site [www.aboutads.info/choices/](http://www.aboutads.info/choices/)
 
 **Third Party Cookies**  
 — Social Media Sharing (AddThis)  
@@ -112,11 +112,11 @@ The privacy implications on this will vary from social network to social network
 dependent on the privacy settings you have chosen on these networks.
 
 **Other Third Party Content Cookies**  
-Our site, like most websites, includes functionality provided by third parties. As a publisher we are embedding content from other sources regularly to enrich your experience. These embedded pieces of content may contain cookies, and listed below are all of the third parties on our site as of 21 February 2016. For details the cookies they use, or if you encounter any that are not on this list, please contact the suppliers directly for further details.
+Our site, like most websites, includes functionality provided by third parties. As a publisher we are embedding content from other sources regularly to enrich your experience. These embedded pieces of content may contain cookies, and listed below are all of the third parties on our site as of 21 February 2016. For details about the cookies they use, or if you encounter any that are not on this list, please contact the suppliers directly for further details.
 
-  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20160625024708id_/http%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
-  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20160625024708id_/http%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
-  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20160625024708id_/http%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
+  * YouTube ([https://www.youtube.com/static?template=privacy_guidelines](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/www.youtube.com/static?template=privacy_guidelines))
+  * Disqus ([https://help.disqus.com/customer/portal/articles/466235-use-of-cookies](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/help.disqus.com/customer/portal/articles/466235-use-of-cookies))
+  * EventBrite ([www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB](https://web.archive.org/web/20161218054109id_/http%3A//www.itsnicethat.com/www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-cookie-policy?lg=en_GB))
   * Vimeo ([www.vimeo.com/cookie_policy](https://vimeo.com/cookie_policy))
   * Spotify ([www.spotify.com/uk/legal/privacy-policy](https://www.spotify.com/uk/legal/privacy-policy))
   * Google Maps ([www.google.com/policies/privacy/](https://www.google.com/policies/privacy/))
