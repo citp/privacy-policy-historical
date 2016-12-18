@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrmonthly.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408221812id_/http%3A//plrmonthly.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrmonthly.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218034019id_/http%3A//www.plrmonthly.com/special/privacy_policy.html) for the most accurate reproduction.*
 
 # PLR Private Label Rights Monthly | Privacy Policy
 
