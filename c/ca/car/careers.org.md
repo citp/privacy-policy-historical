@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329201701id_/http%3A//www.careers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.org privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218071121id_/http%3A//careers.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Careers.org
+# Careers.org | Career Resources, Career Guide, Online Education and Degree Directory
 
 **Please Read This Privacy Statement Agreement Carefully Before Accessing Website.**  
 This document was last updated on September 21, 2009.
@@ -73,4 +73,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contacting Us
 
-For more information, or if you have questions or concerns regarding CAREERS’ Privacy Statement, you may email or contact us at: Privacy, Careers.org, 807 Broadway, Suite 210 Oakland, CA 94607  or [privacy@careers.org](https://web.archive.org/web/20160329201701id_/http%3A//www.careers.org/%E2%80%9Dmailto:privacy@careers.org). Thank you for visiting our Site. We hope you have a pleasant experience while you are on the Site.
+For more information, or if you have questions or concerns regarding CAREERS’ Privacy Statement, you may email or contact us at: Privacy, Careers.org, 807 Broadway, Suite 210 Oakland, CA 94607  or [privacy@careers.org](https://web.archive.org/web/20161218071121id_/http%3A//careers.org/%E2%80%9Dmailto:privacy@careers.org). Thank you for visiting our Site. We hope you have a pleasant experience while you are on the Site.
