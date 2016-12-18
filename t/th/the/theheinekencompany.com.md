@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the theheinekencompany.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629192835id_/http%3A//www.theheinekencompany.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theheinekencompany.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218101849id_/http%3A//www.theheinekencompany.com/cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
-You're viewing a non-cookie and age check validated page. 
+**You're viewing a non-cookie and age check validated page.**
+
+ **
 
 Navigating through the HEINEKEN Company website might result in a redirect to the age gateway. 
 
 After agreeing with those terms the rest of the site will be just as accessible
+
+**
 
 [Validate your age](http://www.theheinekencompany.com/age-gate)
 
