@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10yearsquestionpaper.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622182822id_/http%3A//www.10yearsquestionpaper.com/p/privacy-policy-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10yearsquestionpaper.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219004429id_/http%3A//www.10yearsquestionpaper.com/p/privacy-policy-www.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - 10 Years Question Paper
 
 PRIVACY  POLICY 
 
