@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620154323id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218035324id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for jordans.com
 
@@ -132,7 +132,7 @@ Please be aware that, even if you have opted out of receiving marketing communic
 
 ### Credit offerings
 
-The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1-866-750-0873 or by going to <http://jordanscardunsubscribe.com/>.
+The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1-866-750-0873. 
 
 ### Online Operations and Advertising
 
@@ -152,7 +152,7 @@ Personal information that is maintained in our offices or stores is subject to p
 
 ### Privacy Protections for Specific Types of Information
 
-For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Our Jordan's Powercharge is offered through Capital One®, N.A. Click here for a link to their privacy policy. <http://www.capitalone.com/identity-protection/privacy/statement/>.
+For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Our Jordan's Furniture Credit Card is offered through TD Bank, N.A. [Click here for a link to their privacy policy.](https://www.myonlineaccount.net/pdfs/RCS/RCSPrivacyPolicy.pdf)
 
 We also protect the credit or debit card information we collect during transactions by adhering to Payment Card Industry Data Security Standards (PCI Standards). These standards require safeguards for handling and securing customer information. These include using secure networks, encryption or other protection of cardholder data, physical and technical access controls, monitors and tests of security systems, and information security policies. 
 
