@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527101153id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218211055id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Packers.com | Privacy Policy
 
 ###### Green Bay Packers Website Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=453c2d39-00f6-414e-9a13-7640b498fac9 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=9cfff619-36a1-45bf-9d94-b477fd3a46a3)
 
-_Updated: June, 2013  
+_Updated: November 2016  
 _
 
-This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [m.packersproshop.com](http://m.packersproshop.com/), [www.packerseverywhere.com](http://www.packerseverywhere.com/), [www.packersproshop.com](http://www.packersproshop.com/), and [www.lambeaufield.com](http://www.lambeaufield.com/), (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [m.packersproshop.com](http://m.packersproshop.com/), [www.packerseverywhere.com](http://www.packerseverywhere.com/), [www.packersproshop.com](http://www.packersproshop.com/), and [www.lambeaufield.com](http://www.lambeaufield.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is in part operated by DMInteractive and Blue State Digital on behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). DMInteractive and Blue State Digital do not own any information submitted through this website and cannot use this information for its own purposes.
 
-Green Bay Packers has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices are in compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers the Website.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions or concerns regarding this statement, you should first contact the Packers Digital Manager at 920-569-7175 or [privacy@packers.com](mailto:privacy@packers.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-Green Bay Packers complies with the U.S. – E.U. and Swiss- U.S.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Green Bay Packers has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Green Bay Packers certification, please visit <http://www.export.gov/safeharbor>. 
+If you have questions or concerns regarding this statement, you should first contact the Packers Digital Manager at 920-569-7219 or privacy@packers.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -31,10 +27,11 @@ Please read the information below to learn more about our data collection polici
   6. Chat Rooms, Forums, And Message Boards
   7. Links To Other Websites
   8. A Special Note For Parents Concerning Privacy
-  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
-  10. Correcting/Updating Personal Information
-  11. Your California Privacy Rights
-  12. Questions About This Privacy Policy
+  9. International Transfers
+  10. Notification Of Changes And Your Acceptance Of The Privacy Policy
+  11. Correcting/Updating Personal Information
+  12. Your California Privacy Rights
+  13. Questions About This Privacy Policy
 
 
 
@@ -63,6 +60,8 @@ Contests or Sweepstakes: We periodically operate contests and sweepstakes throug
 Surveys or Voting: From time-to-time we may request personally identifiable information from you in conjunction with a survey or voting poll. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
 Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information, with the exception of the Packers Partners Message Boards.
+
+Local Storage & Other Tracking Technologies. We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
@@ -108,27 +107,29 @@ This Website incorporates reasonable safeguards to protect the security, integri
 
 A Special Note For Parents Concerning Privacy
 
-The Website is a general audience Website. We do not currently collect personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act including, without limitation, obtaining necessary parental consent.
-
-The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit the [Direct Marketing Association's Web Website](http://www.the-dma.org/) (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the [GetNetWise Website](http://www.getnetwise.org/) (www.getnetwise.org) to learn more about parental control tools.
+The Website is a general audience Website. We do not currently collect personal information from children under the age of thirteen on the Website except as permitted by law. If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act including, without limitation, obtaining necessary parental consent when that law requires it.
 
 Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
-By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
+By using this Website, you signify your consent to the practices described in our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
 Correcting/Updating Personal Information
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [privacy@packers.com](mailto:privacy@packers.com). We will respond to your request within 3-7 business days.
 
+International Transfers
+
+This Website, our servers and our company are headquartered in the United States. Please be aware that if information you provide to us, or that we obtain as a result of your use of our services, may be collected in your country and subsequently transferred to the United States for the purposes described above. The privacy laws of the United States may not always offer the same level of protection as in your country. By using the Services, you consent to the collection, international transfer, storage, and processing of your information.
+
 Your California Privacy Rights
 
-A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
+California residents may obtain specific information about a business's privacy practices if a company shares information with other companies for those companies' direct marketing purposes.
 
 As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
-Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
-
 If you are a California resident and have questions about our compliance with this law, please send an email to [CAprivacy@packers.com](mailto:CAprivacy@packers.com) or write to us at CA Privacy Rights, Green Bay Packers, 1265 Lombardi Avenue, Green Bay, WI 54304.
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
 Questions About This Privacy Policy
 
