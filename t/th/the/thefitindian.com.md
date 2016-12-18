@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefitindian.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627180705id_/http%3A//www.thefitindian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefitindian.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218014503id_/http%3A//www.thefitindian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,6 +51,8 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 **Update**  
 This Privacy Policy was last updated on: Thursday, November 8th, 2012.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+## Privacy Policy for TheFitIndian Windows 8 App
 
 The software provided is given without warranty, limited or express, including the warranty for interchangeability and non infringement. The authors are not liable for any claims or damages with regard to anything arising from the, or in connection with the software provided.
 
