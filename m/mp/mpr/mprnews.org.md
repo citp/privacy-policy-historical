@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mprnews.org privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526094119id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mprnews.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219000937id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | Minnesota Public Radio
 
