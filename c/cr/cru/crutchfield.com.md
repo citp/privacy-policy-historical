@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529214319id_/http%3A//www.crutchfield.com/ISEO-ralscspd/support/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crutchfield.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218193822id_/http%3A//www.crutchfield.com/support/privacy.aspx) for the most accurate reproduction.*
 
 # Crutchfield.com - Privacy Policy
 
@@ -14,7 +14,7 @@ By visiting Crutchfield.com you agree to accept the practices described in this 
 
 ###  Changes to this Privacy Notice, Conditions of Use and Notices
 
-This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 6/19/2014. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
+This Privacy Notice and our Terms of Use will change over time and the use of information which we gather now is subject to these Notices and Terms as modified. Please check this page periodically as you continue to use our site to see if any changes have been made. This privacy notice was most recently changed on 9/15/2016. If you visit our Web site your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including the application of the laws of the Commonwealth of Virginia.
 
 ###  Personal Information Collected By Crutchfield
 
@@ -60,9 +60,9 @@ Third Party Checkout Links: If you use a third party checkout link on our site s
 
 We contract with an outside service called Omniture to help us better understand your use of Crutchfield.com. Omniture places cookies on your computer to collect various kinds of information for us related to the use of our websites, so that we may continue to refine and improve the sites and better serve you. Omniture is not allowed to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. Additionally, Omniture is contractually required to maintain all the information collected for us in strict confidence. You may opt out of the Omniture information collection by [clicking here](http://www.omniture.com/privacy/2o7#optout).
 
-We contract with an outside service called Pippio to help us better understand your use of Crutchfield.com across multiple devices such as phones, desktop computers and tablets. Cookies are placed on your devices so that we can better understand how you use your various devices to contact our website so that we may continue to refine and improve the site and better service to you. Pippio is not allowed to collect any credit card, user name or password information, nor are they allowed to use data that they collect for us for any other purpose. You may opt out of the placement of Pippio cookies by clicking on <https://pippio.com/optout>. 
-
 We may share limited web browsing information of site visitors that have a prior relationship with PayPal and/or other Payors. This information will allow the Payor to enhance the Payor’s targeted marketing to the site visitor. The Payor may combine the information provided by us with information held by the Payor subject to the Payor’s privacy policy.
+
+Crutchfield has contracted with Support.com to provide video conferencing functionality on Crutchfield.com. When you use this service any information transmitted through the service will be sent to Support.com’s servers and they will have access to this information which will be subject to Support.com’s Privacy Policy located at <https://www.support.com/legal/site-privacy-policy/> You may opt out of this by not using our video conferencing service. 
 
 ###  Law Enforcement and Protection of Users
 
