@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084347id_/http%3A//www.regmovies.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalcinemas.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218224453id_/http%3A//www.regmovies.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Regal Cinemas
 
@@ -23,7 +23,7 @@ We do not share information with third parties for their direct marketing purpos
 At any time you may opt-out of receiving marketing communications from us or request that we not provide your personal contact, demographic, and/or lifestyle-related information to third parties. Please see the information below regarding opting out.
 
 **Text Messaging** **  
-** By opting in to receive special offers and other text messages on your wireless telephone, you consent to receiving autodialed, telemarketing text or e-mail messages at the telephone number, including Short Message Service (SMS) messages. By opting in, you accept and agree to be bound by this RCI Web Site Privacy Policy, the Regal SMS Terms and Conditions, which can be viewed [here](http://www.regmovies.com/RegalTextMessageTermsandConditions "Regal SMS Terms and Conditions"), the Application Privacy Policy, which can be viewed [here](http://community.regmovies.com/apps/privacy-policy/), and the RCI Mobile Application Privacy Policy, which can be viewed [here](http://www.regmovies.com/Mobile-Application-Privacy-Policy "Regal Mobile Application Privacy Policy").
+** By opting in to receive special offers and other text messages on your wireless telephone, you consent to receiving autodialed, telemarketing text or e-mail messages at the telephone number, including Short Message Service (SMS) messages. By opting in, you accept and agree to be bound by this RCI Web Site Privacy Policy, the Regal SMS Terms and Conditions, which can be viewed [here](https://www.regmovies.com/RegalTextMessageTermsandConditions "Regal SMS Terms and Conditions"), the Application Privacy Policy, which can be viewed [here](https://community.regmovies.com/apps/privacy-policy/), and the RCI Mobile Application Privacy Policy, which can be viewed [here](https://www.regmovies.com/Mobile-Application-Privacy-Policy "Regal Mobile Application Privacy Policy").
 
 **Children's Guidelines** **  
 ** RCI does not specifically target its online services to children under 13 years old. If you are under the age of 13 you may use our web site only under the supervision of a parent or guardian. Please note that our site may contain links to content providers that collect information from children under the age of 13. We have no control over such content providers and are not responsible for the privacy practices or the content of other web sites. Because the Internet offers open access to a wide range of information, it is important that parents supervise and prevent access to inappropriate content, email or chat sessions.
@@ -53,4 +53,4 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
 
 This privacy policy was last updated January 3, 2014 .
 
-**View the** **[ **Mobile Application Privacy Policy**](http://www.regmovies.com/Mobile-Application-Privacy-Policy "Regal Mobile Application Privacy Policy")** **.**
+**View the** **[ **Mobile Application Privacy Policy**](https://www.regmovies.com/Mobile-Application-Privacy-Policy "Regal Mobile Application Privacy Policy")** **.**
