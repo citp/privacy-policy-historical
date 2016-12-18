@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.co.uk privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529160901id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.co.uk privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218042628id_/http%3A//www.mcdonalds.co.uk/ukhome/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: McDonalds.co.uk
 
