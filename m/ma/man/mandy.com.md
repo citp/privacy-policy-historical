@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613083306id_/http%3A//www.mandy.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandy.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218021125id_/http%3A//www.mandy.com/privacypolicy.php) for the most accurate reproduction.*
 
 # mandy.com privacy policy
 
@@ -117,10 +117,10 @@ Please let us know if the personal information which we hold about you needs to 
 If you have any questions about this privacy policy or our treatment of your personal data, please contact us:
 
 Blue Compass Ltd  
-131/132 Upper Street  
+Angel House, Angel Mews  
 Islington  
 London  
-N1 1QP  
+N1 9HH  
 [Contact Us](http://www.mandy.com/feedback.php)
 
 
