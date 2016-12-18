@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910052407id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getstat.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218201209id_/https%3A//getstat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - STAT Search Analytics
 
-The getSTAT website (www.getSTAT.com) (the “Website”) is operated by STAT Search Analytics Incorporated (referred to as “SSAI”, “we”, “us” or “our”, below). We use the Website to provide information about our services.
+This policy discloses the information gathering and use practices of STAT Search Analytics Incorporated (referred to as “STAT”, “we”, “us”, or “our”, below), including on our website: www.getSTAT.com (“Website”).
 
-We respect and are committed to protecting your privacy, and we support a general policy of openness about how we collect, use and disclose your personal information. This Privacy & Security Policy informs you how SSAI collects, uses and discloses the personal information that you provide to us through use of our Website and accessing our services. By visiting the Website or otherwise using any SSAI online service, you consent to the collection, use and disclosure of your personal information in accordance with this Privacy & Security Policy.
+We’re all about respecting and protecting your privacy. (Kind of like Vegas, what happens on our website, stays on our website.) We also aim to be as transparent as possible about how we collect, use, and disclose your personal information, so please, familiarize yourself with this Policy. By visiting the Website or otherwise using any STAT online service, you consent to the collection, use, and disclosure of your personal information in accordance with this Privacy and Security Policy.
 
-We recommend that you take the time to read this Policy so that you understand how we handle and process information, including personal information. As we develop and expand our services, this Policy may also change. We will include a “last amended” date on the Policy as displayed on the Website. We strongly encourage you to refer back to the Policy periodically.
+“What?! You want my personal information?” Don’t worry — it’s not too personal. For the purpose of this Policy, “personal information” means information about an identifiable individual, but excludes the name, title or business address or telephone number of an employee or volunteer of an organization (if this exclusion is applicable in your jurisdiction). We won’t collect, use, or disclose your personal information in a way that is incompatible with this Policy. Because that’s just shady.
 
-This Policy also explains how you can contact us if you have a question about our privacy practices, want to change or update your personal information or change your preferences concerning our use and disclosure of your personal information.
+**Last Modified: September 27, 2016**
 
-For the purpose of this Policy, “personal information” means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee or volunteer of an organization. SSAI will not collect, use or disclose your personal information in a way that is incompatible with this Policy.
-
-**Last Modified: September 20, 2011**
-
-#### 1\. How We Collect and Use Personal Information via the Website
-
-##### Answering Queries
-
-You may contact us via a form that appears on the Website. If you do, we ask for your name and an email address. We use this information to communicate with you with respect to your inquiries. Alternatively, you may contact us via the email address posted on the Website. If you do so, we’ll be provided your email address and any other information you choose to disclose to us. Again, we will use this information to communicate with you with respect to your inquiries.
-
-As these functions are necessary to the proper administration of your inquiry, we do not offer an opt-out from providing a name or email address for such communications.
-
-Except as may be required by law or provided herein, we will not use this information for third party marketing or any other purpose.
+#### 1\. THE INFORMATION WE COLLECT AND HOW IT’S USED
 
 ##### Cookies and Web Logs
 
-When you visit the Website, cookies are placed within the memory of your internet access device. A cookie is a small piece of information that a website can store via your web browser for later retrieval. We use permanent cookies to help us track use of our Website, such as the number and frequency of visits to our pages and which parts of our Website are visited. Most browsers will allow you to disable cookies, and you may do so if you wish.
+This Website uses permanent cookies (mmm, cookies) to track the use of the Website in order to better the user experience and content delivered. These aren’t the kind of cookies you eat, rather these cookies are small files saved in the memory of your internet access device that track, save, and store information about your interaction with the Website. Basically, we want to know what you like so we can give you more of it! If you don’t like the idea of cookies (but seriously, who doesn’t like cookies?), you can disable them in your browser.
 
-SSAI collects aggregate information concerning usage of the Website through automatically logged information (for example, statistics that identify our most popular pages). SSAI does not use any personal information while generating this information, nor does it relate any of this information to an individual member or user.
+Here are the things that collect permanent cookies:
 
-#### 2\. Updating Your Personal Information
+  * Google Analytics – to track Website traffic and usage
+  * Google Tag Manager – to track links and social media platforms
+  * Pardot – to track Website traffic, usage, landing pages, forms, and content
+  * Disqus – to enable comments on our Blog
 
-You may update or change your personal information anytime by sending an email to contact@getSTAT.com.
 
-#### 3\. Knowledge and Consent
 
-SSAI collects personal information about you only when you voluntarily provide it. Typically, we will seek consent for the use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified).
+And here’s the kind of information we collect:
 
-The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances.
+  * Your internet location (IP address)
+  * The web page you came from to get to our Website
+  * The browser and device type you are using to access the Website
+  * The date(s) and time(s) you visit the Website
+  * The pages you visit and links clicked on our Website
+  * Information from the forms you view and complete
+  * The content you download
 
-You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact us at contact@getSTAT.com. We will inform you of the implications of withdrawing consent.
 
-We will not, as a condition of the supply of a SSAI service, require you to consent to the collection, use or disclosure of information beyond that reasonably required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
 
-#### 4\. When We Disclose Your Personal Information
+##### Answering Queries & Downloading Content
 
-SSAI will not sell, license, trade or rent your personal information. SSAI will not otherwise disclose your personal information except as described below.
+If you want to ask us a question or maybe just say “hi”, you can contact us through a form or email address that appears on the Website. If you do, we’ll ask for some personal information, including your name and email address, because it helps to know who we’re talking to in order to best answer reply.
 
-SSAI may also disclose personal information about its members to a third party if (a) a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so; or (b) necessary to enforce and protect the terms and conditions of our agreement(s) with you or the Terms of Use applicable to our Website.
+You might be asked to provide some personal information prior to downloading content from the Website. Nothing too personal though. In this case, the communication sent to you will be related to your download request.
 
-SSAI also reserves the right to disclose and/or transfer personal information to a third party in the event of a proposed or actual purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal or financing of all or any portion of SSAI or of any of the business or assets or shares of SSAI, provided that the third party represents that it will continue to use the information for the purposes set out in this Policy and in accordance with applicable privacy protection laws.
+#### 2\. OUR OPT-IN POLICY
 
-#### 5\. Retention of Your Personal Information
+We collect personal information only when you voluntarily provide it, either expressly or by implication (for example, by using our Website) and will send communication to you only if there is express or implied consent. Typically, we will seek consent for the use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified).
 
-We retain your personal information only for so long as permitted by applicable laws.
+As the great philosopher Fleetwood Mac once said, “you can go your own way”. If you ever change your mind and want to revoke consent for us to use your personal information or opt-out of receiving communication from STAT, you can contact us at [contact@getSTAT.com](mailto:contact@getSTAT.com) or click “Unsubscribe” or “Update Email Preferences” at the bottom of the email. Although, we’ll be sad to see you go. Note that there may be legal or contractual restrictions with respect to revoking consent, including that we may not be able to provide you with services in the future. If this is the case, we’ll inform you of the implications of withdrawing consent when the request is made.
 
-#### 6\. How We Protect Your Personal Information
+#### 3\. UPDATING YOUR PERSONAL INFORMATION
 
-SSAI uses commercially reasonable efforts to protect your personal information from loss, unauthorized access, misuse or theft. Only SSAI staff who have a legitimate business purpose for accessing the personal information collected by SSAI are authorized to do so. And on systems used to access SSAI data, we encrypt files containing your account information. Unauthorized access to or use of personal information by anyone affiliated with SSAI is prohibited and constitutes grounds for disciplinary action.
+If you happened to change your name and are now going by your alias, or if any other information changes, you can always update or change your personal information anytime by sending an email to [contact@getSTAT.com](mailto:contact@getSTAT.com).
 
-#### 7\. Links to Third Party Sites
+#### 4\. PROTECTING YOUR PERSONAL INFORMATION
 
-The Website contains links to other third party websites. You should be aware that operators of linked websites may also collect your personal information (including information generated through the use of cookies) when you link to their websites. SSAI is not responsible for how such third parties collect, use or disclose your personal information, so it is important to familiarize yourself with the privacy policies of these websites before providing your personal information on those sites.
+Your information is safe and sound with us. We use commercially reasonable efforts to protect your personal information from loss, unauthorized access, misuse, or theft. Only super special STAT staff who have a legitimate business purpose for accessing the personal information collected are authorized to do so. Any unauthorized access to or use of personal information by anyone affiliated with STAT is prohibited and constitutes grounds for disciplinary action. In other words, they’re in some big-time trouble.
+
+“Commercially reasonable? What the heck does that even mean?” Basically, we use encryption or cloud based services that have security systems in place to protect your personal and account information. Your personal information is retained by us for so long as permitted by applicable laws.
+
+#### 5\. DISCLOSING YOUR INFORMATION
+
+We’re good guys and girls and we’ll never sell, rent, or disclose your personal information unless we have a legal obligation to do so, or if we have to enforce or apply our terms of use and other agreements.
+
+The only time we’d have to disclose personal information about our members to a third party is if (a) a law, regulation, search warrant, subpoena, or court order legally requires or authorizes us to do so; or (b) it’s necessary to enforce and protect the terms and conditions of our agreement(s) with you or the Terms of Use applicable to our Website.
+
+#### 6\. Links to Third Party Sites
+
+Just like pretty much every other website out there, our Website contains links to third party websites. STAT’s not responsible for how these third parties collect, use, or disclose your personal information, or their cookie policy, so it is important to familiarize yourself with the privacy policies of these websites.
 
 #### Contacting Us
 
-In the event that you have any questions about the SSAI Privacy & Security Policy or if you have reason to believe that we may have failed to adhere to this Policy, you may contact us by sending an email to [contact@getSTAT.com](mailto:contact@getstat.com). 
+If you have any questions about this Policy, your interaction with the Website, or if you have reason to believe that we may have failed to adhere to this Policy, feel free to contact us:
+
+Attn: Privacy at STAT Search Analytics  
+704 Alexander Street  
+Vancouver, BC V6A 1E3  
+Canada  
+[contact@getSTAT.com](mailto:contact@getstat.com).
