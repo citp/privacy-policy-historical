@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coed.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622024230id_/http%3A//coed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coed.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218063700id_/http%3A//coed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Online privacy is a top concern at COED.com. For further information or questions about privacy, email us at editor@teamcoed.com. Your use is based on your acceptance of how COED.com operates, as indicated in this Privacy Policy.
 
-COED.com gathers user information such as name, email address, age and other facts to authenticate who you are. COED.com collects data regarding personal interests and other demographic information. We also gather information on how you use this service, which helps us, in part, to improve the site for your use. In the interest of privacy and protection, COED.com is available for only students who are in college. Users must have an .edu email address; if they donât but can prove they are in college by means of a verification form COED.com will furnish them with an email address that grants them access of a user ID and password.
+COED.com gathers user information such as name, email address, age and other facts to authenticate who you are. COED.com collects data regarding personal interests and other demographic information. We also gather information on how you use this service, which helps us, in part, to improve the site for your use. In the interest of privacy and protection, COED.com is available for students who are in college. Users must have an .edu email address; if they donât but can prove they are in college by means of a verification form COED.com will furnish them with an email address that grants them access of a user ID and password.
 
 Your User Profile Information, from pictures to your written entries, is shared with other people using the site (to the degree that you wish and indicate in your privacy settings) in order to encourage interaction among users. Communication among users takes place through the COED.com service, which doesnât reveal your email address. However, your email address is used by COED.com so that we can send you updates and newsletters, if you wish.
 
