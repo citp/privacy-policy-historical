@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106094120id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incontact.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218053913id_/http%3A//www.incontact.com/call-center-software-company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - inContact
+# Privacy Policy
 
-To see our Safe Harbor Policy, [Click Here](https://web.archive.org/call-center-software-company/legal/safe-harbor).
+To see our Privacy Shield Policy, [Click Here](https://web.archive.org/call-center-software-company/legal/privacy-shield).
 
 ### Information Collection & Usage
 
@@ -61,8 +61,9 @@ Customer may elect to prohibit inContact’s use of Customer’s CPNI to market 
 inContact, Inc.  
 Kimm Partridge  
 Assistant Corporate Secretary  
-7730 S. Union Park Ave, Suite 500  
-Midvale, UT 84047.   
+75 West Towne Ridge Parkway​​  
+Tower 1  
+Sandy, UT 84070.   
 
 Customer must include the following information in an opt-out request:  Name, account number, contact phone number, billing address and a clear statement that Customer would like to opt out of inContact marketing campaigns for services other than the type Customer already purchases from inContact.  If Customer fails to opt out in writing within such timeframe, Customer will be deemed to have given inContact consent to use Customer’s CPNI to market services other than services of the same type that Customer already purchases from inContact.  Restricting inContact’s use of Customer CPNI will not affect inContact’s provision of any service, nor will it necessarily eliminate all types of inContact marketing.
 
