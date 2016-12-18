@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629143333id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218210443id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
 
-# Reviews for Travel Products, Hotels, Restaurants and ToursTravel Experta – Specializing in Unique International Family Travel
+# Reviews for Travel Products, Hotels, Restaurants and Tours
 
 [Travelexperta.com](http://travelexperta.com/) is committed to protecting your privacy when you visit the site. You can access Travel Experta and browse the site without disclosing any of your personal data. I do not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Travel Experta will use it.
 
@@ -16,3 +16,7 @@ Protecting the privacy of the very young is important to me. For that reason, I 
 Please note that travelexperta.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage the users to be aware that when they leave the site that you read the privacy statements of each web site that might collect personally identifying information.
 
 This privacy statement applies solely to information collected by travelexperta.com. If you have any questions or concerns about the privacy policy, please contact: marinakuperman@gmail.com.
+
+## About Marina Kuperman Villatoro
+
+[Marina Kuperman Villatoro](https://plus.google.com/u/0/114721413075206411121) CEO of [TravelExperta.com](http://travelexperta.com//), a travel resource site to inspire families to travel with kids of all ages. Marina has been an expat 10+ years in Central America raising 2 boys in a multicultural, trilingual household. She travels all over the world with her family to give first hand experiences of where to eat, stay and play with kids. Needless to say, it’s never boring! Join Marina on [Facebook](https://www.facebook.com/travelexperta) and [Twitter](https://twitter.com/#%21/MarinaVillatoro) for more unique and boutique family travel! 
