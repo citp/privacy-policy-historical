@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613234038id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218062318id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy and cookies document | British Red Cross
+# Privacy policy | British Red Cross
 
-At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
+At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/en/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
@@ -14,7 +14,6 @@ If you have any queries about our privacy policy, please contact our supporter c
   * How we use your information
   * Your consent
   * How we protect your personal information
-  * Cookies and how we use them
   * Your credit card information
   * When you apply for a job
   * How to find out what personal information we hold about you
@@ -69,7 +68,7 @@ We will use your information to:
 
 To do some of this, we may need to share your information with other companies such as our trading subsidiaries, service providers, associated organisations and agents. But we will not swap or sell your data to any third parties for marketing purposes.
 
-You can opt out of receiving donation appeal letters, emails or telephone calls at any time – just contact us at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk), call us on 0300 456 11 55 or [manage your preferences online](https://web.archive.org/Donate-Now/Appeals/Other-Forms/Keeping-in-touch). 
+You can opt out of receiving donation appeal letters, emails or telephone calls at any time – just contact us at [supportercare@redcross.org.uk](mailto:supportercare@redcross.org.uk), call us on 0300 456 11 55 or [manage your preferences online](https://web.archive.org/en/Donate-Now/Appeals/Other-Forms/Keeping-in-touch). 
 
 Please note that if you opt out of receiving specific communications then opt in again in the future, the most recent request/preference will supersede. 
 
@@ -84,81 +83,6 @@ You also consent to us transferring your information to countries or jurisdictio
 We take appropriate physical, electronic and managerial measures to ensure that we keep your information secure, accurate and up to date, and that we only keep it as long as is reasonable and necessary.
 
 Although we use appropriate security measures once we have received your personal information, the transmission of information over the internet is never completely secure. We do our best to protect personal information, but we cannot guarantee the security of information transmitted to our website, so any transmission is at the user’s own risk. However, any credit card details we receive on our website are passed securely to WorldPay, our payment processing partner provider, according to the Payment Card Industry Security Standards.
-
-##  Website cookies and how we use them
-
-Cookies are small pieces of information that websites send to your computer and store on your hard drive. They are not software – they can’t be programmed or carry computer viruses. Cookies allow us to recognise your computer when you next visit our website, but they don’t tell us who you are. 
-
-If you use our website, we will assume you consent to us storing and retrieving cookies, unless you have set your internet browser to stop cookies from being saved on your computer. 
-
-The European Union Cookie Directive, which came into effect under UK law on the 26 May 2011, states that websites need informed consent from their users before they can store or retrieve cookies on your computer. Until technology develops, the best way for us to get that consent is by letting you know here where we use cookies.
-
-We use cookies to 
-
-  * remember your information so we can give you tailored information in future. For example, if you type your postcode in our ‘in your area’ search box, we can show you local British Red Cross information the next time you visit. 
-  * monitor how people use our site so we can improve any problem areas. 
-  * enhance our website with information from other websites, for example YouTube videos and Google Maps. We work hard with these websites to ensure they use cookies appropriately, but – because third party websites set their own cookies – we don’t have direct control over how they use them. However, you can manually block these cookies using your internet browser. 
-  * We have some relationships with carefully selected and monitored third-party suppliers to perform remarketing services on our behalf. Remarketing is a way for us to connect with people who have recently interacted with the British Red Cross website and we may set user cookie ID’s during your visit to be used for remarketing purposes – to show you ways in which you can support the Red Cross based on what you appear to be interested in. As a result, third-party suppliers, including Google, may use cookies to show you British Red Cross ads on sites on the internet. If you'd like to opt out, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) (opens in a new window - please note that we're not responsible for the content of external websites). The user cookie ID is collected and used for remarketing purposes and will not be used by third parties for any other purpose.
-
-
-
-### Disabling cookies
-
-You can manually delete old cookies, and stop cookies from being saved on your hard drive in future – find out more on the [All About Cookies website](http://www.allaboutcookies.org/manage-cookies/). However, disabling cookies may stop you from fully using all our website services.
-
-We use cookies on these areas of our website:
-
-  * On the website generally
-  * When you make a donation
-  * In our ‘in your area’ search box
-  * In email
-  * In online quizzes
-  * For text size and web page formatting
-  * In our online shops and online forms
-  * When you pay by credit card
-  * When you apply for a job
-
-
-
-###  On the website generally 
-
-We use Google Analytics to understand how people use our website so we can make it more effective. Google Analytics collects anonymous information about what people do on our website, where they’ve come from, and whether they’ve completed any tasks on the site, for example, signing up to volunteer or donating. Google Analytics tracks this information using cookies and JavaScript code.
-
-### Other website analytics
-
-We also use other analytics software to help us make improvements to our website. This sometimes enables us to identify the name of the organisation a visitor has come from, including the pages viewed. This does not use cookies, nor identify individuals within the organisation.
-
-###  When you make a donation
-
-We use cookies to track how donors come to our site. For example, we use approach codes in our internet addresses (URLs) to show us whether a donation came from
-
-  * a corporate partner 
-  * a particular online marketing campaign 
-  * a link shared on Twitter. 
-
-
-
-If you click a link we’re tracking, a session cookie will be dropped on your machine. This lets us know whether you make a donation within 24 hours.
-
-###  In our ‘in your area’ search box
-
-Cookies store your postcode after you've entered it in our search box.
-
-###  In email
-
-We use cookies to measure the success of the emails we send – so we know what subject lines and stories people liked the most. Although we receive this information with a person's individual email address, we don’t share this information.
-
-###  In online quizzes
-
-For example, our primary school first aid resource. We use cookies to store anonymous information about people’s quiz scores.
-
-###  For text size and web page formatting
-
-If you use stylesheets on our website to specify a particular text size, or high-visibility or low-contrast display, we use cookies to remember these settings for your next visit.
-
-###  In our online shop and online forms
-
-If you shop with us, we’ll use cookies to remember the items you’ve selected until you check out and buy them. We also use cookies to remember the information you type into our forms, until you finish and submit the form.
 
 ###  Your credit card information
 
