@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183549id_/https%3A//www.g2a.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218194223id_/https%3A//www.g2a.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - G2A - Global Digital Gaming Marketplace
+# Privacy policy - G2A.COM
 
 **I. General Information**
 
