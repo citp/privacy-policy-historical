@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrictv.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609144827id_/http%3A//www.centrictv.com/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrictv.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218235850id_/http%3A//www.centrictv.com/site/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
