@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblife.co.za privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611113643id_/http%3A//www.joblife.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblife.co.za privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219002114id_/http%3A//www.joblife.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | joblife.co.za
 
