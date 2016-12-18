@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517174000id_/http%3A//www.dealdetectingdiva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218132506id_/http%3A//www.dealdetectingdiva.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Deal Detecting Diva
 
-This deal was hand-picked to save you money, and this post _may_ contain affiliate links.   
-See our [disclosure policy](http://dealdetectingdiva.com/disclosure-policy/).
+This post was hand-picked for you, and _may_ contain affiliate links for your convenience. See our [disclosure policy](http://dealdetectingdiva.com/disclosure-policy/).
 
 **0** Flares **0** Flares ×
 
@@ -33,6 +32,6 @@ The contents of this statement may be altered at any time, at our discretion.
 
 [Contact us](http://dealdetectingdiva.com/contact/) if you have any questions regarding this privacy policy.
 
-_This policy last updated December, 2014._
+_This policy last updated July 2016._
 
 **0** Flares Twitter 0 Facebook 0 Google+ 0 Email \-- StumbleUpon 0 **0** Flares ×
