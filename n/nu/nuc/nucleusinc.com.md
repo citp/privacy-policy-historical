@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013546id_/http%3A//www.nucleuscatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nucleusinc.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218125551id_/http%3A//www.nucleuscatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Nucleus Catalog Privacy Policy
 
@@ -128,6 +128,3 @@ Your Consent
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
 [Back to Top](http://www.nucleuscatalog.com/privacy-policy#page)
-
-  
-
