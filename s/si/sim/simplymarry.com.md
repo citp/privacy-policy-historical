@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604192756id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218144456id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Matrimony - Simplymarry Matrimonial
 
@@ -54,10 +54,13 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-**Grievance Redressal :**  
-Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@simplymarry.com](mailto:grievance@simplymarry.com) or Neha Kareer ("Grievance Officer"). 
+**Submission of Identity documents**  
+We strongly advise our users to submit / upload true copies of supporting documents as proof of identity and address
 
-**Neha Kareer (Grievance Officer)  
+**Grievance Redressal :**  
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@simplymarry.com](mailto:grievance@simplymarry.com) or Poonam Sharma ("Grievance Officer"). 
+
+**Poonam Sharma (Grievance Officer)  
 **  
 Times Business Solutions
 
@@ -68,7 +71,7 @@ Times Business Solutions
 Times Centre   
 Sector 16-A, Noida - 201301, India   
 Email: [grievance@simplymarry.com](mailto:grievance@simplymarry.com)  
-Phone No. 0120-663-6504
+Phone No. 0120-6636439
 
 We request you to please provide the following information in your complaint:-
 
