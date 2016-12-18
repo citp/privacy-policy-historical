@@ -1,57 +1,7 @@
-> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/xpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218091225id_/http%3A//www.probertencyclopaedia.com/privacy-policy) for the most accurate reproduction.*
 
-# The Probert Encyclopaedia - FAQ
+# Privacy Policy - probertencyclopaedia.com
 
-  |    
-[Abbreviations](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/abbreviations.htm)  
-[Actors](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/actors.htm)  
-[Aircraft](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/aircraft.htm)  
-[Architecture](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/architecture.htm)  
-[Computer Viruses](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/virus.htm)  
-[Costume](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/costume.htm)  
-[Dictionary](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/xdic.htm)  
-[Food & Drink](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/food.htm)  
-[Gazetteer](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/places.htm)  
-[General Information](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/geninf.htm)  
-[Heraldry](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/heraldry.htm)  
-[Language](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/lang.htm)  
-[Latin](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/latin.htm)  
-[Medicine](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/medicine.htm)  
-[Money](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/money.htm)  
-[Movies](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/movies.htm)  
-[Music](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/music.htm)  
-[Mythology](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/mythology.htm)  
-[Nature](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/nature.htm)  
-[People](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/people.htm)  
-[Recreation](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/sport.htm)  
-[Rocks & Minerals](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/rocks.htm)  
-[SciTech](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/science.htm)  
-[Shakespeare](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/shakespeare.htm)  
-[Ships](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/ships.htm)  
-[Slang](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/slang.htm)  
-[Warfare](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/war.htm)
-
-Downloads
-
-[e-Books](https://web.archive.org/web/20120507232451id_/http%3A//www.probertencyclopaedia.com/xsales.htm) |  | 
-
-## Privacy Policy
-
-Customers email addresses and other personal details as supplied to us by the customer in emails etc are recorded and kept for the purposes of customer service. Customers details are NEVER distributed to third parties unless required by UK law. 
-
-We may from time to time notify selected individuals of updates to the Probert Encyclopaedia that we feel are relevant. 
-
-We use an external third-party advertising agency to supply advertising. This agency may seek to collect tracking information using 'cookies', we apologise for this, and assure you we neither condone nor encourage this tracking, but it is out of our control. 
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
-
-Our primary advertising partner, Value Click Media, is a member of the Network Advertising Initiative ("NAI"), and as such requires that we make it clear that you can opt out of their behavioural advertising tracking by visiting their web site at: [ www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
-
-Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-### The Probert Encyclopaedia: Empowering The Masses
-
-   
-  
-  
----|---|---|---
+his privacy policy sets out how [business name] uses and protects any information that you give Probertencyclopaedia.com when you use this website. Probertencyclopaedia.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.Probertencyclopaedia.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].What we collectWe may collect the following information:name and job title contact information including email address demographic information such as postcode, preferences and interests other information relevant to customer surveys and/or offersWhat we do with the information we gatherWe require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.SecurityWe are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. How we use cookies  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. Links to other websites Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.Controlling your personal informationYou may choose to restrict the collection or use of your personal information in the followingways: whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for directmarketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@Probertencyclopaedia.com We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
