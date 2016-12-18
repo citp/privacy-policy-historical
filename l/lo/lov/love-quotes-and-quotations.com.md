@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619202744id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218054028id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Love Quotes and Quotations
 
