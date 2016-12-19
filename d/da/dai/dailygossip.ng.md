@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailygossip.ng privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529042342id_/http%3A//www.dailygossip.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygossip.ng privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219145431id_/http%3A//www.dailygossip.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Daily Gossip
+# Privacy Policy | Daily Gossip
 
 **Privacy Policy for www.dailygossip.ng**
 
