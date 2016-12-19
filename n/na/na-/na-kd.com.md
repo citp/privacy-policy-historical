@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the na-kd.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417172755id_/https%3A//na-kd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the na-kd.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219050002id_/https%3A//na-kd.com/privacy-policy) for the most accurate reproduction.*
 
-# NA-KD.com
+# privacy policy - Buy online | NA-KD
 
 ## What is this privacy policy for?
 
