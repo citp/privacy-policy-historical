@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528065248id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescene.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219061457id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
-# CleverMedia: Games and Apps
+# CleverMedia Game Apps: For iOS and Android
 
 CleverMedia, Inc., and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. We do not collect information for any marketing purposes at all. No membership or sign-up is required for playing any of the games on our sites.
 
@@ -30,18 +30,10 @@ CleverMedia, Inc. is required by law to provide you with the following informati
 
 CleverMedia, Inc.'s sites use third-party advertising companies to serve ads when you visit our Web sites. Our third-party advertising companies also may separately place or recognize cookie files on your browser in the course of delivering advertisements to this Site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can find out more here:
 
-Some ads at our sites are served by Google AdSense. Read their privacy statement at <http://www.google.com/privacy_ads.html>.
-
-Some ads at our sites are served by Tribal Fusion. Read their privacy statement at <http://www.tribalfusion.com/TribalFusion/privacy.html>.
-
-Some as at our sites are served by BurstMedia. Read their privacy statement at <http://www.burstmedia.com/isl/privacy.asp>.
+Most ads at our sites are served by Google AdSense. Read their privacy statement at <https://www.google.com/policies/technologies/ads/>.
 
 In addition, please note:  
 _We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp)._
-
-Some ads at our sites are served by Specific Media. Read their privacy statement at <http://specificmedia.com/privacy.php>.
-
-Some ads at our sites are served by Commission Junction. Read their privacy statement at <http://www.cj.com/privacy.html>.
 
 * * *
 
@@ -53,4 +45,6 @@ According to law, we must provide complete contact information in our privacy po
 
 Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/email-feedback.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
 
-Mailing address: CleverMedia Inc., 200 W. Hampden Ave. Englewood, CO 80110. Do not send us junk mail.
+Mailing address: CleverMedia Inc., P.O. Box 200803, Denver, CO 80220, USA. Do not send us junk mail.
+
+Copyright 1995-2016 CleverMedia, Inc.
