@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the hotlink.com.my privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607215446id_/http%3A//www.hotlink.com.my/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlink.com.my privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219213146id_/http%3A//www.hotlink.com.my/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement | Hotlink
-
-#### Hotlink Privacy Statement - Important Notice
-
-**English** | [Bahasa Malaysia](https://web.archive.org/web/20150607215446id_/http%3A//www.hotlink.com.my/en/penyataan-privasi.html)
 
 This Privacy Statement sets out how Maxis Berhad and its holding, related and subsidiary companies, including but not limited to, Maxis Mobile Sdn Bhd, Maxis Mobile Services Sdn Bhd, Maxis Broadband Sdn Bhd, Maxis Collections Sdn Bhd, Maxis International Sdn Bhd and Maxis Communications Berhad (collectively referred to as " **Maxis Group** ", " **us** " or " **we** ") collect, store and handle personal information (as defined below) of individuals in accordance with the Personal Data Protection Act 2010 ("PDPA") and the laws of Malaysia.
 
 Please read this Privacy Statement to understand how we use the personal information we may collect from you. By providing your Personal Information to us, you are consenting to this Privacy Statement and the collection, use, access, transfer, storage and processing of your personal information as described in this Privacy Statement.
 
-**_1\. What This Privacy Statement Explains_**
+**1\. What This Privacy Statement Explains**
 
   * **This Privacy Statement explains:**
   * What kind of personal information we collect
@@ -22,15 +18,15 @@ Please read this Privacy Statement to understand how we use the personal informa
 
 
 
-**_2\. Our Commitment To You_**
+**2\. Our Commitment To You**
 
 We value your trust and are committed to protecting your personal information. To ensure that you can make informed decisions and feel confident about supplying your Personal Information to us when using any of our Maxis Group websites, Products and/or Services, we provide you with this Privacy Statement outlining our practices and the choices you have concerning how your Personal Information is being collected and used by us.
 
-**_3\. Defining Personal Information_**
+**3\. Defining Personal Information**
 
 Personal information refers to any information which relates directly or indirectly to you. This includes any information that can be used to distinguish, identify or contact you. For the purposes of this Privacy Statement, personal information encompasses sensitive personal information which relates to information relating to your health, political opinions, religious beliefs, etc. For the avoidance of doubt, please note that this Privacy Statement is applicable only if you are a natural person / an individual.
 
-**_4\. What Kind Of Personal Information We Collect_**
+**4\. What Kind Of Personal Information We Collect**
 
 In order for us to provide you with our Products and/or Services and to operate in an efficient and effective manner by providing you with the best service possible, we need to collect relevant personal information from you. The personal information collected by us may include (but is not limited to) the following:-
 
@@ -48,7 +44,7 @@ In order for us to provide you with our Products and/or Services and to operate 
 
 
 
-**_5\. When And How We Collect Your Personal Information?_**
+**5\. When And How We Collect Your Personal Information?**
 
 We may collect personal information directly from you when you:-
 
@@ -68,7 +64,7 @@ We may collect personal information directly from you when you:-
 
 Other than personal information obtained from you directly (as detailed above), we may also obtain your personal information from third parties we deal with or are connected with you (credit reference agencies or financial institutions), and from such other sources where you have given your consent for the disclosure of information relating to you, and/or where otherwise lawfully permitted.
 
-**_6\. How We Use Your Personal Information_**
+**6\. How We Use Your Personal Information**
 
 We may collect and use personal information from you or from the category of third parties identified in this Privacy Statement, for one or more of the following purposes:-
 
@@ -98,7 +94,7 @@ We may collect and use personal information from you or from the category of thi
 
 
 
-**_7\. Disclosure of Your Personal Information_**
+**7\. Disclosure of Your Personal Information**
 
 As a part of providing you with our Products and/or Services and the management and/or operation of the same, we may be required or need to disclose information about you to the following third parties:
 
@@ -113,7 +109,7 @@ As a part of providing you with our Products and/or Services and the management 
 
 subject at all times to any laws (including regulations, guidelines and/or obligations) applicable to the Maxis Group
 
-**_8\. Direct Marketing_**
+**8\. Direct Marketing**
 
 We may use your personal information to provide you with information about our and third party services and/or products, which may be of interest to or benefit you, except where otherwise requested or notified by you.
 
@@ -123,11 +119,11 @@ We take reasonable steps to ensure that our agreements with our merchants and/or
 
 If you do not wish your personal information to be utilised for the purposes of marketing or should you change your mind in relation to your previous decision, please contact us at the Maxis Privacy Centre via the contact details provided below. Your latest written instructions to us will prevail.
 
-**_9\. What If Personal Information Provided By You Is Incomplete?_**
+**9\. What If Personal Information Provided By You Is Incomplete?**
 
 Where indicated (for example in registration/application forms), it is obligatory to provide your personal information to us to enable us to process your application for our Products and/or Services. Should you decline to provide such obligatory personal information, we may not be able to process your application or provide you with our Products and/or Services.
 
-**_10\. Your Rights To Access And Correct Your Personal Information_**
+**10\. Your Rights To Access And Correct Your Personal Information**
 
 We can assist you to access and correct your personal information held by us.
 
@@ -137,13 +133,13 @@ We will use reasonable efforts to comply with your request to access or correct 
 
 Please note that we may have to withhold access to your personal information in certain situations, for example when we are unable to confirm your identity or where information requested for is of a confidential commercial nature or in the event we receive repeated requests for the same information. Nevertheless, we will notify you of the reasons for not being able to accede to your request.
 
-**_11\. Your Obligations_**
+**11\. Your Obligations**
 
 You are responsible for providing accurate and complete information to us about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes incorrect or out of date by contacting the Maxis Privacy Centre via the contact details provided below. This obligation is a condition to the provision of our Products and/or Services to you and/or any other person authorised or permitted by you or your organisation/company to use the Products and/or Services.
 
-In the event you may need to provide us with personal information relating to third parties (for example about your spouse or children or where you are the designated person in charge (from an organisation or company) for dealing with us, if you are acquiring and are responsible for a service and/or product that they will use), you confirm that you have (i) obtained their consent or otherwise entitled to provide their personal information to us and for us to use accordingly, and (ii) informed them to read this Privacy Statement at our website at www.hotlink.com.my/pdpa/ and at any Maxis Service Centre.
+In the event you may need to provide us with personal information relating to third parties (for example about your spouse or children or where you are the designated person in charge (from an organisation or company) for dealing with us, if you are acquiring and are responsible for a service and/or product that they will use), you confirm that you have (i) obtained their consent or otherwise entitled to provide their personal information to us and for us to use accordingly, and (ii) informed them to read this Privacy Statement at our website at [www.hotlink.com.my/pdpa/](http://www.hotlink.com.my/pdpa/) and at any Maxis Service Centre.
 
-**_12\. Online Dealings With Maxis Group_**
+**12\. Online Dealings With Maxis Group**
 
 **_Cookies_**
 
@@ -153,15 +149,15 @@ We collect information about your use of our websites from cookies. Cookies are 
 
 Please be informed that this Privacy Statement applies solely to Maxis Group Websites and does not apply to any third party websites you may access from our websites. To determine how they deal with your Personal Information, you should ensure that you read their respective privacy policies.
 
-**_13\. Transfer Of Your Personal Information Outside Malaysia_**
+**13\. Transfer Of Your Personal Information Outside Malaysia**
 
 It may be necessary for us to transfer your personal information outside Malaysia if any of our service providers or strategic partners (" **overseas entities** ") who are involved in providing part of a Maxis Group Products and/or Services are located in countries outside Malaysia or if you use the Products and/or Services from a country other than Malaysia (for example, international roaming). You consent to us transferring your personal information outside Malaysia in these instances. We shall take reasonable steps to ensure that any such overseas entities are contractually bound not to use your personal information for any reason other than to provide the Products and/or Services they are contracted by us to provide and to adequately safeguard your personal information.
 
-**_14\. Updates To Our Privacy Statement_**
+**14\. Updates To Our Privacy Statement**
 
 We may amend this Privacy Statement from time to time and the updated version shall apply and supercede any and all previous versions, including but not limited to, leaflets or hard copy versions. Please check our website for information on our most up-to-date practices.
 
-**_15\. Our Contact Details_**
+**15\. Our Contact Details**
 
 Should you have any queries, concerns or complaints in relation to this Privacy Statement , kindly contact us at the Maxis Privacy Centre during office hours (between 9:00am to 6:00pm, Mondays to Fridays and between 9:00am to 1:00pm on Saturdays) at the following contact points:
 
@@ -171,6 +167,3 @@ Fax No. : 03-74922950
 E-mail : [**customercare@maxis.com.my**](mailto:customercare@maxis.com.my?subject=Data%20Privacy%20Officer)   
 Address : Maxis Group, P.O. Box 13222, 50802 Kuala Lumpur  
 **
-
-  
-**Version: 20130214.01**
