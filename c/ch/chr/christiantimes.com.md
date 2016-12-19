@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiantimes.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414110416id_/http%3A//christiantimes.com/aboutus/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiantimes.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219111035id_/http%3A//christiantimes.com/aboutus/policy) for the most accurate reproduction.*
 
 # 
 
