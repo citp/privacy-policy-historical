@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the financelance.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621035230id_/http%3A//financelance.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the financelance.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219103900id_/http%3A//financelance.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US"><head>
 	<meta charset="UTF-8">
@@ -55,7 +55,6 @@
 </style>
 <link rel="stylesheet" id="responsive-css" href="http://financelance.com/app/themes/newstimes/css/responsive.css?ver=4.0" type="text/css" media="all">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://financelance.com/wp/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
-<script type="text/javascript" src="http://financelance.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mts_customscript = {"responsive":"1","nav_menu":"secondary"};
@@ -89,7 +88,17 @@ h6 { font-family: 'Roboto'; font-weight: 700; font-size: 13px; color: #444444; }
 	
 <script>
 window['process_tag_vars'] = {};
-
+String.prototype.parseUrlParams = String.prototype.parseUrlParams || function () {
+		var str = this || '';
+		if (str) {
+			str = str.split("+").join(" ");
+		}
+		var params = {}, tokens, re = /[?&]([^=]+)=([^&]*)/g;
+		while (tokens = re.exec(str)) {
+			params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+		}
+		return params;
+	};
 function process_tag(tag) {
 	var topWindow = window['topWindow'] || window;
 	window['process_tag_vars']['v'] = 1;
@@ -112,7 +121,23 @@ function process_tag(tag) {
 		window['errorLog'] && window['errorLog']('pt2', e);
 		window['track'] && window['track']('pt2', e);
 	}
-	return tag;
+	// return tag;
+	var anId = '922817'
+	var proxy = 'http://pixel.adsafeprotected.com/vast?anId=' + anId + '&campId=general';
+	try {
+		var urlParams = String(window.location.href).parseUrlParams();
+		var zz = urlParams && urlParams.zz || 'unknown';
+		proxy += '&placementId=' + encodeURIComponent(window.location.host)
+		proxy += '&pubId=' + encodeURIComponent(zz)
+	} catch (e) {
+		console.warn(e)
+	}
+	try {
+		proxy += '&originalVast=' + encodeURIComponent(tag)
+	} catch (e) {
+		console.warn(e)
+	}
+	return proxy;
 }</script>
 	<!-- jwplayer -->
 </head>
@@ -126,11 +151,13 @@ function process_tag(tag) {
 						<div id="sticky" class="secondary-navigation">
 											<nav id="navigation" class="clearfix">
 							<a href="#" class="toggle-mobile-menu">Menu</a>
-															<ul id="menu-menu-1" class="menu clearfix"><li class="home-menu-item menu-item"><a href="http://financelance.com/"><i class="fa fa-home"></i></a></li><li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://financelance.com/about-us/">About Us</a></li>
-<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://financelance.com/advertise-with-us/">Advertise With Us</a></li>
-<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://financelance.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item"><a href="http://financelance.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://financelance.com/terms-of-use/">Terms of Use</a></li>
+															<ul id="menu-top-menu" class="menu clearfix"><li class="home-menu-item menu-item"><a href="http://financelance.com/"><i class="fa fa-home"></i></a></li><li id="menu-item-128" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/credit-banking/">Credit &amp; Banking</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/financial-management/">Financial Management</a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/insurance/">Insurance</a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/investing/">Investing</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/loans/">Loans</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/real-estate/">Real Estate</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://financelance.com/category/tax/">Tax</a></li>
 </ul>													</nav>
 													<div class="header-search">
 								<a href="#" class="fa fa-search"></a>
@@ -146,9 +173,7 @@ function process_tag(tag) {
 											<a href="http://financelance.com"><img src="http://financelance.com/app/uploads/2016/02/FINANCELANCE.png" alt="FinanceLance"></a>
 										</h2><!-- END #logo -->
 																					</div>
-						<div id="text-2" class="widget-header">			<div class="textwidget"><center><iframe src="/c/af.php?z=main_728&amp;" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</center></div>
-		</div>					</div>
+											</div>
 
 									</div><!--#header-->
 			</div><!--.container-->
@@ -191,9 +216,6 @@ function process_tag(tag) {
 <p>If by chance another company obtains the assets in the business of FinanceLance, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.</p>
 <p><strong>Service Customization</strong></p>
 <p>Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.</p>
-<p><strong>Third-Parties</strong></p>
-<p>Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.</p>
-<p>We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
 													</div><!--.post-content box mark-links-->
 					</div>
 				</div>
@@ -207,20 +229,6 @@ function process_tag(tag) {
 				<div class="slider-container loading">
 					<div class="widget-slider widget-slider-arrows">
 						<ul class="slides">
-														<li data-thumb="http://financelance.com/app/uploads/2014/10/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg"> 
-								<a href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/">
-									<img width="345" height="116" src="http://financelance.com/app/uploads/2014/10/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" class="attachment-widgetfull wp-post-image" alt="how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" title="">								</a>
-																<div class="flex-caption">
-									<h2 class="slidertitle"><a href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/" title="How To Make A Life Insurance Claim And Find Out How It Is Processed">How To Make A Life Insurance Claim And Find Out How It Is Processed</a></h2>
-								</div>
-															</li>
-														<li data-thumb="http://financelance.com/app/uploads/2014/10/how-to-pre-qualify-for-a-loan.jpg"> 
-								<a href="http://financelance.com/how-to-prequalify-for-a-loan/">
-									<img width="345" height="116" src="http://financelance.com/app/uploads/2014/10/how-to-pre-qualify-for-a-loan.jpg" class="attachment-widgetfull wp-post-image" alt="how-to-pre-qualify-for-a-loan.jpg" title="">								</a>
-																<div class="flex-caption">
-									<h2 class="slidertitle"><a href="http://financelance.com/how-to-prequalify-for-a-loan/" title="How To PreQualify For A Loan">How To PreQualify For A Loan</a></h2>
-								</div>
-															</li>
 														<li data-thumb="http://financelance.com/app/uploads/2014/10/how-to-become-a-real-estate-broker.jpg"> 
 								<a href="http://financelance.com/how-to-become-a-real-estate-broker/">
 									<img width="345" height="116" src="http://financelance.com/app/uploads/2014/10/how-to-become-a-real-estate-broker.jpg" class="attachment-widgetfull wp-post-image" alt="how-to-become-a-real-estate-broker.jpg" title="">								</a>
@@ -228,13 +236,81 @@ function process_tag(tag) {
 									<h2 class="slidertitle"><a href="http://financelance.com/how-to-become-a-real-estate-broker/" title="How To Become A Real Estate Broker">How To Become A Real Estate Broker</a></h2>
 								</div>
 															</li>
+														<li data-thumb="http://financelance.com/app/uploads/2014/10/stock-investing-strategies.jpg"> 
+								<a href="http://financelance.com/stock-investing-strategies/">
+									<img width="345" height="116" src="http://financelance.com/app/uploads/2014/10/stock-investing-strategies.jpg" class="attachment-widgetfull wp-post-image" alt="stock-investing-strategies.jpg" title="">								</a>
+																<div class="flex-caption">
+									<h2 class="slidertitle"><a href="http://financelance.com/stock-investing-strategies/" title="Stock Investing Strategies">Stock Investing Strategies</a></h2>
+								</div>
+															</li>
+														<li data-thumb="http://financelance.com/app/uploads/2014/10/tax-credits-2.jpg"> 
+								<a href="http://financelance.com/tax-credits/">
+									<img width="345" height="116" src="http://financelance.com/app/uploads/2014/10/tax-credits-2.jpg" class="attachment-widgetfull wp-post-image" alt="tax-credits-2.jpg" title="">								</a>
+																<div class="flex-caption">
+									<h2 class="slidertitle"><a href="http://financelance.com/tax-credits/" title="Tax Credits">Tax Credits</a></h2>
+								</div>
+															</li>
 													</ul>
 					</div>
 				</div>
 			</div><!-- slider-widget-container -->
-		</div><div id="text-5" class="widget widget_text">			<div class="textwidget"><center><iframe src="/c/af.php?z=main_300&amp;" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</center></div>
-		</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+		</div><div id="mts_recent_posts_widget-3" class="widget widget_mts_recent_posts_widget"><h3 class="widget-title">Recent Posts</h3><ul class="advanced-recent-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a rel="nofollow" href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/" title="How To Make A Life Insurance Claim And Find Out How It Is Processed">
+						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" class="attachment-related wp-post-image" alt="how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" title="">					</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<a class="post-title" href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/" title="How To Make A Life Insurance Claim And Find Out How It Is Processed">How To Make A Life Insurance Claim And Find Out How It Is Processed</a>
+																		<div class="post-excerpt">
+							The first initial process in making a life insurance claim is contacting the insurance agent. As long as you are&nbsp;…						</div>
+											</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a rel="nofollow" href="http://financelance.com/how-to-prequalify-for-a-loan/" title="How To PreQualify For A Loan">
+						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-pre-qualify-for-a-loan.jpg" class="attachment-related wp-post-image" alt="how-to-pre-qualify-for-a-loan.jpg" title="">					</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<a class="post-title" href="http://financelance.com/how-to-prequalify-for-a-loan/" title="How To PreQualify For A Loan">How To PreQualify For A Loan</a>
+																		<div class="post-excerpt">
+							Before you try to get a loan, you should see if you can pre-qualify. When you pre-qualify for a loan,&nbsp;…						</div>
+											</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a rel="nofollow" href="http://financelance.com/how-to-become-a-real-estate-broker/" title="How To Become A Real Estate Broker">
+						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-become-a-real-estate-broker.jpg" class="attachment-related wp-post-image" alt="how-to-become-a-real-estate-broker.jpg" title="">					</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<a class="post-title" href="http://financelance.com/how-to-become-a-real-estate-broker/" title="How To Become A Real Estate Broker">How To Become A Real Estate Broker</a>
+																		<div class="post-excerpt">
+							You have dreamed of owning your own business. There are many business’s you may have considered,and you have chosen to&nbsp;…						</div>
+											</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a rel="nofollow" href="http://financelance.com/stock-investing-strategies/" title="Stock Investing Strategies">
+						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/stock-investing-strategies.jpg" class="attachment-related wp-post-image" alt="stock-investing-strategies.jpg" title="">					</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<a class="post-title" href="http://financelance.com/stock-investing-strategies/" title="Stock Investing Strategies">Stock Investing Strategies</a>
+																		<div class="post-excerpt">
+							Investing in stocks can be done in many ways. Investors can buy individual stocks or use mutual funds with access&nbsp;…						</div>
+											</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a rel="nofollow" href="http://financelance.com/choosing-your-home-loan/" title="Choosing Your Home Loan">
+						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/choosing-your-home-loan.jpg" class="attachment-related wp-post-image" alt="choosing-your-home-loan.jpg" title="">					</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<a class="post-title" href="http://financelance.com/choosing-your-home-loan/" title="Choosing Your Home Loan">Choosing Your Home Loan</a>
+																		<div class="post-excerpt">
+							It is important for a potential homeowner to understand the mortgage loans that are available to help them obtain a&nbsp;…						</div>
+											</div>
+				</div>
+			</div></li>		</ul>
+</div><div id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
 	<li class="cat-item cat-item-9"><a href="http://financelance.com/category/credit-banking/" title="Credit &amp; Banking">Credit &amp; Banking</a>
 </li>
 	<li class="cat-item cat-item-10"><a href="http://financelance.com/category/financial-management/" title="Financial Management">Financial Management</a>
@@ -250,10 +326,8 @@ function process_tag(tag) {
 	<li class="cat-item cat-item-15"><a href="http://financelance.com/category/tax/" title="Tax">Tax</a>
 </li>
 		</ul>
-</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><center><iframe src="/c/af.php?z=main_300&amp;" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</center></div>
-		</div><div id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
-	<caption>June 2016</caption>
+</div><div id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2016</caption>
 	<thead>
 	<tr>
 		<th scope="col" title="Monday">Mon</th>
@@ -276,69 +350,23 @@ function process_tag(tag) {
 
 	<tbody>
 	<tr>
-		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td>
 	</tr>
 	<tr>
-		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
 	</tr>
 	<tr>
-		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+		<td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
 	</tr>
 	<tr>
-		<td>20</td><td id="today">21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+		<td id="today">19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
 	</tr>
 	<tr>
-		<td>27</td><td>28</td><td>29</td><td>30</td>
-		<td class="pad" colspan="3">&nbsp;</td>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
 	</tr>
 	</tbody>
-	</table></div></div><div id="mts_recent_posts_widget-3" class="widget widget_mts_recent_posts_widget"><h3 class="widget-title">Recent Posts</h3><ul class="advanced-recent-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a rel="nofollow" href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/" title="How To Make A Life Insurance Claim And Find Out How It Is Processed">
-						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" class="attachment-related wp-post-image" alt="how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed.jpg" title="">					</a>
-				</div>
-								<div class="post-data">
-					<div class="post-data-container">
-						<a class="post-title" href="http://financelance.com/how-to-make-a-life-insurance-claim-and-find-out-how-it-is-processed/" title="How To Make A Life Insurance Claim And Find Out How It Is Processed">How To Make A Life Insurance Claim And Find Out How It Is Processed</a>
-																	</div>
-				</div>
-			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a rel="nofollow" href="http://financelance.com/how-to-prequalify-for-a-loan/" title="How To PreQualify For A Loan">
-						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-pre-qualify-for-a-loan.jpg" class="attachment-related wp-post-image" alt="how-to-pre-qualify-for-a-loan.jpg" title="">					</a>
-				</div>
-								<div class="post-data">
-					<div class="post-data-container">
-						<a class="post-title" href="http://financelance.com/how-to-prequalify-for-a-loan/" title="How To PreQualify For A Loan">How To PreQualify For A Loan</a>
-																	</div>
-				</div>
-			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a rel="nofollow" href="http://financelance.com/how-to-become-a-real-estate-broker/" title="How To Become A Real Estate Broker">
-						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/how-to-become-a-real-estate-broker.jpg" class="attachment-related wp-post-image" alt="how-to-become-a-real-estate-broker.jpg" title="">					</a>
-				</div>
-								<div class="post-data">
-					<div class="post-data-container">
-						<a class="post-title" href="http://financelance.com/how-to-become-a-real-estate-broker/" title="How To Become A Real Estate Broker">How To Become A Real Estate Broker</a>
-																	</div>
-				</div>
-			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a rel="nofollow" href="http://financelance.com/stock-investing-strategies/" title="Stock Investing Strategies">
-						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/stock-investing-strategies.jpg" class="attachment-related wp-post-image" alt="stock-investing-strategies.jpg" title="">					</a>
-				</div>
-								<div class="post-data">
-					<div class="post-data-container">
-						<a class="post-title" href="http://financelance.com/stock-investing-strategies/" title="Stock Investing Strategies">Stock Investing Strategies</a>
-																	</div>
-				</div>
-			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a rel="nofollow" href="http://financelance.com/choosing-your-home-loan/" title="Choosing Your Home Loan">
-						<img width="115" height="82" src="http://financelance.com/app/uploads/2014/10/choosing-your-home-loan.jpg" class="attachment-related wp-post-image" alt="choosing-your-home-loan.jpg" title="">					</a>
-				</div>
-								<div class="post-data">
-					<div class="post-data-container">
-						<a class="post-title" href="http://financelance.com/choosing-your-home-loan/" title="Choosing Your Home Loan">Choosing Your Home Loan</a>
-																	</div>
-				</div>
-			</div></li>		</ul>
-</div>			</ul>
+	</table></div></div>			</ul>
 		</div>
 	</div><!--sidebars-->
 </aside>		</div><!--#page-->
@@ -914,7 +942,12 @@ function process_tag(tag) {
 <div class="right"></div>
 </div>
 <!--end copyrights-->
-			</div><!--.container-->
+				<ul id="menu-menu-1" class="list-inline"><li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://financelance.com/about-us/">About Us</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://financelance.com/advertise-with-us/">Advertise With Us</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://financelance.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-117"><a href="http://financelance.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://financelance.com/terms-of-use/">Terms of Use</a></li>
+</ul>			</div><!--.container-->
 		</div><!--.copyrights-->
 	</footer><!--footer-->
 </div><!--.main-container-wrap-->
