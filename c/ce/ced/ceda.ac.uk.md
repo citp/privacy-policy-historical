@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622162416id_/http%3A//www.ceda.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219051348id_/http%3A//www.ceda.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Centre for Environmental Data Analysis
 
@@ -30,11 +30,11 @@ These pieces of information are used to improve services for you through, for ex
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue "session cookies" cookies when you visit our site. If you refuse to accept cookies, please be aware that some functionality will not perform as intended.
 
-For more information on cookies, and how to delete and control them visit [AboutCookies.org](http://www.aboutcookies.org/ "AboutCookies.org \(link opens in a new window\)") or[AllAboutCookies.org](http://www.allaboutcookies.org/ "AllAboutCookies.org \(link opens in a new window\)").
+For more information on cookies, and how to delete and control them visit [AboutCookies.org](http://www.aboutcookies.org/ "AboutCookies.org \(link opens in a new window\)") or [AllAboutCookies.org](http://www.allaboutcookies.org/ "AllAboutCookies.org \(link opens in a new window\)").
 
 ### Our use of cookies
 
-The list below shows all of the cookies that are set by the Centre for Environmental Data Archival and the third-party services we use.
+The list below shows all of the cookies that are set by the Centre for Environmental Data Analysis and the third-party services we use.
 
 #### Cookies for managing your current visit
 
@@ -72,8 +72,6 @@ For further details on the cookies set by Google Analytics, please refer to the�
     * _utmz: Expires 6 months after it was last set.
 
 
-
-#####  
 
 #### Cookies set by other websites through this site
 
