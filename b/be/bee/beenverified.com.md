@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529063214id_/https%3A//www.beenverified.com/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219062133id_/https%3A//www.beenverified.com/faq/privacy) for the most accurate reproduction.*
 
 # Privacy | BeenVerified.com
 
 ####  This Privacy Policy was last updated on 08/04/2015 
 
 ###  Privacy Policy 
-
-[](http://privacy.truste.com/privacy-seal/Been-Verified,-Inc-/validation?rid=cd4abbe4-6034-49f7-ac34-a07fd97eb5ca "TRUSTe online privacy certification")
-
-BeenVerified Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe certification covers information collected on the site [www.beenverified.com](http://www.beenverified.com/) and does not cover information that may be collected through other websites or mobile applications that may be owned and controlled by us. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@beenverified.com](mailto:privacy@beenverified.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 Thank you for visiting the website located at [www.beenverified.com](http://www.beenverified.com/), for downloading the BeenVerified Background Check App, or for visiting another BeenVerified website or downloading another BeenVerified mobile application that links to and utilizes this Privacy Policy (all platforms collectively referred to as the "Site"). The Site is a web-based property of BeenVerified, Inc. ("BeenVerified," "we," “our,” or "us") that enables end-user visitors to the Site (“Visitors”) to conduct searches of our databases of publicly available sources of information about individuals. This Privacy Policy describes the ways in which BeenVerified collects, uses, and discloses information about you when you access the Site. By accessing, viewing, downloading, or otherwise using the Site, you consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy, now and as amended or modified by us. 
 
