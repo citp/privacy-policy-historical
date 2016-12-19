@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forkable.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405035252id_/https%3A//forkable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forkable.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219174759id_/https%3A//forkable.com/privacy) for the most accurate reproduction.*
 
 # Forkable
 
