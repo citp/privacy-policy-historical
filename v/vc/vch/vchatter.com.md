@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vchatter.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214235924id_/http%3A//vchatter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vchatter.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219111043id_/http%3A//vchatter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
