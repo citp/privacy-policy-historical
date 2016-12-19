@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freetoolbox.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423061111id_/https%3A//www.freetoolbox.com/u/pages/privacy-22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetoolbox.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219111109id_/https%3A//www.freetoolbox.com/u/pages/privacy-6) for the most accurate reproduction.*
 
 # Free Tool Box
-
-### Privacy Policy
 
 This Privacy Policy governs the manner in which Multiplex Systems collects, uses, maintains and discloses information collected from users (each, a "User") of the www.freetoolbox.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Multiplex Systems.
 
@@ -90,7 +88,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:**
 
-  
+Multiplex Systems  
+www.turbocycler.com  
 Multiplex Systems, Inc  
 229 East 85th Street #71  
 New York, NY 10028  
@@ -99,3 +98,5 @@ New York, NY 10028
 multiplexsystems@gmail.com
 
 This document was last updated on October 1, 2013
+
+Privacy policy created by http://www.generateprivacypolicy.com
