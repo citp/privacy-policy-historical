@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621202837id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219211742id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico, Virginia
 
@@ -11,6 +11,7 @@ When you visit the Henrico County website, the information like the following is
   * How you got to our site (either through links on other sites or search terms)
   * ISP and general geographical location
   * General technical information on the device used to access the site (web browser, operating system, and if a computer or mobile device)
+  * Events taken on the site like clicking a link, downloading a file, or clicking a phone number
 
 
 
@@ -20,12 +21,13 @@ We use this data to analyze trends and data on how our site is used. This includ
 
 We use Google Analytics for this service. For more information on their privacy policies, you can read the [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-## Personally Identifiable Information
+## Disclosure of Information
 
-We treat such information the same way as if it had arrived in a letter. For example, suppose you use the [Restaurant Complaint Form](https://web.archive.org/health/environmental-health/complaint/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The appropriate agency receives this information, and can only share with other  
-County agencies that might need the information to resolve the issue.
+Our site offers several online services, where users can submit forms to various departments in the County to interact with various services or programs that the County offers. For example, suppose you use the [Restaurant Complaint Form](https://web.archive.org/health/environmental-health/complaint/) to file a complaint about a restaurant in Henrico County. That page asks you to enter personally identifiable information such as your name, address, and phone number. The appropriate agency receives this information, and can only share with other County agencies that might need the information to resolve the issue.
 
 The County of Henrico does not sell or market such information in any way, to anyone. The County of Henrico will disclose such information to third parties only when required to do so by law enforcement.
+
+Please be aware that information submitted through this website may be considered a public record subject to release by the County in response to a request made under the [Virginia Freedom of Information Act](http://www.vita.virginia.gov/about/default.aspx?id=311).
 
 GIS and other location-aware apps may use, only with your express permission, your geographical information to improve the functionality of the application. You may have seen this kind of location warning if you have a smartphone and have used on it any app that asks, “(This app) would like to use your current location,” and you accept or decline. If you decline, your location is not available in that application.
 
@@ -64,4 +66,8 @@ We monitor our incoming Internet traffic to protect our network against incoming
 
 All information to and from the web site is unencrypted, unless you choose to use SSL, which is available.
 
-_Last updated: September 4, 2014_
+## Updates
+
+Henrico County reserves the right to change these policies and the corresponding information on this page at any time without prior notice.
+
+_Last updated:  July 15, 2016_
