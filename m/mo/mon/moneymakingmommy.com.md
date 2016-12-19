@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518015340id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052053id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
