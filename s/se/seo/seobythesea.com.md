@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414024720id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219200048id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
@@ -14,6 +14,8 @@ SEO by the Sea does not target nor purposefully or knowingly collect information
 
 SEO by the Sea contains links to other websites which have their own privacy practices, and this privacy policy only applies to the pages of SEO by the Sea, and not to any other site which may be linked to by this site.
 
+This website uses cookies, tracking pixels and related technologies. Cookies are small data files that are stored on your device. Our site uses cookies from third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites. You can opt-out of these cookies by using the ‘opt-out’ button here: <https://app.adroll.com/optout/safari>
+
 If you have any questions or suggestions regarding this privacy policy, please feel free to [contact me](http://www.seobythesea.com/contact-us/).
 
 I recommend that anyone using the Web learn more about privacy issues online, and suggest the following resources as good places to begin to find out more on the topic:
@@ -27,5 +29,3 @@ I recommend that anyone using the Web learn more about privacy issues online, an
 
 – Bill Slawski  
 President, SEO by the Sea
-
-## Learn SEO Directly from the Search Engines
