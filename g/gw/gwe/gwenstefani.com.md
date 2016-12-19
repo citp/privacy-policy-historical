@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwenstefani.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616184217id_/https%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwenstefani.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219193216id_/https%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # UMG Privacy Policy
 
