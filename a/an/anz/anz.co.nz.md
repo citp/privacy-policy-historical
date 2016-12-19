@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130811id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.co.nz privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219165805id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
 
@@ -20,9 +20,9 @@
 
 This ANZ Website Security and Privacy Statement applies to this website ("ANZ website") but does not include ANZ Internet Banking or ANZ goMoney. This website is operated by ANZ Bank New Zealand Limited ("ANZ", “we” and, together with Australia and New Zealand Banking Group Limited and any companies owned by, or related to those companies whether located in New Zealand or elsewhere the “ANZ Group").
 
-For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
+For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/ANZ-Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
 
-ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. We are committed to protecting your privacy. This ANZ Website Security and Privacy Statement explains how your information will be treated as you access and interact with the ANZ website.
+ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. We are committed to protecting your privacy. This ANZ Website Security and Privacy Statement explains how your information will be treated as you access and interact with ANZ online, including on the ANZ website.
 
 As technology evolves, we will continue to strive to provide you with better, and more customised services and with a more effective website. We encourage you to review the ANZ Website Security and Privacy Statement periodically because it may change from time to time.
 
@@ -103,7 +103,7 @@ Back to top
 
 ### Tracking and Advertising
 
-ANZ works with a number of Advertising and Tracking Companies (such as MediaMind, DoubleClick and Datalicious) to deliver advertising on Third Party websites and monitor performance of ANZ advertising and associated ANZ websites.
+ANZ works with a number of third parties, including Advertising and Tracking Companies (such as MediaMind, DoubleClick and Datalicious) to deliver advertising on Third Party websites and monitor performance of ANZ advertising and associated ANZ websites.
 
 The Advertising and Tracking Companies use cookies to collect information such as:
 
@@ -115,9 +115,11 @@ The Advertising and Tracking Companies use cookies to collect information such a
 
 
   
-When you access the ANZ website after viewing an ANZ advertisement on a Third Party website, the Advertising Company collects information on how you utilise the ANZ website, such as which web pages you view or whether you complete an online application.
+When you access the ANZ website after viewing an ANZ advertisement on a Third Party website, the Advertising and Tracking Company collects information on how you utilise the ANZ website, such as which web pages you view or whether you complete an online application.
 
 The Advertising and Tracking Companies use this information to perform statistical analyses of aggregate user behaviour, but those analyses are not based on personal information. ANZ uses these analyses to track ANZ website and marketing performance and to offer more relevant advertising and content on Third Party websites. ANZ may disclose this information in an aggregate (not personal) form only, to third parties including advertisers or potential advertisers.
+
+We will only use your personal information in connection with advertising on any Third Party website or application in accordance with the [ANZ Privacy Statement (PDF 36kB)](http://www.anz.co.nz/resources/6/a/6a2db63d-6475-4935-ad5b-17e04feb1d11/Privacy-statement.pdf). Some third party advertising vendors, such as Google, allow you to adjust your preferences if you don’t want to receive advertising provided by them online. For more information, click on the ‘ad choices options’ on the advertising you see, or visit the [Network Advertising Initiative](http://www.networkadvertising.org/).
 
 Back to top
 
