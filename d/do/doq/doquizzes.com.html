@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the doquizzes.com privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604120240id_/http%3A//www.doquizzes.com/Security-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doquizzes.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219232902id_/http%3A//www.doquizzes.com/Security-Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:mnu="" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:v="urn:schemas-microsoft-com:vml"><head>	  <link id="base-32-css" href="/styles/3021-base-32-v18.css" rel="stylesheet" type="text/css">
-	  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="base-32-jss" src="/styles/3021-base-32-v18.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:mnu="" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:v="urn:schemas-microsoft-com:vml"><head>	  <link id="base-32-css" href="/styles/3021-base-32-v11.css" rel="stylesheet" type="text/css">
+	  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="base-32-jss" src="/styles/3021-base-32-v11.js"></script>
 
 		<meta name="verify-v1" content="1qoE2t+mCJmLlyxMOpyXnL5X7Hf1ltGPSTxxaU0OfA8=">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta name="format-detection" content="telephone=no">
+		
 		<meta name="description" content="">
 		<meta name="keywords" content="">
-		<meta property="fb:app_id" content="463067627146096">
 		
-		<!--meta property="fb:admins" content="653513672,1353397650"/-->
+		<meta property="fb:app_id" content="896617837121051">
+
+
 
 		<title>Security and Privacy Settings at Do Quizzes</title>
 		<script>
@@ -21,8 +23,21 @@
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-616899-35', 'auto');	
+			
+			var canonical = "";
+			var links = document.getElementsByTagName("link");
+			for (var i = 0; i < links.length; i ++) {
+				if (links[i].getAttribute("rel") === "canonical") {
+					canonical = links[i].getAttribute("href")
+					ga('set', 'pageview', canonical);
+					ga('set', 'location', canonical);
+					console.log(canonical);
+				}
+			}
+            
 
-			ga('create', 'UA-616899-35', 'auto');
+			
 			ga('require', 'displayfeatures');
 			
 			ga('send', 'pageview');
@@ -32,21 +47,23 @@
 			/* temporary remove when published */
 			.quiz-addsub, .qi-type > DIV[n='7']		{display:none;}
 		</style>
+				
+
 	</head>
 	<body qtload="1" class="" p="Security-Privacy" menu="0">
 		<div id="header"><div id="header-b">
-			<a href="/" id="logo"><img alt="Do Quizzes Logo" src="/images/dqlogo.jpg"></a>
+			<a href="/" id="logo"><img alt="Do Quizzes Logo" src="/3021/images/dqlogo.png"></a>
 
 			<div class="header-menu">
 				<a href="/Create"><div>Create</div></a><a href="/"><div>Latest</div></a>
-				<a class="ul-show-in nomobile" style="display:none" href="/Dashboard"><div>Dashboard</div></a>
+				<a class="nomobile" href="/Dashboard"><div>Dashboard</div></a>
 				<a class="menu" onclick="document.body.setAttribute('menu',(document.body.getAttribute('menu')=='1'?0:1))"><div class="fa fa-bars"></div><div class="sub-title">Menu</div></a>
 			</div>
 		</div></div>
 		<div id="menu-container"> 
 			<div id="mobile-menu">
-				<a href="/Create"><span class="fa fa-question-circle">Quiz Maker</span></a>
-
+				<a href="/Create" class="mcol-1"><span class="fa fa-question-circle">Quiz Maker</span></a>
+				<a href="/TopQuotes" class="mcol-2"><span class="fa fa-question-circle">Quotes</span></a>
 				<a href="/" class="mcol-1"><span class="fa fa-envelope-o">Quizzes</span></a>
 				<a href="/Riddles" class="mcol-2"><span class="fa fa-users">Riddles</span></a> 
 				<a href="/Dashboard" class="mcol-1 ul-show-in"><span class="fa fa-edit">Dashboard</span></a>
@@ -186,9 +203,15 @@
 
 			</div>
 			
-		</div>
+		<div id="ul-pos"></div></div>
 		
 		<div id="fb-root" style="display:none;"></div>
-		<script>try{ulLoad({"id":0,"em":"","nc":0,"un":"","ut":"","fn":"","fb":"","gp":"","tz":0,"pic":"","preaccount":1,"cmonth":-6});}catch(e){}</script>
+		<script>try{ulLoad({"id":0,"em":"","nc":0,"un":"","ut":"","fn":"","fb":"","gp":"","tz":0,"pic":"","preaccount":1,"cmonth":0});}catch(e){}</script>
+		
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({flush: true});
+		</script>
+
 	
 </body></html>
