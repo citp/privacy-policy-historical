@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springsnow.info privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423140207id_/http%3A//springsnow.info/%3Fpage_id%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springsnow.info privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219061025id_/http%3A//springsnow.info/%3Fpage_id%3D14) for the most accurate reproduction.*
 
 # Privacy Policy | Springsnow Housing
 
