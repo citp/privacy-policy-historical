@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the lenskart.com privacy policy that was archived on 2016-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160501094005id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lenskart.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219104545id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//connect.facebook.net/en_US/all.js" id="facebook-jssdk" async=""></script><script src="//live.instaclique.com/js/production/ic-widget-lenskart-min.js" id="ic-widget-js" async=""></script><script type="text/javascript" src="http://d3kw6wfam8lfab.cloudfront.net/js/top_common_v3.js"></script>
+    <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://static1.lenskart.com/js/top_common.ca0c31020b45115896affbc4fc51b2e8.js"></script>
         <script type="text/javascript">
 
         /*
@@ -92,9 +92,7 @@
 ">
 <meta name="robots" content="INDEX,FOLLOW">
 <link type="application/opensearchdescription+xml" rel="search" href="http://www.lenskart.com/opensearch.xml">
-<link rel="shortcut icon" href="https://d3b4di70nev5h5.cloudfront.net/media/favicon/stores/1/lenskart_icon.png" type="image/x-icon">
-<link rel="alternate" href="http://www.lenskart.com/privacy-policy" hreflang="x-default">
-<link rel="alternate" href="http://www.lenskart.sg/privacy-policy" hreflang="en-sg">
+<link rel="shortcut icon" href="https://static.lenskart.com/media/favicon/stores/1/lenskart_icon.png" type="image/x-icon">
 <!-- static OG tag -->
 	<meta property="og:site_name" content="LensKart">
 	<meta property="og:type" content="lenskartwebsite:product">
@@ -107,8 +105,8 @@
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://d3kw6wfam8lfab.cloudfront.net/js/blank.html';
-    var BLANK_IMG = 'http://d3kw6wfam8lfab.cloudfront.net/js/spacer.gif';
+    var BLANK_URL = 'http://static1.lenskart.com/js/blank.html';
+    var BLANK_IMG = 'http://static1.lenskart.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
@@ -117,10 +115,10 @@
   var BASE_URL = 'http://www.lenskart.com/';
   var clearenceUrl = 'http://www.lenskart.com/home-try-on-program.html';
   var logUsrId	=	'';
-  var sessionCookieTTL = '5184000';
+  var sessionCookieTTL = '31104000';
 </script>
-<link rel="stylesheet" type="text/css" href="http://d2xzbo2ehns0vv.cloudfront.net/skin/css/68985a180047ef556a984cf9280cb9ee.css" media="all">
-<script type="text/javascript" src="http://d3kw6wfam8lfab.cloudfront.net/js/js/d37a58770fcd92d22f796ba137a06f12.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static2.lenskart.com/skin/css/d33377fe4dbfd5425d8f1b8d76041eea.css" media="all">
+<script type="text/javascript" src="http://static1.lenskart.com/js/js/33b9a9daae83f4ec85ac14f3c6ba6163.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -137,12 +135,33 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 
 <script type="text/javascript">
-  var baseAPI_URL = "http://www.lenskart.com/";
-  var junoBuyOptions = "juno/services/v1/product/";
+var mediaPath = 'http://static.lenskart.com/media/';
+var baseAPI_URL = "http://www.lenskart.com/";
+var junoBuyOptions = "juno/services/v1/product/";
+
+  if (BASE_URL.indexOf("john-jacobs") == -1) {
+        setTimeout(function(){ 
+            jQuery.ajax({
+                url: BASE_URL + "ajax/index/getgtmdata",
+                type: "GET",
+                success:function(resp){
+                 resp = JSON.parse(resp);
+                 dataLayer[0].EmailId = resp.EmailId;
+            
+                 if(resp.mobile == 'Mobile number not found'){
+                     dataLayer[0].mobile = '';
+                 }else{
+                     dataLayer[0].mobile = resp.mobile;
+                 }
+                }
+            });
+        }, 1000);
+    }
+  /* <script src='https://www.lenskart.com/service-worker.js'><script>*/
 </script>
 
 
-    <script src="https://www.lenskart.com/service-worker.js"></script>
+   
 <link rel="manifest" href="https://www.lenskart.com/manifest.json">
 <!--<script>-->
 <!--    jQuery.ajax({-->
@@ -170,16 +189,26 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 
 <!-- WebCam detect snippts -->
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" async="" src="//d21gpk1vhmjuf5.cloudfront.net/lenskart-unbxdAnalytics.js"></script></head><body class=" cms-page-view cms-privacy-policy"><div id="webcam"></div>
+<script type="text/javascript" async="" src="//d21gpk1vhmjuf5.cloudfront.net/lenskart-unbxdAnalytics.js"></script></head><body class=" cms-page-view cms-privacy-policy"><div id="webcam"></div>
 
 <style type="text/css">
+body,html {min-height: 800px;}
 #webcam {position: absolute;left: -9999px;top: 0;margin: 0;padding: 0;overflow: hidden;display: block;width: 50px;height: 50px;}
 .disabledWebCam .without_ditto #try_Ditto, .disabledWebCam .preview-box #ditto_recreate, .disabledWebCam.disabled3DView .ditto_buttons_view .toggle_container, .disabledWebCam.disabled3DView a.view_3d, .disabledWebCam .isWebCamElement, .disabledWebCam .quick-view-content #ditto_recreate, .disabledWebCam .quick-view-content #try_Ditto, .disabledWebCam .prcdt-buttons-outercontainer #ditto_recreate, .disabledWebCam #cssmenu #level1-Try .second-level-5-3 {display:none !important;}
 .noWebCamBar {font-family:SourceSansProSemibold;background-color:rgb(51, 168, 157);color:#fff;font-size: 14px; font-weight: bold;padding: 10px;width: 106%;text-align:center;letter-spacing: 1px; position: relative;margin:0 -3.5%;}
 @media only screen and (min-device-width : 1024px) and (max-device-width : 1480px) {
 	.noWebCamBar {width: 102%; margin: 0 -2%;}
 }
+@media only screen and (min-device-width : 1900px) {
+	body,html {min-height: 1000px;}
+}
 </style>
+
+<script type="text/javascript">
+    /* set redis entry for login popup cookie time*/
+   var setRedisSignUpCookie = '31536000000';
+   var setRedisSignUpCookieSkip = '172800000';
+</script>
 <script>
 
 // in case you want to show your own image place holder
@@ -213,7 +242,7 @@ var klevu_showProductCode=false;
 var klevu_filterLimit=11;
 //from default
 
-var SignconfiPop = false;
+var SignconfiPop = true;
 
 </script>
 <!-- MENU -->
@@ -224,7 +253,7 @@ var SignconfiPop = false;
 
 
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" href="http://d2xzbo2ehns0vv.cloudfront.net/skin/frontend/default/blanco/css/ie7.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="http://static2.lenskart.com/skin/frontend/default/blanco/css/ie7.css" media="screen"/>
 <![endif]-->
 	
 	<link rel="publisher" href="https://plus.google.com/+lenskart">
@@ -232,40 +261,16 @@ var SignconfiPop = false;
 	<meta property="fb:app_id" content="392248067537088">
 	<meta name="msvalidate.01" content="5B6622CBA13393D54072EF6C8482D676">
 
-		<!-- Instaclique snippet starts -->
-<div id="ic_common_placeholder_for_side_divs"> </div>
-<script type="text/javascript">
-window.fbAsyncInit = function() {
-FB.init({
-appId  : 392248067537088,
-status  : true,
-cookie  : true,
-oauth  : true,
-xfbml  : true
-});
-};
-window.instaCliqueAsyncInit = function() {
-instaClique.widget.helperIcAsyncInit({
-store_fb_app_id: 392248067537088
-} ); 
-};
-(function(w, d, s) {
-var load = function(url, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) { return; }
-js = d.createElement(s); js.src = url; js.id = id; js.async = true;
-fjs.parentNode.insertBefore(js, fjs);
-};
-load('//live.instaclique.com/js/production/ic-widget-lenskart-min.js', 'ic-widget-js');
-load('//connect.facebook.net/en_US/all.js', 'facebook-jssdk');
-}(window, document, 'script'));
-</script>
-<!-- Instaclique snippet ends -->	
+			
 
 <div style="display:none;"><a href="#main">Skip to Main Content</a></div>
 
 <!-- Google Tag Manager -->
-<script>dataLayer = [{"visitorStore":"www.lenskart.com","visitorPageType":"HomePage","visitorPageTypeInfo":"Static","PageUrl":"http:\/\/www.lenskart.com\/privacy-policy"}];</script>
+<script>dataLayer = [{"visitorStore":"www.lenskart.com","orderTotal":null,"netAmount":null,"visitorPageType":"HomePage","visitorPageTypeInfo":"Static","PageUrl":"http:\/\/www.lenskart.com\/privacy-policy"}]; function removeProductGTM(id, price, name){
+
+ var removeGTMProduct = [{'removeProduct':{'productId':id, 'price':price, 'productName':name}}];  jQuery.extend(dataLayer[0], removeGTMProduct[0] );}
+
+</script>
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-JCV6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -306,24 +311,32 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
     <section class="custom-topp-nav top-nav hidden-phone">
         <section class="container-fluid">
             <div class="row-fluid dd-top-bar dd-padding nav-bar" data-js="fixheader">
-                <div class="col-5 flt-left visitor-engage" style="display: block;letter-spacing:2px;font-size:12px;overflow:hidden;">
-<a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" style="color:#ffffff;text-decoration:none;">
-<span class="bold;" style="border:1px solid #ffffff;padding:4px 5px 3px 5px;letter-spacing:1.5px;font-size:11.5px;">TRY FRAMES AT HOME</span>
+                <div class="col-5 flt-left visitor-engage" style="display: block;font-size:11px;overflow:hidden;">
+<a class="isWebCamElement" href="https://www.lenskart.com/compare-looks" style="color:#ffffff;">
+<span class="bold isWebCamElement;" style="letter-spacing:1.5px;font-size:11.5px;">TRY IN 3D</span>
 </a>
-&nbsp;||&nbsp;
-<span class="bold;" style="border:1px solid #ffffff;padding:4px 5px 3px 5px;letter-spacing:1.5px;font-size:11.5px;">Need Help? Call at (0) 99998-99998</span>
-&nbsp;||&nbsp;
-<a href="http://www.lenskart.com/home-try-on-program.html" style="color:#ffffff;text-decoration:none;">
-<span class="bold;" style="border:1px solid #ffffff;padding:4px 5px 3px 5px;letter-spacing:1.5px;font-size:11.5px;">HOME EYE CHECK-UP</span>
+|
+<a href="http://www.lenskart.com/home-try-on-program.html" style="color:#ffffff;">
+<span class="bold;" style="letter-spacing:1.5px;font-size:11.5px;">HOME EYE-TEST</span>
 </a>
+|
+<a href="http://www.lenskart.com/paytm-referral" style="color:#ffffff;" onclick="dtm.homepage.hometags('carousal-offers','Refer-Paytm-1411');">
+<span class="bold;" style="letter-spacing:1.5px;font-size:11.5px;">REFER &amp; EARN <img src="http://static.lenskart.com/images/cust_mailer/13-Nov-16/new2.png" style="padding-bottom:4px;"></span>
+</a>
+|
+<a href="http://www.lenskart.com/franchise_enquiry" style="color:#ffffff;">
+<span class="bold;" style="letter-spacing:1.5px;font-size:11.5px;">FRANCHISEE PARTNER</span>
+</a>
+|
+<span class="bold;" style="letter-spacing:1.5px;font-size:11.5px;">(0) 99998-99998</span>
 </div>				<div class="dd-logo flt-left top_logo hide">
                     <a href="http://www.lenskart.com/" title="Lenskart">
-                        <img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/top_logo2.png" alt="Lenskart" width="208">
+                        <img src="//static.lenskart.com/media/wysiwyg/top_logo2.png" alt="Lenskart" width="208">
                     </a>
                 </div>
 				<!--slider menu-->
 				<div class="flt-left menu_holder hide">
-					<a href="javascript:void(0)"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/menu_holder.png"></a>
+					<a href="javascript:void(0)"><img src="//static.lenskart.com/media/wysiwyg/menu_holder.png"></a>
 				</div>
 				<!--slider menu-->
                 <div class="flt-right top-icons">
@@ -350,6 +363,98 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                     <span id="fht-cart-value">0</span>
                                     <span class="show hidden-phone hide-text">Try at Home Cart</span>
                                 </a>
+                                <ul class="list-fht cart-fht" id="tbyb-footer-view">
+                                    <li class="fht-frame"><span>TRY FRAMES</span> at home/office for FREE. <div id="tbyb_close" class="icon-cart-close">X</div></li>
+                                                                          <style type="text/css">
+                                                                      
+#filterlabelis_home_trial {
+    display: none;
+}
+
+.cat_tbyb.row-fluid .checkbox.checkbox-trial {
+    display: none 
+}
+                                          
+.category-free-home-trial .cat_tbyb.row-fluid .checkbox.checkbox-trial {
+    display: block;
+}
+                                          
+
+.prcdt-overview .wrap-tryNowHome {
+    display: none;
+}
+.info-tryon{padding: 7.5px 0px;
+    height: 32px;
+    color: #6d6e71;
+    letter-spacing: 0.5px;  display: block !important; float: right !important}
+.black-info-icon {
+    border: #6d6e71 1px solid;
+    padding: 2px 6px;
+    border-radius: 17px;
+    margin-right: 3px;
+}
+/*.category-products .product-list .product-list__item {
+    height: 300px;
+}*/
+                                          
+ .fht-frame {
+                        margin: 5px 0px !important;                  }
+.onlydelhi {
+    display: block;
+    margin: 10px 0px;
+    background: #686262;
+    color: white;
+    font-size: 14px;
+    padding: 5px 3px;
+    line-height: 20px;
+}
+.onlydelhi ul li {
+    list-style: none;
+    display: inline;
+    border-right: 1px solid white;
+    padding: 0px 15px;
+}
+.onlydelhi ul li:last-child{border: 0px solid white}
+.onlydelhi ul{padding: 0px}
+                                    </style>
+                                      <div class="onlydelhi"><span class="available">Only Available in</span> <ul><li> Delhi/NCR</li><li> Bangalore</li><li>Chennai</li><li> Pune</li></ul></div>
+                                                               
+                                    <li class="nofloat">
+                                    </li>
+                                    <li class="cntent-fht" id="tbyb-quick">
+                                        <h3 class="fht-hdng"><a data-rel="tbyb-footer-view" class=""><span class="tbyb-count">0</span> <span> Frame(s) in home trial cart</span></a></h3>
+                                        <div class="cart_border">
+                                            <div id="no-fht-block" class="hide">
+                                                <div class="inner-nofht">
+                                                    <div class="msg-nofht">This product is currently unavailable for trial. To see frames for trial, click below.</div>
+                                                    <div class="row-fluid btn-blockfht">
+                                                        <a class="nofhtbtn" href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html">Show Trial Frames</a>
+                                                        <a class="nofhtbtn cancel-btn-fht-cart" href="javascript:void(0);">Cancel</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="tbyb-place">
+                                                <ul class="tbyb-adver">
+                                                    <li>Add up to 5 frames for trial and checkout with Home Trial Cart.</li>
+                                                    <li>We'll visit you in 2-4 days at home/office.</li>
+                                                    <li>Like a frame? Order online, on call, or via our trial executive.</li>
+                                                 </ul>
+                                                <div class="pull-but mtop20">
+                                                    <a id="tbyb_compare-btn" href="http://www.lenskart.com/eyeglasses/popular-searches/try-before-you-buy.html" target="_blank" class="sm-botton tip tbyb-add-prod">select frames for free trial</a>
+                                                    <!--
+                                                    <span class="tooltip" style="top: 29px;left: 16px;background:#f38123;text-align:center;">We Recommend to add Min.3 frames for best trial experience.<a onclick="jQuery(this).parent().hide();" style="background: none;display: inline; position: absolute; right: 4px; height: auto; top: 3px; line-height: 12px; padding: 1px;">X</a></span>-->
+                                                </div>
+                                            </div>
+
+                                            <div id="tbyb-msgs" class="validation-advice"></div>
+                                                                                        <ul class="list-fht-prd" id="tbyb-qwl_ul"></ul>
+                                            <div class="btnDiv"></div>
+                                        </div>
+                                    </li>
+                                    <li class="tbyb-view hide">
+                                        <a href="javascript:void(0)">View/Edit Home Trial Cart</a>
+                                    </li>
+                                </ul> 
                             </li>
                             <li class="track-order hidden-phone">
                                 <a href="http://www.lenskart.com/sales/guest/form" rel="nofollow" target="_blank" class="dd-track-order top-bar-icons">
@@ -512,306 +617,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
     <script type="text/javascript" src="http://d21gpk1vhmjuf5.cloudfront.net/lenskart-unbxdAutosuggestV3.js"></script>
     <link href="http://unbxd.s3.amazonaws.com/unbxdASlenskart.css" type="text/css" rel="stylesheet">
-    <script>
-    (function(window, document, callback) {
-        var d;
-        var loaded = false;
-        var j = window.jQuery;
-        var script = document.createElement("script");
-        script.type = "text/javascript";
-        script.src = "//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js";
-        script.onload = script.onreadystatechange = function() {
-            if (!loaded && (!(d = this.readyState) || d == "loaded" || d == "complete")) {
-                callback((j = window.jQuery).noConflict(1), loaded = true, old = window.jQuery);
-                j(script).remove();
-            }
-        };
-        (document.getElementsByTagName("head")[0] || document.documentElement).appendChild(script);
-    })(window, document, function($, jquery_loaded, old){
-        /*
-         CONFIG
-         */
-        window.searchUrl = "search.lenskart.com"; // Write the valid search URL here. 
-        // ---- example 
-        // www.lenskart.com/catalogsearch/result/?cat=0&q=
-        // for Unbxd case it will be 
-        // search.lenskart.com
-        window.UnbxdSiteName = "lenskart_com-u1418736834941";
-        window.UnbxdAPIKey = "6c1aa3ba216de83b8340d2d4d891d309";
-        /*
-         Autosuggest Object
-         */
-        unbxdAutoSuggestFunction($, Handlebars); // Pass a valid jquery object in place of $ 
-
-        var resultcontainerdiv = ".dd-search" ;
-                $(function(){
-            $(".input-text.UI-SEARCH.field-search.pull-left").unbxdautocomplete({
-                siteName : window.UnbxdSiteName
-                ,APIKey : window.UnbxdAPIKey
-                ,minChars : 1
-                ,showCarts: false
-                ,inputClass:"input"
-                ,template : "2column" // "2column"
-                ,mainTpl: ['topQueries','keywordSuggestions','inFields']
-                ,sideTpl: ['popularProducts']
-                ,cartType : "inline"
-                ,sideContentOn: "left" 
-                ,width: 324
-                ,topAdjust: 0
-               ,resultsContainerSelector : resultcontainerdiv
-                ,hbsHelpers: function(){
-                    Handlebars.registerHelper('safestring', function(value) {
-                        return new Handlebars.SafeString(value);
-                    });
-
-                }
-                ,onCartClick : function(obj){
-                    console.log("onCartClick");
-                }
-                ,onSimpleEnter: function(){
-                    var q = this.input.value;
-                    customKeywords = {
-                        "men eyeglasses": "http://www.lenskart.com/eyeglasses/gender/mens-eyeglasses.html",
-                        "women eyeglasses": "http://www.lenskart.com/eyeglasses/gender/womens-eyeglasses.html",
-                        "kids eyeglasses": "http://www.lenskart.com/eyeglasses/gender/kids-eyeglasses.html",
-                        "unisex eyeglasses": "http://www.lenskart.com/eyeglasses/gender/unisex-eyeglasses-3.html",
-                        "teen eyeglasses": "http://www.lenskart.com/eyeglasses/gender/teen-eyeglasses.html",
-                        "best fit": "http://www.lenskart.com/eyeglasses/collections/best-fit-eyeglasses.html",
-                        "ultra light weight collection": "http://www.lenskart.com/eyeglasses/collections/ultra-light-weight-collection-137.html",
-                        "light weight collection": "http://www.lenskart.com/eyeglasses/collections/light-eyeglasses.html",
-                        "retro collection": "http://www.lenskart.com/eyeglasses/collections/retro-collection.html",
-                        "vintage collection": "http://www.lenskart.com/eyeglasses/collections/vintage-collection.html",
-                        "sports collection": "http://www.lenskart.com/eyeglasses/collections/sports-collection.html",
-                        "premium collection": "http://www.lenskart.com/eyeglasses/collections/premium-eyeglasses.html",
-                        "latest collection": "http://www.lenskart.com/eyeglasses/collections/latest-collection.html",
-                        "bluetooth eyeglasses ": "http://www.lenskart.com/eyeglasses/collections/bluetooth-eyeglasses.html",
-                        "colorful collection": "http://www.lenskart.com/eyeglasses/collections/colorful-collection.html",
-                        "standard collection": "http://www.lenskart.com/eyeglasses/collections/standard-collection.html",
-                        "reading glasses": "http://www.lenskart.com/eyeglasses/collections/reading-eyeglasses.html",
-                        "computer eyewear": "http://www.lenskart.com/eyeglasses/collections/computer-sunglasses-collection.html",
-                        "kids collection": "http://www.lenskart.com/eyeglasses/collections/kids-frames.html",
-                        "power swimming goggles": "http://www.lenskart.com/eyeglasses/collections/power-swimming-goggles.html",
-                        "youth collection": "http://www.lenskart.com/eyeglasses/collections/youthful-collection-eyeglasses.html",
-                        "full collection": "http://www.lenskart.com/eyeglasses/collections/eyeglasses-clearance-sale.html",
-                        "world's lightest eyeglasses": "http://www.lenskart.com/eyeglasses/collections/world-s-lightest-eyeglasses.html",
-                        "men sunglasses": "http://www.lenskart.com/sunglasses/find-eyewear/mens-sunglasses.html",
-                        "women sunglasses": "http://www.lenskart.com/sunglasses/find-eyewear/womens-sunglasses.html",
-                        "kids sunglasses": "http://www.lenskart.com/sunglasses/find-eyewear/kids-sunglasses.html",
-                        "teen eyeglasses": "http://www.lenskart.com/sunglasses/find-eyewear/teen-eyeglasses.html",
-                        "aviators &amp; wayfarers": "http://www.lenskart.com/sunglasses/collections/aviators-wayfarers.html",
-                        "sports sunglasses": "http://www.lenskart.com/sunglasses/collections/sports-sunglasses.html",
-                        "premium sunglasses": "http://www.lenskart.com/sunglasses/collections/premium-sunglasses.html",
-                        "power sunglasses": "http://www.lenskart.com/sunglasses/collections/power-sunglasses.html",
-                        "polarized sunglasses": "http://www.lenskart.com/sunglasses/collections/polarized-sunglasses.html",
-                        "retro collection": "http://www.lenskart.com/sunglasses/collections/retro-collection.html",
-                        "kids sunglasses": "http://www.lenskart.com/sunglasses/collections/kids-sunglasses.html",
-                        "all": "http://www.lenskart.com/sunglasses/collections/featured-sunglasses.html",
-                        "nightwear sunglasses": "http://www.lenskart.com/sunglasses/collections/nightwear-sunglasses.html",
-                        "sunglasses": "http://www.lenskart.com/sunglasses.html",
-                        "eyeglasses": "http://www.lenskart.com/eyeglasses.html",
-                        "power sunglasses": "http://www.lenskart.com/power-sunglasses-main.html",
-                        "contact lenses": "http://www.lenskart.com/contact-lenses.html",
-                        "sports eyewear": "http://www.lenskart.com/sports-eyewear.html",
-                        "anti glare" : "http://www.lenskart.com/anti-glare-lenses.html",
-                        "antiglare" : "http://www.lenskart.com/anti-glare-lenses.html",
-                        "anti-glare" : "http://www.lenskart.com/anti-glare-lenses.html",
-                        "anti glare eyeglasses" : "http://www.lenskart.com/anti-glare-lenses.html",
-                        "antiglare eyeglasses" : "http://www.lenskart.com/anti-glare-lenses.html",
-                        "titan eye":"http://www.lenskart.com/eyeglasses/brands/john-jacobs-eyeglasses.html",
-                        "Night Vision":"http://www.lenskart.com/sunglasses/collections/nightwear-sunglasses.html",
-                        "free frame" : "http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html",
-                        "frame free" : "http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html",
-                        "first frame" : "http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html",
-                        "ray-ban eyeglasses" : "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "rayban eyeglasses" : "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "ray ban eyeglasses": "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "ray-ban eyeglass" : "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "rayban eyeglass" : "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "ray ban eyeglass": "http://www.lenskart.com/eyeglasses/brands/ray-ban-eyeglasses.html",
-                        "paytm" : "http://www.lenskart.com/paytm-coupon.html",
-                        "paytms" : "http://www.lenskart.com/paytm-coupon.html"
-
-
-                    }
-
-                    if(q.toLowerCase() in customKeywords) {
-                        url = window.location.href.split('?')[0] + '?q=REDIRECT:' +q;
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        //_gaq.push(['_trackPageview', url]);
-                        setTimeout(function(){
-                            url = (customKeywords[q.toLowerCase()].indexOf('\?') == -1)?(customKeywords[q.toLowerCase()] + '?q=' + q) : (customKeywords[q.toLowerCase()] + '&q=' + q);
-                            window.location = url;
-                        }, 200);
-
-                    }else{
-                        url = window.location.href.split('?')[0] + '?q=' +q;
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        //_gaq.push(['_trackPageview', url]);
-                        var filter = "";
-                        if (jQuery("#searchautocomplete_nav .UI-CATEGORY-TEXT").size() > 0){
-                            var category_text = jQuery("#searchautocomplete_nav .UI-CATEGORY-TEXT")[0].textContent.trim();
-                            if (category_text !== undefined){
-                                if (category_text != 'ALL' && category_text != ''){
-                                    filter = "&" + "filter=" + "Category_fq:"+ "\""+ category_text +"\""
-                                }
-                            }
-                        }
-
-                        window.location = "//search.lenskart.com/" + "?q=" + encodeURIComponent(escapeHtml(this.input.value)) + filter;
-                    }
-                }
-                ,onItemSelect:function(select, obj){
-                    if (select.type == "KEYWORD_SUGGESTION"){
-                        url = window.location.href.split('?')[0] + '?q=' +select.value;
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        window.location = "//search.lenskart.com/" + "?q=" + encodeURIComponent(escapeHtml(select.value))
-                    }else if (select.type == "IN_FIELD"){
-                        url = window.location.href.split('?')[0] + '?q=' +select.value;
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        var filterString = "filter="
-                        if (select.filtername == "c2c_frame_shape"){
-                            console.log("FILTER:::" + select.filtervalue);
-                            filterString = filterString + "Frame_Shape_fq:"+ "\"" + select.filtervalue+ "\"";
-                        }else if (select.filtername == "c2c_frametype"){
-                            filterString = filterString + "Frame_Type_fq:"+ "\"" + select.filtervalue+ "\"";
-                        }
-                        window.location = "//search.lenskart.com/" + "?q=" + encodeURIComponent(escapeHtml(select.value)) + "&" + filterString
-                    }else if (select.type == "POPULAR_PRODUCTS"){
-                        url = window.location.href.split('?')[0] + '?q=POP:' +select.value;
-                        //_gaq.push(['_trackPageview', url]);
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        if (obj.url_path !== undefined){
-                            obj.url_path = (obj.url_path.indexOf('\?') == -1)?(obj.url_path + '?q=' + select.value) : (obj.url_path + '&q=' + select.value);
-                            window.location =  obj.url_path.replace("http://admin.lenskart.com:8080/index.php","//www.lenskart.com");
-                        }else{
-                            if (obj.url_key !== undefined){
-                                window.location = "//lenskart.com/" + obj.url_key + ".html?q=" + select.value;
-                            }
-                        }
-                    } else {
-                        url = window.location.href.split('?')[0] + '?q=' +select.value;
-                        _gaq.push(['_trackEvent', 'Header', 'search', 'page: ' + url]) ;
-                        window.location = "//search.lenskart.com/" + "?q=" + encodeURIComponent(escapeHtml(select.value))
-                    }
-                }
-                ,inFields:{
-                    count: 2,
-                    fields:{
-                        'c2c_frame_shape':2
-                        ,'c2c_frametype':1
-                        ,'c2c_frame_style': 1
-                    }
-                },
-                topQueries:{
-                    count: 5
-                },
-                keywordSuggestions:{
-                    count: 2,
-                    header: ''
-                }
-                ,popularProducts:{
-                    count: 5
-                    ,title:true
-                    ,price:true
-                    ,priceFunctionOrKey : function(obj){
-                        var pricestring = obj.special_price <= 0 || obj.special_price === undefined ? "" : "<i class=\"icon-rs\">&nbsp;</i> " + parseFloat(obj.special_price).toFixed(2);
-                        return new Handlebars.SafeString(pricestring);
-                    }
-                    ,image:true
-                    ,imageUrlOrFunction: function(option){
-                        return option.small_image;
-                    }
-                    ,currency : ""
-                    ,tpl: '{{#if ../showCarts}}'
-                        +'{{#unbxdIf ../../cartType "inline"}}'//"inline" || "separate"
-                        +'<div class="unbxd-as-popular-product-inlinecart">'
-                        +'<div class="unbxd-as-popular-product-image-container">'
-                        +'{{#if image}}'
-                        +'<img src="{{image}}"/>'
-                        +'{{/if}}'
-                        +'</div>'
-                        +'<div  class="unbxd-as-popular-product-name">'
-                        +'<div style="table-layout:fixed;width:100%;display:table;">'
-                        +'<div style="display:table-row">'
-                        +'<div style="display:table-cell;text-overflow:ellipsis;overflow: hidden;white-space: nowrap;">'
-                        +'{{{safestring highlighted}}}'
-                        +'</div>'
-                        +'</div>'
-                        +'</div>'
-                        +'</div>'
-                        +'{{#if price}}'
-                        +'<div class="unbxd-as-popular-product-price">'
-                        +'{{currency}}{{price}}'
-                        +'</div>'
-                        +'{{/if}}'
-                        +'<div class="unbxd-as-popular-product-quantity">'
-                        +'<div class="unbxd-as-popular-product-quantity-container">'
-                        +'<span>Qty</span>'
-                        +'<input class="unbxd-popular-product-qty-input" value="1"/>'
-                        +'</div>'
-                        +'</div>'
-                        +'<div class="unbxd-as-popular-product-cart-action">'
-                        +'<button class="unbxd-as-popular-product-cart-button">Add to cart</button>'
-                        +'</div>'
-                        +'</div>'
-                        +'{{else}}'
-                        +'<div class="unbxd-as-popular-product-info">'
-                        +'<div class="unbxd-as-popular-product-image-container">'
-                        +'{{#if image}}'
-                        +'<img src="{{image}}"/>'
-                        +'{{/if}}'
-                        +'</div>'
-                        +'<div  class="unbxd-as-popular-product-name">'
-                        +'{{{safestring highlighted}}} <br/><span class="unbxd-as-popular-product-name-brand">{{this._original.c2c_brandname}}</span><br/>'
-                        +'{{#if price}}'
-                        +'<div class="unbxd-as-popular-product-price">'
-                        +'{{currency}}{{price}}'
-                        +'</div>'
-                        +'{{/if}}'
-                        +'</div>'
-                        +'<div class="unbxd-as-popular-product-cart">'
-                        +'<div class="unbxd-as-popular-product-cart-action">'
-                        +'<button class="unbxd-as-popular-product-cart-button">Add to cart</button>'
-                        +'</div>'
-                        +'<div class="unbxd-as-popular-product-quantity">'
-                        +'<div class="unbxd-as-popular-product-quantity-container">'
-                        +'<span>Qty</span>'
-                        +'<input class="unbxd-popular-product-qty-input" value="1"/>'
-                        +'</div>'
-                        +'</div>'
-                        +'</div>'
-                        +'</div>'
-                        +'</div>'
-                        +'{{/unbxdIf}}'
-                        +'{{else}}'
-                        +'<div class="unbxd-as-popular-product-info">'
-                        +'<div class="unbxd-as-popular-product-image-container">'
-                        +'{{#if image}}'
-                        +'<img src="{{image}}" onerror="this.src=\'http://sol-us-prod-1.cloudapp.net/cilory/ina.jpg\'"/>'
-                        +'{{/if}}'
-                        +'</div>'
-                        +'<div  class="unbxd-as-popular-product-name">'
-                        +'<span class="unbxd-as-popular-product-name-text">{{{safestring highlighted}}}</span> <span class="unbxd-as-popular-product-name-price">{{currency}}{{price}}</span>'
-                        +'</div>'
-                        +'</div>'
-                        +'{{/if}}'
-                        +'</li>'
-                }
-            });
-        });
-    });
-    function escapeHtml(text) {
-        var map = {
-            '&': '&amp;',
-            '<': '&lt;',
-            '>': '&gt;',
-            '"': '&quot;',
-            "'": '&#039;'
-        };
-
-        return text.replace(/[&<>"']/g, function(m) { return map[m]; });
-    }
-    </script>
+    <script type="text/javascript" src="http://d21gpk1vhmjuf5.cloudfront.net/unbxd_lk_as.js"></script>
     <form class="searchautocomplete UI-SEARCHAUTOCOMPLETE" id="UnbxdSearchAutoComplete" action="http://search.lenskart.com/?q=">
         <div class="relative inline-block pull-left">
 
@@ -878,11 +684,13 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
          <li><a href="http://www.lenskart.com/contact-lenses.html">Contact Lenses</a></li>
          <li><a href="http://www.lenskart.com/contact-lenses/most-popular-contact-lenses/acuvue-contact-lenses.html">Acuvue</a></li>
          <li><a href="http://www.lenskart.com/eyewear-accessories.html">Eyewear Accessories</a></li>
-         <li><a href="http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html">Free frame</a></li>
+         <li><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html">Oakley</a></li>
          <li><a href="http://www.lenskart.com/sunglasses/find-eyewear/mens-sunglasses.html">Mens Sunglasses</a></li>
          <li><a href="http://www.lenskart.com/sunglasses/find-eyewear/womens-sunglasses.html">Women Sunglasses</a></li>
          <li><a href="http://www.lenskart.com/sunglasses/frame-shape/aviator-sunglasses.html">Aviator</a></li>
          <li><a href="http://www.lenskart.com/contact-lenses/most-popular-contact-lenses/purevision-contact-lenses.html">Purevision</a></li>
+         <li><a href="http://www.lenskart.com/sunglasses/brands/sunpocket.html">Sunpocket - Folding Sunglasses</a></li>
+         <li><a href="https://www.lenskart.com/HTO/">Eye Checkup</a></li>
        </ul>
 </div>
 	                       <script>
@@ -922,7 +730,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
     </form></div>                </div>
                 <div class="dd-logo flt-left">
                     <a class="logo logo2" href="http://www.lenskart.com/" title="Lenskart">
-                        <img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/logo-lenskart.png" alt="Lenskart" width="208">
+                        <img src="//static.lenskart.com/media/wysiwyg/logo-lenskart.png" alt="Lenskart" width="208">
                     </a>
                 </div>
                 <div class="dd-top-menu flt-left">
@@ -938,7 +746,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/20-nov/view1.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-1-1-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/20-nov/view1.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', '<img src='//static.lenskart.com/images/cust_mailer/20-nov/view1.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-1-1-0"><img src="//static.lenskart.com/images/cust_mailer/20-nov/view1.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -957,15 +765,13 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Oakley'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/oakley-eyeglasses.html" class="third-level-1-1-1"><span>Oakley</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Carrera'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/carrera-eyeglasses.html" class="third-level-1-1-1"><span>Carrera</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Fossil'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/fossil-eyeglasses.html" class="third-level-1-1-1"><span>Fossil</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Porsche Design'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/porsche-design.html" class="third-level-1-1-1"><span>Porsche Design</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Carrera'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/carrera-eyeglasses.html" class="third-level-1-1-1"><span>Carrera</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Tommy Hilfiger'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/tommy-hilfiger.html" class="third-level-1-1-1"><span>Tommy Hilfiger</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Tom Ford'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/tom-ford-eyeglasses.html" class="third-level-1-1-1"><span>Tom Ford</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'IDEE'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/idee-eyeglasses.html" class="third-level-1-1-1"><span>IDEE</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Swarovski'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/swarovski.html" class="third-level-1-1-1"><span>Swarovski</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Vogue'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/vogue-eyeglasses.html" class="third-level-1-1-1"><span>Vogue</span></a></li>  
                                                                              
@@ -1093,7 +899,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-1-3-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-1-3-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1112,7 +918,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Oakley'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-1-3-1"><span>Oakley</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Porsche Design'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/porsche-design.html" class="third-level-1-3-1"><span>Porsche Design</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Fossil'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/fossil-sunglasses.html" class="third-level-1-3-1"><span>Fossil</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'John Jacobs'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/john-jacobs.html" class="third-level-1-3-1"><span>John Jacobs</span></a></li>  
                                                                              
@@ -1124,7 +930,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'IDEE'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/idee.html" class="third-level-1-3-1"><span>IDEE</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Linda Farrow'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/linda-farrow.html" class="third-level-1-3-1"><span>Linda Farrow</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Sunpocket'  );" class="level-3"><a href="http://www.lenskart.com/eyewear/sunpocket-sunglasses" class="third-level-1-3-1"><span>Sunpocket</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -1219,7 +1025,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-1-4-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-1-4-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1240,13 +1046,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-1-4-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-1-4-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-1-4-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-1-4-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-1-4-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -1444,7 +1246,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Power Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-2-4-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Power Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-2-4-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1540,7 +1342,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-2-5-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-2-5-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1559,13 +1361,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-2-5-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-2-5-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-2-5-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-2-5-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-2-5-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -1700,7 +1498,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Power Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-3-4-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Power Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-3-4-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1798,7 +1596,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                         
                                                                                                                 <div class="abc count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-3-5-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-3-5-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -1817,13 +1615,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-3-5-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-3-5-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-3-5-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-3-5-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-3-5-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2013,19 +1807,19 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                     <li data-get-id="level1-Try" class="has-sub level-1"><a href="javascript:void(0)" class="first-level-5"><span>Try</span></a> 
                                         <ul class="sub-menu-lev01" id="level1-Try">
                                                                                                                                     
-                                                                                                                                                                                                    <li data-get-id="level2-Try-<b>Opto:-Home-Eye-Check-up</b>" onclick="dtm.homepage.homemenu('Try',  '<b>Opto: Home Eye Check-up</b>');" class=" level-2"><a href="http://www.lenskart.com/home-try-on-program.html" class="second-level-5-1"><span><b>Opto: Home Eye Check-up</b></span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Try-Opto---Home-Eye-Check-up" onclick="dtm.homepage.homemenu('Try',  'Opto - Home Eye Check-up');" class=" level-2"><a href="http://www.lenskart.com/home-try-on-program.html" class="second-level-5-1"><span>Opto - Home Eye Check-up</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Try-<b>TRY-FRAMES-@-HOME-for-FREE</b>" onclick="dtm.homepage.homemenu('Try',  '<b>TRY FRAMES @ HOME for FREE</b>');" class=" level-2"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="second-level-5-2"><span><b>TRY FRAMES @ HOME for FREE</b></span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Try-TRY-FRAMES-at-HOME-for-FREE" onclick="dtm.homepage.homemenu('Try',  'TRY FRAMES at HOME for FREE');" class=" level-2"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="second-level-5-2"><span>TRY FRAMES at HOME for FREE</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Try-<b>3D-TRY-ON</b>" onclick="dtm.homepage.homemenu('Try',  '<b>3D TRY ON</b>');" class=" level-2"><a href="https://www.lenskart.com/compare-looks" class="second-level-5-3"><span><b>3D TRY ON</b></span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Try-3D-TRY-ON" onclick="dtm.homepage.homemenu('Try',  '3D TRY ON');" class=" level-2"><a href="https://www.lenskart.com/compare-looks" class="second-level-5-3"><span>3D TRY ON</span></a>
                                                         
                                                         
                                                     </li> 
@@ -2039,37 +1833,37 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                     <li data-get-id="level1-Stores" class="has-sub level-1"><a href="javascript:void(0)" class="first-level-6"><span>Stores</span></a> 
                                         <ul class="sub-menu-lev01" id="level1-Stores">
                                                                                                                                     
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-Delhi" onclick="dtm.homepage.homemenu('Stores',  'Delhi');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-1"><span>Delhi</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-Delhi" onclick="dtm.homepage.homemenu('Stores',  'Delhi');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-1"><span>Delhi</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-Bangalore" onclick="dtm.homepage.homemenu('Stores',  'Bangalore');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-2"><span>Bangalore</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-Bangalore" onclick="dtm.homepage.homemenu('Stores',  'Bangalore');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-2"><span>Bangalore</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-Mumbai" onclick="dtm.homepage.homemenu('Stores',  'Mumbai');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-3"><span>Mumbai</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-Mumbai" onclick="dtm.homepage.homemenu('Stores',  'Mumbai');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-3"><span>Mumbai</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-Pune" onclick="dtm.homepage.homemenu('Stores',  'Pune');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-4"><span>Pune</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-Pune" onclick="dtm.homepage.homemenu('Stores',  'Pune');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-4"><span>Pune</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-Hyderabad" onclick="dtm.homepage.homemenu('Stores',  'Hyderabad');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-5"><span>Hyderabad</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-Hyderabad" onclick="dtm.homepage.homemenu('Stores',  'Hyderabad');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-5"><span>Hyderabad</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Stores-50+-other-cities" onclick="dtm.homepage.homemenu('Stores',  '50+ other cities');" class=" level-2"><a href="http://www.lenskart.com/store_locator" class="second-level-6-6"><span>50+ other cities</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Stores-50+-other-cities" onclick="dtm.homepage.homemenu('Stores',  '50+ other cities');" class=" level-2"><a href="http://store.lenskart.com/" class="second-level-6-6"><span>50+ other cities</span></a>
                                                         
                                                         
                                                     </li> 
@@ -2089,44 +1883,42 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                     <li data-get-id="level1-Offers" class="has-sub level-1"><a href="javascript:void(0)" class="first-level-7"><span>Offers</span></a> 
                                         <ul class="sub-menu-lev01" id="level1-Offers">
                                                                                                                                     
-                                                                                                                                                                                                    <li data-get-id="level2-Offers-First-Frame-Free" onclick="dtm.homepage.homemenu('Offers',  'First Frame Free');" class=" level-2"><a href="http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html" class="second-level-7-1"><span>First Frame Free</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Offers-First-Frame-Free" onclick="dtm.homepage.homemenu('Offers',  'First Frame Free');" class=" level-2"><a href="http://www.lenskart.com/first-frame-free" class="second-level-7-1"><span>First Frame Free</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Offers-REFER-&amp;-EARN" onclick="dtm.homepage.homemenu('Offers',  'REFER &amp; EARN');" class=" level-2"><a href="http://www.lenskart.com/refer-and-earn.html" class="second-level-7-2"><span>REFER &amp; EARN</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Offers-REFER-&amp;-EARN-Rs.300-PAYTM-VOUCHER" onclick="dtm.homepage.homemenu('Offers',  'REFER &amp; EARN Rs.300 PAYTM VOUCHER');" class=" level-2"><a href="http://www.lenskart.com/paytm-referral" class="second-level-7-2"><span>REFER &amp; EARN Rs.300 PAYTM VOUCHER</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Offers-SUPER-THIN-LENSES-@-Rs.1000" onclick="dtm.homepage.homemenu('Offers',  'SUPER THIN LENSES @ Rs.1000');" class=" level-2"><a href="http://www.lenskart.com/eyeglasses/make-in-india" class="second-level-7-3"><span>SUPER THIN LENSES @ Rs.1000</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Offers-PREMIUM-GLASSES---BUY-2-AT-Rs.2500" onclick="dtm.homepage.homemenu('Offers',  'PREMIUM GLASSES - BUY 2 AT Rs.2500');" class=" level-2"><a href="http://www.lenskart.com/eyeglasses/collections/vincent-chase-premium-collection.html" class="second-level-7-3"><span>PREMIUM GLASSES - BUY 2 AT Rs.2500</span></a>
                                                         
                                                         
                                                     </li> 
                                                                                                     
                                                                                         
-                                                                                                                                                                                                    <li data-get-id="level2-Offers-<b>LABOUR-DAY-SPECIAL</b>" onclick="dtm.homepage.homemenu('Offers',  '<b>LABOUR DAY SPECIAL</b>');" class=" level-2"><a href="http://www.lenskart.com/eyewear/labour-day" class="second-level-7-4"><span><b>LABOUR DAY SPECIAL</b></span></a>
-                                                        
-                                                        
-                                                    </li> 
-                                                                                                    
-                                                                                        
-                                                                                                                                                                                                    <li data-get-id="level2-Offers-See-All" onclick="dtm.homepage.homemenu('Offers',  'See All');" class="has-sub level-2"><a href="#" class="second-level-7-5"><span>See All</span></a>
+                                                                                                                                                                                                    <li data-get-id="level2-Offers-See-All" onclick="dtm.homepage.homemenu('Offers',  'See All');" class="has-sub level-2"><a href="#" class="second-level-7-4"><span>See All</span></a>
                                                         
                                                                                                                 <div class="abc count-5">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Eyeglasses'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-7-5-0">Eyeglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Eyeglasses'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-7-4-0">Eyeglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html" class="third-level-7-5-1"><span>First Frame Free</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/first-frame-free" class="third-level-7-4-1"><span>First Frame Free</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Super Thin Lenses in just Rs.1000'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/make-in-india" class="third-level-7-5-1"><span>Super Thin Lenses in just Rs.1000</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Free Lenses + Upto Rs.500 Extra Off'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/promotions/premium-eyeglasses-minimum-10off.html" class="third-level-7-4-1"><span>Ray-Ban - Free Lenses + Upto Rs.500 Extra Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Reading Glasses- Starting at Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/collections/reading-eyeglasses.html" class="third-level-7-5-1"><span>Reading Glasses- Starting at Rs.299</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Buy 2 With Lenses at 1500'  );" class="level-3"><a href="http://www.lenskart.com/first-frame-free" class="third-level-7-4-1"><span>Buy 2 With Lenses at 1500</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Glasses - First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/gender/kids-eyeglasses.html" class="third-level-7-5-1"><span>Kids Glasses - First Frame Free</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'ThinOptics Reading Glasses - Buy 2 at 1500'  );" class="level-3"><a href="https://www.lenskart.com/eyeglasses/brands/thinoptics.html" class="third-level-7-4-1"><span>ThinOptics Reading Glasses - Buy 2 at 1500</span></a></li>  
+                                                                             
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Progressive Lenses - Rs. 1500 Off'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/promotions/frames-above-2500.html" class="third-level-7-4-1"><span>Progressive Lenses - Rs. 1500 Off</span></a></li>  
+                                                                             
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Lenses Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/make-in-india" class="third-level-7-4-1"><span>Lenses Free</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2134,18 +1926,18 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-7-5-0">Sunglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-7-4-0">Sunglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'VC Sunglasses - Buy 2 at 1899'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/vincent-chase-sunglasses.html" class="third-level-7-5-1"><span>VC Sunglasses - Buy 2 at 1899</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'VC Sunglasses - Buy 1 Get 1 Free'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/vincent-chase-sunglasses.html" class="third-level-7-4-1"><span>VC Sunglasses - Buy 1 Get 1 Free</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Mask Sunglasses - Buy 2 at 799'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/mask-sunglasses.html" class="third-level-7-5-1"><span>Mask Sunglasses - Buy 2 at 799</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Mask Sunglasses - Buy any at 599'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/mask-sunglasses.html" class="third-level-7-4-1"><span>Mask Sunglasses - Buy any at 599</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Upto 30% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/flat-25-off-on-premium-brands.html" class="third-level-7-5-1"><span>Ray-Ban - Upto 30% Off</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Upto 30% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/flat-25-off-on-premium-brands.html" class="third-level-7-4-1"><span>Ray-Ban - Upto 30% Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Oakley - Upto 10% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-7-5-1"><span>Oakley - Upto 10% Off</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Oakley - Upto 10% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-7-4-1"><span>Oakley - Upto 10% Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Sun - Flat Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/chhota-bheem.html" class="third-level-7-5-1"><span>Kids Sun - Flat Rs.299</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Sun - Flat Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/chhota-bheem.html" class="third-level-7-4-1"><span>Kids Sun - Flat Rs.299</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2153,10 +1945,10 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Power Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-5-0">Power Sunglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Power Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-4-0">Power Sunglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-5-1"><span>Extra 50% Off</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-4-1"><span>Extra 50% Off</span></a></li>  
                                                                              
                                                                                                                                                      
                                                                            
@@ -2165,18 +1957,12 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Contact Lenses'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-7-5-0">Contact Lenses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Contact Lenses'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-7-4-0">Contact Lenses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Lenses - Upto 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/best-sellers-contact-lenses.html" class="third-level-7-5-1"><span>Lenses - Upto 50% Off</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Aqualens - Buy 1 at 149 | Buy 2 at 199 | Buy 6 at 499'  );" class="level-3"><a href="http://www.lenskart.com/aqualens-10h-contact-lens-1-lens-box.html" class="third-level-7-4-1"><span>Aqualens - Buy 1 at 149 | Buy 2 at 199 | Buy 6 at 499</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 30% Off, Use GV : LB30'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/best-sellers-contact-lenses.html" class="third-level-7-5-1"><span>Extra 30% Off, Use GV : LB30</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Get your First Lenses Free'  );" class="level-3"><a href="http://www.lenskart.com/aqualens-contact-lens-10h.html" class="third-level-7-5-1"><span>Get your First Lenses Free</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Focus Dailies - Buy 1 Get 1 Free'  );" class="level-3"><a href="http://www.lenskart.com/ciba-vision-focus-dailies-30-lenses-box.html" class="third-level-7-5-1"><span>Focus Dailies - Buy 1 Get 1 Free</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'O2 Optix Kit in Just Rs.1500'  );" class="level-3"><a href="http://www.lenskart.com/ciba-vision-o2-optix-6-lenses-box.html" class="third-level-7-5-1"><span>O2 Optix Kit in Just Rs.1500</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Proclear - 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/cooper-vision-proclear-daily-disposable-30-lenses-box.html" class="third-level-7-4-1"><span>Proclear - 50% Off</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2184,12 +1970,12 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Others'  );" class="head level-3"><a href="#" class="third-level-7-5-0">Others</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Others'  );" class="head level-3"><a href="#" class="third-level-7-4-0">Others</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Home Eye Check-up'  );" class="level-3"><a href="http://www.lenskart.com/home-try-on-program.html" class="third-level-7-5-1"><span>Home Eye Check-up</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Home Eye Check-up'  );" class="level-3"><a href="http://www.lenskart.com/home-try-on-program.html" class="third-level-7-4-1"><span>Home Eye Check-up</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Try 5 Sample Frames at Home'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="third-level-7-5-1"><span>Try 5 Sample Frames at Home</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Try 5 Sample Frames at Home'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="third-level-7-4-1"><span>Try 5 Sample Frames at Home</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2269,7 +2055,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Shop-Eyeglasses">
                                                         <div class="count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/20-nov/view1.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-1-1-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/20-nov/view1.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', '<img src='//static.lenskart.com/images/cust_mailer/20-nov/view1.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-1-1-0"><img src="//static.lenskart.com/images/cust_mailer/20-nov/view1.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -2288,15 +2074,13 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Oakley'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/oakley-eyeglasses.html" class="third-level-1-1-1"><span>Oakley</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Carrera'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/carrera-eyeglasses.html" class="third-level-1-1-1"><span>Carrera</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Fossil'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/fossil-eyeglasses.html" class="third-level-1-1-1"><span>Fossil</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Porsche Design'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/porsche-design.html" class="third-level-1-1-1"><span>Porsche Design</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Carrera'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/carrera-eyeglasses.html" class="third-level-1-1-1"><span>Carrera</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Tommy Hilfiger'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/tommy-hilfiger.html" class="third-level-1-1-1"><span>Tommy Hilfiger</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Tom Ford'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/tom-ford-eyeglasses.html" class="third-level-1-1-1"><span>Tom Ford</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'IDEE'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/idee-eyeglasses.html" class="third-level-1-1-1"><span>IDEE</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Swarovski'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/swarovski.html" class="third-level-1-1-1"><span>Swarovski</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Eyeglasses', 'Vogue'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/brands/vogue-eyeglasses.html" class="third-level-1-1-1"><span>Vogue</span></a></li>  
                                                                              
@@ -2422,7 +2206,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Shop-Sunglasses">
                                                         <div class="count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-1-3-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-1-3-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -2441,7 +2225,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Oakley'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-1-3-1"><span>Oakley</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Porsche Design'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/porsche-design.html" class="third-level-1-3-1"><span>Porsche Design</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Fossil'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/fossil-sunglasses.html" class="third-level-1-3-1"><span>Fossil</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'John Jacobs'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/john-jacobs.html" class="third-level-1-3-1"><span>John Jacobs</span></a></li>  
                                                                              
@@ -2453,7 +2237,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'IDEE'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/idee.html" class="third-level-1-3-1"><span>IDEE</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Linda Farrow'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/linda-farrow.html" class="third-level-1-3-1"><span>Linda Farrow</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Sunglasses', 'Sunpocket'  );" class="level-3"><a href="http://www.lenskart.com/eyewear/sunpocket-sunglasses" class="third-level-1-3-1"><span>Sunpocket</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2548,7 +2332,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Shop-Contact-Lenses">
                                                         <div class="count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-1-4-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-1-4-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -2569,13 +2353,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-1-4-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-1-4-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-1-4-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-1-4-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Shop',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-1-4-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -2761,7 +2541,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Men-Power-Sunglasses">
                                                         <div class="count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Power Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-2-4-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Power Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-2-4-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -2857,7 +2637,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Men-Contact-Lenses">
                                                         <div class="count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-2-5-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-2-5-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -2876,13 +2656,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-2-5-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-2-5-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-2-5-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-2-5-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Men',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-2-5-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3007,7 +2783,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Women-Power-Sunglasses">
                                                         <div class="count-6">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Power Sunglasses', '<img src='http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-3-4-0"><img src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Power Sunglasses', '<img src='//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-3-4-0"><img src="//static.lenskart.com/media/wysiwyg/banner-menu-power-sunglasses.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -3105,7 +2881,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                                 <div class="level2-panel" id="level2-Women-Contact-Lenses">
                                                         <div class="count-7">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', '<img src='http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-3-5-0"><img src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/cl_menu.jpg"></a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', '<img src='//static.lenskart.com/images/cust_mailer/cl_menu.jpg' />'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-3-5-0"><img src="//static.lenskart.com/images/cust_mailer/cl_menu.jpg"></a>
                                                                     </li>
                                                                                                                                         
                                                                        
@@ -3124,13 +2900,9 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Cooper Vision'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/cooper-vision-contact-lenses.html" class="third-level-3-5-1"><span>Cooper Vision</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Aryan'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/aryan-contact-lenses.html" class="third-level-3-5-1"><span>Aryan</span></a></li>  
-                                                                             
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Acme'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/acme.html" class="third-level-3-5-1"><span>Acme</span></a></li>  
                                                                              
                                                                                                                                                                                                                                     <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Silklens'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/silk-lens.html" class="third-level-3-5-1"><span>Silklens</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Women',  'Contact Lenses', 'Biomedics'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/biomedics.html" class="third-level-3-5-1"><span>Biomedics</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3369,23 +3141,23 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                                                     
                                                                                         
                                                                                                                                                                                               
-                                                        
-                                                                                                    
-                                                                                        
-                                                                                                                                                                                              
                                                                                                                 <div class="level2-panel" id="level2-Offers-See-All">
                                                         <div class="count-5">
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Eyeglasses'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-7-5-0">Eyeglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Eyeglasses'  );" class="head level-3"><a href="http://www.lenskart.com/eyeglasses.html" class="third-level-7-4-0">Eyeglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/first-pair-free.html" class="third-level-7-5-1"><span>First Frame Free</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/first-frame-free" class="third-level-7-4-1"><span>First Frame Free</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Super Thin Lenses in just Rs.1000'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/make-in-india" class="third-level-7-5-1"><span>Super Thin Lenses in just Rs.1000</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Free Lenses + Upto Rs.500 Extra Off'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/promotions/premium-eyeglasses-minimum-10off.html" class="third-level-7-4-1"><span>Ray-Ban - Free Lenses + Upto Rs.500 Extra Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Reading Glasses- Starting at Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/collections/reading-eyeglasses.html" class="third-level-7-5-1"><span>Reading Glasses- Starting at Rs.299</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Buy 2 With Lenses at 1500'  );" class="level-3"><a href="http://www.lenskart.com/first-frame-free" class="third-level-7-4-1"><span>Buy 2 With Lenses at 1500</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Glasses - First Frame Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/gender/kids-eyeglasses.html" class="third-level-7-5-1"><span>Kids Glasses - First Frame Free</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'ThinOptics Reading Glasses - Buy 2 at 1500'  );" class="level-3"><a href="https://www.lenskart.com/eyeglasses/brands/thinoptics.html" class="third-level-7-4-1"><span>ThinOptics Reading Glasses - Buy 2 at 1500</span></a></li>  
+                                                                             
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Progressive Lenses - Rs. 1500 Off'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/promotions/frames-above-2500.html" class="third-level-7-4-1"><span>Progressive Lenses - Rs. 1500 Off</span></a></li>  
+                                                                             
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Lenses Free'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/make-in-india" class="third-level-7-4-1"><span>Lenses Free</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3393,18 +3165,18 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-7-5-0">Sunglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/sunglasses.html" class="third-level-7-4-0">Sunglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'VC Sunglasses - Buy 2 at 1899'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/vincent-chase-sunglasses.html" class="third-level-7-5-1"><span>VC Sunglasses - Buy 2 at 1899</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'VC Sunglasses - Buy 1 Get 1 Free'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/vincent-chase-sunglasses.html" class="third-level-7-4-1"><span>VC Sunglasses - Buy 1 Get 1 Free</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Mask Sunglasses - Buy 2 at 799'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/mask-sunglasses.html" class="third-level-7-5-1"><span>Mask Sunglasses - Buy 2 at 799</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Mask Sunglasses - Buy any at 599'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/mask-sunglasses.html" class="third-level-7-4-1"><span>Mask Sunglasses - Buy any at 599</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Upto 30% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/flat-25-off-on-premium-brands.html" class="third-level-7-5-1"><span>Ray-Ban - Upto 30% Off</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Ray-Ban - Upto 30% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/promotions/flat-25-off-on-premium-brands.html" class="third-level-7-4-1"><span>Ray-Ban - Upto 30% Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Oakley - Upto 10% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-7-5-1"><span>Oakley - Upto 10% Off</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Oakley - Upto 10% Off'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/oakley-sunglasses.html" class="third-level-7-4-1"><span>Oakley - Upto 10% Off</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Sun - Flat Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/chhota-bheem.html" class="third-level-7-5-1"><span>Kids Sun - Flat Rs.299</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Kids Sun - Flat Rs.299'  );" class="level-3"><a href="http://www.lenskart.com/sunglasses/brands/chhota-bheem.html" class="third-level-7-4-1"><span>Kids Sun - Flat Rs.299</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3412,10 +3184,10 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Power Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-5-0">Power Sunglasses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Power Sunglasses'  );" class="head level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-4-0">Power Sunglasses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-5-1"><span>Extra 50% Off</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/power-sunglasses-main.html" class="third-level-7-4-1"><span>Extra 50% Off</span></a></li>  
                                                                              
                                                                                                                                                      
                                                                            
@@ -3424,18 +3196,12 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Contact Lenses'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-7-5-0">Contact Lenses</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Contact Lenses'  );" class="head level-3"><a href="http://www.lenskart.com/contact-lenses.html" class="third-level-7-4-0">Contact Lenses</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Lenses - Upto 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/best-sellers-contact-lenses.html" class="third-level-7-5-1"><span>Lenses - Upto 50% Off</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Aqualens - Buy 1 at 149 | Buy 2 at 199 | Buy 6 at 499'  );" class="level-3"><a href="http://www.lenskart.com/aqualens-10h-contact-lens-1-lens-box.html" class="third-level-7-4-1"><span>Aqualens - Buy 1 at 149 | Buy 2 at 199 | Buy 6 at 499</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Extra 30% Off, Use GV : LB30'  );" class="level-3"><a href="http://www.lenskart.com/contact-lenses/top-contact-lenses-brands/best-sellers-contact-lenses.html" class="third-level-7-5-1"><span>Extra 30% Off, Use GV : LB30</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Get your First Lenses Free'  );" class="level-3"><a href="http://www.lenskart.com/aqualens-contact-lens-10h.html" class="third-level-7-5-1"><span>Get your First Lenses Free</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Focus Dailies - Buy 1 Get 1 Free'  );" class="level-3"><a href="http://www.lenskart.com/ciba-vision-focus-dailies-30-lenses-box.html" class="third-level-7-5-1"><span>Focus Dailies - Buy 1 Get 1 Free</span></a></li>  
-                                                                             
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'O2 Optix Kit in Just Rs.1500'  );" class="level-3"><a href="http://www.lenskart.com/ciba-vision-o2-optix-6-lenses-box.html" class="third-level-7-5-1"><span>O2 Optix Kit in Just Rs.1500</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Proclear - 50% Off'  );" class="level-3"><a href="http://www.lenskart.com/cooper-vision-proclear-daily-disposable-30-lenses-box.html" class="third-level-7-4-1"><span>Proclear - 50% Off</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3443,12 +3209,12 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                                                  
                                                             </ul>       
                                                                                                                     <ul class="sub-menu-lev02">
-                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Others'  );" class="head level-3"><a href="#" class="third-level-7-5-0">Others</a>
+                                                                                                                                                                                                                                                                            <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Others'  );" class="head level-3"><a href="#" class="third-level-7-4-0">Others</a>
                                                                     </li>
                                                                                                                                         
-                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Home Eye Check-up'  );" class="level-3"><a href="http://www.lenskart.com/home-try-on-program.html" class="third-level-7-5-1"><span>Home Eye Check-up</span></a></li>  
+                                                                                                                                                                                                                                                                                                        <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Home Eye Check-up'  );" class="level-3"><a href="http://www.lenskart.com/home-try-on-program.html" class="third-level-7-4-1"><span>Home Eye Check-up</span></a></li>  
                                                                              
-                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Try 5 Sample Frames at Home'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="third-level-7-5-1"><span>Try 5 Sample Frames at Home</span></a></li>  
+                                                                                                                                                                                                                                    <li onclick="dtm.homepage.homemenu('Offers',  'See All', 'Try 5 Sample Frames at Home'  );" class="level-3"><a href="http://www.lenskart.com/eyeglasses/popular-searches/free-home-trial.html" class="third-level-7-4-1"><span>Try 5 Sample Frames at Home</span></a></li>  
                                                                              
                                                                            
                                                                        
@@ -3500,30 +3266,6 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
             </div>
         </section>
         <section class="head-first">
-            <ul class="list-fht cart-fht" id="tbyb-footer-view" style="position:fixed;padding:0;">
-                <li class="nofloat"><h3 class="fht-hdng"><a data-rel="tbyb-footer-view" style="padding-left:10px;font-size: 14px;" class="">TRY AT HOME(<span class="tbyb-count">0</span>) <span style="font-size: 11px;">(sample frames)</span><i id="tbyb_close" class="icon-cart-close"></i></a></h3></li>
-                <li class="cntent-fht" id="tbyb-quick">
-                    <div class="cart_border">
-                        <div id="tbyb-place">
-                            <div class="sub-div pull-left">
-                                <p>Don't like it?</p>
-                                Doesn't fit?
-                                <p>We bring the trial-room right to your doorstep.</p>
-                            </div>
-                            <div class="sub-div pull-right"><img src="http://d2xzbo2ehns0vv.cloudfront.net/skin/frontend/default/blanco//images/tbyb.jpg" class="pull-right"></div>
-                            <div class="pull-but mtop20" style="position:relative;">
-                                <a href="http://www.lenskart.com/try-before-you-buy" class="pull-left sm-botton" target="_blank">Learn More</a>
-                                <a id="tbyb_compare-btn" href="http://www.lenskart.com/eyeglasses/popular-searches/try-before-you-buy.html" target="_blank" class="pull-right sm-botton tip">Add Products</a>
-                                <span class="tooltip" style="top: 29px;left: 16px;background:#f38123;text-align:center;">We Recommend to add Min.3 frames for best trial experience.<a onclick="jQuery(this).parent().hide();" style="background: none;display: inline; position: absolute; right: 4px; height: auto; top: 3px; line-height: 12px; padding: 1px;">X</a></span>
-                            </div>
-                        </div>
-
-                        <div id="tbyb-msgs" class="validation-advice"></div>
-                        <ul class="list-fht-prd" id="tbyb-qwl_ul"></ul>
-                        <div class="btnDiv" style="display:block;width:auto;min-height:85px"></div>
-                    </div>
-                </li>
-            </ul>
             <section class="cart-wrap" id="slideShoppingCart" style="position:fixed;"></section>
             <section class="cart-wrap visible-phone mtop42" id="mobileShoppingCart"></section>
         </section>
@@ -3540,7 +3282,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                 Doesn't fit?
                                 <p>We bring the trial-room right to your doorstep.</p>
                             </div>
-                            <div class="sub-div pull-right"><img src="http://d2xzbo2ehns0vv.cloudfront.net/skin/frontend/default/blanco//images/tbyb.jpg" class="pull-right"></div>
+                            <div class="sub-div pull-right"><img src="http://static2.lenskart.com/skin/frontend/default/blanco//images/tbyb.jpg" class="pull-right"></div>
                             <div class="pull-but mtop20" style="position:relative;">
                                 <a href="http://www.lenskart.com/try-before-you-buy" class="pull-left sm-botton" target="_blank">Learn More</a>
                                 <a id="tbyb_compare-btn" href="http://www.lenskart.com/eyeglasses/popular-searches/try-before-you-buy.html" target="_blank" class="pull-right sm-botton tip">Add Products</a>
@@ -3557,13 +3299,13 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
         </section>
     </section>
     <div id="addedoverlay" style="display: none"></div>
-    <div id="login-pop-up" style="display: none;"></div>
+    <div id="login-pop-up" class="lenskart-poup-sign"></div>
     <div class="mask mask2 hide" data-js="nav-mask"></div>
 </header>
         
     <script>
 
-        var logoutAccountDropdownHtml = '<ul id="accountdropdown" class="list-option dropdown-login dropdown-menu"><li class="first last"><a title="My Account" target="_blank" href="http://www.lenskart.com/customer/account/" onclick="clickMyaccountGA();" tabindex="-1" rel="nofollow">My Account</a></li><li><a href="javascript:void(0)" onclick="clickCheckoutGA(); top.location=\'https://\'+window.location.host+\'/checkout/onepage/\'" id="acheckout" title="Checkout" class="top-link-checkout">Checkout</a></li><li><a href="javascript:void(0)" id="acheckout" onclick="top.location=\'http://\'+window.location.host+\'/customer/account/create/\'" title="Sign Up" class="top-link-signup" tabindex="-1">Sign Up</a></li></ul>';
+        var logoutAccountDropdownHtml = '<ul id="accountdropdown" class="list-option dropdown-login dropdown-menu"><li class="first last poup_register"><a title="My Account" tabindex="-1" rel="nofollow">My Account</a></li><li><a href="javascript:void(0)" onclick="clickCheckoutGA(); top.location=\'https://\'+window.location.host+\'/checkout/onepage/\'" id="acheckout" title="Checkout" class="top-link-checkout">Checkout</a></li><li class="poup_register"><a href="javascript:void(0)" id="acheckout" title="Sign Up" class="top-link-signup" tabindex="-1">Sign Up</a></li></ul>';
         var loginedAccountDropdownHtml = '<ul id="accountdropdown" class="list-option dropdown-login dropdown-menu"><li class="first"><a title="My Account" target="_blank" href="http://www.lenskart.com/customer/account/" tabindex="-1" rel="nofollow" onclick="clickMyaccountGA();" tabindex="-1" rel="nofollow">My Account</a></li><li><a href="javascript:void(0)" onclick="clickCheckoutGA(); top.location=\'https://\'+window.location.host+\'/checkout/onepage/\'" id="acheckout" title="Checkout" class="top-link-checkout">Checkout</a></li><li><a href="javascript:void(0)" id="alogout" onclick="top.location=\'http://\'+window.location.host+\'/customer/account/logout/\'" title="Logout" class="top-link-signup" tabindex="-1">Logout</a></li></ul>';
 
         function cartGA()
@@ -3588,7 +3330,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
         }
         jQuery("#login-dropdown-header").hover(function(){
             if(isLogined = getCookie("isLogined")){
-                if(parseInt(isLogined)) {
+                if(parseInt(isLogined) || getCookie("log_in_status") == 'loggedin') {
                     if(!jQuery('#headerLogin ul').length) {
                         jQuery('#headerLogin').append(loginedAccountDropdownHtml);
                     }
@@ -4118,7 +3860,7 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
                                             Doesn't fit?
                                             <p>We bring the trial-room right to your doorstep.</p>
                                         </div>
-                                        <div class="sub-div pull-right"><img src="http://d2xzbo2ehns0vv.cloudfront.net/skin/frontend/default/blanco//images/tbyb.jpg" class="pull-right"></div>
+                                        <div class="sub-div pull-right"><img src="http://static2.lenskart.com/skin/frontend/default/blanco//images/tbyb.jpg" class="pull-right"></div>
                                         <div class="pull-but mtop20" style="position:relative;">
                                             <a href="http://www.lenskart.com/try-before-you-buy" class="pull-left sm-botton" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'TBYB page'],['ninja._trackEvent', 'Footer', 'TBYB page']);">Learn More</a>
                                             <a id="tbyb_compare-btn" href="http://www.lenskart.com/eyeglasses/popular-searches/try-before-you-buy.html" target="_blank" class="pull-right sm-botton tip"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Add products'],['ninja._trackEvent', 'Footer', 'Add products']);">Add Products</a>
@@ -4163,16 +3905,16 @@ dataLayer.push({'visitorUtm_Source': utmsource[1],'visitorUtm_Medium': utmmedium
  {
 //jQuery('ul.list-infosales > li:last').html('<i class="icon-shipping"></i> 24x7 HELP: 011-4949-4646');
 //jQuery(".head-first > :nth-child(2)").after('<a style="line-height: 20px; font-size: 12px; position: relative; top: 4px; color: rgb(102, 102, 102);" class="" href="tel:011-4949-4646">011-4949-4646</a>');
-if(document.location.pathname == "/"){jQuery(".list-logincart").after('<div class="hidden-phone hidden-tablet pull-right" id="hear_from" style="position: absolute; text-transform: uppercase; "><a href="http://blog.lenskart.com/hear-it-from-the-horses-mouth/" target= "_blank"><img src="http://d3kw6wfam8lfab.cloudfront.net/media//wysiwyg/blanco/testi_25aug.gif" height="43" width="184"/></a></div>');}
+if(document.location.pathname == "/"){jQuery(".list-logincart").after('<div class="hidden-phone hidden-tablet pull-right" id="hear_from" style="position: absolute; text-transform: uppercase; "><a href="http://blog.lenskart.com/hear-it-from-the-horses-mouth/" target= "_blank"><img src="http://static.lenskart.com/media//wysiwyg/blanco/testi_25aug.gif" height="43" width="184"/></a></div>');}
 else
 {
-jQuery(".list-logincart").after('<div class="hidden-phone hidden-tablet pull-right" id="hear_from" style="position: absolute; text-transform: uppercase; margin:5px 15% 0px;"><a href="http://blog.lenskart.com/hear-it-from-the-horses-mouth/" target= "_blank"><img src="http://d3kw6wfam8lfab.cloudfront.net/media//wysiwyg/blanco/testi_25aug.gif" height="43" width="184"/></a></div>');
+jQuery(".list-logincart").after('<div class="hidden-phone hidden-tablet pull-right" id="hear_from" style="position: absolute; text-transform: uppercase; margin:5px 15% 0px;"><a href="http://blog.lenskart.com/hear-it-from-the-horses-mouth/" target= "_blank"><img src="http://static.lenskart.com/media//wysiwyg/blanco/testi_25aug.gif" height="43" width="184"/></a></div>');
 }
  */
 
 if (jQuery('#zoom').length == 0 && window.location.href.match("http://www.jewelskart") )
 {
-jQuery(".list-logincart").after('<a class="hidden-phone hidden-tablet pull-right" style="position: absolute; text-transform: uppercase; margin: 0px 20% 0px 17%" href="http://www.jewelskart.com/ready-to-ship-jewellery.html" target= "_blank"><img width="213" height="53" alt="img" src="http://d37l6i9uhpr090.cloudfront.net/media/wysiwyg/blanco_jewel/readytoship10.jpg"></a>');
+jQuery(".list-logincart").after('<a class="hidden-phone hidden-tablet pull-right" style="position: absolute; text-transform: uppercase; margin: 0px 20% 0px 17%" href="http://www.jewelskart.com/ready-to-ship-jewellery.html" target= "_blank"><img width="213" height="53" alt="img" src="http://static.lenskart.com/media/wysiwyg/blanco_jewel/readytoship10.jpg"></a>');
 }
 jQuery(".hme-try-on").hover(function(){
 jQuery(".hme-try-on").css("background-color","#329C92");
@@ -4356,10 +4098,10 @@ jQuery("#corporate_eyecare_program").css("display","block");
 jQuery(window).load(function(){
     if((window.innerWidth < 767) &&(0 == navigator.userAgent.indexOf("Opera"))){
 	jQuery("body").css("position","relative");
-jQuery("body").append('<div class="overlaypopuop" style="position: absolute; top: 0; left: 0;width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index:999;" ><div class="row-fluid" style="text-align: center; background: #fff; margin: 30px auto 0; width: 242px; font-size: 12px;  border-radius: 3px;  padding: 5px;"><img title="Lenskart" alt="Lenskart" src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/mobile_logo1.jpg" style="width:57%;" /><p>For better experience of our website, please use Chrome / Mozilla browser.</p><div class=""><img title="Chrome" alt="Chrome" src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/10-JULY-POPUP/chrome.jpg" width="30" height="30" style="padding-right:14px;"/><img title="Firefox" alt="Firefox" src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/10-JULY-POPUP/firefox.jpg"  width="30" height="30" /></div><div style="width: 80px; margin: auto; padding-top: 13px; background: none repeat scroll 0% 0% rgb(255, 255, 255);" class="popup_cart_close popup-close cart-footer visible-phone"><a id ="closeme" style="width: auto; padding: 4px 12px; margin: 0px; color:#fff; background:#329c92; " class="title">Close</a></div></div></div>');
+jQuery("body").append('<div class="overlaypopuop" style="position: absolute; top: 0; left: 0;width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index:999;" ><div class="row-fluid" style="text-align: center; background: #fff; margin: 30px auto 0; width: 242px; font-size: 12px;  border-radius: 3px;  padding: 5px;"><img title="Lenskart" alt="Lenskart" src="http://static.lenskart.com/media/wysiwyg/mobile_logo1.jpg" style="width:57%;" /><p>For better experience of our website, please use Chrome / Mozilla browser.</p><div class=""><img title="Chrome" alt="Chrome" src="http://static.lenskart.com/images/cust_mailer/10-JULY-POPUP/chrome.jpg" width="30" height="30" style="padding-right:14px;"/><img title="Firefox" alt="Firefox" src="http://static.lenskart.com/images/cust_mailer/10-JULY-POPUP/firefox.jpg"  width="30" height="30" /></div><div style="width: 80px; margin: auto; padding-top: 13px; background: none repeat scroll 0% 0% rgb(255, 255, 255);" class="popup_cart_close popup-close cart-footer visible-phone"><a id ="closeme" style="width: auto; padding: 4px 12px; margin: 0px; color:#fff; background:#329c92; " class="title">Close</a></div></div></div>');
     }else if((window.innerWidth < 767) && (navigator.userAgent.toUpperCase().indexOf("UCBROWSER") != -1)){
 jQuery("body").css("position","relative");
-jQuery("body").append('<div class="overlaypopuop" style="position: absolute; top: 0; left: 0;width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index:999;" ><div class="row-fluid" style="text-align: center; background: #fff; margin: 30px auto 0; width: 242px; font-size: 12px;  border-radius: 3px;  padding: 5px;"><img title="Lenskart" alt="Lenskart" src="http://d2xzbo2ehns0vv.cloudfront.net/media/wysiwyg/mobile_logo1.jpg" style="width:57%;" /><p>For better experience of our website, please use Chrome / Mozilla browser.</p><div class=""><img title="Chrome" alt="Chrome" src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/10-JULY-POPUP/chrome.jpg" width="30" height="30" style="padding-right:14px;"/><img title="Firefox" alt="Firefox" src="http://di5pe4nbyh9wx.cloudfront.net/images/cust_mailer/10-JULY-POPUP/firefox.jpg"  width="30" height="30" /></div><div style="width: 80px; margin: auto; padding-top: 13px; background: none repeat scroll 0% 0% rgb(255, 255, 255);" class="popup_cart_close popup-close cart-footer visible-phone"><a id ="closeme" style="width: auto; padding: 4px 12px; margin: 0px;" class="title">Close</a></div></div></div>');
+jQuery("body").append('<div class="overlaypopuop" style="position: absolute; top: 0; left: 0;width: 100%; height: 100%; background-color: rgba(0,0,0,0.5); z-index:999;" ><div class="row-fluid" style="text-align: center; background: #fff; margin: 30px auto 0; width: 242px; font-size: 12px;  border-radius: 3px;  padding: 5px;"><img title="Lenskart" alt="Lenskart" src="http://static.lenskart.com/media/wysiwyg/mobile_logo1.jpg" style="width:57%;" /><p>For better experience of our website, please use Chrome / Mozilla browser.</p><div class=""><img title="Chrome" alt="Chrome" src="http://static.lenskart.com/images/cust_mailer/10-JULY-POPUP/chrome.jpg" width="30" height="30" style="padding-right:14px;"/><img title="Firefox" alt="Firefox" src="http://static.lenskart.com/images/cust_mailer/10-JULY-POPUP/firefox.jpg"  width="30" height="30" /></div><div style="width: 80px; margin: auto; padding-top: 13px; background: none repeat scroll 0% 0% rgb(255, 255, 255);" class="popup_cart_close popup-close cart-footer visible-phone"><a id ="closeme" style="width: auto; padding: 4px 12px; margin: 0px;" class="title">Close</a></div></div></div>');
 	}
 jQuery("#closeme").click(function(){
 jQuery(".overlaypopuop").hide();
@@ -4443,6 +4185,16 @@ jQuery('.wishlist-tab').click(function(){
                         fbq('track', "PageView");
                                             </script>
 
+                    <script>
+                        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                            document,'script','//connect.facebook.net/en_US/fbevents.js');
+                        fbq('init', '790230201013876');
+                        fbq('track', "PageView");
+                                            </script>
+
 
             <!--_fbq.push(['addPixelId', '753970981365198']);-->
               <!-- })();
@@ -4451,37 +4203,23 @@ jQuery('.wishlist-tab').click(function(){
     document.getElementById("fbpixelc1").src="https://www.facebook.com/tr?id=753970981365198&ev=PixelInitialized";
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=753970981365198&ev=PixelInitialized" /></noscript>
--->        <script type="text/javascript">
-        (function () {
-        // Remove Magento event observers from the search box
-        // Redirect to klevu js page
-        var search_input = $('search');
-        search_input.stopObserving('click');
-        search_input.stopObserving('keydown');
-        search_input.form.observe('submit', function (e) {
-            Event.stop(e);
-                    var searchTerm = klevu_search.redirectUserToGivenUrl($('search').value);
-            if(searchTerm){
-                document.location='http://www.lenskart.com/' + "search-result?q="+searchTerm;
-            } else {
-                document.location='http://www.lenskart.com/' + "search-result?q="+$('search').value;
-            }
-            return false;
-        });
-        
-    })();
-     var klevu_showQuickSearchOnEnter=false;
-        // call store js
-    var klevu_apiKey = 'klevu-1408612289285179',
-        searchTextBoxName = 'search',
-        klevu_lang = 'en',
-        klevu_result_top_margin = '',
-        klevu_result_left_margin = '';
-    (function () { var ws = document.createElement('script'),kl_protocol =("https:"===document.location.protocol?"https://":"http://"); ws.type = 'text/javascript'; ws.async = true; ws.src = kl_protocol+'js.klevu.com/klevu-js-v1/js/klevu-webstore.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ws, s); })();
-</script>
+-->        <!-- Code commented due to 'Uncaught Reference error:Stop observing' -->
 
 <!--<script src="//assets.adobedtm.com/7e0d09158b56a4fed4b0d60d94ec593cb6934f0d/satelliteLib-d326a433fa139d467d7664e1dd5c477536839ce6.js"></script>-->
-<script type="text/javascript">_satellite.pageBottom();</script><script type="text/javascript">
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!--
+<script type="text/javascript" src="js/tbyb/home_trial.js"></script>
+-->
+<script type="text/javascript">
+if(location.host.indexOf('lenskart.com') != -1){
+	if(getCookie('lastPurchases') != '' && getCookie('lastPurchases') != undefined){
+		dtm.lastPurchases = getCookie('lastPurchases');
+	}
+}
+var captureOverlay = false;
+var signupCapture = false;
+var locationCapture = 'paytm-referral , hto';
+</script><script type="text/javascript">
     /* * * CONFIGURATION * * */
     var UnbxdSiteName = "lenskart_com-u1418736834941"; // Replace the value with the Site Key.
     /* * * DON'T EDIT BELOW THIS LINE * * */
@@ -4492,9 +4230,10 @@ jQuery('.wishlist-tab').click(function(){
     })();
 </script>
 </div>
-<script type="text/javascript" src="http://d3kw6wfam8lfab.cloudfront.net/js/js/63d0cd7e9f7c54ec4c742a3c4ec09f1c.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static2.lenskart.com/skin/css/b158f6d1e1e1c4eaf3c79bd53cf672b3.css" media="all">
+<script type="text/javascript" src="http://static1.lenskart.com/js/js/102e9ef5cc07469f14b9e57a403a8cf6.js"></script>
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://d3kw6wfam8lfab.cloudfront.net/js/js/def64c1ec8cf53ced2e5dc9a6f2b50b3.js"></script>
+<script type="text/javascript" src="http://static1.lenskart.com/js/js/def64c1ec8cf53ced2e5dc9a6f2b50b3.js"></script>
 <![endif]-->
 
 
@@ -4514,16 +4253,16 @@ var google_remarketing_only = true;
 </script>
 <div style="display:none;">
 <script type="text/javascript">
-jQuery(window).load(function () {
+/*jQuery(window).load(function () {
     (function(){
         var s = document.createElement('script');
 		s.type  = 'text/javascript';
         s.src   = "//www.googleadservices.com/pagead/conversion.js";
 		document.body.appendChild(s);
-		get_data_tmantra('tm_homepg'); 
-		get_data_tmantra('tm_secondsec');
+ 		//get_data_tmantra('tm_homepg'); 
+		//get_data_tmantra('tm_secondsec');
     })();
-});
+});*/
 /*function get_data(){
 	  var tm_url = 'http://api.targetingmantra.com/TMWidgets?w=bs,na,rhf&mid=140215&limit=5&json=true&callback=?';
 	  jQuery.getJSON(tm_url,function(data){
@@ -4552,6 +4291,6 @@ jQuery(window).load(function () {
 </div>
 </noscript>
 </div>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
