@@ -1,40 +1,30 @@
-> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608173655id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationcrm.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219161507id_/http%3A//www.infotoday.com/privacy.shtml) for the most accurate reproduction.*
 
 # ITI Privacy and Cookies Policy
 
-| [**books.infotoday.com**](http://books.infotoday.com/)  
+| [**bookstore.infotoday.com**](http://bookstore.infotoday.com/)  
 ---  
 [**aboardwalkstory.com**](http://www.aboardwalkstory.com/)  
 [**americanlibrarydirectory.com**](http://www.americanlibrarydirectory.com/)  
-**[BestBizWeb.com](http://www.bestbizweb.com/)**  
 **[BoardwalkEmpire.com](http://www.boardwalkempire.com/)**  
-**[buy-sell-econtent.com](http://www.buy-sell-econtent.com/)**  
 **[contentdeliverysummit.com](http://www.contentdeliverysummit.com/)**  
 **[CRMEvolution.com](http://www.crmevolution.com/)**  
 **[custservexperience.com](http://www.custservexperience.com/)**  
-**[cyberskeptic.com](http://www.cyberskeptic.com/)**  
 [**dancingwithdigitalnatives.com**](http://www.dancingwithdigitalnatives.com/)  
 **[dbta.com](http://www.dbta.com/)**  
-**[dbtablog.com](http://www.dbtablog.com/)**  
 **[destinationCRM.com](http://www.destinationcrm.com/)**  
 **[destinationCRMBlog.com](http://www.destinationcrmblog.com/)**  
 **[econtentmag.com](http://www.econtentmag.com/)**  
-**[emedialive.com](http://www.emedialive.com/)**  
 **[enterprisesearcheurope.com](http://www.enterprisesearcheurope.com/)**  
 **[enterprisesearchsummit.com](http://www.enterprisesearchsummit.com/)**  
-[**enterprisevideoconference.com**](http://www.enterprisevideoconference.com/)  
-**[eventdv.net](http://www.eventdv.net/)**  
 **[faulkner.com](http://www.faulkner.com/)**  
 **[fso-online.com](http://www.fso-online.com/)**  
-**[html5videosummit.com](http://www.html5videosummit.com/)**  
+**[gilbaneconference.com](http://gilbaneconference.com/)**  
 **[informationadvisor.com](http://www.informationadvisor.com/)**  
 **[infotoday.com](http://www.infotoday.com/)**  
 **[infotoday.eu](http://www.infotoday.eu/)**  
-**[infotodayblog.com](http://www.infotodayblog.com/)**  
-**[infotodayeurope.com](http://www.infotodayeurope.com/)**  
 **[internetatschools.com](http://www.internetatschools.com/)**  
 **[internet-librarian.com](http://www.internet-librarian.com/)**  
-[**intranetstoday.com**](http://www.intranetstoday.com%3Cbr%3E/)  
 [**iti-infocentral.com**](http://www.iti-infocentral.com/)  
 **[itiresearch.com](http://www.itiresearch.com/)**  
 **[kmworld.com](http://www.kmworld.com/)**  
@@ -43,26 +33,23 @@
 **[librarystuff.net](http://www.librarystuff.net/)**  
 **[librarysummit.com](http://www.librarysummit.com/)**  
 **[literarymarketplace.com](http://www.literarymarketplace.com/)**  
+**[livestreamingsummit.com](http://www.livestreamingsummit.com/)**  
 **[mobrulelearning.com](http://www.mobrulelearning.com/)**  
-**[onlineinsider.net](http://www.onlineinsider.net/)**  
-**[onlinemag.net](http://www.onlinemag.net/)**  
 [**onlinesearcher.net**](http://www.onlinesearcher.net/)  
 **[onlinevideo.net](http://www.onlinevideo.net/)**  
-**[ovpsummit.com](http://www.ovpsummit.com/)**  
 [**plexuspublishing.com**](http://www.plexuspublishing.com/)  
-**[searchenginemeeting.net](http://www.searchenginemeeting.net/)**  
 **[sharepointsymposium.com](http://www.sharepointsymposium.com/)**  
 [**smartcustomerservice.com**](http://www.smartcustomerservice.com/)  
 **[speechtechblog.com](http://www.speechtechblog.com/)**  
 **[speechtechmag.com](http://www.speechtechmag.com/)**  
 **[speechtek.com](http://www.speechtek.com/)**  
+**[streaming-forum.com](http://www.streaming-forum.com/)**  
 **[blog.streamingmedia.com](http://blog.streamingmedia.com/)**  
 **[streamingmedia.com](http://www.streamingmedia.com/)**  
-**[streamingmediaeurope.net](http://www.streamingmediaeurope.net/)**  
 **[streamingmediaglobal.com](http://www.streamingmediaglobal.com/)**  
 **[streamingmediaproducer.com](http://www.streamingmediaproducer.com/)**  
 **[taxonomybootcamp.com](http://www.taxonomybootcamp.com/)**  
-**[theconferencecircuit.com](http://www.theconferencecircuit.com/)**  
+**[taxonomybootcamp.com/London](http://www.taxonomybootcamp.com/London)**  
 [**thenorthsidebook.com**](http://www.thenorthsidebook.com/)  
 [**trentonthenovel.com**](http://www.trentonthenovel.com/)  
 [**truecrime-online.com**](http://www.truecrime-online.com/)  
@@ -74,7 +61,7 @@ These websites are maintained and operated by Information Today, Inc. (ITI), 143
 
 For each visitor to our websites, we log the IP address of the computer the visitor is using to view our Web pages, as well as the referring URL.  We routinely collect information on what pages they access or visit. This information is used for internal review and to improve the content of our websites. We only collect personal information (including contact and email information) that is willingly provided by visitors to our websites. 
 
-The Information Today/Plexus Publishing Online Store website (hosted by Yahoo!, at **[infotoday.stores.yahoo.net](http://infotoday.stores.yahoo.net/)** ) collects information about customers, including purchase and contact information, and securely provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. Every transaction conducted at the Information Today Online Store website is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**. 
+The Information Today/Plexus Publishing Online Store website (hosted by Yahoo!, at **[**bookstore.infotoday.com**](http://bookstore.infotoday.com/)** ) collects information about customers, including purchase and contact information, and securely provides it to Information Today, Inc., which is solely responsible for its use.  We only use that information to complete a transaction requested by a customer. Every transaction conducted at the Information Today Online Store website is encrypted for the customers' protection.  The Yahoo! privacy policy is available at **<http://docs.yahoo.com/info/privacy/>**. 
 
 ###  **_Cookies_**
 
