@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404095534id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219091816id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Idols 4 You Privacy Policy
 
@@ -65,8 +65,8 @@
 > 
 > Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Galatic Studio's (teenidols4you.com) rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
 > 
-> **TeenIdols4you.com  
->  The Galactic Studio  
->  17 Windstone Drive  
->  Sherwood, AR 72120  
->  +1.501 436-9033**
+> **The Galactic Studio  
+>  TeenIdols4you.com  
+>  P.O. Box 8187  
+>  Jacksonville, AR 72078-8187  
+>  +1.501 436-9570**
