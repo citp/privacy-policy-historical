@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511173526id_/http%3A//www.mmawarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219191934id_/http%3A//www.mmawarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – MMAWarehouse
+# Privacy policy – MMAWarehouse.com
 
 PRIVACY STATEMENT
 
