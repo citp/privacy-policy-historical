@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquaveo.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628225039id_/http%3A//www.aquaveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquaveo.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219101635id_/http%3A//www.aquaveo.com/privacy) for the most accurate reproduction.*
 
 # Aquaveo Privacy Statement | Aquaveo.com
 
