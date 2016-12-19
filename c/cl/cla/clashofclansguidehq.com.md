@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the clashofclansguidehq.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608183852id_/http%3A//www.clashofclansguidehq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashofclansguidehq.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219160055id_/http%3A//www.clashofclansguidehq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-0000 Please Share If You Found These Strategies Helpful!
 
 **Privacy Policy for www.clashofclansguidehq.com**
 
