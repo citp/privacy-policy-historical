@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615174746id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219204055id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
 
 # DNTrade Privacy Policy - DNTrade
 
