@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtalkforums.info privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531081916id_/http%3A//www.watchtalkforums.info/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtalkforums.info privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219203531id_/http%3A//www.watchtalkforums.info/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # WATCH TALK FORUMS Privacy Policy
 
