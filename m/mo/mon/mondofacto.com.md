@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondofacto.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619100619id_/http%3A//www.mondofacto.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondofacto.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219073749id_/http%3A//www.mondofacto.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Cookies - About Mondofacto
 
