@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazygamer.co.za privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215214106id_/http%3A//www.lazygamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazygamer.co.za privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219131118id_/http%3A//www.lazygamer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lazygamer.net
 
@@ -57,7 +57,7 @@ http://www.lazygamer.net
 5 Njala Street  
 Sundowner, Gauteng 2188  
 South Africa  
-gavin@lazygamer.net  
-073 322 0524
+geoff@lazygamer.net  
+076 953 2148
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority. 
+This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
