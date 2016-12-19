@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldbaseballclassic.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507013456id_/http%3A//www.worldbaseballclassic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbaseballclassic.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219040115id_/http%3A//www.worldbaseballclassic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Baseball Classic
 
