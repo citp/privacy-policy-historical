@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620000053id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219212623id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vivid Seats
 
@@ -44,7 +44,7 @@ The following technology is used to make your shopping experience more relevant.
       * These technologies are used by Vivid Seats and our marketing partners and/or affiliates to track and analyze trends, administer the site, and gather demographic information about our individual users, as well as aggregate user base.
       * Information derived from these technologies is used to personalize your shopping experience. Your browser must accept cookies for you to add items to a shopping cart and rejecting cookies may limit some features on our website. You have control over cookies via your individual browser.
   * **Behavioral Targeting / Re-Targeting**
-    * We partner with a third party ad network to manage advertising on our website and other sites. Our ad network partner uses cookies and beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp)Â (or if located in the European Union clicking [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+    * We partner with a third party ad network to manage advertising on our website and other sites. Our ad network partner uses cookies and beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) (or if located in the European Union clicking [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
   * **Local Storage Objects**
     * We use, and our third party partners use, Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. 
     * Various browsers may offer their own management tools for removing HTML5 LSOs.
@@ -53,7 +53,7 @@ The following technology is used to make your shopping experience more relevant.
 
 ### Updating or Correcting Personally Identifiable Information
 
-You may update your personal information by making a change on the member information page.Â  You may update or delete your personal information by emailing us at [support@vividseats.com](mailto:support@vividseats.com). We retain all information for active accounts to provide you services. To request that we deactivate your account, please contact us atÂ [support@vividseats.com](mailto:support@vividseats.com). We will respond to your request within a reasonable timeframe. We will retain and use your information, even if your account is deactivated, only as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+You may update your personal information by making a change on the member information page. You may update or delete your personal information by emailing us at [support@vividseats.com](mailto:support@vividseats.com). We retain all information for active accounts to provide you services. To request that we deactivate your account, please contact us at [support@vividseats.com](mailto:support@vividseats.com). We will respond to your request within a reasonable timeframe. We will retain and use your information, even if your account is deactivated, only as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ### Is my Personal Information used for any other purpose?
 
@@ -67,7 +67,7 @@ If you become our customer, we may send you updates on important information abo
 
 ### Public Forums
 
-Vivid Seats offers publicly accessible blogs and community forums. Any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us atÂ [support@vividseats.com](mailto:support@vividseats.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by logging into the said application and removing the information or by contacting the appropriate third party application.
+Vivid Seats offers publicly accessible blogs and community forums. Any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [support@vividseats.com](mailto:support@vividseats.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by logging into the said application and removing the information or by contacting the appropriate third party application.
 
 ### Social Media (Features) and Widgets
 
@@ -98,17 +98,17 @@ We restrict access to your personal information to those who need access to use 
 
 
 
-You may direct us not to share your Personal Information with third parties (other than our service providers), at any time, by sending an email toÂ [support@vividseats.com](mailto:support@vividseats.com)Â or following the removal instructions in the communication that you receive. 
+You may direct us not to share your Personal Information with third parties (other than our service providers), at any time, by sending an email to [support@vividseats.com](mailto:support@vividseats.com) or following the removal instructions in the communication that you receive. 
 
 ### How do you protect my personal and account information?
 
-We use Secure Socket Layers ("SSL") encryption technology where your personal and account information is required (such as a credit card number). Our Website is certified by Norton Secured, which verifies thatÂ [www.vividseats.com](https://web.archive.org/)Â is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear. 
+We use Secure Socket Layers ("SSL") encryption technology where your personal and account information is required (such as a credit card number). Our Website is certified by Norton Secured, which verifies that [www.vividseats.com](https://web.archive.org/) is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear. 
 
 In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels. 
 
 We follow generally accepted industry standards to protect your Personal Information, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our website, you can email us atÂ [support@vividseats.com](mailto:support@vividseats.com)
+If you have any questions about security on our website, you can email us at [support@vividseats.com](mailto:support@vividseats.com)
 
 ### Changes to Privacy Policy
 
@@ -116,12 +116,12 @@ Vivid Seats may from time to time change its privacy policy. If Vivid Seats make
 
 ### How can I give you feedback or contact you?
 
-You can reach us by emailÂ [support@vividseats.com](mailto:support@vividseats.com)Â or you can call us toll-free atÂ 866.848.8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. 
+You can reach us by email [support@vividseats.com](mailto:support@vividseats.com) or you can call us toll-free at 866.848.8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. 
 
 **Vivid Seats Ltd.**  
-344 N Ogden Avenue  
-4th Floor  
-Chicago, IL 60607  
+225 W. Randolph  
+30th Floor  
+Chicago, IL 60606  
 [support@vividseats.com](mailto:support@vividseats.com)
 
 Last updated on June 2016
