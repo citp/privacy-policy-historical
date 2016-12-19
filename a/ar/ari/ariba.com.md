@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630084543id_/http%3A//www.ariba.com/%23privacy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariba.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219234502id_/http%3A//www.ariba.com/%23privacy-content) for the most accurate reproduction.*
 
 # Cloud-Based Network Solutions for Buyers and Suppliers
 
@@ -6,100 +6,204 @@ Like many websites, this website uses cookies ([what are cookies?](http://en.wik
 
 Please be advised that refusing to accept cookies may result in a significantly degraded experience.
 
-Effective September 2, 2014
+Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move towards a true Internet economy. We have created this Privacy Statement to demonstrate our firm commitment to the individual's right to privacy. This Privacy Statement outlines our handling practices with regard to such information that can be used to directly or indirectly identify an individual (“ **Personal Data** ”).
 
-This Web Site Privacy Statement ("Privacy Statement") tells our visitors ("You") about: a) The information Ariba, Inc., an SAP Company. ("Ariba") collects through our website(s), [ **www.ariba.com**](http://www.ariba.com/) and "related web sites" (the "Site(s)"); b) Certain services available on our Site(s) including the Ariba Connect, Ariba Exchange, and Ariba Education pages; c) How we use that information; and d) How You can choose to opt out of some of these practices.
+This Privacy Statement applies to www.sap.com and any other website which references this Privacy Statement. The data controller in the case of www.sap.com is SAP America Inc., 3999 West Chester Pike, Newtown Square, PA 19073, USA. The data controller in the case of other websites that reference or otherwise use this Privacy Statement is the SAP group entity set out in the relevant legal disclosure or, if a legal disclosure is not required in accordance with local laws, the copyright of such website. This will be in particular SAP SE, Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany with a view to the corporate website of the SAP group ([www.sap.com/corporate-de/about.html](http://www.sap.com/corporate-de/about.html) and [www.sap.com/corporate-en/about.html](http://www.sap.com/corporate-en/about.html)), product-specific websites, SCN and the SAP Store. SAP America Inc., SAP SE and any relevant SAP group entity are hereafter individually referred to as “ **SAP** ”
 
-**Consent**  
-By accessing our Site, You are consenting to the information collection and use practices, and the international transfer of personal data, described in this Privacy Statement, as modified from time to time by us. If we decide to change our Privacy Statement, we will post a new statement on our Site and change the date at the top of the statement. Therefore, we encourage you to check the date of our Privacy Statement whenever you visit this Site for any updates or changes.
+Some SAP group entities, offerings, programs and/or websites may have their own, possibly different, privacy statements. We therefore encourage you to read the privacy statements of each of the SAP websites, offerings or programs you visit or review.
 
-**About Ariba**  
-Ariba, part of the SAP, combines industry-leading SaaS technology, the world's largest web-based trading partner community, and expert capabilities - all in a cloud-based environment - to deliver services to organizations that need to control costs, minimize risk, improve profits, and enhance cash flow and operations. [**Learn more**](http://www.ariba.com/about/).
+## I. Global Privacy Fundamentals
 
-**What personal information do we collect on the Site and why?**  
-We collect several types of information on our Site including "Personal Information," which is information that can be used to identify you individually, such as your name and email address. We also collect anonymous information associated with Web site visits and page views (“Anonymous Visitor Information”).  The information we collect depends on what services you use on our Site(s). The following is a more detailed explanation of these types of information, as well as when and how we use it.
+Our privacy practices set out herein reflect current global principles and standards on handling Personal Data. These principles include notice of data use, choice of data use, data access, data integrity, security, onward transfer, and enforcement/oversight. We abide by the privacy laws in the countries where we do business.
 
-**Contact Information**  — We may collect information that identifies you personally, such as your name and e-mail address, when You submit a form, such as, but not limited to, a request for information, a request for an Ariba White Paper, a purchase of a subscription to one of our solutions, or to register for the Connect.Ariba.Com site. We collect additional information if You choose to submit it, including Your title and place of employment, business telephone number, mailing and facsimile address, as well as the contents of Your questions and/or comments submitted along with this information. In the case of purchasing a subscription or a service some of this additional information is required. In general, we may use this information to respond to Your inquiry, request Your participation in a survey, provide you with the service that you’ve purchased, and contact You about Ariba product or partner offerings that may be of interest to You.
+## II. Consent
 
-**Ariba’s Use of Personal Information and Anonymous Visitor Information**
+By using this website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.
 
-Some of the ways we may use your personal data include, but are not limited to:
+If we decide to make changes to this Privacy Statement, we will post the changes on this website so that you will always know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Statement.
 
-  * To process your orders and deliver the products and services that you have ordered;
-  * To tailor information about our products and services to your individual interests. For example, during a visit to our site, it allows us to provide you with specific information on products and services that may be of interest;
-  * To provide the ability to contact you and to provide customer feedback and support;
-  * To provide marketing or promotional activities on Ariba.com or other SAP-affiliated websites. Personal data may be collected to administer those programs;
-  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is strictly voluntary;
+As may be required by applicable law, we may also seek your explicit consent to process certain Personal Data collected on this website or volunteered by you. Kindly note that any consent will be entirely voluntarily. In case you do not grant the requested consent to the processing of your Personal Data or (in accordance with Subsection 10 (Data Retention) below) later inform SAP that you do not want SAP to further process your Personal Data, however, the (further) use of certain offerings or services of SAP may be either not possible or limited in scope.
+
+## III. Collection and Processing of Your Personal Data
+
+To serve you better and understand your needs and interests, SAP collects, exports, and uses Personal Data with adequate notice (as set out herein) and, where legally required, consent, along with required filings with data protection authorities, when applicable.
+
+When you visit our website, we may record your IP address and use cookies and other Internet technologies (referred to below as “ **Automated Tools** ” and “ **Embedded Web Links** ”) to gather information about our visitors and their interests. Depending on the Automated Tools used, the gathered data comprise, in addition to your IP address, the cloud identity we assign to you when you register with SAP, the type of browser you use, the SAP websites you have visited, the objects you have clicked on a certain SAP website, the time you have spent on a certain website, the referring website from which you have accessed a SAP website and the foreign destination website which you access from an SAP website. The technologies used and the information collected are described in more detail in Subsection 5 (Automated Tools) below. After you have granted your consent (where legally required), SAP may add information collected by way of Automated Tools to user profiles SAP retains about you. Such additional information includes your user ID, website preferences and your interest in SAP’s products.
+
+We may further collect and process any Personal Data that you volunteer to us, e.g. when you register for events or other offerings of SAP, subscribe to newsletters, participate in online surveys, discussion groups, forums or SAP’s chat service, or when you make purchases or otherwise submit your contact details to SAP. In case you provide SAP with your IDs of social media, SAP may retrieve publicly available information about you.
+
+Such Personal Data will comprise in the individual case (a subset of): your first and last name, your postal and email address (as further detailed in Subsection 2. (Email Addresses) below), your telephone number, log in data for social networks, financial and banking details relevant to process your order (as further detailed in Subsection 3. (Shopping or Event Registration) below), and certain information about the company you are working for (i.e. your company’s name and postal address, your job title and seniority level) as well as information as to which relationship (i.e. which version of SAP’s terms of use you have accepted or what our choice regarding receiving marketing materials from SAP is) between SAP and you exists.
+
+### 1\. Use and Purpose of Collected Personal Data
+
+The information SAP collects to understand your needs and interests helps SAP deliver a consistent and personalized experience. We will use such information only as described in this Privacy Statement and/or in the way we specify at the time of collection. We will not subsequently change the way your Personal Data is used without your consent, as required by applicable law. We will exclusively use your Personal Data for the following purposes:
+
+  * To process your orders and deliver the products, services and information that you have ordered;
+  * To keep you up to date on the latest product announcements, software updates, software upgrades, security patches, system enhancements, special offers, and other information regarding SAP’s software and services. This may occasionally include information from other technology companies or business partners about products and services that can add value to your SAP products. Such communication may be provided not only by SAP, but by any other company of the SAP group of companies, including, for the avoidance of doubt all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy subgroup companies. In this regard, you expressly acknowledge that your contact details may be shared by SAP with such other companies of the SAP group. Furthermore, you acknowledge that any information required to track your choices regarding receiving marketing materials (i.e. depending on the country where the relevant SAP group company operates whether you have granted an explicit consent into receiving and/or opted-out of receiving marketing materials) may be stored and exchanged between any of the above mentioned companies;
+  * To tailor information about our products and services to your individual interests. For example, during a visit to our website, it allows us to provide you with specific information on products and services that may be of interest;
+  * To provide the ability to create by way of the SAP Cloud ID Service a single user profile which one individual can use within the whole SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) to access web offerings and services. Therefore, you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
+  * Beyond the SAP Cloud ID Service profile described in the bullet point above to provide the ability to create other user profiles and access to other service specific personal profile areas (e.g. in connection with SAP’s own partner programs, forums and communities). Since such profiles may allow you to access services of different members of the SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
+  * To provide a personalized user experience and view protected content.
+  * To conduct online "Click to Chat" and "Click to Call" sessions;
+  * In order to ensure and control the quality of the information and experience you have during chat sessions with SAP by educating our personnel to effectively answer your questions;
+  * To provide the ability to contact you in order to respond to your inquiries, and provide you with shipping and billing information, and to provide customer feedback and support;
+  * To provide contests, sweepstakes or other marketing or promotional activities on the www.sap.com or other SAP websites. Personal Data may be collected to administer those programs;
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary;
   * To support recruitment inquiries;
+  * To prepare anonymized data regarding the use of SAP’s websites and offerings. SAP will use such anonymized data only for the improvement of such websites and offerings;
+  * To meet contractual obligations; and
+  * To comply with applicable regulatory requirements, in particular resulting from export laws. SAP and its products, technologies and services are subject to the export laws of various countries, including without limitation, to those of the European Union and its member states, and the United States of America. You acknowledge that, pursuant to the applicable export laws, trade sanctions and embargoes issued by these countries, SAP is required to take measures to prevent entities, organizations and parties listed in government issued sanctioned party lists from accessing certain products, technologies and services through SAP’s websites or other delivery channels controlled by SAP. You therefore acknowledge and agree that SAP may (i) automatically check any user registration data and other information you provide about your identity against applicable sanctioned party lists; (ii) regularly repeat such checks whenever a sanctioned party list is updated or when you update your information; (iii) block your access to SAP’s services and systems in case of a potential match; and (iv) in case of a potential match contact you in order to confirm your identity.
 
 
 
-**Automated Tools**
+### 2\. E-mail Addresses
 
-In addition to the information you provide, Ariba may also collect information during your visit to an Ariba website through automated tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, host domain, access times, and the address of the website from which you arrived at an Ariba website. Using these tools, Ariba is also able to confirm receipt of e-mails that the recipient consented to receive, and can track other information such as pages visited on the Ariba site. and whether or not the recipient registers for an event offered by Ariba and certain other aggregate data that is not related to a particular individual.  Ariba may use third party services to facilitate this type of data collection and analysis.
+If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the SAP group of companies unless this is required for the business relationship between you and SAP or if you register for third party services. You can choose not to receive any more e-mails at any time (in accordance with Subsection 9. (Choice/Opt-Out) below). However, such choice will not affect the sending of emails that are strictly required to perform the business relationship between you and SAP.
 
-**Specific Site Features**
+Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to SAP.
 
-**Newsletters**  — If You register for an Ariba newsletter, we will use Your email address to send the newsletter to You and you may be added to a list to receive additional promotions or communications.
+If you choose to register for third-party services, we may need to send some information from your registration with SAP to the service provider, possibly including your e-mail address.
 
-**Career Inquiries**  — Ariba accepts inquiries and applications regarding our open job postings through the Site. This may include resume files. Personal information submitted by job applicants when applying for a position is only used for the purpose of evaluating the candidate for a position at Ariba and is managed according to Ariba’s human resources department policies.
+### 3\. Shopping or Event Registration
 
-**Connect.Ariba.Com ("Connect")**  — The Connect area of the Site, including Ariba Knowledge, is designed for current customers and partners of Ariba. Registration is required for access to this part of the Site. The information provided in registration may be used by Ariba to handle support inquiries and to communicate about Ariba products, administrative issues related to the Connect site, and special offers and promotions. Registration in Connect is required to register for Ariba education classes.
+Our site includes order forms that you fill out to request information, products, and services. These forms may in addition to the information described above collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction. This may include the transfer of your data to third parties involved in executing the transaction, such as banks, credit card companies, payment facilitators and other financial and credit control institutions.
 
-**Exchange.Ariba.com ("Exchange")**  The Ariba Exchange area of the Site is designed as an area for current Ariba customers, Ariba representatives, and other business professionals to exchange ideas and facilitate discussions regarding best spend management practices. Registration is required to be able to post comments or create discussion topics. The information provided in registration is used as a basis for a user’s profile and to allow the user to receive notifications and emails from the Ariba Exchange and other users of the Ariba Exchange. Users may decide whether to let their name and/or email address be visible to other visitors to the Ariba Exchange by updating their profile. Only business contact information may be provided. Please do not enter personal (e.g. home) contact information into the Exchange.
+### 4\. IP Addresses
 
-**Subscriptions and Education Services**  \- Customers may purchase education services and/or subscriptions to a limited set of Ariba solutions from Ariba on the site using credit cards. Ariba uses industry standard techniques to store and process credit card data in a secure manner.
+We use IP addresses to help diagnose problems, to establish the country from which a user is using our websites and services in order to provide appropriate legal statements, to administer our website, and to gather demographic information as further stated in the below Subsection 5 (Automated Tools).
 
-**IP Addresses**  — Each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by the Site management software. Ariba uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes.
+We may also use IP addresses or other information, as further explained in Subsection 5 (Automated Tools) below you have shared on this website or at any earlier occasion or a campaign code, to determine which pages on our sites you visit and which topics may be of interest to you so we can provide you with information about relevant products and services.
 
-**Cookies**  — Ariba uses small files called "cookies" to improve the quality of a visitor's interaction with the Site, to enable a shopping cart feature, to tailor the Site content, gather statistics about how the site is being used by visitors, and facilitate other advanced features. If you have set your browser to reject cookies, some features of the Site may not work properly.
+SAP may also collect IP addresses (and other technical information such as browser type) during a Click-to-Chat or Click-to-Call session that you initiate. This information is collected when you connect to SAP so that we may identify your session, deliver content based on the technical capabilities of your browser, and for quality control purposes. Your IP address will not be used to identify you unless you provide your prior consent.
 
-Additionally, we may use cookies to deliver marketing messages to you, via third party networks, based on information gathered during your visit to Ariba.com. This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We require such third parties to comply with all applicable privacy regulations and have provided more information about the cookies and how to opt-out of cross-site tracking below. 
+SAP will only gather information related to your visit to the SAP site. We do not track or collect Personal Data from your visits to companies or entities outside the SAP Group of companies beyond the information stated above in the Subsection III. (Collection and Processing of Your Personal Data).
 
-The list of third party cookies that may be placed on your computer during a visit to the ariba.com web site for tracking usage, or for targeting messaging or advertising are:
+### 5\. Automated Tools
 
-(List updated as of September 2, 2014)
+In addition to the information you provide, SAP may also collect information during your visit to a SAP website through Automated Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an SAP website. Using these tools, SAP is also able to confirm receipt of e-mails that the recipient consented to receive, and can track other information such as pages visited on the relevant SAP site and whether or not the recipient registers for an event offered by SAP and certain other aggregate data that is not related to a particular individual.
 
-**Third Party** | **Cookie Name(s)** | **Notes and Opt-Out**  
----|---|---  
-Adobe Analytics | s_vi, s_vi_ox7Cglox23tkx7Efwx7Cax7D, s_vi | To opt out of being tracked by Adobe Analytics across all websites visit <http://www.adobe.com/privacy/opt-out.html#4>  
-Facebook (Atlas Solutions) | AA002, ATN, MUID | This cookie is only set on Ariba.com when a user clicks on our Social Icons and is then directed to Ariba's external Social site. For the Atlas' Privacy Policy and opt-out [click here](http://atlassolutions.com/cookie-policy/).  
-Facebook | _e_0q4u_0, datr | This cookie is only set on Ariba.com when a user clicks on our Social Icons and is then directed to Ariba's external Social site. For the Facebook Privacy Policy and opt-out [click here](https://www.facebook.com/about/privacy/).  
-DoublecliCk by Google | id | To opt out of being tracked by Google visit [this page](http://tools.google.com/dlpage/gaoptout).  
-The Nielsen Company | IMRID | To opt out of being tracked by Nielsen visit [this page.](http://www.nielsen.com/us/en/privacy-inquiries.html)  
-LinkedIn | __qca, __utma, __utma, __utmb, __utmv, __utmz, RT, leo_auth_token, visit | This cookie is only set on Ariba.com when a user clicks on our Social Icons and is then directed to Ariba's external Social site. For more information on LinkedIn's Privacy Policy and opt-out please see [this page](https://www.linkedin.com/legal/privacy-policy)  
-MathTag | Uuid, mt_mop | To opt out of being tracked by MathTag across visit [this page](http://mathtag.com/cgi-bin/optout).  
-The Heron Partnership (Marin Analytics) | _msuuid | To opt out of being tracked by Marin visit [this page](http://www.marinsoftware.com/privacy/marin-tracker-opt-out).  
-Quantcast | mc | To opt out of being tracked by Quantcast visit: <https://www.quantcast.com/company/opt-out/>  
-comScore (ScorecardResearch) | UiD, UIDR | To opt out of being tracked by ComScore visit <http://scorecardresearch.com/optout.aspx>  
-ShareThis | __stid, __uset | This cookie is used to track users to the Ariba Exchange website. This cookie is only set on Ariba.com when a user clicks a share link and is then directed to http://exchange.ariba.com/. For more information and to opt out please visit Sharethis' [Privacy page](http://www.sharethis.com/privacy)  
-Twitter | Pid, guest_id | This cookie is only set on Ariba.com when a user clicks on our Social Icons and is then directed to Ariba's external Social site  
-Youtube - Google | PREF, VISITOR_INFO1_LIVE | This cookie is used to track users who view Youtube embedded video on Ariba.com. This cookie is only set when a user views an embedded Google Youtube video on an Ariba.com/Solutions page. For more information on Google's privacy policy and Opt out settings [here](https://support.google.com/ads/answer/2662922?hl=en)  
-  
-Opt-out options for members of the Network Advertising Initiative can be found [here](http://www.networkadvertising.org/choices/) and information about opt-out from tracking by companies participating in the Self-Regulatory Program for Online Behavioral Advertising can be found [here](http://www.aboutads.info/choices/).
+Unless another means to make your choice is listed below, you may refuse the use of Automated Tools like cookies (i) if the relevant website supports TRUSTe Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TRUSTe Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser regarding cookies are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the tracking cookies in the browsers of all relevant devices. However kindly further note that if you do this you may not be able to use the full functionality of the relevant site.
 
-Ariba’s websites do not respond to Do-Not-Track (DNT) header information.   
+SAP is in particular currently using the following Automated Tools for the purposes set out below.
 
-**Information sharing or disclosure practices**  
-Ariba does not provide any of Your personal information to third parties for their marketing purposes without Your explicit consent, however Ariba may use Your information to contact you about Ariba products and services unless you opt-out of such uses as provided below. The personal information you provide to the Site may be accessed by (a) third parties who help Ariba operate the Site, help Ariba process transactions, provide the services requested by you, or contribute to Ariba sales and marketing efforts; and (b) law enforcement and other government entities if reasonably required.
+#### a. Adobe Analytics
 
-**Transfer.**  
-This Site is primarily located in and operated from the United States, but interoperates with other SAP company web sites around the world. By submitting data to the Site, you consent to having such data transferred to the United States and other web site operation locations selected by Ariba and its affiliated companies.
+Some websites which refer to this Privacy Statement use Adobe Analytics. Adobe Analytics uses IP addresses to establish the approximate region where a user is coming from. Therefore, Adobe Analytics collects the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
 
-**Links to other Sites.**  
-The Site contains links to third party web sites such as the web sites of Ariba and SAP partner companies. Ariba takes no responsibility for the content or information practices of such sites.
+Furthermore, if you are a registered user and logged on, SAP uses Adobe Analytics to track your user ID together with how you use the relevant website.
 
-**Choice and Opt-Out**  
-You may opt-out of receiving Ariba newsletters or other email communications from Ariba by sending an email to [ **emarketing@ariba.com**](mailto:online@ariba.com). In addition, each email communication includes instructions on how to unsubscribe. Registrants of Connect.Ariba.Com may cancel their registration by sending an email to [ **connect_support@ariba.com**](mailto:connect_support@ariba.com). Registrants of Ariba Exchange may cancel their registration by sending an email to [ **social@ariba.com**](mailto:social@ariba.com "Follow link").
+In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
 
-**Security**  
-Ariba uses commercially reasonable efforts to store and maintain personal information You submit on the Site to protect it from loss, misuse, alteration or destruction by unauthorized parties. We may store information that we collect through our Site indefinitely except as otherwise required by law.
+#### b. Adobe Target
 
-**Other Corporate Entities**  
-Ariba, Inc. may share Personal Information with our global affiliates, parent companies, subsidiaries, agents and integrated service providers ("Affiliates") that cooperate to provide the Site and related services to you, throughout the world. Ariba’s Affiliates follow practices no less protective of all Personal Information than our practices described in this policy, to the extent allowed by applicable law. If Ariba and/or its Affiliates were to one day merge with or be acquired by another business entity you should agree that Ariba may share some or all of your Personal Information with the resulting entity. You will receive notice of such an event (if it occurs) and we will require that the new combined entity follow the practices disclosed in this policy.
+Some websites which refer to this Privacy Statement use Adobe Target. Adobe Target assigns a user ID to each user who does not opt-out of the tracking as described below and then creates a user profile based on this user ID by adding information about the user’s (i) browser and other device specific information, (ii) information about usage behavior and (iii) location data. Location data is collected by way of analyzing the user’s anonymized IP address: Adobe Target collects the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
 
-**What this Privacy Statement Does NOT Address**  
-This Privacy Statement does not address the personal data management practices of Ariba applicable to the operation and use of the Ariba Network, Ariba's hosting services and Ariba's On-Demand services such as Ariba Procure-To-Pay. The policy addressing these services can be found at [**http://www.ariba.com/legal/ariba-privacy-statement**](http://www.ariba.com/legal/ariba-privacy-statement) **  This policy dows not apply to the web sites of other SAP-affiliated companies.**
+This information is used to display targeted content on the SAP group websites using Adobe Target.
 
-**Comments and Questions**  
-If You have questions or comments about this Privacy Statement, please send an email to [ **privacy@ariba.com**](mailto:privacy@ariba.com) or in writing to: Ariba Privacy and Security Manager, Ariba Legal Department, 910 Hermosa Court, Sunnyvale, CA 94085, USA.
+In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
+
+#### c. Google Analytics
+
+Some websites which refer to this Privacy Statement use Google Analytics. Google Analytics uses cookies, which are text files placed on your computer to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on site activity for site operators and providing other services relating to site activity and internet usage.
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+
+In addition to an opt-out by way of TRUSTe Consent Manager (where available), Google has developed the Google Analytics Opt-out Browser Add-on. It provides website visitors more choice on how their data is collected by Google Analytics. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. It can be downloaded here: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+#### d. SAP Web Analytics
+
+Some websites which refer to this Privacy Statement use SAP Web Analytics (“ **SWA** ”). SWA helps to analyze how users use the relevant site. The information generated (including a part of your IP address and a browser-ID) will be transmitted to and stored by SAP. SAP will use this information only for the purpose of evaluating your use of the website and compiling reports on website activity for website operators – and finally, to improve SAP’s websites.
+
+Each website which uses SWA contains a separate statement regarding such use and provides for an option of the user to opt-out of the tracking by SWA either directly in the relevant statement or by way of the TRUSTe Consent Manager which can be reached over a link on the relevant page (where available).
+
+#### e. Usage tracking for marketing purposes
+
+SAP websites may collect the way you are accessing and using such websites by other means in order to prepare usage profiles that are used to determine which content is the most appropriate to be displayed while you visit a certain website.
+
+In this case, SAP is capturing your usage behavior (websites visited, point in time a website has been visited, activity on a website/clicks made on (objects of) a website, browser type, operating or computing system used, referring website from which you have accessed a SAP website, the location from where you access a website) together with a unique identifier (like your IP address or a cookie ID) that allows SAP to establish that there is a certain person active on its websites but no information like your name that can be used to directly identify you. SAP will use the collected information only in order to display appropriate and relevant content on its websites.
+
+You may opt-out of this tracking (i) if the relevant website supports TRUSTe Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TRUSTe Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to make the respective adjustments in the browsers of all relevant devices. However kindly further note that depending on the settings made in your browser(s) you may not be able to use the full functionality of the relevant site.
+
+#### f. Embedded Web Links
+
+Emails from SAP often use links designed to lead you to a relevant area on the Web, after redirection through SAP's servers. The redirection system allows SAP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
+
+In emails, such links may also allow SAP to determine if you have clicked on a link in the email, and the information about this interaction may be connected to your personal identity. If you do not want SAP to collect information about the links you clicked, you can simply choose not to click on the links in an e-mail that SAP sends you.
+
+#### g. Cookies
+
+Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. SAP uses cookies to deliver personalized content, to save you having to re-enter your password or complete registration forms repeatedly, to keep track of your shopping cart, and to tailor our information offerings to how you and others use the site.
+
+We offer to you the following two ways to make your choice regarding SAP’s use of cookies:
+
+aa. Some websites of SAP use the TRUSTe Consent Manager to enable users to make their choices regarding SAP’s use of cookies. Wherever the TRUSTe Consent Manager is used, you will find in a footer a link to it. Please click on that link to access the TRUSTe Consent Manager and to make your choice regarding SAP’s use of cookies.
+
+bb. In case a SAP website does not use the TRUSTe Consent Manager, you may refuse the use of cookies by selecting the appropriate settings in your browser. Kindly note that the settings in your browser regarding cookies is limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the cookies in the browsers of all relevant devices. Furthermore, please note that if you disable cookies you may not be able to use the full functionality of a website.
+
+### 6\. Sharing Your Personal Data
+
+As a member of a global group of companies, SAP operates a number of websites around the world. Any data and information that you volunteer or that is otherwise collected on one of our sites in any one country may be sent electronically to a server for one of these sites in another country. Such servers or other types of data processing facilities may be located within or outside the European Economic Area or third countries that are regarded by the EU Commission as featuring an adequate level of data protection. However, we safeguard your privacy interests around the world by ensuring that this SAP website adheres to our data protection principles described in this statement. All companies of the SAP group (including, for the avoidance of doubt, all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) may use the information internationally in connection with processing your inquiries and orders, in order to provide services to you, to help improve our products and services to keep you up to date about the latest IT product announcements, software updates, software upgrades, security patches, system enhancements, special offers, for processing and storage and for all other purposes set out in the section “Use and Purpose of Collected Personal Data” above. This includes that all companies of the SAP group may provide you with marketing materials if (depending on the country in which the relevant SAP group company operates) you have granted your prior consent and/or unless you have opted out of receiving marketing materials.
+
+We may also share such information with business partners, service vendors, authorized third-party agents or contractors (such as Google, Inc. or Adobe Systems Inc.) in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support, providing you with information on products and services that may be of interest to you or in order to analyze the user behavior on our webpages (e.g. in case of Adobe Analytics or Google Analytics).
+
+We only provide these third parties with the minimum amount of Personal Data necessary to provide the services on our behalf, and the third parties are (where legally required) bound by appropriate order data processing agreements and/or comprehensive confidentiality undertakings and therefore not permitted to use your Personal Data except for the limited purpose of completing the requested service or transaction.
+
+We do not sell or rent your Personal Data to third parties for marketing purposes unless you have granted us permission to do so.
+
+We may respond to subpoenas, court orders, or legal process by disclosing your Personal Data and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
+
+Circumstances may arise where, whether for strategic or other business reasons, SAP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve, in accordance with applicable law, the disclosure of Personal Data to prospective or actual purchasers, or the receipt of it from sellers. It is SAP's practice to seek appropriate protection for information in these types of transactions.
+
+We may collect and share Personal Data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SAP's terms of use, or as otherwise required by law.
+
+While visiting SAP's website you may be directed to content or functionality that is hosted by a third-party supplier. Most often, this is done to host special events, such as contests or seminars. When information is collected on behalf of SAP exclusively, the appropriate SAP entity's privacy statement will be referenced on the website and will govern how information is used. For other, non-SAP sites, the site's owner's privacy policy will be referenced. It is SAP's practice to require such suppliers and business partners to handle information in a manner consistent with SAP's privacy statement.
+
+### 7\. Security of Your Personal Data
+
+SAP is committed to protecting the Personal Data you share with us. SAP uses a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. SAP supports online security using secure server technology because we want your data to be safe. There are state-of-the-art security arrangements and facilities on SAP sites to prevent abuse.
+
+We bind our employees and data processors to observe your privacy and confidentiality rights.
+
+### 8\. Links to Other Sites
+
+This website may contain links to foreign (i.e. non SAP group of companies) sites. SAP is not responsible for the privacy practices or the content of other websites outside the SAP Group of companies. Therefore, we recommend that you carefully read the privacy statements of such foreign sites.
+
+### 9\. Choice/Opt-Out
+
+We communicate with users who subscribe to our services on a regular basis via email, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications, which are not marketing related but merely required for the relevant business relationship.
+
+With regard to marketing related types of communication (i.e. emails and phone calls), SAP will (i) where legally required only provide you with such information after you have granted your opt-in and (ii) provide you the opportunity to exercise an opt-out choice if you do not want to receive further marketing related types of communication from us. The opt-out choice may be exercised, depending on the respective SAP group web offering:
+
+a. SAP SE, local SAP affiliates, Hybris and Ariba: http://www.sap.com/profile/unsubscribe.epx
+
+b. SuccessFactors: if you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by emailing your request to unsubscribe here: [webmaster@sap.com](mailto:webmaster@sap.com). Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [webmaster@sap.com](mailto:webmaster@sap.com).
+
+### 10\. Data Retention
+
+SAP will not retain your Personal Data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. In particular, and if no such contradicting statutory obligation exists, SAP will delete your Personal Data once you inform SAP that you do not want SAP to further process your Personal Data. Please direct any such request to [webmaster@SAP.com](mailto:webmaster@sap.com). Kindly note that in this case the use of certain services or offerings may either be limited or not possible any longer. In case there is a contradicting statutory obligation for SAP to retain your Personal Data, SAP will block it against further processing and then delete the relevant Personal Data when the requirement to retain it has ceased.
+
+### 11\. Inquiries, Access and Updating Your Personal Data
+
+SAP needs your help in keeping the Personal Data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online via www.sap.com/profile. You may also make these updates or other changes by sending an email to [webmaster@SAP.com](mailto:webmaster@sap.com).
+
+If you have any other questions about this Privacy Statement or if you wish to inspect the Personal Data we hold about you, please contact: Webmaster: [webmaster@sap.com](mailto:webmaster@sap.com)
+
+### 12\. US-Specific Provisions
+
+To the extent that SAP is subject to US privacy requirements, the below applies in addition:
+
+#### a. Do Not Track
+
+Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. Thereafter when you visit a site, a message is sent back to the web server by the browser accessing the site. Your browser may allow you to set a “Do not track” preference. Our site does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your web browser or, where available by way of the TRUSTe Consent Manager if the relevant website contains a link to it. However, not utilizing cookies may prevent you from using certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites.
+
+#### b. Requirements to Protect Children's Privacy
+
+We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about a child, please contact us as described in this Privacy Statement.
+
+### 13\. Russia-Specific Provisions:
+
+The below applies to users residing in the Russian Federation:
+
+The services hereunder are not intended for use by the citizens of the Russian Federation, who reside in Russia. If you are a Russian citizen residing in Russia, you are hereby notified, that any Personal Data that you input into the services will be solely at your own risk and responsibility, you explicitly agree that SAP may accumulate your Personal Data and will process this data in the US and in other countries and that you will not hold SAP accountable for any potential non-observance of the Russian Federation legislation.
+
+Revised and posted as of July 25, 2016
