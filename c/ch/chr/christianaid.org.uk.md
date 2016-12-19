@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaid.org.uk privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020084459id_/http%3A//www.christianaid.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaid.org.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219152223id_/http%3A//www.christianaid.org.uk/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - Christian Aid
 
@@ -41,9 +41,7 @@ Where relevant, information is provided to explain why the data is being collect
 
 In other cases, when we ask you for information about yourself you may, by ticking the appropriate box provided, tell us that you do not want future communications from us.
 
-If you enter sensitive personal data, including but not limited to your racial or ethnic origin, political opinions, religious or spiritual beliefs or your physical or mental health or condition, you hereby consent to the use of such data.
-
-In addition to information given explicitly by you, we also collect information about your visit to our website (for example, the date and time of your visit and the pages that you view). This information is collected in anonymous form. This kind of data helps us to understand how our visitors use our site so that future website development can better meet your needs.
+In addition to information given by you, we also collect information about your visit to our website (for example, the date and time of your visit and the pages that you view). This information is collected in anonymous form. This kind of data helps us to understand how our visitors use our site so that future website development can better meet your needs.
 
 ## Cookies   
 
@@ -109,6 +107,8 @@ We may also need to pass on information when required by law or by a regulatory 
 Occasionally, we employ agents to carry out tasks on our behalf, such as fulfilling orders or processing donations. These agents are bound by contract to protect your privacy just as we would ourselves.
 
 Christian Aid endeavours to keep the data we hold about you up to date. Should you spot any errors, or you no longer wish to receive information form us, please contact us.
+
+To stop receiving any email communications from us, simply click on the unsubscribe link at the bottom of any of our emails or contact us via the website to be removed from our mailing lists. 
 
 Christian Aid is a member of the IF campaign coalition of over 90 charities and NGOs. By joining the IF campaign via the Christian Aid website, or taking part in actions related to this campaign, you agree that your data will be held on a common database and will be used for the purposes and duration of the IF campaign. It will only be used by any member agency with the consent of the supporter concerned. Christian Aid will keep and process the personal details of supporters who sign up to the IF campaign from our website.
 
