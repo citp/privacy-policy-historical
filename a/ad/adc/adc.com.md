@@ -1,67 +1,44 @@
-> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212201136id_/http%3A//www.adc.com/Americas/en_US/1270824759689) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adc.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220003535id_/https%3A//www.commscope.com/About-Us/Privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy
 
-ADC Telecommunication, Inc.'s (ADC's) policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. ADC follows five core principles of privacy protection in the operation of its Web site:
+**CommScope Website Privacy Statement**  
+Welcome to Commscope.com. This Web site (the "Site") is owned and operated by CommScope, Inc., located at 1100 CommScope Place SE, Hickory, North Carolina 28602, USA. CommScope respects your personal privacy and the sensitivity of your Personal Information. This privacy statement ("Privacy Statement") explains how we collect, use, and disclose the personally identifiable information ("Personal Information") that we obtain through this Site.
 
-    1\. Notice/Awareness of ADC's information practices  
-    2\. Choice/Consent to provide information  
-    3\. Access/Participation to/in your own data  
-    4\. Integrity/Security of the Data Collected  
-    5\. Enforcement/Redress through self-regulation
+   **Consent**  
+Your use and provision of Personal Information to Site constitute your express consent to the processing and transfer of your Personal Information in accordance with this Privacy Statement. In addition, if you are located in a country other than the United States, your use and provision of Personal Information to the Site constitutes your express consent to the transfer of your Personal Information to CommScope, Inc. and other CommScope affiliates and subsidiaries in the United States and other countries as required by CommScope. Such countries may not provide a level of data protection to your Personal Information equivalent to that provided by your home country. In addition, CommScope does not normally collect "sensitive" Personal Information on this Site, such as information about ethnic or racial origin, religious or philosophical beliefs, and/or health or medical conditions. However, if you do provide such information to CommScope, doing so constitutes your explicit consent to the collection, use, disclosure and transfer of such information for the purposes described in this Privacy Statement.
 
-**1\. NOTICE/AWARENESS**
+ **Types and Uses of Personal Information**  
+CommScope may collect and use the following types of Personal Information about users of the Site:
 
-This policy statement sets forth ADC information practices concerning the type of data that is collected at ADC's Web site. This policy is being placed at a link on the bottom of ADC's home page, a practice that is becoming an industry standard location for Web site privacy policies.
+CommScope uses your Personal Information in order to provide the highest level of customer service to our prospects, customers, investors and users in general. Personal Information is collected in order to allow CommScope to contact you, provide materials to you upon your request, register you, allow you access proprietary systems, to maintain and secure this Site and the CommScope Social Networks, and for similar purposes. At times, CommScope may use Personal Information obtained in order to update a user on information relating to CommScope products or services; although, we will provide you with the right to opt-out of receiving such information. CommScope will not use your Personal Information in ways unrelated to the ones described above without first obtaining your permission.
 
-**2\. CHOICE/CONSENT**
+ **Cookies and Other Passive Tracking Devices**  
+CommScope utilizes cookies and similar types of passive tracking mechanisms to generate aggregate and anonymous statistics about the Site, to tailor the content of the Site to make it more effective, and to direct targeted information to users regarding our products and services in which they may have interest. In some cases users of the website will be affirmatively notified and given the choice to opt out before a cookie is sent. In addition, users may configure their Internet browser to notify them whenever a cookie is sent (giving the user the option to decide whether to accept it or not), and to reject or remove all cookies. Certain features of the Site may not be available, however, if a user does not consent to use of a cookie or if cookies are later disabled. To disable cookies, users should consult their browser's help section for instructions. CommScope may combine the information it collects passively with any Personal Information about you.
 
-The following paragraphs describe the type of information ADC collects and the reasons why ADC collects the information. By providing the information requested by ADC's online forms and by continuing to use ADC's Web site after having an opportunity to review ADC's privacy policy, you have consented to ADC's use of the information it collects as described at the point of collection or in this policy.
+ **Disclosure of Personal Information**  
+We may engage third parties to perform services in connection with the operation of this Site and our organization. Examples of these services may include website hosting, the provision of technology related services, and targeted marketing programs relating to our products and services. We may provide Personal Information to these third parties, but we authorize them to use this Personal Information only in connection with the services they perform on our behalf. In addition, such parties are bound by contract to establish reasonable measures to protect your Personal Information from unauthorized access, use or disclosure.
 
-**User Supplied Information**
+We may also disclose your Personal Information to protect our rights or property, to enforce our [Terms and Conditions of Use](https://web.archive.org/Docs/Terms-and-Conditions-for-the-Use-of-the-Website.pdf " Terms and Conditions of Use") and other legal notices, as required or permitted by law, or at the request of government regulators or other law enforcement officials and the courts. Finally, CommScope may share or transfer Personal Information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of its business.
 
-You may be asked to supply contact information in order to receive information or materials that you request from the adc.com Web site. We use contact information to send you the information you request when you submit the form. The information we collect in this manner is not used for any other purpose.
+ **Accessing and Updating information**  
+You may request access, and the opportunity to correct, update or delete your Personal Information by contacting CommScope as described at the end of this Privacy Statement. Please note that we may require additional information to authenticate your identity.
 
-If you are using the Web site to apply for employment with ADC, then we will use the information you provide to evaluate your application. The information you provide with your application is not used for any other purpose.
+ **Security**  
+CommScope maintains appropriate technical, physical and administrative steps to protect the security of your Personal Information. Access to Personal Information is limited only to those employees, contractors or authorized agents of CommScope who have authorization to access such Personal Information and such access is limited to the extent such information is needed to fulfill the task for which the Personal Information was collected. While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit. We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
 
-ADC may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) ADC's rights or property or other users of the Web site, or anyone else that could be harmed by such activities. ADC may disclose user information when we believe in good faith that the law requires the disclosure.
+ **Links**  
+This Site provides links to other Web sites. Please note that these Web sites' privacy policies may differ from those of CommScope. We encourage you to read the privacy statement of any Web site you may visit, as we are not responsible for such Web sites' content and policies.
 
-ADC may share aggregate information about our users with business partners and other third parties. For example, we may say x percent of our online job applicants come from east of the Mississippi River and y percent from west of the Mississippi River.
+ **Children's Privacy**  
+CommScope does not knowingly collect Personal Information from children under the age of 13, and users under the age of 13 should not submit any Personal Information to CommScope.
 
-**Your IP Address**
+ **Safe Harbor for EU Personal Information about CommScope Employees**  
+CommScope, Inc. and other CommScope affiliates and subsidiaries in the United States ("CommScope US") recognize that the European Union (“EU”) has an “omnibus” data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the “Directive”). Among other things, the Directive generally requires “adequate protection” for the transfer of certain personally identifiable data about individuals in the EU (“EU Personal Information”) to CommScope operations in the United States. In addition to having implemented Standard Contractual Clauses for the transfer of Personal Information about its European Union employees as well as other protections, CommScope US accordingly adheres to the requirements of the EU Safe Harbor Privacy Principles published by the US Department of Commerce (“Safe Harbor”) with respect to certain EU Personal Information received in the United States from its employees in the EU. CommScope US provides its employees in the EU with information regarding the data transfers that are covered by Safe Harbor via separate policies and procedures. Any employee in the EU that cannot resolve his or her issue directly with CommScope is permitted to contact his or her local data protection authority for further assistance and information. EU Employees may direct questions, comments or access requests for CommScope US to the CommScope Safe Harbor Privacy Contact at [privacycontact@commscope.com](mailto:privacycontact@commscope.com?subject=Request%20from%20Website "Request from Website"). To learn more about the Safe Harbor program, and to view CommScope’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-ADC.com collects IP addresses for the purposes of system administration, to generate aggregate information, and to audit the use of our site. When you request pages from adc.com, our servers log your IP address. We do not normally link IP addresses to anything personally identifiable, which means that your session will be logged, but you remain anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of use of the Web site or to protect our service, site, customers or others.
-
-**Use of Cookies**
-
-ADC does not use cookies that contain any personally identifiable information.  
-**  
-3\. ACCESS/PARTICIPATION**
-
-You may access the data collected by ADC about you by sending a request to the address listed below. If you believe that an error has been made in the accuracy of the data collected from you, ADC will correct such error upon adequate verification of the error and the identity of the person seeking the correction.
-
-If you wish to access, remove or correct any personally identifying data you have supplied to ADC you may do so either by:
-
-    1\. sending an e-mail request to webmaster@adc.com; or  
-    2\. sending a letter via the U.S. Mail to:
-
-        Manager of Web site Development  
-        ADC Telecommunications, Inc.  
-        P.O. Box 1101  
-        Minneapolis, Minnesota 55440-1101
-
-Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections.
-
-**4\. INTEGRITY/SECURITY OF THE DATA COLLECTED**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, ADC has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**5\. ENFORCEMENT/REDRESS**
-
-If for some reason you believe that ADC has not adhered to its privacy policy, please notify us by either of the methods set forth above. ADC will do its best to respond to your concerns and, when appropriate, take steps to correct a problem.
-
-**Your Acceptance of These Terms**
-
-By using this Web site, you signify your assent to this policy statement regarding online privacy. You should also review our standard terms and conditions of use. Among other items the standard terms and conditions of use contain provisions regarding the ownership of comments and other submissions you may make to ADC through the Web site. If you do not agree to this policy statement as well as the terms and conditions of use, then please do not use our Web site. Your continued use of the adc.com Web site following the posting of changes to this policy statement or the terms and conditions of use will mean you accept those changes. If you have any questions about this policy statement, the terms and conditions of use, the practices of this Web site, or your dealings with ADC, you may contact us at the address given above.
-
-**Last Revised: August 1st, 2010**
+ **Contact Us**  
+For further information about CommScope's privacy practices, please contact:  
+ **CommScope, Attn: Legal Department / Safe Harbor Privacy Contact  
+1100 CommScope Place SE, Hickory, NC, 28602  
+Email: [privacycontact@commscope.com](mailto:privacycontact@commscope.com?subject=Request%20from%20Website "Request from Website")  
+Last Policy update: May 12, 2014**
