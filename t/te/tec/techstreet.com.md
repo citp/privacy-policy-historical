@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623205554id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220001256id_/http%3A//www.techstreet.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy & Practices
 
@@ -139,8 +139,8 @@ Back To Top
 
 If you have any additional questions or concerns related to this statement and/or our practices, please contact us via the following 
 
-Address: 3916 Ranchero Dr.  
-Ann Arbor, MI 48104  
+Address: 6300 Interfirst Dr.  
+Ann Arbor, MI 48108  
 Phone: 1-734-780-8000  
 E-Mail: [techstreet.service@thomsonreuters.com](mailto:techstreet.service@thomsonreuters.com)
 
