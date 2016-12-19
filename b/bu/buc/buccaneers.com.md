@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buccaneers.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613132557id_/http%3A//www.buccaneers.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buccaneers.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219210640id_/http%3A//www.buccaneers.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Tampa Bay Buccaneers | Privacy
 
@@ -12,11 +12,7 @@ This privacy policy applies to the Tampa Bay Buccaneers website located at www.b
 
 The Website is operated by the Tampa Bay Buccaneers.
 
-The Tampa Bay Buccaneers has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. 
-
-If you have questions or concerns regarding this statement, please contact [tbbadmin@buccaneers.nfl.com](mailto:tbbadmin@buccaneers.nfl.com?subject=Privacy%20Policy%20Feedback). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
+If you have questions or concerns regarding this statement, please contact [tbbadmin@buccaneers.nfl.com](mailto:tbbadmin@buccaneers.nfl.com?subject=Privacy%20Policy%20Feedback). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 The Tampa Bay Buccaneers comply with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S.  Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  The Tampa Bay Buccaneers adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view The Tampa Bay Buccaneers certification, please visit http://export.gov/safeharbor.
 
