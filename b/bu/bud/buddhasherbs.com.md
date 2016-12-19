@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddhasherbs.com privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228204334id_/https%3A//www.buddhasherbs.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddhasherbs.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219195604id_/https%3A//www.buddhasherbs.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Herbal Teas | Green Teas | Herbal Supplements | Vitamins & Minerals
 
