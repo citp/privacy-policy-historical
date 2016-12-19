@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627211308id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.co.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219094520id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
 
 # AOL UK Privacy
 
