@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624213401id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219082109id_/https%3A//www.icims.com/legal/privacy-policy-website) for the most accurate reproduction.*
 
 # iCIMS Privacy Policy - Your Security Matters to iCIMS | iCIMS
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=0ed39a04-1e89-42ae-90d7-127046b6179e "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=94c955a0-b685-4c0f-a302-910b2109963d "TRUSTe Privacy Certification")
 
-Last modified: June 1, 2016
+Last modified: November 23, 2016
+
+Please note, this Privacy Policy relates to the website [www.icims.com](http://www.icims.com/) or its related domains and subdomains (including without limitation, [www.icims.co.uk](http://www.icims.co.uk/) or [www.icims.ca](http://www.icims.ca/)). Please refer to [http://www.icims.com/legal/privacy-policy](https://web.archive.org/legal/privacy-policy) for the Privacy Policy relating to the iCIMS Talent Platform.
 
 ###  Introduction
 
@@ -24,11 +26,21 @@ This policy applies to information we collect:
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to  
 this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-The TRUSTe program covers only information that is collected through our Website, [www.icims.com](http://www.icims.com/) and our service platform and does not cover information that may be collected through software downloaded from the Website.
+###  EU-U.S. Privacy Shield
 
-In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+iCIMS, Inc. and its subsidiary company iCIMS International, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. iCIMS has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield [List](https://www.privacyshield.gov/list).
 
-iCIMS complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. iCIMS, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor>.
+iCIMS is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf. iCIMS complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, iCIMS is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, iCIMS may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, iCIMS commits to resolve complaints about our collection and use of your personal information. EU individuals with inquiries or complaints regarding our privacy practices should first contact iCIMS as provided below. If we are unable to satisfactorily resolve your inquiry or complaint, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+###  U.S. - Swiss Safe Harbor Framework
+
+iCIMS complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. iCIMS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iCIMS’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ###  Links to Third Party Websites
 
@@ -63,15 +75,11 @@ The information we collect automatically is statistical data. It helps us to imp
 
 ###  Tracking Technologies
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may link this automatically collected data to other information we collect about you.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
-iCIMS and our partners, affiliates, agents and service providers use technologies such as cookies, beacons tags, and scripts, to analyze trends, administer the website, tracking users’s movements around the Website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
-
-Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+iCIMS and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 **Behavioral Re-targeting**. We partner with a third party to either display advertising on our Website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. If you who wish to prevent the collection of data by Google Analytics, you may use the opt-out browser add-on developed by Google for this purpose, as further described in applicable materials made publicly available by Google.
-
-**Flash and HTML5 Cookies**. We use Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 ###  How We Use Your Information
 
@@ -105,6 +113,7 @@ We may disclose personal information that we collect or you provide as described
 
 We may also disclose your personal information:
 
+  * In certain situations, iCIMS may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
   * To enforce or apply our [use](https://web.archive.org/legal/terms-of-use) and other agreements, including for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of iCIMS, Inc., our customers or others. This includes without limitation exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
@@ -122,6 +131,8 @@ We strive to provide you with choices regarding the personal information you pro
 
 ###  Accessing and Correcting Your Information
 
+Upon request iCIMS will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [accounts@icims.com](mailto:accounts@icims.com).
+
 You can review, delete, and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [accounts@icims.com](mailto:accounts@icims.com). We will respond to your request within a reasonable timeframe.
 
 We will retain your information for as long as long as your account is active; as needed to provide you products or services; as needed for the purposes outlined in this policy or at the time of collection; as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements; or to the extent permitted by law.
@@ -129,7 +140,7 @@ We will retain your information for as long as long as your account is active; a
 If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website,  
 including User Contributions, is governed by our [terms of use](http://www.icims.com/legal/terms-of-use). 
 
-In accordance to the Principles, iCIMS has named the European Data Protection Authorities as the independent recourse mechanism for investigation of individual’s complaints and disputes.
+In accordance to the Principles, iCIMS has named the European Data Protection Authorities (“DPAs”) as the independent recourse mechanism for investigation of individual’s complaints and disputes. iCIMS will cooperate with the DPAs, and will comply with the advice given by the DPAs with respect to any human resources data transferred from the European Union in the context of the employment relationship.
 
 ###  Transmission of Your Information
 
@@ -145,16 +156,6 @@ disclosure. However, no method of transmission over the Internet, or method of 
 
 Our Website includes social media features, such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our Website. These features may collect your Internet protocol address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-###  Service Platform Policy
-
-The TRUSTe certification also covers our collection, use and disclosure of information we collect through our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged iCIMS.
-
-iCIMS collects information under the direction of its clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our clients.
-
-iCIMS has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to iCIMS’s client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
-
-We will retain personal data we process on behalf of our clients for as long as needed to provide services to our client. iCIMS will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
 ###  Referrals
 
 If you choose to use our referral service to tell a friend about a job opening, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. iCIMS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [accounts@icims.com](mailto:accounts@icims.com) to request that we remove this information from our database.
@@ -169,6 +170,16 @@ Our Website is not intended for children under 13 years of age. No one under age
 any information on this Website or on or through any of its features/register on the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number,  
 e-mail address or any user name you may use. If we learn we have collected or received personal information from a child under 13 we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at  
 [accounts@icims.com](mailto:accounts@icims.com).
+
+###  Service Platform Policy
+
+The use of information collected through our service shall be limited to the purpose of providing the service for which the subscriber has engaged iCIMS.
+
+iCIMS collects information under the direction of its subscribers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our subscribers and would no longer like to be contacted by one of our subscribers that use our service, please contact the subscriber that help us provide our service. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our subscribers.
+
+iCIMS acknowledges that you have the right to access your personal information. iCIMS has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to iCIMS’s subscriber (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+We will retain personal data we process on behalf of our subscribers for as long as needed to provide services to our subscriber. iCIMS will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ###  Contact Information
 
