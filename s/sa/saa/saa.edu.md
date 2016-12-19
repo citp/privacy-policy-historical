@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522200615id_/http%3A//www.saa.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219070254id_/http%3A//www.saa.edu/privacy-policy) for the most accurate reproduction.*
 
 # saa a nationally recognized graphic design college // Privacy Policy
 
