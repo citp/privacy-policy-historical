@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624233241id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealtoothfairies.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219150605id_/http%3A//www.therealtoothfairies.com/guest-services/privacy-policy) for the most accurate reproduction.*
 
 # The Real Tooth Fairies® - Guest Services - Privacy Policy
 
@@ -156,6 +156,6 @@ Royal Council of the Real Fairyland, LLC
 
 Wilmington, NC 28405 USA 
 
-Toll free 1-888 Yr Fairy (outside the US 910-509-0565) 
+910-509-0565
 
 Email: _[help@therealtoothfairies.com](mailto:help@therealtoothfairies.com)_
