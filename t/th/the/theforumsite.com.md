@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theforumsite.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605153451id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsite.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219135444id_/http%3A//www.theforumsite.com/privacy.php) for the most accurate reproduction.*
 
 # The Forum Site - Privacy Policy
+
+You don't always shop on Amazon, but when you do [using this link](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=plebiuspress&linkCode=ur2&camp=1789&creative=9325) you're helping to support TFS!
 
 Updated 7/23/2009 
 
