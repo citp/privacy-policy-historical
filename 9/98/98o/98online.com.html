@@ -1,872 +1,1589 @@
-<!--The following is the downloaded HTML source of the 98online.com privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605134510id_/http%3A//98online.com/411/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 98online.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219200309id_/http%3A//www.98online.com/2016/06/07/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <title>98 Online - 411</title>
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy | 98 Rock Baltimore</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- All in One SEO Pack 2.2.6.2 by Michael Torbert of Semper Fi Web Design[455,496] -->
+<meta name="description" itemprop="description" content="Privacy Policy">
 
-    <meta name="viewport" content="width=1180">
-    <meta property="og:title" content="Privacy Policy">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="http://98online.com/411/privacy-policy/">
-    <meta property="og:image" content="http://98online.com/images/grid_images/98rocklogowhite300x250.jpg">
-    <meta property="og:site_name" content="98online.com">
-    <meta property="og:description" content="Welcome to 98 Rock">
-    
-    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic">
-    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:800,700,600,400,300">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300">
-    <link type="text/css" rel="stylesheet" href="/css/master.css">
-    <link type="text/css" rel="stylesheet" href="/css/print.css" media="print">
-    <link type="text/css" rel="stylesheet" href="/css/socialbar.css">
+<meta name="keywords" itemprop="keywords" content="privacy,policy">
 
-    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
-    <script type="text/javascript" src="/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-    <script type="text/javascript" src="//use.typekit.net/xhx7bbp.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script type="text/javascript" src="http://widget.ldrhub.com/embed.php?key=wiyy&amp;version=new"></script>
-    <script type="text/javascript" src="/js/socialbar.min.js"></script>
-    <script type="text/javascript" src="http://www.appstudio.kitd.com//kickFlash/scripts/swfobject2.js?2"></script>
-    <script type="text/javascript" src="http://player.multicastmedia.com/jsapi/commonFunctions.js"></script>
-    <script type="text/javascript">// Slider:
-
-(function($) {
-  $.fn.slider = function(data, duration, auto, gap) {
-    if (data.length < 1) return this;
-    if (data.length < 2) {
-      $(this).css({
-        'background-image': 'url(' + data[0][0] + ')',
-        'background-repeat': 'no-repeat',
-        'height': $(this).innerHeight() + 25
-      });
-      return this;
-    }
-
-    if (gap) data.push('GAP');
-
-    return this.each(function() {
-      
-      var box      = $(this),
-          duration = duration ? duration : 1500,
-          width    = box.innerWidth(),
-          height   = box.innerHeight(),
-          nav      = $('<div class="nav">'),
-          nav_p    = $('<div class="prev">'),
-          nav_n    = $('<div class="next">'),
-          locked   = false,
-          timeout  = null,
-          last     = null,
-          cur      = 0;
-
-      box
-        .css({
-          'overflow-x': 'hidden',
-          'overflow-y': 'visible',
-          'position': 'relative',
-          'height': height + 28
-        })
-        .append(nav)
-        .hover(
-          function() { locked = true  },
-          function() { locked = false; setAuto() }
-        );
-
-      nav.css({
-        'position': 'absolute',
-        'z-index': 10,
-        'bottom': 0,
-        'left': 0,
-        'height': 18,
-        'padding': '6px 5px 4px 5px',
-        'background-color': '#fff'
-      });
-
-      nav.append($('<div>').css({
-        'position': 'absolute',
-        'top': 0,
-        'right': -9,
-        'width': 9,
-        'height': 28,
-        'background-image': 'url(images/content/slider_nav_right_side.png)',
-        'background-repeat': 'no-repeat'
-      }));
-
-      nav_p
-        .css({
-          'float': 'left',
-          'width': 11,
-          'height': 16,
-          'margin-right': 3,
-          'cursor': 'pointer',
-          'background-image': 'url(images/content/slider_nav_prev.png)'
-        })
-        .click(function(e) {
-    e.preventDefault();
-          e.stopPropagation();
-          animate(cur - 1);
-        });
-
-      nav_n
-        .css({
-          'float': 'left',
-          'width': 11,
-          'height': 16,
-          'margin-left': 3,
-          'cursor': 'pointer',
-          'background-image': 'url(images/content/slider_nav_next.png)'
-        })
-        .click(function(e) {
-          e.preventDefault();
-          e.stopPropagation();
-          animate(cur + 1);
-        });
-
-      nav.append(nav_p);
-
-      for (var i = 0; i < data.length; i++) (function(i, normal) {
-        nav.append(
-          $('<div class="dot">')
-            .css({
-              'float': 'left',
-              'width': 14,
-              'height': 16,
-              'cursor': 'pointer',
-              'background-image': 'url(images/content/slider_nav_' + (cur != i ? normal : 'current') + '.png)'
-            })
-            .hover(
-              function() { if (cur != i) $(this).css({ 'background-image': 'url(images/content/slider_nav_current.png)' }) },
-              function() { if (cur != i) $(this).css({ 'background-image': 'url(images/content/slider_nav_' + normal + '.png)' }) }
-            )
-            .click(function(e) {
-              e.preventDefault();
-              e.stopPropagation();
-              animate(i);
-            })
-        );
-      })(i, data[i] == 'GAP' ? 'gap' : 'idle');
-
-      nav.append(nav_n);
-
-      function create_panel(id, pos) {
-        var panel = $('<div>')
-          .css({
-            'overflow': 'visible',
-            'position': 'absolute',
-            'left': pos ? pos : 0,
-            'width': width,
-            'height': height,
-            'cursor': 'pointer',
-            'background-image': 'url(' + data[id][0] + ')'
-          })
-          .click(function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            if (data[id][1]) window.open(data[id][1], '_blank');
-          });
-
-        return panel;
-      }
-
-      function animate(new_cur) {
-        var new_cur   = new_cur < 0 ? data.length - 1 : new_cur >= data.length ? 0 : new_cur,
-            new_panel = data[new_cur] != 'GAP' ? create_panel(new_cur, width * 1.1).css('opacity', 0) : null;
-
-        (function(last) {
-          if (last) {
-            last.addClass('remove').stop(true, true).animate({ 'left': width * -1.2, 'opacity': 0 }, { 'duration': duration, 'complete': function(){$(this).remove()}});
-          }
-        })(last);
-
-        cur = new_cur;
-        last = new_panel;
-        if (last) box.append(last);
-
-        $('.dot', nav).each(function(i) {
-          $(this).css('background-image', 'url(images/content/slider_nav_' +
-          (cur != i ? (data[i] != 'GAP' ? 'idle' : 'gap') : 'current') + '.png)')
-        });
-
-        (function(last) {
-          if (last) {
-            last.stop(true, true).animate({ 'left': 0, 'opacity': 1 }, { 'duration': duration, 'complete': setAuto });
-          }
-        })(last);
-      }
-
-      function setAuto() {
-        if (auto) {
-          last.delay(auto, 'fx').queue('fx', function() {
-            if (!locked) animate(cur + 1);
-            $(this).dequeue();
-          });
-        }
-      }
-
-      last = create_panel(cur);
-      box.append(last);
-      setAuto();
-    });
-  }
-})(jQuery);
-
-// Helpers:
-
-function isMobile() {
-  var a = navigator.userAgent||navigator.vendor||window.opera;
-  if (/transformer|android.+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od|ad)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|e\-|e\/|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(di|rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|xda(\-|2|g)|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4)))
-    return true;
-  return false;
+<link rel="canonical" href="http://www.98online.com/2016/06/07/privacy-policy/">
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="98 Rock Baltimore » Feed" href="http://www.98online.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="98 Rock Baltimore » Comments Feed" href="http://www.98online.com/comments/feed/">
+<link rel="alternate" type="text/calendar" title="98 Rock Baltimore » iCal Feed" href="http://www.98online.com/events/?ical=1">
+<link rel="alternate" type="application/rss+xml" title="98 Rock Baltimore » Privacy Policy Comments Feed" href="http://www.98online.com/2016/06/07/privacy-policy/feed/">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6"></script><script type="text/javascript" defer="" async="" src="https://webstats.secureitm.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.98online.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.98online.com/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-
-function listenlive(channel) {
-  window.open(
-    '/listenlive/wiyyfm' + (channel > 0 && channel < 4 ? channel : 1) + '.html',
-    '_blank', 'width=823,height=604,scrollbars=0,resizable=0'
-  );
-}
-
-function shareTwitter(path, title) {
-  window.open(
-    'http://twitter.com/share?text=' + encodeURIComponent(title) + '&url=' + path,
-    '_blank', 'width=803,height=460,scrollbars=0,resizable=0'
-  )
-}
-
-function shareFacebookLink(url, photo_url, title) {
-  FB.login();
-  FB.ui({
-    method: 'send',
-    name: title,
-    link: url,
-    picture: photo_url
-  });
-}
-
-function shareFacebookPhoto(url, photo_url, title) {
-  FB.login();
-  FB.ui({
-    method: 'feed',
-    link: url,
-    picture: photo_url,
-    name: title,
-    caption: 'From: 98online.com',
-    description: 'The official radio station of the Baltimore Ravens'
-  }, function(){});}
-
-function loadYTPlayer(id) { $.get('/_api/youtube_modal/' + id, function(d){$('body').prepend(d)}) }
-function loadMediaLightbox(gallery, tab, item){ $.get('/_api/media_lightbox/' + gallery + (tab && item ? '/' + tab + '/' + item : ''), function(d){$('body').prepend(d)}) }
-function loadLightbox(path){ $.get('/_api/lightbox/?p=' + path, function(d){$('body').prepend(d)}) }
-function loadEvent(id){ $.get('/_api/event_modal/' + id, function(d){$('body').prepend(d)}) }
-
-function setAltAnimation() {
-  $('.grid .box .image').unbind('hover').hover(
-    function() {
-      if ($('.alt', this).not(':animated').length > 0) {
-        $(this).attr('data-over', 1);
-        $('.default', this).stop(1, 1).css({ 'top': 0 }).animate({ 'top': -250 }, 300);
-        $('.alt', this).stop(1, 1).css({ 'top': 250 }).animate({ 'top': 0 }, 300, function() {
-          if ($(this).parent().attr('data-over') == '0') {
-            $('.default', $(this).parent()).stop(1, 1).css({ 'top': 0 });
-            $(this).stop(1, 1).animate({ 'opacity': 0 }, 600, function(){ $(this).css({ 'top': 250, 'opacity': 1 }) });
-          }
-        });
-      }
-    },
-    function() {
-      $(this).attr('data-over', 0);
-      if ($('.alt', this).not(':animated').length > 0 && $('.alt', this).css('background-image') != $('.default', this).css('background-image')) {
-        $('.default', this).stop(1, 1).css({ 'top': 0 });
-        $('.alt', this).stop(1, 1).animate({ 'opacity': 0 }, 600, function(){ $(this).css({ 'top': 250, 'opacity': 1 }) });
-      }
-    }
-  );
-}
-
-function setUseLightbox() {
-  $('img.use_lightbox').each(function() {
-    $(this).click(function(e){
-      e.preventDefault();
-      e.stopPropagation();
-      loadLightbox($(this).attr('src'))
-    });
-  });
-}
-
-// On Load:
-
-$(function() {
-
-  // Propagation Fix:
-
-  $('a').click(function(e){e.stopPropagation()});
-
-  // Alert Cookie Check:
-
-  if ($.cookie('alert_state') == 'hidden') $('#alert').hide();
-
-  // Fixed Header Navigation:
-
-  $(window).scroll((function() {
-    var nav = $('#header_nav');
-    if (nav.length < 1) return;
-    var top = nav.position().top;
-
-    return function() {
-      if ($(this).scrollTop() > top && $('#header_nav.fixed').length < 1) nav.after(
-        nav.clone(true).addClass('fixed').css({
-          'position': 'fixed',
-          'top': 0, 'left': '0',
-          'margin': 0
-        }).find('.lock').css({ 'box-shadow': '0 0 10px #000' }).parent()
-      );
-      if ($(this).scrollTop() <= top) $('#header_nav.fixed').remove();
-    };
-  })());
-
-  // Binds:
-
-  $('#alert button').click(function(e) {
-    e.preventDefault();
-    e.stopPropagation();
-    $('#alert').slideUp();
-    $.cookie('alert_state', 'hidden', { expires: 1, path: '/' });
-  });
-
-  function view_more() {
-    var self   = $(this),
-        active = false,
-        name   = self.attr('data-name'),
-        cat    = self.attr('data-cat-id'),
-        id     = cat ? cat : self.attr('data-id');
-
-    self.unbind('click').click(function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-
-      var grid   = $('#' + name + '_grid'),
-          box_h  = $('.box:first-child', grid).outerHeight(true),
-          height = Math.ceil(grid.children('.box').length / 3) * box_h;
-
-      if (!active) {
-        active = true;
-        $.get('/_api/' + (cat ? 'category_group' : 'grid_group') + '/' + id + '/' + (parseInt($('#' + name + '_grid > div').last().attr('data-order')) + 1) + '?' + (+ new Date()), function(data) {
-          grid.css('height', height).append(data);
-          grid.animate(
-            { 'height': Math.ceil(grid.children().length / 3) * box_h }, 500,
-            function() { grid.css('height', 'auto') }
-          );
-
-          $('body').animate({ 'scrollTop': grid.offset().top + height - 90 });
-
-          active = false;
-
-          if ($('#' + name + '_grid > div:last-child').attr('data-order') == 'last') {
-            self.removeClass('more').addClass('less');
-            $('button.less').each(view_less);
-          }
-        });
-      }
-    });
-  }
-
-  function view_less() {
-    var self   = $(this),
-        name   = self.attr('data-name');
-
-    self.unbind('click').click(function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-
-      var grid   = $('#' + name + '_grid'),
-          box_h  = $('.box:first-child', grid).outerHeight(true),
-          height = Math.ceil(grid.children('.box').length / 3) * box_h;
-
-      grid
-        .css('height', height)
-        .animate(
-          { 'height': 2 * box_h }, 500,
-          function() { grid.css('height', 'auto').children('.box').slice(6).remove() }
-        );
-
-      $('body').animate({ 'scrollTop': grid.offset().top - 90 });
-
-      self.removeClass('less').addClass('more');
-      $('button.more').each(view_more);
-    });
-  }
-
-  $('button.more').each(view_more);
-
-  $('button.more_small').each(function() {
-    var self   = $(this),
-        active = false,
-        name   = self.attr('data-for'),
-        list   = $('#concerts');
-
-    self.click(function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-
-      var box_h  = $('.concerts:first-child', list).outerHeight(true),
-          box_n  = $('ul.concerts', list).length,
-          height = box_n * box_h + 55;
-
-      if (!active) {
-        active = true;
-        $.get('/_api/event_list/' + name + '/' + box_n, function(data) {
-          if (!data) return;
-          list.css('height', height).append(data);
-          list.animate({ 'height': height + box_h }, 500, function(){ list.css('height', 'auto') });
-          active = false;
-        });
-      }
-    });
-  });
-
-  // Set Things:
-
-  setAltAnimation();
-  setUseLightbox();
-
-  // Facebook:
-
-  FB.init({appId: '223166817809054', status: true, cookie: true});
-
-  // Route Hashes:
-
-  var segment = window.location.hash.split('/');
-
-  switch (segment[0]) {
-    case '#gallery':
-      loadMediaLightbox(segment[1], segment[2], segment[3]);
-      break;
-    case '#event':
-      loadEvent(segment[1]);
-      break;
-  }
-
-
-  // Google Analytics:
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-});</script>
-    <script type="text/javascript">
-(function() {
-var useSSL = 'https:' == document.location.protocol;
-var src = (useSSL ? 'https:' : 'http:') +
-'//www.googletagservices.com/tag/js/gpt.js';
-document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-})();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-
-
-
-
-
-
-
-
-
-
+</style>
+<link rel="stylesheet" id="m2g-bar-css" href="http://www.98online.com/wp-content/plugins/m2g-wp-fbar/css/m2g-bar.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="front-advertise-css" href="http://www.98online.com/wp-content/plugins/advertise/assets/css/front.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.98online.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="fvp-frontend-css" href="http://www.98online.com/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="sharify-css" href="http://www.98online.com/wp-content/plugins/sharify/sharify-style.php" type="text/css" media="all">
+<link rel="stylesheet" id="sharify-icon-css" href="http://www.98online.com/wp-content/plugins/sharify/icon/css/sharify.css" type="text/css" media="all">
+<link rel="stylesheet" id="sharify-font-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400" type="text/css" media="all">
+<link rel="stylesheet" id="dcwss-css" href="http://www.98online.com/wp-content/plugins/wordpress-social-stream/css/dcwss.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="fontello-css" href="http://www.98online.com/wp-content/plugins/wpb-fontello/css/fontello.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpb_recent_post_default_styles-css" href="http://www.98online.com/wp-content/plugins/wpb-widget-recent-posts-advanced/inc/css/default-styles.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="tribe-events-full-pro-calendar-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/tribe-events-pro-full.min.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="tribe-events-calendar-pro-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/tribe-events-pro-theme.min.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="tribe-events-calendar-full-pro-mobile-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/tribe-events-pro-full-mobile.min.css?ver=3.6.1" type="text/css" media="(max-width: 768px)">
+<link rel="stylesheet" id="tribe-events-calendar-pro-mobile-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/tribe-events-pro-theme-mobile.min.css?ver=3.6.1" type="text/css" media="(max-width: 768px)">
+<link rel="stylesheet" id="weblator_polling-plugin-styles-css" href="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/css/public.css?ver=1.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="weblator_polling-fa-css" href="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/css/font-awesome.min.css?ver=1.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="wp-color-picker-css" href="http://www.98online.com/wp-admin/css/color-picker.min.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox-css-css" href="http://www.98online.com/wp-content/plugins/wcp-openweather/assets/libs/colorbox/colorbox.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="rpw-css-css" href="http://www.98online.com/wp-content/plugins/wcp-openweather/assets/css/style.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="rpw-theme-58583d018528b-css-css" href="http://www.98online.com/wp-content/plugins/wcp-openweather/theme/default/assets/css/style.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jplayer.blue.monday-css" href="http://www.98online.com/wp-content/plugins/wpb-show-core/modules/jplayer/skin/blue.monday.minimal/jplayer.blue.monday.css?ver=2" type="text/css" media="screen">
+<link rel="stylesheet" id="bootstrapwp-css" href="http://www.98online.com/wp-content/themes/wiyy-theme/inc/css/bootstrap.min.css?ver=3.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="glyphicon-css" href="http://www.98online.com/wp-content/themes/wiyy-theme/inc/css/bootstrap-glyphicons.css?ver=3.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=3.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_lato-css" href="http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_opensans-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400italic%2C600%2C600italic%2C700%2C800&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_Oswald-css" href="https://fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C300&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="google_font_Roboto-css" href="https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C400%2C700&amp;ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="stylesheet-css" href="http://www.98online.com/wp-content/themes/wiyy-theme/style.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="sendpress-fe-css-css" href="http://www.98online.com/wp-content/plugins/vipclub/css/front-end.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-css" href="http://www.98online.com/wp-content/plugins/vipclub/css/jquery-ui.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="Theme_Manager_CSS-css" href="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/wpbcss/wpbstyle-wiyy-theme-032.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="wpb-slider-default-css-css" href="http://www.98online.com/wp-content/plugins/wpb-slider/assets/css/wpb-slider-default.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="bannerlightwindow-style-css" href="http://www.98online.com/wp-content/plugins/wpb-banner-light-window/featherlight-1.2.3/release/featherlight.min.css?ver=1.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="ebs_dynamic_css-css" href="http://www.98online.com/wp-content/plugins/easy-bootstrap-shortcodes/styles/ebs_dynamic_css.php?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.lightbox.min.css-css" href="http://www.98online.com/wp-content/plugins/wpb-gallery-lightbox/styles/lightbox.css?ver=1.4" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.4.2" type="text/css" media="all">
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js?ver=2.2.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/swfobject.js?ver=2.2-20120417"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/advertise/modules/ajax-reload-banners/js/common-banner-reload.js?ver=1.0"></script>
 <script type="text/javascript">
-googletag.defineSlot('/112235112/411_728x90_top', [728, 90], 'div-gpt-ad-1355336993091-0').addService(googletag.pubads());
-googletag.enableServices();
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"http:\/\/www.98online.com\/wp-admin\/admin-ajax.php","nonce":"a2da1dda3d","fitvids":"","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
 </script>
-
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.2.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wordpress-social-stream/js/jquery.social.stream.wall.1.6.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wordpress-social-stream/js/jquery.social.stream.1.5.15.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/js/vendors/excanvas.js?ver=1.3.5"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/js/vendors/Chart.min.js?ver=1.3.5"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/js/app/legend.js?ver=1.3.5"></script>
 <script type="text/javascript">
-googletag.defineSlot('/112235112/411_728x90_bottom', [728, 90], 'div-gpt-ad-1355337373562-0').addService(googletag.pubads());
-googletag.enableServices();
+/* <![CDATA[ */
+var ajaxurl = "http:\/\/www.98online.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
 </script>
-
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/weblator_polling/public/assets/js/app/public.js?ver=1.3.5"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wcp-openweather/assets/libs/colorbox/jquery.colorbox-min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/vipclub/js/jquery-ui.js?ver=1.0"></script>
 <script type="text/javascript">
-function dfpPlacementGeneric(uniqueId) {
-  googletag.defineSlot('/112235112/411_300x250_generic', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
-  googletag.enableServices();
-  googletag.display('div-gpt-ad-' + uniqueId + '-0');
-}
-
-function dfpPlacementPremium(uniqueId) {
-  googletag.defineSlot('/112235112/411_300x250_premium', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
-  googletag.enableServices();
-  googletag.display('div-gpt-ad-' + uniqueId + '-0');
-}
-
-var refreshAd = function() {
-  var slot = null;
-  return function(uniqueId) {
-    if (slot == null) {
-      slot = googletag.defineSlot('/112235112/411_300x250_generic', [300, 250], 'div-gpt-ad-' + uniqueId + '-0').addService(googletag.pubads());
-      googletag.enableServices();
-      googletag.display('div-gpt-ad-' + uniqueId + '-0');
-    } else {googletag.pubads().refresh([slot]);}
-  };
-}();
+/* <![CDATA[ */
+var sendpress = {"invalidfirstName":"First Name is not Valid","missingfirstname":"First name can not be empty","invalidlastName":"Last Name is not Valid","missinglastname":"Last name can not be empty","invalidzip":"Zip is not Valid","missingzip":"Zip can not be empty","invalidcellnumber":"Cell Number is not valid","missingcellnumber":"Cell can not be empty","invalidemail":"E-mail address is invalid","missingemail":"Please enter your e-mail address","ajaxurl":"http:\/\/www.98online.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
 </script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/vipclub/js/sendpress.signup.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/vipclub/js/jquery.maskedinput.min.js?ver=1.0"></script>
+<link rel="https://api.w.org/" href="http://www.98online.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.98online.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.98online.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="http://www.98online.com/?p=6714">
+<link rel="alternate" type="application/json+oembed" href="http://www.98online.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.98online.com%2F2016%2F06%2F07%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.98online.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.98online.com%2F2016%2F06%2F07%2Fprivacy-policy%2F&amp;format=xml">
+<script src="http://itmwpb.com/?dm=cc358c518a8eec50cecf6890e5022b3a&amp;action=load&amp;blogid=601&amp;siteid=1&amp;t=1096216218&amp;back=http%3A%2F%2Fwww.98online.com%2F2016%2F06%2F07%2Fprivacy-policy%2F" type="text/javascript"></script><!-- Open Graph Meta Data by WP-Open-Graph plugin-->
+<meta property="og:site_name" content="98 Rock Baltimore">
+<meta property="og:locale" content="en_us">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.98online.com/2016/06/07/privacy-policy/">
+<meta property="og:description" content="Privacy Policy">
+<meta property="og:image" content="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/05/10161543/Event-Logo.jpg">
+<!-- /Open Graph Meta Data -->
+<style>
+.banner_lightbox { display: none; }
+</style>
+<!-- Twitter Card Type : summary_large_image -->
+<!-- Twitter Card Information : summary_large_image information -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="">
+<meta name="twitter:creator" content="">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Privacy Policy">
+<meta name="twitter:image" content="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/05/10161543/Event-Logo.jpg"> 
+<!-- End of Twitter Card Information : summary_large_image information -->
+<!-- Custom Styling Social Stream -->
+<style type="text/css">
+.stream li.dcsns-twitter .section-intro,.filter .f-twitter a:hover, .wall-outer .dcsns-toolbar .filter .f-twitter a.iso-active{background-color:#4ec2dc!important;}.stream li.dcsns-facebook .section-intro,.filter .f-facebook a:hover, .wall-outer .dcsns-toolbar .filter .f-facebook a.iso-active{background-color:#3b5998!important;}.stream li.dcsns-google .section-intro,.filter .f-google a:hover, .wall-outer .dcsns-toolbar .filter .f-google a.iso-active{background-color:#2d2d2d!important;}.stream li.dcsns-rss .section-intro,.filter .f-rss a:hover, .wall-outer .dcsns-toolbar .filter .f-rss a.iso-active{background-color:#FF9800!important;}.stream li.dcsns-flickr .section-intro,.filter .f-flickr a:hover, .wall-outer .dcsns-toolbar .filter .f-flickr a.iso-active{background-color:#f90784!important;}.stream li.dcsns-delicious .section-intro,.filter .f-delicious a:hover, .wall-outer .dcsns-toolbar .filter .f-delicious a.iso-active{background-color:#3271CB!important;}.stream li.dcsns-youtube .section-intro,.filter .f-youtube a:hover, .wall-outer .dcsns-toolbar .filter .f-youtube a.iso-active{background-color:#DF1F1C!important;}.stream li.dcsns-pinterest .section-intro,.filter .f-pinterest a:hover, .wall-outer .dcsns-toolbar .filter .f-pinterest a.iso-active{background-color:#CB2528!important;}.stream li.dcsns-lastfm .section-intro,.filter .f-lastfm a:hover, .wall-outer .dcsns-toolbar .filter .f-lastfm a.iso-active{background-color:#C90E12!important;}.stream li.dcsns-dribbble .section-intro,.filter .f-dribbble a:hover, .wall-outer .dcsns-toolbar .filter .f-dribbble a.iso-active{background-color:#F175A8!important;}.stream li.dcsns-vimeo .section-intro,.filter .f-vimeo a:hover, .wall-outer .dcsns-toolbar .filter .f-vimeo a.iso-active{background-color:#4EBAFF!important;}.stream li.dcsns-stumbleupon .section-intro,.filter .f-stumbleupon a:hover, .wall-outer .dcsns-toolbar .filter .f-stumbleupon a.iso-active{background-color:#EB4924!important;}.stream li.dcsns-deviantart .section-intro,.filter .f-deviantart a:hover, .wall-outer .dcsns-toolbar .filter .f-deviantart a.iso-active{background-color:#607365!important;}.stream li.dcsns-tumblr .section-intro,.filter .f-tumblr a:hover, .wall-outer .dcsns-toolbar .filter .f-tumblr a.iso-active{background-color:#385774!important;}.stream li.dcsns-instagram .section-intro,.filter .f-instagram a:hover, .wall-outer .dcsns-toolbar .filter .f-instagram a.iso-active{background-color:#413A33!important;}.wall-outer .dcsns-toolbar .filter li a {background:#ffffff;}.dcwss.dc-wall .stream li {width: 232px!important; margin: 0px 15px 15px 0px!important;}.dcwss.dc-feed.light {background:#F9F7F7!important; border-radius:0}
+.wall-outer .dcsns-toolbar .filter li a {background:#161616}
+
+
+</style>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --> <!-- WARNING: Respond.js doesn't work if you view the page via file:// --> <!--[if lt IE 9]> <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> <![endif]--><script type="text/javascript">
+	var ajaxurl = "http://www.98online.com/wp-admin/admin-ajax.php";
+</script>          <!-- Modal -->
+      </head><body class="single single-post postid-6714 single-format-standard tribe-theme-wiyy-theme page-template-single-php"><div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h3 class="modal-title text-center">Search sponsored by</h3>
+                            </div>
+            <div class="modal-body">
+
+              <div class="searchform">
+              <form role="form" action="http://www.98online.com/" id="searchform" method="get">
+                  <label for="s" class="sr-only">Search</label>
+                  <div class="input-group">
+                      <input type="text" class="form-control" id="s" name="s" placeholder="Search" value="">
+                      <span class="input-group-btn">
+                          <button type="submit" class="btn btn-primary"><i class="icon-search"></i></button>
+                      </span>
+                  </div> <!-- .input-group -->
+              </form>
+              </div> 
+
+           </div>
+            
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.js"></script>
+<meta name="google-site-verification" content="QTYqgf_zMSmJv2JPVQgbOL7SVVc3mCbuZJphsXfIQ2s">
 
 
 
+	<!-- Trending -->
+	<div class="mast-wrapper bg-brand border-dark hidden-xs">
+		<section id="trending" class="container">
+			<div id="recent-post-masthead" class="row-fluid mast-hidden">
+				<div class="col-xs-12">
+					<aside id="widget-0" class="widget-trending widget_text"><h3 class="trending-widget-title">Trending</h3>			<div class="textwidget"><div class="posts-list"><div class="listing-item"><a class="image" href="http://www.98online.com/2016/10/17/ravens-playlist-with-kirk-mcewen-brandon-williams/"><img width="756" height="425" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/10/17144809/69591_756x425_01.jpg" class="attachment-yes size-yes wp-post-image" alt="69591_756x425_01"></a> <h5><a class="article-title" href="http://www.98online.com/2016/10/17/ravens-playlist-with-kirk-mcewen-brandon-williams/">Ravens Playlist With Kirk McEwen &amp; Brandon Williams</a></h5></div><div class="listing-item"><a class="image" href="http://www.98online.com/2016/12/15/metallica-rocks-jimmy-kimmel-live/"><img width="630" height="354" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/15110050/Getty_Metallica_121516-1.jpg" class="attachment-yes size-yes wp-post-image" alt="Getty_Metallica_121516"></a> <h5><a class="article-title" href="http://www.98online.com/2016/12/15/metallica-rocks-jimmy-kimmel-live/">Metallica Rocks "Jimmy Kimmel Live!"</a></h5></div><div class="listing-item"><a class="image" href="http://www.98online.com/2016/12/10/vote-for-the-top-16-songs-of-2016/"><img width="756" height="425" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/06171920/Top16of2016_Image_2.jpg" class="attachment-yes size-yes wp-post-image" alt="Top16of2016_Image_2"></a> <h5><a class="article-title" href="http://www.98online.com/2016/12/10/vote-for-the-top-16-songs-of-2016/">Vote For the Top 16 Songs of 2016</a></h5></div><div class="listing-item"><a class="image" href="http://www.98online.com/2016/12/16/man-attacks-tour-bus-of-country-duo-dan-shay/"><img width="756" height="425" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/16103557/danandshay.jpg" class="attachment-yes size-yes wp-post-image" alt="danandshay"></a> <h5><a class="article-title" href="http://www.98online.com/2016/12/16/man-attacks-tour-bus-of-country-duo-dan-shay/">Country Music Duo Dan And Shay Share Video Of Man Attacking Their Tour Bus</a></h5></div></div></div>
+		</aside>				</div>
+			</div>
+		</section>
+	</div>
+	<!-- .Trending -->
 
+<!-- Header -->
+<header>
+<div class="container">
+		<div class="wrapper">
+	    <div class="row main-header">
 
+				<!--logo/group-->
+				<section id="head-column-1" class="col-sm-4 clearfix 1-mar-bottom 1-mar-top">
+					<div class="row-fluid">
+						<div class="col-xs-12 station-logo text-center alpha omega"><div class="header-image">
+	<a href="http://www.98online.com" rel="home"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/logo.png" class="header-image" alt=""></a>
+</div></div>
+						<div class="col-xs-12 social-icons alpha omega "><aside id="widget-01" class="hidden-xs widget-social-icons widget_text">			<div class="textwidget"><div class="social-links">
+	<a href="" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/follow-us.png" alt="Follow Us"></a><a href="http://www.facebook.com/98online" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-facebook.png" alt="Facebook"></a><a href="http://twitter.com/98rock" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-twitter.png" alt="Twitter"></a><a href="http://instagram.com/98rock" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-instagram.png" alt="Instagram"></a><a href="https://itunes.apple.com/us/app/baltimores-rock-radio-98-rock/id324319097?mt=8" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-apple.png" alt="Apple"></a><a href="https://play.google.com/store/apps/details?id=com.jacobsmedia.wiyy&amp;hl=en" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-android.png" alt="Android"></a><a href="http://freeloader.98online.com/" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-mail.png" alt="Mail"></a></div></div>
+		</aside></div>
+					</div>
+				</section>
+				<!--.logo/group-->
 
+				 <!-- Listen Live group-->
+	      <section id="head-column-2" class="col-sm-4 clearfix 1-mar-bottom 1-mar-top">
+					<div class="row-fluid">
+						<div class="col-xs-12 alpha omega text-center"><aside id="widget-02" class="widget-on-air widget_text">			<div class="textwidget">
+			<a href="http://player.listenlive.co/35541" target="_blank">
+			
 
+										
+						<img class="center-block img-responsive" src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/listen-live2.png">
 
+					
+		</a>
+	</div>
+		</aside><aside id="widget-02" class="hidden-xs widget-on-air widget_text">			<div class="textwidget"> <script>
+window['enp_config'] = new Object(); 
+window['enp_config']['58583d01d935e'] = {"sid":999601,"limit":12,"expanded":12,"default_image_url":"http:\/\/d2isblg909whrf.cloudfront.net\/themes\/wiyy\/enp-fallback.png","toggle_length":500,"html_prefix":"ENP_INST_","x":"e52dc82567"};
+jQuery(document).ready(function(){ new_enp_list('58583d01d935e'); });
+</script>
+<script language="JavaScript" src="http://www.98online.com/wp-content/plugins/wpb-enp-pages/enp_pages.js"></script>
+<div id="ENP_INST_enp_load_msg">loading, please wait...</div>
+<div id="ENP_INST_ENP_Container" class="ENP_Container" style="display:none">
+	<span class="enp_title">Now Playing</span>
+	<div id="ENP_INST_Main_Container" class="Main_Container Container">
+		<div class="Current_Wrapper wrapper">
+			<div class="Current_Image imageholder">  song image here </div>
+			<div class="Current_textgroup textgroup tg_info">
+				<div class="Current_Artist">  artist name here </div>
+				<div class="Current_Title"> Song title here </div>
+			</div>
+			<div class="Current_textgroup textgroup tg_time">
+				<div class="Current_Time"> song time played here </div>
+			</div>
+		</div>
 
+		<div class="Previous_Wrapper wrapper">
+			<div class="Previous_Image imageholder">  song image here </div>
+			<div class="Previous_textgroup textgroup tg_info">
+				<div class="Previous_Artist">  artist name here </div>
+				<div class="Previous_Title"> Song title here </div>
+			</div>
+			<div class="Previous_textgroup textgroup tg_time">
+				<div class="Previous_Time"> song time played here </div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="ENP_INST_More_Link" class="More_Link"> More... </div>
 
+	<div id="ENP_INST_Older_Container" class="Older_Container Container" style="display:none">
+		<div id="ENP_INST_Older_Wrapper_template" class="Older_Wrapper wrapper" style="display:none">
+			<div class="Older_Image imageholder">  song image here </div>
+			<div class="Older_textgroup textgroup tg_info">
+				<div class="Older_Artist">  artist name here </div>
+				<div class="Older_Title"> Song title here </div>
+			</div>
+			<div class="Older_textgroup textgroup tg_time">
+				<div class="Older_Time"> song time played here </div>
+			</div>
+		</div>
+	</div>
+</div>
+ </div>
+		</aside></div>
+					</div>
+				</section>
+ 				<!--.Listen Live group-->
 
-
+				<!-- On air group-->
+				<section id="head-column-3" class="col-sm-4 clearfix 1-mar-bottom 1-mar-top">
+	        <div class="row-fluid">
+						<div class="col-xs-12 alpha omega"><aside id="widget-03" class="hidden-xs widget-on-air widget_on_air"><!-- callFromFlag : widget ajax now code start -->
+<div id="schedule-now-ajax-div"></div>
 <script type="text/javascript">
+function sendAjaxRequestForShowNow() {
+	var urlVal = '/on-air-schedule-ajax-call.php?showAjax=true&flagShow=now';
+	jQuery.ajax({ type: "GET",
+		          url: urlVal,
+		          async: true,
+		          success: function(data) {
+		          	 jQuery('#schedule-now-ajax-div').html(data);
+		          }
+		        });
+}
+sendAjaxRequestForShowNow();
+</script>
+<!-- ajax now code end -->
+</aside><aside id="widget-03" class="hidden-xs widget-on-air widget_text">			<div class="textwidget"><div class="watch-now">
+	</div>
+</div>
+		</aside></div>
+	        </div>
+	      </section>
+				<!--.On air group-->
+
+			</div><!--.row-->
+	  </div><!--.wrapper-->
+</div><!--.container-->
+
+<!-- Navigation -->
+	  <section class="container">
+
+				<!-- navbar -->
+					 <nav class="row bg-brand border-dark">
+						 <div class="col-md-11 col-sm-12 alpha omega">
+	            <div class="site-navigation-inner">
+	              <div class="navbar navbar-default">
+	                <div class="navbar-header">
+	                  <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+	                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+	                    <span class="sr-only">Toggle navigation</span>
+	                    <span class="icon-bar"></span>
+	                    <span class="icon-bar"></span>
+	                    <span class="icon-bar"></span>
+	                  </button>
+
+	                  <!-- Your site title as branding in the menu -->
+										<p class="navbar-text visible-xs">
+				              </p><div id="mobile-search" class="visible-xs visible-sm"><a data-toggle="modal" href="#myModal"><i class="fa fa-search search-mobile"></i></a> <span class="navbar-text">Navigation Menu</span></div>
+				            <p></p>
+									</div>
+
+	                <!-- The WordPress Menu goes here -->
+	                <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse "><ul id="menu-primary" class="nav navbar-nav"><li id="menu-item-9013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9013"><a title="Home" href="http://www.98online.com/">Home</a></li>
+<li id="menu-item-3722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3722 dropdown"><a title="DJS" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">DJS <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-5216" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-5216"><a title="Justin, Scott and Spiegel" href="http://www.98online.com/show/justin-scott-and-spiegel/">Justin, Scott and Spiegel</a></li>
+	<li id="menu-item-5217" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-5217"><a title="Amelia" href="http://www.98online.com/show/amelia/">Amelia</a></li>
+	<li id="menu-item-5218" class="menu-item menu-item-type-post_type menu-item-object-show menu-item-5218"><a title="The Kirk McEwen Show" href="http://www.98online.com/show/the-kirk-mcewen-show/">The Kirk McEwen Show</a></li>
+	<li id="menu-item-6208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6208"><a title="98 Rock Weekends" href="http://www.98online.com/weekends/">98 Rock Weekends</a></li>
+	<li id="menu-item-8422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8422"><a title="Podcasts" href="http://www.98online.com/podcasts/">Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-5627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5627 dropdown"><a title="Photos &amp; Videos" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Photos &amp; Videos <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-5593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5593"><a title="Videos" href="http://www.98online.com/category/videos/">Videos</a></li>
+	<li id="menu-item-5594" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5594"><a title="Photo Galleries" href="http://www.98online.com/category/photo-gallery/">Photo Galleries</a></li>
+	<li id="menu-item-5220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5220"><a title="Livewire" href="http://www.98online.com/livewire/">Livewire</a></li>
+	<li id="menu-item-8421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8421"><a title="Podcasts" href="http://www.98online.com/podcasts/">Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-5683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5683"><a title="Events" href="http://wiyy.itmwpb.com/events/upcoming/">Events</a></li>
+<li id="menu-item-6251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6251"><a title="Contests" href="http://www.98online.com/contest-rules/">Contests</a></li>
+<li id="menu-item-5590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5590 dropdown"><a title="News" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">News <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-5673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5673"><a title="Josh Spiegel's Links" href="http://www.98online.com/category/josh-spiegels-links/">Josh Spiegel’s Links</a></li>
+	<li id="menu-item-5674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5674"><a title="Music and Entertainment News" href="http://www.98online.com/category/98-rock-news/">Music and Entertainment News</a></li>
+</ul>
+</li>
+<li id="menu-item-6270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6270"><a title="Ravens" href="http://www.98online.com/ravens/">Ravens</a></li>
+<li id="menu-item-3728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3728"><a title="Info" href="http://www.98online.com/info/">Info</a></li>
+</ul></div>	              </div>
+	            </div>
+						</div>
+						<div id="mobile-search" class="col-md-1 col-lg-1 hidden-xs hidden-sm text-center"><a data-toggle="modal" href="#myModal"><i class="fa fa-search search-mobile color-light hover-color-secondary"></i></a></div>
+				 </nav><!-- .navbar -->
+
+			</section>
+<!-- .site-navigation -->
+
+
+	</header>
+	<!-- .header -->
+
+	<!--Main Container-->
+	<div id="main-wrapper" class="container bg-light">
+
+				<div class="under-nav-banner text-center">
+			      		<div class="adv-container wide-under-navigation">
+							<script>
+				  (function() {
+					  var useSSL = 'https:' == document.location.protocol;
+					  var src = (useSSL ? 'https:' : 'http:') +
+						  '//www.googletagservices.com/tag/js/gpt.js';
+					  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+var gptAdSlots = [];
 googletag.cmd.push(function() {
-googletag.defineSlot('/112235112/Articles_728x90_top', [728, 90], 'div-gpt-ad-1362411184649-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
+var mapping = googletag.sizeMapping().
+
+// Small ad
+addSize([100, 100], [0, 0]).
+
+// Accepts both common mobile banner formats
+addSize([320, 400], [320, 50]).
+
+// Same width as mapping above, more available height
+addSize([320, 700], [320, 50]).
+
+// Landscape tablet
+addSize([750, 200], [[728, 90], [970, 90], [970, 415]]).
+
+// Desktop
+
+addSize([1050, 200], [[728, 90], [970, 90], [970, 415]]).build();
+gptAdSlots[0] = googletag.defineSlot('/40205520/98Rock_Generic', [[728, 90], [970, 90], [970, 415], [320, 50]], 'div-gpt-ad-1464803692336-0').defineSizeMapping(mapping).addService(googletag.pubads());
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 });
 </script>
+<!-- /40205520/ -->
+<div id="div-gpt-ad-1464803692336-0">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464803692336-0'); });
+</script>
+</div>		</div>
+					  </div>
 
-    <script type="text/javascript">
-      $(function() {
-        var sb = new SocialBar({
-          facebook: { accessToken: '223166817809054|2AHQq9nRsdCSl0QO0LKBodsKurw', pageId: 33742029238, ownerOnly: true },
-          youtube:  { key: 'AIzaSyDeQwLtZpPtuKV1WdrzDGnwGVgkOeGhAyA', userName: '98RockBaltimore' },
-          twitter:  { userName: '98Rock', jsonp: true }
-        });
-      });
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-2828738-1']);
-      _gaq.push(['_trackPageview']);
-    </script>
+			<div class="school-closings text-center">
+			  			</div>
 
-  </head>
-  <body>
-    
-    <div id="fb-root"></div>
-    <a href="#body_box" style="display:none;">Skip Navigation</a>
-    
-    
+<div class="content-wrapper">
 
-<div id="page" style="cursor: default;">
-      <div id="background_texture"></div>
+  <!--Main Content Area-->
+  <section id="t1-main-container" class="row clearfix" role="main-container">
 
-      <div id="header_info" class="layer">
-        <div class="lock">
-          <a id="freeloaders" href="http://freeloader.98online.com/">FREELOADERS <span>SIGN IN ►</span></a>
-          <div id="contact_us">
-            <a href="/411/input/">Contact Us</a>
-          </div>
-          <div id="text">TXT 56332</div>
-          <div id="phone">410-338-1098</div>
-        </div>
-      </div>
+      <div id="primary" class="col-lg-8 col-md-8 col-sm-12">
+				<div id="content" role="main">
 
-      <div id="header_bars" class="layer">
-        <div class="lock">
-          <a href="/homepage"><h1 id="logo">98 Rock</h1></a>
-          <a class="listen_live" href="http://player.listenlive.co/35541/en/programguide" target="_blank">
-            <div class="artist"><span>Nirvana</span></div>
-            <div class="title"><span>Lithium</span></div>
-            <div class="button">
-              <div class="playlist">
-                <div class="head">Last 10 songs aired as of <span>6:41pm</span></div>
-                <div class="list"><div class="item"><div class="left"><span>Nirvana</span></div><div class="right"><span>Lithium</span></div></div><div class="item"><div class="left"><span>Aerosmith</span></div><div class="right"><span>Livin On The Edge</span></div></div><div class="item"><div class="left"><span>Black Veil Brides</span></div><div class="right"><span>In The End</span></div></div><div class="item"><div class="left"><span>Linkin Park</span></div><div class="right"><span>Numb</span></div></div><div class="item"><div class="left"><span>Beware Of Darkness</span></div><div class="right"><span>Howl</span></div></div><div class="item"><div class="left"><span>Papa Roach</span></div><div class="right"><span>Face Everything And Rise</span></div></div><div class="item"><div class="left"><span>Pink Floyd</span></div><div class="right"><span>Mother</span></div></div><div class="item"><div class="left"><span>Halestorm</span></div><div class="right"><span>Apocalyptic</span></div></div><div class="item"><div class="left"><span>We As Human</span></div><div class="right"><span>Bring To Life</span></div></div><div class="item"><div class="left"><span>Pearl Jam</span></div><div class="right"><span>Mind Your Manners</span></div></div></div>
-              </div>
-            </div>
-          </a>
-          <script type="text/javascript">
-            (function() {
-              function load_playlist() {
-                try {
-                  $.getJSON('/listenlive/playlist/1', function(data) {
-                    var list     = data.playlist,
-                        artist   = $('#header_bars .listen_live .artist span'),
-                        title    = $('#header_bars .listen_live .title span'),
-                        head     = $('#header_bars .listen_live .playlist .head span'),
-                        playlist = $('#header_bars .listen_live .playlist .list').empty(),
-                        date     = new Date(),
-                        hours    = date.getHours() % 12 == 0 ? 12 : date.getHours() % 12,
-                        mins     = date.getMinutes() > 10 ? date.getMinutes() : '0' + date.getMinutes(),
-                        merid    = date.getHours() > 11 ? 'pm' : 'am';
- 
-                    for (var i in list) playlist.append('<div class="item"><div class="left"><span>' + list[i].artist + '</span></div><div class="right"><span>' + list[i].title + '</span></div></div>');
-                    head.text(hours + ':' + mins + merid);
-                    artist.html(list[0].artist);
-                    title.html(list[0].title);
-                  });
-                } catch (e) {}}
-             
-              setInterval(load_playlist, 60000);
-              load_playlist();
-            })();
-          </script>
-          <a id="watch_us" href="/livewire">WATCH US | IN-STUDIO CAM</a>
-        </div>
-      </div>
-      
-      <div id="header_nav" class="layer">
-        <div class="lock">
-            <a id="home_btn" class="" href="/homepage">HOME</a>
-            <a id="media_btn" class="" href="/media">MEDIA</a>
-            <a id="jocks_btn" class="" href="/jocks">JOCKS</a>
-            <a id="calendar_btn" class="" href="/calendar">CALENDAR</a>
-            <a id="four_btn" class="active" href="/411">411</a>
-            <a id="music_btn" class="" href="/music">MUSIC</a>
-            <a id="ravens_btn" href="http://gameday.98online.com/" target="_blank">Ravens Gameday</a>
-      <div style="clear:both"></div>
-        </div>
-      </div>
-      
-      
-      <script type="text/javascript">
-        $(function() {
-          $('#stage .lock').slider([     
-            
-                          
-          ], 2000, 6000, false);
-        });
-      </script>
+					
+													
+<article id="post-6714" class="row post-6714 post type-post status-publish format-standard has-post-thumbnail hentry category-info tag-policy tag-privacy with-thumbnail">
 
-      <div id="body_box" class="layer">
-        <div class="lock">
+	<div class="entry-header">
 
-        <div class="bar_ad">
-          <!-- Articles_728x90_top -->
-           <div id="div-gpt-ad-1362411184649-0" style="width:728px; height:90px;">
-             <script type="text/javascript">
-               googletag.cmd.push(function() {googletag.display('div-gpt-ad-1362411184649-0');});
-            </script>
-          </div>
-        </div>
+		<h1 class="entry-title">Privacy Policy</h1>
 
-          <div class="sub_body">
+		<div class="single-meta"><div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> wdwright | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> June 7, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/info/" rel="category tag">Info</a></li></ul></span></span>
+</div>
 
-            
-            <h2 class="title">Privacy Policy</h2>
-            <div class="sub_content">
-              <p>
-	98 Rock's Internet site, http://98online.com complies with the following Privacy Policy.</p>
-<p>
-	This Web site (the "Site"), on which this Privacy Policy is posted, is operated by Hearst Television Inc. ("Hearst Television") and its parent, subsidiary and affiliated entities (collectively referred to herein as "we", "us", "our" or "Hearst"). We have created this privacy statement ("Privacy Policy") in order to demonstrate our commitment to the privacy of our Site’s users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site Terms of Use, which governs your use of this Site in general.</p>
-<p>
-	You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the What are my opt-out rights? section below.</p>
-<p>
-	We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.</p>
-<p>
-	Personally Identifiable Information: The personally identifiable information we collect about you includes information you submit to us. For example, if you subscribe to online services we offer or register for certain services with us online that require registration, agree to participate in on-line surveys, participate in on-line contests, sweepstakes and promotions sponsored by us and others, make certain on-line information requests to us, participate in various activities on the Site, or want to establish a profile for submission of user-generated content available to other Site visitors and/or the general public, we may ask you to provide “personally identifiable information,” such as your contact information (e.g., name, phone number, address and e-mail address) and user demographic information (e.g., gender, age, hobbies or interests). Because participation in these activities is completely voluntary, you choose whether to disclose this information.</p>
-<p>
-	Non-Personally Identifiable Information: The non-personally identifiable information we collect may include the domain name of the site providing you with Internet access, and the Internet protocol (IP) address used to connect your computer to the Internet. The Site’s servers may also collect your browser type and version, screen resolution, the operating system your computer is running, and other Site visit data such as the pages you view, the referring page that linked you to us (e.g., another Web site or a search engine), information you search for, information or ads you click on, the average time spent on the Site, and the Web site you visit after this Site. Much of this information is tracked through log files, which are stored on the Site’s servers. Additional information about our use of cookies and tracking pixels to collect non-personally identifiable information is set forth in the “What about cookies and tracking pixels?” section below. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
-<p>
-	Information Obtained from Third Parties: We may supplement the information that you provide with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections or from other third parties. The type of information that is shared with us may include user contact information (e.g., name and email address) and user demographic information (e.g., zip code, age or income level), as well as other types of personally identifiable information and non-personally identifiable information.</p>
-<p>
-	Location Information: We may, and may enable our advertisers, technology and analytic partners, social networks, and other third parties to, collect your location via certain services we provide through websites and other digital platforms and applications, including mobile websites and applications. You will be informed prior to collection at the time you initially use the product or service. By using such product or service, you hereby consent to the collection, use and disclosure of your location information as described.</p>
-<p>
-	How may your information be used?</p>
-<p>
-	How Personally Identifiable Information May Be Used: We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.</p>
-<p>
-	We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. If you want to stop receiving promotional email messages from Hearst Television, you may do so by following the directions in the "What are my opt-out rights?" section below.</p>
-<p>
-	Referral Services: In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend's name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.</p>
-<p>
-	How Non-Personally Identifiable Information May Be Used: Non-personally identifiable information such as that which is collected about your Site visits, anonymous survey information, and certain aggregated demographic information, may be used for various purposes, such as reporting survey results and to allow us to better understand the entire audience that is visiting the Site. We also may track and use your IP address and other non-personally identifiable information to help diagnose problems with our servers, for reporting and profiling purposes, to administer the Site and for other uses and purposes, including sharing with third parties. We also gather anonymous browsing habits of our visitors to better identify content preferences, and we monitor and analyze this information to increase the functionality and user-friendliness of the Site and better tailor the Site to our visitors’ needs. We may link any of this information with your personally identifiable information for various purposes. Any or all of the above-described activities with respect to your non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
-<p>
-	Tracking Requests: Hearst does not act on Do Not Track requests from your browser. For more information click here.</p>
-<p>
-	Effect of Tracking Requests: Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.</p>
-<p>
-	How may your information be disclosed?</p>
-<p>
-	Sharing Personally Identifiable Information In General: We describe in this Privacy Policy when and how we may share your personally identifiable information. Other than as described in this Privacy Policy (including, for example, as described below), we will not sell, rent, or share your personally identifiable information with unaffiliated third parties without your consent.</p>
-<p>
-	Sharing Non-Personally Identifiable Information: Aggregate demographic and other information of and about our Site users may be published or shared with third parties for various purposes. Also, as further detailed in the section titled “What about cookies and tracking pixels?” below, non-personally identifiable information is shared with advertisers and advertising services that provide us and advertisers with demographic information about our visitors.</p>
-<p>
-	Sharing with Service Providers: Except explained below with respect to IB, we may share your personally identifiable information with our business partners and/or other third party service providers, such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, payment processing companies and other similar vendors and services providers, which perform services for us and which use such information on our behalf (collectively "Service Providers").</p>
-<p>
-	Internet Broadcasting Systems Inc.: One of our Service Providers, Internet Broadcasting Systems Inc. ("IB"), is integral to the operation and administration of many aspects of this Site. In addition to collecting and using user information to perform its services, IB may collect and use your information for its own purposes (including direct marketing purposes), subject to its own privacy policies. If you do not want IB to collect and use your information for its own purposes (including personally identifiable information and non-personally identifiable information), you will no longer be able to use the Site and you must deactivate your Site account and remove your information from the Site.</p>
-<p>
-	Sharing with Third-Party Marketers: We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of Hearst), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the "What are my opt-out rights?" section below.</p>
-<p>
-	Legally-Compelled Disclosures: To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our Terms of Use and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.</p>
-<p>
-	Information Posted to Public Forums: This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.</p>
-<p>
-	What are my opt-out rights?</p>
-<p>
-	Opting Out of the Site's Marketing Communications: While many of our visitors appreciate the benefits that online registration allows us to provide them, we respect your individual right to control how your personally identifiable information may be used. If you do not wish to receive promotional communications from the Site regarding special offers and product updates and other news and information, you can uncheck the box that allows us to use your information for this purpose when your information is collected (if applicable), or go to your personal profile or account on the Site and edit your email preferences (if applicable). You also will notice that there is an unsubscribe link at the bottom of each of our promotional e-mail messages, which will enable you to opt out of receiving all future promotional emails from the Site. Simply click on that link to go to a page that allows you to unsubscribe from any or all of the lists to which you are subscribed. Please understand that if you opt out of receiving promotional correspondence from the Site, we may still contact you in connection with your relationship, activities, transactions and communications with us, and you may not opt out of these types of messages.</p>
-<p>
-	Opting Out of Sharing Personally Identifiable Information with Third Parties for Marketing Use: If you want us to stop sharing your personally identifiable information with third parties (outside of Hearst) for their direct marketing use, go to your personal profile or account on the Site and edit your preferences (if applicable). If you do request to have us stop sharing your personally information with such third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly.</p>
-<p>
-	California &amp; Canadian Users: Your California Privacy Rights. California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. The heading Third-Party Advertisers below explains our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Third-Party Advertisers, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Hearst Television Inc., 300 West 57th Street, New York, NY 10019 or contacting us at hearsttelevision.com. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section Third-Party Advertisers explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</p>
-<p>
-	What about messages sent to me at my wireless email address or short message service?</p>
-<p>
-	Wireless Addresses</p>
-<p>
-	If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.</p>
-<p>
-	Short Message Service and Wireless Internet</p>
-<p>
-	We may make available services through which you can receive messages on your phone or wireless device via short message service ("SMS Service") or via wireless Internet ("WAP Services"). If you subscribe to one of our SMS or WAP Services, you thereby agree to receive SMS or WAP Service at the address you provide for such purposes. Such messages may come from Hearst, or from third parties who we believe may have goods or services of interest to you (unless you have elected not to receive such messages).</p>
-<p>
-	You understand that your wireless carrier may charge you for these messages and for access to these services, and that you may opt-out of receiving such messages by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS or WAP Service, and that you are authorized to approve the applicable charges. To use the SMS or WAP Service, you must reside in the United States. You must register and provide all required personally identifiable information, which may include, for example, your name, SMS or WAP address, wireless carrier and, if fees are applicable to the SMS or WAP Service to which you may subscribe, your billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS or WAP Service. We will use the information we obtain in connection with our SMS or WAP Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.</p>
-<p>
-	You acknowledge and agree that the SMS or WAP Services are provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS or WAP Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS or WAP Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints.</p>
-<p>
-	By signing up for the SMS or WAP Service, you consent to receiving, from time to time, further messages which may include news, promotions and offers from us, unless and until you have opted-out of these activities by editing your preferences in your account profile (if applicable), or by texting the applicable "STOP" message to the short code associated with the particular program/service. Please follow the instructions provided to you by third parties to unsubscribe from their messages.</p>
-<p>
-	What about cookies and tracking pixels?</p>
-<p>
-	We use technologies such as cookies and tracking pixels to collect information from and/or about you, and we do so, for example, to enhance the information we have about your preferences, to store some of your Site settings and to learn about your visits. A cookie is a piece of information that is sent to your browser from a Web server and stored on your computer's hard drive. A cookie allows us to determine that a visit has occurred within the Site, as well as which pages were viewed. You can decide if and how your computer will accept cookies by configuring your preferences option within your Web browser. If you choose to decline cookies, however, some of the functionality of the Site may be impaired.</p>
-<p>
-	We also may use "tracking pixels" (aka "clear GIFs" or "pixel tags") or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.</p>
-<p>
-	Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).</p>
-<p>
-	Third-Party Advertisers</p>
-<p>
-	We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.</p>
-<p>
-	If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies' use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative's consumer Web site, at http://www.networkadvertising.org/consumer/.</p>
-<p>
-	What information is collected from children under the age of 13?</p>
-<p>
-	This Site is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent and unless expressly identified on specific pages of the Site. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.</p>
-<p>
-	How do we aim to protect personally identifiable information collected on this Site?</p>
-<p>
-	While we will endeavor to protect the security and integrity of any personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.</p>
-<p>
-	If you contact us by e-mail or a "contact us" or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.</p>
-<p>
-	If we believe that the security of any user's personal information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as the means of such notification.</p>
-<p>
-	How can you access and edit your personally identifiable information?</p>
-<p>
-	You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences here (if applicable), or if you are a member of the u local community, you may edit your profile preferences here.</p>
-<p>
-	What Web sites does this Privacy Policy cover?</p>
-<p>
-	When you are on the Site, you may have the opportunity to visit, or link to, other sites, including other sites operated by subsidiaries or affiliates of us, or by unaffiliated third parties. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. You should review these sites' privacy policies regarding any information that they may collect about you at their sites. We do not accept any responsibility or liability for the privacy practices of such “third party” sites and your use of such sites is at your own risk.</p>
-<p>
-	What if I am a non-U.S. user?</p>
-<p>
-	If you are located outside of the United States, please note that the information you provide to us will be collected, maintained, processed and transferred in and to the United States and other countries and territories. By using this Site, you consent thereto. You also consent to the adjudication of any disputes arising in connection with this Site in the federal and state courts of, and in accordance with the laws of, the state of New York.</p>
-<p>
-	What happens to your information if there is a corporate change of control?</p>
-<p>
-	In the event that Hearst Television, any entity of Hearst, or a significant portion of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on the Site may be one of the transferred assets.</p>
-<p>
-	What about changes to this Privacy Policy?</p>
-<p>
-	We reserve the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.</p>
-<p>
-	How can you ask questions or contact us?</p>
-<p>
-	If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by <a href="mailto:hearsttelevisionnotice@hearst.com">clicking here</a>.</p>
-<p>
-	Effective: April 28, 2014</p>
+</div>
+		<div class="sharify-container"><ul><li class="sharify-btn-twitter">
+								<a title="Tweet on Twitter" href="https://twitter.com/intent/tweet?text=Privacy+Policy: http://www.98online.com/2016/06/07/privacy-policy/">
+									<span class="sharify-icon"><i class="sharify sharify-twitter"></i></span>
+									<span class="sharify-title">Tweet</span>
+								</a>
+							</li><li class="sharify-btn-facebook">
+								<a title="Share on Facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.98online.com%2F2016%2F06%2F07%2Fprivacy-policy%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-facebook"></i></span>
+									<span class="sharify-title">Share</span>
+									<span class="sharify-count facebook" data-url="http://www.98online.com/2016/06/07/privacy-policy/" data-text="Privacy Policy - ">0</span>
+								</a>
+							</li><li class="sharify-btn-gplus">
+								<a title="Share on Google+" href="http://plus.google.com/share?url=http://www.98online.com/2016/06/07/privacy-policy/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-gplus"></i></span>
+									<span class="sharify-title">+1</span>
+								</a>
+							</li><li class="sharify-btn-pinterest">
+								<a title="Share on Pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.98online.com/2016/06/07/privacy-policy/&amp;media=http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/05/10161543/Event-Logo.jpg&amp;description=Privacy Policy - http://www.98online.com/2016/06/07/privacy-policy/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+									<span class="sharify-icon"><i class="sharify sharify-pinterest"></i></span>
+									<span class="sharify-title">Pinterest</span>
+								</a>
+							</li><li class="sharify-btn-linkedin">
+								<a title="Share on Linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.98online.com/2016/06/07/privacy-policy/&amp;title=Privacy Policy" onclick="if(!document.getElementById('td_social_networks_buttons')){window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;}">
+									<span class="sharify-icon"><i class="sharify sharify-linkedin"></i></span>
+									<span class="sharify-title">LinkedIn</span>
+									<span class="sharify-count linkedin" data-url="http://www.98online.com/2016/06/07/privacy-policy/" data-text="Privacy Policy - ">0</span>
+								</a>
+							</li><li class="sharify-btn-email">
+								<a title="Share via mail" href="mailto:?subject=Privacy Policy&amp;body=Hey, checkout this great article: http://www.98online.com/2016/06/07/privacy-policy/">
+									<span class="sharify-icon"><i class="sharify sharify-mail"></i></span>
+									<span class="sharify-title">Email</span>
+								</a>
+							</li></ul></div>
+		<!-- .entry-meta -->
 
-	      	      	      	      	      	      	                  </div>
-            
-	    
-          </div>
-          <div class="sub_sidebar">
+	</div><!-- .entry-header -->
+
+	<div class="entry-thumbnail">
+		<img width="756" height="425" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/05/10161543/Event-Logo.jpg" class="attachment- size- wp-post-image" alt="98 Rock Event Logo">	</div>
+
+
+	<div class="entry-content col-lg-12 col-md-12 alpha omega">
+		<img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/05/10161543/Event-Logo-150x150.jpg" class="alignleft wp-post-image" alt="98 Rock Event Logo"><p>98 Rock’s Internet site, http://98online.com complies with the following Privacy Policy.</p>
+<p>This Web site (the “Site”), on which this Privacy Policy is posted, is operated by Hearst Television Inc. (“Hearst Television”) and its parent, subsidiary and affiliated entities (collectively referred to herein as “we”, “us”, “our” or “Hearst”). We have created this privacy statement (“Privacy Policy”) in order to demonstrate our commitment to the privacy of our Site’s users, and to disclose our information gathering, use and dissemination practices with respect to the data collected online via this Site. It does not apply to information obtained by any other means (including on or through another Web site or source, or via any offline methods). By visiting this Site, you consent to these practices. Please take a moment to review the sections below. This Privacy Policy is incorporated into, and part of, the Site Terms of Use, which governs your use of this Site in general.</p>
+<p>You may opt in or opt out of our sharing of your personally identifiable information with third parties for their marketing use by following the directions in the What are my opt-out rights? section below.</p>
+<p>We may collect both personally identifiable information about you and non-personally identifiable information about you and your visits to this Site.</p>
+<p>Personally Identifiable Information: The personally identifiable information we collect about you includes information you submit to us. For example, if you subscribe to online services we offer or register for certain services with us online that require registration, agree to participate in on-line surveys, participate in on-line contests, sweepstakes and promotions sponsored by us and others, make certain on-line information requests to us, participate in various activities on the Site, or want to establish a profile for submission of user-generated content available to other Site visitors and/or the general public, we may ask you to provide “personally identifiable information,” such as your contact information (e.g., name, phone number, address and e-mail address) and user demographic information (e.g., gender, age, hobbies or interests). Because participation in these activities is completely voluntary, you choose whether to disclose this information.</p>
+<p>Non-Personally Identifiable Information: The non-personally identifiable information we collect may include the domain name of the site providing you with Internet access, and the Internet protocol (IP) address used to connect your computer to the Internet. The Site’s servers may also collect your browser type and version, screen resolution, the operating system your computer is running, and other Site visit data such as the pages you view, the referring page that linked you to us (e.g., another Web site or a search engine), information you search for, information or ads you click on, the average time spent on the Site, and the Web site you visit after this Site. Much of this information is tracked through log files, which are stored on the Site’s servers. Additional information about our use of cookies and tracking pixels to collect non-personally identifiable information is set forth in the “What about cookies and tracking pixels?” section below. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
+<p>Information Obtained from Third Parties: We may supplement the information that you provide with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections or from other third parties. The type of information that is shared with us may include user contact information (e.g., name and email address) and user demographic information (e.g., zip code, age or income level), as well as other types of personally identifiable information and non-personally identifiable information.</p>
+<p>Location Information: We may, and may enable our advertisers, technology and analytic partners, social networks, and other third parties to, collect your location via certain services we provide through websites and other digital platforms and applications, including mobile websites and applications. You will be informed prior to collection at the time you initially use the product or service. By using such product or service, you hereby consent to the collection, use and disclosure of your location information as described.</p>
+<p>How may your information be used?</p>
+<p>How Personally Identifiable Information May Be Used: We may use your personally identifiable information for various purposes, such as to send confirmation notices regarding services users have requested, and to notify contest or sweepstakes winners and award prizes. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Site may show you content we think might be of interest to you and we may display content according to your preferences and interests.</p>
+<p>We may also use any personally identifiable information you provide for marketing and promotional purposes (such as sending you promotional emails), and we may combine information we receive online with outside records and/or information from other sources to enhance our ability to market products or provide services that we believe may be of interest to you. If you want to stop receiving promotional email messages from Hearst Television, you may do so by following the directions in the “What are my opt-out rights?” section below.</p>
+<p>Referral Services: In addition to the uses of personally identifiable information described above, if you elect to use our referral service for informing a friend about the Site or to send an e-card through the Site, we ask you for your friend’s name and email address. We will automatically send the friend an email inviting him/her to visit the Site or send an e-card, as the case may be. You and any friend you refer may be able to opt-out of receiving future marketing communications by complying with the choice/opt-out requirements described below.</p>
+<p>How Non-Personally Identifiable Information May Be Used: Non-personally identifiable information such as that which is collected about your Site visits, anonymous survey information, and certain aggregated demographic information, may be used for various purposes, such as reporting survey results and to allow us to better understand the entire audience that is visiting the Site. We also may track and use your IP address and other non-personally identifiable information to help diagnose problems with our servers, for reporting and profiling purposes, to administer the Site and for other uses and purposes, including sharing with third parties. We also gather anonymous browsing habits of our visitors to better identify content preferences, and we monitor and analyze this information to increase the functionality and user-friendliness of the Site and better tailor the Site to our visitors’ needs. We may link any of this information with your personally identifiable information for various purposes. Any or all of the above-described activities with respect to your non-personally identifiable information may be performed on our behalf by our Services Providers (defined below).</p>
+<p>Tracking Requests: Hearst does not act on Do Not Track requests from your browser. For more information click here.</p>
+<p>Effect of Tracking Requests: Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.</p>
+<p>How may your information be disclosed?</p>
+<p>Sharing Personally Identifiable Information In General: We describe in this Privacy Policy when and how we may share your personally identifiable information. Other than as described in this Privacy Policy (including, for example, as described below), we will not sell, rent, or share your personally identifiable information with unaffiliated third parties without your consent.</p>
+<p>Sharing Non-Personally Identifiable Information: Aggregate demographic and other information of and about our Site users may be published or shared with third parties for various purposes. Also, as further detailed in the section titled “What about cookies and tracking pixels?” below, non-personally identifiable information is shared with advertisers and advertising services that provide us and advertisers with demographic information about our visitors.</p>
+<p>Sharing with Service Providers: Except explained below with respect to IB, we may share your personally identifiable information with our business partners and/or other third party service providers, such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, payment processing companies and other similar vendors and services providers, which perform services for us and which use such information on our behalf (collectively “Service Providers”).</p>
+<p>Internet Broadcasting Systems Inc.: One of our Service Providers, Internet Broadcasting Systems Inc. (“IB”), is integral to the operation and administration of many aspects of this Site. In addition to collecting and using user information to perform its services, IB may collect and use your information for its own purposes (including direct marketing purposes), subject to its own privacy policies. If you do not want IB to collect and use your information for its own purposes (including personally identifiable information and non-personally identifiable information), you will no longer be able to use the Site and you must deactivate your Site account and remove your information from the Site.</p>
+<p>Sharing with Third-Party Marketers: We may share your personally identifiable information with, and make our customer lists available to, third parties (outside of Hearst), who may choose to contact you to promote their own goods and services, or who may use such information for other purposes, including direct marketing. Additionally, when you enter a contest or sweepstakes that is sponsored by a third party, independently or jointly with us, your personally identifiable information may be shared with that third party for their use, in their discretion and in accordance with their privacy policies, including for their direct marketing purposes. While some of our contests and sweepstakes will ask you at the time of entry whether you would like your personally identifiable information to be shared with the third-party sponsor, other contests will not give you that option. Thus, in that event, if you do not want your information to be shared, you should not enter the contest. We are not responsible for how our co-sponsors or such other third parties may use your information. If you want us to stop sharing your personally identifiable information with third parties for their direct marketing use, follow the directions in the “What are my opt-out rights?” section below.</p>
+<p>Legally-Compelled Disclosures: To the extent permitted or required by law, any information collected on or through the Site or concerning its use (including personally identifiable and non-personally identifiable information) may be disclosed to government authorities or third parties pursuant to a legal request, subpoena, or other process that requires disclosure of information. We may also use or disclose your information to enforce compliance with our Terms of Use and as permitted by law to collect debts, fight fraud or protect the rights or property of the Site, our customers, our users, or third parties, or when we otherwise believe in good faith that the law requires it.</p>
+<p>Information Posted to Public Forums: This Site may make chat rooms, forums, message boards, news groups and/or other similar features available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose personally identifiable information about you or anyone else. The Site cannot and does not accept any responsibility for ensuring the privacy of any information that you choose to disclose in these areas. Any content or information you provide to these areas of the Site is done at your own risk.</p>
+<p>What are my opt-out rights?</p>
+<p>Opting Out of the Site’s Marketing Communications: While many of our visitors appreciate the benefits that online registration allows us to provide them, we respect your individual right to control how your personally identifiable information may be used. If you do not wish to receive promotional communications from the Site regarding special offers and product updates and other news and information, you can uncheck the box that allows us to use your information for this purpose when your information is collected (if applicable), or go to your personal profile or account on the Site and edit your email preferences (if applicable). You also will notice that there is an unsubscribe link at the bottom of each of our promotional e-mail messages, which will enable you to opt out of receiving all future promotional emails from the Site. Simply click on that link to go to a page that allows you to unsubscribe from any or all of the lists to which you are subscribed. Please understand that if you opt out of receiving promotional correspondence from the Site, we may still contact you in connection with your relationship, activities, transactions and communications with us, and you may not opt out of these types of messages.</p>
+<p>Opting Out of Sharing Personally Identifiable Information with Third Parties for Marketing Use: If you want us to stop sharing your personally identifiable information with third parties (outside of Hearst) for their direct marketing use, go to your personal profile or account on the Site and edit your preferences (if applicable). If you do request to have us stop sharing your personally information with such third parties for their direct marketing purposes, such request will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly.</p>
+<p>California &amp; Canadian Users: Your California Privacy Rights. California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. The heading Third-Party Advertisers below explains our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing Third-Party Advertisers, if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Hearst Television Inc., 300 West 57th Street, New York, NY 10019 or contacting us at hearsttelevision.com. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section Third-Party Advertisers explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users.</p>
+<p>What about messages sent to me at my wireless email address or short message service?</p>
+<p>Wireless Addresses</p>
+<p>If the email address you provide to us is a wireless email address, you agree to receive messages at such address from us (unless and until you have elected not to receive such messages by either un-checking the box that allows us to use your information for this purpose when your information is collected (if applicable), or by going to your personal profile or account on the Site and editing your email preferences (if applicable)). You understand that your wireless carrier may charge you for these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.</p>
+<p>Short Message Service and Wireless Internet</p>
+<p>We may make available services through which you can receive messages on your phone or wireless device via short message service (“SMS Service”) or via wireless Internet (“WAP Services”). If you subscribe to one of our SMS or WAP Services, you thereby agree to receive SMS or WAP Service at the address you provide for such purposes. Such messages may come from Hearst, or from third parties who we believe may have goods or services of interest to you (unless you have elected not to receive such messages).</p>
+<p>You understand that your wireless carrier may charge you for these messages and for access to these services, and that you may opt-out of receiving such messages by editing your preferences in your account profile (if applicable), or by texting the applicable “STOP” message to the short code associated with the particular program/service. You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS or WAP Service, and that you are authorized to approve the applicable charges. To use the SMS or WAP Service, you must reside in the United States. You must register and provide all required personally identifiable information, which may include, for example, your name, SMS or WAP address, wireless carrier and, if fees are applicable to the SMS or WAP Service to which you may subscribe, your billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS or WAP Service. We will use the information we obtain in connection with our SMS or WAP Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.</p>
+<p>You acknowledge and agree that the SMS or WAP Services are provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS or WAP Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS or WAP Service. We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints.</p>
+<p>By signing up for the SMS or WAP Service, you consent to receiving, from time to time, further messages which may include news, promotions and offers from us, unless and until you have opted-out of these activities by editing your preferences in your account profile (if applicable), or by texting the applicable “STOP” message to the short code associated with the particular program/service. Please follow the instructions provided to you by third parties to unsubscribe from their messages.</p>
+<p>What about cookies and tracking pixels?</p>
+<p>We use technologies such as cookies and tracking pixels to collect information from and/or about you, and we do so, for example, to enhance the information we have about your preferences, to store some of your Site settings and to learn about your visits. A cookie is a piece of information that is sent to your browser from a Web server and stored on your computer’s hard drive. A cookie allows us to determine that a visit has occurred within the Site, as well as which pages were viewed. You can decide if and how your computer will accept cookies by configuring your preferences option within your Web browser. If you choose to decline cookies, however, some of the functionality of the Site may be impaired.</p>
+<p>We also may use “tracking pixels” (aka “clear GIFs” or “pixel tags”) or similar technologies in the Site and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A Web beacon is typically a one-pixel, transparent image located on a Web page or in an e-mail or other type of message. These electronic images help us measure the effectiveness of our online advertising and/or e-mail or other messaging campaigns by, for example, counting the number of individuals who visit the Site or the number of individuals who open or act upon an e-mail or other type of message.</p>
+<p>Any or all of the above-described activities with respect to cookies and tracking pixels may be performed on our behalf by our Services Providers (defined above).</p>
+<p>Third-Party Advertisers</p>
+<p>We may allow third parties to compile information or aggregate statistics from our use of tracking pixels, cookies and other tracking technologies to help them assess the effectiveness of online marketing and to enable us and our advertisers to deliver more targeted advertising opportunities. This enables users to see advertising more likely to be of interest to them, and advertisers to send their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads.</p>
+<p>If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Those third parties may employ cookies and tracking pixels (and other tracking technologies) to recognize your computer each time they send you an online advertisement, and to measure advertising effectiveness. We do not control these companies’ use of cookies and tracking pixels. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative’s consumer Web site, at http://www.networkadvertising.org/consumer/.</p>
+<p>What information is collected from children under the age of 13?</p>
+<p>This Site is not directed at children under the age of 13. We do not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent and unless expressly identified on specific pages of the Site. If we learn that we have received personally identifiable information from a child under the age of 13, we will take steps to delete such information or to obtain verifiable parental consent.</p>
+<p>How do we aim to protect personally identifiable information collected on this Site?</p>
+<p>While we will endeavor to protect the security and integrity of any personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.</p>
+<p>If you contact us by e-mail or a “contact us” or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.</p>
+<p>If we believe that the security of any user’s personal information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. You hereby consent to our use of e-mail as the means of such notification.</p>
+<p>How can you access and edit your personally identifiable information?</p>
+<p>You can access and/or edit any of the personally identifiable information you have provided to us by logging in to your account on the Site (if applicable). You may edit your email notification preferences here (if applicable), or if you are a member of the u local community, you may edit your profile preferences here.</p>
+<p>What Web sites does this Privacy Policy cover?</p>
+<p>When you are on the Site, you may have the opportunity to visit, or link to, other sites, including other sites operated by subsidiaries or affiliates of us, or by unaffiliated third parties. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. You should review these sites’ privacy policies regarding any information that they may collect about you at their sites. We do not accept any responsibility or liability for the privacy practices of such “third party” sites and your use of such sites is at your own risk.</p>
+<p>What if I am a non-U.S. user?</p>
+<p>If you are located outside of the United States, please note that the information you provide to us will be collected, maintained, processed and transferred in and to the United States and other countries and territories. By using this Site, you consent thereto. You also consent to the adjudication of any disputes arising in connection with this Site in the federal and state courts of, and in accordance with the laws of, the state of New York.</p>
+<p>What happens to your information if there is a corporate change of control?</p>
+<p>In the event that Hearst Television, any entity of Hearst, or a significant portion of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on the Site may be one of the transferred assets.</p>
+<p>What about changes to this Privacy Policy?</p>
+<p>We reserve the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy at any time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.</p>
+<p>How can you ask questions or contact us?</p>
+<p>If you have other questions or concerns about our privacy policies or data use with respect to this Site, please contact us by <a href="mailto:hearsttelevisionnotice@hearst.com">clicking here</a>.</p>
+<p>Effective: April 28, 2014</p>
+<script type="text/javascript">function ahc_getXmlHttp(){var e;try{e=new ActiveXObject("Msxml2.XMLHTTP")}catch(t){try{e=new ActiveXObject("Microsoft.XMLHTTP")}catch(n){e=false}}if(!e&&typeof XMLHttpRequest!="undefined"){e=new XMLHttpRequest}return e};var ahc_xmlhttp=ahc_getXmlHttp();ahc_xmlhttp.open("GET", "http://www.98online.com/wp-content/plugins/wpb-count-post-views/record_hit_count.php?post_id=6714&blog_id=601&post_type=post&term_taxonomy_id=186&date_viewed=2016-12-19 15:03:14&t="+(parseInt(new Date().getTime()))+"&r="+(parseInt(Math.random()*100000)));ahc_xmlhttp.send(null);</script>	</div>
+
+
+	<div class="row post-link-wrapper clear clearfix previous-next">
+		<div class="col-md-2 col-sm-2"> <span class="btn wpb-default"><a href="http://www.98online.com/2016/06/07/contest-rules/" rel="prev">Previous </a></span></div>
+		<div class="col-md-8 col-sm-8 hidden-xs"></div>
+		<div class="col-md-2 col-sm-2"> </div>
+	</div>
+
+	<!-- .entry-content -->
+
+	
+<div id="comments" class="comments-area">
+
+  
+  
+  <!-- <hr /> -->
+
+  				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2016/06/07/privacy-policy/#respond" style="display:none;">Cancel Reply</a></small></h3>				<form action="http://www.98online.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+					<p class="comment-notes">Your email address will not be published.</p><p class="comment-form-comment"><label for="comment">Comment</label><textarea class="widefat" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p><p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></p><p class="comment-form-author"><label for="author">Name</label> <input class="widefat" id="author" name="author" type="text" value="" size="30"></p>
+<p class="comment-form-email"><label for="email">Email</label> <input class="widefat" id="email" name="email" type="text" value="" size="30"></p>
+<p class="comment-form-url"><label for="url">Website</label><input class="widefat" id="url" name="url" type="text" value="" size="30"></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="6714" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="66cc7e3412"></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="176"></p>				</form>
+					</div><!-- #respond -->
+		
+</div><!-- #comments .comments-area -->
+
+	Tags: <a href="http://www.98online.com/tag/policy/" rel="tag">policy</a>, <a href="http://www.98online.com/tag/privacy/" rel="tag">privacy</a>
+	<!-- .entry-action -->
+</article><!-- #post -->
+
               
-          <div class="box advert">
-        <div id="div-gpt-ad-482802889300383-0" style="width:300px; height:250px;">
-          <script type="text/javascript">dfpPlacementGeneric(482802889300383);</script>  
-        </div>
-      </div>
-      
-          <div class="box advert">
-        <div id="div-gpt-ad-1373285257468-0" style="width:300px; height:250px;">
-          <script type="text/javascript">dfpPlacementGeneric(1373285257468);</script>  
-        </div>
-      </div>
-      
+					
 
-          </div>
+				</div><!-- #content -->
+			</div><!-- #primary -->
 
-            
+      <div id="secondary" class="col-lg-4 col-md-4 col-sm-12 widget-sidebar"> 			<div class="sidebar" role="complementary">
+			<div class="widget-area">
+				<div id="widget-10" class="widget-sidebar widget_text">			<div class="textwidget"><div class="most-pop-tabs"><ul class="nav nav-tabs" id="oscitas-tabs-0"><li class="active"><a class="" href="#pane-0-0" data-toggle="tab">VIDEO</a></li><li class=""><a class="" href="#pane-0-1" data-toggle="tab">PHOTOS</a></li><li class=""><a class="" href="#pane-0-2" data-toggle="tab">RAVENS</a></li></ul><div class="tab-content"><div class="tab-pane active" id="pane-0-0"><div class="posts-section">
+		<div class="posts-list">
+				<article class="archive border-secondary clearfix post-21243 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-josh-spiegels-links category-smart-phone-app category-videos with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/17/video-tanker-truck-crashes-on-i-95/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/17105553/TankerVideo-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="TankerVideo"></a></div>
 
-        </div>
-      </div>
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/17/video-tanker-truck-crashes-on-i-95/">VIDEO: Tanker Truck Crashes On I-95</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 17, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/josh-spiegels-links/" rel="category tag">Josh Spiegel's Links</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li>
+	<li><a href="http://www.98online.com/category/videos/" rel="category tag">Videos</a></li></ul></span></span>
+</div>
 
-      <div id="footer_box" class="layer">
-        <div class="fade"></div>
-        <div class="background"></div>
-        <div class="lock">
-          <table cellspacing="0" cellpadding="0">
-            <thead>
-              <tr>
-                <td class="left"><h4>LEAVE US A MESSAGE</h4></td>
-                <td class="center"><h4>STATIONS THAT MATTER</h4></td>
-                <td class="right"><h4>MORE LINKS AND INFORMATION</h4></td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td class="left">
-                  <form id="m_form">
-                    <label>Your E-mail:</label>
-                    <input type="text" class="text" name="f">
-                    <label>Subject:</label>
-                    <input type="text" class="text" name="s">
-                    <label>Comment:</label>
-                    <textarea name="b" rows="6" cols="30"></textarea>
-                    <input name="send" type="submit" class="yellow" value="SEND">
-                  </form>
-                </td>
-                <td class="center">
-                  <a id="wbaltv" href="http://www.wbaltv.com/" target="_blank">WBAL TV</a>
-                  <a id="wbal1090" href="http://www.wbal.com/" target="_blank">WBAL 1090</a>
-                </td>
-                <td class="right">
-                  <a href="/jocks">JOCKS</a>
-                  <a href="/411">THE 411</a>
-                  <a href="/calendar">PROMOTIONS</a>
-                  <a href="/411/advertise-with-98-rock/">ADVERTISE WITH 98ROCK</a>
-                  <a href="/music">MUSIC</a>
-                  <a href="/files/public_file/2016-EEOPublicReport.pdf" target="_blank">PUBLIC FILE</a>
-                  <a href="http://careers.hearsttelevision.com" target="_blank">98 Rock Jobs</a>
-                  <a href="/site-map">SITEMAP</a>
-		  <a href="/411/privacy-policy/">Privacy Policy</a>
-                  <div id="phone">410-338-1098</div>
-                  <div id="text">TXT 56332</div>
-                  <div id="address">3800 HOOPER AVE, BALTIMORE, MD 21211</div>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
 
-      <script type="text/javascript">
-        var f    = $('#m_form input[name="f"]'),
-            s    = $('#m_form input[name="s"]'),
-            b    = $('#m_form textarea[name="b"]'),
-            send = $('#m_form input[name="send"]');
-  
-        $('#m_form').submit(function() {
-          if (f.val() == "" || f.val() == "" || f.val() == "") return false;
-          $.post('http://98online.com:8080/_api/message_us', { f: f.val(), s: s.val(), b: b.val() }, function(data){
-            send.attr("disabled", "disabled").val('Thank You!').css({ 'background-color': '#000', 'color': '#fff' });
-          });
-          $([f[0], s[0], b[0]]).val('');
-          return false;
-        });
-      </script>
+	<div class="entry-summary">From WBALT-TV 11: Two people were killed and a multitude of others were injured in crashes on I-95 in downtown Baltimore this morning. One crash involved a gas tanker</div>
 
-      <div id="footer_info" class="layer">
-        <div class="lock">
-          <span>COPYRIGHT 2007-2013</span> 98ROCK &nbsp;&nbsp;&nbsp; WEB DEVELOPMENT &amp; PROGRAMMING © 2012 <a href="http://alextom.com" class="foot_anchor">ALEXANDER + TOM</a>
-        </div>
-      </div>
-    </div>
-  
+	
+</article>
+				<article class="archive border-secondary clearfix post-21183 post type-post status-publish format-standard has-post-thumbnail hentry category-98-rock-news category-abc-rock category-homepage-slider category-smart-phone-app category-videos with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/16/dont-tread-on-meat-metallica-rocks-enter-sandman-with-deli-staff-at-grocery-store/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/16164530/MetallicaDeli-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="MetallicaDeli"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/16/dont-tread-on-meat-metallica-rocks-enter-sandman-with-deli-staff-at-grocery-store/">Don’t Tread on Meat: Metallica Rocks “Enter Sandman” with Deli Staff at Grocery Store</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 16, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/98-rock-news/" rel="category tag">98 Rock Music and Entertianment News</a></li>
+	<li><a href="http://www.98online.com/category/abc-rock/" rel="category tag">ABC Rock</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li>
+	<li><a href="http://www.98online.com/category/videos/" rel="category tag">Videos</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">Credit: TMZ Metallica took metal to the grocery store when they sang “Enter Sandman” with the staff behind the deli counter at a supermarket in Hollywood Thursday night. The</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-21168 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-smart-phone-app category-videos with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/16/wbal-tv-11s-ava-marie-on-winter-weather-in-baltimore-this-weekend/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/16113727/ava_Yhumb-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ava_Yhumb"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/16/wbal-tv-11s-ava-marie-on-winter-weather-in-baltimore-this-weekend/">WBAL-TV 11’s Ava Marie On Winter Weather In Baltimore This Weekend</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 16, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li>
+	<li><a href="http://www.98online.com/category/videos/" rel="category tag">Videos</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">A winter storm watch is in effect in the the Baltimore area from late Friday through Saturday morning. The National Weather Service issued the watch for the Baltimore area</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-21159 post type-post status-publish format-standard has-post-thumbnail hentry category-98-rock-news category-abc-rock category-homepage-recent-posts category-smart-phone-app category-videos with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/16/red-hot-chili-peppers-and-chris-martin-featured-in-all-star-christmas-carpool-karaoke/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/16152409/M_carpoolrhcp_121616-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Darren Michaels/CBS"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/16/red-hot-chili-peppers-and-chris-martin-featured-in-all-star-christmas-carpool-karaoke/">Red Hot Chili Peppers and Chris Martin Featured in All-Star Christmas “Carpool Karaoke”</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 16, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/98-rock-news/" rel="category tag">98 Rock Music and Entertianment News</a></li>
+	<li><a href="http://www.98online.com/category/abc-rock/" rel="category tag">ABC Rock</a></li>
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li>
+	<li><a href="http://www.98online.com/category/videos/" rel="category tag">Videos</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">Darren Michaels/CBSOn Thursday’s episode of The Late Late Show, host James Corden debuted a special all-star Christmas episode of “Carpool Karaoke,” featuring Red Hot Chili Peppers, Coldplay‘s Chris Martin,</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-21152 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-livewire category-videos with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/16/md-governor-hogan-wishes-scott-a-happy-birthday/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/16101943/scotts40-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="scotts40"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/16/md-governor-hogan-wishes-scott-a-happy-birthday/">MD Governor Hogan Wishes Scott A Happy Birthday</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 16, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/livewire/" rel="category tag">Livewire</a></li>
+	<li><a href="http://www.98online.com/category/videos/" rel="category tag">Videos</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">On the morning of Scott Reardon’s 40th Birthday, Maryland Governor Larry Hogan took time out of his schedule to give Justin, Scott and Spiegel a ring to wish Scott</div>
+
+	
+</article>
+			</div>
+</div>
+</div><div class="tab-pane " id="pane-0-1"><div class="posts-section">
+		<div class="posts-list">
+				<article class="archive border-secondary clearfix post-20872 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-photo-gallery category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/13/2nd-half-surge-by-ravens-not-enough-to-take-patriots/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/12235816/RavensvsPats_001-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="RavensvsPats_001"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/13/2nd-half-surge-by-ravens-not-enough-to-take-patriots/">2nd Half Surge By Ravens Not Enough To Take Patriots</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 13, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">After falling behind to the New England Patriots 16 – 3 at halftime, the Baltimore Ravens worked on a come back that would ultimately fall short as the Ravens</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-20218 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-photo-gallery category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/04/ravens-dominate-the-dolphins/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/04181145/Ravens_vs_Dolphins_Pitta-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Ravens_vs_Dolphins_Pitta"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/04/ravens-dominate-the-dolphins/">Ravens Dominate The Dolphins</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 4, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">For the first time this season, the Baltimore Ravens all out dominated the opposing team, and it could not have come at a better time. The Ravens beat up</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-20099 post type-post status-publish format-standard has-post-thumbnail hentry category-josh-spiegels-links category-photo-gallery category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.oregonlive.com/trending/2016/12/washington_county_man_appears.html" target="_blank"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/02054328/Mugshot-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Mugshot"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.oregonlive.com/trending/2016/12/washington_county_man_appears.html" target="_blank">Man Appears In Mugshot With Macaw Bird</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> wtownsend | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 2, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/josh-spiegels-links/" rel="category tag">Josh Spiegel's Links</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">On Monday, Craig Buckner, 38, of Vernonia, brought his 4-year-old macaw, Bird, with him to the Washington County Courthouse, and told his well-trained feathered friend to stay outside in</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-19674 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-josh-spiegels-links category-photo-gallery category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/11/27/ravens-kick-their-way-to-top-of-afc-north-with-19-14-win-over-bengals/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/11/27184605/RavensBengals_tucker-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="RavensBengals_tucker"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/11/27/ravens-kick-their-way-to-top-of-afc-north-with-19-14-win-over-bengals/">Ravens Kick Their Way To Top Of AFC North With 19-14 Win Over Bengals</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> November 27, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/josh-spiegels-links/" rel="category tag">Josh Spiegel's Links</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">The Baltimore Ravens held on to a&nbsp;19-14 win over the Cincinnati Bengals on Sunday at M &amp; T Bank Stadium on Sunday. The win not only gives the Ravens</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-18729 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-josh-spiegels-links category-photo-gallery category-smart-phone-app category-uncategorized with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/11/14/vote-now-for-the-best-pet-face-swap/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/11/14094503/Title_PetFaceSwap_02-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Title_PetFaceSwap_02"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/11/14/vote-now-for-the-best-pet-face-swap/">Vote Now For The Best Pet Face Swap</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> November 14, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/josh-spiegels-links/" rel="category tag">Josh Spiegel's Links</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li>
+	<li><a href="http://www.98online.com/category/uncategorized/" rel="category tag">Uncategorized</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">Time now to vote for your favorite PET FACE SWAP. The person with the most votes will win $500, thanks to PET E.R.. In order to vote you must</div>
+
+	
+</article>
+			</div>
+</div>
+</div><div class="tab-pane " id="pane-0-2"><div class="posts-section">
+		<div class="posts-list">
+				<article class="archive border-secondary clearfix post-14313 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-kirksblog category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/10/17/ravens-playlist-with-kirk-mcewen-brandon-williams/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/11/14150005/Playlist_Williams_Gen_756x425_01-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Playlist_Williams_Gen_756x425_01"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/10/17/ravens-playlist-with-kirk-mcewen-brandon-williams/">Ravens Playlist</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 19, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/kirksblog/" rel="category tag">Kirk's Blog</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">The only Monday Night Football show that rocks is back! Ravens Gameday host Kirk McEwen welcomes new co-host and Baltimore Ravens nose tackle Brandon Williams as they chat about</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-21259 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/18/ravens-get-win-over-eagles/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/18183517/RavensEagles_West_001-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="RavensEagles_West_001"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/18/ravens-get-win-over-eagles/">Ravens Get Win Over Eagles</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 18, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">The Baltimore Ravens got a way with a win over the Philadelphia Eagles on Sunday when the Eagles failed to complete a 2-point conversion in the final seconds of</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-20971 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/13/ravens-release-returner-devin-hester/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/03/23082550/CoachWritesLettertoRavensAfterTeammateCrash.-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="CoachWritesLettertoRavensAfterTeammateCrash..jpg"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/13/ravens-release-returner-devin-hester/">Ravens Release Returner Devin Hester</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 13, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">Word came today that the Baltimore Ravens&nbsp;waived veteran special teams returner Devin Hester. The move comes one day after a loss to the New England Patriots, a game that</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-20872 post type-post status-publish format-standard has-post-thumbnail hentry category-homepage-recent-posts category-homepage-slider category-photo-gallery category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/13/2nd-half-surge-by-ravens-not-enough-to-take-patriots/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/12235816/RavensvsPats_001-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="RavensvsPats_001"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/13/2nd-half-surge-by-ravens-not-enough-to-take-patriots/">2nd Half Surge By Ravens Not Enough To Take Patriots</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 13, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/homepage-slider/" rel="category tag">Homepage Slider</a></li>
+	<li><a href="http://www.98online.com/category/photo-gallery/" rel="category tag">Photo Gallery</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">After falling behind to the New England Patriots 16 – 3 at halftime, the Baltimore Ravens worked on a come back that would ultimately fall short as the Ravens</div>
+
+	
+</article>
+				<article class="archive border-secondary clearfix post-20846 post type-post status-publish format-standard has-post-thumbnail hentry category-abc-sports category-homepage-recent-posts category-ravens category-smart-phone-app with-thumbnail">
+	<div class="archive-thumbnail"><a href="http://www.98online.com/2016/12/12/los-angeles-rams-fire-coach-jeff-fisher/"><img width="150" height="150" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2016/12/12203105/Getty_121216_JeffFisher-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Jeff Gross/Getty Images"></a></div>
+
+	<h4 class="title"><a class="inverse" href="http://www.98online.com/2016/12/12/los-angeles-rams-fire-coach-jeff-fisher/">Los Angeles Rams Fire Coach Jeff Fisher</a></h4>
+		<div class="article-meta">
+	<span class="single-meta"><i class="fa fa-user"></i> jlaur | </span>
+	<span class="single-meta"><i class="fa fa-calendar"></i> December 12, 2016 |</span>
+	<span class="single-meta"><i class="fa fa-tag"></i><span class="category"><ul class="post-categories">
+	<li><a href="http://www.98online.com/category/abc-sports/" rel="category tag">ABC Sports</a></li>
+	<li><a href="http://www.98online.com/category/homepage-recent-posts/" rel="category tag">Homepage Recent Posts</a></li>
+	<li><a href="http://www.98online.com/category/ravens/" rel="category tag">Ravens</a></li>
+	<li><a href="http://www.98online.com/category/smart-phone-app/" rel="category tag">Smart Phone App</a></li></ul></span></span>
+</div>
+
+
+	<div class="entry-summary">Jeff Gross/Getty Images (LOS ANGELES) — Los Angeles Rams head coach Jeff Fisher is out. The team announced they would be parting ways with the coach Monday after their</div>
+
+	
+</article>
+			</div>
+</div>
+</div></div></div></div>
+		</div><div id="widget-10" class="widget-sidebar widget_dfp_banner_location">				<script>
+				  (function() {
+					  var useSSL = 'https:' == document.location.protocol;
+					  var src = (useSSL ? 'https:' : 'http:') +
+						  '//www.googletagservices.com/tag/js/gpt.js';
+					  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+var gptAdSlots = [];
+googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+
+// Small ad
+addSize([100, 100], [0, 0]).
+
+// Accepts both common mobile banner formats
+addSize([320, 400], [300, 250]).
+
+// Same width as mapping above, more available height
+addSize([320, 700], [300, 250]).
+
+// Landscape tablet
+addSize([750, 200], [[300, 250], [300, 600]]).
+
+// Desktop
+
+addSize([1050, 200],  [[300, 250], [300, 600]]).build();
+gptAdSlots[0] = googletag.defineSlot('/40205520/98Rock_Generic', [[300, 250], [300, 600]], 'div-gpt-ad-1464803835072-0').defineSizeMapping(mapping).addService(googletag.pubads());
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- /40205520/ -->
+<div id="div-gpt-ad-1464803835072-0">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464803835072-0'); });
+</script>
+</div></div><div id="widget-10" class="widget-sidebar widget_text"><h5 class="content-widget-title">98 Rock on Twitter</h5>			<div class="textwidget"><a class="twitter-timeline" data-height="600" href="https://twitter.com/98Rock">Tweets by 98Rock</a> <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+		</div><div id="widget-10" class="widget-sidebar widget_dfp_banner_location">				<script>
+				  (function() {
+					  var useSSL = 'https:' == document.location.protocol;
+					  var src = (useSSL ? 'https:' : 'http:') +
+						  '//www.googletagservices.com/tag/js/gpt.js';
+					  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/40205520/98Rock_Generic', [300, 250], 'div-gpt-ad-1464803874238-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- /40205520 -->
+<div id="div-gpt-ad-1464803874238-0" style="height:250px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464803874238-0'); });
+</script>
+</div>
+</div><div id="widget-10" class="widget-sidebar tribe_mini_calendar_widget"><h5 class="content-widget-title">Events Calendar</h5>
+
+<div class="tribe-mini-calendar-wrapper">
+
+	<!-- Grid -->
+	
+<div class="tribe-mini-calendar-grid-wrapper">
+	<table class="tribe-mini-calendar" data-count="5" data-eventdate="2016-12-01" data-tax-query="" data-nonce="744f5e4d1d">
+				<thead class="tribe-mini-calendar-nav">
+			<tr>
+				<td colspan="7">
+					<div>
+					<a class="tribe-mini-calendar-nav-link prev-month" href="#" data-month="2016-11-01" title="November"><span>«</span></a>					<span id="tribe-mini-calendar-month">December 2016</span>
+					<a class="tribe-mini-calendar-nav-link next-month" href="#" data-month="2017-01-01" title="January"><span>»</span></a>					<img id="ajax-loading-mini" src="http://www.98online.com/wp-content/plugins/the-events-calendar/resources/images/tribe-loading.gif" alt="loading...">
+					</div>
+				</td>
+			</tr>
+		</thead>
+				
+	<thead>
+		<tr>
+					<th class="tribe-mini-calendar-dayofweek">Mon</th>
+					<th class="tribe-mini-calendar-dayofweek">Tue</th>
+					<th class="tribe-mini-calendar-dayofweek">Wed</th>
+					<th class="tribe-mini-calendar-dayofweek">Thu</th>
+					<th class="tribe-mini-calendar-dayofweek">Fri</th>
+					<th class="tribe-mini-calendar-dayofweek">Sat</th>
+					<th class="tribe-mini-calendar-dayofweek">Sun</th>
+					
+
+		</tr>
+	</thead>
+	
+
+		<tbody class="hfeed vcalendar">
+
+			<tr>
+											<td class="tribe-events-othermonth">
+						
+
+				</td>
+											<td class="tribe-events-othermonth">
+						
+
+				</td>
+											<td class="tribe-events-othermonth">
+						
+
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-01">
+						
+
+
+	<div id="daynum-1">
+		<a href="#" data-day="2016-12-01" class="tribe-mini-calendar-day-link">1</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-02 tribe-events-right">
+						
+
+
+	<div id="daynum-2">
+		<a href="#" data-day="2016-12-02" class="tribe-mini-calendar-day-link">2</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-03 tribe-events-right">
+						
+
+
+	<div id="daynum-3">
+		<span class="tribe-mini-calendar-no-event">3</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-04 tribe-events-right">
+						
+
+
+	<div id="daynum-4">
+		<a href="#" data-day="2016-12-04" class="tribe-mini-calendar-day-link">4</a>	</div>
+	
+				</td>
+										</tr>
+			<tr>
+								<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-05">
+						
+
+
+	<div id="daynum-5">
+		<a href="#" data-day="2016-12-05" class="tribe-mini-calendar-day-link">5</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-06">
+						
+
+
+	<div id="daynum-6">
+		<span class="tribe-mini-calendar-no-event">6</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-07">
+						
+
+
+	<div id="daynum-7">
+		<a href="#" data-day="2016-12-07" class="tribe-mini-calendar-day-link">7</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-08">
+						
+
+
+	<div id="daynum-8">
+		<a href="#" data-day="2016-12-08" class="tribe-mini-calendar-day-link">8</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-09 tribe-events-right">
+						
+
+
+	<div id="daynum-9">
+		<a href="#" data-day="2016-12-09" class="tribe-mini-calendar-day-link">9</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-10 tribe-events-right">
+						
+
+
+	<div id="daynum-10">
+		<span class="tribe-mini-calendar-no-event">10</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-11 tribe-events-right">
+						
+
+
+	<div id="daynum-11">
+		<span class="tribe-mini-calendar-no-event">11</span>	</div>
+	
+				</td>
+										</tr>
+			<tr>
+								<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-12">
+						
+
+
+	<div id="daynum-12">
+		<a href="#" data-day="2016-12-12" class="tribe-mini-calendar-day-link">12</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-13">
+						
+
+
+	<div id="daynum-13">
+		<span class="tribe-mini-calendar-no-event">13</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-14">
+						
+
+
+	<div id="daynum-14">
+		<span class="tribe-mini-calendar-no-event">14</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-15">
+						
+
+
+	<div id="daynum-15">
+		<a href="#" data-day="2016-12-15" class="tribe-mini-calendar-day-link">15</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-16 tribe-events-right">
+						
+
+
+	<div id="daynum-16">
+		<span class="tribe-mini-calendar-no-event">16</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-17 tribe-events-right">
+						
+
+
+	<div id="daynum-17">
+		<a href="#" data-day="2016-12-17" class="tribe-mini-calendar-day-link">17</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-past tribe-events-has-events mobile-trigger tribe-event-day-18 tribe-events-right">
+						
+
+
+	<div id="daynum-18">
+		<a href="#" data-day="2016-12-18" class="tribe-mini-calendar-day-link">18</a>	</div>
+	
+				</td>
+										</tr>
+			<tr>
+								<td class="tribe-events-thismonth tribe-events-present tribe-events-has-events mobile-trigger tribe-event-day-19">
+						
+
+
+	<div id="daynum-19">
+		<a href="#" data-day="2016-12-19" class="tribe-mini-calendar-day-link">19</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-20">
+						
+
+
+	<div id="daynum-20">
+		<span class="tribe-mini-calendar-no-event">20</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-21">
+						
+
+
+	<div id="daynum-21">
+		<span class="tribe-mini-calendar-no-event">21</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-22">
+						
+
+
+	<div id="daynum-22">
+		<span class="tribe-mini-calendar-no-event">22</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-23 tribe-events-right">
+						
+
+
+	<div id="daynum-23">
+		<span class="tribe-mini-calendar-no-event">23</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-24 tribe-events-right">
+						
+
+
+	<div id="daynum-24">
+		<span class="tribe-mini-calendar-no-event">24</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future tribe-events-has-events mobile-trigger tribe-event-day-25 tribe-events-right">
+						
+
+
+	<div id="daynum-25">
+		<a href="#" data-day="2016-12-25" class="tribe-mini-calendar-day-link">25</a>	</div>
+	
+				</td>
+										</tr>
+			<tr>
+								<td class="tribe-events-thismonth tribe-events-future tribe-events-has-events mobile-trigger tribe-event-day-26">
+						
+
+
+	<div id="daynum-26">
+		<a href="#" data-day="2016-12-26" class="tribe-mini-calendar-day-link">26</a>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-27">
+						
+
+
+	<div id="daynum-27">
+		<span class="tribe-mini-calendar-no-event">27</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-28">
+						
+
+
+	<div id="daynum-28">
+		<span class="tribe-mini-calendar-no-event">28</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-29">
+						
+
+
+	<div id="daynum-29">
+		<span class="tribe-mini-calendar-no-event">29</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-30 tribe-events-right">
+						
+
+
+	<div id="daynum-30">
+		<span class="tribe-mini-calendar-no-event">30</span>	</div>
+	
+				</td>
+											<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-31 tribe-events-right">
+						
+
+
+	<div id="daynum-31">
+		<span class="tribe-mini-calendar-no-event">31</span>	</div>
+	
+				</td>
+											<td class="tribe-events-othermonth tribe-events-right">
+						
+
+				</td>
+						</tr>
+		</tbody>
+			
+	</table>
+</div> <!-- .tribe-mini-calendar-grid-wrapper -->
+
+	<!-- List -->
+	
+<div class="tribe-mini-calendar-list-wrapper">
+	<div class="tribe-events-loop hfeed vcalendar">
+
+					
+			<!-- Event  -->
+			<div class="hentry vevent type-tribe_events post-20445 tribe-clearfix tribe-events-category-98-rock-event tribe-events-category-ravens tribe-events-venue-13699 tribe-events-first">
+				
+<div class="tribe-mini-calendar-event event-0">
+	<div class="list-date">
+		<span class="list-dayname">Mon</span>
+		<span class="list-daynumber">19</span>
+	</div>
+	<div class="list-info">
+		<h2><a href="http://www.98online.com/event/ravens-playlist-kirk-8/">Ravens Playlist - Kirk</a></h2>
+				<span class="date-start dtstart">December 19 @ 6:00 pm<span class="value-title" title="2016-12-19EST06:00"></span></span> - <span class="end-time dtend">8:00 pm<span class="value-title" title="2016-12-19EST08:00"></span></span>					<div class="tribe-mini-calendar-event-venue">
+				<a href="http://www.98online.com/venue/mothers-north-grille-2/">Mother’s North Grille</a>			</div>
+			</div>
+</div>
+			</div><!-- .hentry .vevent -->
+
+
+								
+			<!-- Event  -->
+			<div class="hentry vevent type-tribe_events post-6900 tribe-clearfix tribe-events-category-ravens-games">
+				
+<div class="tribe-mini-calendar-event event-1 first ">
+	<div class="list-date">
+		<span class="list-dayname">Sun</span>
+		<span class="list-daynumber">25</span>
+	</div>
+	<div class="list-info">
+		<h2><a href="http://www.98online.com/event/ravens-pittsburgh-steelers-2/">Ravens: @ Pittsburgh Steelers</a></h2>
+				<span class="date-start dtstart">December 25 @ 4:30 pm<span class="value-title" title="2016-12-25EST04:30"></span></span> - <span class="end-time dtend">8:30 pm<span class="value-title" title="2016-12-25EST08:30"></span></span>			</div>
+</div>
+			</div><!-- .hentry .vevent -->
+
+
+								
+			<!-- Event  -->
+			<div class="hentry vevent type-tribe_events post-21299 tribe-clearfix tribe-events-category-98-rock-event tribe-events-category-ravens tribe-events-venue-15083 tribe-events-last">
+				
+<div class="tribe-mini-calendar-event event-2 last ">
+	<div class="list-date">
+		<span class="list-dayname">Mon</span>
+		<span class="list-daynumber">26</span>
+	</div>
+	<div class="list-info">
+		<h2><a href="http://www.98online.com/event/ravens-playlist-kirk-13/">Ravens Playlist - Kirk</a></h2>
+				<span class="date-start dtstart">December 26 @ 6:00 pm<span class="value-title" title="2016-12-26EST06:00"></span></span> - <span class="end-time dtend">8:00 pm<span class="value-title" title="2016-12-26EST08:00"></span></span>					<div class="tribe-mini-calendar-event-venue">
+				<a href="http://www.98online.com/venue/mothers-peninsula-grille-2/">Mother’s Peninsula Grille</a>			</div>
+			</div>
+</div>
+			</div><!-- .hentry .vevent -->
+
+
+					
+	</div><!-- .tribe-events-loop -->
+</div> <!-- .tribe-mini-calendar-list-wrapper -->
+</div></div><div id="widget-10" class="widget-sidebar widget_dfp_banner_location">				<script>
+				  (function() {
+					  var useSSL = 'https:' == document.location.protocol;
+					  var src = (useSSL ? 'https:' : 'http:') +
+						  '//www.googletagservices.com/tag/js/gpt.js';
+					  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/40205520/98Rock_Generic', [300, 250], 'div-gpt-ad-1464803874238-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- /40205520 -->
+<div id="div-gpt-ad-1464803874238-0" style="height:250px; width:300px;">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1464803874238-0'); });
+</script>
+</div>
+</div>			</div>
+		</div>
+	
+</div>
+  </section>
+
+
+
+</div><!-- #content-wrapper -->
+
+</div><!--End Main Container-->
+
+
+
+<!-- added by open in new window plugin -->
+<script language="javascript" type="text/javascript">
+	var kpg_oinw_checktypes=true;
+	var kpg_oinw_list=new Array(".pdf",".mp3",".jpg",".gif",".tiff",".png",".doc",".rtf",".docx",".xls",".wmv",".mov",".avi",".zip",".rar",".7z",".arc");
+</script>
+<script language="javascript" type="text/javascript" src="http://www.98online.com/wp-content/plugins/open-in-new-window-plugin/open_in_new_window.js"></script>
+<!-- end of open in new window plugin -->
+
+
+<section id="footer" class="container site-content bg-light">
+	<!-- Banners-->
+	<div id="banner-group">
+		<div class="row">
+			<a href="#" class="topbutton"></a>
+			<!--  -->
+		</div>
+	</div>
+
+	<div class="leaderboard text-center">
+				<div class="adv-container wide-footer">
+							<script>
+				  (function() {
+					  var useSSL = 'https:' == document.location.protocol;
+					  var src = (useSSL ? 'https:' : 'http:') +
+						  '//www.googletagservices.com/tag/js/gpt.js';
+					  document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+					})();
+				</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+var gptAdSlots = [];
+googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+
+// Small ad
+addSize([100, 100], [0, 0]).
+
+// Accepts both common mobile banner formats
+addSize([320, 400], [320, 50]).
+
+// Same width as mapping above, more available height
+addSize([320, 700], [320, 50]).
+
+// Landscape tablet
+addSize([750, 200], [[728, 90], [970, 90], [970, 415]]).
+
+// Desktop
+
+addSize([1050, 200], [[728, 90], [970, 90], [970, 415]]).build();
+gptAdSlots[0] = googletag.defineSlot('/40205520/98Rock_Generic', [[728, 90], [970, 415], [320, 50], [970, 90]], 'div-gpt-ad-1467137066909-0').setTargeting('pos', ['btf']).defineSizeMapping(mapping).addService(googletag.pubads());
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+});
+</script>
+<!-- /40205520/ -->
+<div id="div-gpt-ad-1467137066909-0">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467137066909-0'); });
+</script>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2828738-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.98online.com"]);
+  _paq.push(["setDomains", ["*.98online.com","*.www.98online.com"]]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://webstats.secureitm.com/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1016"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->		</div>
+			</div>
+</section>
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="site-info" class="container">
+		<div class="col-xs-12 navbar-secondary">
+			<!-- The WordPress Menu goes here -->
+			<div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse "><ul id="menu-secondary" class="nav navbar-nav"><li id="menu-item-8521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8521"><a title="About" href="http://www.98online.com/about/">About</a></li>
+<li id="menu-item-8529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8529"><a title="Contests" href="http://www.98online.com/contest-rules/">Contests</a></li>
+<li id="menu-item-8522" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8522"><a title="Advertise With 98 Rock" href="http://www.98online.com/2016/06/07/advertise-with-98-rock/">Advertise With 98 Rock</a></li>
+<li id="menu-item-8526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8526"><a title="98 Rock Jobs" href="http://careers.hearsttelevision.com/">98 Rock Jobs</a></li>
+<li id="menu-item-8525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8525"><a title="EEO Public File Report" href="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/2016-EEOPublicReport.pdf">EEO Public File Report</a></li>
+<li id="menu-item-8527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8527"><a title="FCC Public Inspection Files" href="https://publicfiles.fcc.gov/fm-profile/wiyy">FCC Public Inspection Files</a></li>
+<li id="menu-item-8528" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-8528 active"><a title="Privacy Policy" href="http://www.98online.com/2016/06/07/privacy-policy/">Privacy Policy</a></li>
+</ul></div>		</div>
+
+		<div class="col-xs-12 footer-columns padding-footer">
+			<aside id="widget-columns" class="widget-columns col-sm-3 col-xs-6 widget_sp_image"><a href="http://www.mdlottery.com/" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="232" height="77" alt="" class="attachment-full aligncenter" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/maryland-lotto.png"></a></aside><aside id="widget-columns" class="widget-columns col-sm-3 col-xs-6 widget_sp_image"><a href="http://www.wbaltv.com/" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="232" height="77" alt="" class="attachment-full aligncenter" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/wbaltv.png"></a></aside><aside id="widget-columns" class="widget-columns col-sm-3 col-xs-6 widget_sp_image"><a href="http://www.wbal.com/" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="232" height="77" alt="" class="attachment-full aligncenter" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/wbal-1090.png"></a></aside><aside id="widget-columns" class="widget-columns col-sm-3 col-xs-6 widget_sp_image"><a href="http://www.baltimoreravens.com/" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="232" height="77" alt="" class="attachment-full aligncenter" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/ravens_real.png"></a></aside>		</div>
+
+		<div class="col-xs-12 padding-footer">
+			<div class="row">
+				<div class="col-md-6 col-sm-12 footer-social hidden-xs"><div class="social-links">
+	<a href="" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/follow-us.png" alt="Follow Us"></a><a href="http://www.facebook.com/98online" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-facebook.png" alt="Facebook"></a><a href="http://twitter.com/98rock" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-twitter.png" alt="Twitter"></a><a href="http://instagram.com/98rock" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-instagram.png" alt="Instagram"></a><a href="https://itunes.apple.com/us/app/baltimores-rock-radio-98-rock/id324319097?mt=8" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-apple.png" alt="Apple"></a><a href="https://play.google.com/store/apps/details?id=com.jacobsmedia.wiyy&amp;hl=en" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-android.png" alt="Android"></a><a href="http://freeloader.98online.com/" target="blank" class="social-link-item"><img src="http://d2isblg909whrf.cloudfront.net/themes/wiyy/icon-mail.png" alt="Mail"></a></div></div>
+				<div class="col-md-6 col-sm-12 footer-apps"><aside id="widget-apps" class="widget-apps col-sm-6 col-xs-6 widget_sp_image"><a href="https://itunes.apple.com/us/app/baltimores-rock-radio-98-rock/id324319097?mt=8" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="119" height="36" alt="" class="attachment-full alignright" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/apple_app.png"></a></aside><aside id="widget-apps" class="widget-apps col-sm-6 col-xs-6 widget_sp_image"><a href="https://play.google.com/store/apps/details?id=com.jacobsmedia.wiyy&amp;hl=en" id="" target="_self" class="widget_sp_image-image-link" title="" rel=""><img width="119" height="36" alt="" class="attachment-full alignleft" style="max-width: 100%;" src="http://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/601/2015/09/11132423/google_app.png"></a></aside></div>
+			</div>
+		</div>
+
+
+		<div class="col-xs-12 copyright padding-footer">
+			<div>©2016 98 Rock Baltimore | Powered by <a href="http://www.wordpressforbroadcasters.com">WPB™.</a> Served by <a href="http://www.intertechmedia.com">InterTech Media LLC </a></div>
+		</div>
+
+
+
+	</div>
+</footer>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<style type="text/css">  
+      html { margin-top: 0px !important; }  
+      * html body { margin-top: 0px !important; }  
+  </style><script type="text/javascript" src="http://www.98online.com/wp-content/plugins/akismet/_inc/form.js?ver=3.1.7"></script>
+<link rel="stylesheet" id="aws_ec_css-css" href="http://www.98online.com/wp-content/plugins/entity_closing_listings/static/aws_closings.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="widget-calendar-pro-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-full.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="tribe_events-widget-calendar-pro-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-theme.css?ver=3.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="tribe_events--widget-calendar-pro-override-style-css" href="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar-theme.css?ver=3.6.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/advertise/modules/stats/assets/track.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/advertise/assets/js/front.js?ver=6.2.1"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/advertise/modules/ajax-reload-banners/js/banner-reload.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.98online.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/sharify/admin/inc/sharifycounts.js?ver=1.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-widget-recent-posts-advanced/inc/js/masonory-script-widget-js.php?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wcp-openweather/assets/libs/iris/iris.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.jplayer.min.js?ver=2.4.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.android-adapter-fix.js?ver=2.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JPlayer = {"swfPath":"http:\/\/www.98online.com\/wp-content\/plugins\/wpb-show-core\/modules\/jplayer\/assets\/","playlists":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-show-core/modules/jplayer/jquery.jplayer-init.js?ver=2.4.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/comment-reply.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/bootstrap.min.js?ver=3.3.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/common.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js-dev/responsive-scripts.js?ver=3.3.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/fitvids.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/topbutton.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/jquery.touchSwipe.min.js?ver=1.3.3"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/css3-mediaqueries.js?ver=1.3.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/fitvids.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/themes/wiyy-theme/inc/js/wpb-fitvids.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-slider/assets/js/caroufredsel/jquery.carouFredSel-6.2.1-packed.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-slider/assets/js/wpb-slider-common.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-gallery-lightbox/jquery.touchwipe.1.1.1.js?ver=1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JQLBSettings = {"showInfo":"1","fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","resizeCenter":"","marginSize":"","linkTarget":"_self","slideshowSpeed":"4000","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+var JQLBSettings = {"showInfo":"1","fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","resizeCenter":"","marginSize":"","linkTarget":"_self","slideshowSpeed":"4000","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-gallery-lightbox/jquery.lightbox.js?ver=1.4"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/entity_closing_listings/static/aws_ec.js?ver=1"></script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/wpb-banner-light-window/featherlight-1.2.3/release/featherlight.min.js?ver=1.2.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var TribeMiniCalendar = {"ajaxurl":"http:\/\/www.98online.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.98online.com/wp-content/plugins/events-calendar-pro/resources/widget-calendar.js?ver=3.6.1"></script>
+	<script>
+	window.aws_ec_config_sid = new Array('1','601');
+	window.aws_ec_current_sid = "601";
+	window.ajaxBaseSite = "http://50.17.251.204/";
+
+	window.todaysDate = '2016-12-19';
+	window.gmt_offset = -5;
+
+	window.wp_hour = "15";
+	window.wp_minute = "03";
+	window.wp_time = window.wp_hour + ":" + window.wp_minute;
+
+	window.aws_ec_return_type = new Array();
+	jQuery(document).ready(function($){
+		//help make ajax play nice in older internet explorer (9 and hopefully below)
+		$.support.cors = true;
+		//starts everything important
+		aws_ec_init();
+	})
+	</script>
+	
+
 </body></html>
