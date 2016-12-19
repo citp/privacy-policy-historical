@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ads4dough.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050829id_/http%3A//www.a4d.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads4dough.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219225753id_/https%3A//www.a4d.com/privacy) for the most accurate reproduction.*
 
-# A4D - Privacy Policy
+# A4D
 
 ### 1\. Introduction
 
