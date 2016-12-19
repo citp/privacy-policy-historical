@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205055757id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footlocker.ca privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219180652id_/http%3A//www.footlocker.ca/en-CA/customerserv/help%3AprivacyStatement) for the most accurate reproduction.*
 
-# Customer Service - OtherServices - Privacy Policy | Foot Locker Canada
+# Customer Service - OtherServices - Privacy Statement | Foot Locker Canada
 
-Last Updated July 30, 2014
+Last Updated July, 2016
 
 Privacy Statement
 
@@ -98,8 +98,6 @@ We may amend this Privacy Statement at any time. If we make any material changes
 Option to Opt-Out
 
 At all times, you have the option of "opting out" of receiving future marketing updates. To opt-out of receiving marketing e-mails, you may send us an e-mail with "unsubscribe" in the subject line to canadacustomercare@footlocker.com. Note, however, that even if you opt out, you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations and other transactional messages.
-
-If you previously registered for a text messaging campaign and now want to opt out, text "STOP" to the short code / number for the program that you’ve signed up for.
 
 To opt-out of receiving other Foot Locker marketing communications, contact us at canadacustomercare@footlocker.com.
 
