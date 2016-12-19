@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hapo.org privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314063204id_/https%3A//www.hapo.org/docs/privacy-model-form.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hapo.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219192341id_/https%3A//www.hapo.org/docs/privacy-model-form.pdf) for the most accurate reproduction.*
 
 # FACTS
 
