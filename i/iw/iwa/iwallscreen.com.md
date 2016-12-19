@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwallscreen.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524170811id_/http%3A//www.iwallscreen.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwallscreen.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219165958id_/http%3A//www.iwallscreen.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy ~ iWallScreen
 
