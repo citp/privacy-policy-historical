@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsuppliesplus.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412111807id_/http%3A//www.petsuppliesplus.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsuppliesplus.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219150744id_/http%3A//petsuppliesplus.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Pet Supplies Plus : Privacy Policy
 
