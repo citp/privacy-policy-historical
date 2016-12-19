@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loxb.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403122442id_/http%3A//loxb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loxb.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219065758id_/http%3A//loxb.com/privacy.html) for the most accurate reproduction.*
 
 # vodbuzz Game Privacy
 
