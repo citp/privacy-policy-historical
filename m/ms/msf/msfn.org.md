@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621014836id_/http%3A//msfn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220001721id_/http%3A//www.msfn.org/privacy) for the most accurate reproduction.*
 
-# MSFN Privacy Policy – MSFN
+# MSFN Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at xper at msfn.org. At www.msfn.org, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.msfn.org and how it is used.
 
