@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markandgraham.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608001710id_/http%3A//www.markandgraham.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav%26cm_sp%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markandgraham.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219200558id_/http%3A//www.markandgraham.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav%26cm_sp%3DGlobalLinks-_-Footer-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Mark and Graham
 
