@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051216id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219085234id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
 
-# Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.® - Official Ashley Madison website
+# Ashley Madison® | Privacy Policy
 
-Avid Dating Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 22, 2011.
+Ruby Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: July 28, 2016.
 
 The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
@@ -69,7 +69,7 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 To contact us concerning Privacy issues, please use the [Contact Form](https://www.ashleymadison.com/app/public/contactform.p?contactform=1). All other inquiries should be sent using our [Contact Us](https://www.ashleymadison.com/app/public/contactform.p) section.
 
 **Attn:** Privacy Officer  
-Avid Life Media  
+Ruby Inc.  
 PO Box 67027  
 Toronto, ON  
 M4P 1E4
