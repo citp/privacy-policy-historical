@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506182455id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219152528id_/https%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mall of America
 
