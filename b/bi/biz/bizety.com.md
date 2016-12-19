@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2016-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160129034944id_/http%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219173321id_/https%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - CDN, Cloud Security, Telecom | Bizety
-
-## **Privacy Policy**
+# Privacy Policy - Bizety
 
 What information do we collect  
 We collect information from you when you register on our site.
