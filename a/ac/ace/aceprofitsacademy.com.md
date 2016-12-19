@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceprofitsacademy.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521035242id_/http%3A//www.aceprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceprofitsacademy.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219192152id_/http%3A//www.aceprofitsacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ace Profits Academy
 
@@ -45,11 +45,20 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Ace Profits Academy  
-aceprofitsacademy.com  
-8 Burn Road, Trivex #09-16 Singapore 369977  
-+65 6636 9620  
-admin@cpaprofitsacademy.com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-This document was last updated on January 13, 2015
+**Digimatic Media Pte Ltd**
+
+82 Ubi Avenue 4 #06-04,  
+Edward Boustead Centre,  
+Singapore 408832
+
+Office: (65) 6636 9620 (10am to 6pm daily except Saturday, Sunday & Public Holidays)
+
+Email: events@aceprofitsacademy.com
+
+Ace Profits Academy is the leading Marketing Partner and Event Organiser for Seminars. A brand under Digimatic Media Pte Ltd (Registration No. 201317712D).
+
+A wholly-owned subsidiary of DIGIMATIC GROUP LTD (ASX: DMC). SINGAPORE | MALAYSIA | PHILIPPINES | AUSTRALIA
+
+This document was last updated on Tuesday, 20th September, 2016.
