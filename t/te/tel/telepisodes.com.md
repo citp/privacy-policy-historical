@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telepisodes.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605051911id_/http%3A//telepisodes.li/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telepisodes.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219233726id_/http%3A//telepisodes.li/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Telepisodes
 
@@ -65,4 +65,4 @@ By using our site, you consent to our web site privacy policy.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.telepisodes.com  
-privacy@telepisodes.net
+privacy@Telepisodes
