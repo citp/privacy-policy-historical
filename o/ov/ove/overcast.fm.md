@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313095240id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overcast.fm privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219213721id_/https%3A//overcast.fm/privacy) for the most accurate reproduction.*
 
 # Overcast
 
 This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
+
+## History of changes
+
+  * **July 16, 2014:** First published.
+  * **February 26, 2016:** Added Fabric crash reporting and analytics.
+  * **September 6, 2016:** Added premium subscriptions and ads; reorganized analytics.
+
+
 
 ## Information we collect
 
@@ -35,11 +43,33 @@ We use cookies on the site and similar tokens in the app to keep you logged in.
 
 Like most websites and apps, we also store information through the use of software that may be transparent to users. For example, we may log your IP address and general information about your browser or device.
 
+### **Premium subscription asking to share email, ZIP code, etc.**
+
+If you subscribe to Overcast Premium in the app, an Apple system dialog may ask you to optionally share your email address, postal code, or other information with Overcast.
+
+**We don’t want this data, and we encourage you to decline.** We may already have your email address for login purposes if you chose to share it with us, but we don’t care who you are or where you live.
+
+But at the time of writing, Apple does not offer Overcast a way to opt out of this data collection, and it will be available to us from anyone who opts in. If we ever access this data, we will never use it for marketing purposes or disclose it to any third parties.
+
+### **Additional information collected by anonymous analytics**
+
+Overcast’s iOS app includes limited components of [Twitter’s Fabric](https://fabric.io/) to provide crash reporting and basic analytics to help us improve the app. These are aggregate, anonymous statistics, such as the percentage of users who use particular features.
+
+Overcast does not share your email address or any other personal data with Twitter. Other data, such as podcasts being played or shared, may be shared anonymously for aggregate statistical analysis to further improve the app.
+
+### **Additional information collected by in-app ads**
+
+Overcast’s iOS app includes [Google AdMob ads](https://www.google.com/admob/). Google may use the advertising identifier from your device(s) to infer interests, demographics, and other data to show you more relevant ads. Your device advertising identifier can be disabled or reset [by following these instructions from Apple](https://support.apple.com/en-us/HT202074).
+
+Overcast does not share your email address or any other personal data with Google. Other data, such as podcasts and genres being played or subscribed to, may be shared anonymously for ad targeting.
+
+Becoming a Premium user disables all advertisements and sharing of targeting data.
+
 ## Information usage
 
 We use the information we collect to operate and improve our website, apps, and customer support.
 
-We do not share your personal information with outside parties except to the extent necessary to accomplish Overcast’s functionality, with the exception of [Fabric](https://fabric.io/), which is embedded in Overcast’s iOS app to provide crash reporting and basic analytics to help us improve the app.
+We do not share your personal information with outside parties except to the extent necessary to accomplish Overcast’s functionality, except as specified above for analytics and in-app advertisements.
 
 We may share anonymous, aggregate statistics with outside parties, such as how many people listen to a particular podcast with Overcast.
 
@@ -79,6 +109,4 @@ If you have questions regarding this privacy policy, you may email [privacy@over
 
 ## Changes to this policy
 
-If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date below.
-
-**This policy was last modified on February 26, 2016 to cover the addition of Fabric crash reporting and analytics to the iOS app. Prior to that, there were no modifications since Overcast’s launch in July 2014.**
+If we decide to change our privacy policy, we will post those changes on this page and update the Privacy Policy modification date above.
