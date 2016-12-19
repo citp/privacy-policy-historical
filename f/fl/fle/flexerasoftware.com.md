@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416125302id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219110945id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Flexera Software
 
@@ -6,19 +6,27 @@ These pages explain the Terms of Use for Flexera Software websites, legal and pr
 
 These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
 
-This privacy policy applies to [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/) owned and operated by Flexera Software. This privacy policy describes how Flexera Software collects and uses the personal information you provide on our web sites: [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.cn](http://www.flexerasoftware.cn/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/), [www.flexerasoftware.jp](http://www.flexerasoftware.jp/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/) and Flexera Software’s service platforms, owned and operated by Flexera Software. This privacy policy describes how Flexera Software collects and uses the personal information you provide on our web sites: [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexerasoftware.cn](http://www.flexerasoftware.cn/), [www.flexerasoftware.de](http://www.flexerasoftware.de/), [www.flexerasoftware.fr](http://www.flexerasoftware.fr/), [www.flexerasoftware.jp](http://www.flexerasoftware.jp/) and [www.flexnetmanager.com](http://www.flexnetmanager.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Flexera Software respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our Website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option choose to provide us with your personal information. This policy describes how we collect and use your personal information.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6 "TRUSTe Privacy Certification") The TRUSTe program covers the Websites [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexnetmanager.com](http://www.flexnetmanager.com/) and [www.flexnetoperations.com](http://www.flexnetoperations.com/). The TRUSTe program does not cover information that may be collected through downloadable software and does not cover information collected through our service platforms. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
+### EU-U.S. Privacy Shield
 
-Flexera Software complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Flexera Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Flexera Software's certification, please visit <http://www.export.gov/safeharbor/>.
+[](https://privacy.truste.com/privacy-seal/validation?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6 "TRUSTe Privacy Certification") Flexera Software participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Flexera Software is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+
+Flexera Software is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Flexera complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Flexera Software is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Flexera Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 Flexera Software also complies with the **CAN-SPAM** Act of 2003 and the Canadian Privacy Act.
 
 ### Information Collection
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, credit card number, a company or home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal or product interests, other information when needed to provide a service you requested.
+Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, credit card number, a company or home, postal or other physical address, other contact information, title, gender, occupation, industry, personal or product interests, other information when needed to provide a service you requested.
 
 When you browse our Website, you do so anonymously, unless you have previously indicated that you wish Flexera Software to remember your login and password. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our Website. Like many other commercial Websites, the Flexera Software Website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Information" below for more information.
 
@@ -54,17 +62,13 @@ If you would like to be removed from our database, you can unsubscribe at <http:
 
 ### Cookies and Tracking Technology
 
-Technologies such as: cookies, beacons, tags and scripts are used by Flexera Software. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Flexera Software and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ### Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
-
-### Local Storage Objects
-
-We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 ### How We Use Information Collected
 
@@ -80,6 +84,8 @@ Flexera Software may send your personal information to other companies or people
 
 ### Legal Disclaimer
 
+In certain situations, Flexera Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We will also disclose your personal information if required to do so by law, such as to comply with a subpoena, or similar legal process when we believe in good fatih that disclosure is necessary to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our Websites, investigate fraud, or respond to a government request.
 
 If Flexera Software is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
@@ -88,7 +94,7 @@ If Flexera Software is involved in a merger, acquisition, or sale of all or a po
 
 Your Flexera Software account information is password-protected for your privacy and security. Flexera Software safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our Websites, Flexera Software uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-The security of your personal information is important to us. We follow generally accepted standards as stated above to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee it’s absolute security. If you have any questions about security on our website, you can contact us at [DZnidarsic@flexerasoftware.com](mailto:DZnidarsic@flexerasoftware.com)
+The security of your personal information is important to us. We follow generally accepted standards as stated above to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee it’s absolute security. If you have any questions about security on our website, you can contact us at [security@flexerasoftware.com](mailto:security@flexerasoftware.com)
 
 ### Testimonials
 
@@ -126,6 +132,16 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 Flexera Software's Website contains links to other sites. Flexera Software does not share your personal information with those Websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
+### Processor/Service Platform Disclosure
+
+The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Flexera Software.
+
+Flexera Software collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Flexera Software’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. COMPANY will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ### Changes to this Privacy Policy
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on this website prior to the change becoming effective. At the end of this Privacy Policy will be the last updated date for your information. We encourage you to periodically review this page for the latest information on our privacy practices.
@@ -139,4 +155,4 @@ Flexera Software
 Itasca, IL 60143  
 (847) 466-4000
 
-This document was last updated February 23, 2016.
+This document was last updated September 29, 2016.
