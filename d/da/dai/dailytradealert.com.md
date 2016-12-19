@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627054442id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytradealert.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219043855id_/http%3A//dailytradealert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Trade Alert
 
