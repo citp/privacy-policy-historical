@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsb.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618200933id_/http%3A//www.tsb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsb.co.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219234419id_/http%3A//www.tsb.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TSB
 
@@ -172,7 +172,7 @@ In addition you may wish to choose a channel of communication that suits you whe
 
 Using credit scoring
 
-When you apply for credit, an automated system known as credit scoring may be used when considering whether to agree the borrowing. It is a method of assessing your likely conduct of an account based on a range of data, including the conduct of previous similar accounts. It is a system widely used by credit providers to help make fair and informed decisions on lending.
+When you apply for credit, an automated system known as [credit scoring](https://web.archive.org/straightforward-money/managing-your-credit-score/16062210151258/ "credit scoring") may be used when considering whether to agree the borrowing. It is a method of assessing your likely conduct of an account based on a range of data, including the conduct of previous similar accounts. It is a system widely used by credit providers to help make fair and informed decisions on lending.
 
 Credit scoring takes account of information from three sources - the information you provide on your application, information provided by credit reference agencies and information that may already be held about you by us. A credit scoring system will consider information from these sources, to make an overall assessment of your application. The credit scoring methods used are regularly tested to ensure they remain fair, effective and unbiased.
 
@@ -212,7 +212,7 @@ As part of our ongoing commitment to understanding our customers better, we may 
 
 Obtaining a copy of your information
 
-Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. For further details on how to request a copy of your information, please contact:
+Under the Data Protection Act 1998 you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. To request your information please print off the [Data Subject Access Request Form](https://web.archive.org/privacy/tsb-dsar-form.pdf "Data Subject Access Request Form") read the guidance attached then complete and sign the form and send it to the below address. An acknowledgement letter will be issued to you by the DSAR team following receipt of your request.
 
 DSAR Unit,    
 TSB Bank plc    
