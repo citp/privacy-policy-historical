@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectlytimedphotos.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624160402id_/http%3A//perfectlytimedphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectlytimedphotos.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220003456id_/http%3A//www.perfectlytimedphotos.com/privacy-policy) for the most accurate reproduction.*
 
-# Perfectly Timed Photos - Privacy Policy
+# Policy of the Privacy - Perfectly Timed Photos
 
 ## Privacy Policy for the HORSE HEAD HUFFER network
 
