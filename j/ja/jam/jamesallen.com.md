@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321131844id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052637id_/https%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn about JamesAllen.coms Privacy Policy
 
@@ -20,7 +20,23 @@ Additionally, in order to improve your online experience at James Allen, we have
 
 Please note: personally-identifiable information **will not** be shared with Google Analytics. 
 
-You can [opt-out ](https://tools.google.com/dlpage/gaoptout/) whenever you want.
+You can [opt-out ](https://tools.google.com/dlpage/gaoptout/) whenever you want by following these steps:
+
+Please note that if your change your computer, change your web browser, or delete your cookies, you will need to renew all of your opt-out choices. Likewise, if your settings (such as a "block third party cookies and site data" setting) do not permit cookies to be set, opt-out cookies will not work, either. 
+
+You may also opt out of James Allen's mobile interest-based advertising through your mobile device settings, as described below, and as applicable to most (but not all) mobile devices. When you do this, James Allen will no longer use your information to deliver behaviorally targeted advertising to your device. Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests. 
+
+**Opting Out on iOS Devices Such as iPhones, iPads or iPods** If you have an Apple device, you can opt out of mobile interest-based or "cross-app" advertising by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to 'ON'. You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to 'ON'. Our systems are designed to respect your choice and not use information to provide interest-based advertising when this setting is ON. 
+
+**Opting Out on Android Devices** If you have an Android device and would like to opt out of mobile interest-based or "cross-app" advertising, you may do this as follows: 
+
+  * Open the Google Settings app on your device 
+  * Select Ads 
+  * Opt out of interest-based ads 
+
+
+
+Our systems are likewise designed to respect these choices transmitted by your Android device. 
 
 We will not share the personal information which you provide to us except (i) for the purposes that you provided it to us, (ii) with your prior consent, (iii) as may be required by law as we reasonably deem necessary to protect James Allen or others from injury or loss, or (iv) with other persons or entities with whom we contract to provide services in connection with our web site(s) or other business activities. Notwithstanding, we may share the personal information we collect with our parent, affiliate and subsidiary companies, and business partners for the purposes described in this Privacy Policy including to communicate with you about products and services, offers, events and promotions that may be of interest to you. If we do share such personal information with a third party, we will, to the extent practical, require that the recipient protect that information in a manner consistent with this Privacy Policy. However, we cannot guarantee how such a third party will use personal information.  
 
