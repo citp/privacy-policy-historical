@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528195334id_/http%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219082110id_/http%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game Idealist
 
@@ -16,11 +16,11 @@ Game Idealist does use cookies to store information about visitors preferences,
 
 **Google Analytics**
 
-Game Idealist use a tool called Google Analytics to collect information about use of this website. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
+Game Idealist use a tool called Google Analytics to collect information about use of this website. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://www.google.com/policies/privacy/). You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
 **Amazon  Associates Program**
 
-GameIdealist.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amazon.com/).
+GameIdealist.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](https://amazon.com/).
 
 **Childrens Online Privacy Protection Act Compliance**
 
