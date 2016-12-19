@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boutiquetoyou.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905171607id_/http%3A//www.boutiquetoyou.com/CustomerService/TermsAndPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquetoyou.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219030754id_/http%3A//www.boutiquetoyou.com/CustomerService/TermsAndPrivacy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
