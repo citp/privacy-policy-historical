@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashroyalearena.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613065147id_/http%3A//clashroyalearena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashroyalearena.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219122557id_/http%3A//clashroyalearena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clash Royale Guides
 
@@ -30,6 +30,8 @@ Certain visitors to Automattic’s websites choose to interact with Automattic i
 ### Aggregated Statistics
 
 Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
+
+Advertisement 
 
 ### Protection of Certain Personally-Identifying Information
 
