@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metrolinktrains.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623101928id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metrolinktrains.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219131319id_/http%3A//metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy | Metrolink</title>
@@ -355,7 +355,7 @@ function closeSubmenu(sub) {
                 <a href="#share-link-box" class="share-lightbox"><img alt="Share a link to this page" src="/images/icon_share_link.png"></a>
                 <a href="javascript:void(0)" onclick="shareOnFacebook();"><img alt="Share on Facebook" src="/images/icon_share_facebook.png"></a>
                 <a href="" id="share-on-twitter"><img alt="Share on Twitter" src="/images/icon_share_twitter.png"></a>
-                <a href="#share-email-box" class="share-lightbox share-lightbox-email"><img alt="Share via Email" src="/images/icon_share_email.png"></a>
+                <a href="/home/shareemail.html" class="share-lightbox share-lightbox-email"><img alt="Share via Email" src="/images/icon_share_email.png"></a>
                 <div class="clear-both"></div>
 		
 		<div style="display:none">
@@ -365,44 +365,8 @@ function closeSubmenu(sub) {
 				<p class="italic" style="margin-top:5px;">Right click the text above and select "Copy" to add the URL to your clipboard.</p>
 			</div>
 		</div>
-                <div style="display:none">
-			<script type="text/javascript">
-				$(document).ready(function(){
-					$('#send-email').click(function(){
-						$('.error').remove();
-						var error = false;
-						if(!$('#from_email').val().match(/(.*)\@(.*)\.(.*)/)){
-							$('#from_email').after('<span class="error">Please enter your email</span>');
-							error = true;
-						}
-						if(!$('#to_email').val().match(/(.*)\@(.*)\.(.*)/)){
-							$('#to_email').after('<span class="error">Please enter an email you wish to share to</span>');
-							error = true;
-						}
+            </div>
 
-						if(!error){
-							$.post('/home/share_email.js',{ from_email: $('#from_email').val(), to_email: $('#to_email').val(), caption: document.location.href+"\n"+$('#caption').val() }, function(r){
-								$('h4').after('<span class="error" style="padding-bottom:10px; text-align:center;">Thank you. Your email has been sent.</span>');
-								setTimeout(function() {
-									$('#fancybox-close').trigger('click');
-								}, 3000);
-							});
-						}
-					});
-				});
-			</script>
-                        <div id="share-email-box">
-				<h4>Share via Email</h4>
-				<label>To: </label><input type="text" name="to_email" id="to_email" placeholder="Recipient's email address"><br>
-				<div class="clear-both"></div>
-				<label>From: </label><input type="text" name="from_email" id="from_email" placeholder="Your email address"><br>
-				<div class="clear-both"></div>
-				<label>Note: </label><br>
-				<textarea name="note" id="caption" placeholder="(optional)"></textarea><br>
-				<div style="width:150px; margin:0 auto;"><input type="button" id="send-email" value="Send"> <input type="button" value="Cancel" onclick="parent.$.fancybox.close()"></div>
-                        </div>
-                </div>		
-        </div>
 
 <script type="text/javascript">
 function shareOnFacebook() {
@@ -517,9 +481,9 @@ $('#share-on-twitter').click(function() {
 			<li><a href="#">Metrolink Store</a></li>
 			-->
 			<li><a href="/agency/page/title/our_trains">Our Trains</a></li>
-                        <li><a href="/agency/page/title/ptc">PTC</a></li>
-			<li><a href="/agency/page/title/innovations">Innovations</a></li>
-
+            <li><a href="/agency/page/title/ptc">PTC</a></li>
+            <li><a href="/agency/page/title/sustainability">Sustainability</a></li>
+            <li><a href="/news/page/title/quietzones">Quiet Zones</a></li>
 		</ul>
 	</div>
 	<div class="column column2">
