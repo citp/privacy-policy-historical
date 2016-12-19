@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601135613id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219230926id_/http%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piping Rock Health Products
 
@@ -28,6 +28,8 @@ Like many companies, we use “cookies,” “web beacons,” and similar techno
 You may be able to disable cookies by changing a setting in your web browser. Please note, however, that without cookies you may not be able to take full advantage of our Site’s features and that your decision to decline cookies from our Site may impact your ability to use other websites as well.
 
 We may combine information collected from tracking devices and the information we collect in our cookies (as described below) with other information we collect about you.
+
+Third parties may place anonymous cookies on the browsers of visitors to our websites and may send their own cookies to the visitor’s cookie file.  Pursuant to global data regulations, Company’s employees have a right of access, modification and erasure of the personal data collected for the sole purpose of the service provision.  These rights may be exercised at [privacy@criteo.com](mailto:privacy@criteo.com)
 
 ### How Do We Use Your Personal Information?
 
@@ -86,6 +88,10 @@ The Site is intended for a general audience and is not designed for children und
 
 The Site is based in the United States, and therefore, information we collect about you may be stored, processed and accessed in the United States. By using the Site, you consent to the transfer, storage, and processing of personal information about you in the United States.
 
+### Criteo Marketing
+
+The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. [To learn more or opt out of Criteo Email](http://privacy.criteoemail.com/us/privacy-policy.html)
+
 ### Future Changes to the Privacy Policy
 
 As Piping Rock’s activities and organization change from time to time, this Privacy Policy is expected to change as well. We reserve the right, at our discretion, to change, modify, add or remove portions of the Privacy Policy at any time. The date of the last revision to the Privacy Policy will be indicated at the bottom of this Privacy Policy. We encourage you to check the Privacy Policy to remain informed of any changes, notice of which will be set forth prominently on this Site.
@@ -94,4 +100,4 @@ As Piping Rock’s activities and organization change from time to time, this Pr
 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences regarding the use of your personal information, please contact us by:
 
-Last updated: March 9, 2015
+Last updated: September 30, 2016
