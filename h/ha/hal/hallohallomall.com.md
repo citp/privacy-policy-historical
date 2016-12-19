@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the hallohallomall.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202024236id_/http%3A//hallohallomall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallohallomall.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052603id_/http%3A//mall.hallohallo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy 
 
-Hallohallomall.com knows that you're concern about how information about you is used and shared, and we're very grateful for your confidence that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Hallohallo.com, you are accepting the practices described in this Privacy Notice. 
+Mall.hallohallo.com knows that you're concern about how information about you is used and shared, and we're very grateful for your confidence that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting mall.hallohallo.com, you are accepting the practices described in this Privacy Notice. 
 
-What personal information about customers does hallohallomall.com gather?  
-The information we learn from customers helps us personalize and continually improve your shopping experience at Hallohallomall.com. Here are the types of information we gather. 
+What personal information about customers does mall.hallohallo.com gather?  
+The information we learn from customers help us personalize and continually improve your shopping experience at mall.hallohallo.com. Here are the types of information we gather. 
 
 Information You Give Us:  
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
 
 Automatic Information:  
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Hallohallomall.com or advertisements and other content served by or on behalf of Hallohallomall.com on other Web sites 
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses mall.hallohallo.com or advertisements and other content served by or on behalf of mall.hallohallo.com on other Web sites 
 
 E-mail Communications:  
-To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Hallohallomall.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. 
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from mall.hallohallo.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. 
 
-Does Hallohallomall.com Share the Information It Receives?:  
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Hallo Hallo Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+**Does Hallo Hallo Alliance Share the Information It Receives?:**  
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries (websites) Hallo Hallo Alliance controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
 Affiliated Businesses We Do Not Control:  
-We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Hallohallomall.com or sell offerings to you at Hallohallomall.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
+We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at mall.hallohallo.com or sell offerings to you at mall.hallohallo.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. 
 
-Protection of Hallohallotown.com and Others:  
-We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Hallohallomall.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+Protection of mall.hallohallo.com and Others:  
+We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of mall.hallohallo.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
 
-Are Children Allowed to Use Hallohallomall.com?  
-Hallohallomall.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Hallohallomall.com only with the involvement of a parent or guardian. 
+Are Children Allowed to Use mall.hallohallo.com?  
+Mall.hallohallo.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use mall.hallohallo.com only with the involvement of a parent or guardian. 
 
 Terms of Use, Notices, and Revisions:  
-If you choose to visit Hallohallomall.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of The Philippines. If you have any concern about privacy at Hallohallomall.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+If you choose to visit mall.hallohallo.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of The Philippines. If you have any concern about privacy at mall.hallohallo.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 Delivery Complete Process  
 When the customer placed their order, they will receive an email confirming their order(s) 
