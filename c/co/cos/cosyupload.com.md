@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosyupload.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402210103id_/https%3A//cosyupload.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosyupload.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219201916id_/https%3A//cosyupload.com/privacy_policy) for the most accurate reproduction.*
 
 # CosyUpload.com
 
