@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615151744id_/http%3A//efergy.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219174753id_/http%3A//efergy.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Free shipping on orders over $96.00
+Product was successfully added to your shopping cart.
 
 ### PRIVACY POLICY
 
