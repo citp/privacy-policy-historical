@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052411id_/http%3A//chronicle.com/page/Privacy-Policy/617/%3Fcid%3Dcheftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219221746id_/http%3A//www.chronicle.com/page/Privacy-Policy/617/%3Fcid%3Dcheftr) for the most accurate reproduction.*
 
 # Privacy Policy - The Chronicle of Higher Education
 
