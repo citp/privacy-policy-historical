@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604092314id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219074659id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sunny
 
@@ -39,7 +39,7 @@ All of your information is stored on our secure servers, and is reviewed on a re
 
 Countries within the European Economic Area (EEA) are required to have a similar standard of protection of personal data. We may transfer personal data outside the EEA but will ensure that before we do so, there is adequate protection as required by the relevant Data Protection legislation. 
 
-Elevate Credit International Limited is owned by Elevate Credit, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Elevate Credit, Inc. in order to analyse our data and provide audit services. Elevate Credit, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Elevate Credit, Inc., Safe Harbor Privacy Policy click [here](http://elevate.co.uk/privacy-policy.html). 
+Elevate Credit International Limited is owned by Elevate Credit, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Elevate Credit, Inc. in order to analyse our data and provide audit services. Elevate Credit, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Elevate Credit, Inc., Safe Harbor Privacy Policy click [here](http://elevatecredit.co.uk/privacy-policy.html). 
 
 We will use the information stored about you to search the files of one or more credit reference agencies for the purposes of credit assessment or account administration. 
 
