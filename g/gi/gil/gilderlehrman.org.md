@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195317id_/https%3A//www.gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilderlehrman.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219165337id_/https%3A//www.gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gilder Lehrman Institute of American History
 
@@ -6,7 +6,7 @@
 
 A privacy policy is a legal notice about how organization websites use personal information collected on a website. It includes information that outlines what information is collected, how it is used, the persons/parties to whom the personal information may be disclosed, and the security measures taken to protect the personal information.
 
-This Privacy Policy discloses the privacy practices for The Gilder Lehrman Institute of American History website. Please read this Privacy Policy carefully.
+This Privacy Policy discloses the privacy practices for the Gilder Lehrman Institute of American History website. Please read this Privacy Policy carefully.
 
 **What information do we collect?**
 
@@ -93,7 +93,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy, you may contact us using the information below. 
 
 The Gilder Lehrman Institute of American History  
-19 West 44th Street  
+49 West 45th Street, 6th Floor  
 New York, New York 10036  
 United States  
 Email: [info@gilderlehrman.org](mailto:info@gilderlehrman.org)  
