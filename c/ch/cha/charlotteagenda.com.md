@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the charlotteagenda.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508071527id_/https%3A//www.charlotteagenda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotteagenda.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219090652id_/https%3A//www.charlotteagenda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Charlotte Agenda
+
+**Privacy Policy**
 
 This privacy policy (“Policy”) describes how Charlotte Agenda (“Company”) collects, uses and shares personal information of consumer users of this website, www.charlotteagenda.com (the “Site”). This Policy covers the treatment of personally identifiable information, and other information described in this Policy, gathered when you are using or accessing the Site. This Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
@@ -40,10 +42,10 @@ We may share personal information as follows:
   * We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
   * We employ and contract with service providers – individuals and entities that perform certain tasks on our behalf. We may need to share personal information with our service providers in order to provide products or services to you. We do not authorize our service providers to use personal information or other information we share with them beyond what is necessary to assist us.
   * We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-  * We may share personal information for legal, protection, and safety purposes.
+  * We may share personal information for legal, protection, and safety purposes. 
     * We may share information to comply with laws.
     * We may share information to respond to lawful requests and legal processes.
-    * We may share information to protect the rights and property of Stomping Ground Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+    * We may share information to protect the rights and property of our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
     * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
 
 
@@ -60,8 +62,8 @@ You can typically remove and reject cookies from our Site with your browser sett
 
 **CONTACT INFORMATION.**  We welcome your comments or questions about this privacy policy. You may contact us at the email address below:
 
-human@charlotteagenda.com
+hi@charlotteagenda.com
 
-**LAST UPDATED DATE: 3/31/2015**
+**LAST UPDATED DATE: 7/4/2016**
 
 **CHANGES TO THIS PRIVACY POLICY.**  We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
