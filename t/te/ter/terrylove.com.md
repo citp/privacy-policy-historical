@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrylove.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329060544id_/http%3A//terrylove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrylove.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219094131id_/http%3A//terrylove.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Love Plumbing & Remodel
 
@@ -14,17 +14,16 @@ We collect personally identifiable information only when an order is placed on-l
 
 Our website contains links to other websites, but it is not responsible for the privacy practices or content of such websites.
 
-Questions regarding our privacy policies, please direct your email to [terry@terrylove.com](mailto:terry@terrylove.com)
+Questions regarding our privacy policies, please direct your email to: [lovesplumbing@comcast.net](mailto:lovesplumbing@comcast.net)
 
 **Cookies**
 
-The only place this site uses cookies, is when you have entered the order entry shopping area of our site, we use "cookies" (a small file stored on your hard drive) to store your purchase selections. Specifically, cookies allow you to view the current  shopping order, that is what you have placed in your cart. Cookies do not contain any registration information that would personally identify you.  They only track what items are in your shopping cart.  They do not record credit card numbers.  Our cookies don't track your usage of other web sites or the Internet. If you restrict or disallow cookies through your web browser, you will be unable to use the shopping cart to place an order in that way.  However, you can always phone in an order or fax the order.  [Ordering information](https://web.archive.org/web/20160329060544id_/http%3A//terrylove.com/order.htm).   
+The only place this site uses cookies, is when you have entered the order entry shopping area of our site, we use "cookies" (a small file stored on your hard drive) to store your purchase selections. Specifically, cookies allow you to view the current  shopping order, that is what you have placed in your cart. Cookies do not contain any registration information that would personally identify you.  They only track what items are in your shopping cart.  They do not record credit card numbers.  Our cookies don't track your usage of other web sites or the Internet. If you restrict or disallow cookies through your web browser, you will be unable to use the shopping cart to place an order in that way.  However, you can always phone in an order or fax the order.  [Ordering information](https://web.archive.org/web/20161219094131id_/http%3A//terrylove.com/order.htm).   
 
 
 **Secure connections**.  
 Love Plumbing & Remodel uses secure connections during the shopping Checkout, which means that information is encrypted before it is sent over the Internet between your computer and Love Plumbing & Remodel computers. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser that indicates a secure connection. Another identifier of a secure connection is the URL (or web site address): the address will change from   
-http://www.easycarts.net/ecarts/terrylove/  to   
-https://secure.easycart.com/easycarts/public_html/ecarts/cgi-bin/terrylove/  
+  
 when a secure connection is in place. Once your information arrives at Love Plumbing & Remodel, your credit card number is stored in an encrypted file on a machine that is separated from the site's Internet connection by a firewall. This firewall is designed to protect information from anyone viewing, stealing or otherwise accessing. We use commercially reasonable technological means to prevent occurrences of third party access.
 
 More than likely you probably already transmit your credit card number electronically every day. When you swipe your credit card at the local store, your card information is encrypted and transmitted over a phone network. Using your card on a secure online Web site is very similar - your information is encrypted and then transmitted over a high-speed network line.
@@ -33,6 +32,6 @@ Love Plumbing & Remodel
 12108 NE 163rd St  
 Bothell WA 98011
 
-This is our current policy, effective January 2003. We reserve the right to change this policy from time to time. You will know if the policy has been updated as we will change the effective date of the policy and will make a note on the site's home page that the privacy policy has been updated from a previous policy.
+This is our current policy, effective  2016\. We reserve the right to change this policy from time to time. You will know if the policy has been updated as we will change the effective date of the policy and will make a note on the site's home page that the privacy policy has been updated from a previous policy.
 
-[Home page](https://web.archive.org/web/20160329060544id_/http%3A//terrylove.com/index.htm)
+[Home page](https://web.archive.org/web/20161219094131id_/http%3A//terrylove.com/index.htm)
