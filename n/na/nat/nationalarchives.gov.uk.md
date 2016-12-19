@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503071110id_/http%3A//www.nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.gov.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219141639id_/http%3A//nationalarchives.gov.uk/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | The National Archives
 
@@ -58,7 +58,7 @@ Some of the archives we hold contain information about living people. We apply t
 
 [Data protection leaflet](https://web.archive.org/documents/data_protectionreq.pdf "PDF, opens in a new window") (PDF, 0.05Mb)
 
-[Data protection policy](https://web.archive.org/documents/data-protection-policy-nov-2011-updated-apr-2013.pdf "Data protection policy, opens in a new window") (PDF, 0.5Mb)
+[Data protection policy](https://web.archive.org/documents/data-protection-policy-nov-2011-updated-june-2016.pdf "Data protection policy, opens in a new window") (PDF, 0.5Mb)
 
 [Data protection procedures](https://web.archive.org/documents/data-protection-procedures-2011-website-version-updated-apr-2013.pdf "Data protection procedures, opens in a new window") (PDF, 0.6Mb)
 
