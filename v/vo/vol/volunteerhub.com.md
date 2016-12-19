@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605151005id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219053521id_/http%3A//www.volunteerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - VolunteerHub Protects Volunteer Organizations
 
@@ -24,7 +24,9 @@ We may use your personal information to provide you with important information a
 
 CEI occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
 
-CEI may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to : (a) conform to the edicts of the law or comply with legal process served on CEI or the site; (b) protect and defend the rights of property of CEI and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of CEI employees, users of CEI products or services, or members of the public.
+CEI may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on CEI or the site; (b) protect and defend the rights of property of CEI and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of CEI employees, users of CEI products or services, or members of the public.
+
+Please be aware that Carr Engineering Inc. may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. Carr Engineering Inc. may be liable for appropriate onward transfers of personal data to third parties.
 
 Personal information collected by VolunteerHub may be stored and processed in the United States or any other country in which CEI or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer or information outside of your country.
 
@@ -32,11 +34,11 @@ Personal information collected by VolunteerHub may be stored and processed in th
 
 Except as otherwise described in this statement, personal information you provide related to the Services will not be shared outside of CEI and its controlled subsidiaries and affiliates without your permission.
 
-With regard to personal information that is collected at registration from our users (e.g. name, user ID, email address), we present the option not to receive communications regarding the Services. Customers who no longer wish to receive communications may opt-out or unsubscribe from receiving these communications. Each communication will have a way to unsubscribe from that list. If you encounter any difficulty please email us at [support@volunteerhub.com](mailto:support@volunteerhub.com). Please be aware that this privacy statement and the choices you make related to the Services will not apply to personal information you may have provided to CEI in the context of other, separately operated, CEI products or services.
+With regard to personal information that is collected at registration from our users (e.g. name, user ID, email address), we present the option not to receive communications regarding the Services. Customers who no longer wish to receive communications may opt-out or unsubscribe from receiving these communications. Each communication will have a way to unsubscribe from that list. If you encounter any difficulty, please email us at [support@volunteerhub.com](mailto:support@volunteerhub.com). Please be aware that this privacy statement and the choices you make related to the Services will not apply to personal information you may have provided to CEI in the context of other, separately operated, CEI products or services.
 
 **Access to Personal Information**
 
-If your personally identifiable information changes, we will provide a way to correct or update your personal data. Customers can log in and click on the Your Account link to modify personal information. VolunteerHub customers also may contact [support@volunteerhub.com](mailto:support@volunteerhub.com).
+CEI acknowledges an individual’s right of access to their personal information. If your personally identifiable information changes, we will provide a way to correct or update your personal data. Customers can log in and click on the Your Account link to modify personal information. VolunteerHub customers also may contact [support@volunteerhub.com](mailto:support@volunteerhub.com).
 
 **Security of Your Personal Information**
 
@@ -71,12 +73,24 @@ Dublin, Ohio, 43017
 
 To find other contact details for VolunteerHub, see [www.volunteerhub.com.](http://www.volunteerhub.com/)
 
-**Safe Harbor Information**
+**EU-US Privacy Shield Information**
 
-CEI complies with the US-EU and US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+CEI complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  CEI has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, CEI commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CEI at:
+The Federal Trade Commission (FTC) has jurisdiction over CEI’s compliance with the Privacy Shield.
+
+In compliance with the EU-US Privacy Shield Principles, CEI commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact CEI at:
 
 complaints@carr-engineering.com
 
-CEI has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/) for more information and to file a complaint.
+CEI has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHEILD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+
+**US-Swiss Safe Harbor Information**
+
+CEI complies with the US-Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  CEI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-Swiss Safe Harbor Principles, CEI commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact CEI at:
+
+complaints@carr-engineering.com
+
+CEI has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program/) for more information and to file a complaint.
