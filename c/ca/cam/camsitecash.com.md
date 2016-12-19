@@ -1,68 +1,40 @@
-> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805155935id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219180530id_/http%3A//www.awempire.com/privacy-policy) for the most accurate reproduction.*
 
-# CamSiteCash.com
+# Awempire.com - Privacy Policy of Adult Webmaster Empire
 
-## CamSiteCash Privacy Policy Page 
+[ ](http://www.awempire.com/)
 
-[CamSiteCash](http://www.camsitecash.com/ "www.camsitecash.com") is committed to maintaining a privacy policy that benefits each individual customer's preferences. 
+Duodecad IT Services Luxembourg S.à.r.l., with the address at 44, Avenue John F. Kennedy, L-1855 Luxembourg, E-mail: [info@duodecadits.com](mailto:info@duodecadits.com), Phone: +352-26-11-18-40, registered in the trade and companies registry of the Grand-Duchy of Luxembourg under the number B 171358 (hereinafter referred to as "Company" or "Awempire") is committed to protecting its members' privacy. The Company takes all appropriate security measures to protect all personal information against unauthorized access, unauthorized alteration, disclosure or destruction.
 
-NOTE: Our privacy policy is null and void in cases of fraud!
+## Data protection and anti-spam policy
 
-This policy explains the privacy practices for [ CamSiteCash](http://www.camsitecash.com/ "www.camsitecash.com") (hereinafter referred to as "CamSiteCash", "site", "our", "we", or "us"). In order to provide interactive computer billing and fraud services, CamSiteCash collects and uses certain information about you. This policy explains what we collect, what we use and how you can interact with CamSiteCash in order to ensure the accuracy of the data we collect and use.
+The Company hereby declares that it never sells or rents any personal details provided on awempire.com to a third party or unauthorized person. The Company uses the latest and most sophisticated security measures to protect its members' private information. The Company uses self-developed privacy protection programs to assure that the members' personal details are always kept confidential.
 
-  1. Information Collection: Visitors can access our Web site home page and browse our Web site without disclosing any personal data. However, in order to provide you with a particular product or service online, CamSiteCash may request that you voluntarily supply CamSiteCash with primary personal data (such as name and email address) and identifiers (such as web site password). CamSiteCash gives you the option of using a secure transmission method of sending such information.   
-CamSiteCash receives and stores your IP Address, and CamSiteCash also employs its software in order to ascertain your physical location before making a purchase. However, we do not collect information from other sources, such as public records or bodies, or private organizations. You are required to provide CamSiteCash with accurate and up-to-date information, and failure to provide CamSiteCash with such information could result in voiding your Agreement with CamSiteCash.   
+The Company will never send out any spam messages/emails. The provided details will not be used for promotional purposes if the members do not agree. In accordance with all applicable laws and regulations, Awempire will send automated emails to report the important information of the members' activities made on awempire.com.
 
-  2. Information Use: CamSiteCash is the sole owner of the information collected on its sites. CamSiteCash will not sell, share, or rent this information to third parties in ways different from what is disclosed it this policy. CamSiteCash shall release data when required by law, to enforce its Agreement or the contract rights of its clients. CamSiteCash shares the following data from you: your e-mail address, your username and password and your agreement to be bound by CamSiteCash terms and conditions. CamSiteCash uses the data it collects for the technical administration of the Web site, research and development, and fraud deterrence.   
+The Company will never ask for its members' passwords. Please do not give out your login details to anyone who might compromise your membership.
 
-  3. Information sharing: We ensure that your personal data will not be disclosed to governmental institutions and authorities except if required by law or other regulation.  
+## 18 U.S.C 2257 Record-Keeping Requirements Compliance Statement
 
-  4. Email correspondence: CamSiteCash may request a confirmation when you receive and open and e-mail communication delivered by CamSiteCash. We archive and identify the origination IP address of all email sent into our network.  
+In compliance with the Federal Labeling and Record-Keeping Law (also known as 18 U.S.C. 2257), all models located within our domain were 18 years of age or older during the time of photography. All models' proof of age is held by the custodian of records, which is listed below, organized by producer. All content and images are in full compliance with the requirements of 18 U.S.C. 2257 and associated regulations.
 
-  5. Third party information: Occasionally, CamSiteCash receives information from third parties to compare it to information that you had provided to CamSiteCash for fraud prevention purposes.  
+Duodecad IT Services Luxembourg S.à.r.l.  
+44, Avenue John F. Kennedy, L-1855 Luxembourg, Grand-Duchy of Luxembourg
 
-  6. Cookies: A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. CamSiteCash employs "cookie" technology. We use Cookie to store personal data, to authenticate you as a Site user, for security purposes, and to track our affiliate click-throughs and sign-up rate.   
+Database Administrator - [help@dditservices.com](mailto:help@dditservices.com)
 
-  7. Children: CamSiteCash does not request, or knowingly collect, personal data from anyone under the **age of 18**. Furthermore, CamSiteCash does not knowingly give children the ability to post messages or otherwise distribute information about themselves on our web site.  
+## Cookies
 
-  8. Security: We take every precaution to protect our visitors' information. We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. CamSiteCash utilizes Secure Socket Layer (SSL) software when receiving and transmitting electronic payments. CamSiteCash encrypts the information that you provided. In addition, CamSiteCash does everything to protect your information off-linee. All employees and data processors who have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. CamSiteCash employs a username and password scheme in order to limit and achieve access to our computer network by our employees and third parties. 
+By entering the site, the visitor agrees to accept small, specialized text files (a.k.a. cookies) on its device from awempire.com. These files help the visitor's web browser to load faster after the initial visit and allow to customize his or her user experience (functionality cookies), necessary to execute the user's requests of navigating to certain secure pages (strictly necessary cookies), and track the user's navigating habit to anticipate his or her needs (tracking cookies). Awempire.com shall never distribute third-party cookies, or any other forms of malware (such as spyware or viruses) toward its visitor's hardware. It is possible to refuse the cookies any time by adjusting the appropriate browser settings, although such action may affect optimal user experience.
 
-If you have an inquiry or concern about our privacy policy, please contact us at the address below: 
+## Changes in the Privacy Policy
 
+To guarantee perfect protection and satisfaction to its members, occasionally the Company needs to update its Privacy Statement reflecting the changes in its services. Changes in the Policy will be indicated at the top of the page showing the date of the latest update.
 
+If material changes are enacted, the update will appear on the website prominently highlighting the change.
 
+Members or visitors with any questions regarding the Company's Privacy Policy should contact [webmaster@awempire.com](mailto:webmaster@awempire.com).
 
-CCCV Ltd.(UK Limited)  
-77-81 Sewiew Road  
-Wallasey  
-CH41 4LE  
-United Kingdom 
+## Unsubscribing emails
 
-help [ @ ] camsitecash [ dot ] com 
-
-Revised Aug 27, 2008 
-
-Upgraded Sites!  NEW!   
-**\- We have upgraded some of our sites:  
-\- [CamPrime.com](http://www.camprime.com/)  
-\- [CamPerfect.com](http://www.camperfect.com/)  
-\- [VipCamSex.com](http://www.vipcamsex.com/)  
-Each one has a brand new skin and there are lots of new features available like live feeds, alerts, favourites section, extended filters, wish section.**
-
-Promo Tool Update!  
-**\- 8 new (468x60 static) flash promo tools available in pink, purple, red and yellow colors.**
-
-New Promo Tools!  
-**\- 10 new iframes now available in the promo tools section.**
-
-New Site In Our Portfolio!  
-**\- CamSiteCash just acquired[NeonCams.com](http://www.neoncams.com/).**
-
-New Flash Promos!  
-**\- More than a dozen new flash banners available under the Promo Tools/Banners/Flash Banners.**
-
-New Promo Tool!  
-**\- Toolbar001 (javascript based promo tool with model tumbnails)**
-
-New Promo Tool!  
-**\- ThumbFlow (ConverFlow like promo tool)**
+Subscribers wishing to stop receiving marketing emails or other mails from the Company should send a message using their registered email address to [webmaster@awempire.com](mailto:webmaster@awempire.com) with a subject line [unsubscribe].
