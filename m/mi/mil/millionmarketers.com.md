@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionmarketers.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428071724id_/http%3A//www.millionmarketers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionmarketers.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219020354id_/http%3A//www.millionmarketers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MillionMarketers.com
 
