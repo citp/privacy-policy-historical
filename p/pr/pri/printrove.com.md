@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printrove.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425000427id_/http%3A//printrove.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printrove.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219180532id_/http%3A//printrove.com/privacy-policy) for the most accurate reproduction.*
 
 # Printrove | Privacy Policy
 
