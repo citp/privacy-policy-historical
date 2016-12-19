@@ -1,236 +1,500 @@
-<!--The following is the downloaded HTML source of the eslkidstuff.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621074212id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eslkidstuff.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219030315id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - ESL KidStuff</title>
-<meta name="description" content="ESL KidStuff's Privacy Policy">
-<meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0">
-<link href="layout.css" rel="stylesheet" type="text/css">
-<link href="styles.css" rel="stylesheet" type="text/css">
-<link href="menuStyleEn.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="iepngfix_tilebg.js"></script> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Privacy Policy - ESL KidStuff</title>
+	<meta name="description" content="ESL KidStuff's Privacy Policy.">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+	<link rel="stylesheet" type="text/css" href="css/accordionmenu.css">
+	<link rel="stylesheet" type="text/css" href="css/tabbed-navigation.css">
+	<link rel="stylesheet" href="css/slicknav.css">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="js/jquery-1.11.3.min.js"></script>
+	<script src="js/main.js"></script>
+    
+    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="js/bootstrap.min.js"></script>
+    
+	 
 
-<!--[if IE 5]>
-<style type="text/css"> 
-/* place css box model fixes for IE 5* in this conditional comment */
-.twoColFixLtHdr #sidebar1 { width: 230px; }
-</style>
-<![endif]-->
-<!--[if IE]>
-<style type="text/css"> 
-/* place css fixes for all versions of IE in this conditional comment */
-.twoColFixLtHdr #mainContent { zoom: 1; }
-/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
-</style>
-<![endif]-->
-<script type="text/javascript">
+<!--Google Analytics starts here-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35948214-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-35948214-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid');
+  ga('send', 'pageview');
 
 </script>
+<!--Google Analytics ends here-->
+	
+	<script>
+	$(function() {
+		var Accordion = function(el, multiple) {
+			this.el = el || {};
+			this.multiple = multiple || false;
+	
+			// Variables privadas
+			var links = this.el.find('.link');
+			// Evento
+			links.on('mouseover', {el: this.el, multiple: this.multiple}, this.dropdown);
+		}
+	
+		Accordion.prototype.dropdown = function(e) {
+			var $el = e.data.el;
+				$this = $(this),
+				$next = $this.next();
+	
+			$next.slideToggle();
+			$this.parent().toggleClass('open');
+	
+			if (!e.data.multiple) {
+				$el.find('.submenu').not($next).slideUp().parent().removeClass('open');
+			};
+		}	
+	
+		var accordion = new Accordion($('#accordion'), false);
+		
+	});
+	</script>
+	
+	
+
+
+<!--script for mobile menu-->	
+<script src="js/modernizr.min.js"></script>
+<script src="js/jquery.slicknav.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav({
+	label: 'MENU',
+	duration: 1000,
+	easingOpen: "easeOutBounce", //available with jQuery UI
+});
+});
+</script>
+
+<!-- Hotjar Tracking Code for http://www.eslkidstuff.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:327483,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-327483.js?sv=5"></script>
+
 </head>
 
-<body class="twoColFixLtHdr">
-<div id="container"><div id="header">
-  <div id="logoDiv"><a href="http://www.eslkidstuff.com"><img src="images/logoKids.png" alt="ESL KidStuff" width="297" height="211"></a></div>
- 
-  
-  <div id="headerRightDiv"><!-- #BeginLibraryItem "/Library/top_right_menu.lbi" --><div id="headerRightTopDiv"><a href="MembersLogin.htm">LOGIN</a>&nbsp; |&nbsp; <a href="register.htm">REGISTER</a></div><!-- #EndLibraryItem --><div id="clearDiv"></div>     
-    <div id="headerRightBottomDiv">
-<div id="headerRightBottomDiv5">
-<div class="lesson-plansTopButton">
-   <a href="http://www.eslkidstuff.com/esl-kids-lesson-plans.html"><img src="images/menuLessonPlans.png" alt="Lesson Plans" width="75" height="84" border="0"></a></div>
-      <p class="font14px"><a href="http://www.eslkidstuff.com/esl-kids-lesson-plans.html">LESSON PLANS</a></p>
-      <p>FREE lesson plans<br>for kids English teachers</p>
-    </div>
-    
-    <div id="headerRightBottomDiv1">
-      <div class="flashcardsTopButton">
-   <a href="flashcards.htm"><img src="images/menuFlashcards.png" alt="Flashcards" border="0" width="66" height="84"></a></div><!-- #BeginLibraryItem "/Library/top_flashcards_text.lbi" --><p class="font14px"><a href="flashcards.htm">FLASHCARDS</a></p>
-<p>Over 1,500 printable flashcards for teaching ESL kids</p><!-- #EndLibraryItem --></div>
-    <div id="headerRightBottomDiv2">
-          <div class="worksheetsTopButton">
-   <a href="worksheets.htm"><img src="images/menuWorksheets.png" alt="Worksheets" border="0" width="66" height="84"></a></div><!-- #BeginLibraryItem "/Library/top_worksheets_text.lbi" --><p class="font14px"><a href="worksheets.htm">WORKSHEETS</a></p>
-<p>Over 1,000 printable worksheets and<br>
-craft sheets</p><!-- #EndLibraryItem --></div>
-    <div id="headerRightBottomDiv3">
-<div class="songsTopButton">
-   <a href="http://www.eslkidstuff.com/esl-kids-songs.htm"><img src="images/menuSongs.png" alt="Songs for ESL kids" width="84" height="84" border="0"></a></div>
-      <p class="font14px"><a href="http://www.eslkidstuff.com/esl-kids-songs.htm">KIDS SONGS</a></p>
-      <p>Download our ESL kids songs and play in your lessons</p>
-    </div> 
-    
-<div id="headerRightBottomDiv4">
-<div class="readersTopButton">
-   <a href="esl-kids-readers.html"><img src="images/menuReaders.png" alt="Classroom Readers for ESL kids" border="0" width="83" height="84"></a></div>
-      <p class="font14px"><a href="esl-kids-readers.html">READERS</a></p>
-      <p>Classroom readers<br>to download, print and fold</p>
-    </div>
+<body>
+
+	<!--header starts here-->
+	<header>
+	
+	<div class="navigation">
+            <div class=" navbar-inverse navbar-default">
+                <div class="navbar-header" data-toggle="collapse" data-target=".navbar-collapse">
+                    <button type="button" class="navbar-toggle">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>            
+                    </button>
+                    <div class="navbar-brand">Menu</div>
+                </div>
+                <div class="navbar-collapse collapse" id="navbar">
+                    <ul class="panel-group" id="accordion">
+                        <li><span><i class="fa fa-angle-right"></i></span> <a href="index.htm">Home</a></li>
+                        <li class="panel panel-default">
+                        <div class="panel-heading">
+                        	<span><i class="indicator fa fa-angle-down"></i></span>
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Top Resources</a>
+                        </div>
+                            <ul id="collapse1" class="panel-collapse collapse in">
+                                <li><a href="esl-kids-lesson-plans.html"><i class="fa fa-angle-double-right"></i> Lesson Plans</a></li>
+                                <li><a href="flashcards.htm"><i class="fa fa-angle-double-right"></i> Flashcards</a></li>
+                                <li><a href="worksheets.htm"><i class="fa fa-angle-double-right"></i> Worksheets</a></li>
+                                <li><a href="craftsheets.htm"><i class="fa fa-angle-double-right"></i> Craft Sheets</a></li>
+                                <li><a href="esl-kids-songs.htm"><i class="fa fa-angle-double-right"></i> Song Downloads</a></li>
+                                <li><a href="esl-kids-readers.html"><i class="fa fa-angle-double-right"></i> Classroom Readers</a></li>
+                                <li><a href="esl-teachers-resources.htm"><i class="fa fa-angle-double-right"></i> Teacher Resources</a></li>
+                            </ul>
+                        </li>
+                        <li class="panel panel-default">
+                        <div class="panel-heading">
+                        	<span><i class="indicator fa fa-angle-right"></i></span>
+                        	<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Our Apps</a>
+                        </div>
+                            <ul id="collapse2" class="panel-collapse collapse">
+                                <li><a href="flashcard-app.htm"><i class="fa fa-angle-double-right"></i> Flashcards App</a></li>
+                                <li><a href="songs-app.htm"><i class="fa fa-angle-double-right"></i> Songs App</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li class="panel panel-default">
+                        <div class="panel-heading">
+                        	<span><i class="indicator fa fa-angle-right"></i></span>
+                        	<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Other Resources</a>
+                        </div>
+                            <ul id="collapse3" class="panel-collapse collapse">
+                                <li><a href="MembersMenu.htm"><i class="fa fa-angle-double-right"></i> Site Map</a></li>
+                                <li><a href="gamesmenu.htm"><i class="fa fa-angle-double-right"></i> Games &amp; Activities</a></li>
+                                <li><a href="holidaysmenu.htm"><i class="fa fa-angle-double-right"></i> Holidays / Festivals</a></li>
+                                <li><a href="TipsLibrary.htm"><i class="fa fa-angle-double-right"></i> Teaching Tips</a></li>
+                                <li><a href="Articles.htm"><i class="fa fa-angle-double-right"></i> ESL Articles</a></li>
+                                <li><a href="OnlineGamesMain.htm"><i class="fa fa-angle-double-right"></i> ESL Online Games</a></li>
+                                <li><a href="http://www.eslkidstuff.com/teach-english-abroad/"><i class="fa fa-angle-double-right"></i> Teach Abroad</a></li>
+                                <li><a href="LinksMenu.htm"><i class="fa fa-angle-double-right"></i> ESL Links</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li class="panel panel-default">
+                        <div class="panel-heading">
+                        	<span><i class="indicator fa fa-angle-right"></i></span>
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Help &amp; Contact</a>
+                        </div>
+                            <ul id="collapse4" class="panel-collapse collapse">
+                                <li><a href="FAQ.htm"><i class="fa fa-angle-double-right"></i> FAQ</a></li>
+                                <li><a href="howToPrint.htm"><i class="fa fa-angle-double-right"></i> How to print</a></li>
+                                <li><a href="videos/esl-kidstuff-videos.html"><i class="fa fa-angle-double-right"></i> Videos</a></li>
+                                <li><a href="http://www.eslkidstuff.com/blog/"><i class="fa fa-angle-double-right"></i> News / Blog</a></li>
+                                <li><a href="MembersLogin.htm"><i class="fa fa-angle-double-right"></i> Log In</a></li>
+                                <li><a href="register.php"><i class="fa fa-angle-double-right"></i> Join ESL KidStuff</a></li>
+                                <li><a href="about-us.htm"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+                                <li><a href="contact.htm"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                  <div class="close-menu"><a href="javascript:void(0);" data-toggle="collapse" data-target=".navbar-collapse"><i class="fa fa-times"></i> Close Menu</a></div>
+                </div>
+            </div>
+        </div>
+	
+		<!--header topbar starts here-->
+		<div class="top">
+			<div class="container">
+				<p>Resources and materials for ESL Kids teachers</p>
+				<div class="social">
+					<ul>
+						<li><a href="http://www.facebook.com/eslkidstuff" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+						<li><a href="http://twitter.com/ESLKidStuff" target="_blank"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="http://www.eslkidstuff.com/blog/feed"><i class="fa fa-rss"></i></a></li>
+						<li><a href="indexJp.htm" class="red"><i class="fa fa-circle"></i></a></li>
+						<div class="login">
+							<ul>
+								<li><a href="MembersLogin.htm">Login</a></li>
+								<li>|</li>
+								<li><a href="register.php">Register</a></li>
+							</ul>
+						</div>
+					</ul>
+				</div>
+			</div>
+		</div>
+    <!--header topbar end here-->
+		
+		<!--header navigation starts here-->
+			<div class="header-nav">
+				<div class="container">
+				<div class="logo"><a href="http://www.eslkidstuff.com/"><img class="desktop" src="images/logo.png" alt="ESL KidStuff"> <img class="mobile" src="images/logo-mobile.png" alt="ESL KidStuff"></a></div>
+				<nav>
+					<ul>
+						<li>
+							<div class="view view-sixth">
+								<img src="images/nav-1.png" alt="LESSON PLANS"><a href="esl-kids-lesson-plans.html">LESSON PLANS</a>
+							<div class="mask">
+							<a href="esl-kids-lesson-plans.html"><img src="images/nav-1.png" alt="LESSON PLANS"></a>
+							<a href="esl-kids-lesson-plans.html" class="info">LESSON PLANS</a>
+							<p>FREE lesson plans to download for kids English teachers</p>
+							</div>
+							</div>
+						</li>
+						
+						<li>
+							<div class="view view-sixth">
+								<img src="images/nav-2.png" alt="FLASHCARDS"><a href="flashcards.htm">FLASHCARDS</a>
+							<div class="mask">
+							<a href="flashcards.htm"><img src="images/nav-2.png" alt="FLASHCARDS"></a>
+							<a href="flashcards.htm" class="info">FLASHCARDS</a>
+							<p>Over 1,500 printable flashcards for teaching ESL kids</p>
+							</div>
+							</div>
+						</li>
+						
+						<li>
+							<div class="view view-sixth">
+								<img src="images/nav-3.png" alt="WORKSHEETS"><a href="worksheets.htm">WORKSHEETS</a>
+							<div class="mask">
+							<a href="worksheets.htm"><img src="images/nav-3.png" alt="WORKSHEETS"></a>
+							<a href="worksheets.htm" class="info">WORKSHEETS</a>
+							<p>Over 1,000 printable worksheets and craft sheets</p>
+							</div>
+							</div>
+						</li>
+						
+						<li>
+							<div class="view view-sixth">
+								<img src="images/nav-4.png" alt="KIDS SONGS"><a href="esl-kids-songs.htm">KIDS&nbsp;SONGS</a>
+							<div class="mask">
+							<a href="esl-kids-songs.htm"><img src="images/nav-4.png" alt="KIDS SONGS"></a>
+							<a href="esl-kids-songs.htm" class="info">KIDS&nbsp;SONGS</a>
+							<p>Download our ESL kids songs and play in your lessons</p>
+							</div>
+							</div>
+						</li>
+						
+						<li>
+							<div class="view view-sixth">
+								<img src="images/nav-5.png" alt="READERS"><a href="esl-kids-readers.html">READERS</a>
+							<div class="mask">
+							<a href="esl-kids-readers.html"><img src="images/nav-5.png" alt="READERS"></a>
+							<a href="esl-kids-readers.html" class="info">READERS</a>
+							<p>Classroom readers to download, print and fold</p>
+							</div>
+							</div>
+						</li>
+						
+						<li>
+							<div class="view view-register">
+<div id="register-button"><img src="images/nav-register.png" alt="BECOME A MEMBER"></div>
+<a href="register.php">BECOME A MEMBER</a>
+<div class="mask">
+<a href="register.php"><img src="images/nav-register.png" alt="BECOME A MEMBER"></a>
+<a href="register.php" class="info">BECOME A MEMBER</a>
+<p>Join ESL KidStuff!</p>
 </div>
-  </div>
-  <!-- end #header --></div>
- <div id="clearDiv"></div> 
- <div id="h1HomeDiv">
-   <div id="headingDivLeft"> ESL Kids Flashcards, Worksheets, Lesson Plans, Crafts &amp; more!</div>
-   <div id="h1HomeDivRight">
-   <div class="japaneseButton">
-      <a href="indexJp.htm"><img src="images/buttons/buttonJapanese.gif" alt="Japanese" title="Japanese" border="0" width="36" height="36"></a></div>
-      
-   <div class="rssButton">
-      <a href="http://www.eslkidstuff.com/blog/feed"><img src="images/buttons/rssTopOn.gif" alt="ESL KidStuff RSS News Feed" title="ESL KidStuff RSS News Feed" border="0" width="36" height="36"></a></div>
-      
-   <div class="twitterButton">
-   <a href="http://twitter.com/ESLKidStuff" target="_blank"><img src="images/buttons/buttonTwitter.gif" alt="Twitter" border="0" width="36" height="36"></a></div>      
-      
-   <div class="facebookButton">
-   <a href="http://www.facebook.com/eslkidstuff" target="_blank"><img src="images/buttons/buttonFacebook.gif" alt="Facebook" border="0" width="36" height="36"></a></div>
+</div>
+						</li>
+							
+					</ul>
+				</nav>
+			</div>
+		</div>	
+		<!--header navigation end here-->
+		
+	</header>
+	<!--header ends here-->
+	
+	
+	<!--ESL banner and main navigation starts-->
+	<div class="nav-banner clearfix">
+	<div class="container">
+	<!--accordion menu starts here-->
+	
+	<div class="nav-banner-left">
+		<ul class="accordion">
+		  <li>
+			<div class="link"><a href="index.htm">Home</a></div>
+		  </li>
+		  <li class="open">
+			<div class="link">Top Resources</div>
+			<ul class="submenu" style="display:block;">
+			  <li><a href="esl-kids-lesson-plans.html"><i class="fa fa-angle-double-right"></i> Lesson Plans</a></li>
+			  <li><a href="flashcards.htm"><i class="fa fa-angle-double-right"></i> Flashcards</a></li>
+			  <li><a href="worksheets.htm"><i class="fa fa-angle-double-right"></i> Worksheets</a></li>
+			  <li><a href="craftsheets.htm"><i class="fa fa-angle-double-right"></i> Craft Sheets</a></li>
+			  <li><a href="esl-kids-songs.htm"><i class="fa fa-angle-double-right"></i> Song Downloads</a></li>
+			  <li><a href="esl-kids-readers.html"><i class="fa fa-angle-double-right"></i> Classroom Readers</a></li>
+			  <li><a href="esl-teachers-resources.htm"><i class="fa fa-angle-double-right"></i> Teacher Resources</a></li>
+			</ul>
+		  </li>
+		  </ul>
+		  
+		  <div class="accordion_wrapper">
+		  <div class="accordion_01">
+		  <li class="accordion_01-item">
+			<div class="link">Our Apps</div>
+			<ul class="accordion_01-item-content">
+			  <li><a href="flashcard-app.htm"><i class="fa fa-angle-double-right"></i> Flashcards App</a></li>
+			  <li><a href="songs-app.htm"><i class="fa fa-angle-double-right"></i> Songs App</a></li>
+			</ul>
+		  </li>
+		  <li class="accordion_01-item">
+			<div class="link">Other Resources</div>
+			<ul class="accordion_01-item-content">
+			  <li><a href="MembersMenu.htm"><i class="fa fa-angle-double-right"></i> Site Map</a></li>
+			  <li><a href="gamesmenu.htm"><i class="fa fa-angle-double-right"></i> Games &amp; Activities</a></li>
+			  <li><a href="holidaysmenu.htm"><i class="fa fa-angle-double-right"></i> Holidays / Festivals</a></li>
+			  <li><a href="TipsLibrary.htm"><i class="fa fa-angle-double-right"></i> Teaching Tips</a></li>
+			  <li><a href="Articles.htm"><i class="fa fa-angle-double-right"></i> ESL Articles</a></li>
+			  <li><a href="OnlineGamesMain.htm"><i class="fa fa-angle-double-right"></i> ESL Online Games</a></li>
+			  <li><a href="http://www.eslkidstuff.com/teach-english-abroad/"><i class="fa fa-angle-double-right"></i> Teach Abroad</a></li>
+			  <li><a href="LinksMenu.htm"><i class="fa fa-angle-double-right"></i> ESL Links</a></li>
+			</ul>
+		  </li>
+		  <li class="accordion_01-item">
+		  	<div class="link">Help &amp; Contact</div>
+		  	<ul class="accordion_01-item-content">
+			  <li><a href="FAQ.htm"><i class="fa fa-angle-double-right"></i> FAQ</a></li>
+			  <li><a href="howToPrint.htm"><i class="fa fa-angle-double-right"></i> How to print</a></li>
+			  <li><a href="videos/esl-kidstuff-videos.html"><i class="fa fa-angle-double-right"></i> Videos</a></li>
+			  <li><a href="http://www.eslkidstuff.com/blog/"><i class="fa fa-angle-double-right"></i> News / Blog</a></li>
+			  <li><a href="MembersLogin.htm"><i class="fa fa-angle-double-right"></i> Log In</a></li>
+			  <li><a href="register.php"><i class="fa fa-angle-double-right"></i> Join ESL KidStuff</a></li>
+			  <li><a href="about-us.htm"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+			   <li><a href="contact.htm"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
+			</ul>
+		  </li>
+		
+		</div>
+		</div>
+	</div>
+		
+	<!--accordion menu ends here-->	
+	
+	<div class="banner">
+		<!--Intro Div start-->
+	  <div class="intro_div">
+		<h2>ESL Kids Lesson plans, flashcards, worksheets, songs, readers, crafts, apps &amp; more!</h2>
+		
+		
+		<h1>Privacy Policy</h1>
 
-   </div>   
- 	<div id="clearDiv"></div>
-    </div>
+		<p><strong>Copyright © ESL KidStuff</strong></p>
+		<p>ESL KidStuff is an ESL resource center for English teachers and parents. We have the greatest respect for our users privacy.</p>
+		<p>Like most other internet sites, we collect data on visitor activity through server log files that identify file requests by IP number, browser type, and operating system. No personally identifiable information is included in the log files. This information is used to gather statistics for our site. Any web site you visit tracks this information. You will remain anonymous to us.</p>
+		<p>Our counter host also tracks information comparable to that mentioned in the above paragraph, as well as information like screen resolution, referring URL, etc. This information is used for the same purpose. Any web page you visit which hosts a counter most likely tracks the same information. Again, you remain anonymous to us.	  </p>
+        <p>Our advertisers and / or advertising agencies and / or other third parties may use cookies or other means to track your path from our web site to theirs. This information is used to ensure we are correctly credited for the business we send to the advertiser. For further information, please see the Privacy Statement on the particular site.</p>
+	  </div>
+		<!--Intro Div start end-->
+		
+		
+	</div>
+	<div class="clear"></div>
+	</div>
+	</div>
+	<!--ESL banner and main navigation end-->
 
- <div id="mainContentTopDiv"></div>
- 
-<div id="mainContentBg">
-  <div id="sidebar1"><!-- #BeginLibraryItem "/Library/left_menu.lbi" --> <div class="menuHomeButton">
-      <a href="index.htm"><img src="images/buttons/buttonHome.gif" alt="Home" width="226" height="43" border="0"></a></div>
-    
-    <img src="images/buttons/buttonPrintables.gif" alt="Printables" width="226" height="43">
-    <div id="menuLeftDiv"><a href="esl-kids-lesson-plans.html">Lesson Plans</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv2"><a href="flashcards.htm">Flashcards</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv3"><a href="worksheets.htm">Worksheets</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv4"><a href="craftsheets.htm">Craft Sheets</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv5"><a href="esl-kids-songs.htm">Song Downloads</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv6"><a href="esl-kids-readers.html">Readers</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv"><a href="esl-teachers-resources.htm">Teacher Resources</a></div>
-    <div id="leftMenuDivider"></div>
-    
-    <img src="images/buttons/button-apps.gif" alt="Our Apps" width="226" height="43" class="leftMenuButtonTopPadding">
-    <div id="menuLeftDiv"><a href="flashcard-app.htm">Flashcards App</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv2"><a href="songs-app.htm">Songs App</a></div>
-    <div id="leftMenuDivider"></div>
-    
-    <img src="images/buttons/buttonESLresources.gif" alt="ESL Resources" width="226" height="43" class="leftMenuButtonTopPadding">
-    <div id="menuLeftDiv"><a href="MembersMenu.htm">Site Map</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv2"><a href="gamesmenu.htm">Games &amp; Activities</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv3"><a href="holidaysmenu.htm">Holidays / Festivals</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv4"><a href="TipsLibrary.htm">Teaching Tips</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv5"><a href="Articles.htm">ESL Articles</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv6"><a href="OnlineGamesMain.htm">ESL Online Games</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv"><a href="http://www.eslkidstuff.com/teach-english-abroad/" target="_blank">Teach Abroad</a></div>
-    <div id="leftMenuDivider"></div>
-<div id="menuLeftDiv2"><a href="LinksMenu.htm">ESL Links</a></div>
-    <div id="leftMenuDivider"></div>         
-    
-<img src="images/buttons/buttonHelpContact.gif" alt="Help &amp; Contact" width="226" height="43" class="leftMenuButtonTopPadding">
-    <div id="menuLeftDiv"><a href="FAQ.htm">FAQ</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv2"><a href="howToPrint.htm">How to print</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv3"><a href="videos/esl-kidstuff-videos.html">Videos</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv4"><a href="http://www.eslkidstuff.com/blog/">News / Blog</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv5"><a href="MembersLogin.htm">Log In</a></div>
-    <div id="leftMenuDivider"></div>
-    <div id="menuLeftDiv6"><a href="register.htm">Join ESL KidStuff</a></div>
-    <div id="leftMenuDivider"></div>  
-    <div id="menuLeftDiv"><a href="about-us.htm">About Us</a></div>
-    <div id="leftMenuDivider"></div>     
-    <div id="menuLeftDiv2"><a href="contact.htm">Contact Us</a></div>
-    <div id="leftMenuDivider"></div>    <!-- #EndLibraryItem --><!-- end #sidebar1 --></div>
-  <div id="mainContent">
+<div class="container main_container">
+		<p>Any email you send to us may be publicly posted on this site, unless you specifically request otherwise. We do not release email or other information to outside parties.</p>
+		<p>If you have any questions, please <a href="contact.htm">email us here</a>. </p>
+	</div>
 
-      <h1><span class="redTextH1Large">Privacy Policy</span></h1>
-      <p><strong>Copyright © ESL KidStuff</strong></p>
-      <p>ESL KidStuff is an ESL resource center for English teachers and parents.  We have the greatest respect for our users privacy.</p>
-      <p>Like most other internet sites, we collect data on visitor activity through server log files that identify file requests by IP number, browser type, and operating system. No personally identifiable information is included in the log files.  This information is used to gather statistics for our site. Any web site you visit tracks this information. You will remain anonymous to us.</p>
-      <p>Our counter host also tracks information comparable to that mentioned in the above paragraph, as well as information like screen resolution, referring URL, etc. This information is used for the same purpose. Any web page you visit which hosts a counter most likely tracks the same information. Again, you remain anonymous to us.</p>
-      <p>Our advertisers and / or advertising agencies and / or other third parties may use cookies or other means to track your path from our web site to theirs. This information is used to ensure we are correctly credited for the business we send to the advertiser. For further information, please see the Privacy Statement on the particular site.</p>
-      <p>Any email you send to us may be publicly posted on this site, unless you specifically request otherwise.  We do not release email or other information to outside parties.</p>
-      <p>If you have any questions, please <a href="contact.htm">email us here</a>.  </p>
-  </div>
-    
-	<div id="clearDiv"></div>
+	
+	
+	<!--notes & Comments starts here-->
+	<div class="container">
+		
+	
+  	
+		
 
-  
-  <!-- end #mainContentBg --></div>    
-	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
-  <!-- end #container --></div>
-<div id="footer">
-<div id="footerContent">
-      <div id="footerLeftDiv"><!-- #BeginLibraryItem "/Library/footer_menu.lbi" --><div id="footerLeftMenu1">
-        <p class="font14px"><strong>Site Navigation:</strong></p>
-        <p><a href="index.htm">Home</a></p>
-        <p><a href="FAQ.htm">FAQ</a></p>        
-        <p><a href="howToPrint.htm">How to Print</a></p>
-        <p><a href="videos/esl-kidstuff-videos.html">Videos</a></p>        
-        <p><a href="http://www.eslkidstuff.com/blog/">Blog / What's New?</a></p>
-        <p><a href="MembersLogin.htm">Log In</a></p> 
-        <p><a href="register.htm">Join ESL KidStuff</a></p> 
-        <p><a href="about-us.htm">About Us</a></p>       
-        <p><a href="contact.htm">Contact Us</a></p>
-        <p><a href="indexJp.htm">Japanese (日本語)</a></p>
-      </div>
-      <div id="footerLeftMenu2">
-        <p class="font14px"><strong>ESL Kids Top Resources:</strong></p>
-        <p><a href="esl-kids-lesson-plans.html">Lesson Plans</a></p>
-        <p><a href="flashcards.htm">Flashcards</a></p>
-        <p><a href="worksheets.htm">Worksheets</a></p>
-        <p><a href="craftsheets.htm">Craft Sheets</a></p>
-        <p><a href="esl-kids-songs.htm">Song Downloads</a></p>
-        <p><a href="esl-kids-readers.html">Readers</a></p>
-        <p><a href="flashcard-app.htm">Flashcards Phone App</a></p>
-        <p><a href="songs-app.htm">Songs Phone App</a></p>
-        <p><a href="esl-teachers-resources.htm">Teacher's Resources</a></p>
-      </div>
-      <div id="footerLeftMenu3">
-        <p class="font14px"><strong> ESL Kids Teaching Resources:</strong></p>
-        <p><a href="gamesmenu.htm">Games &amp; Activities</a></p>
-        <p><a href="holidaysmenu.htm">Holidays &amp; Festivals</a></p>
-        <p><a href="TipsLibrary.htm">Class Tips</a></p>
-        <p><a href="Articles.htm">ESL Research Articles</a></p>
-        <p><a href="OnlineGamesMain.htm">ESL Online Games</a></p>
-        <p><a href="WordLists.htm">Word Lists</a></p>
-        <p><a href="http://www.eslkidstuff.com/teach-english-abroad/" target="_blank">Teach English Abroad</a></p>
-        <p><a href="LinksMenu.htm">ESL Links</a></p>
-      </div>
-      <div id="footerLeftMenu4">
-        <p class="font14px"><strong>Legal / Other:</strong></p>
-        <p><a href="newsletter.htm">Newsletter</a></p>
-        <p><a href="privacy_statement.htm">Privacy Policy</a></p>
-        <p><a href="copyright_terms_and_conditions.htm">Terms &amp; Conditions</a></p>
-      </div><!-- #EndLibraryItem --></div>
-      
-    <div id="footerRightDiv">
-      <p>© Copyright ESL KidStuff</p>
-      <p>ESLKidStuff.com</p>
-    </div>
-      <div id="clearDiv"></div>
-  </div>
-<!-- end #footer --></div>
+		<div class="clear"></div>
+	</div>
+	
+	
+	<!--notes & Comments ends here-->
+	
+	<!--Join ESL KidStuff start!-->
+	<div class="join_esl cloud2_bg">
+		<div class="container">
+			<h3>Join ESL KidStuff!</h3>
+			<div class="esl_text">
+				<p>Full access to all resources on ESL KidStuff including lesson plans, flashcards, worksheets, craft sheets,<br> song downloads, classroom readers, flashcards app and songs app.</p>
+				<h2>Sounds good, right? Register Today!</h2>
+				<h3><a href="register.php">Register now!</a></h3>
+				<h4>Only US$29 for a 1 year membership for access to all of our materials.</h4>
+			</div>
+		</div>
+	</div>
+	<!--Join ESL KidStuff end!-->
+	
+	<!--footer starts here-->
+	<footer>
+		<!--footer links starts here-->
+		<div class="footer_links">
+		<div class="container">
+				<div class="nav_lst">
+					<h4>Site Navigation</h4>
+					<ul>
+						<li><a href="index.htm">Home</a></li>
+						<li><a href="FAQ.htm">FAQ</a></li>
+						<li><a href="howToPrint.htm">How to Print</a></li>
+						<li><a href="videos/esl-kidstuff-videos.html">Videos</a></li>
+						<li><a href="http://www.eslkidstuff.com/blog/">Blog / What's New?</a></li>
+						<li><a href="MembersLogin.htm">Log In</a></li>
+						<li><a href="register.php">Join ESL KidStuff</a></li>
+						<li><a href="about-us.htm">About Us</a></li>
+						<li><a href="contact.htm">Contact Us</a></li>
+						<li><a href="http://www.eslkidstuff.com/indexJp.htm">Japanese (日本語)</a></li>
+					</ul>
+				</div>
+				<div class="nav_lst">
+				<h4>ESL Kids Top Resources</h4>
+				<ul>
+					<li><a href="esl-kids-lesson-plans.html">Lesson Plans</a></li>
+					<li><a href="flashcards.htm">Flashcards</a></li>
+					<li><a href="worksheets.htm">Worksheets</a></li>
+					<li><a href="craftsheets.htm">Craft Sheets</a></li>
+					<li><a href="esl-kids-songs.htm">Song Downloads</a></li>
+					<li><a href="esl-kids-readers.html">Readers</a></li>
+					<li><a href="flashcard-app.htm">Flashcards Mobile App</a></li>
+					<li><a href="songs-app.htm">Songs Mobile App</a></li>
+					<li><a href="esl-teachers-resources.htm">Teacher's Resources</a></li>
+				</ul>
+				</div>
+				<div class="nav_lst">
+				<h4>ESL Kids Teaching Resources</h4>
+				<ul>
+					<li><a href="gamesmenu.htm">Games &amp; Activities</a></li>
+					<li><a href="holidaysmenu.htm">Holidays &amp; Festivals</a></li>
+					<li><a href="TipsLibrary.htm">Class Tips</a></li>
+					<li><a href="Articles.htm">ESL Research Articles</a></li>
+					<li><a href="OnlineGamesMain.htm">ESL Online Games</a></li>
+					<li><a href="WordLists.htm">Word Lists</a></li>
+					<li><a href="http://www.eslkidstuff.com/teach-english-abroad/">Teach English Abroad</a></li>
+					<li><a href="LinksMenu.htm">ESL Links</a></li>
+				</ul>
+				</div>
+				<div class="nav_lst">
+				<h4>Legal / Other</h4>
+				<ul>
+					<li><a href="newsletter.htm">Newsletter</a></li>
+					<li><a href="privacy_statement.htm">Privacy Policy</a></li>
+					<li><a href="copyright_terms_and_conditions.htm">Terms &amp; Conditions</a></li>
+				</ul>
+				</div>
+			</div>
+			</div>
+			<!--footer links ends here-->
+			<!--footer bottom starts here-->
+			<div class="bottom">
+				<div class="container">
+					<p>© Copyright ESLKidStuff.com. All Rights Reserved.</p>
+					<div class="social">
+						<p>Follow Us</p>
+						<ul>
+							<li><a href="http://www.facebook.com/eslkidstuff" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+							<li><a href="http://twitter.com/ESLKidStuff" target="_blank"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="http://www.eslkidstuff.com/blog/feed"><i class="fa fa-rss"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!--footer bottom ends here-->
+	</footer>
+	<!--footer ends here-->
+	
+	
+<script type="text/javascript">
+function toggleChevron(e) {
+    $(e.target)
+        .prev('.panel-heading')
+        .find("i.indicator")
+        .toggleClass('fa-angle-down fa-angle-right');
+}
+$('#accordion').on('hidden.bs.collapse', toggleChevron);
+$('#accordion').on('shown.bs.collapse', toggleChevron);
+</script>    
 
 
 </body></html>
