@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosthappy.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602145243id_/http%3A//www.mosthappy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosthappy.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219115317id_/http%3A//www.mosthappy.com/about/privacy) for the most accurate reproduction.*
 
 # Mosthappy.com
 
