@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichangemycity.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321142700id_/http%3A//www.ichangemycity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichangemycity.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052923id_/http%3A//www.ichangemycity.com/privacy-policy) for the most accurate reproduction.*
 
 # Policy - I Change My City
 
@@ -42,7 +42,7 @@ By accepting the Terms of Service you agree that we may collect and store your P
 **2.3 We collect and store your Correspondence Information and Personal Identifiers to:**
 
   1. comply with our obligations under law; and
-  2. monitor your use of our Services in order to ensure your compliance with our Terms of Service. Any Personal Information which we collect and which we may use in an aggregated format ensuring you are not individually identified is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
+  2. monitor your use of our Services in order to ensure your compliance with our Terms of Service. Any Personal Information which we collect and which we may use in an aggregated format ensuring you are not individually identified is our property.
 
 
 
