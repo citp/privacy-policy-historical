@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaanhaider.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317040134id_/http%3A//www.shaanhaider.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaanhaider.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219023010id_/http%3A//www.shaanhaider.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Stuffs
 
@@ -43,7 +43,7 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
