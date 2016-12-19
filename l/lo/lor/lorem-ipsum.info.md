@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lorem-ipsum.info privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322104600id_/http%3A//generator.lorem-ipsum.info/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorem-ipsum.info privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219023347id_/http%3A//generator.lorem-ipsum.info/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
-  * [Home](http://generator.lorem-ipsum.info/)
+  * [Home](https://web.archive.org/)
 
 
 
@@ -48,7 +48,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms and conditions](http://generator.lorem-ipsum.info/terms-and-conditions).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms and conditions](https://web.archive.org/terms-and-conditions).
 
 ## Your Consent
 
