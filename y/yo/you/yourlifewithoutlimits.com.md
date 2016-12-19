@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifewithoutlimits.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209070506id_/http%3A//www.livebigmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifewithoutlimits.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219162035id_/http%3A//www.livebigmedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
