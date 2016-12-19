@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618083810id_/http%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052515id_/http%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-### Version 1.4, 23 May 2016
+### Version 1.5, 8 Aug 2016
 
 ## Website Visitors
 
@@ -11,6 +11,10 @@ Like most website operators, ScyllaDB collects non-personally-identifying inform
 ## Gathering of Personally-Identifying Information
 
 Certain visitors to ScyllaDB’s websites (including scylladb.com, osv.io, cloudius-systems.com, and seastar-project.org) interact with ScyllaDB in ways that can result in ScyllaDB gathering personally-identifying information. The amount and type of information that ScyllaDB gathers depends on the nature of the interaction. ScyllaDB does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+## Gathering of Scylla host information
+
+The Scylla software reports certain information to us by default, including but not limited to the version of Scylla installed on a node. By installing Scylla software in its default configuration you agree to data collection. You may at any time disable this data collection by reconfiguring Scylla.
 
 ## Aggregated Statistics
 
@@ -37,6 +41,7 @@ ScyllaDB uses several third-party services to provide functionality for its site
   * [Facebook](https://www.facebook.com/about/privacy/)
   * [Google Analytics](http://www.google.com/policies/privacy/): ScyllaDB uses the “User ID” feature of Google Analytics to track you as an individual. The amount of information that you share with Google depends on your privacy settings.
   * [GitHub](https://help.github.com/articles/github-privacy-policy)
+  * [Marketo](http://legal.marketo.com/privacy/)
   * [Mixpanel](https://mixpanel.com/privacy/)
   * [Twitter](https://twitter.com/privacy)
   * [Wufoo](http://www.wufoo.com/privacy/)
