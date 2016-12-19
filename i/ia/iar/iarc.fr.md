@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iarc.fr privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531024623id_/http%3A//www.iarc.fr/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iarc.fr privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219181430id_/http%3A//www.iarc.fr/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -74,7 +74,7 @@ The IARC site contains links to sites external to the ”iarc.fr” domain. IARC
 
 ### Notification of changes
 
-Changes to this privacy policy will be posted on the IARC homepage at [www.iarc.fr](https://web.archive.org/web/20160531024623id_/http%3A//www.iarc.fr/en/www.iarc.fr).
+Changes to this privacy policy will be posted on the IARC homepage at [www.iarc.fr](http://www.iarc.fr/).
 
   
 
