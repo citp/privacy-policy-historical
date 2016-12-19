@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freedownloadsapps.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413022914id_/http%3A//freedownloadsapps.com/info/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadsapps.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219155649id_/http%3A//freedownloadsapps.com/info/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - freedownloadsapps.com
+
+  * Privacy Policy
 
 The privacy of our visitors to freedownloadsapps is important to us.  
 freedownloadsapps is serious regarding the privacy of Internet users because our business success depends upon our ability to maintain the trust of our users. 
@@ -33,4 +35,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **How to Contact Us**
 
-Should you have any questions or concerns about this privacy policy , please use our [contact form. ](http://www.freedownloadsapps.com/info/Contact_us.asp)
+Should you have any questions or concerns about this privacy policy , please use our [contact form. ](https://web.archive.org/info/Contact_us_v1.asp)
+
+
+
