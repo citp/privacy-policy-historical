@@ -1,11 +1,67 @@
-> *The following text is extracted and transformed from the tickethungama.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023829id_/https%3A//tickethungama.com/pages.php%3Fid%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickethungama.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219012738id_/https%3A//www.tickethungama.com/pages/22/privacy) for the most accurate reproduction.*
 
 # Privacy - Ticket Hungama
 
-### Last updated: August 1st, 2014
+Last updated: Mar 14th, 2016  
+ **  
+**
+
+ **TicketHungama.com**  has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@tickethungama.com](mailto:info@tickethungama.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
+
+  1.  **Cookies** A cookie is a piece of information that is placed on your web browser when you access and/or use the Services that stores text and which can later be read back by the Services or third parties. They are used to recognize your browser.
+
+
+  1.  **Pixel Tags (aka Clear GIFs or Web Beacons)  **A pixel tag is a tiny invisible tag or graphic placed on certain parts of the Services, in emails or in certain other downloadable content, but not on your computer, mobile device or browser.
+
+
+  1.  **Local Shared Objects (aka Flash Cookies)  **A local shared object is similar to a cookie, except it is stored on your computer or mobile device, instead of your browser, and it can store more than just text. The methods for controlling local shared objects are different than the methods for controlling cookies (as discussed below).
+
+
+  1.  **Web Storage (aka HTML5 Local Storage)  **Web storage methods are similar to cookies but can store more information than cookies and usually store that information on a persistent basis.
+
+
+  1.  **Cookies**  Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue in your browser until they are affirmatively deleted). You can manage cookies through your web browser’s option settings and through those settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser’s help section for information on how to do this.
+
+
+  1.  **Pixel Tags**  Pixel tags do not store information on your computer, mobile device or browser (although they are occasionally downloaded to your computer if contained in an email or other downloadable content) so cannot be managed by you.
+
+
+  1.  **Local Shared Objects**  Local shared objects are stored on your computer or mobile device.
+
+
+  1.  **Web Storage**  Web Storage, or HTML5 Local Storage, is an industry-standard data storage technology that is implemented by browser manufacturers. Refer to your browser’s help contents for procedures on how to manage settings for Web Storage.
+
+
+  1.  **Essential (strictly necessary)**  We use these technologies in a way that is essential for the operation of our Services or parts thereof. For example, we may use cookies to determine where to route your traffic to effectively distribute the workload across numerous computers.
+
+
+  1.  **Performance/Analytics**  We use these technologies to analyze how you use our Services and to monitor our Services. For example, we may place cookies that allow us (i) to measure the time of your requests to our servers and our responses, (ii) to A/B test new features, (iii) to record statistics about site usage, (iv) to track your activities on the Services, and (v) to track the places from which you come to the Services.
+
+
+  1.  **Functionality**  We use these technologies to allow us to provide certain functionality on the Services and to remember your preferences. For instance, when you click the “remember me” box on our log in page we place a persistent cookie on your browser that allows our Services to pre-populate your email address when you return. Other examples include remembering your preferences (such as language and location preferences), preventing web application vulnerabilities, allowing for Facebook Connect and other third party integrations, and in connection with providing search results.
+
+
+  1.  **Advertising**  We use these technologies to deliver advertisements to you both on and off the Services. By using these technologies we hope to better tailor these advertisements to your interests. Sometimes this is called online behavioral or interest based advertising. Some (but not all) of the third party services that we use in this context participate in industry bodies that allow you to opt out of such use. As of the date hereof, we use technologies from Google, Bing/Yahoo, Perfect Audience, Retargeter and Qualtrics for such purposes.
+
+
+  *  **Specific Reason:**  If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.
+
+
+  *  **Access and Use:  **If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to monitor your use of such Services or functionality. For instance, if you supply payment information (e.g., bank account or credit card information) to the Services for the purpose of purchasing tickets as a Buyer or processing payments as an Organizer, we will use that information to facilitate such purchase or process such payments.
+
+
+  *  **Internal Business Purposes:  **We may use your Personal Data for internal business purposes including without limitation to help us improve the content and functionality of the Services, to better understand our users, to improve the Services, to protect against, identify or address wrongdoing, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.
+
+
+  *  **Marketing:**  We may use your Personal Data to contact you in the future for our marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on or off the Services that we believe might be of relevance to you. In particular, Organizers should note that we may use information we receive or collect regarding Buyers (including without limitation via an Organizer’s event registration page) in accordance with the terms of this Privacy Policy, including in the manner set forth above.
+
+
+  *  **Organizer Emails:  **We allow Organizers to use our email system to contact Buyers for their current and past events, so you may receive emails from our system that originate with such Organizers.
+
+
 
 [](https://privacy.truste.com/privacy-seal/Sampurn-Media-Inc-/validation?validationId=85050bff-bfb2-4829-ad07-d858aac43361 "Sampurn Media Inc. Privacy Seal Certification")  
- **TicketHungama.com**  has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@tickethungama.com](mailto:info@tickethungama.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
+
 
  **About TicketHungama.com:**
 
@@ -49,32 +105,11 @@ If you have any questions or concerns, please do not hesitate to contact us by u
 
  **What are cookies, pixel tags (aka clear GIFs or web beacons), local shared objects and web storage?**
 
-  1.  **Cookies** A cookie is a piece of information that is placed on your web browser when you access and/or use the Services that stores text and which can later be read back by the Services or third parties. They are used to recognize your browser.
-  2.  **Pixel Tags (aka Clear GIFs or Web Beacons)  **A pixel tag is a tiny invisible tag or graphic placed on certain parts of the Services, in emails or in certain other downloadable content, but not on your computer, mobile device or browser.
-  3.  **Local Shared Objects (aka Flash Cookies)  **A local shared object is similar to a cookie, except it is stored on your computer or mobile device, instead of your browser, and it can store more than just text. The methods for controlling local shared objects are different than the methods for controlling cookies (as discussed below).
-  4.  **Web Storage (aka HTML5 Local Storage)  **Web storage methods are similar to cookies but can store more information than cookies and usually store that information on a persistent basis.
-
-
-
  **How can I manage these technologies?**
-
-  1.  **Cookies**  Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue in your browser until they are affirmatively deleted). You can manage cookies through your web browser’s option settings and through those settings you may be able (i) to receive notifications when you are receiving new cookies, (ii) to disable cookies or (iii) to delete cookies. Please refer to your web browser’s help section for information on how to do this.
-  2.  **Pixel Tags**  Pixel tags do not store information on your computer, mobile device or browser (although they are occasionally downloaded to your computer if contained in an email or other downloadable content) so cannot be managed by you.
-  3.  **Local Shared Objects**  Local shared objects are stored on your computer or mobile device.
-  4.  **Web Storage**  Web Storage, or HTML5 Local Storage, is an industry-standard data storage technology that is implemented by browser manufacturers. Refer to your browser’s help contents for procedures on how to manage settings for Web Storage.
-
-
 
  **What do you use these technologies for?**
 
 Generally we use these technologies for one of the following reasons:
-
-  1.  **Essential (strictly necessary)**  We use these technologies in a way that is essential for the operation of our Services or parts thereof. For example, we may use cookies to determine where to route your traffic to effectively distribute the workload across numerous computers.
-  2.  **Performance/Analytics**  We use these technologies to analyze how you use our Services and to monitor our Services. For example, we may place cookies that allow us (i) to measure the time of your requests to our servers and our responses, (ii) to A/B test new features, (iii) to record statistics about site usage, (iv) to track your activities on the Services, and (v) to track the places from which you come to the Services.
-  3.  **Functionality**  We use these technologies to allow us to provide certain functionality on the Services and to remember your preferences. For instance, when you click the “remember me” box on our log in page we place a persistent cookie on your browser that allows our Services to pre-populate your email address when you return. Other examples include remembering your preferences (such as language and location preferences), preventing web application vulnerabilities, allowing for Facebook Connect and other third party integrations, and in connection with providing search results.
-  4.  **Advertising**  We use these technologies to deliver advertisements to you both on and off the Services. By using these technologies we hope to better tailor these advertisements to your interests. Sometimes this is called online behavioral or interest based advertising. Some (but not all) of the third party services that we use in this context participate in industry bodies that allow you to opt out of such use. As of the date hereof, we use technologies from Google, Bing/Yahoo, Perfect Audience, Retargeter and Qualtrics for such purposes.
-
-
 
  **Does anybody else use these technologies on your Services?**
 
@@ -85,14 +120,6 @@ Most of the cookies and other technologies described above on our Services are s
  **1\. Personal Data:**
 
 We use the Personal Data we collect in a manner that is consistent with this Privacy Policy. We may use the Personal Data as follows:
-
-  *  **Specific Reason:**  If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem and will respond to the email address from which the contact came.
-  *  **Access and Use:  **If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Data to provide you with access to or use of the Services or functionality and to monitor your use of such Services or functionality. For instance, if you supply payment information (e.g., bank account or credit card information) to the Services for the purpose of purchasing tickets as a Buyer or processing payments as an Organizer, we will use that information to facilitate such purchase or process such payments.
-  *  **Internal Business Purposes:  **We may use your Personal Data for internal business purposes including without limitation to help us improve the content and functionality of the Services, to better understand our users, to improve the Services, to protect against, identify or address wrongdoing, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.
-  *  **Marketing:**  We may use your Personal Data to contact you in the future for our marketing and advertising purposes, including without limitation to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on or off the Services that we believe might be of relevance to you. In particular, Organizers should note that we may use information we receive or collect regarding Buyers (including without limitation via an Organizer’s event registration page) in accordance with the terms of this Privacy Policy, including in the manner set forth above.
-  *  **Organizer Emails:  **We allow Organizers to use our email system to contact Buyers for their current and past events, so you may receive emails from our system that originate with such Organizers.
-
-
 
 If we intend to use any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected or we will obtain your consent subsequent to such collection but prior to such use.
 
@@ -170,7 +197,7 @@ We may retain your Personal Data as long as you continue to use the Services. Yo
 
  **Contacting TicketHungama:**
 
-Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to us at <http://www.tickethungama.com/contactus> or by calling us at 1-888-377-8484.
+Please also feel free to contact us if you have any questions about this Privacy Policy or our information practices. You may contact us by writing to us at <http://www.tickethungama.com/contact.php> or by calling us at 1-888-377-8484.
 
  **Dispute Resolution:**
 
