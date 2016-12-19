@@ -1,72 +1,74 @@
-> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121032228id_/http%3A//www.cameta.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219103726id_/http%3A//cameta.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy & Security for Cameta Camera
+# Privacy & Security
 
-| 
-
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-Back to top  
-  
+Our Commitment to Privacy  
 ---  
-**The Information We Collect**  
   
-This notice applies to all information collected or submitted on the Cameta website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
+  
+Back to top  
+The Information We Collect  
+---  
+  
+This notice applies to all information collected or submitted on the Cameta website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-> Name   
->  Address   
->  Email address   
->  Phone number   
->  Credit/Debit Card Information   
->  (Etc.)
-
+| **Name**  
+---  
+**Address**  
+**Email Address**  
+**Phone Number**  
+**Credit / Debit Card Information**  
+**(Etc.)**  
+  
 On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
 
-> Name   
->  Address   
->  Phone number   
->  (Etc.)
-
-Back to top  
+**Name**  
+---  
+**Address**  
+**Phone Number**  
+**(Etc.)**  
   
-**How We Use Information**  
+Back to top  
+How We Use Information  
+---  
   
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use return email addresses to answer the email we receive. In addition, Cameta Camera has contracted with buySafe, Inc. to provide additional guarantees and purchase protection for all customers who complete purchases through our website. buySafe does collect personally identifiable information when a transaction occurs so that they can issue the customer the additional guarantee protection. Please refer to the [buySafe, Inc. website](http://www.buysafe.com/about_us/) for further information regarding their privacy policy. Other than for this purpose, email addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website if you would like to updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+You can register with our website if you would like to updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.  
+  
 Back to top  
+Our Commitment to Data Security  
+---  
   
-**Our Commitment to Data Security**  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
 Back to top  
+Our Commitment to Children's Privacy  
+---  
   
-**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
   
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
 Back to top  
-  
-**How to Access or Correct Your Information**  
+How to Access or Correct Your Information  
+---  
   
 You can access your personally identifiable information that we collect online. We use this procedure to better safeguard your information.
 
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
+  
 Back to top  
+How to Contact Us  
+---  
   
-**How to Contact Us**  
+Should you have other questions or concerns about these privacy policies, please call us at **631-389-2138** and ask for customer service or send customer service an email at [customerservice@cameta.com](mailto:customerservice@cameta.com).  
   
-Should you have other questions or concerns about these privacy policies, please call us at **631-389-2138** and ask for customer service or send customer service an email at [customerservice@cameta.com](mailto:customerservice@cameta.com).
-
 Back to top
