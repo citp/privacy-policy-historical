@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530151815id_/http%3A//www.marieclaire.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieclaire.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219193323id_/http%3A//www.marieclaire.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Marie Claire Privacy Policy
 
