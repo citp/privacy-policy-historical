@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 85ideas.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526223708id_/https%3A//85ideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 85ideas.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219060022id_/https%3A//85ideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 85ideas.com
 
