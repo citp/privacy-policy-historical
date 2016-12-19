@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511202135id_/http%3A//www.popyard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219225102id_/http%3A//www.popyard.com/privacy.html) for the most accurate reproduction.*
 
 # PopYard: Today's Science & Technologies.
 
