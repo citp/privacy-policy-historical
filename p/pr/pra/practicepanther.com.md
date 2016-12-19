@@ -1,66 +1,86 @@
-> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617203531id_/http%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicepanther.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219091703id_/http%3A//www.practicepanther.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • PracticePanther.com
 
-### Privacy Policy
+**Privacy Policy**
 
-Last updated on June 17, 2015
+Last updated on September 16, 2016.
 
-This Privacy Policy governs the manner in which PracticePanther Inc collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.PracticePanther.com website (“Site”) and the (“App”) at https://app.practicepanther.com. This privacy policy applies to the Site, App, and all products and services offered by PracticePanther Inc.
+This Privacy Policy governs the manner in which PracticePanther Inc collects, uses, maintains and discloses information collected from users (a “User”) of the http://www.PracticePanther.com website (“Site”) and the (“App”) at https://app.practicepanther.com. This privacy policy applies to the Site, App, and all products and services offered by PracticePanther Inc.
 
-By accepting the Privacy Policy when signing up for free, registering, entering into a paid subscription plan, or visiting and using the Site or App, you are consenting to our collection, use and disclosure or your personal information in accordance with our Privacy Policy.
+By accepting the Privacy Policy when signing up for free, registering, entering into a paid subscription plan, or visiting and using the Site or App, you are consenting to our collection, use and disclosure or your personal information in accordance with our Privacy Policy.  If you have any questions relating to this Privacy Policy, please contact us. More information on how to contact us is described below.
 
-**What information do we collect?**
+**_The Privacy Shield_**
 
-PracticePanther Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information in our website, our software, and our mobile services. This Privacy Policy describes our practices in connection with information that we collect in our site, software, and mobile services owned and controlled by PracticePanther Inc. for which you are accessing this Privacy Policy (via the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+PracticePanther Inc is committed to adhering to the Privacy Shield Principles and is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Information on the Privacy Shield can be located [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
-**Personal Information We Collect**
+For any complaints that cannot be resolved with PracticePanther Inc directly, PracticePanther Inc has chosen to cooperate with EU data protection authorities (DPAs) and comply with the information and advice provided to it by an informal panel of DPAs in relation to such unresolved complaints (as further described in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA contacts. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. PracticePanther Inc is subject to the investigatory and enforcement powers of the appropriate U.S. governmental authorities.
 
-“ **Personal Information** ” is information that identifies you as an individual, such as:
+PracticePanther Inc’s accountability for personal data that it receives under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. PracticePanther Inc remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless PracticePanther proves that it is not responsible for the event giving rise to the damage, the type of data collected, and the purposes for which the data is collected. Individuals also must be informed of any third parties to whom their data will be transferred, their right to access their data, and the means for limiting the use and disclosure of their personal data.
+
+**_What information do we collect?_**
+
+PracticePanther Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information in our website, our software, and our mobile services. This Privacy Policy describes our practices in connection with information that we collect in our site, software, and mobile services owned and controlled by PracticePanther Inc. for which you are accessing this Privacy Policy. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+
+**_Personal Information We Collect_**
+
+“ **Personal Information** ” is information that identifies you as an individual. The following is Personal Information we may collect from you:
 
   * Name
-  * Postal address (including billing and shipping addresses)
+  * Postal address (including billing address)
   * Telephone number
+  * Fax number
   * Email address
   * Gender
   * Credit and debit card identifiers (such as last 4 digits, type of credit, etc.)
-  * Transaction and purchasing history
+  * Your photo
+  * Your company logo and company information
 
 
 
-**How We Use Personal Information**
+**_How We Use Personal Information_**
 
 **We may use Personal Information:**
 
-  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
-  * To send you important information regarding PracticePanther Inc., changes to our terms, conditions, and policies and/or other administrative information.
-  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * To respond to your inquiries and fulfill your requests.
+  * To send you information we believe may be of interest to you, such as advising you of updates on the software or to inform you of upcoming events, and educational materials.
+  * To send you important information regarding PracticePanther Inc., changes to terms, conditions, and policies and/or other administrative information.
+  * To send you calendar reminders, event reminders.
+  * To allow you to send information and documents to your clients.
   * To send you marketing communications that we believe may be of interest to you.
   * To personalize your experience on the Site, our software, and our mobile services by presenting products and offers tailored to you.
   * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
   * To allow you to add friends for PracticePanther’s Referral Program. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
   * For our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.
+  * To diagnose website technical problems or software bugs.
+  * To provide to our third party service providers who provide services such as website hosting, payment processing, email delivery services, credit card processing, text messaging services, customer service, auditing services and other similar services to enable them to provide services.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock.
 
 
+
+PracticePanther may observe your activities, interactions, preferences, transactional information, and other computer and connection information (such as IP address) relating to your use of our websites and our services. We may also use log files, cookies and similar technologies to collect information about the pages you view, links you click on, and other actions you may take when accessing our websites, services, or emails.
 
 We may use Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**How Your Personal Information may be Disclosed**
+##### **Privacy Shield for EU Attorneys**
 
-**Personal Information may be disclosed:**
+As of September 06, 2016, PracticePanther complies with the Privacy Shield Framework for European attorneys.
 
-  * To our affiliates for the purposes described in this Privacy Policy. These are or will be the party responsible for the management of the jointly-used Personal Information.
-  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing, auditing services and other similar services to enable them to provide services.
-  * To third parties to permit them to send you marketing communications, if you have opted into such sharing.
-  * To third parties sponsors of sweepstakes, contests and similar promotions.
-  * To identify you to anyone to whom you send messages through PracticePanther Inc. services
-  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+##### **Data Processing**
 
+Any personal information collected about EU visitors via our websites is processed in the United States by PracticePanther, Inc or by a third party acting on our behalf. When you provide personal information to PracticePanther, Inc, you consent to the processing of your information in the United States. Our websites are hosted in the United States.
 
+##### **Third-Party Websites**
+
+This website contains links to other sites and integrations with other sites that PracticePanther, Inc does not own or control and whose privacy practices may differ from those of PracticePanther, Inc. Please be aware that PracticePanther, Inc. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our websites. We recommend that you read the privacy statement of each website that collects personal information, as their privacy statement will govern any personal information you submit to those sites. This Privacy Statement applies only to information collected by PracticePanther, Inc. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
+
+##### **Security**
+
+PracticePanther Inc employs industry standard security measures to ensure the security of information. However, the security of information transmitted through the Internet can never be guaranteed. PracticePanther Inc is not responsible for any interception or interruption of any communications through the Internet or for changes to or losses of information. Users of our sites are responsible for maintaining the security of any password, user ID, or other form of authentication involved in obtaining access to password protected or secure areas of any PracticePanther websites. In order to protect you and your information, PracticePanther Inc may suspend your use of a website, without notice, pending an investigation, if any breach of security is suspected. Access to and use of password protected and/or secure area of any PracticePanther, Inc site is restricted to authorized users only. Unauthorized access to such areas is prohibited and may lead to criminal prosecution. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section herein.
 
 We may disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**Other Information**
+**_Other Information_**
 
 **Other Information We Collect**
 
@@ -73,7 +93,7 @@ We may disclose Personal Information as we believe to be necessary or appropriat
 
 
 
-**How We Collect Other Information**
+**_How We Collect Other Information_**
 
 **We and our third party service providers may collect Other Information in a variety of ways, including:**
 
@@ -86,29 +106,21 @@ We may disclose Personal Information as we believe to be necessary or appropriat
 
 
 
-**How We Use and Disclose Other Information**
+**_How We Use and Disclose Other Information_**
 
 Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then, in addition to the uses listed in the “How We Collect Other Information” section above, we may use and disclose Other Information for all the purposes for which we use and disclose Personal Information.
 
 In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-**Third Party Sites**
-
-This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
-
-**Security**
-
-We use high capability organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below.
-
-**Choices & Access**
+**_Choices & Access_**
 
 **Your choices regarding our use and disclosure of your Personal Information**
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt out from:
 
-  * Receiving marketing emails from us: If you no longer want to receive marketing emails from us on a going-forward basis, you may opt out of receiving them by sending an email to info@practicepanther.com or calling us at 800-856-8729.
-  * Our sharing of your Personal Information with affiliates for their marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their marketing purposes, you may opt out of this sharing by sending an email to info@practicepanther.com or calling us at 800-856-8729.
-  * Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt out of this sharing by sending an email to info@practicepanther.com or calling us at 800-856-8729.
+  * Receiving marketing emails from us: If you no longer want to receive marketing emails from us on a going-forward basis, you may opt out of receiving them by contacting us at http://practicepanther.com/contact or calling us at 800-856-8729.
+  * Our sharing of your Personal Information with affiliates for their marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their marketing purposes, you may opt out of this sharing by contacting us at http://practicepanther.com/contact or calling us at 800-856-8729.
+  * Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes: If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt out of this sharing by contacting us at http://practicepanther.com/contact or calling us at 800-856-8729.
 
 
 
@@ -116,7 +128,7 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 **How you can access, change or suppress your Personal Information**
 
-  * If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by sending an email to [info@practicepanther.com](mailto:info@practicepanther.com) or calling us at 800-856-8729.
+  * If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us us at http://practicepanther.com/contact or calling 800-856-8729.
 
 
 
@@ -130,17 +142,13 @@ We will retain your Personal Information for the period necessary to fulfill the
 
 The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals not provide Personal Information through the Site.
 
-**Cross-Border Transfer & Safe Harbor**
-
-Your Personal Information may be stored and processed in any country where we have facilities, or in which we engage service providers, and by using our Site you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country. We abide by the rules and regulations of the U.S.-EU Safe Harbor Framework, which was approved by the EU in 2000 and provide adequate privacy protection to allow EU organizations to comply with the European Commission’s Directive on Data Protection went into effect in October 1998.
-
 **Sensitive Information**
 
 We ask that you not send us, and you not disclose, any sensitive personal information (defined to include: Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Site or otherwise to us.
 
 **Updates to This Privacy Policy**
 
-This Privacy Policy may be subject to updates. The “LAST UPDATED” legend at the top of this page indicates when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+This Privacy Policy may be subject to updates. The “LAST UPDATED” legend at the top of this page indicates when this Privacy Policy was last revised. We encourage you to periodically review this Privacy Statement for any changes. Your use of the Site following these changes means that you accept the revised Privacy Policy. For new users, changes or updates are effective upon posting. For existing users, changes or updates are effective 30 days after posting.
 
 **Your acceptance of these terms**
 
@@ -148,6 +156,4 @@ By using this Site and the App, you signify your acceptance of this policy. If y
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us by sending an email to [info@practicepanther.com](mailto:info@practicepanther.com) or calling us at 800-856-8729.
-
-Because email communications are not always secure, please do not include credit card information or sensitive information in your emails to us.
+If you have any questions about this Privacy Policy, or if you have a complaint, access request or any other issue, please contact us at http://practicepanther.com/contact or calling 800-856-8729.
