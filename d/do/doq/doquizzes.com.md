@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doquizzes.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604120240id_/http%3A//www.doquizzes.com/Security-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doquizzes.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219232902id_/http%3A//www.doquizzes.com/Security-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy Settings at Do Quizzes
 
