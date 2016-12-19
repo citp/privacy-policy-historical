@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623224009id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219152727id_/http%3A//www.uark.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy | University of Arkansas
 
@@ -130,3 +130,7 @@ The university adheres to all applicable federal and state laws, as well as gene
   * [IT Services Computing Policies](http://its.uark.edu/policies/index.php)
 
 
+
+## Web Scraping Policy
+
+You agree that any information collected through robots, crawlers or scrapers will not be sold, transferred or redistributed for monetary gain, because this content is protect by our copyright. In gathering data, you agree to use your legitimate IP address. You also agree to not use these tools to attempt to uncover personal information including applications, student financial information or any information protected by law under FERPA or any information secured by a login. Finally, do not crawl or scrape rotbots.txt files. 
