@@ -1,31 +1,41 @@
-> *The following text is extracted and transformed from the techsarjan.com privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120181605id_/http%3A//www.techsarjan.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsarjan.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219230413id_/http%3A//techsarjan.com/privacy-policy) for the most accurate reproduction.*
 
-# Tech sarjan.... Learn With Us | Linux Tutorials | Windows Tutorials | Android | Latest Gadgets: Privacy Policy
+# Privacy Policy - Tech Sarjan
 
-Thank you for visiting our web site. The following privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+The privacy of visitors to our site is important to us.
 
-###  Collection of Information
+### Tech Sarjan Respects your Privacy
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+Thanks for being one of our valued visitor at Techsarjan. This page ([Tech Sarjan ](http://techsarjan.com/) Privacy Policy) shows what type of personal information is collected, when visitor browse our site. We safeguard your personal information and never sell it with any third parties.
 
-###  Cookie/Tracking Technology
+### Log Files
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+Similar to other www websites, Tech Sarjan also collect and uses log files. This files contain the information regarding IP (Internet Protocol) address, your ISP (Internet Service Provider), browser used by you to visit Tech Sarjan, the time you spend and what pages you surf on our website. This files are used only for administration and maintenance purpose only.
 
-###  Distribution of Information
+Tech Sarjan will never ask for your Debit or Credit Card details, so never submit on any of our website page.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
+### Third Party Advertising
 
-###  Display Advertising
+We use Google Ads and other third-party advertising companies to serve ads when you visit our web site. These advertising companies may use information (not including your name, email address, address or telephone number) about your visit to serve the best ads of your interest.
 
-We’ve implemented Google Analytics features to Display Advertising (e.g., Re marketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use Remarketing with Google Analytics to advertise online.  
-Third-party vendors, including Google, may show our ads on sites across the Internet.  
-We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.
+Looking for more information about such practices, refer below-
 
-###  Commitment to Data Security
+_Google  – http://www.google.com/privacy.html_
 
-Your personally identifiable information is kept secure. Only authorized employees, have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+Other ads served in the Tech Sarjan are media.net, Infolinks and pop-cash also uses the cookies to track user’s activities on this website to measure advertisement effectiveness. In addition, we Tech Sarjan has no control over these cookies that may be used by third party advertisers. You need not to accept cookies each time. You can also block or disable all cookies from your browser. These can be done through Settings options present on your browser.
 
-###  Privacy Contact Information
+### Links to External Websites
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the Contact page. We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+The sites which we link on our website for reference purpose are not associated with us. So there is no control on the nature of external websites. So make sure to read their privacy policy before disclosing your personal information.
+
+### Flashing ROM
+
+We at Tech Sarjan share various tutorials to flash custom ROM and stock ROM on Android devices. The links to download this ROM are from third party Android developers websites, so we can’t assure you 100 % working of this files. Also proceed at your own risk whenever flashing a custom ROM or rooting your device. We should not held responsible for anything happens to your device.
+
+### Trademarks
+
+Techsarjan.com is not affiliated with Google, Xiaomi or any of the device manufacturers listed on this site. Android is a trademark of Google Inc. Use of this trademark is subject to Google Permissions. MIUI and Xiaomi logo is a trademark of Xiaomi Inc. Use of this trademark is subject to Xiaomi Permissions.
+
+### Modification of Privacy Policy
+
+We have all right for the modification of above Privacy Policy statements without your prior notice or information. If you still have queries regarding out Privacy Policy, then [Contact us](http://techsarjan.com/contact-us) by filling the form.
