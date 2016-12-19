@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608180649id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219130906id_/http%3A//hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy for www.hintsandthings.com
 
@@ -32,9 +32,9 @@ Most browsers allow you to reject all cookies, whilst some browsers allow you to
 
 **DoubleClick DART Cookie**
 
-Google, as a third-party vendor, uses cookies to serve ads on your site.
+Google, as a third-party vendor, uses cookies to serve ads on your site. 
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
 **Users may opt out of the use of the DART cookie** by visiting the [ Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
@@ -63,9 +63,7 @@ www.hintsandthings.com has no access to or control over these cookies that are u
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.hintsandthings.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites or [ http://www.aboutcookies.org/Default.aspx?page=1](http://www.aboutcookies.org/Default.aspx?page=1)
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at june@hintsandthings.com. 
+If you wish to disable cookies, you may do so through your individual browser options (see [ http://www.aboutcookies.org/how-to-delete-cookies/](http://www.aboutcookies.org/how-to-delete-cookies/)  More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites, [ http://www.aboutcookies.org/how-to-control-cookies/](http://www.aboutcookies.org/how-to-control-cookies/) or <http://wiht.link/cookiesguide>  If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at june@hintsandthings.com. 
 
 ****
 
