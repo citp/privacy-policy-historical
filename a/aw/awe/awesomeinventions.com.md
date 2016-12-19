@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeinventions.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608062911id_/http%3A//www.awesomeinventions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeinventions.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219021029id_/http%3A//www.awesomeinventions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Awesome Inventions
 
@@ -39,7 +39,7 @@ www.awesomeinventions.com uses cookies to store information about visitors' pref
 
 **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on www.awesomeinventions.com.  
-Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.awesomeinventions.com and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")  
+Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.awesomeinventions.com and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")  
  
 
 **Our Advertising Partners**  
