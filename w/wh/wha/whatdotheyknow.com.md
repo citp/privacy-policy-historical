@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323092812id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219033740id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
@@ -33,17 +33,17 @@ There are several good alternatives to using a pseudonym.
 
   * Use a different form of your name. The guidance says that "Mr Arthur Thomas Roberts" can make a valid request as "Arthur Roberts", "A. T. Roberts", or "Mr Roberts", but **not** as "Arthur" or "A.T.R.". 
   * Women may use their maiden name.
-  * In most cases, you may use any name by which you are "widely known and/or is regularly used". 
-  * Use the name of an organisation, the name of a company, the trading name of a company, or the trading name of a sole trader. 
-  * Ask someone else to make the request on your behalf. 
-  * You may, if you are really stuck, ask us to make the request on your behalf. Please [contact us](https://web.archive.org/help/contact) with a good reason why you cannot make the request yourself and cannot ask a friend to. We don't have the resources to do this for everyone. 
+  * In most cases, you may use any name by which you are "widely known and/or is regularly used".
+  * Use the name of an organisation, the name of a company, the trading name of a company, or the trading name of a sole trader.
+  * Ask someone else to make the request on your behalf.
+  * You may, if you are really stuck, ask us to make the request on your behalf. Please [contact us](https://web.archive.org/help/contact) with a good reason why you cannot make the request yourself and cannot ask a friend to. We don't have the resources to do this for everyone.
 
 
 
 Please do not try to impersonate someone else.
 
 Why are there anonymous requests on the site? #
-     Some public authorities are using mySociety's [FOI Register](https://github.com/mysociety/foi-register) software in order to use WhatDoTheyKnow as a disclosure log for all their FOI activity. When people make requests to the authority their names will usually be withheld from publication just as they would in an authority disclosure log on an authority website. 
+     Some public authorities were using mySociety's [FOI Register](https://github.com/mysociety/foi-register) software in order to use WhatDoTheyKnow as a disclosure log for all their FOI activity. When people make requests to the authority their names will usually be withheld from publication just as they would in an authority disclosure log on an authority website. 
 They've asked for my postal address! #
     
 
@@ -69,11 +69,11 @@ What about cookies and third party services? #
 
 **Our use of cookies and external services: what you should know, and how to opt out if you want to.**
 
-Summary: We care a lot about our users’ privacy. We provide details below, and we try our hardest to look after the private data that we hold. Like many other websites, we sometimes use cookies and Google Analytics to help us make our websites better. These tools are very common and used by many other sites, but they do have privacy implications, and as a charity concerned with socially positive uses of the internet, we think it’s important to explain them in full. If you don’t want to share your browsing activities on mySociety’s sites with other companies, you can adjust your usage or install opt-out browser plugins. 
+Summary: We care a lot about our users’ privacy. We provide details below, and we try our hardest to look after the private data that we hold. Like many other websites, we sometimes use cookies and Google Analytics to help us make our websites better. These tools are very common and used by many other sites, but they do have privacy implications, and as a charity concerned with socially positive uses of the internet, we think it’s important to explain them in full. If you don’t want to share your browsing activities on mySociety’s sites with other companies, you can adjust your usage or install opt-out browser plugins.
 
 **Cookies**
 
-To make our service easier or more useful, we sometimes place small data files on your computer or mobile phone, known as cookies; many websites do this. We use this information to, for example, remember you have logged in so you don't need to do that on every page, or to measure how people use the website so we can improve it and make sure it works properly. Below, we list the cookies and services that this site can use. 
+To make our service easier or more useful, we sometimes place small data files on your computer or mobile phone, known as cookies; many websites do this. We use this information to, for example, remember you have logged in so you don't need to do that on every page, or to measure how people use the website so we can improve it and make sure it works properly. Below, we list the cookies and services that this site can use.
 
 Name| Typical Content| Expires  
 ---|---|---  
@@ -119,7 +119,7 @@ Sample data about database queries, individual requests for pages is stored by N
 
 **Our own logging**
 
-In addition to the information you give us about yourself in order to use the site (e.g. your name and email address), we collect and log some additional information in order to analyse and fix problems with the site. Our webserver logs maintain a history of page requests. This includes information about requests, including the client IP address, data submitted (which might include your email address when you log on to the site), request date and time, page requested, browser version and [referrer](https://en.wikipedia.org/wiki/HTTP_referer). We routinely keep this information for 28 days. 
+In addition to the information you give us about yourself in order to use the site (e.g. your name and email address), we collect and log some additional information in order to analyse and fix problems with the site. Our webserver logs maintain a history of page requests. This includes information about requests, including the client IP address, data submitted (which might include your email address when you log on to the site), request date and time, page requested, browser version and [referrer](https://en.wikipedia.org/wiki/HTTP_referer). We routinely keep this information for 28 days.
 
 **Credits**
 
@@ -132,7 +132,7 @@ WhatDoTheyKnow is a permanent, public archive of Freedom of Information requests
 
 Under exceptional circumstances we may remove or change your name on the website, see the next question. Similarly, we may also remove other personal information. 
 
-If you're worried about this before you make your request, see the section on pseudonyms.
+If you're worried about this before you make your request, see the section on pseudonyms. 
 
 Can you take down personal information about me? #
     
@@ -148,7 +148,7 @@ I’m a public servant - can you take down personal information about me? #
 
 Whilst we have a general presumption that more openness is better, we will consider requests to remove the names of public servants when it seems unlikely that the public interest will be harmed by doing so.
 
-This means that: 
+This means that:
 
   * If you are a decision maker of any seniority, or if you are responding to an FOI request, we will not normally remove your details from documents and emails sent by a public body. Accountability of decision-making is at the heart of good government.
   * If you hold a junior, non-decision making post we will consider requests to remove your details. Removing these details is difficult for our volunteers to do, so please let us know why this really matters to you. If we agree to remove your details we will take reasonable steps to do so but in some cases may not be able to for technical reasons.
