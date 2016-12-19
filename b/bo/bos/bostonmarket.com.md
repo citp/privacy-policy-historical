@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320094808id_/https%3A//www.bostonmarket.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmarket.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219111253id_/https%3A//bostonmarket.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Boston Market
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting our website. We seek to make this site as informative and helpful as possible, while respecting and protecting your privacy. Here’s what we’re doing to help create a positive online experience.
 
-### Cookies
+## Cookies
 
 Typically, when we say “cookie,” we usually think of tasty, little baked goods. But in this instance, cookies are pieces of data that a web site transfers to your hard drive for record-keeping purposes. We use cookies to help us understand who is visiting our web site (who is new and who is returning), and what our visitors are looking at. We may use cookies to help us remember you or to help us administer contests or sweepstakes. We may associate your personal information with a cookies file in those instances. You may disable cookies on your web browser, but doing this may limit your experience on our website.
 
@@ -44,7 +44,7 @@ If you would like us to remove or change your information in our system, please 
 
 ### E-mail
 
-If you have questions or comments, we encourage you to contact our [Guest Contact Center](https://bostonmarket.com/company/contact-us/) team. If you contact us via e-mail, the only identifying information we keep is the e-mail itself. We may collect personal information from your message (such as your name and e-mail address), so we can respond to your questions or requests for information. We use your information solely for internal purposes. (For example, we may use it to fulfill your request.) We don’t sell it or transfer it to third parties, and we don’t send unsolicited e-mail. We may respond to e-mail you send us, though.
+If you have questions or comments, we encourage you to contact our [Guest Contact Center](https://web.archive.org/company/contact-us/) team. If you contact us via e-mail, the only identifying information we keep is the e-mail itself. We may collect personal information from your message (such as your name and e-mail address), so we can respond to your questions or requests for information. We use your information solely for internal purposes. (For example, we may use it to fulfill your request.) We don’t sell it or transfer it to third parties, and we don’t send unsolicited e-mail. We may respond to e-mail you send us, though.
 
 ### Bing **Maps**
 
