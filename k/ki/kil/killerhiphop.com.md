@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killerhiphop.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606035150id_/http%3A//www.killerhiphop.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerhiphop.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219074212id_/http%3A//www.killerhiphop.com/about/privacy-policy) for the most accurate reproduction.*
 
-# KillerHipHop » Privacy Policy
+# Privacy Policy : KillerHipHop.com
 
 This privacy policy sets out how Killerhiphop.com uses and protects any information that you give Killerhiphop.com when you use this website.
 
