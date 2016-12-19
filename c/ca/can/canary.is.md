@@ -1,139 +1,135 @@
-> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417164745id_/https%3A//canary.is/legal/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219092039id_/https%3A//www.canary.is/legal/privacy-policy) for the most accurate reproduction.*
 
-# Canary Website Privacy Policy | Canary
+# Canary Privacy Policy | Canary
 
-###### Website Privacy Policy
+#### Canary Privacy Policy
 
-Canary Connect, Inc. ("Canary") collects personal information on our website at [canary.is ](https://web.archive.org/)and [https://store.canary.is](https://store.canary.is/)(together the "Site"). Canary takes security seriously and we care about the integrity of your personal information. What information Canary collects from visitors to our website and what Canary does with that information is outlined in this policy. This information is used to provide our users and customers with the best service and allows us to understand how visitors navigate our Site. By visiting the Site and using our services (e.g., ordering our products, contacting us, etc.) you agree that your personal information will be handled as described in this Policy. Your use of our Site and services, and any dispute over privacy, is subject to this Policy, including those additional terms and conditions and policies referenced or available by hyperlink at [www.canary.is/legal](https://web.archive.org/legal/), including but not limited to, Canary’s System Privacy Policy, System Terms and Conditions, Website Terms of Service, and End User License Agreement, all of which are incorporated by reference into this Policy.
+Our mission at Canary is to build products that empower people to live fearless lives and make decisions about their safety and security. We believe that providing transparency around the data and personal information you entrust to us is critical to complete that mission. Your privacy and trust is our utmost concern. This privacy policy ("Privacy Policy") describes how we collect and use personal and other information through our home security device, mobile applications, and web applications (our "Products" or "Services") and from visitors to our website [https://canary.is](https://web.archive.org/) (the "Site"). This Policy describes the choices available to you regarding our use of your personal information, how we share your information, and how you can access and update your information.
 
-###### Information We Collect About You
+If you are a resident of the US or Canada, these terms are an agreement between you and Canary Connect, Inc. Otherwise, these terms are an agreement between you and Canary Technology Europe Limited. In these terms, references to "Canary" "us", "we" and "our" mean either Canary Connect, Inc. or Canary Technology Europe Limited, as appropriate.
 
-###### Information We Collect Directly From You
+By visiting the Site or using our Products you agree that your personal information will be handled as described in this Policy. Any additional terms, conditions, or policies referenced or available by hyperlink at [https://www.canary.is/legal](https://web.archive.org/legal/) are incorporated by reference into this Policy.
 
-We collect information from you when you make a purchase, verify your credit card, place an order, arrange for a delivery or return a purchase, or otherwise interact with our Site and services or contact us. The type of information that we collect from you depends on your interaction with our Site and our services, but may include the following:
+###### What Information Does Canary Collect?
 
-  *  **Information Necessary to Complete Your Purchase** \- Your name, billing and shipping address, credit card information, and other information necessary to complete your transaction, as well as any other information that you choose to provide to us ("Payment Information"). Our store is hosted on Shopify, Inc. and payments are processed through our third party payment processors, Braintree and Recurly. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Your data is stored through Shopify, Braintree, and Recurly's data storage databases and the general Shopify application. For more insight, you may also want to read each third party’s Terms of Service and Privacy Policy available on their respective websites here: [Shopify](http://www.shopify.com/legal), [Braintree](https://www.braintreepayments.com/legal), and [Recurly](https://recurly.com/legal).
-  *  **Mailing List Information** \- You may choose to submit your email address via a submission form located on our Site. Your email address may be used to send you news about Canary, including promotions. We may use one or more service providers to administer these messages. Canary does not share your email address with spammers or any other non-affiliated third parties for their own marketing purposes without your permission. If you feel you have received an email from us in error, please contact [support@canary.is](mailto:support@canary.is).
+We collect the following personal and device information when visiting our Site or using our Product:
 
+ **Personal & Account Information**
 
-
-###### INFORMATION WE COLLECT AUTOMATICALLY & WEBSITE USE INFORMATION
-
-We may automatically collect the following information about your use of our Site or services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you visit; links you click; your IP address; the length of time you visit our Site and or use our services; and the referring URL, or the webpage that led you to our Site. Please see the section "Cookies and Other Tracking Mechanisms" below for more information about our use of cookies and other tracking mechanisms.
-
-###### Children
-
-Our Site does not knowingly collect or store any personal information about children under the age of 13.
-
-###### How We Use Your Information
-
-We use your information for the following purposes:
-
-  * To provide our services to you, to communicate with you about your use of our services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes.
-  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our services.
-  * For marketing and promotional purposes. For example, we may use your information, such as your email address, to send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We also may use the information that we learn about you to assist us in advertising our services on third party websites.
-  * To better understand how users access and use our Site and services, both on an aggregated and individualized basis, in order to improve our Site and services and respond to user desires and preferences, and for other research and analytical purposes.
+  * Information you provide during device setup, such as your name, email address, phone number, the location of each device, and the number of people in your home.
+  * Information necessary to complete a purchase from our Site, including your name, billing and shipping address, credit card information, and other information necessary to complete your transaction, as well as any other information that you choose to provide to us when making a purchase.
+  * If you are invited to create an account from the owner of a Canary product we will collect your name and email address from the Canary user that invited you. Your phone number and other account details will be obtained directly from you during the setup process, provided that you accept the invitation.
+  * Unique identifiers such as your user name and password.
 
 
 
-###### How We Share Your Information
+ **Device Information**
 
-We do not sell your personal information to third parties for their own marketing purposes. We will share your information, including your personal information, with third parties to assist us in providing our services to you and for certain legal purposes. Specifically, we may share your information as follows:
+  * Audio and video is collected through the device. Audio and video data is stored securely on our servers to ensure you can access it and playback footage.
+  * Environmental data from Canary’s sensors, such as air quality, humidity, temperature, and ambient light.
+  * Device Information, such as model and serial number, the Canary’s network information (including IP address), device activity logs, and historic and current device configuration.
+  * Information about your mobile device such as your mobile device ID (which is similar to a website IP address), device type, operating system, and mobile service carrier as well as your location if you activate automatic mode switching.
 
-  *  **Affiliates.** We may disclose the information we collect from you to our affiliates; however, if we do so, their use and disclosure of your personal information will be subject to this Policy.
-  *  **Service Providers.** We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf (e.g., with vendors that help us with delivering products to you, vendors that help us maintain our Site, customer support, or analytics providers, etc.).
+
+
+###### What Does Canary Use My Information For?
+
+We collect the information identified above and use it for the following purposes:
+
+  * Provide you user services and improve the Canary Product functionality and user experience.
+  * To fulfill orders and process payments for the sale of Products or Services from our Site.
+  * Administer your account and back-up your data.
+  * Record log entries for your information and troubleshooting issues with your device.
+  * Send you notifications through the Canary app. You can manage your notification preferences within the mobile app menu.
+  * Send you marketing communications, where permitted by applicable law.
+  * To conduct research and analysis to better understand how users access and use our Site and Products, both on an aggregated and individualized basis, in order to improve our Site, our Products, create new features, provide you new offerings, respond to user preferences, and to protect your data.
+  * Respond to your questions and concerns and provide customer support.
+
+
+
+#### What are my Choices?
+
+ **Location Services**   
+Some features of our app use location-based data. If you allow these services, we will use information about the Wi-Fi routers and cell IDs of the towers closest to you. We use this information to facilitate the device’s automatic mode switching, for customer support related to our Products, and to provide you with local emergency service contact information. You may disable location services within your phone’s settings menu.
+
+ **Video & Audio**   
+You may configure your Canary device from within the mobile application to capture video and audio of your location within the camera’s range and provide you with notifications. You can set your Canary device to different modes from within the mobile app menu. Each mode determines when Canary records audio and video and when you receive notifications and can be customized depending on your settings. You should inform guests of any recording if the camera is on while others are in your home.
+
+You may enable privacy mode from within the app menu to prevent the recording of video and audio through the device. In privacy mode, the watch live video feature and event notifications are disabled and the camera and microphone are turned off. Your device will continue to monitor environmental activity in privacy mode so we may provide you with aggregated HomeHealth information. LED lights on the bottom of the device will be turned off to indicate the device is in privacy mode.
+
+###### How We Share Your Information.
+
+We will share certain categories of your information with third parties only in certain circumstances as described below:
+
+ **Identifiable Information.**   
+Personally Identifiable Information (PII) is information that contains data that could be used to directly or indirectly identify you, like your name or e-mail address. We only share this information under extremely limited circumstances. Primarily, this information is shared with third parties to provide you necessary Services or to operate your Canary device. For example, this information is shared on a limited basis to assist in managing the computers that store your personal and device information and to third parties that assist us in providing you with customer support. These third parties are authorized to use your personal information only as necessary to provide these services to us.
+
+Specifically, we may share this information as follows:
+
+  *  **Affiliates.** We may disclose the information we collect from you to our affiliates and subsidiaries that provide services or conduct data processing on our behalf, or for data centralization and / or logistics purposes. If we do so, their use and disclosure of your personal information will be subject to this Policy.
+  *  **Service Providers.** We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf (e.g., with vendors that help us with delivering products to you, vendors that help us maintain our Site, or analytics providers).
   *  **Business Transfers.** If we are acquired by or merged with another company, or if substantially all of our assets are transferred to another company, we may transfer the information we have collected from you to the other company.
-  *  **In Response to Legal Process.** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
-  *  **To Protect Us and Others.** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which we are involved.
-  *  **Aggregate and De-Identified Information.** We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
+  *  **In Response to Legal Process.** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena. To the extent legally allowed, we will notify you of such requests prior to disclosing any information sought.
+  *  **To Protect Us and Others.** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy.
 
 
 
-###### Our Use of Cookies and Other Tracking Mechanisms
+ **Anonymized Information.**   
+We may share your aggregated and de-identified information, which is anonymized and does not identify you. We may use this information n a variety of ways, including to publish trends about energy use or home security, and to generally improve our offerings. We may also share this anonymized information with third parties for marketing, advertising, research, or similar purposes.
 
-###### COOKIES
+ **Information We Share With Your Consent.**   
+We may share personally identifiable information with third parties provided we receive your consent to share that information. For example, you may opt to share certain information so it can be posted on your social media accounts like Facebook or Twitter, you may link your Canary account with another app or Service, or you may opt into providing information to Canary’s business partners to receive special offers. Information will never be shared for these purposes without your consent. We never share your audio or video information with any third party for business or marketing purposes.
 
-We use cookies and other tracking mechanisms to track information about your use of our Site or services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and service. There are two types of cookies: session and persistent cookies.
+###### Information Obtained from Third Parties.
 
-###### SESSION COOKIES.
+If you provide personal information about others or if others provide us your information, we will only use that information for the specific reason for which it was provided to us.
 
-Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
+###### Updating Your Information.
 
-###### PERSISTENT COOKIES.
+To review and update your personal information, you may view and edit your information from within the app or by contacting us at [support@canary.is](mailto:support@canary.is). We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide services to you, contact us at [support@canary.is](mailto:support@canary.is). We will retain and use your information as necessary to comply with our legal obligations.
 
-Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity.
+###### Marketing, Advertising, and Analytics.
 
-###### THIRD PARTY COOKIES.
+ **Cookies, Tracking and Ads**   
+We may automatically collect information about your use of our Site or Services through cookies, web beacons, and other technologies, such as your domain name; your browser type and operating system; web pages you visit; links you click; your IP address; the length of time you visit our Site and or use our services; and the referring URL, or the webpage that led you to our Site.
 
-We use third-party vendors, including Google, and use cookies such as the Google Analytics cookies and third-party cookies, such as the DoubleClick cookies, together to report how ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website.
+We may use technologies to understand how many household members access your Canary device(s) at your location or access features within the app. We use this aggregated information to understand and optimize how Canary devices and the app are used and to provide content and features that are of interest to you. Please refer to our Ads & Cookie Statement for more information about your choices around cookies and related technologies and third party advertising.
 
-###### DISABLING COOKIES.
+ **Email Communications**   
+You may choose to submit your email address through a submission form located on our Site to sign up for communications from Canary. Your email address associated with your account may also be used to send you news about Canary, such as new features or marketing promotions. We may use one or more service providers to administer these messages. Canary does not share your email address with spammers or any other non-affiliated third parties for their own marketing purposes without your permission. You may opt out of receiving newsletter or marketing emails from us by following the unsubscribe instructions or by contacting us at [support@canary.is](mailto:support@canary.is).
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+###### Security.
 
-###### LOCAL STORAGE OBJECTS.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the information transmitted to us, both during transmission and upon receipt. No method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Products can contact us at security@canary.is.
 
-We may use Flash Local Storage Objects ("Flash LSOs") to store your Site preferences and to personalize your visit. Flash LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete, or disable the acceptance of Flash LSOs through your web browser.
+###### Other Rights & Important Notices.
 
-For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go to the Adobe Flash Player Help Page, choose "Global Storage Settings Panel" and follow the instructions. To see the Flash LSOs currently on your computer, choose "Website Storage Settings Panel" and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
+ **Children**   
+Our Site and Products do not knowingly collect or store any personal information about children under the age of 13.
 
-###### CLEAR GIFS, PIXEL TAGS AND OTHER TECHNOLOGIES.
+ **International Users**   
+Our business operations and the computer servers that handle data collected from the app and the device are hosted in the United States. If you are accessing or using the app or the device in the European Union or other regions with laws governing data collection and use that may differ from US law, then please note that your personal information will be transferred to the United States and you consent to such transfer.
 
-Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
+ **Your California Privacy Rights**   
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Canary does not share your personally identifiable information with third parties for the third parties’ direct marketing purposes unless you provide us with consent to do so.
 
-###### Third Party Analytics and Tracking
-
-Like many websites, we use tools (including, but not limited to, Google analytics, Optimizely, Crazyegg, and Qualaroo) to collect information from visitors in order to better understand how they use our website (e.g., browser type, domains, page views). We use these tools to help us improve our services, performance, and user experiences. These entities may use cookies and other tracking technologies to perform their services. Please visit their sites to learn more about the technologies we use, their respective terms and privacy policies, and your options to opt-out of their services (if applicable). We do not share your personal information with these third parties.
-
-In addition, in some of our email messages, we use a "click-through URL" linked to content on the Canary website. We track this click-through data to help us measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
-
-We currently do not honor browser requests not to be tracked on our Site. Through third parties, however, you do have the option not to be tracked for purposes of advertising. Please see the section regarding "Third Party Ad Networks" below for additional information.
-
-###### Third Party Ad Networks & Opt Out Options
-
-We use third parties such as network advertisers, including, but not limited to, Google's Display Network, Quantcast, and Mediaplex to display advertisements on other websites. Through a process called "retargeting," also known as "remarketing," network advertisers place a cookie on your browser that allows us to show you ads on other sites based on your previous activity on our Site. 
-
-Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our service. Our third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. We also use Google Analytics Demographics and Interest Reporting, to tailor advertisements relevant to you based on demographic information such as age, gender, and interests.
-
-You may, however, opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: [www.networkadvertising.org/optout_nonppii.asp ](http://www.networkadvertising.org/choices/)(NAI); and [www.aboutads.info/choices ](http://www.aboutads.info/choices/)(DAA).
-
-Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be effective. Additional information is available on NAI’s and DAA’s websites accessible by the above links.
-
-Additionally, we use the Google Analytics features for Display Advertising , including Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also install the Google Analytics opt-out add-on to your browser to prevent your data from being collected by Google Analytics.
-
-###### User Generated Content
-
-We invite you to post content on our Site, including your comments, pictures, and any other information that you would like to be available on our Site. If you post content to our Site, all of the information that you post will be available to all visitors to our Site and will be subject to our website Terms of Service. If you post your own content on our Site or Services, your posting may become public and Company cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.
-
-###### Third-Party Links, Websites and Features
-
-Our Site and Services may contain links to third-party websites as well as social media features such as Facebook and Twitter. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We do not control what information these websites collect.
-
-###### International Visitors
-
-The Canary website is hosted in the United States. If you are accessing the site from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
-
-###### What Choices Do I Have Regarding Use of My Personal Information?
-
-We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us.
-
-###### Security
-
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. Please note that no method of transmission over the Internet or electronic storage is 100% secure, and we recommend that you also take steps to prevent your personal data such as signing off after using a shared computer, keeping any log-in information and password private.
-
-We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+ **Notification of Privacy Policy Changes**   
+We may update this privacy statement to reflect changes to our information practices or changes to our services. If we make any material changes, we will notify you by email (sent to the email address specified in your account), through a push-notification, or by means of a notice in the app prior to the change becoming effective. We encourage you to periodically review this statement for the latest information on our privacy practices.
 
 ###### Contact Us
 
-If you have any questions about our privacy policy or would like to remove your information from our marketing lists, you may contact us at: [legal@canary.is ](mailto:legal@canary.is)or by mail to:
+If you have any questions about this Privacy Policy, you may contact us at: [legal@canary.is](mailto:legal@canary.is) or by mail to:
 
-Canary Connect, Inc.  
-132 E. 43rd St, Ste 552  
-New York, NY, 10017  
+If you are in the US or Canada:
 
+Canary Connect, Inc.   
+132 E. 43rd St, Ste 552   
+New York, NY, 10017
 
-###### Changes to this Policy
+If you do not reside in the US or Canada:
 
-This Policy is current as of the date set forth below. If we make any changes that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
+Canary Technology Europe Limited   
+Digital Depot, Roe Lane   
+Dublin 8, Ireland
 
-Last Updated: September 2nd, 2015
+Last Updated: May 19, 2016
