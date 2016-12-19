@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618213925id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbs.com.au privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219105819id_/http%3A//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement) for the most accurate reproduction.*
 
 # Corporate : View : SBS Corporate
 
@@ -6,7 +6,8 @@
 
 A PDF version of this policy is available here: [PDF ](http://media.sbs.com.au/home/upload_media/site_20_rand_671504647_sbs_privacy_policy_9_march_2016.pdf)(371KB). 
 
-**SBS Privacy Policy**
+**SBS Privacy Policy  
+**
 
 SBS is committed to providing a safe and welcoming digital environment, and to be open and transparent about how we collect and use your information when you use our website, apps and other online services or interact with us in other ways.
 
