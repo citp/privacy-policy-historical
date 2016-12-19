@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aeroforceone.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610035124id_/http%3A//www.aerosmith.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aeroforceone.com privacy policy that was archived on 2016-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219034420id_/http%3A//www.aerosmith.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style=""><head>
 
@@ -10,7 +10,7 @@
 
   <meta name="keywords" content="Aerosmith, Steven Tyler, Joe Perry, Tom Hamilton, Brad Whitford, Joey Kramer, Boston">
   <meta name="description" content="The Official Website of Aerosmith and  Aero Force One.">
-  <meta name="author" content="BubbleUp, LTD.">
+  <meta name="author" content="Aerosmith">
 
   <meta property="og:site_name" content="Aerosmith">
   <meta property="og:description" content="The Official Website of Aerosmith and  Aero Force One.">
@@ -259,6 +259,103 @@ IDENTITY('trackPageview');
 </script>
 
   
+
+
+<script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1735717';</script>
+<script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js"></script>
+
+<script>
+    // ------------------------------------------------------------------------
+    // Extended version of Emma Lightbox (with mailchecker functionality)
+
+
+    (function ($) {
+        'use strict';
+
+        var isInitialized = false;
+
+        // Init
+        $(function () {
+
+            var parentLoadScriptFn = window.e2ma.request.loadScript;
+
+            window.e2ma.request.loadScript = function () {
+
+                parentLoadScriptFn.apply(this, arguments);
+
+                _initExtendedForm();
+            };
+
+            _initExtendedForm();
+
+        });
+
+        _initExtendedForm();
+
+
+        // Private module methods
+        function _initExtendedForm() {
+
+            if (!isInitialized && window.e2ma.form) {
+                isInitialized = true;
+
+                // Init
+                var parentShowFn = window.e2ma.form.show;
+
+
+                window.e2ma.form.show = function (accountId, formId) {
+                    var $form, $emailInput, nativeEmmaHandler;
+
+                    // Parent method
+                    parentShowFn.apply(this, arguments);
+
+                    // Prepare data
+                    $form = $('#emma-form-' + formId).find('form');
+                    $emailInput = $form.find('input[type=email]');
+
+                    // Adding the mailchecker functionality
+                    $emailInput
+                        .addClass('js-mailchecker-email-validation')
+                        .attr('data-options', 'hint subscribeForce')
+                        .attr('data-token', '49e2f5b4ab0dcbc3b3e8a9056c39dfd9');
+
+                    // Reinit of validation module
+                    mailCheckerApp.validationModule.initModule();
+
+                    // Disabling native Emma form handler
+                    nativeEmmaHandler = $form.get(0).onsubmit;
+                    $form.get(0).onsubmit = undefined;
+
+                    // Handler: event will fire after successfully subscribing of email from input element. List Id assigned into plugin config.
+                    $form.on(mailCheckerApp.validationModule.EVENT_PLUGIN_SUBSCRIBE2LIST_SUBSCRIBING, function (event, emailValidator, success, msg) {
+
+                        if (success) {
+
+                            // Performing native Emma handler
+                            nativeEmmaHandler.apply($form.get(0));
+                        }
+                    });
+
+                };
+
+            }
+        }
+
+    }(jQuery));
+</script>
+
+
+<script src="https://mailchecker.bubbleup.net/js/tools/validation/email-validator.js"></script>
+
+<link rel="stylesheet" href="https://mailchecker.bubbleup.net/js/tools/validation/email-validator-default.css">
+<style type="text/css">
+    .emma-show .notifyjs-wrapper,
+    .emma-show .notifyjs-arrow,
+    .emma-show .notifyjs-container,
+    .emma-show .notifyjs-bootstrap-base{
+        margin-top: 0 !important;
+    }
+</style>
 
 
 </body></html>
