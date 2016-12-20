@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508142248id_/https%3A//circleup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220065026id_/https%3A//circleup.com/privacy) for the most accurate reproduction.*
 
 # CircleUp Privacy Policy
 
@@ -170,7 +170,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 * ### California Residents: California Privacy Rights
 
-Under California law, California Residents who have an established business relationship with CircleUp or one of its subsidiaries may choose to opt out of CircleUp’s disclosure of Personal Data about them to third parties for direct marketing purposes. If you choose to opt out at any time after granting approval, email [info@circleup.com](mailto:info@circleup.com) or write to CircleUp Network Inc., 818 Mission Street, Suite 300, San Francisco, CA, 94103.
+Under California law, California Residents who have an established business relationship with CircleUp or one of its subsidiaries may choose to opt out of CircleUp’s disclosure of Personal Data about them to third parties for direct marketing purposes. If you choose to opt out at any time after granting approval, email [info@circleup.com](mailto:info@circleup.com) or write to CircleUp Network Inc., 30 Maiden Lane, Floor 6, San Francisco, CA, 94108.
 
 * ### Contacting CircleUp
 
@@ -181,5 +181,5 @@ CircleUp Network, Inc.
 [info@circleup.com](mailto:info@circleup.com)
 
 CircleUp Network Inc.  
-818 Mission St, Suite 300  
-San Francisco, CA 94103
+30 Maiden Lane, Floor 6  
+San Francisco, CA 94108
