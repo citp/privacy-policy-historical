@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417045553id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220090454id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: **07/23/2015**
+Updated: **08/30/2016**
 
-[Download as PDF](https://web.archive.org/downloads/legal/privacy_policy_2015.07.23.pdf "Download the Privacy Policy as a PDF")
+[Download as PDF](https://web.archive.org/downloads/legal/privacy_policy_2016.08.30.pdf "Download the Privacy Policy as a PDF")
 
  **Welcome to HowManySyllables.com, best known as How  Many Syllables.**
 
- _How  Many Syllables_ respects your privacy. This Privacy Policy is specific to HowManySyllables.com, its subdomains, its co-sponsored websites (such as PoemWorkshop.com), our social media pages, and any other website or application, owned or operated by _How  Many Syllables_.
+ _How  Many Syllables_ respects your privacy. This Privacy Policy is specific to HowManySyllables.com, its subdomains, its co-sponsored websites, our social media pages, and any other website or application, owned or operated by _How  Many Syllables_.
 
 Section 1: General Terms and Agreement
 
-1.1 Any reference to "we", "us", or "our" is a reference to _How  Many Syllables_, a corporation organized under the laws of the State of New York, of the United States of America.
+1.1 Any reference to "we", "us", or "our" is a reference to _How  Many Syllables_, a corporation organized under the laws of the State of New York of the United States of America.
 
 1.2 Any reference to "site", "website", or "apps" is a reference to HowManySyllables.com, its subdomains, co-sponsored websites, desktop applications, mobile apps, social media pages, or any other websites or applications that are owned or operated by _How  Many Syllables_.
 
 1.3 Any reference to our "products", "features", or "services" is a reference to any of our dictionaries, databases, word-lists, media files, downloadable files, audio (sound) files or any other products, services, or features which are owned or operated by _How  Many Syllables_.
 
-1.4 Any reference to our "social media pages" is a reference to our [Facebook page](http://www.facebook.com/HowManySyllables), our [Twitter page](https://twitter.com/WeKnowSyllables), our [Google Plus page](https://plus.google.com/+HowManySyllables), and any other pages which exist on any third-party website which are owned or operated by _How  Many Syllables_.
+1.4 Any reference to our "social media pages" is a reference to our [Facebook page](https://www.facebook.com/HowManySyllables), our [Twitter page](https://twitter.com/WeKnowSyllables), our [Google Plus page](https://plus.google.com/+HowManySyllables), and any other pages which exist on any third-party website which are owned or operated by _How  Many Syllables_.
 
 1.5 Any reference to "you", "your", or "user" is a reference to you (either as an individual or corporate entity), as a user who establishes a connection to our website or social media pages.
 
@@ -51,7 +51,7 @@ Section 3: Information You Choose to Provide
 
 3.1 You may choose to contact us privately using our [Contact Us](https://web.archive.org/contact_us) page, by sending an email, or through the private message feature of a third-party website such as Facebook or Twitter. Personal information submitted in this way will only be used to provide you with the specific information requested or to address your specific query.
 
-3.2 You may also choose to post a message in a public forum such as on the wall of our [ Facebook page](http://www.facebook.com/HowManySyllables), our [Twitter page](http://twitter.com/WeKnowSyllables), or our [Google Plus page](https://plus.google.com/+HowManySyllables). Please be aware that these are _public forums_ and your posts will be visible for the whole world to see. Private messages are an exception. They will be used to address your specific query and then archived or deleted. If you are concerned about a post which you have made, please use our [Contact Us](https://web.archive.org/contact_us) page to request that it be removed.
+3.2 You may also choose to post a message in a public forum such as on the wall of our [ Facebook page](https://www.facebook.com/HowManySyllables), our [Twitter page](https://twitter.com/WeKnowSyllables), or our [Google Plus page](https://plus.google.com/+HowManySyllables). Please be aware that these are _public forums_ and your posts will be visible for the whole world to see. Private messages are an exception. They will be used to address your specific query and then archived or deleted. If you are concerned about a post which you have made, please use our [Contact Us](https://web.archive.org/contact_us) page to request that it be removed.
 
 Section 4: How We Use Your Information
 
@@ -110,7 +110,7 @@ Section 7: Use of Tracking Technologies
 
 7.3 _Third-party Advertising_ : Third-party vendors and advertising networks (including Google) use cookies to show you ads based on your prior visits to our website and other sites on the internet that are affiliated with the advertising network.
 
-7.4 We may use Google’s advertising network to provide you with relevant advertisements. Google uses the DoubleClick cookie. It enables Google and its partners to show ads to our users based on their visit to our site and other sites on the Internet. You may opt-out of the use of the DoubleClick cookie for internet-based advertising by visiting Google’s [Ads Settings](http://www.google.com/ads/preferences/).
+7.4 We may use Google’s advertising network to provide you with relevant advertisements. Google uses the DoubleClick cookie. It enables Google and its partners to show ads to our users based on their visit to our site and other sites on the Internet. You may opt-out of the use of the DoubleClick cookie for internet-based advertising by visiting Google’s [Ads Settings](https://www.google.com/ads/preferences/).
 
 7.5 We may also use additional third-party advertising networks to provide you with an optimized advertising experience. These advertising networks may use cookies of their own. Please visit the Privacy Policies of the individual networks for more details.
 
@@ -132,7 +132,7 @@ Section 9: Information from Users Outside the United States of America
 
 Section 10: Changes to Our Privacy Policy
 
-10.1 We may change our privacy policy for any reason and at any time, with or without prior notice. We will notify users of changes to our Privacy Policy by posting the revised version at [http://www.HowManySyllables.com/privacy](https://web.archive.org/privacy) and updating the "Updated" date. Any changes to this Privacy Policy will be effective immediately.
+10.1 We may change our privacy policy for any reason and at any time, with or without prior notice. We will notify users of changes to our Privacy Policy by posting the revised version at [www.HowManySyllables.com/privacy](https://web.archive.org/privacy) and updating the "Updated" date. Any changes to this Privacy Policy will be effective immediately.
 
 Questions
 
