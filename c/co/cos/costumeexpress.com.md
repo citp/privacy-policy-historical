@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629024027id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumeexpress.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220014257id_/http%3A//www.costumeexpress.com/info/21) for the most accurate reproduction.*
 
 # Costume Express
 
@@ -13,10 +13,6 @@ Follow the instructions below to remove yourself from any of our mailing lists:
   * ##### Our Email lists
 
 On our [email preference page](https://web.archive.org/profile/emailsubscription), enter in your email and select the "I do not wish to receive any e-mails from CostumeExpress.com" option.
-
-  * ##### Our Catalog mailing lists
-
-Email us at [customerservice@costumeexpress.com](mailto:customerservice@costumeexpress.com) or call 1-800-695-9668. 
 
   * ##### All mailing lists
 
@@ -48,11 +44,11 @@ We may allow third-parties, including our authorized service providers, advertis
 
 If you no longer wish to receive promotional emails or catalogs from us click here for directions on how to remove your name from our lists. Online contests and sweepstakes may have different rules regarding contact information so please refer to the individual guidelines posted for each promotion.
 
-To update any of your contact information send an e-mail with the revised information to [service@CostumeExpress.com](mailto:service@costumeexpress.com), or call 1-800-695-9668.
+To update any of your contact information send an e-mail with the revised information to [service@CostumeExpress.com](mailto:service@costumeexpress.com).
 
 Customers who have given their telephone number online may receive a call from us with information regarding your order. When providing your telephone number, please provide both the area code and phone number. Your phone number will not be shared with anyone.
 
-We occasionally make portions of our mailing list available to carefully screened companies whose products may interest you. If you do not want your name made available - or if you have moved, are receiving duplicate catalogs or would prefer not to receive catalogs from us - call us toll free at 1-800-695-9668 or send an e-mail to [Service@CostumeExpress.com ](mailto:Service@costumeexpress.com). If you would like to remove your name from all mailing lists, visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/) for more information. 
+We occasionally make portions of our mailing list available to carefully screened companies whose products may interest you. If you do not want your name made available - or if you have moved, are receiving duplicate catalogs or would prefer not to receive catalogs from us - send an e-mail to [Service@CostumeExpress.com ](mailto:Service@costumeexpress.com). If you would like to remove your name from all mailing lists, visit [DMAChoice Direct Marketing Association](http://www.dmachoice.org/), at [www.dmachoice.org](http://www.dmachoice.org/) for more information. 
 
 If you choose to post a product review, we will display your chosen user name and any additional identifying information that you agree for us to post, including but not limited to age, location, and gender. Any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. 
 
@@ -79,7 +75,6 @@ If you have questions about our privacy policy, contact us at:
   * 5915 South Moorland Road
   * New Berlin, WI 53151
   * [service@costumeexpress.com](mailto:service@costumeexpress.com)
-  * 1-800-695-9668
 
 
 
