@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtrafficsource.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616144046id_/https%3A//realtrafficsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtrafficsource.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220194830id_/https%3A//realtrafficsource.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RealTrafficSource.com
 
