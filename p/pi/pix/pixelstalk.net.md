@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620013101id_/http%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220202604id_/http%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wallpapers, Backgrounds, Images, Art Photos.
 
@@ -27,3 +27,5 @@ Concerns or questions about this privacy policy can be directed to **pixelstalk@
 ## HOW TO DOWNLOAD IMAGE FULL RESOLUTION FOR FREE:
 
 Click on each image to view larger in light box, then right click on image and select _“save image as …”_ to **download image to your desktop, laptop**. If you are browsing website by mobile device, please tap on image for a while (3 seconds) and then select _“save image as …”_ to **download image to your  mobile device.**
+
+### YOU MAY ALSO LIKE:
