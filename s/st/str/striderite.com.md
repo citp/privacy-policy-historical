@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609190810id_/http%3A//www.striderite.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the striderite.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220233928id_/http%3A//www.striderite.com/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Stride Rite Privacy Policy
 
-Effective Date: September 14, 2015
+EFFECTIVE DATE: APRIL 27, 2016
 
-Stride Rite Children’s Group, LLC, a subsidiary of Wolverine World Wide, Inc. (referred to collectively with its affiliates as “Wolverine,” “we,” “us,” or “our”), collects information about you when you take advantage of our online services or visit or interact with any of our websites, including www.striderite.com (the “Site”). This privacy policy (the “Policy”) describes: (1) the types of information we may collect about you and your use of the Site; (2) how we may use and share that information; and (3) the choices you may make with respect to your personal information. This Policy does not apply to information you may provide or make available to us in other ways, such as when you shop in our stores or contact us by email or telephone.
+Stride Rite, a division of Wolverine World Wide, Inc. (referred to collectively with its affiliates as “Wolverine,” “we,” “us,” or “our”), collects information about you when you take advantage of our online services or visit or interact with any of our websites, including www.striderite.com (the “Site”). This privacy policy (the “Policy”) describes: (1) the types of information we may collect about you and your use of the Site; (2) how we may use and share that information; and (3) the choices you may make with respect to your personal information. This Policy does not apply to information you may provide or make available to us in other ways, such as when you shop in our stores or contact us by email or telephone.
 
 ### Personal Information We Collect Directly From You
 
@@ -58,6 +58,10 @@ Any user or third party accessing our website or services is responsible for its
 ### Cookies and Other Tools That May Collect Information About You
 
 In addition to personal information you may provide directly to us, Wolverine and its business partners may collect and store information about you and your use of the Site through cookies, tracking pixels, and other technologies (collectively, “Tools”). Cookies are small text files that are stored by your browser on your computer’s hard drive. We collect, use, and modify this information to better understand, customize, and improve your experience with the Site and other websites, services, and offerings as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us understand how visitors engage with and navigate our Site, e.g., how and when pages on the Site are visited and by how many visitors. We are also able to offer our visitors a more customized and relevant experience on the Site by delivering, through the use of these Tools, content and functionality based on your preferences and interests. If you have provided us with personal information, e.g., through a registration or a request for certain materials, we may associate that personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.
+
+### opt-out
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Do Not Track Disclosures
 
