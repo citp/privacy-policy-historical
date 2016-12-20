@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massplanner.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528172402id_/http%3A//www.massplanner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massplanner.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220131835id_/http%3A//www.massplanner.com/privacy-policy) for the most accurate reproduction.*
 
 # The Mass Planner Privacy Policy page
 
@@ -25,9 +25,9 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) **will not be stored on our servers**.
 
 ### Do we use cookies?
 
@@ -41,7 +41,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ### Third party links
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 ### Childrens Online Privacy Protection Act Compliance
 
@@ -53,7 +53,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Your Consent
 
-By using our site, you consent to our [online privacy policy](http://www.massplanner.com/privacy-policy/).
+By using our site, you consent to our [Terms of Service](http://www.massplanner.com/terms-of-service/) and our [online Privacy Policy](http://www.massplanner.com/privacy-policy/).
 
 ### Changes to our Privacy Policy
 
