@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyhire.me privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509183539id_/http%3A//easyhire.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyhire.me privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220213025id_/http%3A//easyhire.me/privacy.html) for the most accurate reproduction.*
 
 # EasyHire.me - Privacy Policy
 
