@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091124id_/http%3A//www.londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonlovesbusiness.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220225446id_/http%3A//www.londonlovesbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking News | LondonlovesBusiness.com
 
-Casis Media Limited (company registration number 07411286), whose registered office is at 56 Buckingham Gate, London SW1 6AE (“the Company” / “We” / “Us”/ “Our”) operates this website. Users of the website (whether a guest to the website or a registered user) shall be subject to these User Terms.
+Prism Thinking Media Limited (company registration number 10212333), whose registered office is at 29-31 Saffron Hill, Farringdon, London EC1N 8SW (“the Company” / “We” / “Us”/ “Our”) operates this website. Users of the website (whether a guest to the website or a registered user) shall be subject to these User Terms.
 
 We treat the handling of personal data seriously. The Privacy Policy below details how data collected about you by Us and/or advertisers is used. We assure you that We will only use your data as specified herein and for Our legitimate business reasons.
 
