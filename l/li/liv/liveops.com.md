@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606035635id_/http%3A//www.liveops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveops.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220130203id_/http%3A//www.liveops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveOps Cloud Contact Center | Call Center Software
 
