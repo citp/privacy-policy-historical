@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neptune-sonar.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329101027id_/http%3A//www.neptune-sonar.co.uk/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neptune-sonar.co.uk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220045508id_/http%3A//www.neptune-sonar.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Neptune Sonar Ltd
+# Privacy Policy – Neptune Sonar Ltd
 
 _This privacy policy was last updated on 24th May 2012._
 
