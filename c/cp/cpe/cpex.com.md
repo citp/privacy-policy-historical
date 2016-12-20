@@ -1,149 +1,96 @@
-> *The following text is extracted and transformed from the cpex.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpex.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220162659id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Intercontinental Exchange: Privacy Policy
 
-#### Find Answers To Your Questions:
+Intercontinental Exchange
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Privacy Policy
 
-### Privacy Policy
+Last Update: August 9, 2016
 
-**Why A Privacy Policy?**  
+This Website, (as applicable, www.theice.com, www.nyse.com, or www.intercontinentalexchange.com) is owned and operated by Intercontinental Exchange, Inc., a Delaware corporation. In this privacy policy, "ICE" ("us", "we" or "our") refers to Intercontinental Exchange, Inc. and our affiliates that link to this privacy policy. These affiliates include, but are not limited to Intercontinental Exchange Holdings, Inc., ICE Futures U.S., Inc., ICE Futures Europe, ICE Futures Canada, Inc., ICE Endex Markets B.V., ICE Clear U.S., Inc., ICE Clear Europe, ICE Clear Canada, Inc., ICE OTC, ICE Data Management Group, LLC, ICE Markets, Inc., ICE Markets Corporation, ICE Markets Limited, YellowJacket, Inc., Chatham Energy LLC, Creditex Group, Inc., ICE Benchmark Administration Limited, ICE Endex Holding BV, NYSE Holdings, LLC, NYSE Group, Inc., NYSE Arca, Inc., NYSE MKT LLC, NYSE Technologies, Inc., New York Stock Exchange, LLC, NYSE ARCA, L.L.C., Chicago Climate Exchange, Inc., ICE Data LLP, ICE Credit Hub, LLC, ICE Execution Services, LLC, ICE Processing, LLC, ICE Clear Credit, LLC, The Clearing Corporation, , Liffe Administration and Management, American Stock Exchange, LLC, Securities Industry Automation Corporation, NYBX, LLC, NYSE AMEX LLC, NYSE Board Member, LLC, Whentech LLC, and Corpedia Corporation. ICE respects the privacy of every individual who uses this Website. This privacy policy ("Privacy Policy") outlines the information we collect from the Website (as defined below) and how we use, disclose and otherwise manage that information, as well as the choices you have concerning such information. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+This Privacy Policy applies only to the information collected on our Website. For purposes of this Privacy Policy, "Website" means the Website of ICE available to the general public and located at www.theice.com, www.nyse.com, www.intercontinentalexchange.com, and other ICE websites where this Privacy Policy is posted, or any software application made available by ICE for use on a computer, tablet, mobile phone or other mobile device. By submitting your personal information to ICE through the Website, you consent to the collection and use of your personal information in accordance with this Privacy Policy.
 
- **This Privacy Policy protects your privacy by:**
+This Privacy Policy does not apply to access to ICE's electronic trading platforms, whether through the Internet or by other means. Access to ICE's electronic trading platforms is limited to members and participants of the relevant market who have entered into off-line agreements with ICE or an affiliate of ICE for such access, and is governed by the terms of those off-line agreements. 
 
- **Informing you about:**
+Your use of this Website and our services, and any dispute over privacy, is subject to this Privacy Policy and our Terms and Conditions/Site Disclaimer, available here and from our homepage, including any applicable limitations on damages and the resolution of disputes. Our Terms and Conditions are incorporated by reference into this Policy.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+This Privacy Policy is current as of the effective date set forth above. We reserve the right to change this Privacy Policy from time to time. Changes and modifications to this Privacy Policy will be effective immediately upon posting of the changes and modifications on the Website, except where prohibited by law. You are bound by any such revisions and should therefore periodically visit this page to review the current Privacy Policy. If at any time you choose not to accept the terms of this Privacy Policy, you should not use this Website.
 
+ _Information We Collect Directly From You:_ We collect personal information from you when you use our Website; the type of information that we collect from you depends on your particular interaction with our Website and services. We require you to register with our Website to access certain features; we may collect the following information from you during the registration process: your name, country of residence, address, phone number, job title, company, investor type, email address, and a password that you select. 
 
+If you choose to purchase a product or service through our Website, we also will collect your credit card information. Currently, we use a third party service provider to process credit card transactions on our behalf. The third party will collect from you contact information (such as your name, address, and e-mail) and financial information (such as credit card number and expiration date). 
 
-**Empowering you to choose:**
+_Information We Collect About You Automatically._ We and our third party service providers, use cookies, web beacons, and other tracking technologies to collect information about you automatically as you use our Website. Examples of this type of information include, but are not limited to, the dates and times of your use of this Website and the route by which you choose to access it, including your IP (Internet Protocol) address, your browser type, your operating system, or domain name, and your use of any hyperlinks or downloadable content available on this Website. We may combine this information with other information that we collect about you. For additional information about our use of these technologies, please see “Cookies and Other Tracking Technologies” below.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+We primarily use your information to provide our services to you and to respond to your inquiries. We also may use your information as follows:
 
+  * To communicate with you, including to respond to your comments or requests for information, to request feedback on our products and services, and to notify you about changes to subscriptions, services and products.
+  * To help us understand our customers, to tailor and enhance our product and service offerings, anticipate and resolve problems with any products or services supplied to you, create products or services that may meet your needs, communicate with you about our products and services, provide access to restricted pages or contents of the Website.
+  * To comply with legal and/or regulatory requirements.
+  * To facilitate your purchases and to identify you when you log into your account on our Website.
+  * For marketing and advertising purposes. For example, where permitted by applicable law, we will send you emails about products and services that we believe would be of interest to you, including products and services offered by third parties. We do not, however, share your information with third parties for their own marketing purposes. We also will use the information that we collect to evaluate the success of our advertising campaigns.
+  * For Website development, research, analytics, assessing patterns of use, regulatory purposes, planning and assessing marketing initiatives by ICE. 
+  * As required or permitted by law.
 
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+You have the option of disabling cookies and of opting out of certain tracking for advertising purposes. However, we currently do not honor browser requests not to be tracked. 
 
+_Cookies_
 
+This Website uses cookies. Information about cookies and our Cookie Policy is available here and from our home page. 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+_Web Beacons_
 
-  
-**Third Party Advertising and Cookies**
+ICE employs a software technology that serves as a web tracking device to collect certain information about traffic to the Website. This device is classified as a "web beacon" which means that the scope of its collection is restricted to the Website traffic data. It is similar in function to cookies. The main difference between cookies and web beacons is that web beacons are invisible on the page and are much smaller, about the size of the period at the end of this sentence. A P3P-compliant JavaScript cookie is set and collected by the tracking device to allow for differentiation between visitors to the sites. This data is used for tracking and reporting aggregate usage patterns on the Website as well as to enable us to track email response rates (e.g., whether you opened/ or forwarded an email). 
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+_IP Addresses_
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+We use your IP address to help diagnose problems with our server, and to administer the Website. We may also use your IP address to identify you when we feel it is necessary to enforce compliance with this Privacy Policy or the terms of use for services purchased through the Website, or to protect our services, Website, systems, information, employees, business partners, service providers, users, customers or others, and for other purposes as described in this Privacy Policy. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+We share your information with the following persons/entities and in the following circumstances:
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+ _Third Party Service Providers:_ To enable us to more efficiently provide the products and services you have requested from us, ICE may share your personal information with selected third parties that act on our behalf as our agents, suppliers, or providers, or these third parties may collect your personal information on ICE's behalf. You acknowledge that the collection, transfer, storage, and processing of your personal information may be undertaken by these selected third parties for the purpose for which the information was collected. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose your personal information for their own marketing purposes.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+In some cases, we may provide personal information to a third party only if that third party agrees (1) to provide adequate protections for your privacy interests that are no less protective than those set out in this Privacy Policy, and (2) to use the personal information only for the purposes for which the third party has been engaged by ICE.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+ _Transfer of Business Assets_
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+As we continue to develop our business, we might acquire or buy other businesses or assets. In such transactions, customer information generally is one of the transferred business assets. Also, we may transfer any information we have about you as an asset to third parties in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of ICE, or as part of a corporate reorganization or stock sale or other change in corporate control, for the purposes of such third parties carrying on the business of ICE in relation to the continued provision of our services to you as described in this Privacy Policy. 
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+_Disclosure for Other Lawful Purposes_
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+ICE, our affiliates and our European, US, Canadian and other service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by applicable law. We may also disclose personal information where appropriate for the establishment, exercise or defense of legal claims, or as otherwise permitted by law. 
 
- **Getting to Know Our Customers**
+If you wish to stop receiving information concerning our services or products, please contact us by email at [privacy@theice.com](mailto:privacy@theice.com) to notify us of your wishes. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+We may transfer, process, and store your personal information outside of your home country, including in the United States and Canada, which may not have the same level of data protection as your home country. For the avoidance of doubt, if you are resident in the EEA this may include the transfer of your personal information from within the EEA to a country outside of the EEA. 
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+If you have submitted personal information through an ICE Website and you would like to access, update, or correct inaccuracies in your personal information, or have your name removed from our databases, please contact ICE via email at [privacy@theice.com](mailto:privacy@theice.com), or send a letter to our Privacy Compliance Officer, 5660 New Northside Drive, 3rd Floor, Atlanta, GA 30328. 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+If you are a registered user of our Website, you may also access your personal account information online and make changes by logging into your account.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+We have put in place certain safeguards to help prevent unauthorized access and maintain data security with respect to your personal information. Please see our list of [security](https://www.theice.com/security) procedures and technical mechanisms on the security section for a complete description of these safeguards. Despite these protections, however, we cannot guarantee that your data will be 100% secure. You should take measures to protect your personal information. 
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+Your online access to certain of your personal information may be protected with a password you select. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages). You have an obligation to keep your user ID, password and personal information secure. As part of maintaining this obligation we recommend that you do the following:
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+  * Keep your user ID and password confidential;
+  * Utilize a unique password and change it frequently;
+  * Make sure others are not watching you enter your user ID and/or password on your keyboard when using protected areas of the Website; and
+  * Do not leave your computer unattended while logged onto protected areas of the Website. After you finished accessing your information, exit the protected area.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+This Website is not intended for use by minors (persons under the age of 18 and, in those Canadian provinces where the age of majority is 19, persons under the age of 19). If you are a minor, do not use this Website. If parents believe their minor children have accessed this Website and provided their personal information, please contact us using the information provided in the "Accessing Your Personal Information" section of this Privacy Policy so that we may delete the information.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+Our Website may contain links to other sites that ICE does not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. We recommend you read carefully the privacy statements, notices and terms of use of any linked websites. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+ICE takes your privacy concerns seriously. If you have any questions about this policy or if you believe that ICE has not complied with this Privacy Policy with respect to your personal information, you may write to [privacy@theice.com](mailto:privacy@theice.com%22) or send a letter to our Privacy Compliance Officer at 5660 New Northside Drive, 3rd Floor, Atlanta, GA 30328.
 
-b. Click “Edit User Info” in the left menu;
+Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2008 will receive information regarding 2007 sharing activities). 
 
-c. Scroll to the bottom of the page;
+To obtain this information, please send an email message to [privacy@theice.com](mailto:privacy@theice.com%22) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
