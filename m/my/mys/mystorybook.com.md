@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystorybook.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408022725id_/https%3A//www.mystorybook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystorybook.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220205730id_/https%3A//www.mystorybook.com/privacy) for the most accurate reproduction.*
 
 # My Storybook
 
