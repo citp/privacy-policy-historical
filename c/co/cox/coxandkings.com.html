@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coxandkings.com privacy policy that was archived on 2016-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620160720id_/http%3A//www.coxandkings.com/static/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coxandkings.com privacy policy that was archived on 2016-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221005258id_/http%3A//www.coxandkings.com/static/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
 <title>Cox &amp; Kings | Privacy Policy</title>
@@ -73,7 +73,7 @@
     <!-- Branding Start -->
     <div id="branding">
       <div id="header_container">
-        <div id="cnk_logo"><a href="/"><img src="/resources/images/home/cnk_logo.gif" alt="Cox &amp; Kings Limited" title="Cox &amp; Kings Limited" width="126" height="80"></a></div>
+        <div id="cnk_logo"><a href="http://www.coxandkings.com"><img src="/cnk-responsive/resources/images/logo-cnk.gif" alt="Cox &amp; Kings Limited" title="Cox &amp; Kings Limited"></a></div>
         <div id="branding_txt">OVER 250 YEARS OF DISCOVERY</div>
         <!-- Toll Free Start -->
         <div id="toll_free">
@@ -89,7 +89,10 @@
         <div class="clearboth"></div>
         </div>
           <div class=" txt12"> <span>Toll Free:</span><br>
-			<div>1800 209 0400 / 098675 65599</div>
+		  <!-- Changes done for PM#123099 | Dynamic Toll Free Number -->
+			<div id="tollFreePre"><div>1800 209 0400 / 098675 65599</div></div>
+			<div id="tollFree"></div>
+		 <!-- Changes done for PM#123099 | Dynamic Toll Free Number -->	
 			<div class=" padt5"><span>SMS</span>&nbsp;'CNK' to 5757513 </div></div>
         </div>
         <!-- Toll Free End -->
@@ -779,12 +782,13 @@ src="https://www.facebook.com/tr?id=884722254923625&ev=PageView&noscript=1"
         <ul>
         	<li id="menu1" class=""><a href="/">Home</a></li>
             <li id="menu2" class="pipe"><a href="/holidays/">Holidays</a></li>
-            <li id="menu3" class="pipe"><a href="http://travelandstay.coxandkings.com">Travel&nbsp;&amp;&nbsp;Stay</a></li>
+            <li id="menu3" class="pipe"><a href="http://travelandstay.coxandkings.com">Flights / Hotels / Cars</a></li>
 			<!--<li id="menu3" class="pipe"><a href="http://ckwlibcb.ezeego1.com/flights/">Travel&nbsp;&amp;&nbsp;Stay</a></li>-->
             <li id="menu4" class="pipe"><a href="/business/index.shtml">Business</a></li>
             <li id="menu5" class="pipe"><a href="/mice/index.shtml">Mice</a></li>
             <li id="menu6" class="pipe"><a href="/travelservices/index.shtml">Travel&nbsp;Services</a></li>
             <li id="menu7" class="pipe"><a href="/dealsandcontests/index.shtml">Deals&nbsp;&amp;&nbsp;Contests</a></li>
+            <li id="menu7" class="pipe"><a href="/giftvoucher/">Gift Cards</a></li>
             <li id="menu8" class="pipe"><a href="http://blog.coxandkings.com" target="_blank">Blog</a></li>
         </ul>
         <div id="main_menu3">
@@ -812,9 +816,9 @@ src="https://www.facebook.com/tr?id=884722254923625&ev=PageView&noscript=1"
         <li id="Hsubmenu3"><a href="/bharatdeko/">Bharat&nbsp;Deko</a></li>
       <!-- <li>|</li>
          <li id="Hsubmenu4"><a href="/luxuryescapades/">Luxury&nbsp;Escapades</a></li> -->
-		<!-- li>|</li --> 
-        <!-- <li id="Hsubmenu5"><a href="/instant-holidays/">Instant&nbsp;Holidays</a></li>
-		GAdventure link href="http://adventure.coxandkings.com/"-->
+		<li>|</li> 
+         <li id="Hsubmenu5"><a href="/instant-holidays/">Instant&nbsp;Holidays</a></li>
+		<!--GAdventure link href="http://adventure.coxandkings.com/"-->
 		<!-- Done changes by yogesh ingale on 10/10/2014 for gadventure login-->
         <li>|</li>
 		<!-- for PM 76684 -->
@@ -1078,7 +1082,7 @@ We reserve the right to change this policy should we deem it advisable to do so.
 				<li><a href="/flexihol/">FlexiHol - Individual Tours</a></li>
 				<li><a href="/bharatdeko/">Bharat Deko - India Tours</a></li>
 				<li><a href="/luxuryescapades/">Luxury Escapades</a></li>
-				<!--<li><a href="/instant-holidays/">Instant Holidays</a></li>-->
+				<li><a href="/instant-holidays/">Instant Holidays</a></li>
 				<li><a href="/flexihol/rail-holidays/">Rail&nbsp;Europe&nbsp;Holidays</a></li>
 				<li><a href="/flexihol/promotion/cruise-holidays/index.shtml">Cruise Holidays</a></li>
 				<li><a href="/flexihol/self-drive-holiday/">Self Drive Holiday</a></li>
@@ -1088,6 +1092,7 @@ We reserve the right to change this policy should we deem it advisable to do so.
 				<li><a href="/flexihol/safari-holidays/">Safari holidays</a></li>
 				<li><a href="/flexihol/private-journeys/">Private Journeys</a></li>
 				<li><a href="/promotion/getaway-goddess/">GetAway Goddess</a></li>
+				<li><a href="/promotion/save-now-travel-later/">Save Now Travel Later</a></li>
             </ul>
         </div>
         
@@ -1201,8 +1206,29 @@ We reserve the right to change this policy should we deem it advisable to do so.
 <!--<script src="/cnk-responsive/resources/js/plugins.js"></script>
 <script src="/cnk-responsive/resources/js/main.js"></script>
 <script src="/cnk-responsive/resources/js/form-elements.js"></script>-->
-
-
+<!-- Changes done for PM#123099 | Dynamic Toll Free Number -->
+<script>
+var tourIdGET = "<?php echo $_GET['tourId']?>";
+var productidGET = "<?php echo $_GET['product']?>";
+var regionGET = "<?php echo $_GET['region']?>";
+if(tourIdGET == "" || productidGET == ""){
+	document.getElementById('tollFreePre').style.display = 'none';
+	document.getElementById('tollFree').innerHTML = "<div>1800 209 0401 / 098675 65599</div>";
+} else {
+	var xmlhttp = new XMLHttpRequest();
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+			document.getElementById("tollFree").innerHTML = xmlhttp.responseText;
+			document.getElementById('tollFreePre').style.display = 'none';
+			//alert(xmlhttp.responseText);
+		}
+	};
+	xmlhttp.open("GET", "/portalApp/templates/tollFree.php?tour_id=<?php echo $_GET['tourId']?>&product_id=<?php echo $_GET['product']?>&region=<?php echo $_GET['region']?>", true);
+	xmlhttp.send();
+}
+//alert(document.getElementById("tollFree").innerHTML);
+</script>
+<!-- Changes done for PM#123099 | Dynamic Toll Free Number -->
 <!-- start : 91533 -->
 <div id="rt"><img src="https://sp.analytics.yahoo.com/spp.pl?a=1000247136560&amp;.yp=402005&amp;js=no"></div>
 <script type="text/javascript">
@@ -1504,7 +1530,7 @@ function myBlur(element) {
      <input titlename="Email" name="Email" id="Email" value="" placeholder="Email Address" type="text" validate="2" size="15" class="textbox_rcb" onfocus="myFocus(this);" onblur="myBlur(this);"><font style="font-size:12px; color:#F00; width:15px; text-align:center; margin-top:-10px;"> *</font>
     </div>
  
-   <div class="name_rcbb"> <img class="capcha-img" src="/portalApp/core/html-captcha/captcha_code_file.php?rand=0&amp;form_type=popup-rcb" id="captchaimg1" alt="CAPTCHA Image" align="center">
+   <div class="name_rcbb"> <img class="capcha-img" src="/portalApp/core/html-captcha/captcha_code_file.php?rand=1&amp;form_type=popup-rcb" id="captchaimg1" alt="CAPTCHA Image" align="center">
    
    
    <input titlename="code" name="config_captcha_code" id="config_captcha_code1" type="text" class="textbox_rcb code-input" placeholder="Enter code" validate="2" size="30" onfocus="myFocus(this);" onblur="myBlur(this);" maxlength="7">
@@ -1667,12 +1693,35 @@ function myBlur(element) {
 var randomCapt = Math.floor(Math.random() * 10);
 document.getElementById('captchaimg1').src = "/portalApp/core/html-captcha/captcha_code_file.php?rand=" + randomCapt+ "&form_type=popup-rcb";
 </script>
+
+
  
 <!-- RCB Tracker End common popup  -------------------------->
 
   
 <!-- RCB Source Track jQuery ends -->
 <script type="text/javascript" language="javascript" src="/js/omt.js"></script>
+
+<!-- Web Push Notifications on HTTP Website starts (19 sep 2016 - web team)-->
+<script> window._izq = window._izq || []; window._izq.push(["init"]); </script>
+<script src="//cdn.izooto.com/scripts/c34a1d3e46947ce5b4f3239f067d52eb81c3b1f5.js"></script>
+<!-- Web Push Notifications on HTTP Website ends (19 sep 2016 - web team)-->
+
+<!-- start dynamic izooto tags -->
+<script>
+var izootoDynamicPage = window.location.toString();
+if(izootoDynamicPage.indexOf('bharatdeko') != -1){
+	window._izq.push(['add_tag', ' bharatdeko']);
+	console.log('izoo : bharatdeko');
+}else if(izootoDynamicPage.indexOf('duniyadekho') != -1){
+	window._izq.push(['add_tag', ' duniyadekho']);
+	console.log('izoo : dunidekho');
+}else if(izootoDynamicPage.indexOf('flexihol') != -1){
+	window._izq.push(['add_tag', ' flexihol']);
+	console.log('izoo : flexihol');
+}else{}
+</script>
+<!-- end dynamic izooto tags -->
 
   <!-- Footer End -->
   
