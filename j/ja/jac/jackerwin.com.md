@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506082744id_/http%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackerwin.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220143255id_/http%3A//www.jackerwin.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Jack Erwin
 
