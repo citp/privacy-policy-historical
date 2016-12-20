@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602000426id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220050028id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy | The Peninsula Hotels
 
@@ -114,7 +114,7 @@ Our server resides behind firewalls to protect the Data collected from you again
 
 ##### In our marketing database
 
-Certain of our group operations maintain a database of customer information which is used for marketing, promotion and research, understanding and analysing customer behaviour and customer profiling to improve our services. You will only receive marketing and promotional materials if you have opted-in or given permission on your hotel registration card, online via your My Peninsula account, or given your express and specific consent in some other customary form. You may elect to unsubscribe from receiving future e-mail promotions at any time.
+Some of our group operations maintain a database of customer information which is used for marketing, promotion and research, understanding and analysing customer behaviour and customer profiling to improve our services. You will receive marketing and promotional materials if you have already given your express and specific consent in some data collection forms. You may elect to unsubscribe from receiving future e-mail promotions at any time.
 
 ##### Secure transmission and storage of data
 
@@ -162,15 +162,15 @@ Our group and our third-party service providers may use pixel tags (also known a
 
 ## E-mails about Special Offers and Promotions and Opt-Out
 
-It is our intention to only send you mail and e-mail communications that will be useful to you and that you may want to receive. When you indicate that you would like to receive promotional material either on a guest registration card or when you enrol in My Peninsula, or patronise our restaurants and provide your e-mail address to us specifically and expressly in order to receive marketing communications, we will periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to offers relating to The Peninsula Hotels, and restaurants and clubs operated by our group companies. We typically use third party e-mail service providers to send e-mails. These service providers are contractually prohibited from using your e-mail address for any purpose other than to send e-mails related to our group operations. Data will not be shared with third parties for their own marketing purposes.
+With your consent, we may send you information about The Peninsula Hotels, and restaurants and clubs operated by our group companies, including special offers on accommodation, food and beverage, spa and other hotel services by post or e-mail. It is however our intention to only send you mail and e-mail communications that you may want to receive. When you opt-in or do not opt-out from receiving promotional material either on a guest registration card or when you enrol in My Peninsula, or patronise our restaurants and provide your e-mail address to us specifically and expressly in order to receive marketing communications, we will periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to offers relating to The Peninsula Hotels, and restaurants and clubs operated by our group companies. We typically use third party e-mail service providers to send e-mails. These service providers are contractually prohibited from using your e-mail address for any purpose other than to send e-mails related to our group operations. Data will not be shared with third parties for their own marketing purposes. 
 
 We provide you the ability to unsubscribe from all marketing communications. Every time you receive an e-mail, you will be provided with the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out of receiving promotional materials by updating your My Peninsula account, or sending a letter or fax to:
 
-Data Privacy Team   
-The Hongkong and Shanghai Hotels, Limited   
-8/F St. George’s Building   
-2 Ice House Street,   
-Central   
+Data Privacy Team   
+The Hongkong and Shanghai Hotels, Limited   
+8/F St George’s Building   
+2 Ice House Street   
+Central   
 Hong Kong
 
 Fax: +852 2147 3720
