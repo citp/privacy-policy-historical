@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loreal.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054913id_/http%3A//www.loreal.com/loreal-group-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loreal.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220014547id_/http%3A//www.loreal.com/loreal-group-privacy-statement) for the most accurate reproduction.*
 
-# L’Oreal group privacy statement-L’Oréal Group
+# L’Oreal group privacy statement - L’Oréal Group
 
 Unless an express consent is required by the data privacy laws of your country, by using this Media (as defined below), you consent to (i) the collection and use of your personal information by us as described in this Privacy Statement; and (ii) the transfer of your personal information to countries outside of your country (including in countries outside of the European Union).
 
