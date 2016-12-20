@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djawir.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607154702id_/http%3A//djawir.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djawir.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220054701id_/http%3A//djawir.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | djawir Community
 
