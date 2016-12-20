@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608155714id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220072307id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Love2Meet :: Love2Meet Member Privacy Policy
 
