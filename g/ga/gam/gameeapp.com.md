@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gameeapp.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616192525id_/http%3A//www.gameeapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameeapp.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220105801id_/https%3A//www.gameeapp.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Gamee
+# Privacy policy - Gamee
 
 Effective date: January 1st, 2015
 
 Welcome to Gamee ("Gamee," "we," "us" or "our").
 
-  * Our Privacy Policy explains how we work with information in relation to our mobile services, web site, and any software provided on or in connection with Gamee services (collectively, the " **Service** "), and your choices about the collection and use of your information.
-  * By using our Service you understand and agree that we are providing a platform for you to play games, post comments and other content (" **User Content** "), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use.
+  * Our Privacy Policy explains how we work with information in relation to our mobile services, web site, and any software provided on or in connection with Gamee services (collectively, the " **Service** "), and your choices about the collection and use of your information. 
+  * By using our Service you understand and agree that we are providing a platform for you to play games, post comments and other content (" **User Content** "), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use. 
   * Our Policy applies to all visitors, users, and others who access the Service (" **Users** ").
 
 
@@ -19,35 +19,35 @@ We collect the following types of information.
 ### Information you provide us directly:
 
   * Your username, password and e-mail address when you register for Gamee account.
-  * Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows others to find you on Gamee.
+  * Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows others to find you on Gamee. 
   * User Content (e.g., comments) that you post to the Service.
-  * Communications between you and Gamee. We may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices), you may not opt out of Service-related e-mails.
+  * Communications between you and Gamee. We may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices), you may not opt out of Service-related e-mails. 
 
 
 
 ### Finding your friends on Gamee:
 
-  * If you choose to find your friends through your device's contacts list, then Gamee will access your contacts list to determine whether or not someone associated with your contact is using Gamee.
-  * If you choose to find your friends through a third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that any information that such service may provide to us will be governed by this Privacy Policy.
-  * **Note about "Invite Friends" feature:** If you choose to invite someone to the Service through our "Invite friends" feature, you may select a person directly from the contacts list on your device and send a text or email from your personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your personal account, Gamee does not have access to or control this communication.
+  * If you choose to find your friends through your device's contacts list, then Gamee will access your contacts list to determine whether or not someone associated with your contact is using Gamee. 
+  * If you choose to find your friends through a third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that any information that such service may provide to us will be governed by this Privacy Policy. 
+  * **Note about "Invite Friends" feature:** If you choose to invite someone to the Service through our "Invite friends" feature, you may select a person directly from the contacts list on your device and send a text or email from your personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your personal account, Gamee does not have access to or control this communication. 
 
 
 
 ### Analytics information:
 
-  * We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service assist us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+  * We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service assist us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User. 
 
 
 
 ### Cookies.
 
-  * We may use cookies and similar technology to improve your experience. Cookies are small files that websites place on your computer while you browse the web. We use cookies to discover how you use the Service. You can use the Do Not Track preference of your browser to disable collection of this information.
+  * We may use cookies and similar technology to improve your experience. Cookies are small files that websites place on your computer while you browse the web. We use cookies to discover how you use the Service. You can use the Do Not Track preference of your browser to disable collection of this information. 
 
 
 
 ### Log Data.
 
-  * When you access the Service, you disclose certain information related to your hardware and software that we automatically collect. For example, we may collect your IP (Internet Protocol) address, operating system, browser type, access times, pages visited, search terms, mobile carrier, device type, device IDs, and application IDs. We collect this information to generate statistics about use of the Service and use the results to customize as well as improve the overall quality of the Service. In general, we either delete Log Data or remove any personal identifiers such as your name, username, email address, or IP address, within 18 months of collection.
+  * When you access the Service, you disclose certain information related to your hardware and software that we automatically collect. For example, we may collect your IP (Internet Protocol) address, operating system, browser type, access times, pages visited, search terms, mobile carrier, device type, device IDs, and application IDs. We collect this information to generate statistics about use of the Service and use the results to customize as well as improve the overall quality of the Service. In general, we either delete Log Data or remove any personal identifiers such as your name, username, email address, or IP address, within 18 months of collection. 
 
 
 
@@ -72,14 +72,14 @@ We will not rent or sell your information to third parties outside Gamee without
 
 ### Parties with whom we may share your information:
 
-  * We may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
-  * We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
+  * We may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms. 
+  * We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information. 
 
 
 
 ### Responding to legal requests and preventing harm:
 
-  * We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
+  * We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. 
 
 
 
@@ -94,13 +94,13 @@ To register with the Service, you will be required to select a password to prote
 ### Your account information and profile/privacy settings:
 
   * Update your account at any time by logging in and changing your profile settings.
-  * Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, changes/updates to features of the Service, technical and security notices).
+  * Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, changes/updates to features of the Service, technical and security notices). 
 
 
 
 ### How long we keep your User Content:
 
-  * Following termination or deactivation of your account, Gamee or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
+  * Following termination or deactivation of your account, Gamee or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes. 
 
 
 
