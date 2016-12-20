@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiberdownload.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525193231id_/http%3A//www.fiberdownload.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiberdownload.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220234612id_/http%3A//www.fiberdownload.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy on fiberdownload.com
 
