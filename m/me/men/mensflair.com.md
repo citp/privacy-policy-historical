@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323155525id_/http%3A//www.mensflair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensflair.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220172435id_/http%3A//mensflair.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Men's Flair
+# Privacy | Men's Flair
 
 **Privacy Policy**
 
