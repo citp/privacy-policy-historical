@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624170052id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishcentral.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220041125id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # English to Spanish Translation | Merriam-Webster's Spanish-English Dictionary - Spanish Central
 
@@ -96,7 +96,7 @@ All of the content on the Services is copyrighted by Merriam-Webster, Incorporat
 
 ## Contacting Us
 
-If you have questions about Merriam-Webster or its products, visit our [Contact Us](http://www.merriam-webster.com/contact/index.htm) page to find e-mail addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [privacy@m-w.com](mailto:privacy@m-w.com).
+If you have questions about Merriam-Webster or its products, visit our [Contact Us](https://www.merriam-webster.com/contact/index.htm) page to find e-mail addresses and other contact information for the appropriate department. To correct, update, or remove personally identifiable information, please email us at [privacy@m-w.com](mailto:privacy@m-w.com).
 
 ## Links to Other Web sites
 
