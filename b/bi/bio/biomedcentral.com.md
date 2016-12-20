@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213339id_/http%3A//www.biomedcentral.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biomedcentral.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220115401id_/http%3A//www.biomedcentral.com/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,10 +9,6 @@ We at BioMed Central Limited (“BMC”) respect your concerns about privacy and
 
   
 This Online Privacy Notice describes the types of personal information we collect on the Site, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.
-
-Back to top
-
-## Information We Collect
 
 We may obtain certain personal information (such as name and other contact details) when you choose to provide them through our Site. The types of personal information we may collect include:
 
@@ -43,10 +39,6 @@ We also may use “web beacons” on our Site. A web beacon, also known as a pix
 Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.  
 
 
-Back to top
-
-## How We Use The Information We Collect
-
 We may use the information we obtain through the Site to:
 
   * create and manage your account;
@@ -66,10 +58,6 @@ In addition, we use information collected online through cookies, web beacons an
 We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.   
 
 
-Back to top
-
-## Online Tracking
-
 We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:  
 [Google Analytics](http://tools.google.com/dlpage/gaoptout)  
 You can de-activate Google Analytics by installing a browser add-on that can be downloaded at [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
@@ -81,46 +69,16 @@ US: To learn more about how to opt out of ad network interest-based advertising,
 EU: To learn more about how to opt out of ad network interest-based advertising, [click here](http://youronlinechoices.com/).  
 This Site is not designed to respond to “do not track” signals received from browsers.  
 
-Back to top
-
-## Information We Share
-
-We may share the information you provide with companies that are related to BMC through common ownership. We may also share the personal information we obtain with our publishing partners.
-
-We share personal information with third parties who perform services on our behalf. For example, when you make a purchase we may share information about you and your transaction with other companies for the purpose of processing your transaction. In addition, we may retain third party service providers to manage our customer databases or distribute e-mail offerings.  
-Our Site may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including personal information) in connection with these activities may be made publicly available.  
-We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
-
-Back to top
-
-## Links To Other Websites
-
 Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with BMC, any use of those websites, or the privacy practices of those websites.
-
-Back to top
-
-## Children's Privacy
 
 Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
 
-Back to top
-
-## How We Protect Personal Information
-
 We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
-
-Back to top
-
-## Your Choices 
 
 We give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. [Click here](mailto:info@biomedcentral.com) to send us an e-mail with your name and e-mail address, if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes.  
 
 
 Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue. 
-
-Back to top
-
-## Notice to California Residents 
 
 California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled “Your Choices”, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, please follow the appropriate opt-out link in that section.
 
@@ -128,41 +86,6 @@ California’s "Shine the Light" law, Civil Code section 1798.83, requires certa
 
 Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
 
-Back to top
-
-## Data Transfers
-
 We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
 
-Back to top
-
-## Updates To Our Online Privacy Notice
-
 Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
-
-Back to top
-
-## How To Contact Us
-
-If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:  
-
-
-  
-E-mailing us at [info@biomedcentral.com](mailto:info@biomedcentral.com)  
-
-
-  
-Calling us at:  
-in the UK call free on 0800 389 8136  
-All other customers call +44 (0) 20 3192 2009  
-(Mon - Thurs 9am - 6pm, Fri 9am-5pm UK time)  
-
-
-Writing to us at:
-
-BioMed Central  
-Floor 6, 236 Gray's Inn Road  
-London  
-WC1X 8HB  
-United Kingdom  
-
