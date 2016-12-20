@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minterest.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619183305id_/http%3A//www.minterest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minterest.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220114323id_/http%3A//www.minterest.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minterest
 
