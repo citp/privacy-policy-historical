@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzwize.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614053309id_/http%3A//buzzwize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzwize.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220203050id_/http%3A//www.buzzwize.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BUZZWIZE
 
