@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629112933id_/http%3A//webhostingpad.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220073650id_/http%3A//www.webhostingpad.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WebHostingPad
 
