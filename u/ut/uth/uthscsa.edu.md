@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uthscsa.edu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616195337id_/http%3A//www.uthscsa.edu/university/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uthscsa.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220145212id_/http%3A//www.uthscsa.edu/university/web-privacy) for the most accurate reproduction.*
 
 # Web Privacy Policy | UT Health Science Center San Antonio
 
