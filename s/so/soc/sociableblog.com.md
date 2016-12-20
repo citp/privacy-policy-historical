@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505221519id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociableblog.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220191533id_/http%3A//www.sociableblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SociableBlog
 
@@ -98,4 +98,4 @@ This Privacy Statement is a living document. We will modify this document as we 
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy please [contact us](http://www.cloudflare.com/email-protection#b6c1d3d4dbd7c5c2d3c4f6c5d9d5dfd7d4dad3d4dad9d198d5d9db).
+If you have any questions or suggestions regarding our privacy policy please contact us.
