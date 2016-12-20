@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crazydeals.ae privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401144006id_/http%3A//www.crazydeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazydeals.ae privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220161449id_/http%3A//www.crazydeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: A Marketplace for UAE, Qatar, Saudi, Egypt | Online Shopping Electronics, Home, Fashion and more | Crazydeals.com
-
-Product was successfully added to your shopping cart.
+# Privacy Policy
 
 With us, you are safe. Your privacy is a very serious matter for us. We want you to be assured of the fact that your private information stays private with us. We've been and will always be taking all the measures to protect our customer's private information.
 
@@ -24,7 +22,7 @@ Only your order data billing, shipping, and order contents data is stored on our
 
 If you have made a purchase from our store or registered on Crazydeals.com we may occasionally update you on our latest products, news, features, contests, special offers and one-off marketing promotions via **e-mail, post & telephone.**
 
-All members have the option to opt-out of receiving marketing communications from us and/or selected third parties you should opt-out by clicking on the **"unsubscribe"** link in email communications.
+All members have the option to opt out of receiving marketing communications from us and/or selected third parties you by clicking on the **"unsubscribe"** link in email communications.
 
 We are always pleased to hear from our customers. If you have any comments or suggestions, you can either contact our customer care team at [support@crazydeals.com](mailto:support@crazydeals.com "Email") or   
-call us on **800 33257(DEALS)**
+call us on  **+971-4-2543948**
