@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118083038id_/http%3A//logotournament.com/help/client/39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220045451id_/https%3A//logotournament.com/help/client/39) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Return to [Client Help](http://logotournament.com/help/client)
+Return to [Client Help](https://logotournament.com/help/client)
 
 We take your privacy seriously.
 
