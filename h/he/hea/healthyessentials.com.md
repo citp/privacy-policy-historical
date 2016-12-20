@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315111334id_/https%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220043929id_/https%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
 
 # | HEALTHY ESSENTIALS®
 
 * * *
 
-**Last Update** : January 29, 2016
+**Last Update** : December 6, 2016
 
 Johnson & Johnson Consumer, Inc. is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “Site”). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
 
@@ -59,8 +59,9 @@ We also use information from or about you:
 
 We also disclose information collected through the Site:
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at [ http://www.investor.jnj.com/governance/sec-filings.cfm](http://www.investor.jnj.com/governance/sec-filings.cfm) \- click on the link for Form 10K, Exhibit 21, under “SEC Filings”. Johnson & Johnson Consumer, Inc. is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at <http://www.investor.jnj.com/governance/sec-filings.cfm> \- click on the link for Form 10K, Exhibit 21, under “SEC Filings”. Johnson & Johnson Consumer, Inc. is the party responsible for the management of the jointly-used Personal Information;
   * to our third party partners with whom we offer a co-branded or co-marketed promotion;
+  * to our third parties only to present you with the Johnson & Johnson Consumer, Inc. products within their offerings.
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
 
