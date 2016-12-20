@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merabheja.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630074659id_/http%3A//merabheja.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merabheja.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220235829id_/http%3A//merabheja.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer & Privacy Policy - MeraBheja
+# Disclaimer & Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://merabheja.com/contact/).
 
