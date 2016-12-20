@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010150309id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220083835id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
 
-# Adriatic.hr - Croatia summer holiday. Private apartments, rooms and hotels
+# Vacation in Croatia 2017 - Adriatic.hr
 
 Privacy statement serves us for protection of privacy of our users. You can look at Adriatic.hr pages for free, without any commitment of revealing your identity or leaving any kind of your private data. In case that you decide to use our services, it's necessary to leave us your personal data, so that we could complete your reservation and to lease asked service. Your personal data remains protected. We assure you that we are collecting only information that we need to complete our procedure of reservation of our service. In that process we are using only information that we receive directly from you.
 
@@ -22,7 +22,8 @@ We are pointing out that our Web server does not collect your E-mail address or 
 We use your personal information:
 
   * to start the process of reservation of the service you want, so that we are able to send you our preliminary calculation, after which you will pay the advance.
-  * to send you on your home address all the relevant material and information about selected service (direction how to reach your destination, voucher...).
+  * to enable online credit card payments. All transactions are protected by SSL (secure sockets layer).
+  * to send you on your email address all the relevant material and information about selected service (direction how to reach your destination, voucher...).
   * to pass your personal data to a person who will give you directly the service for which you have made a reservation, even before consumption of the selected service. Through that direct contact you will be able to solve all dilemmas or misunderstandings that you have about the service in the best possible way.
   * to inform you occasionally about changes in our offer, special rates, upgraded information...and to provide you with all the information about the growth of our site.
 
@@ -48,9 +49,10 @@ Standard reservation procedure of the service from our offer, together with all 
 
 Cookie is a text file that is placed on your hard disk by a web browser, after you visit our pages for the first time. Cookie provides faster reading of already visited sites. Cookie does not contain any personal information, but it helps us to provide you special services while you are on Web.
 
-The main advantage of cookies is saving time and easier access to the site. The purpose of a cookie is to tell the Web browser that you have returned to a specific page. Statistical information about the visit of the certain information are created using cookies, therefore they are important in recognizing users wishes and determination of the development of our offer and our site.
+The main advantage of cookies is saving time and easier access to the site. The purpose of a cookie is to tell the Web browser that you have returned to a specific page. Statistical information about the visit of the certain information are created using cookies, therefore they are important in recognizing users wishes and determination of the development of our offer and our site.   
+Cookies are also used for Google Analytics, a tool for website analysis by the company Google, and as a marketing tool for displaying relevant information to selected audience in form of Google Ads, outside the website Adriatic.hr
 
-Cookie is an option that is offered by your Web browser. Most Web Browsers are adapted to accept cookies automatically, but if you want you can modify your browser settings to decline cookies.
+Cookie is an option that is offered by your Web browser. Most Web Browsers are adapted to accept cookies automatically, but if you want you can modify your browser settings to decline cookies or change your Google options at [this address](https://www.google.com/settings/u/0/ads/authenticated)
 
 **Changing or deleting your personal data**
 
@@ -62,4 +64,4 @@ Privacy statement occasionally can be updated. When we update it, we are obligat
 
 We are consider that you are accepting this Privacy Statement when you are visiting our site or when you are using our services.
 
-Trogir, January 25th, 2001
+Split, 18.04.2016.
