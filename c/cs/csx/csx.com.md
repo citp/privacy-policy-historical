@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606020322id_/https%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220202257id_/https%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
 
 # Privacy - CSX.com
 
@@ -40,6 +40,3 @@ CSX Corp. employs practices that are intended to protect your privacy, including
 **Changes to Our Policy**
 
 CSX reserves the right to change or remove this Privacy Policy at our discretion.  For certain material changes to this Privacy Policy, we may notify you by additional means, such as by posting a notice on the front page of our website or sending you an e-mail.
-
-  
-
