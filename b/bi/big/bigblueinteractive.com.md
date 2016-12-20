@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325085531id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220120308id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
-# BigBlueInteractive.com Privacy Policy
+# BigBlueInteractive.com (BBI) Privacy Policy
 
 **General Guidelines:**
 
