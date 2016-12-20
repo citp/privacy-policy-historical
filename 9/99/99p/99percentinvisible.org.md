@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99percentinvisible.org privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602221327id_/http%3A//99percentinvisible.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99percentinvisible.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034124id_/http%3A//99percentinvisible.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 99% Invisible
 
@@ -121,7 +121,9 @@ Through cookies We place on Your browser or device, We and our marketing partner
 
 ## X. Children
 
-We do not knowingly collect personal information from an individual under age 13. If You are under the age of 13, please do not submit any personal information through the Service. If You have reason to believe that We may have accidentally received personal information from an individual under age 13, please contact us immediately at contact@99pi.org or 414 13th St., #350, Oakland, CA 94612.
+We do not knowingly collect personal information from an individual under age 13. If You are under the age of 13, please do not submit any personal information through the Service. If You have reason to believe that We may have accidentally received personal information from an individual under age 13, please contact us immediately at contact@99pi.org or 99% Invisible 1714 Franklin Street #100-335 Oakland, CA 94612-3409
+
+.
 
 ## XI. Terms and Conditions
 
@@ -133,8 +135,8 @@ We reserve the right to update or modify this Privacy Policy at any time and fro
 
 ## XIII. How to Contact Us
 
-Please feel free to contact us by email at contact@99pi.org or by writing us at 414 13th St., #350, Oakland, CA 94612 if You have any questions about this Privacy Policy.
+Please feel free to contact us by email at contact@99pi.org or by writing us at 99% Invisible 1714 Franklin Street #100-335 Oakland, CA 94612-3409 if You have any questions about this Privacy Policy.
 
 ## XIV. Your California Privacy Rights
 
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at contact@99pi.org or by writing us at 414 13th St., #350, Oakland, CA 94612.
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at contact@99pi.org or by writing us at 99% Invisible 1714 Franklin Street #100-335 Oakland, CA 94612-3409.
