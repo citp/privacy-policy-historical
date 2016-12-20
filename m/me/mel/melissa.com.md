@@ -1,50 +1,51 @@
-> *The following text is extracted and transformed from the melissa.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112143210id_/http%3A//www.melissa.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melissa.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220112514id_/http%3A//www.melissa.com/privacy.htm) for the most accurate reproduction.*
 
 # Melissa Data Privacy Policy
 
-> **  
-> 1.Melissa Data Website Privacy Policy** – explains your rights and obligations on this website, www.melissadata.com. It does not deal with the   
->      use of our APIs and web services.
-> 
-> **2.Melissa Data APIs and Web Services Policy** – explains Melissa Data’s procedure for collecting certain information submitted as part of data   
->      verification performed by Melissa Data web services or local data quality APIs.
-
   
   
-**Information Collection**  
-When you browse the Melissa Data Web site, you do so anonymously. Personal information -- including your E-mail address-- is not collected. On certain pages, however, we may request that you voluntarily supply us with personal information, including your E-mail address, name and billing address, for purposes such as newsletter sign up, making a purchase, using Lookups, or participating in beta tests, and online surveys. 
+**
 
-**Information Use**  
-We may use information you have given us to provide a service, ensure proper billing, measure consumer interest in our various services and inform you about products and services. These offers may be based on information you provided in your initial transaction with us. We do not sell or share our customer information with outside sources. 
+## 1\. Coverage
 
-**Security**  
-We use secure technology to keep your personal information-including your billing and account information-as secure as possible. Employees are educated about the importance of customer privacy, and we have procedures that limit employee access to personally identifiable information. 
+** This policy covers how the Melissa Data Corporation (“Melissa Data”) treats personal information that Melissa Data collects and receives, including information related to customer past use of Melissa Data products and services. Personal information is information about customers, potential customers, Melissa Data website users, and others who may provide information that is personally identifiable, such as, name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of entities that Melissa Data does not own or control or to people that Melissa Data does not employ or manage. 
 
-**Credit Card Orders**  
-When ordering through our Web site, all of your personal information and credit card details are encrypted before being transmitted to us across the Internet. None of your information is stored on our Web server or any other machine that can be accessed through the Internet. 
+**
 
-**Virus Free Downloads**  
-We at Melissa Data go to great lengths to ensure that any product that you download from us is virus free. All our products are checked for viruses before we securely place them on our Web site.
+## 2\. Personally Identifiable Information Collection and General Use
 
-**Changes to Privacy Policy**  
-The Website Privacy Policy may be amended at any time, so please check back periodically.
+** Melissa Data may gather information related to the use of its products and services, registration of a user account on the Melissa Data website, or in the course of standard business practices. Personal identifiable information (“PII”) is collected from such parties only after obtaining consent, which is obtained when such parties are prompted for information when requesting product information, downloading a trial version of a product, registering a new user account, registering a product, purchasing a product or service, or contacting customer support. Melissa Data may collect usage statistics to enable Melissa Data to improve user experience and allocate internal resources. 
 
-_Privacy policy last updated: December 10, 2010_
+Purchasing Melissa Data products or services requires a customer to provide certain personal information and enter into a License Agreement. Nothing herein is intended to modify the terms in such a License Agreement.
 
-**2\. APIs and Web Services Privacy Policy**
+## 3\. Information Sharing and Disclosure
 
-**Data Protection**  
-We understand that your data is a valuable asset to your business, and we promise to keep your information secure and confidential. We safeguard data according to established industry security standards and procedures, and we continually asses new technology for protecting your information. 
+Melissa Data does not rent, sell, or share personal information that is provided to it under Section 2, except when Melissa Data has obtained explicit permission, or under the following circumstances: 
 
-**Data Collection**  
-Melissa Data web service solutions collect only client IP address, customer ID and number of records processed as part of standard logging procedures. This information is used to track actual usage and compare with purchased tiers. We may occasionally enable a verbose logging mode on request from customers to capture request information used solely by our data quality engineers to troubleshoot technical issues. This information is seen on an as-needed basis by our engineers and then destroyed when the technical issue is resolved.
+  * Responses to subpoenas; court orders; or legal process; or to establish or exercise Melissa Data’s legal rights or defend against legal claims.
+  
 
-We do not sell or distribute any information submitted by a customer for data verification web services or processed through local data quality APIs. 
+  * Personal information is transferred in the event the product or service is acquired in its entirety by another entity. Melissa Data shall issue a notification before information is transferred and becomes subject to a different privacy policy.
 
-**Data Security**  
-Our technology keeps your information safe. When you send us confidential or sensitive data using our site, your information is safe and secure. Every time you send us information, we mandate that a “secure session” first be established using Secure Socket Layer (SSL). After we receive your information, we process it on a secure server with firewalls.
 
-**Changes to Privacy Policy**  
-The Website Privacy Policy may be amended at any time, so please check back periodically.  
-_  
-Privacy policy last updated: December 10, 2010_
+
+## 4\. Information Collected During Data Processing
+
+Information transmitted by users to the Melissa Data servers as part of data processing functions of its products or services is retained only to the limited extent necessary to complete the associated processing functions of the products or services. 
+
+## 5\. User Account Information Use
+
+Melissa Data reserves the right to send certain communications relating to its products or services, such as service announcements, administrative messages, feedback requests that are considered part of routine technical support procedures. 
+
+## 6\. Security
+
+Melissa Data stores data at rest with 128 bit encryption to protect and secure it and takes appropriate steps to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, whether in transmission or storage. All personnel are trained on the appropriate use of PII and they are retrained yearly with advances in personal security and best practices.
+
+## 7\. Changes to this Privacy Policy
+
+Melissa Data may update this privacy policy as necessary and shall post notifications regarding such updates on its corporate website.
+
+_Privacy Policy Last Updated: November 2, 2016_
+
+  
+ 
