@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kannadamatrimony.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405214931id_/http%3A//www.kannadamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPKANNADA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kannadamatrimony.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220215217id_/http%3A//www.kannadamatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPKANNADA) for the most accurate reproduction.*
 
 # www.kannadamatrimony.com
 
