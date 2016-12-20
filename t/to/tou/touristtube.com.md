@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501022429id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220063453id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Tourist Tube
 
-Tourist Tube LTD provides a Privacy Policy to describe to you, as a user of our services, 
+Tourist Tube FZ-LLC provides a Privacy Policy to describe to you, as a user of our services, 
 
 1\. Info we collect 
 
@@ -12,7 +12,7 @@ Tourist Tube LTD provides a Privacy Policy to describe to you, as a user of our 
 
 4\. Choices you have for updating your personal info. 
 
-Tourist Tube LTD has developed this Privacy Policy to demonstrate its commitment to respecting your privacy. Once you start using our website and / or you download and install our mobile applications, you are effectively accepting the practices described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully when using our services or transacting business with us. 
+Tourist Tube FZ-LLC has developed this Privacy Policy to demonstrate its commitment to respecting your privacy. Once you start using our website and / or you download and install our mobile applications, you are effectively accepting the practices described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully when using our services or transacting business with us. 
 
 The info you give will help us optimize the services we provide by making your searches faster, showing you ads that are more relevant and helping you connect quicker with people of similar interests. You can use our services in different ways – to search for and share info, to communicate with other people or to create new content. While using our services, you should know we will handle the info you provide in such a manner to protect your privacy. 
 
@@ -27,8 +27,12 @@ We may collect personal info that can identify you, such as your name and email 
 
 _Info you provide._
 
-To access many of our features, you need to create your personal Tourist Tube Account. You need therefore to provide initially your name and email address. More personal info will be required in your profile for optimizing your connections to interesting themes and members. We can also keep track of the services you use, in particular how you interact with content and ads we show you. 
+To access many of our features, you need to create your personal Tourist Tube Account. You need therefore to provide initially your name and email address. More personal info will be required in your profile for optimizing your connections to interesting themes and members. We can also keep track of the services you use, in particular how you interact with content and ads we show you.
 
+  * Credit/Debit cards  
+All credit/debit cards’ details and related personally identifiable information will **NOT** be stored, sold, shared, rented or leased to any third parties.
+
+  
 _Info we get from the use of our services._
 
 We may collect info about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This info includes: 
@@ -112,6 +116,8 @@ Any third parties to whom we may disclose personal info may have their own priva
 
 We may also share aggregated and non-personal info we collect under any of the above circumstances with third parties companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal info we collect with additional non-personal info collected from other sources. We also may share aggregated info with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This info does not contain any personal info and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising. 
 
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. Please remember that we do not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
+
 * * *
 
   
@@ -150,7 +156,7 @@ We will make our upmost to protect Tourist Tube and our users from unapproved ac
   
 
 
-Our Privacy Policy may change albeit we will not reduce your rights under it without your explicit approval. Any upcoming privacy policy changes will be posted on the current page and you will be directly notified of significant changes as well. All prior versions of this Privacy Policy will be also kept for your review. 
+Our Privacy Policy may be changed or updated occasionally to meet the requirements and standards, albeit we will not reduce your rights under it without your explicit approval. Any upcoming privacy policy changes will be posted on the current page and you will be directly notified of significant changes as well. All prior versions of this Privacy Policy will be also kept for your review. You are encouraged to visit frequently these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted. 
 
 * * *
 
@@ -164,10 +170,10 @@ If you have questions about this Privacy Policy, kindly contact us by postal mai
   
 
 
-71-75, Shelton Street, Covent Garden, London, WC2H 9JQ, ENGLAND 
+Floor 1; DIC Building 12; 35, DIC Street; city Dubai; UAE 
 
 [support@touristtube.com](mailto:support@touristtube.com "support@touristtube.com")
 
-©2016 Tourist Tube LTD.
+©2016 Tourist Tube FZ-LLC
 
-Date of Last Revision: February 10, 2016
+Date of Last Revision: November 21, 2016
