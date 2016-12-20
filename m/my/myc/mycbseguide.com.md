@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycbseguide.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328210734id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycbseguide.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220224507id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | myCBSEguide.com
 
