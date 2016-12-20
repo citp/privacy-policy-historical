@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarabeads.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505162632id_/http%3A//www.scarabeads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarabeads.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220134338id_/http%3A//www.scarabeads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
