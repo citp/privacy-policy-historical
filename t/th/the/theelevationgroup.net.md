@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618042809id_/http%3A//theelevationgroup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220151154id_/http%3A//theelevationgroup.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
