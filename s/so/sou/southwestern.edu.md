@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625162218id_/http%3A//www.southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220223244id_/http%3A//www.southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
 
 # 
 
