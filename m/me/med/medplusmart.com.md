@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medplusmart.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602210411id_/http%3A//www.medplusmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medplusmart.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220111746id_/http%3A//www.medplusmart.com/privacypolicy) for the most accurate reproduction.*
 
 # About-us | India's best Pharmacy retail chain now available Online. Buy Medicine at best prices - MedplusMart
 
