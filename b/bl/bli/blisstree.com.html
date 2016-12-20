@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blisstree.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608053529id_/http%3A//www.blisstree.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blisstree.com privacy policy that was archived on 2016-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220152511id_/http%3A//www.blisstree.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head>
 	<meta charset="UTF-8">
@@ -24,10 +24,10 @@
 	<!-- <meta property="fb:admins" content="100000997673474"/> -->
 	<meta property="fb:app_id" content="127777323987977">
 	<meta property="og:url" content="http://www.blisstree.com/privacy/">
-		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
+		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5QDH7L"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
 	<script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
-	<meta name="description" content="Get tips on healthy living, work outs, wellness &amp; health food recipes. Advice &amp; news on mental health &amp; healthcare."><meta name="DC.date.issued" content="2016-06-08T5:00:52-0:00"><meta name="robots" content="index,follow">
+	<meta name="description" content="Get tips on healthy living, work outs, wellness &amp; health food recipes. Advice &amp; news on mental health &amp; healthcare."><meta name="DC.date.issued" content="2016-12-20T14:34:57-0:00"><meta name="robots" content="index,follow">
 
 	<script type="text/javascript">
 var siteGlobals = {
@@ -224,15 +224,24 @@ if(document.location.protocol=='http:'){
 </script>
 <!-- END Tynt Script -->			<!-- BEGIN GPT -->
 <script type="text/javascript">
-    var googletag = googletag || {};
+    var GTM_TIMEOUT = 3000; //Wait 3 seconds
+	
+	var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    (function() {var gads = document.createElement("script");
-        gads.async = true;gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node = document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
+    setTimeout(function(){
+		if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
+			(function() {var gads = document.createElement("script");
+				gads.async = true;gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node = document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		}
+		else {
+			//GPT already loaded
+		}
+	}, GTM_TIMEOUT);
 </script>
 
 <script type="text/javascript">
@@ -349,6 +358,10 @@ siteGlobals.category = 'legal';
                 .setTargeting('page',adGlobal.target.page)
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
+				
+			if(typeof pbjs_setTargeting === 'function') {
+				pbjs_setTargeting(); //Set targeting for header bidding
+			}
 
             googletag.enableServices();
 
@@ -371,8 +384,17 @@ siteGlobals.category = 'legal';
 </script>
 <!-- END GPT -->
 
+<!-- Google Tag Manager <script> part -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5QDH7L');
+</script>
+<!-- End Google Tag Manager -->
 </head>
 <body class="page page-id-83072 page-template-default singular two-column right-sidebar">
+<!-- Google Tag Manager <noscript> -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QDH7L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
 	<div id="skin-wrapper">
 	<div class="b5-ad-pushdown">
 		<div id="b5_ad_pushdown"></div>
@@ -802,7 +824,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=edf304a40d'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=18f3aff937'
             });
         });
     });</script>
@@ -821,8 +843,8 @@ var countVars = {"disqusShortname":"blisstreecom"};
 </script>
 <script type="text/javascript" src="http://cdn2.blisstree.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=3.8.1"></script>
 
-<!-- Max memory: 19624520-->
-<!-- time: 0.474 -->
+<!-- Max memory: 19658584-->
+<!-- time: 0.326 -->
 
 <div class="share-tip-window" id="share-tip-window">
 	<div class="share-tip-dialog">
@@ -840,7 +862,7 @@ var countVars = {"disqusShortname":"blisstreecom"};
 			<input type="hidden" name="tip_post" id="tip_post" value="http://www.blisstree.com/privacy/">
 			<input type="hidden" name="tip_submit" id="tip_submit" value="0">
 			<input type="submit" value="Share" onclick="el = document.getElementById('tip_submit'); el.value = 1;"> &nbsp; or &nbsp; <a href="" onclick="close_modal_window('share-tip-window'); return false;">Cancel</a>
-			<input type="hidden" name="wp_nonce" value="3d328619d1"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="c3cb5fea8c2d01e86d0f98014e6ca297c0d7342635fc31550e0287525767acb1"></form>		</div>
+			<input type="hidden" name="wp_nonce" value="26ebea1020"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="c3cb5fea8c2d01e86d0f98014e6ca297c0d7342635fc31550e0287525767acb1"></form>		</div>
 	</div>
 </div>
 <!-- BEGIN Defy Media O and O Skater Unit -->
@@ -922,8 +944,8 @@ var countVars = {"disqusShortname":"blisstreecom"};
 
 Minified using memcached
 Page Caching using memcached
-Database Caching 90/100 queries in 0.070 seconds using memcached
-Object Caching 1482/1736 objects using memcached
+Database Caching 9/15 queries in 0.035 seconds using memcached
+Object Caching 1564/1577 objects using memcached
 Content Delivery Network via cdn2.blisstree.com
 
- Served from: www.blisstree.com @ 2016-06-08 01:00:52 by W3 Total Cache --></body></html>
+ Served from: www.blisstree.com @ 2016-12-20 09:34:57 by W3 Total Cache --></body></html>
