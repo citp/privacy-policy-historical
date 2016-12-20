@@ -1,26 +1,80 @@
-> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407235948id_/http%3A//bitcoinker.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034446id_/https%3A//bitcoinker.com/privacy-policy) for the most accurate reproduction.*
 
-# Bitcoinker - Privacy Policy
+# Privacy Policy | Bitcoinker
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it.  
-(This privacy policy is applicable to the bitcoinker.com web site) 
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-### Routine Information Collection
+###### What personal information do we collect from the people that visit our website?
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors. 
+We do not collect information or other details from visitors of our site.
 
-### Cookies and Web Beacons
+###### When do we collect information?
 
-Where necessary, this site uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content. 
+We collect information from you when you subscribe to a newsletter, enter information on our site or provide us with feedback on our products or services.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+###### How do we use your information?
 
-### Controlling Your Privacy
+We may use the information we collect from you when you sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. 
+• To improve our website in order to better serve you.
 
-### Special Note About Google Advertising
+###### How do we protect your information?
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+We only provide articles and information. We never ask for credit card numbers.  
+We use regular Malware Scanning.
 
-About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy/ads/). 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+
+###### Do we use ‘cookies’?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, they are used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+###### We use cookies to:
+
+• Understand and save user’s preferences for future visits.  
+• Keep track of advertisements.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, some features will be disabled. It will affect features that make your site experience more efficient and may not function properly.
+
+###### Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+
+###### Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+###### Google
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Opting out:  
+Using the Google Analytics Opt Out Browser add on.
+
+###### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+According to CalOPPA, we agree to the following:  
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:  
+• On our Privacy Policy Page  
+Can change your personal information:  
+• By logging in to your account
+
+###### How does our site handle Do Not Track signals?
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+###### Does our site allow third-party behavioral tracking?
+
+It’s also important to note that we do not allow third-party behavioral tracking
