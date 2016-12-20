@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semaphoreci.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413160717id_/http%3A//semaphoreci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semaphoreci.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220113336id_/https%3A//semaphoreci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Semaphore
 
@@ -53,6 +53,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-Any questions about this policy should be addressed to Rendered Text, Svetozara Miletića 10, 21000 Novi Sad, Serbia, or by email at: semaphore@renderedtext.com.
+Any questions about this policy should be addressed to Rendered Text, Svetozara Miletića 10, 21000 Novi Sad, Serbia, or by email at: support@semaphoreci.com.
 
 This document was last updated on December 24, 2013.
