@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504233726id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220112203id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -64,5 +64,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 Last Updated on April 14, 2010.
-
-Following is the list of recent pictures updates on our site.
