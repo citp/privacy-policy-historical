@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payperpost.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520112604id_/https%3A//payperpost.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperpost.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220093615id_/https%3A//payperpost.com/privacy_policy) for the most accurate reproduction.*
 
 # PayPerPost : Asia Pacific's Sponsorship Marketplace
 
