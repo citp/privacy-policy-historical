@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617224627id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swellinfo.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220074946id_/http%3A//www.carbonmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Carbon Media Group
+# Our official Privacy Page and Notice of Carbon Media | Carbon Media
 
 Last updated and effective as of July 1, 2015
 
@@ -12,7 +12,7 @@ Please read this Website Privacy Notice carefully before using any of the Sites.
 
 This Website Privacy Notice may change from time to time. Your continued use of any of the Sites after we make changes is deemed to be acceptance of those changes, so please check this Website Privacy Notice periodically for updates.
 
-## 1\. _APPLICATION OF THIS NOTICE_
+## 1\. APPLICATION OF THIS NOTICE
 
 This Website Privacy Notice applies only to information collected through any of the Sites, including in e-mail, text and other electronic messages between you and any of the Sites.
 
@@ -20,7 +20,7 @@ This Website Privacy Notice applies only to information collected through any of
 
 This Website Privacy Notice and the Terms of Use are governed by United States law, and we make no representation that any of the Sites is appropriate or available for use in locations outside of the United States.
 
-## 2\. _CHILDREN UNDER THE AGE OF 13_
+## 2\. CHILDREN UNDER THE AGE OF 13
 
 The Sites are not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. If you are under the age of 13, do not use or provide any information or content on any of the Sites or on or through any of its features, register on any of the Sites, sign up for membership, use any of the interactive or public comment features of any of the Sites or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.
 
@@ -28,7 +28,7 @@ If we learn we have collected or received personal information from a child unde
 
 By using any of the Sites, you represent and warrant that you meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use any of the Sites
 
-## 3\. _INFORMATION WE COLLECT_
+## 3\. INFORMATION WE COLLECT
 
 We collect several different types of information from and about users of the Sites, including:
 
@@ -45,7 +45,7 @@ We collect this information:
 
 
 
-## 4\. _ANONYMOUS INFORMATION_
+## 4\. ANONYMOUS INFORMATION
 
 As you navigate through and interact with any of our Sites, we automatically collect certain Anonymous Information about your equipment, browsing actions and patterns, including details of your visits to our Sites, including traffic data, location data, and the resources that you access and use on the Sites, information about your computer and internet connection, including your IP address (a unique string of numbers that is automatically assigned to your computer by your Internet Service Provider), operating system and browser type.
 
@@ -59,7 +59,7 @@ The Sites are intended for use by residents of the United States only. The techn
 
 
 
-## 5\. _PERSONALLY IDENTIFIABLE INFORMATION_
+## 5\. PERSONALLY IDENTIFIABLE INFORMATION
 
 We collect Personally Identifiable Information directly from you when you provide it to us and from third parties, for example, our business partners and affiliates. The Personally Identifiable Information we collect on or through our Site may include:
 
@@ -69,7 +69,7 @@ We collect Personally Identifiable Information directly from you when you provid
 
 
 
-## 6\. _HOW WE USE INFORMATION YOU PROVIDE_
+## 6\. HOW WE USE INFORMATION YOU PROVIDE
 
 The information you share with us may be used in a few ways:
 
@@ -91,7 +91,7 @@ We may also disclose Personally Identifiable Information if we are required to d
 
 We may also disclose your Personally Identifiable Information to enforce or apply our terms of use found at http://www.carbonmedia.com/community/tos/ and other agreements, including for billing and collection purposes.
 
-## 7\. _ADVERTISEMENTS AND OPTING OUT_
+## 7\. ADVERTISEMENTS AND OPTING OUT
 
 We support the right of our visitors to choose. We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
@@ -102,13 +102,13 @@ We may use Anonymous Information we have collected from you to enable us to disp
 
 
 
-## 8\. _ACCESS AND CORRECTION_
+## 8\. ACCESS AND CORRECTION
 
 You have a right to know about the Personally Identifiable Information that we hold about you and gathered through the Sites, including the right to correct, amend or delete the information that we have on file if it is incorrect. If you wish to exercise these rights please contact us by sending us an e-mail stating your request to **info@carbonmedia.com** or contacting us in writing at the address provided below.
 
 If you delete your User Contributions and Submissions from any of the Sites, copies of your User Contributions and Submissions may remain viewable in cached and archived pages, or might have been copied or stored by other users of our Sites. Proper access and use of information provided on the Sites, including User Contributions and Submissions, is governed by our terms of use http://www.carbonmedia.com/community/tos/.
 
-## 9\. _SECURITY_
+## 9\. SECURITY
 
 The Sites incorporate safeguards designed to protect the security, integrity and privacy of the Personally Identifiable Information we have collected. We have put in place reasonable precautions to protect information from loss, misuse and alteration, including Secure Socket Layer (SSL) technology. While on a secure page, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer and Mozilla Firefox becomes locked, as opposed to unlocked, or open, when you are just “surfing.”
 
@@ -118,7 +118,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 While we strive to protect your personal information, we cannot ensure or warrant the security of any Personally Identifiable Information you transmit to us or through any of our Sites. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived. Please note that your email, like most, if not all, non-encrypted Internet communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider sensitive or confidential. If you wish, you may contact us instead via telephone at the numbers provided throughout our Sites or at the address below.
 
-## 10\. _EXTERNAL LINKS_
+## 10\. EXTERNAL LINKS
 
 The Sites may provide links to various websites that we do not control. When you click on one of these links, you will be transferred out of our Sites and connected to the website of the organization that you selected.
 
@@ -128,7 +128,7 @@ Inclusion of any linked website on our Sites does not imply or express an approv
 
 Each of these linked sites maintains its own independent privacy and data collection policies and procedures. While we expect our business partners and affiliates to respect the privacy of our users, we cannot be responsible for the actions of third parties. If you visit a website that is linked to or from any of our Sites, we encourage you to consult that website’s privacy policy before providing any personal information and whenever interacting with any website.
 
-## 11\. _CONSENT AND MODIFICATIONS TO PRIVACY STATEMENT_
+## 11\. CONSENT AND MODIFICATIONS TO PRIVACY STATEMENT
 
 Our Sites are controlled, operated and administered entirely within the United States. By using our Sites, you signify your agreement to the terms of this Website Privacy Notice. If you do not agree with this Website Privacy Notice, please do not disclose any personal information through any of the Sites.
 
@@ -136,7 +136,7 @@ This Website Privacy Notice is part of our terms of use http://www.carbonmedia.c
 
 This Website Privacy Notice and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party.
 
-## 12\. _SPECIAL NOTICE TO CALIFORNIA RESIDENTS_
+## 12\. SPECIAL NOTICE TO CALIFORNIA RESIDENTS
 
 Under California Civil Code § 1798.83, residents of the State of California that have provided any Personally Identifiable Information to us have the right to request a list of all third parties to which we have disclosed Personally Identifiable Information during the preceding year for direct marketing purposes.
 
@@ -144,7 +144,7 @@ Alternatively, the law provides that if we have a privacy policy that gives eith
 
 If you are a resident of the State of California and request information about how to exercise your third party disclosure choices, please send a request to **info@carbonmedia.com** with a preference on how our response to your request should be sent.
 
-## 13\. _MODIFICATIONS TO WEBSITE PRIVACY NOTICE_
+## 13\. MODIFICATIONS TO WEBSITE PRIVACY NOTICE
 
 We may modify this Website Privacy Notice at any time, at our discretion, and modifications are effective upon being posted at this URL.
 
@@ -152,7 +152,7 @@ It is our policy to post any changes we make to our Website Privacy Notice on th
 
 If we make material changes to how we treat our users’ Personally Identifiable Information, we will notify you through a notice at this URL or by other reasonable means.
 
-## 14\. _ACCOUNT REVISIONS, REVOKING AND DELETING PERSONAL INFORMATION_
+## 14\. ACCOUNT REVISIONS, REVOKING AND DELETING PERSONAL INFORMATION
 
 We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to the Sites.
 
