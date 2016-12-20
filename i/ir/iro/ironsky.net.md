@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironsky.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517090108id_/http%3A//www.ironsky.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironsky.net privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220153558id_/http%3A//www.ironsky.net/privacy-policy) for the most accurate reproduction.*
 
 # Iron Sky | Privacy policy
 
