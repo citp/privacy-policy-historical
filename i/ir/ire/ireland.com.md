@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319190100id_/http%3A//www.ireland.com/en-us/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220060204id_/http%3A//www.ireland.com/en-us/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Ireland.com
 
@@ -7,7 +7,7 @@ Keem Bay, Achill Island
 Tourism Ireland,  
 5th Floor Bishop's Square,  
 Redmond's Hill,  
-Dublin 2,  
+Dublin D02 TD99,  
 Ireland 
 
 Tourism Ireland respects your privacy. This Privacy Statement explains how any personal information you provide on our site is processed and used by us. This Privacy Statement is designed to protect you, our users, by informing you what personal information is collected, what we do with that information, with whom we share it, how long we keep it and the methods we use to collect it. Your use of the Tourism Ireland consumer websites and any micro-sites is subject to your agreement with this policy. 
@@ -18,7 +18,7 @@ Tourism Ireland is proudly committed to complying with the Data Protection Acts 
 Tourism Ireland,   
 5th Floor Bishop's Square,  
 Redmond's Hill,  
-Dublin 2,  
+Dublin D02 TD99,  
 Ireland
 
 T: +353 1 476 3400  
@@ -55,7 +55,7 @@ Data Protection Officer,
 Tourism Ireland,   
 5th Floor Bishop's Square,  
 Redmond's Hill,  
-Dublin 2,  
+Dublin D02 TD99,  
 Ireland 
 
 We will not levy any charge in respect of the above actions.
@@ -104,16 +104,16 @@ This Privacy Statement is an agreement between you and Tourism Ireland Limited. 
 
 Save this page to a Scrapbook:
 
-[Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#createScrapbook)
+[Add](https://web.archive.org/web/20161220060204id_/http://www.ireland.com/Controls/RichControls/#createScrapbook)
 
 Save this page to your Scrapbook:
 
-[Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#addToScrapbook) [Add](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#newScrapbook)
+[Add](https://web.archive.org/web/20161220060204id_/http://www.ireland.com/Controls/RichControls/#addToScrapbook) [Add](https://web.archive.org/web/20161220060204id_/http://www.ireland.com/Controls/RichControls/#newScrapbook)
 
 You have Scrapbooks created. Click below to see all of your saved pages.
 
-[See Scrapbooks](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#)
+[See Scrapbooks](https://web.archive.org/web/20161220060204id_/http://www.ireland.com/Controls/RichControls/#)
 
 This page has been save to your Scrapbook
 
-[View](https://web.archive.org/web/20150319190100id_/http://www.ireland.com/Controls/RichControls/#)
+[View](https://web.archive.org/web/20161220060204id_/http://www.ireland.com/Controls/RichControls/#)
