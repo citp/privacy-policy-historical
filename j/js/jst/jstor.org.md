@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604204813id_/http%3A//about.jstor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220201014id_/http%3A//about.jstor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About JSTOR
 
 This privacy statement describes how ITHAKA collects and uses the personal information you provide on our websites: [www.ithaka.org](http://www.ithaka.org/ "This link opens in a new window"), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/ "This link opens in a new window"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. ITHAKA is committed to protecting the privacy of users of its website and services, including users of JSTOR and JSTOR-branded services (Current Scholarship Program, Individual Access, Publisher Sales Service), Ithaka S+R, JSTOR Global Plants and Portico (collectively, “ITHAKA Websites”). To better inform you of our policy concerning user privacy, we have adopted the following terms, which adhere to the Safe Harbor Principles issued by the U.S. Department of Commerce.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information collected through our websites: [www.ithaka.org](http://www.ithaka.org/ "This link opens in a new window"), [ www.jstor.org ](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/ "This link opens in a new window"). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request. ](https://feedback-form.truste.com/watchdog/request.%C2%A0)
+If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-## [](https://privacy.truste.com/privacy-seal/Ithaka/validation?rid=ccd252da-d535-42f4-b682-46f3fe531f85 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=2c6554b4-4b1d-4e5a-9be4-9a2ccb6ae68c "TRUSTe Privacy Certification")
 
 ## The Information ITHAKA Collects
 
@@ -20,7 +20,7 @@ We use the personal information collected in ways that are compatible with the p
 
 ## Use of Cookies and Behavioral Targeting
 
-ITHAKA employs “cookie” technology. Cookies are small pieces of text that are stored on your computer and act as a tool for controlling certain system variables and storing system configuration information in the WWW environment. ITHAKA uses cookies to store user preferences for viewing and printing and to store authentication information. No personal information is extracted in the cookie setting process, and we do not use cookies to identify what other sites you have visited. We do however use certain tools to understand the flow of traffic to and from ITHAKA websites. Third party service providers use cookies to make it easier for you to navigate our site. The use of cookies by our service providers is not covered by our privacy policy. We do not have access or control over these cookies, for more information please see [Use of Cookies](http://about.jstor.org/content/jstors-use-cookies "This link opens in a new window").
+ITHAKA employs “cookie” technology. Cookies are small pieces of text that are stored on your computer and act as a tool for controlling certain system variables and storing system configuration information in the WWW environment. ITHAKA uses cookies to store user preferences for viewing and printing and to store authentication information. No personal information is extracted in the cookie setting process, and we do not use cookies to identify what other sites you have visited. We do however use certain tools to understand the flow of traffic to and from ITHAKA websites. Third party service providers may use cookies to make it easier for you to navigate our site, but those cookies are not covered by our privacy policy. We do not have access or control over these cookies, if used. 
 
 In addition, ITHAKA and/or third party service providers may use technologies such as cookies to gather information about your activities on the Ithaka Websites in order to provide you advertising for other JSTOR products or services or our relevant Publisher partner products or services based upon your location, browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/ "This link opens in a new window"). Please note that if you opt-out you will continue to see generic advertising and messages for JSTOR products or services or Publisher partner products or services.
 
@@ -34,7 +34,7 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content information a
 
 ## Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets such as the ShareThis button and the Email Citation function or interactive mini-programs that run on our site ("Features"). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Features to function properly. Features are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing the relevant Feature.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets such as the ShareThis button or interactive mini-programs that run on our site ("Features"). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Features to function properly. Features are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing the relevant Feature.
 
 ## Onward Transfer of Information
 
@@ -74,8 +74,7 @@ You will need to provide sufficient identifying information, such as your name a
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## **  
-Testimonials**
+## Testimonials
 
 We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org).
 
@@ -100,4 +99,4 @@ ITHAKA
 New York, New York  
 10006
 
-Last updated on July 8, 2015
+Last updated on August 31, 2016
