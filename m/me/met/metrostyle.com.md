@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602060224id_/https%3A//www.metrostyle.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220090613id_/https%3A//www.metrostyle.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Get To Know Us | Metrostyle
 
