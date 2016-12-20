@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the sumologic.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508154141id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumologic.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221004924id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Sumo Logic
+# Privacy Statement | Sumo Logic
 
-Effective Date: 08/07/2015
+Effective Date: 09/26/2016
 
-This privacy statement applies to www.sumologic.com and our service Sumo Logic Service owned and operated by Sumo Logic, Inc. This privacy statement describes how Sumo Logic, Inc. (‘Sumo Logic’, ‘We’, ‘Us’ or ‘Our’) collects and uses the personal information you provide on our Web site [www.sumologic.com](https://www.sumologic.com/) (the “Site”) and our Sumo Logic Services (the “Service”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement applies to www.sumologic.com and our service Sumo Logic Service owned and operated by Sumo Logic, Inc. This privacy statement describes how Sumo Logic, Inc. (‘Sumo Logic’, ‘We’, ‘Us’ or ‘Our’) collects and uses the personal information you provide on our Web site [www.sumologic.com](https://www.sumologic.com/) (the “Site”) and our Sumo Logic Services (the “Service”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Sumo Logic.
 
-[](https://privacy.truste.com/privacy-seal/Sumo-Logic,-Inc-/validation?rid=a822ea69-03d8-40d9-b354-c387a0373131 "TRUSTe online privacy certification")
+## **U.S. – Swiss Safe Harbor**
 
-The TRUSTe certification covers our collection, use and disclosure of information we collect through our Web sites www.sumologic.com and our service Sumo Logic Service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Sumo Logic. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.
+Sumo Logic complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Sumo Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sumo Logic’s certification, please visit  <https://safeharbor.export.gov/swisslist.aspx>.
 
-If you have questions or complaints regarding our privacy statement or practices, please contact us at [support@sumologic.com](mailto:support@sumologic.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+## **EU – U.S. Privacy Shield**
 
-Sumo Logic complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sumo Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sumo Logic’s certification, please visit <http://www.export.gov/safeharbor/>.
+Sumo Logic _participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  _Sumo Logic _is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List.<https://www.privacyshield.gov/list>_
 
-## Information Collection and Use
+Sumo Logic _is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf._ Sumo Logic _complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions._
+
+_With respect to personal data received or transferred pursuant to the Privacy Shield Framework,_ Sumo Logic _is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission In certain situations,_ Sumo Logic _may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements._
+
+_If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at<https://feedback-form.truste.com/watchdog/request>. _
+
+_Under certain conditions, more fully described on the Privacy Shield website<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted._
+
+## **Information Collection and Use**
 
 **We collect the following personal information from you**
 
@@ -59,17 +67,17 @@ We obtain information about your company from third party sources, such as the L
 
 ## Communications from the Site
 
-### Newsletters
+**Newsletters**
 
 We will use your name and email address to send our newsletter to you. If you wish to no longer receive these email communications from us you may follow the unsubscribe instructions contained in each email you receive.
 
-### Service-related Announcements
+**Service-related Announcements**
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
 Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-### Service providers
+**Service providers**
 
 We use other third parties such as an email service provider to send out emails on our behalf, and a web-hosting provider to host our services. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
 
@@ -85,17 +93,17 @@ If Sumo Logic is involved in a merger, acquisition, or sale of all or a portion 
 
 ## Frames
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.sumologic.com](https://www.sumologic.com/).
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.sumologic.com](https://www.sumologic.com/).
 
 ## Access to Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by contacting our Customer Support at [support@sumologic.com](mailto:support@sumologic.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
+Upon request Sumo Logic will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by contacting our Customer Support at [support@sumologic.com](mailto:support@sumologic.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasoable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Security
 
-The security of your personal information is important to us. When you log into our service or when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of information using Transport Layer Security (TLS).
+The security of your personal information is important to us. When you log into our service or when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@sumologic.com](mailto:support@sumologic.com).
 
@@ -107,7 +115,7 @@ We use cookies in our order form, to remember users’ settings (e.g. language p
 
 ## Advertising
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Clear Gifs
 
@@ -117,7 +125,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 ## Log Files
 
-As is true of most Web sites, we use a third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+As is true of most Web sites, we use a third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
@@ -155,11 +163,11 @@ Your friend may contact us at [support@sumologic.com](mailto:support@sumologic.
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@sumologic.com](mailto:support@sumologic.com).
 
-## Notification of Privacy Statement Changes
+Notification of Privacy Statement Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you or our Client by email by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you or our Client by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## Contact Us
+Contact Us
 
 If you have any questions or suggestions regarding our privacy statement, please contact us at [support@sumologic.com](mailto:support@sumologic.com) or via postal mail at
 
@@ -170,22 +178,22 @@ Redwood City, CA 94063
 
 ## These Disclosures pertain to our services:
 
-### Service Provider Collection/Use
+**Service Provider Collection/Use**
 
 Sumo Logic collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
 
-### Choice
+**Choice**
 
 We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
 
-### Service Provider, Sub Processors/Onward Transfer
+**Service Provider, Sub Processors/Onward Transfer**
 
 Sumo Logic may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-### Access to Data Controlled by Our Clients
+**Access to Data Controlled by Our Clients**
 
-Sumo Logic has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct its query to Sumo Logic’s Client (the data controller). If requested to remove data we will respond within 30 days.
+Sumo Logic acknowledges that you have the right to access your personal information. Sumo Logic has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct its query to Sumo Logic’s Client (the data controller). If requested to remove data we will respond within 30 days.
 
-### Data Retention
+**Data Retention**
 
 Sumo Logic will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Sumo Logic will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
