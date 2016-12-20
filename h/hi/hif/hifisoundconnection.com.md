@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410111327id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220054543id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiSoundConnection
 
@@ -30,6 +30,6 @@ HiFiSoundconnection.com has created this privacy statement in order to demonstra
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**sales@hifisoundconnection.com**](mailto:sales@hifisoundconnection.com)  
   
-[ ](http://www.hifisoundconnection.com/Shop/Control/fp/cat/38259/SFV/30046/set_num/2.htm)
+[ ](http://www.hifisoundconnection.com/Chauvet-Refurbished)
 
 2001- 2016 HiFi Sound Connection. All Rights Reserved 
