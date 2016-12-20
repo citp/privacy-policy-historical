@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the tissotshop.com privacy policy that was archived on 2016-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160316091052id_/http%3A//us.tissotshop.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tissotshop.com privacy policy that was archived on 2016-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220112609id_/http%3A//us.tissotshop.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-placeholder-focus="true"><!--<![endif]--><head>
+<!DOCTYPE html><html data-placeholder-focus="true" lang="en-US"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="Tissot privacy policy. Tissot is committed to protecting your privacy. Learn about our privacy policy, what kinds of information we collect and how it will be used.">
@@ -9,6 +9,9 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="google-site-verification" content="XiA7C24g62gos3if6EMcbWEiaE1wRARpYA3vWB1cGUk">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="p:domain_verify" content="c65cf0662b7276eb1a390f5774a24223">
+
+
 <link rel="icon" href="http://us.tissotshop.com/skin/frontend/tissot_2014/default/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://us.tissotshop.com/skin/frontend/tissot_2014/default/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
@@ -47,9 +50,15 @@
 <script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/jquery.min.js"></script>
 <script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/jquery-migrate.js"></script>
 <script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/jquery.mobile.custom.min.js"></script>
-<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/main.min.js"></script>
-<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/tissot.min.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/script-bootstrap-magento.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/chosen.jquery.sqli.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/common/placeholders.jquery.min.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/main/tissot.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/sgecom/sgecomregion_updater.js"></script>
 <script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/popup.js"></script>
+<script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/sgecom/accessibility.js"></script>
 <!--[if lt IE 7]>
 <script type="text/javascript" src="http://us.tissotshop.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
 <![endif]-->
@@ -82,6 +91,11 @@ optionalZipCountries = [];
         //]]></script><script type="text/javascript">
     var initMethods = [];
 </script>
+<script type="text/javascript">
+	jQuery( document ).ready(function(){
+    	var g_accessibility = new Accessibility({});
+	});
+</script>
 </head>
 <body class=" cms-page-view cms-privacy-policy language-en_US">
 
@@ -104,14 +118,15 @@ optionalZipCountries = [];
     </div>
     
     <div class="newsletter-popin-content">
-        <div><b>Subscribe</b> to our <b>newsletter</b> to <b>get updated on our latest novelties and special offers !</b></div>        
+        <div><strong>Subscribe</strong> to our <strong>newsletter</strong> to <strong>get updated on our latest novelties and special offers !</strong></div>        
     </div>
         
     <div class="controls">
         <form id="newsletter-popin-form" method="post" action="http://us.tissotshop.com/newsletter-confirmation/">
             <div class="label">Email</div>
             <div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
-                <input class="input-text required-entry validate-email" type="text" name="email">
+            	<label for="popin-newsletter" class="hide-visual">Newsletter</label>
+                <input id="popin-newsletter" class="input-text required-entry validate-email" type="text" name="email">
             </div>
             <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6 button-container">
                 <button title="Subscribe" class="btn btn-primary" type="submit" onclick="if(g_newsletterPopinForm.validator &amp;&amp; g_newsletterPopinForm.validator.validate()){NewsletterPopin.close()}">
@@ -172,7 +187,7 @@ jQuery(document).ready(function()
         <div class="container">
             <div class="pull-left">
                 Delivery to <strong>the US</strong> only&nbsp;|&nbsp;
-                <span class="btn-group dropdown">
+                <span class="btn-group dropdown" role="link" aria-label="Change country" tabindex="0">
                     <span class="switcher-holder dropdown-toggle" data-toggle="dropdown"><span class="switcher">Change</span></span>
                     <ul class="dropdown-menu" role="menu">
                         <li class="current language-tissot">
@@ -207,9 +222,10 @@ jQuery(document).ready(function()
             </div>
             <div id="delivery" class="pull-right">
                 <span class="hidden-xs visible-sm visible-md visible-lg">
-                    <p><span style="font-size: medium; font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: #ff0000;">Free Shipping &nbsp;- &nbsp;Free basketball with any NBA watch or purchase of $500+ (CODE: BBALL)</span></strong></span></p>                </span>
+                    <p style="text-align: right;"><span style="color: #fb0803;"><strong style="color: #fb0803;"><span style="font-family: arial, helvetica, sans-serif;">Tissot Valet w/ $500+ purchase.&nbsp;Code: Holiday16</span>&nbsp;</strong></span><span style="color: #000000; font-family: arial, helvetica, sans-serif;"><strong>FREE OVERNIGHT DELIVERY</strong></span></p>                </span>
                 <span class="visible-xs hidden-sm hidden-md hidden-lg">
-                    <p>Free delivery</p>                </span>
+                    <p><strong><span>Tissot Valet w/ $500+ purchase.&nbsp;Code: Holiday16</span></strong></p>
+<p><strong><span style="color: #ff0000;">FREE DELIVERY</span></strong><span style="color: #ff0000;"><strong>.&nbsp;</strong></span></p>                </span>
             </div>
         </div>
     </div>
@@ -225,15 +241,15 @@ jQuery(document).ready(function()
         </div>
 
         <!-- Logo Area -->
-        <div class="col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-0 logo-container">
-                        <a href="http://us.tissotshop.com/" title="Tissot" class="logo"><strong>Tissot</strong><img src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/logo-en_US.gif" alt="Tissot" class="img-responsive"></a>
+        <div role="banner" class="col-xs-6 col-xs-offset-3 col-sm-3 col-sm-offset-0 logo-container">
+                        <a href="http://us.tissotshop.com/" title="Tissot" class="logo"><strong>Tissot</strong><img src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/tissot-logo_Snow.png" alt="Tissot" class="img-responsive"></a>
                     </div>
         <!-- End of Logo Area -->
 
         <!-- Top Navigation -->
-        <div class="col-sm-12 col-md-9 nav-container">
+        <div role="navigation" class="col-sm-12 col-md-9 nav-container">
             <ul class="nav nav-pills nav-top pull-right">
-                        <li class="store-locator">
+                        <li class="store-locator" role="img" aria-label="Store Locator">
                 <script type="text/javascript">
                 jQuery(document).ready(function()
                 {
@@ -243,14 +259,14 @@ jQuery(document).ready(function()
                     });
                 })
                 </script>
-                                              <a href="http://www.tissotwatches.com/stores" title="Store Locator" target="_blank" id="store-locator-link">
+                                              <a href="http://stores.tissotwatches.com/" title="Store Locator" target="_blank" id="store-locator-link">
                 <span>Store Locator</span>
               </a>
                                           </li>
-                                <li class="compare dropdown account">                              <a href="#account-links" title="My Account" class="dropdown-toggle">
+                                <li class="compare dropdown account" role="img" aria-label="My Account">                              <a href="#account-links" title="My Account" class="dropdown-toggle">
                 <span>My Account</span>
               </a>
-                                                      <ul class="dropdown-menu dropdown-menu-center" role="menu" id="account-links">
+                                                  <!--{ACCLINKS_398911757521dbfaf0d14eb28cdf45c7}-->    <ul class="dropdown-menu dropdown-menu-center" role="menu" id="account-links">
                                     <li>
                     <a href="https://us.tissotshop.com/customer/account/login/referer/aHR0cDovL3VzLnRpc3NvdHNob3AuY29tL3ByaXZhY3ktcG9saWN5/" title="Log In">
                         <span>Log In</span>
@@ -262,7 +278,7 @@ jQuery(document).ready(function()
                     </a>
                 </li>
                         </ul>
-                            </li>
+<!--/{ACCLINKS_398911757521dbfaf0d14eb28cdf45c7}-->                            </li>
                                 <li class="cart">
     <a href="http://us.tissotshop.com/checkout/cart/" title="Cart">
         <span>Cart</span>
@@ -274,14 +290,14 @@ jQuery(document).ready(function()
 
 <!--        -->
         <!-- Main Navigation -->
-        <div class="col-xs-12 col-sm-9 navbar-mobile">
+        <div role="navigation" class="col-xs-12 col-sm-9 navbar-mobile">
             <div class="navbar-collapse collapse">
                 <ul class="nav nav-justified nav-main">
     <li class="dropdown">
     <a href="http://us.tissotshop.com/men.html?from=Megamenu" class="dropdown-toggle" data-toggle="dropdown">
         Men    </a>
 
-        <div class="submenu dropdown-menu">
+        <div class="submenu dropdown-menu" role="menu">
         <div class="container">
             <div class="col-xs-12">
                 <h2>Men</h2><a href="http://us.tissotshop.com/men.html?handle=default&amp;from=Megamenu">› All</a>
@@ -296,7 +312,7 @@ jQuery(document).ready(function()
                 <ul>
                                             <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/tissot-men-t-touch-watches.png">
                             <a href="http://us.tissotshop.com/men/touch-watches.html?from=Megamenu">
-                                Touch  Collection                            </a>
+                                T-Touch                            </a>
                         </li>
                                             <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/men--classic.png">
                             <a href="http://us.tissotshop.com/men/classic.html?from=Megamenu">
@@ -306,13 +322,13 @@ jQuery(document).ready(function()
                             <a href="http://us.tissotshop.com/men/sport-watches.html?from=Megamenu">
                                 T-Sport                            </a>
                         </li>
-                                            <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/men--_heritage.png">
+                                            <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/T019_430_16_031_01_1_.png">
                             <a href="http://us.tissotshop.com/men/heritage-watches.html?from=Megamenu">
-                                T-Heritage                            </a>
+                                Heritage                            </a>
                         </li>
-                                            <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/men--_pocket.png">
+                                            <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/pocket.jpg">
                             <a href="http://us.tissotshop.com/men/pocket-watches.html?from=Megamenu">
-                                Pocket                            </a>
+                                T-Pocket                            </a>
                         </li>
                                             <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/men--_gold.png">
                             <a href="http://us.tissotshop.com/men/gold-watches.html?from=Megamenu">
@@ -321,7 +337,7 @@ jQuery(document).ready(function()
                                     </ul>
             </div>
             <figure class="col-xs-2 overview">
-                <img src="http://us.tissotshop.com/media/catalog/category/men--best_seller_1.png">
+                <img alt="Menu Men" src="http://us.tissotshop.com/media/catalog/category/men--best_seller_1.png">
             </figure>
             <div class="col-xs-4 push">
                 <p><a href="http://us.tissotshop.com/men/classic/tissot-chemin-des-tourelles-powermatic-80-6.html"><img alt="" src="http://us.tissotshop.com/media/wysiwyg/300x250_Push_ChemindesTourelles.gif"></a></p>
@@ -332,7 +348,7 @@ jQuery(document).ready(function()
     <a href="http://us.tissotshop.com/women.html?from=Megamenu" class="dropdown-toggle" data-toggle="dropdown">
         Women    </a>
 
-        <div class="submenu dropdown-menu">
+        <div class="submenu dropdown-menu" role="menu">
         <div class="container">
             <div class="col-xs-12">
                 <h2>Women</h2><a href="http://us.tissotshop.com/women.html?handle=default&amp;from=Megamenu">› All</a>
@@ -348,7 +364,7 @@ jQuery(document).ready(function()
                 <ul>
                                             <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/tissot-women-touch.png">
                             <a href="http://us.tissotshop.com/women/touch-watches.html?from=Megamenu">
-                                Touch Collection                            </a>
+                                T-Touch                            </a>
                         </li>
                                             <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/women--_classic.png">
                             <a href="http://us.tissotshop.com/women/classic-watches.html?from=Megamenu">
@@ -373,7 +389,7 @@ jQuery(document).ready(function()
                                     </ul>
             </div>
             <figure class="col-xs-2 overview">
-                <img src="http://us.tissotshop.com/media/catalog/category/women--new.png">
+                <img alt="Menu Women" src="http://us.tissotshop.com/media/catalog/category/women--new.png">
             </figure>
             <div class="col-xs-4 push">
                 <p><a href="http://us.tissotshop.com/watches/nba.html?from=Megamenu"><img alt="" src="http://us.tissotshop.com/media/wysiwyg/300x250_Push_Quickster_NBA.gif"></a></p>            </div>
@@ -383,7 +399,7 @@ jQuery(document).ready(function()
     <a href="http://us.tissotshop.com/watches.html?from=Megamenu" class="dropdown-toggle" data-toggle="dropdown">
         Collections    </a>
 
-        <div class="submenu dropdown-menu">
+        <div class="submenu dropdown-menu" role="menu">
         <div class="container">
             <div class="col-xs-12">
                 <h2>Collections</h2><a href="http://us.tissotshop.com/watches.html?handle=default&amp;from=Megamenu">› All</a>
@@ -462,20 +478,22 @@ jQuery(document).ready(function()
                             <a href="http://us.tissotshop.com/watches/t-lady.html?from=Megamenu">
                                 Ladies                            </a>
                         </li>
+                                            <li class="col-xs-6" data-collection="http://us.tissotshop.com/media/catalog/category/">
+                            <a href="http://us.tissotshop.com/watches/motogp-limited-edition-2016.html?from=Megamenu">
+                                MotoGP 2016                            </a>
+                        </li>
                                     </ul>
             </div>
             <figure class="col-xs-2 overview">
-                <img src="http://us.tissotshop.com/media/catalog/category/tissot-collection-touch_1.png">
+                <img alt="Menu Collections" src="http://us.tissotshop.com/media/catalog/category/tissot-collection-touch_1.png">
             </figure>
             <div class="col-xs-4 push">
                 <p><a href="http://us.tissotshop.com/watches/nba.html?from=Megamenu"><img alt="" src="http://us.tissotshop.com/media/wysiwyg/300x250_Push_Quickster_NBA.gif"></a></p>            </div>
         </div>
     </div>
     </li>    <li><a href="/gift-card.html">Gift Card</a></li>
-    <li>
-        <a href="http://us.tissotshop.com/as-seen-in/">
-            As seen in        </a>
-    </li>
+    
+<li><a href="http://us.tissotshop.com/gifts.html">Gifts</a></li>
 </ul>
 
             </div>
@@ -485,13 +503,14 @@ jQuery(document).ready(function()
         <div class="col-sm-3 watch-selector">
     <ul>
         <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Watch Selector<br><i class="caret"></i></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Watch Selector<br><span class="caret"></span></a>
             <div class="submenu dropdown-menu">
                 <div class="visible-xs col-xs-12">
 
                     
                                         <form id="xssearch_mini_form" action="http://us.tissotshop.com/catalogsearch/result/" method="get">
                         <div class="input-group">
+                            <label for="xssearch" class="hide-visual">Search</label>
                             <input id="xssearch" type="text" name="q" value="" class="input-text form-control" maxlength="128">
                             <span class="input-group-btn">
                                 <button type="submit" title="Search" class="btn btn-default"><span><span>Search</span></span></button>
@@ -510,17 +529,18 @@ jQuery(document).ready(function()
                 <form class="col-xs-12" id="watchselector-container-form" method="GET" action="http://us.tissotshop.com/advancedsearch/result/">
                     <div id="watchselector-container" class="container">
                                             <div class="filters">
-            <label>Gender</label>
-    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="1" name="gender">
+            <label for="gender">Gender</label>
+    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="1" name="gender" id="gender">
         <option value="">All</option>
                 <option value="130">Men</option>
                 <option value="131">Women</option>
             </select>
-            <label>Case Material</label>
-    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="2" name="tissot_case_material">
+            <label for="tissot_case_material">Case Material</label>
+    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="2" name="tissot_case_material" id="tissot_case_material">
         <option value="">All</option>
                 <option value="146">18K Gold</option>
                 <option value="143">Aluminum</option>
+                <option value="969">Antimagnetic Aluminum</option>
                 <option value="740">Antimagnetic Titanium</option>
                 <option value="141">Brass</option>
                 <option value="149">Ceramic</option>
@@ -532,74 +552,72 @@ jQuery(document).ready(function()
                 <option value="631">Transparent Back</option>
             </select>
             </div>        <div class="filters">
-            <label>Bracelet / Strap</label>
-    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="3" name="tissot_bracelet">
+            <label for="tissot_bracelet">Bracelet / Strap</label>
+    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="3" name="tissot_bracelet" id="tissot_bracelet">
         <option value="">All</option>
-                <option value="736">Black &amp; White Synthetic Strap</option>
-                <option value="733">Black Silicone Strap</option>
-                <option value="719">Black Synthetic Strap</option>
-                <option value="737">Blue &amp; Orange Synthetic Strap</option>
-                <option value="734">Grey Leather strap</option>
-                <option value="705">Gun Leather Strap</option>
-                <option value="739">Red &amp; Black Synthetic Strap</option>
-                <option value="714">Red Silicone Strap</option>
-                <option value="735">Red, Black &amp; Yellow Synthetic Strap</option>
-                <option value="716">White Silicone Strap</option>
-                <option value="725">White Synthetic Strap</option>
-                <option value="738">Yellow &amp; Purple Synthetic Strap</option>
+                <option value="970">316L Stainless Steel Bracelet</option>
+                <option value="985">316L Stainless Steel Bracelet with Ceramic </option>
+                <option value="975">316L Stainless Steel Bracelet with PVD Coating</option>
+                <option value="103">Beige Leather Strap</option>
+                <option value="963">Black &amp; Grey Synthetic Strap</option>
+                <option value="959">Black &amp; Yellow Synthetic Strap</option>
                 <option value="98">Black Leather Strap</option>
                 <option value="105">Black Rubber Strap</option>
-                <option value="99">White Leather strap</option>
-                <option value="106">White Rubber Strap</option>
+                <option value="733">Black Silicone Strap</option>
+                <option value="976">Black Synthetic Nato Strap</option>
+                <option value="719">Black Synthetic Strap</option>
+                <option value="992">Blue &amp; Red Synthetic Nato Strap</option>
+                <option value="912">Blue &amp; White Rubber Strap</option>
                 <option value="596">Blue Leather Strap</option>
+                <option value="991">Blue Synthetic Nato Strap</option>
                 <option value="100">Brown Leather Strap</option>
-                <option value="101">Red Leather Strap</option>
-                <option value="109">Red Rubber Strap</option>
-                <option value="103">Beige Leather Strap</option>
-                <option value="107">Yellow Rubber Strap</option>
-                <option value="108">Orange rubber Strap</option>
-                <option value="680">Synthetic Strap</option>
-                <option value="619">Grey Synthetic Strap</option>
-                <option value="111">Stainless Steel Bracelet</option>
-                <option value="112">Stainless Steel Bracelet/PVD Coating</option>
-                <option value="113">Titanium Bracelet</option>
+                <option value="981">Brown Synthetic Nato Strap</option>
+                <option value="986">Brown Synthetic Strap</option>
                 <option value="115">Chain Included</option>
+                <option value="790">Cream Leather Strap</option>
+                <option value="980">Green Synthetic Nato Strap </option>
+                <option value="734">Grey Leather Strap</option>
+                <option value="619">Grey Synthetic Strap</option>
+                <option value="705">Gun Leather Strap</option>
+                <option value="108">Orange Rubber Strap</option>
+                <option value="101">Red Leather Strap</option>
+                <option value="714">Red Silicone Strap</option>
+                <option value="993">Synthetic Strap of Team Colors</option>
+                <option value="786">Tan Leather Strap </option>
+                <option value="961">Teal &amp; White Synthetic Strap</option>
+                <option value="113">Titanium Bracelet</option>
+                <option value="960">Two-Tone Stainless Steel Bracelet</option>
+                <option value="99">White Leather Strap</option>
+                <option value="106">White Rubber Strap</option>
+                <option value="716">White Silicone Strap</option>
+                <option value="994">White Synthetic Strap</option>
             </select>
-            <label>Dial Color</label>
-    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="4" name="tissot_dial_color">
+            <label for="tissot_dial_color">Dial Color</label>
+    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="4" name="tissot_dial_color" id="tissot_dial_color">
         <option value="">All</option>
                 <option value="90">Anthracite</option>
                 <option value="79">Black</option>
                 <option value="89">Black Carbon</option>
                 <option value="85">Blue</option>
-                <option value="302">Bronze</option>
                 <option value="83">Brown</option>
                 <option value="543">Champagne</option>
-                <option value="586">Claret</option>
-                <option value="700">Golden</option>
                 <option value="86">Grey</option>
                 <option value="704">Gun</option>
                 <option value="84">Ivory</option>
-                <option value="545">MOP</option>
                 <option value="94">MOP Black</option>
-                <option value="546">MOP Blue</option>
-                <option value="542">MOP Brown</option>
-                <option value="548">MOP Pink</option>
                 <option value="93">MOP White</option>
-                <option value="92">MOP White &amp; Diamonds</option>
                 <option value="91">Rhodium</option>
                 <option value="80">Silver</option>
                 <option value="587">Transparent</option>
                 <option value="81">White</option>
             </select>
             </div>        <div class="filters">
-            <label>Movement</label>
-    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="5" name="tissot_movement_type">
+            <label for="tissot_movement_type">Movement</label>
+    <select class="form-control chosen-select no-search" data-placeholder="All" tabindex="5" name="tissot_movement_type" id="tissot_movement_type">
         <option value="">All</option>
                 <option value="119">Automatic</option>
                 <option value="124">Automatic Chronometer</option>
                 <option value="120">Mechanical (manual winding)</option>
-                <option value="123">Mechanical Chronometer</option>
                 <option value="116">Quartz</option>
                 <option value="117">Quartz with EOL (end of life)</option>
                 <option value="118">Solar Quartz</option>
@@ -642,23 +660,35 @@ function sendWatchSelectorForm(formValues) {
 $j('#watchselector-container .chosen-select').chosen({disable_search: true, allow_single_deselect: true}).change(function(){sendWatchSelectorForm()});
 </script>
         
-            <div class="hidden-xs col-sm-9 search">
+            <div role="search" class="hidden-xs col-sm-9 search">
                 
 <form id="search_mini_form" action="http://us.tissotshop.com/catalogsearch/result/" method="get">
 
     <div class="form-search">
         <div class="input-group">
-            <input id="search" type="text" name="q" value="" class="input-text form-control" maxlength="128" autocomplete="off">
-            <span class="input-group-btn">
-                <button type="submit" title="Search" class="btn btn-default"><span><span>Search</span></span></button>
+        	<label for="search" class="hide-visual">Search</label>
+            <input id="search" title="Search" type="text" name="q" value="" class="input-text form-control" maxlength="128" autocomplete="off">
+            <span class="input-group-btn" role="link" aria-label="Search watch">
+                <button type="submit" title="Search" class="btn btn-default" tabindex="0" aria-label="Search"><span><span>Search</span></span></button>
             </span>
         </div>
+        
+        <div id="search_autocomplete" class="search-autocomplete"></div>
 
+        
+            <script type="text/javascript">
+            //<![CDATA[
+                var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for a reference code or a watch name');
+                searchForm.initAutocomplete('http://us.tissotshop.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+            //]]>
+            </script>
 
+            </div>
+    
 
-
-    </div>
+    
 </form>
+
             </div>
 
         
@@ -781,7 +811,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/official-website.png" alt="Official Website">
-                                    <h1>Official Website</h1>
+                                    <h4>Official Website</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="g_popup.hideDialog(event,'official-website')" class="box-close" href="#">&nbsp;</a>
@@ -801,7 +831,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/swiss-made.png" alt="Swiss Made">
-                                    <h1>Swiss Made</h1>
+                                    <h4>Swiss Made</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="g_popup.hideDialog(event,'swiss-made')" class="box-close" href="#">&nbsp;</a>
@@ -821,15 +851,15 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/free-shipping.png" alt="Free Shipping">
-                                    <h1>Free Shipping</h1>
+                                    <h4>Free Shipping</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="g_popup.hideDialog(event,'free-shipping')" class="box-close" href="#">&nbsp;</a>
                                 </div>
                             </div>
                             <div class="box-body">
-                                <p><span>FREE GROUND SHIPPING ON ALL ORDERS. SIGNATURE IS REQUIRED UPON DELIVERY.&nbsp;</span></p>
-<p><i><span>Orders are processed within 24 hours of credit card approval. Orders placed on Saturday and Sunday will be processed on Monday. Orders placed on an official holiday will be processed on the following business day.</span></i></p>                            </div>
+                                <p><span>FREE 2ND DAY SHIPPING ON ALL ORDERS. SIGNATURE IS REQUIRED UPON DELIVERY.&nbsp;</span></p>
+<p><em><span>Orders are processed within 24 hours of credit card approval. Orders placed on Saturday and Sunday will be processed on Monday. Orders placed on an official holiday will be processed on the following business day.</span></em></p>                            </div>
                         </div>
                     </div>
                                 </li>
@@ -842,7 +872,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/easy-returns.png" alt="Easy Returns">
-                                    <h1>Easy Returns</h1>
+                                    <h4>Easy Returns</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="g_popup.hideDialog(event,'easy-returns')" class="box-close" href="#">&nbsp;</a>
@@ -863,7 +893,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/tissot-warranty.png" alt="Tissot Warranty">
-                                    <h1>Tissot Warranty</h1>
+                                    <h4>Tissot Warranty</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="g_popup.hideDialog(event,'tissot-warranty')" class="box-close" href="#">&nbsp;</a>
@@ -883,7 +913,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             <div class="box-header">
                                 <div class="col-xs-10 box-header-text">
                                     <img class="box-img" src="http://us.tissotshop.com/skin/frontend/tissot_2014/default/images/warranty-icons/secure-payment.png" alt="Secure Payment">
-                                    <h1>Secure Payment</h1>
+                                    <h4>Secure Payment</h4>
                                 </div>
                                 <div class="col-xs-2">
                                     <a onclick="onFooterIconClick(jQuery(this), 'Secure Payment');g_popup.hideDialog(event,'secure-payment')" class="box-close" href="#">&nbsp;</a>
@@ -891,7 +921,7 @@ $j('#watchselector-container .chosen-select').chosen({disable_search: true, allo
                             </div>
                             <div class="box-body">
                                 <p>ALL THE PAYMENT INFORMATION IS DELIVERED SSL ENCODED TO PROTECT YOUR CARD INFORMATION AND INSURE THAT IT WILL NOT BE ABLE TO BE USED BY OTHER PEOPLE.</p>
-<p>THE FOLLOWING METHODS OF PAYMENT ARE AVAILABLE: VISA, AMEX, MASTERCARD AND PAYPAL.</p>                            </div>
+<p>THE FOLLOWING METHODS OF PAYMENT ARE AVAILABLE: VISA, AMEX, MASTERCARD, PAYPAL, AND AFFIRM.</p>                            </div>
                         </div>
                     </div>
                                 </li>
@@ -915,17 +945,20 @@ function onFooterIconClick(btn, type)
 }
 /* ]]> */
 </script>
+<noscript>
+</noscript>
 
 <div class="tsst-newsletter">
    <div class="container">
        <form action="https://us.tissotshop.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
     <div class="form-subscribe">
     <div class="form-subscribe-header col-xs-12 col-md-6">
-        <label for="newsletter">Subscribe to Our <strong>Newsletter</strong></label>
+        <label>Subscribe to Our <strong>Newsletter</strong></label>
     </div>
     <div class="input-group col-xs-12 col-sm-8 col-sm-offset-2 col-md-6">
         <div class="v-fix">
-            <input name="email" type="text" id="newsletter" value="Your Email" onclick="this.value=='Your Email'?this.value='':''" onblur="this.value==''?this.value='Your Email':''" class="form-control input-text required-entry validate-email">
+        	<label for="newsletter" class="hide-visual">Newsletter</label>
+            <input title="newsletter" name="email" type="text" id="newsletter" value="Your Email" onclick="this.value=='Your Email'?this.value='':''" onblur="this.value==''?this.value='Your Email':''" class="form-control input-text required-entry validate-email">
         </div>
         <span class="input-group-btn">
           <button type="submit" class="btn btn-primary" title="Subscribe"><span><span>Subscribe</span></span></button>
@@ -980,13 +1013,10 @@ jQuery(window).trigger('download_e_catalog', [btn]);
             <h4 class="hidden-xs">Stay in touch</h4>
             <ul>
                 <li>
-                    <i class="mobile"></i> <p class="us-phone">1-866-462-0050 </p>                </li>
+                    <span class="mobile"></span> <p class="us-phone">1-866-462-0050 </p>                </li>
                 <li>
-                    <i class="time"></i> <p>
+                    <span class="time"></span> <p>
 Between 9 am - 6 pm</p>                </li>
-                                <li>
-                    <i class="appointment"></i> <a href="http://us.tissotshop.com/sgecomstoreappointment/appointment/">Appointment in store</a>
-                </li>
                             </ul>
         </div>
         <div class="col-xs-12 col-sm-3 col-md-2 social-list">
@@ -1022,7 +1052,7 @@ Between 9 am - 6 pm</p>                </li>
             <strong class="current language-tissot">
                 United States -
             </strong>
-            <div class="btn-group dropup">
+            <div class="btn-group dropup" tabindex="0" aria-label="Change country" role="link">
                 <span class="switcher-holder dropdown-toggle" data-toggle="dropdown">(<span class="switcher">Change</span>)</span>
                 <ul class="dropdown-menu" role="menu">
                     <li class="current language-tissot">
@@ -1058,7 +1088,7 @@ Between 9 am - 6 pm</p>                </li>
     </div>
         </div>
         <div class="col-xs-8 col-sm-6 copyr">
-            <p>© 2014 <a href="http://www.tissotwatches.com" target="_blank" title="Tissot">TISSOT</a> SA | All Rights Reserved | A Company of the Swatch Group (U.S.) Inc.</p>
+            <p>© 2016 <a href="http://www.tissotwatches.com" target="_blank" title="Tissot">TISSOT</a> LTD | All Rights Reserved | A Company of the Swatch Group</p>
         </div>
         <div class="col-xs-4 col-sm-3 back-top">
             <a href="#" id="back-top">Back to top</a>
@@ -1090,28 +1120,24 @@ Between 9 am - 6 pm</p>                </li>
                 g_asynchLoader = new AsynchLoader({});
         g_asynchLoader.loadFile("onNewsletterPopinReady", "http://us.tissotshop.com/skin/frontend/tissot_2014/default/scripts/newsletterpopin.js");});
         </script><!--{SGECOM_TRACKER_ALLPAGES_a0675ac4f2932e6d2d9f36d05bd4b22c}--><img src="//link.e.us.tissotshop.com/s/at?site=8886&amp;page=Privacy+Policy" width="1" height="1" border="0">
-        <script type="text/javascript">
-            var google_conversion_id = 1056725642;
+		<script type="text/javascript">
             var google_tag_params = {
-            ecomm_prodid: '', 
-            ecomm_pagetype: 'other', 
-            ecomm_totalvalue: '' 
+        ecomm_pagetype: 'other'
             };
-
-        </script>
+		</script>
         <script type="text/javascript">
         /* <![CDATA[ */
-        var google_conversion_id = 1056725642;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
+            var google_conversion_id = 1056725642;
+
+        	var google_custom_params = window.google_tag_params;
+        	var google_remarketing_only = true;
         /* ]]> */
         </script>
-        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-        </script>
-        <noscript>
-        <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056725642/?value=0&amp;guid=ON&amp;script=0"/>
-        </div>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	    <noscript>
+	        <div style="display:inline;">
+        		<img height="1" width="1" style="border-style:none;" alt="google remarketing view through conversion " src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056725642/?value=0&amp;guid=ON&amp;script=0"/>
+	        </div>
         </noscript>
 
         
@@ -1168,6 +1194,8 @@ Between 9 am - 6 pm</p>                </li>
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-PS768G');
         </script>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PS768G"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager -->
         
         <!-- Google Tag Manager -->
@@ -1178,6 +1206,8 @@ Between 9 am - 6 pm</p>                </li>
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','mediaDataLayer','GTM-PV9SPG');
         </script>
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PV9SPG"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager -->
         <!--/{SGECOM_TRACKER_ALLPAGES_a0675ac4f2932e6d2d9f36d05bd4b22c}-->    
 
