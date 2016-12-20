@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsmania.net privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614124049id_/http%3A//www.friendsmania.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsmania.net privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220210744id_/http%3A//www.friendsmania.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Newspaper Job Ads, Bank job in Pakistan
 
