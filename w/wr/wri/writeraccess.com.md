@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529061417id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220105113id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Content Marketplace - WriterAccess
+# Privacy Policy - WriterAccess :WriterAccess
 
 WriterAccess.com, Inc. ("WriterAccess.com") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. This privacy policy covers the service offered at the WriterAccess.com Website (the "Site") and outlines the type of information we collect, its uses, and steps we take to safeguard it.
 
@@ -19,7 +19,7 @@ WriterAccess.com is committed to helping match users who are seeking writing ser
 
 The information we collect may include: first name, last name, city, state, address, ZIP code, phone, email address and other information specific to the service requested or provided. If you become a registered subscriber we may collect your credit card information and billing address should you explicitly decide to participate in programs that require this information. Such programs may include becoming a Premium subscriber, and other promotions that WriterAccess.com may offer from time to time. If you become a registered Writer, we may collect your date of birth, gender, company name (if applicable), and ZIP codes served. If you are a company or agency registering as a Writer, we may also collect information about the company including the tax id, the year established, and the number of employees. If you request a background check on yourself we may collect your Social Security Number. In addition, if you request a background check on yourself we may obtain criminal background information from a third-party verification service. Use of such a verification service is voluntary.
 
-We may also collect information about third-party references from Writers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Writer creates or updates their profile. This information is collected so that a Client or WriterAccess.com acting on behalf of a Client can contact the third-party reference to verify information provided by the Writer. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from WriterAccess.com, they can [contact WriterAccess.com Member Care](https://web.archive.org/contact-us/ "Contact Us").
+We may also collect information about third-party references from Writers. This information may include the name, phone number, and email address of the third-party reference. This information is collected when a Writer creates or updates their profile. This information is collected so that a Client or WriterAccess.com acting on behalf of a Client can contact the third-party reference to verify information provided by the Writer. The information collected about third-party references will not be used for other purposes including marketing. If a third-party reference would like to have their information removed from WriterAccess.com, they can [contact WriterAccess.com Member Care](https://www.writeraccess.com/contact-us/ "Contact Us").
 
 If you use our blog on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.
 
@@ -61,7 +61,7 @@ Writers have the ability to suppress certain information, such as their phone nu
 
 ## Your Access to Personally Identifiable Information
 
-If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may [contact WriterAccess.com Member Care](https://web.archive.org/contact-us/ "Contact Us") and request that your account be closed.
+If your personally identifiable information changes, you may update this information by logging into your account and accessing the "Profile" section within "My Account". If you no longer wish to participate in our service you may [contact WriterAccess.com Member Care](https://www.writeraccess.com/contact-us/ "Contact Us")and request that your account be closed.
 
 ## How We Protect Your Information
 
