@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexabode.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610143706id_/http%3A//www.forexabode.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexabode.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220211251id_/http%3A//www.forexabode.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
 
 # Privacy Policy and Copyrights - ForexAbode.com
 
