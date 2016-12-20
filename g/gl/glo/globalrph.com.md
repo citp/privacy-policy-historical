@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globalrph.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617152927id_/http%3A//www.globalrph.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrph.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220133049id_/http%3A//www.globalrph.com/privacy.htm) for the most accurate reproduction.*
 
 # GlobalRPh Privacy Statement
 
-**Server Logs & IP Addresses **\- GlobalRPh does keep track of server logs in order to perform internal statistical analyses. These logs do not contain personal information such as name or email address. The logs are used to analyze what areas of our Web site are most popular, in an effort to better serve our Web site visitors. 
+**Server Logs & IP Addresses **\- GlobalRPh does keep track of server logs in order to perform internal statistical analyses. These logs do not contain personal information such as name or email address. The logs are used to analyze what areas of our Web site are most popular, in an effort to better serve our Web site visitors. _  [Primary analysis tool:  Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. ]_
 
 **Links** \- This web site may contain links to other sites. We are not responsible for the privacy practices of other sites. Read the privacy statements of each web site that collects identifiable information. 
 
@@ -22,7 +22,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **Posting Information on or Through the Site** -  You are solely responsible for the information and other content you post on or through the Site. You understand that personal and other information (e.g., user name, e-mail address, phone number) that you post on or through the Site ("Clinical forums", guest book, etc), is generally accessible to and may be collected and used by others and may result in unsolicited messages or other contact from others. Users of these forums are encouraged to exercise caution when providing personal information about themselves.  Please note that all information you may post on the GlobalRPh Forum is considered public information, and is subject to all the terms and conditions outlined in the GlobalRPh Forum statement.  If you would like to review and/or update the information that you have provided to the Site, please send an e-mail to webmaster@globalrph.com requesting such access or change.
 
-**Funding source(s)** -  Our primary source of funding is our extensive advertising setup based on Google's proprietary Adsense Advertising network. Revenue is also generated through the sale of desktop and pda software in our online [store](https://web.archive.org/web/20160617152927id_/http%3A//www.globalrph.com/sales.htm).
+**Funding source(s)** -  Our primary source of funding is our extensive advertising setup that includes Google's proprietary Adsense Advertising network.   
 
 **Honesty in advertising & editorial policy**:  
 Our website hosts Google sponsored ads and links. We do not control Google ads content  
