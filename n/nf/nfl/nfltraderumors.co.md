@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605224950id_/http%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220154937id_/http%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NFL Rumors - NFLTradeRumors.co
+# Privacy Policy - NFLTradeRumors.co
 
 This Privacy Policy governs the manner in which NFL Trade Rumors collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://nfltraderumors.co](http://nfltraderumors.co/) website (“Site”).
 
