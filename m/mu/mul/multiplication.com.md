@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiplication.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151245id_/http%3A//www.multiplication.com/help/policy-returns) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplication.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220101426id_/http%3A//www.multiplication.com/help/policy-returns) for the most accurate reproduction.*
 
 # Policies and Returns | Multiplication.com
 
