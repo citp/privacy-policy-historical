@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908011650id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsy.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220235100id_/https%3A//reedsy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reedsy
 
@@ -10,11 +10,11 @@ This policy together with our beta terms and any other agreement between you and
 
 We may collect and process the following data about you: 
 
-  * information that you provide us with (either by filling in forms on [https://reedsy.com](https://reedsy.com/) (the " **Website** ") or otherwise). This includes information you provide at the time of registering or at any subsequent point;
-  * if you contact us, we may keep a record of that correspondence;
-  * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
-  * device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information);
-  * details of your visits to the Website;
+  * Information that you provide us with (either by filling in forms on [https://reedsy.com](https://reedsy.com/) (the " **Website** ") or otherwise). This includes information you provide at the time of registering or at any subsequent point;
+  * If you contact us, we may keep a record of that correspondence;
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
+  * Device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information);
+  * Details of your visits to the Website;
 
 
 
@@ -50,11 +50,11 @@ It is your responsibility to keep your password secure. Unfortunately, the trans
 
 We use information held about you (and information about others) in the following ways: 
 
-  * to provide you with our services;
-  * to ensure you receive information relevant to you;
-  * to improve our processes and service delivery;
-  * to ensure the content on the Website is presented in the most effective manner for you and your computer or mobile device; and
-  * to notify you about changes to our service.
+  * To provide you with our services;
+  * To ensure you receive information relevant to you;
+  * To improve our processes and service delivery;
+  * To ensure the content on the Website is presented in the most effective manner for you and your computer or mobile device; and
+  * To notify you about changes to our service.
 
 
 
@@ -64,10 +64,10 @@ We may disclose your personal information to any partner of Reedsy and/or a memb
 
 We may disclose your personal information to third parties: 
 
-  * in the event that we sell or buy any business or assets;
-  * if you re quest we do so (including to members);
-  * if Reedsy or substantially all of its assets are acquired by a third party; or
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to protect the rights, property, or safety of Reedsy, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
+  * In the event that we sell or buy any business or assets;
+  * If you re quest we do so (including to members);
+  * If Reedsy or substantially all of its assets are acquired by a third party; or
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation or to protect the rights, property, or safety of Reedsy, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection.
 
 
 
