@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625235750id_/http%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220040109id_/http%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Well Bake Often
 
@@ -6,7 +6,7 @@ This Privacy Policy governs the manner in which Live Well Bake Often collects, u
 
 **Comment Policy**
 
-Comments are welcome and encouraged, but any comment deemed inappropriate will be deleted.
+I love reading your comments!  Comments are always welcome and encouraged on this site.  However, any comments that are deemed inappropriate, offensive, or rude will be removed.
 
 **Personal identification information**
 
