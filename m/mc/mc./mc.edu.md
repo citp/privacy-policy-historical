@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621065920id_/http%3A//www.mc.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220061635id_/http%3A//www.mc.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Mississippi College
+
+  * [__Apply](http://apply.mc.edu/)
+  * [ __Request Info](https://web.archive.org/admissions/request-info)
+  * [ __Give](https://web.archive.org/give)
+  * [ __Contact](https://web.archive.org/contact)
+  * [ __MyMC](http://my.mc.edu/)
+  * 
+
 
 We respect your privacy. Any and all information collected on this site will be kept strictly confidential by Mississippi College and will not be sold, reused, rented, disclosed or loaned. Your information will be held with the utmost care and will not be used for anything other than official university business.
 
@@ -14,8 +22,10 @@ Our Web site uses [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to track
 
 If you have any questions or comments, please feel free to email us at [www@mc.edu](mailto:www@mc.edu).
 
-## Request Information
+## Interested in attending Mississippi College?
 
 * * *
 
-Interested in attending Mississippi College? Fill out the form below and we’ll connect you with an admissions specialist to assist you in the admissions process.
+Fill out the form below and we’ll connect you with an admissions specialist to assist you in the admissions process.
+
+* * *
