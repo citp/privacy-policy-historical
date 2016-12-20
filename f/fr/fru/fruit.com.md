@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525221540id_/http%3A//www.fruit.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220081737id_/http%3A//www.fruit.com/customer-service/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_LAST UPDATED: November 7, 2014_
+LAST UPDATED: November 7, 2014
 
 This Privacy Policy Statement (“Policy”) describes how Fruit of the Loom, Inc. handles and secures information we learn about you through our websites (the “Sites”). Unless otherwise provided herein, “we,” “us” and “our” shall mean and include Fruit of the Loom, Inc., and its direct and indirect subsidiary companies, including, without limitation, Union Underwear Company, Inc. d/b/a Fruit of the Loom, Russell Brands, LLC, and Vanity Fair Brands, LP (collectively, “Affiliates”). This Policy applies only to personal information that we collect on- line. For purposes of this Policy, “personal information” or “personally-identifying information” means any information you provide to us on our Sites which can personally identify you and may include your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address, credit card or debit card information and any other information which can personally identify you. Please read this Policy carefully. We take your privacy seriously and want to make sure visitors to our Sites understand our Policy and their rights. If you have questions or wish to contact us about this Policy, please direct inquiries to:
 
