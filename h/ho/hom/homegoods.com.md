@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616112420id_/http%3A//www.homegoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegoods.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220203210id_/http%3A//www.homegoods.com/privacy-policy) for the most accurate reproduction.*
 
 # HomeGoods | Privacy Policy
 
@@ -64,7 +64,7 @@ When we collect information from you, we may use it for a number of purposes, in
   * Measure and manage the advertising effectiveness of our online and other advertisements and events;
   * Help us understand Website activity and improve your use of our Website;
   * Help us prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and our [Terms of Use](http://www.homegoods.com/terms-of-use/); and
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and our [Terms of Use](https://www.homegoods.com/terms-of-use/); and
   * Operate, evaluate and improve our business (including developing new products and services, managing our communications, performing market research, and administering our Website).
 
 
@@ -97,13 +97,13 @@ We maintain administrative, technical and physical safeguards designed to protec
 
 **Your Options**
 
-To update your preferences, ask us to remove your information from our mailing lists or submit a request, you may contact us as described in the [Contact Information](http://www.homegoods.com/contact/) section. You also may use the following options:
+To update your preferences, ask us to remove your information from our mailing lists or submit a request, you may contact us as described in the [Contact Information](https://www.homegoods.com/contact/) section. You also may use the following options:
 
 **Opt-Out From E-mail and/or Postal Mail**
 
 You can opt-out of receiving promotional e-mail and/or postal mail from us by doing the following:
 
-  * If you originally signed up for HomeGoods e-mail, you can opt-out from that e-mail by returning to the [e-mail sign-up page](http://www.homegoods.com/get-the-scoop/), and clicking on the "unsubscribe" link. You then must enter your e-mail address and **click the "Submit" button**. Please be sure to enter the same e-mail address you provided when you signed up, otherwise it may not be possible to comply with your request.
+  * If you originally signed up for HomeGoods e-mail, you can opt-out from that e-mail by returning to the [e-mail sign-up page](https://www.homegoods.com/get-the-scoop/), and clicking on the "unsubscribe" link. You then must enter your e-mail address and **click the "Submit" button**. Please be sure to enter the same e-mail address you provided when you signed up, otherwise it may not be possible to comply with your request.
   * If you have received an e-mail from HomeGoods, you can opt-out from receiving further e-mails by **following the opt-out or "unsubscribe" instructions provided in the e-mail you received.**
   * Contact **Customer Service, Monday - Friday 9:00 AM - 5:00 p.m. (Eastern Time) at the toll-free number 1-800-926-6299** if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to opt out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.
 
