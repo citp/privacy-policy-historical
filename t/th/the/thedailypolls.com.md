@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515220834id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034654id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | The Daily Polls
 
