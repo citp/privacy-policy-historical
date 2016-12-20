@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409200220id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220163210id_/http%3A//www.veda.com.au/about-us/privacy-policy-australia) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
-## 1\. Our Commitment to Privacy
+### 1\. Our Commitment to Privacy
 
 The Veda Group of companies (Veda) is an information services and aggregation business.  We recognise that to run our businesses successfully we must maintain high standards when it comes to how we collect, hold, use and disclose personal information.  
 
@@ -12,7 +12,7 @@ Much of the personal information collected and held by our business in Australia
 
 In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates a credit reporting business in Australia.  This policy document also reflects VISS’ obligation under S20B(3) to have a policy relating to credit reporting information.
 
-## 2\. Who is Veda?
+### 2\. Who is Veda?
 
  **Consumer Risk and Identity**
 
@@ -28,6 +28,8 @@ In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates 
 • Collection Services assists customers to segment and optimise debtors to improve receivables management.
 
 • Verify provides an employee verification service for employers.
+
+• Mogobankconnect  services provided by Veda assist you to provide income and expenditure information to lenders.  
 
 | 
 
@@ -68,13 +70,13 @@ The Veda Group comprises of a number of separate businesses:
   * Identity Watch provides online monitoring services to detect and alert its members if their details may be compromised
   * Verify provides candidate background screening service to organisations and individuals for employment purposes
   * Veda Advantage Solutions Group Pty Ltd T/AS Inivio (Inivio) offers its customers a range of products to assist them in aspects of campaign management.
-  * Insurance Reference Services operates an Australian insurance claims reporting business which Veda manages on its behalf.
   * Corporate Scorecard provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
   * Kingsway Financial Assessments provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
+  * Veda Advantage Lending Solutions (Australia) Pty Limited provides Mogobankconnect income and expenditure verification services. 
 
 
 
-## 3\. How Veda collects your personal information
+### 3\. How Veda collects your personal information
 
 Generally speaking Veda collects personal information from third parties.  The sources of that personal information depend upon the purpose for which it is being collected and includes:
 
@@ -104,18 +106,19 @@ Generally speaking Veda collects personal information from third parties.  The 
 In addition, there are a number of limited circumstances in which we will collect personal information from you:
 
   * When you apply for membership or whilst you are a member of Secure Sentinel and Identity Watch.
-  * When you contact our Australian commercial credit bureau to obtain a copy of your commercial credit file or your insurance file.
-  * When you contact our Australian commercial credit bureau to request an amendment to your commercial credit file or insurance file or dispute information on your commercial credit file or your insurance file.
+  * When you contact our Australian commercial credit bureau to obtain a copy of your commercial credit file.
+  * When you contact our Australian commercial credit bureau to request an amendment to your commercial credit file or dispute information on your commercial credit file.
   * When you contact Inivio, regarding material you have received from an Inivio client.
   * When you contact NTD for a copy of your tenancy database file or to request an amendment to that file.
   * When you contact Verify in order to provide information for background checks for employment purposes.
   * When you obtain information from us over the internet such as carhistory.com.au.
   * When you opt-in to receiving offers and product information from Veda.
+  * When you utilise the Mogobankconnect application to obtain your account information.
   * When you provide us with information, either through or websites or our representatives or otherwise.
 
 
 
-## 4\. The kinds of, and purposes for which Veda collects, holds, uses and discloses personal information
+### 4\. The kinds of, and purposes for which Veda collects, holds, uses and discloses personal information
 
 We collect personal information for a variety of different purposes.
 
@@ -161,7 +164,6 @@ For Identity Solutions purposes we collect:
 
   * Publicly available identity information
   * NTD identity information
-  * Insurance Reference Services (IRS) identity information
   * Electoral Roll information
 
 
@@ -197,6 +199,15 @@ Verify collects information from you and then seeks to verify that information f
   * Medical history
   * Publicly available information such as directorship, proprietorship information and company officer information as well as court judgements, court writs and personal insolvency information.
 
+
+
+For Mogobankconnect purposes we collect:
+
+  * Your name and email address, details of your nominated financial institution, accounts and account numbers, from the provider to whom you wish to provide verification information.
+  * Details of accounts with the nominated financial institution in your name, including account numbers and account balances; and up to 180 days of your nominated deposit account transactional information.
+  * Technical navigation information, such as device used to complete the verification, required to diagnose data collection issues.
+  * Any additional information you may provide to us, through our website, applications, representatives, service centre or otherwise. We do not collect your passwords or login credentials.
+
 | 
 
 We use a range of information for our Identity Solutions.  Where identity verification is for AML/CTF for reporting entities, Veda will use the current Electoral Roll in accordance with the Electoral Act 1918.
@@ -225,7 +236,11 @@ As such organisations we may disclose your personal information to include:
   * Various regulatory bodies including ASIC, AFSA, APRA and AFS
   * Psychological assessment providers
 
-  
+
+
+Mogobankconnect services collect personal information for the purposes of providing the Mogobankconnect income and affordability verification services to you and your provider to whom you wish to provide verification information.  Personal information collected will be disclosed on your behalf to your provider to conduct income and affordability verification.
+
+Your Mogobankconnect personal information will be held by us for a maximum of 30 days, after which it will be deleted or destroyed.  
   
  **Commercial Risk & Information Services**
 
@@ -353,7 +368,7 @@ If as part of signing up VedaScore, Secure Sentinel, Identity Watch, carhistory
 
 
 
-For further information about the other purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/sites/default/files/images/Australia%20Inivio%20Privacy%20policy%20101214%20final.pdf)
+For further information about the other purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/privacy-policy)
 
 For further information about the other purposes for which TPS uses and discloses personal information refer to the [TPS Privacy Policy](http://www.prospectshop.com.au/privacy.aspx)
 
@@ -361,21 +376,6 @@ For further information about the other purposes for which TPS uses and disclos
 
  **TenancyCheck.com.au** collects, uses and discloses your personal information including past tenant history, publicly available information, tenant evictions and terminations, irregular rent payment history to provider its tenancy services to landlords.  
   
-Veda also manages an insurance database on behalf of Insurance Reference Services Limited, for that purpose we collect, hold, use and disclose: 
-
-  * full name
-  * date of birth
-  * driver’s licence number
-  * gender
-  * latest and previous address
-  * insurance claims
-  * enquiries by insurers
-  * enquiries by loss assessors, loss adjusters and investigators
-
-
-
-This information is used to provide insurance services to general insurers, loss assessors, loss adjusters and investigator who are members of IRS and for internal and external identity management and verification.
-
 In addition, **as a public company** listed on the Australian Stock Exchange, we collect, hold, use and disclose your personal information as follows:
 
  **Type of personal information we collect**
@@ -406,7 +406,7 @@ If Veda does not collect your personal information, Veda may not be able to prov
 
 In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines. TPS, for the purposes of conducting their services may disclose your personal information to data storage providers located in USA, China, UK and NZ. In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check. Identity Watch discloses your personal information to overseas recipients in the USA for the purpose of assisting us to perform the information services and solutions.
 
-## 5\. Your Right of Access
+### 5\. Your Right of Access
 
 You have the right to access personal information Veda holds on you and to have incorrect information amended.
 
@@ -420,7 +420,7 @@ If you would like to obtain a copy of your files including the personal informat
   
 ---|---  
   
- **Your Consumer Risk & Identity, Commercial Risk and /or insurance information **
+ **Your Consumer Risk & Identity, Commercial Risk information **
 
 | 
 
@@ -482,6 +482,15 @@ Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
+ **Your Mogobankconnect personal information held by** **Veda Advantage Lending Solutions (Australia) Pty Limited**| 
+
+ **Veda – Public Access**  
+Veda Advantage Lending Solutions (Australia) Pty Limited  
+PO Box 964  
+NORTH SYDNEY NSW 2059
+
+Telephone: 13 VEDA (8332)  
+  
  **Share related personal information**
 
 | 
@@ -498,7 +507,7 @@ Telephone:  1300 554 474
   
 Veda may charge you a fee for providing you with a copy of your files and for providing you with the information that Veda holds on you.
 
-## 6\. Your right to request a correction or make a complaint
+### 6\. Your right to request a correction or make a complaint
 
 If you have a dispute about personal information held by Veda and covered by this policy, we will investigate and provide you with a formal written response, generally, within 30 days. Where we determine that no amendment to your personal information is required you have the right to add a statement to your file.
 
@@ -514,7 +523,7 @@ You can contact us at:
   
 ---|---  
   
- **Your Consumer Risk & Identity, Commercial Risk and /or insurance information **
+ **Your Consumer Risk & Identity, Commercial Risk information **
 
 | 
 
@@ -577,6 +586,15 @@ Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
+ **Your Mogobankconnect personal information held by** **Veda Advantage Lending Solutions (Australia) Pty Limited**| 
+
+ **Veda – Public Access**  
+Veda Advantage Lending Solutions (Australia) Pty Limited  
+PO Box 964  
+NORTH SYDNEY NSW 2059
+
+Email: [corrections@veda.com.au](mailto:corrections@veda.com.au)  
+  
 If you are unhappy with the outcome of our investigation you have a right to complain to Financial Ombudsman Service or the Office of the Australian Information Commissioner. The contact details of each are set out below:
 
  **Financial Ombudsman Service**
@@ -591,9 +609,9 @@ GPO Box 5218
 
 SYDNEY NSW 2001
 
-## 7.Use of Personal Information for Marketing Purposes
+### 7.Use of Personal Information for Marketing Purposes
 
-For specific information regarding use of personal information by Inivio and The Prospect Shop for marketing purposes, please refer to [Inivio’s Privacy Policy](http://www.inivio.com.au/sites/default/files/images/Australia%20Inivio%20Privacy%20policy%20101214%20final.pdf)  and [The Prospect Shop’s Privacy Policy](http://www.prospectshop.com.au/privacy.aspx) . The information which follows is of general application to Veda and is subject to those policies.
+For specific information regarding use of personal information by Inivio and The Prospect Shop for marketing purposes, please refer to [Inivio’s Privacy Policy](http://www.inivio.com.au/privacy-policy)  and [The Prospect Shop’s Privacy Policy](http://www.prospectshop.com.au/privacy.aspx) . The information which follows is of general application to Veda and is subject to those policies.
 
 Veda collects information to provide its customers and individuals with a large variety of services.  Sometimes different entities within Veda will contact individuals to market Veda services.  All marketing by Veda to individuals is based on the consent of the individual to that marketing.
 
@@ -681,7 +699,7 @@ NORTH SYDNEY  NSW  2059
  **Kingsway**|  If you are a customer of Kingsway, have been assessed by Kingsway or have consented to receiving emails from Kingsway about its products and services.| Email: [enquiries@kingswaygroup.com.au](mailto:enquiries@kingswaygroup.com.au)  
  **The Prospect Shop**|  If you are a customer of The Prospect Shop and have consented to receiving emails from TPS about its products and services.| Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
-## 8\. Government Identifiers and Sensitive Information
+### 8\. Government Identifiers and Sensitive Information
 
 We do not use or adopt as our own identifier any identifier assigned by a Commonwealth or State Government agency. 
 
@@ -699,7 +717,7 @@ We do not collect, hold or disclose sensitive information about you such as:
 
 
 
-## 9\. How we hold and keep your Personal Information Secure
+### 9\. How we hold and keep your Personal Information Secure
 
 Access to your personal information held by Veda for Consumer Risk & Identity, Commercial Risk & Information Services is available by subscription only and is tracked and recorded.  Access is subject to contractual terms and conditions.  Access to other personal information is subject to your consent, or is publicly available, or is subject to contractual terms and conditions.  These include compliance with the Privacy Act and other relevant legislation.
 
@@ -707,7 +725,7 @@ We may hold your personal information in paper or other physical form, but it is
 
 Only authorised employees are granted access to your personal information. We train the employees who handle your personal information to ensure that your personal information is handled appropriately. Our procedures ensure that your personal information is only made available to employees where necessary.  We audit and monitor our employees’ access to, and handling of, personal information.
 
-## 10\. Further information about your Privacy rights
+### 10\. Further information about your Privacy rights
 
 For further information about the APPs of the Act please visit the Office of the Australian Information Commissioner website at [www.oaic.gov.au](https://web.archive.org/www.oaic.gov.au).
 
