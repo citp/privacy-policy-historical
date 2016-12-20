@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231313id_/http%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220221841id_/http%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « TechPrevue
 
