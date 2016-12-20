@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursearching.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231170018id_/http%3A//www.yoursearching.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursearching.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220143206id_/http%3A//www.yoursearching.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
