@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipeveryday.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323113522id_/http%3A//gossipeveryday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipeveryday.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220092933id_/http%3A//www.gossipeveryday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy
 
