@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexic.us privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323131723id_/http%3A//www.lexic.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexic.us privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220011138id_/http%3A//lexic.us/privacy.php) for the most accurate reproduction.*
 
 # Lexicus - Word Definitions for Puzzlers and Word Lovers
 
