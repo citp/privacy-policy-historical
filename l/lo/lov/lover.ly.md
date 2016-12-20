@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lover.ly privacy policy that was archived on 2016-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160210013821id_/https%3A//lover.ly/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lover.ly privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220122859id_/https%3A//lover.ly/about/legal/privacy) for the most accurate reproduction.*
 
 # About - Loverly
 
