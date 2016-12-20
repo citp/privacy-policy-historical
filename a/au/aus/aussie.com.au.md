@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402091626id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220224919id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
