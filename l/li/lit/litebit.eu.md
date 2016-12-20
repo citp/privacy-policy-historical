@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203104854id_/https%3A//www.litebit.eu/articles/18/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220193941id_/https%3A//www.litebit.eu/en/privacy-statement) for the most accurate reproduction.*
 
-# LiteBit.eu - Bitcoins kopen
+# LiteBit.eu - Privacy statement
 
-LiteBit.eu, the name, this web page, support in any form and the services offered by LiteBit.eu fall under the direct control of the LiteGroup B.V.. The LiteGroup recognizes the importance of the safety of both the use and personal information as a key requirement to provide services as LiteBit.eu does. Our Privacy Policy explains the foundation, whether or not expandable, in order to ensure safety. By using our services you agree with our Privacy Statement. 
+LiteBit.eu, the name, this web page, support in any form and the services offered by LiteBit.eu fall under the direct control of the 2525 Ventures B.V.. The 2525 Ventures B.V. recognizes the importance of the safety of both the use and personal information as a key requirement to provide services as LiteBit.eu does. Our Privacy Policy explains the foundation, whether or not expandable, in order to ensure safety. By using our services you agree with our Privacy Statement. 
 
-Because of the innovative nature of digital currency and the crypto environment in general the future is unpredictable. New services could be designed with new functions or removed from the list. LiteBit.eu, covered under the LiteGroup umbrella reserves the right to modify specifications without informing you at all times. Therefore, it is advisable to read the Privacy Statement from time to time to keep updated. It is your responsibility to be aware of the changes made. 
+Because of the innovative nature of digital currency and the crypto environment in general the future is unpredictable. New services could be designed with new functions or removed from the list. LiteBit.eu, covered under the 2525 Ventures B.V. umbrella reserves the right to modify specifications without informing you at all times. Therefore, it is advisable to read the Privacy Statement from time to time to keep updated. It is your responsibility to be aware of the changes made. 
 
   
 
@@ -28,7 +28,7 @@ LiteBit.eu uses this data not only to be able to provide the safest possible env
 
 
   * To inform you of any important changes. 
-  * Keep you informed of products or services of the LiteGroup which are similar to those that you have purchased, unless you have indicated that you do not appreciate. 
+  * Keep you informed of products or services of the 2525 Ventures B.V. which are similar to those that you have purchased, unless you have indicated that you do not appreciate. 
   * Fight fraud which has the highest priorieit. 
   * Fulfill obligations under laws and regulations. 
 
@@ -40,7 +40,7 @@ Litebit.eu has the responsibility to save your data as secure as possible, and t
 
 
   * When it comes to law enforcement, LiteBit.eu will always share your information with government officials. This may involve fraud, money laundering or other laws of distressing situations.
-  * If the LiteGroup will be transferred to a new entity, whether or partly in its entirety where customer data is linked inextricably these will move into the new entity, unless agreed otherwise with or without a third party.
+  * If the 2525 Ventures B.V. will be transferred to a new entity, whether or partly in its entirety where customer data is linked inextricably these will move into the new entity, unless agreed otherwise with or without a third party.
 
 
 
