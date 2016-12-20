@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627074924id_/http%3A//wpde.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpde.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220040837id_/http%3A//wpde.com/station/privacy) for the most accurate reproduction.*
 
-# Florence/Myrtle Beach Privacy | News, Weather, Sports, Breaking News | WPDE
+# Myrtle Beach/Florence Privacy | News, Weather, Sports, Breaking News | WPDE
 
 Thank you for visiting this website, which is operated by an Affiliate of Sinclair Television Group, Inc. (“Sinclair”). This site is one of a network of ad-supported sites operated by Affiliates of Sinclair each of which also operates a local television station (each a “Sinclair Affiliate Site” and, collectively, the “Sinclair Network of Sites”). Each Sinclair Affiliate Site has adopted this privacy statement to the extent applicable. “Affiliate” means a company controlling, controlled by or under common control with another company, or a company which shares common management.
 
