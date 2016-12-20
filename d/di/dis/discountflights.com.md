@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502114412id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountflights.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220190303id_/http%3A//www.discountflights.com/privacy.php) for the most accurate reproduction.*
 
 # Discount Flights, Airline Tickets, Hotels, Travel Deals
 
