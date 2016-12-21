@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realpageslive.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630003407id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realpageslive.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221023247id_/http%3A//corporate.yp.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : YP
+# Privacy Policy • YP : YP
 
 Updated April 27, 2016
 
