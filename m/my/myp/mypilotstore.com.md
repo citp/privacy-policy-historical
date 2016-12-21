@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195521id_/http%3A//www.mypilotstore.com/MyPilotStore/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221211112id_/http%3A//www.mypilotstore.com/MyPilotStore/Privacy) for the most accurate reproduction.*
 
 # MyPilotStore.com - Privacy and Security at MyPilotStore.com
 
@@ -10,7 +10,7 @@
 This is the web site of **MyPlane, Inc. dba MyPilotStore.com**.
 
 Our postal address is   
-**7432 E Tierra Buena Ln, Suite 105  
+**15887 N 76th St  
 Scottsdale, AZ  85260**
 
 We can be reached via e-mail at [service@MyPilotStore.com](mailto:service@MyPilotStore.com) or you can reach us by telephone at 480-556-0500.
