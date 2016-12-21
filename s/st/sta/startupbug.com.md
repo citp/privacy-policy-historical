@@ -1,63 +1,66 @@
-> *The following text is extracted and transformed from the startupbug.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305040755id_/http%3A//startupbug.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbug.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221174208id_/https%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
 
-# StartupBug
+# DomainNameSales.com
 
-Startupbug knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the Startupbug website, you are accepting the practices outlined in this Privacy Policy.
+This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.
 
-What Does This Privacy Policy Cover?  
-This Privacy Policy covers Startupbug's treatment of personal information that Startupbug gathers when you are on the Startupbug website and when you use Startupbug services.  
-This policy does not apply to the practices of third parties that Startupbug does not own or control, or to individuals that Startupbug does not employ or manage.  
-What Personal Information About Users Does Startupbug Collect?
+## Personal identification information
 
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users:  
-v 1\. Information You Provide to Us:  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as: 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-* Registration: In order for you to use Startupbug services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address. 2\. Automatic Information: 
-* We receive and store certain types of information whenever you interact with us. Startupbug automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Startupbug cookie information, and the page you requested. Startupbug uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. 
-* Startupbug may also add on any page display the total counts that page has been viewed. This includes member profile pages. 
-* Social sharing of data: Startupbug allows other users to browse stories that you have dugg, submitted, blogged, or commented on. This information is made available via your member profile (startupbug.com/users/username), on the Startupbug spy page (startupbug.com/spy) or within the permalink URL of the story in which you performed the action on. Startupbug may choose to post this data on other site features in the future. 
-* Profile information: Startupbug allows other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information. 
-* Syndication: Startupbug allows for the RSS syndication of all of its public content within the website. 
-* Friends Data: Much like other social services Startupbug allows non-friends to browse through your friends activities (startupbug.com/users/usersname/friends). 
-* API: Startupbug will allow 3rd parties access to all Startupbug data this is already publicly available through startupbug.com. Startupbug will forever keep private passwords and blog settings. 
+## Non-personal identification information
 
-* Many companies offer programs that help you to visit websites anonymously. While Startupbug will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-What About Cookies?  
-" Cookies are alphanumeric identifiers that we transfer to your computer.s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Startupbug cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
+## Web browser cookies
 
-" The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Startupbug's most attractive features.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-" Some of our business partners may use cookies on our website (for example, advertisers). However, we have no access to or control over these cookies.
+## How we use collected information
 
-Will Startupbug Share Any of the Information it Receives?  
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
+DomainNameSales.com collects and uses Users personal information for the following purposes:
 
-" Business Transfers:   
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Startupbug, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To process transactions_  
+We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry.
+  *  _To share your information with third parties_  
+We may share information with third parties for marketing or other purposes.
+  * _To send periodic emails_  
+The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-" Protection of Startupbug and Others:  
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Startupbug, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
-" With Your Consent:
 
-Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.  
-Is Information About Me Secure?  
-" Your Startupbug account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
 
-" Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+## How we protect your information
 
-What Information Can I Access?  
-You can access your personal information on our website and correct, amend, or delete information that is inaccurate. Upon logging in visit your user profile setting.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-What Choices Do I Have?  
-" As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.  
-" You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Startupbug Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.  
-" You may request deletion of your Startupbug account by using the .deactivate account. button located in your personal profile. This removes all of your past Startupbug usage from public view (future communication would be through Startupbug's internal messaging system).  
-" As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+## Sharing your personal information
 
-Can Children Use Startupbug's Services?  
-You must be 13 years and older to register to use the Startupbug website. As a result, Startupbug does not specifically collect information about children.
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Conditions of Use  
-If you decide to visit Startupbug website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+## Changes to this privacy policy
+
+DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact)
+
+This document was last updated on April 03, 2012
