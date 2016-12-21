@@ -1,21 +1,79 @@
-> *The following text is extracted and transformed from the checkfacebook.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121155915id_/http%3A//xyz.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkfacebook.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221214303id_/http%3A//www.aceex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Domain Names for Generation XYZ®
+# Privacy Policy
 
-We respect your privacy. XYZ® has created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, xyz.xyz (the "Website”, "Us”, "Our”). By using the Website you agree to the privacy practices disclosed below.
+This Privacy Policy governs the manner in which AceEx collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.aceex.net website (“Site”). This privacy policy applies to the Site and all products and services offered by AceEx.  
+****
 
-## Privacy Practices
+##### **Personal identification information**
 
-  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
-  * We only send email to you if you have elected to receive it.
-  * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
+  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information.
+
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.  
+****
+
+##### **Non-personal identification information**
+
+  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
+****
+
+##### **Web browser cookies**
+
+  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.  
+****
+
+##### **How we use collected information**
+
+  
+AceEx collects and uses Users personal information for the following purposes:
+
+  * To improve customer service
+  * Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To personalize user experience
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To process transactions
+  * We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * To administer a content, promotion, survey or other Site feature
+  * To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails
 
 
 
-We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
+****
 
-We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
+##### **How we protect your information**
 
-We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
+  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.  
+****
+
+##### **Sharing your personal information**
+
+  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.  
+****
+
+##### **Changes to this privacy policy**
+
+  
+AceEx has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
+****
+
+##### **Your acceptance of these terms**
+
+  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.  
+****
+
+##### **Contacting us**
+
+  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.aceex.net/contact-us/).
