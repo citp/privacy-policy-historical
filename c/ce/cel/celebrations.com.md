@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620170633id_/http%3A//www.celebrations.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrations.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221101513id_/http%3A//www.celebrations.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrations.com
 
