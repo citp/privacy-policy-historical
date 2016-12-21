@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528182108id_/http%3A//www.billtrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billtrust.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222001821id_/http%3A//www.billtrust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Billtrust
 
