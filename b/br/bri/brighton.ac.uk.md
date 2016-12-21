@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529072920id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton.ac.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221172309id_/https%3A//www.brighton.ac.uk/siteinfo/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -64,7 +64,7 @@ Our site may, from time to time, contain links to and from the websites of adver
 
 ## Access to information
 
-The DPA gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. In order to help us with processing your access request, we kindly ask that you [download a request form](http://staffcentral.brighton.ac.uk/xpedio/groups/Public/documents/staffcentral/doc001915.pdf) (40k pdf) and return it to us as instructed. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+The DPA gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. In order to help us with processing your access request, we kindly ask that you [download a request form](https://staff.brighton.ac.uk/reg/legal/other/Subject_Access_Form.pdf "Download the personal request form") (pdf) and return it to us as instructed. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Changes to our privacy policy
 
