@@ -1,610 +1,996 @@
-<!--The following is the downloaded HTML source of the pathfinder.org privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609085815id_/http%3A//www.pathfinder.org/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pathfinder.org privacy policy that was archived on 2016-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221100033id_/http%3A//www.pathfinder.org/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US"><head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-56F46M"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Pathfinder International</title>
 
+    <link rel="apple-touch-icon" sizes="57x57" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
 
+    
+<!-- This site is optimized with the Yoast SEO plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.pathfinder.org/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Pathfinder International">
+<meta property="og:description" content="The Short Version This policy covers the operations of Pathfinder International with the headquarters office at 9 Galen Street, Watertown, MA 02472, USA. We do not collect any personally identifiable information about you online unless you voluntarily submit such information to us, by, for example, filling out a registration form or making a donation. We …">
+<meta property="og:url" content="http://www.pathfinder.org/privacy-policy/">
+<meta property="og:site_name" content="Pathfinder International">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="The Short Version This policy covers the operations of Pathfinder International with the headquarters office at 9 Galen Street, Watertown, MA 02472, USA. We do not collect any personally identifiable information about you online unless you voluntarily submit such information to us, by, for example, filling out a registration form or making a donation. We […]">
+<meta name="twitter:title" content="Privacy Policy - Pathfinder International">
+<!-- / Yoast SEO plugin. -->
 
-
-
-<meta name="generator" content="Convio CMS"> 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-56F46M"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
-
-
-<script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
-
-
-
-<script type="text/javascript">
-if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
-CONVIO.pageUserName = '1035:0';
-CONVIO.pageSessionID = '06BCC55950CDA53E98F7544D8CDB25D1.app20103a';
-CONVIO.pageSessionName = 'JSESSIONID';
-</script>
-
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1465462695305"></script>
-<script type="text/javascript">
-
-
-
-// The original referrer may have been lost from the session-status.jsp javascript redirect.
-// Read the original referrer from the cookie.
-if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
-CONVIO.referrer = getCookie("CONVIO.referrer");
-referrer = "";
-if ((CONVIO.referrer === "" || typeof CONVIO.referrer === "undefined") && referrer !== "") {
-CONVIO.referrer = "";
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.pathfinder.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.pathfinder.org/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-deleteCookie("CONVIO.referrer");
-</script>
-
-
-
-<!-- Convio's CRM JS library -->
-<script type="text/javascript" src="http://www2.pathfinder.org/js/utils.js"></script>
-
-
-
-
-		<meta charset="utf-8">
-                <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
-		<title>Pathfinder International: Privacy Policy</title>
-		<link rel="shortcut icon" href="/newfavicon.ico">
-		<meta name="Description" content="">
-		<meta name="viewport" content="width=device-width">
-		<link rel="stylesheet" href="http://www.pathfinder.org/assets/css/style-1.css">
-		<script src="http://www.pathfinder.org/assets/js/libs/modernizr-2-5-3-respond-1-1-0-min.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script>window.jQuery || document.write('<script src="http://www.pathfinder.org/assets/js/libs/jquery-1-7-2-min.js"><\/script>')</script><script src="http://www.pathfinder.org/assets/js/libs/jquery-1-7-2-min.js"></script>
-		<link rel="stylesheet" href="http://www.pathfinder.org/assets/js/libs/fancybox/jquery-fancybox.css">
- <link rel="stylesheet" href="http://www.pathfinder.org/assets/css/colorbox.css">
- <link rel="stylesheet" href="http://pmgtest.s3.amazonaws.com/pathfinder/style.css">
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-		<script src="http://www.pathfinder.org/assets/js/libs/colorbox/colorbox-hacked-min.js"></script>
-		<script src="http://www.pathfinder.org/assets/js/jquery-cookie.js"></script>
-        <meta property="og:url" content="http://www.pathfinder.org/privacy-policy.html">
-        <meta property="og:title" content="Privacy Policy">
-        <meta property="og:description" content="">
-		
-		
-			
-            
-		
-			</head>
-	<body>
-		<div id="convio-content-637349511" style="display: inline;">
-
-
-
-
-
-
-
-
-
-
-
-<!-- Standard dependencies for embedded COM content -->
-<link rel="stylesheet" type="text/css" href="http://www2.pathfinder.org/css/FunctionalStyles.css">
-<script type="text/javascript" src="http://www2.pathfinder.org/yui3/yui/yui-min.js"></script>
-<script type="text/javascript" src="http://www2.pathfinder.org/js/utils.js"></script>
-<script type="text/javascript" src="http://www2.pathfinder.org/js/convio/modules.js"></script>
-<script type="text/javascript">
-var Y;
-if (!Y) {
-  Y = YUI({
-    base: 'http://www2.pathfinder.org/yui3/',
-    debug: false,
-    modules: getModules('http://www2.pathfinder.org/','convio',false)
-  });
-}
-</script>
-
-
-<div id="header-container">
-	<header class="wrapper clearfix">
-		<div class="searchNetworking">
-			<div class="contactUs"><a href="http://www.pathfinder.org/contact-us.html">Contact Us »</a></div>
-			<div class="social">
-				<a class="facebook" href="https://www.facebook.com/PathfinderInternational">Facebook</a>
-				<a class="twitter" href="http://twitter.com/pathfinderint">Twitter</a>
-				<!-- <a href="#flickr" _mce_href="#flickr"><img src="http://www.pathfinder.org/assets/images/wrpr/headerflickr.png" _mce_src="http://www.pathfinder.org/assets/images/wrpr/headerflickr.png" alt="flickr" /></a> -->
-				<a class="youtube" href="http://www.youtube.com/user/PathfinderInt">YouTube</a>
-                                <a class="instagram" href="https://instagram.com/pathfinderint/">Instagram</a>
-			</div>
-			<div class="search">
-				<form id="cse-search-box" action="http://www.google.com/cse">
-					<input name="cx" type="hidden" value="002319703998340486568:efqwdb9yw0g">
-					<input name="ie" type="hidden" value="UTF-8">
-					<input class="searchInput" name="q" type="text" size="28">
-					<input class="searchImage" name="sa" type="image" value="Search" src="http://www.pathfinder.org/assets/images/wrpr/headersearch.png">
-					<input name="siteurl" type="hidden" value="www-open-opensocial.googleusercontent.com/gadgets/ifr?url=http%3A%2F%2Fwww.google.com%2Fcse%2Fapi%2F002319703998340486568%2Fcse%2Fefqwdb9yw0g%2Fgadget&amp;container=open&amp;view=home&amp;lang=all&amp;country=ALL&amp;debug=0">
-					<input name="ref" type="hidden" value="www.pathfinder.org/">
-					<input name="ss" type="hidden">
-				</form>
-			</div>
-		</div>
-		<a href="http://www.pathfinder.org/"><img id="primaryLogo" src="http://www.pathfinder.org/assets/images/wrpr/PF-NEW-Logo.png" alt=""></a>	
-		<nav class="hidden">
-			<ul>
-				<li>
-					<a href="http://www.pathfinder.org/about-us/">About Us</a>		
-					<ul>
-						<li><a href="http://www.pathfinder.org/about-us/mission/">Mission &amp; Vision</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/our-history/">Our History</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/leadership-staff/">Board &amp; Staff</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/data-results/">We Measure Results</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/annual-report-financials/">Annual Reports &amp; Financials</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/our-partners/">Our Partners</a>				
-							<ul>
-								<li><a href="http://www.pathfinder.org/about-us/our-partners/community-national-international-partners/">Community, National &amp; International Partners</a></li>
-								<li><a href="http://www.pathfinder.org/about-us/our-partners/corporate-foundation-partners/">Corporate &amp; Foundation Partners</a></li>
-								<li><a href="http://www.pathfinder.org/about-us/our-partners/government-multilateral-partners/">Government &amp; Multilateral Partners</a></li>
-							</ul>
-						</li>
-						<li><a href="http://www.pathfinder.org/about-us/questions-answers/">Questions &amp; Answers</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/careers/">Careers</a>
-							
-                                                        <!--
-                                                        <ul>
-								<li><a href="http://www.pathfinder.org/about-us/careers/working-at-pathfinder/">Working at Pathfinder</a></li>
-								<li><a href="http://www.pathfinder.org/about-us/careers/employment-opportunities/">Employment Opportunities</a></li>
-								<li><a href="http://www.pathfinder.org/about-us/careers/faqs/">FAQ</a></li>
-							</ul>
-                                                        -->
-						</li>
-					</ul>
-				</li>
-				<li>
-					<a href="http://www.pathfinder.org/our-work/">Our Work</a>
-					<ul>
-						<li><a href="http://www.pathfinder.org/our-work/how-we-work/">How We Work</a></li>
-						<li><a href="http://www.pathfinder.org/our-work/focus-areas/">What We do</a>
-							<ul>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/adolescents-youth/">Adolescents &amp; Youth</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/advocacy/">Advocacy</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/projects/cervical-cancer-prevention-ethiopia.html">Cervical Cancer Prevention</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/contraception-family-planning/">Contraception &amp; Family Planning</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/hiv-aids/">HIV &amp; AIDS</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/maternal-newborn-health">Maternal &amp; Newborn Health</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/topics/mHealth.html">mHealth</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/topics/population-health-and-environment-phe.html">Population, Health and Environment</a></li>
-								<li><a href="http://www.pathfinder.org/our-work/focus-areas/abortion/">Safe Abortion Care</a></li>
-							</ul>
-						</li>
-						<li><a href="http://www.pathfinder.org/our-work/where-we-work/">Where We Work</a></li>
-						<li><a href="http://www.pathfinder.org/our-work/projects/">Our Projects</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="http://www.pathfinder.org/publications-tools/">Publications &amp; Tools</a>
-				</li>
-				<li>
-					<a href="http://www.pathfinder.org/news/">News</a>
-<ul>
-						<li><a href="http://www.pathfinder.org/news/">News</a></li>
-						<li><a href="http://www.pathfinder.org/events/">Conferences &amp; Events</a></li>
-</ul>
-				</li>
-				<li>
-					<a href="http://www.pathfinder.org/blog/">Blog</a>
-				</li>
-				<li>
-					<a href="http://www.pathfinder.org/get-involved/">Get Involved</a>		
-					<ul>
-						<li><a href="http://www.pathfinder.org/get-involved/">Take Action</a></li>
-						<li><a href="http://www.pathfinder.org/get-involved/become-an-advocate.html">Become an Advocate</a></li>
-						<li><a href="http://www.pathfinder.org/about-us/careers/">Join Our Team</a></li>
-					</ul>
-				</li>
-				<li>
-					<a href="http://www2.pathfinder.org/site/Donation2?df_id=5120&amp;5120.donation=form1">Donate</a>
-					<ul>
-						<li><a href="http://www2.pathfinder.org/site/Donation2?df_id=5120&amp;5120.donation=form1">Donate Now</a></li>
-						<li><a href="http://www2.pathfinder.org/site/Donation2?df_id=5160&amp;5160.donation=form1">Tribute Gifts</a></li>
-						<li><a href="http://www.pathfinder.org/donate/other-ways-to-give/">Other Ways to Give</a></li>
-						<li><a href="http://www.pathfinder.org/donate/planned-giving/">Planned Giving</a>
-							<ul>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving/bequests/">Bequests</a></li>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving/retirement-plans/">Retirement Plans</a></li>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving/life-insurance-policies/">Life Insurance Policies</a></li>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving/charitable-gift-annuities/">Charitable Gift Annuities</a></li>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving/charitable-lead-trusts/">Charitable Lead Trusts</a></li>
-								<li><a href="http://www.pathfinder.org/donate/planned-giving.charitable-remainder-trusts/">Charitable Remainder Trusts</a></li>
-							</ul>
-						</li>
-						<li><a href="http://www.pathfinder.org/get-involved/host-a-fundraiser.html">Fundraise for Pathfinder</a></li>
-					</ul>
-				</li>
-			</ul>
-		</nav>
-	</header>
-</div>
-
-
-
-</div>
-
-
-
-		<div id="main-container">
-			<div id="main" class="wrapper clearfix">
-				
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="contentDiv">
-
-
-<script type="text/javascript" src="/components/form/form.js"></script>
-
-<div class="mainContent clearfix web">
-    <div class="breadCrumbs clearfix" style="margin-right:0px;">
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span class="breadcrumbComponent">      
-
-    <a class="breadcrumb" href="/">Home</a>
-
-  
-  <span class="breadcrumbseparator">&gt;</span>&nbsp;
-  <span class="breadcrumb breadcrumbItem">Privacy Policy</span>
-  
-
-</span>
-
-    <div class="sendToAFriend">
-
-
-
-
-
-  
-
-
-
-	<div class="content">
-		<div class="addthis_toolbox addthis_default_style" addthis:url="http://www.pathfinder.org/privacy-policy.html" addthis:title="Privacy Policy">
-<a class="addthis_counter addthis_button_compact"><img src="http://www.pathfinder.org/assets/images/wrpr/share_icon.png" alt="share"></a> <span class="txt">SHARE</span>
-</div>
-	</div>
-</div>
-	<div class="printerFriendly">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- BEGIN: Printer-Friendly -->
-
-  <a href="javascript:doPrinterFriendly()"><img class="printerFriendlyImage" src="http://www.pathfinder.org/assets/images/wrpr/print_icon.png" border="0" alt="Printer Friendly" title="Printer Friendly"></a>
-
-<!-- END: Printer-Friendly -->
-
- PRINT</div>
-	</div>
-    <h1 id="title">Privacy Policy</h1>
-
-
-    <h1>Privacy Policy</h1>
-<p>At Pathfinder International, we value the privacy of our donors and online supporters. We have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.</p>
-<p>For any questions or concerns about our Privacy Policy, please contact us at <a href="mailto:communications@pathfinder.org">communications@pathfinder.org</a> or call 617-924-7200.</p>
-<h2>The Short Version:</h2>
-<p>This policy covers the operations of Pathfinder International, with Headquarter offices at 9 Galen St., Watertown, MA 02472, USA.</p>
-<p>We do not collect any personally identifiable information about you online unless you voluntarily submit such information to us, by, for example, filling out a registration form or making a donation.</p>
-<p>We do not share email addresses.</p>
-<p>We do not retain the email address of anyone to whom you send an eCard or Tell-a-Friend link.</p>
-<p>We do not store your credit card information after processing a donation.</p>
-<p>Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable, low-cost source of new supporters. To request that your name not be used in our exchange program, please email <a href="mailto:fundraising@pathfinder.org">fundraising@pathfinder.org</a> or call 617-972-1234.&nbsp;</p>
-<h3>COMMUNICATION PREFERENCES:</h3>
-<p>You may update your information online at any time to personalize your online communication preferences including opting out of all online communications.</p>
-<p>If you have other preferences or have questions about our communications practices please contact us and we will respond to your questions.&nbsp; If you prefer to call, please call 617-972-1234.&nbsp;</p>
-<h3>COOKIES:</h3>
-<p>When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver content to you that is specific to your interests, to process a donation or to prevent you from being required to reenter all your registration data at each connection. <br><br>The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies.&nbsp;</p>
-<p></p>
-<h2>The Long Version:</h2>
-<p>This policy covers the operations of Pathfinder International, with headquarter offices at 9 Galen St., Watertown, MA 02472, USA.&nbsp;</p>
-<p>By visiting our website, you are accepting the practices described in this privacy policy (the "Privacy Policy"). Pathfinder reserves the right to change this Privacy Policy at any time by posting such change at this URL.</p>
-<h3>INFORMATION COLLECTED</h3>
-<p>Personal information you choose to provide:</p>
-<p>We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or making a donation. The types of information that may be requested include your name, address, email address, and telephone number to respond to a specific request for further information.</p>
-<p>You may request a record of your information by calling (617) 924-7200 during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at <a href="mailto:communications@pathfinder.org">communications@pathfinder.org</a>.</p>
-<p>Additional Personal Information you may provide:</p>
-<p>Occasionally, Pathfinder may contact registered website visitors who have provided their personally identifiable information through the website in order to conduct surveys seeking feedback about their experience on this website. These surveys are used for quality assurance purposes to improve our level of customer service. The data collected may be shared with third parties on an aggregated basis.</p>
-<p>Through the use of some forms (donation, survey, registration, etc) you may be asked to voluntarily submit comments or other opinions on various topics.&nbsp;</p>
-<p>We do not retain the address of anyone to whom you send an eCard or Tell-a-Friend link. We would only get their information if they voluntarily provide their personal information to us.</p>
-<p>Non-personally identifiable information:</p>
-<p>Pathfinder collects non-personally identifiable information about you through your IP address, computer settings or most-recently visited URL.&nbsp;</p>
-<h3>USE OF INFORMATION</h3>
-<p>Pathfinder respects your privacy and has instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. By submitting personal information to us you agree that we may use the information in accordance with this privacy policy. We will update this privacy policy as we deem necessary. You should be sure to re-read this policy in its entirety form time to time</p>
-<p>Personal Information you choose to provide:</p>
-<p>We do not store your credit card information after processing a donation. Pathfinder assumes no responsibility for the data collection and use practices of third parties that process online credit card donation transactions.</p>
-<p>Personal information you choose to provide will be used for the purpose it was intended. We may also use this information to deliver to you information about Pathfinder International, related activities or as otherwise disclosed to you at the point of collection, as well as for trend analysis, pattern detection, and website administration. Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable source of new donors. Learn more about why this is important here. To request that your name not be used in our exchange program, please email or call 617-972-1234.</p>
-<p>We will only disclose personally identifiable information to other third parties when (i) the person submitting the information authorizes us to do so; (ii) sharing the information is a necessary operation of the website (i.e. to process credit card information); and/or (iii) we are required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Pathfinder or the website; (b) protect and defend the rights or property of Pathfinder, the website or the visitors to the website, and/or (c) act under exigent circumstances to protect the personal safety of visitors to the website or the public.</p>
-<p>Non-personal demographic and profile data may be used to tailor your experience at our website, showing you content we think you might be interested in.</p>
-<h3>Comments/Opinions</h3>
-<p>Comments voluntarily submitted by users on forms, surveys, petitions, and donation forms may be used anonymously in Pathfinder International online and/or print communications. You may request that the comment not be used by contacting <a href="mailto:communications@pathfinder.org">communications@pathfinder.org</a>. Pathfinder will obtain specific permission to use comments which will be attributed to your name. By visiting this website you agree that no information you submit to the website shall contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any information you provide to Pathfinder.</p>
-<h3>USE OF COOKIES</h3>
-<p>When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver to you content that is specific to your interests, and to prevent you from being required to reenter all your registration data at each connection. <br>The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies.&nbsp;</p>
-<h3>SECURITY</h3>
-<p>Our website has industry standard high encryption security measures in place to protect against the loss, misuse and alteration of the information under our control. <br>We do not store your credit card information after processing a donation. <br>Pathfinder makes every effort to protect your online order information by using Secure Socket Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Pathfinder.</p>
-<h3>OTHER WEBSITES; LINKS</h3>
-<p>This Privacy Policy only applies to Pathfinder International maintained websites including, but not limited to, www2.pathfinder.org and <a href="http://www.girl2woman.org/">www.girl2woman.org</a>. This website contains links to other websites that are not under Pathfinder's control. Pathfinder is not responsible for the privacy practices or the content of such websites. Pathfinder is not responsible for the privacy policy of any website linked to or from this website.</p>
-<h3>COMMUNICATION PREFERENCES</h3>
-<p>You may update your account online to personalize your online communication preferences including opting out of all online communications. If you have other preferences or have questions about our communications practices please contact us and we will respond to your questions.&nbsp; If you prefer to call, please call 617-972-1234.</p>
-<h3>DISCLAIMER</h3>
-<p>This website and all of the materials on or referenced by the website are provided on an "as is" basis. In no event shall Pathfinder be liable for any direct, indirect, incidental, punitive, or consequential damages of any kind whatsoever with respect to the use of this website. You agree that you are using this website solely at your own risk.</p>
-</div>    
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" src="/system/components/logging/logging.js"></script>
-
-
-
-
-<script type="text/javascript">
-if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
-
-if (! CONVIO.page) { CONVIO.page = {}; }
-
-CONVIO.page.folderID = '331615544';
-CONVIO.page.hostID = '330367664';
-CONVIO.page.adminURL = 'https://cmsadmin30.convio.net';
-
-
-CONVIO.page.navFolderID = '331615544';
-CONVIO.page.navFolderTitle = 'Home';
-
-
-
-CONVIO.page.draftID = '348101326';
-CONVIO.page.hasForm = false;
-
-
-
-CONVIO.page.typeID = '331616137';
-CONVIO.page.typeLabel = 'Web Page';
-
-
-
-CONVIO.page.hasEditorStep = true;
-
-
-if (! CONVIO.user) { CONVIO.user = {}; }
-CONVIO.user.isAnonymous = true;
-</script>
-
-
-
-<script type="text/javascript" src="https://cmsadmin30.convio.net/system/auth/author-toolbar.jsp"></script>
-
-
-<script type="text/javascript" src="/components/floatbar/floatbar.js"></script>
-
-
-
-
-				 
-
-
-				
-			</div> <!-- #main -->
-		</div> <!-- #main-container -->
-		
-
-
-
-
-
-
-
-
-
-<div id="footer-container">
-	<footer class="wrapper">
-		<div class="footerMenu">
-			<ul>
-				<li class="menuItem"><a href="http://www.pathfinder.org/about-us/">About Us</a></li>
-				<li class="menuItem"><a href="http://www.pathfinder.org/our-work/">Our Work</a></li>
-				<li class="menuItem"><a href="http://www.pathfinder.org/publications-tools/">Publications &amp; Tools</a></li>
-				<li class="menuItem"><a href="http://www.pathfinder.org/news/">News</a></li>
-				<li class="menuItem"><a href="http://www.pathfinder.org/blog/">Blog</a></li>
-				<li class="menuItem"><a href="http://www.pathfinder.org/get-involved/">Get Involved</a></li>
-				<li class="menuItem donate"><a href="http://www2.pathfinder.org/site/Donation2?5120.donation=form1&amp;df_id=5120">Donate</a></li>
-			</ul>
-		</div>
-		<div class="footerLeft">
-			<div class="footerLogo">
-				<img id="primaryLogo" src="http://www.pathfinder.org/assets/images/wrpr/pf-logo-8.png">
-				<div class="about">Pathfinder International works to improve the sexual and reproductive health of women, men and young people in developing countries.</div>
-			</div>
-			<div class="footerAddress">
-				<h4>Pathfinder International Headquarters</h4>
-				9 Galen Street, Suite 217<br>
-				Watertown, MA 02472<br>
-				<a href="http://www.pathfinder.org/contact-us.html">Contact Us »</a>
-			</div>
-			<div class="footerLinks">
-				<a class="first" href="http://www.pathfinder.org/site-map.html">Sitemap</a> | <a href="http://www.pathfinder.org/privacy-policy.html">Privacy Policy</a> | <a href="http://www.pathfinder.org/photographs.html">Photographs</a> | <a href="http://www.pathfinder.org/about-us/careers/">Careers</a> | <a href="http://www.pathfinder.org/credits.html">Credits</a>
-			</div>
-		</div>
-		<div class="footerRight">
-			<div class="emailSignUp">
-				<h2>Get Email Updates!</h2>
-				<div class="signupForm">
-					<form action="http://www2.pathfinder.org/site/Survey" method="post">
-					<input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
-						<input type="hidden" name="SURVEY_ID" value="4000">
-						<input id="emailAddress" name="cons_email" class="emailAddress" type="text" value="Enter Email Address" data-value="Enter Email Address">
-						<input class="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" type="submit" value="Sign Up">
-					</form>
-				</div>
-			</div>
-			<div class="organizationLogos">
-				<div class="organization" style="float:none!important; width:100%!important;">Pathfinder International is a 501(c)(3) organization <br>(EIN/tax ID: 530-235-320)</div>
-				<div>
-				<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4306" target="_blank"><img src="http://www2.pathfinder.org/images/content/pagebuilder/charitynav61x61.jpg"></a>
-				<a href="http://www.bbb.org/charity-reviews/national/relief-and-development/pathfinder-international-in-watertown-ma-3439" target="_blank"><img src="http://www2.pathfinder.org/images/wrpr/bbblogo.png"></a>
-				<a href="http://www.interaction.org/members/standards" target="_blank"><img src="http://www2.pathfinder.org/images/content/pagebuilder/interaction-logo.png"></a>
-				<a href="https://www.charitywatch.org/ratings-and-metrics/pathfinder-international/11" target="_blank"><img src="http://www2.pathfinder.org/images/content/pagebuilder/CharityWatch_Seal_RGB_WEB_hi-res.jpg"></a>
-				
-				</div>
-			</div>
-			<div class="socialRights">
-				<div class="rights">
-					© Pathfinder International 2015<br>
-					All Rights Reserved
-				</div>
-				<div class="social">
-				<a href="https://www.facebook.com/PathfinderInternational"><img src="http://www2.pathfinder.org/images/wrpr/headerfacebook.png" alt="facebook"></a>
-				<a href="http://twitter.com/#!/pathfinderint"><img src="http://www2.pathfinder.org/images/wrpr/headertwitter.png" alt="twitter"></a>
-				 <!-- <a href="#flickr"><img src="http://www2.pathfinder.org/images/wrpr/headerflickr.png" alt="flickr"/></a> -->
-				<a href="http://www.youtube.com/user/PathfinderInt"><img src="http://www2.pathfinder.org/images/wrpr/headeryoutube.png" alt="youtube"></a>
-                                <a class="instagram" href="https://instagram.com/pathfinderint/">
-                                <img src="http://www2.pathfinder.org/images/content/pagebuilder/pathfinder-instagram-picture.png" "="" alt="Instagram">
-				</a></div><a class="instagram" href="https://instagram.com/pathfinderint/">
-			</a></div><a class="instagram" href="https://instagram.com/pathfinderint/">
-		</a></div><a class="instagram" href="https://instagram.com/pathfinderint/">
-		<div class="pf_clear"></div>
-	</a></footer><a class="instagram" href="https://instagram.com/pathfinderint/">
-</a></div><a class="instagram" href="https://instagram.com/pathfinderint/">
-<script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-685038-1']);
-  if(CONVIO.referrer.length > 0) {
-    _gaq.push(['_setReferrerOverride', CONVIO.referrer]);
-  }
-  _gaq.push(['_setDomainName', 'none']);
-  
-    _gaq.push(['_trackPageview']);
-  
-  (function() {
-    var ga = document.createElement('script');
-    ga.type = 'text/javascript';
-    ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-<!-- Google Tag Manager -->
-<noscript>
-  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-56F46M" height="0" width="0" style="display: none; visibility: hidden;"></iframe>
-</noscript>
-<script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(), 
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0], 
-    j = d.createElement(s), 
-    dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-56F46M');
-</script>
-<!-- End Google Tag Manager -->
-
-
-
-
-
-
-</a><a href="#main-container" class="scroll-top">
-    <div class="ss-icon ss-standard ss-navigateup">Scroll to top</div>
-</a>
-
-<script>
-    $(function () {
-        var e = $("#main-container").offset().top + 350,
-            t = function () {
-                var t = $(window).scrollTop();
-                t >= e ? $("body").addClass("scrolled") : $("body").removeClass("scrolled");
-            };
-        t();
-        $(window).scroll(function () {
-            t();
-        });
-    });
-</script>
-
-
-		<script src="http://www.pathfinder.org/assets/js/script.js"></script>
-		<script src="http://www.pathfinder.org/assets/js/libs/slides-min-jquery.js"></script>
-		<script src="http://www.pathfinder.org/assets/js/libs/fancybox/jquery-fancybox-pack.js"></script>
-		<script type="text/javascript" src="http://www.pathfinder.org/assets/js/libs/fancybox/helpers/jquery-fancybox-media.js"></script>
-		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fd78a4417867b69"></script>
-		<!-- <div id="homepageHijackId" data-enabled="true" data-url="http://www.pathfinder.org/assets/campaign-light-boxes/7115-campsign-lightbox.html" data-cookie="womendare" class="hidden"></div> -->
-<script src="http://www.pathfinder.org/assets/js/libs/iframeResizer-min.js"></script>
-<script type="text/javascript" src="http://www.pathfinder.org/assets/js/lightbox.js"></script>
-
-
-	
-
-<style>
-.storify iframe { width: 100% !important; }
 </style>
+<link rel="stylesheet" id="css-css" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/style.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="slick-theme-css-css" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/css/slick-theme.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css-css" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/css/slick.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="animateCss-css-css" href="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/animateCss/css/animateCss.css?ver=1.0" type="text/css" media="all">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js?ver=2.1.0"></script>
+<link rel="https://api.w.org/" href="http://www.pathfinder.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pathfinder.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pathfinder.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7">
+<link rel="shortlink" href="http://www.pathfinder.org/?p=17">
+<link rel="alternate" type="application/json+oembed" href="http://www.pathfinder.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pathfinder.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.pathfinder.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.pathfinder.org%2Fprivacy-policy%2F&amp;format=xml">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56F46M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-56F46M');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body class="page-template-default page page-id-17">
 
-<!-- 10.12.0.40:8900 -->
+<header id="header" data-animate-css="slideInDown" data-animate-css-delay=".3s">
+    <section class="utilityWrap">
+        <div class="container-fluid">
+            <nav class="socialNav">
+	<ul>
+		<li><a target="_blank" href="https://www.facebook.com/PathfinderInternational/"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="7.1px" height="16px" viewBox="0 0 7.1 16" enable-background="new 0 0 7.1 16" xml:space="preserve">
+<path id="facebook.svg" fill="#FFFFFF" d="M6.8,8H4.7v8H1.5V8H0V5.2h1.5V3.4C1.3,1.7,2.6,0.2,4.2,0c0.2,0,0.3,0,0.5,0L7,0v2.7H5.3
+	C5,2.7,4.7,3,4.7,3.4c0,0,0,0.1,0,0.1v1.7h2.4L6.8,8z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://twitter.com/PathfinderInt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="13px" viewBox="0 0 16 13" enable-background="new 0 0 16 13" xml:space="preserve">
+<path id="twitter.svg" fill="#FFFFFF" d="M14.4,3.2c0,0.1,0,0.3,0,0.4c0,5.2-4.2,9.3-9.3,9.3c-1.8,0-3.5-0.5-5-1.5
+	c0.3,0,0.5,0,0.8,0c1.5,0,2.9-0.5,4.1-1.4c-1.4,0-2.6-0.9-3.1-2.3C2,7.9,2.2,7.9,2.4,8c0.3,0,0.6,0,0.9-0.1C1.7,7.5,0.6,6.2,0.6,4.6
+	v0C1.1,4.8,1.6,5,2.1,5c-1.4-1-1.9-2.9-1-4.4C2.8,2.7,5.2,3.9,7.9,4c-0.4-1.8,0.7-3.5,2.5-3.9c1.1-0.3,2.3,0.1,3.1,1
+	c0.7-0.1,1.4-0.4,2.1-0.8c-0.2,0.8-0.8,1.4-1.4,1.8C14.8,2,15.4,1.8,16,1.5C15.6,2.2,15,2.8,14.4,3.2z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://www.instagram.com/pathfinderint/"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="14px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
+<path id="instagram.svg" fill="#FFFFFF" d="M12.2,0H1.8C0.8,0,0,0.8,0,1.8v10.4c0,1,0.8,1.8,1.8,1.8h10.4c1,0,1.8-0.8,1.8-1.8V1.8
+	C14,0.8,13.2,0,12.2,0z M9.6,2.2c0-0.3,0.3-0.6,0.6-0.6h1.6c0.3,0,0.6,0.3,0.6,0.6v1.5c0,0.3-0.3,0.6-0.6,0.6h-1.6
+	C9.9,4.3,9.6,4,9.6,3.7L9.6,2.2L9.6,2.2z M7,4.2c1.5,0,2.7,1.3,2.6,2.8c0,1.5-1.3,2.7-2.8,2.6C5.4,9.6,4.2,8.4,4.2,7
+	C4.2,5.4,5.5,4.2,7,4.2C7,4.2,7,4.2,7,4.2L7,4.2z M12.4,11.8c0,0.3-0.2,0.6-0.6,0.6H2.1c-0.3,0-0.6-0.2-0.6-0.6V5.9h1.3
+	C2.7,6.3,2.7,6.7,2.7,7.1c0.1,2.4,2.1,4.3,4.5,4.2c2.3-0.1,4.1-1.9,4.2-4.2c0-0.4-0.1-0.8-0.2-1.2h1.2L12.4,11.8L12.4,11.8z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/user/PathfinderInt"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="14px" viewBox="0 0 19 14" enable-background="new 0 0 19 14" xml:space="preserve">
+<path id="youtube.svg" fill="#FFFFFF" d="M0,8.6V5.4c0-0.1,0-0.1,0-0.2c0-0.4,0-0.8,0.1-1.2c0-0.7,0.1-1.4,0.3-2
+	c0.2-0.8,0.9-1.5,1.8-1.6c0.4-0.1,0.7-0.1,1.1-0.1C4.5,0.1,5.8,0,7.1,0c1.7,0,3.4,0,5.1,0c1.4,0,2.9,0.1,4.3,0.2
+	c1.1,0.1,2,0.9,2.2,1.9c0.1,0.7,0.2,1.4,0.3,2C19,4.6,19,5,19,5.3v3.3c0,0.1,0,0.1,0,0.2c0,0.4,0,0.8-0.1,1.2c0,0.7-0.1,1.4-0.3,2
+	c-0.2,0.8-0.9,1.4-1.8,1.6c-0.3,0.1-0.6,0.1-1,0.1c-1.3,0.1-2.6,0.2-3.9,0.2c-1.7,0-3.4,0-5.1,0c-1.4,0-2.9-0.1-4.3-0.2
+	c-1.1-0.1-2-1-2.2-2.1C0.2,11,0.1,10.3,0.1,9.6C0,9.3,0,9,0,8.6z M13.1,6.8l-6-3.3v6.6L13.1,6.8z"></path>
+</svg>
+</a></li>
+	</ul>
+</nav>	            <nav class="utilityNav">
+	<div class="menu-utility-nav-container"><ul id="menu-utility-nav" class=""><li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://www.pathfinder.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.pathfinder.org/read-our-blog/">Blog</a></li>
+<li id="menu-item-2073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2073"><a href="/articles">Press Room</a></li>
+</ul></div>
+	<form class="searchForm" role="search" method="get" id="searchform" action="http://www.pathfinder.org/">
+    <i class="search"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18.3px" height="15.8px" viewBox="0 0 18.3 15.8" enable-background="new 0 0 18.3 15.8" xml:space="preserve">
+<g>
+	<path fill="#BABABA" d="M15.7,13.4c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.4,0.3-0.7,0.3c-0.3,0-0.5-0.1-0.7-0.3l-2.7-2.7
+		c-0.9,0.6-2,1-3.1,1c-0.7,0-1.5-0.1-2.1-0.4s-1.3-0.7-1.8-1.2S3.4,9.7,3.1,9.1S2.7,7.7,2.7,6.9c0-0.7,0.1-1.5,0.4-2.1
+		S3.8,3.5,4.3,3S5.4,2.1,6,1.9s1.4-0.4,2.1-0.4c0.7,0,1.5,0.1,2.1,0.4s1.3,0.7,1.8,1.2s0.9,1.1,1.2,1.8s0.4,1.4,0.4,2.1
+		c0,1.1-0.3,2.2-1,3.1l2.7,2.7C15.6,12.9,15.7,13.1,15.7,13.4z M10.6,9.4c0.7-0.7,1-1.5,1-2.5c0-1-0.3-1.8-1-2.5
+		c-0.7-0.7-1.5-1-2.5-1c-1,0-1.8,0.3-2.5,1C5,5.1,4.7,6,4.7,6.9c0,1,0.3,1.8,1,2.5c0.7,0.7,1.5,1,2.5,1C9.1,10.4,10,10.1,10.6,9.4z"></path>
+</g>
+</svg>
+</i>
+    <input type="text" value="" name="s" id="s" placeholder="SEARCH">
+    <div class="submit"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9.7px" height="13.5px" viewBox="0 0 9.7 13.5" enable-background="new 0 0 9.7 13.5" xml:space="preserve">
+<g>
+	<path fill="#007DC6" d="M7.8,6.4c0,0.1,0,0.1-0.1,0.2l-4.2,4.2c-0.1,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1l-0.4-0.4
+		c-0.1-0.1-0.1-0.1-0.1-0.2c0-0.1,0-0.1,0.1-0.2l3.5-3.5L2.7,2.9C2.6,2.8,2.6,2.8,2.6,2.7c0-0.1,0-0.1,0.1-0.2L3.1,2
+		C3.2,2,3.2,1.9,3.3,1.9c0.1,0,0.1,0,0.2,0.1l4.2,4.2C7.7,6.3,7.8,6.3,7.8,6.4z"></path>
+</g>
+</svg>
+</div>
+</form></nav>        </div>
+    </section>
 
-</body></html>
+    <section class="headerMainWrap">
+        <div class="container-fluid">
+            <div class="logoWrap">
+                <a title="Pathfinder International" href="http://www.pathfinder.org"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="232px" height="56px" viewBox="0 0 232 56" enable-background="new 0 0 232 56" xml:space="preserve">
+<path fill="#007DC5" d="M91.6,15.6c-0.4-0.9-0.9-1.7-1.7-2.4c-0.8-0.7-1.8-1.3-2.9-1.6c-1.4-0.4-2.8-0.6-4.2-0.6h-10v2
+	c-0.1,0.5,0.3,0.9,0.8,1c0,0,0.1,0,0.2,0l0.5,0.1l1,0.2v17.4l-1,0.2L73.8,32h-0.2c-0.5,0-0.8,0.5-0.8,1v2h9.5v-2
+	c0.1-0.5-0.3-0.9-0.8-1h-0.2l-0.5-0.1l-1-0.2v-5.1h3c1.4,0,2.8-0.2,4.1-0.6c1.1-0.4,2.1-0.9,3-1.6c0.7-0.7,1.3-1.5,1.7-2.5
+	c0.4-1,0.6-2.1,0.6-3.2C92.2,17.6,92,16.6,91.6,15.6z M87.4,20.6c-0.2,0.5-0.5,1-0.9,1.4s-0.9,0.7-1.5,0.9c-0.7,0.2-1.4,0.3-2.1,0.3
+	h-3v-8.6h3c0.7,0,1.4,0.1,2.1,0.3c0.5,0.1,1.1,0.4,1.5,0.8c0.4,0.3,0.7,0.8,0.9,1.3c0.2,0.5,0.3,1.1,0.3,1.7
+	C87.7,19.3,87.6,19.9,87.4,20.6z"></path>
+<path fill="#007DC5" d="M107.7,31.8l-0.4-0.1c-0.2-0.1-0.5-0.1-0.9-0.2V24c0-0.9-0.1-1.7-0.4-2.6c-0.2-0.8-0.6-1.5-1.2-2.1
+	c-0.6-0.6-1.2-1.1-2-1.4c-0.9-0.3-1.8-0.5-2.7-0.5c-2.6,0-5.2,0.9-7.1,2.7l0.7,1.3c0.1,0.2,0.3,0.4,0.5,0.5c0.2,0.1,0.4,0.2,0.7,0.2
+	c0.3,0,0.6,0,0.9-0.2c0.3-0.1,0.6-0.3,0.9-0.5c0.4-0.2,0.8-0.4,1.2-0.5c0.6-0.1,1.1-0.2,1.7-0.2c0.8-0.1,1.6,0.2,2.1,0.8
+	c0.5,0.7,0.8,1.6,0.7,2.5v1c-1.7,0-3.3,0.1-4.9,0.5c-1.1,0.3-2.1,0.7-3.1,1.3c-0.7,0.4-1.3,1-1.7,1.7c-0.3,0.6-0.5,1.2-0.5,1.9
+	c0,0.7,0.1,1.4,0.4,2c0.2,0.5,0.6,1,1,1.4c0.5,0.4,1,0.7,1.6,0.9c0.7,0.2,1.3,0.3,2,0.3c0.6,0.1,1.2,0,1.7-0.1
+	c0.5,0,0.9-0.2,1.4-0.4s0.9-0.4,1.3-0.7c0.5-0.3,0.9-0.6,1.3-1l0.4,1.2c0.1,0.3,0.2,0.5,0.5,0.7s0.6,0.2,0.9,0.2h3.9V33
+	C108.7,32.5,108.3,32,107.7,31.8z M101.7,31.3c-0.3,0.3-0.6,0.4-0.9,0.6c-0.3,0.1-0.7,0.2-1,0.3c-0.4,0.1-0.8,0.1-1.2,0.1
+	c-0.6,0-1.2-0.2-1.7-0.5c-0.4-0.3-0.7-0.9-0.6-1.5c0-0.3,0.1-0.7,0.3-1c0.2-0.3,0.6-0.6,1-0.8c0.6-0.3,1.2-0.5,1.9-0.6
+	c1-0.1,2-0.2,3-0.2l0.1,2.8C102.3,30.8,102,31.1,101.7,31.3z"></path>
+<path fill="#007DC5" d="M111.8,34c-0.8-0.9-1.3-2.2-1.2-3.4V21h-1.7c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.2-0.3-0.4-0.2-0.6v-1.6l2.7-0.4
+	l0.9-4.6c0-0.2,0.1-0.4,0.3-0.5c0.2-0.1,0.4-0.2,0.6-0.2h2.1v5.3h4.5V21h-4.5v9.2c0,0.4,0.1,0.9,0.4,1.2c0.3,0.3,0.7,0.5,1.1,0.4
+	c0.2,0,0.4,0,0.6-0.1s0.3-0.1,0.4-0.2s0.2-0.1,0.3-0.2c0.1-0.1,0.2-0.1,0.3-0.1c0.1,0,0.2,0,0.3,0.1c0.1,0.1,0.2,0.2,0.2,0.3l1.2,2
+	c-0.6,0.5-1.3,0.9-2.1,1.1c-0.8,0.3-1.6,0.4-2.4,0.4C113.9,35.3,112.7,34.8,111.8,34"></path>
+<path fill="#007DC5" d="M140.8,33v1.9h-6.6V24.2c0.1-0.9-0.2-1.7-0.7-2.4c-0.6-0.6-1.4-0.9-2.2-0.9c-0.7,0-1.4,0.2-2,0.5
+	c-0.7,0.3-1.2,0.8-1.8,1.3v9c0.4,0.1,0.7,0.1,1,0.2L129,32h0.2c0.5,0.1,0.9,0.5,0.8,1v2h-9.1v-2c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1
+	c0.2,0,0.6-0.1,1-0.2v-18c-0.4-0.1-0.7-0.1-1-0.2c-0.2,0-0.4-0.1-0.5-0.1s-0.2,0-0.2,0c-0.5-0.1-0.9-0.5-0.8-1v-1.9h6.6v9.4
+	c0.6-0.6,1.4-1.1,2.2-1.5c0.9-0.4,1.8-0.6,2.8-0.6c0.8,0,1.7,0.1,2.5,0.5c0.7,0.3,1.3,0.7,1.8,1.3c0.5,0.6,0.9,1.3,1.1,2
+	c0.3,0.8,0.4,1.7,0.4,2.6v7.5c0.4,0.1,0.7,0.1,1,0.2l0.5,0.1h0.2C140.5,32,140.8,32.5,140.8,33"></path>
+<path fill="#007DC5" d="M162.1,33v1.9h-9.3V33c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1l1-0.2V21H149v10.6c0.4,0.1,0.8,0.1,1,0.2
+	c0.3,0,0.5,0.1,0.6,0.1s0.2,0,0.3,0c0.5,0.1,0.9,0.5,0.8,1v1.9h-9.3V33c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1l1-0.2V21.1l-1.5-0.2
+	c-0.3,0-0.5-0.2-0.8-0.3c-0.2-0.2-0.3-0.4-0.3-0.7v-1.7h2.5v-0.5c0-1,0.2-2,0.5-2.9s0.9-1.7,1.6-2.3c0.8-0.7,1.7-1.2,2.6-1.5
+	c1.2-0.4,2.5-0.6,3.8-0.6c0.2,0,0.4,0,0.6,0c0.1,0,0.2,0,0.2,0h0.1c0.3,0,0.5,0,0.6,0c0.4,0,0.7,0.1,1.1,0.2
+	c1.1,0.2,2.1,0.7,3.1,1.3c0.1,0.1,0.2,0.2,0.3,0.3c0.2,0.2,0.4,0.5,0.5,0.8s0.2,0.7,0.2,1s-0.1,0.7-0.2,1c-0.1,0.3-0.3,0.6-0.6,0.8
+	c-0.2,0.2-0.5,0.4-0.8,0.6c-0.3,0.1-0.7,0.2-1,0.2s-0.7-0.1-1-0.2s-0.6-0.3-0.8-0.6c-0.2-0.2-0.4-0.5-0.6-0.8
+	c-0.1-0.3-0.2-0.7-0.2-1c0-0.1,0-0.3,0-0.4c-1-0.3-2.1-0.3-3,0c-0.6,0.1-1.2,0.4-1.7,0.8c-0.4,0.4-0.8,0.8-1,1.4
+	c-0.2,0.6-0.3,1.3-0.3,1.9v0.4h10.5v13.5c0.4,0.1,0.8,0.1,1,0.2s0.5,0.1,0.6,0.1s0.2,0,0.3,0C161.8,32,162.1,32.5,162.1,33"></path>
+<path fill="#007DC5" d="M183.2,33v1.9h-6.6V24.2c0.1-0.9-0.2-1.7-0.7-2.4c-0.6-0.6-1.4-0.9-2.2-0.9c-0.7,0-1.4,0.2-2,0.5
+	c-0.7,0.3-1.2,0.8-1.8,1.3v9l1,0.2l0.5,0.1c0.1,0,0.2,0,0.2,0c0.5,0.1,0.9,0.5,0.8,1v2h-9.1v-2c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1
+	c0.2,0,0.6-0.1,1-0.2V21.3l-1-0.2c-0.2,0-0.4-0.1-0.5-0.1h-0.2c-0.5-0.1-0.9-0.5-0.8-1v-2h5c0.5,0,0.9,0.3,1,0.7l0.3,1.3
+	c0.3-0.3,0.7-0.7,1.1-1c0.4-0.3,0.8-0.5,1.2-0.7s0.9-0.4,1.4-0.5s1.1-0.2,1.6-0.2c0.8,0,1.7,0.1,2.5,0.5c0.7,0.3,1.3,0.7,1.8,1.3
+	c0.5,0.6,0.9,1.3,1.1,2c0.3,0.8,0.4,1.7,0.4,2.6v7.5c0.4,0.1,0.7,0.1,1,0.2l0.5,0.1h0.2C182.9,32,183.3,32.5,183.2,33"></path>
+<path fill="#007DC5" d="M201.5,32.9c0.1-0.5-0.3-0.9-0.8-1c-0.1,0-0.1,0-0.2,0l-0.4-0.1l-0.8-0.2V10.3h-6.6v1.9
+	c-0.1,0.5,0.3,0.9,0.8,1h0.2l0.5,0.1l1,0.2v5.7c-0.5-0.5-1.1-0.9-1.8-1.2c-0.8-0.3-1.7-0.4-2.5-0.4c-2-0.1-4,0.9-5.3,2.5
+	c-0.7,0.8-1.2,1.8-1.5,2.8c-0.3,1.1-0.5,2.3-0.5,3.5c0,1.3,0.2,2.5,0.5,3.7c0.3,1,0.7,1.9,1.3,2.7c0.5,0.7,1.2,1.3,2,1.7
+	c0.7,0.4,1.6,0.6,2.5,0.6c1.1,0.1,2.1-0.2,3.1-0.7c0.9-0.5,1.7-1.1,2.4-1.9l0.3,1.6c0.1,0.3,0.2,0.5,0.4,0.6
+	c0.2,0.1,0.5,0.2,0.7,0.2h4.8L201.5,32.9z M195.2,30c-0.5,0.6-1.1,1.1-1.7,1.5c-0.7,0.3-1.4,0.5-2.2,0.5c-0.5,0-1-0.1-1.5-0.3
+	s-0.8-0.5-1.1-0.9c-0.3-0.5-0.6-1.1-0.7-1.7c-0.1-0.8-0.2-1.7-0.2-2.5c0-0.9,0.1-1.8,0.3-2.6c0.1-0.6,0.4-1.3,0.8-1.8
+	c0.3-0.5,0.8-0.9,1.3-1.1c0.5-0.2,1.1-0.3,1.7-0.3c0.6,0,1.2,0.1,1.8,0.3c0.6,0.3,1.1,0.7,1.5,1.2V30z"></path>
+<path fill="#007DC5" d="M216.8,22.1c-0.3-0.9-0.8-1.7-1.5-2.4c-0.6-0.7-1.4-1.2-2.3-1.5c-0.9-0.3-1.9-0.5-3.1-0.4
+	c-1.1,0-2.3,0.2-3.4,0.7c-1,0.4-1.9,1-2.6,1.8c-0.7,0.8-1.2,1.7-1.6,2.7c-0.4,1.1-0.6,2.2-0.6,3.3c-0.1,1.3,0.1,2.6,0.6,3.9
+	c0.4,1,1,2,1.8,2.8c0.8,0.7,1.7,1.3,2.7,1.7c1.1,0.4,2.2,0.6,3.3,0.6c0.7,0,1.3,0,1.9-0.1c0.7-0.1,1.3-0.3,1.9-0.5
+	c0.7-0.3,1.2-0.5,1.8-0.9c0.5-0.3,1.1-0.8,1.5-1.3L216,31c-0.1-0.1-0.2-0.2-0.3-0.3c-0.1-0.1-0.2-0.1-0.4-0.1
+	c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.1-0.5,0.3-0.9,0.5c-0.4,0.2-0.9,0.4-1.3,0.5c-0.5,0.1-1.1,0.2-1.7,0.2c-1.3,0.1-2.4-0.4-3.3-1.2
+	c-0.9-1-1.4-2.4-1.4-3.8h10.5c0.2,0,0.4,0,0.5-0.1c0.1,0,0.2-0.1,0.3-0.2c0-0.2,0.1-0.3,0.1-0.5c0-0.3,0-0.5,0-0.8
+	C217.4,24.3,217.2,23.1,216.8,22.1z M206,24.6c0.1-1.1,0.6-2.1,1.3-2.9c0.8-0.7,1.8-1.1,2.8-0.9c0.5,0,1.1,0.1,1.6,0.3
+	c0.4,0.2,0.8,0.4,1.1,0.8c0.3,0.3,0.6,0.7,0.7,1.2s0.2,1,0.2,1.5H206z"></path>
+<path fill="#007DC5" d="M232,18.3l-0.5,3.1c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.1-0.4,0.1c-0.2,0-0.5,0-0.7-0.1
+	c-0.4-0.1-0.8-0.1-1.1-0.1c-0.8,0-1.6,0.2-2.2,0.7c-0.7,0.6-1.2,1.3-1.5,2.1v7.3c1.4,0.2,1.4,0.3,1.7,0.3c0.5,0.1,0.9,0.5,0.8,1V35
+	h-9.1v-2c0-0.5,0.3-1,0.8-1c0.3,0,0.3-0.1,1.7-0.3V21.3c-1.4-0.2-1.4-0.3-1.7-0.3c-0.5-0.1-0.9-0.5-0.8-1v-2h4.9
+	c0.3,0,0.6,0.1,0.9,0.2c0.2,0.2,0.3,0.5,0.3,0.8l0.2,2.1c0.5-1,1.3-1.8,2.1-2.5c0.8-0.6,1.8-0.9,2.8-0.9
+	C230.6,17.7,231.4,17.9,232,18.3"></path>
+<path fill="#007DC5" d="M77.6,41.3h-0.2L77,41.4v6.5c0.2,0,0.3,0.1,0.4,0.1s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.6v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5H75h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7H78V41
+	C78,41.1,77.8,41.3,77.6,41.3L77.6,41.3"></path>
+<path fill="#007DC5" d="M92.7,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v7.7h-0.9c-0.1,0-0.2,0-0.3-0.1
+	c-0.1-0.1-0.2-0.1-0.3-0.2l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7H85
+	c0.1,0,0.1,0,0.2,0h0.1c0,0,0.1,0,0.1,0.1l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7
+	L92.7,40.2"></path>
+<path fill="#007DC5" d="M104.4,40.2v2.1h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.2-0.1-0.5h-1.8v6.3c0.2,0,0.3,0.1,0.4,0.1
+	s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7H99v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.3h-2
+	c0,0.3,0,0.4-0.1,0.5c0,0.1-0.1,0.2-0.3,0.2H97v-2.1H104.4"></path>
+<path fill="#007DC5" d="M115.8,40.2v2.3h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.4-0.1-0.8h-2.9V44h3v1.3h-3v2.5h2.9
+	c0-0.4,0.1-0.7,0.1-0.8s0.1-0.2,0.3-0.2h0.7v2.4h-6.6v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1
+	h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L115.8,40.2"></path>
+<path fill="#007DC5" d="M128.5,48h-0.1h-0.2c-0.1-0.1-0.2-0.1-0.4-0.1l-1.4-2.1c-0.1-0.2-0.3-0.4-0.5-0.5c0.3-0.1,0.5-0.2,0.8-0.4
+	c0.2-0.2,0.4-0.4,0.6-0.6s0.3-0.4,0.4-0.7c0.2-0.6,0.1-1.3-0.1-1.9c-0.1-0.3-0.3-0.6-0.6-0.8c-0.3-0.2-0.7-0.4-1.1-0.5
+	c-0.5-0.1-1.1-0.2-1.6-0.2h-3.6v0.7c0,0.2,0.1,0.4,0.3,0.4h0.1h0.2l0.4,0.1v6.5c-0.2,0.1-0.3,0.1-0.4,0.1c-0.1,0-0.2,0-0.2,0H121
+	c-0.2,0-0.3,0.2-0.3,0.4v0.7h3.5v-0.7c0-0.2-0.1-0.4-0.3-0.4h-0.1c0,0-0.1,0.1-0.2,0c-0.1-0.1-0.2-0.1-0.4-0.1v-2.3h0.6
+	c0.2,0,0.3,0,0.4,0.1c0.1,0,0.1,0.1,0.2,0.2l1.9,2.9c0.1,0.1,0.2,0.1,0.3,0.2c0.1,0.1,0.3,0.1,0.4,0.1h1.7v-0.7
+	C128.7,48.2,128.6,48,128.5,48z M124.9,44.4c-0.2,0.1-0.5,0.1-0.8,0.1h-1v-3h1c0.5,0,1,0.1,1.4,0.4c0.4,0.2,0.5,0.6,0.5,1
+	c0,0.2,0,0.4-0.1,0.6c0,0.2-0.2,0.4-0.3,0.5C125.5,44.1,125.3,44.3,124.9,44.4z"></path>
+<path fill="#007DC5" d="M143,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v7.7h-0.9c-0.1,0-0.2,0-0.3-0.1s-0.2-0.1-0.3-0.2
+	l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1
+	c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h1.8c0.1,0,0.1,0,0.2,0h0.1c0,0,0.1,0,0.1,0.1
+	l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L143,40.2"></path>
+<path fill="#007DC5" d="M156.9,48.3c-0.1,0-0.3-0.1-0.7-0.3l-3-7.7h-1.7l-3,7.7c-0.4,0.2-0.6,0.3-0.7,0.3c-0.1,0-0.2,0.2-0.2,0.3
+	v0.6h3v-0.6c0-0.1-0.1-0.3-0.2-0.3c0,0-0.1,0-0.2-0.1v-0.1l0.5-1.3h3.6l0.4,1.2v0.1c-0.1,0.1-0.2,0.1-0.2,0.1
+	c-0.1,0-0.2,0.2-0.2,0.3v0.6h3v-0.6C157.3,48.3,157.2,48.2,156.9,48.3z M151.1,45.6l0.9-2.8c0.1-0.2,0.1-0.3,0.2-0.5
+	s0.1-0.4,0.2-0.6c0.1,0.2,0.1,0.4,0.2,0.6c0.1,0.2,0.2,0.4,0.2,0.5l1,2.8H151.1z"></path>
+<path fill="#007DC5" d="M168.4,40.2v2.1h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.2-0.1-0.5h-1.8v6.3c0.2,0,0.3,0.1,0.4,0.1
+	s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7H163v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.3h-2
+	c0,0.3,0,0.4-0.1,0.5c0,0.1-0.1,0.2-0.3,0.2h-0.7v-2.1H168.4"></path>
+<path fill="#007DC5" d="M176.4,41.3h-0.2l-0.4,0.1v6.5c0.2,0,0.3,0.1,0.4,0.1h0.2h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.6v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h3.6v0.7
+	C176.8,41.1,176.6,41.3,176.4,41.3L176.4,41.3"></path>
+<path fill="#007DC5" d="M190.4,42.9c-0.2-0.5-0.5-1-0.9-1.4c-0.4-0.5-0.9-0.8-1.4-1c-0.6-0.2-1.3-0.3-1.9-0.3
+	c-0.7,0-1.3,0.1-1.9,0.3c-0.5,0.3-1,0.6-1.4,1c-0.4,0.4-0.7,0.9-0.9,1.4c-0.4,1.1-0.4,2.4,0,3.6c0.2,0.5,0.5,1,0.9,1.4
+	c0.4,0.5,0.9,0.8,1.4,1c1.2,0.5,2.5,0.5,3.7,0c0.5-0.3,1-0.6,1.4-1c0.4-0.4,0.7-0.9,0.9-1.4C190.7,45.3,190.7,44,190.4,42.9z
+	 M188.7,45.9c-0.2,0.4-0.3,0.7-0.6,1c-0.3,0.3-0.6,0.5-0.9,0.6c-0.8,0.3-1.6,0.3-2.4,0c-0.3-0.1-0.7-0.3-0.9-0.6
+	c-0.3-0.3-0.5-0.6-0.6-1c-0.3-0.8-0.3-1.7,0-2.6c0.2-0.4,0.3-0.7,0.6-1c0.2-0.3,0.6-0.5,0.9-0.6c0.8-0.3,1.6-0.3,2.4,0
+	c0.3,0.1,0.7,0.3,0.9,0.6c0.3,0.3,0.5,0.6,0.6,1C188.9,44.2,188.9,45.1,188.7,45.9z"></path>
+<path fill="#007DC5" d="M204.8,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4c0,0,0,0-0.1,0h-0.2l-0.4,0.1v7.7H203c-0.1,0-0.2,0-0.3-0.1
+	s-0.2-0.1-0.3-0.2l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7c0-0.2,0.1-0.4,0.3-0.4
+	h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h1.8c0.1,0,0.1,0,0.2,0h0.1
+	c0,0,0.1,0,0.1,0.1l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L204.8,40.2"></path>
+<path fill="#007DC5" d="M218.8,48.3c-0.1,0-0.3-0.1-0.7-0.3l-3-7.7h-1.7l-3,7.7c-0.4,0.2-0.6,0.3-0.7,0.3c-0.1,0-0.2,0.2-0.2,0.3
+	v0.6h3v-0.6c0-0.1-0.1-0.3-0.2-0.3c0,0-0.1,0-0.2-0.1v-0.1l0.5-1.3h3.6l0.4,1.2v0.1c-0.1,0.1-0.2,0.1-0.2,0.1
+	c-0.1,0-0.2,0.2-0.2,0.3v0.6h3v-0.6C219.2,48.3,219.1,48.2,218.8,48.3z M213,45.6l0.9-2.8c0.1-0.2,0.1-0.3,0.2-0.5
+	c0.1-0.2,0.1-0.4,0.2-0.6c0.1,0.2,0.1,0.4,0.2,0.6s0.1,0.4,0.2,0.5l1,2.8H213z"></path>
+<path fill="#007DC5" d="M230.5,47v2.1H224v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1
+	c-0.2,0-0.3-0.2-0.3-0.4v-0.7h3.5v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v6.3h2.9c0-0.3,0-0.5,0.1-0.5c0-0.1,0.1-0.2,0.3-0.2
+	L230.5,47"></path>
+<path fill="#8F53A1" d="M17.8,19.4c3.8,3.5,10.3,6.4,10.3,6.4c0.8,0,1.4-0.5,1.2-2.4c-0.3-3.5-3.9-7.9,1.6-10.1
+	c6.1-1.5,6,3.8,6.1,5.5s0,3.9-1.9,4.3c-1.3,0.3-2.2,1.5-2.1,2.8c0.1,1.3,0.4,2.7,2.3,2c1.4-0.5,2.6-1.2,3.7-2.2
+	c3.4-2.4,8.2-10.4,10.1-18.6c-4.5-3.3-11.9-7.4-20.7-7c-1,0-1.9,0.1-2.9,0.3C20.5,0.9,12.3,4,9.6,6.5C9.1,7,8.6,7.4,8.1,7.9
+	C10.4,14.1,15.7,17.5,17.8,19.4"></path>
+<path fill="#007DC5" d="M44.9,25.1C41.3,33.2,39,36.2,39,41.8c0,3.4,1.4,8.4,2.8,12.2c8.3-3.9,14.2-14.1,15.5-23.6
+	c1.3-9.9-2.7-18.8-5.7-21.4C50.2,13.5,46.8,20.6,44.9,25.1"></path>
+<path fill="#007DC5" d="M26.3,41.3c0-2.7,0.1-8.1-1.5-10.1c-1.1-1.4-4.5-4.8-5-5.3c-3.6-3.9-7.3-6.8-10.1-10.2
+	C8.1,13.8,7,11.6,6.3,9.3c-6,5.5-8.3,13.9-4.4,28.4C6,52.8,18.8,55.2,24,56C24.2,54.8,26.3,45,26.3,41.3"></path>
+</svg>
+</a>
+            </div>
+            <nav class="mainNav">
+	<div class="menu-main-nav-container"><ul id="menu-main-nav" class=""><li id="menu-item-1120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1120"><a href="#">About Us</a>
+<ul class="sub-menu">
+<div class="sub-menu__wrap" <li="" id="menu-item-48"><a href="http://www.pathfinder.org/about-us/who-we-are/">Who We Are</a>
+	<li id="menu-item-2641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2641"><a href="http://www.pathfinder.org/about-us/our-history/">Our History</a></li>
+	<li id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399"><a href="http://www.pathfinder.org/staff-members/">Meet Our Team</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://www.pathfinder.org/about-us/explore-annual-reports/">Financials &amp; Accountability</a></li>
+	<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://www.pathfinder.org/about-us/join-our-team/">Join Our Team</a></li>
+</div>	<div id="subNavSection__about_us" class="subNavSection">
+					<a href="https://medium.com/@PathfinderInt/8-things-everyone-should-know-about-contraceptive-implants-iuds-c5a3ed27a085#.yfeg85dmo"><img src="http://www.pathfinder.org/wp-content/uploads/2016/09/Pathfinder-Ethiopia-2014-Sala-Lewis-Verve-2014-755-218x115.jpg"></a>
+		
+					<a href="https://medium.com/@PathfinderInt/8-things-everyone-should-know-about-contraceptive-implants-iuds-c5a3ed27a085#.yfeg85dmo"><h2 class="subNavSection__title">8 Things Everyone Should Know About Contraceptive Implants &amp; IUDs</h2></a>
+		
+					<div class="subNavSection__description">
+				<p>Because real contraceptive choice for young people means all methods, help us share the facts about long-acting reversible contraceptive methods.</p>
+			</div>
+			</div>
+	
+	</ul>
+</li>
+<li id="menu-item-1121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1121"><a href="#">Work &amp; Impact</a>
+<ul class="sub-menu">
+<div class="sub-menu__wrap" <li="" id="menu-item-51"><a href="http://www.pathfinder.org/work-impact/where-we-work/">Where We Work</a>
+	<li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61"><a href="http://www.pathfinder.org/impact-stories">Our Impact</a></li>
+	<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://www.pathfinder.org/work-impact/our-projects/">Our Projects</a></li>
+</div><ul class="focusAreaMenuItems"><h2><a href="http://www.pathfinder.org/work-impact/what-we-do">What We Do</a></h2>										<li>
+						<a href="http://www.pathfinder.org/focus-areas/adolescents-youth">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.2px" height="47.8px" viewBox="0 0 56.2 47.8" enable-background="new 0 0 56.2 47.8" xml:space="preserve">
+<path id="adolescents-youth.svg" fill="#666666" d="M10.6,8.5c1.6,0.1,3-1,3.1-2.6c0.1-1.6-1-3-2.6-3.1c-1.6-0.1-3,1-3.1,2.6
+	c0,0.1,0,0.2,0,0.2C7.9,7.1,9,8.4,10.6,8.5C10.6,8.5,10.6,8.5,10.6,8.5L10.6,8.5z M17.9,25l0.8-2.4l-2.1-9c-0.8-3.4-2.4-4.2-5.9-4.2
+	c-3.7,0-4.8,1-5.6,4.3L2.1,25.8h2.1L7,15.9l0.3,4.5l-0.6,6.1l1.4,18.6h2.2V29.5H11l0,15.6h2.4l1.1-18.6l-0.7-6.1l0.5-4.6l2.8,9.9
+	l2.2,0v0h0L17.9,25z M44.3,9.2c1.6,0.1,2.9-1.1,2.9-2.7c0.1-1.6-1.1-2.9-2.7-2.9c-1.6-0.1-2.9,1.1-2.9,2.7c0,0,0,0.1,0,0.1
+	C41.5,7.9,42.7,9.2,44.3,9.2C44.3,9.2,44.3,9.2,44.3,9.2L44.3,9.2z M45.7,10.2c-5.9,0-5.9,0-6.9,3.1L36,23.1l0.9,2.6l0.1,0L41,15.2
+	l0.8,3.2l-2.3,11.3h1.1l1.9,15.3h1.3V29.9h1.4v15.2h1.3l1.7-15.3H49l-2.2-11.3l0.9-3.2l4.6,10.6H54l-4.3-12.5
+	C48.9,10.5,48.7,10.2,45.7,10.2L45.7,10.2z M27.2,9.2c1.6,0.1,2.9-1.1,2.9-2.7C30.2,5,29,3.7,27.5,3.6c-1.6-0.1-2.9,1.1-2.9,2.7
+	c0,0,0,0.1,0,0.1C24.5,7.9,25.7,9.2,27.2,9.2L27.2,9.2z M36,23.1l-3.3-9.8c-0.9-2.8-1-3.1-4-3.1c-5.9,0-5.9,0-6.9,3.1l-3.2,9.4
+	l0.7,3L24,15.2l0.8,3.2l-2.3,11.3h1.1l1.9,15.3h1.3V29.9h1.4v15.2h1.3l1.7-15.3H32l-2.2-11.3l0.9-3.2l4.6,10.6h1.6l0,0l-1.4-0.6
+	L36,23.1z M17.9,25l1.5,0.6h0l-0.7-3L17.9,25z M35.5,25.1l1.4,0.6L36,23.1L35.5,25.1z"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Adolescents &amp; Youth</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/advocacy">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="53.8px" height="29px" viewBox="0 0 53.8 29" enable-background="new 0 0 53.8 29" xml:space="preserve">
+<path id="advocacy.svg" fill="#666666" d="M41.3,8.7c0.2,0,0.4,0,0.5-0.1l7.7-4.2C50,4.2,50.2,3.6,50,3l0,0
+	c-0.3-0.5-0.9-0.7-1.4-0.4l-7.7,4.2c-0.5,0.3-0.7,0.9-0.4,1.4C40.6,8.5,40.9,8.7,41.3,8.7z M49.5,21.8l-7.7-4.2
+	c-0.5-0.3-1.2-0.1-1.4,0.4s-0.1,1.2,0.4,1.4l7.7,4.2c0.2,0.1,0.3,0.1,0.5,0.1c0.4,0,0.7-0.2,0.9-0.6C50.2,22.7,50.1,22.1,49.5,21.8
+	L49.5,21.8z M50.5,12.1h-9.1c-0.6,0-1.1,0.5-1.1,1.1s0.5,1.1,1.1,1.1h9.1c0.6,0,1.1-0.5,1.1-1.1S51.1,12.1,50.5,12.1L50.5,12.1z
+	 M34.8,1.9c-0.4,0-0.8,0.3-0.8,0.7V3c-4.7,3.7-10.4,5.7-16.4,5.8H5.8l0,0c-1.9,0-3.5,2.1-3.5,4.7s1.6,4.7,3.5,4.7l0,0h2.8l1.4,7.5
+	c0,0.8,0.6,1.4,1.4,1.4h3.3c0.7,0,1.4-0.5,1.4-1.3v-0.1l-0.8-4.4h0.6c0.3,0.1,0.7-0.1,0.8-0.4s0-0.7-0.2-0.9
+	c-0.4-0.5-0.6-1.1-0.6-1.8h2.2c5.9,0,11.5,2,16.1,5.6v0.6c0,0.4,0.4,0.8,0.8,0.8c0.4,0,0.8-0.3,0.8-0.7V2.6
+	C35.6,2.2,35.2,1.9,34.8,1.9z"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Advocacy</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/contraception-family-planning">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="63.2px" height="49.5px" viewBox="0 0 63.2 49.5" enable-background="new 0 0 63.2 49.5" xml:space="preserve">
+<g>
+	<path fill="#666666" d="M35.4,4.2c0.9,0.1,1.7-0.2,1.9-0.7l5.4,0.8c0.1,0.1,0.3,0.2,0.5,0.3L45.4,5l-0.5,3.4c-0.1,0-0.2,0-0.2,0
+		c-0.1,0.4-0.2,0.7-1,1.4L41,27.1c0,0,0.6,0.6,0.5,1.3l0.4,0.1L41.9,29c-0.5,0.2-0.8,0.7-0.9,1.3l-0.2,1.2c-0.1,0.6,0.1,1.2,0.5,1.5
+		c-0.4,1.1-1.6,3.6-3.3,6.3l0.6,0.1c1.3-2.2,2.5-4.3,3-5.6c0.1,1.4,0.6,3.7,1.2,6.3l0.6,0.1c-0.8-3-1.2-5.7-1.3-6.9
+		c0.6-0.1,1.1-0.6,1.2-1.4l0.2-1.2c0.1-0.6-0.1-1.2-0.5-1.5l0.1-0.6l0.4,0.1c0.1-0.7,0.9-1.1,0.9-1.1L47,10.3
+		c-0.6-0.9-0.6-1.3-0.6-1.7c0,0-0.1-0.1-0.2-0.1l0.5-3.4l2.1,0.3c0.2,0,0.4,0,0.5-0.1L55,6.2c0.1,0.5,0.7,1.1,1.6,1.2
+		c1,0.2,1.9-0.1,2-0.7S57.9,5.5,57,5.3c-0.1,0-0.2,0-0.2,0l0,0l-7.1-1.1C49.5,4,49.3,4,49.1,3.9l-5.7-0.9c-0.2,0-0.4,0-0.5,0.1
+		l-7-1.1l0,0c-0.1,0-0.2,0-0.2,0c-1-0.1-1.9,0.3-1.9,0.9C33.7,3.6,34.4,4.1,35.4,4.2z M41.8,30.5c0.1-0.4,0.3-0.7,0.5-0.6
+		c0.2,0,0.4,0.4,0.3,0.8l-0.2,1.2c-0.1,0.4-0.3,0.7-0.5,0.6c-0.2,0-0.4-0.4-0.3-0.8L41.8,30.5z"></path>
+	<path fill="#666666" d="M37.9,23.1l-4-12.9C33.5,8.8,32,8,30.6,8.5l-24,7.4c-1.4,0.4-2.2,1.9-1.8,3.3l4,12.9
+		c0.4,1.4,1.9,2.2,3.3,1.8l24-7.4C37.5,26,38.3,24.5,37.9,23.1z M33.4,15.2c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		c-0.6,0.2-1.2-0.1-1.4-0.7c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0C32.8,14.4,33.3,14.8,33.4,15.2z M30.9,10.7
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5c-0.6,0.2-1.2-0.1-1.4-0.7
+		C30,11.5,30.3,10.9,30.9,10.7z M29.5,16.5c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5c-0.6,0.2-1.2-0.1-1.4-0.7
+		c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0C28.9,15.7,29.4,16,29.5,16.5z M26.3,12.5
+		c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		c-0.6,0.2-1.2-0.1-1.4-0.7C26.2,13,26.2,12.7,26.3,12.5z M25.7,17.7c0.2,0.6-0.1,1.2-0.7,1.4c-0.6,0.2-1.2-0.1-1.4-0.7
+		c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0C25.1,16.9,25.5,17.2,25.7,17.7z M23.1,13.2
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5c-0.6,0.2-1.2-0.1-1.4-0.7
+		C22.2,14,22.5,13.4,23.1,13.2z M21.8,18.9c0.2,0.6-0.1,1.2-0.7,1.4c-0.6,0.2-1.2-0.1-1.4-0.7c-0.2-0.6,0.1-1.2,0.7-1.4
+		c0.1,0,0.2,0,0.3,0C21.2,18.1,21.6,18.4,21.8,18.9z M18.6,14.9c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8
+		c0.2,0.6-0.1,1.2-0.7,1.4c-0.6,0.2-1.2-0.1-1.4-0.7C18.4,15.5,18.4,15.2,18.6,14.9z M17.9,20.1c0.2,0.6-0.1,1.2-0.7,1.4
+		c-0.6,0.2-1.2-0.1-1.4-0.7c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0C17.3,19.4,17.7,19.7,17.9,20.1z M14.7,16.2
+		c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		c-0.6,0.2-1.2-0.1-1.4-0.7C14.5,16.7,14.5,16.4,14.7,16.2z M14,21.4c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		c-0.6,0.2-1.2-0.1-1.4-0.7c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0C13.4,20.6,13.8,20.9,14,21.4z M10.8,17.4
+		c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.2,0.6-0.1,1.2-0.7,1.4c-0.6,0.2-1.2-0.1-1.4-0.7
+		C10.6,18,10.7,17.7,10.8,17.4z M6.8,19.5c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0
+		c0.5,0,0.9,0.3,1.1,0.8c0.2,0.6-0.1,1.2-0.7,1.4C7.6,20.4,7,20,6.8,19.5z M8,23.3C7.9,23,8,22.7,8.1,22.4c0.1-0.3,0.4-0.4,0.6-0.5
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.2,0.6-0.1,1.2-0.7,1.4C8.8,24.1,8.2,23.8,8,23.3z M9.2,27c-0.1-0.3-0.1-0.6,0.1-0.8
+		c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		C10,27.9,9.4,27.6,9.2,27z M11.8,31.5c-0.6,0.2-1.2-0.1-1.4-0.7c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8C12.7,30.7,12.4,31.4,11.8,31.5z M13.1,25.8c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0
+		c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5C13.9,26.7,13.3,26.4,13.1,25.8z M15.7,30.3
+		c-0.6,0.2-1.2-0.1-1.4-0.7c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8
+		C16.6,29.5,16.2,30.1,15.7,30.3z M17,24.6c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8
+		c0.2,0.6-0.1,1.2-0.7,1.4C17.8,25.5,17.2,25.1,17,24.6z M19.6,29.1c-0.6,0.2-1.2-0.1-1.4-0.7c-0.1-0.3-0.1-0.6,0.1-0.8
+		c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8C20.5,28.3,20.1,28.9,19.6,29.1z M20.9,23.3
+		c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.1,0.3,0.1,0.6-0.1,0.8c-0.1,0.3-0.4,0.4-0.6,0.5
+		C21.7,24.2,21.1,23.9,20.9,23.3z M23.5,27.8c-0.6,0.2-1.2-0.1-1.4-0.7c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8C24.3,27.1,24,27.7,23.5,27.8z M24.8,22.1c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0
+		c0.5,0,0.9,0.3,1.1,0.8c0.2,0.6-0.1,1.2-0.7,1.4C25.6,23,25,22.7,24.8,22.1z M28,26.1c-0.1,0.3-0.4,0.4-0.6,0.5
+		c-0.6,0.2-1.2-0.1-1.4-0.7c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8
+		C28.1,25.5,28.1,25.8,28,26.1z M28.7,20.9c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8
+		c0.2,0.6-0.1,1.2-0.7,1.4C29.5,21.8,28.8,21.4,28.7,20.9z M31.9,24.9c-0.1,0.3-0.4,0.4-0.6,0.5c-0.6,0.2-1.2-0.1-1.4-0.7
+		c-0.1-0.3-0.1-0.6,0.1-0.8c0.1-0.3,0.4-0.4,0.6-0.5c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8C32,24.3,32,24.6,31.9,24.9z
+		 M32.6,19.7c-0.2-0.6,0.1-1.2,0.7-1.4c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8c0.2,0.6-0.1,1.2-0.7,1.4
+		C33.4,20.5,32.7,20.2,32.6,19.7z M35.8,23.6c-0.1,0.3-0.4,0.4-0.6,0.5c-0.6,0.2-1.2-0.1-1.4-0.7c-0.2-0.6,0.1-1.2,0.7-1.4
+		c0.1,0,0.2,0,0.3,0c0.5,0,0.9,0.3,1.1,0.8C35.9,23.1,35.9,23.4,35.8,23.6z"></path>
+	<g>
+		<path fill="#666666" d="M19.8,39.3c0,0,0,0.1-0.1,0.1C19.8,39.3,19.8,39.3,19.8,39.3z"></path>
+		<g>
+			<path fill="#666666" d="M39.7,45.7L19.6,38c0,0-0.2-0.1-0.2-0.1c0,0,0,0,0.1,0.1c0,0,0,0,0.1,0c0,0,0.1,0.1,0.1,0.1
+				c0.2,0.2,0.3,0.6,0.2,0.9l-0.1,0.2c0,0,0,0.1-0.1,0.1c-0.1,0.2-0.4,0.4-0.6,0.4c-0.1,0-0.1,0-0.2,0c0,0-0.2,0-0.2,0l20.4,7.6
+				c0.4,0.2,0.9-0.1,1-0.5l0.1-0.2C40.3,46.4,40.1,45.9,39.7,45.7z"></path>
+			<path fill="#666666" d="M19.7,39.4c0,0,0-0.1,0.1-0.1l0.1-0.2c0.1-0.3,0-0.7-0.2-0.9c0,0-0.1-0.1-0.1-0.1c0,0,0,0-0.1,0
+				c0,0-0.1-0.1-0.2-0.1l-0.1,0c-0.5-0.2-1,0.1-1.2,0.5l-0.1,0.2c-0.2,0.5,0.1,1,0.5,1.1l0.1,0c0.1,0,0.2,0,0.2,0c0.1,0,0.1,0,0.2,0
+				C19.4,39.8,19.6,39.6,19.7,39.4z"></path>
+		</g>
+	</g>
+	<g>
+		<path fill="#C1C1C1" d="M19.2,27c-0.1,0-0.2,0-0.3,0c-0.3,0.1-0.5,0.3-0.6,0.5c-0.1,0.3-0.2,0.6-0.1,0.8c0.2,0.6,0.8,0.9,1.4,0.7
+			c0.6-0.2,0.9-0.8,0.7-1.4C20.1,27.2,19.7,26.9,19.2,27z"></path>
+		<path fill="#C1C1C1" d="M23.1,25.7c-0.1,0-0.2,0-0.3,0c-0.3,0.1-0.5,0.3-0.6,0.5c-0.1,0.3-0.2,0.6-0.1,0.8
+			c0.2,0.6,0.8,0.9,1.4,0.7c0.6-0.2,0.9-0.8,0.7-1.4C24,26,23.6,25.7,23.1,25.7z"></path>
+		<path fill="#C1C1C1" d="M27,24.5c-0.1,0-0.2,0-0.3,0c-0.3,0.1-0.5,0.3-0.6,0.5c-0.1,0.3-0.2,0.6-0.1,0.8c0.2,0.6,0.8,0.9,1.4,0.7
+			c0.3-0.1,0.5-0.3,0.6-0.5c0.1-0.3,0.2-0.6,0.1-0.8C27.9,24.8,27.5,24.5,27,24.5z"></path>
+		<path fill="#C1C1C1" d="M30.8,23.3c-0.1,0-0.2,0-0.3,0c-0.3,0.1-0.5,0.3-0.6,0.5c-0.1,0.3-0.2,0.6-0.1,0.8
+			c0.2,0.6,0.8,0.9,1.4,0.7c0.3-0.1,0.5-0.3,0.6-0.5c0.1-0.3,0.2-0.6,0.1-0.8C31.8,23.5,31.3,23.2,30.8,23.3z"></path>
+		<path fill="#C1C1C1" d="M34.7,22c-0.1,0-0.2,0-0.3,0c-0.6,0.2-0.9,0.8-0.7,1.4c0.2,0.6,0.8,0.9,1.4,0.7c0.3-0.1,0.5-0.3,0.6-0.5
+			c0.1-0.3,0.2-0.6,0.1-0.8C35.7,22.3,35.2,22,34.7,22z"></path>
+	</g>
+</g>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Contraception &amp; Family Planning</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/hiv-aids">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="49.5px" viewBox="0 0 30 49.5" enable-background="new 0 0 30 49.5" xml:space="preserve">
+<path id="HIV-AIDS.svg" fill="#666666" d="M15.8,35c4.6,7.7,9.3,13.9,9.3,13.9l4.1-10.4c0,0-4.8-5.4-9.8-12.1
+	C18.4,29.3,17.1,32.2,15.8,35L15.8,35z M23.1,14.8c0.7-4.7-1.7-14.2-8-14.2c-6.3,0-8.8,9.5-8.1,14.2c0.7,3.9,2.1,7.7,3.9,11.3
+	c-5.1,6.9-10,12.4-10,12.4l4.1,10.4c0,0,9.6-13,14.5-23.4C21.1,22.1,22.4,18.5,23.1,14.8L23.1,14.8z M8.9,8.6
+	c1.7-1.5,3.9-2.4,6.2-2.4c2.2,0,4.4,0.9,6.1,2.4c-1.5,4.1-3.6,8-6.1,11.6C12.5,16.6,10.4,12.7,8.9,8.6L8.9,8.6z"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">HIV &amp; AIDS</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/maternal-newborn-health">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50.7px" height="50.7px" viewBox="0 0 50.7 50.7" enable-background="new 0 0 50.7 50.7" xml:space="preserve">
+<path id="maternal-health.svg" fill="#666666" d="M25.4,17c3.7,0.2,6.8-2.7,7-6.4s-2.7-6.8-6.4-7s-6.8,2.7-7,6.4c0,0.1,0,0.2,0,0.3
+	C18.9,13.9,21.6,16.9,25.4,17z M38.6,27.2c-1.2-5.4-2.4-7.2-7.4-7.8c-1.1-0.1-4-0.2-5.9-0.2s-4.8,0.1-5.9,0.2
+	c-5,0.6-6.2,2.3-7.4,7.8L9.3,38.3c-0.4,1.6-0.3,2.4,1.2,3L24,47.2l16.2-5.8c1.5-0.6,1.6-1.5,1.2-3L38.6,27.2z M15.5,37.8l1.6-6.4
+	l0.1,7.3L15.5,37.8z M36.8,33c-0.7,2.3-1.4,2.4-1.8,3.5c-0.3,0.5-0.4,1.1-0.5,1.7l-11.4,5c-0.4-3.5,0.6-7,2.9-9.7
+	c0.5-0.6,0.8-0.5,1.3-3.3c0.4-2.6,2.8-4.4,5.4-4c0.4,0.1,0.8,0.2,1.2,0.4C36.3,27.7,37.6,30.5,36.8,33L36.8,33z M29.1,28.5
+	c-0.2,0.2-0.3,0.5-0.4,0.8c-0.7,1.6-0.1,3.5,1.4,4.3c1.4,0.7,3.1,0,3.8-1.4c0-0.1,0.1-0.2,0.1-0.3c0.1-0.1,0.2-0.7,0.3-0.8
+	C33.3,28.5,31.1,28,29.1,28.5L29.1,28.5z"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Maternal &amp; Newborn Health</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/population-health-environment">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50.7px" height="50.7px" viewBox="0 0 50.7 50.7" enable-background="new 0 0 50.7 50.7" xml:space="preserve">
+<path id="population-health-environment.svg" fill="#666666" d="M40.6,12c-3.7-4-9.3-6.2-15.8-6.1c-7.9,0.1-19,6.9-19,17.8
+	c0,7.7,3.2,14.3,8.7,18c3.1,2.1,6.7,3.1,10.4,3.1c2.5,0,5-0.5,7.3-1.4c3.1-1.2,5.8-3.2,7.9-5.7c2.5-2.9,4.1-6.6,4.5-10.5
+	c0.1-0.7,0.2-1.3,0.2-2C45.3,20.1,43.8,15.5,40.6,12z M43.5,24.8c-0.8-0.2-1.6-0.2-2.4,0c-1-0.7-2.3-0.7-3.4-0.1v-3
+	c0-0.7,0.4-2,2.3-2.7c0.9-0.3,1.8-0.7,2.7-1.1C43.4,20.2,43.7,22.5,43.5,24.8L43.5,24.8z M39.1,14.1l0.1,0.1
+	c0.3-0.1,0.6-0.1,0.9-0.2c0.3,0.5,0.8,0.9,1.3,1.2c0.3,0.5,0.6,1.1,0.8,1.6c-0.7,0.5-1.4,0.8-2.2,1c-1.6,0.5-2.4,1.2-2.9,1.9
+	c-0.1-0.6-0.2-1.2-0.4-1.7C37,16.4,37.8,15,39.1,14.1L39.1,14.1z M36,14.3L36,14.3z M36,14.4c0.1,0,0.2,0,0.2,0c0.4,0,0.8,0,1.2,0
+	c-0.6,0.7-1,1.5-1.3,2.3c-0.3-0.6-0.8-1.1-1.3-1.5C35.3,14.9,35.6,14.6,36,14.4L36,14.4z M36.1,19.7c-1.2-1.4-2.6-2.6-4.3-3.4
+	c0.7-0.2,1.3-0.4,2-0.7C35,16.6,35.9,18.1,36.1,19.7L36.1,19.7z M31.7,42.2c-8.9,3.7-19.1-0.5-22.8-9.4c-0.2-0.5-0.4-1-0.5-1.5
+	c1.1-0.1,2-0.5,2.4-1.1c0.5,0.7,1.6,1.1,2.9,1.1c1.3,0,2.5-0.5,2.9-1.2c0.4,0.7,1.6,1.2,2.9,1.2c1.3,0,2.4-0.5,2.9-1.1
+	c0.5,0.7,1.6,1.1,2.9,1.1c1.3,0,2.4-0.5,2.9-1.1c0.5,0.7,1.6,1.1,2.9,1.1c1.3,0,2.4-0.5,2.9-1.1c0.5,0.7,1.6,1.1,2.9,1.1
+	c1.3,0,2.5-0.5,2.9-1.2c0.4,0.7,1.5,1.1,2.7,1.2C40.7,35.2,37.7,39.9,31.7,42.2L31.7,42.2z M39.7,29.9l-0.1-0.1h-0.5l-0.1,0.1
+	c-0.3,0.6-1.4,1.1-2.6,1.1s-2.3-0.5-2.6-1.1l-0.1-0.1h-0.5l-0.1,0.1C33.1,30.5,32,31,30.8,31s-2.3-0.5-2.6-1.1l-0.1-0.1h-0.5
+	l-0.1,0.1c-0.3,0.6-1.4,1.1-2.6,1.1s-2.3-0.5-2.6-1.1l-0.1-0.1H22l-0.1,0.1c-0.3,0.6-1.4,1.1-2.6,1.1c-1.2,0-2.3-0.5-2.6-1.1
+	l-0.1-0.1h-0.5l-0.1,0.1c-0.3,0.6-1.4,1.1-2.6,1.1s-2.3-0.5-2.6-1.1l-0.1-0.1h-0.5l-0.1,0.1c-0.2,0.6-1.1,1-2.2,1.1
+	c-0.7-2.4-1.1-4.8-1.1-7.3c0-10.1,10.3-16.5,17.7-16.5c2.5,0,4.9,0.3,7.3,1c-1,0.5-2,1.3-2.9,3.3c-1.6,0.1-4.6,2-5.5,4.5
+	c2.1,1,4.5,1.3,6.7,0.9c2.6,1,5.1,3.1,5.8,5.3c0,0.4,0,0.8,0,0.8v2.1c-0.6-0.5-1.4-0.8-2.1-0.8c-1,0-1.9,0.4-2.5,1.1
+	c-1.7-0.3-3.5,0.4-4.4,1.9h16.1c-0.2,1.2-0.5,2.5-0.9,3.6C41.1,31,40,30.5,39.7,29.9L39.7,29.9z M43.7,31c-0.1,0.2-0.1,0.3-0.2,0.5
+	c0,0,0,0.1,0,0.1c-0.2,0.5-0.4,1-0.6,1.5c0,0.1-0.1,0.1-0.1,0.2c-0.1,0.2-0.2,0.4-0.3,0.5c0,0.1-0.1,0.2-0.1,0.2c0,0,0,0,0,0
+	c0.8-1.5,1.4-3.1,1.8-4.7C44,30,43.8,30.5,43.7,31L43.7,31z M36,14.3L36,14.3z M29.8,36.8c-3.2,0-4.6,1.6-4.8,1.9l-2-1.7v3.6l2-1.7
+	c0.2,0.2,1.7,1.9,4.8,1.9c3.3,0,4.8-1.9,4.8-1.9C33.4,37.5,31.6,36.8,29.8,36.8L29.8,36.8z M32.5,38.5c-0.2,0-0.3-0.1-0.3-0.3
+	c0-0.2,0.1-0.3,0.3-0.3c0.2,0,0.3,0.1,0.3,0.3l0,0C32.9,38.4,32.7,38.5,32.5,38.5C32.6,38.5,32.5,38.5,32.5,38.5L32.5,38.5z
+	 M19.5,34.1c-2.2,0-3.2,1.1-3.3,1.3l-1.4-1.2v2.4l1.4-1.2c0.1,0.2,1.2,1.3,3.3,1.3c2.3,0,3.4-1.3,3.4-1.3
+	C22,34.5,20.8,34.1,19.5,34.1L19.5,34.1z M21.2,35.4c-0.1,0-0.3-0.1-0.3-0.3c0-0.1,0.1-0.3,0.3-0.3c0.1,0,0.3,0.1,0.3,0.3
+	C21.5,35.2,21.4,35.4,21.2,35.4L21.2,35.4z M14.8,16.6c0.5,0,0.9-0.3,0.9-0.8c0-0.5-0.3-0.9-0.8-0.9c-0.5,0-0.9,0.3-0.9,0.8
+	c0,0,0,0,0,0C13.9,16.2,14.3,16.6,14.8,16.6C14.8,16.6,14.8,16.6,14.8,16.6L14.8,16.6z M19.9,16.4c0.5,0,0.9-0.3,0.9-0.8
+	c0-0.5-0.3-0.9-0.8-0.9c-0.5,0-0.9,0.3-0.9,0.8c0,0,0,0,0,0C19.1,16,19.4,16.4,19.9,16.4C19.9,16.4,19.9,16.4,19.9,16.4L19.9,16.4z
+	 M19.9,16.7c-1.1,0-1.5,0.3-1.7,1.3l-0.7,2.9l-1-3c-0.3-0.8-0.3-0.9-1.2-0.9c-1.8,0-1.8,0-2.1,0.9l-1,3.4l0.5,0.2l1.3-3l0.2,1
+	l-0.7,3.4h0.3l0.6,4.5h0.4v-4.5H15v4.5h0.4l0.5-4.5h0.3l-0.7-3.4l0.3-1l1.4,3.1h0.8l0.8-2.9l0.1,1.3l-0.2,1.8l0.4,5.5h0.7v-4.6H20
+	v4.6h0.7l0.3-5.5l-0.2-1.8l0.2-1.4l0.8,3l0.6-0.1l-0.8-3.5C21.5,16.9,21,16.7,19.9,16.7L19.9,16.7z M42.3,34.2
+	C42.3,34.2,42.3,34.2,42.3,34.2c0.1-0.1,0.1-0.2,0.1-0.3c0.1-0.2,0.2-0.4,0.3-0.5c0-0.1,0.1-0.1,0.1-0.2c0.2-0.5,0.4-1,0.6-1.5
+	c0,0,0-0.1,0-0.1c0.1-0.2,0.1-0.3,0.2-0.5h0c0.2-0.5,0.3-1,0.4-1.5C43.7,31.1,43.1,32.7,42.3,34.2L42.3,34.2z"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Population, Health, &amp; Environment</span>
+						</a>
+					</li>
+														<li>
+						<a href="http://www.pathfinder.org/focus-areas/safe-abortion-care">
+							<div class="focusAreaMenuItems__icon">
+								<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56.7px" height="56.7px" viewBox="0 0 56.7 56.7" enable-background="new 0 0 56.7 56.7" xml:space="preserve">
+<path id="safe-abortion.svg" fill="#666666" d="M28.9,9.7c1.9,0.1,3.5-1.4,3.6-3.3s-1.4-3.5-3.3-3.6c-1.9-0.1-3.5,1.4-3.6,3.3v0.1
+	C25.6,8.1,27.1,9.6,28.9,9.7L28.9,9.7z M28.7,10.8L28.7,10.8C27,10.7,25.4,11,24,11.7l-12.3,6.4l0.8,1.7l11-4.7l1.3,6l-4.7,22.3h5.3
+	l1.1,11.2h1.6V43.4h1.4v11.2h1.6l1.1-11.2h5.3l-4.8-22.2v-0.1l1.3-6l11,4.7l0.7-1.7l-12.3-6.4C31.8,11,30.3,10.7,28.7,10.8z
+	 M28.6,29.6c-2,0.1-3.8-1.4-3.9-3.5c-0.1-2,1.4-3.8,3.5-3.9c2-0.1,3.8,1.4,3.9,3.5c0,0.1,0,0.1,0,0.2c0.2,1.9-1.2,3.5-3,3.7
+	C28.8,29.6,28.7,29.6,28.6,29.6z M12,27.8c-0.9,0-1.7-0.8-1.7-1.7c0-0.1,0-0.2,0-0.3c0-1.2,0.6-1.9,1.5-1.9c0.5,0,1,0.2,1.5,0.5
+	l0.3-1.8c-0.6-0.3-1.3-0.4-1.9-0.4c-1.9,0-3.4,1.4-3.5,3.3c0,0.1,0,0.2,0,0.4c-0.2,1.8,1.1,3.5,3,3.6c0.2,0,0.4,0,0.6,0
+	c0.7,0,1.4-0.1,2-0.4l-0.3-1.7C13,27.7,12.5,27.8,12,27.8z M22,29.4v-7.1h-2.1v2.5h-2v-2.5h-2.1v7.1h2.1v-2.7h2v2.8L22,29.4L22,29.4
+	z M28.6,23.8c-0.9,0-1.3,0.8-1.3,2.1s0.5,2.1,1.3,2.1s1.4-0.8,1.4-2.1S29.4,23.8,28.6,23.8L28.6,23.8z M37.2,29.4v-7.1h-2.1v7.1
+	H37.2z M43,27.8c-0.9,0-1.7-0.8-1.7-1.7c0-0.1,0-0.2,0-0.3c0-1.2,0.6-1.9,1.5-1.9c0.5,0,1,0.2,1.5,0.5l0.3-1.8
+	c-0.6-0.3-1.3-0.4-1.9-0.4c-1.9,0-3.4,1.4-3.5,3.3c0,0.1,0,0.2,0,0.4c-0.2,1.8,1.2,3.5,3,3.6c0.2,0,0.4,0,0.6,0c0.7,0,1.4-0.2,2-0.4
+	l-0.3-1.7C44,27.7,43.5,27.8,43,27.8L43,27.8z M48.9,26.6h2.3l-0.3-1.7h-2v-1h2.6v-1.6h-4.7v7.1h4.8v-1.6h-2.7L48.9,26.6L48.9,26.6z
+	"></path>
+</svg>
+							</div>
+							<span class="focusAreaMenuItems__name">Safe Abortion Care</span>
+						</a>
+					</li>
+				</ul></ul>
+</li>
+<li id="menu-item-1122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1122"><a href="#">Resources</a>
+<ul class="sub-menu">
+<div class="sub-menu__wrap" <li="" id="menu-item-72"><a href="/publications">Explore Publications</a>
+	<li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a href="/articles">Press Room</a></li>
+</div>	<div id="subNavSection__resources" class="subNavSection">
+					<a href="http://www.pathfinder.org/publication-series/cue-cards/"><img src="http://www.pathfinder.org/wp-content/uploads/2015/08/Cue-Cards-for-Counseling-Adults-on-Contraception-218x115.jpg"></a>
+		
+					<a href="http://www.pathfinder.org/publication-series/cue-cards/"><h2 class="subNavSection__title">Contraceptive Cue Cards for Adults &amp; Adolescents</h2></a>
+		
+					<div class="subNavSection__description">
+				<p>Pathfinder’s cue cards are designed to help a range of community- and facility-based providers to counsel adolescents and adults on their contraceptive options.</p>
+			</div>
+			</div>
+	
+	</ul>
+</li>
+<li id="menu-item-1123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1123"><a href="#">Get Involved</a>
+<ul class="sub-menu">
+<div class="sub-menu__wrap" <li="" id="menu-item-75"><a href="http://www.pathfinder.org/get-involved/become-an-advocate/">Become an Advocate</a>
+	<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://www.pathfinder.org/find-us-at-an-event/">Find us at an Event</a></li>
+	<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://www.pathfinder.org/about-us/join-our-team/">Join Our Team</a></li>
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://www.pathfinder.org/partner-with-us/">Partner With Us</a></li>
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.pathfinder.org/read-our-blog/">Read Our Blog</a></li>
+</div>	<div id="subNavSection__get_involved" class="subNavSection">
+					<a href="http://www.pathfinder.org/other-ways-to-give/"><img src="http://www.pathfinder.org/wp-content/uploads/2016/09/DSC04238-218x115.jpg"></a>
+		
+					<a href="http://www.pathfinder.org/other-ways-to-give/"><h2 class="subNavSection__title">Other Ways to Give to Pathfinder</h2></a>
+		
+					<div class="subNavSection__description">
+				<p>In addition to donating, you can make a gift in many ways to support the sexual and reproductive health of women and families.</p>
+			</div>
+			</div>
+	
+	</ul>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://secure2.convio.net/pf/site/Donation2?df_id=5120&amp;5120.donation=form1">Donate</a></li>
+</ul></div></nav>        </div>
+    </section>
+
+    <a data-trigger="navTrigger" class="navTrigger" href="#">☰</a>
+
+<div class="mobileNavWrap">
+	<div class="moibileLogoWrap">
+        <a title="Pathfinder International" href="http://www.pathfinder.org"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="232px" height="56px" viewBox="0 0 232 56" enable-background="new 0 0 232 56" xml:space="preserve">
+<path fill="#007DC5" d="M91.6,15.6c-0.4-0.9-0.9-1.7-1.7-2.4c-0.8-0.7-1.8-1.3-2.9-1.6c-1.4-0.4-2.8-0.6-4.2-0.6h-10v2
+	c-0.1,0.5,0.3,0.9,0.8,1c0,0,0.1,0,0.2,0l0.5,0.1l1,0.2v17.4l-1,0.2L73.8,32h-0.2c-0.5,0-0.8,0.5-0.8,1v2h9.5v-2
+	c0.1-0.5-0.3-0.9-0.8-1h-0.2l-0.5-0.1l-1-0.2v-5.1h3c1.4,0,2.8-0.2,4.1-0.6c1.1-0.4,2.1-0.9,3-1.6c0.7-0.7,1.3-1.5,1.7-2.5
+	c0.4-1,0.6-2.1,0.6-3.2C92.2,17.6,92,16.6,91.6,15.6z M87.4,20.6c-0.2,0.5-0.5,1-0.9,1.4s-0.9,0.7-1.5,0.9c-0.7,0.2-1.4,0.3-2.1,0.3
+	h-3v-8.6h3c0.7,0,1.4,0.1,2.1,0.3c0.5,0.1,1.1,0.4,1.5,0.8c0.4,0.3,0.7,0.8,0.9,1.3c0.2,0.5,0.3,1.1,0.3,1.7
+	C87.7,19.3,87.6,19.9,87.4,20.6z"></path>
+<path fill="#007DC5" d="M107.7,31.8l-0.4-0.1c-0.2-0.1-0.5-0.1-0.9-0.2V24c0-0.9-0.1-1.7-0.4-2.6c-0.2-0.8-0.6-1.5-1.2-2.1
+	c-0.6-0.6-1.2-1.1-2-1.4c-0.9-0.3-1.8-0.5-2.7-0.5c-2.6,0-5.2,0.9-7.1,2.7l0.7,1.3c0.1,0.2,0.3,0.4,0.5,0.5c0.2,0.1,0.4,0.2,0.7,0.2
+	c0.3,0,0.6,0,0.9-0.2c0.3-0.1,0.6-0.3,0.9-0.5c0.4-0.2,0.8-0.4,1.2-0.5c0.6-0.1,1.1-0.2,1.7-0.2c0.8-0.1,1.6,0.2,2.1,0.8
+	c0.5,0.7,0.8,1.6,0.7,2.5v1c-1.7,0-3.3,0.1-4.9,0.5c-1.1,0.3-2.1,0.7-3.1,1.3c-0.7,0.4-1.3,1-1.7,1.7c-0.3,0.6-0.5,1.2-0.5,1.9
+	c0,0.7,0.1,1.4,0.4,2c0.2,0.5,0.6,1,1,1.4c0.5,0.4,1,0.7,1.6,0.9c0.7,0.2,1.3,0.3,2,0.3c0.6,0.1,1.2,0,1.7-0.1
+	c0.5,0,0.9-0.2,1.4-0.4s0.9-0.4,1.3-0.7c0.5-0.3,0.9-0.6,1.3-1l0.4,1.2c0.1,0.3,0.2,0.5,0.5,0.7s0.6,0.2,0.9,0.2h3.9V33
+	C108.7,32.5,108.3,32,107.7,31.8z M101.7,31.3c-0.3,0.3-0.6,0.4-0.9,0.6c-0.3,0.1-0.7,0.2-1,0.3c-0.4,0.1-0.8,0.1-1.2,0.1
+	c-0.6,0-1.2-0.2-1.7-0.5c-0.4-0.3-0.7-0.9-0.6-1.5c0-0.3,0.1-0.7,0.3-1c0.2-0.3,0.6-0.6,1-0.8c0.6-0.3,1.2-0.5,1.9-0.6
+	c1-0.1,2-0.2,3-0.2l0.1,2.8C102.3,30.8,102,31.1,101.7,31.3z"></path>
+<path fill="#007DC5" d="M111.8,34c-0.8-0.9-1.3-2.2-1.2-3.4V21h-1.7c-0.2,0-0.4-0.1-0.6-0.2c-0.2-0.2-0.3-0.4-0.2-0.6v-1.6l2.7-0.4
+	l0.9-4.6c0-0.2,0.1-0.4,0.3-0.5c0.2-0.1,0.4-0.2,0.6-0.2h2.1v5.3h4.5V21h-4.5v9.2c0,0.4,0.1,0.9,0.4,1.2c0.3,0.3,0.7,0.5,1.1,0.4
+	c0.2,0,0.4,0,0.6-0.1s0.3-0.1,0.4-0.2s0.2-0.1,0.3-0.2c0.1-0.1,0.2-0.1,0.3-0.1c0.1,0,0.2,0,0.3,0.1c0.1,0.1,0.2,0.2,0.2,0.3l1.2,2
+	c-0.6,0.5-1.3,0.9-2.1,1.1c-0.8,0.3-1.6,0.4-2.4,0.4C113.9,35.3,112.7,34.8,111.8,34"></path>
+<path fill="#007DC5" d="M140.8,33v1.9h-6.6V24.2c0.1-0.9-0.2-1.7-0.7-2.4c-0.6-0.6-1.4-0.9-2.2-0.9c-0.7,0-1.4,0.2-2,0.5
+	c-0.7,0.3-1.2,0.8-1.8,1.3v9c0.4,0.1,0.7,0.1,1,0.2L129,32h0.2c0.5,0.1,0.9,0.5,0.8,1v2h-9.1v-2c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1
+	c0.2,0,0.6-0.1,1-0.2v-18c-0.4-0.1-0.7-0.1-1-0.2c-0.2,0-0.4-0.1-0.5-0.1s-0.2,0-0.2,0c-0.5-0.1-0.9-0.5-0.8-1v-1.9h6.6v9.4
+	c0.6-0.6,1.4-1.1,2.2-1.5c0.9-0.4,1.8-0.6,2.8-0.6c0.8,0,1.7,0.1,2.5,0.5c0.7,0.3,1.3,0.7,1.8,1.3c0.5,0.6,0.9,1.3,1.1,2
+	c0.3,0.8,0.4,1.7,0.4,2.6v7.5c0.4,0.1,0.7,0.1,1,0.2l0.5,0.1h0.2C140.5,32,140.8,32.5,140.8,33"></path>
+<path fill="#007DC5" d="M162.1,33v1.9h-9.3V33c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1l1-0.2V21H149v10.6c0.4,0.1,0.8,0.1,1,0.2
+	c0.3,0,0.5,0.1,0.6,0.1s0.2,0,0.3,0c0.5,0.1,0.9,0.5,0.8,1v1.9h-9.3V33c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1l1-0.2V21.1l-1.5-0.2
+	c-0.3,0-0.5-0.2-0.8-0.3c-0.2-0.2-0.3-0.4-0.3-0.7v-1.7h2.5v-0.5c0-1,0.2-2,0.5-2.9s0.9-1.7,1.6-2.3c0.8-0.7,1.7-1.2,2.6-1.5
+	c1.2-0.4,2.5-0.6,3.8-0.6c0.2,0,0.4,0,0.6,0c0.1,0,0.2,0,0.2,0h0.1c0.3,0,0.5,0,0.6,0c0.4,0,0.7,0.1,1.1,0.2
+	c1.1,0.2,2.1,0.7,3.1,1.3c0.1,0.1,0.2,0.2,0.3,0.3c0.2,0.2,0.4,0.5,0.5,0.8s0.2,0.7,0.2,1s-0.1,0.7-0.2,1c-0.1,0.3-0.3,0.6-0.6,0.8
+	c-0.2,0.2-0.5,0.4-0.8,0.6c-0.3,0.1-0.7,0.2-1,0.2s-0.7-0.1-1-0.2s-0.6-0.3-0.8-0.6c-0.2-0.2-0.4-0.5-0.6-0.8
+	c-0.1-0.3-0.2-0.7-0.2-1c0-0.1,0-0.3,0-0.4c-1-0.3-2.1-0.3-3,0c-0.6,0.1-1.2,0.4-1.7,0.8c-0.4,0.4-0.8,0.8-1,1.4
+	c-0.2,0.6-0.3,1.3-0.3,1.9v0.4h10.5v13.5c0.4,0.1,0.8,0.1,1,0.2s0.5,0.1,0.6,0.1s0.2,0,0.3,0C161.8,32,162.1,32.5,162.1,33"></path>
+<path fill="#007DC5" d="M183.2,33v1.9h-6.6V24.2c0.1-0.9-0.2-1.7-0.7-2.4c-0.6-0.6-1.4-0.9-2.2-0.9c-0.7,0-1.4,0.2-2,0.5
+	c-0.7,0.3-1.2,0.8-1.8,1.3v9l1,0.2l0.5,0.1c0.1,0,0.2,0,0.2,0c0.5,0.1,0.9,0.5,0.8,1v2h-9.1v-2c0-0.5,0.3-1,0.8-1h0.2l0.5-0.1
+	c0.2,0,0.6-0.1,1-0.2V21.3l-1-0.2c-0.2,0-0.4-0.1-0.5-0.1h-0.2c-0.5-0.1-0.9-0.5-0.8-1v-2h5c0.5,0,0.9,0.3,1,0.7l0.3,1.3
+	c0.3-0.3,0.7-0.7,1.1-1c0.4-0.3,0.8-0.5,1.2-0.7s0.9-0.4,1.4-0.5s1.1-0.2,1.6-0.2c0.8,0,1.7,0.1,2.5,0.5c0.7,0.3,1.3,0.7,1.8,1.3
+	c0.5,0.6,0.9,1.3,1.1,2c0.3,0.8,0.4,1.7,0.4,2.6v7.5c0.4,0.1,0.7,0.1,1,0.2l0.5,0.1h0.2C182.9,32,183.3,32.5,183.2,33"></path>
+<path fill="#007DC5" d="M201.5,32.9c0.1-0.5-0.3-0.9-0.8-1c-0.1,0-0.1,0-0.2,0l-0.4-0.1l-0.8-0.2V10.3h-6.6v1.9
+	c-0.1,0.5,0.3,0.9,0.8,1h0.2l0.5,0.1l1,0.2v5.7c-0.5-0.5-1.1-0.9-1.8-1.2c-0.8-0.3-1.7-0.4-2.5-0.4c-2-0.1-4,0.9-5.3,2.5
+	c-0.7,0.8-1.2,1.8-1.5,2.8c-0.3,1.1-0.5,2.3-0.5,3.5c0,1.3,0.2,2.5,0.5,3.7c0.3,1,0.7,1.9,1.3,2.7c0.5,0.7,1.2,1.3,2,1.7
+	c0.7,0.4,1.6,0.6,2.5,0.6c1.1,0.1,2.1-0.2,3.1-0.7c0.9-0.5,1.7-1.1,2.4-1.9l0.3,1.6c0.1,0.3,0.2,0.5,0.4,0.6
+	c0.2,0.1,0.5,0.2,0.7,0.2h4.8L201.5,32.9z M195.2,30c-0.5,0.6-1.1,1.1-1.7,1.5c-0.7,0.3-1.4,0.5-2.2,0.5c-0.5,0-1-0.1-1.5-0.3
+	s-0.8-0.5-1.1-0.9c-0.3-0.5-0.6-1.1-0.7-1.7c-0.1-0.8-0.2-1.7-0.2-2.5c0-0.9,0.1-1.8,0.3-2.6c0.1-0.6,0.4-1.3,0.8-1.8
+	c0.3-0.5,0.8-0.9,1.3-1.1c0.5-0.2,1.1-0.3,1.7-0.3c0.6,0,1.2,0.1,1.8,0.3c0.6,0.3,1.1,0.7,1.5,1.2V30z"></path>
+<path fill="#007DC5" d="M216.8,22.1c-0.3-0.9-0.8-1.7-1.5-2.4c-0.6-0.7-1.4-1.2-2.3-1.5c-0.9-0.3-1.9-0.5-3.1-0.4
+	c-1.1,0-2.3,0.2-3.4,0.7c-1,0.4-1.9,1-2.6,1.8c-0.7,0.8-1.2,1.7-1.6,2.7c-0.4,1.1-0.6,2.2-0.6,3.3c-0.1,1.3,0.1,2.6,0.6,3.9
+	c0.4,1,1,2,1.8,2.8c0.8,0.7,1.7,1.3,2.7,1.7c1.1,0.4,2.2,0.6,3.3,0.6c0.7,0,1.3,0,1.9-0.1c0.7-0.1,1.3-0.3,1.9-0.5
+	c0.7-0.3,1.2-0.5,1.8-0.9c0.5-0.3,1.1-0.8,1.5-1.3L216,31c-0.1-0.1-0.2-0.2-0.3-0.3c-0.1-0.1-0.2-0.1-0.4-0.1
+	c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.1-0.5,0.3-0.9,0.5c-0.4,0.2-0.9,0.4-1.3,0.5c-0.5,0.1-1.1,0.2-1.7,0.2c-1.3,0.1-2.4-0.4-3.3-1.2
+	c-0.9-1-1.4-2.4-1.4-3.8h10.5c0.2,0,0.4,0,0.5-0.1c0.1,0,0.2-0.1,0.3-0.2c0-0.2,0.1-0.3,0.1-0.5c0-0.3,0-0.5,0-0.8
+	C217.4,24.3,217.2,23.1,216.8,22.1z M206,24.6c0.1-1.1,0.6-2.1,1.3-2.9c0.8-0.7,1.8-1.1,2.8-0.9c0.5,0,1.1,0.1,1.6,0.3
+	c0.4,0.2,0.8,0.4,1.1,0.8c0.3,0.3,0.6,0.7,0.7,1.2s0.2,1,0.2,1.5H206z"></path>
+<path fill="#007DC5" d="M232,18.3l-0.5,3.1c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.1-0.4,0.1c-0.2,0-0.5,0-0.7-0.1
+	c-0.4-0.1-0.8-0.1-1.1-0.1c-0.8,0-1.6,0.2-2.2,0.7c-0.7,0.6-1.2,1.3-1.5,2.1v7.3c1.4,0.2,1.4,0.3,1.7,0.3c0.5,0.1,0.9,0.5,0.8,1V35
+	h-9.1v-2c0-0.5,0.3-1,0.8-1c0.3,0,0.3-0.1,1.7-0.3V21.3c-1.4-0.2-1.4-0.3-1.7-0.3c-0.5-0.1-0.9-0.5-0.8-1v-2h4.9
+	c0.3,0,0.6,0.1,0.9,0.2c0.2,0.2,0.3,0.5,0.3,0.8l0.2,2.1c0.5-1,1.3-1.8,2.1-2.5c0.8-0.6,1.8-0.9,2.8-0.9
+	C230.6,17.7,231.4,17.9,232,18.3"></path>
+<path fill="#007DC5" d="M77.6,41.3h-0.2L77,41.4v6.5c0.2,0,0.3,0.1,0.4,0.1s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.6v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5H75h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7H78V41
+	C78,41.1,77.8,41.3,77.6,41.3L77.6,41.3"></path>
+<path fill="#007DC5" d="M92.7,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v7.7h-0.9c-0.1,0-0.2,0-0.3-0.1
+	c-0.1-0.1-0.2-0.1-0.3-0.2l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7H85
+	c0.1,0,0.1,0,0.2,0h0.1c0,0,0.1,0,0.1,0.1l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7
+	L92.7,40.2"></path>
+<path fill="#007DC5" d="M104.4,40.2v2.1h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.2-0.1-0.5h-1.8v6.3c0.2,0,0.3,0.1,0.4,0.1
+	s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7H99v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.3h-2
+	c0,0.3,0,0.4-0.1,0.5c0,0.1-0.1,0.2-0.3,0.2H97v-2.1H104.4"></path>
+<path fill="#007DC5" d="M115.8,40.2v2.3h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.4-0.1-0.8h-2.9V44h3v1.3h-3v2.5h2.9
+	c0-0.4,0.1-0.7,0.1-0.8s0.1-0.2,0.3-0.2h0.7v2.4h-6.6v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1
+	h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L115.8,40.2"></path>
+<path fill="#007DC5" d="M128.5,48h-0.1h-0.2c-0.1-0.1-0.2-0.1-0.4-0.1l-1.4-2.1c-0.1-0.2-0.3-0.4-0.5-0.5c0.3-0.1,0.5-0.2,0.8-0.4
+	c0.2-0.2,0.4-0.4,0.6-0.6s0.3-0.4,0.4-0.7c0.2-0.6,0.1-1.3-0.1-1.9c-0.1-0.3-0.3-0.6-0.6-0.8c-0.3-0.2-0.7-0.4-1.1-0.5
+	c-0.5-0.1-1.1-0.2-1.6-0.2h-3.6v0.7c0,0.2,0.1,0.4,0.3,0.4h0.1h0.2l0.4,0.1v6.5c-0.2,0.1-0.3,0.1-0.4,0.1c-0.1,0-0.2,0-0.2,0H121
+	c-0.2,0-0.3,0.2-0.3,0.4v0.7h3.5v-0.7c0-0.2-0.1-0.4-0.3-0.4h-0.1c0,0-0.1,0.1-0.2,0c-0.1-0.1-0.2-0.1-0.4-0.1v-2.3h0.6
+	c0.2,0,0.3,0,0.4,0.1c0.1,0,0.1,0.1,0.2,0.2l1.9,2.9c0.1,0.1,0.2,0.1,0.3,0.2c0.1,0.1,0.3,0.1,0.4,0.1h1.7v-0.7
+	C128.7,48.2,128.6,48,128.5,48z M124.9,44.4c-0.2,0.1-0.5,0.1-0.8,0.1h-1v-3h1c0.5,0,1,0.1,1.4,0.4c0.4,0.2,0.5,0.6,0.5,1
+	c0,0.2,0,0.4-0.1,0.6c0,0.2-0.2,0.4-0.3,0.5C125.5,44.1,125.3,44.3,124.9,44.4z"></path>
+<path fill="#007DC5" d="M143,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v7.7h-0.9c-0.1,0-0.2,0-0.3-0.1s-0.2-0.1-0.3-0.2
+	l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1
+	c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h1.8c0.1,0,0.1,0,0.2,0h0.1c0,0,0.1,0,0.1,0.1
+	l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L143,40.2"></path>
+<path fill="#007DC5" d="M156.9,48.3c-0.1,0-0.3-0.1-0.7-0.3l-3-7.7h-1.7l-3,7.7c-0.4,0.2-0.6,0.3-0.7,0.3c-0.1,0-0.2,0.2-0.2,0.3
+	v0.6h3v-0.6c0-0.1-0.1-0.3-0.2-0.3c0,0-0.1,0-0.2-0.1v-0.1l0.5-1.3h3.6l0.4,1.2v0.1c-0.1,0.1-0.2,0.1-0.2,0.1
+	c-0.1,0-0.2,0.2-0.2,0.3v0.6h3v-0.6C157.3,48.3,157.2,48.2,156.9,48.3z M151.1,45.6l0.9-2.8c0.1-0.2,0.1-0.3,0.2-0.5
+	s0.1-0.4,0.2-0.6c0.1,0.2,0.1,0.4,0.2,0.6c0.1,0.2,0.2,0.4,0.2,0.5l1,2.8H151.1z"></path>
+<path fill="#007DC5" d="M168.4,40.2v2.1h-0.7c-0.1,0-0.3-0.1-0.3-0.2c0-0.1,0-0.2-0.1-0.5h-1.8v6.3c0.2,0,0.3,0.1,0.4,0.1
+	s0.2,0,0.2,0h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7H163v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.3h-2
+	c0,0.3,0,0.4-0.1,0.5c0,0.1-0.1,0.2-0.3,0.2h-0.7v-2.1H168.4"></path>
+<path fill="#007DC5" d="M176.4,41.3h-0.2l-0.4,0.1v6.5c0.2,0,0.3,0.1,0.4,0.1h0.2h0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.6v-0.7
+	c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h3.6v0.7
+	C176.8,41.1,176.6,41.3,176.4,41.3L176.4,41.3"></path>
+<path fill="#007DC5" d="M190.4,42.9c-0.2-0.5-0.5-1-0.9-1.4c-0.4-0.5-0.9-0.8-1.4-1c-0.6-0.2-1.3-0.3-1.9-0.3
+	c-0.7,0-1.3,0.1-1.9,0.3c-0.5,0.3-1,0.6-1.4,1c-0.4,0.4-0.7,0.9-0.9,1.4c-0.4,1.1-0.4,2.4,0,3.6c0.2,0.5,0.5,1,0.9,1.4
+	c0.4,0.5,0.9,0.8,1.4,1c1.2,0.5,2.5,0.5,3.7,0c0.5-0.3,1-0.6,1.4-1c0.4-0.4,0.7-0.9,0.9-1.4C190.7,45.3,190.7,44,190.4,42.9z
+	 M188.7,45.9c-0.2,0.4-0.3,0.7-0.6,1c-0.3,0.3-0.6,0.5-0.9,0.6c-0.8,0.3-1.6,0.3-2.4,0c-0.3-0.1-0.7-0.3-0.9-0.6
+	c-0.3-0.3-0.5-0.6-0.6-1c-0.3-0.8-0.3-1.7,0-2.6c0.2-0.4,0.3-0.7,0.6-1c0.2-0.3,0.6-0.5,0.9-0.6c0.8-0.3,1.6-0.3,2.4,0
+	c0.3,0.1,0.7,0.3,0.9,0.6c0.3,0.3,0.5,0.6,0.6,1C188.9,44.2,188.9,45.1,188.7,45.9z"></path>
+<path fill="#007DC5" d="M204.8,40.2v0.7c0,0.2-0.1,0.4-0.3,0.4c0,0,0,0-0.1,0h-0.2l-0.4,0.1v7.7H203c-0.1,0-0.2,0-0.3-0.1
+	s-0.2-0.1-0.3-0.2l-4.7-5.9c0,0.1,0,0.3,0,0.4s0,0.2,0,0.4V48l0.8,0.1c0.2,0,0.3,0.2,0.3,0.4v0.7h-3.5v-0.7c0-0.2,0.1-0.4,0.3-0.4
+	h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7h1.8c0.1,0,0.1,0,0.2,0h0.1
+	c0,0,0.1,0,0.1,0.1l0.1,0.1l4.7,6c0-0.1,0-0.3,0-0.4s0-0.3,0-0.4v-4.2l-0.8-0.1c-0.2,0-0.3-0.2-0.3-0.4v-0.7L204.8,40.2"></path>
+<path fill="#007DC5" d="M218.8,48.3c-0.1,0-0.3-0.1-0.7-0.3l-3-7.7h-1.7l-3,7.7c-0.4,0.2-0.6,0.3-0.7,0.3c-0.1,0-0.2,0.2-0.2,0.3
+	v0.6h3v-0.6c0-0.1-0.1-0.3-0.2-0.3c0,0-0.1,0-0.2-0.1v-0.1l0.5-1.3h3.6l0.4,1.2v0.1c-0.1,0.1-0.2,0.1-0.2,0.1
+	c-0.1,0-0.2,0.2-0.2,0.3v0.6h3v-0.6C219.2,48.3,219.1,48.2,218.8,48.3z M213,45.6l0.9-2.8c0.1-0.2,0.1-0.3,0.2-0.5
+	c0.1-0.2,0.1-0.4,0.2-0.6c0.1,0.2,0.1,0.4,0.2,0.6s0.1,0.4,0.2,0.5l1,2.8H213z"></path>
+<path fill="#007DC5" d="M230.5,47v2.1H224v-0.7c0-0.2,0.1-0.4,0.3-0.4h0.1c0,0,0.1,0,0.2,0s0.2,0,0.4-0.1v-6.5l-0.4-0.1h-0.2h-0.1
+	c-0.2,0-0.3-0.2-0.3-0.4v-0.7h3.5v0.7c0,0.2-0.1,0.4-0.3,0.4h-0.1h-0.2l-0.4,0.1v6.3h2.9c0-0.3,0-0.5,0.1-0.5c0-0.1,0.1-0.2,0.3-0.2
+	L230.5,47"></path>
+<path fill="#8F53A1" d="M17.8,19.4c3.8,3.5,10.3,6.4,10.3,6.4c0.8,0,1.4-0.5,1.2-2.4c-0.3-3.5-3.9-7.9,1.6-10.1
+	c6.1-1.5,6,3.8,6.1,5.5s0,3.9-1.9,4.3c-1.3,0.3-2.2,1.5-2.1,2.8c0.1,1.3,0.4,2.7,2.3,2c1.4-0.5,2.6-1.2,3.7-2.2
+	c3.4-2.4,8.2-10.4,10.1-18.6c-4.5-3.3-11.9-7.4-20.7-7c-1,0-1.9,0.1-2.9,0.3C20.5,0.9,12.3,4,9.6,6.5C9.1,7,8.6,7.4,8.1,7.9
+	C10.4,14.1,15.7,17.5,17.8,19.4"></path>
+<path fill="#007DC5" d="M44.9,25.1C41.3,33.2,39,36.2,39,41.8c0,3.4,1.4,8.4,2.8,12.2c8.3-3.9,14.2-14.1,15.5-23.6
+	c1.3-9.9-2.7-18.8-5.7-21.4C50.2,13.5,46.8,20.6,44.9,25.1"></path>
+<path fill="#007DC5" d="M26.3,41.3c0-2.7,0.1-8.1-1.5-10.1c-1.1-1.4-4.5-4.8-5-5.3c-3.6-3.9-7.3-6.8-10.1-10.2
+	C8.1,13.8,7,11.6,6.3,9.3c-6,5.5-8.3,13.9-4.4,28.4C6,52.8,18.8,55.2,24,56C24.2,54.8,26.3,45,26.3,41.3"></path>
+</svg>
+</a>
+    </div>
+	<nav class="socialNav">
+	<ul>
+		<li><a target="_blank" href="https://www.facebook.com/PathfinderInternational/"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="7.1px" height="16px" viewBox="0 0 7.1 16" enable-background="new 0 0 7.1 16" xml:space="preserve">
+<path id="facebook.svg" fill="#FFFFFF" d="M6.8,8H4.7v8H1.5V8H0V5.2h1.5V3.4C1.3,1.7,2.6,0.2,4.2,0c0.2,0,0.3,0,0.5,0L7,0v2.7H5.3
+	C5,2.7,4.7,3,4.7,3.4c0,0,0,0.1,0,0.1v1.7h2.4L6.8,8z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://twitter.com/PathfinderInt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="13px" viewBox="0 0 16 13" enable-background="new 0 0 16 13" xml:space="preserve">
+<path id="twitter.svg" fill="#FFFFFF" d="M14.4,3.2c0,0.1,0,0.3,0,0.4c0,5.2-4.2,9.3-9.3,9.3c-1.8,0-3.5-0.5-5-1.5
+	c0.3,0,0.5,0,0.8,0c1.5,0,2.9-0.5,4.1-1.4c-1.4,0-2.6-0.9-3.1-2.3C2,7.9,2.2,7.9,2.4,8c0.3,0,0.6,0,0.9-0.1C1.7,7.5,0.6,6.2,0.6,4.6
+	v0C1.1,4.8,1.6,5,2.1,5c-1.4-1-1.9-2.9-1-4.4C2.8,2.7,5.2,3.9,7.9,4c-0.4-1.8,0.7-3.5,2.5-3.9c1.1-0.3,2.3,0.1,3.1,1
+	c0.7-0.1,1.4-0.4,2.1-0.8c-0.2,0.8-0.8,1.4-1.4,1.8C14.8,2,15.4,1.8,16,1.5C15.6,2.2,15,2.8,14.4,3.2z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://www.instagram.com/pathfinderint/"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="14px" viewBox="0 0 14 14" enable-background="new 0 0 14 14" xml:space="preserve">
+<path id="instagram.svg" fill="#FFFFFF" d="M12.2,0H1.8C0.8,0,0,0.8,0,1.8v10.4c0,1,0.8,1.8,1.8,1.8h10.4c1,0,1.8-0.8,1.8-1.8V1.8
+	C14,0.8,13.2,0,12.2,0z M9.6,2.2c0-0.3,0.3-0.6,0.6-0.6h1.6c0.3,0,0.6,0.3,0.6,0.6v1.5c0,0.3-0.3,0.6-0.6,0.6h-1.6
+	C9.9,4.3,9.6,4,9.6,3.7L9.6,2.2L9.6,2.2z M7,4.2c1.5,0,2.7,1.3,2.6,2.8c0,1.5-1.3,2.7-2.8,2.6C5.4,9.6,4.2,8.4,4.2,7
+	C4.2,5.4,5.5,4.2,7,4.2C7,4.2,7,4.2,7,4.2L7,4.2z M12.4,11.8c0,0.3-0.2,0.6-0.6,0.6H2.1c-0.3,0-0.6-0.2-0.6-0.6V5.9h1.3
+	C2.7,6.3,2.7,6.7,2.7,7.1c0.1,2.4,2.1,4.3,4.5,4.2c2.3-0.1,4.1-1.9,4.2-4.2c0-0.4-0.1-0.8-0.2-1.2h1.2L12.4,11.8L12.4,11.8z"></path>
+</svg>
+</a></li>
+		<li><a target="_blank" href="https://www.youtube.com/user/PathfinderInt"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="14px" viewBox="0 0 19 14" enable-background="new 0 0 19 14" xml:space="preserve">
+<path id="youtube.svg" fill="#FFFFFF" d="M0,8.6V5.4c0-0.1,0-0.1,0-0.2c0-0.4,0-0.8,0.1-1.2c0-0.7,0.1-1.4,0.3-2
+	c0.2-0.8,0.9-1.5,1.8-1.6c0.4-0.1,0.7-0.1,1.1-0.1C4.5,0.1,5.8,0,7.1,0c1.7,0,3.4,0,5.1,0c1.4,0,2.9,0.1,4.3,0.2
+	c1.1,0.1,2,0.9,2.2,1.9c0.1,0.7,0.2,1.4,0.3,2C19,4.6,19,5,19,5.3v3.3c0,0.1,0,0.1,0,0.2c0,0.4,0,0.8-0.1,1.2c0,0.7-0.1,1.4-0.3,2
+	c-0.2,0.8-0.9,1.4-1.8,1.6c-0.3,0.1-0.6,0.1-1,0.1c-1.3,0.1-2.6,0.2-3.9,0.2c-1.7,0-3.4,0-5.1,0c-1.4,0-2.9-0.1-4.3-0.2
+	c-1.1-0.1-2-1-2.2-2.1C0.2,11,0.1,10.3,0.1,9.6C0,9.3,0,9,0,8.6z M13.1,6.8l-6-3.3v6.6L13.1,6.8z"></path>
+</svg>
+</a></li>
+	</ul>
+</nav>		<nav class="utilityNav">
+	<div class="menu-utility-nav-container"><ul id="menu-utility-nav-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://www.pathfinder.org/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.pathfinder.org/read-our-blog/">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2073"><a href="/articles">Press Room</a></li>
+</ul></div>
+	<form class="searchForm" role="search" method="get" id="searchform" action="http://www.pathfinder.org/">
+    <i class="search"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18.3px" height="15.8px" viewBox="0 0 18.3 15.8" enable-background="new 0 0 18.3 15.8" xml:space="preserve">
+<g>
+	<path fill="#BABABA" d="M15.7,13.4c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.4,0.3-0.7,0.3c-0.3,0-0.5-0.1-0.7-0.3l-2.7-2.7
+		c-0.9,0.6-2,1-3.1,1c-0.7,0-1.5-0.1-2.1-0.4s-1.3-0.7-1.8-1.2S3.4,9.7,3.1,9.1S2.7,7.7,2.7,6.9c0-0.7,0.1-1.5,0.4-2.1
+		S3.8,3.5,4.3,3S5.4,2.1,6,1.9s1.4-0.4,2.1-0.4c0.7,0,1.5,0.1,2.1,0.4s1.3,0.7,1.8,1.2s0.9,1.1,1.2,1.8s0.4,1.4,0.4,2.1
+		c0,1.1-0.3,2.2-1,3.1l2.7,2.7C15.6,12.9,15.7,13.1,15.7,13.4z M10.6,9.4c0.7-0.7,1-1.5,1-2.5c0-1-0.3-1.8-1-2.5
+		c-0.7-0.7-1.5-1-2.5-1c-1,0-1.8,0.3-2.5,1C5,5.1,4.7,6,4.7,6.9c0,1,0.3,1.8,1,2.5c0.7,0.7,1.5,1,2.5,1C9.1,10.4,10,10.1,10.6,9.4z"></path>
+</g>
+</svg>
+</i>
+    <input type="text" value="" name="s" id="s" placeholder="SEARCH">
+    <div class="submit"><!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9.7px" height="13.5px" viewBox="0 0 9.7 13.5" enable-background="new 0 0 9.7 13.5" xml:space="preserve">
+<g>
+	<path fill="#007DC6" d="M7.8,6.4c0,0.1,0,0.1-0.1,0.2l-4.2,4.2c-0.1,0.1-0.1,0.1-0.2,0.1c-0.1,0-0.1,0-0.2-0.1l-0.4-0.4
+		c-0.1-0.1-0.1-0.1-0.1-0.2c0-0.1,0-0.1,0.1-0.2l3.5-3.5L2.7,2.9C2.6,2.8,2.6,2.8,2.6,2.7c0-0.1,0-0.1,0.1-0.2L3.1,2
+		C3.2,2,3.2,1.9,3.3,1.9c0.1,0,0.1,0,0.2,0.1l4.2,4.2C7.7,6.3,7.8,6.3,7.8,6.4z"></path>
+</g>
+</svg>
+</div>
+</form></nav>	<nav class="mobileNav">
+		<div class="menu-mobile-nav-container"><ul id="menu-mobile-nav" class=""><li id="menu-item-1124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1124"><a href="#">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="http://www.pathfinder.org/about-us/who-we-are/">Who We Are</a></li>
+	<li id="menu-item-2642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2642"><a href="http://www.pathfinder.org/about-us/our-history/">Our History</a></li>
+	<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="http://www.pathfinder.org/staff-members/">Meet Our Team</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="http://www.pathfinder.org/about-us/explore-annual-reports/">Financials &amp; Accountability</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://www.pathfinder.org/about-us/join-our-team/">Join Our Team</a></li>
+</ul>
+</li>
+<li id="menu-item-1125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1125"><a href="#">Work &amp; Impact</a>
+<ul class="sub-menu">
+	<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-347"><a href="http://www.pathfinder.org/work-impact/what-we-do/">What We Do</a>
+	<ul class="sub-menu">
+		<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-348"><a href="http://www.pathfinder.org/focus-areas/adolescents-youth/">Adolescents &amp; Youth</a></li>
+		<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-349"><a href="http://www.pathfinder.org/focus-areas/advocacy/">Advocacy</a></li>
+		<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-350"><a href="http://www.pathfinder.org/focus-areas/contraception-family-planning/">Contraception &amp; Family Planning</a></li>
+		<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-351"><a href="http://www.pathfinder.org/focus-areas/hiv-aids/">HIV &amp; AIDS</a></li>
+		<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-352"><a href="http://www.pathfinder.org/focus-areas/maternal-newborn-health/">Maternal &amp; Newborn Health</a></li>
+		<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-353"><a href="http://www.pathfinder.org/focus-areas/population-health-environment/">Population Health &amp; Environment</a></li>
+		<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-focus-areas menu-item-354"><a href="http://www.pathfinder.org/focus-areas/safe-abortion-care/">Safe Abortion Care</a></li>
+	</ul>
+</li>
+	<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="http://www.pathfinder.org/work-impact/where-we-work/">Where We Work</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"><a href="http://www.pathfinder.org/impact-stories">Our Impact</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="http://www.pathfinder.org/work-impact/our-projects/">Our Projects</a></li>
+</ul>
+</li>
+<li id="menu-item-1126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1126"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-360"><a href="http://www.pathfinder.org/publications">Explore Publications</a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-371"><a href="http://www.pathfinder.org/articles">Press Room</a></li>
+</ul>
+</li>
+<li id="menu-item-1127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1127"><a href="#">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="http://www.pathfinder.org/get-involved/become-an-advocate/">Become an Advocate</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="http://www.pathfinder.org/find-us-at-an-event/">Find us at an Event</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="http://www.pathfinder.org/about-us/join-our-team/">Join Our Team</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="http://www.pathfinder.org/partner-with-us/">Partner With Us</a></li>
+	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://www.pathfinder.org/read-our-blog/">Read Our Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://secure2.convio.net/pf/site/Donation2?df_id=5120&amp;5120.donation=form1">Donate</a></li>
+<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://www.pathfinder.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://www.pathfinder.org/read-our-blog/">Blog</a></li>
+</ul></div>	</nav>
+</div></header>
+
+
+<div class="breadcrumbs" typeof="BreadcrumbList" vocab="http://schema.org/">
+	<div class="container-fluid">
+	    <!-- Breadcrumb NavXT 5.5.2 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Pathfinder International." href="http://www.pathfinder.org" class="home"><span property="name">HOME</span></a><meta property="position" content="1"></span> / <span property="itemListElement" typeof="ListItem"><span property="name">Privacy Policy</span><meta property="position" content="2"></span>	</div>
+</div>
+
+<section class="pageHeading">
+	<div class="container-fluid">
+
+		<div class="pageHeading__inner">
+							
+				<div class="pageHeading__imageWrap " style="background-image: url(http://www.pathfinder.org/wp-content/uploads/2016/06/hero2-449x342-1475504912.jpg);">
+									</div>
+			
+			<article class="pageHeading__contentWrap">
+									<h1 class="pageHeading__contentWrap__title">We value the privacy of our donors and online supporters.</h1>
+				
+				
+									<div class="pageHeading__contentWrap__description">
+						<p>We have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. For any questions or concerns about our privacy policy, please contact us at <a href="mailto:communications@pathfinder.org">communications@pathfinder.org</a> or call 617-924-7200.</p>
+					</div>
+				
+				
+							</article>
+		</div>
+		
+	</div>
+	
+			<div class="pageHeading__scrolly">
+			<div class="pageHeading__scrolly__inner">
+				<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="17px" height="25px" viewBox="0 0 17 25" enable-background="new 0 0 17 25" xml:space="preserve">
+<path id="scrolldown.svg" fill="#007DC6" d="M8.5,21.3c-0.1,0-0.3-0.1-0.3-0.2l-4.6-4.5c-0.2-0.2-0.2-0.5,0-0.7c0,0,0,0,0,0
+	c0.2-0.2,0.5-0.2,0.7,0c0,0,0,0,0,0l4.2,4.2l4.2-4.2c0.2-0.2,0.5-0.2,0.7,0c0,0,0,0,0,0c0.2,0.2,0.2,0.5,0,0.7l-4.6,4.5
+	C8.7,21.3,8.6,21.3,8.5,21.3z M8.5,21.3c-0.3,0-0.5-0.2-0.5-0.5c0,0,0,0,0,0V0.5c0-0.3,0.2-0.5,0.4-0.6S8.9,0.1,9,0.4
+	c0,0,0,0.1,0,0.1v20.3C9,21.1,8.7,21.3,8.5,21.3C8.5,21.3,8.5,21.3,8.5,21.3z M16.5,25h-16C0.2,25,0,24.7,0,24.5V8.1
+	c0-0.3,0.2-0.5,0.5-0.5h16c0.3,0,0.5,0.2,0.5,0.5v16.3C17,24.7,16.8,25,16.5,25L16.5,25z M1,24h15V8.6H1V24z"></path>
+</svg>
+				<span>scroll</span>
+			</div>
+		</div>
+	</section>
+	<section id="main" class="mainContent">
+		<div class="container-fluid container-fluid--small">
+			<article class="entryContent">
+				<!-- <header class="pageHeading">
+					<h1 class="pageTitle"></h1>
+				</header> -->
+				<section class="pageContent">
+					<h2>The Short Version</h2>
+<p>This policy covers the operations of Pathfinder International with the headquarters office at 9 Galen Street, Watertown, MA 02472, USA.</p>
+<p>We do not collect any personally identifiable information about you online unless you voluntarily submit such information to us, by, for example, filling out a registration form or making a donation. We do not share email addresses. We do not retain the email address of anyone to whom you send an eCard or Tell-a-Friend link. We do not store your credit card information after processing a donation.</p>
+<p>Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable, low-cost source of new supporters. To request that your name not be used in our exchange program, please email <a href="mailto:fundraising@pathfinder.org">fundraising@pathfinder.org</a> or call 617-924-7200 and ask for the Development Coordinator.</p>
+<p>You may update your information online at any time to personalize your online communication preferences including opting out of all online communications.</p>
+<p>If you have other preferences or have questions about our communications practices please email us at <a href="mailto:fundraising@pathfinder.org">fundraising@pathfinder.org</a> or call 617-924-7200 and ask for the Development Coordinator.</p>
+<p>When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver content to you that is specific to your interests, to process a donation, or to prevent you from being required to reenter all your registration data at each connection. The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies.</p>
+<h2>The Long Version</h2>
+<p>This policy covers the operations of Pathfinder International, with headquarters office at 9 Galen Street, Watertown, MA 02472, USA.</p>
+<p>By visiting our website, you are accepting the practices described in this privacy policy (the “Privacy Policy”). Pathfinder reserves the right to change this Privacy Policy at any time by posting such change at this URL.</p>
+<p>INFORMATION COLLECTED</p>
+<p>Personal information you choose to provide: We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or making a donation. The types of information that may be requested include your name, address, email address, and telephone number to respond to a specific request for further information. You may request a record of your information by calling 617-924-7200 during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at <a href="mailto:fundraising@pathfinder.org">fundraising@pathfinder.org</a>.</p>
+<p>Additional personal information you may provide: Occasionally, Pathfinder may contact registered website visitors who have provided their personally identifiable information through the website in order to conduct surveys seeking feedback about their experience on this website. These surveys are used for quality assurance purposes to improve our level of customer service. The data collected may be shared with third parties on an aggregated basis. Through the use of some forms (donation, survey, registration, etc.) you may be asked to voluntarily submit comments or other opinions on various topics. We do not retain the address of anyone to whom you send an eCard or Tell-a-Friend link. We would only get their information if they voluntarily provide their personal information to us.</p>
+<p>Non-personally identifiable information: Pathfinder collects non-personally identifiable information about you through your IP address, computer settings or most-recently visited URL.</p>
+<p>USE OF INFORMATION</p>
+<p>Pathfinder respects your privacy and has instituted policies intended to ensure that your personal information is handled in a safe and responsible manner. By submitting personal information to us you agree that we may use the information in accordance with this privacy policy. We will update this privacy policy as we deem necessary. You should be sure to re-read this policy in its entirety from time to time</p>
+<p>Personal Information you choose to provide: We do not store your credit card information after processing a donation. Pathfinder assumes no responsibility for the data collection and use practices of third parties that process online credit card donation transactions. Personal information you choose to provide will be used for the purpose it was intended. We may also use this information to deliver to you information about Pathfinder, related activities or as otherwise disclosed to you at the point of collection, as well as for trend analysis, pattern detection, and website administration. Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable source of new donors. To request that your name not be used in our exchange program, please email <a href="mailto:fundraising@pathfinder.org">fundraising@pathfinder.org</a> or call 617-924-7200. We will only disclose personally identifiable information to other third parties when (i) the person submitting the information authorizes us to do so; (ii) sharing the information is a necessary operation of the website (i.e. to process credit card information); and/or (iii) we are required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Pathfinder or the website; (b) protect and defend the rights or property of Pathfinder, the website or the visitors to the website, and/or (c) act under exigent circumstances to protect the personal safety of visitors to the website or the public. Non-personal demographic and profile data may be used to tailor your experience at our website, showing you content we think you might be interested in.</p>
+<p>COMMENTS/OPINIONS</p>
+<p>Comments voluntarily submitted by users on forms, surveys, petitions, and donation forms may be used anonymously in Pathfinder online and/or print communications. You may request that the comment not be used by contacting <a href="mailto:communications@pathfinder.org">communications@pathfinder.org</a>. Pathfinder will obtain specific permission to use comments which will be attributed to your name. By visiting this website you agree that no information you submit to the website shall contain libelous or otherwise unlawful, abusive or obscene material. You are solely responsible for the content of any information you provide to Pathfinder.</p>
+<p>USE OF COOKIES</p>
+<p>When you register on our website, we might store some information on your computer in the form of a cookie or similar file in order to deliver to you content that is specific to your interests, and to prevent you from being required to reenter all your registration data at each connection. The cookies shall only be used to obtain non-personal information in order to improve your online experience. No other information is stored in these cookies.</p>
+<p>SECURITY</p>
+<p>Our website has industry standard high encryption security measures in place to protect against the loss, misuse, and alteration of the information under our control. We do not store your credit card information after processing a donation. Pathfinder makes every effort to protect your online order information by using Secure Socket Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Pathfinder.</p>
+<p>OTHER WEBSITES; LINKS</p>
+<p>This Privacy Policy only applies to Pathfinder-maintained websites including, but not limited to, www2.pathfinder.org and www.girl2woman.org. This website contains links to other websites that are not under Pathfinder’s control. Pathfinder is not responsible for the privacy practices or the content of such websites. Pathfinder is not responsible for the privacy policy of any website linked to or from this website.</p>
+<p>COMMUNICATION PREFERENCES</p>
+<p>You may update your account online to personalize your online communication preferences including opting out of all online communications. If you have other preferences or have questions about our communications practices please contact us and we will respond to your questions. If you prefer to call, please call 617-924-7200.</p>
+<p>DISCLAIMER</p>
+<p>This website and all of the materials on or referenced by the website are provided on an “as is” basis. In no event shall Pathfinder be liable for any direct, indirect, incidental, punitive, or consequential damages of any kind whatsoever with respect to the use of this website. You agree that you are using this website solely at your own risk.</p>
+<!-- AddThis Sharing Buttons below -->				</section>
+			</article>
+		</div>
+	</section>
+
+
+
+<footer class="footer">
+	<form id="subscribeForm">
+		<p>Stay updated on our efforts toward better sexual and reproductive health</p>
+		<div class="subscribeMessage"></div>
+		<input type="text" name="firstName" id="firstName" class="firstName hideForSuccess required" placeholder="FIRST NAME">
+		<input type="text" name="lastName" id="lastName" class="lastName hideForSuccess required" placeholder="LAST NAME">
+		<input type="email" name="email" id="email" class="emailAddress hideForSuccess required" placeholder="EMAIL ADDRESS">
+		<a href="#" class="btn btn-primary hideForSuccess">SUBSCRIBE</a>
+	</form>
+
+	<hr>
+
+	<div class="row bottom">
+		<div class="col-xs-12 col-sm-6">
+			<p>© Pathfinder International 2016</p>
+		</div>
+		<div class="col-xs-12 col-sm-6">
+			<a href="http://www.pathfinder.org/privacy-policy">Privacy Policy</a>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6cd98925ed","applicationID":"15453599","transactionName":"ZgYBMkBZVkYHBxIKCV9MIgVGUVdbSRQHBAM=","queueTime":0,"applicationTime":357,"atts":"SkECRAhDRUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+var addthis_share = {};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.4";
+                    var wp_product_version = "wpp-5.3.4";
+                    var wp_blog_version = "4.7";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.4","anonymous_profile_id":"wp-7b5635451ca90f2b2dc3857954b41343","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":true,"addthis_below_enabled":false,"addthis_sidebar_enabled":true,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":false,"addthis_above_showon_posts":true,"addthis_above_showon_pages":false,"addthis_above_showon_archives":false,"addthis_above_showon_categories":false,"addthis_above_showon_excerpts":false,"addthis_below_showon_home":true,"addthis_below_showon_posts":true,"addthis_below_showon_pages":true,"addthis_below_showon_archives":true,"addthis_below_showon_categories":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":false,"addthis_sidebar_showon_pages":false,"addthis_sidebar_showon_archives":false,"addthis_sidebar_showon_categories":false,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"pages","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":true,"ui_atversion":300,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script data-cfasync="false" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=wp-7b5635451ca90f2b2dc3857954b41343 " async="async">
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                <link rel="stylesheet" id="addthis_output-css" href="http://www.pathfinder.org/wp-content/plugins/addthis/css/output.css?ver=4.7" type="text/css" media="all">
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/bootstrap/javascripts/bootstrap.min.js?ver=1.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var localized = {"ajaxurl":"http:\/\/www.pathfinder.org\/wp-admin\/admin-ajax.php","siteurl":"http:\/\/www.pathfinder.org"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/js/scripts.min.js?ver=1.0"></script>
+<script type="text/javascript" src="https://use.fontawesome.com/e62dcb1f0b.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/js/development/archive-publications.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/mainNav/js/mainNav.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/mobileNav/js/mobileNav.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/pageHeading/js/pageHeading.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/mainNav/js/subNavSections.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/twoColumn/js/twoColumn.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/utilityNav/js/utilityNav.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/homeImpactStories/js/homeImpactStories.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/hero/js/hero.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/tabs/js/tabs.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/donatePopUp/js/donatePopUp.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/animateCss/js/animateCss.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/featuredContent/js/featuredContent.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/focusAreas/js/focusAreas.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/focusAreasMobile/js/focusAreasMobile.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-content/themes/pathfinderTheme/modules/quiz/js/quiz.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.pathfinder.org/wp-includes/js/wp-embed.min.js?ver=4.7"></script>
+<!--wp_footer--></body></html>
