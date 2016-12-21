@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613232738id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221031348id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy | SHOP.COM
 
