@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting-review.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331191926id_/http%3A//www.hosting-review.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting-review.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221032917id_/http%3A//www.hosting-review.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hosting-Review Privacy Statement
 
