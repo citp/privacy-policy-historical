@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620113435id_/http%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221202810id_/http%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BizPac Review
 
@@ -6,20 +6,17 @@
 
 We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Zip Code.
+When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or Zip Code.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
 ; To administer a contest, promotion, survey or other site feature
 
-; To send periodic emails
+; To send emails
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The email address you provide may be used to send you information, email newsletters, respond to inquiries, and/or other requests or questions.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
  
@@ -43,13 +40,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
- 
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
- 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Online Privacy Policy Only**
 
@@ -70,10 +61,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.bizpacreview.com](http://www.bizpacreview.com/)  
-224 Datura Street, Suite 1114  
-West Palm Beach, FL, FL 33401  
+[http://www.bizpacreview.com](http://www.bizpacreview.com/contact-us)  
+PO BOX 1713  
+West Palm Beach, FL 33402  
 USA  
-[info@bizpacreview.com](mailto:info@bizpacreview.com)  
-(561) 655-3311  
+[admin@bizpacreview.com](mailto:admin@bizpacreview.com)  
  
