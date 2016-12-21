@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovieswood.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521025007id_/http%3A//www.themovieswood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieswood.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221020118id_/http%3A//www.themovieswood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movies Wood
 
@@ -63,9 +63,8 @@ By using this Site, you signify your acceptance of this policy and terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Movies Wood ](http://www.themovieswood.com/)  
-<http://www.themovieswood.com/>  
-Mohlanwal Kalan Multan Road Lahore Pakistan  
-+923009485890  
-shahidirfan100@gmail.com
+<http://www.themovieswood.com/>
+
+23 KM Multan Road Lahore, Pakistan
 
 This document was last updated on February 12, 2015
