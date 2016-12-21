@@ -1,101 +1,181 @@
-> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417160649id_/http%3A//zoompanel.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompanel.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/privacy) for the most accurate reproduction.*
 
 # ZoomPanel - Privacy Policy
 
-## ZoomPanel Privacy Policy
+**Modified: March 2016**
 
-Updated September 27, 2013.
+### Introduction
 
-This privacy policy explains how Critical Mix collects, uses, transfers or otherwise handles personal information from you, a visitor to the ZoomPanel website operated by Critical Mix (collectively, the " **Site** "). 
+Critical Mix, Inc. ("Company," "we," "our," or "us"), owns and operates the website [{SITE_URL}](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/%7BSITE_URL_FULL%7D) (the "Sites"). We know that your privacy is important to you. Through the Site, we operate the {SITE_NAME} service ("{SITE_NAME}") through which we provide surveys that can be taken at the Site or via electronic notification methods such as, but not limited to, email. We provide statistical sample to organizations that conduct research primarily for marketing or for social science purposes. We're committed to helping you understand how we manage and protect the information we collect. We take privacy seriously, and have taken many steps to help safeguard the information we collect from you.
 
-### Scope
+This privacy policy ("Privacy Policy") is provided to inform you of our policies and practices regarding the information that we collect from you, including how we collect that information, the choices you can make about that information, how that information is used, and the circumstances in which we might share that information with third parties. By using or accessing the Site and participating in {SITE_NAME}, you agree to the collection and use of your information by us in accordance with this Privacy Policy and agree to accept the privacy of our Privacy Policy. Please take a moment to review the privacy of our Privacy Policy. If you do not agree to the privacy of this Privacy Policy, please do not use the Site or participate in {SITE_NAME}.
 
-This privacy policy only covers data collected through the Site. This privacy policy does not cover any other data collection or processing practices, including, without limitation, the practices of other web pages to which we link or of users of our services provided through the Site. When we refer to this privacy policy in notices and consent requests related to surveys, special-purpose web pages or otherwise, this privacy policy applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
+If you have questions or concerns regarding this policy, you may contact the {SITE_NAME} Privacy Office at [{PRIVACY_EMAIL}](mailto:%7BPRIVACY_EMAIL%7D).If you have any Customer Service issues, please contact Customer Service [here](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/%7BCONTACT_URL%7D).
 
-### Types of Data and Collection Methods
+Our Privacy Policy will tell you about
 
-Through the Site, we collect data that you actively submit (" **Actively Submitted Data** ") as well as data that we collect about you from other sources (" **Passively Tracked Data** "): 
+  * Opt-In to {SITE_NAME}
+  * The Information we Collect and Use
+  * Information Sharing and Disclosure
+  * Communications From the Site
+  * Rights Pertaining to Electronic Notifications
+  * Security and Information Protection
+  * Privacy Policy for Children
+  * Changes to this Policy
+  * Contacting Us
 
-_Actively Submitted Data_ : When you request information, subscribe to a mailing list or for a service, register as a user, post to one of our forums or communities, send or respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), telephone number(s), country of residency, and certain information related to the business you represent (if any). In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information). In connection with our own surveys, directed at ZoomPanel members, we ask questions related to the topic of the survey. When you use our tools to send out your own surveys, you decide who to contact and what questions to ask. In each such instance, however, you will know what data we collect through the Site, because you have asked your survey respondents to actively submit it. 
 
-_Passively Tracked Data_ : When you visit the Site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the Site, the Internet address of web sites from which you link to or arrive at the Site, the computer technology you are using and your movements and preferences on our Site. We use technology that many other web sites employ, including, without limitation, "cookies" or small data files stored on your computer's hard drive, to collect information such as the aforementioned. In some instances, we also use cookies to collect information in connection with future visits from that web site, to recognize you as a previous visitor and to track your activity at our Site. You do not need to have cookies turned on to participate in our surveys or to visit our Site. You can refuse cookies by turning them off on your browser, but please note that this may adversely affect your user experience and convenience. 
 
-_Combinations_ : Unless you also actively submit personal information such as your name or address in connection with Passively Tracked Data, Passively Tracked Data does not typically allow us to identify you personally. (Even though it theoretically could be done, we do not try to find out who you are, unless we need to comply with a legal obligation.) To the extent permitted by applicable law, we reserve the right to combine Passively Tracked Data or data available via a third party with personal data that you choose to actively submit. We do this for some survey "panels" (which may be deployed on Zoomerang.com or other sites). Specifically if you take surveys from us we will "fingerprint" your system in order to combat fraud. In generating this "fingerprint" we gather only publically available information from your browser; this includes your IP address, browser version, and other similar types of information. 
+Thank you for using {SITE_NAME}.
 
-### Collection Purposes, Use of Data
+### Opt-In to {SITE_NAME}
 
-_Passively Tracked Data_ : We collect Passively Tracked Data primarily for purposes of administering, protecting and improving our Site and our systems, to better understand the preferences of our Site visitors, to compile aggregated statistics about Site usage, and to help personalize your experience on our Site. We also use cookies and Passively Tracked Data to protect the integrity of surveys, e.g., to prevent survey respondents from responding to the same survey twice. 
+Members may sign up for {SITE_NAME} by completing the "double opt-in" process at our Site(s) or through the websites of one of our many clients, vendors, or entities with which we have a commercial relationship (our "partners"). During the double opt-in process, members are sent a confirmation email following an initial request to subscribe at one of our sites, including this Site, or one of our partners' Websites, and all members must affirmatively click an additional link in that confirmation email - confirming their opt-in preference.
 
-For some survey panels we will verify the information that you, or a third party, provide us and/or combine the information you provide with information we may gather from additional sources. Verification of personal data may be done on our systems, or done by a third party. If your personal data is provided to us for verification purposes only we will never store any of your personal information on our systems (we store only the results of the verification process). 
+### The Information We Collect and Use
 
-_Actively Submitted Data_ : We collect Actively Submitted Data primarily for two purposes: Firstly, for the purpose for which you originally sent us the data e.g., to receive the service you requested, to confirm your registration for a service, to run a survey, to allow you to run a survey, to bill you for services or to send you information or materials that you requested. Secondly, for the purposes of informing you about our products and services; additionally, you can opt out of receiving marketing emails as explained below. 
+By information, we mean information about you collected through {SITE_NAME} and our Site, including "personally identifiable information" such as your name, email address, residential or work address, certain demographic information, as well as information regarding your hobbies, interests and product ownership and other information you provide to us by registering for {SITE_NAME}, participating in our surveys or services, or making requests for information about our services. Registration for {SITE_NAME} is not required to view non-member areas of the Site. If you elect to register for {SITE_NAME}, we ask you for information that enables us to provide you with access to and permit you to participate in {SITE_NAME}. You will be registering with {SITE_NAME} on the form provided and such registration may require you to provide contact information such as your email address, your name, and your residential or work address and certain demographic information. In addition, from time to time, we receive e-mail addresses from one of our partners, who may ask us to contact you to offer you a survey.
+
+We may collect other information other than personally identifiable information, "anonymous information", such as your user name and password (your "Login"), IP address (which we typically do not use to identify you personally-see further discussion below under "IP Addresses"), and your website browsing patterns (discussed in further detail below). We use such anonymous information to serve you better and send you surveys that are most relevant to your interests. We and / or our data partners, where you have given such data partners your consent, may also seek other personally and anonymous information from you or where such information is otherwise publicly available.
+
+From time to time we may use third party providers to validate the accuracy of personal information you provide, so that we may offer better statistical sample to our clients. We may use third parties to provide us with data they have collected about you, and append this data to your demographic profile. In such cases only a minimum amount of information is transferred to these third parties to enable them to perform specific functions on our behalf.
+
+Additionally, in certain circumstances, we offer individuals the ability to participate in our clients' surveys outside of {SITE_NAME}. If you are asked to participate in such a survey, we will request limited anonymous information about you. In some cases, after completion of the initial survey, we may request personally identifiable information about you in order to provide rewards, to offer you the opportunity to join {SITE_NAME}, or to participate in further surveys.
+
+You may be referred to {SITE_NAME} or our surveys by one of our partners. In the event that we ask such partner to contact you with additional survey opportunities, we may share certain basic personal information that we understand such partner already maintains (such as your e-mail address and gender) as well as certain basic information regarding your {SITE_NAME} activity (such as the last time you completed a survey).
+
+Any information provided to us will be retained and used solely for the purposes of fulfilling your requests, responding to your questions, offering you opportunities to participate in surveys, performing and carrying out the privacy of {SITE_NAME} (including fulfilling any rewards), or communicating with you as a member of {SITE_NAME}.
+
+We support the rights of our members by limiting the use of their information for legitimate market research purposes and we make every effort to conform to the efforts of the following organizations created to uphold ethical survey research
+
+  * Marketing Research Association (MRA)
+  * Council of American Survey Research Organizations (CASRO)
+  * Advertising Research Foundation (ARF)
+
+
+
+Critical Mix, Inc. complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Critical Mix, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page,please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-EU Safe Harbor Principles, Critical Mix, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact Critical Mix, Inc. at:
+
+ _Critical Mix/{SITE_NAME}  
+Attn: Legal - Privacy Department  
+53 Riverside Avenue  
+Westport, CT 06880  
+Phone: {PHONE_NUM}_
+
+Critical Mix, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Critical Mix, Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+### Member Profile
+
+To further improve the quality, targeting and relevance of our surveys, you may be asked to provide certain demographic data (like your age, gender, zip code, income) and profile data (like occupation, shopping habits and other areas of interest) as certain surveys may be directed to those participants who meet a particular profile. You will be asked to answer certain questions on forms and pages hosted by us. The information we collect will be used to determine whether you are eligible to participate in the survey and will also be maintained by us to enable us to provide you with more relevant surveys in the future.
+
+### Opt Out
+
+Members can unsubscribe from {SITE_NAME} at any time, no questions asked. We know that just because you joined {SITE_NAME} a month ago doesn't mean that you necessarily want to stay on it forever. Every survey invitation we send is coded with a special footer that allows you to remove your name from {SITE_NAME} and services automatically by clicking a link provided in the message. In addition, you can discontinue your {SITE_NAME} membership by visiting [{UNSUBSCRIBE_URL}](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/%7BUNSUBSCRIBE_URL%7D) and following any instructions. Upon unsubscribing from {SITE_NAME}, we will deactivate your membership account and you will not receive any further survey invitations; although you may continue to receive some previously prepared survey invitations for a few days following the termination of your membership. We will retain your personal information for an indefinite period of time; however, we will continue to protect such personal information in accordance with this Privacy Policy. If you would like your personal information deleted from our site, please contact Customer Service at [{CONTACT_URL}](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/%7BCONTACT_URL%7D). We will respond to your request within 30 days. Please note we will not be able to delete data that has been technologically archived in our backup systems, but we can delete current live information in our database.
+
+{HOW_TO_UPDATE_EMAIL}
+
+### Aggregate Information
+
+From time to time, we may collect general, non-personal, statistical information about the use of the Site and the Service, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they "click" on. We collect this information from you by "passive" means through the use of technologies such as "cookies" and IP addresses, which are discussed in greater detail below. We may also group this information into aggregate visitor data in order to describe the use of the Site and {SITE_NAME} to our existing or potential business partners or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you, other list members or any other visitors to the Site.
+
+### IP Addresses
+
+An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. Web servers, the computers that "serve" web pages, automatically identify your computer by its IP address. We collect IP addresses for purposes of system administration, to report aggregate information to third parties and to track the use of the Site. When visitors request pages from the Site or click on a link in a mailing sent through {SITE_NAME} our servers log the visitors' IP addresses. We reserve the right to use IP addresses to identify a visitor or member when it will enhance the user's experience or if we feel it is necessary to enforce compliance with the Site's policies or to protect the Company, the Sites, the Site's visitors, {SITE_NAME}, our Internet Service Provider partners, the members or others.
 
 ### Cookies
 
-We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons: 
+Cookies are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. We use cookies for a number of purposes
 
-  * _For security reasons_. We use cookies to authenticate your identity, such as confirming whether you are currently logged into our website.
-  * _To provide you with personalized content_. We may store user preferences, such as your default language, in cookies to personalize the content you see.
-  * _To improve our services_. We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users./li>
+ **On Our Sites:** Most commonly, we use cookies to make web-surfing easier for you by saving your preferences while you're using our Sites. The use of cookies is an industry standard -you'll find them at most websites. We use cookies on the Sites to verify a member's login status. By showing how and when visitors use the Sites, cookies help us see which areas are popular and which are not. Information such as the total number of visitors to the Sites and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Sites and to tailor our services to our visitors', members' and survey participants' needs.
 
+ **For Banner Ads:** When you visit one of our Sites or take one of our surveys, without registering for {SITE_NAME}, we may place cookies on your computer that alerts internet advertising networks that you have visited one of our Sites or surveys. These cookies, which do not track any personally identifiable information, allows us to ask internet advertising networks to serve you advertisements with respect to survey opportunities, {SITE_NAME} and our Sites.
 
+ **For Brand Awareness Studies:** We may place cookies from a third party technology provider on your computer that signals when you visit a website that utilizes a supported internet advertising network. We provide only limited anonymous information to the third party technology provider, including certain demographic information and a coded user identification number. The signal emitted from the cookie includes solely the coded user identification number and the specific advertisement(s) that you may have viewed. Certain of our clients may ask us send you survey opportunities to determine the effectiveness of their internet advertising based on the signals sent by the cookie about the advertising you may have viewed. You may choose to opt-out of receiving these brand awareness cookies at any time by clicking on the following link: [{OPTOUT_URL}](https://web.archive.org/web/20161221153612id_/https%3A//www.zoompanel.com/%7BOPTOUT_URL%7D). In the event you opt-out of receiving these cookies, we will no longer place brand awareness cookies on your system. As a registered member of {SITE_NAME}, we will save this opt-out preference to your profile.
 
-The use of cookies by our third party service providers is not covered by our privacy policy. We do not have access or control over these cookies (other than allowing the third parties to set these cookies via our websites). For example, we use Google Analytics, which helps us to analyze usage of our websites. Google Analytics sets cookies to assist it to identify users and analyze their usage on an anonymous and/or aggregated basis. Our third party partners employ clear gifs (also known as page tags, web beacons or web bugs), images and scripts that assist us to manage ZoomPanel and the surveys we send out to ZoomPanel members. For example, some of these clear gifs gather information that is used to help us diagnose problems with email deliverability. Some of this information gathered is tied back to our users' accounts. 
+By your use of the Sites and {SITE_NAME}, you authorize cookies to be put in place and their use by us and our clients and business partners consistent with the disclosures above. The cookies will expire after one year.
 
-### Web Beacons
+You also always have the option of disabling the installation of new cookies and deleting existing cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent and to accept/reject such cookie(s) individually. However, please be aware that some features of the Sites will not function properly or may be slower if you refuse cookies.
 
-Our web pages may contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used, and also to measure the effectiveness of our online marketing and advertising campaigns. Web beacons may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+### Clear Gifs (Web Beacons / Web Bugs)
 
-### Disclosures of Personal Information
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly in HTML files and are about the size of the period at the end of this sentence.
 
-We are not in the business of selling or renting your information to telemarketers and do not share your personal information with others, except as follows: 
+We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications. We may also use them to confirm payment to our third party partners. If you no longer wish to receive our communications sent by email, you may opt-out of receiving them by following the instructions included in each communication.
 
-  * We may share your information with affiliated companies for reward redemption and/or other market research opportunities.
-  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
-  * We also engage agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements.
-  * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
-  * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
-  * We reserve the right to use and disclose any information collected via the Site that is not in personally identifiable form.
-  * We do not share, sell, rent or trade your personal information with third parties for their promotional purposes.
+### Information Sharing and Disclosure
 
+Except for the situations listed here in this Privacy Policy, we will not share your personally identifiable information with third parties.
 
+### Survey Research Responses
 
-Without limiting the generality of the foregoing, note that we will NOT share your identity or your individual responses to surveys that we conduct ourselves with customers who may have commissioned such surveys; we only provide aggregate response data to survey customers. But, as noted in the next section, we do not control how others may use our tools when they conduct surveys through our website. 
+Generally, we provide the results of survey research to our clients in aggregate form. Accordingly, except as expressly provided otherwise in this Privacy Policy, we will not disclose to our clients your individual identity as a survey participant and/or your individual survey responses unless we obtain your permission to do so. Some of our surveys in which you might participate are part of larger research projects involving other research companies. With such "multi-tiered" projects, we may provide your individual identity as a participant and other information about you (including personally identifiable information) to other research companies, subject to their written agreement to keep that information confidential as otherwise provided in this Privacy Policy.
 
-### Third Party Data Collection Through Our Site
+### Agents and Third Party Service Providers and Partners
 
-When one of our users deploys our tools to send out survey response requests or otherwise to collect data, e.g., through zoomerang.com, such user will receive and process any responses. We will host, but not access such information, except in connection with technical support, with the consent of the user who conducted the survey, or in any other manner permitted by this privacy policy. We post rules on how our tools should be used, however, we cannot control the data processing practices of our users and we do not assume any responsibility for actions of our users who conduct surveys or of any other third parties. 
+We may provide your personally identifiable information to a client or partner for limited market research related uses including, without limitation, modeling, validation, fraud detection and/or prevention, data append, database segmentation, and reward, incentive, or sweepstakes redemption, fulfillment, and/or entry in connection with your participation in or completion of any survey. In such instances, they are not permitted to retain or use your information for any other purpose.
 
-### Co-branded Sites
+### Digital Fingerprinting
 
-From time to time we may partner with third parties to provide co-branded sites. In the event that you provide personal information on such a site, this privacy policy will continue to apply, unless that site has its own privacy policy. You retain full rights to you data and may either contact us at the relevant email address in the "Contact Us" section below to change or remove your data or alternatively you may ask us for a contact at the third party who can provide this service. 
+We may use digital fingerprinting technologies to assign a unique identifier or "Machine-ID" to a user's computer to identify and track the computer. {SITE_NAME} works principally with a third party provider to deploy this technology (the "Technology") and does not use it to collect personally identifiable information, or track the online activities, of the user of a computer; and will not disrupt or interfere with the use or control of a computer or alter, modify or change the settings or functionality of a computer. We use the unique identifier to assist our clients in ensuring the integrity of survey results. The third party provider analyzes publicly available information and data obtained from the computer's web browser and from other publicly available data points, including without limitation the technical settings of the computer, the characteristics of the computer, and the computer's IP Address, to create a unique identifier assigned to the computer. The unique identifier is an alpha-numeric id. After creating the unique identifier, we do not retain the information analyzed by the Technology to create the unique identifier. Additionally, to assist our clients in protecting and ensuring the integrity of survey results, we (a) may link or associate your unique identifier to you and any of your personally identifiable information; (b) may share your unique identifier with our clients and with other sample or panel providers; and (c) may receive or obtain a unique identifier linked to you from a third party, including without limitation a sample or panel provider or a client of {SITE_NAME}. Any unique identifier(s) received or obtained by {SITE_NAME} and linked to a specific individual will be protected in accordance with this Privacy Policy.
 
-### Opt-Out
+### Change of Control / Asset Transfer
 
-In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial emails, sharing of your information with our affiliates or to unsubscribe from services, please contact us at the relevant email address in the "Contact Us" section below. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests. 
+As the Company develops, we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by a third-party, customer information, including any visitor information collected through the Site or {SITE_NAME}, would be one of the transferred assets. In the event of a corporate change in control or sale of all or parts of our business assets our users will be notified and given the opportunity to opt-out of any such transfer of their personally identifiable information to the new corporate entity or asset purchaser.
 
-### Access
+### Legal and Site Compliance
 
-If personal information you have submitted through the Site is no longer accurate, current, or complete, and you wish to update it, or you wish to delete it, please update your profile on the Site (e.g. [www.zoompanel.com](http://www.zoompanel.com/)) or send an email to the relevant email address in the "Contact Us" section below. We will amend any information that is not updateable on the Site upon your email request. We will respond to your request to access promptly, but in any event within 30 days. 
+The Company reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the Company's rights or property, other visitors, list members, or anyone else that could be harmed by such activities. The Company also reserves the right to disclose visitor or list member information when we believe in good faith that the law requires it. We may also use personally identifiable information to monitor compliance with the Site’s privacy and Conditions.
 
-### Data Retention
+### Communications From the Site
 
-We will retain your information for as long as your account is active or as needed to provide you with services. If you wish to cancel your account or request that we no longer use your information to provide you with services, contact us at the relevant email address in the "Contact Us" section below. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, and to enforce our agreements. 
+### Survey Electronic Notification
 
-### Security
+We will send you targeted and relevant surveys by electronic notification (such as, but not limited to, email, sms, social media, smart phones) as is necessary to fulfill {SITE_NAME} to you.
 
-Transmissions over the Internet are never 100% secure or error-free. We do, however, take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration and destruction. For example, we encrypt your registration information using secure socket layer technology (SSL). To learn more about SSL follow this link: <http://en.wikipedia.org/wiki/Transport_Layer_Security>. It is your responsibility to safeguard any password and User ID you use to access the Site and to notify us if you ever suspect that your password or User ID has been compromised. You are solely responsible for any unauthorized use of the Site conducted via your password and User ID. 
+### Service Notification
 
-### Children's Privacy
+We will send you service-related announcements, which are not promotional in nature, on occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we may send you electronic notification.
 
-The Site is intended for adults. We do not intentionally or knowingly collect personal information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the Site. 
+### Customer Service
 
-### Effective Date, Amendments
+Based upon the information you provide us, we will communicate with you in response to your inquiries, to provide the services you request, to fulfill incentive requests, and to manage your account. We may communicate with you by electronic communication or telephone.
 
-We reserve the right to change, modify, supplement or replace all or part of this privacy policy from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Before any material changes to this privacy policy we will post a prominent notice on our Site before these changes go into effect. When you visit the Site, you are accepting the current version of this privacy policy as posted on the Site at that time. We recommend that users revisit this privacy policy on occasion to learn of any changes. 
+### Rights Pertaining to Personal Information Electronic Notifications
 
-### Contact Us
+We regularly send electronic notifications to the members of {SITE_NAME}. If you do not wish to receive them you may opt-out and/or deactivate your account by following the instructions included in each communication.
 
-If you have a query or request specific to ZoomPanel, you may contact us at [help@zoompanelsupport.com](mailto:help@zoompanelsupport.com).
+### Security and Information Protection
 
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this statement. You can contact us through this [contact us](mailto:help@zoompanelsupport.com) or by mail to ZoomPanel, 264 Riverside Ave, Westport, CT 06880 . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you can also contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison to resolve your concerns for any complaints. 
+The security of your information is important to us. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it; however, no method of transmission over the Internet or electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Firewalls
+
+Protecting the security of your personal information is very important to us. When we store information that you have provided to us when registering for {SITE_NAME}, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors) and other tools such as data encryption and physical security, where appropriate. Unfortunately, no data transmission over the Internet or data repository can be guaranteed to be 100% secure. As a result, while Company strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
+
+### Links to other sites
+
+Please be aware that when you are on the Site, or when you receive an email message from us through {SITE_NAME}, you could be directed to other sites that are beyond our control. There may be links to other sites from the Site's pages or from the email message we send to you that take you outside our Site. These other sites may send their own cookies to visitors, collect data, or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. Note that when you link to a third party site from the Site, you may see pre-populated data fields with your personal information; however, that information is not available to the third party unless you take certain actions on the third party's site, such as submitting a form.
+
+### Single Sign-On
+
+We use single sign-on service(s) that allow you to sign into {SITE_NAME} using your third-party social networking login credentials such as your Facebook or Twitter accounts. These services allow you to link your existing social network profile to your {SITE_NAME} account. Once linked, you will be able to post content on the third-party site from {SITE_NAME} and interact with your friends. If you choose to use such a sign-on service, {SITE_NAME} may also access certain profile information from your third-party social network profile such as friends, profile picture, etc.
+
+### Privacy Policy for Children
+
+We do not knowingly collect information from children under the age of 13 on the Site or through the Service without permission from a parent or legal guardian. If you are under the age of 13, please do not provide any information to us. If we become aware that we have collected information from a child under the age of 13 without the permission of a parent or legal guardian, we will make commercially reasonable efforts to delete such information from our database.
+
+### Changes to this Policy
+
+The privacy of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Effective" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes.
+
+### Contacting Us
+
+We value your opinions. If you have comments or questions about our Privacy Policy, please send them to the {SITE_NAME} Privacy office at [{PRIVACY_EMAIL}](mailto:%7BPRIVACY_EMAIL%7D), or contact:
+
+ _Critical Mix/{SITE_NAME}  
+Attn: Legal - Privacy Department  
+53 Riverside Avenue  
+Westport, CT 06880  
+_
