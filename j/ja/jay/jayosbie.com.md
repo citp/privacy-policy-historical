@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayosbie.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612034123id_/http%3A//www.jayosbie.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayosbie.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221052940id_/http%3A//www.jayosbie.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ What information we share with our partners
 
 The choices we offer
 
-Jay Osbie’s Privacy Policy is broken out into two sections. Section I explains Jay Osbie’s privacy policies regarding the collection, use, and sharing of data from visitors to our website. Section II covers Jay Osbie’s privacy policies with regard to customer accounts.
+Jay Osbies Privacy Policy is broken out into two sections. Section I explains Jay Osbies privacy policies regarding the collection, use, and sharing of data from visitors to our website. Section II covers Jay Osbies privacy policies with regard to customer accounts.
 
 **Section I**
 
@@ -36,9 +36,9 @@ In order to allow Jay Osbie to reach the best audience online, we work with thir
 
 **Technologies We and Our Third Party Advertising Partners Use**
 
-Jay Osbie uses technologies such as cookies to keep track of your activities on our website. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. Our third party partners and we use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our website’s operation and use.
+Jay Osbie uses technologies such as cookies to keep track of your activities on our website. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. Our third party partners and we use session cookies and persistent cookies to make it easier for you to navigate and enhance the experience of our site, and to monitor and evaluate our websites operation and use.
 
-We use persistent cookies to keep track of your activities when you visit our website and track affiliate links. Jay Osbie’s policy is that our Advertising Partners only collect information that does not personally or directly identify you via these cookies and we will cease working with partners found violating this policy. You can remove cookies by following directions provided in your Internet browser’s “help” file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.
+We use persistent cookies to keep track of your activities when you visit our website and track affiliate links. Jay Osbies policy is that our Advertising Partners only collect information that does not personally or directly identify you via these cookies and we will cease working with partners found violating this policy. You can remove cookies by following directions provided in your Internet browsers help file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.
 
 How we share your information
 
@@ -52,7 +52,7 @@ We may also share information about you if necessary to comply with laws or regu
 
 We retain the identifiable data we collect from newsletter subscriptions and registrations on our website.
 
-**Section II – Jay Osbie Customers**
+**Section II  Jay Osbie Customers**
 
 Account information we collect
 
@@ -104,7 +104,7 @@ Children 17 and under are not eligible to use Jay Osbie services without partici
 
 **Other Sites Policies**
 
-Jay Osbie has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on Jay Osbie’s website, or the cookies these sites might set in your browser. Online Behavioral Advertising.
+Jay Osbie has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on Jay Osbies website, or the cookies these sites might set in your browser. Online Behavioral Advertising.
 
 **How you can contact us about privacy questions**
 
