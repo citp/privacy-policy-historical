@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imobie.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511211905id_/https%3A//www.imobie.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imobie.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222005453id_/https%3A//www.imobie.com/company/privacy.htm) for the most accurate reproduction.*
 
 # iMobie - Privacy Policy
 
