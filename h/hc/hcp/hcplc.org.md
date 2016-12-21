@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcplc.org privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504193546id_/http%3A//www.hcplc.org/hcplc/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcplc.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221154638id_/http%3A//hcplc.org/hcplc/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Hillsborough County Public Library Cooperative
 
