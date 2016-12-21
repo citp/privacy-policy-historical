@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420053506id_/http%3A//www.nashville.gov/Privacy-and-Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221040356id_/http%3A//www.nashville.gov/Privacy-and-Security.aspx) for the most accurate reproduction.*
 
 # Nashville > Privacy and Security
 
@@ -43,23 +43,19 @@ If you prefer not to receive cookies while browsing our web site, you can set yo
 
 For more detailed information on cookies, visit this page on the Microsoft web site: <http://www.microsoft.com/info/cookies.htm>
 
-## Hosting of some parts of Nashville.gov by outside parties
+## External Links
 
-Some content on portions of this web site resides on servers run by non-nashville.gov parties. The non-nashville.gov parties have direct control of what information is automatically gathered, whether cookies are used, and how voluntarily provided information is used, and thus we cannot represent that they abide by this privacy policy. We are working toward integrating the entire web site on our servers so that we can guarantee our privacy statement across the site. Below are listed some of those Metro departments and associated agencies that are currently hosted by outside parties:
+The information posted on the nashville.gov website includes hypertext links or pointers to information and services created and maintained by other public and/or private organizations. The Metropolitan Government of Nashville and Davidson County (“Metro”) provides these links and pointers solely for your information and convenience. When you select a link to an outside website, you are subject to the privacy, copyright, security, and information quality policies of that website. Metro:
 
-  * Adventure Science Center
-  * Airport Authority
-  * Credit Union
-  * Justice Integration Services
-  * Metro Nashville Public Schools
-  * Metropolitan Transit Authority
-  * Nashville Arena (Bridgestone Arena)
-  * Nashville Convention Center
-  * Nashville Electric Service
-  * Property Assessor
-  * Tennessee State Fair
+  1. DOES NOT control or guarantee the accuracy, legality, relevance, timeliness, or completeness of information contained on a linked website;
+  2. DOES NOT endorse linked websites, the views they express, or the products/services they offer;
+  3. CANNOT authorize the use of copyrighted materials contained in linked websites;
+  4. IS NOT responsible for transmissions users receive from linked websites;
+  5. DOES NOT control or guarantee the security or the privacy of the linked websites.
 
 
+
+You use these sites at your own risk.
 
 ## Use of Nashville.gov by Children
 
