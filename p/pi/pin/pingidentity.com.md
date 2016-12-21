@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417125639id_/https%3A//www.pingidentity.com/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221072935id_/https%3A//www.pingidentity.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,6 +49,16 @@ While Ping Identity will never sell or rent information about you or your use of
 
 In addition, Ping Identity may use or disclose any information available to it, if required to do so by law, or if necessary to conform with the requirements of the law or to comply with legal process served upon us, to protect or defend our legal rights, or to investigate, prevent, or take legal action regarding suspected fraud, threats to physical safety, or other illegal activity.
 
+### Ping Provided Services
+
+#### Information Processed on Behalf of our Customers using our Service Offerings
+
+Ping Identity facilitates the transfer of information for its customers in connection with our service offerings. Ping has no direct relationship with the individual users/employees of our customers and the type of information that is handled by Ping’s service is at the sole discretion of our customers. Therefore, such information may include personal information of users/employees.
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to their employer or service provider. If the employer or service provider requests that Ping Identity remove the data, we will respond to their request within 30 business days.
+
+Ping Identity will retain any information we process on behalf of our customers for as long as needed to provide services to our customer or as otherwise required by law. Ping Identity will retain and use this information solely as necessary to provide our services, comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ### Communications From Us
 
 All users may opt-in to receiving periodic e-mail communications from us. If you do not explicitly opt-in and choose to receive information from us, we will not include you on distributions of information related to this site, other than service-related administrative e-mails. You may choose to opt-out from receiving other communications at any time by following the link provided on all e-mail communications with instructions on how to opt-out from communications from us. In addition, you may contact the site directly at [privacy@pingidentity.com](mailto:privacy@pingidentity.com) to request removal of your personal information from our systems.
@@ -63,16 +73,6 @@ We take steps to make sure your personal information is accurately maintained. Y
 
 If you have concerns about this Policy, its implementation, or other related inquiries or concerns, please contact us at [privacy@pingidentity.com](mailto:privacy@pingidentity.com). Any improper collection or misuse of information in violation of this Policy or should reported by e-mail to [privacy@pingidentity.com](mailto:privacy@pingidentity.com). Ping Identity takes seriously any reported violations, and will investigate such violations and correct any misinformation with a user’s personal information.
 
-### Ping Provided Services
-
-#### Information Processed on Behalf of our Customers using our Service Offerings
-
-Ping Identity facilitates the transfer of information for its customers in connection with our service offerings. Ping has no direct relationship with the individual users/employees of our customers and the type of information that is handled by Ping’s service is at the sole discretion of our customers. Therefore, such information may include personal information of users/employees.
-
-An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to their employer or service provider. If the employer or service provider requests that Ping Identity remove the data, we will respond to their request within 30 business days.
-
-Ping Identity will retain any information we process on behalf of our customers for as long as needed to provide services to our customer or as otherwise required by law. Ping Identity will retain and use this information solely as necessary to provide our services, comply with our legal obligations, resolve disputes, and enforce our agreements.
-
 ### Changes in This Policy
 
 We reserve the right to modify this Policy at any time, so please review it frequently. If we decide to change our Policy, we will post the changes to the Policy here and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
@@ -85,21 +85,19 @@ We have implemented reasonable information security policies, rules and technica
 
 All our employees, contractors and data processors who have access to, and are associated with the processing of your personal data, are obligated to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us.
 
-[**We self-certify compliance with:**](https://safeharbor.export.gov/list.aspx)
+### U.S.-Swiss Safe Harbor Statement
 
-[](http://www.export.gov/safeharbor)
+Ping Identity is committed to handling personal information that is collected from individuals in Switzerland and then transferred to the United States in accordance with U.S. Department of Commerce Safe Harbor Principles.
 
-### Safe Harbor Privacy Statement
+Ping Identity complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.
 
-Ping Identity is committed to handling personal information that is collected from individuals from Switzerland and European Union member countries and then transferred to the United States in accordance with U.S. Department of Commerce Safe Harbor Principles.
+Ping Identity has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Ping Identity utilizes the self-assessment approach to verify our continuing compliance with those Principles and this Policy. 
 
-Ping Identity complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+Ping Identity is committed to resolving any disputes regarding our privacy practices  through a process of internal investigation and resolution. 
 
-Ping Identity has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Ping Identity utilizes the self-assessment approach to ensure our continuing compliance with this Policy. From time to time, Ping Identity verifies that this Policy is accurate and in conformity with Safe Harbor Principles.
+Data subjects in Switzerland may direct any questions, concerns, or comments about this Privacy Policy to Ping Identity at [privacy@pingidentity.com](mailto:privacy@pingidentity.com). Ping Identity agrees to cooperate and comply with Swiss Data Privacy Authorities to investigate and resolve disputes concerning Safe Harbor issues. 
 
-Ping Identity is committed to resolving any disputes that may arise through a process of internal investigation and resolution. If there are any disputes that Ping Identity is unable to resolve, Ping Identity will facilitate the resolution of such disputes by submitting them to an independent party.
-
-Within the EEA and Switzerland, any questions, concerns, or comments about this Privacy Policy may be directed to Ping Identity at [privacy@pingidentity.com](mailto:privacy@pingidentity.com). Ping Identity agrees to cooperate and comply with EEA and Switzerland Data Privacy Authorities to investigate and resolve any dispute concerning Safe Harbor issues. To learn more about the Safe Harbor program, and to view Ping Identity’s certification, please visit <http://www.export.gov/safeharbor/>.
+To learn more about the U.S.-Swiss Safe Harbor program, and to view Ping Identity’s certification, please visit <http://2016.export.gov/safeharbor/swiss/index.asp>.
 
 ### Contact Us
 
