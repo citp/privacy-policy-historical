@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracku.in privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422100038id_/https%3A//cracku.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracku.in privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221174414id_/https%3A//cracku.in/privacy) for the most accurate reproduction.*
 
 # Cracku | Privacy Policy
 
@@ -52,7 +52,7 @@ Due to the existing regulatory environment, we cannot ensure that all of your pr
 
 As a matter of policy, we do not sell or rent any personally identifiable information about you to any third party.
 
-**Law and order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+ **Law and order:** We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
 
 
 
