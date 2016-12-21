@@ -1,64 +1,64 @@
-> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628203127id_/http%3A//www.ahlanlive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221175736id_/http%3A//www.ahlanlive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Ahlan! Live
+# PRIVACY POLICY - - Ahlanlive
 
-**INTRODUCTION**    
-AHLAN! is a picture portal website showcasing digital photographs of people enjoying themselves at restaurants, bars, nightclubs and outdoors. 
+The ITP Publishing Group Inc. ("ITP") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Ahlanlive.com. A current list of our publications, web site, and trade shows can be found at Ahlanlive.com.
 
-AHLAN! dispatches its own photographers and requests bar owners and customers to capture photographs for the website. AHLAN! briefs all photographers to photograph people with their permission and to delete any pictures on request. 
+**Information Collection and Use**  
+Ahlanlive.com collects information from our website users, subscribers and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers.
 
-AHLAN! respects the privacy of its users and has drafted this Privacy Policy to protect their interests. 
+**Registration and Ordering**  
+When registering to attend or event, using our website and signing up for certain selected services (such as free subscriptions), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, and company information). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes.
 
-AHLAN! reserves the right to amend this Privacy Policy at any time without notice. 
+**Free Subscriptions**  
+Many of our products and services are free to subscribers who meet certain demographic criteria. Subscribers will be notified by return email if their application has been successful or rejected. Independent auditors may need to certify the eligibility of those subscribers. In order to do that, we may collect unique Personal Identifier Questions (PIQs) (such as town of birth, mother's maiden name, etc) that we disclose to the auditors strictly for industry reporting and audit verification purposes for industry reporting and audit verification purposes. Please note that subscription mailing lists are printed on the 20th day of each month for mailing labels for the following month. For this reason subscription applications accepted after the 20th of the month date will not begin from the following month, but the month after.
 
-**REGISTRATION**    
-Users are required to complete a Registration Form to access all features of AHLAN!. 
+**Paid Subscriptions and Tickets**  
+For our services that require payment (such as certain events and subscriptions), we also collect credit card information (such as credit card number and expiry date), which is used for billing purposes only, and is not otherwise shared.  
+Please note that subscription mailing lists are printed on the 20th day of each month for mailing labels for the following month. For this reason subscription applications accepted after the 20th of the month date will not begin from the following month, but the month after.
 
-AHLAN! is committed to safeguarding the constitutional and common law privacy of its registrants and will not disclose nor sell any personally identifiable information to anybody without the express permission of its registrants unless obliged to do so by law or due legal process. Personally identifiable information includes a registrant's name, telephone number and e-mail address which is stored on a secure server where access is limited to authorised AHLAN! personnel, its System Administrators and its appointed agents. 
+  
+**E-mail Newsletters**  
+If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and, occasionally, demographic information). We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of each e-mail newsletter they receive.
 
-Registrants agree to be identified by their user names that are linked to their registration data. Therefore registrants are not anonymous to AHLAN! once they have registered. 
+**Surveys and Competitions**  
+From time to time we invite users to provide information via surveys or competitions. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to other uses set forth in this policy, contact information collected in connection with surveys and competitions is used to notify the winners and award prizes, to monitor or improve the use and satisfaction of the site, and may be shared with sponsors of such surveys or competitions.
 
-**DATA OWNERSHIP**  
-Unless indicated to the contrary, AHLAN! is the proprietor of all data gathered on its website. AHLAN! reserves the right to gather data on behalf of its clients and to license this data to its clients. 
+**Communications with Us**  
+We have features where users can submit information to us (such as our online Subscription Services forms). Letters to the editor and similar submissions may be made public. Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better.
 
-**DATA STORAGE**  
-All data is stored online on a secure, dedicated server. Data is periodically backed up on a daily basis on a mirror hard drive. 
+**Communications from Us: Service Updates, Special Offers**  
+In order to best serve our customers, we may send updates that contain important information about our site and services. For example, we send new members a welcoming message, and verify password and username for our password-protected areas. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail.  
+We offer our users the option to receive information about our company, related products, services and special deals. Users can choose not to receive these communications, as set forth in our Permission section below.
 
-Access to the personally identifiable data of AHLAN! registrants is restricted to authorised AHLAN! personnel, its System Administrators and its appointed agents. All such parties are contractually bound to confidentiality. 
+**Automatic Data Collection**  
+Our web sites have features that automatically collect information from users, to deliver content specific to users' interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users.  
+We use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our site. If users reject the cookies, they may be limited in the use of some areas of our site. For example, the user may not be able to participate in competitions or votes that take place. Cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
+Some of our business affiliates use cookies on our sites in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information.  
+For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use.  
+We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
 
-AHLAN! clients may have access to selected portions of registrant data and anonymous competition entry or survey data. 
+**With Whom Your Information Is Shared**  
+When we have co-branded, customized, private label, powered by or sponsored products and services, or when we join with other parties to provide specific services, we may share (provide and receive) personal information with them. Please note that we do not share credit card information with such third parties.  
+On occasion, we may provide targeted lists of names and offline and online contact information for marketing purposes to third parties, subject to our Permission policies. We give users the option of not having their name or contact information disclosed to third parties, as set forth in the Permission section.  
+Other than as set forth above, we do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property.  
+We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information.
 
-**DATA USAGE**    
-Registrant data (where the user has agreed to be contacted by Third Parties), and opt-in email addresses may be disclosed and released to AHLAN! clients for their own commercial use. 
+**Permission**  
+Our users are given the opportunity when they register to choose whether to receive information from our affiliates and us not directly related to the registered services. Users also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Please note that we will endeavour to implement requests within a reasonable time, although for a time users may continue to receive mailings, etc., transmitted based on information released prior to the implementation of the request. Users will continue to receive information directly related to their registered services, so they always are kept informed.
 
-This data may include age, city, gender, occupation, mobile phone and email address.
+**Security**  
+We use reasonable precautions to protect our users' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
 
-**THE USE OF COOKIES**  
-A cookie is a portion of data that is sent from the AHLAN! web server to the registrant's browser. 
+**Links**  
+Our web site contains links to other sites. Ahlanlive.com is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information.
 
-A cookie is created when a registrant logs onto AHLAN! and is used to track the user through subsequent page requests to avoid repeated user authentication and to serve user-relevant content. A cookie is created when a registrant logs onto AHLAN! and is terminated when a registrant logs off, the browser is closed or after a certain time interval. Another cookie is created when a registrant selects a default city and this cookie is subsequently used to identify the user's preference on repeat visits to the website. 
+**Notification And Changes**  
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.  
+For questions about this privacy statement, the practices of this site or any dealings with Ahlanlive.com, contact us at:
 
-A cookie may also be used to collect IP addresses for system administration purposes. 
-
-The data that AHLAN! gathers from competitions, server log files and cookies, is compiled and analysed on an anonymous, aggregate basis and may be shared with clients, alliance partners, affiliates and media agencies. AHLAN! registrants expressly consent to the collection and use of this data in accordance herewith. 
-
-**DIRECT EMAILING**  
-AHLAN! operates an email service through which it conveys AHLAN!-relevant information and client-relevant information to subscribers. Registrants have the option to opt-in to this service upon registration and upon competition entry. Registrants have the option to opt-out of this service every time they receive an email. 
-
-Opt-in emailing is controlled, managed and operated by AHLAN!, the client or their appointed agents. 
-
-**UPDATING REGISTRATION DATA**  
-On the Login pages on the AHLAN! website, registrants are able :   
-• To modify their personal information   
-• To update their opt-in email subscriptions   
-• To change their passwords 
-
-**PASSWORDS**  
-If a user forgets their password they may request their password and have it sent to the email address with which they registered. 
-
-AHLAN! registrants should not disclose their passwords to any third party. AHLAN!, its clients, partners, affiliates or media agencies will never request registrants to divulge their passwords. 
-
-AHLAN! cannot be held responsible for competition entries or subscriptions made which result from registrants' failure to keep their passwords secure. 
-
-**PRIZE-WINNERS**  
-The names of prize-winners will appear on the AHLAN! website and their names and contact details will be disclosed to AHLAN! clients only for the purpose of delivering prizes. Prize-winners agree to have their identity disclosed to AHLAN! and its clients and to have their names used by AHLAN! and its clients.
+  
+ITP Publishing Group,  
+Building, #14, Dubai Media City  
+PO Box 502547, Dubai, United Arab Emirates  
+Switchboard: +971 4 444 3500 | Facsimile: +971 4 444 3555
