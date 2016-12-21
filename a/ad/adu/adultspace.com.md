@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616195056id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultspace.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222000913id_/http%3A//www.adultspace.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Adultspace - Privacy Policy
+# Adultspace.com | Privacy Policy
+
+* * *
 
 We at Adultspace take very seriously the private nature of your personal information. This Privacy Policy explains how we handle the information we collect when you visit our site and/or become a member. Please read this notice carefully.
 
 Adultspace is an online adult-oriented community where you can learn about and communicate with others. As a user, you can create a public personal profile, which can include pictures and other information about yourself. The purpose of profiles is to provide an easy way for our members to identify people they might be interested in meeting. To facilitate this social purpose of our service, the information you include in your profile is freely displayed to the public. Users can also search profiles, and communicate and send messages to each other through Adultspace. Beyond what you choose to share, we will never use, sell, share or disclose your personal information, except as described here, or as may be required by law.
+
+## Information We Collect
 
 * * *
 
@@ -35,6 +39,8 @@ We also log certain non-personally-identifiable information, including the Inter
 ### 2\. Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Like most sites, we use cookies to store user and visitor data and to record session information. Additionally, our advertisers may set cookies ("Advertiser Cookies") to allow an ad server to recognize your computer each time the advertiser sends you an online advertisement.
+
+## II. Use and Disclosure of Information We Collect
 
 * * *
 
@@ -74,6 +80,8 @@ This data is used to help manage our website and provide a better user experienc
 ## G. Other Use and Disclosure
 
 Except as set forth above, we will disclose your information to third parties only as reasonably required to protect the legal rights of us, our shareholders, members, employees and customers (such as legal representatives and law enforcement), as you expressly permit, and as required by law (such as the result of a court subpoena). We may transfer your information in the event of a sale of substantially all of the assets of our business to a third-party or in the event of a merger, consolidation or acquisition. However, in such event, any acquirer will be subject to the provisions of our commitments to you. We will never provide, share, rent, trade or sell user-specific personal information such as your email address to any third party marketers, unless you ask us to.
+
+## III. Miscellaneous
 
 * * *
 
