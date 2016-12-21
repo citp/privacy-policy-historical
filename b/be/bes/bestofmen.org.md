@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofmen.org privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515114958id_/http%3A//www.bestofmen.org/wp-content/uploads/2014/07/20140713002117.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofmen.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221173727id_/http%3A//www.bestofmen.org/wp-content/uploads/2014/07/20140713002117.pdf) for the most accurate reproduction.*
 
 # I.
 
