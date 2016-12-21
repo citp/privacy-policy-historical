@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602182513id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcrate.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221142331id_/http%3A//www.cashcrate.com/privacy) for the most accurate reproduction.*
 
 # Make Money Online With Paid Surveys | Free Cash at CashCrate!
 
