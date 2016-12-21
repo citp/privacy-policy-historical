@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626181319id_/http%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbersports.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221192119id_/http%3A//dobbersports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dobber Sports
 
