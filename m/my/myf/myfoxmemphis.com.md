@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629001808id_/http%3A//www.fox13memphis.com/station/about-us/privacy-policy/10635288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221214930id_/http%3A//www.fox13memphis.com/station/about-us/privacy-policy/10635288) for the most accurate reproduction.*
 
 # Privacy Policy | FOX13
 
