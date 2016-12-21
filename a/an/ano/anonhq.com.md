@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626045434id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonhq.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221152530id_/http%3A//anonhq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy AnonHQ
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where potentially personally identifiable information may be requested.
