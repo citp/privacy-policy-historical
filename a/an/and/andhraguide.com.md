@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhraguide.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330080111id_/http%3A//www.andhraguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhraguide.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221054841id_/http%3A//www.andhraguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Andhra Guide.com :: The Complete Andhra News, Regional,Political and Telangana News
 
