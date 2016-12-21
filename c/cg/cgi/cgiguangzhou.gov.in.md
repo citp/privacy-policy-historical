@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426100926id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221105210id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
-  * #### Consulate News
-
-Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 30th April, 2016 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
-
-[More News](https://web.archive.org/news/index/2)
-
   * #### Announcements
 
-The BRICS Economic Research Annual Award has been instituted to encourage, recognize and reward economists with an outstanding doctoral dissertation in the areas related to international economics, trade, development and financing. 
+Odisha State is fast emerging as the manufacturing hub of the East in India through its industry friendly environment and policy framework. 
 
 [More News](https://web.archive.org/news/index/8)
 
+  * #### Consulate News
+
+[More News](https://web.archive.org/news/index/2)
+
   * #### India News
 
-"Sufism is the voice of peace, co-existence, compassion and equality; a call to universal brotherhood" said Hon'ble PM Modi in his speech at the World Sufi Forum. To view full text of speech, photos and videos of the speech, click more news. 
+The Ministry of Tourism has introduced a 24x7 Toll Free Multi-Lingual Tourist Help Line to facilitate visits of foreign tourist visiting India.
 
 [More News](https://web.archive.org/news/index/1)
 
   * #### Events organised by Consulate General of India, Guangzhou
 
-Consulate is organizing Bhangra and Gidda traditional Punjabi folk dance performances at Foshan on 29th March, 2016 and at Guangzhou on 30th March, 2016. 
+The Consulate General of India in Guangzhou is organzing a painting exhibition of Modern India titled “Modern India: Color, Pattern and Life” from 21st to 26th November, 2016. 
 
 [More News](https://web.archive.org/news/index/7)
 
   * #### International Day of Yoga 
 
-Press Release : Inauguration Ceremony of International Yoga Festival at Dujiangyan from 17-21 June, 2015
+The 2nd International Day of India (IDY) in Southern China was celebrated in five cities jointly organized by the Consulate General of India, Guangzhou with the local Municipality governments and other Yoga Institutes. 
 
 [More News](https://web.archive.org/news/index/6)
 
