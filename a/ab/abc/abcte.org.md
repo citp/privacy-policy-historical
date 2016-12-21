@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626160912id_/http%3A//abcte.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcte.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221205922id_/http%3A//abcte.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ABCTE | American Board
+# Privacy Policy - ABCTE | Online Teaching Certification Program
 
 The American Board is committed to respecting the privacy of all candidates and donors. The personal information collected by the American Board will be used to operate and provide services or to carry out transactions you have requested or authorized. This information is collected, stored, and processed on servers located in the United States. Your payment information is processed on secure servers and encrypted. Access to candidate or donor records is served for only those employees who require it to complete job duties related to the delivery of customer service.
 
