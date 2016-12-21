@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discoversdk.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531125811id_/https%3A//www.discovercloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoversdk.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221112721id_/http%3A//www.discoversdk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DiscoverCloud
+# Privacy Policy | DiscoverSDK
 
-This Privacy Policy governs the manner in which Chekkt Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the DiscoverCloud.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Chekkt Ltd.
+This Privacy Policy governs the manner in which Chekkt Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the DiscoverSDK.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Chekkt Ltd.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to: when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address and phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -41,8 +41,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting Us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Chekkt Ltd   
-DiscoverCloud.com   
+DiscoverSDK.com   
 52 Derech Bar Yehuda, Nesher   
 (408)658-0418   
-info@discovercloud.com   
-www.DiscoverCloud.com
+info@DiscoverSDK.com   
+www.DiscoverSDK.com
