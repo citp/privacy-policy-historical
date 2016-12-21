@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624183516id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtamu.edu privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221014218id_/http%3A//www.wtamu.edu/home/link-policy-and-privacy-statement.aspx) for the most accurate reproduction.*
 
 # West Texas A&M University: Link Policy and Privacy Statement
 
@@ -24,7 +24,7 @@ In instances where West Texas A&M University, or its entities, manage content on
 
 West Texas A&M University has assembled an accessibility workgroup committed to making its electronic and information resources (EIR) accessible for all users in accordance with [Section 508](http://www.section508.gov/) of the Federal Rehabilitation Act (29 U.S.C. 794d), [Texas Government Code Chapter 2054](http://www.statutes.legis.state.tx.us/docs/gv/pdf/gv.2054.pdf), Subchapter M, and the standards and specifications set forth by Texas Administrative Code Title 1, Chapter 206, Subchapter C, §§206.70 – 206.71 ([TAC 206](http://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=T&app=9&p_dir=N&p_rloc=155464&p_tloc=&p_ploc=1&pg=2&p_tac=&ti=1&pt=10&ch=206&rl=72)) and Texas Administrative Code Title 1, Chapter 213, Subchapter C, §§213.30 – 213.41 ([TAC 213](http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=1&pt=10&ch=213)). Visit [WTAMU's Accessibility page](http://www.wtamu.edu/about/web-accessibility.aspx) for more information.
 
-WTAMU does not have direct control over the accessibility of external content and therefore disclaims any responsibility in the neglect or absence of standards set forth for institutions of higher education by the state or federal government. In instances where West Texas A&M University, or its entities, manage content on external webpages (i.e. Facebook, Twitter or external websites) administrator(s) should abide by the guidelines set by the Office of Communication and Marketing to ensure the most accessible content available on the medium. Questions or concerns should be addressed to the web communication manager, [droach@wtamu.edu](mailto:droach@wtamu.edu).
+WTAMU does not have direct control over the accessibility of external content and therefore disclaims any responsibility in the neglect or absence of standards set forth for institutions of higher education by the state or federal government. In instances where West Texas A&M University, or its entities, manage content on external webpages (i.e. Facebook, Twitter or external websites) administrator(s) should abide by the guidelines set by the Office of Communication and Marketing to ensure the most accessible content available on the medium. Questions or concerns should be addressed to the web communication manager, [eamartinez@wtamu.edu](mailto:eamartinez@wtamu.edu?subject=Privacy%20Statement).
 
 Privacy Statement
 
@@ -67,7 +67,7 @@ The Texas Public Information Act, with a few exceptions, gives you the right to 
 
  **Forms**
 
-Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://www2.dir.state.tx.us/pubs/Pages/weblink-privacy.aspx), with few exceptions, state law gives you the right to request, receive, review, and correct information collected by forms.
+Consistent with the [Texas DIR State Website Linking and Privacy Policy](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf), with few exceptions, state law gives you the right to request, receive, review, and correct information collected by forms.
 
 In accordance with TAC Rule 206.72, any web-based form on an official University website that requests information from the public must have a link to the [WTAMU Link Policy and Privacy Statement](http://www.wtamu.edu/privacy).
 
@@ -77,11 +77,11 @@ Extensive security measures consistent with the Texas Administrative Code (TAC) 
  **Questions**  
 If you have any questions about the practices of this site or your use of this website, please contact:
 
-Trey Roach  
+Ernesto Martinez  
 Web Communication Manager  
 West Texas A&M University  
 WT Box 60788  
 Canyon, Texas 79016-0001  
-(806) 651-3325  
-[droach@mail.wtamu.edu](mailto:droach@mail.wtamu.edu?subject=Privacy%20Statement)  
+(806) 651-2120  
+[eamartinez@wtamu.edu](mailto:eamartinez@wtamu.edu?subject=Privacy%20Statement)  
  
