@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916130340id_/https%3A//www.shiply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221220942id_/http%3A//www.shiply.com/privacy) for the most accurate reproduction.*
 
-# Courier Services | UK Delivery Service Companies - Shiply
+# Shiply | Privacy Policy
 
 At Shiply.com we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
@@ -21,7 +21,7 @@ iii. Information provided to us when you communicate with us for any reason.
 
 On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
 
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+Such information will not identify you personally, it is statistical data about our visitors and their use of our site. After personally this statistical data does not identify any personal details whatsoever.
 
 Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
 
@@ -56,7 +56,7 @@ The transmission of information via the internet is not completely secure and th
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
 
-We will disclose your personal information to transport providers with whom who have chosen to transact with (i.e. if you have accepted their quote). We may also disclose your personal information to third parties if:
+We will disclose your personal information to transport providers with whom you have chosen to transact with (i.e. if you have accepted their quote). We may also disclose your personal information to third parties if:
 
 i. we sell any or all of our business and/or our assets to a third party.  
 ii. we are legally required to disclose your information.  
