@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627152324id_/http%3A//www.cityofmadison.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221154948id_/http%3A//www.cityofmadison.com/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | City of Madison, Wisconsin
+# Privacy Policy | City of Madison, City of Madison, Wisconsin
 
 Thank you for visiting the City of Madison website and reviewing our privacy policy. It is the policy of the city that we will not collect any personal information about you when you visit our website unless you choose to provide such information to us.
 
