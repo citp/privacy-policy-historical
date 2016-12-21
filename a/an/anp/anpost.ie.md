@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601200910id_/http%3A//www.anpost.ie/AnPost/web%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anpost.ie privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221094031id_/http%3A//www.anpost.ie/AnPost/web%2Bpolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ We use this data for administrative and statistical purposes as well as to help 
 
 ### Cookie policy
 
-**Last updated: 29/02/2016**
+**Last updated: 26/09/2016**
 
 Last Change: The cookie policy has been updated to reflect the inclusion of an advertising cookie from Google called DoubleClick. This cookie ensures that we show advertising that is relevant to you.
 
@@ -95,6 +95,7 @@ Subdomains are as follows:
   * correctaddress.anpost.ie 
   * courtfines.anpost.ie 
   * edocket.anpost.ie 
+  * logistics.anpost.ie 
   * managingmail.anpost.ie 
   * myparcelpickup.anpost.ie 
   * postage.anpost.ie 
