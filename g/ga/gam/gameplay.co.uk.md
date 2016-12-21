@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplay.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625004324id_/http%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplay.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221032623id_/http%3A//help.game.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Help
 
