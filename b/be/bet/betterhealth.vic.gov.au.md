@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterhealth.vic.gov.au privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429085829id_/https%3A//www.betterhealth.vic.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterhealth.vic.gov.au privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221041620id_/https%3A//www.betterhealth.vic.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Better Health Channel
 
