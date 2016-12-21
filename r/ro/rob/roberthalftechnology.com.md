@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roberthalftechnology.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417154733id_/https%3A//www.roberthalf.com/technology/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roberthalftechnology.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221220036id_/https%3A//www.roberthalf.com/technology/privacy-policy) for the most accurate reproduction.*
 
 # Robert Half Technology – Privacy Policy
 
