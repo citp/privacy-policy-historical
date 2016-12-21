@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619164851id_/https%3A//www.fogcreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogcreek.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221103020id_/http%3A//www.fogcreek.com/privacy) for the most accurate reproduction.*
 
-# About | Fog Creek Software
-
-Fog Creek Software, Inc. complies with the EU Data Protection Directive through Safe Harbor certification.
+# Privacy | Fog Creek Software
 
 ## WHO WE ARE AND WHAT THIS IS
 
@@ -10,13 +8,7 @@ Fog Creek Software, Inc. (“Fog Creek” or “Fog Creek Software”) is the pr
 
 We take the private nature of your personal information very seriously, and are committed to protecting it. To do that, we've set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws. We're grateful for your trust, and we'll act that way.
 
-This privacy policy describes what information we collect when you visit our Services, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of February 15, 2014.
-
-## SAFE HARBOR OVERVIEW
-
-We have chosen to comply with the principles of the Safe Harbor Framework developed by the U.S. Department of Commerce in consultation with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, except where limited by any legal, regulatory, ethical or public interest considerations. More information about the principles that make up the Framework, as well as other frequently asked questions relating to Safe Harbor can be found at: <http://www.export.gov/safeharbor>.
-
-In accordance with our commitment to protect personal privacy, Fog Creek Software adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>.
+This privacy policy describes what information we collect when you visit our Services, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of June 7, 2016.
 
 ## TYPES OF INFORMATION
 
@@ -87,28 +79,15 @@ It's hard to imagine that we would ever consider collecting, let alone sharing, 
 
 If you are a registered user of our Services and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with the Services. We generally use our Services to communicate this type of information, so we expect to keep this type of communication to a minimum. If we do send you information that you did not expressly request, we will provide you with a way to request that you don't get any similar notices (opt-out, unsubscribe, etc.).
 
-**Onward Transfer** — Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. Examples of assurances that may be provided include: 
-
-  * A commitment that they will handle the information in accordance with this policy, or will provide the same level of protection, as required by the Safe Harbor Principles, subject to EU Directive 95/46/EC ("the EU Data Protection Directive");
-  * Safe Harbor certification by the agent, or being subject to another European Commission adequacy finding.
-
-
-
-In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop it immediately.
+**Onward Transfer** — Prior to providing agents with any personal information, we will obtain assurances that they will safeguard it in accordance with this policy. In the unlikely event that we should discover that an agent is using personal information in a way that conflicts with this policy, we will take all reasonable steps to stop it immediately.
 
 **Security** — All records containing personal or financial information are considered to be our property and are afforded confidential treatment at all times. We work hard to protect against the unauthorized access, use, alteration or destruction of personal or financial information. All such electronic information is stored on restricted database servers, and is generally kept until such time as you may ask us to edit or delete it, as described below. We only disclose such information to our employees, contractors or affiliates that a) need to know that information in order to process it for us or to provide other services, and b) have agreed not to disclose it to others.
 
 All interactions with our Services use the Transport Layer Security/Secure Sockets Layer (TLS/SSL) protocol. We use a third-party, industry-accepted Payment Gateway to securely process credit card transactions.
 
-**Data Integrity** — In addition to assuring you that we will protect your personal information, we also want to make sure that it is reliable, accurate, and up-to-date. In order to do that, we provide:
-
-**Access** — Upon request, we will provide you with reasonable access to the personal information we collect about you. Because personal information—for example, your email address—is required to use The Services, we retain personal information as long as your account is active. You will have the opportunity to correct, update, modify or delete this information updating your information in The Services. Please note that some information may remain in our records even after you request deletion of your information as permitted by the Safe Harbor Principles. Additionally, there may be limits to the amount of information we can practically provide. For example, we may limit an individual's access to personal information where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy or where doing so would violate others' rights.
-
-**Enforcement** — We will conduct internal audits of our compliance with this privacy policy, including an annual self-assessment. Our employees take your privacy as seriously as we do, and we will take all reasonable measures against any employee found to be in violation of this policy.
+**Data Integrity** — In addition to assuring you that we will protect your personal information, we also want to make sure that it is reliable, accurate, and up-to-date.
 
 If you have any concerns or complaints about how you think we've handled your personal information, please contact [privacy@fogcreek.com](mailto:privacy@fogcreek.com) or our Data Protection Officer at the address below. We will work hard to investigate and resolve any complaints you might have.
-
-We hope it won't ever come to this, but if you've already contacted us and feel that your complaint cannot be resolved between the two of us, we have agreed to participate in the dispute resolution procedures established in the Safe Harbor Principles regarding personal information received from the EEA. For such escalated disputes, you can contact eTrust at 616 Corporate Way, Suite 2, #4000, Valley Cottage, NY 10989.
 
 ## HOW TO CONTACT US
 
@@ -118,12 +97,9 @@ Our Data Protection Officer is Michael Pryor
 
 Written Inquiries can be sent to:
 
-Fog Creek Software
-
-One Exchange Plaza, 25th Floor
-
-New York, NY 10006
-
+Fog Creek Software  
+One Exchange Plaza,  25th Floor  
+New York City, NY 10006  
 USA
 
 ## Security
@@ -147,5 +123,3 @@ This section covers any ways in which personal information we collect from emplo
 
 
 * Google Analytics is a registered trademark of Google, Inc.
-
-[](http://www.etrust.org/cert/575765.html)
