@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepix.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608123452id_/http%3A//www.gamepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepix.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221224738id_/http%3A//www.gamepix.com/privacy-policy) for the most accurate reproduction.*
 
 # GamePix' Privacy Policy
 
@@ -6,8 +6,7 @@ If you’re reading this, it’s because you want to know what information we, G
 
 This Privacy Policy applies to the GamePix website located at www.gamepix.com (“Site”) and on GamePix App (“App”). This notice describes only our online information collection and use practices at this Site and App; it doesn’t apply to information we collect about you offline (such as over the phone) or in different situations (such as through email correspondence).
 
-This privacy policy is effective as of 1 June, 2013. In the future, our Site, our App or our practices may change, and if appropriate, we will revise this Privacy Policy to reflect the changes. We’ll post the updated version here, and we’ll notify you if we think the changes will significantly impact the treatment of information you have already provided.  
-
+This privacy policy is effective as of 1 June, 2013. In the future, our Site, our App or our practices may change, and if appropriate, we will revise this Privacy Policy to reflect the changes. We’ll post the updated version here, and we’ll notify you if we think the changes will significantly impact the treatment of information you have already provided.
 
 ### Information We Collect
 
@@ -27,15 +26,13 @@ We use the information we collect to respond to your requests and provide custom
 
 We use both your personally identifiable information and certain non-personally identifiable site and App usage data to improve the quality and design of the Site and App and to create new features, promotions, and services by storing, tracking, and analyzing user preferences and trends.
 
-We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties.  
-
+We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties.
 
 ### When We Might Disclose Information
 
 As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted. We will also share information with government officials, including law enforcement officials or court authorities, in order to cooperate with a legitimate investigation.
 
-Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.  
-
+Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.
 
 ### Links and Third Parties
 
@@ -45,8 +42,7 @@ We sometimes work with third parties to add features or advertisements to our Si
 
 To personalize the Site and App, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, GamePix users who are your friends on Facebook will be shown your GamePix username if you have both linked your Facebook accounts.
 
-We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at [www.onguardonline.gov](http://www.onguardonline.gov/).  
-
+We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at [www.onguardonline.gov](http://www.onguardonline.gov/).
 
 ### Your Options
 
