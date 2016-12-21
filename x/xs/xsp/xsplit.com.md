@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623233313id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221170856id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XSplit
 
