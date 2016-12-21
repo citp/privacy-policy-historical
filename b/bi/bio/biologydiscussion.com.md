@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biologydiscussion.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194611id_/http%3A//www.biologydiscussion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologydiscussion.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221034448id_/http%3A//www.biologydiscussion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Biology Discussion
+# Privacy Policy | Biology Discussion
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mailbox@biologydiscussion.com. At www.biologydiscussion.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.biologydiscussion.com and how it is used.
 
