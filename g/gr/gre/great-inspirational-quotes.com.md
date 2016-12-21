@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the great-inspirational-quotes.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424085652id_/http%3A//www.great-inspirational-quotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the great-inspirational-quotes.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221190703id_/http%3A//great-inspirational-quotes.com/privacy.html) for the most accurate reproduction.*
 
 # great-inspirational-quotes.com | Privacy Policy
 
