@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activecollab.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501041733id_/https%3A//www.activecollab.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activecollab.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221172450id_/https%3A//activecollab.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Active Collab
+# Privacy Policy | Active Collab
 
 We're a small company and we don't have a fancy privacy policy written in lawyerish. Instead, we'd like to let you know plain and simple on how we take care of your information. We promise we won't act outside of our privacy policy or misuse your data in any way. If we ever change our privacy policy, we will notify you on our website or via newsletter.
 
