@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drunkt.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508190642id_/http%3A//www.drunkt.com/%3Fpage_id%3D9936) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drunkt.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221072438id_/http%3A//www.drunkt.com/%3Fpage_id%3D9936) for the most accurate reproduction.*
 
 # Privacy Policy
 
