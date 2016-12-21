@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecfmgepic.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616175425id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecfmgepic.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221154733id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.*
 
 # ECFMG | ECFMG Privacy Policy
 
@@ -38,15 +38,17 @@ ECFMG uses third-party vendors, such as PayPal and TeleCheck, in order to proces
 
 ECFMG uses a third-party vendor, Velaro, to provide individuals with the ability to chat on-line with ECFMG representatives in conjunction with selected programs and services. Please see Velaro’s Privacy Policy at <http://www.velaro.com/privacy-policy> for more information on Velaro’s security and privacy practices.
 
-ECFMG may post surveys on the Sites hosted by SurveyMonkey.com or other third parties. For more information regarding SurveyMonkey.com’s security and information collection practices, please see [SurveyMonkey.com’s privacy policy](http://www.surveymonkey.com/Monkey_Privacy.aspx).
-
 ECFMG utilizes a third-party application called ApplicantPro Applicant Tracking System to process its on-line employment applications. Please see the ApplicantPro Applicant Tracking System Privacy Policy at <http://www.applicantpro.com/privacy/> for more information regarding its security and privacy practices.
+
+ECFMG uses a third-party vendor, Wufoo, to collect information and process applications for participation in GEMx programs and activities. Please see Wufoo’s Privacy Policy at <http://www.wufoo.com/privacy/> for more information on Wufoo’s security and privacy practices.
+
+ECFMG may post surveys on the Sites hosted by SurveyMonkey.com or other third parties. For more information regarding SurveyMonkey.com’s security and information collection practices, please see [SurveyMonkey.com’s privacy policy](http://www.surveymonkey.com/Monkey_Privacy.aspx).
 
 Please note that, while ECFMG has endeavored to create Sites and an App that are secure and reliable for Users, the confidentiality of any communication transmitted to or from ECFMG via the Sites, the App, or e-mail cannot be guaranteed. Accordingly, ECFMG is not responsible for the security of information transmitted via the Internet.
 
 3) **Use of Personal Information Collected**
 
-ECFMG uses the personal information you provide in order to maintain the information in your ECFMG record or account, process your applications and requests for or participation in services and in order to verify that you meet the minimum qualifications for our programs and services or for employment with ECFMG. Additionally, ECFMG may use aggregated personal information for research and statistical purposes. ECFMG does not use your personal information for marketing or promotional purposes. In connection with on-line employment applications, except where you tell ECFMG not to, we will keep the information that you submit for future consideration.
+ECFMG uses the personal information you provide in order to maintain the information in your ECFMG record or account, process your applications and requests for or participation in services and in order to verify that you meet the minimum qualifications for our programs and services or for employment with ECFMG. Additionally, ECFMG may use aggregated personal information for research and statistical purposes. With the exception of personal information submitted by applicants to the GEMx SAN program, ECFMG does not use your personal information for marketing or promotional purposes. In connection with on-line employment applications, except where you tell ECFMG not to, we will keep the information that you submit for future consideration.
 
 4) **Disclosure of Personal Information to Third Parties**
 
@@ -82,9 +84,13 @@ Through the EPIC Physician Portal, ECFMG also provides Users with the ability to
 
 Through the EPIC Physician Portal, ECFMG provides Users with the ability to request that eligible organizations be notified when the physician’s credential is sent for verification. ECFMG makes this notification available to these organizations via the Internet. Notifications include the physician’s name; EPIC ID; information about the credential sent for verification, including the type of credential, issuing institution, date sent for verification, and a copy of the credential and English translation (if applicable), as provided by the physician; and information about the physician’s medical education and/or training, including title of medical degree, postgraduate program name, and attendance dates.
 
+ECFMG may also provide certain personal information, including name and date of birth, of EPIC Physician Portal Users to medical regulatory authorities to assist these medical regulatory authorities in confirming the identity of their applicants and in verifying the authenticity of their applicants’ credentials. ECFMG will provide the User’s name and date of birth when the medical regulatory authority sends a request to ECFMG and provides the User’s EPIC ID. By providing your EPIC ID to a medical regulatory authority, you authorize the exchange of this personal information between ECFMG and the medical regulatory authority.
+
 To become an authorized User of the EPIC Report Portal, you must provide designated individual(s) at your organization with personal information including your name, date of birth, job title, and contact information, including your e-mail address. Your organization will provide this information to ECFMG. To change the personal information associated with your account, you must provide the updated information to your organization’s EPIC Coordinator. Your organization’s EPIC Coordinator will exchange the information with ECFMG via e-mail.
 
 Through GEMx Electives, ECFMG provides eligible students with the ability to search and apply for electives offered through GEMx by GEMx-participating institutions. If you are a student participating in GEMx Electives, the information and documents you provide in the process of establishing a GEMx account and applying to electives through GEMx will be accessible to the institution in which you are enrolled (your “home” institution) and to the institutions to which you apply for electives (potential “host” institutions).
+
+Through the GEMx SAN program, ECFMG provides eligible students with leadership opportunities in representing GEMx and eligibility to receive a financial award to participate in an elective exchange through GEMx. If you apply to the GEMx SAN program, ECFMG may share the information you provide in your application with staff of your medical school for the purpose of evaluating your application. If you are selected for the SAN program, information provided in your application including your name, medical school, e-mail address, and photo may be provided to other members of SAN and to prospective and current students hosted by your medical school. This information also may be published by GEMx in connection with its SAN program.
 
 All actions or attempted actions on the part of applicants, examinees, potential applicants; others when solicited by an applicant and/or examinee; or any other person that would or could subvert the examination, certification or other processes, programs, or services of ECFMG are considered irregular behavior. ECFMG may report a determination of irregular behavior to the USMLE Committee for Individualized Review, Federation of State Medical Boards of the United States, U.S. state and international medical licensing authorities, directors of graduate medical education programs, and to any other organization or individual who, in the judgment of ECFMG, has a legitimate interest in such information. Applicants should review and be familiar with the [ECFMG Policies and Procedures Regarding Irregular Behavior](http://www.ecfmg.org/programs/irregular-behavior.html).
 
@@ -112,7 +118,7 @@ Individuals participating as advisors in IAN may update certain information in t
 
 Individuals participating in IAN as advisees may update certain information in their profiles by accessing IAN at <https://secure2.ecfmg.org/emain.asp?app=ian_advisee>.
 
-Users of GEMx Electives can update certain of their personal information by accessing their account at [https://students.gemxelectives.org](https://students.gemxelectives.org/).
+Users of GEMx Electives can update certain of their personal information by accessing their account at [https://students.gemxelectives.org](https://students.gemxelectives.org/). Applicants to and participants in the GEMx SAN program can update certain of their personal information by contacting GEMx staff at [info@gemxelectives.org](mailto:info@gemxelectives.org).
 
 6) **Links to and from ECFMG**
 
@@ -120,7 +126,7 @@ The Sites and the App may contain links to other Internet web sites. However, EC
 
 7) **Inquiries and Concerns**
 
-The foregoing Policy is effective as of December 17, 2015. ECFMG reserves the right to change this Policy at any time by notifying Users of the existence and location of the new or revised Privacy Policy. Your continued use of the Sites or the App after notice of a change shall constitute your acceptance of any such changes to this Policy.
+The foregoing Policy is effective as of December 2, 2016. ECFMG reserves the right to change this Policy at any time by notifying Users of the existence and location of the new or revised Privacy Policy. Your continued use of the Sites or the App after notice of a change shall constitute your acceptance of any such changes to this Policy.
 
 If you have any questions regarding this Privacy Policy, you may contact us at [webmaster@ecfmg.org](mailto:webmaster@ecfmg.org). If you would like to review and/or change your personal information, you may do so on-line (please see Item 5 of this Policy) or you may contact us at:
 
