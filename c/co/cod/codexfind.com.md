@@ -1,85 +1,66 @@
-> *The following text is extracted and transformed from the codexfind.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204084940id_/http%3A//www.alltopics.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codexfind.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221174208id_/https%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
 
-# | AllTopics.com
+# DomainNameSales.com
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which Domain Name Sales Corp. collects, uses, maintains and discloses information collected from users (each, a "User") of the DomainNameSales.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Domain Name Sales Corp. via DomainNameSales.com.
 
-AllTopics.com, referred to as we or us, will collect information from you when you register on our site. When ordering or registering on our site, as appropriate, the user, referred to as you, may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+## Personal identification information
 
-**What do we use your information for?**
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Any of the information we collect from you may be used in one of the following ways: 
+## Non-personal identification information
 
-  * To personalize your experience - Your information helps us to better respond to your individual needs.
-  * To improve our website - We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To send periodic emails - The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+## Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## How we use collected information
+
+DomainNameSales.com collects and uses Users personal information for the following purposes:
+
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To process transactions_  
+We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry.
+  *  _To share your information with third parties_  
+We may share information with third parties for marketing or other purposes.
+  * _To send periodic emails_  
+The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
+## How we protect your information
 
-**_How do we protect your information?_**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+## Sharing your personal information
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+## Third party websites
 
-**Do we use cookies?**
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-Yes we do. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+## Advertising
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Do we disclose any information to outside parties?**
+## Changes to this privacy policy
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+DomainNameSales.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-_Third party links_
+## Your acceptance of these terms
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-_California Online Privacy Protection Act Compliance_
+## Contacting us
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact)
 
-_Children's Online Privacy Protection Act Compliance_
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-_Online Privacy Policy Only_
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.AllTopics.com.com/term_of_service.php.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-**This policy was last modified on June 14, 2010**
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.help.AllTopics.com.com
-
-AllTopics.com.com
-
-c/o Jennifer Shearer
-
-1 Lawrence Place
-
-New Oxford, PA17350
-
-United States
-
-copyright@AllTopics.com.com
+This document was last updated on April 03, 2012
