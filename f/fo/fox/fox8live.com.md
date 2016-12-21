@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318235342id_/http%3A//www.fox8live.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221113334id_/http%3A//www.fox8live.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FOX 8 WVUE New Orleans News, Weather, Sports, Social
 
