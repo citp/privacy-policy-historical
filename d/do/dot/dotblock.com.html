@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dotblock.com privacy policy that was archived on 2016-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160404034440id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotblock.com privacy policy that was archived on 2016-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221062618id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>DotBlock Privacy Policy | by DotBlock</title>
@@ -22,10 +22,10 @@
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/dropdown.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/style_nav.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/css/style_purple.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/css/style_blue.css" rel="stylesheet" type="text/css" media="screen">
 <link href="//fonts.googleapis.com/css?family=Raleway:400,500,300" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Roboto:400,300,700" rel="stylesheet" type="text/css">
-<script async="" charset="utf-8" src="//v2.zopim.com/?16cec8GffK9hyeyoiRDVxUd4B7Hgkfj9" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NL487D"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script id="chatlio-widget-embed" src="https://w.chatlio.com/w.chatlio-widget.js" async="" data-embed-version="2.1" data-widget-id="5e448a40-9177-4bd8-401f-6b177f988c3c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NL487D"></script><script async="" src="//tr.datanyze.com/tr2.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script>
 <script src="/js/jquery.tools.min.js" type="text/javascript"></script>
 <script src="/js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
 <!-- script src="/js/jquery.scrollable.min.js" type="text/javascript"></script -->
@@ -64,6 +64,34 @@ $(document).ready(function () {
 	
 	$(".scrollable").scrollable({vertical: true, circular: true, speed: 600}).autoscroll({ autoplay: true, interval: 8000 }); 
 	$('.panes').cycle('fade');
+	
+	$("#chained").scrollable({circular: true});
+	$('.lightbox_trigger').click(function(e) {
+		e.preventDefault();
+		
+		var image_href = $(this).attr("href");		
+		if ($('#lightbox').length > 0) { 
+			$('#content2').html('<img src="' + image_href + '" />');
+			$('#lightbox').show();
+		}
+		else { 
+			var lightbox = 
+			'<div id="lightbox">' +
+				//'<p>Click to close</p>' +
+				'<div id="content2">' + 
+					'<img src="' + image_href +'" />' +
+				'</div>' +	
+			'</div>';
+			$('body').append(lightbox);
+		}
+		
+	});
+	//Click anywhere on the page to get rid of lightbox window
+	$('#lightbox').live('click', function() { 
+		$('#lightbox').hide();
+	});
+	
+	
 });
 </script>
 <script>(function() {
@@ -82,14 +110,14 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1492628947640767&amp;ev=NoScript" /></noscript>
+
+<script>
+    (function(a,b){window.dnz=window.dnz||function(){(dnz.q=dnz.q||[]).push(arguments)};a=document.createElement("script");b=document.getElementsByTagName("script")[0];a.async=1;a.src="//tr.datanyze.com/tr2.js";b.parentNode.insertBefore(a,b)})();
+    dnz("tracking","eaMxZ6%2B4Vb0%3D");
+</script>
 </head>
 
 <body id="privacy">
-<script>
-dataLayer = [{
-	'colorScheme': 'purple',
-}];
-</script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NL487D"
@@ -223,7 +251,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="grid-2"><h4>Company</h4>
         	<ul>
             	<li><a href="/about.php" title="About Dotblock VPS Hosting">About Us</a></li>
-                <li><a href="http://community.dotblock.com/" title="VPS Hosting Community">Community</a></li>
+                <li><a href="https://billing.dotblock.com/knowledgebase.php" title="VPS Hosting FAQ">FAQ</a></li>
                 <li><a href="https://dotblock.com/contact/" title="Contact Us">Contact Us</a></li>
             </ul>
         </div>
@@ -254,15 +282,15 @@ document.getElementById(id).style.display = visibility;
 </script>
 
 <div class="db_livechat">
-<!--Start of Zopim Live Chat Script-->
+<!--Start of Chatlio Script-->
 <script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?16cec8GffK9hyeyoiRDVxUd4B7Hgkfj9';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+    window._chatlio = window._chatlio||[];
+    !function(){ var t=document.getElementById("chatlio-widget-embed");if(t&&window.ChatlioReact&&_chatlio.init)return void _chatlio.init(t,ChatlioReact);for(var e=function(t){return function(){_chatlio.push([t].concat(arguments)) }},i=["configure","identify","track","show","hide","isShown","isOnline"],a=0;a<i.length;a++)_chatlio[i[a]]||(_chatlio[i[a]]=e(i[a]));var n=document.createElement("script"),c=document.getElementsByTagName("script")[0];n.id="chatlio-widget-embed",n.src="https://w.chatlio.com/w.chatlio-widget.js",n.async=!0,n.setAttribute("data-embed-version","2.1");
+       n.setAttribute('data-widget-id','5e448a40-9177-4bd8-401f-6b177f988c3c');
+       c.parentNode.insertBefore(n,c);
+    }();
 </script>
-<!--End of Zopim Live Chat Script-->
+<!--End of Chatlio Script-->
 </div>
 
 
