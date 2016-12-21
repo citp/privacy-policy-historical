@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofsafelists.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501203213id_/http%3A//mkanikalladvantage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofsafelists.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221210032id_/http%3A//mkanikalladvantage.com/privacy.html) for the most accurate reproduction.*
 
 # We HATE Spam - Thank You!
 
