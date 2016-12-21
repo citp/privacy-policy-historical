@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529040605id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstudio.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221200654id_/http%3A//camstudio.org/privacy.htm) for the most accurate reproduction.*
 
 # CamStudio - Our Privacy Policy
 
@@ -39,9 +39,9 @@ Know the sites your kids are visiting and which sites are appropriate.
 
 Look for Web site privacy policies. Know how your child's information is treated. 
 
-Check out the FTC's site for more tips on protecting children's privacy online.:
+Check out the this article for more tips on protecting children's privacy online.:
 
-<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>
+<https://www.comparitech.com/blog/vpn-privacy/protecting-childrens-privacy/>
 
 ## Contacting Us.
 
