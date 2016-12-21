@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624035323id_/http%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the made.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221083600id_/http%3A//www.made.com/our-cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Our Cookie and Privacy Policy | made.com
 
 ## I. PRIVACY POLICY
 
-Last updated: 12 February 2015 
+Last updated: 14 October 2016 
 
 ###  1\. MADE.COM’S APPROACH TO PRIVACY 
 
@@ -16,7 +16,7 @@ Last updated: 12 February 2015
 
 ###  2\. PERSONAL INFORMATION WE HOLD ABOUT YOU 
 
-2.1 We collect personal information from you when you voluntarily submit information directly to us or our website. This can include information you provide when you register to use the site, create an account on our site, set up a profile on Unboxed and interact with other users, visit one of our showrooms, use a tablet or similar device in one of our showrooms, complete a form, enter competitions through our site, correspond with us, purchase products from the site, subscribe to our email lists or respond to surveys or promotions. 
+2.1 We collect personal information from you when you voluntarily submit information directly to us or our website. This can include information you provide when you register to use the site, create an account on our site, set up a profile on Unboxed and interact with other users, visit one of our showrooms, use a tablet or similar device in one of our showrooms, complete a form, provide feedback or reviews on our products or site, enter competitions through our site, correspond with us, purchase products from the site, subscribe to our email lists or respond to surveys or promotions. 
 
 2.2 We also collect personal information indirectly from you such as information about the pages you look at on the site or the device you connect to the site with, or the products you add to your wishlist using a tablet or similar device in one of our showrooms. We may also collect personal information about you from third parties such as other users of the site. 
 
@@ -26,7 +26,7 @@ Last updated: 12 February 2015
 
 (b) Profile information: such as your contact details (as above) and other any information you share when creating a profile on Unboxed. 
 
-(c) Comments and opinions: such as comments and opinions you share on Unboxed or when you respond to our surveys, competitions and promotions. 
+(c) Comments and opinions: such as comments and opinions you share on Unboxed, when you provide feedback or reviews on our products or site, or when you respond to our surveys, competitions and promotions. 
 
 (d) Messages to us or between users: messages you send to us such as email and written correspondence and messages to other users using Unboxed. 
 
@@ -224,7 +224,7 @@ If you have any questions about this Cookie Policy, please contact us by email a
 
 ##  III. COOKIES USED BY MADE.COM 
 
-Last updated: 31 March 2016 
+Last updated: 31 July 2016 
 
 The following tables and information set out the cookies which are most frequently used on our website. It also provides details of third parties that set cookies through our website. 
 
@@ -242,7 +242,9 @@ The following tables and information set out the cookies which are most frequent
 
 | 
 
-**Persistent or session cookie**
+**Persistent or**
+
+**session cookie**
 
 | 
 
@@ -492,7 +494,8 @@ Session
 
 Indicates whether it is allowed to use cache.  
   
-PERSISTENT_SHOPPING_CART
+PERSISTENT_  
+SHOPPING_CART
 
 | 
 
@@ -576,7 +579,8 @@ Session
 
 The store view or language you have selected.  
   
-USER_ALLOWED_SAVE_COOKIE
+USER_ALLOWED_  
+SAVE_COOKIE
 
 | 
 
@@ -632,9 +636,12 @@ Session
 
 The number of items in your Wishlist.  
   
-Made.com  
-Made.com/Unboxed  
-Made.com/Blog  
+Made.com
+
+Made.com/Unboxed
+
+Made.com/Blog
+
 Made.com/One
 
 | 
@@ -649,7 +656,7 @@ First party
 
 Session
 
-|   
+|    
   
 unboxed-cookie-notification
 
@@ -777,6 +784,76 @@ Session
 
 Used by Unboxed to display the product image on the map.  
   
+unboxed-loggedin
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Used for logged in users  
+  
+unboxed-loggedhash
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Used for logged in users  
+  
+unboxed-loggedcreated
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Used for logged in users  
+  
+unboxed-likes
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Used by Unboxed to display the likes assigned to users  
+  
+X-TOKEN
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Used by Unboxed to identify the user  
+  
 _msuuid_uvqjkk36v0
 
 | 
@@ -791,7 +868,7 @@ Persistent, 1 year
 
 This cookie is used to track the performance of our search marketing program. Information is recorded on gross bookings and search terms which is then communicated to our search marketing partner.  
   
-_pk_id.59.9b6b
+_pk_id.•
 
 | 
 
@@ -801,9 +878,11 @@ First party
 
 Persistent, 2 years
 
-|   
+| 
+
+User tracking cookie  
   
-_pk_ses.59.9b6b
+_pk_ses.•
 
 | 
 
@@ -813,7 +892,9 @@ First party
 
 Session
 
-|   
+| 
+
+Avoid counting a person twice when we count how many people visit our website  
   
 hl
 
@@ -825,7 +906,13 @@ First party
 
 Session
 
-|   
+| 
+
+Tracks a session, i.e., how long you are on our website  
+  
+made_com_campaign_ts
+
+|   |   |    
   
 made_com_campaign
 
@@ -879,7 +966,7 @@ First party
 
 Session
 
-|   
+|    
   
 frontend
 
@@ -909,7 +996,8 @@ Session
 
 An alternate website session id used by Magento for site caching, e.g. Varnish.  
   
-_made_fetch_state _*country_code*
+_made_fetch_state_  
+*country_code*
 
 | 
 
@@ -923,7 +1011,8 @@ Persistent, 14 days
 
 Country specific, set to retrieve data (total, quantity) from customer basket via AJAX. Contains no sensitive data.  
   
-_made_quote_state _*country_code*
+_made_quote_state_  
+*country_code*
 
 | 
 
@@ -961,7 +1050,7 @@ First party
 
 Session
 
-|   
+|    
   
 zte2095
 
@@ -973,11 +1062,300 @@ First party
 
 Session
 
-|   
+|    
   
-woocommerce_items_in_cart  
-woocommerce_cart_hash   
-wp_woocommerce_session_#
+_dc_gtm_UA-#
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+__btr_em
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+__btr_id
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+__utmx
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+This cookie is for controlling content  
+  
+__utmxx
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+This cookie is used to prevent a user from seeing different versions of the same page during testing.  
+  
+pages_viewed_default
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Counts how many pages were visited in the user's session. we use it to show a popup on third page  
+  
+_subscription_popup_shown
+
+| 
+
+First party
+
+| 
+
+Persistent, 3 days
+
+| 
+
+Generated during AB testing  
+  
+_cae
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+_#uid
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Stores a user identifier (only within a site). This notifies us when an anonymous user on is a repeat visitor, but does not profile the user  
+  
+_#sess
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Stores information about the session  
+  
+_#env
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Flags whether the environment variables (screen size, browser etc.) need to be collected again.  
+  
+_#srchist
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Stores the history of traffic sources the user has arrived to the site by.  
+  
+_#vdf
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Stores the visit definition – its type, number of visits, expiry  
+  
+_#tsa
+
+| 
+
+First party
+
+| 
+
+Session
+
+| 
+
+Stores the referrer details to avoid duplicate Landing events.  
+  
+zte2095
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+_cs_cvars
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+_cs_r
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+_cs_s
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+_cs_v
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+member.uid
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+pages_viewed_default
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+comment_author_email_#
+
+| 
+
+First party
+
+| 
+
+Session
+
+|    
+  
+woocommerce_items_  
+in_cart
+
+woocommerce_cart_  
+hash
+
+wp_woocommerce_  
+session_#
 
 | 
 
@@ -1017,7 +1395,37 @@ Session
 
 | 
 
-This cookie is used by our video player to remember where you are in a video so that if playback is interrupted (for example, by losing your internet connection) then you can get right back to where you left off.  
+This cookie is used by our video player to remember where you are in a video so that if playback is interrupted (for example, by losing your internet connection) then you can get right back to where you left off. fast.wistia.com  
+  
+_cs_id
+
+| 
+
+First party
+
+| 
+
+Persistent
+
+|    
+  
+TW_SESSION_ID
+
+TW_SESSION_SEQUENCE
+
+TW_VISITOR_ID
+
+| 
+
+First party
+
+| 
+
+Persistent
+
+| 
+
+This Cookie allow us to remember your preference regarding cookies  
   
 etc_test_
 
@@ -1071,7 +1479,7 @@ Persistent, 1 Year
 
 | 
 
-Website performance monitoring  
+CloudFlare, website performance monitoring  
   
 Cedexis
 
@@ -1081,7 +1489,7 @@ cdx_ses_1_16093
 
 | 
 
-First Party
+Third party
 
 | 
 
@@ -1091,12 +1499,70 @@ Persistent
 
 Monitoring page load speed  
   
+visid_incap_888004
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Security and acceleration  
+  
+incap_ses_151_888004
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Security and acceleration  
+  
+utmvmVEuIOck
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+Security and acceleration  
+  
+__cfduid
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Service to identify trusted web traffic.  
+  
 ContextWEb
 
 | 
 
-pb_rtb_ev  
-sto-id-20480-bh  
+pb_rtb_ev
+
+sto-id-20480-bh
+
 V
 
 | 
@@ -1135,6 +1601,8 @@ Liverail
 
 lr_uid
 
+lr_uds
+
 | 
 
 Third Party
@@ -1153,6 +1621,10 @@ lijit.com
 
 ljt_reader
 
+_lijit_retarget_rtb_
+
+_ljtrtb_#
+
 | 
 
 Third party
@@ -1169,7 +1641,27 @@ Infectious Media
 
 | 
 
-khaos idb anj c CfP put_2138 put_2149 put_2931 rpb sess uuid2 
+khaos
+
+idb
+
+anj
+
+c
+
+CfP
+
+put_2138
+
+put_2149
+
+put_2931
+
+rpb
+
+sess
+
+uuid2
 
 | 
 
@@ -1205,11 +1697,16 @@ DC Storm Analytics
 
 | 
 
-_#env  
-_#sess   
-_#srchist   
-_#tsa   
-_#uid   
+_#env
+
+_#sess
+
+_#srchist
+
+_#tsa
+
+_#uid
+
 _#vdf
 
 | 
@@ -1222,17 +1719,27 @@ Persistent
 
 | 
 
-DC Storm Analytics will do the following:  
-Flags whether the environment variables (screen size, browser etc.) need to be collected again.  
-Stores information about the session.   
-Stores the history of traffic sources the user has arrived to the site.   
-Stores the referrer details to avoid duplicate Landing events   
-Stores a user identifier (only within a site). This notifies us when an anonymous user on is a repeat visitor, but does not profile the user   
+DC Storm Analytics will do the following:
+
+Flags whether the environment variables (screen size, browser etc.) need to be collected again.
+
+Stores information about the session.
+
+Stores the history of traffic sources the user has arrived to the site.
+
+Stores the referrer details to avoid duplicate Landing events
+
+Stores a user identifier (only within a site). This notifies us when an anonymous user on is a repeat visitor, but does not profile the user
+
 Stores the visit definition – its type, number of visits, expiry.  
   
 New Relic
 
-|  | 
+| 
+
+nr-data.net JSESSIONID
+
+| 
 
 Third party
 
@@ -1244,55 +1751,9 @@ Session
 
 This cookie tracks the number of user sessions to manage Website resources to improve performance and the user experience  
   
-Qubit:
-
-| 
-
-_qb_se  
-_qst  
-_qubitTracker  
-_qubitTracker_s  
-qb_permanent  
-qb_ss_status  
-qbef  
-rpx
-
-| 
-
-Third party
-
-| 
-
-Persistent, 1 Year
-
-| 
-
-Qubit is a partner we work with to serve relevant content to visitors when they come to our website. In order to do this, Qubit’s cookies capture non-personally-identifiable information, such as age and gender, as well as information about the pages on our websites you have visited during your journey.
-
-In addition, Qubit’s software enables us to drop cookies from some of our marketing partners in order to see which advertisement visitors to our site have interacted with. Examples of these advertising partners include:  
-  
-qbBasketAbandonment  
-etc_test_#  
-qbBasketSeen  
-qb_filter_ip_match  
-_qPageNum_made  
-_qsst
-
-| 
-
-Third party
-
-| 
-
-Session
-
-| 
-
-Provides insights into the visitor journey, allowing us to analyse this and improve our website by providing our visitors information that they’re looking for in a way which is useful to them.  
-  
 Keyade
 
-|  | 
+|   | 
 
 Third party
 
@@ -1300,13 +1761,11 @@ Third party
 
 Persistent
 
-| 
-
-Keyade uses cookies to improve the quality of our service, including for storing user preferences, improving ad selection  
+|    
   
 Leguide
 
-|  | 
+|   | 
 
 Third party
 
@@ -1314,13 +1773,11 @@ Third party
 
 Persistent
 
-| 
-
-Track User for attribution modelling  
+|    
   
 Productsup
 
-|  | 
+|   | 
 
 Third party
 
@@ -1334,7 +1791,7 @@ Track User for attribution modelling
   
 summit
 
-|  | 
+|   | 
 
 Third party
 
@@ -1342,11 +1799,63 @@ Third party
 
 Persistent
 
-|   
+|    
+  
+Zopim
+
+| 
+
+__zlcmid
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+We use Zopim to provide live customer service chat on our Site. Zopim requires two cookies: the first cookie stores Zopim Live Chat ID to identify the device during visits. The second stores user’s preference to disable Live Chat.  
+  
+Google
+
+| 
+
+HSID
+
+SAPISID
+
+SID
+
+SAPISID
+
+APISID
+
+SSID
+
+HSID
+
+NID
+
+PREF
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Google set a number of cookies on any page that includes a Google Map. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Google Maps users.  
   
 DMP
 
-|  | 
+|   | 
 
 Third party
 
@@ -1356,82 +1865,37 @@ Persistent
 
 | 
 
-DMP is a series of one-stop multi-media advertising platform, and its responsibilities include:  
-RECORD DATA:  
-Traffic Sources  
-Cookie  
-FB Id  
-Operation Record  
-SAVE DATA:  
-All the data collected are segmented and saved for analysis  
-ANALYZE DATA:  
-Analysis, sorting out the visual information chart with statistics  
-IDENTIFY TARGET:  
-Mining goal  
-Finishing population  
-Management portfolio  
-Provides objective  
+DMP is a series of one-stop multi-media advertising platform, and its responsibilities include:
+
+RECORD DATA:
+
+Traffic Sources
+
+Cookie
+
+FB Id
+
+Operation Record
+
+SAVE DATA:
+
+All the data collected are segmented and saved for analysis
+
+ANALYZE DATA:
+
+Analysis, sorting out the visual information chart with statistics
+
+IDENTIFY TARGET:
+
+Mining goal
+
+Finishing population
+
+Management portfolio
+
+Provides objective
+
 Provide a target for DSP  
-  
-Moebel
-
-| 
-
-DoubleClick Floodlight Counter
-
-| 
-
-Third Party
-
-| 
-
-Persistent
-
-| 
-
-Page load monitoring  
-  
-ARM
-
-|  | 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Page load monitoring  
-  
-WEBMASTERPLAN-DE-purchase
-
-|  | 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Checkout success monitoring  
-  
-Ultimatefeed
-
-|  | 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Page load monitoring  
   
 ###  FUNCTIONALITY COOKIES 
 
@@ -1489,7 +1953,7 @@ Persistent, 3 months
 
 | 
 
-\- -  
+A unique identifier given to each browser to track user interactions with the website.  
   
 _gali
 
@@ -1507,8 +1971,28 @@ Google Analyitics – Cookies of third parties used to collect information on ho
   
 gtm_user_created_at
 
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 week
+
+|    
+  
 gtm_user_email
 
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 week
+
+|    
+  
 gtm_user_id
 
 | 
@@ -1519,7 +2003,9 @@ Third Party
 
 Persistent, 1 week
 
-|   
+| 
+
+Used to Join sessions crossed devices  
   
 Google Analytics
 
@@ -1545,7 +2031,71 @@ _gat_UA-12859730-1
 
 Third Party
 
-|  |   
+|   |    
+  
+NID
+
+| 
+
+Third Party
+
+|   | 
+
+Could cover a multitude of sins but they definitely place cookies if you have embedded Google Maps into your pages.  
+  
+_gali
+
+| 
+
+Third Party
+
+|   | 
+
+This cookie is typically written to the browser upon the first visit. If the cookie has been deleted by the browser operator, and the browser subsequently visits made.com, a new _gali cookie is written with a different unique ID. In most cases, this cookie is used to determine unique visitors to siniat.co.uk and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.  
+  
+idb
+
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 year
+
+| 
+
+These cookies are set by google analytics.
+
+More about google analytics is available here.  
+  
+Google Website Optimiser
+
+| 
+
+__utmx
+
+__utmxx
+
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 year
+
+| 
+
+These cookies are used by Google Analytics to obtain information of how users use Made.com. We use this information to generate reports and to improve user experience in Made.com - Analytical Cookies  
+  
+_gat_UA-12859730-1
+
+| 
+
+Third Party
+
+|   |    
   
 idb
 
@@ -1560,7 +2110,60 @@ Persistent, 1 year
 | 
 
 These cookies are set by google analytics.  
-More about google analytics is available here.  
+  
+GetClicky
+
+.bm23.com
+
+.bronto.com
+
+| 
+
+__cfduid
+
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 year
+
+| 
+
+Web analytics statistic tool  
+  
+__cfduid
+
+| 
+
+Third Party
+
+| 
+
+Persistent, 1 year
+
+| 
+
+Web analytics statistic tool  
+  
+Sharethrough
+
+| 
+
+stx_user_id
+
+| 
+
+Third party
+
+| 
+
+Persistent, 1 month
+
+| 
+
+Analytics, multivariate testing, and site optimisation.  
   
 ###  ADVERTISING COOKIES 
 
@@ -1580,7 +2183,45 @@ More about google analytics is available here.
   
 ---|---|---|---  
   
-Criteo
+.ih.adscale.de/ adscale.de
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+3Lift.com
+
+| 
+
+Third party
+
+| 
+
+Persistent, 3 month
+
+| 
+
+Used to monitor search behaviour  
+  
+Adform
+
+| 
+
+Third party
+
+|   | 
+
+These cookies are used to collect data about the websites and individual pages that users visit both on and off our websites (which might indicate, for example, your interests and other attributes).  
+  
+adaptv.advertising.com
 
 | 
 
@@ -1592,9 +2233,9 @@ Session
 
 | 
 
-This cookie measures the page load speed to identify pages that don't perform as fast as we would like, and fix the speed to ensure that you have pleasant site experience  
+Advertising and marketing effectiveness  
   
-Bidswitch.net
+.adnxs.com
 
 | 
 
@@ -1602,11 +2243,11 @@ Third party
 
 | 
 
-Persistent, 1 Year
+Session
 
 | 
 
-This cookie regulates synchronisation of user identification and exchange of user data between various ad services.  
+Adnxs.com is run by AppNexus, a company that provides technology, data and analytics to help companies buy and sell online display advertising.  
   
 ADTech
 
@@ -1622,7 +2263,31 @@ Persistent, 1 Month
 
 This ADTECH cookie allows the ad server to check if you accept cookies  
   
-DOUBLECLICK.NET
+adtech.de
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Adwords
+
+| 
+
+Third party
+
+|   | 
+
+We use Google Adwords Conversion tracker which uses cookies to help us determine how many people who clicked on our Google Ads end up contacting us through the website.  
+  
+Affiliate Windows
 
 | 
 
@@ -1634,9 +2299,9 @@ Session
 
 | 
 
-This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.  
+Advertising and marketing effectiveness  
   
-Liverail
+ARM
 
 | 
 
@@ -1644,13 +2309,13 @@ Third party
 
 | 
 
-Persistent, 1 month
+Persistent
 
 | 
 
-This site uses the buttons LIKE and SHARE to interact on Facebook. Facebook itself uses the services of third party LiveRail to show advertising in line with your interests  
+Advertising and marketing effectiveness  
   
-3Lift.dom
+Bidswitch.net
 
 | 
 
@@ -1658,13 +2323,13 @@ Third party
 
 | 
 
-Persistent, 3 months
+Persistent, 1 Year
 
 | 
 
-Used to monitor search behaviour  
+This cookie regulates synchronisation of user identification and exchange of user data between various ad services.  
   
-Improve Digital BV
+Bing
 
 | 
 
@@ -1672,25 +2337,13 @@ Third party
 
 | 
 
-Persistent, 3 months
+Unknown
 
 | 
 
-This Third Party tracking allows our media owners to better understand user profiles and enables them and us to tailor our adverts to make them more relevant to our customers’ needs.E98  
-  
-Casale Media
+Bing’s cookies can also track and remember searches that you have made.
 
-| 
-
-Third party
-
-| 
-
-Session
-
-| 
-
-Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.  
+This cookie is widely used my Microsoft as a unique user identifier. It can be set by embedded Microsoft scripts. Widely believed to sync across many different Microsoft domains, allowing user tracking.  
   
 Burstnet
 
@@ -1706,7 +2359,7 @@ Persistent, 3 months
 
 Online advertising networks use Cookies to track users across web sites and to measure ad impressions and clickthroughs.  
   
-Taboola.com
+Casale Media
 
 | 
 
@@ -1714,137 +2367,11 @@ Third party
 
 | 
 
-Persistent
+Session
 
 | 
 
-This cookie keeps track of user segmentation.  
-  
-go.flx1.com
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Advertising and marketing effectiveness  
-  
-PUBMATIC
-
-| 
-
-Third party
-
-| 
-
-Persistent, 1 months
-
-| 
-
-Pubmatic uses this cookie to correlate our user IDs with those of our partners (such as demand side platform clients or other advertising technology companies). We pass the information stored by the partner in this cookie to the partner when it is considering whether to purchase advertisements. This enables the partner to make better decisions about whether to display an advertisement to you.  
-  
-Qubit
-
-| 
-
-Third party
-
-| 
-
-Persistent, 1 month
-
-| 
-
-Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.  
-  
-lijit.com
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-This site uses the buttons LIKE and SHARE to interact on Facebook. Facebook itself uses the services of third party LiveRail to show advertising in line with your interests. Registers a unique user ID to target advertisements in the video platform, LiveRail.  
-  
-TV Squared
-
-| 
-
-Third party
-
-| 
-
-Persistent, 2.5 year
-
-| 
-
-TV Squared allows us to track the effectiveness of our TV advertising. TV Squared collects information anonymously including the number of visitors to the site, which site or search engine they have come from and the pages they have visited. TV Squared do not collect any personally identifiable information.  
-  
-Adform
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-These cookies are used to collect data about the websites and individual pages that users visit both on and off our websites (which might indicate, for example, your interests and other attributes).  
-  
-Adwords
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-We use Google Adwords Conversion tracker which uses cookies to help us determine how many people who clicked on our Google Ads end up contacting us through the website.  
-  
-Piwik (TV Squared)
-
-| 
-
-Third party
-
-| 
-
-Persistent, 2 years
-
-| 
-
-This contains a 64-byte int UUID that is generated when the cookie is created. It contains a timestamp of the cookie creation date in UTC, which is used to process the days it took for goal conversion. It contains a visits count that is updated when a _pk_ses cookie is created and this is used to calculate Visits to conversion. It contains a timestamp of the last page view of the last visit before this visit, which is used to process Days since last visit and Days to purchase.  
-  
-Bing
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Bing’s cookies can also track and remember searches that you have made.  
+Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.  
   
 Connexity
 
@@ -1854,11 +2381,25 @@ Third party
 
 | 
 
-Persistent
+Unknown
+
+|    
+  
+Criteo
 
 | 
 
-The cookie collect information about your browsing habits and eventually funnels that info to its customers.  
+Third party
+
+| 
+
+Session
+
+| 
+
+Criteo specializes in creating personalized advertisements and to provide users with a seamless online experience, we may link your identifiers on the different browsers and environments you are using (“ID syncing”).
+
+But never willingly store data that would allow identification of a person (such as name, surname, phone number, address, etc.). Criteo collects data related to your browsing activity through cookies or advertising IDs  
   
 DataOnDemand
 
@@ -1869,6 +2410,20 @@ Third party
 | 
 
 Session
+
+| 
+
+Advertising and marketing effectiveness  
+  
+DCMNTV
+
+| 
+
+Third party
+
+| 
+
+Persistent
 
 | 
 
@@ -1888,6 +2443,34 @@ Session
 
 Advertising and marketing effectiveness. A floodlight tag is an image pixel that is created within DFA and resides on the Advertiser’s webpage  
   
+DMP
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+DOUBLECLICK.NET
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+This cookie is used for re-targeting, optimisation, reporting and attribution of online adverts.  
+  
 Ebay
 
 | 
@@ -1897,6 +2480,20 @@ Third party
 | 
 
 Session
+
+| 
+
+Advertising and marketing effectiveness  
+  
+go.flx1.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
 
 | 
 
@@ -1916,6 +2513,34 @@ Session
 
 Advertising and marketing effectiveness - An advertising targeting cookie will permit to identify different criteria for the purpose of managing the display of advertising campaigns  
   
+Impdesk.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Improve Digital BV
+
+| 
+
+Third party
+
+| 
+
+Persistent, 3 months
+
+| 
+
+This Third Party tracking allows our media owners to better understand user profiles and enables them and us to tailor our adverts to make them more relevant to our customers’ needs.E98  
+  
 Leverate
 
 | 
@@ -1930,7 +2555,7 @@ Session
 
 Advertising and marketing effectiveness  
   
-Quantum
+Liverail
 
 | 
 
@@ -1938,72 +2563,13 @@ Third party
 
 | 
 
-Session
+Persistent, 3 months
 
 | 
 
-Advertising and marketing effectiveness  
+This site uses the buttons LIKE and SHARE to interact on Facebook. Facebook itself uses the services of third party LiveRail to show advertising in line with your interests. Registers a unique user ID to target advertisements in the video platform, LiveRail.  
   
-Twenga
-
-| 
-
-Third party
-
-| 
-
-Session
-
-| 
-
-Advertising and marketing effectiveness  
-  
-Yahoo
-
-| 
-
-Third party
-
-| 
-
-Session
-
-| 
-
-Yahoo’s cookies can also track and remember searches that you have made. Yahoo has paid advertisements included in their search results.  
-  
-Affiliate Windows
-
-| 
-
-Third party
-
-| 
-
-Session
-
-| 
-
-Advertising and marketing effectiveness  
-  
-Tradedoubler
-
-| 
-
-Third party
-
-| 
-
-Persistent
-
-| 
-
-Tradedoubler's tracking technology allows you to track and reward publisher activity in a way that suits you.,  
-Pixel tracking is the most common type of tracking as it is quick to implement and provides instant data for advertisers and publishers. It consists of two elements:  
-Redirect page: All Tradedoubler traffic will pass through this page before directing the user onto the requested page on your site. This page will handle Tradedoubler's unique tracking identifier (TDUID) and cookie setting tasks.  
-Confirmation page: The tracking pixel (also known as the tracking or conversion tag) must be displayed on the confirmation page. This is the page immediately after the transaction has been completed (e.g. confirming the order has been placed).  
-  
-DCMNTV
+Moebel
 
 | 
 
@@ -2031,6 +2597,152 @@ Persistent
 
 Advertising and marketing effectiveness  
   
+Piwik (TV Squared)
+
+| 
+
+Third party
+
+| 
+
+Persistent, 2 years
+
+| 
+
+This contains a 64-byte int UUID that is generated when the cookie is created. It contains a timestamp of the cookie creation date in UTC, which is used to process the days it took for goal conversion. It contains a visits count that is updated when a _pk_ses cookie is created and this is used to calculate Visits to conversion. It contains a timestamp of the last page view of the last visit before this visit, which is used to process Days since last visit and Days to purchase.  
+  
+PUBMATIC
+
+| 
+
+Third party
+
+| 
+
+Persistent, 1 months
+
+| 
+
+Pubmatic uses this cookie to correlate our user IDs with those of our partners (such as demand side platform clients or other advertising technology companies). We pass the information stored by the partner in this cookie to the partner when it is considering whether to purchase advertisements. This enables the partner to make better decisions about whether to display an advertisement to you.  
+  
+Quantum
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Qubit
+
+| 
+
+Third party
+
+| 
+
+Persistent, 1 month
+
+| 
+
+Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.  
+  
+Taboola.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+This cookie keeps track of user segmentation.  
+  
+swid.switchads.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Tradedoubler
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+radedoubler's tracking technology allows you to track and reward publisher activity in a way that suits you.,
+
+Pixel tracking is the most common type of tracking as it is quick to implement and provides instant data for advertisers and publishers. It is our preferred tracking method and we would recommend it wherever possible. It consists of two elements:
+
+Redirect page: All Tradedoubler traffic will pass through this page before directing the user onto the requested page on your site. This page will handle Tradedoubler's unique tracking identifier (TDUID) and cookie setting tasks.
+
+Confirmation page: The tracking pixel (also known as the tracking or conversion tag) must be displayed on the confirmation page. This is the page immediately after the transaction has been completed (e.g. confirming the order has been placed).  
+  
+TV Squared
+
+| 
+
+Third party
+
+| 
+
+Persistent, 2.5 year
+
+| 
+
+TV Squared allows us to track the effectiveness of our TV advertising. TV Squared collects information anonymously including the number of visitors to the site, which site or search engine they have come from and the pages they have visited. TV Squared do not collect any personally identifiable information.  
+  
+Twenga
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Ultimatefeed
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
 Wemaster
 
 | 
@@ -2040,6 +2752,356 @@ Third party
 | 
 
 Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Yahoo
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+Yahoo’s cookies can also track and remember searches that you have made. Yahoo has paid advertisements included in their search results.  
+  
+.adtechus.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+.advertising.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+atdmt.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+.atemda.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Three persistent cookies to analyse user behaviour in order to provide targeted commercial content. The cookies are stored for two months.  
+  
+btrll.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Used for video ads. Makes it possible to affect selected user groups with targeted messages.  
+  
+1rx.io
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+rubiconproject.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+adsrvr.org
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+bat.r.msn.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+msn.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+ad.360yield.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+t.c4tw.net
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+smartadserver.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+openx.net
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+Google
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+bat.bing.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+ligadx.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+teads.tv
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+yieldlab.net
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+emailretargeting.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+.spotxchange.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+www.tag4arm.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+www3.smartadserver.com
+
+| 
+
+Third party
+
+| 
+
+Persistent
+
+| 
+
+Advertising and marketing effectiveness  
+  
+geo-um.btrll.com
+
+| 
+
+Third party
+
+| 
+
+Session
 
 | 
 
@@ -2067,13 +3129,44 @@ Advertising and marketing effectiveness
   
 ---|---|---|---|---  
   
+Facebook
+
+| 
+
+locale
+
+lu
+
+fr
+
+x-src
+
+datr
+
+| 
+
+Thirs party
+
+| 
+
+Persistent
+
+| 
+
+These are Facebook cookies that determine whether you are logged in to facebook during your browser session. They also allow you to like a page and record the number of times a page has been liked. Some also prevents the creation of fake accounts and spammy accounts. Lower the risk of users’ accounts being taken over by other people.
+
+Protect users’ content against theft. Prevent DDoS (distributed denial of service) attacks that could make Facebook inaccessible to some users.  
+  
 Twitter
 
 | 
 
-guest_id   
-_twitter_sess   
-external_referer   
+guest_id
+
+_twitter_sess
+
+external_referer
+
 ua
 
 | 
@@ -2088,33 +3181,21 @@ Persistent, 2 Years
 
 Twitter cookie that appears on pages where ‘Tweet’ button is used and serves as your unique identification number associated with Twitter  
   
-Sharethrough
-
-| 
-
-stx_user_id
-
-| 
-
-Third party
-
-| 
-
-Persistent, 1 month
-
-| 
-
-Analytics, multivariate testing, and site optimisation.  
-  
 Pinterest
 
 | 
 
-_pinterest_cm  
-_pinterest_referrer   
-_auth   
-csrftoken   
+_pinterest_cm
+
+_pinterest_referrer
+
+_auth
+
+csrftoken
+
 _pinterest_sess
+
+_pinterest_cm
 
 | 
 
@@ -2127,6 +3208,78 @@ Persisten, 1 year
 | 
 
 Used by Pinterest to track the usage of services.  
+  
+Google
+
+| 
+
+GAPS
+
+| 
+
+Third party
+
+| 
+
+Persistent, 2 years
+
+| 
+
+Google set a number of cookies on any page that includes a Google Calendar. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Google Calendar users, as well as information about which calendar you are viewing, and which tab you are currently on.  
+  
+GALX
+
+| 
+
+Third party
+
+| 
+
+Session
+
+|    
+  
+Youtube
+
+| 
+
+VISITOR_INFO1_LIVE
+
+| 
+
+Third party
+
+| 
+
+Persistent, 1 year
+
+| 
+
+We use YouTube to embed a selection of videos on our blog as well as our ‘About Us’ section. The embedded videos do not set cookies themselves and can be played with no cookies set. However, if the ‘Share’ button is clicked YouTube will set these two cookies. The VISITOR_INFO1_LIVE cookie attempts to estimate your bandwidth and the use_hitbox cookie increments the ‘views’ counter on the YouTube video. These cookies don’t gather information that identifies a user.  
+  
+YSC
+
+| 
+
+Third party
+
+| 
+
+Session
+
+| 
+
+This cookie is set by the YouTube video service on pages with embedded YouTube video.  
+  
+PREF
+
+|   | 
+
+Persistent, 1 year
+
+| 
+
+This cookie is set by the YouTube video service on pages with embedded YouTube video.  
   
 ###  CHANGES 
 
