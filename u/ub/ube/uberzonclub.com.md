@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberzonclub.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601184128id_/http%3A//www.uberzonclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberzonclub.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221161910id_/http%3A//www.uberzonclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Uber Zon Club
 
