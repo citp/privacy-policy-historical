@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingacademy.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627224332id_/http%3A//amazing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingacademy.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221143332id_/https%3A//amazingacademy.com/privacy) for the most accurate reproduction.*
 
 # Amazing.com | Privacy Policy
 
