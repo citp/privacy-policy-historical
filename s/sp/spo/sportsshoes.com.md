@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527041603id_/https%3A//www.sportsshoes.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221181237id_/https%3A//www.sportsshoes.com/support/privacy) for the most accurate reproduction.*
 
 # Support, Help & Advice | SportsShoes.com
 
-[ ](https://www.sportsshoes.com/) [ __ 0 ](https://web.archive.org/basket/)
+[ ](https://www.sportsshoes.com/) [ __ 0 ](https://www.sportsshoes.com/basket/)
 
 [ ](https://www.sportsshoes.com/)
 
@@ -31,7 +31,7 @@ Items: 0
 
 £0.00
 
-](https://web.archive.org/basket/)
+](https://www.sportsshoes.com/basket/)
 
 At sportsshoes.com we respect your privacy and are committed to maintaining it. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our website. 
 
@@ -75,7 +75,6 @@ We use cookies for the following reasons:
 
 We do not store any information in cookies which could be used to identify you personally, nor are any sensitive details stored in the cookie.
 
-  
-
+For more information or questions on our privacy policy, you can get in touch by sending us an email to [customerservice@sportsshoes.com](mailto:customerservice@sportsshoes.com)
 
 Loading...
