@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkshops.in privacy policy that was archived on 2016-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160109133208id_/http%3A//www.landmarkshops.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkshops.in privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221213219id_/http%3A//www.landmarkshops.in/privacypolicy) for the most accurate reproduction.*
 
 # LandmarkShops.in
 
