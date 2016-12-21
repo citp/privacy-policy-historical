@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616164637id_/http%3A//numerologist.com/portal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221071527id_/http%3A//numerologist.com/portal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Numerologist.com
 
 Effective on March 24, 2010
 
-This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Cosmic Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 If you have questions or concerns regarding this policy, you should first contact us at [privacy@numerologist.com ](mailto:support@numerologist.com).
 
@@ -50,7 +50,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Atlantic Private Equity Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if Cosmic Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -63,7 +63,7 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
 _Web beacons_ Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-_Links to Other Web Sites_ Our Site includes links to other Web sites whose privacy practices may differ from those of Atlantic Private Equity Incorporated. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+_Links to Other Web Sites_ Our Site includes links to other Web sites whose privacy practices may differ from those of Cosmic Incorporated. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ## Security
 
@@ -79,7 +79,7 @@ In order to make a purchase from us, you must use our shopping cart provider to 
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Atlantic Private Equity Incorporated
+Cosmic Incorporated
 
 14525 SW Millikan Way #28110
 
