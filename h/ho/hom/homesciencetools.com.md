@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605131611id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesciencetools.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221024225id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy | Home Science Tools
+
+* * *
 
 Privacy Policy  
 Terms of Use
@@ -54,6 +56,8 @@ The Home Science Tools Privacy Policy is subject to change at any time. We encou
 
 If you have any questions or concerns about this privacy policy or any business practices of Home Science Tools, please contact us at 1-800-860-6272 or e-mail us at [service@homesciencetools.com](mailto:service@homesciencetools.com).
 
+* * *
+
 ## TERMS OF USE
 
 Laboratory equipment and chemicals can be dangerous if misused. 
@@ -63,9 +67,11 @@ When you order from us, you are verifying that you are at least 21 years of age 
 • Assume all responsibility for any injuries or damages resulting from the use, storage, and disposal of these items,  
 • Assume all responsibility for complying with government regulations regarding these items.
 
-Site Use
+* * *
 
-Except where otherwise noted, all content and items on this site are Copyrighted © 1999-2015 by Home Science Tools, 665 Carbon St, Billings, MT 59102 USA. All rights are reserved.
+## SITE USE
+
+Except where otherwise noted, all content and items on this site are Copyrighted © 1999-2016 by Home Science Tools, 665 Carbon St, Billings, MT 59102 USA. All rights are reserved.
 
 Permission is given to display, copy, distribute, download, and print hard copies of this Site only for the purposes of:
 
@@ -74,4 +80,4 @@ Permission is given to display, copy, distribute, download, and print hard copie
 
 
 
-No additional dissemination of this information is allowed without prior written permission from Home Science Tools, Ltd.
+No additional dissemination of this information is allowed without prior written permission from Home Science Tools.
