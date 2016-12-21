@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the frugalityisfree.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518233521id_/http%3A//www.frugalityisfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalityisfree.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221130109id_/http%3A//www.frugalityisfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frugality Is Free
-
-  * 
-
-
-Privacy Policy
 
 **What information do we collect?**
 
@@ -65,8 +60,3 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 This policy was last modified on 1/6
 
 http://www.frugalityisfree.com/
-
-[](https://www.pinterest.com/pin/create/button/)
-
-  *   * 
-
