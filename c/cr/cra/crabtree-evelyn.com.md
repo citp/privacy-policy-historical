@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327013146id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221051118id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+CUSTOMER CARE: 1-800-272-2873 Mon-Fri 8:30 AM - 6 PM ET. Sat 10 AM - 4 PM ET. 
 
 Last Updated: 12/16/2015 
 
