@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506091357id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221123108id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Roadrunner Records
+# Privacy Policy
 
-  * [Pre-order The Amity Affliction's Let The Ocean Take Me Deluxe Edition](http://smarturl.it/slf)
-  * [Bad Seed Rising's A Place Called Home EP OUT NOW](http://smarturl.it/BADSEED_APCH)
-  * [Download Stone Sour's Meanwhile In Burbank...](http://smarturl.it/ss-mib)
-  * [We Are Harlot's Debut Album OUT NOW](http://smarturl.it/weareharlot-itunes)
-  * [Watch Wild Throne's 'War Is A Romance'](http://youtu.be/v753FQ12Bh8)
-  * [Download Slipknot's .5: The Gray Chapter Now](http://smarturl.it/thegraychapter)
-
-
-
-**LAST UPDATED: [JANUARY 20, 2015]**
-
-**PRIVACY POLICY**
+**LAST UPDATED: [JANUARY 20, 2015] **
 
 Roadrunner Records Inc. ( **Company** ), a Warner Music Group company, is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites and web properties (e.g., widgets and applications) and mobile applications ( **Mobile Apps** ) (collectively the **Properties** ). By providing Personal Information (as defined below) to us through the Properties, you agree to the terms and conditions of this Privacy Policy.
 
@@ -22,7 +11,7 @@ This Privacy Policy does not address, and we are not responsible for, the privac
 The Properties are controlled and operated from the United States; accordingly, this Privacy Policy, and our collection, use and disclosure of your Personal Information, is governed by U.S. law, and the Properties are not intended to subject Company or any of its affiliates to the laws or jurisdiction of any state, country or territory other than that of the United States.  If you are located in the European Union (EU), please note that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU with respect to Personal Information collected by entities located in the European Economic Area and transferred to us in the United States.  Please review our Safe Harbor Privacy Policy located at <http://www.wmg.com/privacy/safeharbor>.  More information about the Safe Harbor framework can be found at <http://www.export.gov/safeharbor/>.
 
 The Properties are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personal Information through the Properties.  
-**  
+ **  
 Your California Privacy Rights** : If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third partiesÕ own direct marketing purposes. Please send your request by email to [privacypolicy@wmg.com](mailto:privacypolicy@wmg.com), or by postal mail to Warner Music Group, Attn: Privacy Coordinator, 1633 Broadway, New York, NY 10019. We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section.
 
 **UPDATES TO THIS PRIVACY POLICY**
@@ -96,10 +85,10 @@ Your Personal Information may be disclosed:
 **Sensitive Information**
 
 We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Properties or otherwise to us.  
-**  
+ **  
 OTHER INFORMATION  
 **  
-**Other Information We May Collect**
+ **Other Information We May Collect**
 
 We and our third-party service providers may collect Other Information (defined above), such as:
 
@@ -180,7 +169,3 @@ New York, NY 10019
 Attn: Privacy Coordinator
 
 Please note that email communications are not always secure, so please do not include credit card information or other sensitive information in your email messages to us.
-
-### Subscribe to Roadrunner Mailing List
-
-By submitting my information above, I acknowledge that I have reviewed and agreed to the [Privacy Policy](http://www.roadrunnerrecords.com/privacy_policy) and [Terms of Service](http://www.roadrunnerrecords.com/terms_of_service).
