@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyknicksstore.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002855id_/http%3A//www.nyknicksstore.com/pages/partners_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyknicksstore.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221161130id_/http%3A//www.nyknicksstore.com/pages/partners_privacy_policy) for the most accurate reproduction.*
 
 # - Official NY Knicks Store
 
@@ -88,6 +88,6 @@ We are committed to the preservation of online privacy for all of our visitors, 
 For questions or concerns relating to this Privacy Policy, we can be contacted at:
 
 www.nyknicksstore.com c/o Fanatics Retail Group Fulfillment, Inc.  
-5245 Commonwealth Avenue  
-Jacksonville, FL 32254  
+8100 Nations Way  
+Jacksonville, FL 32256  
 [privacy@fanaticsretailgroup.com](mailto:privacy@fanaticsretailgroup.com "Email Us")
