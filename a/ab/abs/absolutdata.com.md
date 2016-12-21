@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutdata.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531012914id_/http%3A//www.absolutdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutdata.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221025659id_/http%3A//www.absolutdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Absolutdata
 
@@ -10,7 +10,7 @@ We have implemented industry-standard security safeguards designed to protect th
 
 It is the policy of Absolutdata to comply with the requirements of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Absolutdata has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with respect to all personal information transferred from the EU or Switzerland to the US (personal information) within the scope of its Safe Harbor certification. In addition, personal information obtained from or relating to clients or former clients is further subject to the terms of any specific privacy notice provided to the client, any contractual arrangements with the client, and applicable laws and professional standards.
 
-To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://2016.export.gov/safeharbor/).
 
  **DISPUTE RESOLUTION:** Any questions or concerns regarding the use or disclosure of personal information should be directed to the Absolutdata Office at the address given below. Absolutdata will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy.
 
@@ -39,4 +39,4 @@ Or by e-mail to [privacy@absolutdata.com](mailto:privacy@absolutdata.com)
 Our website: Absolutdata services several Fortune 500 clients and partners with them to ensure data security, following privacy protocols described above. We do not transfer any client data via this website. However, this website does serve as a point of reference for existing and potential clients, employees, investors and others. Potential clients interested in engaging with Absolutdata may reach out to us through our website. Our website is also used to source talent for the firm and requires candidates to submit personal data with reference to their candidature. This information is used by Absolutdata strictly for resourcing / hiring purposes. You should be aware, however, that since the Internet is not a 100% secure environment, we cannot ensure or warrant the security of any information that you submit to the site. There’s also no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 [We self-certify compliance with:       ](https://safeharbor.export.gov/list.aspx)  
-[](http://www.export.gov/safeharbor/)
+[](http://2016.export.gov/safeharbor/)
