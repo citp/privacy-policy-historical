@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barnorama.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606205449id_/http%3A//www.barnorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnorama.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221214140id_/http%3A//www.barnorama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Barnorama
+# Privacy Policy Barnorama
 
 **Barnorama** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
