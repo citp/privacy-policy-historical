@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183842id_/https%3A//www.coverfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverfox.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221172654id_/https%3A//www.coverfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coverfox.com
 
@@ -24,7 +24,7 @@ Coverfox may collect and use Users personal information for the following purpos
   * To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * To improve our Site We may use feedback you provide to improve our products and services.
   * To process payments We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To share your information with third parties We may share or sell information with third parties for marketing or other purposes.
+  * To share some information (other than your personal information like your name, address, email address or telephone number) with third-party advertising companies and/or ad agencies to serve ads when you visit our Web site.
   * To run a promotion, contest, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.
   * To send periodic emails
 
@@ -48,7 +48,7 @@ We may use third party service providers to help us operate our business and the
 
 ## Third party websites 
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies. 
+Users may find content on our Site that links to the sites and services of insurance companies which may appear on our Site for online sale of insurance. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies. 
 
 ## Changes to this privacy policy 
 
