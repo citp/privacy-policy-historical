@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220184332id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soas.ac.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221183032id_/http%3A//www.soas.ac.uk/utility/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy relating to the SOAS website | SOAS, University of London
-
-### Privacy policy relating to the SOAS website
 
 In this agreement, the "Website" means the SOAS website at www.soas.ac.uk. "SOAS" means the SOAS, University of London (School of Oriental and African Studies).
 
