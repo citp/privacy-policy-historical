@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401144051id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221194921id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -12,7 +12,7 @@ To this end, this policy sets out:
 
 
 
-The policy also explains how to apply to the ACMA for access to, and correction of, your personal information, as well as how to make a complaint if you consider that the ACMA has breached its privacy obligations imposed under the _[Privacy Act 1988](http://www.comlaw.gov.au/Series/C2004A03712%20) _(the Privacy Act). It also explains how the ACMA will deal with such applications and complaints.
+The policy also explains how to apply to the ACMA for access to, and correction of, your personal information, as well as how to make a complaint if you consider that the ACMA has breached its privacy obligations imposed under the  _[ _Privacy Act 1988_](https://www.legislation.gov.au/Series/C2004A03712) _(the Privacy Act). It also explains how the ACMA will deal with such applications and complaints.
 
 This policy applies to all ACMA activities **** that involve the management of personal information (whether digitally, in paper form or otherwise) by any staff or any contracted service providers of the ACMA. 
 
@@ -140,7 +140,7 @@ Some positions within the ACMA require a security clearance. The ACMA’s cleara
 
 All information provided by you for a security process is only used for assessing your suitability to hold the relevant security clearance.  
 
-More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx%20) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/personnelsecurity/Pages/Australian-Government-personnel-security-management-protocol.aspx%20).
+More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/).
 
 ### Procurement
 
@@ -170,7 +170,7 @@ If you register for access to an online or subscription service we will collect 
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
 
-The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com.au/corporate/products-services/transaction-services/electronic-banking/anz-egate/%20).  
+The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com/corporate/products-services/transaction-services/electronic-banking/anz-egate/).  
 
 You will receive information about the terms and conditions of gaining access to an online or subscription service before any personal information is collected.
 
@@ -182,7 +182,7 @@ Clickstream data is a record of a user’s browsing activities on the internet. 
 
 Like many websites, the ACMA’s website uses session-based cookies (or temporary cookies) and persistent cookies. A session-based cookie only lasts for as long your browsing session and ends when you close your browser. A persistent cookie remains on your computer after you close your browser and will be sent back to the website each time you visit until you clear the cookie from your browser.    
 
-You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org/) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
+You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org.uk/managing-cookies) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
 
 When you browse our website, our server collects and holds the following information: ****
 
@@ -247,7 +247,7 @@ We will not use it for any other purpose, nor will we disclose it, unless one of
 
 Part 7A of the ACMA Act empowers the ACMA to share authorised disclosure information (defined in section 3 of that Act) in certain circumstances, including to an authority of a foreign country responsible for regulating matters relating to communications or media (see section 59D). The definition of authorised disclosure information encompasses personal information given in confidence to the ACMA in connection with the performance of any of its functions or the exercise of any of its powers. The ACMA may make a disclosure on request or of its own volition. The decision to disclose will be made in light of the facts. For more information see the ACMA’s _[Regulatory Guide No 3 ](https://web.archive.org/theACMA/About/The-ACMA-story/Regulating/regulatory-guides-guidelines-limitations-on-control-acma)_– _Information sharing under Part 7A of the Australian Communications and Media Authority Act 2005.    _
 
-The ACMA has also entered into memoranda of understanding (MOUs) with a number of domestic and international agencies. The MOUs do not provide the legal basis for making disclosures. They assist the ACMA and the other signatory to respond appropriately to, and manage requests for, assistance, including requests for access to information held by the ACMA. These MOUs are available [here](https://web.archive.org/Citizen/Stay-protected/My-mobile-world/Dealing-with-mobile-spam/international-cooperation-your-mobile-world-i-acma) .   
+The ACMA has also entered into memoranda of understanding (MOUs) with a number of domestic and international agencies. The MOUs do not provide the legal basis for making disclosures. They assist the ACMA and the other signatory to respond appropriately to, and manage requests for, assistance, including requests for access to information held by the ACMA. These MOUs are available [here](https://web.archive.org/Citizen/Phones/Mobile/Dealing-with-mobile-spam/international-cooperation-your-mobile-world-i-acma).   
 
 Information on the operation of the FOI Act is available [here](https://web.archive.org/theACMA/About/Corporate/Accountability/acma-freedom-of-information-act-publication-plan).   
 
