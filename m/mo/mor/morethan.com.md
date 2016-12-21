@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606085914id_/http%3A//beta.morethan.com/legal/privacy-policy%3Fintc%3Dcookie_banner) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221175859id_/http%3A//www.morethan.com/privacy) for the most accurate reproduction.*
 
 # MORE TH>N insurance from RSA | Privacy Policy
 
