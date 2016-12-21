@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synchronyfinancial.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423050424id_/https%3A//www.synchronyfinancial.com/privacy-policy.html%3Fresolvetemplatefordevice%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synchronyfinancial.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221191039id_/https%3A//www.synchronyfinancial.com/privacy-policy.html%3Fresolvetemplatefordevice%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
