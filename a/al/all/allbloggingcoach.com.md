@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbloggingcoach.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929143813id_/http%3A//www.allbloggingcoach.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbloggingcoach.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221142924id_/http%3A//www.allbloggingcoach.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# We Know The Rudiments Of Success: Privacy Policy
+# Privacy Policy | We Know The Rudiments Of Success
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@allbloggingcoach.com  
   
