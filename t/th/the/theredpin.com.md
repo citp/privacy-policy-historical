@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theredpin.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054656id_/https%3A//www.theredpin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredpin.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221072810id_/https%3A//www.theredpin.com/privacy) for the most accurate reproduction.*
 
 # TheRedPin - Privacy Policy
 
