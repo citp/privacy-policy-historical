@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184919id_/http%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagodefender.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221161818id_/http%3A//chicagodefender.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chicago Defender
 
