@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgame.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525121830id_/http%3A//topgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgame.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221011122id_/http%3A//topgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TOPGAME
 
