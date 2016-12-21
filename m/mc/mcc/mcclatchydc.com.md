@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630082417id_/http%3A//www.mcclatchydc.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222002801id_/http%3A//www.mcclatchydc.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | McClatchyDC.com & McClatchy DC
 
