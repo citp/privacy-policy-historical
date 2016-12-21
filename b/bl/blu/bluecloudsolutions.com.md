@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429151707id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecloudsolutions.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221225252id_/http%3A//www.bluecloudsolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - How to Make An App - Bluecloud Solutions - App Marketing
+# Privacy Policy - Bluecloud Solutions - App Marketing
 
 **GOLD COIN KINGDOM LLC (d/b/a BLUECLOUD)**
 
