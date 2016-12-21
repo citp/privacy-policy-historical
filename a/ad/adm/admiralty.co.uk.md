@@ -1,42 +1,67 @@
-> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527024041id_/http%3A//www.admiralty.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiralty.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221210329id_/https%3A//www.admiralty.co.uk/Cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Cookies | Home | ADMIRALTY
 
-We are firmly committed to maintaining the security and confidentiality of personal information collected on this site. The site is registered under the Data Protection Act 1998.
+​We are firmly committed to maintaining the security and confidentiality of personal information collected on this site. The site is registered under the Data Protection Act 1998.
 
-Forms on the site may require users to give some personal information, such as contact information. This information is used to contact the user when necessary, for example, if the user is interested in a job opportunity. Where users have provided personal information, this may be used to provide information on new products and services, except where a user has indicated otherwise. In any case, personal information will not be passed to a third party. Users may, on request, view the information we hold about them and request that we update, correct or delete it.
+When using [ www.admiralty.co.uk](http://www.admiralty.co.uk/) users may be required to provide personal information, such as contact details.  Where users have provided personal information, this may be used to provide information on new products and services, except where a user has indicated otherwise. In any case, personal information will not be passed to a third party. On written request, users may, view the information we hold about them and request that we update, correct or delete it.
+
+### Security
+
+UKHO protect its commercial sites and products from cybercrime by design, ensuring it and its customers can feel safe in the knowledge that UKHO hosts a stable and innovative cyberspace presence which the public can use safely.
+
+This statement is validated by independent testing in line with UK government policy.
+
+UKHO systems are also accredited in line with UK government Security Policy Framework (SPF) and in line with ISO27001.
 
 ### The UKHO Information Charter
 
 The Information Charter sets out the standards you can expect from the UKHO when we request or hold information, including but not limited to personal data about your enquiries
 
-### When we ask you for personal information, we promise: 
+**When we ask you for personal information, we promise:**
 
-  * To make sure you know why we need it;
-  * To only ask for what we need, and not to collect too much or irrelevant information; 
-  * To protect it and make sure nobody has access to it who shouldn't; 
-  * To let you know if we share it with other organisations to give you better public services - and if you can say no; 
-  * To make sure we don't keep it longer than necessary; 
-  * To check the information we hold is accurate and up to date; and
-  * Not to make your personal information available for commercial use without your permission. 
+  * To only ask for what we need, and not to collect too much or irrelevant information
+
+  
+
+  * To make sure you know why we need it
+
+  
+
+  * To check the information we hold is accurate and up to date
+
+  
+
+  * To protect the information and make sure nobody has access to it who shouldn't
+
+  
+
+  * To make sure we don't keep it longer than necessary
+
+  
+
+  * Not to make your personal information available for commercial use without your permission
 
 
 
-### In return, we ask you to: 
 
-  * Give us accurate information; and 
-  * Tell us as soon as possible if there are any changes, such as a new address. 
+In return, we ask you to provide us with accurate information and inform us about any relevant updates, such as a new address.
+
+### Your Rights
+
+  
 
 
+  * At any one time, you can find out what information we hold about you and ask us to correct any mistakes
 
-#### You can get more details on: 
+  
 
-  * How to find out what information we hold about you and how to ask us to correct any mistakes;
-  * Agreements we have with other organisations for sharing information; 
-  * Circumstances where we can pass on your personal information without telling you, for example, to prevent and detect crime or to produce anonymised statistics; 
-  * Our instructions to staff on how to collect, use and delete your personal information; 
-  * How we check the information we hold is accurate and up to date; and 
-  * How to make a complaint. 
+  * At any one time, you can request to know the agreements we have with other third parties for sharing information
+
+  
+
+  * At any one time, you may request details on our complaints procedure and how to log a complaint
+
 
 
 
@@ -44,29 +69,27 @@ Through these commitments, we will keep to the law, including the Data Protectio
 
 ### Visitors to our websites
 
-When someone visits our website we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. 
+When someone visits our website we collect standard internet log information and details of visitor behaviour patterns. From the information collected, data is extracted in order for us to look at specific elements such as the number of visitors to various parts of the site and improve our website by analysing how it is used. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our websites. We will not associate any data gathered from this site with any personally identifying information from any source. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
-#### Use of cookies by the UKHO
+If you have any questions regarding our Privacy & Security Policy please contact [intellectualproperty@ukho.gov.uk.](mailto:intellectualproperty@ukho.gov.uk)
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+### 
 
-One of the cookies we use is essential for parts of the site to operate and has already been set (see 'Essential site cookie' below). You may delete and block all cookies from this site, but parts of the site will not work.
+__
 
-Cookie | Name | Purpose | More information  
----|---|---|---  
-Essential site cookie | ASP.NET_SessionId | This cookie is essential for the site to operate and is set upon your arrival to the UKHO Copyright Licensing site. This cookie is deleted when you close your browser. | [Visit the Microsoft website](http://support.microsoft.com/kb/899918)  
-Google Analytics | _utma  
-_utmb  
-_utmc  
-_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. | [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-ISA Web Publishing Load Balancing | ISAWPLB | When using an ISA Server to handle load balancing and web requests an ISA server will place Cookies to allow ISA Server to allow itself to internally configure routes for internal requests. This cookie is deleted when you close your browser. | N/A  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [here.](http://www.allaboutcookies.org/ "All About Cookies")
+  * ADMIRALTY Passage Planner helps bridge officers calculate safe clearance based on the squat effect: <https://t.co/BoMgBFHaVm>
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
+About 7 hours ago
 
-### FOR MORE INFORMATION, PLEASE CONTACT 01823 337900
+  * Read how a sea level mapping platform is helping #Vanuatu prepare for future rises in sea level. @SpatialSource: <https://t.co/Mc6p6wf29Y>
 
-When we ask you for information, we will keep to the law, including the Data Protection Act 1998. For independent advice about data protection, privacy and data-sharing issues, you can contact the Information Commissioner at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF. Phone: 08456 30 60 60 or 01625 54 57 45 Fax: 01625 524510.
+About 9 hours ago
 
-Website: [www.ico.gov.uk](http://www.ico.gov.uk/ "Information Commissioners Office website")
+  * Find out more about the range of information on offer to support you in your use of ADMIRALTY Passage Planner: <https://t.co/b16oj6FGqO>
+
+About 1 day ago
+
+
+
+
+[Follow us on Twitter](https://twitter.com/AdmiraltyOnline)
