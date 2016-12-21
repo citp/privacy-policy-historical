@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treas.gov privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320021217id_/https%3A//www.treasury.gov/SitePolicies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treas.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221085957id_/https%3A//www.treasury.gov/SitePolicies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Notices
 
