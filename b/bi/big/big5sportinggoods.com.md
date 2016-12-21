@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630095147id_/http%3A//big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221190740id_/http%3A//www.big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Big 5 Sporting Goods
-
-[ ](https://web.archive.org/store/browse/specials/4th-of-july-take-your-independence-outdoors/_/N-b70) [ ](https://web.archive.org/store/specials/Shipping+Details)
 
   * [home](https://web.archive.org/store/) >
   * privacy policy
