@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toxiclab.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514023837id_/http%3A//www.toxiclab.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toxiclab.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221043447id_/http%3A//toxiclab.org/privacy.asp) for the most accurate reproduction.*
 
 # Contact - Toxiclab.org
 
