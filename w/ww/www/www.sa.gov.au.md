@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630131053id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.sa.gov.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222003720id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
 
 # sa.gov.au - Privacy
 
 This statement sets out this site's policies relating to the privacy and security of your personal information and security of your other information. This privacy and security statement applies only to SA.GOV.AU.
 
-This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/premier-and-cabinet-circulars).
+This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/what-we-do/services-for-government/premier-and-cabinet-circulars).
 
 This site collects and uses the following information from users:
 
@@ -19,3 +19,7 @@ This site collects and uses the following information from users:
   * The content of this privacy and security statement may be updated from time to time, so we suggest that if you return to this site on a regular basis that you carefully read the information provided.
 
 
+
+* * *
+
+Page last updated 6 December 2013 
