@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oki-ni.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529060529id_/http%3A//www.oki-ni.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oki-ni.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221185727id_/https%3A//www.oki-ni.com/en/privacy.html) for the most accurate reproduction.*
 
 # OKI-NI PRIVACY
 
