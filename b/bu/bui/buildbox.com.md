@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildbox.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317034529id_/https%3A//www.buildbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildbox.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221122340id_/https%3A//www.buildbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buildbox - game making software
+# Privacy Policy - Buildbox | Game Maker | Video Game Software
 
 (V1.01 – Effective February 18th, 2016)
 
