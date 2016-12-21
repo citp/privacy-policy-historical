@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waystoavoidscamsonline.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628225227id_/http%3A//waystoavoidscamsonline.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waystoavoidscamsonline.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222004136id_/http%3A//waystoavoidscamsonline.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy - Ways to Avoid SCAMS Online
 
