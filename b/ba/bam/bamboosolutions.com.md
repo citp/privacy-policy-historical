@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamboosolutions.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513103949id_/http%3A//store.bamboosolutions.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboosolutions.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221193352id_/http%3A//store.bamboosolutions.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
