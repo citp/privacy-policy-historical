@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509034715id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221203817id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bank AlfalahBank Alfalah
 
