@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hnbgu.ac.in privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515031452id_/http%3A//hnbgu.ac.in/forms/contentpage.aspx%3Flid%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hnbgu.ac.in privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222002735id_/http%3A//hnbgu.ac.in/forms/contentpage.aspx%3Flid%3D31) for the most accurate reproduction.*
 
 # Privacy Policy | Hemvati Nandan Bahuguna Garhwal University
 
