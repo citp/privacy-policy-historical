@@ -1,42 +1,28 @@
-> *The following text is extracted and transformed from the linkaty.us privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223170105id_/http%3A//linkaty.us/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkaty.us privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-At Linkaty.us we recognize that privacy is important. This document outlines the types of personal information we collect when you use of Linkaty.us services. We hope this will help you make an informed decision about sharing personal information with us.
+ the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.linkaty.us and how it is used.
 
-**Personal information and other data we collect**
+**Log Files**   
+Like most standard Web site servers, www.linkaty.us use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
-Linkaty.us uses cookies and other data sent by your browser to enhance your online experience and to learn about how you use Linkaty.us services in order to improve the quality of our services.
+  **Google's search box**   
+Has been providing search box on this web site (the "search box") by Google Inc ( "Google"). You acknowledge and agree to apply privacy policy Google (Located on http://www.google.ae/privacy.html) for using the "search box" and using the "search box" Google granted approval to use your personal data in accordance with the Privacy Policy 
 
-* Your geographic country code (eg US,UK,IT etc) is determined from your network location on file uploads (no ipv4 or ipv6 addresses are recorded anywhere on system) and first time visits from the information sent by your browser (user agent). This is only kept for short periods and is used to help improve our service and measure usage. This data is not disclosed to any third parties.  
-* Email addresses are recorded and verified on registration for our free and/or premium services. We do not share/sell/transfer/give away etc our users email addresses! We hate spam as much as you do and only ever send email to you at account erification or if you want to recover account.  
-* Your network subnet (not the actuall address) is recorded on downloads for a duration of 24 hours in order to prevent abuse of the service by showing reCaptcha to heavy users. Country code from where the download occured is kept for 2 months after download in order to provide us with usage statistics and improve service.  
-* Browser language settings maybe used for the duration of the session to display the site in your preferred language.
+Cookies and Web Beacons  
+ www.linkaty.us does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends. 
 
-**3rd Party Advertising and Analytics**
+**DoubleClick DART Cookie**  
+ Google, as a third party vendor, uses cookies to serve ads on Linkaty.us Google's use of the DART cookie enables it to serve ads to your users based on their visit to Linkaty.us and other sites on the Internet Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)
 
-To try and bring you offers that are of interest to you and more importantly to maintain free services, we have relationships with other companies such as Google, who we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of: [Google](http://www.google.com/privacy.html)
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
 
-**Google and the[ DoubleClick DART](http://www.doubleclick.com/privacy/faq.aspx) cookie:**
+These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on www.linkaty.us. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see. www.linkaty.us has no access to or control over these cookies, once we have given permission for them to set cookies for advertising 
 
-* Google, as a third party vendor, uses cookies to serve ads on this site.  
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to this sites and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. http://www.google.co.uk/privacy.html privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-**Google Analytics**  
-This site (like the majority of internet sites) uses Google Analytics to provide us with statistics which we can use to improve this site. Detailed privacy policy is available here.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**Usage**
-
-* We may use personal information to provide the services you've requested, including services that display customized content and advertising.  
-* We may also use personal information for auditing, research and analysis to operate and improve Linkaty.us technologies and services.  
-* We may share aggregated non-personal information with third parties outside of Linkaty.us, for example traffic trends with our advertising partners. No personal information will be shared.  
-* We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
-
-**Your choices**
-
-* We offer you choices when we ask for personal information, whenever reasonably possible  
-* You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.  
-* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
-
-At Linkaty.us we value your privacy so if you have any problems with please [contact us](https://web.archive.org/web/20131223170105id_/http%3A//linkaty.us/Contact-Us.html)
+At Linkaty.us we value your privacy so if you have any problems with please contact us If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/pages/ContactUs.aspx)   
+Team preparation : [www.linkaty.us ](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/home.aspx)
