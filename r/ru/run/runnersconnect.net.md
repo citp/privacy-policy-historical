@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersconnect.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320112912id_/http%3A//runnersconnect.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersconnect.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221232513id_/https%3A//runnersconnect.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Runners Connect
 
@@ -83,8 +83,7 @@ This policy was last modified on 10/25/12
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://runnersconnect.net
-
+http://runnersconnect.net  
 40 cameron Street  
 Brooklin, Massachusets 02445  
 Suffolk
