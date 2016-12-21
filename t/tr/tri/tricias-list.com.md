@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricias-list.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421221919id_/http%3A//tricias-list.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricias-list.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221134106id_/http%3A//tricias-list.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -About Tricias-List & Our Policies
 
@@ -168,4 +168,4 @@ Maryland
 
 tricia@tricias-list.com
 
-Last Edited on 2014-10-15
+Last Edited on 2016-12-18
