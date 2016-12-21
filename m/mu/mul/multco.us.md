@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the multco.us privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001719id_/https%3A//multco.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multco.us privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221214942id_/https%3A//multco.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Multnomah County
 
-Last revised 03/14/2014
+Last revised 07/20/2016
 
 ## I. Introduction
 
-Multnomah County protects the privacy and confidentiality of all residents, no matter their age.
+Multnomah County is a government entity that conducts public business. Under Oregon's Public Records Law, all writings that contain information relating to the conduct of the public’s business are considered public records and are generally available for public review, though certain records are conditionally or unconditionally exempt from public review. Multnomah County protects the privacy and confidentiality of all personal information contained in county records to the fullest extent allowable by law. 
 
 Our commitment to your privacy and confidentiality has deep roots not only in the law but also in the ethics and practices of governance. 
 
@@ -22,7 +22,7 @@ We avoid creating unnecessary records, we avoid retaining records not needed for
 
 #### **Choice and Consent**
 
-We will not collect or retain your private and personally identifiable information without your consent. If you consent to give us your personally identifiable information, we will keep it confidential and will not sell, license or disclose personal information to any third party, except an agent working under contract to the county, without your consent, unless we are required by law to do so.
+We will not collect or retain your private and personally identifiable information without your consent. We may track the use of our website to ensure its quality and improve our services; however, this information cannot be linked to a specific individual. Other than the information you voluntarily provide to Multnomah County, we will not collect data from you allowing you to be personally identified. If you consent to give us your personally identifiable information, we will take steps to ensure the use of your information is limited to the stated purpose for which it was collected and to keep it confidential. We will not sell, license or disclose your personal information to any third party, except an agent working under contract to the county, without your consent, unless we are required by law to do so.
 
 We never use or share the personally identifiable information provided to us in ways unrelated to the ones described above without also providing you an opportunity to prohibit such unrelated uses, unless we are required by law to do so.
 
@@ -62,8 +62,8 @@ Our procedures limit access to data and ensure that those individuals with acces
 
 ### Staff Access to Personal Data
 
-County staff may access personal data stored in the county's computer system only for the purpose of performing their assigned duties. Staff will not disclose any personal data we collect from you to any other party except where required by law or to fulfill your service request. The county does not sell, lease or give users' personal information to companies, governmental agencies or individuals except as required by law or with the user's authorization.
+County staff may access personal data stored in the county's computer system only for the purpose of performing their assigned duties. Staff will not disclose any personal data we collect from you to any other party except where required by law or to fulfill your service request. 
 
 ### Enforcement and Redress
 
-If you have a question, concern, or complaint about our handling of your privacy and confidentiality rights you may file written comments with the county by emailing [webmaster@multco.us](mailto:webmaster@multco.us). We will respond in a timely manner and may conduct a privacy investigation or review of practices and procedures.
+If you would like to review or update the personal information that we maintain about you, please contact the County at [webmaster@multco.us.](mailto:webmaster@multco.us.) Likewise, if you have a question, concern, or complaint about our handling of your privacy and confidentiality rights you may file written comments with the county by emailing [webmaster@multco.us](mailto:webmaster@multco.us). We will respond in a timely manner and may conduct a privacy investigation or review of practices and procedures.
