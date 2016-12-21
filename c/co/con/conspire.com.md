@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the conspire.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621184802id_/https%3A//www.conspire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conspire.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221232821id_/https%3A//www.conspire.com/privacy) for the most accurate reproduction.*
 
 # Conspire
 
-_Last Updated August 18, 2014_
+_Last Updated August 18, 2016_
 
-The Conspire website (the “Site”) is operated by Aireum Inc. dba Conspire (“Conspire”). 
+The Conspire website (the “Site”) is operated by FullContact, Inc. dba Conspire (“Conspire”). 
 
-Conspire is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy ("Privacy Policy") to describe our information gathering, dissemination and protection practices for the Site. The terms “Conspire,” “we,” “us,” and “our” refer to Aireum Inc. The terms “you,” “your,” and “yours” refer to the user/customer using the Site. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/terms). 
+Conspire is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy ("Privacy Policy") to describe our information gathering, dissemination and protection practices for the Site. The terms “Conspire,” “we,” “us,” and “our” refer to FullContact, Inc. The terms “you,” “your,” and “yours” refer to the user/customer using the Site. This Privacy Policy is governed by our [Terms of Use](https://web.archive.org/terms). 
 
 ## Conspire Privacy Highlights
 
@@ -18,7 +18,7 @@ Conspire analyzes your email history to understand who you know and find the bes
   * You are in control of your personal network. If another Conspire user wants an introduction to one of your contacts, they must ask you. 
   * We do not expose your email address(es) to other Conspire users unless (a) they have already corresponded with you at that address or (b) you both join the same community network (such as the Techstars network on Conspire). 
   * You can delete your account and data at any time. Please see [the Termination section of the Terms of Use](https://web.archive.org/terms#termination) for more information. 
-  * Questions? [Ask us.](mailto:support@conspire.com?subject=Conspire%20Privacy%20Question)
+  * Questions? [Ask us.](mailto:support@fullcontact.com?subject=Conspire%20Privacy%20Question)
 
 
 
@@ -91,6 +91,4 @@ By using the Site, you agree to this Privacy Policy. We may occasionally update 
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at: 
 
 Conspire   
-1035 Pearl Street, 5th Floor   
-Boulder, CO 80302   
-[support@conspire.com](mailto:support@conspire.com)
+[support@fullcontact.com](mailto:support@fullcontact.com)
