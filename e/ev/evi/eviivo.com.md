@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eviivo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905180505id_/https%3A//eviivo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eviivo.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221124546id_/https%3A//eviivo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – eviivo
 
@@ -60,11 +60,37 @@ If you have any questions or comments about our Privacy Policy, please contact u
 
 ### 9\. Cookies and other non-personal information
 
-When you visit the website, we may automatically collect non-personal information about you, such as the type of internet browser you use, the website from which you have come to the website and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. You cannot be identified from this information and it is only used to assist us in providing an effective service on the website and to collect broad demographic information for aggregate use.
+**Scope**
 
-The website uses cookies to store certain information. Cookies are tiny files placed onto the hard drive of your computer when you register or subscribe at our website that enable our server to recognize or “remember” who you are each time you return. We may make limited use of cookies to deliver content specific to your interests. For instance they may be used to retain your personal preferences, hold session information or save your password so it doesn’t have to be re-entered each time you login. You can erase or block cookies from your computer if you want to (your helpscreen or manual should tell you how to do this), but certain services may not work correctly or at all if you set your browser not to accept cookies.
+Our website uses both session and persistent cookies.  We ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. By using our website and agreeing to use cookies when asked to do so, you consent to our use of cookies in accordance with the terms of this policy.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, please visit the [Network Advertising website](http://www.networkadvertising.org/managing/opt_out.asp).
+We use cookies to track users as they navigate the website, enable the use of a shopping cart on the website, improve the website’s usability, analyse the use of the website, administer the website, prevent fraud and improve the security of the website, personalise the website for each user.
+
+We use Google Analytics to analyse cookies.
+
+**About cookies**
+
+A cookie is a file containing an identifier that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+Cookies can be used by web servers to identity and track users as they navigate different pages on a website and identify users returning to a website.
+
+**Blocking and/or deleting cookies**
+
+Most browsers allow you to delete or refuse to accept cookies; to find out how, contact the provider of your browser.
+
+If you block or delete cookies, you may not be able to use all the features on our website or you may find the website less usable.
+
+**Our details**
+
+You can contact us by writing to the address given below.
+
+This website is owned and operated by eviivo limited, a company registered in England and Wales under registration number 05002392, and our registered office and principal place of business is at 154 Pentonville Road, London, N1 9JE, United Kingdom.
+
+This website includes all subdomains and other eviivo site that may be linked to it, including but not limited to the following domains eviivo.com, toprooms.com, bookdirectrooms.com
 
 ### 10\. Complaints procedure
 
