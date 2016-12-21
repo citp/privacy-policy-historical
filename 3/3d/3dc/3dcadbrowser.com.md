@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the 3dcadbrowser.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607085139id_/http%3A//www.3dcadbrowser.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcadbrowser.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221074928id_/http%3A//www.3dcadbrowser.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | 3D CAD Browser
+# Privacy Policy - 3D CAD Browser
 
-**Privacy Policy  
-**(Version 1.6 of 31 January 2007)
+Privacy Policy  
+(Version 1.6 of 31 January 2007)
 
 **What information does 3D CAD Browser collect?**
 
