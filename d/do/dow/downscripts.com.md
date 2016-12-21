@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024227id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downscripts.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221081037id_/http%3A//www.downscripts.com/privacy.html) for the most accurate reproduction.*
 
 # DownScripts Privacy Policy
 
@@ -44,3 +44,5 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: [contact us.](mailto:contact@downscripts.com)
 
 We reserve the right to make changes to this policy without notice. 
+
+2004 - 2013 DownScripts. All rights reserved.
