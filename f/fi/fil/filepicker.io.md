@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316031938id_/https%3A//www.filestack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221100228id_/https%3A//www.filestack.com/privacy) for the most accurate reproduction.*
 
-# Privacy.
+# Privacy Policy - Filestack
 
 ### What information do we collect?
 
@@ -42,25 +42,11 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 Filestack processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-### Safe Harbor Framework
-
-Filestack complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Filestack has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Filestack’s certification, please visit <http://export.gov/safeharbor/>.
-
 ### Enforcement
 
 Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Filestack’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk. 
 
 Filestack regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Filestack's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Filestack, PO Box 29502 #23426, Las Vegas, NV 89126-9502. When we receive formal written complaints at this address, it is Filestack's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Filestack and an individual. 
-
-European residents with inquiries regarding data privacy can contact us at the above address or at privacy@Filestack.com. If, after contacting us, you believe your data privacy inquiry has not been resolved to your satisfaction, you may contact the Direct Marketing Association at: 
-
-Safe Harbor   
-Direct Marketing Association   
-1615 L St. NW, Ste 1100   
-Washington, DC 20036-5624   
-[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)   
-<https://thedma.org/consumer-guide/>   
-
 
 ### Online Privacy Policy Only 
 
@@ -84,9 +70,14 @@ San Antonio, TX 78205
 
 ### Changes made to this Policy
 
+  * May 24, 2016: Removed Safe Harbor Framework
   * July 27, 2015: Added 'Data Integrity', 'Safe Harbor Framework' and 'Enforcement' sections.
   * June 18, 2013: Updated contact name from Filestack.io to Ink
   * November 5, 2012: Updated contact address from Palo Alto to San Francisco
   * June 18, 2012: Updated contact address from Boston to Palo Alto
 
 
+
+### Thank You
+
+Someone from our team will get back to you shortly.
