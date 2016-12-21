@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superxv.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235842id_/http%3A//www.superxv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superxv.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221042246id_/http%3A//www.superxv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Super Rugby | Super 18 Rugby and Rugby Championship News,Results and Fixtures from Super XV Rugby
 
