@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224304id_/https%3A//www.homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221224136id_/https%3A//homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
-# Homesite - Home Insurance
+# Privacy Policies | Homesite Insurance
 
 **Your Rights**
 
@@ -24,25 +24,26 @@ P.O. Box 1000
 Chester, PA 19022  
 1-800-916-8800
 
-_Extraordinary circumstances (CT, IA, IL, KS, KY, LA, MI, MT, NJ, NM, NV, RI, NH)_  
+_Extraordinary circumstances (CT, DE, FL, IA, IL, KS, KY, LA, MI, MN, MT, NH, NJ, NM, NV, RI, TX)_  
 If your credit information has been adversely impacted by an extraordinary life circumstance that has occurred within the last 3 years, you may request in writing that we consider this when using your credit information. These extraordinary life circumstances include:
 
-  * Catastrophic event, as declared by the federal or any state government (IA, KS, KY, LA, MI, NV, RI, NH)
-  * Serious illness or injury to the consumer or the consumer’s immediate family (NM - this includes an acute or chronic medical condition, illness, injury or disease)
-  * Death of a spouse, child or parent of the insured
-  * Divorce (IA, IL, KS, KY, MI, NJ, NM, NV, RI, CT)
+  * Catastrophic event, as declared by the federal or any state government or the Commissioner of Insurance
+  * Serious or catastrophic illness or injury to the consumer or the consumer’s immediate family 
+    * NM - this includes an acute or chronic medical condition, illness, injury or disease
+    * LA - this includes a medical crisis
+  * Death of a spouse, child or parent of the consumer
+  * Divorce or dissolution of marriage 
   * Identity theft
-  * Interruption of alimony/support payments (NH)
-  * Temporary loss of employment
-    * IL – involuntary loss of employment for a period of 3 months or more
-    * NM – involuntary loss of employment for more than three consecutive months
-  * Military deployment overseas (IA, KS, KY, MI, MT, NJ, NV, RI)
-  * Total or other loss that makes your home uninhabitable (CT, NM)
-  * The personal guaranty of a business loan (LA)
+  * Involuntary interruption of legally owed alimony or support payments
+  * Temporary loss of employment for a period of three or more consecutive moths
+  * Military deployment overseas
+  * Total or other loss that makes your home uninhabitable (CT &, NM ONLY)
+  * The personal guaranty of a business loan (LA ONLY)
+  * Predatory lending resulting in the foreclosure of, or commencement of proceedings or an action to foreclose, a mortgage of real property owned by the insured or insurance applicant (MI ONLY)
 
 
 
-If you believe any of these apply to you and has impacted your credit, you may request in writing that this be taken into consideration. We will require you to provide specific documentation of this circumstance and demonstrate how it has negatively affected your credit. The request must be made no more than 60 days from the date of the application for insurance or the policy renewal. Details about how to make this request will be included with the policy documents you will receive after purchase.
+If you believe any of these apply to you and has impacted your credit, you may request in writing that this be taken into consideration. We will require you to provide specific documentation of this circumstance and demonstrate how it has negatively affected your credit. The request must be made no more than 60 days from the date of the application for insurance or the policy renewal. Please submit your written request and all supporting documentation to Homesite Group, Inc., ATTN: Underwriting Department, PO Box 5300, Binghamton, NY 13902-9953.
 
 **Use of Personal Information**
 
@@ -123,6 +124,10 @@ Homesite Insurance Company of California, Homesite Indemnity Company, Homesite I
 **Fraud Warning**
 
 Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an application or files a claim containing a false or deceptive statement is guilty of insurance fraud.
+
+**Oregon Only**
+
+Any person who, with intent to defraud or knowing that he is facilitating a fraud against an insurer, submits an application or files a claim containing a false or deceptive statement may be guilty of insurance fraud. 
 
 **Alabama Only**
 
@@ -407,8 +412,14 @@ Homesite Group Incorporated and all other insurance companies are prohibited by 
 
 A protected person has a right to request access to any confidential abuse information we have about them in our records or files. A protected person also has a right to request that we correct, amend, or delete any such information we have about them in our records or files. A notice detailing Homesite’s confidential abuse information practices is available on request.
 
-**Virginia**
+**Vermont Only**  
+We do not disclose, and do not wish to reserve the right to disclose, nonpublic personal information about customers or former customers to affiliates except as authorized under Sections 15, 16, and 17 of VT ADC 4-3-42. 
+
+**Virginia Only**
 
 In connection with this application for insurance, we shall review your credit report or obtain or use an insurance credit score based on the information contained in that credit report. We may use a third party in connection with the development of your insurance credit score. You may request that your credit information be updated and if you question the accuracy of the credit information, we will, upon your request, reevaluate you based on corrected credit information from a consumer reporting agency.
 
-Last Modified On: April 2, 2016 
+**West Virginia Only**  
+Your credit information is used by Homesite Group Incorporated to produce an insurance score. This insurance score has an effect on the premium that you pay for your insurance. Homesite group Incorporated is required by the Insurance Commissioner to recheck your credit information no less than once every 36 months for changes. You have the option to request that Homesite group Incorporated recheck your insurance score more frequently than once every 36 months, but you can only make this request once during any twelvemonth period. If there has been a change in your insurance score, Homesite Group Incorporated shall re-underwrite and re-rate the policy based upon the current credit report or insurance score. The change in your insurance score may result in an increase or a decrease in the premium that you pay for your insurance. Any changes in your premium will take place upon renewal if your request is made at least 45 days before your renewal. If the request is made less than 45 days before your renewal date, the insurer shall re-underwrite and re-rate the policy for the following renewal. 
+
+Last Modified On: August 25, 2016 
