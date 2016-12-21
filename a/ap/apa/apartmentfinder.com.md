@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114014822id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221170216id_/http%3A//www.apartmentfinder.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Apartment Finder
+# Privacy Statement | ApartmentFinder.com
 
-The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Network Communications, Inc. (“NCI”) and its affiliates (“us” or “we”) in connection with the operation of our websites ApartmentFinder.com, TheRentersGuide.com, Aptbook-colo.com, FinderSites.com, and FinderSocial.com, and our related mobile applications, (collectively, the “Site”).
+The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Network Communications, Inc. (“NCI”) and its affiliates (“us” or “we”) in connection with the operation of our websites ApartmentFinder.com and FinderSites.com, and our related mobile applications, (collectively, the “Site”). 
 
 This Statement does not describe the collection, use and disclosure of information through means other than the Site (e.g., offline) or the collection, use and disclosure practices of any third party. For information on a third party’s information collection, use and disclosure practices, please review the privacy policy on the applicable third party’s website. Also, please note that this Site may contain links to other websites. We are not responsible for the websites, content or privacy practices of any third party. By using this Site, you acknowledge that you have read this Statement and agree that you are bound by Terms of Service, which form a legally binding contract between you and us.
 
@@ -16,9 +16,9 @@ You are not required to provide any personally identifiable information to visit
 
 The Site automatically collects information and may also customize your visit through technical means, including the following:
 
-  * Cookies: Cookies are small text files that are placed on your computer’s hard drive by computers (or servers) to identify your computer. 
-  * Web Beacons: Web beacons (also known as pixel tags, Internet tags, clear GIFs, or single-pixel GIFs) are electronic images embedded into a Web page. 
-  * IP Address Logs: NCI also logs Internet Protocol (IP) addresses – the location of your computer on the Internet. 
+  * Cookies: Cookies are small text files that are placed on your computer’s hard drive by computers (or servers) to identify your computer.
+  * Web Beacons: Web beacons (also known as pixel tags, Internet tags, clear GIFs, or single-pixel GIFs) are electronic images embedded into a Web page.
+  * IP Address Logs: NCI also logs Internet Protocol (IP) addresses – the location of your computer on the Internet.
 
 
 
@@ -26,7 +26,7 @@ Cookies allow us to recognize you when you visit the Site, to personalize your e
 
 **Collection of Information by Third Parties**
 
-As noted above, NCI’s partners and other third party vendors may collect information about you when using the Site through the use of cookies and Web beacons. For example, third-party advertising companies, such as Google, use cookies to serve advertisements about goods and services that may be of interest to you across the Internet based on your past visits to the Site and other websites. The Site also uses third-party vendors to collect statistical information regarding Site usage. These third-party vendors may note some of the pages you visit on the Site through the use of Web beacons. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique “cookie” on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness. If Google Analytics features are implemented and used on this Site, they may include remarketing display advertising where Google uses a cookie to remember information about your visit and deliver more relevant ads. In addition, the Site may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other websites. Visitors can opt-out of Google’s use of cookies by visiting Google’s [Ad Settings.](http://www.google.com/settings/ads?hl=en&sig=ACi0TCjTh3C9OInr5V6CZvr-kt_QIr6iozZk-3TSbax5oR7OmoOwABtv0GNqztY-LXgbZsTGVsapRN1EVSrmi7fcEMu-Nika8vy_Ib8RNF2onqvMSUa4D_g)
+As noted above, NCI’s partners and other third party vendors may collect information about you when using the Site through the use of cookies and Web beacons. For example, third-party advertising companies, such as Google, use cookies to serve advertisements about goods and services that may be of interest to you across the Internet based on your past visits to the Site and other websites. The Site also uses third-party vendors to collect statistical information regarding Site usage. These third-party vendors may note some of the pages you visit on the Site through the use of Web beacons. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique “cookie” on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness. If Google Analytics features are implemented and used on this Site, they may include remarketing display advertising where Google uses a cookie to remember information about your visit and deliver more relevant ads. In addition, the Site may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other websites. Visitors can opt-out of Google’s use of cookies by visiting Google’s Ad Settings.
 
 **Information Use**
 
@@ -71,7 +71,7 @@ We will retain your information as needed to provide you services. If you wish t
 
 **User Generated Content**
 
-The Site may offer opportunities for users who are 18 years of age or older to create user generated content (“UGC”). Any UGC you submit may become public. You should not include any information in your UGC that you do not want other parties to see or use. Moreover, if you submit any UGC that includes personally identifiable information, such as your email address or phone number, you may receive unsolicited email or calls from third parties.
+The Site may offer opportunities for users who are 18 years of age or older to create user generated content (“UGC”). Any UGC you submit may become public. You should not include any information in your UGC that you do not want other parties to see or use. Moreover, if you submit any UGC that includes personally identifiable information, such as your email address or phone number, you may receive unsolicited email or calls from third parties..
 
 **“Share” a Listing**
 
@@ -93,8 +93,8 @@ The Site believes that it is especially important to protect children’s privac
 
 This Site contains links to other sites. While the Site encourages our business partners to adopt privacy policies and practices that build users’ trust and confidence in the Internet, the Site is not responsible for the privacy policies or practices of third parties or any of the content of Web sites linked to the Site or any third-party products or services offered through the Site.
 
-If you have any questions about this Privacy Statement, please [Contact us](https://web.archive.org/ContactUs). 
+If you have any questions about this Privacy Statement, please contact us through [Contact us](https://web.archive.org/ContactUs). 
 
 © 2015 Network Communications, Inc., 2 Sun Court, NW, Suite 300, Norcross, GA 30092.
 
-Last updated: October 15, 2015.
+Last updated: December 16, 2015.
