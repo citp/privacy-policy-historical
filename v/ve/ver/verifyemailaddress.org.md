@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verifyemailaddress.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630163852id_/http%3A//www.verifyemailaddress.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifyemailaddress.org privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221124148id_/http%3A//www.verifyemailaddress.org/privacy-policy.html) for the most accurate reproduction.*
 
 # VerifyEmailAddress.org Privacy Policy
 
