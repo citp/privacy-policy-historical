@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the gett.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418010713id_/http%3A//gett.com/gett-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gett.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221105054id_/http%3A//gett.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Gett
+
+### Privacy Policy
+
+#### Gett Privacy Policy
+
+
+
 
 **  Last updated: July 30, 2015**
 
