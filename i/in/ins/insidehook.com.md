@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627182715id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehook.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221104034id_/http%3A//www.insidehook.com/privacy-policy) for the most accurate reproduction.*
 
 # InsideHook | Travel, News, Health & Fashion for Men in New York, LA, SF, Chicago & the Nation
 
@@ -58,5 +58,10 @@ delivered straight to your inbox every weekday.
 ### Welcome to the FAM 
 
 You've successfully subscribed to the New York edition of InsideHook. Perhaps you want more? 
+
+×
+
+Thanks for sharing.  
+See you out there.
 
 ×
