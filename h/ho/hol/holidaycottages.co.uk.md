@@ -1,41 +1,40 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401174649id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221120258id_/https%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - holidaycottages.co.uk
 
 Commitment to your privacy
 
-This site is owned and operated by ‘holidaycottages.co.uk part of The Travel Chapter Ltd’. Your privacy on the Internet is of the utmost importance to us. At holidaycottages.co.uk, we want to make your experience online satisfying and safe.
+This site is owned and operated by The Travel Chapter Ltd or one of its subsidiaries (hereafter referred to as The Travel Chapter). Your privacy on the Internet is of the utmost importance to us. At The Travel Chapter we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-Information holidaycottages.co.uk gathers and tracks
+By accessing or using this site, you agree to the terms of this Privacy and Cookie Policy. If you do not accept the terms of this policy, please cease using any of The Travel Chapter sites.
 
-Holidaycottages.co.uk gathers two types of information about users:
+Information The Travel Chapter gathers and tracks
+
+The Travel Chapter gathers two types of information about users:
 
 Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and to email a friend.
 
-Information holidaycottages.co.uk gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does holidaycottages.co.uk divulge any information about an individual user to a third party.
+Information The Travel Chapter gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does The Travel Chapter divulge any information about an individual user to a third party.
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-  1. Electronic newsletters policy (Dispatches)
+* Electronic newsletters 
 
-We will offer a free electronic newsletter to users. Holidaycottages.co.uk gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter.
+The Travel Chapter offers a free electronic newsletter to users. The Travel Chapter gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the “Click here to unsubscribe link” provided in every newsletter.
 
-  2. "E-mail a friend" policy
+* "Send to a friend" 
 
-Our site users can choose to electronically forward a link to a property page to someone else by clicking "e-mail a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+Site users can choose to electronically forward a link to a property page to someone else by clicking "Send to a friend". The site user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
-  3. "Live Chat" policy
+* "Live Chat" 
 
-When the online customer service chat first begins, users are asked to enter their names in whatever format or detail they prefer. During the chat, users enter into a live question and answer session with an operator from holidaycottages.co.uk. We maintain dialogue transcripts of these chats. After the chat, we ask users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary.
-
-
-
+When the online customer service chat first begins, users are asked to enter their names in whatever format or detail they prefer. During the chat, users enter into a live question and answer session with an operator from The Travel Chapter. The Travel Chapter maintain dialogue transcripts of these chats. After the chat, we ask users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary.
 
 Usage tracking
 
-Holidaycottages.co.uk tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Holidaycottages.co.uk does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+The Travel Chapter tracks user traffic patterns throughout all of our sites. However, The Travel Chapter do not correlate this information with data about individual users. The Travel Chapter does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
@@ -43,46 +42,81 @@ Cookies
 
 To comply with EU legislation that was introduced in May 2012, this section documents how this website might collect information as you browse and use it to provide a tailored service to improve your online experience.
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Holidaycottages.co.uk uses cookies to track user traffic patterns (as described above).
+The Travel Chapter may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable The Travel Chapter to relate your use of this site to information that you have specifically and knowingly provided. The only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. The Travel Chapter uses cookies to track user traffic patterns (as described above).
 
 You do not need to have cookies turned on to use this site. You can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalised features enjoyed by other visitors to our site such as adding properties to your favourite list and LiveChat.
 
- **Cookies for sharing our pages**
+Cookies for site functionality
 
-We use “AddThis" on many of our pages to enable you to socially bookmark content from the site. The selection of buttons displayed is tailored to each visitor's past use of social media sites to enable you to quickly post a link to a page on our site from the services you use most frequently.
-
- **Cookies for site functionality**
+**Live Chat**
 
 We use a facility called LiveChat in order to provide site users with a means of contacting a member of staff for help using the site. LiveChat sets cookies to allow us to improve the behaviour of features such as chat invitations.
 
- **Cookies for relevant advertising**
+For the LiveChat Privacy Policy, including information on cookies used by LiveChat, please visit <http://www.liveperson.com/policies/customer-website-privacy>   
 
-We use cookies from DoubleClick and Right Media, to present you with adverts that may be based on the content you visit the most on our websites. The cookies show us where you saw the advert; help us measure the effectiveness of our advertising campaigns; and limit the number of times you see an advert.
 
- **Children**
+Cookies for Site tracking & Personalisation
+
+**VWO – Visual Web Optimizer**
+
+This is a testing tool to allow us to effectively configure our websites to perform most effectively, by monitoring the user journey.
+
+You can opt out via <https://vwo.com/opt-out>
+
+VWO uses cookies to run campaigns and to track user information. The cookies keep track of the variation a user has viewed, and helps to serve the same variation to the user consistently, track goals completed by a user, and determine whether a user is part of a campaign.
+
+For further information on the cookies used by VWO, please visit  https://vwo.com/knowledge/cookies-used-by-vwo
+
+**Google Analytics**
+
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+
+For information on the cookies used by Google Analytics, please visit <https://support.google.com/analytics/answer/6004245>
+
+**Bing Ads**
+
+The Travel Chapter uses Bing Ads to promote our business online. To more effectively market our services, we use a small text file known as a cookie to record the completion of your transaction. Any information that is gathered will remain anonymous and cannot be used to identify you.
+
+For the Microsoft Bing Ads Privacy Policy, please visit <http://advertise.bingads.microsoft.com/en-uk/privacy-policy>
+
+**Qubit**
+
+The Travel Chapter uses Qubit technology to collect information about your browsing activity on our website - this does not include names, addresses or any other personal information unless specifically inputted by you (for example if you complete a survey or register with our website). This information allows us to build a picture of your browsing preferences so that your online experience can be made more relevant to your specific interests. All third parties are under strict confidentiality obligations and are restricted from using any information for their own business or other purposes.
+
+For more information about Qubit and their privacy policy, please visit http://www.qubit.com/legal/privacy-and-cookie-policy
+
+Cookies for relevant advertising
+
+**Google AdSense**
+
+We use cookies from Google AdSense, to present you with adverts that may be based on the content you visit the most on our websites. The cookies show us where you saw the advert; help us measure the effectiveness of our advertising campaigns; and limit the number of times you see an advert.
+
+To control these Google Ads, please visit [https://www.google.com/settings/ads/onweb/](https://www.google.com/settings/ads/onweb)
+
+**Children**
 
 Consistent with the Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
-Use of information
+**Use of information**
 
-Holidaycottages.co.uk uses any information voluntarily given by our users to enhance their experience in our sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.
+The Travel Chapter uses any information voluntarily given by our users to enhance their experience in our sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Holidaycottages.co.uk never shares newsletter mailing lists with any third parties.
+As stated above, The Travel Chapter uses information that users voluntarily provide in order to send out electronic newsletters. The Travel Chapter sends out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. The Travel Chapter does not share newsletter mailing lists with third parties.
 
-We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered into search engines as one of many measures of what interests our users. But we don't track which terms a particular user enters.
+The Travel Chapter uses tracking information to determine which areas of The Travel Chapter sites users like and don't like based on traffic to those areas. The Travel Chapter do not track what individual users read, but rather how well each page performs overall. This helps The Travel Chapter to continue to build a better service for you. The Travel Chapter tracks search terms entered into search engines as one of many measures of what interests users. But the travel Chapter does not track which terms a particular user enters.
 
-Sharing of the information
+**Sharing of the information**
 
-Holidaycottages.co.uk uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+The Travel Chapter uses the above-described information to tailor content to suit your needs. The Travel Chapter will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-Security
+**Security**
 
-Holidaycottages.co.uk operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our customers.
+The Travel Chapter operates secure data networks protected by industry standard firewall and password protection systems. The Travel Chapter security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by their customers.
 
-Opt-out policy
+**Opt-out policy**
 
-We give users options wherever necessary and practical. Such choices include opting not to register to receive our electronic newsletters.
+The Travel Chapter gives users options wherever necessary and practical. Such choices include opting not to register to receive our electronic newsletters.
 
-Your consent
+**Your consent**
 
-By using this site, you consent to the collection and use of this information by holidaycottages.co.uk. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using this site, you consent to the collection and use of this information by The Travel Chapter. If the Travel Chapter decide to change their privacy policy, they will post those changes on this page so that you are always aware of what information is collected, how it is used, and under what circumstances it may be disclosed.
