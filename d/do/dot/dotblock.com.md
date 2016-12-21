@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404034440id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotblock.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221062618id_/https%3A//www.dotblock.com/privacy.php) for the most accurate reproduction.*
 
 # DotBlock Privacy Policy | by DotBlock
 
