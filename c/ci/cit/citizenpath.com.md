@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenpath.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316065657id_/https%3A//citizenpath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenpath.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222000233id_/https%3A//citizenpath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CitizenPath
 
@@ -13,13 +13,15 @@ CitizenPath, LLC (“CitizenPath” “We”, “Us”) is sensitive to your con
 
  **Cookies**. CitizenPath may use the standard cookie feature of major browser applications and third-party providers, or employ internally developed cookies and tracking codes, that allow CitizenPath to store a small piece of data on a visitor’s computer, or any other device a visitor uses to access Online Services, about his or her visit to the Site or use of Applications. CitizenPath does not capture Personally Identifiable Information in cookies or use cookies to mine Personally Identifiable Information. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such order forms, will be limited.
 
+ **Electronic Mail**. CitizenPath requires Customers’ and Users’ to provide an e-mail address on the site for various purposes not limited to purchasing a form, saving a form or contacting CitizenPath support. CitizenPath may record this e-mail and associated Personally Identifiable Information.
+
  **3rd Party Tracking**. The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media links) on the site is not covered by our Privacy Policy. These 3rd parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to our Customers’ or Users’ Personally Identifiable Information.
 
  **Personal Information**. CitizenPath requires each customer to provide us with personal information (collectively “Personally Identifiable Information”) to access and use CitizenPath products and services. Personally Identifiable Information is captured only when a visitor accesses Online Services, or speaks on the phone with a CitizenPath employee, and willingly discloses that information. This disclosure may occur when a visitor registers with an Online Service, engages in transactions, contacts customer service, or participates in contests, promotions, surveys, forums, content submissions, requests for suggestions, or other aspects of services offered by CitizenPath.
 
 Personally Identifiable Information includes: (i) “Contact Data” (such as your name, address, city, state, zip code, phone number, and email address); (ii) “Financial Data” (such as your credit card number, expiration date, and verification code or bank account information); (iii) “Demographic Data” (such as your zip code and sex); and (iv) other “Legal Data” (such as your social security number, mortgage information, automobile information, marital information, trade secrets, inventions, and idea submissions and other sensitive information necessary to generate legal documents).
 
-We may collect the information of 3rd party individuals as necessary, such as to ask our customers to indicate beneficiaries of a will, record shareholders of a company, or register authorized contacts to access their CitizenPath account. **CitizenPath uses this information for the sole purpose of administering its services for our customers, and does not use such information for any other reason.**
+We may collect the information of 3rd party individuals as necessary, such as to prepare immigration forms for our customers. **CitizenPath uses this information for the sole purpose of administering its services for our customers, and does not use such information for any other reason.**
 
  **Testimonials and Reviews**. We display personal testimonials of satisfied customers received through email surveys. We ask for your specific consent as part of the survey. If you wish to update or delete your testimonial, you can contact us at [support@citizenpath.com](mailto:support@citizenpath.com). We also display customer reviews. If you provide a review that we display and wish to update or delete it, you can also contact us at [support@citizenpath.com](mailto:support@citizenpath.com).
 
@@ -80,4 +82,4 @@ Fullerton, CA 92835
 [support@citizenpath.com](mailto:support@citizenpath.com)  
 (888) 777-9102
 
-Updated January 24, 2014
+Updated March 24, 2015
