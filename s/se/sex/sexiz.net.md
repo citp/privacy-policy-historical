@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexiz.net privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622083038id_/http%3A//sexiz.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexiz.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221212807id_/http%3A//sexiz.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Free Full HD 1080p Porn Videos Online
 
