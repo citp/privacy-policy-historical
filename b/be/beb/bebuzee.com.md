@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebuzee.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229083228id_/http%3A//www.bebuzee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebuzee.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221075723id_/https%3A//www.bebuzee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bebuzee - Connecting the World
 
@@ -52,3 +52,7 @@ This site gives users the following options for removing their information from 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us. 
 
 We also use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+
+| 
+
+* * *
