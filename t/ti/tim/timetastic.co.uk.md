@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetastic.co.uk privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416075016id_/https%3A//timetastic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetastic.co.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221093736id_/https%3A//timetastic.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Timetastic
 
