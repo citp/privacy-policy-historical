@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facialsz.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119052753id_/http%3A//www.facialsz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D34255%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facialsz.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221203238id_/http%3A//www.facialsz.com/legal.php%3Fpg%3Dprivacy%26l%3D19396%26t%3D34255%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # LEGAL
 
