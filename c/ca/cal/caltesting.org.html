@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caltesting.org privacy policy that was archived on 2016-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160423065400id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caltesting.org privacy policy that was archived on 2016-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221184211id_/http%3A//www.caltesting.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -21,6 +21,8 @@
 <link rel="stylesheet" href="css/main.css" type="text/css">
 <link rel="stylesheet" href="css/site_wide_styles.css" type="text/css">
 <link rel="stylesheet" href="css/animate.css" type="text/css">
+<script src="https://use.typekit.net/njh3siq.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
 <!--CDN link for the latest TweenMax-->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
@@ -39,12 +41,26 @@
 			$("#nav-mobile").html($("#nav-main").html());
     		$("#nav-trigger span").click(function(){
         		if ($("nav #nav-mobile ul").hasClass("expanded")) {
-            		$("nav #nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
+            		$("nav #nav-main a").removeClass("btnDemo");
+					$("nav #nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
             		
         		} else {
             $("nav #nav-mobile ul").addClass("expanded").slideDown(250);  
 				}
 			});
+			
+			/*nav scroll bkg color*/
+			var scroll_start = 0;
+			   var startchange = $('header');
+			   var offset = startchange.offset();
+			   $(document).scroll(function() { 
+				  scroll_start = $(this).scrollTop();
+				  if(scroll_start > offset.top) {
+					  $('header').css('background-color', 'rgba(0,0,0,0.6)');
+				   } else {
+					  $('header').css('background-color', 'transparent');
+				   }
+			   });
 			
 		});
     </script>
@@ -62,9 +78,7 @@
 </head>
 
 <body id="top">
-<div id="scrolling_privacy_header_bg">
-    <div id="privacy_header_container">
-        <header> <a tabindex="0" class="logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
+<header> <div class="wrap"><a tabindex="0" class="logo" href="index.html" alt="logo"></a>
             <nav>
                 <div id="nav-main">
                     <ul>
@@ -72,13 +86,17 @@
                         <li><a href="solutions.html">Solutions</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="careers.html">Careers</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a class="btnDemo" href="contact.html#scrolling_contact_bg">Request Demo</a></li>
                     </ul>
                 </div>
                 <div id="nav-trigger"> <span>&nbsp;</span> </div>
                 <div id="nav-mobile"></div>
             </nav>
+            </div>
         </header>
+<div id="scrolling_privacy_header_bg">
+    <div id="privacy_header_container">
+        
     </div>
     <!--end privacy_header_container--> 
 </div>
@@ -176,7 +194,7 @@
 <!--end privacy_container-->
 
 <div id="scrolling_footer_light_bg">
-    <footer> <a href="http://ncea.caltesting.org">ACRE</a> <a href="privacy.html">Privacy</a>
+    <footer> <a href="http://ncea.caltesting.org">ACRE</a> <a href="privacy.html">Privacy</a> <a href="contact.html">Contact</a>
         <div class="copyright">Copyright © 2016 Computerized Assessments and Learning</div>
     </footer>
 </div>
