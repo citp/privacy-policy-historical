@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbrain.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809234105id_/https%3A//www.itbrain.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbrain.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221153216id_/https%3A//www.itbrain.com/en/privacy) for the most accurate reproduction.*
 
 # ITbrain | Privacy Policy
 
@@ -57,7 +57,7 @@ Our websites use so-called cookies in several places. They help make our offer m
 
 ## Right to information
 
-You are entitled to request information as to which data is stored concerning your person, its origin, its recipients as well as the purpose of the storage. Our data protection official will provide you with information at [ privacy@teamviewer.com](mailto:privacy@teamviewer.com). 
+You are entitled to request information as to which data is stored concerning your person, its origin, its recipients as well as the purpose of the storage. Our data protection official will provide you with information at [privacy@teamviewer.com](mailto:privacy@teamviewer.com). 
 
 In addition you have a right to have your personal data corrected, blocked and deleted in accordance with the legal regulations.
 
@@ -71,14 +71,10 @@ You can unsubscribe from our newsletter at any time. You will find a link at the
 
 ## Additional information
 
-Your trust is important to us. Therefore, we will answer all of your inquiries regarding the processing of your personal data. If you have any questions which are not answered in this data protection declaration or if you wish to have more in-depth information on a certain issue, please feel free to contact our data protection official via [ privacy@teamviewer.com](mailto:privacy@teamviewer.com) at any time. 
+Your trust is important to us. Therefore, we will answer all of your inquiries regarding the processing of your personal data. If you have any questions which are not answered in this data protection declaration or if you wish to have more in-depth information on a certain issue, please feel free to contact our data protection official via [privacy@teamviewer.com](mailto:privacy@teamviewer.com) at any time. 
 
 ## Address
 
-TeamViewer GmbH  
-Legal Department  
-C/O: General Manager  
-Jahnstr. 30  
-73037 Göppingen  
-Germany  
-Email: [legal@teamviewer.com](mailto:legal@teamviewer.com)
+TeamViewer US LLC  
+5741 Rio Vista Drive  
+Largo, FL 33760
