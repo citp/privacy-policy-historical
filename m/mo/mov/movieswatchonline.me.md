@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieswatchonline.me privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322144443id_/http%3A//movieswatchonline.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieswatchonline.me privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221113651id_/http%3A//movieswatchonline.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Movies Watch Online
+# Privacy Policy - Full Movies Watch Online Free Movies Watch Online
 
 This Privacy Policy governs the manner in which Online Free Movie collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://movieswatchonline.me/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Online Free Movie.
 
