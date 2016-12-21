@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309213436id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221102515id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
 # AppLovin - Privacy
 
@@ -6,11 +6,17 @@ AppLovin Corporation (“we,” “us,” “our” or “AppLovin”) is a mobi
 
 AppLovin recognizes the importance of consumer privacy and we take this issue very seriously. To this end, we have designed the AppLovin Privacy Policy (this “Policy”) in a format that is easy to navigate and read so that you can clearly understand our privacy practices. We are committed to treating your personal information with care and respect.
 
-AppLovin has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your information. The TRUSTe program does not cover information that may be collected through this website. The TRUSTe program covers only information that is collected by AppLovin’s technology on mobile devices.
+Applovin participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Applovin is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Applovin is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Applovin complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-_Effective Date:_ July 29, 2015
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Applovin is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Applovin may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+_Effective Date:_ September 29, 2016
 
 This Policy describes the treatment of information provided or collected on or through (i) our U.S. website, which is currently located at [www.AppLovin.com](http://applovin.com/) (the “Site”); (ii) the network of application publishers and developers (the “AppLovin Apps”); and (iii) our other online services (together with the Site and the AppLovin Apps, the “Services”).
 
@@ -85,7 +91,7 @@ We may also collect certain types of information automatically, including throug
 
 ### Consumers.
 
-AppLovin primarily collects information from Consumers when an application developer or website publisher requests AppLovin to serve an advertisement to a consumer. By downloading and using a partner Application, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver advertisements through the Services. In addition, AppLovin may collect information from Consumers through use of a Cookie, Web Beacon, Scripts or similar tracking technologies if the Consumer accesses advertisements from a browser or is redirected to a browser by advertisements provided through the Services. Certain advertisements may redirect you to a browser where AppLovin may use a Cookie to track Consumer activities.
+AppLovin primarily collects information from Consumers when an application developer or website publisher requests AppLovin to serve an advertisement to a consumer. By downloading and using a partner Application, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver advertisements through the Services. In addition, AppLovin may collect information from Consumers through use of a Cookie, Web Beacon, Scripts or similar tracking technologies if the Consumer accesses advertisements from a browser or is redirected to a browser by advertisements provided through the Services. Certain advertisements may redirect you to a browser where AppLovin may use a Cookie to track Consumer activities. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 ## 5\. Use of Your Information by AppLovin
 
@@ -136,7 +142,7 @@ AppLovin provides you with the ability to exercise certain choices and controls 
 
 
 
-If you would like additional information about the choices and controls that may be available to you, or you would like to access your personal information, please [contact us](https://web.archive.org/contact).
+If you would like additional information about the choices and controls that may be available to you, or you would like to access your personal information, please [contact us](https://web.archive.org/contact). We will respond within a reasonable time.
 
 ### Opt-Out:
 
@@ -175,13 +181,13 @@ Any changes to the Policy will become effective when the revised Policy is poste
 
 If you have any questions or comments about this Policy, please write to us at:
 
-AppLovin Corporation  
-849 High St.  
+AppLovin Corporation   
+849 High St.   
 Palo Alto, CA 94301 
 
 You can also contact us via email at [care@AppLovin.com](mailto:care@AppLovin.com) (customer service) or [legal@AppLovin.com](mailto:legal@AppLovin.com) (legal).
 
-Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
 
 ## 12\. Definitions
 
