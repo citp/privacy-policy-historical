@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vht.com privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604112941id_/http%3A//www.vht.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vht.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222032430id_/http%3A//vht.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 
@@ -17,9 +17,12 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="/css/components.css">
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
+	<link rel="stylesheet" type="text/css" href="/css/twentytwenty.css">
 	<link rel="shortcut icon" type="image/png" href="http://vht.com/media/1168/favicon.ico">
 	
-    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.min.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery.min.js"></script>
+	<script src="/scripts/jquery.event.move.js"></script>
+	<script src="/scripts/jquery.twentytwenty.js"></script>
     
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -62,6 +65,37 @@ clicky_site_ids.push(100920285);
 </script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100920285ns.gif" /></p></noscript>
 
+
+
+<!-- Google Code for Form Submission Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 996929092;
+    w.google_conversion_label = "GAnrCJyej2UQxNyv2wM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]
+
     
     
 
@@ -81,6 +115,12 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+<script>
+	$(function(){
+		$(".twentytwenty-container").twentytwenty();
+	});
+</script>
+	
 </head>
 
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
@@ -102,7 +142,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
             </div>
             <div class="main-nav">
                 <div class="row">
-                    <div class="small-9 medium-4 columns">
+                    <div class="small-9 medium-3 columns">
                         <a href="/">
                             <img src="/media/1001/vht-logo.png" alt="VHT">
                         </a>
@@ -110,40 +150,39 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 
                     <a href="#menu" class="menu-link c-hamburger c-hamburger--htx"><span>toggle menu</span></a>
 
-                    <div class="small-12 medium-8 columns text-right">
+                    <div class="small-12 medium-9 columns text-right">
                         <nav class="top-bar">
                             <ul>
-                                    <li>
-                                        <a href="/for-agents/">For Agents</a>
-                                    </li>
-                                    <li>
-                                        <a href="/for-brokerages/">For Brokerages</a>
-                                    </li>
-                                    <li>
-                                        <a href="/other-businesses/">Other Businesses</a>
-                                    </li>
-                                    <li>
-                                        <a href="/about/">About</a>
-                                    </li>
-
+                                        <li>
+                                            <a href="/for-agents/">For Agents</a>
+                                        </li>
+                                        <li>
+                                            <a href="/for-brokerages/">For Brokerages</a>
+                                        </li>
+                                        <li>
+                                            <a href="/other-businesses/">Other Businesses</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about/">About</a>
+                                        </li>
                             </ul>
                         </nav>
                     </div>
 
                     <nav id="menu" class="panel-nav" role="navigation">
                         <ul>
-                                <li>
-                                    <a href="/for-agents/">For Agents</a>
-                                </li>
-                                <li>
-                                    <a href="/for-brokerages/">For Brokerages</a>
-                                </li>
-                                <li>
-                                    <a href="/other-businesses/">Other Businesses</a>
-                                </li>
-                                <li>
-                                    <a href="/about/">About</a>
-                                </li>
+                                   <li>
+                                        <a href="/for-agents/">For Agents</a>
+                                    </li>
+                                   <li>
+                                        <a href="/for-brokerages/">For Brokerages</a>
+                                    </li>
+                                   <li>
+                                        <a href="/other-businesses/">Other Businesses</a>
+                                    </li>
+                                   <li>
+                                        <a href="/about/">About</a>
+                                    </li>
                         </ul>
                         <div class="top-links-mobile show-for-small-down">
                             <a href="/news/">News</a>
@@ -161,7 +200,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
                     <div class="small-12 medium-10 large-6 medium-centered columns">
                         <div class="row">
                             <div class="xs-small-12 small-6 medium-6 columns">
-                                    <a href="https://marketorderform.vht.com/default.aspx" class="button button-alt top-btn">Schedule Now</a>
+                                    <a href="https://marketorderform.vht.com/default.aspx" class="button button-alt top-btn order-form-link">Schedule Now</a>
                             </div>
                             <div class="xs-small-12 small-6 medium-6 columns">
                                     <a href="/for-agents#packages" class="button button-alt top-btn">See Rates</a>
@@ -179,7 +218,6 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 
 <!-- Hero Image -->
 <!--/ Hero Image -->
-				
 <div class="grid-wrap">
     
 
@@ -259,7 +297,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 
 
 
-                                                     
+
 <span class="field-validation-valid" data-valmsg-for="b1cd1e0d-6aba-48de-cae3-47919f0b228e" data-valmsg-replace="true"></span>                                                </div>
                                             </div>
                                             <div class="contourField  textfield mandatory alternating">
@@ -272,7 +310,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 
 
 
-                                                     
+
 <span class="field-validation-valid" data-valmsg-for="7b669124-1099-46cf-ee51-5aeb563aff01" data-valmsg-replace="true"></span>                                                </div>
                                             </div>
 
@@ -294,11 +332,11 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
                      </div>
 
                  </div>
-<input name="ufprt" type="hidden" value="BBB992E74D71CAB9372C75E654C55838E113ADE67012B393002D8CA1D02208589D9EB136B6E8F2EC2710594FA2F151399310010F6AA072B87F06D21F25B940D4449C5AF6D8B50E44B933133901EF0317447D238F39EAAA17D8952CB7587231529C5D9AC35A196DBA6DC986E60390E569EC140B7BBD8B3B17E0E8D8F368BAE0D78182B8919F17977D1747EE4A49224030"></form>         </div>
+<input name="ufprt" type="hidden" value="49766DD4B88A7D45142469CB8F5FFC6EA1FAD8E6A2D4A3EEC84FE0307AFD0CD694D9E56C3653102F91CB542C070DF132B376B36772A6D23C946222628DFD3C8243B055510086D7DAC4BD0CE9D7433D73BC8F0ACAA45ACC56F574BEEDEC5C3D025D2F5FE1512AFD676DD9E57FDE50655E1DEA693B95E92F090238933DCBA97D3DAFB10A9789B583E3B884997BFDFD0B1C"></form>         </div>
 
 <input type="hidden" id="fsConditions_955636cd86c24177b95dbad69cb2423b" value="{}">
 <input type="hidden" id="fieldConditions_955636cd86c24177b95dbad69cb2423b" value="{}">
-<input type="hidden" id="values_955636cd86c24177b95dbad69cb2423b" value="{" b1cd1e0d-6aba-48de-cae3-47919f0b228e":"","7b669124-1099-46cf-ee51-5aeb563aff01":""}"="">
+<input type="hidden" id="values_955636cd86c24177b95dbad69cb2423b" value="{&quot;b1cd1e0d-6aba-48de-cae3-47919f0b228e&quot;:&quot;&quot;,&quot;7b669124-1099-46cf-ee51-5aeb563aff01&quot;:&quot;&quot;}">
 <script type="text/javascript">
     var contourDateFormat = "m/d/yy";
 </script>
@@ -306,12 +344,12 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
 <script src="/App_Plugins/UmbracoForms/Assets/umbracoforms-conditions.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    (function ($, formId, formName) {
+    (function ($, formId) {
         var contourFieldValues,
             recordValues = JSON.parse($("#values_" + formId).val()),
             fsConditions = JSON.parse($("#fsConditions_" + formId).val()),
             fieldConditions = JSON.parse($("#fieldConditions_" + formId).val()),
-            form = $("#contour_form_" + formName);
+            form = $("#contour_form_" + formId);
 
         $(function () {
             $(".contourPage input, .contourPage textarea, .contourPage select", form).change(function () {
@@ -385,7 +423,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
             });
         }
 
-    }(jQuery, '955636cd86c24177b95dbad69cb2423b', 'ResourceDownload'));
+    }(jQuery, '955636cd86c24177b95dbad69cb2423b'));
 
 </script>
                 <a href="" class="button button-alt button-reverse" id="resource-download-hide" target="_blank">DOWNLOAD NOW</a>
@@ -418,159 +456,13 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
                     <div class="row">
                         <div class="medium-10 large-10 medium-centered columns">
                             
-                            <div id="contour_form_LatestTips" class="contour latesttips">
-
-<form action="/privacy-policy/" enctype="multipart/form-data" method="post">                 <input type="hidden" name="FormId" value="20eaea1d-17ce-4755-aff3-d64d5e4f6bfa">
-<input id="FormName" name="FormName" type="hidden" value="Latest Tips"><input data-val="true" data-val-number="The field RecordId must be a number." data-val-required="The RecordId field is required." id="RecordId" name="RecordId" type="hidden" value="0"><input id="PreviousClicked" name="PreviousClicked" type="hidden" value="">                 <input type="hidden" name="FormStep" value="0">
-                 <div class="contourPage">
-                
-                
-
-                        <fieldset class="contourFieldSet" id="6e8c7645-67ad-45b4-9471-c4f17dadc9e4">
-
-                            <div class="row">
-                                    <div class="medium-6 columns">
-                                            <div class="contourField  textfield mandatory">
-
-                                                    <label for="41964212-8f71-497c-eb76-d973cc2a50a1" class="fieldLabel">
-                                                                                                             </label>
-                                                
-                                                <div>
-                                                    <input type="text" name="41964212-8f71-497c-eb76-d973cc2a50a1" id="41964212-8f71-497c-eb76-d973cc2a50a1" class="text" value="" placeholder="Full Name*" maxlength="500" data-val="true" data-val-required="Enter your full name">
-
-
-
-                                                     
-<span class="field-validation-valid" data-valmsg-for="41964212-8f71-497c-eb76-d973cc2a50a1" data-valmsg-replace="true"></span>                                                </div>
-                                            </div>
-
-                                    </div>
-                                    <div class="medium-6 columns">
-                                            <div class="contourField  textfield mandatory alternating">
-
-                                                    <label for="1b854c94-cd18-43f6-caea-b71ccb1295da" class="fieldLabel">
-                                                                                                             </label>
-                                                
-                                                <div>
-                                                    <input type="text" name="1b854c94-cd18-43f6-caea-b71ccb1295da" id="1b854c94-cd18-43f6-caea-b71ccb1295da" class="text" value="" placeholder="Email Address*" maxlength="500" data-val="true" data-val-required="Please enter a valid email" data-val-regex="Please provide a valid value for " data-regex="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$">
-
-
-
-                                                     
-<span class="field-validation-valid" data-valmsg-for="1b854c94-cd18-43f6-caea-b71ccb1295da" data-valmsg-replace="true"></span>                                                </div>
-                                            </div>
-
-                                    </div>
-                            </div>
-
-                        </fieldset>
-
-                     <div style="display: none">
-                         <input type="text" name="20eaea1d17ce4755aff3d64d5e4f6bfa">
-                     </div>
-
-
-                     <div class="contourNavigation row">
-                         <div class="medium-12 columns">
-                                 <input type="submit" class="button" value="SUBMIT" name="submit">
-                         </div>
-                     </div>
-
-                 </div>
-<input name="ufprt" type="hidden" value="84E464155F267521CAB9A6A9062F1BDA8038E35CEF149DB4C6ACB41995B5C7A588C0181ACDEBDFDFB3A0D46094F13BCE2BF09C95D4ED68B7593E1FCEFA03F99C736FC3319B4BBC67BD6312DDE11774DF5DA6CC203C8CB3A1B0AE77DB0F63A4F5DB4758080D12EC32471BC0B4BC3FF4B48AE4A493065E32CAF7015D213BCDF91A3D300E186416F2BE644E0687C2724EE9"></form>         </div>
-
-<input type="hidden" id="fsConditions_20eaea1d17ce4755aff3d64d5e4f6bfa" value="{}">
-<input type="hidden" id="fieldConditions_20eaea1d17ce4755aff3d64d5e4f6bfa" value="{}">
-<input type="hidden" id="values_20eaea1d17ce4755aff3d64d5e4f6bfa" value="{" 41964212-8f71-497c-eb76-d973cc2a50a1":"","1b854c94-cd18-43f6-caea-b71ccb1295da":""}"="">
-<script type="text/javascript">
-    var contourDateFormat = "m/d/yy";
-</script>
-<script src="/App_Plugins/UmbracoForms/Assets/umbracoforms.js" type="text/javascript"></script>
-<script src="/App_Plugins/UmbracoForms/Assets/umbracoforms-conditions.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-    (function ($, formId, formName) {
-        var contourFieldValues,
-            recordValues = JSON.parse($("#values_" + formId).val()),
-            fsConditions = JSON.parse($("#fsConditions_" + formId).val()),
-            fieldConditions = JSON.parse($("#fieldConditions_" + formId).val()),
-            form = $("#contour_form_" + formName);
-
-        $(function () {
-            $(".contourPage input, .contourPage textarea, .contourPage select", form).change(function () {
-                PopulateFieldValues();
-                CheckRules();
-            });
-
-            PopulateFieldValues();
-            CheckRules();
-        });
-
-        function PopulateFieldValues() {
-            PopulateRecordValues();
-
-            $(".contourPage select", form).each(function () {
-                contourFieldValues[$(this).attr("id")] = $("option[value='" + $(this).val() + "']", $(this)).text();
-            });
-
-            $(".contourPage textarea", form).each(function () {
-                contourFieldValues[$(this).attr("id")] = $(this).val();
-            });
-
-            $(".contourPage input", form).each(function () {
-
-                if ($(this).attr('type') == "text" || $(this).attr("type") == "hidden") {
-                    contourFieldValues[$(this).attr("id")] = $(this).val();
-                }
-
-                if ($(this).attr('type') == "radio") {
-                    if ($(this).is(':checked')) {
-                        contourFieldValues[$(this).attr("name")] = $(this).val();
-                    }
-                }
-
-                if ($(this).attr('type') == "checkbox") {
-
-                    if ($(this).attr('id') != $(this).attr('name')) {
-                        if ($(this).is(':checked')) {
-                            if (contourFieldValues[$(this).attr("name")] == null) {
-                                contourFieldValues[$(this).attr("name")] = $(this).val();
-                            }
-                            else {
-                                contourFieldValues[$(this).attr("name")] += "," + $(this).val();
-                            }
-                        }
-                    } else {
-
-                        contourFieldValues[$(this).attr("name")] = $(this).is(':checked').toString();
-                    }
-                }
-
-            });
-        }
-
-        function PopulateRecordValues() {
-            var fieldId;
-            contourFieldValues = new Array();
-
-            for (fieldId in recordValues) {
-                if ($("#" + fieldId).length === 0) {
-                    contourFieldValues[fieldId] = recordValues[fieldId];
-                }
-            }
-        }
-
-        function CheckRules() {
-            umbracoForms.conditions.handle({
-                fsConditions: fsConditions,
-                fieldConditions: fieldConditions,
-                values: contourFieldValues
-            });
-        }
-
-    }(jQuery, '20eaea1d17ce4755aff3d64d5e4f6bfa', 'LatestTips'));
-
-</script>
+                            <script src="//app-ab14.marketo.com/js/forms2/js/forms2.min.js"></script>
+                            <form id="mktoForm_1048"></form>
+                            <script>
+                            MktoForms2.loadForm("//app-ab14.marketo.com", "278-PWS-876", 1048, function(form) {
+                                VHT.CustomizeForm(form);
+                            });
+                            </script>
                         </div>
 
                     </div>
@@ -627,7 +519,7 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
                             <div class="footer-callouts">
                                 <div class="row">
                                     <div class="xs-small-12 small-6 columns">
-                                        <a href="https://marketorderform.vht.com/default.aspx" class="button button-alt button-reverse">SCHEDULE NOW</a>
+                                        <a href="https://marketorderform.vht.com/default.aspx" class="button button-alt button-reverse order-form-link">SCHEDULE NOW</a>
                                     </div>
                                     <div class="xs-small-12 small-6 columns">
                                         <a href="https://my.vht.com/default.aspx" class="button button-alt button-reverse">MyVHT LOGIN</a>
@@ -666,6 +558,9 @@ src="https://www.facebook.com/tr?id=986508198070179&ev=PageView&noscript=1"
     <!-- Javascripts -->
     <script src="/js/components.js"></script>
     <script src="/js/custom.min.js"></script>
+	<script src="/scripts/vht.js"></script>
+						
+	
     <!-- begin olark code -->
     <script data-cfasync="false" type="text/javascript">
 /*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
@@ -686,52 +581,69 @@ b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'
 loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
 
 /* custom configuration goes here (www.olark.com/documentation) */
-var now = new Date();
-var cstDiff = -((now.getTimezoneOffset())/60);
-var nowUniversalTime = now.getUTCHours();
-var nowCST = nowUniversalTime + cstDiff;
-var currDay = now.getDay();
-var currDate = now.getDate();
-var currMonth = now.getMonth();
-//Fixing UTC -> CST Negative Time
-if (nowCST < 0) {nowCST += 24;}
+var now;
+var nowUTCHour; 
+var nowUTCMinute; 
+var nowUTCSecond;
+var currWeekDay;
+var currDate;
+var currMonth;
 
-//Months go from 0-11 (Jan-Dec)
-//Dates go from 1-30/31
-//Days go from 0-6 (Mon-Sun)
-//Time goes from 0-23 (0 being 12AM and 23 being 11PM)
+function updateTime() {
+	now = new Date();
+	nowUTCHour = now.getUTCHours();
+	nowUTCMinute = now.getMinutes();
+	nowUTCSecond = now.getSeconds();
+	currWeekDay = now.getDay();
+	currDate = now.getDate();
+	currMonth = now.getMonth();
 
-//Static Holidays [DO NOT NEED TO CHANGE] --For the static holidays that may end up on a Saturday, so that they don't inherit weekend hours.
-//Christmas
-if ((currMonth == 11 && currDate == 25)) {olark.configure("system.force_offline", true);}
-//New Years
-if ((currMonth == 0 && currDate == 1)) {olark.configure("system.force_offline", true);}
-//July Fourth
-if ((currMonth == 6 && currDate == 4)) {olark.configure("system.force_offline", true);}
+	//forced refresh
+	if (nowUTCHour == 0 && nowUTCMinute == 0 && nowUTCSecond == 0) {window.location.reload(true);}
 
-//VHT HOLIDAY 2017 [!!!!!CHANGE EVERY YEAR!!!!!]
-//New Years or Christmas Eve (Half Day Off) 8AM-1PM
-if (((currMonth == 11 && currDate == 24) || (currMonth == 11 && currDate == 31)) && (nowCST < 8 || nowCST >= 13)) {olark.configure("system.force_offline", true);}
-//Thanksgiving (Full Day Off)
-if ((currMonth == 10 && currDate == 24) || (currMonth == 10 && currDate == 25)) {olark.configure("system.force_offline", true);}
-//Christmas(Full Day Off)
-if ((currMonth == 11 && currDate == 26)) {olark.configure("system.force_offline", true);}
-//New Years (Full Day Off)
-if ((currMonth == 0 && currDate == 2)) {olark.configure("system.force_offline", true);}
-//Memorial Day (Full Day Off)
-if ((currMonth == 4 && currDate == 30)) {olark.configure("system.force_offline", true);}
-//Independence Day (Full Day Off)
-if ((currMonth == 6 && currDate == 4)) {olark.configure("system.force_offline", true);}
-//Labor Day (Full Day Off)
-if ((currMonth == 8 && currDate == 5)) {olark.configure("system.force_offline", true);}
+	//Months go from 0-11 (Jan-Dec)
+	//Dates go from 1-30/31
+	//Days go from 0-6 (Mon-Sun)
+	//Time goes from 0-23 (0 being 12AM and 23 being 11PM)
 
-//NORMAL BUSINESS DAY LOGIC
-//Sunday
-if (currDay == 0) {olark.configure("system.force_offline", true);}
-//Saturday 9AM-1PM
-if (currDay == 6 && (nowCST < 9 || nowCST >= 13)) {olark.configure("system.force_offline", true);}
-//M-F 8AM-7PM
-if ((currDay != 0 && currDay != 6) && (nowCST < 8 || nowCST >=19)) {olark.configure("system.force_offline", true);}
+	//Static Holidays [DO NOT NEED TO CHANGE] --For the static holidays that may end up on a Saturday, so that they don't inherit weekend hours.
+	//Christmas
+	if ((currMonth == 11 && currDate == 25)) {olark.configure("system.force_offline", true);}
+	//New Years
+	if ((currMonth == 0 && currDate == 1)) {olark.configure("system.force_offline", true);}
+	//July Fourth
+	if ((currMonth == 6 && currDate == 4)) {olark.configure("system.force_offline", true);}
+
+	//VHT HOLIDAY 2017 [!!!!!CHANGE EVERY YEAR!!!!!]
+	//New Years or Christmas Eve (Half Day Off) 8AM-1PM
+	if (((currMonth == 11 && currDate == 24) || (currMonth == 11 && currDate == 31)) && (nowUTCHour < 13 || nowUTCHour >= 18)) {olark.configure("system.force_offline", true);}
+	//Thanksgiving (Full Day Off)
+	if ((currMonth == 10 && currDate == 24) || (currMonth == 10 && currDate == 25)) {olark.configure("system.force_offline", true);}
+	//Christmas(Full Day Off)
+	if ((currMonth == 11 && currDate == 26)) {olark.configure("system.force_offline", true);}
+	//New Years (Full Day Off)
+	if ((currMonth == 0 && currDate == 2)) {olark.configure("system.force_offline", true);}
+	//Memorial Day (Full Day Off)
+	if ((currMonth == 4 && currDate == 30)) {olark.configure("system.force_offline", true);}
+	//Independence Day (Full Day Off)
+	if ((currMonth == 6 && currDate == 4)) {olark.configure("system.force_offline", true);}
+	//Labor Day (Full Day Off)
+	if ((currMonth == 8 && currDate == 5)) {olark.configure("system.force_offline", true);}
+	//Company Outing (Half Day)
+	if ((currMonth == 11 && currDate == 15) && (nowUTCHour == 19 && nowUTCMinute == 0 && nowUTCSecond == 0)) {window.location.reload(true);}
+	if ((currMonth == 11 && currDate == 15) && (nowUTCHour > 19)) {olark.configure("system.force_offline", true);}
+
+	//NORMAL BUSINESS DAY LOGIC
+	//Sunday
+	if (currWeekDay == 0) {olark.configure("system.force_offline", true);}
+	//Saturday 9AM-1PM
+	if (currWeekDay == 6 && (nowUTCHour < 14 || nowUTCHour >= 18)) {olark.configure("system.force_offline", true);}
+	//M-F 8AM-7PM
+	if ((currWeekDay != 0 && currWeekDay != 6) && (nowUTCHour < 13 && nowUTCHour >= 0)) {olark.configure("system.force_offline", true);}
+
+	setTimeout(updateTime, 1000);
+}
+updateTime();
 /* custom configuration END */
 
 olark.identify('2469-567-10-6935');/*]]>*/</script><noscript><a href="https://www.olark.com/site/2469-567-10-6935/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
@@ -777,6 +689,26 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996929092/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+<script type="text/javascript">
+function setCookie(name, value, days){
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000)); 
+    var expires = "; expires=" + date.toGMTString();
+    document.cookie = name + "=" + value + expires + ";path=/";
+}
+function getParam(p){
+    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+var gclid = getParam('gclid');
+if(gclid){
+    var gclsrc = getParam('gclsrc');
+    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+	    setCookie('gclid', gclid, 90);
+	}
+}
+</script> 
 
 
 </body></html>
