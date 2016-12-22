@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gta5cheats.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612184454id_/http%3A//www.gta5cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gta5cheats.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222120846id_/http%3A//www.gta5cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTA 5 Cheats
 
