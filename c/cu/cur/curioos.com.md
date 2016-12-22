@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curioos.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314195005id_/https%3A//www.curioos.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curioos.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222044917id_/https%3A//www.curioos.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# Curioos | Exclusive Art Prints by the world's finest Digital Artists
+# None
 
 Last Modified: 04/14/2014
 
@@ -136,6 +136,6 @@ Curioos may amend this Privacy Policy from time to time. Use of information we c
 If you have any questions or concerns regarding our Privacy Policy, please contact us at: 
 
 **Curioos**  
-568 Broadway, 11th fl.  
+1140 Broadway, 11th fl.  
 New York, NY 10012  
 [privacy@curioos.com](mailto:privacy@curioos.com)
