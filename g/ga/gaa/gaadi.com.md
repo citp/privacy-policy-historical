@@ -1,46 +1,125 @@
-> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230045707id_/http%3A//www.gaadi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaadi.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045411id_/https%3A//www.gaadi.com/privacy-policy) for the most accurate reproduction.*
 
-# New Cars in India | Car Prices in India | Car India | Indian Cars
+# Privacy Policy | Gaadi
 
-At Gaadi.com (" **Website** "), we believe strongly in protecting the privacy of your personal information, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which principally sets out what personal information we collect and retain, how we use it, whom we may disclose it to, the security measures we take to protect that information, and how you can correct inaccuracies in the personal information we hold. You should read it in conjunction with the visitor agreement/terms and conditions of the Website.
+**Girnar** Software Private Limited and its affiliates, subsidiaries & associate companies as mentioned in this Privacy Policy (hereinafter referred individually and/ or collectively as "Girnar) is/are concerned about the privacy of the data and information of the users accessing, offering, selling or purchasing products or services on **Girnar** websites, mobile sites or mobile applications or otherwise doing business with Girnar. This Privacy Policy applies to **Girnar** which includes all its affiliates, subsidiaries & associate companies and help you understand how we collect, use, store, process, transfer and protect all your information when you visit any of our Website (defined below) and use our products and services.
 
-If you have questions or concerns regarding this statement, you should contact us at feedback@gaadi.com 
+THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF ELECTRONIC CONTRACT IN TERMS OF INFORMATION TECHNOLOGY ACT, 2000 AND RULES MADE THEREUNDER (AS AMENDED FROM TIME TO TIME) AND DOES NOT REQUIRE ANY PHYSICAL SIGNATURE OR SEAL.
 
-**The full policy is displayed below:**  
-Gaadi respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our Website. 
+The term “We”/ “Us” / “Our” used in this document refer to **Girnar** and "You" / "Your" / "Yourself" refer to the users, who visit or access or use (collectively “usage”) any of **Girnar** website, mobile site and mobile application (individually and collectively, “Website”).
 
-In general, you can visit the Website without disclosing your identity or revealing any personal information about yourself. [We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.]
+## TERMS AND CONDITIONS:
 
-Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you. 
+### Acknowledgment:
 
-There are times when we may collect personal information from you which you have volunteered to provide to us (or "opted in" for), such as name, physical address or telephone number, email address, mobile number etc. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit the Website, but you may be unable to access certain options, offers and services.
+YOU ACKNOWLEGE THAT YOU HAVE ALL LEGAL RIGHTS AND LAWFUL AUTHORITY TO SHARE THE INFORMATION WITH US AND FURTHER ACKNOWLEDGE THAT BY COLLECTING, SHARING, PROCESSING AND TRANSFERRING INFORMATION PROVIDED BY YOU, THIS SHALL NOT CAUSE ANY LOSS OR WRONFUL GAIN TO YOU OR ANY OTHER PERSON.
 
-Gaadi will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Gaadi will continue to enhance its security procedures as new technology becomes available.
+IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS / USE OUR WEBSITE OR AVAIL ANY OF OUR SERVICE OR PRODUCT ON OUR WEBSITE.
 
-Gaadi will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user (we advise you read the terms of use/visitor agreement in this regard) or customer (except as required by subpoena, search warrant, or other legal process or in the case of imminent physical harm to the user or others). We may however use your information for the following: 
+### Topics Covered:
 
-  
-
-
-  * help us provide personalized features;
-  * tailor our sites to your interest;
-  * to get in touch with you when necessary;
-  * to provide the services requested by you;
-  * to preserve social history as governed by existing law or policy;
+This policy is designed to make you understand: 
+  * The type of information which You share with Us or which We collect during Your usage to Website.
+  * The purpose of such collection, storage, processing and transferring of Your Information.
+  * Security measures implemented by Us to protect Your Information as mandated by law.
+  * Disclosure, sharing and transfer of Your personal information.
 
 
 
-**We use contact information internally to**
+### Information We Collect (Your Information) and store:
 
-  * direct our efforts for product improvement;
-  * contact you as a survey respondent;
-  * notify you if you win any contest; and
-  * send you promotional materials from our advertisers and/or patrons.
-
+We collect Your information during your usage to Website or when you avail any of services or products available on Website, either as a registered user or otherwise. The information collected may consists of: 
+  * Your Personal Information including Your name, age, address, email id, phone number, date of birth, gender, financial information, any other sensitive personal data or information etc.
+  * Non-personal information which may include your geographical location, your system details like OS version, internet browser & your telecom service provider etc.
 
 
-By continued use of the Website and/or by continuing to remain registered with us, you hereby agree that you have read and understood the terms of use and the privacy policy set out herein. In case of any changes in this Privacy Policy, we may choose to inform you. Any lapse on your part to keep yourself updated with such changes will be your sole responsibility and Gaadi Web Private Limited will under no circumstances be liable for any loss, damage etc caused to you.
 
-**This document is an electronic record in terms of Information Technology Act, 2000 and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures.**
+We may receive Your Information from third parties such as social media, and in such case, the information We collect may include your user name associated with that social media, any information or content the social media has the right to share with us, such as your profile picture, email address or friends list, and any information you have made public in connection with that social media. When you access the Website or otherwise deal with any **Girnar** entity through social media, you are authorizing **Girnar** to collect, store, use and retain such information and content in accordance with the terms of this Privacy Policy.
 
-To Unsubscribe from Gaadi emails, [click here](http://www.gaadi.com/privacy/unsubscribe).
+Non-personal information may be collected through various ways such through the use of cookies. **Girnar** may store temporary or permanent "cookies" on Your computer. You can erase or choose to block these cookies from Your computer. You can configure Your computer's browser to alert You when we attempt to send You a cookie with an option to accept or refuse the cookie. If You have turned cookies off, You may be prevented from using certain features of the Website. Further, we may use third-party service providers to serve ads on **Girnar** behalf across the internet and sometimes on the Website. They may collect Non- personal information about Your visits to the Website, and Your interaction with the products and services on the Website.
+
+Your Information will mostly be stored in electronic form however certain data may be stored in physical form. We may store, collect, use and process Your Information in countries other than Republic of India subject to compliance under applicable laws. We may enter into agreements with third parties (in or outside of India) to store or process Your Information and such third parties may have their own security measures to safeguard Your Information.
+
+### Purpose of Collection, Storage, Processing:
+
+**Girnar** collect Your Information solely for the purpose of providing you the product or service that is connected with the function or activity of the **Girnar** which includes but not limited to the following (“Purpose”): 
+  * To inform You about various products and services offered on Our Website.
+  * To address Your queries and resolve your concerns pertaining to any service or product that you were looking for.
+  * To send you survey and marketing communications or facilitate various programmes and initiatives launched either by Us or third party which We believes may be of interest to You.
+  * To facilitate Your usage of Website and improve Our Service, product or content on Website.
+  * To review Website performance and do data analysis to make Your experience better.
+  * To protect the integrity of Our Website.
+  * To inform You about change in any term and condition of this Privacy Policy or Terms of Use of any Website of Girnar
+  * To implement information security practices, to determine any security breaches, contaminant or computer virus, to investigate/prevent/take action illegal activities and suspected fraud.
+
+
+
+### Sharing, Transfer or Disclosure:
+
+Any service or product provided through Our Website may be provided either by **Girnar** or its vendor, dealer, OEM, channel partners and other third parties (“other entities”) which are registered with **Girnar** to render the services or provide products through Website. 
+
+You acknowledge and agree that **Girnar** may share, disclose, transfer or part with Your Information to other entities depending upon the type of service or product You are looking for or for one or more of the permissible purposes. **Girnar** may also share Your personal or non-personal information where it is required to share the same with such other entities for providing you the service or product and You provide Girnar, Your unconditional consent to do the same.
+
+**Girnar** may share statistical data and/or other Non-personal Information or details without your express or implied consent to facilitate various program or initiatives launched by Girnar, third party service providers, partners or financial institutions, from time to time.
+
+We use other third parties such as a credit/debit card processing company, payment gateway, pre-paid cards etc. to enable You to make payments for buying products or availing services on Website. When You sign up for these services, You may have the ability to save Your card details for future reference and faster future payments. In such case, We may share Your relevant Information as necessary for the third parties to provide such services, including your name, residence and email address. The processing of payments or authorization is solely in accordance with these third parties policies, terms and conditions and we are not in any manner responsible or liable to You or any third party for any delay or failure at their end in processing the payments.
+
+In addition to this, **Girnar** reserve the right to share Your Information with any Government Agency or other authorized law enforcement agencies (LEAs) mandated under law to obtain Your Information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, prosecution, and punishment of offences etc.
+
+### Third Party Links:
+
+It is clarified that while Your usage to Our Website, you might see the links to the third party website / advertisements / electronic communication service, which are provided by the third parties. As the operation of the third party is not under control Girnar, therefore **Girnar** does not make any endorsement / guarantee of any service or product offered through third party websites nor make any representation related to the any privacy policy or other policies of such third party. Any usage of such third party website or availing any service or product through third party shall be at Your risk and **Girnar** is not responsible for any loss / damage or otherwise.
+
+It is recommended that You should review the privacy policy of such third party websites prior to using such websites.
+
+### Security Measures:
+
+**Girnar** takes utmost care to secure Your Information from unauthorised access, usage or disclosure or alteration. We take appropriate steps and security measures to safeguard Your Information and make sure that Your Information is secured as mandated by law. For this purpose we adopt reasonable security practices and procedures, in line with the industry standard, to include, technical, operational, managerial and physical security controls in order to protect your personal information from unauthorized access, or disclosure while it is under our control.
+
+While We protect Your Personal information as per industry standards, You acknowledge that the internet or computer networks are not fully secure and that We cannot provide any absolute assurance regarding the security of Your Personal information. Therefore You acknowledge that You shall not hold responsible **Girnar** in any manner whatsoever for loss of Your Information, or any other data, which You shares with Us or which We have with Us if such loss or any damage caused to You because of Force Majeure events. You further acknowledge that any information (including your personal information) transmitted to Us or from Your use of Website will therefore be at Your own risk.
+
+It is clarified that Force Majeure events includes any event which is beyond the reasonable control of the **Girnar** which may include but not limited to sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorised access to computer, computer system or computer network, computer crashes, breach of security and encryption. 
+
+### Update of Your Information:
+
+**Girnar** take all endeavours to update Our records with latest information as provided by you, however if you see any discrepancy in your personal information you may contact to Us through Grievance Officer to have Your Information updated with Us.
+
+You also acknowledge that all the information provided by You are out of Your free will and in compliance with applicable laws in Your territory. If We found that any of Your Information is in non-compliance with the terms and conditions and Privacy policy, **Girnar** reserves the right to remove your non-compliant information from its systems. Further, depending on the seriousness of the non-compliance, We may choose to discontinue some or all of the services being provided to You by Us.
+
+### Authorization:
+
+In purview of the Telecom Regulatory Authority of India (TRAI) guidelines, You hereby authorize **Girnar** and its affiliates/partners or otherwise who are accessing the Your Information by virtue of their association with **Girnar** to communicate with You through telephone/mobile, Email, SMS or other modes of communication even if Yours number/numbers(s) is/are registered in the National Do Not Call Registry (NDNC) or www.nccptrai.gov.in
+
+### Change in terms of Privacy Policy:
+
+**Girnar** reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to regularly check this Privacy Policy from time to time to keep you apprise of changes made. Your continued use of the Website gives your unconditional acceptance to such change in terms of Privacy Policy.
+
+**Particulars of corporate entity, Grievance Officer pursuant to the provisions of Companies Act, 2013 and The Information Technology Act, 2000 and rules made thereunder:**
+
+The particulars of various corporate entities of **Girnar** for the above purposes are as under: 
+  * **Girnar Software Private Limited**  
+CIN: U72200RJ2006PTC023499  
+Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
+  * **Gaadi Web Private Limited**   
+CIN: U72300DL2007PTC169207  
+Registered office address: F-130, GF, Street No.7, Pandav Nagar Delhi - 110091, India 
+  * **Girnarsoft Education Services Private Limited**   
+CIN: U80302RJ2015PTC047265  
+Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
+  * **Girnarsoft Automobiles Private Limited**   
+CIN: U50300RJ2010PTC032194  
+Registered office address: Girnar 21, Govind Marg, Moti Doongari Road, Dharm Singh Circle, Jaipur, Rajasthan- 302004, India 
+
+
+
+If you have any concern related to this Privacy Policy or collection, storage, retention or disclosure of Your Information under the terms of this Privacy Policy or Terms of Use or any other terms and conditions of **Girnar** or its other business entities including any queries or grievances, You can contact to **Girnar** through its Grievance Redressal Officer at the below given details:
+
+  * Name : Mr. Sunny Bajaj 
+  * E-mail : legal@girnarsoft.com
+  * Telephone Number : 0124-6510130
+  * Working Days : Monday to Friday
+  * Working Hours : 10:30 am to 6:30 pm
+
+
+
+We will strive to address your feedback and concerns in a timely and effective manner. Please note that the details of the grievance officer may be changed by Us from time to time by updating this Privacy Policy. 
