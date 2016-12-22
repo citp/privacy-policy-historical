@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealereprocess.com privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613104314id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealereprocess.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222232711id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <!-- Meta Tags -->
@@ -9,41 +9,50 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 <!--Shortcut icon-->
 <link rel="shortcut icon" href="http://www.dealereprocess.com/wp-content/uploads/favicon.png">
-<title> Privacy Policy - Dealer E Process </title>
-<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<title> Privacy Policy - Dealer eProcess </title>
+<!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.dealereprocess.com/privacy_policy/">
 <link rel="publisher" href="https://plus.google.com/+Dealereprocess1/posts">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy - Dealer E Process">
+<meta property="og:title" content="Privacy Policy - Dealer eProcess">
 <meta property="og:description" content="Information regarding Dealer e-Process’ privacy practices: This document describes Dealer e-Process’ policy regarding standard information collected in normal web site usage as well as information you provide when you visit our web site. The amount and type of information received depends on how you use our site. Normal Web Site...">
 <meta property="og:url" content="http://www.dealereprocess.com/privacy_policy/">
-<meta property="og:site_name" content="Dealer E Process">
+<meta property="og:site_name" content="Dealer eProcess">
 <!-- / Yoast SEO plugin. -->
-<link rel="alternate" type="application/rss+xml" title="Dealer E Process » Feed" href="http://www.dealereprocess.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Dealer E Process » Comments Feed" href="http://www.dealereprocess.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Dealer E Process » Privacy Policy Comments Feed" href="http://www.dealereprocess.com/privacy_policy/feed/">
+<link rel="dns-prefetch" href="//sharecdn.social9.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Dealer eProcess » Feed" href="http://www.dealereprocess.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Dealer eProcess » Comments Feed" href="http://www.dealereprocess.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Dealer eProcess » Privacy Policy Comments Feed" href="http://www.dealereprocess.com/privacy_policy/feed/">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.2","twemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/twemoji.js?ver=4.5.2"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/wp-emoji.js?ver=4.7","twemoji":"http:\/\/www.dealereprocess.com\/wp-includes\/js\/twemoji.js?ver=4.7"}};
 ( function( window, document, settings ) {
 var src, ready, ii, tests;
+/*
+* Create a canvas element for testing native browser support
+* of emoji.
+*/
+var canvas = document.createElement( 'canvas' );
+var context = canvas.getContext && canvas.getContext( '2d' );
 /**
 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
 *
 * @since 4.2.0
 *
-* @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+* @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 */
 function browserSupportsEmoji( type ) {
-var canvas = document.createElement( 'canvas' ),
-context = canvas.getContext && canvas.getContext( '2d' ),
-stringFromCharCode = String.fromCharCode,
-tonedata, tone, tone2;
+var stringFromCharCode = String.fromCharCode,
+flag, flag2, technologist, technologist2;
 if ( ! context || ! context.fillText ) {
 return false;
 }
+// Cleanup from previous test.
+context.clearRect( 0, 0, canvas.width, canvas.height );
 /*
 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
 * it doesn't work when the font is bolder than 500 weight. So, we
@@ -56,54 +65,55 @@ case 'flag':
 /*
 * This works because the image will be one of three things:
 * - Two empty squares, if the browser doesn't render emoji
-* - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-* - The Australian flag
+* - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+* - The United Nations flag
 *
 * The first two will encode to small images (1-2KB data URLs), the third will encode
 * to a larger image (4-5KB data URL).
 */
-context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-return canvas.toDataURL().length > 3000;
-case 'diversity':
+context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+if ( canvas.toDataURL().length < 3000 ) {
+return false;
+}
+context.clearRect( 0, 0, canvas.width, canvas.height );
 /*
-* This tests if the browser supports the Emoji Diversity specification, by rendering an
-* emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-* compares if the emoji rendering has changed.
+* Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+* the usual Unicode release cycle, some browsers support it, and some don't, even if their
+* Unicode support is up to date.
+*
+* To test for support, we try to render it, and compare the rendering to how it would look if
+* the browser doesn't render it correctly (white flag emoji + rainbow emoji).
 */
-context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
-context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-// So, we create our own string and compare that, instead.
-tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
-return tone !== tone2;
-case 'simple':
+context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+flag = canvas.toDataURL();
+context.clearRect( 0, 0, canvas.width, canvas.height );
+context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+flag2 = canvas.toDataURL();
+return flag !== flag2;
+case 'emoji4':
 /*
-* This creates a smiling emoji, and checks to see if there is any image data in the
-* center pixel. In browsers that don't support emoji, the character will be rendered
-* as an empty square, so the center pixel will be blank.
+* Emoji 4 has the best technologists. So does WordPress!
+*
+* To test for support, try to render a new emoji (woman technologist: medium skin tone),
+* then compare it to how it would look if the browser doesn't render it correctly
+* (woman technologist: medium skin tone + personal computer).
 */
-context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-case 'unicode8':
-/*
-* To check for Unicode 8 support, let's try rendering the most important advancement
-* that the Unicode Consortium have made in years: the burrito.
-*/
-context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+technologist = canvas.toDataURL();
+context.clearRect( 0, 0, canvas.width, canvas.height );
+context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+technologist2 = canvas.toDataURL();
+return technologist !== technologist2;
 }
 return false;
 }
 function addScript( src ) {
 var script = document.createElement( 'script' );
 script.src = src;
-script.type = 'text/javascript';
+script.defer = script.type = 'text/javascript';
 document.getElementsByTagName( 'head' )[0].appendChild( script );
 }
-tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+tests = Array( 'flag', 'emoji4' );
 settings.supports = {
 everything: true,
 everythingExceptFlag: true
@@ -144,7 +154,7 @@ addScript( src.wpemoji );
 }
 }
 } )( window, document, window._wpemojiSettings );
-</script><script src="http://www.dealereprocess.com/wp-includes/js/twemoji.js?ver=4.5.2" type="text/javascript"></script><script src="http://www.dealereprocess.com/wp-includes/js/wp-emoji.js?ver=4.5.2" type="text/javascript"></script>
+</script><script src="http://www.dealereprocess.com/wp-includes/js/twemoji.js?ver=4.7" type="text/javascript" defer=""></script><script src="http://www.dealereprocess.com/wp-includes/js/wp-emoji.js?ver=4.7" type="text/javascript" defer=""></script>
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -159,41 +169,41 @@ background: none !important;
 padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="gslBxsliderStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/37e082b988e92b76816d9aec7499d304/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gslMainStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/96f6952d3add8baa6737c38221844de8/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="otw_grid_manager-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c69e2d46870790775e6355f9193d8bb8/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="general_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/375a0fb6b61ad9c2de69723f08986d71/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="social_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/941518c5d91dfd1b7a256e9a158ea4f4/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="otw_shortocde-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/a84197e5c9cdf6a50e4d79139d293851/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="oss-social-sharing-front-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/2e2e393ad2b5983c258e62679e3de88e/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="oss-share-widget-style-css" href="https://sharecdn.social9.com/v2/css/os-share-widget-style.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-ui-standard-css-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/618650257aff2b9de0c3f225a49a1721/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gslBxsliderStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/37e082b988e92b76816d9aec7499d304/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gslMainStyle-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/96f6952d3add8baa6737c38221844de8/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="otw_grid_manager-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c69e2d46870790775e6355f9193d8bb8/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="general_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/375a0fb6b61ad9c2de69723f08986d71/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="social_foundicons-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/941518c5d91dfd1b7a256e9a158ea4f4/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="otw_shortocde-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/a84197e5c9cdf6a50e4d79139d293851/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="h5ab-print-font-awesome-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/3a10f618c32077c3071c9d36010946f9/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="h5ab-print-css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/97354bccf791f26765752333aa6e7ec9/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="oss-social-sharing-front-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b59b86303308d382ef22034c03f8286f/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="oss-share-widget-style-css" href="https://sharecdn.social9.com/v2/css/os-share-widget-style.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-standard-css-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/48fc5c46487c424456f32aa780b38486/1482432705index.css" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 .tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
 </style>
-<link rel="stylesheet" id="mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/3bcb5021ea63dae685e3259f07621851/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="wp-mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/9372871c5acea1446429ca08fc1958da/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="rgs-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b316207e6c356efa96c65d0c7e0dbe4c/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/f57ff823760de847ed42f08f89ea07e8/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="main-styles-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/daf867dd072429025dfcbde08f981cbf/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b78e7ca681eab0b8af19e61120aae523/1465592482index.css" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/ea5e47d3330c55ac3c00bd49152f1cc9/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c5a66c5af84ce159b17ab2db190a572b/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="rgs-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b316207e6c356efa96c65d0c7e0dbe4c/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/de3485b4d68c16b167d8cc11804d323d/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/daf867dd072429025dfcbde08f981cbf/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b78e7ca681eab0b8af19e61120aae523/1482432705index.css" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='nectar-ie8-css'  href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/288d9770bb4bed2dd2c9763280e8941a/1465592482index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-ie8-css'  href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/88ff947b6d6481514dd5779871764b61/1482432705index.css' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="responsive-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/e0715ed14510449d44c3b413f23814c0/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/d3f03fbdac1289ba6cebef4052780e41/1465592482index.css" type="text/css" media="all">
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.2"></script>
+<link rel="stylesheet" id="responsive-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/e0715ed14510449d44c3b413f23814c0/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/d3f03fbdac1289ba6cebef4052780e41/1482432705index.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/js_composer_salient/assets/lib/bower/progress-circle/ProgressCircle.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/js_composer_salient/assets/lib/vc_chart/jquery.vc_chart.min.js?ver=4.5.2"></script>
 <link rel="https://api.w.org/" href="http://www.dealereprocess.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dealereprocess.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dealereprocess.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.2">
+<meta name="generator" content="WordPress 4.7">
 <link rel="shortlink" href="http://www.dealereprocess.com/?p=919">
 <link rel="alternate" type="application/json+oembed" href="http://www.dealereprocess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.dealereprocess.com%2Fprivacy_policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.dealereprocess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.dealereprocess.com%2Fprivacy_policy%2F&amp;format=xml">
@@ -209,9 +219,8 @@ font-family: inherit;
 font-size: inherit;
 }
 </style>
-<style type="text/css"> #header-outer{padding-top:2px;}#header-outer #logo img{height:85px;}header#top nav > ul > li > a{padding-bottom:35px;padding-top:33px;}#header-outer .cart-menu{padding-bottom:35px;padding-top:35px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:32px;padding-top:33px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:89px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:89px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px){body:not(.ascend)[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"] header#top,body.ascend[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"][data-full-width="false"] header#top{padding-bottom:2px;}}@media only screen and (max-width:1000px){body header#top #logo img,#header-outer[data-permanent-transparent="false"] #logo .dark-version{height:25px!important;}header#top .col.span_9{min-height:49px;line-height:29px;}}.nectar-slider-loading .loading-icon,.portfolio-loading,#ajax-loading-screen .loading-icon,.loading-icon,.pp_loaderIcon{background-image:url("");}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:10px!important;line-height:17.52px!important;}}#mobile-menu #mobile-search,header#top nav ul #search-btn{display:none!important;}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container,.nectar-recent-posts-slider .flickity-page-dots{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}body .container .page-submenu.stuck .container:not(.tab-container),.nectar-recent-posts-slider .flickity-page-dots{padding:0 90px!important;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container):not(.recent-post-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #slide-out-widget-area-bg.fullscreen,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,body[data-footer-reveal="1"] #boxed #footer-outer,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}body[data-hhun="1"] #boxed #header-outer:not(.detached),body[data-hhun="1"] #boxed #header-secondary-outer{width:100%!important;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}.pagination-navigation{-webkit-filter:url("http://www.dealereprocess.com/privacy_policy/#goo");filter:url("http://www.dealereprocess.com/privacy_policy/#goo");}.page-id-15109 .post-area{float:right!important;padding-left:27px!important;}.tabbed > ul li a.active-tab{border-bottom:1px solid #058;}body[data-header-resize="0"] .container-wrap,body[data-header-resize="0"] .project-title{margin-top:-10px;}@media only screen and (max-width:689px) and (min-width:1px){body header#top #logo img{height:40px!important;margin-top:-10px!important;}}@media only screen and (max-width:1000px) and (min-width:690px){body header#top #logo img{height:35px!important;}}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#slide-out-widget-area .tagcloud a,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.row .col.section-title .nectar-love span,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2,.sharing-default-minimal .nectar-social .social-text,body .sharing-default-minimal .nectar-love{}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{}header#top nav > ul > li > a{}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1,.full-width-content .recent-post-container .inner-wrap h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body .row .col.section-title h1,body h1,.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:1000px) and (min-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3,.row .col.section-title h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body h2{font-size:;line-height:;}.row .span_2 h2,.row .span_3 h2,.row .span_4 h2,.row .vc_col-sm-2 h2,.row .vc_col-sm-3 h2,.row .vc_col-sm-4 h2{font-size:;line-height:;}}@media only screen and (max-width:690px){.col h2{font-size:;line-height:;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3,.masonry.classic_enhanced .masonry-blog-item h3.title{}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section > h3,.blog_next_prev_buttons[data-post-header-style="default_minimal"] .col h3{font-size:;line-height:;}.masonry.classic_enhanced .masonry-blog-item.large_featured h3.title{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){body .portfolio-items.constrain-max-cols.masonry-items .col.elastic-portfolio-item h3{font-size:;line-height:;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .span_2 h3,.row .span_3 h3,.row .span_4 h3,.row .vc_col-sm-2 h3,.row .vc_col-sm-3 h3,.row .vc_col-sm-4 h3{font-size:;line-height:;}}body h4,.row .col h4,.portfolio-items .work-meta h4,.portfolio-items .col.span_3 .work-meta h4,#respond h3,h3#comments,.portfolio-items[data-ps="6"] .work-meta h4{}@media only screen and (min-width:690px){.portfolio-items[data-ps="6"] .wide_tall .work-meta h4{font-size:;line-height:;}}body h5,.row .col h5,.portfolio-items .work-item.style-3-alt p{}body .wpb_column > .wpb_wrapper > .morphing-outline .inner > h5{font-size:;}body h6,.row .col h6{}body i,body em,.masonry.meta_overlaid article.post .post-header .meta-author > span,#post-area.masonry.meta_overlaid article.post .post-meta .date,#post-area.masonry.meta_overlaid article.post.quote .quote-inner .author,#post-area.masonry.meta_overlaid article.post.link .post-content .destination{}form label,.woocommerce-checkout-review-order-table .product-info .amount,.woocommerce-checkout-review-order-table .product-info .product-quantity,.nectar-progress-bar p,.nectar-progress-bar span strong i,.nectar-progress-bar span strong,.testimonial_slider blockquote span{}.nectar-dropcap{}body #page-header-bg h1,html body .row .col.section-title h1,.nectar-box-roll .overlaid-content h1{}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (max-width:690px){#page-header-bg.fullscreen-header .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title > span,.nectar-box-roll .overlaid-content .subheader{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg:not(.fullscreen-header) .span_6 span.subheader,body .row .col.section-title > span{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}@media only screen and (max-width:690px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}body #slide-out-widget-area .inner .off-canvas-menu-container li a,body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{}@media only screen and (min-width:690px) and (max-width:1000px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}@media only screen and (max-width:690px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}#slide-out-widget-area .menuwrapper li small{}@media only screen and (min-width:690px) and (max-width:1000px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}@media only screen and (max-width:690px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}.swiper-slide .content h2{}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{}#portfolio-filters-inline ul{line-height:;}.swiper-slide .content p.transparent-bg span{}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit,.meta_overlaid article.post .post-header h2,.meta_overlaid article.post.quote .post-content h2,.meta_overlaid article.post.link .post-content h2,.meta_overlaid article.post.format-status .post-content h2,.meta_overlaid article .meta-author a,.pricing-column.highlight h3 .highlight-reason,.blog-recent[data-style="minimal"] .col > span,.masonry.classic_enhanced .posts-container article .meta-category a,.nectar-recent-posts-slider .container .strong,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a,.single .heading-title[data-header-style="default_minimal"] .meta-category a,.nectar-fancy-box .link-text{font-weight:normal;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{}article.post .post-meta .month{line-height:-6px!important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/a7dadea757629af811160cce2cd76866/1465592482index.css' media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href='//www.dealereprocess.com/wp-content/cache/wpfc-minified/9a7a1f2654770b400a5cc437feb54277/1465592482index.css' media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- DEP custom changes -->
+<style type="text/css"> #header-outer{padding-top:2px;}#header-outer #logo img{height:85px;}header#top nav > ul > li > a{padding-bottom:35px;padding-top:33px;}#header-outer .cart-menu{padding-bottom:35px;padding-top:35px;}header#top nav > ul li#search-btn,header#top nav > ul li.slide-out-widget-area-toggle{padding-bottom:32px;padding-top:33px;}header#top .sf-menu > li.sfHover > ul{top:20px;}.sf-sub-indicator{height:20px;}#header-space{height:89px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:89px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px){body:not(.ascend)[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"] header#top,body.ascend[data-slide-out-widget-area="true"] #header-outer[data-has-menu="false"][data-permanent-transparent="false"][data-full-width="false"] header#top{padding-bottom:2px;}}@media only screen and (max-width:1000px){body header#top #logo img,#header-outer[data-permanent-transparent="false"] #logo .dark-version{height:24px!important;}header#top .col.span_9{min-height:48px;line-height:28px;}}.nectar-slider-loading .loading-icon,.portfolio-loading,#ajax-loading-screen .loading-icon,.loading-icon,.pp_loaderIcon{background-image:url("");}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:45px!important;line-height:51px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:18px!important;line-height:31.2px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:33px!important;line-height:39px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:13.2px!important;line-height:24px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:15px!important;line-height:21px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:10px!important;line-height:17.52px!important;}}#mobile-menu #mobile-search,header#top nav ul #search-btn{display:none!important;}@media only screen and (min-width:1000px){.container,.woocommerce-tabs .full-width-content .tab-container,.nectar-recent-posts-slider .flickity-page-dots{max-width:1425px;width:100%;margin:0 auto;padding:0 90px;}body .container .page-submenu.stuck .container:not(.tab-container),.nectar-recent-posts-slider .flickity-page-dots{padding:0 90px!important;}.swiper-slide .content{padding:0 90px;}body .container .container:not(.tab-container):not(.recent-post-container){width:100%!important;padding:0!important;}body .carousel-heading .container{padding:0 10px!important;}body .carousel-heading .container .carousel-next{right:10px;}body .carousel-heading .container .carousel-prev{right:35px;}.carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:90px;}.carousel-wrap[data-full-width="true"] .carousel-heading{margin-left:-20px;margin-right:-20px;}.carousel-wrap[data-full-width="true"] .carousel-next{right:90px!important;}.carousel-wrap[data-full-width="true"] .carousel-prev{right:115px!important;}.carousel-wrap[data-full-width="true"]{padding:0!important;}.carousel-wrap[data-full-width="true"] .caroufredsel_wrapper{padding:20px!important;}#search-outer #search #close a{right:90px;}#boxed,#boxed #header-outer,#boxed #header-secondary-outer,#boxed #slide-out-widget-area-bg.fullscreen,#boxed #page-header-bg[data-parallax="1"],#boxed #featured,body[data-footer-reveal="1"] #boxed #footer-outer,#boxed .orbit > div,#boxed #featured article,.ascend #boxed #search-outer{max-width:1400px!important;width:90%!important;min-width:980px;}body[data-hhun="1"] #boxed #header-outer:not(.detached),body[data-hhun="1"] #boxed #header-secondary-outer{width:100%!important;}#boxed #search-outer #search #close a{right:0!important;}#boxed .container{width:92%;padding:0;}#boxed #footer-outer #footer-widgets,#boxed #footer-outer #copyright{padding-left:0;padding-right:0;}#boxed .carousel-wrap[data-full-width="true"] .carousel-heading a.portfolio-page-link{left:35px;}#boxed .carousel-wrap[data-full-width="true"] .carousel-next{right:35px!important;}#boxed .carousel-wrap[data-full-width="true"] .carousel-prev{right:60px!important;}}.pagination-navigation{-webkit-filter:url("http://www.dealereprocess.com/privacy_policy/#goo");filter:url("http://www.dealereprocess.com/privacy_policy/#goo");}.page-id-15109 .post-area{float:right!important;padding-left:27px!important;}.tabbed > ul li a.active-tab{border-bottom:1px solid #058;}body[data-header-resize="0"] .container-wrap,body[data-header-resize="0"] .project-title{margin-top:-10px;}@media only screen and (max-width:689px) and (min-width:1px){body header#top #logo img{height:40px!important;margin-top:-10px!important;}}@media only screen and (max-width:1000px) and (min-width:690px){body header#top #logo img{height:35px!important;}}</style><style type="text/css"> body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#slide-out-widget-area .tagcloud a,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.row .col.section-title .nectar-love span,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2,.sharing-default-minimal .nectar-social .social-text,body .sharing-default-minimal .nectar-love{}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{}header#top nav > ul > li > a{}header#top .sf-menu li ul li a,#header-secondary-outer nav > ul > li > a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1,.full-width-content .recent-post-container .inner-wrap h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body .row .col.section-title h1,body h1,.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:1000px) and (min-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .row .col.section-title h1,body h1{font-size:;line-height:;}.full-width-content .recent-post-container .inner-wrap h2{font-size:;line-height:;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3,.row .col.section-title h2{}@media only screen and (max-width:1300px) and (min-width:1000px){body h2{font-size:;line-height:;}.row .span_2 h2,.row .span_3 h2,.row .span_4 h2,.row .vc_col-sm-2 h2,.row .vc_col-sm-3 h2,.row .vc_col-sm-4 h2{font-size:;line-height:;}}@media only screen and (max-width:690px){.col h2{font-size:;line-height:;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3,.masonry.classic_enhanced .masonry-blog-item h3.title{}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section > h3,.blog_next_prev_buttons[data-post-header-style="default_minimal"] .col h3{font-size:;line-height:;}.masonry.classic_enhanced .masonry-blog-item.large_featured h3.title{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){body .portfolio-items.constrain-max-cols.masonry-items .col.elastic-portfolio-item h3{font-size:;line-height:;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .span_2 h3,.row .span_3 h3,.row .span_4 h3,.row .vc_col-sm-2 h3,.row .vc_col-sm-3 h3,.row .vc_col-sm-4 h3{font-size:;line-height:;}}body h4,.row .col h4,.portfolio-items .work-meta h4,.portfolio-items .col.span_3 .work-meta h4,#respond h3,h3#comments,.portfolio-items[data-ps="6"] .work-meta h4{}@media only screen and (min-width:690px){.portfolio-items[data-ps="6"] .wide_tall .work-meta h4{font-size:;line-height:;}}body h5,.row .col h5,.portfolio-items .work-item.style-3-alt p{}body .wpb_column > .wpb_wrapper > .morphing-outline .inner > h5{font-size:;}body h6,.row .col h6{}body i,body em,.masonry.meta_overlaid article.post .post-header .meta-author > span,#post-area.masonry.meta_overlaid article.post .post-meta .date,#post-area.masonry.meta_overlaid article.post.quote .quote-inner .author,#post-area.masonry.meta_overlaid article.post.link .post-content .destination{}form label,.woocommerce-checkout-review-order-table .product-info .amount,.woocommerce-checkout-review-order-table .product-info .product-quantity,.nectar-progress-bar p,.nectar-progress-bar span strong i,.nectar-progress-bar span strong,.testimonial_slider blockquote span{}.nectar-dropcap{}body #page-header-bg h1,html body .row .col.section-title h1,.nectar-box-roll .overlaid-content h1{}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (min-width:1300px) and (max-width:1500px){#page-header-bg .span_6 h1,.nectar-box-roll .overlaid-content h1{font-size:;line-height:;}}@media only screen and (max-width:690px){#page-header-bg.fullscreen-header .span_6 h1,.overlaid-content h1{font-size:;line-height:;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title > span,.nectar-box-roll .overlaid-content .subheader{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg:not(.fullscreen-header) .span_6 span.subheader,body .row .col.section-title > span{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}@media only screen and (max-width:690px){body #page-header-bg.fullscreen-header .span_6 span.subheader,.overlaid-content .subheader{font-size:;line-height:;}}body #slide-out-widget-area .inner .off-canvas-menu-container li a,body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{}@media only screen and (min-width:690px) and (max-width:1000px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}@media only screen and (max-width:690px){body #slide-out-widget-area.fullscreen .inner .off-canvas-menu-container li a{font-size:;line-height:;}}#slide-out-widget-area .menuwrapper li small{}@media only screen and (min-width:690px) and (max-width:1000px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}@media only screen and (max-width:690px){#slide-out-widget-area .menuwrapper li small{font-size:;line-height:;}}.swiper-slide .content h2{}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:;line-height:;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{}#portfolio-filters-inline ul{line-height:;}.swiper-slide .content p.transparent-bg span{}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:;line-height:;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav > ul > li.megamenu > ul > li > a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit,.meta_overlaid article.post .post-header h2,.meta_overlaid article.post.quote .post-content h2,.meta_overlaid article.post.link .post-content h2,.meta_overlaid article.post.format-status .post-content h2,.meta_overlaid article .meta-author a,.pricing-column.highlight h3 .highlight-reason,.blog-recent[data-style="minimal"] .col > span,.masonry.classic_enhanced .posts-container article .meta-category a,.nectar-recent-posts-slider .container .strong,#page-header-bg[data-post-hs="default_minimal"] .inner-wrap > a,.single .heading-title[data-header-style="default_minimal"] .meta-category a,.nectar-fancy-box .link-text{font-weight:normal;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{}article.post .post-meta .month{line-height:-6px!important;}</style><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<!-- DEP custom changes -->
 <style type="text/css">
 @media only screen and (min-width : 1px) and (max-width : 1300px) {
 body header#top #toggle-nav,body header#top #mobile-cart-link {
@@ -254,7 +263,7 @@ src="https://www.facebook.com/tr?id=1045779985494956&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 </head>
-<body class="page page-id-919 page-template-default nectar-auto-lightbox wpb-js-composer js-comp-ver-4.10 vc_responsive" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="false" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-responsive="1">
+<body class="page-template-default page page-id-919 nectar-auto-lightbox" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="false" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-responsive="1">
 <!-- Deactivate link on ice page -->
 <script>
 $( document ).ready(function() {
@@ -288,62 +297,56 @@ ga('send', 'pageview');
 <div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
 </div><!--/container-->
 </div><!--/search-->
-</div><!--/search-outer-->	
+</div><!--/search-outer-->
 <header id="top">
 <div class="container">
 <div class="row">
 <div class="col span_3">
 <a id="logo" href="http://www.dealereprocess.com">
-<img class="default-logo dark-version" alt="Dealer E Process" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_450.png"><img class="retina-logo  dark-version" alt="Dealer E Process" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_900.png"> 
-</a>
+<img class="default-logo dark-version" alt="Dealer eProcess" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_450.png"><img class="retina-logo  dark-version" alt="Dealer eProcess" src="http://www.dealereprocess.com/wp-content/uploads/DEP_logo_900.png">					</a>
 <!-- DEP Revision, add DEP West logo to header for display on only the DEP West Contact Page -->
 <img src="http://www.dealereprocess.com/wp-content/uploads/DEP-West-logo-chrome.png" id="depwest_logo">
 </div><!--/span_3-->
 <div class="col span_9 col_last">
-<a href="#mobilemenu" id="toggle-nav"><i class="icon-reorder"></i></a>					
+<a href="#mobilemenu" id="toggle-nav"><i class="icon-reorder"></i></a>
 <nav>
 <ul class="buttons">
 <li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
 </ul>
-<ul class="sf-menu">	
-<li id="menu-item-22" class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
-<li id="menu-item-854" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-854"><a>Products<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sf-menu">
+<li id="menu-item-854" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-854"><a>Websites<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-43" class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a href="#">Websites<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a>Certified OEM Programs<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-15355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Acura Certified Website Program</a></li>
+<li id="menu-item-13995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Toyota Certified Website Program</a></li>
+<li id="menu-item-12131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Kia Certified Website Program</a></li>
+<li id="menu-item-6713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">BMW Certified Website Program</a></li>
+</ul>
+</li>
+<li id="menu-item-15599" class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15599"><a>Websites<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
 <li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>
-<li id="menu-item-15355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Responsive Acura Websites</a></li>
-<li id="menu-item-13995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Responsive Toyota Websites</a></li>
-<li id="menu-item-12131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>
-<li id="menu-item-6713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>
 <li id="menu-item-14027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14027"><a href="http://www.dealereprocess.com/spanish-website-digital-advertising-provider/">Responsive Spanish Websites</a></li>
+<li id="menu-item-15597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15597"><a target="_blank" href="http://dealere.nl">Responsive Dutch Websites</a></li>
 </ul>
 </li>
-<li id="menu-item-44" class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+</ul>
+</li>
+<li id="menu-item-13311" class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-13311"><a>Digital Marketing<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
-<li id="menu-item-8151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<li id="menu-item-15607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15607"><a href="#">Certified OEM Programs<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-6083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+<li id="menu-item-15611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15611"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">BMW Certified Digital Marketing Program</a></li>
+<li id="menu-item-17541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17541"><a href="http://www.dealereprocess.com/toyota-certified-service-parts-advertising-program/">Toyota Parts &amp; Service Digital Marketing</a></li>
+<li id="menu-item-15610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15610"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Kia Certified Digital Marketing Program</a></li>
+<li id="menu-item-15609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15609"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Acura Certified Digital Marketing Program</a></li>
+<li id="menu-item-15612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15612"><a href="http://www.dealereprocess.com/gm-imr/">GM iMR Certified Digital Marketing Program</a></li>
 </ul>
 </li>
-<li id="menu-item-12892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
-<li id="menu-item-6687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
-<li id="menu-item-8045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
-<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
-<li id="menu-item-8046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
-</ul>
-</li>
-<li id="menu-item-887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Additional Services<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<li id="menu-item-15608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15608"><a href="#">Digital Marketing<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
 <ul class="sub-menu">
-<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
-<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-13311" class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-13311"><a>Digital Marketing<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
-<ul class="sub-menu">
+<li id="menu-item-16733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16733"><a href="http://www.dealereprocess.com/whats-your-caroi/">CAROI</a></li>
 <li id="menu-item-947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP Advertising Overview</a></li>
 <li id="menu-item-13597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13597"><a href="http://www.dealereprocess.com/full-digital-marketing-transparency/">Tracking &amp; Reporting</a></li>
 <li id="menu-item-13413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="http://www.dealereprocess.com/grade-my-ppc/">Grade My PPC</a></li>
@@ -354,6 +357,24 @@ ga('send', 'pageview');
 <li id="menu-item-3544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li id="menu-item-15598" class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-15598"><a href="#">Products<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
+<li id="menu-item-8046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
+<li id="menu-item-15879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15879"><a href="http://www.dealereprocess.com/price-drop-alert/">Price Drop Alert</a></li>
+<li id="menu-item-6687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
+<li id="menu-item-16429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16429"><a href="http://www.dealereprocess.com/product-parts-catalog/">Product Parts Catalog</a></li>
+<li id="menu-item-8151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a></li>
+<li id="menu-item-6083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+<li id="menu-item-12892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
+<li id="menu-item-8045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
+<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
+<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
+<li id="menu-item-2574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
+</ul>
+</li>
 <li id="menu-item-13891" class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-13891"><a>Awards<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
 <ul class="sub-menu">
 <li id="menu-item-13892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13892"><a href="http://www.dealereprocess.com/awards/">Website Awards</a></li>
@@ -362,56 +383,58 @@ ga('send', 'pageview');
 </li>
 <li id="menu-item-2825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li>
 <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li>
-<li id="menu-item-12471" class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li>
+<li id="menu-item-12471" class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-16052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16052"><a href="http://www.dealereprocess.com/demo-signup-page/">Demo Sign Up Page</a></li>
+<li id="menu-item-15600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15600"><a href="http://www.dealereprocess.com/careers/">Careers</a></li>
+<li id="menu-item-16053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16053"><a href="http://www.dealereprocess.com/company-directory/">Company Directory</a></li>
+</ul>
+</li>
+<li id="menu-item-22" class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
 </ul>
 </nav>
 </div><!--/span_9-->
 </div><!--/row-->
 </div><!--/container-->
 </header>
-<div class="ns-loading-cover"></div>		
+<div class="ns-loading-cover"></div>
 </div><!--/header-outer-->
 <div id="mobile-menu">
 <div class="container">
 <ul>
-<li class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
-<li class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-854"><a>Products</a>
+<li class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-854"><a>Websites</a>
 <ul class="sub-menu">
-<li class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a href="#">Websites</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43"><a>Certified OEM Programs</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Acura Certified Website Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Toyota Certified Website Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Kia Certified Website Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">BMW Certified Website Program</a></li>
+</ul>
+</li>
+<li class="columns-1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15599"><a>Websites</a>
 <ul class="sub-menu">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="http://www.dealereprocess.com/best-responsive-auto-car-dealer-websites/">Responsive Dealer Websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15355"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Responsive Acura Websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13995"><a href="http://www.dealereprocess.com/toyota-certified-website-digital-advertising-provider/">Responsive Toyota Websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12131"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Responsive Kia Websites</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6713"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">Responsive BMW Websites</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14027"><a href="http://www.dealereprocess.com/spanish-website-digital-advertising-provider/">Responsive Spanish Websites</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15597"><a target="_blank" href="http://dealere.nl">Responsive Dutch Websites</a></li>
 </ul>
 </li>
-<li class="columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44"><a href="#">Website Add-ons</a>
+</ul>
+</li>
+<li class="megamenu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13311"><a>Digital Marketing</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15607"><a href="#">Certified OEM Programs</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15611"><a href="http://www.dealereprocess.com/bmw-certified-website-provider/">BMW Certified Digital Marketing Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17541"><a href="http://www.dealereprocess.com/toyota-certified-service-parts-advertising-program/">Toyota Parts &amp; Service Digital Marketing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15610"><a href="http://www.dealereprocess.com/kia-certified-website-digital-advertising-provider/">Kia Certified Digital Marketing Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15609"><a href="http://www.dealereprocess.com/acura-certified-website-advertising-program/">Acura Certified Digital Marketing Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15612"><a href="http://www.dealereprocess.com/gm-imr/">GM iMR Certified Digital Marketing Program</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-887"><a href="#">Additional Services</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15608"><a href="#">Digital Marketing</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13311"><a>Digital Marketing</a>
-<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16733"><a href="http://www.dealereprocess.com/whats-your-caroi/">CAROI</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-947"><a href="http://www.dealereprocess.com/search_engine_marketing/">Digital AMMP Advertising Overview</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13597"><a href="http://www.dealereprocess.com/full-digital-marketing-transparency/">Tracking &amp; Reporting</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13413"><a href="http://www.dealereprocess.com/grade-my-ppc/">Grade My PPC</a></li>
@@ -422,6 +445,24 @@ ga('send', 'pageview');
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3544"><a href="http://www.dealereprocess.com/auto-dealer-craigslist-inventory-posting/">Craigslist Inventory Posting Tool</a></li>
 </ul>
 </li>
+</ul>
+</li>
+<li class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15598"><a href="#">Products</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="http://www.dealereprocess.com/auto-car-dealer-live-chat/">Live Chat</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8046"><a href="http://www.dealereprocess.com/dealer-watch/">Dealer Watch</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15879"><a href="http://www.dealereprocess.com/price-drop-alert/">Price Drop Alert</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6687"><a href="http://www.dealereprocess.com/ispy/">iSPY</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16429"><a href="http://www.dealereprocess.com/product-parts-catalog/">Product Parts Catalog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8151"><a href="http://www.eautoappraise.com/overview/">eAutoAppraise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6083"><a href="http://www.dealereprocess.com/credit-miner/">CreditMiner<span style="position: relative; bottom: 0px; font-size: 6px;">SM</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="http://www.dealereprocess.com/virtual_service_consultant/">Virtual Service Consultant</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8045"><a href="http://www.dealereprocess.com/configurator/">New Vehicle Configurator</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9377"><a href="http://www.dealereprocess.com/eautopayments/">eAuto Payments</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="http://www.dealereprocess.com/rapid_response/">Rapid Response</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href="http://www.dealereprocess.com/hosted-e-mail/">Hosted E-Mail For Car Dealers</a></li>
+</ul>
+</li>
 <li class="megamenusmall menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13891"><a>Awards</a>
 <ul class="sub-menu">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13892"><a href="http://www.dealereprocess.com/awards/">Website Awards</a></li>
@@ -430,13 +471,19 @@ ga('send', 'pageview');
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.dealereprocess.com/portfolio/">Portfolio</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/blog/">Blog</a></li>
-<li class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a></li>
-<li id="mobile-search">  
+<li class="megamenusmall menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12471"><a href="http://www.dealereprocess.com/company-directory/">Contact Us</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16052"><a href="http://www.dealereprocess.com/demo-signup-page/">Demo Sign Up Page</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15600"><a href="http://www.dealereprocess.com/careers/">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16053"><a href="http://www.dealereprocess.com/company-directory/">Company Directory</a></li>
+</ul>
+</li>
+<li class="lock-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://dashboard.dealereprocess.com/login/">Dealer Login</a></li>
+<li id="mobile-search">
 <form action="http://www.dealereprocess.com" method="GET">
 <input type="text" name="s" value="" placeholder="Search..">
-</form> 
-</li>		
-</ul>
+</form>
+</li>		</ul>
 </div>
 </div>
 <div id="ajax-loading-screen" data-method="ajax"><span class="loading-icon "> <span class="default-skin-loading-icon"></span> </span></div>
@@ -520,7 +567,8 @@ ga('send', 'pageview');
 </div>
 <div id="copyright-info">
 <p>© <!--?php echo date('Y') . ' ' . get_bloginfo('name'); ?-->2016. All Rights Reserved.</p>
-<img src="/wp-content/uploads/slide-digital-google-partner.png" alt="Dealer E Process is a Google Partner" id="google_logo">
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-partnersbadge" data-agency-id="9292366358"></div><br>
 <img src="/wp-content/uploads/bing_logo.png" alt="Dealer E Process is a Bing Authorized Reseller" id="bing_logo">
 </div>
 </div>
@@ -528,30 +576,28 @@ ga('send', 'pageview');
 </div>				</div><!--/span_3-->
 <div class="col span_4">
 <!-- Footer widget area 2 -->
-<div id="gform_widget-3" class="widget gform_widget"><h4>Contact Us</h4><link rel="stylesheet" id="gforms_reset_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/ee21b15f515b44c79f0f5884ddd0b6a3/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_formsmain_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/25651c13b45069506bf792615405c846/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_ready_class_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/f8833b6dc0fc3f179337669ba0cbe8c4/1465592482index.css" type="text/css" media="all">
-<link rel="stylesheet" id="gforms_browsers_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/c133d959d17ea2eeef16cb46a081fcda/1465592482index.css" type="text/css" media="all">
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.js?ver=1.9.19"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=1.9.19"></script>
+<div id="gform_widget-3" class="widget gform_widget"><h4>Contact Us</h4><link rel="stylesheet" id="gforms_reset_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/afd58bfdddebb04b7b42682eb56ce306/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_formsmain_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/b76aa6d1ca968360d1ff390041b5e5ad/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_ready_class_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/51bf7d971ffa5c37da67f1f01a087a51/1482432705index.css" type="text/css" media="all">
+<link rel="stylesheet" id="gforms_browsers_css-css" href="//www.dealereprocess.com/wp-content/cache/wpfc-minified/103cc87d445b51bda2e780016b05884d/1482432705index.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.textareaCounter.plugin.js?ver=2.1.1"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.1.1"></script>
 <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_22"><form method="post" enctype="multipart/form-data" id="gform_22" action="/privacy_policy/">
-<div class="gform_body"><ul id="gform_fields_22" class="gform_fields top_label form_sublabel_below description_below"><li id="field_22_5" class="gfield gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_5_3">Name<span class="gfield_required">*</span></label><div class="ginput_complex ginput_container no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name" id="input_22_5">
+<div class="gform_body"><ul id="gform_fields_22" class="gform_fields top_label form_sublabel_below description_below"><li id="field_22_5" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label gfield_label_before_complex" for="input_22_5_3">Name<span class="gfield_required">*</span></label><div class="ginput_complex ginput_container no_prefix has_first_name no_middle_name has_last_name no_suffix gf_name_has_2 ginput_container_name" id="input_22_5">
 <span id="input_22_5_3_container" class="name_first">
-<input type="text" name="input_5.3" id="input_22_5_3" value="" aria-label="First name" tabindex="8">
+<input type="text" name="input_5.3" id="input_22_5_3" value="" aria-label="First name" tabindex="8" aria-required="true" aria-invalid="false">
 <label for="input_22_5_3">First</label>
 </span>
 <span id="input_22_5_6_container" class="name_last">
-<input type="text" name="input_5.6" id="input_22_5_6" value="" aria-label="Last name" tabindex="9">
+<input type="text" name="input_5.6" id="input_22_5_6" value="" aria-label="Last name" tabindex="9" aria-required="true" aria-invalid="false">
 <label for="input_22_5_6">Last</label>
 </span>
 <div class="gf_clear gf_clear_complex"></div>
-</div></li><li id="field_22_2" class="gfield gf_left_half gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_2">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
+</div></li><li id="field_22_2" class="gfield gf_left_half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_22_2">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
 <input name="input_2" id="input_22_2" type="text" value="" class="medium" tabindex="10">
-</div></li><li id="field_22_4" class="gfield gf_right_half gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_4">Phone<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_phone"><input name="input_4" id="input_22_4" type="text" value="" class="medium" tabindex="11"></div></li><li id="field_22_3" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_3">Dealership</label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_22_3" type="text" value="" class="large" tabindex="12"></div></li><li id="field_22_8" class="gfield field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_8">Message</label><div class="ginput_container ginput_container_textarea">
-<textarea name="input_8" id="input_22_8" class="textarea small" tabindex="13" rows="10" cols="50"></textarea>
-</div></li><li id="field_22_7" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_7" id="input_22_7" type="hidden" class="gform_hidden" value="http://www.dealereprocess.com/privacy_policy/"></li><li id="field_22_6" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_6" id="input_22_6" type="hidden" class="gform_hidden" value=""></li><li id="field_22_9" class="gfield gform_validation_container field_sublabel_below field_description_below"><label class="gfield_label" for="input_22_9">Phone</label><div class="ginput_container"><input name="input_9" id="input_22_9" type="text" value=""></div><div class="gfield_description">This field is for validation purposes and should be left unchanged.</div></li>
+</div></li><li id="field_22_4" class="gfield gf_right_half gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_22_4">Phone<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_phone"><input name="input_4" id="input_22_4" type="text" value="" class="medium" tabindex="11" aria-required="true" aria-invalid="false"></div></li><li id="field_22_3" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_22_3">Dealership</label><div class="ginput_container ginput_container_text"><input name="input_3" id="input_22_3" type="text" value="" class="large" tabindex="12" aria-invalid="false"></div></li><li id="field_22_8" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_22_8">Message</label><div class="ginput_container ginput_container_textarea"><textarea name="input_8" id="input_22_8" class="textarea small" tabindex="13" aria-invalid="false" rows="10" cols="50"></textarea></div></li><li id="field_22_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_7" id="input_22_7" type="hidden" class="gform_hidden" aria-invalid="false" value="http://www.dealereprocess.com/privacy_policy/"></li><li id="field_22_6" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_6" id="input_22_6" type="hidden" class="gform_hidden" aria-invalid="false" value=""></li><li id="field_22_9" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_"><label class="gfield_label" for="input_22_9">Comments</label><div class="ginput_container"><input name="input_9" id="input_22_9" type="text" value=""></div><div class="gfield_description">This field is for validation purposes and should be left unchanged.</div></li>
 </ul></div>
-<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_22" class="gform_button button" value="Submit" tabindex="14" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  window[&quot;gf_submitting_22&quot;]=true;  "><!-- Begin Daddy Analytics fields --><input type="hidden" name="" value=""><input type="hidden" name="" value=""><!-- End Daddy Analytics fields --> 
+<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_22" class="gform_button button" value="Submit" tabindex="14" onclick="if(window[&quot;gf_submitting_22&quot;]){return false;}  window[&quot;gf_submitting_22&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_22&quot;]){return false;} window[&quot;gf_submitting_22&quot;]=true;  jQuery(&quot;#gform_22&quot;).trigger(&quot;submit&quot;,[true]); }"> 
 <input type="hidden" class="gform_hidden" name="is_submit_22" value="1">
 <input type="hidden" class="gform_hidden" name="gform_submit" value="22">
 <input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
@@ -561,7 +607,83 @@ ga('send', 'pageview');
 <input type="hidden" name="gform_field_values" value="">
 </div>
 </form>
-</div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 22) {jQuery('#input_22_8').textareaCount(    {    'maxCharacterSize': 500,    'originalStyle': 'ginput_counter',    'displayFormat' : '#input of #max max characters'    } );if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_22_4').mask('(999) 999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [22, 1]) } ); </script></div>				     
+</div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 22) {jQuery('#input_22_8').textareaCount(    {    'maxCharacterSize': 500,    'originalStyle': 'ginput_counter',	 'truncate': true,	 'errorStyle' : '',    'displayFormat' : '#input of #max max characters'    } );if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_22_4').mask('(999) 999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [22, 1]) } ); </script></div><div id="shortcode-widget-2" class="widget shortcode_widget">			<div class="textwidget"><!-- BPMonline Landing Page START -->
+<script src="https://webtracking-v01.bpmonline.com/JS/track-cookies.js"></script>
+<script src="https://webtracking-v01.bpmonline.com/JS/create-lead.js"></script>
+<script>
+jQuery(document).ready(function($) {
+$('form[id*="gform_22"]').each(function(index) {
+var onsubmitattr = $( this ).attr('data-onsubmit-av');
+if (typeof onsubmitattr === typeof undefined || onsubmitattr === false) {
+$( this ).submit(function(e){
+// Prepare NAME field from First and Last
+var $first = $('.gform_22_item_' + index + ' #input_22_5_3');
+var $last = $('.gform_22_item_' + index + ' #input_22_5_6');
+var $name = $first.val() + ' ' + $last.val();
+e.preventDefault();
+// Disable SUBMIT button
+var $submit_button = $( this ).find(':submit');
+$submit_button.prop('disabled', true).prop("value", "SUBMITTING...");;
+// Submit form to Wordpress via AJAX
+$.ajax({
+url     : $(this).attr('action'),
+type    : $(this).attr('method'),
+dataType: 'html',
+data    : $(this).serialize(),
+success : function( data ) {
+console.log('The gform_22_item_' + index + ' form has been submitted.');
+},
+error   : function( xhr, err ) {
+if(xhr.status == 302)
+{
+console.log('The gform_22_item_' + index + ' form has been submitted.');
+} else {
+console.log('Error occurred when gform_22_item_' + index + ' form was submitted. Returned status code: ' + xhr.status);
+}
+}
+});    
+$('<input />').attr('type', 'hidden')
+.attr('name', "input_22_name")
+.attr('id', "input_22_name")
+.attr('value', $name)
+.appendTo(this);
+// Configure field mapping
+var config = {
+fields: {
+"Name": ".gform_22_item_" + index + " #input_22_name", // Name of a visitor, submitting the page
+"Email": ".gform_22_item_" + index + " #input_22_2", // Visitor's email
+"BusinesPhone": ".gform_22_item_" + index +" #input_22_4", // Visitor's phone number
+"Account": ".gform_22_item_" + index + " #input_22_3", // Name of a company (for business landing pages)
+"Notes": ".gform_22_item_" + index + " #input_22_8", // Message
+"UsrSourceURL": ".gform_22_item_" + index + " #input_22_7", // Source page URL
+"UsrReferralURL": ".gform_22_item_" + index + " #input_22_6" // Referral URL
+},
+onError: function (jsxhr, status, error){
+console.log('Error occurred when gform_22_item_' + index + ' form was submitted to BPMonline. Returned status code: ' + jsxhr.status);
+console.log('Error: ' + error);
+// Forced redirect to Thank You page
+window.location.href = config.redirectUrl;
+},
+landingId: "9ca3c11c-66a9-41d1-9acd-c81fb1090b06",
+serviceUrl: "https://dealereprocess.bpmonline.com/0/ServiceModel/GeneratedWebFormService.svc/SaveWebFormLeadData",
+redirectUrl: "http://www.dealereprocess.com/thank-you/"
+};
+// Submit a lead to BPM'online and redirect to thank-you page
+landing.createLeadFromLanding(config);
+});
+// Marking each form corresponding class
+$( this ).addClass("gform_22_item_" + index);
+// Marking each form as processed
+$( this ).attr('data-onsubmit-av', 'true');
+}
+else {
+console.log('skip form');
+}
+});
+});
+</script>
+<!-- BPMonline Landing Page END --></div>
+</div>				     
 </div><!--/span_3-->
 <div class="col span_4">
 <!-- Footer widget area 3 -->
@@ -573,19 +695,14 @@ ga('send', 'pageview');
 <div id="top-border">
 </div>
 <div id="content">
-<p class="footer_listing">Sales:  <a href="tel:1-877-551-2555">877-551-2555</a></p>
-<p class="footer_listing">support:  <a href="tel:1-866-749-4806">866-749-4806</a></p>
-<p class="footer_listing">Main Office<br>2001 Butterfield Road, Suite 1600 <br> Downers Grove, IL 60515</p>
-<table style="width: 100%;">
-<tbody><tr>
-<td>
-<p style="font-size: 12px;">AZ Office:<br>7900 E. Greenway Road<br>Suite&nbsp;210<br>Scottsdale,&nbsp;AZ&nbsp;85260</p>
-</td>
-<td>
-<p style="font-size: 12px;">WA Office:<br>22121 17th Avenue SE<br>Suite&nbsp;E-221<br>Bothell,&nbsp;WA&nbsp;98021</p>
-</td>
-</tr>
-</tbody></table>
+<p class="footer_listing" style="font-size: 30px; line-height: 30px;"><span style="color: #0095da;">Sales:</span>  <a href="tel:1-877-551-2555">877-551-2555</a></p>
+<p class="footer_listing" style="font-size: 30px; line-height: 30px; margin-bottom: 5px;"><span style="color: #0095da;">Support:</span>  <a href="tel:1-866-749-4806">866-749-4806</a></p><p class="footer_listing"><span style="color:  #0095da;">Main Office:</span><br>701 Warrenville Road<br>Suite 300<br>Lisle, IL 60532</p>
+<p class="footer_listing"><span style="color: #0095da;">AZ Office:</span><br>
+2222 West Pinnacle Peak Road<br>
+Suite&nbsp;330<br>
+Phoenix,&nbsp;Arizona&nbsp;85027</p>
+<p class="footer_listing"><span style="color: #0095da;">WA Office:</span><br>
+22121 17th Avenue SE<br>Suite&nbsp;E-221<br>Bothell,&nbsp;WA&nbsp;98021</p>
 <div class="fl_c"></div>
 <div id="bottom-border">
 </div>
@@ -595,10 +712,10 @@ ga('send', 'pageview');
 <span class="sm-text">Follow</span><br><span class="lg-text">Us</span>
 </p>
 <div id="icons">
-<a id="linkedin" href="http://www.linkedin.com/company/dealer-e-process"></a>
-<a id="google" rel="publisher" href="https://plus.google.com/u/0/b/111115027019658015069/111115027019658015069/about"></a>
-<a id="twitter" href="https://twitter.com/dealereprocess"></a>
-<a id="facebook" href="https://www.facebook.com/dealereprocess"></a>
+<a id="linkedin" href="http://www.linkedin.com/company/dealer-e-process" target="_blank"></a>
+<a id="google" rel="publisher" href="https://plus.google.com/u/0/b/111115027019658015069/111115027019658015069/about" target="_blank"></a>
+<a id="twitter" href="https://twitter.com/dealereprocess" target="_blank"></a>
+<a id="facebook" href="https://www.facebook.com/dealereprocess" target="_blank"></a>
 </div>
 </div>
 </div></div>
@@ -626,6 +743,12 @@ ga('send', 'pageview');
 <script type="text/javascript" src="http://www.dealereprocesschat.com/Dashboard/cwgen/Company/Dealer%20e-Process/dealereprocess.com/gvars.js"></script>
 <script type="text/javascript" src="http://www.dealereprocesschat.com/Dashboard/cwgen/Company/Dealer%20e-Process/dealereprocess.com/chatwindow.js"></script>
 <script type="text/javascript" defer="defer" src="http://www.dealereprocesschat.com/Dashboard/cwgen/scripts/chatscriptyui.js"></script> 
+<script type="text/javascript">
+/* <![CDATA[ */
+var h5abPrintSettings = {"customCSS":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/print-post-and-page/js/h5ab-print.min.js?ver=4.7"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gs-logo-slider-pro/gsl-files/js/gsl.jquery.bxslider.min.js?ver=1.0.0"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/gs-logo-slider-pro/gsl-files/js/gsl.jquery.easing.1.3.js?ver=1.0.0"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
@@ -633,15 +756,18 @@ ga('send', 'pageview');
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-a11y.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-a11y.js?ver=4.7"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var uiAutocompleteL10n = {"noResults":"No search results.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate."};
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
@@ -687,28 +813,46 @@ var nectarLove = {"ajaxurl":"http:\/\/www.dealereprocess.com\/wp-admin\/admin-aj
 <script type="text/javascript" src="http://www.dealereprocess.com/wp-content/themes/salient/js/infinitescroll.js?ver=1.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1-a"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/comment-reply.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-embed.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/simplified-social-share/oss-social-sharing/assets/js/oss_share.js?ver=4.5.2"></script>
-<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialsharedefaulttheme.js?ver=4.5.2"></script>
-<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialshare.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.7"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/comment-reply.js?ver=4.7"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-includes/js/wp-embed.js?ver=4.7"></script>
+<script type="text/javascript" src="http://www.dealereprocess.com/wp-content/plugins/simplified-social-share/oss-social-sharing/assets/js/oss_share.js?ver=4.7"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialsharedefaulttheme.js?ver=4.7"></script>
+<script type="text/javascript" src="https://sharecdn.social9.com/v2/js/opensocialshare.js?ver=4.7"></script>
+<script>
+jQuery(document).ready(function($){
+sessionStorage.setItem('h5ab-print-article', '<div id="h5ab-print-content"><h1>Privacy Policy</h1>' + "<h2>Information regarding Dealer e-Process&#8217; privacy practices:<\/h2>\n<hr \/>\n<p>This document describes Dealer e-Process&#8217; policy regarding standard information collected in normal web site usage as well as information you provide when you visit our web site. The amount and type of information received depends on how you use our site.<\/p>\n<h3>Normal Web Site Usage:<\/h3>\n<p>During normal web site usage, we do not collect or store personally identifiable information such as name, mailing address, e-mail address, phone number, or social security number. You can visit Dealer e-Process&#8217; web site to read product, company, and other information. The only information we collect and store during normal web site usage is the name of your Internet service provider, the web site you last visited, the pages you request, and the date and time of those requests. We collect this information to generate statistics and measure site activity to improve the usefulness of customer visits. This information is shared only within Dealer e-Process.<\/p>\n<h3>Collection of Personal Information:<\/h3>\n<p>At times, particularly when you use one of our online services (i.e., new-car buying, used-car buying, Dealer e-Process&#8217; online credit application, etc.), Dealer e-Process may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to fill out any one of these forms. If you choose to use one of these online services, however, Dealer e-Process may require that you provide information, which may include your name, mailing address, e-mail address, social security number or other personally identifying information. When you submit personal information to Dealer e-Process, you understand and agree that Dealer e-Process may access, store, and utilize your customer profile information. We may share information about your personal information with reputable credit reporting agencies as authorized under federal and state laws, but only as lawfully permitted or required. We collect this information for a variety of reasons, including but not limited to informing you of special offers, and other products and services from Dealer e-Process.<\/p>\n<p>While we have not done so at this time, in the future we may contract with other reputable companies in our efforts to offer you additional attractive products and services. If you do not want the information you provide to Dealer e-Process to be shared with other companies, please indicate this preference when you provide the information to Dealer e-Process in the comments section. Of course, we will honor your request.<\/p>\n<p>Dealer e-Process&#8217; privacy practices are designed to provide a high level of protection for your personal information and our computer systems.<\/p>\n<h3>Interest-Based\/Online Behavioral Advertising:<\/h3>\n<p>Interest-Based\/Online Behavioral Advertising. On some pages of our site we may allow third-party advertising partners to set web tracking tools (e.g., cookies and web beacons) to collect anonymous, non-personally identifiable information regarding your activities on those pages (e.g., your IP address, page(s) visited, time of day). We may also share such information we have collected with third-party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering future targeted advertisements to you when you visit other sites within their networks. This practice is commonly referred to as &#8220;interest-based advertising&#8221; or &#8220;online behavioral advertising.&#8221;<\/p>\n<p>A &#8220;cookie&#8221; is a small text file or text identifier placed on your computer to assist us in providing customized services. We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site. For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again. We also use the information for internal research on our user&#8217;s demographics, interests, and behavior to better understand our visitor&#8217;s preferences. We may use cookies provided by Google . You have the ability to accept or decline cookies.<\/p>\n<p>You may elect to refuse cookies. Please refer to your browser Help instructions to learn more about cookies and how to manage their use<\/p>\n<hr \/>\n<p>We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. Any revisions will be posted at least 10 days prior to its effective date.<\/p>\n " + '</div>');
+$.strRemove = function(theTarget, theString) {
+return $("<div/>").append(
+$(theTarget, theString).remove().end()
+).html();
+};
+var articleStr = sessionStorage.getItem('h5ab-print-article');
+var removeArr = ['video','audio','script','iframe'];
+$.each(removeArr, function(index, value){
+var processedCode = $.strRemove(value, articleStr);
+articleStr = processedCode;
+});
+var fullPrintContent = articleStr;
+sessionStorage.setItem('h5ab-print-article', fullPrintContent);
+});
+</script>
 <script type="text/javascript">
 var shareWidget = new OpenSocialShare();
 shareWidget.init({
-isEmailContentReadOnly:false,isTotalShare:true,isMobileFriendly:true,isShortenUrl:true,isOpenSingleWindow:false,                 
+isEmailContentReadOnly:false,isTotalShare:false,isMobileFriendly:true,isShortenUrl:true,isOpenSingleWindow:false,                 
 isCounterWidgetTheme: 0, // 0 or 1 - standard themes or counter widget themes
 isHorizontalCounter: 0, // 0 or 1 - counter on top or counter to right - counter themes only
 isHorizontalLayout: 1, // 0 or 1 - vertical layout or horizontal layout
 widgetIconSize: "32", // "16" or "32" - 16px or 32px standard themes only
 widgetStyle: "square", //"image", "square" or "responsive" - standard themes only
 providers: {
-top: ["Facebook","Twitter","LinkedIn","GooglePlus","Pinterest","Email","Print"]
+top: ["Facebook","Twitter","LinkedIn","GooglePlus","Pinterest","Email"]
 },
 widgets: {
 //all : _private.getAllButtonName(_private.widgetConfig),
