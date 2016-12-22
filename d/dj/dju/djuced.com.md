@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djuced.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526100032id_/http%3A//www.djuced.com/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djuced.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222172155id_/http%3A//www.djuced.com/en/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Djuced - Boost Your Mix
 
