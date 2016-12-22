@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513183325id_/http%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massey.ac.nz privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222090642id_/http%3A//www.massey.ac.nz/massey/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Massey University
 
@@ -6,7 +6,7 @@ Massey University will collect, use, store, and disclose personal information r
 
 Information will be stored on University files and database(s) and all reasonable security measures will be maintained.  A unique identifier will be assigned to each student, which will be used in conjunction with a secondary means of identification or password/PIN.
 
-Staff members and other personnel within the University or within agencies under contract to the University will have access to students’ personal information for purposes relevant to normal university operations including but not limited to: admission, enrolment, study, academic progress, tuition fees and charges, establishing and maintaining academic and graduation records, assessment, academic agreements (exchange/ study abroad partners, scholarship providers or sponsors, programme delivery partners), academic advice & support, student services, discipline, security and safety, Library and IT services, managing students’ association(s) membership and records, managing records of graduates, and other alumni, and managing and improving the quality of services provided by the University.
+Staff members and other personnel within the University or within agencies under contract to the University will have access to students’ personal information for purposes relevant to normal university operations including but not limited to: student recruitment, marketing, admission, enrolment, study, academic progress, tuition fees and charges, establishing and maintaining academic and graduation records, assessment, academic agreements (exchange/ study abroad partners, scholarship providers or sponsors, programme delivery partners), academic advice & support, student services, discipline, security and safety, Library and IT services, managing students’ association(s) membership and records, managing records of graduates, and other alumni, and managing and improving the quality of services provided by the University.
 
 In order to conduct its proper business and as required under the Education Act 1989 and other laws, regulations, and contractual agreements by which it is bound, the University may use the student information it holds and may disclose information to external agencies such as government departments, bodies responsible for course moderation and professional accreditation or membership, agencies for financial support and pastoral care, and university student and alumni associations.
 
@@ -35,34 +35,28 @@ This privacy statement operates in conjunction with any other privacy statement.
 
 ## Website privacy
 
-Massey University is committed to safeguarding personal information in accordance with the Privacy Act 1993. More information on the University’s protection of the privacy of personal information is available at http://privacy.massey.ac.nz and in the University Calendar.
+The University uses a number of tools and mechanisms to record the following non-identifying information in relation to website users:
 
-###   
-Non-personal information
-
-The University uses Google Analytics, Nielsen/NetRatings and server logs to record any of the following information for statistical purposes:
-
-  * Browser's internet address
-  * Your internet server's address
-  * Your domain name
-  * Your IP address
-  * The date and time you accessed our web site
-  * The pages you accessed and the documents you downloaded
-  * The previous site you visited
-  * The type of web browser software you used
+  * The internet address of the browser being used
+  * The user’s  internet server address
+  * The user’s domain name
+  * The IP address of the user
+  * The date, time and duration of the user’s visit to our web site
+  * The pages accessed and the documents the user downloaded
+  * The previous site the user visited
+  * The type of web browser software used
 
 
 
-The University uses this information to anonymously aggregate website statistics and measure traffic patterns to, from, and within this website to help us better understand our website audience.
+The University uses this information to: aggregate website statistics and measure traffic patterns to, from, and within this site; help us to better understand our website audience; improve our services to students, and; for targeted marketing and student recruitment purposes.
 
-### Cookies
+A cookie is a small text file which has a limited lifetime. Information supplied by cookies helps us to understand our visitors and how they use our site, and provides users with a better experience. The Massey University website uses first-party and third-party cookies in the following ways:
 
-A cookie is a small text file that is written to your computer's hard drive. When accessing our website you might be asked to provide some information, for example when visiting an access-controlled web page. The cookie allows the university's web server to remember something about you without you having to remind it of your particular preferences each time you return to the website. We use first-party and third-party cookies on the Massey website.
+  1. to personalise your visit to the Massey website
+  2. to provide information about Massey to you throughout your browsing experience
+  3. to obtain non-identifying information about your demographic group and general interests
+  4. to serve ads based on your past visits to our site
 
-### Display advertising
 
-The University uses Google Analytics features based on Display Advertising (remarketing and Google Analytics demographics and interest reporting). These features use first-party and third-party cookies to inform, optimise and serve ads based on your past visits to our site.
 
-This allows us to report on demographics to understand our site audience, and display ads that relate to products and services you have viewed on our site as you browse third party sites on the Google Display Network using remarketing.
-
-You can choose to opt out of customised Google Display Network ads and Google Analytics for display advertising at any time by changing your [ad settings](https://www.google.com/settings/ads). You can also use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) so your visits are not tracked into Google Analytics.
+You can choose to opt out of Google Analytics for at any time by changing your ad settings. You can also use the [Google Analytics opt-out browser add-on](https://www.google.co.nz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwijxuOgwZfOAhUDnZQKHfQRBDgQFggcMAA&url=https%3A%2F%2Ftools.google.com%2Fdlpage%2Fgaoptout&usg=AFQjCNHh5arlOofF-S6wRjMlYvpwtFbofQ&sig2=uDsGC9CF7BNV8yPFeaeEyA) so your visits are not tracked into Google Analytics.
