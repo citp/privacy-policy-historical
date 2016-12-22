@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maldita.us privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519082822id_/http%3A//www.maldita.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maldita.us privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222163338id_/http%3A//www.maldita.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maldita™
 
