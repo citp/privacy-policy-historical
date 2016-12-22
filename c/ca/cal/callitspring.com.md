@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callitspring.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613131430id_/http%3A//www.callitspring.com/us/en_US/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callitspring.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222122108id_/http%3A//www.callitspring.com/us/en_US/privacyPolicy) for the most accurate reproduction.*
 
 # Call it Spring | Shoes, Boots, Sandals, Handbags & Accessories
 
