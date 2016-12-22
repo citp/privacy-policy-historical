@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zip-codes.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603164345id_/http%3A//www.zip-codes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zip-codes.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045520id_/http%3A//www.zip-codes.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
