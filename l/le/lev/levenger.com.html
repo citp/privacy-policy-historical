@@ -1,11 +1,30 @@
-<!--The following is the downloaded HTML source of the levenger.com privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618131833id_/http%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the levenger.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222233636id_/http%3A//www.levenger.com/users/SecurityPrivacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_header"><meta http-equiv="X-UA-Compatible" content="IE=10"><link href="/jqueryUI/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"><link href="/CSS/chatInviteWindow.css" rel="stylesheet" type="text/css"><link href="/CSS/main.css?v=1" rel="stylesheet" type="text/css"><link href="/CSS/new_site.css?v=3" rel="stylesheet" type="text/css"><link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_header"><meta http-equiv="X-UA-Compatible" content="IE=10"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="/css/bootstrap.min.css"><link rel="stylesheet" href="/css/style.css"><link rel="stylesheet" href="/css/main.css"><link rel="stylesheet" href="/css/font-awesome.min.css"><link href="https://fonts.googleapis.com/css?family=Lato&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"><link href="/CSS/chatInviteWindow.css" rel="stylesheet" type="text/css"><link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+    <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <link href="/EmailSignup/css.css?v=2" rel="stylesheet" type="text/css">
 
-	<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/jqueryUI/js/jquery.min.js" type="text/javascript"></script>
-	<script src="/jqueryUI/js/jquery-ui.min.js" type="text/javascript"></script>
+    
+    
+    
 	<script src="/jqueryUI/js/jquery.validate.js" type="text/javascript"></script>
+    <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/public.js" type="text/javascript"></script>
+    <script src="/js/oka_slider_model.js" type="text/javascript"></script>
+    <script src="/javascript/default.js?v=1" type="text/javascript"></script>
+    <script src="/javascript/imageSlider.js" type="text/javascript"></script>
+    <script src="/javascript/navigation.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(function (i) {
+            $('.slider_model').oka_slider_model({
+                'type': 0
+            });
+        })
+    </script>
+
 	<script src="/javascript/Analytics/Tracking.js?v=1" type="text/javascript" language="javascript"></script>
 	<script src="/javascript/Analytics/Google.js?v=2" type="text/javascript" language="javascript"></script>
 	<script src="http://cdn.optimizely.com/js/305348970.js" type="text/javascript"></script>
@@ -13,7 +32,7 @@
 	<script type="text/javascript">
 
 	    $(function () {
-	        $("input[id*='searchtextfield']").Watermark(" What can we help you find?");
+	        //$("input[id*='searchtextfield']").Watermark(" What can we help you find?");
 	        $("#signupemailtextfield").Watermark(" Enter Email Address Here");
 	        $("input[id*='searchtextfield']").autocomplete({
 	            source: function (request, response) {
@@ -32,8 +51,27 @@
 	            },
 	            minLength: 1
 	        });
-	    });
-    
+
+	        $("input[id*='searchtextfield']").on('autocompleteselect', function (e, ui) {
+
+	            var expires = new Date();
+	            expires.setTime(expires.getTime() + (60 * 60 * 1000));
+	            document.cookie = "search=Query='" + encodeURIComponent(ui.item.value) + "';expires=" + expires.toUTCString()+";path=/";
+
+	            $(location).attr("href", "/Search/SearchResult.aspx?search=" + encodeURIComponent(ui.item.value));
+	        });
+
+	        $("input[id*='searchtextfield']").keyup(function (e) {
+	            if (e.keyCode == 13) {
+	                var expires = new Date();
+	                expires.setTime(expires.getTime() + (60 * 60 * 1000));
+	                document.cookie = "search=Query='" + encodeURIComponent(this.value) + "';expires=" + expires.toUTCString()+";path=/";
+	              //  alert(this.value);
+	                $(location).attr("href", "/Search/SearchResult.aspx");
+	            }
+	        });
+
+	    });   
 	</script>
 	<script type="text/javascript">
 	    ifSubmitDefaultButton = true;
@@ -127,34 +165,69 @@
 	    }
 
 	</script>
+
+
+
 	
         
 
 
-
+<link rel="stylesheet" href="/css/responsive.css">
 
     <script type="text/javascript">
-
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
                 (i[r].q = i[r].q || []).push(arguments)
             }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', GoogleSiteID, 'auto');
+        ga('create', 'UA-11210491-2', 'auto');
         ga('send', 'pageview');
 
-    </script>
+    </script> 
+
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        } (window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '569339389912442');
+        fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=569339389912442&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code --> 
+
 
 <title>
 	Security &amp; Privacy - Levenger
-</title><script src="https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/init_super_tag.js"></script></head>
+</title></head>
 
 <body id="ctl00_ctl00_pageBody">
-
-      <link href="/EmailSignup/css.css?v=1" rel="stylesheet" type="text/css">
-      
+    <div>
+        <div class="cart">
+          <div class="cart-head clearfix">
+            <a href="javascript:void(0)" class="cart-close"><i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+            <span>Your Shopping Bag</span>
+          </div>  
+            <div id="Shoppingcart"></div>
+           
+        </div>
+     </div>
+    <script type="text/javascript">
+        loadShoppingcart(false);        
+    </script>
+      <div id="emailSignupForm" style="display: none;padding:0px;margin:0px">
+	  </div>
       <script type="text/javascript">
           function processResponseForSignupEmail(data) {
               $("#emailSignupForm").html(data);
@@ -163,12 +236,11 @@
           $("#emailSignupForm").dialog({
               autoOpen: false,
               resizable: false,
-              height: 240,
-              width: 500,
+              height: 200,
+              width: 320,
               modal: true,
               dialogClass: 'noTitleStuff'
           });
-
           function submitEmailForm() {
               var message = ""
               var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
@@ -190,539 +262,601 @@
           function closeEmailForm() {
               $("#emailSignupForm").dialog("close")
           }
-      </script><div class="ui-dialog ui-widget ui-widget-content ui-corner-all noTitleStuff ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-emailSignupForm" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-emailSignupForm">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="emailSignupForm" style="padding: 0px; margin: 0px;" class="ui-dialog-content ui-widget-content">
-	  </div></div>
+      </script>
 
 	<script type="text/javascript">
 	    AnalyticsPage = '/users/SecurityPrivacy.aspx';
 	</script>
 	<form name="aspnetForm" method="post" action="SecurityPrivacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZXKODZgW13udzTKteL0RkrsGjfNovKQBbKaRiK4rckHktzuejYvcO7N4aHBx8D8/MFf4YmP6EhwnDPDUgWzYIijUj68oOGWaldqSnwLHdDqo5jalCU5XebCEjFTbEU0WMHIuAC+xGxqf+olEy78q3UlTCkPyT5NQfqj4KZpv+L9IxX+nj+rXi01/Xyb5yPlsmutDqkSP8PKYndcBX1gCybeBUeYVaa4tbdfX39VR8t478Rja8XktCrJYqcrp25/bYB72KXe47ZvR9ISK+sfZ/SFZw+9UCaOvCDQyUIt1tEpoJuDkQZKQUDj0MaXDhGp2LruY2R0biOZ10xY7A/tCShg5zYwPyYwzO6vjsshyUA/N89/68sNtPuDqugvUOxZRAz1SUIiC7jyTu1RLX84kV/epR8RA9KwOpQ20lmnpg6pkwQJgymXLzOY5CMPw6GfVDK6xUcfNDgyXbWoCsE5AtT0NVEDmv6G7WK4+kT/1W4Mz6mWkfA0Q4G13nYQq/I0nIFVtIh7AmDNtEj7gnmpT6c2vHw5JB+thLMy/2oWfhtXq+L8iglRi+1xNfIgipzIMUrIM0WBqLNA8XTbIFnPwL8NaRy3n8ksF+6CZ5EHYrRk0uuhgfys7fTWng3SafyiUqszidw==">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Ww7eh0q1/j07VUwELf1uU6DUKPfaYpREiPLAORYeIdNsPTbtKSokeNCvf08osOSvG6tQJn6TJnzvW61Jek5Ssr5gEvpalN61qiNRAYmouYqivHOG63g+hi1wFMk8FdewL+oFr5XCFwSfvQNzWg6zXRMHMiHPkWgd4FxWiq4l6kqSbu1EL5+A+m06yxjwxTluWgkqZXfXJZ7AJYS4SWp45hni5j1+XVeEScl5h2ht7/s4i3n//JBRwZ/0p+kE7+qZWJL2j1b0Ot4lCyZJfT2YR+fYA6kuhVVBfEgfFNeFJRy3Gn2q11Vr2xi7Ve6MxbEUdUW5+VCXHROzR83gfCmsmBd4Mm9TeDPHQXX+nuiSjitlDewvCowvmfRQ0PF3/sbQN8dUpZgxxRo/X7+QqnErYQ0icNVicDstzAtlbyv4Yp0x3CcmqeXYA31xXp1GeJLRydIOnBrcduZSefqE/zifr4ORpU4=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=4hpicsCA-PsHvhE0v9pJ7ibkMkVso45M_Oq4AGgBAYzdrHVvQNWJiDr8xEhM-ho6iJ6A4CPLSs_STMfaVMB_pr_cGeO1NuplcFsYpExUakVYFfaUIrMRO9J3N5qJOY08dNZmI3vwUkyc5OAgS63a6WcM9c6VrhP2-oX2nB_qaNWNupIc0&amp;t=ca758f3" type="text/javascript"></script>
-<script src="../javascript/default.js" type="text/javascript"></script>
-<script src="../javascript/imageSlider.js" type="text/javascript"></script>
-<script src="../javascript/navigation.js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ftYW4R0kx6owFmvtZb9Or7AK1FVMlvOylsuyywmzQn7OK8ZTJijkUFTeyw9P7XMLfgopbRE9Ua6jNdttfqrnUvB1TyOVYI/UHmavHxY3G6VJ8bkrUcaymsNKKFiDROaKSQ6ihfwwl4Zu9s9LOisoggnlg29d3nKI9ow5NFGk+uTmPoPj1vagOXQuW6ZsEBUiERhAPSffPqaojRA6oM8NOGVig4M=">
+<script src="/WebResource.axd?d=BDH6IxAJLHy_lEq-KKNWxZZQsv1axpz2FDPUhP-BmlmKJ9X06d8HmoGTphCX_pr5Fz8RNqOpyzLZDF91neNw-CbBdC81&amp;t=635589255571259667" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=4hpicsCA-PsHvhE0v9pJ7ibkMkVso45M_Oq4AGgBAYzdrHVvQNWJiDr8xEhM-ho6iJ6A4CPLSs_STMfaVMB_pr_cGeO1NuplcFsYpExUakVYFfaUIrMRO9J3N5qJOY08dNZmI3vwUkyc5OAgS63a6WcM9c6VrhP2-oX2nB_qaNWNupIc0&amp;t=ffffffff805766b3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fnMzMNbs2Ymqb9QM1wDVSV3ZYvzoNyK2w_uI3D_gu6l4C3nHzwkG3vom9jUxBI8k6vPv2pir7pA2swaV0KoB7AFhVy3JyvAGalgHVidIGAbNlJzwZmoUUvQzw2uAahAjB92O3gEVS0XbDc1ZnrUZcB-dh0RMxqw7UYyMVqhrWd8xIIvu0&amp;t=ffffffff805766b3" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="571A46DF">
+</div>
     
-	
-        
-   <div class="header">
-   <div class="inner">
+            <script type="text/javascript">
+                  $.get("/EmailSignUp/EmailSignup.ashx", processResponseForSignupEmail);
+                  if(window.innerWidth > 766){
+                  $("#emailSignupForm").dialog("open");   }         
+            </script>
+	<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
 
-            	
-                    <div class="topmenu">
-  <ul>
-    <li class="first">
-      <a href="/users/EList.aspx" onclick="AddLinkClickTrack(&quot;/users/EList.aspx&quot;);">EMAIL SIGN-UP</a>
-    </li>
-    <li class="sencond">
-      <a href="/WHAT-S-NEW-12.aspx" onclick="AddLinkClickTrack(&quot;/WHAT-S-NEW-12.aspx&quot;);">WHAT'S NEW</a>
-    </li>
-    <li class="fourth">
-      <a href="/Gift-Guide-351/CUSTOMER-FAVORITES-924.aspx" onclick="AddLinkClickTrack(&quot;/Gift-Guide-351/CUSTOMER-FAVORITES-924.aspx&quot;);">CUSTOMER FAVORITES</a>
-    </li>
-    <li class="third">
-      <a href="/navigation/gift-shoppers-guide.aspx" onclick="AddLinkClickTrack(&quot;/navigation/gift-shoppers-guide.aspx&quot;);">GIFT GUIDE</a>
-    </li>
-    <li class="fifth">
-      <a href="/OUTLET-9.aspx" onclick="AddLinkClickTrack(&quot;/OUTLET-9.aspx&quot;);">OUTLET</a>
-    </li>
-  </ul>
-</div>
-                
-           
-            <div class="clear"></div>
-            <div class="headermiddle">
-                <div class="logo"><a href="../" id="ctl00_ctl00_lnkLogo"><img src="../images/logo.jpg" id="ctl00_ctl00_Img1" alt="levenger.com"></a></div>
-                <div class="headerright">
-                <table width="100%" border="0">
-                  <tbody><tr>                   
-                    <td rowspan="2">
-                    	<div class="search">
-                        	<input name="ctl00$ctl00$searchtextfield" type="text" maxlength="100" id="ctl00_ctl00_searchtextfield" class="inputtext watermarkOn ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                            <input type="submit" name="ctl00$ctl00$btnSearch" value="SEARCH" onclick="if(!ifSubmitDefaultButton) return false;AddLinkClickTrack('/search/SearchResult.aspx');" id="ctl00_ctl00_btnSearch" class="search_btn">
-                        </div>
-                    </td>
-                    <td><div class="mininav"><a href="/Customers/LoginThankYou.aspx" onclick="AddLinkClickTrack('/users/login.aspx');">My Account</a><a href="/ViewShoppingCart.aspx" onclick="AddLinkClickTrack('/ViewShoppingCart.aspx');">Checkout</a><a>800-544-0880</a></div></td>
-                  </tr>
-                  <tr>
-                    <td><div class="shopbag">
-                    <a href="/ViewShoppingCart.aspx" id="ctl00_ctl00_idCart" onclick="AddLinkClickTrack('/ViewShoppingCart.aspx');">
-                    <span style="font-weight:normal;">Bag&nbsp;&nbsp;</span><span style="color:#6c1821;  font-weight:bold;">0</span> <span style="font-weight:normal;">&nbsp;items&nbsp;</span> |&nbsp;&nbsp;<span style="color:#6c1821;  font-weight:bold;">$0.00</span>
-                        </a>
-                    </div>
-                    </td>
-                  </tr>
-                </tbody></table>
-                
+  
+<div class="container-fluid CatalogNavigationPage">
+    <!--header-->
+    <div class="header">
+         <div class="row pc-cus">
+             <div class="col-lg-4 col-md-4  col-sm-12 col-xs-6">
+                 <div class="search" style="position:relative">
+                           <input type="submit" name="ctl00$ctl00$btnSearch" value="SEARCH" onclick="if(!ifSubmitDefaultButton) return false;AddLinkClickTrack('/search/SearchResult.aspx');" id="ctl00_ctl00_btnSearch" class="btn">
+                       	   <input name="ctl00$ctl00$searchtextfield" type="text" maxlength="100" id="ctl00_ctl00_searchtextfield" class="txt" placeholder="Search"> 
+                 </div>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                 <div class="h-img"><a href="/"><img src="../images/M-2.png" class="img-responsive logo" alt="Levenger logo"></a></div>
+             </div>
+             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                 <div class="h-email">
+                     <div class="email">
+                        <span class="detail1"> 
+                            <a href="/users/EList.aspx" onclick="AddLinkClickTrack(&quot;/users/EList.aspx&quot;);">EMAIL SIGN-UP</a>
+                        </span>
+                        <span class="detail2"><a href="/Customers/LoginThankYou.aspx" onclick="AddLinkClickTrack('/users/login.aspx');">MY ACCOUNT</a></span>
+                     </div>
+                     <div class="top-car" id="shopcart-navigation"><span>0</span></div>
+                     <a class="top-car" href="/ViewShoppingcart.aspx"><span>0</span></a>
+                 </div>
+             </div>
+         </div>
+        <div class="row phone">
+            <div class="col-xs-2"><a href="javascript:void(0)"><img src="/images/p_1.jpg" id="menu" class="img-responsive"></a> </div>
+            <div class="col-xs-8">
+                <div class="mobile-logo">
+                    <a href="/"><img src="/images/F_3.jpg" class="img-responsive margin-middle"></a>
                 </div>
-
             </div>
-            <div class="clear"></div>
+            <div class="col-xs-2"><div id="cart-phone" class="top-car"><span>0</span></div>
+            <a class="top-car" href="/ViewShoppingcart.aspx"><span>0</span></a></div>
+            <div class="col-xs-12">
+                <div class="search" style="position:relative">
+                <input type="submit" name="ctl00$ctl00$btnSearch2" value="SEARCH2" onclick="if(!ifSubmitDefaultButton) return false;AddLinkClickTrack('/search/SearchResult.aspx');" id="ctl00_ctl00_btnSearch2" class="btn">
+                <input name="ctl00$ctl00$searchtextfield2" type="text" maxlength="100" id="ctl00_ctl00_searchtextfield2" class="txt" placeholder="Search"> 
+                </div>
+            </div>
+        </div>
+    </div>
 
-            <div class="navigation" id="idTopNav" style="z-index:100">
+    <!--header-->  
+    <div id="ctl00_ctl00_ValidationSummary1" style="color:Red;display:none;">
+
+</div>
+
+	
+    <div class="topMenu">
+        <div class="nav">
+  <div class="nav-top">
+    <div class="top-back">
+      <i class="fa fa-chevron-left" aria-hidden="true">
+      </i>
+    </div>
+    <div class="middle">
+      <a href="/users/EList.aspx" onclick="AddLinkClickTrack(&quot;/users/EList.aspx&quot;);">EMAIL SIGN-UP</a>
+    </div>
+    <div class="right">
+      <a href="/Customers/LoginThankYou.aspx" onclick="AddLinkClickTrack('/users/login.aspx');">MY ACCOUNT</a>
+    </div>
+  </div>
   <ul>
     <li>
-      <a href="http://www.levenger.com/BAGS-11.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11.aspx&quot;);">BAGS</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/BAGS-11/WOMEN-S-BAGS-1001.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/WOMEN-S-BAGS-1001.aspx&quot;);">WOMEN'S BAGS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BAGS-11/MEN-S-BAGS-994.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/MEN-S-BAGS-994.aspx&quot;);">MEN'S BAGS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BAGS-11/LAPTOP-TECH-BAGS-668.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/LAPTOP-TECH-BAGS-668.aspx&quot;);">LAPTOP/TECH BAGS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BAGS-11/COLLECTIONS-22508.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/COLLECTIONS-22508.aspx&quot;);">COLLECTIONS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/BAGS-11.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11.aspx&quot;);" class="TopCategory">BAGS</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/BAGS-11/WOMEN-S-BAGS-1001.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/WOMEN-S-BAGS-1001.aspx&quot;);">WOMEN'S BAGS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BAGS-11/MEN-S-BAGS-994.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/MEN-S-BAGS-994.aspx&quot;);">MEN'S BAGS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BAGS-11/LAPTOP-TECH-BAGS-668.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/LAPTOP-TECH-BAGS-668.aspx&quot;);">LAPTOP/TECH BAGS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BAGS-11/TRAVEL-BAGS-22577.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/TRAVEL-BAGS-22577.aspx&quot;);">TRAVEL BAGS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BAGS-11/COLLECTIONS-22508.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BAGS-11/COLLECTIONS-22508.aspx&quot;);">COLLECTIONS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/PENS---REFILLS-8.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8.aspx&quot;);">PENS &amp; REFILLS</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/FOUNTAIN-PENS-831.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/FOUNTAIN-PENS-831.aspx&quot;);">FOUNTAIN PENS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/ROLLERBALL-PENS-830.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/ROLLERBALL-PENS-830.aspx&quot;);">ROLLERBALL PENS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/BALLPOINT-PENS-829.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/BALLPOINT-PENS-829.aspx&quot;);">BALLPOINT PENS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/STYLUS-PENS-957.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/STYLUS-PENS-957.aspx&quot;);">STYLUS PENS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/PENCILS-911.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/PENCILS-911.aspx&quot;);">PENCILS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/PEN-CASES---STANDS-92.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/PEN-CASES---STANDS-92.aspx&quot;);">PEN CASES &amp; STANDS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/catalog/PenRefill.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/catalog/PenRefill.aspx&quot;);">INKS &amp; REFILLS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PENS---REFILLS-8/SHOP-BY-BRAND-34.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/SHOP-BY-BRAND-34.aspx&quot;);">SHOP BY BRAND</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/PENS---REFILLS-8.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8.aspx&quot;);" class="TopCategory">PENS &amp; REFILLS</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/FOUNTAIN-PENS-831.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/FOUNTAIN-PENS-831.aspx&quot;);">FOUNTAIN PENS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/ROLLERBALL-PENS-830.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/ROLLERBALL-PENS-830.aspx&quot;);">ROLLERBALL PENS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/BALLPOINT-PENS-829.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/BALLPOINT-PENS-829.aspx&quot;);">BALLPOINT PENS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/STYLUS-PENS-957.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/STYLUS-PENS-957.aspx&quot;);">STYLUS PENS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/PENCILS-911.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/PENCILS-911.aspx&quot;);">PENCILS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/PEN-CASES---STANDS-92.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/PEN-CASES---STANDS-92.aspx&quot;);">PEN CASES &amp; STANDS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/catalog/PenRefill.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/catalog/PenRefill.aspx&quot;);">INKS &amp; REFILLS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PENS---REFILLS-8/SHOP-BY-BRAND-34.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PENS---REFILLS-8/SHOP-BY-BRAND-34.aspx&quot;);">SHOP BY BRAND</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/FOLIOS-579.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579.aspx&quot;);">FOLIOS</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/FOLIOS-579/FOLIOS-302.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/FOLIOS-302.aspx&quot;);">FOLIOS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FOLIOS-579/BRIEFOLIOS-307.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/BRIEFOLIOS-307.aspx&quot;);">BRIEFOLIOS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FOLIOS-579/POCKET-BRIEFCASES-304.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/POCKET-BRIEFCASES-304.aspx&quot;);">POCKET BRIEFCASES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FOLIOS-579/JOURNALS---DIARIES-301.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/JOURNALS---DIARIES-301.aspx&quot;);">JOURNALS &amp; DIARIES</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/FOLIOS-579.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579.aspx&quot;);" class="TopCategory">FOLIOS</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/FOLIOS-579/FOLIOS-302.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/FOLIOS-302.aspx&quot;);">FOLIOS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FOLIOS-579/BRIEFOLIOS-307.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/BRIEFOLIOS-307.aspx&quot;);">BRIEFOLIOS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FOLIOS-579/POCKET-BRIEFCASES-304.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/POCKET-BRIEFCASES-304.aspx&quot;);">POCKET BRIEFCASES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FOLIOS-579/JOURNALS---DIARIES-301.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FOLIOS-579/JOURNALS---DIARIES-301.aspx&quot;);">JOURNALS DIARIES</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/PAPER-322.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322.aspx&quot;);">PAPER</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/REFILLS-20584.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/REFILLS-20584.aspx&quot;);">REFILLS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/NOTEBOOKS-684.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTEBOOKS-684.aspx&quot;);">NOTEBOOKS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/NOTEPADS-323.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTEPADS-323.aspx&quot;);">NOTEPADS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/NOTE-CARDS-20583.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTE-CARDS-20583.aspx&quot;);">NOTE CARDS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/PLANNERS---AGENDAS-523.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/PLANNERS---AGENDAS-523.aspx&quot;);">PLANNERS &amp; AGENDAS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/PAPER-322/COLORING-BOOKS-22544.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/COLORING-BOOKS-22544.aspx&quot;);">COLORING BOOKS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/PAPER-322.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322.aspx&quot;);" class="TopCategory">PAPER</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/REFILLS-20584.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/REFILLS-20584.aspx&quot;);">REFILLS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/NOTEBOOKS-684.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTEBOOKS-684.aspx&quot;);">NOTEBOOKS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/NOTEPADS-323.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTEPADS-323.aspx&quot;);">NOTEPADS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/NOTE-CARDS-20583.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/NOTE-CARDS-20583.aspx&quot;);">NOTE CARDS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/PLANNERS---AGENDAS-523.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/PLANNERS---AGENDAS-523.aspx&quot;);">PLANNERS &amp; AGENDAS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/PAPER-322/COLORING---PUZZLE-BOOKS-22544.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/PAPER-322/COLORING---PUZZLE-BOOKS-22544.aspx&quot;);">COLORING &amp; PUZZLE BOOKS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/TECH-1262.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262.aspx&quot;);">TECH</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/PHONE-22517.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/PHONE-22517.aspx&quot;);">PHONE</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/TABLET-22493.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/TABLET-22493.aspx&quot;);">TABLET</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/LAPTOP-TECH-BAGS-22518.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/LAPTOP-TECH-BAGS-22518.aspx&quot;);">LAPTOP/TECH BAGS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/ELECTRONICS-CASES-22519.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/ELECTRONICS-CASES-22519.aspx&quot;);">ELECTRONICS CASES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/TECH-STANDS-BOOKSTANDS-22520.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/TECH-STANDS-BOOKSTANDS-22520.aspx&quot;);">TECH STANDS/BOOKSTANDS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/TECH-1262/APPLE-PRODUCTS-22496.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/APPLE-PRODUCTS-22496.aspx&quot;);">APPLE PRODUCTS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/TECH-1262.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262.aspx&quot;);" class="TopCategory">TECH</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/PHONE-22517.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/PHONE-22517.aspx&quot;);">PHONE</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/TABLET-22493.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/TABLET-22493.aspx&quot;);">TABLET</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/LAPTOP-TECH-BAGS-22518.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/LAPTOP-TECH-BAGS-22518.aspx&quot;);">LAPTOP/TECH BAGS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/ELECTRONICS-CASES-22519.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/ELECTRONICS-CASES-22519.aspx&quot;);">ELECTRONICS CASES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/TECH-STANDS-BOOKSTANDS-22520.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/TECH-STANDS-BOOKSTANDS-22520.aspx&quot;);">TECH STANDS/BOOKSTANDS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/APPLE-PRODUCTS-22496.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/APPLE-PRODUCTS-22496.aspx&quot;);">APPLE PRODUCTS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/TECH-1262/TECH-GADGETS-22591.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/TECH-1262/TECH-GADGETS-22591.aspx&quot;);">TECH GADGETS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/ACCESSORIES-15.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15.aspx&quot;);">ACCESSORIES</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/WALLETS-1260.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/WALLETS-1260.aspx&quot;);">WALLETS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/CARD-WALLETS-403.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/CARD-WALLETS-403.aspx&quot;);">CARD WALLETS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/TRAVEL-837.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/TRAVEL-837.aspx&quot;);">TRAVEL</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/PHONE-20639.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/PHONE-20639.aspx&quot;);">PHONE</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/POCKET-BRIEFCASES-765.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/POCKET-BRIEFCASES-765.aspx&quot;);">POCKET BRIEFCASES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/EYEGLASS-CASES-100.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/EYEGLASS-CASES-100.aspx&quot;);">EYEGLASS CASES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/ELECTRONICS-CASES-103.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/ELECTRONICS-CASES-103.aspx&quot;);">ELECTRONICS CASES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/FOR-SPORTS-FANS-22534.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/FOR-SPORTS-FANS-22534.aspx&quot;);">FOR SPORTS FANS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/ACCESSORIES-15/COLLECTIONS-22540.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/COLLECTIONS-22540.aspx&quot;);">COLLECTIONS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/ACCESSORIES-15.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15.aspx&quot;);" class="TopCategory">ACCESSORIES</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/WALLETS-1260.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/WALLETS-1260.aspx&quot;);">WALLETS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/CARD-WALLETS-403.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/CARD-WALLETS-403.aspx&quot;);">CARD WALLETS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/TRAVEL-837.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/TRAVEL-837.aspx&quot;);">TRAVEL</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/RFID-PROTECTION-22578.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/RFID-PROTECTION-22578.aspx&quot;);">RFID PROTECTION</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/PHONE-20639.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/PHONE-20639.aspx&quot;);">PHONE</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/POCKET-BRIEFCASES-765.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/POCKET-BRIEFCASES-765.aspx&quot;);">POCKET BRIEFCASES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/EYEGLASS-CASES-100.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/EYEGLASS-CASES-100.aspx&quot;);">EYEGLASS CASES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/ELECTRONICS-CASES-103.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/ELECTRONICS-CASES-103.aspx&quot;);">ELECTRONICS CASES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/FOR-SPORTS-FANS-22534.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/FOR-SPORTS-FANS-22534.aspx&quot;);">FOR SPORTS FANS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/ACCESSORIES-15/COLLECTIONS-22540.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/ACCESSORIES-15/COLLECTIONS-22540.aspx&quot;);">COLLECTIONS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/DESKTOP-22554.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554.aspx&quot;);">DESKTOP</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/DESKTOP-ORGANIZERS-22555.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESKTOP-ORGANIZERS-22555.aspx&quot;);">DESKTOP ORGANIZERS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/TECH-STANDS-BOOKSTANDS-22556.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/TECH-STANDS-BOOKSTANDS-22556.aspx&quot;);">TECH STANDS/BOOKSTANDS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/PEN-CASES---STANDS-22557.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/PEN-CASES---STANDS-22557.aspx&quot;);">PEN CASES &amp; STANDS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/DESK-SETS---PADS-22558.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESK-SETS---PADS-22558.aspx&quot;);">DESK SETS &amp; PADS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/DESKTOP-SUPPLIES-22559.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESKTOP-SUPPLIES-22559.aspx&quot;);">DESKTOP SUPPLIES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/BOOKENDS---PAPERWEIGHTS-22560.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/BOOKENDS---PAPERWEIGHTS-22560.aspx&quot;);">BOOKENDS &amp; PAPERWEIGHTS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/STORAGE-BOXES---BASKETS-22561.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/STORAGE-BOXES---BASKETS-22561.aspx&quot;);">STORAGE BOXES &amp; BASKETS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/DESKTOP-22554/COLLECTIONS-22562.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/COLLECTIONS-22562.aspx&quot;);">COLLECTIONS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/DESKTOP-22554.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554.aspx&quot;);" class="TopCategory">DESKTOP</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/DESKTOP-ORGANIZERS-22555.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESKTOP-ORGANIZERS-22555.aspx&quot;);">DESKTOP ORGANIZERS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/TECH-STANDS-BOOKSTANDS-22556.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/TECH-STANDS-BOOKSTANDS-22556.aspx&quot;);">TECH STANDS/BOOKSTANDS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/PEN-CASES---STANDS-22557.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/PEN-CASES---STANDS-22557.aspx&quot;);">PEN CASES &amp; STANDS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/DESK-SETS---PADS-22558.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESK-SETS---PADS-22558.aspx&quot;);">DESK SETS &amp; PADS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/DESKTOP-SUPPLIES-22559.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/DESKTOP-SUPPLIES-22559.aspx&quot;);">DESKTOP SUPPLIES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/BOOKENDS---PAPERWEIGHTS-22560.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/BOOKENDS---PAPERWEIGHTS-22560.aspx&quot;);">BOOKENDS &amp; PAPERWEIGHTS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/JEWELRY-BOXES-22586.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/JEWELRY-BOXES-22586.aspx&quot;);">JEWELRY BOXES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/STORAGE-BOXES---BASKETS-22561.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/STORAGE-BOXES---BASKETS-22561.aspx&quot;);">STORAGE BOXES &amp; BASKETS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/TIMEPIECES-22589.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/TIMEPIECES-22589.aspx&quot;);">TIMEPIECES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/DESKTOP-22554/COLLECTIONS-22562.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/DESKTOP-22554/COLLECTIONS-22562.aspx&quot;);">COLLECTIONS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/FURNITURE-22549.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549.aspx&quot;);">FURNITURE</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/FURNITURE-22549/DESKS-22550.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/DESKS-22550.aspx&quot;);">DESKS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FURNITURE-22549/LIGHTING-22551.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/LIGHTING-22551.aspx&quot;);">LIGHTING</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FURNITURE-22549/SEATING-22552.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/SEATING-22552.aspx&quot;);">SEATING</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FURNITURE-22549/TABLES-22553.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/TABLES-22553.aspx&quot;);">TABLES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/FURNITURE-22549/LAP-DESKS-PILLOWS-22563.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/LAP-DESKS-PILLOWS-22563.aspx&quot;);">LAP DESKS/PILLOWS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/FURNITURE-22549.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549.aspx&quot;);" class="TopCategory">FURNITURE</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/DESKS-22550.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/DESKS-22550.aspx&quot;);">DESKS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/LIGHTING-22551.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/LIGHTING-22551.aspx&quot;);">LIGHTING</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/SEATING-22552.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/SEATING-22552.aspx&quot;);">SEATING</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/TABLES-22553.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/TABLES-22553.aspx&quot;);">TABLES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/LAP-DESKS-PILLOWS-22563.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/LAP-DESKS-PILLOWS-22563.aspx&quot;);">LAP DESKS/PILLOWS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/FURNITURE-22549/SEQUEL-COLLECTION-22581.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/FURNITURE-22549/SEQUEL-COLLECTION-22581.aspx&quot;);">SEQUEL COLLECTION</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/BOOKS-17.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17.aspx&quot;);">BOOKS</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/BOOKS-17/LEVENGER-PRESS-BOOKS-238.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/LEVENGER-PRESS-BOOKS-238.aspx&quot;);">LEVENGER PRESS BOOKS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BOOKS-17/JOURNALS---DIARIES-22525.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/JOURNALS---DIARIES-22525.aspx&quot;);">JOURNALS &amp; DIARIES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BOOKS-17/NOTEBOOKS-22526.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/NOTEBOOKS-22526.aspx&quot;);">NOTEBOOKS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/BOOKS-17/PLANNERS---AGENDAS-22527.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/PLANNERS---AGENDAS-22527.aspx&quot;);">PLANNERS &amp; AGENDAS</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/BOOKS-17.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17.aspx&quot;);" class="TopCategory">BOOKS</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/BOOKS-17/LEVENGER-PRESS-BOOKS-238.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/LEVENGER-PRESS-BOOKS-238.aspx&quot;);">LEVENGER PRESS BOOKS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BOOKS-17/JOURNALS---DIARIES-22525.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/JOURNALS---DIARIES-22525.aspx&quot;);">JOURNALS &amp; DIARIES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BOOKS-17/NOTEBOOKS-22526.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/NOTEBOOKS-22526.aspx&quot;);">NOTEBOOKS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/BOOKS-17/PLANNERS---AGENDAS-22527.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/BOOKS-17/PLANNERS---AGENDAS-22527.aspx&quot;);">PLANNERS &amp; AGENDAS</a>
+        </p>
       </div>
     </li>
     <li>
-      <a href="http://www.levenger.com/CIRCA-326.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326.aspx&quot;);">CIRCA</a>
-      <div class="nav_two">
-        <ul>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-NOTEBOOKS-339.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-NOTEBOOKS-339.aspx&quot;);">CIRCA NOTEBOOKS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-REFILLS-715.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-REFILLS-715.aspx&quot;);">CIRCA REFILLS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-DISCS-1008.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-DISCS-1008.aspx&quot;);">CIRCA DISCS</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-PUNCHES-328.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-PUNCHES-328.aspx&quot;);">CIRCA PUNCHES</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/SPECIAL-REQUEST-CIRCA-1234.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/SPECIAL-REQUEST-CIRCA-1234.aspx&quot;);">SPECIAL REQUEST CIRCA</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-SMARTPLANNER-22387.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-SMARTPLANNER-22387.aspx&quot;);">CIRCA SMARTPLANNER</a>
-          </li>
-          <li>
-            <a href="http://www.levenger.com/CIRCA-326/CIRCA-ACCESSORIES-329.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-ACCESSORIES-329.aspx&quot;);">CIRCA ACCESSORIES</a>
-          </li>
-          <li class="aa1231">
-            <a href="http://www.levenger.com/CIRCA-326/ABOUT-CIRCA-1233.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/ABOUT-CIRCA-1233.aspx&quot;);">ABOUT CIRCA</a>
-          </li>
-        </ul>
+      <a href="http://www.levenger.com/CIRCA-326.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326.aspx&quot;);" class="TopCategory">CIRCA</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-NOTEBOOKS-339.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-NOTEBOOKS-339.aspx&quot;);">CIRCA NOTEBOOKS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-REFILLS-715.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-REFILLS-715.aspx&quot;);">CIRCA REFILLS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-DISCS-1008.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-DISCS-1008.aspx&quot;);">CIRCA DISCS</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-PUNCHES-328.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-PUNCHES-328.aspx&quot;);">CIRCA PUNCHES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/SPECIAL-REQUEST-CIRCA-1234.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/SPECIAL-REQUEST-CIRCA-1234.aspx&quot;);">SPECIAL REQUEST CIRCA</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-SMARTPLANNER-22387.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-SMARTPLANNER-22387.aspx&quot;);">CIRCA SMARTPLANNER</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/CIRCA-ACCESSORIES-329.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/CIRCA-ACCESSORIES-329.aspx&quot;);">CIRCA ACCESSORIES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/CIRCA-326/ABOUT-CIRCA-1233.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/CIRCA-326/ABOUT-CIRCA-1233.aspx&quot;);">ABOUT CIRCA</a>
+        </p>
+      </div>
+    </li>
+    <li>
+      <a href="http://www.levenger.com/WHAT-S-NEW-12.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/WHAT-S-NEW-12.aspx&quot;);" class="TopCategory">WHAT'S NEW</a>
+    </li>
+    <li>
+      <a href="http://www.levenger.com/navigation/gift-shoppers-guide.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/navigation/gift-shoppers-guide.aspx&quot;);" class="TopCategory">GIFT GUIDE</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/GIFT-GUIDE-351/CUSTOMER-FAVORITES-924.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/GIFT-GUIDE-351/CUSTOMER-FAVORITES-924.aspx&quot;);">CUSTOMER FAVORITES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/GIFT-GUIDE-351/SPECIAL-VALUES-22582.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/GIFT-GUIDE-351/SPECIAL-VALUES-22582.aspx&quot;);">SPECIAL VALUES</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/GIFT-GUIDE-351/DEAL-OF-THE-DAY-22590.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/GIFT-GUIDE-351/DEAL-OF-THE-DAY-22590.aspx&quot;);">DEAL OF THE DAY</a>
+        </p>
+      </div>
+    </li>
+    <li>
+      <a href="http://www.levenger.com/OUTLET-9.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9.aspx&quot;);" class="TopCategory">OUTLET</a>
+      <div class="submenu">
+        <p>
+          <a href="http://www.levenger.com/OUTLET-9/CIRCA-OUTLET-1243.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9/CIRCA-OUTLET-1243.aspx&quot;);">CIRCA OUTLET</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/OUTLET-9/LEATHER---FOLIOS-OUTLET-1209.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9/LEATHER---FOLIOS-OUTLET-1209.aspx&quot;);">LEATHER &amp; FOLIOS OUTLET</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/OUTLET-9/PENS---OFFICE-OUTLET-1208.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9/PENS---OFFICE-OUTLET-1208.aspx&quot;);">PENS &amp; OFFICE OUTLET</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/OUTLET-9/READING-OUTLET-22512.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9/READING-OUTLET-22512.aspx&quot;);">READING OUTLET</a>
+        </p>
+        <p>
+          <a href="http://www.levenger.com/OUTLET-9/TECH-OUTLET-404.aspx" onclick="AddLinkClickTrack(&quot;http://www.levenger.com/OUTLET-9/TECH-OUTLET-404.aspx&quot;);">TECH OUTLET</a>
+        </p>
       </div>
     </li>
   </ul>
 </div>
-       
-        
-        </div>
-
-        </div>
-
-        <div class="adr"><strong><span style="font-family: Arial, sans-serif;">Weekly Special - enjoy 50% off these all-leather duffel bags</span> <span style="font-family: Arial, sans-serif;">through Sunday only.</span><span style="font-family: Arial, sans-serif;"> </span><a href="/WEEKLY-SPECIAL-22469/Tusting-Explorer-7689.aspx">See Details</a></strong> </div>
+    </div>
+    <div class="index-enjory"><strong>30% off, no minimum purchase* PROMO CODE MERRY16 </strong> <u><a href="javascript:OpenGeneralPopupWindow('/Catalog/BannerPopUp.aspx',405,400)">See Details</a></u></div>
+ <div class="row navs">
+    <div id="ctl00_ctl00_MainBody_pnlBreadScrumb" class="col-md-12 col-sm-12 col-xs-12 navgtion" style="border-width:0px;">
 	
-        
-		<div class="content" align="center"><div class="inner">
-
-			
-
-
-
- <div align="left">
-
-    <div id="ctl00_ctl00_MainBody_pnlBreadScrumb" class="breadcrumb">
-	
-        <a id="ctl00_ctl00_MainBody_hplkHome" onclick="AddLinkClickTrack('~/')" href="../">Home&gt;</a>
+        <a id="ctl00_ctl00_MainBody_hplkHome" onclick="AddLinkClickTrack('~/')" href="../">Home</a><span>/</span>
         
                 <a id="ctl00_ctl00_MainBody_rptBreadScrumb_ctl00_hlkBreadScrumb" href="Contact.aspx">CUSTOMER SERVICE</a>
                  
-             &gt; 
+            <span>/</span>
                 
-                 <span id="ctl00_ctl00_MainBody_rptBreadScrumb_ctl02_lblBreadScrumb">Security &amp; Privacy</span>
+                 <span id="ctl00_ctl00_MainBody_rptBreadScrumb_ctl02_lblBreadScrumb" class="bs">Security &amp; Privacy</span>
             
     
 </div>
-
+</div>
+<div>
     
-    <div id="welcome">
-       <div style="height:1px"></div>
-       <div class="container">
-            <div class="left">
-                            
-                
- 	<script type="text/javascript" language="javascript">
- 	    function showhideSubMenu() {
+   <div class="row container">
+        <div class="col-md-3 col-sm-5 col-xs-11"> 
+            <div class="navgtion search-nav nomargin">
+                <div class="cate-title nomargin">More Options</div>
+            </div>            
+           
+<script type="text/javascript" language="javascript">
+    function showhideSubMenu() {
 
- 	        if (document.getElementById('liSecurity').style.display == "") {
- 	            document.getElementById('liSecurity').style.display = "none";
- 	            document.getElementById('liCopyright').style.display = "none";
- 	        }
- 	        else {
- 	            document.getElementById('liSecurity').style.display = "";
- 	            document.getElementById('liCopyright').style.display = "";
- 	        }
- 	    }
+        if (document.getElementById('liSecurity').style.display == "") {
+            document.getElementById('liSecurity').style.display = "none";
+            document.getElementById('liCopyright').style.display = "none";
+        }
+        else {
+            document.getElementById('liSecurity').style.display = "";
+            document.getElementById('liCopyright').style.display = "";
+        }
+    }
 
-    </script>
-    <div class="loginTitle">CUSTOMER SERVICE</div>
-	<div class="sideNav"> 
-     
-            <div class="ui">    
-            <a href="../users/Login.aspx" title="My Account">My Account</a>
-            </div> 
-        	             
-       <div class="ui">    
-            <a href="Contact.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkContactUs" title="Contact Us" onclick="AddLinkClickTrack('/users/Contact.aspx');">Contact Us</a>
-        </div>          
-        <div class="ui">   
-            <a href="../users/CatalogRequest.aspx" title="Request a Catalog" onclick="AddLinkClickTrack('/users/CatalogRequest.aspx');">Request a Catalog</a>
-        </div>               	            	
-       <div class="ui">    
-            <a href="../users/EList.aspx" title="Join Our E-list" onclick="AddLinkClickTrack('/users/EList.aspx');">Join Our E-list</a>
-       </div> 
-        <div class="ui">   
-            <a href="../Users/Unsubscribe.aspx" title="Unsubscribe" onclick="AddLinkClickTrack('/Users/Unsubscribe.aspx');">Unsubscribe</a>
-        </div> 
-        <div class="ui">    
-            <a href="Ourstores.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkOurLocation" title="Our Stores" onclick="AddLinkClickTrack('/users/Ourstores.aspx');">Our Stores</a>
-        </div> 
-        <div class="ui">   
-            <a href="GiftGiveCards.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkGiftCards" title="Gift Cards" onclick="AddLinkClickTrack('/users/GiftGiveCards.aspx');">Gift Giving &amp; Gift Cards</a>
-        </div> 
-        <div class="ui">    
-            <a href="FAQ.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkFAQ" title="FAQ" onclick="AddLinkClickTrack('/users/FAQ.aspx');">FAQ</a>
-        </div>
-       <!-- <div class="ui">    
+</script>
+
+<div class="sub-menu sub-menu-contact">
+    
+    <div class="ui">
+        <a href="../users/Login.aspx" title="My Account">My Account</a>
+    </div>
+    
+    <div class="ui">
+        <a href="Contact.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkContactUs" title="Contact Us" onclick="AddLinkClickTrack('/users/Contact.aspx');">Contact Us</a>
+    </div>
+    <div class="ui">
+        <a href="../users/CatalogRequest.aspx" title="Request a Catalog" onclick="AddLinkClickTrack('/users/CatalogRequest.aspx');">
+            Request a Catalog</a>
+    </div>
+    <div class="ui">
+        <a href="../users/EList.aspx" title="Join Our E-list" onclick="AddLinkClickTrack('/users/EList.aspx');">
+            Join Our E-list</a>
+    </div>
+    <div class="ui">
+        <a href="../Users/Unsubscribe.aspx" title="Unsubscribe" onclick="AddLinkClickTrack('/Users/Unsubscribe.aspx');">
+            Unsubscribe</a>
+    </div>
+    <div class="ui">
+        <a href="Contact.aspx#Our_Location" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkOurLocation" title="Our Stores" onclick="AddLinkClickTrack('/users/Contact.aspx#Our_Location');">Our Stores</a>
+    </div>
+    <div class="ui">
+        <a href="GiftGiveCards.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkGiftCards" title="Gift Cards" onclick="AddLinkClickTrack('/users/GiftGiveCards.aspx');">Gift Giving &amp; Gift Cards</a>
+    </div>
+    <div class="ui">
+        <a href="FAQ.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkFAQ" title="FAQ" onclick="AddLinkClickTrack('/users/FAQ.aspx');">
+            FAQ</a>
+    </div>
+    <!-- <div class="ui">    
             <a href="AffiliateFAQ.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_AffFAQ" title="FAQ" onclick="AddLinkClickTrack(&#39;/users/AffiliateFAQ.aspx&#39;);">Affiliate Program</a>
-        </div>-->  
-        <div class="ui">  
-            <a href="OrderInfo.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkOrderInfo" title=">Ordering">Ordering</a>
-        </div>  
-        <div class="ui">    
-            <a href="ShippingInfo.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkShippingInfo" title="Shipping" onclick="AddLinkClickTrack('/users/ShippingInfo.aspx');">Shipping</a>
-        </div>  
-        <div class="ui">    
-            <a href="ReturnExchange.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkReturnExchange" title="Returns Exchanges" onclick="AddLinkClickTrack('/users/ReturnExchange.aspx');">Returns &amp; Exchanges</a>
-        </div> 
-        <a href="#" onclick="javascript:showhideSubMenu(); return false;" title="Terms Policies">Terms &amp; Policies&nbsp;<img src="/Images/sideNavArrow.png" alt=""></a>
-        <div class="ui"> 
-            <div class="li">   
-                <!--<li id="liSecurity" >-->
-                    <a href="SecurityPrivacy.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkSecurityPrivacy" title="Security &amp; Privacy" onclick="AddLinkClickTrack('/users/SecurityPrivacy.aspx');">Security &amp; Privacy</a>
-                <!--</li>-->
-            </div>
-            <div class="li"> 
-                <!--<li id="liCopyright">-->
-                    <a href="CopyRight.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkCopyright" title="Copyright" onclick="AddLinkClickTrack('/users/CopyRight.aspx');">Copyright</a>
-                <!--</li>-->
-
-            </div>
-        </div>
-        <div class="ui">    
-            <a href="ReviewContest.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkReview" title="Review Contest" onclick="AddLinkClickTrack('/users/ReviewContest.aspx');">Review Contest</a>
-        </div>  
-	                
-	</div> <!--LeftNavigationBody-->
-    <div class="PBody">
+        </div>-->
+    <div class="ui">
+        <a href="OrderInfo.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkOrderInfo" title=">Ordering">
+            Ordering</a>
     </div>
-    <div class="PHeader">
-        THE LEVENGER GUARANTEE
+    <div class="ui">
+        <a href="ShippingInfo.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkShippingInfo" title="Shipping" onclick="AddLinkClickTrack('/users/ShippingInfo.aspx');">Shipping</a>
     </div>
-    <div class="PBody">
-        We promise to deliver quality
-        and value in every Levenger
-        product. If you are not 100%
-        satisfied, please let us know
-        and we'll make it right.
-    </div> 
-	
-                            
-            </div><!--left-->
-            <div class="right">
-                <table border="0" cellspacing="1" cellpadding="1">
-					<tbody><tr>
-						<td>
-							<div>                
-                                <h1 class="CustServH1">Security &amp; Privacy</h1><br>
-                            </div><!--HeaderArea--> 												
-<div class="CustServH2">Security</div>
-<div class="CustServlink" style="padding-left:20px;">
-    <ul class="BulletsText">
-        <li>We work to protect the security of your information during transmission by using a 128 bit Secure Sockets  Layer (SSL) software, which encrypts information you input. This SSL is the strongest encryption available. 
-        </li>
-        <li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
-        </li>
-        <li>Levenger.com uses HACKER SAFE to ensure your personal information cannot be read by hackers.
-        </li>
-    </ul>
-</div><br>
-<div class="CustServlink">Please note: while it's safe to order online through our Website, we do not recommend that you send a credit card order through an email. Email is not encrypted and is not a secure means to transmit a credit card number.<br>
-If you'd prefer not to order online, you can call us toll-free anytime, any day, at 800-544-0880.</div><br>
+    <div class="ui">
+        <a href="ReturnExchange.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkReturnExchange" title="Returns Exchanges" onclick="AddLinkClickTrack('/users/ReturnExchange.aspx');">Returns &amp; Exchanges</a>
+    </div>
+    <div class="ui">
+        <a href="SecurityPrivacy.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkSecurityPrivacy" title="Security &amp; Privacy" onclick="AddLinkClickTrack('/users/SecurityPrivacy.aspx');">Security &amp; Privacy</a>
+    </div>
+    <div class="ui">
+        <a href="CopyRight.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkCopyright" title="Copyright" onclick="AddLinkClickTrack('/users/CopyRight.aspx');">
+            Copyright</a>
+    </div>
+    <div class="ui">
+        <a href="ReviewContest.aspx" id="ctl00_ctl00_MainBody_BodyDetail_ucCustomerServLeftNav1_lnkReview" title="Review Contest" onclick="AddLinkClickTrack('/users/ReviewContest.aspx');">Review Contest</a>
+    </div>
+</div>
+     <!-- NAVIGATION -->       
+         </div><!--left-->
 
-<div class="CustServH2">Privacy</div>
-<div class="CustServlink">We are committed to protecting your privacy! This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you have any questions, please email or call us at <a href="/users/ContactEmailOrd.aspx?Email=Cservice@levenger.com&amp;Typ=2">cservice@levenger.com</a>  and 1-800-544-0880. Each time you visit www.levenger.com (“Website”), through the use of cookies our Web server automatically recognizes your domain name and email address (where possible). You have the option of disabling cookies by accessing the tools provided to you in your Internet options. However, please note that you may not have full access to the Website if you change your cookie settings to disable them.<br><br>
-This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.</div><br>
-<div class="CustServlink">Levenger is the sole owner of the information collected on www.levenger.com. Levenger collects information from our users at several different points on our Website. </div><br>
-<div class="CustServlink">We encourage you to read this policy to learn more about: <br>
-1. <a href="/users/SecurityPrivacy.aspx#InfoCollect">What information of yours is collected by this Website.</a><br>
-2. <a href="/users/SecurityPrivacy.aspx#OptOut">How you can opt-out of receiving communications from us.</a><br>
-3. <a href="/users/SecurityPrivacy.aspx#Security">The security of your information.</a><br>
-4. <a href="/users/SecurityPrivacy.aspx#Link">Links to other Websites made available to you by this Website.</a><br>
-5. <a href="/users/SecurityPrivacy.aspx#ProdReview">Product Reviews</a><br>
-6. <a href="/users/SecurityPrivacy.aspx#BusinessTrans">Business Transitions</a><br>
-7. <a href="/users/SecurityPrivacy.aspx#ContactInfo">How to contact us with any comments or questions about this Privacy Policy</a></div><br>
-<div id="InfoCollect" class="CustServ2">1. Information Collected</div>
-<div class="CustServH3">a) Personally Identifiable Information</div>
-<div class="CustServlink">If you request a catalog or join our e-list a user is required to give their contact information (such as name, address and email address). We use this information to send the customer a catalog and/or marketing emails. It is optional for the user to provide unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience. We rent our customer’s mailing address with other third party catalog companies. If you wish to remove your name from third party rentals, it can be done by emailing our Customer Support at cservice@levenger.com. Or, contact us by telephone or postal mail at the contact information listed below. If you submit a comment for Add Your Review, we collect your name, email, and city/state to use as part of the testimonial for the product. We do not use your email address for marketing purposes but we may use it to contact you directly regarding your feedback. As stated on the Add Your Review page, by submitting your information and comments, you authorize us to print your name and comments as a review for the product listed. When an order is placed with us, you may be asked to provide your name, address or credit card information in connection with your use of the Website (including without limitation, by your submission of purchase orders.) This information is used for billing purposes, to fill customer orders and to send the customer a catalog.</div>
-<div class="CustServH3">b) Non-Personally Identifiable Information</div>
-<div class="CustServlink">Certain non-personally identifiable information about our visitors is collected by the standard operation of our Internet servers and through the use of cookies (small amounts of data that are sent to your browser from a Web server and stored on your computer’s hard drive for the purpose of facilitating and enhancing your communication and interaction with the Website technology, such as the type of Internet browser you are using and the domain name of your internet service provider, where you go within the Website and how much time you spend in any particular area, search queries, impressions and other data). The information we collect is (1) used to improve the content of our Website and enhance your experience, and (2) for us to contact our customers. All information that is collected is on an 'opt-in' basis and users are given the opportunity to 'opt-out' at any time.</div>
-<div class="CustServH3">c) Third Party Cookies</div>
-<div class="CustServlink">Levenger has engaged a third party service provider, to track and analyze non-personally identifiable usage and volume statistical information from visitors to the Website to help us administer our Website in order to constantly improve the Website quality. We do track and analyze personally identifiable usage for customers who have completed a purchase, requested a catalog or signed up for our e-list. The provider uses cookies to help track visitor behavior and Levenger sets cookies that will be listed under the domain lev.levenger.com. It does not use cookies to relate Website visitors to any personally identifiable information and provides Levenger with information about site usage that reflects individual behavior of visitors, but not their identity. All data collected by the provider on behalf of Levenger is used only to provide us with information on site usage and is not shared with any other third parties.</div><br>
- <div class="CustServlink">Levenger has an advertising contract with a service provider to serve display ads on our behalf across the Internet. The provider will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may use information about your visits to this website to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major Websites. No personally identifiable information is collected or used in this process. <br>
-We also partner with other third parties such as Experian to provide specific services. For example, Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.</div><br>
-<div class="CustServH3">Aggregate Information (non-personally identifiable)</div>
-<div class="CustServlink">We share aggregated demographic information with our partners. This is not linked to any personally identifiable information.<br>
-<a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="OptOut" class="CustServ2">2. Opt Out</div> 
-<div class="CustServlink">Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by replying to unsubscribe or remove in the subject line in the email or email us at cservice@levenger.com. We also offer an opt-out mechanism on the ACCOUNT INFO PAGES or the user may contact us at 800-544-0880 or at 420 S. Congress Avenue, Delray Beach, FL 33445 to opt-out. 
-In addition to this, all email correspondence that we send you will include a link which when accessed by you, will enable you to remove yourself from our mailing lists. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive communications from us for a limited time after you unsubscribe. </div><br>
-<div class="CustServlink">If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address. [Also you may receive mailings from other reputable companies.] You can, however, have your name put on our do-not-share list by sending email to us at the above address or opting out at the time of your order. </div><br>
-<div class="CustServlink">Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number. You can, however, have your name put on our do-not-share list by sending email to us at the above address or calling us at the above telephone number. Please provide us with your correct phone number. We will be sure your name is removed from our list [and the list we share with other organizations] as soon as possible after we provide your request.<br><a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="Security" class="CustServ2">3. Security</div>
-<div class="CustServlink">We are committed to using our best efforts to maintaining the security of your Personal Information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help safeguard and secure the information we collect. Although we use our best efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website. This Website is secured and verified by Verisign.<br> <a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="Link" class="CustServ2">4. Links</div>
-<div class="CustServlink">This Website contains links to other sites. Please be aware that we, Levenger Company, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.<br><a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="ProdReview" class="CustServ2">5. Product Reviews</div>
-<div class="CustServlink">We may provide areas on our Website where you can post reviews of products. Such postings are governed by our Terms of Use. In addition, such postings may appear on other Websites or when searches are executed on the subject of your posting. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.<br><a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="BusinessTrans" class="CustServ2">6. Business Transitions</div>
-<div class="CustServlink">In the event Levenger Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email or direct mail prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.<br><a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a></div><br>
-<div id="ContactInfo" class="CustServ2">7. Contact Information</div>
-<div class="CustServlink">If users have any questions or suggestions regarding our privacy policy, please contact us at: <br>
-<span class="CustServH3">Phone:</span> 800-544-0880<br>
-<span class="CustServH3">Fax:</span> 800-544-6910<br>
-<span class="CustServH3">Email:</span> <a href="/users/ContactEmailOrd.aspx?Email=Cservice@levenger.com&amp;Typ=2">cservice@levenger.com</a> or <a href="/users/ContactEmailOrd.aspx?Email=Privacy@levenger.com&amp;Typ=2">privacy@levenger.com</a><br>
-<span class="CustServH3">Postal Address:</span> 420 S. Congress Avenue, Delray Beach, FL 33445<br>
-<span class="CustServH3">Website URL:</span> <a href="http://www.levenger.com">www.levenger.com</a><br>
-<a href="/users/SecurityPrivacy.aspx">BACK TO TOP</a> 
-</div><br>
-											</td>
-										</tr>
-									</tbody></table>
+         <div class="col-md-9 col-sm-12 col-xs-12">
+            <div class="contact">
+                <h1 class="CustServH1">Security &amp; Privacy Policies</h1><br>
+                <h3>Security</h3><div class="Spacer"></div>
+                <ul class="Security">
+                    <li> We work to protect the security of your information during transmission by using a 128 bit Secure Sockets Layer (SSL) software, which encrypts information you input. This SSL is the strongest encryption available.</li>
+                    <li> It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.</li>
+                    <li> Levenger.com uses HACKER SAFE to ensure your personal information cannot be read by hackers.</li>
+                </ul><div class="Spacer"></div>
+                <p>Please note: while it's safe to order online through our Website, we do not recommend that you send a credit card order through an email. Email is not encrypted and is not a secure means to transmit a credit card number.
+                    If you'd prefer not to order online, you can call us toll-free anytime, any day, at 800-544-0880.</p><br>
+                <h3>Privacy</h3><div class="Spacer"></div>
+                <p>We are committed to protecting your privacy! This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you have any questions, please email or call us at cservice@levenger.com and 1-800-544-0880. Each time you visit www.levenger.com (“Website”), through the use of cookies our Web server automatically recognizes your domain name and email address (where possible). You have the option of disabling cookies by accessing the tools provided to you in your Internet options. However, please note that you may not have full access to the Website if you change your cookie settings to disable them.
+                </p><div class="Spacer"></div>
+                <p>This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.</p><div class="Spacer"></div>
+                <p>Levenger is the sole owner of the information collected on www.levenger.com. Levenger collects information from our users at several different points on our Website.
+                </p><div class="Spacer"></div>
+                <ul>
+                    <li>We encourage you to read this policy to learn more about: </li><div class="Spacer"></div>
+                    <li>1. <a href="#1">What information of yours is collected by this Website.</a> </li>
+                    <li>2. <a href="#2">How you can opt-out of receiving communications from us.</a></li>
+                    <li>3. <a href="#3">The security of your information.</a></li>
+                    <li>4. <a href="#4">Links to other Websites made available to you by this Website.</a></li>
+                    <li>5. <a href="#5">Product Reviews</a></li>
+                    <li>6. <a href="#6">Business Transitions</a></li>
+                    <li>7. <a href="#7">How to contact us with any comments or questions about this Privacy Policy</a></li>
+                </ul>
+                <div class="security-list">
+                    <p><label id="1">1. Information Collected</label>
+                    </p><p><label>a) Personally Identifiable Information</label></p> 
+                    <p>If you request a catalog or join our e-list a user is required to give their contact information (such as name, address and email address). We use this information to send the customer a catalog and/or marketing emails. It is optional for the user to provide unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience. We rent our customer’s mailing address with other third party catalog companies. If you wish to remove your name from third party rentals, it can be done by emailing our Customer Support at cservice@levenger.com. Or, contact us by telephone or postal mail at the contact information listed below. If you submit a comment for Add Your Review, we collect your name, email, and city/state to use as part of the testimonial for the product. We do not use your email address for marketing purposes but we may use it to contact you directly regarding your feedback. As stated on the Add Your Review page, by submitting your information and comments, you authorize us to print your name and comments as a review for the product listed. When an order is placed with us, you may be asked to provide your name, address or credit card information in connection with your use of the Website (including without limitation, by your submission of purchase orders.) This information is used for billing purposes, to fill customer orders and to send the customer a catalog.
+                    </p><p><label>b) Non-Personally Identifiable Information</label></p>
+                    <p>Certain non-personally identifiable information about our visitors is collected by the standard operation of our Internet servers and through the use of cookies (small amounts of data that are sent to your browser from a Web server and stored on your computer’s hard drive for the purpose of facilitating and enhancing your communication and interaction with the Website technology, such as the type of Internet browser you are using and the domain name of your internet service provider, where you go within the Website and how much time you spend in any particular area, search queries, impressions and other data). The information we collect is (1) used to improve the content of our Website and enhance your experience, and (2) for us to contact our customers. All information that is collected is on an 'opt-in' basis and users are given the opportunity to 'opt-out' at any time.</p>
+                    <p><label>c) Third Party Cookies</label></p>
+                    <p>Levenger has engaged a third party service provider, to track and analyze non-personally identifiable usage and volume statistical information from visitors to the Website to help us administer our Website in order to constantly improve the Website quality. We do track and analyze personally identifiable usage for customers who have completed a purchase, requested a catalog or signed up for our e-list. The provider uses cookies to help track visitor behavior and Levenger sets cookies that will be listed under the domain lev.levenger.com. It does not use cookies to relate Website visitors to any personally identifiable information and provides Levenger with information about site usage that reflects individual behavior of visitors, but not their identity. All data collected by the provider on behalf of Levenger is used only to provide us with information on site usage and is not shared with any other third parties.</p>
+                    <p>Levenger has an advertising contract with a service provider to serve display ads on our behalf across the Internet. The provider will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may use information about your visits to this website to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major Websites. No personally identifiable information is collected or used in this process. </p>
+                    <p>We also partner with other third parties such as Experian to provide specific services. For example, Experian is responsible for the data processing and postal sortation for each catalog mailing. When the user signs up for these particular services, we share names and mailing address information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+                    </p>
+                    <p>We share aggregated demographic information with our<br>We share aggregated demographic information with our partners. This is not linked to any personally identifiable information.</p>
+                    <p><a href="#top">BACK TO TOP</a> </p>
+                </div>
+                
+                <div class="security-list">
+                    <p><label id="2">2. Opt Out</label></p>
+                    <p> Users who no longer wish to receive our promotional communications may opt-out of receiving these communications by replying to unsubscribe or remove in the subject line in the email or email us at cservice@levenger.com. We also offer an opt-out mechanism on the ACCOUNT INFO PAGES or the user may contact us at 800-544-0880 or at 420 S. Congress Avenue, Delray Beach, FL 33445 to opt-out. In addition to this, all email correspondence that we send you will include a link which when accessed by you, will enable you to remove yourself from our mailing lists. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive communications from us for a limited time after you unsubscribe.</p>
+                    <p>If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address. [Also you may receive mailings from other reputable companies.] You can, however, have your name put on our do-not-share list by sending email to us at the above address or opting out at the time of your order.
+                    </p>
+                    <p>Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line. They also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number. You can, however, have your name put on our do-not-share list by sending email to us at the above address or calling us at the above telephone number. Please provide us with your correct phone number. We will be sure your name is removed from our list [and the list we share with other organizations] as soon as possible after we provide your request.</p>
+                    <p><a href="#top">BACK TO TOP</a> </p>
+                </div>
 
-            </div>
-        </div>
-    </div>	
+                <div class="security-list">
+                    <p><label id="3">3. Security</label></p>
+                    <p>We are committed to using our best efforts to maintaining the security of your Personal Information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help safeguard and secure the information we collect. Although we use our best efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website. This Website is secured and verified by Verisign.</p>
+                    <p><a href="#top">BACK TO TOP</a> </p>
+                </div>
+
+                <div class="security-list">
+                    <p><label id="4">4. Links</label></p>
+                    <p>This Website contains links to other sites. Please be aware that we, Levenger Company, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.</p>
+                    <p><a href="#top">BACK TO TOP</a> </p>
+                </div>
+
+                <div class="security-list">
+                    <p><label id="5">5. Product Reviews</label></p>
+                    <p>We may provide areas on our Website where you can post reviews of products. Such postings are governed by our Terms of Use. In addition, such postings may appear on other Websites or when searches are executed on the subject of your posting. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you will not be able to edit or delete such information.</p>
+                    <p><a href="#">BACK TO TOP</a> </p>
+                </div>
+
+                <div class="security-list">
+                    <p><label id="6">6. Business Transition</label></p>
+                    <p>In the event Levenger Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email or direct mail prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.</p>
+                    <p><a href="#">BACK TO TOP</a> </p>
+                </div>
+
+                <div class="security-list">
+                    <p><label id="7">7. Contact Information</label></p>
+                    <p>If users have any questions or suggestions regarding our privacy policy, please contact us at:<br>
+                        Phone: 800-544-0880<br>
+                        Fax: 800-544-6910<br>
+                        Email: <a href="/users/ContactEmailOrd.aspx?Email=Cservice@levenger.com&amp;Typ=2">cservice@levenger.com</a> or <a href="/users/ContactEmailOrd.aspx?Email=privacy@levenger.com&amp;Typ=2">privacy@levenger.com</a><br>
+                        Postal Address: 420 S. Congress Avenue, Delray Beach, FL 33445<br>
+                        Website URL: <a href="http://www.levenger.com">www.levenger.com</a></p>
+                    <p><a href="#">BACK TO TOP</a> </p>
+                </div>
+                
+        </div><!--right-->
+    </div>
   
-
 
 </div>
 
@@ -743,225 +877,189 @@ In addition to this, all email correspondence that we send you will include a li
 
 
 
+    <div class="clearfix"></div>
+    <!-- 4 box -->
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-centered">
+<div class="row foot">
+<div class="row category-coy">
+    
+        <div class="col-md-3 col-sm-6 col-xs-12"> 
+            <div class="box row">
+            
+            
+            <a href="/users/EList.aspx">
+            <img src="/images/foot1.jpg" id="join" class="img-responsive">
+            </a>
+            
 
-		<div style="clear: both">
-		</div>
-
-        
-    	<div class="hr" style="margin-top:15px;"></div>
-        <div class="LEVblock">
-        	<ul>
-            	<li class="LEVsearch">  
-                    <div id="ctl00_ctl00_updateInfo">
-	
-								<div id="ctl00_ctl00_EmailEntry">
-		
-									<input name="ctl00$ctl00$txtSignup" type="text" value="someone@example.com" maxlength="48" id="ctl00_ctl00_txtSignup" class="LEVtext" onkeypress="doClick('ctl00_ctl00_btnSignUp',event)" onclick="txtSignup_ClientClick('ctl00_ctl00_txtSignup');">
-									<input type="submit" name="ctl00$ctl00$btnSignUp" value="" onclick="AddLinkClickTrack('Email Signup');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$btnSignUp&quot;, &quot;&quot;, true, &quot;Signup&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_btnSignUp" class="LEVbtn">
-									&nbsp;
-									&nbsp;
-								
-	</div>
-								
-							
-</div>              
-                	
-                </li>
-                <li>
-  <a href="/catalog/BonusOffer.aspx" onclick="AddLinkClickTrack('/catalog/BonusOffer.aspx');">
-    <img src="http://www.levenger.com/image/featureproducts/012015_condenast.jpg" alt="Condenast">
-  </a>
-</li>
-<li>
-  <a href="/users/CatalogRequest.aspx" onclick="AddLinkClickTrack('/users/CatalogRequest.aspx');">
-    <img src="http://www.levenger.com/image/catalogcovers/catalog.jpg" alt="Catalog">
-  </a>
-</li>
-<li class="last">
-  <a href="http://www.levimage.com/PDF/0416_EarlySummer_A.pdf" onclick="AddLinkClickTrack('http://www.levimage.com/PDF/0416_EarlySummer_A.pdf');">
-    <img src="http://www.levenger.com/image/featureproducts/bottom_features/catalog2.jpg" alt="E-Catalog">
-  </a>
-</li>
-             </ul>
-            <div class="clear"></div>
+              
+               </div>        
         </div>
-    </div>
-    </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="box">
+    <a href="/catalog/BonusOffer.aspx" onclick="AddLinkClickTrack('/catalog/BonusOffer.aspx');">
+      <img src="http://www.levenger.com/image/featureproducts/bottom_features/foot2.jpg" alt="Condenast" style="width:100%;" class="img-responsive">
+    </a>
+  </div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="box">
+    <a href="/users/CatalogRequest.aspx" onclick="AddLinkClickTrack('/users/CatalogRequest.aspx');">
+      <img src="http://www.levenger.com/image/featureproducts/bottom_features/foot3.jpg" alt="Catalog" style="width:100%;" class="img-responsive">
+    </a>
+  </div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+  <div class="box">
+    <a href="http://www.levenger.com/catalog/PDFviewer.aspx" onclick="AddLinkClickTrack('http://www.levenger.com/catalog/PDFviewer.aspx');">
+      <img src="http://www.levenger.com/image/featureproducts/bottom_features/foot4.jpg" alt="E-Catalog" style="width:100%;" class="img-responsive">
+    </a>
+  </div>
+</div>
+  
+    <div class="clear"></div>
+</div>  
+</div></div>
+    
+    <div class="footer">
+         <div class="share">
+             <a href="/Reviews/ReviewHowTo.aspx" class="cur"><img src="/images/FullWriteAReview.png" style="height:32px; vertical-align: bottom;"> </a>
+             <a href="/LevengerPress/LPHome.aspx" class="cur"><img src="/images/levpress.png" style="height:32px; vertical-align: bottom;"> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://blog.wellreadlife.com/',800,850)"><img src="/images/steveBlog.png" style="vertical-align: bottom;"></a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('Mailto:cservice@levenger.com',800,850)"><i class="fa fa-envelope smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://www.facebook.com/Levenger',800,850)"><i class="fa fa-facebook-square smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://twitter.com/levenger',800,850)"><i class="fa fa-twitter-square smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('https://www.instagram.com/levenger/',800,850)"><i class="fa fa-instagram  smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://www.pinterest.com/levenger/',800,850)"><i class="fa fa-pinterest-square  smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://www.youtube.com/user/levengermedia',800,850)"><i class="fa fa-youtube-play smalllink" style="font-size:32px; color:#474747;"></i> </a>
+             <a href="javascript:OpenGeneralPopupWindowOutSite('http://plus.google.com/111932960810283193259/posts',800,850)"><i class="fa fa-google-plus-square  smalllink" style="font-size:32px; color:#474747;"></i> </a>
 
-    <div class="footer" align="center">
-      <div class="inner">
-        <div class="footermenu" align="left">
-
-            <div class="footermodule">
-  <h5>CUSTOMER SERVICE</h5>
-  <ul>
-    <li>
+         </div>
+         <div class="row foot" id="foot">
+            <div class="col-lg-3 col-md-3  col-sm-3">
+  <div class="title">
+    <a href="javascript:void (0)">CUSTOMER SERVICE</a>
+  </div>
+  <div class="sub">
+    <p>
       <a href="http://www.levenger.com/users/Contact.aspx" onclick="AddLinkClickTrack(&quot;/users/Contact.aspx&quot;);">Contact Us</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/customers/Orderstatus.aspx" onclick="AddLinkClickTrack(&quot;/customers/Orderstatus.aspx&quot;);">Order Status</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/users/FAQ.aspx" onclick="AddLinkClickTrack(&quot;/users/FAQ.aspx&quot;);">FAQs</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/users/ShippingInfo.aspx" onclick="AddLinkClickTrack(&quot;/users/ShippingInfo.aspx&quot;);">Shipping Information</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/users/ReturnExchange.aspx" onclick="AddLinkClickTrack(&quot;/users/ReturnExchange.aspx&quot;);">Returns &amp; Exchanges</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/SiteMap.aspx" onclick="AddLinkClickTrack(&quot;/SiteMap.aspx&quot;);">Site Map</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/users/SecurityPrivacy.aspx" onclick="AddLinkClickTrack(&quot;/users/SecurityPrivacy.aspx&quot;);">Security &amp; Privacy</a>
-    </li>
-  </ul>
+    </p>
+  </div>
 </div>
-<div class="footermodule">
-  <h5>ABOUT LEVENGER</h5>
-  <ul>
-    <li>
+<div class="col-lg-3 col-md-3  col-sm-3">
+  <div class="title">
+    <a href="javascript:void (0)">ABOUT LEVENGER</a>
+  </div>
+  <div class="sub">
+    <p>
       <a href="http://www.levenger.com/AboutLevenger/AboutLev.aspx" onclick="AddLinkClickTrack(&quot;/AboutLevenger/AboutLev.aspx&quot;);">About Us</a>
-    </li>
-    <li>
-      <a href="http://www.levenger.com/DailyQuote/Quote.aspx" onclick="AddLinkClickTrack(&quot;/DailyQuote/Quote.aspx&quot;);">Quote of the Day</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/AboutLevenger/Careers.aspx" onclick="AddLinkClickTrack(&quot;/AboutLevenger/Careers.aspx&quot;);">Careers</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/Catalog/MediaPlayer.aspx?playerID=1145041279001&amp;playerkey=AQ~~,AAABCkUh0ak~,lWZNpk8UcKcgWNcSn2KZfI89veKsZONI" onclick="AddLinkClickTrack(&quot;/Catalog/MediaPlayer.aspx?playerID=1145041279001&amp;playerkey=AQ~~,AAABCkUh0ak~,lWZNpk8UcKcgWNcSn2KZfI89veKsZONI&quot;);">Levenger Videos</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/ABOUT-LEVENGER-536/How-To-s-679.aspx" onclick="AddLinkClickTrack(&quot;/ABOUT-LEVENGER-536/How-To-s-679.aspx&quot;);">How To's</a>
-    </li>
-  </ul>
+    </p>
+  </div>
 </div>
-<div class="footermodule">
-  <h5>SHOP</h5>
-  <ul>
-    <li>
+<div class="col-lg-3 col-md-3  col-sm-3">
+  <div class="title">
+    <a href="javascript:void (0)">SHOP</a>
+  </div>
+  <div class="sub">
+    <p>
       <a href="http://www.levenger.com/users/CatalogSearch.aspx" onclick="AddLinkClickTrack(&quot;/users/CatalogSearch.aspx&quot;);">Catalog Quick Order</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/users/Contact.aspx#Our_Location" onclick="AddLinkClickTrack(&quot;/users/Contact.aspx#Our_Location&quot;);">Store Locations</a>
-    </li>
-    <li>
+    </p>
+    <p>
       <a href="http://www.levenger.com/SHOP-1267/Gift-Cards-543/Gift-Card-426.aspx" onclick="AddLinkClickTrack(&quot;/SHOP-1267/Gift-Cards-543/Gift-Card-426.aspx&quot;);">Gift Cards</a>
-    </li>
-    <li>
-      <a href="http://www.levenger.com/users/GiftGiveCards.aspx" onclick="AddLinkClickTrack(&quot;/users/GiftGiveCards.aspx&quot;);">Gift Card Balance</a>
-    </li>
-    <li>
+    </p>
+    <p>
+      <a href="http://www.levenger.com/users/gcbalinq.aspx" onclick="AddLinkClickTrack(&quot;/users/gcbalinq.aspx&quot;);">Gift Card Balance</a>
+    </p>
+    <p>
       <a href="http://www.levenger.com/navigation/gift-shoppers-guide.aspx" onclick="AddLinkClickTrack(&quot;/navigation/gift-shoppers-guide.aspx&quot;);">Gift Guide</a>
-    </li>
-    <li>
-      <a href="http://www.levenger.com/SHOP-1267/Product-Guide-559.aspx" onclick="AddLinkClickTrack(&quot;/SHOP-1267/Product-Guide-559.aspx&quot;);">Product Guide</a>
-    </li>
-  </ul>
+    </p>
+  </div>
 </div>
-<div class="footermodule">
-  <h5>FOR BUSINESS</h5>
-  <ul>
-    <li>
+<div class="col-lg-3 col-md-3  col-sm-3">
+  <div class="title">
+    <a href="javascript:void (0)">FOR BUSINESS</a>
+  </div>
+  <div class="sub">
+    <p>
       <a href="http://www.levenger.com/Corporate/COHome.aspx" onclick="AddLinkClickTrack(&quot;/Corporate/COHome.aspx&quot;);">Corporate Sales</a>
-    </li>
-  </ul>
+    </p>
+  </div>
+</div>
+         </div>
+        <!-- McAfee Secure Trustmark for www.levenger.com -->
+            <div class="McAfee code">
+            <a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.levenger.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.levenger.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+            </div>
+        <!-- End McAfee Secure Trustmark -->
+        <div class="copy">© Copyright Levenger Company 2016. All Rights Reserved.</div>
+    </div>
 </div>
 
-        <div class="footermoduleright">
-            <h5>Connect With Us:</h5>
-            <img src="/images/icon.png" alt="test" width="192" height="110" border="0" usemap="#Map">
-            <map name="Map" id="Map">
-              <area shape="rect" coords="0,0,26,26" href="javascript:OpenGeneralPopupWindowOutSite('http://www.facebook.com/Levenger',800,850)" alt="Facebook">
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_ctl00_ValidationSummary1"));
+//]]>
+</script>
 
-              <area shape="rect" coords="52,0,78,26" href="javascript:OpenGeneralPopupWindowOutSite('http://twitter.com/levenger',800,850)" alt="Twitter">
-              <area shape="rect" coords="104,0,172,26" href="javascript:OpenGeneralPopupWindowOutSite('http://blog.wellreadlife.com/',800,850)" alt="Steve's Blog">
-              <area shape="rect" coords="0,42,26,68" href="javascript:OpenGeneralPopupWindowOutSite('http://instagram.com/genuinelevenger/',800,850)" alt="Instagram">
-              <area shape="rect" coords="52,42,78,68" href="javascript:OpenGeneralPopupWindowOutSite('http://www.pinterest.com/levenger/',800,850)" alt="Pinterest">
-              <area shape="rect" coords="104,42,172,68" href="javascript:OpenGeneralPopupWindow('/Reviews/ReviewHowTo.aspx',800,850)" alt="Write a Review">
-              <area shape="rect" coords="0,84,26,109" href="javascript:OpenGeneralPopupWindowOutSite('http://www.youtube.com/user/levengermedia',800,850)" alt="Youtube">
-              <area shape="rect" coords="52,84,78,109" href="javascript:OpenGeneralPopupWindowOutSite('http://plus.google.com/111932960810283193259/posts',800,850)" alt="Google plus">
-              <area shape="rect" coords="104,84,185,109" href="javascript:OpenGeneralPopupWindow('/LevengerPress/LPHome.aspx',800,850)" alt="Levenger Press">
-            </map>
-          </div>
-
-          <div class="clear"></div>
-          <div class="footerCopyright" align="left">
-            <p>© Copyright Levenger Company 2016. All Rights Reserved.</p>
-          </div>
-<!-- McAfee Secure Trustmark for www.levenger.com -->
-<div class="McAfee">
-<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.levenger.com"><img class="mfes-trustmark mfes-trustmark-hover" border="0" src="//cdn.ywxi.net/meter/www.levenger.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-</div>
-<!-- End McAfee Secure Trustmark -->
-
-     </div>
-      </div>
-    </div>  
-   
-          
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ctl00_ValidationSummary1 = document.all ? document.all["ctl00_ctl00_ValidationSummary1"] : document.getElementById("ctl00_ctl00_ValidationSummary1");
+ctl00_ctl00_ValidationSummary1.showmessagebox = "True";
+ctl00_ctl00_ValidationSummary1.showsummary = "False";
+//]]>
+</script>
 
 
-	</form>
-    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-	<script src="https://www.google-analytics.com/ga.js" type="text/javascript" language="javascript"></script>
-	<script type="text/javascript" language="javascript">
-	    AddPageTag();
+<script type="text/javascript">
+//<![CDATA[
 
-	    function WebForm_FireDefaultButton(event, target) {
-	        if (event.keyCode == 13) {
-	            var src = event.srcElement || event.target;
-
-	            if (!src || (src.tagName.toLowerCase() != "textarea")) {
-	                var defaultButton;
-	                if (__nonMSDOMBrowser) {
-	                    defaultButton = document.getElementById(target);
-	                }
-	                else {
-	                    defaultButton = document.all[target];
-	                }
-
-	                if ($("#" + target).prop("tagName").toLowerCase() == "a") {
-	                    eval($("#" + target).attr('href'));
-
-	                    event.cancelBubble = true;
-	                    if (event.stopPropagation) event.stopPropagation();
-	                    return false;
-	                }
-
-	                if (defaultButton && typeof (defaultButton.click) != "undefined") {
-	                    defaultButton.click();
-	                    event.cancelBubble = true;
-	                    if (event.stopPropagation) event.stopPropagation();
-	                    return false;
-	                }
-	            }
-	        }
-	        return true;
-	    }
-	</script>
-
-    <!-- Start of ReTargeter Tag -->
-    <script type="text/javascript" src="https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/json3.js"></script>
-    <script type="text/javascript">
-        if (typeof _rt_cgi == "undefined") {
-            var _rt_cgi = 3200;
-            var _rt_base_url = "https://lt.retargeter.com/";
-            var _rt_js_base_url = "https://s3.amazonaws.com/V3-Assets/prod/client_super_tag/";
-            var _rt_init_src = _rt_js_base_url + "init_super_tag.js";
-            var _rt_refresh_st = false;
-            var _rt_record = function (params) { if (typeof document.getElementsByTagName("_rt_data")[0] == "undefined") { setTimeout(function () { _rt_record(params); }, 25); } };
-            (function () { var scr = document.createElement("script"); scr.src = _rt_init_src; document.getElementsByTagName("head")[0].appendChild(scr); })();
+(function(id) {
+    var e = document.getElementById(id);
+    if (e) {
+        e.dispose = function() {
+            Array.remove(Page_ValidationSummaries, document.getElementById(id));
         }
-        </script>
-    <!-- End of ReTargeter Tag -->
-
-    <!--  Bing code-->
-    <script> (function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5012539" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5012539&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-
-
+        e = null;
+    }
+})('ctl00_ctl00_ValidationSummary1');
+//]]>
+</script>
 
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><div style="display:none;" class="jqPreload0"> </div></body></html>
+
+<!--  Bing code-->
+<script>    (function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5257587" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5257587&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+
+
+</div></form></body></html>
