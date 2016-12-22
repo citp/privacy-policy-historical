@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616104113id_/http%3A//www.gaiaonline.com/info/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222024846id_/http%3A//www.gaiaonline.com/info/legal/privacy) for the most accurate reproduction.*
 
 # Gaia Online PRIVACY POLICY – Effective April 5, 2016 | Gaia Online
 
