@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629134602id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airpush.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222161226id_/http%3A//www.airpush.com/privacypolicy) for the most accurate reproduction.*
 
 # Airpush.com Privacy Policy
 
 **Airpush**  
 **Site Privacy Policy**
 
-**Last Updated:**  February 4, 2015
+**Last Updated:  November 21st, 2016**
 
 How We Collect Your Data  
 Analytics Services Provided by Others  
 How We Use Your Data  
 How We Share Your Data  
 Security and Integrity of Your Data  
-Safe Harbor Privacy Principles  
 Access to Your Information and Your Choices Regarding Our Site  
 Enforcement  
-Privacy Complaints by European Union and Swiss Citizens
+Privacy Complaints by European Economic Area Member Country Users
 
 This Site Privacy Policy (“Policy”) explains how your information is collected, used and shared by Airpush, Inc. and its subsidiaries and affiliates (“Airpush”) when you visit our website at [www.airpush.com](http://www.airpush.com/) (“Site”).  This Policy refers only to information we collect from advertisers, developers, and other parties that visit our Site.  For information about how we collect, use and share information about consumers who have installed a mobile application that utilizes our mobile advertising services, please see our [Technology Privacy Statement](http://www.airpush.com/technology_privacy).
 
@@ -28,7 +27,7 @@ We collect information about you in various ways when you use our Site.  For ex
 When you visit our Site, some information is automatically collected, including:
 
   * **Log information:  **such as your operating system, IP address, access times, browser type and language, and the website you visited before our Site are logged automatically.  We also collect information about your usage and activity on our Site.
-  * **Cookies and Other Tracking Technologies:   **are used on our Site for analytics purposes, such as to understand which areas and features are popular and to count visits to our Site.  You may block cookies by Airpush by setting your browser settings to block cookies.  However, if you choose to remove cookies or reject cookies, this could affect our Site’s functionality.
+  * **Cookies and Other Tracking Technologies:   **are used on our Site for analytics purposes, such as to understand which areas and features are popular and to count visits to our Site.  You may block cookies by Airpush by setting your browser settings to block cookies.  However, if you choose to remove cookies or reject cookies, this could affect our Site’s functionality. For more information on how we use cookies, visit our [Cookie Policy](https://web.archive.org/cookiepolicy).
 
 
 
@@ -76,29 +75,28 @@ We may also share aggregated or de-identified information, which cannot reasonab
 
 Airpush takes reasonable precautions to safeguard the information we collect through our Site in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-### **Safe Harbor Privacy Principles**
-
-We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that Airpush adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
-
 ### **Access to Your Information and Your Choices Regarding Our Site**
 
-You may opt out of receiving promotional emails from Airpush by following the instructions in those emails.  If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+You may opt out of receiving promotional emails from Airpush by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.  
+If you have created an account with Airpush as a developer or advertiser, you may log into your Airpush account and update your information in the Account Settings section
 
-If you have created an account with Airpush as a developer or advertiser, you may log into your Airpush account and update your information in the Account Settings section.
-
-### **Enforcement**
+### **Enforcement and Contact**
 
 We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
 
+If you have any questions regarding this Policy, please contact us by email at [privacy@airpush.com](mailto:privacy@airpush.com), or by mail at the address below.
+
+Airpush, Inc.  
+ATTN: Privacy  
+7900 E. Union Avenue, Suite 1100  
+Denver, CO 80237
+
 ### **Privacy Complaints by European Union and Swiss Citizens**
 
-In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, Airpush commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this Policy should first contact Airpush at [privacy@airpush.com](mailto:privacy@airpush.com).
+Airpush, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Airpush, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. For further information on our certification under privacy shield, visit our [Privacy Shield Notice](https://web.archive.org/privacy-shield).
 
-Airpush has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Airpush, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint:
+In compliance with the EU-US Privacy Shield Principles, Airpush, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Statement should first contact Airpush at [privacy@airpush.com](mailto:privacy@airpush.com).
 
-Council of Better Business Bureaus, Inc.
+Airpush, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
 
-BBB EU Safe Harbor  
-3033 Wilson Boulevard, Suite 600  
-Arlington, VA 22201  
-U.S.A.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
