@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacity.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422154248id_/https%3A//disclaimer.lacity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacity.org privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222085857id_/http%3A//disclaimer.lacity.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ Any information collected by any City site from children under 13 are subject to
   * If any information practices change in a "material" way, new consent will be obtained from the parents. This includes changes in the kinds of material being collected, a change in how that information is being used, or if there is a change in the third parties that have access to that information. 
   * Parents will be able to review the personal information collected from their children which includes verification of the identity of the requesting parent. See individual requests for information for specifics.
   * Parents will be allowed to revoke their consent and delete information collected from or for their children on request. When consent is revoked, the website will stop collecting, using or disclosing information from or for that child. Revocation may end a child's participation in an activity if the information collected was necessary for participation on the website. 
-  * Additional information can be obtained at the FTC's Consumer Response Center (http://www.ftc.gov/privacy/index.html) and the Kidz Privacy (http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) websites. 
+  * Additional information can be obtained at the FTC's Consumer Response Center (<http://www.ftc.gov/privacy/index.html>) and the Children’s Privacy ([https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacyl](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy)) websites. 
 
 
 
