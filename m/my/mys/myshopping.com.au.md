@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052322id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042356id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
 | 
 
-June 22, 2007
+July 22, 2016
 
 ## Maintaining your privacy
 
@@ -14,12 +14,12 @@ MyShopping Australial Pty Ltd owns and operates this site 'My Shopping'. We have
 
 My Shopping collects aggregated, non-personal statistical information on site visitors such as: 
 
-  * your server IP address;
-  * the date and time of your visit to the site;
-  * the pages you accessed and the documents downloaded;
-  * the duration of your visit to the site;
-  * the previous site you have visited;
-  * the type of web browser you are using;
+  * your server IP address
+  * the date and time of your visit to the site
+  * the pages you accessed and the documents downloaded
+  * the duration of your visit to the site
+  * the previous site you have visited
+  * the type of web browser you are using
   * other information provided by your browser's HTTP headers
 
 
@@ -27,8 +27,9 @@ My Shopping collects aggregated, non-personal statistical information on site vi
 MyShopping also collects user submitted information such as:
 
   * My Shopping Club account information, including name and email address; 
-  * location information, including city, state and postcode;
+  * location information, including city, state and postcode
   * reviews, articles, responses, opinion and ratings of merchants, stores, products and services
+  * rewards program membership details
 
 
 
@@ -44,24 +45,29 @@ If you wish to access and use My Shopping Club, you must register and create a u
 
 ## Using personal information
 
-My Shopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other My Shopping users. To fulfill this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. My Shopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
+My Shopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other My Shopping users. To fulfil this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. My Shopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. In the event that you opt in for surveys or complete surveys, your personal information may be collected and used for research, validation, de-duplication or specific project needs by our Affiliate or partners. You also consent to your information being transferred outside Australia by our partners and affiliates. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
 
-  * establish a My Shopping Club user account;
-  * contact you for any purpose related to your account or your use of the site;
-  * verify your identity;
-  * market products, services and special offers to you;
-  * assist you to subscribe to any newsletter or other promotions we offer or may in the future offer and to manage and administer those services;
-  * make changes to your profile;
-  * respond to any queries or feedback you may have;
-  * inform you of ways the information or services provided to you could be improved;
-  * research and develop our services;
-  * maintain and develop our business systems;
-  * display and aggregate your postings, including ratings, opinions, articles, comments and reviews;
-  * allow other users of the site to contact or send postings and messages to you;
-  * gain a better understanding of your information service requirements; and
-  * conduct appropriate checks for credit-worthiness or fraud.
+  * establish a My Shopping Club user account
+  * contact you for any purpose related to your account or your use of the site
+  * verify your identity
+  * market products, services and special offers to you
+  * assist you to subscribe to any newsletter or other promotions we offer or may in the future offer and to manage and administer those services
+  * make changes to your profile
+  * respond to any queries or feedback you may have
+  * inform you of ways the information or services provided to you could be improved
+  * research and develop our services
+  * to being disclosed to a partner or affiliate for marketing and research purposes
+  * maintain and develop our business systems
+  * display and aggregate your postings, including ratings, opinions, articles, comments and reviews
+  * allow other users of the site to contact or send postings and messages to you
+  * gain a better understanding of your information service requirements
+  * facilitate an individual's participation in a rewards program
+  * facilitate an individual's redemptions through a rewards program
+  * conduct appropriate checks for credit-worthiness or fraud
 
 
+
+If you complete online surveys, your information may be transferred to our affiliates and partners who are independent entities. We therefore recommend that you read their user agreement and privacy statement before providing us with any of your details. 
 
 Several advertising networks are responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au 
 
@@ -71,7 +77,7 @@ We reserve the right to transfer your personal information in the event of a tra
 
 ## Trans-border transfer of your personal information
 
-My Shopping is an Australian entity however our server, and all data we collect in the operation of this site, is hosted in the United States of America (USA). This means any personal information you provide through your use of this Site will be transferred to our server in the USA. By continuing to access and use this site, you consent to the application of Australian laws relating to the collection, use, and disclosure of your personal information and to the transfer of your personal information to the USA. 
+My Shopping is an Australian entity however our server, and all data we collect in the operation of this site, is hosted in the United States of America (USA). You understand and agrees that any personal information you provide through your use of this Site may be transferred to our server in the USA. By continuing to access and use this site, you consent to the application of Australian laws relating to the collection, use, and disclosure of your personal information and to the transfer of your personal information to the USA. 
 
 ## Disclosing personal information
 
