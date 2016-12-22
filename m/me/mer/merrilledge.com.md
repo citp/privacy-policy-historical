@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616104551id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrilledge.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025631id_/https%3A//www.ml.com/privacy-and-security-center/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -30,7 +30,7 @@ The use of cookies and similar technologies is a common Internet practice. We ha
 
 Your personal information is a valuable part of your financial life. We strongly recommend that you protect your information in the same way you monitor your financial accounts.
 
-  * [Client Privacy & Security Center](https://web.archive.org/privacy-and-security-center/privacy-and-security-center.html)
+  * Client Privacy & Security Center
   * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html)
   * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
   * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
