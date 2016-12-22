@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525023723id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222020608id_/http%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pete's Place Privacy Policy
 
 ### 
 
-**Privacy Policy**
+**Privacy & Cookie Policy**
 
 **[pppst.com](http://www.pppst.com/index.html) does not collect information on visitors to its Website. **
 
