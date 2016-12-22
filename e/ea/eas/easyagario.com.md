@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the easyagario.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617003509id_/http%3A//easyagario.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyagario.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222012750id_/http%3A//easyagario.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
 
-    EasyAgario.com Privacy Policy
+    Easyagario.com Privacy Policy
     
-    This Privacy Policy governs the manner in which easyagario.com collects, uses, maintains and discloses information collected from users (each, a "User") of the easyagario.com website ("Site"). This privacy policy applies to the Site and all products and services offered by easyagario.com.
+    This Privacy Policy governs the manner in which Easyagario.com collects, uses, maintains and discloses information collected from users (each, a "User") of the Easyagario.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Easyagario.com.
     
     Personal identification information
     
@@ -41,7 +41,7 @@
     
     Changes to this privacy policy
     
-    easyagario.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+    Easyagario.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
     
     Your acceptance of these terms
     
