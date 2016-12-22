@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apache.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505144338id_/http%3A//www.apache.com/www/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apache.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223001718id_/http%3A//www.apache.com/www/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apache Digital Corporation
 
