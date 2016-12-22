@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategicbusinessteam.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618165307id_/http%3A//strategicbusinessteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategicbusinessteam.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222120029id_/http%3A//strategicbusinessteam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for StrategicBusinessTeam.com | How to Start a Business with No Money
 
