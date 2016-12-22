@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wallstreetwindow.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516091843id_/http%3A//www.wallstreetwindow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreetwindow.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222062253id_/http%3A//www.wallstreetwindow.com/privacy.htm) for the most accurate reproduction.*
 
 # None
 
-Wallstreetwindow.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [ privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+Wallstreetwindow.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [ privacy policy primer](https://en.wikipedia.org/wiki/Privacy_policy) by Wikipedia to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -16,17 +16,23 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [ web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [ web browser privacy management](https://support.google.com/chrome/answer/114836) links for Chrome may also be useful.
 
 ## Google Adsense and Doubleclick DART Cookie
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a our website and either view or click an ad, a cookie may be dropped on the end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web. 
+Google, as a third-party vendor, uses cookies to serve ads on our site. The DoubleClick DART cookie is one cookie used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a our website and either view or click an ad, a cookie may be dropped on the end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web. 
 
-Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Google's use of cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **  
-** Users may opt out of the use of the DART cookie by visiting the Google ad and  [ content network privacy policy](http://www.google.co.uk/privacy_ads.html "Google: Advertising & Privacy").   
+** For more information on Google see its and  [ content network privacy policy](https://www.google.com/policies/privacy/ "Google: Advertising & Privacy").   
  
+
+## Facebook Advertising and Audience Profiles
+
+WallStreetwindow also uses Facebook cookies to enable Facebook to track traffic and build what it calls audience profiles. 
+
+At times ads are run to people cookied in these audience profiles through Facebook. For information on Facebook's tracking systems go to its [Data Policy](https://www.facebook.com/policy.php)
 
 **Links to Third Part Websites**
 
@@ -34,4 +40,4 @@ We have included links on this site for your use and reference.  We are not res
 
 ## Contact Information
 
-If you have concerns or questions about this privacy policy go to our [contact page](http://www.wallstreetwindow.com/content/feedback) for further clarification.
+If you have concerns or questions about this privacy policy go to our [contact page](http://www.wallstreetwindow.com/contact) for further clarification.
