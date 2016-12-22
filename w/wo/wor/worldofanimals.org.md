@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldofanimals.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618070018id_/http%3A//worldofanimals.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofanimals.org privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222125658id_/http%3A//worldofanimals.org/privacy.php) for the most accurate reproduction.*
 
-# WORLDOFANIMALS.ORG
+# World of Animals
 
 **_PRIVACY POLICY_**
 
