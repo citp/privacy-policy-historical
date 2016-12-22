@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519003029id_/http%3A//www.eximbankindia.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eximbankindia.in privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222055912id_/http%3A//www.eximbankindia.in/privacy-policy) for the most accurate reproduction.*
 
-# Exim Bank Privacy Policy
+# Privacy Policy - Exim Bank
 
-This section outlines our policy relating to any personal information you might wish to provide us when you visit www.eximbanindia.in (" the Site") . We reserve the right to change the Privacy Policy in effect from time to time at our discretion, and you shall be deemed to have accepted the revised terms after they are posted on the Site.
+This section outlines our policy relating to any personal information you might wish to provide us when you visit www.eximbankindia.in ("the Site") . We reserve the right to change the Privacy Policy in effect from time to time at our discretion, and you shall be deemed to have accepted the revised terms after they are posted on the Site.
 
 Export-Import Bank of India ('the Bank') will not collect any personal information that identifies a visitor to this site individually unless specified otherwise. During your use of the Site, we will log only technical and routing information such as the IP Address of your computer and of the pages visited at the Site. Such information will be used to prepare aggregate information about the number of visitors to the site and general statistics on usage patterns. We may use this aggregate, statistical data for statistical analysis, marketing or promotional purposes.
 
@@ -16,7 +16,7 @@ In addition to our duty of confidentiality to subscribers, we shall at all times
 
 
 
-###### Subscriber Registration Obligations
+### Subscriber Registration Obligations
 
 Upon subscription to the Site, the Bank may collect such personal data from the subscriber as may be required for the efficient operation of or for provision of more relevant services. While the Bank undertakes to take all necessary safeguards to protect this confidential information, the subscriber in turn agrees to :
 
@@ -25,7 +25,7 @@ Upon subscription to the Site, the Bank may collect such personal data from the 
 
 
 
-###### Subscriber Registration Obligations
+### Subscriber Registration Obligations
 
   1. designing financial services or related products for subscribers' use;
   2. marketing financial services or related products;
@@ -43,18 +43,18 @@ Data held by the Bank relating to a subscriber will be kept confidential but the
 
 
 
-Important
+## Important
 
 Please note that any data or information that you post to a public bulletin board or chat room in the Site is available to all persons accessing the Site.
 
-###### Links to other sites
+### Links to other sites
 
 Our Site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
 
 Please be aware that advertisers or Web sites that have links on our site may collect personally identifiable information about you. This privacy statement does not cover the information practices of those Web sites or advertisers.
 
-###### Change of Policy
+### Change of Policy
 
 If we decide to change our privacy policy we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. You shall be deemed to have accepted the terms of the changed Policy upon your accessing the Site after such changed Policy is in place.
 
-###### IMPORTANT: By accessing this Site and any of its pages, you are agreeing to the terms set out above.
+IMPORTANT: By accessing this Site and any of its pages, you are agreeing to the terms set out above.
