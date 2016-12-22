@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627030355id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidelive.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051004id_/http%3A//www.dallasnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Dallas Morning News
+# Dallas News: Breaking News for DFW, Texas, World
 
 **Last Updated October 1, 2013**  
 
