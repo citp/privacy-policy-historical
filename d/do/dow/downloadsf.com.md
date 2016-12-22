@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadsf.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318010223id_/http%3A//downloadsf.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsf.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222230724id_/http%3A//downloadsf.com/en/policy) for the most accurate reproduction.*
 
 # downloadsf.com
 
