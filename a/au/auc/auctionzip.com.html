@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618160348id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auctionzip.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222042344id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>
       AuctionZip, LLC Privacy Policy
     </title>
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2QNBH"></script><script src="//cdn.optimizely.com/js/1213030543.js"></script>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P2QNBH"></script><script async="" type="text/javascript" src="//www.auctionzip.com/includes/js/prebid.js"></script><script src="//cdn.optimizely.com/js/1213030543.js"></script>
 
 
 <script type="text/javascript">
@@ -30,7 +30,242 @@ if(typeof(AZ_UID_SET)=='undefined')
 	}
 }
 </script>
-<script type="text/javascript" src="//cdn.evergage.com/beacon/invaluable/auctionzip/scripts/evergage.min.js"></script>
+<script type="text/javascript" src="//evergagecdn.global.ssl.fastly.net/beacon/invaluable/auctionzip/scripts/evergage.min.js"></script>
+
+
+
+
+<script type="text/javascript">
+<!--
+// Page Bid Timeout
+var PREBID_timeout=1500;
+// Ads slots to get bids for and bidder lists
+var PREBID_adUnits = [{
+  code: 'global_header_ad',
+  sizes: [728,90],
+  bids: [{
+    bidder: 'sovrn',
+    params: {
+      tagid: '404728'
+    }
+  },{
+    bidder: 'rubicon',
+    params: {
+      accountId: '16282',
+      siteId: '119460',
+      zoneId: '564486',
+      Sizes: '[2]'
+    }
+  },{
+    bidder: 'pulsepoint',
+    params: {
+      cf: '728X90',
+      cp: '560772',
+      ct: '529615'
+    }
+  },{
+    bidder: 'indexExchange',
+    params: {
+      id: '2',
+      siteID: '188799'
+    }
+  },{
+    bidder: 'appnexus',
+    params: {
+      placementId: '9841125'
+    }
+  },{
+    bidder: 'aol',
+    params: {
+      network: '9506.1',
+      placement: '4345420'
+    }
+  },{
+    bidder: 'openx',
+    params: {
+      unit: '538621051'
+    }
+  }]
+}];
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+pbjs.retries = 0;
+
+(function () {
+  var script = document.createElement('script');
+  script.async=true;
+  script.type = 'text/javascript';
+	script.src = '//www.auctionzip.com/includes/js/prebid.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+})();
+
+pbjs.que.push(function() {
+//  pbjs.enableAnalytics({
+//    provider: 'aol', // Enable AOL Container solution reporting
+//    options: {}
+//  });
+
+  pbjs.addAdUnits(PREBID_adUnits);
+  pbjs.enableSendAllBids();
+  pbjs.requestBids({
+    timeout: PREBID_timeout, // The primary timeout is set here
+    bidsBackHandler: sendAdserverRequest
+  });
+});
+
+function sendAdserverRequest(bidResponses) {
+	// Prevent duplicate display calls.		
+	if (pbjs.adserverRequestSent) return;
+	pbjs.adserverRequestSent = true;
+
+	// Get results
+	var targetingParams = pbjs.getAdserverTargeting();
+	// Optional Bid Diagnostics Display
+	var container = document.getElementById('prebid_diag');
+	if (container)
+	{
+		container.innerHTML = JSON.stringify(targetingParams);
+	}
+	// Loop through all ad units even if we didn't get a bid
+	for (bid=0;bid<PREBID_adUnits.length;bid++)
+	{
+		var adsize=null;
+		var oxauid=null;
+		var bidvars=null;
+		var bidid=null;
+		var code=PREBID_adUnits[bid].code;
+		// Extract openx auid from bid requests where available
+		// openx bids without the jstag_url param will not execute,
+		// but this is a good place to store the auid for use below.
+		var bids=PREBID_adUnits[bid].bids;
+		for (b=0;b<bids.length;b++)
+		{
+			if(bids[b].bidder=='openx')
+			{
+				oxauid=bids[b].params.unit;
+			}
+		}
+		// Grab first requested ad size from bid request for dimensions
+		// if we don't get a bid response.
+		if(typeof(PREBID_adUnits[bid].sizes[0]) == 'number')
+		{
+			adsize=PREBID_adUnits[bid].sizes;
+		}
+		else
+		{
+			adsize=PREBID_adUnits[bid].sizes[0];
+		}
+
+		if (targetingParams.hasOwnProperty(code))
+		{
+			bidid=targetingParams[code].hb_adid;
+			bidvars=targetingParams[code];
+			adsize=targetingParams[code].hb_size.split("x");
+
+			container = document.getElementById(code+'-pb');
+			if ((bidid)&&(container))
+			{
+				var iframe = document.createElement('iframe');
+				iframe.setAttribute("scrolling", "no");
+				try {
+				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+				} catch (e) {}
+				iframe.style.margin='0px';
+				iframe.style.padding='0px';
+				iframe.style.border="none";
+				container.appendChild(iframe);
+				container.style.margin='0px';
+				container.style.padding='0px';
+				pbjs.renderAd(iframe.contentWindow.document,bidid);
+				iframe.contentWindow.document.body.style.margin='0px';
+				iframe.contentWindow.document.body.style.padding='0px';
+			}
+		}
+
+		// Select OX div container
+		container = document.getElementById(code);
+		if (container)
+		{
+			if (oxauid)
+			{
+				// Push Results to OX container
+				container.style.width=adsize[0]+"px";
+				container.style.height=adsize[1]+"px";
+				container.style.margin='0px';
+				container.style.padding='0px';
+
+				var iframe = document.createElement('iframe');
+				iframe.setAttribute("scrolling", "no");
+				try {
+				iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+				} catch (e) {}
+				iframe.style.margin='0px';
+				iframe.style.padding='0px';
+				iframe.style.border="none";
+				iframe.style.width=adsize[0]+"px";
+				iframe.style.height=adsize[1]+"px";
+				container.appendChild(iframe);
+				var ifdoc=iframe.contentWindow.document;
+				var html="\<html>\n";
+				html+="\<head>\n";
+				html+="\</head>\n";
+				html+="\<body style=\"margin: 0px; padding: 0px;\">\n";
+				html+="\<div id=\""+code+"\" style=\"width: "+adsize[0]+"px; height: "+adsize[1]+"px; margin: 0px; padding: 0px;\">\n";
+				html+="\<script type='text/javascript' src='//artfact-d.openx.net/w/1.0/jstag'\>\</script\>\n";
+				html+="\<script type='text/javascript'\>\n";
+				html+="var code='"+code+"';\n";
+				html+="var oxauid='"+oxauid+"';\n";
+				html+="var OX_Render = OX();\n";
+				html+="OX_Render.addAdUnit(oxauid);\n";
+				html+="OX_Render.setAdUnitSlotId(oxauid,code);\n";
+				if (bidvars)
+				{
+					for (var key in bidvars ) 
+					{
+						html+="OX_Render.addVariable(\""+key+"\",\""+bidvars[key]+"\");\n";
+					}
+				}
+				html+="OX_Render.load();\n";
+				html+="\</script\>\n";
+				html+="\</body>\n";
+				html+="\</html>\n";
+				ifdoc.open();
+				ifdoc.write(html);
+				ifdoc.close();
+			}
+			else
+			{
+				if (bidid)
+				{
+					var iframe = document.createElement('iframe');
+					iframe.setAttribute("scrolling", "no");
+					try {
+					iframe.setAttribute("sandbox", "allow-same-origin allow-scripts allow-popups allow-form");
+					} catch (e) {}
+					iframe.style.margin='0px';
+					iframe.style.padding='0px';
+					iframe.style.border="none";
+					container.appendChild(iframe);
+					container.style.margin='0px';
+					container.style.padding='0px';
+					pbjs.renderAd(iframe.contentWindow.document,bidid);
+					iframe.contentWindow.document.body.style.margin='0px';
+					iframe.contentWindow.document.body.style.padding='0px';
+				}
+			}
+		}
+	}
+}
+//-->
+</script>
+
+
 <meta property="og:image" content="http://www.auctionzip.com/images/smlogo.png">
 <link rel="shortcut icon" href="/favicon_aza.ico" type="image/vnd.microsoft.icon">
 <meta name="keywords" content="auction, auctioneer, auto auction, antique auction, real estate auction, farm sale, public sale, estate sale, antiques, cars, automobile, real estate, collectibles, heavy equipment, farm equipment">
@@ -104,8 +339,9 @@ if(typeof(AZ_UID_SET)=='undefined')
 				<div class="left"><a href="http://www.auctionzip.com"><img border="0" src="/images/AZ_Logo.png" class="logo" alt="AuctionZip: Find auctions anywhere!" title="AuctionZip: Find auctions anywhere!"></a></div>
 				<div class="right" id="headPlacement">
 					
-<div class="theAd"><iframe src="/includes/structureTemplates/standardBurst.html" id="adframetop" width="728" height="90" scrolling="no" frameborder="0"></iframe></div>
+<div id="global_header_ad" style="width:728px; height:90px;"></div>
 
+<script type="text/javascript" src="//artfact-d.openx.net/w/1.0/jstag"></script>
 
 				</div> 
 			</div>
@@ -188,13 +424,13 @@ select.azsrchbar::-ms-expand {
 }
 //-->
 </style>
-<div style="width:100%; height:75px; background-color: #FFE9AF; margin-top:0px;">
+<div id="hsrchbarbox" class="hsrchbarbox" style="width:100%; height:75px; background-color: #FFE9AF; margin-top:0px;">
 <div>
 <form name="hsrchbox" id="hsrchbox" action="http://www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
 <div style="height:75px; padding-top:20px;">
 <div style="float: left; width: 10px;">&nbsp;</div>
 <div style="float: left; width: 100px;">
-				<select name="txtSearchRadius" id="htxtSearchRadius" onchange="document.getElementById('hnewsearch').value=1;" style="width: 100px; border-bottom-right-radius: 0px;   border-top-right-radius: 0px" class="azsrchbar">
+				<select name="txtSearchRadius" id="htxtSearchRadius" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,2);" style="width: 100px; border-bottom-right-radius: 0px;   border-top-right-radius: 0px" class="azsrchbar">
                               <option value="30">
                                   30 Miles
                                 </option>
@@ -226,7 +462,7 @@ select.azsrchbar::-ms-expand {
 </div>
 <div class="hsrch-spacer" style="float:left; width: 25px;">&nbsp;</div>
 <div style="float:left; width: 182px;">
-				<select name="idxSearchCategory" onchange="document.getElementById('hnewsearch').value=1;" style="width: 182px;" class="azsrchbar">
+				<select name="idxSearchCategory" onchange="document.getElementById('hnewsearch').value=1;srchbarinputSelect(this,3);" id="hidxSearchCategory" style="width: 182px;" class="azsrchbar">
                               <option value="0" selected="">
                                   All Categories
                                 </option>
@@ -288,7 +524,7 @@ select.azsrchbar::-ms-expand {
 </div>
 <div class="hsrch-spacer" style="float:left; width: 25px;">&nbsp;</div>
 <div class="hsrch-btn-container" style="float:left; width: 173px">
-				<input type="submit" id="hsearchSubmitButton" value="Search Auctions" style="width: 173px; font-size: 16px;" onclick="srchvarinputCheck();if((document.getElementById(&quot;htxtSearchZip&quot;).value == &quot;&quot;)&amp;&amp;(document.getElementById(&quot;htxtSearchRadius&quot;).value != 0)){srchvarinputSet();alert(&quot;Please enter a starting Zip code for your search.&quot;);return(false);};" class="azsrchbar">
+				<input type="submit" id="hsearchSubmitButton" value="Search Auctions" style="width: 173px; font-size: 16px;" onclick="srchvarinputCheck();if((document.getElementById(&quot;htxtSearchZip&quot;).value == &quot;&quot;)&amp;&amp;(document.getElementById(&quot;htxtSearchRadius&quot;).value != 0)){srchvarinputSet();SearchClickSubmitFailed=true;alert(&quot;Please enter a starting Zip code for your search.&quot;);return(false);};" class="azsrchbar">
 </div>
 <div style="clear: both;"></div>
 
@@ -801,7 +1037,7 @@ _qoptions={
 	</ul>
 	
 	<div class="searchAuctions">
-		<h1>Search Auctions</h1>
+		<h2 style="text-align:left; color: #555; text-decoration: none; font-weight: 700; letter-spacing: -1px; font-size: 20px; border-bottom: 1px solid #827d98; margin: 0; padding: 0 0 3px;">Search Auctions</h2>
 		
 		<form name="fsrchbox" id="fsrchbox" action="http://www.auctionzip.com/cgi-bin/auctionsearch.cgi" method="get">
 				<p>
