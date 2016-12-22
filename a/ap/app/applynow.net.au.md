@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applynow.net.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401112921id_/http%3A//www.applynow.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applynow.net.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222212603id_/http%3A//www.applynow.com.au/privacy.php) for the most accurate reproduction.*
 
 # Find Jobs in Australia - ApplyNow.com.au Job Search Site
 
