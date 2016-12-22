@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzcity.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530233959id_/https%3A//www.buzzcity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzcity.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222183604id_/https%3A//www.buzzcity.com/privacy_policy) for the most accurate reproduction.*
 
 # BuzzCity - Mobile Internet Advertising
 
