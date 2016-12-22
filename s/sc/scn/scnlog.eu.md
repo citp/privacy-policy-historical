@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629233127id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnlog.eu privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222183741id_/http%3A//scnlog.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scnlog.eu
+
+* * *
 
 This Privacy Policy governs the manner in which Scnlog.eu collects, uses, maintains and discloses information collected from users (each, a “User”) of the Scnlog.eu website (“Site”). This privacy policy applies to the Site and all products and services offered by Scnlog.
 
