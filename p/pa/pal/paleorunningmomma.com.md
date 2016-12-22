@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paleorunningmomma.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603042104id_/http%3A//www.paleorunningmomma.com/policies-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleorunningmomma.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222091431id_/http%3A//www.paleorunningmomma.com/policies-disclaimer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Paleo Running Momma
+# Privacy Policy | The Paleo Running Momma
 
 **PRIVACY POLICY**
 
@@ -49,11 +49,7 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-Mode Media
-
-Google Adsense
-
-Gourmet Ads
+Mediavine
 
 Amazon
 
@@ -66,3 +62,5 @@ You should consult the respective privacy policies of these third-party ad serve
 For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy).
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+
+## Reader Interactions
