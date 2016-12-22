@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034443id_/https%3A//www.rt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222152633id_/https%3A//www.rt.com/privacy-policy) for the most accurate reproduction.*
 
 # RT privacy policy — RT
 
