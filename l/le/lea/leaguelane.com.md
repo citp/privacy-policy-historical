@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelane.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617025007id_/http%3A//leaguelane.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelane.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222084148id_/http%3A//leaguelane.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy
 
