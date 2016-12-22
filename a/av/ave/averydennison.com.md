@@ -1,27 +1,15 @@
-> *The following text is extracted and transformed from the averydennison.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080548id_/http%3A//www.averydennison.com/en/home/legal-privacy-notices.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the averydennison.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222192203id_/http%3A//www.averydennison.com/en/home/legal-privacy-notices.html) for the most accurate reproduction.*
 
 # Legal & Privacy Notices - Privacy Policy | Website Privacy Policies | Standard Privacy Policy | Privacy Policy Requirements | Avery Dennison
 
 ### **PRIVACY STATEMENT**
 
-Avery Dennison protects its customers' right to privacy. The following guidelines outline fair and appropriate handling of all customer information passed through this Web site and other Avery Dennison operated websites.
+We at Avery Dennison value our customers and take great pride in assuring that their privacy is maintained. It is important that we maintain an environment where our customers feel comfortable that the information they provide us with will not be misused. We believe every customer should be able to conduct business with us without having their personal information used for unrelated purposes. This document provides guidelines that Avery Dennison uses to ensure proper handling of all customer information.
 
-| 
-
-Terms & Conditions  
-Privacy Policy  
-Linking Agreement  
-Parental Consent Policy  
-  
-  
----|---  
-  
 **_PRIVACY & COOKIES POLICY  
-_**Avery Dennison protects its customers' right to privacy. The following guidelines outline the handling of all customer information passed through this Web site.
+_**Avery Dennison protects its customers' right to privacy. The following guidelines outline the handling of all customer information passed through this Web site and other Avery Dennison operated websites.
 
 **_AVERY DENNISON CUSTOMER PRIVACY POLICY GUIDELINES_**
-
-We at Avery Dennison value our customers and take great pride in assuring that their privacy is maintained. It is important that we maintain an environment where our customers feel comfortable that the information they provide us with will not be misused. We believe every customer should be able to conduct business with us without having their personal information used for unrelated purposes. This document provides guidelines that Avery Dennison uses to ensure proper handling of all customer information.
 
 In general, when you visit our Web sites and access information, you remain anonymous. We collect personal information from visitors to our sites on a voluntary basis only and explain how this information will be used at the time it is requested.
 
@@ -49,18 +37,18 @@ We require this information to understand your needs and provide you with a bett
 
 We will obtain your prior permission before we contact you, if this is legally required.
 
-**_DO WE SELL PERSONAL INFORMATION TO THIRD PARTIES?_** **  
-** We do not sell or rent personal information to third parties.
+**_DO WE SELL PERSONAL INFORMATION TO THIRD PARTIES?_  
+**We do not sell or rent personal information to third parties.
 
 Our Web servers collect the domain names of visitors to our sites. We also use third party services such as Google Analytics to collect information about visitors to our websites. This information is aggregated to determine number of visits, average time spent, pages viewed, etc. We use this information to measure site usage, as well as to improve the content and value of our site.
 
 [[click here]](http://www.google.com/policies/privacy/) More information about the way Google processes your information. If you wish to disable Google Analytics on your browser, please follow [[](https://tools.google.com/dlpage/gaoptout)these steps]
 
-**_SECURITY_** **  
-** We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**_SECURITY_  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**_LINKS TO OTHER WEBSITES_** **  
-** This site may contain links to other third party sites. We take steps to link only to sites that share our high standards and respect for privacy. However, we are not responsible for the privacy standards and practices of third parties. We encourage you to read and understand the privacy policy of every website you visit.
+**_LINKS TO OTHER WEBSITES_  
+**This site may contain links to other third party sites. We take steps to link only to sites that share our high standards and respect for privacy. However, we are not responsible for the privacy standards and practices of third parties. We encourage you to read and understand the privacy policy of every website you visit.
 
 Avery Dennison strives to keep online visitor information secure against unauthorized access and use. This information is protected by Company security measures, which are reviewed periodically.
 
@@ -151,7 +139,7 @@ _Avery Dennison's customer information is collected when customers:_
 
 We would only use online email communication with customers who have given us permission to do so. When used, we will provide our customers with a mechanism through which they can request that Avery Dennison omit their email addresses from lists or databases. We will always provide our customers with an email address, postal address, and telephone number at which we can be contacted.
 
-**WHAT IF YOU DO NOT WISH TO RECEIVE ANY INFORMATION?** **  
+**WHAT IF YOU DO NOT WISH TO RECEIVE ANY INFORMATION?  
 **  
 _GENERAL  
 _If you would rather not receive any information about the activities, products and services of Avery Dennison , you can indicate this by sending a letter to this effect and enclosing a copy of your proof of identity to Avery Dennison at the e-mail address below.
@@ -159,13 +147,13 @@ _If you would rather not receive any information about the activities, products 
 _E-MAIL SERVICES  
 _Providing electronic services is important to Avery Dennison, particularly because these e-services offer customers, prospective customers and website visitors quick and convenient access to information. When you subscribe to receiving communications by e-mail, - where such service is offered - you are giving Avery Dennison permission to use your e-mail address for that specific purpose.
 
-**QUESTIONS** **  
-** If you have any questions requests with regard to this policy, please contact us at:
+**QUESTIONS  
+**If you have any questions requests with regard to this policy, please contact us at:
 
 Avery Dennison Corp  
 Attn: Corporate Communications  
 Email: [dataprivacy@averydennison.com](mailto:dataprivacy@averydennison.com)
 
   
-**CHANGES  ** **  
-** Avery Dennison may change this policy from time to time by updating this page. This policy is effective from 14th January 2013.
+**CHANGES    
+**Avery Dennison may change this policy from time to time by updating this page. This policy is effective from 14th January 2013.
