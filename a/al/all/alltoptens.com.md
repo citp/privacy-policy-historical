@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltoptens.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615120956id_/http%3A//alltoptens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltoptens.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223001718id_/http%3A//alltoptens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy » AllTopTens.com
 
