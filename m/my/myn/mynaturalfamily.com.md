@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402153756id_/http%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222220618id_/http%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Natural Family
+# Privacy Policy
 
 This privacy notice discloses the privacy practices for MyNaturalFamily.com. The bottom line is that this website doesn’t colect any information about you personally. I do get reports about general demographics, such as how many male or female visitors I have, how long you look at each post and what posts you read. But I use this information strictly to improve my blog. I have no ability to look up any information on a personal level.
 
