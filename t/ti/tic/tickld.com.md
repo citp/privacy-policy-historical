@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619121544id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025419id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
 
 # Tickld - Privacy Policy
 
@@ -27,10 +27,6 @@ Site | www.tickld.com;
 'you', 'your'' | an individual, company or firm accessing our Site.  
   
 This Privacy Policy is a statement as to how we shall process your personal data. We take the security and privacy of you and your personal data very seriously and we are committed to safeguarding your privacy on line. Please be aware that communications over the Internet, such as emails, are not secure unless they are encrypted. We do not accept any responsibility for any unauthorized access, theft or loss of personal data beyond our reasonable control. Tickld may change this policy without notice from time to time to reflect changes in legal or regulatory obligations. However, if we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 28 June 2014.
-
-Tickld, Limited has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website and through our mobile applcation. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
 
 We may collect the following personal data: 
 
