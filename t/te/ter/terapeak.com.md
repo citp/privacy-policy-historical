@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619022550id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222035604id_/https%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
 # Terapeak | Item Pricing, Online Sales Reports | eBay Research Tools & Market Data
 
