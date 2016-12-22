@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612232502id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222034731id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « myThings
 
@@ -26,7 +26,7 @@ The use of cookies by our partners is not covered by our privacy policy. myThing
 
 We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 MYTHINGS’S USE OF COOKIES AND NPII
 
@@ -40,7 +40,7 @@ At any time you may Opt-Out of myThings’s services; however please note that b
 
 You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set – simply check your browser settings to do so. By deleting your cookies in this manner, you will disable myThings and its Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit myThings.com or one of our Advertiser’s websites to ensure you are not receiving Retargeted advertisements.
 
-Another way to Opt-Out is to click this link (appears mid-way in page):  <http://www.mythings.com/respecting-your-privacy/>. When you Opt-Out of myThings’s services in this manner, an “opt-out” cookie will be set on your browser. myThings must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
+Another way to Opt-Out is to click this link: [ **http://www.mythings.com/respecting-your-privacy/**](http://www.mythings.com/respecting-your-privacy/). When you Opt-Out of myThings’s services in this manner, an “opt-out” cookie will be set on your browser. myThings must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
 
 **IP’S**
 
