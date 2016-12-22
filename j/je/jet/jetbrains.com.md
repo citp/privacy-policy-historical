@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222810id_/https%3A//www.jetbrains.com/company/privacy.html%3FfromFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043444id_/https%3A//www.jetbrains.com/company/privacy.html%3FfromFooter) for the most accurate reproduction.*
 
 # JetBrains :: Technology-leading software development firm specializing in the creation of intelligent development tools.
 
