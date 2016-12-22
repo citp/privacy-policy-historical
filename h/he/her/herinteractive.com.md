@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624044611id_/http%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herinteractive.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222195608id_/http%3A//www.herinteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nancy Drew Games | Her Interactive
 
