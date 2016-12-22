@@ -1,35 +1,193 @@
-<!--The following is the downloaded HTML source of the designpickle.com privacy policy that was archived on 2016-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527031751id_/http%3A//designpickle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designpickle.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222230146id_/http%3A//designpickle.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head><link href="http://designpickle.com/wp-content/themes/designpickle/home-files/css/bootstrap.min.css" rel="stylesheet">
+
+<!--[if lt IE 7]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <!--<![endif]-->
+
+	
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 		<title>Privacy Policy - Design Pickle</title>
 
 				<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+		<!-- scripts used for the sticky nav -->
+
+		<script type="text/javascript" async="" src="https://widget.intercom.io/widget/jnfr81pw"></script><script type="text/javascript" async="" src="https://d2rcp9ak152ke1.cloudfront.net/assets/javascripts/squatch.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//tag.getdrip.com/7399230.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script> 
+		<script src="http://designpickle.com/wp-content/themes/designpickle/library/js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
+		<script src="//code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+	
+		<script type="text/javascript">
+		
+		$(document).ready(function() {
+			// grab the initial top offset of the navigation 
+		   	var stickyNavTop = $('.jnav').offset().top;
+		   	
+		   	// our function that decides weather the navigation bar should have "fixed" css position or not.
+		   	var stickyNav = function(){
+			    var scrollTop = $(window).scrollTop(); // our current vertical position from the top
+			         
+			    // if we've scrolled more than the navigation, change its position to fixed to stick to top,
+ 
+
+			    // otherwise change it back to relative
+			    if (scrollTop > stickyNavTop) { 
+			        $('.jnav').addClass('sticky');
+				  $(this).fadeOut("fast",function(){
+        			  $(this).css({"position":"fixed","top":0}).slideUp();
+    			});
+
+				
+			    } else {
+			        $('.jnav').removeClass('sticky'); 
+			    }
+			};
+
+			stickyNav();
+			// and run it again every time you scroll
+			$(window).scroll(function() {
+				stickyNav();
+			});
+		});
+	</script>
 
 		<link rel="icon" href="http://designpickle.com/wp-content/themes/designpickle/favicon.png">
 		<link rel="pingback" href="http://designpickle.com/xmlrpc.php">
-
+		<link rel="stylesheet" id="su-content-shortcodes-css" href="http://designpickle.com/wp-content/plugins/shortcodes-ultimate/assets/css/content-shortcodes.css" type="text/css" media="all">
+		<link href="https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    		<!-- Include all compiled plugins (below), or include individual files as needed -->
+    		<script src="http://designpickle.com/wp-content/themes/designpickle/home-files/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://designpickle.com/wp-content/themes/designpickle/vfour.css"> 
 		
-<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- Header v4 -Specific Styles -->
+<style type="text/css">
+body {
+	margin: 0 !important;
+	padding: 0; 
+}
+
+.header {
+	padding: 50px 0;
+	background-color: #333;
+    	min-height: 115px;
+}
+
+.jnav {
+	padding: 0px 0;
+	background-color: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
+	position:fixed;
+	top: 65px;
+	z-index:1;
+	padding-left: 0;
+	margin-bottom: 50px;
+	list-style: none;
+	 transition: top 1s ease; 
+	width:100%;text-align:left;
+	-webkit-transform: translateZ(0);
+}
+.header, .jnav {
+	text-align: center;
+	color: #fff;
+}
+.content {
+	width: 600px;
+	margin: 10px auto 100px;
+}
+.sticky {
+	width: 100%;
+	top: 0;
+	border-top: 0;
+	margin: 0 auto; left:0px; right:0px;
+    	float:clear;
+	padding:0;
+	-webkit-transform: translateZ(0);
+	 transition: top .35s ease; 
+	z-index: 1;
+}
+
+header .nav-button {margin-top:0;}
+header nav ul.top-nav li a {font-size: 16px;}
+
+
+.button-white-fill {
+	height: auto !important;
+	min-width: 140px !important;
+}
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
+	
+}
+.navbar-toggle {
+    z-index:3;
+}
+.navbar {
+	background-color: #000000;
+	color: #ffffff !important; 
+	padding:10px 20px; 
+	width: 100%;
+}
+
+.navbar-nav li {
+	float: left;
+	
+	font-size: 16px;
+	font-weight: bold;
+	color: #ffffff !important;
+	z-index: 999;
+	opacity: 1;
+}
+.navbar-left ul li a {
+	padding-right: 30px;
+}
+
+.navbar-left li {
+	padding-right: 30px !important;
+}
+
+.navbar-right li {
+	height: auto !important;
+}
+
+section, header  {
+			padding-left: 0px !important;
+			padding-right: 0px !important;
+}
+
+</style>	
+	
+
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://designpickle.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - Design Pickle">
-<meta property="og:description" content="Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. Before or at the time of collecting personal information, we will identify the purposes for which information...  Read more »">
+<meta property="og:description" content="Your privacy is very important to us at Design Pickle, LLC (“Design Pickle”). Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. Personal information is information about you that is personally identifiable, such as your name, email address,...  Read more »">
 <meta property="og:url" content="http://designpickle.com/privacy/">
 <meta property="og:site_name" content="Design Pickle">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Design Pickle » Feed" href="http://designpickle.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Design Pickle » Comments Feed" href="http://designpickle.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Design Pickle » Privacy Policy Comments Feed" href="http://designpickle.com/privacy/feed/">
-		<script type="text/javascript" async="" src="https://widget.intercom.io/widget/jnfr81pw"></script><script type="text/javascript" async="" src="https://d2rcp9ak152ke1.cloudfront.net/assets/javascripts/squatch.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T4DPBW"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//tag.getdrip.com/7399230.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/designpickle.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://designpickle.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/designpickle.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://designpickle.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -51,21 +209,19 @@ img.emoji {
 <link rel="stylesheet" id="tm_clicktotweet-css" href="http://designpickle.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://designpickle.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="sb_instagram_styles-css" href="http://designpickle.com/wp-content/plugins/instagram-feed/css/sb-instagram.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_icons-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="sb_instagram_icons-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="wml_client_style-css" href="http://designpickle.com/wp-content/plugins/wp-masonry-layout/css/wmlc_client.css" type="text/css" media="all">
 <link rel="stylesheet" id="googleFonts-css" href="http://fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic" type="text/css" media="all">
-<link rel="stylesheet" id="wpdreams-asl-basic-css" href="http://designpickle.com/wp-content/plugins/ajax-search-lite/css/style.basic.css" type="text/css" media="all">
-<link rel="stylesheet" id="wpdreams-ajaxsearchlite-css" href="http://designpickle.com/wp-content/plugins/ajax-search-lite/css/style-underline.css" type="text/css" media="all">
+<link rel="stylesheet" id="hkb-style-css" href="http://designpickle.com/wp-content/plugins/ht-knowledge-base/css/hkb-style.css" type="text/css" media="all">
 <link rel="stylesheet" id="bones-stylesheet-css" href="http://designpickle.com/wp-content/themes/designpickle/library/css/style.css" type="text/css" media="all">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://designpickle.com/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ao-landing-pages/js/jquery.form-validator.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajax_object = {"ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php"};
@@ -82,30 +238,8 @@ var ajax_object = {"ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.ph
 <link rel="shortlink" href="http://designpickle.com/?p=3363">
 <link rel="alternate" type="application/json+oembed" href="http://designpickle.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdesignpickle.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://designpickle.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdesignpickle.com%2Fprivacy%2F&amp;format=xml">
-<script data-leadbox="145630873f72a2:11321ea99346dc" data-url="https://designpickle.leadpages.co/leadbox/145630873f72a2%3A11321ea99346dc/5673497447628800/" data-config="%7B%22type%22%3A%22exit%22%2C%22settings%22%3A%7B%22days%22%3A0%7D%7D" type="text/javascript" src="https://designpickle.leadpages.co/leadbox-992.js"></script>
-
-<script data-leadbox="1477ed373f72a2:11321ea99346dc" data-url="https://designpickle.leadpages.co/leadbox/1477ed373f72a2%3A11321ea99346dc/5690091590647808/" data-config="%7B%22type%22%3A%22time%22%2C%22settings%22%3A%7B%22seconds%22%3A5%2C%22days%22%3A0%2C%22views%22%3A1%7D%7D" type="text/javascript" src="https://designpickle.leadpages.co/leadbox-992.js"></script>
-
+<meta name="generator" content="Heroic Knowledge Base v2.8.1">
 <script src="//cdn.optimizely.com/js/4855060560.js"></script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 918459192;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/918459192/?value=0&guid=ON&script=0"/>
-</div>
-</noscript>
 
 <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
 <script type="text/javascript">twttr.conversion.trackPid('l6gd5', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
@@ -114,35 +248,28 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l6gd5&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
 </noscript>
 
-<meta name="msvalidate.01" content="44BF2FABB7BEC786C2EC228FEA7784B2"><!-- <meta name="NextGEN" version="2.1.31" /> -->
+<meta name="msvalidate.01" content="44BF2FABB7BEC786C2EC228FEA7784B2">
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=278045,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=278045&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161222230146id_%2Fhttp%3A%2F%2Fdesignpickle.com%2Fprivacy%2F&amp;r=0.2925944248986887" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code --><!-- <meta name="NextGEN" version="2.1.57" /> -->
 		<!-- Podcasting 3.1.5: http://podcastingplugin.com/ -->
 		<script type="text/javascript">
 			AudioPlayer.setup("http://designpickle.com/wp-content/plugins/podcasting/player/player.swf", {  
 				width: 290			});
 		</script>
-		<script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="8cfe2ae4486e5d375a0e43c199f18ebe24549226be72a21b0afaff8447d16895" async=""></script>
+		<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="8cfe2ae4486e5d375a0e43c199f18ebe24549226be72a21b0afaff8447d16895" async=""></script>
 			<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/wpcurve-smart-top-posts/assets/js/scripts.js"></script>
-			            <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-            	<link rel="alternate" type="application/rss+xml" title="Podcast: The Pickle Juice" href="http://designpickle.com/feed/podcast/">
-                <style type="text/css">
-                    <!--
-                    
-            div[id*='ajaxsearchlite'].wpdreams_asl_container {
-                width: 100%;
-                margin: 0px 0px 0px 0px;
-            }
-            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
-                font-weight: bold;
-                color: #d9312b;
-                background-color: #eee;
-            }
-                                -->
-                </style>
-                            <script type="text/javascript">
-                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
-                    _ASL.initialize();
-            </script>
-            <script>(function() {
+				<link rel="alternate" type="application/rss+xml" title="Podcast: The Pickle Juice" href="http://designpickle.com/feed/podcast/">
+<script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -158,57 +285,121 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" style="position:fixed" alt="" style="display:none" src="https://www.facebook.com/tr?id=446517685506281&ev=PixelInitialized" /></noscript>
-<style>
-/* NND: please move this to stylesheet  */
-.featuredimg, .featuredimg-inner img{display: block !important; width: 100% !important; height: auto !important;}
+
+<!-- Tend Code -->
+<script type="text/javascript" src="https://track.tend.io/js/track/v2.minified.js"></script>
+<script type="text/javascript">
+    tendLib.init('dQYO5xsTfmP8SeSAeCfD');
+</script>
+
+<meta name="p:domain_verify" content="f25f4c849b48cf004ea2de03a533aa14">
+		<style>
+body.page-template-default .entry-content ol li, body.page-template-default .entry-content ul li {color: #5c6b80; font-weight: 400;}
+
 </style>
-	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-	<body class="page page-id-3363 page-template-default" itemscope="" itemtype="http://schema.org/WebPage">
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-		
-			<header class="header flex flex-column background-gray flex-wrap   no-buttons" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-				<div class="sidemenubutton"></div>
-				<div class="logo fallback contents-center" itemscope="" itemtype="http://schema.org/Organization"><a href="http://designpickle.com" rel="nofollow"><img src="http://designpickle.com/wp-content/themes/designpickle/library/images/logo-large.png"></a></div>
-				<nav>
+<body class="page-template-default page page-id-3363" itemscope="" itemtype="http://schema.org/WebPage">
 
-					<div class="logo contents-center" itemscope="" itemtype="http://schema.org/Organization"><a href="http://designpickle.com" rel="nofollow"><img src="http://designpickle.com/wp-content/themes/designpickle/library/images/logo-large.png"></a></div>
-												<ul id="menu-primary" class="nav top-nav cf"><li id="menu-item-4806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4806"><a href="http://designpickle.com/about/">About</a></li>
-<li id="menu-item-4199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4199"><a href="http://designpickle.com/work-samples/">Samples</a></li>
-<li id="menu-item-3897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3897"><a href="http://designpickle.com/blog">Blog</a></li>
-<li id="menu-item-4227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4227"><a href="http://designpickle.com/live">Demo Our Service</a></li>
-<li id="menu-item-4179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4179"><a href="http://designpickle.com/pricing">Pricing</a></li>
-<li id="menu-item-4722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4722"><a href="http://designpickle.com/contact-2016/">Contact</a></li>
-</ul>												<a href="http://jar.designpickle.com" class="button-black-outline nav-button">Log In</a>
-						<a href="/price" class="button-green-fill nav-button">Sign Up</a>
+
+<nav class="navbar navbar-default blackbar" role="navigation">
+
+<div>
+  
+  <div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav navbar-left">
+        <li><a href="http://designpickle.com/live">Webinar</a></li>
+        <li><a href="http://designpickle.com/blog">Blog</a></li>
+	<li><a href="http://designpickle.com/facebook">Facebook Community</a></li>
+	<li><a href="http://designpickle.com/knowledge-base/">Knowledge Base</a></li>
+	<li><a href="http://designpickle.com/contact-2016/">Contact</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right ">
+      <li><a class="button-white-fill nav-button" href="https://jar.designpickle.com">Login to JAR</a></li>
+  
+    </ul>
+  </div>
+</div>
+</nav>
+
+
+<div class="sidemenubutton" data-toggle="collapse" href="collapse1"></div>
+				
+<div class="logo fallback contents-center" itemscope="" itemtype="http://schema.org/Organization">
+	<a href="http://designpickle.com" rel="nofollow"><img src="http://designpickle.com/wp-content/themes/designpickle/library/images/logo-large.png"></a>
+</div>
+
+<header style="padding: 0 !important; margin: 0 !important;">
+
+	<div class="jnav">
+
+		<nav id="collapse1">
+					<div class="logo contents-center" itemscope="" itemtype="http://schema.org/Organization">
+						<a href="http://designpickle.com" rel="nofollow">
+							<img src="http://designpickle.com/wp-content/themes/designpickle/library/images/logo-large.png">
+						</a>
+					</div>
+												<ul id="menu-homev4" class="top-nav cf nav"><li id="menu-item-5240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5240"><a title="Meet The Team" href="http://designpickle.com/meet-the-team/">Meet The Team</a></li>
+<li id="menu-item-5392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5392"><a href="http://designpickle.com/work-samples-2/">Work Samples</a></li>
+<li id="menu-item-5366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366"><a href="http://designpickle.com/price/">Pricing</a></li>
+<li id="menu-item-5398" class="mobile-only menu-item menu-item-type-custom menu-item-object-custom menu-item-5398"><a href="http://designpickle.com/live">Webinar</a></li>
+<li id="menu-item-5370" class="mobile-only menu-item menu-item-type-custom menu-item-object-custom menu-item-5370"><a href="http://designpickle.com/blog">Blog</a></li>
+<li id="menu-item-5371" class="mobile-only menu-item menu-item-type-custom menu-item-object-custom menu-item-5371"><a href="http://designpickle.com/facebook">Facebook Community</a></li>
+<li id="menu-item-5425" class="mobile-only menu-item menu-item-type-custom menu-item-object-custom menu-item-5425"><a href="http://designpickle.com/knowledge-base/">Knowledge Base</a></li>
+<li id="menu-item-5426" class="mobile-only menu-item menu-item-type-custom menu-item-object-custom menu-item-5426"><a href="http://designpickle.com/contact-2016/">Contact</a></li>
+</ul>												<a href="/price" class="button-green-fill nav-button">Sign Up</a>
 						<div class="closebutton"></div>
-				</nav>
-
-				<div class="dheader-content flex full-width text-center" style="width:100%;">
-											<div class="wide-650">
-							<h1 class="title">Privacy Policy</h1>
+                        
+        </nav>   
+	</div>
+    
+    <style>
+	
+		.manual-fix {
+			display:none;
+		}
+		body.blog 	.manual-fix {
+			display:block;
+		}
+	</style>
+    
+    <div class="dheader-content flex full-width text-center manual-fix" style="width:100%; background:#03B010; margin-top: 80px;">
+		<div class="wide-650">
+			<h1 class="title" style="color:#FFF">FRESH PICKLES</h1>
+			<p class="subhead" style="color:#FFF">Smart content for the discerning marketer.</p>
+		</div>
+	</div>
+    
+                    
+	<div class="dheader-content flex full-width text-center" style="width:100%;">
+							<div class="wide-650">
+						<h1 class="title">Privacy Policy</h1>
 
 																					
 								
 																
 								
 														
+				</div>
 						</div>
-									</div>
-
 				
+				
+</header>
+
+								 
 
 
-								
 
-			</header>
-
-			
 <div class="blog-content">
 
 	<div class="content">
 			<section class="entry-content cf">
-			<p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.</p>
+			<div style="font-weight: 400;">
+<p><span style="color:#27252A;color: #5c6b80;">Your privacy is very important to us at <strong>Design Pickle, LLC</strong> (“<strong>Design Pickle</strong>”). Accordingly, we have developed this Privacy Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. Personal information is information about you that is personally identifiable, such as your name, email address, and other information that is not otherwise publicly available (“Personal Information”).  . The privacy practices of this Privacy Policy apply to the services available under the Design Pickle website (the “Site”). By visiting the Site, using Site features, and or the services available under the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access this Site or the services available under this Site. From time to time, Design Pickle may modify this Privacy Policy and post such modifications here on this Site. Your use of the Site and services available under the Site after any such modification constitutes your acceptance of the modified Privacy Policy. By submitting Personal Information to us, you expressly consent to our use and disclosure of your Personal Information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Design Pickle</span> <a href="http://designpickle.com/terms/" target="_blank">Terms and Conditions of Use</a>.  </p>
+<ol>
+<li>Design Pickle collects Personal Information from you through the Site to allow us to provide the services that will most likely meet your needs and preferences. In general, you can browse the Site and “opt-out” from providing us with any Personal Information. Once you agree to provide us with Personal Information, you are no longer anonymous to us. If you choose to use and/or purchase certain services we may require you to provide contact and identity information, billing information, and other Personal Information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which are optional. You always have the option to not provide information by choosing not to use a particular service. Under some circumstances we may require some additional financial information. We use your financial information, including credit or debit card information, or information about other forms of payment, to verify the accuracy of your name, address and other information, as well as to conduct financial transactions related to your use of our services.</li>
+<li>Design Pickle collects and uses Personal Information in accordance with the following guidelines:
 <ul>
 <li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
 <li>We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
@@ -217,9 +408,35 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
 <li>We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
 <li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
-<li>As you browse&nbsp;Design Pickle&nbsp;and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. If you do not wish to receive such tailored advertising, you can visit <a href="http://www.networkadvertising.org/choices/">this</a> page to opt out of most companies that engage in such advertising. (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)</li>
+<li>As you browse Design Pickle and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. We may track certain information based upon your behavior on the Site. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand our customers. This information may include, but may not be limited to, the URL that you just came from, which URL you go to next, your computer browser information, and your IP address.</li>
+<li>If you do not wish to receive such tailored advertising, you can visit <a href="http://www.networkadvertising.org/choices/" target="_blank">this</a> page to opt out of most companies that engage in such advertising. (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)</li>
 </ul>
-<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
+<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p></li>
+<li>
+<p>We use your Personal Information, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience on the Site; detect and protect us against error, fraud and other criminal activity; enforce our Terms and Conditions of Use; and as otherwise described to you at the time of collection. We may compare and review your Personal Information for errors, omissions, and accuracy.</p>
+<p>You agree that we may use your Personal Information, including your email address, to improve our marketing and promotional efforts, to analyze Site usage, to improve the Services, and to customize the Site’s content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe, and customized experience while using the Site and/or the services available under the Site.</p></li>
+<li><strong><u>Communications from Design Pickle</u>.</strong> We may occasionally send you information on products, services, special deals, and promotions. Out of respect for your privacy, we provide you a way to unsubscribe from each of these communications.  If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each such communication or by contacting us. You will be notified when your Personal Information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if access to our products is temporarily suspended for maintenance, we might send you an email or text message. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, please do not submit your Personal Information through the Site.</li>
+<li><strong><u>Information Sharing and Disclosure</u>.</strong> The following describes some of the ways that your Personal Information may be disclosed in the normal scope of business to provide our services and products to customers:
+<ul>
+<li><strong>External Service Providers:</strong> There may be separate services offered by third parties that we refer to as external service providers that may be complementary to your use of the Site. If you choose to use these separate services or products, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. We do not disclose your Personal Information, including your email address, to external service providers unless you provide your explicit consent. With your consent we may provide some of your Personal Information to the external service provider offering such services, for your convenience. To prevent our disclosure of your Personal Information to an external service provider, you can decline such consent or simply not use their services or products. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.</li>
+<li><strong>Internal Service Providers:</strong> We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you and therefore we may provide some of your Personal Information, including your email address, directly to these internal service providers. These internal service providers are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced Site related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. If you provide additional information to an internal service provider directly, then their use of your Personal Information is governed by their applicable privacy policy.</li>
+<li><strong>Legal Requests:</strong> Design Pickle cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you, other users, and Design Pickle from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, username history, and fraud complaints without a subpoena. Without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your Personal Information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss, or report suspected illegal activity.</li>
+<li>
+<p><strong>Aggregate Data:</strong> Design Pickle may collect certain aggregate data about its users and share it with its partners, affiliates, investors, and research teams for the purposes of identifying and meeting the needs of our users. This information is not linked to any personal, identifiable information about Design Pickle’s users. </p>
+<p>Due to the existing regulatory environment, we cannot ensure that all of your private communications and other Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose Personal Information, including your email address, to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your Personal Information that they collect from Design Pickle. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should neither rely upon nor expect, that your Personal Information or private communications will always remain private.</p></li>
+</ul>
+</li>
+<li><strong><u>Log Files</u>.</strong> As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. We track trends in users’ usage and volume statistics to create a more efficient and usable site and product offerings, and to determine areas of the site or our services that could be improved to enhance the user and customer experience. </li>
+<li>
+<p><strong><u>Cookies and Related Technologies</u>.</strong> When you use the Site and available services, we collect certain information by automated or electronic means, using technologies such as cookies, browser analysis tools, and web server logs. As you use the Site and available services, your browser and other electronic devices communicate with servers operated by us and our services providers to coordinate and record the interactivity and fill your requests for services and information. The information from cookies and related technology is stored in web server logs and also in web cookies kept on your computers or mobile devices, which are then transmitted back to Design Pickle by your computers or mobile devices. These servers are operated and the cookies managed by us or our service providers. For example, when you visit the Site, Design Pickle and our service providers may place cookies on your computers or mobile devices. Cookies allow us to recognize you when you return, and track and target your interests in order to provide a customized experience. They also help us provide a customized experience and help us to detect certain kinds of fraud. A “cookie” is a small amount of information that a web server sends to your browser that stores information about your account and preferences. Some cookies are temporary, whereas others may be configured to last longer.  “Session” cookies are temporary cookies used for various reasons, such as to manage page views. Your browser usually erases session cookies once you exit your browser. “Persistent” cookies are more permanent cookies that are stored on your computers or mobile devices even beyond when you exit your browser. We use persistent cookies for a number of purposes, such as retrieving certain information you have previously provided, and storing your preferences. </p>
+<p>You may manage how your browser handles cookies and related technologies by adjusting its privacy and security settings. Browsers are different, so refer to instructions related to your browser to learn about cookie-related and other privacy and security settings that may be available. You can opt-out of being targeted by certain third party advertising companies online at <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a>.<br>
+You may manage how your mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your settings.</p>
+<p>If you wish to opt out of receiving offers directly from Design Pickle service providers, you can follow the opt-out instructions in the emails that they send you.</p></li>
+<li><strong><u>Transmissions</u>.</strong> Any material, information or idea you transmit to or post on the Site or via the services available under the Site by any means may be disseminated or used by Design Pickle or its affiliates for any purpose whatsoever. Notwithstanding the foregoing, all personal data provided to Design Pickle will be handled in accordance with this Privacy Policy. You are prohibited from posting or transmitting to or from the Site or via the services any unlawful, threatening, libelous, defamatory, obscene, scandalous, inflammatory, pornographic, or profane material, or any other material that could give rise to any civil or criminal liability under the law. You further agree not to upload, post, email or otherwise transmit any confidential information, trade secrets, “<em>junk mail</em>,” “<em>spam</em>,” “<em>chain letters</em>,” “<em>pyramid schemes</em>,” any other form of <em>solicitation</em>, or <em>software viruses</em>. Design Pickle moreover reserves the right to take all available and appropriate legal action to protect the Services and its contents from misuse and abuse. By sharing or providing content, including, but not limited to, text and photographs, to the Site or pursuant to the services provided by Design Pickle, you warrant and represent that you either own or otherwise control all of the rights to that content, including, without limitation, all the rights necessary for you to post or upload the content, or that your use of the content is a protected fair use. You hereby agree that you will not knowingly provide content with the intent to defraud or submit misleading or false information. You further represent and warrant that the content you post or otherwise supply does not violate this Agreement, and you will indemnify and hold Design Pickle harmless for any and all claims of any nature resulting from the content you post or supply. </li>
+<li><strong><u>Children’s Online Privacy Protection Act Notification</u>.</strong> The Design Pickle services are not designed or intended for use by children under 13. If you are under 18, you should use the Design Pickle services only with involvement of a parent or guardian. Pursuant to 47 U.S.C. Section 230(d) as amended, Design Pickle hereby notifies you that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. </li>
+<li><strong><u>Secure Credit Card Transactions</u>.</strong> You can use your credit card or debit card securely on the Site. We have partnered with Stripe to offer safe and secure credit card, debit card, and electronic check transactions to you. Your use of Stripe is subject to the terms and conditions and privacy policies applicable to the Stripe services.</li>
+</ol>
+</div>
 		</section> 
 	
 	</div>
@@ -228,7 +445,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 
 
-											 							<section class="footer-cta background-gray flex text-center">
+<style>.footer-cta .subhead { color: #ffffff !important; font-size: 13px; letter-spacing: 1px; opacity: .9;}</style>	
+									 							<section class="footer-cta background-gray flex text-center">
 							<div class="content contents-center">
 								<div class="header-content">
 									<div class="header-content-inner">
@@ -250,7 +468,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <form action="/privacy/#wpcf7-f3386-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="3386">
-<input type="hidden" name="_wpcf7_version" value="4.4.2">
+<input type="hidden" name="_wpcf7_version" value="4.6">
 <input type="hidden" name="_wpcf7_locale" value="en_US">
 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3386-o1">
 <input type="hidden" name="_wpnonce" value="f2394bac5f">
@@ -294,8 +512,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 							<div class="footer-links cf"><ul id="menu-footer" class="nav footer-nav cf"><li id="menu-item-4807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4807"><a href="http://designpickle.com/about/">About</a></li>
 <li id="menu-item-4197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4197"><a href="http://designpickle.com/pricing">Sign Up</a></li>
 <li id="menu-item-4220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4220"><a href="http://designpickle.com/live">Demo Our Service</a></li>
+<li id="menu-item-4971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4971"><a href="http://designpickle.com/knowledge-base/">Knowledge Base</a></li>
 <li id="menu-item-4831" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4831"><a href="http://designpickle.com/work-samples/">Sample Work</a></li>
-<li id="menu-item-3415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3415"><a href="http://designpickle.com/faqs/">FAQ</a></li>
 <li id="menu-item-3863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3863"><a href="http://designpickle.com/love">Reviews</a></li>
 <li id="menu-item-3896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3896"><a href="http://designpickle.com/blog">Blog</a></li>
 <li id="menu-item-3864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3864"><a href="/terms">TERMS</a></li>
@@ -303,8 +521,8 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <li id="menu-item-4788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4788"><a href="http://designpickle.com/graphic-design-tools/">Graphic Design Tools</a></li>
 </ul></div>						</nav>
 												<div class="contact">
-							<p class="helvetica small"><b>Email:</b> sales@designpickle.com</p>
-							<p class="helvetica small"><b>Call:</b> (800) JAR-4212</p>
+							<p class="helvetica small"><b>Email:</b> <a href="mailto:sales@designpickle.com">sales@designpickle.com</a></p>
+							<p class="helvetica small"><b>Call:</b> <a href="tel:+1-800-527-4212">800-527-4212</a></p>
 						</div>
 					</div>
 					<div class="flex-align-self-right text-right">
@@ -326,35 +544,24 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 				<!-- ngg_resource_manager_marker --><script type="text/javascript" src="http://designpickle.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/designpickle.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://designpickle.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var sb_instagram_js_options = {"sb_instagram_at":"1583445513.1654d0c.ed6381a7503d42b085342c772d8a3be0"};
+var sb_instagram_js_options = {"sb_instagram_at":"1583445513.3a81a9f.03904c900fd34422ae34b4148df9b235"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://designpickle.com/wp-content/plugins/instagram-feed/js/sb-instagram.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var qpprFrontData = {"linkData":{"http:\/\/designpickle.com\/pickle-samples\/":[0,0,""],"http:\/\/designpickle.com\/wsi\/":[0,0,""]},"siteURL":"http:\/\/designpickle.com","siteURLq":"http:\/\/designpickle.com"};
+var qpprFrontData = {"linkData":{"http:\/\/designpickle.com\/pickle-samples\/":[0,0,""],"http:\/\/designpickle.com\/wsi\/":[0,0,""],"http:\/\/designpickle.com\/satisfaction-guaranteed\/":[0,0,""]},"siteURL":"http:\/\/designpickle.com","siteURLq":"http:\/\/designpickle.com"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://designpickle.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js"></script>
+<script type="text/javascript" src="http://designpickle.com/wp-includes/js/imagesloaded.min.js"></script>
 <script type="text/javascript" src="http://designpickle.com/wp-includes/js/masonry.min.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/jquery.gestures.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/jquery.mousewheel.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/jquery.highlight.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/jquery.mCustomScrollbar.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var ajaxsearchlite = {"ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery"};
-var ASL = {"ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php","backend_ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php","js_scope":"jQuery","detect_ajax":"0","version":"4620"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/jquery.ajaxsearchlite.js"></script>
-<script type="text/javascript" src="http://designpickle.com/wp-content/plugins/ajax-search-lite/js/nomin/asl_wrapper.js"></script>
 <script type="text/javascript" src="http://designpickle.com/wp-includes/js/jquery/jquery.masonry.min.js"></script>
 <script type="text/javascript" src="http://designpickle.com/wp-content/themes/designpickle/library/js/scripts.js"></script>
 <script type="text/javascript" src="http://designpickle.com/wp-includes/js/wp-embed.min.js"></script>
@@ -371,26 +578,7 @@ var ASL = {"ajaxurl":"http:\/\/designpickle.com\/wp-admin\/admin-ajax.php","back
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(dc, s);
   })();
-</script><!-- Google Code for Visit Website Conversion Page -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 918459192;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "YmyyCOW89l8QuKb6tQM";
-var google_remarketing_only = false;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="position:absolute; height:1px;">
-<img src="//www.googleadservices.com/pagead/conversion/918459192/?label=YmyyCOW89l8QuKb6tQM&guid=ON&script=0" width="0" height="0" style="display:none"/>
-</div>
-</noscript>
-
-<script type="text/javascript">
+</script><script type="text/javascript">
 adroll_adv_id = "QBFK2LK2H5HONNOTXFEAGB";
 adroll_pix_id = "Y2EBI5D625AOXJAXTY5DDO";
 (function () {
@@ -411,6 +599,7 @@ window.onload = function(){
 
 <script type="text/javascript">if(new Date().getTime() < 1419904623000){var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var isSecured = (window.location && window.location.protocol == 'https:');fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script'); fc_JS.type='text/javascript';fc_JS.src=((isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.freshchat_setting= 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJkZXNpZ25waWNrbGUuZnJlc2hkZXNrLmNvbSIsIndpZGdldF9leHRlcm5hbF9pZCI6bnVsbCwid2lkZ2V0X2lkIjoiMDMxZDAzOTEtYjE5ZC00M2RmLWE0OTAtM2NkYjY3ODYyZDU0Iiwic2hvd19vbl9wb3J0YWwiOmZhbHNlLCJwb3J0YWxfbG9naW5fcmVxdWlyZWQiOmZhbHNlLCJpZCI6NTAwMDA0NzA3MSwibWFpbl93aWRnZXQiOnRydWUsImZjX2lkIjoiMjlhNDdkNDAwMWEyYTU2NzMzNWZlYTliZTE2ODAyMTQiLCJzaG93IjoxLCJyZXF1aXJlZCI6MiwiaGVscGRlc2tuYW1lIjoiRGVzaWduIFBpY2tsZSIsIm5hbWVfbGFiZWwiOiJOYW1lIiwibWFpbF9sYWJlbCI6IkVtYWlsIiwicGhvbmVfbGFiZWwiOiJQaG9uZSBOdW1iZXIiLCJ0ZXh0ZmllbGRfbGFiZWwiOiJUZXh0ZmllbGQiLCJkcm9wZG93bl9sYWJlbCI6IkRyb3Bkb3duIiwid2VidXJsIjoiZGVzaWducGlja2xlLmZyZXNoZGVzay5jb20iLCJub2RldXJsIjoiY2hhdC5mcmVzaGRlc2suY29tIiwiZGVidWciOjEsIm1lIjoiTWUiLCJleHBpcnkiOjE0MTk5MDQ2MjMwMDAsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImRlZmF1bHRfd2luZG93X29mZnNldCI6MzAsImRlZmF1bHRfbWF4aW1pemVkX3RpdGxlIjoiQ2hhdCBpbiBwcm9ncmVzcyIsImRlZmF1bHRfbWluaW1pemVkX3RpdGxlIjoiTGV0J3MgdGFsayEiLCJkZWZhdWx0X3RleHRfcGxhY2UiOiJZb3VyIE1lc3NhZ2UiLCJkZWZhdWx0X2Nvbm5lY3RpbmdfbXNnIjoiV2FpdGluZyBmb3IgYW4gYWdlbnQiLCJkZWZhdWx0X3dlbGNvbWVfbWVzc2FnZSI6IkhpISBIb3cgY2FuIHdlIGhlbHAgeW91IHRvZGF5PyIsImRlZmF1bHRfd2FpdF9tZXNzYWdlIjoiT25lIG9mIHVzIHdpbGwgYmUgd2l0aCB5b3UgcmlnaHQgYXdheSwgcGxlYXNlIHdhaXQuIiwiZGVmYXVsdF9hZ2VudF9qb2luZWRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGpvaW5lZCB0aGUgY2hhdCIsImRlZmF1bHRfYWdlbnRfbGVmdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgbGVmdCB0aGUgY2hhdCIsImRlZmF1bHRfdGhhbmtfbWVzc2FnZSI6IlRoYW5rIHlvdSBmb3IgY2hhdHRpbmcgd2l0aCB1cy4gSWYgeW91IGhhdmUgYWRkaXRpb25hbCBxdWVzdGlvbnMsIGZlZWwgZnJlZSB0byBwaW5nIHVzISIsImRlZmF1bHRfbm9uX2F2YWlsYWJpbGl0eV9tZXNzYWdlIjoiV2UgYXJlIHNvcnJ5LCBhbGwgb3VyIGFnZW50cyBhcmUgYnVzeS4gUGxlYXNlICMgbGVhdmUgdXMgYSBtZXNzYWdlICMgYW5kIHdlJ2xsIGdldCBiYWNrIHRvIHlvdSByaWdodCBhd2F5LiIsImRlZmF1bHRfcHJlY2hhdF9tZXNzYWdlIjoiV2UgY2FuJ3Qgd2FpdCB0byB0YWxrIHRvIHlvdS4gQnV0IGZpcnN0LCBwbGVhc2UgdGFrZSBhIGNvdXBsZSBvZiBtb21lbnRzIHRvIHRlbGwgdXMgYSBiaXQgYWJvdXQgeW91cnNlbGYuIn0=';}</script>
 
+
 <script type="text/javascript">
     var _sqh = _sqh || [];
     
@@ -428,6 +617,7 @@ window.onload = function(){
     (function(){function l(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src=location.protocol+"//d2rcp9ak152ke1.cloudfront.net/assets/javascripts/squatch.min.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t)}if(window.attachEvent){window.attachEvent("onload",l)}else{window.addEventListener("load",l,false)}})();
     </script>
 
+
 <script>
   window.intercomSettings = {
     app_id: "jnfr81pw"
@@ -440,7 +630,7 @@ window.onload = function(){
 
 <script type="text/javascript" src="https://ot245.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=c06dffefd72a61f07ea9bd1878d7ac06"></script>
 
-
+<!-- Correct GA Tag (Verified by ParaCore) -->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -454,23 +644,14 @@ window.onload = function(){
     ga('require', 'linker');
     ga('linker:autoLink', ['memberful.com'], true);
   </script>
+<!-- End Correct GA Tag -->
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-51367184-5', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
 <link rel="icon" type="image/png" href="http://designpickle.com/wp-content/uploads/2015/04/918-Favicon_2-0401151.png&#10;">
 
 <script async="" src="//tend.io/track/1/kExGxb6PpG8pvEqx3Twu"></script>
 
-<!-- Facebook Pixel Code -->
+<!-- Facebook Pixel Code (Verified by ParaCore) -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -486,28 +667,25 @@ src="https://www.facebook.com/tr?id=423370304536169&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T4DPBW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T4DPBW');</script>
-<!-- End Google Tag Manager -->    <script>
-    jQuery(document).ready(function() {
-      jQuery('.lazyYT').each(function() {
-        var id = jQuery(this).data('youtube-id'),
-            url = 'https://www.youtube.com/watch?v=' + id;
-        jQuery(this).replaceWith('<a href="' + url + '">' + url + '</a>');
-      });
-      jQuery('a.mention').each(function() {
-                var discourse_url = '';
-        jQuery(this).attr('href', discourse_url + jQuery(this).attr('href'));
-      });
-    });
-    </script>
-  				<!-- Drip Code -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 918459192;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/918459192/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>				<!-- Drip Code -->
 				<script type="text/javascript">
 					//console.log('checking Drip script status');
 					if (typeof _dcq === "undefined") { // check if script was not used earlier by some other plugin 
@@ -529,7 +707,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					}
 				</script>
 						
-
+<!-- end of site. what a ride! -->
 	
 
- <!-- end of site. what a ride! --></body></html>
+ </body></html>
