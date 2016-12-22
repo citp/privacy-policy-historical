@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623140635id_/https%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222140837id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy | raleighnc.gov
 
 ### Privacy practices regarding information collected from the City of Raleigh website.
 
-Last updated May 02, 2016 - 10:33 am
+Last updated Oct. 20, 2016 - 7:48 am
 
 This privacy policy contains information about what data is collected and how that information is used. This policy may be updated periodically.  
 This policy applies only to the official City of Raleigh web site. When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site. You should check the privacy policies of each of these other sites if you have questions about how they handle personally identifiable information.
@@ -49,7 +49,7 @@ Content that promotes, fosters, or perpetrates discrimination on the basis of ra
 Solicitations of commerce;  
 Infringement on copyrights or trademarks; and,  
 Confidential or non-public information.  
-Please note that the opinions and comments expressed on this social media site do not reflect the opinions and positions of the City of Raleigh government, its officers or employees. If you have any questions concerning the operation moderated discussions, please contact the City of Raleigh Public Affairs Department at 919-996-3100.
+Please note that the opinions and comments expressed on this social media site do not reflect the opinions and positions of the City of Raleigh government, its officers or employees. If you have any questions concerning the operation moderated discussions, please contact the City of Raleigh Communications Department at 919-996-3100.
 
 **Organizational Rules**  
 Employees of the City of Raleigh communicate via social media websites. Consequently any communication via the social media site (whether by a City employee or the general public) is subject to monitoring and disclosure to third parties. Relevant City of Raleigh and North Carolina Public records retention schedules apply to social networking content. Records required to be maintained pursuant to a relevant records retention schedule shall be maintained for the required retention period in a format that preserves the integrity of the original record and is easily accessible using the approved City platforms and tools.
