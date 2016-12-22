@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609050404id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fimserve.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222021102id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
 
-Last Updated: February 29, 2016
+Last Updated: September 29, 2016
 
-Our Privacy Dashboard is designed to assist you in understanding how we collect and use information about you and your device so that you can make informed decisions when using our website and interacting with our products and services.
+Our Privacy Dashboard is designed to help you in understand how we collect and use information about you and your device when using our website and when you use the websites or mobile apps of customers using our advertising technology.
 
 Only 22% of Internet Users regularly review privacy policies for the sites they visit. That is why this Dashboard does not look like other privacy policies you may have seen. Unlike the average privacy policy which is approximately 2,500 words, the Rubicon Project offers this simple summary.
 
-Like any summary, however, the Privacy Dashboard is not an exhaustive description of our privacy practices and should not be construed to define or limit the scope or extent of our Privacy Policies which can be found at the locations identified below.
+Like any summary, however, the Privacy Dashboard is not an exhaustive description of our privacy practices—you can find more detailed explanations of our privacy practices below.
 
 **Rubicon Project Privacy Policy and Opt-Out**
 
@@ -25,9 +25,9 @@ To opt-out of the use of our technology to deliver you targeted advertisements b
 
 **Data We Collect**
 
-Rubicon Project collects personal information about its users that they voluntarily provide via email or via registration for certain services or newsletters.
+When using our website, we collect personal information that you voluntarily provide via email or via registration for certain services, market reports, or newsletters. Additionally, while you use our website, we may collect general information about how our website is used.
 
-Rubicon Project also collects information about you and your device in order to provide you with more relevant advertising. Some of this information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere, but this data does not contain any “real world” identifiers such as your name, address, or contact details. When we collect this information through our advertising technology, we use it to help our customers deliver online advertising to you.
+Additionally, our customers, who include a number of premium website and mobile application publishers, use Rubicon Project’s advertising technology to help them provide their users with advertising that may be relevant to their interests. When you visit a website or use a mobile application that uses our advertising technology, we also collect certain information about your device. Some of this information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere, but this data does not contain any “real world” identifiers such as your name, address, or contact details.
 
 **How We Use The Information We Collect**
 
@@ -35,7 +35,7 @@ Rubicon Project uses the information that we collect to provide you with service
 
 **Data Sharing**
 
-Rubicon Project may share data with third parties for a variety of reasons, including our third-party advertiser customers, so that they can deliver targeted advertisements to you.
+Rubicon Project shares data with third parties for a variety of reasons, including our third-party advertiser customers, so that they can deliver targeted advertisements to you.
 
 **Changes**
 
@@ -47,7 +47,7 @@ Rubicon Project works with customers and consumers throughout the world, includi
 
 **Contact**
 
-For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com), or by post using the details provided below:
+For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com), or by post using the details provided below:
 
 **Residents outside of the European Economic Area**
 
