@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629125645id_/https%3A//csc.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222093812id_/https%3A//csc.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — CSC
 
 Commonwealth Superannuation Corporation (CSC) [ABN 48 882 817 243, RSEL L0001397, AFSL 238069] is responsible for the privacy, confidentiality and security of personal information received by it in the course of its operations. Personal information is protected and kept confidential in accordance with federal legislation, including the _Privacy Act 1988_ and the Australian Privacy Principles under that Act.  
-CSC provides superannuation services to Australian Government employees and members of the Australian Defence Force (ADF) by managing the following nine superannuation schemes:
+CSC provides superannuation services to Australian Government employees and members of the Australian Defence Force (ADF) by managing the following superannuation schemes:
 
   * Commonwealth Superannuation Scheme (CSS)
-  * Public Sector Superannuation Scheme (PSS)
   * Military Superannuation and Benefits Scheme (MilitarySuper)
+  * Public Sector Superannuation Scheme (PSS)
   * Public Sector Superannuation accumulation plan (PSSap)
-  * 1922 Scheme
-  * Defence Forces Retirement Benefits Scheme (DFRB)
   * Defence Force Retirement and Death Benefits Scheme (DFRDB)
+  * Australian Defence Force Superannuation (ADF Super)
+  * Australian Defence Force Cover (ADF Cover)
+  * 1922 Scheme
   * Papua New Guinea Scheme
+  * Defence Forces Retirement Benefits Scheme (DFRB)
   * Defence Force (Superannuation) (Productivity Benefit) Determination (the DFSPB).
 
 
 
 CSC's primary function is to manage and invest the funds of the schemes in the best interests of all members and in accordance with the provisions of the various [acts and deeds ](http://www.csc.gov.au/about-us/legislation/)that govern the schemes.
 
-CSC's statutory functions are set out in the _Governance of Australian Government Superannuation Schemes Act 2011_ and scheme legislation and deeds. CSC, as the trustee of the CSS, PSS, MilitarySuper and PSSap is also required to comply with, for example, the _Superannuation Industry (Supervision) Act 1993_ and regulations, the _Corporations Act 2001_ and regulations, tax legislation and regulations, and the _Anti-Money Laundering & Counter Terrorism Financing Act 2006._
+CSC's statutory functions are set out in the _Governance of Australian Government Superannuation Schemes Act 2011_ and scheme legislation and deeds. CSC, as the trustee of the CSS, MilitarySuper, PSS, PSSap and ADF Super is also required to comply with, for example, the _Superannuation Industry (Supervision) Act 1993_ and regulations, the _Corporations Act 2001_ and regulations, tax legislation and regulations, and the _Anti-Money Laundering & Counter Terrorism Financing Act 2006._
 
 ### Collection, holding, use and disclosure of information
 
@@ -71,12 +73,14 @@ Members of the superannuation schemes managed by CSC may request access to infor
   
 CSC or its scheme administrator takes steps to ensure that personal information is accurate, up to date and complete, including maintaining and updating records when advised that the information has changed. Depending on superannuation scheme membership, members who wish to correct information on their account should contact:
 
+  * CSS members:  **1300 000 277**
+  * MilitarySuper members:  **1300 006 727**
+  * PSS members:  **1300 000 377**
   * PSSap members: **1300 725 171**
+  * DFRDB and DFRB members:  **1300 001 677**
   * CSCri members: **1300 736 096**
-  * CSS members: **1300 000 277**
-  * PSS members: **1300 000 377**
-  * MilitarySuper members: **1300 006 727**
-  * DFRDB and DFRB members: **1300 001 677**
+  * ADF Super members: **1300 203 439**
+  * ADF Cover members: **1300 001 977**
   * PNG or 1922 Scheme members: **1300 000 177**
 
 
