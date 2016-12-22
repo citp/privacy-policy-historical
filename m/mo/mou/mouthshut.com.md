@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouthshut.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625182304id_/http%3A//www.mouthshut.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthshut.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222175946id_/http%3A//www.mouthshut.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MouthShut.com
 
@@ -6,11 +6,11 @@ At MouthShut.com, we are extremely proud of our commitment to protect your priva
 
 This Statement supplements the MouthShut.com User Agreement (the "Agreement"). Thus, this Statement is incorporated into and governed by all of the terms of the Agreement. In the event of any conflict between the terms of the Agreement and this Statement, the terms of this Statement shall control.
 
-This Statement applies only to information collected on the MouthShut.com web site. It does not speak about MouthShut.com's practices for information collected elsewhere or the practices of any third parties, including those who may operate sites on MouthShut.com's behalf and that display MouthShut.com branding. 
+This Statement applies only to information collected on the MouthShut.com web site. It does not speak about MouthShut.com's practices for information collected elsewhere or the practices of any third parties, including those who may operate sites on MouthShut.com's behalf and that display MouthShut.com branding.
 
 * #### Unregistered Guests:
 
-The MouthShut.com site is optimized for registered users. By registering, you can obtain benefits such as the opportunity to write Opinions, accrue MS-Points credits and personalize your experience using our proprietary tools such as SORT™ and Trusted Circle™. If you choose not to register, you can still use some portions of the site. In that case, MouthShut.com may obtain your IP addresses and by analyzing what URLs you came from and go to.
+The MouthShut.com site is optimized for registered users. By registering, you can obtain benefits such as the opportunity to write Opinions, accrue MS-Points credits and personalize your experience using our proprietary tools such as SORT and Trusted Circle. If you choose not to register, you can still use some portions of the site. In that case, MouthShut.com may obtain your IP addresses and by analyzing what URLs you came from and go to.
 * #### Registered Users:
 
 If you register, MouthShut.com stores your preferences and passwords for your convenience, to provide you with a more personalized experience. At present MouthShut.com does not use cookies to store your login sessions.
@@ -45,7 +45,7 @@ MouthShut.com does not transfer your personal profile in total to third parties,
 
 * #### Your Rating of Others and the Trusted Circle:
 
-One of the most powerful aspects of the site is that it personalizes your experience based on your personal interests using the Trusted Circle™. The system assesses your prior experiences on the site (as evidenced by how you've rated other Opinions or trusted/distrusted other members), and then uses these experiences to dynamically sort the database of Opinions for you based on those that are more likely to interest you. To do this, MouthShut.com captures information about your interactions with other users and then processes this information each time you look for Opinions. The more you interact with others, the more personalized your subsequent uses of the site will be.
+One of the most powerful aspects of the site is that it personalizes your experience based on your personal interests using the Trusted Circle. The system assesses your prior experiences on the site (as evidenced by how you've rated other Opinions or trusted/distrusted other members), and then uses these experiences to dynamically sort the database of Opinions for you based on those that are more likely to interest you. To do this, MouthShut.com captures information about your interactions with other users and then processes this information each time you look for Opinions. The more you interact with others, the more personalized your subsequent uses of the site will be.
 
 In rating and commenting on others' Opinions, your MS-ID is displayed. This causes the Opinion author and all other readers of the Opinion to see your rating. You can choose to hide your identity when rating on an Opinion-by-Opinion basis by making a special request to support@mouthshut.com.
 
