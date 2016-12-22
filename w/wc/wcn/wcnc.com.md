@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103313id_/http%3A//www.wcnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222204440id_/http%3A//www.wcnc.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | WCNC.com
+# Privacy Notice - Your California Privacy Rights | WCNC.com
 
 ## Privacy Policy
 
