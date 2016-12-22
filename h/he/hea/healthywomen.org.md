@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319070724id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042535id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HealthyWomen
 
@@ -6,7 +6,7 @@
 
 The National Women's Health Resource Center, Inc. ("HealthyWomen") doing business as HealthyWomen believe strongly in an individual's right to privacy. We recognize that you trust us to provide quality health information. We apply these same high standards when we protect your Personal Information ("Personal Information" is defined as any information that identifies or can be used to identify the person to whom such information pertains) and Personal Health Information ("Personal Health Information" is defined as any information that combines your Personal Information with known health characteristics).
 
-When you visit HealthyWomen's website, [www.healthywomen.org](http://www.healthywomen.org/ "www.healthywomen.org") (the "Website"), we may request and/or collect a minimal amount of Personal Information and Personal Health Information. This information is requested and/or collected in order to better serve you through the various applications on the Website.
+When you visit HealthyWomen's website, fmxhosting.com/drupal635 (the "Website"), we may request and/or collect a minimal amount of Personal Information and Personal Health Information. This information is requested and/or collected in order to better serve you through the various applications on the Website.
 
 The information included on the Website is provided free-of-charge, and we encourage visitors to gain access to as much health information as possible.
 
@@ -28,14 +28,12 @@ The information gathered from user surveys is used for internal analysis purpose
 
 The information gathered from these women's health surveys are used for internal analysis purposes, so that we learn, in aggregate form, about lifestyle issues, experiences and opinions of our users. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information and/or Personal Health Information. HealthyWomen, however, reserves the right to review and disclose aggregate survey data with third-parties to better serve our users, but will only do so in a fashion that protects from disclosure every user's Personal Information and Personal Health Information.
 
-**4\. Consumer Feedback** \- When you submit feedback to us through our Feedback Form, and/or [info@healthywomen.org](mailto:info@healthywomen.org) and [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org), we ask that you include your name and email address.
+**4\. Consumer Feedback** \- When you submit feedback to us through our Feedback Form, and/or info@healthywomen.org and webmaster@healthywomen.org, we ask that you include your name and email address.
 
 We ask for this information so that we may contact you as necessary for additional clarification and to address any questions or feedback that you send us. This clarification will help HealthyWomen continue to improve its website and information offered. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide this Personal Information to third-parties.
 
-**5\. Ecommerce**
-
-a. _Newsletter Subscriptions_
-
+**5\. Ecommerce**  
+a. _Newsletter Subscriptions_  
 When you subscribe to HealthyWomen newsletters, e.g., the _News from HealthyWomen_ , we ask for Personal Information including your name, email address and zip code.
 
 We use this information to verify your identity, process the transaction, confirm shipment information, and provide status reports related to orders. HealthyWomen does not sell, rent, loan, trade, lease, or otherwise provide to third-parties any Personal Information.
@@ -119,21 +117,23 @@ All e-newsletters offered by HealthyWomen contain a remove link at the bottom of
 
 **Contacting HealthyWomen**
 
-Every page of the Website offers the user the opportunity to contact HealthyWomen with any questions concerning one's health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to [info@healthywomen.org](mailto:info@healthywomen.org).
+Every page of the Website offers the user the opportunity to contact HealthyWomen with any questions concerning one's health, and existing policies, including the Disclaimer, Privacy Policy, Advertising Policy, and Editorial Policy. These questions are directed to info@healthywomen.org.
 
-Every page also offers the user the opportunity to contact HealthyWomen with questions/concerns regarding site functionality. The following email address is used for this purpose: [webmaster@healthywomen.org](mailto:webmaster@healthywomen.org).
+Every page also offers the user the opportunity to contact HealthyWomen with questions/concerns regarding site functionality. The following email address is used for this purpose: webmaster@healthywomen.org.
 
 Additionally, contact information for the organization is identified in the "About HealthyWomen" section, under "Contact Us." General user contact information is as follows:
 
-National Women's Health Resource Center, Inc.
-
-P.O. Box 430
+National Women's Health Resource Center, Inc.  
+P.O. Box 430  
+Red Bank, NJ 07701  
+1-877-986-9472  
+info@healthywomen.org 
 
 This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to HealthyWomen by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to HealthyWomen. We try to answer every email within 48 business hours, but are not always able to do so.
 
 **Updating the Privacy Policy**
 
-Due to the rapidly evolving technologies on the Internet, we reserve the right to update this Privacy Policy from time to time. All revisions will be posted to this site. Access to the Privacy Policy will be made available to the visitor from every page of the Website. Questions regarding this policy should be directed by email to [info@healthywomen.org](mailto:info@healthywomen.org).
+Due to the rapidly evolving technologies on the Internet, we reserve the right to update this Privacy Policy from time to time. All revisions will be posted to this site. Access to the Privacy Policy will be made available to the visitor from every page of the Website. Questions regarding this policy should be directed by email to info@healthywomen.org.
 
 Last updated December 1, 2011  
 
