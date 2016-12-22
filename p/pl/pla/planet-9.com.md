@@ -1,64 +1,84 @@
-> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513171759id_/http%3A//www.planet-9.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-9.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223003914id_/http%3A//www.planet-9.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Planet-9 Porsche Forum - Privacy Policy
+# Planet-9 Privacy Policy
 
-CaymanClub.Net takes privacy and data protection issues seriously. We have designed this Privacy Policy to explain how we handle personally identifiable information collected from merchants who register for services and submit information to CaymanClub.Net through the Internet.
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-As the CaymanClub.Net services evolve, we may revise this policy, so please check back frequently. If you have questions about CaymanClub.Net privacy practices please contact us at [ webmaster@CaymanClub.Net](mailto:webmaster@caymanclub.net).
+**What this Privacy Statement Covers**
 
-You will receive an autoresponse from us confirming that we have received your e-mail. If you do not receive an auto-response, please contact CaymanClub.Net Customer Support by phone or chat.
+  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
 
-    [Scope of this Privacy Policy](http://www.planet-9.com/#scope)
-    [ Information Collection and Use](http://www.planet-9.com/#information)
-    [Information Sharing and Disclosure](http://www.planet-9.com/#sharing)
-    [Information Security](http://www.planet-9.com/#security)
-    [Account Information and Preferences](http://www.planet-9.com/#preferences)
-    [Notice for European Users](http://www.planet-9.com/#european)
-    [Changes to this Privacy Policy](http://www.planet-9.com/#changes)
 
-**Scope of this Privacy Policy**
 
-This Privacy Policy covers CaymanClub.Net’s treatment of personally identifiable information collected from members (hereafter “members” or “you”) who use the CaymanClub.Net website services, as well as consumer information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that CaymanClub.Net’s business partners may share with it.
+**Collection and Use of Personal Information**
 
-This Policy does not apply to the practices of companies that CaymanClub.Net does not own or control, or to people that CaymanClub.Net does not employ or manage.
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-**Information Collection and Use**
 
-CaymanClub.Net collects personally identifiable information when you register for an CaymanClub.Net account, and when you use certain CaymanClub.Net products and services. CaymanClub.Net may also receive personally identifiable information from its resellers and other business partners.
 
-When you register with CaymanClub.Net, we ask for your contact information (such as your name, street address and email address), as well as certain information pertaining to your car if you own the model represented on this site.
+**Collection and Use of Non-Personal Information**
 
-In the course of processing a payment transaction, we typically receive from the merchant or a financial institution information related to the transaction. This normally includes information about the payment that a consumer has furnished the merchant or financial institution in placing the order. We do not acquire any information directly from consumers through the [www.CaymanClub.Net](http://www.authorize.net/) Web site.
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-The personally identifiable information we acquire in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using our payment services. It may include, for example, the amount of the transaction, the consumer’s name, credit card number and expiration date, checking account number, billing address, and shipping address.
 
-CaymanClub.Net uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. We may also send merchants service announcements, newsletters, and periodic notices about specials, new products and services and products and services offered by CaymanClub.Net business partners. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
-
-CaymanClub.Net does not offer services or sell products to children. CaymanClub.Net does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
 
 **Information Sharing and Disclosure**
 
-Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below.
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
 
-CaymanClub.Net sends personally identifiable information about you to other companies or people:: 1) when we have your consent to share the information; 2) when we need to share your information with third parties, such as banks and credit card processors, to provide the product or service you have requested; 3) in connection with products and services offered by CaymanClub.Net business partners and/or companies who work on behalf of CaymanClub.Net to provide a product or service to you; 4) it is appropriate to comply with law; 5) it is necessary to enforce or apply the terms and conditions of our Member Agreement and other applicable agreements; or 6) it is necessary to protect the rights, property, or safety of CaymanClub.Net, our users, or others, which may include the exchange of information with other organizations for fraud protection and/or risk reduction.  
-In the event that CaymanClub.Net is acquired, merchant account information may be one of the transferred assets. 
 
-**Information Security**
 
-Information security is critical to our business. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We store information gathered on secure computers located in a locked data center. The number of employees involved in the management of the data center that have physical access to these computers is limited. We use firewalls and other security technology to prevent our computers from being accessed by unauthorized persons.
+**Third Party Cookies**
 
-We also require that any personally identifiable consumer information sent to us by you be encrypted using SSL encryption. To learn more about SSL, go to: [ http://webopedia.internet.com/TERM/S/SSL.html](http://webopedia.internet.com/TERM/S/SSL.html).
+  * Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demogaphic or other data linked to data that you have voluntarily submitted to us, or posted to our Web Site. We may share such data with a data provider solely in hashed, non-human readable form. To opt-out of these cookies please go to [Ad Choices](http://www.aboutads.info/choices). 
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). 
 
-It is important for you to protect against unauthorized access to your Login ID/password and to your computer. Be sure to sign off when finished using a shared computer and otherwise protect the password used to access the CaymanClub.Net services.
 
-**Account Information and Preferences**
 
-CaymanClub.Net gives you the ability to edit your CaymanClub.Net Account Information and preferences at any time, including whether you want CaymanClub.Net to contact you about specials and new products, by using the **Edit Your Details** option in your User Control Panel (UserCP) or the **Customize Profile** option. (see the CaymanClub.Net User Guide FAQ for more details), or by emailing us at [ webmaster@caymanclub.net](mailto:webmaster@caymanclub.net)
+**Consent**
 
-**Notice for European Users**
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
-CaymanClub.Net is located in the United States. Any information that you provide to CaymanClub.Net will be transferred out of the EU to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
 
-**Changes to this Privacy Policy**
 
-CaymanClub.Net reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how CaymanClub.Net will use personally identifiable information, CaymanClub.Net will post notice on the CaymanClub.Net homepage at [www.CaymanClub.Net](http://www.authorize.net/) prior to implementing the change. The amended Terms shall automatically become effective immediately after they are posted. Your continued use of the site or CaymanClub.Net services after the posting of the amended Terms on the Site constitutes your affirmative: (a) acknowledgement of the terms and its modifications; and (b) agreement to abide and be bound by the terms, as amended. If you have additional questions about this Policy, please contact us at [ webmaster@caymanclub.net](mailto:webmaster@caymanclub.net)
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
+
+
