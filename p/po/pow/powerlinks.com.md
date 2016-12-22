@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000623id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerlinks.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222075621id_/http%3A//www.powerlinks.com/privacy-policy) for the most accurate reproduction.*
 
 # Powerlinks Privacy Policy - Powerlinks
 
