@@ -1,59 +1,122 @@
-> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614142945id_/http%3A//www.boystown.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222224552id_/https%3A//www.yourtown.com.au/privacy) for the most accurate reproduction.*
 
-# BoysTown - Privacy
+# Privacy | yourtown
 
+## Fundraising Privacy Statement
+
+ **yourtown**  is committed to protecting and securing your privacy and the personal information provided to us.
+
+All personal information collected and held by  **yourtown**  is protected in accordance with Privacy legislation and the Australian Privacy Principles.
+
+ **yourtown**  only collects supporter's personal information for the purposes identified below, and to comply with gaming legislation in the various States and Territories where the Art Union operates. At all times, personal information is collected in a fair and lawful manner.
+
+#### Supporter's right to opt-out
+
+From time to time, promotional offers and special events will be communicated to supporters through direct marketing and other channels. Supporters have the right to opt-out of these communications and can do so through any one of the options listed below.
+
+Phone
+
+| 
+
+1800 500 101 (free call in Australia)
+
++61 7 3867 1252 (International)  
   
+---|---  
+  
+Fax
+
+| 
+
+Australia 1800 557 067 (free fax in Australia)
+
++61 7 3367 0642 (International)  
+  
+Post
+
+| 
+
+ **yourtown** , Reply Paid 2944, Brisbane QLD 4001  
+  
+Online
+
+| 
+
+Existing supporters can opt-out online. Log in with your account password and follow the 'My Details' link on the top navigation bar  
+  
+Email
+
+| 
+
+To unsubscribe from the  **yourtown**  email database either click on the link at the bottom of the email you received or send an email to yourtown@yourtown.com.au with the subject 'UNSUBSCRIBE'  
+  
+#### What kind of personal information is collected?
+
+ **yourtown**  collects and holds the following personal information:
+
+  * Name and address
+  * Contact details - phone, fax, mobile, email address
+  * Payment details such as credit card number and expiry
+  * Date of birth
+  * Title
+  * Transaction details associated with the purchase of  **yourtown**  tickets and donations
 
 
-  * a
-  * A
-  * 
 
+#### Purpose for collection
 
-At BoysTown we respect the privacy of your personal information. This commitment is demonstrated in our policy on Information Privacy.
+ **yourtown**  collects supporter's personal information for the primary purpose of fundraising, which includes recording and processing of  **yourtown**  ticket sales and donations. Supporter's personal information is also used for the secondary purpose of marketing, planning, product development and research.
 
-BoysTown is committed to protecting and securing your privacy and any information provided to us about you.
+#### Use and Disclosure
 
-All personal or sensitive information gathered as part of the day-to-day functions of BoysTown is considered private and will only be collected and recorded in order to provide you with the best service.
+Personal information collected by  **yourtown**  will only be used for the purpose it was collected and will not be disclosed to any person, body or agency unless we have your consent or where it is required by law.
 
-**What is personal or sensitive information?**
+ **yourtown**  will not use or disclose or permit the use or disclosure of personal supporter information that could be used to identify an individual supporter in any circumstances except:
 
-Information may include, for example, your name, address and contact details. It may also include information about your medical history and financial information required to complete financial related activities.
-
-**How does BoysTown collect and use your information?**
-
-BoysTown will collect your personal or sensitive information by fair, lawful and non-intrusive means and use information collected and recorded for the provision of BoysTown services.
-
-All information held is retained and destroyed in accordance with applicable laws.
-
-**Will BoysTown share your information with others?**
-
-BoysTown will NOT, without your prior approval: 
-
-  * Use your personal or sensitive information for fundraising, advertising or the promotion of BoysTown; or
-  * Disclose information or distribute personal or sensitive information about you unless the information must be released because of a law or contract eg. to ensure your safety or to provide statistics.
+  * To ensure the proper functioning of the  **yourtown**  operation
+  * Where the personal supporter information is to be used by a retained agent for marketing, planning, product development and research
+  * When  **yourtown**  is required by law to disclose the personal supporter information, or
+  * When the supporter has consented to the use or disclosure.
 
 
 
-Reasonable steps will be taken to protect information about you from misuse, loss and unauthorised access, changes or disclosure.
+#### Cross-Border disclosure
 
-**How does BoysTown ensure information is up-to-date?**
+Your personal information is not sent overseas, and is used only by  **yourtown**.
 
-You are responsible for informing BoysTown of any changes to your personal details or circumstances. BoysTown will take reasonable steps to ensure information collected is accurate, complete and up-to-date by undertaking regular audits.
+#### Security of Personal Information
 
-**How can you access information about you?**
+ **yourtown**  undertakes to take reasonable steps necessary to ensure that supporter information is secure from any unauthorised access or disclosure.
 
-You may ask for access to your information by emailing
+#### Supported access to personal information
 
-or by writing to the Chief Executive Officer at:
+You may ask for access to your information by emailing privacy@yourtown.com.au or by writing to the Chief Executive Officer at:
 
 The Chief Executive Officer  
-BoysTown  
-PO Box 2000  
-MILTON QLD 4064
+ **yourtown**  
+GPO Box 2469  
+Brisbane QLD 4001
 
-A fee may be charged to access BoysTown files. 
+An administration fee may be charged to access  **yourtown**  files.
 
-**How can you make a complaint about the privacy of your information?**
+#### How to make a privacy complaint
 
-You can make a complaint about the privacy of your information by writing to the postal or email address.
+Inquiries, feedback and complaints concerning privacy can be emailed to privacy@yourtown.com.au or made in writing to:
+
+The Chief Executive Officer  
+ **yourtown**  
+GPO Box 2469  
+Brisbane QLD 4001
+
+#### Our privacy policy
+
+Click here to view our corporate [Privacy Policy](https://web.archive.org/sites/default/files/document/yourtown-Privacy-Policy.pdf). You may also request a copy in an alternate format by contacting  **yourtown**  via:
+
+  * Email: privacy@yourtown.com.au
+  * Phone: (07) 3368 3399
+
+
+
+or by writing to us at the above address.
+
+This Privacy Statement was last updated on 20 March 2014.
