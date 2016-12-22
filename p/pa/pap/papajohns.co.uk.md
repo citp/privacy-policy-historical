@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531062037id_/http%3A//www.papajohns.co.uk/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222201517id_/http%3A//www.papajohns.co.uk/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Pizza Delivery | Order Quality Pizza Online With Papa Johns
 
@@ -52,10 +52,8 @@ Our [Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx) ca
 
 Marketing Department   
 Papa John's   
-The Forum   
-Hanworth Lane   
-Chertsey   
-Surrey KT16 9JX   
-Tel: 01932 568000   
-Fax: 01932 570628   
+11 Northfield Drive   
+Milton Keynes   
+MK15 0DQ   
+Tel: 0203 6936800   
 Email: [webmaster@papajohns.co.uk](mailto:web_master@papajohns.co.uk)
