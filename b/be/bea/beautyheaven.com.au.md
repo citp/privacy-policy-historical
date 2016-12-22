@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065407id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyheaven.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222060232id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Bauer Media Group
 
