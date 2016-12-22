@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104314id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealereprocess.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222232711id_/http%3A//www.dealereprocess.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dealer E Process
+# Privacy Policy - Dealer eProcess
 
 ## Information regarding Dealer e-Process’ privacy practices:
 
