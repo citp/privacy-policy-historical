@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the litmus.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616063437id_/http%3A//litmus.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the litmus.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222034741id_/https%3A//litmus.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -13,13 +13,13 @@
   <title>Privacy Policy - Litmus</title>
 
   <link rel="canonical" href="https://litmus.com/privacy">
-  <link href="https://img.litmuscdn.com/favicon.png?1466006315" rel="icon" type="image/png">
-  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1466006299" rel="stylesheet">
+  <link href="https://img.litmuscdn.com/favicon.png?1482255087" rel="icon" type="image/png">
+  <link href="https://styles.litmuscdn.com/stylesheets/next.css?1482255074" rel="stylesheet">
 
-  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K58SQL"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/o7b1x09y7d9klx0t79qf/analytics.min.js"></script><script type="text/javascript" src="//use.typekit.net/zqt8qdp.js"></script>
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K58SQL"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/e3b1q380gi/analytics.min.js"></script><script type="text/javascript" src="//use.typekit.net/zqt8qdp.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1466006340"></script><![endif]-->
+  <!--[if lt IE 9]><script src="https://js.litmuscdn.com/javascripts/html5shiv.js?1482255117"></script><![endif]-->
 
   <!--[if lt IE 9]>
     <div id="old-browser-message" class="old-hidden">
@@ -36,11 +36,43 @@
   <![endif]-->
 
   
-  
-<script type="text/javascript">
+
+  <script type="text/javascript">
 !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-analytics.load("o7b1x09y7d9klx0t79qf");
-analytics.page()
+
+  analytics.load("e3b1q380gi");
+
+// Since we share a configuration with the Litmus application, and the app needs
+// to conditionally show the chat widget, we have to hide the widget by default
+// and selectively enable it. Since we always want to see it on the marketing
+// site, we add this integration data to the segment.io call.
+analytics.page(null, {}, {
+  integrations: {
+    Intercom: { hideDefaultLauncher: hideIntercom() }
+  }
+});
+
+function hideIntercom() {
+  var today = new Date().setHours(0, 0, 0, 0); // midnight, returns getTime()
+  var offlineDates = [
+    new Date("December 20, 2016").getTime(),
+    new Date("December 21, 2016").getTime(),
+    new Date("December 22, 2016").getTime(),
+    new Date("December 23, 2016").getTime(),
+    new Date("December 24, 2016").getTime(),
+    new Date("December 25, 2016").getTime(),
+    new Date("December 26, 2016").getTime(),
+    new Date("December 27, 2016").getTime(),
+    new Date("December 28, 2016").getTime(),
+    new Date("December 29, 2016").getTime(),
+    new Date("December 30, 2016").getTime(),
+    new Date("December 31, 2016").getTime(),
+    new Date("January 01, 2017").getTime(),
+    new Date("January 02, 2017").getTime()
+  ];
+  return offlineDates.indexOf(today) >= 0;
+};
+
 }}();
 </script>
 
@@ -58,10 +90,15 @@ analytics.page()
   });
 </script>
 
+  <!-- Conversion script. Keep above Optimizely script. -->
+<script src="//d1mgcpums0qvsa.cloudfront.net/LIT/springboard.js"></script>
+
+
 
   <script src="//cdn.optimizely.com/js/27307290.js"></script>
 </head>
 <body class="legal">
+
   <div class="wrap animated fadeIn">
       
 
@@ -72,7 +109,7 @@ analytics.page()
   <header class="cd-header menu-is-open">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <img alt="Litmus logo" data-no-retina="true" src="https://assets.litmuscdn.com/images/next/shared/header-logo.svg?1466006315">
+      <img alt="Litmus logo" data-no-retina="true" src="https://assets.litmuscdn.com/images/next/shared/header-logo.svg?1482255087">
     </a>
     <nav>
       <ul class="nav navbar-nav">
@@ -80,7 +117,10 @@ analytics.page()
           <div class="dropdown">
             <div class="dropdown-text">Features</div>
             <ul class="dropdown-content">
-              <li><a href="/email-testing">Overview</a></li>
+              <ul>
+                <li><a href="/overview">All Features</a></li>
+                <li><a href="/email-testing">Email Previews</a></li>
+              </ul>
               <li><a href="/email-builder">Builder</a></li>
               <li><a href="/email-checklist">Checklist</a></li>
               <li><a href="/spam-filter-tests">Spam Testing</a></li>
@@ -109,9 +149,9 @@ analytics.page()
         <li class="nav-item">
           <a class="nav-link login-link" href="https://litmus.com/sessions/new">Login</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link sign-up" href="https://litmus.com/hello">Try Litmus free</a>
-        </li>
+          <li class="nav-item">
+            <a class="nav-link sign-up" href="https://litmus.com/pricing">Sign up free</a>
+          </li>
       </ul>
     </nav> <!-- cd-nav -->
 
@@ -128,7 +168,10 @@ analytics.page()
       <div class="dropdown">
         <div class="dropdown-text">Features</div>
         <ul class="dropdown-content">
-          <li><a href="/email-testing">Overview</a></li>
+          <ul>
+            <li><a href="/overview">All Features</a></li>
+            <li><a href="/email-testing">Email Previews</a></li>
+          </ul>
           <li><a href="/email-builder">Builder</a></li>
           <li><a href="/email-checklist">Checklist</a></li>
           <li><a href="/spam-filter-tests">Spam Testing</a></li>
@@ -289,14 +332,14 @@ analytics.page()
 
     <div class="signup-cta row">
   <p class="col-md-8">Start using Litmus.  <span>Sign up for a free account in 30 seconds.<span></span></span></p>
-  <a class="btn btn-primary pull-md-right" href="https://litmus.com/hello" role="button">Try Litmus Free</a>
+  <a class="btn btn-primary pull-md-right" href="https://litmus.com/pricing" role="button">Sign up free</a>
 </div>
 
 
     <div class="row">
       <div class="logo col-lg-2">
         <a href="/">
-          <img alt="Litmus logo" data-no-retina="true" src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1466006316">
+          <img alt="Litmus logo" data-no-retina="true" src="https://assets.litmuscdn.com/images/next/shared/footer-logo.svg?1482255087">
         </a>
       </div>
 
@@ -313,7 +356,7 @@ analytics.page()
 
           <ul class="footer-links col-xs-6 col-md-6">
             <h5>Product</h5>
-            <li><a href="/email-testing">Features</a></li>
+            <li><a href="/overview">Features</a></li>
             <li><a href="/pricing">Pricing</a></li>
             <li><a href="/enterprise">Enterprise</a></li>
             <li><a href="/resources">Resources</a></li>
@@ -375,6 +418,7 @@ analytics.page()
 
 
   </div>
+
   
 <!-- Google Tag Manager -->
 <noscript>
@@ -388,8 +432,15 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 <!-- End Google Tag Manager -->
 
 
-  <script src="https://js.litmuscdn.com/javascripts/next.js?1466006330"></script>
-  
+  <script src="https://js.litmuscdn.com/javascripts/next.js?1482255114"></script>
+    <script>
+    // Conversion script invocation.
+    if (typeof springBoard=='object' && typeof springBoard.main=='function') {
+      springBoard.main();
+    }
+  </script>
+
+
 
 
 </body></html>
