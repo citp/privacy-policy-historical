@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectlytimedimages.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014442id_/http%3A//perfectlytimedimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectlytimedimages.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222070734id_/http%3A//perfectlytimedimages.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy – Perfectly Timed Images
 
 ## Your Privacy
 
@@ -24,4 +24,4 @@ We have included links on this site for your use and reference. We are not respo
 
 Changes to this Privacy Statement
 
-The contents of this statement may be altered at any time, at our discretion. 
+The contents of this statement may be altered at any time, at our discretion.
