@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlsecure.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530130648id_/http%3A//www.dlsecure.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlsecure.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222044626id_/http%3A//dlsecure.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DLSecure — Organize, collaborate, and share
 
