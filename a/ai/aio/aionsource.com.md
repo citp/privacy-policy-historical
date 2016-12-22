@@ -1,53 +1,39 @@
-> *The following text is extracted and transformed from the aionsource.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629221542id_/http%3A//aiondatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionsource.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222122220id_/http%3A//www.aionsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Item - Aion Database 1.0
+# Privacy Policy - AionSource
 
-**WHAT THIS PRIVACY POLICY COVERS**
+AIONSource.com (“Aion Source”) operates AIONSource.com and may operate other websites. It is Aion Source’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**How Aion Database uses Your Personal Information**  
-This policy covers how Aion Database treats personal information that Aion Database collects and receives, including information related to your past use of Aion Database products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+### Website Visitors
 
-This privacy policy only applies to Aion Database  
-This policy does not apply to the practices of companies that Aion Database does not own or control, or to people that Aion Database does not employ or manage.
+Like most website operators, Aion Source collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Aion Source purpose in collecting non-personally identifying information is to better understand how Aion Source visitors use its website. From time to time, Aion Source may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-**INFORMATION COLLECTION AND USE**  
-Aion Database collects personal information when you register with Aion Database, when you use Aion Database products or services.
+Aion Source also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on AIONSource.com blogs/sites. Aion Source only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. When you register with Aion Database and sign in to our services, you are not anonymous to us.
+### Gathering of Personally-Identifying Information
 
-Aion Database collects information about your transactions with us and with some of our business partners.
+Certain visitors to Aion Source websites choose to interact with Aion Source in ways that require Aion Source to gather personally-identifying information. The amount and type of information that Aion Source gathers depends on the nature of the interaction. For example, we ask visitors who sign up at AIONSource.com to provide a username and email address. Those who engage in transactions with Aion Source are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Aion Source collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Aion Source. Aion Source does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Aion Database automatically receives and records information from your computer and browser, including your IP address, Aion Database cookie information, software and hardware attributes, and the page you request.
+### Aggregated Statistics
 
-Aion Database uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Aion Source may collect statistics about the behavior of visitors to its websites. Aion Source may display this information publicly or provide it to others. However, Aion Source does not disclose personally-identifying information other than as described below.
 
-**INFORMATION SHARING AND DISCLOSURE**  
-Aion Database does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+### Protection of Certain Personally-Identifying Information
 
-We respond to subpoenas, court orders, or legal process(such as law enforcement requests), or to establish or exercise our legal rights or defend against legal claims.  
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Aion Database's terms of use, or as otherwise required by law.  
-We transfer information about you if Aion Database is acquired by or merged with another company. In this event, Aion Database will notify you before information about you is transferred and becomes subject to a different privacy policy.  
-Aion Database displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
+Aion Source discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Aion Source behalf or to provide services available at Aion Source websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Aion Source websites, you consent to the transfer of such information to them. Aion Source will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Aion Source discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Aion Source believes in good faith that disclosure is reasonably necessary to protect the property or rights of Aion Source, third parties or the public at large. If you are a registered user of an Aion Source website and have supplied your email address, Aion Source may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Aion Source and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Aion Source takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Aion Database does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+### Cookies
 
-**COOKIES AND SIMILAR TECHNOLOGIES**  
-Aion Database may set and access Aion Database cookies on your computer. We may also set and access device identifiers which could include IP address, user agent information (browser version, OS type and version), and device provided identifiers.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Aion Source uses cookies to help Aion Source identify and track visitors, their usage of Aion Source website, and their website access preferences. Aion Source visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Aion Source websites, with the drawback that certain features of Aion Source websites may not function properly without the aid of cookies.
 
-Aion Database lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies and device identifiers is subject to their own privacy policies, not this one.Advertisers or other companies do not have access to Aion Database's cookies.
+### Business Transfers
 
-Your Ability to Edit and Delete Your Account Information and Preferences  
-You can edit your Aion Database Account Information at any time. You can also modify information you have provided to Aion Database through the Aion Database products or services you may use.
+If Aion Source, or substantially all of its assets, were acquired, or in the unlikely event that Aion Source goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Aion Source may continue to use your personal information as set forth in this policy.
 
-We reserve the right to send you certain communications relating to the Aion Database service, such as service announcements, administrative messages and the Aion Database Newsletter, that are considered part of your Aion Database account, without offering you the opportunity to opt out of receiving them.
+### Ads
 
-If you wish to delete your Aion Database account, ask us via e-mail or PM on our forum.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Aion Source and does not cover the use of cookies by any advertisers.
 
-**CONFIDENTIALITY AND SECURITY**  
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+### Privacy Policy Changes
 
-**CHANGES TO THIS PRIVACY POLICY**  
-Aion Database may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Aion Database account or by placing a prominent notice on our site.
-
-**QUESTION AND SUGGESTIONS**  
-If you have questions, suggestions, or wish to make a complaint you can contact us via PM on our forum.
+Although most changes are likely to be minor, Aion Source may change its Privacy Policy from time to time, and in Aion Source sole discretion. Aion Source encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a AIONSource.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
