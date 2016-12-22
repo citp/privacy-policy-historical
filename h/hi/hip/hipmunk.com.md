@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616080837id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222053750id_/https%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipmunk
 
+  
+
+
 ## Privacy Policy
 
-At Hipmunk, we want to make your travel experience better. As part of that effort, we want you to feel comfortable when you visit or use our Service (the websites and related mobile apps on which this Privacy Policy is displayed, and the services that we make available though those websites and apps). We also understand that you may have some important questions for us about what information we collect when you use our Service, why we collect that information, and how we may use and disclose it to others. We've created this Privacy Policy to help answer those questions. By using our Service, you are indicating to us that you agree to our collection, use and disclosure of your information, as described in this Privacy Policy. 
+### Last updated November 22, 2016
+
+At Hipmunk, we want to make your travel experience better. As part of that effort, we want you to feel comfortable when you visit or use our Service (the websites and related mobile apps on which this Privacy Policy is displayed, and the services that we make available though those websites and apps). We also understand that you may have some important questions for us about what information we collect when you use our Service, why we collect that information, and how we may use and disclose it to others. We've created this Privacy Policy to help answer those questions. Please read this Privacy Policy carefully. Your access to or use of our Service constitutes your notice to our collection, use and disclosure of your information, as described in this Privacy Policy. If you do not wish for us to collect, use, and disclose your information in accordance with this Privacy Policy, please do not access or use the Service. We may add to or amend this Policy with other notices. 
+
+This Policy applies solely to information collected by us through the Services and does not apply to information collected elsewhere, including, without limitation, offline or on sites linked to or through the Services. 
+
+  
+
 
 ## What Information Is Collected?
 
@@ -16,7 +26,7 @@ Here's what we collect from you when you use the Service:
 We also allow you to integrate various functionalities from other services, such as Microsoft Outlook and Google Calendar, with Hipmunk. If you choose to take advantage of this integration feature in the desktop version of the Service, we will ask you for your login credentials for the other service. If you access the Service using our mobile apps, you do not need to provide your login credentials, as your mobile device allows this integration automatically. By providing those credentials or installing the mobile apps, you are agreeing that we can access and store the information that the other service's functionality contains, including personally identifiable information. Further, if you have obtained authorized access through the other service to another person's information, you understand and agree that by providing us your login credentials or installing the mobile, you are allowing and are authorized to allow Hipmunk to access and store that other person's information, including personally identifiable information.
 
   *  **Calendar Information.** With your permission, we collect calendar information from your mobile device and use it to provide suggestions (such as for flights, hotels, and cars) based on your meetings and travel plans. We also allow you to integrate various functionalities from other services, such as Microsoft Outlook and Google Calendar, with Hipmunk. If you choose to take advantage of this integration feature in the desktop version of the Service, we will ask you for your login credentials for the other service. If you access the Service using our mobile apps, you do not need to provide your login credentials, as your mobile device allows this integration automatically. By providing those credentials or installing the mobile apps, you are agreeing that we can access and store the information that the other service's functionality contains, including personally identifiable information. Further, if you have obtained authorized access through the other service to another person's information, you understand and agree that by providing us your login credentials or installing the mobile, you are allowing and are authorized to allow Hipmunk to access and store that other person's information, including personally identifiable information. 
-  * **Communications** When you communicate with us, for example through our hello@hipmunk.com Virtual Travel Agent, we collect your email address and the contents of the communication. 
+  * **Communications** When you communicate with us, for example through our hello@hipmunk.com Virtual Travel Agent, we collect your email address and the contents of the communication. In addition, we may provide or enable communications with you through third party services and those third party services may provide us with information about you and the content of your communications. For example, when you interact with the Hello Hipmunk Virtual Travel Agent on a third-party service such as Facebook Messenger or Slack, that third-party service may collect your contact information and the content of those communications and share this information with Hipmunk. We do not own or operate these third-party services, and you should review the terms of use and privacy policies of such services to make sure you are comfortable with the ways in which they use the information you share with them. 
   * **"Automatically Collected" Information:** Like many websites and mobile apps, when you use the Service we may automatically record certain information about your visit from your web browser or our mobile app such as your IP address, the pages of the service you view, or details regarding the searches you run on the Service, such as what you are searching for, the date and time when you initiated a search, and the location from which you initiated the search. We collect and may use this information to understand and analyze the aggregate or "big picture" usage trends and preferences of our users. 
   * **"Cookies" Information:** One form of "automatically collected" information we record is information stored by "cookies." When you use the Service, we may send one or more cookies to your computer or your mobile device. We use both "session" and "persistent" cookies to collect, store, and sometimes track various types of information. A session cookie is one that disappears after you close your browser or our mobile app. While a persistent cookie remains after you close your browser or the mobile app (and may be used by your browser or the mobile app when you later return to the Service), persistent cookies generally can be removed. You can review the appropriate "Help" file in your Web browser or your mobile device to learn the proper way to modify your cookie settings. 
 
@@ -29,6 +39,7 @@ We also allow you to integrate various functionalities from other services, such
   * **Booking through Hipmunk:** If you are a registered Hipmunk user, you may book travel transactions with some of our travel partners through Hipmunk. When you use this feature, we collect payment details from you including name on card, card number, billing address, expiration date, security code, and phone number, and we pass that information to the travel partner to complete the transaction. The travel partner processes your payment. You have the option to let us save your payment details, which we will store for the sole purpose of enabling your future transactions. You may add a payment method or edit or delete your saved payment information at any time in your Hipmunk account settings. 
 
 
+  
 
 
 ## How Hipmunk uses this information:
@@ -39,6 +50,7 @@ Hipmunk uses the information you provide or that we collect to keep this great t
   * We may communicate with you via e-mail or another form of electronic notification regarding security, privacy, and administrative issues relating to your use of the Service.
   * If you are logged into your account and using the Service (including Hipmunk for Business), we may associate information regarding your usage of the Service with your account and with other information that we have collected about you, such as your search history. If you have not yet established an account with us (or you have not signed into the Service using a third-party login mechanism, described above), we record the searches you perform to a cookie. If that you later establish an account with us, or sign into our Service with that cookie still present on your computer, we may associate the searches recorded on that cookie with your new account.
 
+  
 
 
 ## How Is the Information Shared or Disclosed?
@@ -55,6 +67,9 @@ Hipmunk may disclose aggregated, anonymized, or other types of non-personally id
 
 You may, of course, decline to share certain information with Hipmunk, in which case Hipmunk may not be able to provide to you some of the features and functionality found on the Service. For instance, you may delete, or choose not to accept, cookies from the Service (see "Cookies" Information above for details). And through your account preferences page on the Service, you may update, correct, or delete certain categories of your profile information, and you may change your preferences. Please note that while your changes to your profile information are reflected promptly in active user databases, we may retain all information you previously submitted. If you want your information permanently anonymized, please submit a request to [contact@hipmunk.com](mailto:contact@hipmunk.com). We may retain any anonymized information for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. 
 
+  
+
+
 ## Third-Party Advertisers and Advertising Technology Providers
 
 Our advertising technology partners may use technology to send, directly to your browser, the advertisements that appear on the Service. They automatically receive your IP address and other log file information when this happens. Hipmunk Inc., our advertising technology partners, as well as certain of our other travel partners, may also use cookies, pixel tags, or other technology to assist in understanding the usage, viewing, and demographic patterns and activity on the Service or to serve advertisements or other information about travel booking options to you both on our Service and on other websites and services, based on your interaction with promotional e-mails from us or from other services, your visits to and use of the Service, and your visits to third-party sites and services on the Internet, including certain travel partners' sites and services (collectively, "Usage Information") and/or on anonymized user information. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Hipmunk, Inc. advertising during your visits to other websites. To opt-out of Hipmunk, Inc. data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.hipmunk.com/optout.html). We may use Facebook custom audiences. You may opt-out of this technology [here](https://www.facebook.com/ads/website_custom_audiences/). We may use Google Analytics data collection. To opt-out of Google Analytics data collection for targeted advertising on other sites, click here: [Opt Out Now](https://tools.google.com/dlpage/gaoptout/). These advertising technology and other travel partners may transmit your Usage Information to Hipmunk, and Hipmunk may use that Usage Information consistent with this Privacy Policy. Our advertising technology partners also may, in accordance with their privacy policies, permit third parties to target advertisements that are displayed to you, both on and off the Service, based on your Usage Information or anonymized user information. These partners have promised that they will not combine or associate your Usage Information or anonymized user information provided to them by Hipmunk with information you have independently provided to those partners. 
@@ -63,17 +78,20 @@ If you interact with Hipmunk through a third-party website, such as Yahoo! Trave
 
 Aside from what is described above, we do not provide personal information to our advertising technology partners without your consent. To learn more about our advertising technology partners, send us an e-mail at [contact@hipmunk.com](mailto:contact@hipmunk.com). To learn more about online advertising generally and manage your online advertising preferences, you may visit the Network Advertising Initiative's website [here](http://www.networkadvertising.org/choices/). 
 
+  
+
+
 ## Your California Privacy Rights
 
-If you are a California resident, you have the right to receive (1) information identifying any third party company or companies to which Hipmunk may have disclosed, within the past year, personally identifiable information pertaining to you for that third party's direct marketing purposes, and (2) a description of the categories of personally identifiable information disclosed. To obtain such information, please mail your request to: Hipmunk, Attn: Legal, 434 Brannan St., 1st Floor, San Francisco, CA 94107. 
+If you are a California resident, you have the right to receive: (1) information identifying any third party company or companies to which Hipmunk may have disclosed, within the past year, personally identifiable information pertaining to you for that third party's direct marketing purposes, and (2) a description of the categories of personally identifiable information disclosed. To obtain such information, please mail your request to: Hipmunk, Attn: Legal, 434 Brannan St., 1st Floor, San Francisco, CA 94107. 
 
 ## Do Not Track
 
 Our website does not currently respond to a Do Not Track ("DNT") or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond. 
 
-## Links to Third-Party Services
+## Third-Party Services
 
-Our Service includes links to third-party services, such as the links we provide to websites where you may book travel. When you follow the links to third-party services, you should understand that our Privacy Policy no longer applies, and that the third-party's privacy practices may not be the same as ours. 
+Our Service includes links to third-party services, such as the links we provide to websites where you may book travel. When you follow the links to third-party services, you should understand that our Privacy Policy no longer applies, and that the third-party's privacy practices may not be the same as ours. In addition, our Service may incorporate features provided by third parties and you may interface with Hipmunk through third-party services, including, for example, the third-party communications services described above. Please keep in mind that we do not own or operate these third-party services, and you should review the terms of use and privacy policies of such services to make sure you are comfortable with the ways in which they use the information you share with them. We are not responsible for the privacy practices or content of such third parties. 
 
 ## The Security of Your Information
 
@@ -85,6 +103,4 @@ Our servers and data centers are located in the United States. If you choose to 
 
 ## How Will You Know Whether Hipmunk's Privacy Policy Has Changed?
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. If we substantially revise the policy (and we will use our discretion to determine if the revision is substantial) we may send e-mails to our registered users containing a link to the updated policy. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personally identifiable information we collect. If you continue to use our Service after we post an update to this Privacy Policy, this will indicate your acceptance of the update. 
-
-**Updated November 17, 2015**
+We may occasionally update this Privacy Policy to reflect changes in our information practices. When we do, we will also revise the "last updated" date at the top of the Privacy Policy. If we substantially revise the policy (and we will use our discretion to determine if the revision is substantial) we may send e-mails to our registered users containing a link to the updated policy or post such updates. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personally identifiable information we collect. Your continued use of the Hipmunk Service following the posting of any changes to the Privacy Policy will constitute your acceptance of any such changes. If you do not agree to the changes, you must stop using the Hipmunk Service. 
