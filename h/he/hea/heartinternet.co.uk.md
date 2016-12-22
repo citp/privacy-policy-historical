@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052507id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051630id_/https%3A//www.heartinternet.uk/terms/heart-internet-privacy-statement) for the most accurate reproduction.*
 
 # Heart Internet Privacy Statement
+
+For account and billing queries call our helpline  
+0330 660 0255
+
+For technical issues relating to your hosting please use our Support database
+
+[View Support database](https://web.archive.org/support/)
+
+For information on the status of the Heart servers please use our status page
+
+[View server status](http://www.heartstatus.uk/)
 
 This policy (together with our Terms of Use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
