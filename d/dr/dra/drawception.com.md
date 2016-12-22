@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawception.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428174433id_/https%3A//drawception.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawception.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222052122id_/https%3A//drawception.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
