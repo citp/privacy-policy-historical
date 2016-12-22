@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630012048id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222143807id_/http%3A//bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -15,14 +15,32 @@ Toll Free
 
 
 
-Over 2.3 Million Likes 
+Over 2.8 Million Likes 
 
-2,336,314 Facebook Likes and counting.  
+2,830,438 Facebook Likes and counting.  
 People love our offers, you will too!
 
-**BookVIP.com Privacy Policy**
+×
 
-This privacy policy discloses the privacy practices for BookVIP.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
+Request a free call back
+
+To talk with us, please enter your phone number.
+
+(You'll will need an open phone line to receive this call)
+
+Country:
+
+Your Number:
+
+( ) \- 
+
+**BookVIP.com Privacy Policy and Terms of USE**
+
+By using or calling this web site, I expressly consent and request that BookVIP.com, contact me via telephone at the number(s) I call from or contact information I provide using sms text message or automated telephone dialing system, prerecorded message, electronic mail. Concerning my travel interests. 
+
+This privacy policy discloses the privacy practices for BookVIP.com. 
+
+This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
 
 1.
 
@@ -90,5 +108,5 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **Company Address**
 
-12345 W Dixie Hwy,  
-North Miami, FL 33161
+975 North Miami Beach Blvd,  
+North Miami, FL 33162
