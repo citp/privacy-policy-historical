@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331230446id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222163740id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
 
 # hatland.com - PRIVACY POLICY
 
