@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segment.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522013430id_/https%3A//segment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segment.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222030531id_/https%3A//segment.com/docs/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Segment
 
@@ -82,7 +82,9 @@ We do not share or sell the Personally Identifying Information that you provide 
 
 All Segment account holders may review, update, correct or delete the PII in their registration profile by logging into their account. Removing your information may limit our ability to provide the Service to you. If you completely delete all such information, your account will be deactivated and you will lose access to the Service. You may also [contact us](mailto:legal@segment.com) directly to accomplish the foregoing or if you have additional requests or questions. We’ll take reasonable steps to provide, modify or delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law. We will respond to all requests within 30 days (or less!).
 
-Access to Data Controlled by our Clients Segment has no direct relationship with the individuals whose personal data is contained within the Client User Data processed by our Service. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate personal data provided by our Clients should direct their query to Segment’s Client. If the Client requests Segment to remove or modify the data, we will respond to their request within 30 days (or less!). You may also [contact us](mailto:legal@segment.com) if you have additional questions or concerns.
+## Access to Data Controlled by our Clients __
+
+Segment has no direct relationship with the individuals whose personal data is contained within the Client User Data processed by our Service. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate personal data provided by our Clients should direct their query to Segment’s Client. If the Client requests Segment to remove or modify the data, we will respond to their request within 30 days (or less!). You may also [contact us](mailto:legal@segment.com) if you have additional questions or concerns.
 
 ## Changes to Privacy Policy __
 
@@ -119,4 +121,4 @@ Attention: Privacy Officer
 
 * * *
 
-If you ever have any questions, or see anywhere we can improve our documentation, feel free to [contact us](https://web.archive.org/contact)!
+If you have any questions or see anywhere we can improve our documentation, please [let us know](https://web.archive.org/contact/) or kick off a conversation in the [Segment Community](https://community.segment.com/)!
