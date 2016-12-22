@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415065432id_/http%3A//www.guinnessworldrecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guinnessworldrecords.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222183321id_/http%3A//www.guinnessworldrecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guinness World Records
 
@@ -96,10 +96,14 @@ If you are receiving such emails from Guinness World Records and wish to opt-out
 UK Address:   
 _Guinness World Records  
 Attn: Online Privacy Administrator   
-184-192 Drummond Street   
-3rd Floor   
-London NW1 3HP   
-United Kingdom_
+_
+
+_South Quay Building  
+189 Marsh Wall   
+London E14 9SH_
+
+ _United Kingdom  
+_
 
 or 
 
@@ -150,10 +154,14 @@ All users may review their PII or the PII of their child at any time. If you wou
 UK Address   
 Guinness World Records   
 Attn: Online Privacy Administrator   
-184-192 Drummond Street   
-3rd Floor   
-London NW1 3HP   
-United Kingdom
+
+
+_South Quay Building  
+189 Marsh Wall   
+London E14 9SH_
+
+ _United Kingdom_  
+
 
 or 
 
