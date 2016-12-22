@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616035810id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaltravelmedia.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222082930id_/http%3A//www.eglobaltravelmedia.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Global Travel Media » Privacy Statement
 
-[](http://www.eglobaltravelmedia.com.au/privacy-statement/print/ "Print") [Print](http://www.eglobaltravelmedia.com.au/privacy-statement/print/ "Print") [](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email") [Email](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email")
+[](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email") [Email](http://www.eglobaltravelmedia.com.au/privacy-statement/emailpopup/ "Email")
 
 Global Travel Media and Distribution Services created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.eglobaltravelmedia.com.au](http://www.eglobaltravelmedia.com.au/).
 
