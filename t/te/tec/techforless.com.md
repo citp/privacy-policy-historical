@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203553id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222123515id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -18,7 +18,7 @@ When you make a purchase on our site, you provide the following information:
 
 Tech for Less, Inc. uses a secured network to handle your personal information. A secured server is used and information is transmitted via SSL encryption. This security technology makes it safe to enter and transmit your credit card over the Internet by providing the following protections: 
 
-Server authentication - keeps out imposters   
+Server authentication - keeps out impostors   
 Privacy using encryption - keeps out eavesdroppers   
 Data integrity - keeps out vandals 
 
@@ -75,7 +75,7 @@ Tech for Less, Inc. makes every effort to get your order to you as soon as possi
 
 ### Payment information:
 
-You may pay for your order with a Visa, MasterCard or American Express card. Orders may be made via our web site or by phone at 1-886-880-1230. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
+You may pay for your order with a Visa, MasterCard, Discover or American Express card. Orders may be made via our web site or by phone at 1-886-880-1230. If you prefer to make other payment arrangements, please contact our Sales Department at the number shown above. 
 
 ### Shipping Rates and Policies:
 
