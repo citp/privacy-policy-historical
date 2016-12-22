@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the podio.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054754id_/https%3A//podio.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podio.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043515id_/https%3A//podio.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Podio
 
-_Last Updated on March 12, 2015_
+_Last Updated on September 30, 2016_
 
 Citrix Podio is committed to respecting your privacy. This Online Privacy Policy describes the privacy practices for Podio's website (www.podio.com or the "Site"), the Podio mobile application (the "App") as well as Podio’s collaboration services (the "Services"). 
 
-Podio has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe programs apply only to the information collected on the Podio Site, Podio App and Podio Services, and do not apply to any downloadable software available on the Site. 
+If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@podio.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 
-Podio complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Podio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Podio’s certification, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
+Podio participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Podio has committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List https://www.privacyshield.gov/list. 
+
+Podio is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Podio complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+
+With respect to personal data received or transferred to the Privacy Shield Framework, Podio is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Podio may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 ## 1\. Why is my information needed?
 
@@ -56,7 +62,7 @@ Back to top
 
 Ensuring your privacy is important to us. We do not sell, trade or rent your personal information to third parties except as described within this Privacy Policy.
 
-Podio products and services by necessity require us to provide some of your information to third parties. We may occasionally employ other companies to perform functions on our behalf. Examples include processing credit card payments, sending postal mail and email, analyzing data and providing marketing assistance. They have access to personal information only as needed to perform their functions and may not use it for any other purpose. Further, they must process the personal information in accordance with this Privacy Policy. Also, in the event that Podio or substantially all of its assets are acquired, customer information will be one of the transferred assets. For more information on how you will be notified in this instance, see Section 5 below.
+Podio products and services may require us to provide some of your information to third parties to perform functions or provide services on our behalf. Examples include processing credit card payments, sending postal mail and email, analyzing data, providing marketing or customer support services. They have access to personal information only as needed to perform their functions and may not use it for any other purpose. Further, they must process the personal information in accordance with this Privacy Policy. Also, in the event that Podio or substantially all of its assets are acquired, customer information will be one of the transferred assets. For more information on how you will be notified in this instance, see Section 5 below.
 
 Occasionally we send offers to select groups of Podio customers on behalf of other businesses. When we do this, we do not share your personal information with the other businesses.
 
@@ -75,6 +81,8 @@ If you wish to change, review or delete your personal information, go to your �
 To request removal of your personal information from the Podio blog, contact us at [support@podio.com](mailto:support@podio.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Podio will respond to your request to review the information we have on file for you within 30 days.
+
+Upon request Podio will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please, contact us at privacy@podio.com. 
 
 Back to top
 
@@ -108,12 +116,12 @@ Back to top
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you request the deletion of your information from the Account Settings page on our Site, there is a three month grace period after which is it deleted from the Podio service. Data which is marked as deleted cannot be viewed via the official Podio clients; however, you can access deleted data via the Podio API within the grace period in case you need to recover data that was accidentally deleted.
+If you request the deletion of your information from the Account Settings page on our Site, there is a three month grace period after which is it deleted from the Podio service. Data which is marked as deleted cannot be viewed via the official Podio clients.
 
 Back to top
 
 ## 10\. Who can I ask if I have additional questions?
 
-For additional inquiries about the privacy of your information, you can contact our Customer Support team via email at [privacy@podio.com](mailto:privacy@podio.com), by calling +1 650-30-PODIO or by writing to us via regular mail at: Citrix, Att: Citrix Podio, 650 Townsend St, Ste 325, San Francisco, CA 94103.
+For additional inquiries about the privacy of your information, you can contact our Customer Support team via email at [support@podio.com](mailto:support@podio.com), by calling +45 31 14 74 64 or by writing to us via regular mail at: Citrix, Att: Citrix Podio, 120 S West St, Raleigh, NC 27603, United States.
 
 Back to top
