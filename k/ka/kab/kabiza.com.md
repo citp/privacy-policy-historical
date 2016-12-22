@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411103031id_/http%3A//kabiza.com/kabiza-wilderness-safaris/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222163806id_/http%3A//kabiza.com/kabiza-wilderness-safaris/kabiza-wilderness-safaris-privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Kabiza Wilderness Safaris - Privacy Policy
 
 ### Kabiza Wilderness Safari  – Privacy Policy
 
 Kabiza Wilderness Safaris is committed to providing a safe and secure web site for people of all ages. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while exploring the Internet.
 
-To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices. This privacy notice governs the collection and use of information at [http://kabiza.com](http://kabiza.com/).
+To help ensure a rewarding online experience for all visitors, we provide this summary of our information practices.
 
 As we continue to offer different types of content and services, we may modify our practices from time to time. However, we will treat all personal information we collect in accordance with the privacy notice in effect at the time the information is collected.
 
@@ -16,7 +16,7 @@ At Kabiza Wilderness Safaris we do not collect personally identifiable informati
 
 #### II. How We Use the Information
 
-We use visitors’ personal information for internal purposes only, such as sending safari information via regular or electronic mail. We may also use personal information to send important notifications or updates upon request.
+We use visitors’ personal information for internal purposes only, such as sending information via regular or electronic mail. We may also use personal information to send important notifications or updates.
 
 We never sell, rent, or otherwise share our visitors’ personal information with third parties. We will disclose information we maintain as required by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a specific law enforcement agency’s request.
 
@@ -24,16 +24,32 @@ We will not use or transfer personally identifiable information in ways that are
 
 #### III. Cookies
 
-Kabiza Wilderness Safaris uses a software technology called “cookies.” Cookies are small text files that we place in visitors’ computer browsers to store their preferences. Cookies themselves do not contain any personally identifiable information. Cookies, in some cases, could enable us to relate a visitor’s use of this web site to personal information that the visitor has provided, such as an e-mail address, although we would only use this information to enhance the visitors online experience. We also use cookies to determine how many visitors we have and how often they visit various sections of our site.
+We use Google Analytics to see how our visitors use our site. The cookies from the analysis tool does not contain any personal user information. We cannot identify you or your computer. We anonymize all IP numbers, which means you cannot be identified in the information we gather for statistical analysis. The information created in these cookies when you use our site is sent to and stored by Google on servers in the United States.
+
+#### Google Analytics stores information about
+
+  * the time of your first visit to the site
+  * the time of your most recent visit to the site
+  * the time your current visit began
+  * how many times you have visited this site
+  * your browser identification
+  * the route by which you came to this site.
+
+
+
+#### Google Tag Manager stores information about
+
+  * recurring visitors
+  * how you navigate within our website
+
+
 
 #### IV. Security
 
 To safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online, we have put in place appropriate physical, electronic, and managerial procedures.
 
-We are particularly sensitive to visitors’ security concerns regarding the use of credit cards to purchase products over the Internet. We do not accept credit card payments on our site, we send invoices via email through PesaPal (East Africa’s version of PayPal) which are processed on their secure website.
-
-Credit Card Payments
+We are particularly sensitive to visitors’ security concerns regarding the use of credit cards to pay for a safari.  You can cannot pay for a safari through our site – Payment Invoices are sent you, paid via bank to bank transfers or PesaPal online on their site, no credit card information is seen by us, neither is it stored by us
 
 #### V. Contact Us
 
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address: [kabizawildernesssafaris@kabiza.com](mailto:kabizawildernesssafaris@kabiza.com).
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please contact us at the following e-mail address: **[Kabiza Wilderness Safaris](mailto:kabizawilderrnesssafaris@kabiza.com)**
