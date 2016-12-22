@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502133310id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222102843id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
 # IPL 2016, Indian Premier League 2016 - Privacy Policy
 
