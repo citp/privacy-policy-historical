@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kobobooks.com privacy policy that was archived on 2016-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630065517id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kobobooks.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222062120id_/https%3A//www.kobo.com/privacypolicy%3Fstyle%3Donestore%26store%3DUS%26language%3Den-US%26culture%3Den-US) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -19,17 +19,17 @@
 </script>
 <![endif]-->
 <!--group: nogroup-->
-<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/4ba27f3f89d79295ed4ae8683c69e483.css" media="all">
-<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/09463334b56ca619a20985f175a62a82.css" media="print">
-<script async="" src="//s.btstatic.com/tag.js#site=I84JGzh"></script><script type="text/javascript" src="//assets.kobo.com/media/js/5c726afd04a5bfafec1b3e6d9102da0a.js"></script>
+<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/5ba43e35f8672b6316ebc1173f94a382.css" media="all">
+<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/69fc4ad37c1f5a5aafce96934dbd1896.css" media="print">
+<script async="" src="//s.btstatic.com/tag.js#site=I84JGzh"></script><script type="text/javascript" src="//assets.kobo.com/media/js/094e263ef569ff667969164483314d73.js"></script>
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/23a4c1a7b12f3fffd12581743deaa3d2.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/cda3ccbc7050cbe632c812ba03a42e09.css" media="all" />
 <![endif]-->
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/f339089b1f5268492b895a2d680db9f5.css" media="all" />
+<link rel="stylesheet" type="text/css" href="//assets.kobo.com/media/css_secure/da46c365320296d59897a96cd6fc7d60.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="//assets.kobo.com/media/js/25a20400622099029cfa85770ac14fe7.js"></script>
+<script type="text/javascript" src="//assets.kobo.com/media/js/ceac56fcf2a631b360c17db00ea7f804.js"></script>
 <![endif]-->
 <script type="text/javascript">
     var ssoUrl = '//secure.kobobooks.com/';
@@ -107,10 +107,12 @@ Mage.Cookies.domain   = '.www.kobo.com';
 	}
 </script>
 
-<script src="//kbmerch1-a.akamaihd.net/magento/common/js/kwp/kwp_toolKit.js" type="text/javascript"></script>
-<script src="//kbmerch1-a.akamaihd.net/magento/common/js/MerchKookie.js" type="text/javascript"></script>
-<script src="//kbmerch1-a.akamaihd.net/magento/common/js/kwp_localization.js" type="text/javascript"></script> 
+<script src="//merch.kobobooks.com/magento/common/js/kwp/kwp_toolKit.js" type="text/javascript"></script>
+<script src="//merch.kobobooks.com/magento/common/js/MerchKookie.js" type="text/javascript"></script>
 
+<!--
+<script src="//merch.kobobooks.com/magento/common/js/kwp_localization.js"  type="text/javascript"></script> 
+-->
 
 <script type="text/javascript">
 
@@ -1787,6 +1789,17 @@ try {
 <noscript>
     <iframe src="//s.thebrighttag.com/iframe?c=I84JGzh" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </noscript>
+
+<!-- 
+    Fix for Publisher Operations Redirect 
+    Added by Walter S (Dec 13th, 2016)
+-->
+<script>
+var publisherOpsThankYouPage = "//www.kobo.com/kobopublisheroperations/thankyou";
+if (document.location.pathname.toLowerCase().indexOf("/kobopublisheroperations") > -1) {
+    jQuery("input[name=\"retURL\"]:eq(0)").attr("value", publisherOpsThankYouPage);
+}
+</script>
 <!-- B-END ::: Footer JS ::: footer_js -->
 
 <!-- B-START ::: Footer CSS ::: footer_css -->
