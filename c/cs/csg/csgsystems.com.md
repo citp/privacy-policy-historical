@@ -1,53 +1,138 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510031340id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025214id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / CSG International
 
-**As of January 28, 2011**
+CSG has a long-standing tradition of recognizing and protecting the privacy of customers who use its billing and customer care solutions. This Privacy Policy describes how CSG (including its subsidiaries and affiliates) collect, use, share, protect, and transfer personal data. For the purpose of this policy, “personal data” refers to information that is about, or relates to, an identified or identifiable individual.
 
-Protecting privacy is not a new endeavor for CSG. CSG has a long-standing tradition of recognizing and protecting the privacy of customers who use its billing and customer care solutions. The company maintains strict customer information privacy policies and uses state of the art technologies to safeguard customer information and communications from unauthorized intrusions.
+**Who Does this Privacy Policy Cover**
 
-CSG has created this privacy policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.csgi.com and any other site provided by CSG (collectively, the "Site"). This policy covers CSG and its subsidiaries. CSG reserves the right to change this policy at any time by posting a new privacy policy at this location.
+**What Information Do We Collect**
 
-What Information We Collect and How We Use That Information
+**How Do We Use Information**
 
-**Contact Information:** Some areas of our Site request or require contact and other information. During the registration process, we collect personal and other information such as your name, address, and email address. Your contact information may be used to get in touch with you when necessary in respect to transactions conducted through the Site, material changes in our Site's policies, or otherwise. We do not share your contact information with any third party without your consent, except to a court or government agency if required by law.
+**How Do We Collect Information**
 
-**Internet Protocol Address:** We collect an IP address from all visitors to our Site. We may use your IP address to help diagnose problems with our server, and to administer our Web site. We may also maintain a database of transactions on the Site and we use this information in aggregate form to track the success of the Site.
+**With Whom Do We Share Information**
 
-E-mail Contents: The company will not read or disclose to third parties private e-mail communications that are transmitted using CSG services except as required to operate the service or as otherwise authorized by law.
+**How Do We Share Information Across Borders**
 
-Improper Conduct: CSG may also use customer identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the customer agreement for that service.
+**How Do We Protect Information**
 
-**Use of Cookies**  
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them.
+**Your Ability To Access Information**
 
-**Security**  
-CSG has implemented technology and security features and strict policy guidelines to safeguard the privacy of your customer identifiable information from unauthorized access or improper use, and we will continue to enhance our security procedures as new technology becomes available.
+**Your Ability To Correct or Modify Information**
 
-**U.S.  – EU and U.S. – Swiss Safe Harbor Participation for CSG Media, LLC**
+**Your Ability To Delete Information**
 
-CSG Media, LLC (" **CSG Media** ") recognizes that the European Union (" **EU** ") has an "ominbus" data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the " **Directive** ") and that Switzerland has adopted a data protection law (together, " **Data Privacy Laws** "). Among other things, the Data Privacy Laws generally require "adequate protection" for the transfer of personally identifiable information about individuals located in the EU and Switzerland to CSG Media's operations in the United States. In connection with providing services to CSG Media's customers, CSG Media may access personally identifiable information about CSG Media's customers' consumers in the EU and Switzerland (" **European Consumers** ") (" **European Consumer Data** "). CSG Media accordingly adheres to the requirements of the US/EU and US/Swiss Safe Harbor Privacy Principles published by the US Department of Commerce (" **Safe Harbor** ") with respect to certain European Consumer Data received in the United States about European Consumers. Our customers act as the data controller for any European Consumer Data collected in the EU and Switzerland and subsequently transferred to CSG Media in the US. CSG Media acts as a data processor on behalf of our customers with respect to such European Consumer Data and accordingly only carries out the instructions of such customers with regard to the collection, processing, and protection of European Consumer Data. For more information about Safe Harbor please refer to the US Department of Commerce website at <http://www.export.gov/safeharbor/>. European Consumers may first wish to contact the customer with questions regarding European Consumer Data shared with CSG Media, as this may be the most efficient means of addressing such access requests. European Consumers may contact the CSG Media Safe Harbor Privacy Contact identified below to review the European Consumer Data that CSG Media holds about them. Any European Consumer who cannot resolve his or her issue directly with the customer or CSG Media can contact the local data protection authority for further information and assistance. 
+**How To Communicate With Us**
 
-If you have any questions about our Safe Harbor participation, please contact: 
+**How To Raise Complaints**
 
-Ron Lambert  
-Chief Counsel and Director Business Development  
-Telephone: 312-660-5627  
-[ron.lambert@csgi.com](mailto:ron.lambert@csgi.com)
+**Changes to Our Privacy Policies**
 
-**U.S.  – EU and U.S. – Swiss Safe Harbor Participation for CSG Systems International, Inc.**
+## Who Does this Privacy Policy Cover
 
-CSG Systems International, Inc. (" **CSG** ") recognizes that the European Union (" **EU** ") has an "ominbus" data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the " **Directive** ") and that Switzerland has adopted a data protection law (together, " **Data Privacy Laws** "). Among other things, the Data Privacy Laws generally require "adequate protection" for the transfer of personally identifiable information about individuals located in the EU and Switzerland to CSG’s operations in the United States. In connection with providing services to CSG’s customers, CSG Systems may access personally identifiable information about CSG’s customers' consumers in the EU and Switzerland (" **European Consumers** ") (" **European Consumer Data** "). CSG accordingly adheres to the requirements of the US/EU and US/Swiss Safe Harbor Privacy Principles published by the US Department of Commerce (" **Safe Harbor** ") with respect to certain European Consumer Data received in the United States about European Consumers. Our customers act as the data controller for any European Consumer Data collected in the EU and Switzerland and subsequently transferred to CSG in the US. CSG acts as a data processor on behalf of our customers with respect to such European Consumer Data and accordingly only carries out the instructions of such customers with regard to the collection, processing, and protection of European Consumer Data. For more information about Safe Harbor please refer to the US Department of Commerce website at <http://www.export.gov/safeharbor/>. European Consumers may first wish to contact the customer with questions regarding European Consumer Data shared with CSG, as this may be the most efficient means of addressing such access requests. European Consumers may contact the CSG Safe Harbor Privacy Contact identified below to review the European Consumer Data that CSG Systems holds about them. Any European Consumer who cannot resolve his or her issue directly with the customer or CSG can contact the local data protection authority for further information and assistance. 
+This Privacy Policy covers CSG Systems International, Inc. (“CSG”), and its corporate affiliates and subsidiaries.
 
-If you have any questions about our Safe Harbor participation, please contact: 
+## What Information Do We Collect
 
-Gregory Cannon  
-Associate General Counsel and Chief Compliance Officer  
-Telephone: 303-804-4906  
-[Gregory.Cannon@csgi.com](mailto:Gregory.Cannon@csgi.com)
+We collect personal data about our clients, their customers, people that have expressed interest in obtaining information from us, our suppliers, and our employees.
 
-**Customer Concerns**  
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact:
+We attempt to collect only personal data that we need to carry out a specific purpose. As a result, the type of personal data that we collect differs depending upon the person from whom we are collecting it and the purpose for which it is being collected. For example, our clients may provide us with information relating to their customer’s accounts including name, address, and telephone number in order to allow us to service those accounts. As another example, we may collect salary, health, payroll, and demographic information from our employees in order to pay them or provide them with benefits. For those who visit our website, we may collect their contact information if they submit a question.
 
-Web Site Administrator/Web Master  
-You can also send email to [webmaster@csgi.com](mailto:webmaster@csgi.com).
+## How Do We Use Information
+
+We use personal data that we collect directly from people for the purposes that are disclosed to the person that provided the data to us, or for purposes that they would reasonably expect. For example, if a person sends us an email they reasonably expect that we may use their email address to respond to them. If you would like to limit our use of your personal data, you can make such a request by contacting us using the information provided in the section below called “How to Communicate With Us.” For example, if you provided personal data to us in order to obtain information about our services you can request that we no longer use your information for future contact concerning service offerings.
+
+We use personal data that we receive from our clients in order to perform services for them. Our clients decide how we will use that data and we do not use it for purposes other than those to which we are directed.
+
+## How Do We Collect Information
+
+We typically collect personal data directly from people or directly from our clients. When individuals visit our website, however, we may collect information using certain automated technologies including cookies, or web logs.
+
+Cookies are small text files that are stored on your computer or mobile device. They are used on our website to make our website work, or work in a better, more efficient way. They can do this because websites can read and write these files, enabling them to recognize you and remember important information that will make your use of a website more convenient (e.g., by remembering preference settings). More detailed information about cookies can be found by searching the Internet using the search term "browser cookies".
+
+We may collect and use the following types of cookies:
+
+  * Strictly Necessary Cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website. 
+  * Analytical/Performance Cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
+  * Functionality Cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences. 
+  * Targeting Cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We may use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose. For more information on tracking cookies, please visit the Internet Advertising Bureau’s guide at http://www.youronlinechoices.eu 
+
+
+
+You may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. For more information on how to manage cookies in your browser, please visit http://www.allaboutcookies.org/manage-cookies/.
+
+## With Whom Do We Share Information
+
+We may share personal data in the following situations:
+
+  * Affiliated Companies. We may share personal data with companies that are affiliated with us (for example companies that control, are controlled by, or are under common control with us). We may also share information that is collected between websites that we, or our affiliates, control. Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+  * Service Providers. We may share your personal data with companies that perform services for us, such as fulfilling orders, delivering packages, sending postal mail and e-mails, analyzing customer data, providing marketing assistance, investigating fraudulent activity, conducting customer surveys, and providing customer service. If we share your personal data with a service provider, and that entity takes an action that is contrary to the principles permitted under applicable law, we shall be liable for those actions unless we prove that we were not responsible for causing them. 
+  * Behavioral Advertisers. We may permit third party behavioral advertisers to use technology to collect information about your use of our websites so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. 
+  * Protection. We may share your personal data in order to protect the legal rights of our company, our employees, our agents, our clients, and our affiliates, to protect the safety and security of our visitors, or to protect against fraud. 
+  * Legal Process. We may share your personal data to comply with law or a legal process. 
+  * Government Investigations. We may share your personal data if we receive a lawful request by a public authority. This may include a request by a government agency with responsibility for national security or law enforcement. 
+  * Business Transition. We may share your personal data if we sell all, or part, of our business, sell all, or part, of our business assets, or are otherwise involved in a merger or business acquisition. 
+  * Consent. We may share your personal data if you direct us to do so, or provide your consent to our doing so. 
+
+
+
+## How Do We Share Information Across Borders
+
+If we transmit personal data across national boundaries, we attempt to do so in compliance with any national laws that govern the cross-border transfer of information. For example, we have taken several steps to facilitate the transfer of personal data that we receive about people located in the European Union. These include enacting Binding Corporate Rules, entering the E.U.-U.S. Privacy Shield Framework, and using standard contractual clauses.
+
+The E.U.-U.S. Privacy Shield is a legal framework between the European Union and the United States under which personal data can be transferred to an organization in the United States, like CSG, that has certified its compliance with the principles of the framework and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. More information about the Privacy Shield principles can be found on the US Department of Commerce website.
+
+Standard contractual clauses refer to clauses that the European Union Commission has determined provide an adequate level of protection for data that is transferred outside of the European Economic Area. CSG may use pre-approved standard contractual clauses if it transfers personal data to a service provider that is outside of the EEA, and is located in a country that the European Union does not recognize as having adequate legal structures for protecting personal data.
+
+We have taken steps to facilitate the transfer of personal data that we receive from countries outside of the European Union as well. For example, we adhere to the principles of the U.S.-Swiss Safe Harbor Framework for data that we receive from Switzerland. Information about that framework can be found on the U.S. Department of Commerce website as well.
+
+## How Do We Protect Information
+
+We realize that people trust us to protect their personal data. Although we have implemented reasonable and appropriate technical and organization measures that are designed to help protect personal data from loss, misuse, unauthorized access, disclosure, alteration, or destruction, no security system is perfect and we cannot promise that information about you will remain secure in all circumstances.
+
+## Your Ability To Access Information
+
+You can ask CSG what, if any, personal data we maintain about you. Although we will attempt in good faith to respond to your request, we may not be able to do so in all situations. For example, we may not be able to respond to your request if it imposes an undue burden or expense, requires us to release confidential commercial information, or requires the disclosure of information relating to another person. If you would like to make a request please refer to the “How to Communicate With Us” section below.
+
+## Your Ability To Correct or Modify Information
+
+If the personal data that we maintain about you is inaccurate you can ask that we correct it. Although we will attempt in good faith to respond to your request, we may not be able to make the correction in all situations. For example, we may not be able to correct information about you if it would impose an undue burden or expense, or if it would require us to change information relating to another person. If you would like to make a request to correct or modify information please refer to the “How to Communicate With Us” section below.
+
+## Your Ability To Delete Information
+
+You can ask CSG to delete personal data that we maintain about you. Although we will attempt in good faith to respond to your request, we may not be able to do so in all situations. For example, we may not be able to delete information if it imposes an undue burden or expense, if we are required by law to maintain it, or if we need it in order to comply with contractual obligations. If you would like to make a request to delete information please refer to the “How to Communicate With Us” section below.
+
+## How To Communicate With Us
+
+You can contact us with any questions, concerns, or requests involving personal data by sending a message to the following address or email address:
+
+CSG
+
+Chief Compliance Office
+
+Attn: Chief Compliance Officer
+
+9555 Maroon Circle
+
+Englewood, Colorado 80112
+
+USA  
+DataPrivacy@csgi.com
+
+If we are required to communicate with you concerning your personal data we may choose to do so by email, mail, or telephone.
+
+## How To Raise Complaints
+
+We encourage anyone with a complaint to bring it to the attention of our Chief Compliance Officer whose contact information can be found in the “How to Communicate With Us” section. If you are dissatisfied with the response that you receive, the Chief Compliance Officer will notify you of particular forums for which CSG has agreed to adjudicate the type of complaint that you raised. For example, if your complaint relates to the transfer of information outside of the European Union you may have a right to submit your complaint to the data protection authority in your member state, an alternative dispute resolution (ADR) services provider, the United States Department of Commerce, and, in some cases, to binding arbitration before a panel convened by the Department of Commerce.
+
+CSG has agreed to cooperate with JAMS for EU-U.S. Privacy Shield privacy complaint resolution services. Should you be unsatisfied with the resolution of your privacy complaint, you may contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield> for further information and assistance.
+
+## Changes to Our Privacy Policies
+
+From time to time we may update this privacy policy to reflect changes in our standards or evolving legal requirements. If we decide to use, share, or secure information about you in a way that is significantly more permissive than how it is described in this privacy policy we will attempt to give you the chance to choose not to have your data used in that way (e.g., opt-out) if we are permitted to do so by law and contacting you is practical.
+
+Effective Date: November 14, 2016
+
+Last Modified: November 14, 2016
