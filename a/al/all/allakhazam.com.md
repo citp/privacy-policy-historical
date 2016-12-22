@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616065644id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222151656id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.*
 
-# ZAM
+# Privacy Statement | ZAM - The Largest Collection of Online Gaming Information
 
 ## ZAM Network, LLC
 
@@ -185,6 +185,6 @@ New Uses of Personal Information.  From time to time, we may desire to use Pers
 The entity responsible for the processing of your Personal Information is:
 
 ZAM Network, LLC  
-1850 Sawtelle Blvd. Suite 410  
+12121 Wilshire Blvd. Suite 301  
 Los Angeles, CA 90025  
 privacy@zam.com
