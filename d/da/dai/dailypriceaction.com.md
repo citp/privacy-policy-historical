@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypriceaction.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000211id_/http%3A//dailypriceaction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypriceaction.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222072416id_/http%3A//dailypriceaction.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Daily Price Action
 
@@ -78,18 +78,3 @@ We also use third party advertisements on **http://dailypriceaction.com**  to s
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-  * About
-  * Latest Posts
-
-
-
-[](http://dailypriceaction.com/about "Justin Bennett")
-
-### [Justin Bennett](http://dailypriceaction.com/about)
-
-Justin Bennett is a full-time Forex trader and Owner of Daily Price Action. His Forex trading career began in 2007 and has followed a path similar to many traders. He tried nearly every indicator known to man for the first 3 years with little success. It wasn't until he started using raw price action in 2010 that he became consistently profitable. Since that time, he has been developing strategies and techniques that can be easily duplicated by other traders. Justin can also be found on [Google+](https://plus.google.com/114087003164396613760?rel=author%E2%80%9D), [Twitter](https://twitter.com/justinbennettfx) and [Facebook](https://www.facebook.com/dailypriceaction)
-
-[](http://dailypriceaction.com/about "Justin Bennett")
-
-#### Latest posts by Justin Bennett ([see all](http://dailypriceaction.com/author/jbennet621))
