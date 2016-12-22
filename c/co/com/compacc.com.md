@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616110452id_/http%3A//www.compacc.com/e/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222081535id_/http%3A//www.compacc.com/e/privacy-statement) for the most accurate reproduction.*
 
 # 
 
@@ -22,9 +22,9 @@ In order for Competition Accessories to customize your visit to our site, we may
 
 Competition Accessories understands customer concerns when it comes to safety on the Internet. We guarantee that each purchase you make is safe. If fraudulent charges are ever made, you will not be held responsible for reimbursement. The credit card information that you provide during the checkout process is encrypted using the latest 128-bit Secure Socket Layer (SSL) technology provided by Verisign. This protection means that it is actually safer for our customers to use their credit cards over the Internet rather than in a retail establishment where credit card numbers appear on hard copies and receipts. When your browser is in "secure mode", an unbroken key or padlock icon will appear at the bottom of your browser window.
 
-Competition Accessories LLC.
+Consolidated Shipping Center
 
-700 US 31 East
+900 Eastern Blvd
 
 Clarksville, IN 47129, US
 
