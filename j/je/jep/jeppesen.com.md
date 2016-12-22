@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606085913id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeppesen.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042717id_/http%3A//ww1.jeppesen.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Jeppesen
 
 ##  JEPPESEN PRIVACY POLICY 
 
-WH/Date of Last Revision: 14 Apr 2016 
+WH/Date of Last Revision: 31 May  2016 
 
 ###  1\. Purpose 
 
@@ -14,7 +14,7 @@ This privacy policy applies to the Jeppesen family of companies (Jeppesen) with 
 
 International visitors may want to know whether their personal information will be transferred out of their country of origin. Please be aware that when registering or requesting a transaction on Jeppesen Sites, Jeppesen reserves the right to transfer the international visitor’s personal data to computers in the United States or any other country where Jeppesen or its affiliates, subsidiaries or service providers maintain facilities. The data protection laws in these countries may be different from, and less stringent than the international visitor’s country of residence. By using the Sites or by providing any personal or other information to Jeppesen, express consent is given to Jeppesen to conduct such transfers and processing. Jeppesen takes steps to ensure that the data collected under this Policy is processed according to the provisions of this Policy and the requirements of applicable law wherever the data is located. 
 
-Safe Harbor – Although Jeppesen is not reliant on Safe Harbor anymore, Jeppesen will continue to have a privacy policy that is compliant with Safe Harbor principles until a final decision is made on what, if any, agreement will replace it.  To learn more about Safe Harbor principles, please see the US Government’s website on Safe Harbor:  <https://build.export.gov/main/safeharbor/eu/eg_main_018475>
+Safe Harbor – Although Jeppesen is not reliant on Safe Harbor anymore, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, Jeppesen will continue to have a privacy policy that is compliant with the principles in U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce until a final decision is made on what, if any, agreement will replace it.  These principles are notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about Safe Harbor principles, please see the US Government’s website on Safe Harbor: <https://build.export.gov/main/safeharbor/index.asp>
 
 ###  2\. Application of Generally Accepted Privacy Principles (GAPP) 
 
@@ -76,9 +76,9 @@ When using Jeppesen sites, actual location information may be collected and proc
 
 ####  2.5 Use, retention and disposal 
 
-Jeppesen will use an individual’s Personal Information only for Uses Permitted stated herein or in the Product or Service privacy notice and will only be provided to parties with a need to know. Reasonable attempts to use anonymized data will be made prior to disclosure. 
+Jeppesen will use an individual’s Personal Information only for Uses Permitted stated herein or in the Product or Service privacy notice and will only be provided to parties with a need to know.  Reasonable attempts to use anonymized data will be made prior to disclosure. 
 
-When an account is terminated, Jeppesen will only be entitled to retain Personal Information pursuant to applicable information retention policies. Personal Information will be deleted at the conclusion of the applicable retention policy retention period. 
+When an account is terminated, Jeppesen will only be entitled to retain Personal Information pursuant to applicable information retention policies.  Personal Information will be deleted at the conclusion of the applicable retention policy retention period. 
 
 ####  2.6 Access 
 
@@ -174,6 +174,10 @@ If Jeppesen or its Affiliates are made aware of any Security incidents, Jeppesen
 ###  7\. Dispute Resolution 
 
 Verification, correction or deletion of any Personal Information collected, or to communicate any questions or concerns regarding this Policy or Jeppesen's and its Affiliates’ treatment of Personal Information, please e-mail [privacy@jeppesen.com](mailto:privacy@jeppesen.com), or by writing to Jeppesen, Data Privacy Office, 55 Inverness Drive East, Englewood, CO 80112, USA. Certain information may also be corrected by using the "Account" and "Profile" section of the Sites. Please note that in certain circumstances, Personal Information may not be able to be removed or changed. Upon receipt of formal written complaints, it is Jeppesen's policy to contact the complainant regarding any concerns. For Safe Harbor (or the EU-US Privacy Shield agreement) related concerns, if unable to reach a resolution, a third party independent recourse mechanism is used to investigate and resolve the dispute. 
+
+###  8\. Right to Revise/ Amend 
+
+Jeppesen reserves the right to revise or amend this privacy policy at its sole discretion at any time. 
 
 ###  8\. Right to Revise/ Amend 
 
