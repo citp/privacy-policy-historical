@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151541id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051550id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Xtend-Life Natural Certified Privacy
 
 ## Xtend-Life has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
-_Effective Date: 10/29/2015_
+_Effective Date: 06/29/2016_
 
-Xtend-Life Natural Products (Intl) Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact by phone at +64 3 384 2116 or by mail at 12 Mary Muller Drive, Hillsborough, Christchurch, New Zealand.
+Xtend-Life Natural Products (Intl) Limited has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the [TRUSTe program.](http://www.truste.com/privacy-program-requirements/) In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact by phone at +64 3 384 2116 or by mail at 12 Mary Muller Drive, Hillsborough, Christchurch, New Zealand.
 
 If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, [http://www.xtend-life.com](http://www.xtend-life.com/)
 
@@ -34,6 +34,8 @@ We will retain your information for as long as your account is active or as need
 
 ### Service Providers
 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
 We use other third parties such as a shipping company to fulfill orders, a credit card processing company to bill you for goods and services, and an email service provider to send out email newsletters on our behalf.
 
 We also use a Live Chat system to assist you if you have questions while using our site or regarding your order.
@@ -60,7 +62,7 @@ If you reject cookies, the site should still function correctly but you may have
 
 Technologies such as: cookies, beacons, tags and scripts are used by Xtend-Life Natural Products (Intl) Limited and our partners [marketing partners], affiliates, or analytics or service providers [ online customer support provider]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
+We use Local Storage Objects (LSOs) such as HTML5 and Flash LSO to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
 ### Behavioral Targeting/Re-targeting
 
@@ -87,6 +89,10 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 ### Newsletter Form
 
 When you register for our newsletter we require only your email address. This detail is never released to any third party other than as outlined in this privacy policy. If your email 'bounces' or is 'full' we automatically delete your subscription. Deleted subscriptions are erased from our database. Subscribers can opt out of their subscription at any time by following the unsubscribe instructions included in each email they receive, and their requests are always honored promptly.
+
+### Loyalty Program
+
+When you register for our Loyalty Program you will be automatically signed up for a newsletter with special Loyalty Program offers, discounts and information. For this we only require your email address. This detail is never released to any third party other than as outlined in this privacy policy. If your email 'bounces' or is 'full' we automatically delete your subscription. Deleted subscriptions are erased from our database for up to four years. Loyalty Program subscribers can opt out of their subscription at any time by following the unsubscribe instructions included in each email they receive, and their requests are always honored promptly.
 
 ### Service-related Announcements
 
