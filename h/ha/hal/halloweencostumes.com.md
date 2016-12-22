@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609080943id_/http%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025747id_/http%3A//www.halloweencostumes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,7 +120,7 @@ We provide two means for you to make a purchase on our site. You can either use 
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](https://web.archive.org/contact-us.aspx).
+Our Web site offers a publicly accessible blog or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access it. The blog is mediated and you may have comments made by yourself removed by [contacting us](http://www.halloweencostumes.com/contact-us.aspx).
 
 Live chat option is available on our websites, which will allow you to communicate with our customer service representative. You will be asked to provide your Personal Information to initiate a chat. This information is only used by HalloweenCostumes.com to assure proper quality control and will not be use for any other purpose than to provide the Live Chat service.
 
@@ -140,8 +140,7 @@ HalloweenCostumes.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8388 (Monday through Thursday 7am - 7pm CST  
-Friday 9am - 5pm CST.)
+Phone: (507) 386-8388 (Monday to Friday 7am - 7pm CST.)
 
 [Contact Form](http://www.halloweencostumes.com/contact-us.aspx)
 
