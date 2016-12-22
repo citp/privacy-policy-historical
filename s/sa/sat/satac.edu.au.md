@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002901id_/http%3A//www.satac.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222192648id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - SATAC
 
@@ -217,7 +217,7 @@ Click the link below to download the privacy policy in PDF format.
 
 ##  Copyright
 
-© South Australian Tertiary Admissions Centre (SATAC) 2015 (ABN 55 682 725 032). Unless expressly stated otherwise, SATAC claims copyright ownership of all material on this website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. SATAC reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisations, including authorisations to use material on this website for commercial purposes, should be directed to SATAC.
+© South Australian Tertiary Admissions Centre (SATAC) 2016 (ABN 55 682 725 032). Unless expressly stated otherwise, SATAC claims copyright ownership of all material on this website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. SATAC reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisations, including authorisations to use material on this website for commercial purposes, should be directed to SATAC.
 
 ##  Disclaimer
 
