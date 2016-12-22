@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001429id_/http%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222052804id_/http%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Jumia Nigeria Online Shopping Site
 
@@ -14,6 +14,9 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
 
 We will only keep your information for as long as we are either required to by law or as is relevant for the purposes for which it was collected. You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
+
+  
+
 
 ## 1\. Data that we collect
 
@@ -33,17 +36,24 @@ Your actual order details may be stored with us but for security reasons cannot 
 
 We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes. You can choose to opt out of this at any time. Any answers to surveys or opinion polls we may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.  
 We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the 'unsubscribe' link in any email that we send to you. Within 7 working days (days which are neither (i) a Saturday nor Sunday, nor (ii) a public holiday anywhere in Nigeria) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification.  
-We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.
+We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally.  
+
 
 #### Competitions
 
 For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
+
+  
+
 
 #### Third Parties and Links
 
 We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. 
 
 We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
+
+  
+
 
 ## 2\. Cookies
 
@@ -62,6 +72,9 @@ Google may also transfer this information to third parties where required to do 
 We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. When we collect payment card details electronically, we use encryption by using Secure Socket Layer (SSL) coding. While we are unable to guarantee 100% security, this makes it hard for a hacker to decrypt your details. 
 
 You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of your information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer.
+
+  
+
 
 ## 4\. Your rights
 
