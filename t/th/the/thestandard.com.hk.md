@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522173213id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222230623id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.*
 
 # The Standard
 
