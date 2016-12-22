@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twpornstars.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524032520id_/http%3A//www.twpornstars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twpornstars.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222211716id_/http%3A//www.twpornstars.com/pages/privacy) for the most accurate reproduction.*
 
 # TW Pornstars - Privacy Policy
 
