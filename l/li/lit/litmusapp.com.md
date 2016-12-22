@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litmusapp.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063437id_/http%3A//litmus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litmusapp.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222034741id_/https%3A//litmus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Litmus
 
