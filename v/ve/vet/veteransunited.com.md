@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614230140id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045836id_/https%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Veterans United Home Loans
 
@@ -200,7 +200,26 @@ Columbia, MO 65203
 
 Call **1-800-884-5560** to speak with a Home Loan Specialist.
 
-**Veterans United Home Loans (Last Updated: April 26, 2016)**
+  
+
+
+## Transaction Communications
+
+During your homebuying experience, Veterans United Home Loans works with a variety of third parties and affiliates to promote a better homebuying experience. Many of our clients choose to use the services of a real estate agent. While the choice to use a real estate agent during the transaction is an individual one and is not a condition for service, Veterans United Home Loans is uniquely positioned to work hand in hand with an agent if you choose to do so. 
+
+Your real estate agent works to help you throughout your homebuying process, from shopping for the perfect home, all the way to helping you at the closing table. To promote a high level of service to you, Veterans United may provide your real estate agent with a mobile application known as AgentEdge. The AgentEdge app serves as a tool for your agent in order to provide transparency and encourage momentum during the loan process. We share specific information with your agent so that he or she may better understand your needs. This includes but not limited to: 
+
+  * Your contact information, including phone and email.
+  * Your loan officer and his/her team’s contact information
+  * How much you are preapproved for and the ability to generate a preapproval letter on your behalf
+  * Ability to upload documents, such as purchase contract
+  * Receive notifications when your file reaches important milestones
+
+
+
+Veterans United Home Loans will not communicate information to your real estate agent unless we believe they need to know the information to perform their duties as your agent. Veterans United clients may opt out of providing their agent's access to the app at any time. Clients may contact [customerservice@veteransunited.com](mailto:customerservice@veteransunited.com) or alert their designated loan officer that they would prefer to not share the information with their agent. By submitting your information, you agree to allow Veterans United Home Loans to release transaction information to your real estate agent, if you choose to work with one. 
+
+**Veterans United Home Loans (Last Updated: December 21, 2016)**
 
 Speak with a Home Loan Specialist today 
 
