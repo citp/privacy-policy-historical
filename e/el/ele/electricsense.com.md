@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411104355id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricsense.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222215118id_/http%3A//www.electricsense.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » www.electricsense.com
+# Privacy Policy | ElectricSense
 
 **At ElectricSense.com, the privacy of our visitors is of extreme importance to us.** Personal information of all users is collected, used and disclosed as described in this Statement of Privacy.
 
