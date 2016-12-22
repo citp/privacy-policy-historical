@@ -1,38 +1,66 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616115828id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222132829id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
-## Your privacy
+The Queensland Government manages personal information in line with the [_Information Privacy Act 2009 (PDF, 836KB)_](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
 
-We are committed to protecting user privacy. We understand that visitors and users of the department websites and smartphone applications (app) are concerned about their privacy, and the confidentiality and security of any information that is provided.
+We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' may include your name, address, phone number, email address, age, gender, your employer, and your position title.
 
-## Information collected
+## Information we may request
 
-When you visit this website or app, our web measurement tool and Internet Service Providers record anonymous information for statistical purposes only, including:
+We may ask you to provide personal information through this site. We will only do this:
 
-  * the type of browser, computer or phone platform and screen resolution you are using
-  * your traffic patterns through our site such as: 
-    * the date and time of your visit to the site
-    * the pages you accessed and documents downloaded
-    * the previous page you visited prior to accessing our site
-    * the Internet address of the server accessing our site
+  * to meet your needs (e.g. answer a question, provide a service)
+  * to meet our needs (e.g. demographic analysis)
+  * if required by law.
 
 
 
-No attempt is or will be made to identify you or to use or disclose your personal information except where required under a law, for example, a law enforcement agency may exercise a warrant to inspect our service providers' logs.
+### Use and disclosure of personal information
 
-## Email
+We will not add you to a mailing list, or give your personal information to third parties without your consent, unless required by law.
 
-This is a Queensland Government website or app. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf).
+### Emails
 
-We will collect and handle your personal information in accordance with the _Information Privacy Act 2009_. We will not use your personal information to compile a mailing list or for marketing purposes.
+Our privacy principles apply to emails as well.
 
-Our Internet Service Provider may monitor email traffic for system trouble shooting and maintenance purposes only.
+Our internet service provider or information technology staff may monitor email traffic for system trouble shooting and maintenance purposes only.
 
-## Security
+### Cookies
 
-This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of such websites.
+We use cookies to collect anonymous statistical information, including:
 
-Please contact Manager, Right to Information and Information Privacy at [rti@deta.qld.gov.au](mailto:rti@deta.qld.gov.au) if you have a concern or complaint about the way your personal information has been collected, used, stored or disclosed.
+  * your browser, computer platform and screen resolution
+  * your traffic patterns through our site, such as: 
+    * the date and time of your visit
+    * the pages and documents accessed
+    * the website you visited before ours
+    * your server address.
+
+
+
+We do not identify users or any browser activity outside this website, except in the unlikely event of an investigation, where a law enforcement agency may have a warrant to inspect activity logs.
+
+Transactional services available from this site may use cookies to track business processes. Please read the particular service's privacy and security statement before beginning a transaction.
+
+### Website analytics
+
+We use Google Analytics (including display advertising features) on our website to gather anonymous information about visitors to our website. When you visit our web pages, your browser automatically sends anonymous information to Google. Examples of the information include the web address of the page that you're visiting, your IP address and demographic information. Google may also use cookies.
+
+We use this data to analyse the pages that are visited, to improve your experience and make sure our website is useful.
+
+You can read more about how [Google uses data.](http://www.google.com/policies/privacy/partners/) You can choose not to allow Google to collect your information by [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout) or specifically [opt out of Google Analytics display advertiser features.](http://www.google.com.au/policies/technologies/ads)
+
+### Security
+
+Parts of this site transmit information securely across the internet. However this is not always feasible. We recognise that there may be risks transmitting information across the internet. We will notify you where personal information is not transmitted securely.
+
+Where this site contains links to other Queensland Government agencies’ websites, the privacy or security terms set out there will apply to the material on the websites.
+
+Where this site contains links to non-Queensland Government websites, the Queensland Government is not responsible for the privacy or security practices or the content of any such websites.
+
+### More information
+
+[Email us](mailto:Government.Gateway@qld.gov.au) if you would like to know more about information privacy.
 
 ^ Top of page
