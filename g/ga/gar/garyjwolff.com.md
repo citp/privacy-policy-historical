@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625025337id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222131819id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for garyjwolff.com
 
@@ -40,8 +40,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 It is possible I may choose in the future to use third-party advertisements that use cookies and web beacons in the course of ads being served on this web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on this web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the  
-[Google advertising and privacy policy](http://www.google.com/privacy_ads.html).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google privacy policy](https://www.google.com/policies/privacy/).
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with this site, should you so choose.
 
@@ -63,7 +62,7 @@ This privacy policy is provided as a statement to you of my commitment to protec
 ### Google Search Box
 
   
-The search box on this web site is powered by Google Inc. You acknowledge and agree that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box, you consent to Google using your personal data in accordance with its privacy policy.
+The search box on this web site is powered by Google Inc. You acknowledge and agree that [Google's privacy policy](http://www.google.com/privacy.html) shall apply to your use of the Search Box and by using the Search Box, you consent to Google using your personal data in accordance with its privacy policy.
 
 ### Updates and Effective Date
 
