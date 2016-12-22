@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeroll.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620085751id_/http%3A//veeroll.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeroll.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222224308id_/http%3A//veeroll.com/privacy-policy) for the most accurate reproduction.*
 
 # Veeroll - Get Traffic from YouTube and Facebook Video Ads
 
