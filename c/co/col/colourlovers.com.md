@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061414id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051704id_/http%3A//www.colourlovers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: COLOURlovers
 
 This Privacy Policy was last modified on 1/21/2014 and was first published and made effective on 06/04/2009.
 
-Creative Market Labs, Inc. (“COLOURlovers,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Creative Market Labs when you use the COLOURlovers Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to the online services offered through or in association with COLOURlovers, including Themeleon, Seamless Studio, PhotoCopa and COPASO (collectively, “our Service”). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms). 
+North Hawaii Trading Co, LLC (“COLOURlovers,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by COLOURlovers when you use the COLOURlovers Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. This Privacy Policy applies to the online services offered through or in association with COLOURlovers, including Themeleon, Seamless Studio, PhotoCopa and COPASO (collectively, “our Service”). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms). 
 
 ## Information We Collect and Use
 
@@ -32,7 +32,7 @@ Any personal information or content that you voluntarily disclose for posting to
 
 From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events. 
 
-Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of COLOURlovers or Creative Market Labs, our Users or others. 
+Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of COLOURlovers, our Users or others. 
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for our Services. 
 
@@ -74,6 +74,6 @@ We may update its Privacy Policy from time to time, and so you should review thi
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [privacy@colourlovers.com](mailto:privacy@colourlovers.com), or send mail to: 
 
-Creative Market Labs, Inc.  
+North Hawaii Trading Co, LLC.  
 333\. S. State St. Suite V #232  
 Lake Oswego, OR 97034 
