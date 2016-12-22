@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607171151id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anygator.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222231642id_/http%3A//us.anygator.com/info%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Anygator.com - Bite the net
 
