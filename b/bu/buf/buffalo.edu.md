@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520045847id_/http%3A//www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.edu privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222080819id_/http%3A//www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html) for the most accurate reproduction.*
 
-# Privacy - UBIT
+# Privacy - UBIT - University at Buffalo
 
 The University at Buffalo recognizes that it is critical for individuals and businesses to be confident that their privacy is protected when they visit UB websites. This policy describes the University at Buffalo's privacy practices regarding information collected from [_users_](http://www.buffalo.edu/ubit/policies/it-policies-a-to-z/privacy.html) of specific University at Buffalo websites.
 
@@ -96,7 +96,7 @@ For website security purposes and to maintain the availability of the website fo
 
 The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through this website.
 
-**Personal Information**
+ **Personal Information**
 
 Shall have the meaning set forth in subdivision 5 of section 202 of the State Technology Law.
 
