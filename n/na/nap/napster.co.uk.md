@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908080048id_/http%3A//www.napster.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222080735id_/http%3A//gb.napster.com/privacypolicy) for the most accurate reproduction.*
 
 # Napster - Subscription Music Service - Listen All You Want: Millions of Songs
 
@@ -49,7 +49,7 @@ Napster uses your Personal Information to:
   * For billing purposes, including for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors. This may include verifying authorization of credit card usage before any purchase of premium content or services (e.g., for the purposes of access to a free trial);
   * Verify access rights to premium content or other access-restricted services and software, including for the purpose of supporting digital rights management software, and to prevent any misuse of Napster services;
   * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability to you;
-  * For the purposes of advertising and market research; if you do not want us to use your data for purposes of advertising or market research, please go to Napster website, log-in, click “Preferences” under “My Account”;
+  * For the purposes of advertising and market research; If you do not want us to use your Personal information for promotional activities or for market research purposes, please click [here](mailto:privacy-opt-out@rhapsody.com); 
   * to provide you with content recommendations based on the tracks streamed, the type of genre and the tracks, albums and artists you declare as “favourites”, and based on what other user profiles you follow; and
   * Where and to the extent that we have your consent, send Email advertisements, e.g Napster newsletters, other information about our products and services.
 
@@ -83,7 +83,7 @@ You may choose to provide us with personal information if, for example, you: con
 
 Napster provides you with access to a joint social network of Napster and Rhapsody International Inc ("Social Network"). The Social Network allows you to discover music by making social connections with other Social Network members, sharing your playlists and listening preferences, and locating your friends' Social Network profiles via integration with other third party services such as Gmail and Facebook. Upon registration for any of the Napster Services you automatically become a member of the Social Network. 
 
-You may choose whether to use the Social Network feature by making your profile public and creating social connections with other users. To customize your profile, you must log in to <https://secure-www.napster.co.uk/authentication/login> select the "My Music" menu, then select "Profile." 
+You may choose whether to use the Social Network feature by making your profile public and creating social connections with other users. To customize your profile, you must log in to <https://secure-www.napster.com/authentication/login> select the "My Music" menu, then select "Profile." 
 
 Your profile settings give you the ability to display a photo, write a short bio, and make your playlists, library and listening history public within the Social Network. Your Social Network profile settings also give you the option to share your listening preferences on Facebook. By choosing to connect your Social Network profile to your Facebook account, you understand that your Napster listening selections will automatically be displayed within your Facebook profile and linked to your name within the Facebook newsfeed. 
 
@@ -107,7 +107,7 @@ Cookies can either be session cookies or persistent cookies. A session cookie ex
 
 If you don’t like the idea of cookies or certain types of cookies, you can change your browser’s settings to delete cookies that have already been set and to not accept new cookies. 
 
-For further details and your cookie options please see our [Cookie Policy](http://www.napster.co.uk/cookies). 
+For further details and your cookie options please see our [Cookie Policy](http://gb.napster.com/cookies). 
 
 ##  CHANGES TO THE PRIVACY POLICY 
 
