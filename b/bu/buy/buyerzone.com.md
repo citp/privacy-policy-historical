@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219021140id_/http%3A//www.buyerzone.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222114041id_/http%3A//buyerzone.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,13 @@ This privacy policy applies to www.buyerzone.com (the "Site") owned and operated
 
 Your privacy is very important to us. This privacy policy describes the information we gather, how we share that information and what we do to protect your information on our Site. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
-Use of the Site indicates agreement with this privacy policy. This privacy policy was last updated October 8, 2015.
+Use of the Site indicates agreement with this privacy policy. This privacy policy was last updated March 1, 2016.
 
 [ ](https://privacy.truste.com/privacy-seal/BuyerZone-com,-LLC/validation?rid=298b050a-42dd-44fa-a5c8-5c7460ce5dbd "TRUSTe online privacy certification")
 
-BuyerZone.com, LLC, has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Site.
+The TRUSTe program covers only information that is collected through this website www.buyerzone.com and does not cover information that may be collected through downloadable software.
+
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ### What Information Do We Gather?
 
@@ -22,7 +24,7 @@ Cookies contain specific pieces of information on your computer hard drive, and 
 
 The use of cookies by our partners, including affiliates, analytics or service providers, advertisers, and sellers is not covered by our privacy statement. We do not have access or control over these cookies. 
 
-We may use local storage objects (LSOs) such as HTML5 to store content information in order to embed videos on our website and to track usage of our videos. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity may use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We may use local storage objects (LSOs) such as HTML5 to store content information in order to embed videos on our website and to track usage of our videos. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity may use Flash cookies or HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
 As a prospective buyer using offerings on our Site (such as our Request for Quotes service) to receive information from or about sellers, you are required to provide additional information so we can deliver these services to you. This includes contact information, such as name, title, company, address, phone number and email address, basic demographic information, and your purchasing requirements. The information collected varies according to the different purchasing categories and can be viewed by visiting the different forms located throughout our Site. We may also ask you for feedback about our service, which is collected and stored to allow us to continually improve our offerings.
 
@@ -46,7 +48,7 @@ We use the information we gather to put buyers and sellers into contact with one
 
 **Other communications.** We may send you email and other communications related to this Site, your use of our services and the status of your account, which may include Site updates and responses to your inquiries. In addition, we send periodic surveys and other communications, all of which you can opt out of receiving by changing your notification preferences as described below. 
 
-**Affiliates.** We may share your information with our parent company, Purch, for any uses consistent with those disclosed in this privacy policy. We may use the information you provide us to send you email and other communications on behalf of other Purch member companies. These communications may include email newsletters, as well as offers for other BuyerZone and Purch services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
+**Affiliates.** We may share your information with our parent company, Purch Group, Inc. ("Purch"), and our affiliates owned or controlled in whole or in part by Purch, so they may engage in any uses that we may engage in as disclosed in this privacy policy. We or our affiliates may use the information you provide us to send you email and other communications on behalf of other Purch affiliates. These communications may include email newsletters, as well as offers for other BuyerZone and Purch services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
 
 **Third Party Offers.** We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacy@buyerzone.com](mailto:privacy@buyerzone.com) with the subject line **"opt out — third party."**
 
@@ -68,7 +70,7 @@ Our customer information is an important part of our business. As a result, we o
 
 **Law Enforcement and Legal Process.** We may report to law enforcement agencies any activities that we believe to be unlawful. We may also report any activities that we believe may aid a law enforcement investigation into unlawful activity. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary, in our sole judgment, to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce this Privacy Policy and our Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety, of BuyerZone, its parent company, the public, or another user. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention. 
 
-**Sharing Your Information as Permitted by Law.** We may share your information with others as required by law. We may also share your information with others as permitted by law. This may include sharing your information with government entities or third-parties in response to subpoenas, court orders, other legal process. We may also share your information if we believe it is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine might be brought against us. 
+**Sharing Your Information as Permitted by Law.** We may share your information with others as required by law. We may also share your information with others as permitted by law. This may include sharing your information with government entities or third-parties in response to subpoenas, court orders, bankruptcy proceedings, other legal process. We may also share your information if we believe it is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine might be brought against us. 
 
 ###  How We Secure Personal Information
 
@@ -80,7 +82,7 @@ Your account information will be protected by a password for your privacy and se
 
 BuyerZone.com provides a number of ways for you to manage your personally identifiable information.
 
-**Account information.** If your personally identifiable information changes, or if you no longer desire our service, or if you need to update or delete your account information, such as your contact email address, you may do so by contacting our Customer Care department at [privacy@buyerzone.com](mailto:privacy@buyerzone.com). 
+**Account information.** If your personally identifiable information changes, or if you no longer desire our service, or if you need to update or delete your account information, such as your contact email address, you may do so by contacting our Customer Care department at [privacy@buyerzone.com](mailto:privacy@buyerzone.com). We will respond to your request within a reasonable timeframe.
 
 **Notification Preferences.** You have the ability to "opt out" or unsubscribe from certain e-mail communications, such as periodic surveys and our monthly email newsletter, that are not related to a requested service and/or the status of your account. To update your communication preferences, contact our Customer Care department at [privacy@buyerzone.com](mailto:privacy@buyerzone.com). If you do contact the Customer Care department, please be sure to specify the type of email communication(s) from which you would like to opt out. Information about how to unsubscribe is also included in every communication we send. 
 
