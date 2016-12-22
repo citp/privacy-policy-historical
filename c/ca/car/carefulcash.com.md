@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322063611id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222154841id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Careful Cash
 
 **Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **Collection of Personal Information**  
 When visiting Careful Cash, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
@@ -14,6 +14,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Careful Cash then you may contact us at Martin@carefulcash.com 
+If you have any questions regarding the privacy policy of Careful Cash then you may contact us at Martin@carefulcash.com
 
 Last updated Wed, 06 Jul 2011 04:33
