@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520062708id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.in privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043622id_/http%3A//www.dominos.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dominos India
+# Privacy Policy
 
   * [LOCATION](http://pizza-restaurants.dominos.co.in/)
   * [GIFT VOUCHERS](http://www.dominos.co.in/great-deals/gift-vouchers)
@@ -64,7 +64,7 @@ To conduct marketing research.
 
 And to now and again send you offers or information on products or services that we consider will be of interest to you.
 
-Note: If you wish to unsubscribe from receiving any promotional communication from us please sms DOM UNSUB at 5607061 to de-register.
+Note: If you wish to unsubscribe from receiving any promotional communication from us please sms DOM UNSUB at 5757575 to unregister.
 
 Further information on how we use your personal information when using our Internet ordering system.
 
