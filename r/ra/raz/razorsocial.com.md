@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605103048id_/http%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorsocial.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222202453id_/http%3A//www.razorsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Social media and content marketing technology
+# Privacy Policy
 
 **Last updated: October 15, 2015**
 
@@ -86,7 +86,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ##  **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20160605103048id_/http%3A//contact).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20161222202453id_/http://www.razorsocial.com/contact).
 
 ## How we use Cookies
 
