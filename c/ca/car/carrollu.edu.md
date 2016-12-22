@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508224144id_/http%3A//www.carrollu.edu/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222214126id_/http%3A//www.carrollu.edu/about/privacypolicy.asp) for the most accurate reproduction.*
 
-# Website Private Policy | Carroll University
+# Privacy Policy | Carroll University
 
 This privacy statement discloses the privacy practices for Carroll University in association with offering information and services through the website www.carrollu.edu ("Site" or "Website").
 
