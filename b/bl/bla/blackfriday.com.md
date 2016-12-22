@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051903id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfriday.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222044424id_/https%3A//blackfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for BlackFriday.com
+
+[
+
+###  Free Shipping Available From These Stores Start Shopping Now
+
+](https://web.archive.org/cyber-monday-deals)
 
 Effective Date: November 7, 2012
 
