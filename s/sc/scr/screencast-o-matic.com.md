@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614163724id_/http%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast-o-matic.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222154610id_/http%3A//screencast-o-matic.com/privacy) for the most accurate reproduction.*
 
 # Screencast-O-Matic: Privacy Policy
 
@@ -45,6 +45,10 @@ Other Websites: When using the Services, you may be directed to other third part
 **Where Information is Kept**
 
 To provide you with the Services, we may store, process and transmit information in locations around the world - including those outside your country. Information may also be stored locally on the devices you use to access the Services. 
+
+**SPECIAL NOTE TO INTERNATIONAL USERS**
+
+Screencast-O-Matic is hosted in the United States. If you are a user accessing Screencast-O-Matic from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of Screencast-O-Matic, which is governed by U.S. law, this Privacy Policy, and Screencast-O-Matic's Terms of Service, you are transferring your personal information to the United States and you consent to that transfer. 
 
 **Changes**
 
