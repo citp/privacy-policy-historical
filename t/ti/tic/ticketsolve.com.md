@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketsolve.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526225356id_/http%3A//www.ticketsolve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsolve.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042438id_/http%3A//www.ticketsolve.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Ticketsolve
 
@@ -60,3 +60,5 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 **Contacting Us**
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy and Cookies Policy via email at [info@ticketsolve.com](mailto:info@ticketsolve.com).
+
+[Test](https://ticketsticketsolve-ticketsolve.queue-it.net/?c=ticketsolve&e=ticketsticketsolve&t=http%3A%2F%2Fticketsticketsolve.ticketsolve.com%2Fshows%2F873538154%2Fevents)
