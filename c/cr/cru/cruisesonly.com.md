@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622130852id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisesonly.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042828id_/http%3A//www.cruisesonly.com/privacy.do) for the most accurate reproduction.*
 
 # 
 
@@ -14,4 +14,4 @@ CruisesOnly does use cookies for functional purposes. Most browsers are initiall
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
 
-If you have any questions or concerns, please feel free to email [our customer service department](https://web.archive.org/cs/default.asp). 
+If you have any questions or concerns, please feel free to email [our customer service department](https://web.archive.org/css/login.do). 
