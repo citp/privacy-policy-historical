@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ellislab.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235137id_/https%3A//ellislab.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellislab.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222041556id_/https%3A//ellislab.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / About / EllisLab
-
-**Please note that this privacy policy applies to all of EllisLab and our products.**
 
 ## Introduction
 
@@ -41,6 +39,6 @@ We are committed to privacy and support industry initiatives to preserve individ
 
 ## Contact Us
 
-Please review our [Support F.A.Q.](https://support.ellislab.com/faq "Our Sales F.A.Q.") or email us at [sales@ellislab.com](mailto:sales@ellislab.com)
+Please review our [Support F.A.Q.](https://expressionengine.com/supportfaq "Our Sales F.A.Q.") or email us at [sales@ellislab.com](mailto:sales@ellislab.com)
 
 ### General correspondence
