@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526084730id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kigo.net privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222033258id_/http%3A//kigo.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
