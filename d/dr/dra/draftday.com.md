@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420203306id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222073803id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy, Frequently Asked Questions
+
+Last update posted: April 21, 2016
 
 DraftDay.com (“DraftDay”) recognizes that people who use DraftDay value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected via the DraftDay.com website and mobile app (the “Service”). DraftDay provides this Privacy Policy to help you make an informed decision about whether to use or continue using DraftDay.
 
 Your use of DraftDay and any personal information you provide through the Service remains subject to the terms of this Privacy Policy and our Terms of Service (https://www.draftday.com/tos), as each may be updated from time to time.
+
+Last update posted: April 21, 2016
 
 Please note that any video, image, or other content you post on DraftDay.com (e.g., your name with a comment to a blog post) is not considered personally identifiable information subject to this Privacy Policy and may be published by DraftDay.
 
@@ -27,6 +31,8 @@ New York, NY 10010
 4\. Clear GIFs Information: When you use DraftDay, we may employ technology such as "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by specific users.
 
 5. Additional Mobile App Information: When you use our mobile app, we also may collect mobile device information like operating system and hardware type, numbers or codes that are unique to your particular device, device state information, default device language, the location of your device, and app usage information.
+
+6. Location Data Information: Certain services including GeoComply, will make use of your location data. If you use such services, you consent to us transmitting, collecting, maintaining, processing and using your location data in order to provide and improve location-based services. You may withdraw this consent at any time by turning off the location settings or by notifying us in writing that you would like to withdraw such consent.
 
 **The Way DraftDay Uses This Information**
 
