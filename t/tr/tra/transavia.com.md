@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329232502id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223003931id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
 
 # Privacy - Transavia
 
@@ -47,13 +47,32 @@ If you purchase other services when booking a flight that are provided by third 
 
 However, Transavia is not responsible for the privacy policy of these other websites, sources or third parties. We strongly recommend that you always read carefully through the privacy policies of other websites and/or sources and/or third parties.
 
-## Current policy with regard to processing of personal information
+## Processing of personal information required by authorities 
 
-Transavia is increasingly obliged to provide various authorities in countries around the world – particularly customs and immigration services – in advance with the personal and travel details of its passengers in connection with normal flight operations. This is necessary for the fulfilment of the contract of carriage and for reasons of safety in particular. We wish to emphasise that the authorities concerned have assured us that your reservation details will only be used for safety purposes and can only be accessed by authorised personnel.
+Transavia is increasingly obliged to provide various authorities in countries around the world – e.g. customs, immigration- and security services – in advance with the personal and travel details of its passengers. These may include API (Advance Passenger Information, primarily passport and travel information) and PNR (Passenger Name Record, primarily travel and booking information) details. In certain cases, Transavia is also required to photocopy the passports of its passengers before departure. This is necessary for the fulfillment of the contract of carriage and for reasons of safety in particular. Authorities may require this data for example for immigration purposes and in order to prevent and control possible terrorism and serious crime. We wish to emphasize that the authorities concerned have assured us that your reservation details will only be used for safety purposes and can only be accessed by authorized personnel. 
+
+Regarding flights operated by Transavia France S.A.S – flights which have a flight number starting with ‘TO’, the following applies:
+
+In accordance with the Data Protection Law No. 78-18 of 6 January 1978 relating to computers, files and privacy, and Article L. 232-7 of the French Code of Homeland Security, your API and PNR data may be transmitted to the “Passenger Information Unit”. The "Passenger Information Unit" (PIU) is a service of the French administration that brings together the various authorities responsible for the prevention and fight against terrorism and serious crime and to prevent the undermining of fundamental interests of the French Nation.
+
+**What kind of data are transmitted?**
+
+  * API (Advance Passenger information): Some of your flight data and your travel document data are transmitted to the Passenger Information Unit.
+  * PNR (Passenger Name Record): Some of your flight and booking data are transmitted to the Passenger Information Unit 
+
+
+
+**How do I know if it concerns my flight and my data is transmitted?**
+
+  * For all flights operated by Transavia France S.A.S. from France to a non-EU country and all flights operated by Transavia France S.A.S. from a non EU-Country to France, API and PNR data are transmitted to the PIU. 
+  * API: If it concerns your flight, you will be asked to communicate some of your travel document data during the check-in (online or at the airport). 
+  * PNR: If it concerns your flight, some of your PNR data are automatically transmitted by Transavia France to PIU.
+
+
 
 ## No-fly list
 
-To maintain and manage the proper order and safety of and during flights, Transavia has a No-fly list. This list contains the names of passengers who have disrupted safety, good order and discipline on board and/or on the ground to such an extent that they may not be flown on board a Transavia flight for a limited or unlimited period of time – or under conditions to be determined by Transavia. The persons concerned are informed personally by Transavia – and in writing if possible – about their placement on this list and the applicable time period.
+To maintain and manage the proper order and safety of and during flights, Transavia has a No-fly list. This list contains the names of passengers who have disrupted safety, good order and discipline on board and/or on the ground to such an extent that they may not be flown on board a Transavia flight for a limited period of time – or under conditions to be determined by Transavia. The persons concerned are informed in writing by Transavia about their placement on this list and the applicable time period.
 
 ## Changes
 
@@ -71,4 +90,4 @@ If you have any questions or complaints on the protection of your personal data 
 Transavia Airlines C.V.  
 Transavia France S.A.S.
 
-April 2015
+August 2016
