@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626001324id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051136id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
-# Privacy and Security Statement
+# Privacy and Security Statement : U.S. Bureau of Labor Statistics
 
 Thank you for visiting the Bureau of Labor Statistics (BLS) website and reviewing our privacy and security statement. The BLS is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use, and disclosure of personal information, the BLS makes every effort to comply with applicable federal law, including the Privacy Act of 1974, the Paperwork Reduction Act of 1995, the Freedom of Information Act, and other legislation.
 
@@ -27,7 +27,7 @@ This information is used to create summary statistics that allow us to count the
 
 ### If you identify yourself by sending an email containing personal information
 
-You may decide to send us personally identifying information, such as your mailing address, in an email message requesting information to be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your email to other government employees who are better able to help you. If you wish to file a request under the Freedom of Information Act, instructions are provided at: [http://www.bls.gov/bls/blsfoia.htm](https://web.archive.org/bls/blsfoia.htm).
+You may decide to send us personally identifying information, such as your mailing address, in an email message requesting information to be mailed to you. Information collected in this manner is used solely for responding to requests for information or records. We may forward your email to other government employees who are better able to help you. If you wish to file a request under the Freedom of Information Act, instructions are provided at: [https://www.bls.gov/bls/blsfoia.htm](https://web.archive.org/bls/blsfoia.htm).
 
 ### If you link to other sites outside BLS
 
@@ -35,7 +35,7 @@ Our website has many links to other sites. When you link to these other sites, y
 
 ### Email Filtering Notice
 
-The BLS uses an automated spam filtering system on all email messages entering the BLS network. This filtering process enhances the security of BLS systems and the professionalism of the workplace and enables the BLS staff to serve our customers better. On rare occasions, this filtering process may prevent us from receiving your email or may delay our response. If you do not receive a timely response to your message and suspect it was caught up in our filters, please contact us by telephone (202-691-5200) regarding your inquiry or use our online information request form found at: <http://data.bls.gov/cgi-bin/forms/opb>.
+The BLS uses an automated spam filtering system on all email messages entering the BLS network. This filtering process enhances the security of BLS systems and the professionalism of the workplace and enables the BLS staff to serve our customers better. On rare occasions, this filtering process may prevent us from receiving your email or may delay our response. If you do not receive a timely response to your message and suspect it was caught up in our filters, please contact us by telephone (202-691-5200) regarding your inquiry or use our online information request form found at: <https://data.bls.gov/cgi-bin/forms/opb>.
 
 ### Cookie Use Notice
 
@@ -68,9 +68,6 @@ You can choose not to accept cookies from any website, including bls.gov, by cha
 The BLS website is part of a federal computer system and is monitored to ensure it remains available to all users and to protect the integrity of the information contained in the system. By accessing this website, you consent to these monitoring activities.
 
 Unauthorized attempts to defeat or circumvent security features, to use the system for purposes other than those for which it was intended, to deny service, to alter, damage, or destroy information, or otherwise to interfere with the system or its operation is prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act of 1996, and other applicable criminal laws.
-
-  
-
 
 ### Automated retrieval program (robot) activity
 
