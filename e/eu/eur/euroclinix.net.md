@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the euroclinix.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221091712id_/http%3A//www.euroclinix.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroclinix.net privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222232746id_/https%3A//www.euroclinix.net/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Information
 
-This Website is owned and operated by Hexpress Healthcare Ltd ('we', 'us', 'our') trading as [www.euroclinix.co.uk](https://web.archive.org/) to users and visitors ('you', 'your'). We take your privacy very seriously, and we are committed to protecting and respecting your privacy, and to using technology to enhance your online security. We ask that you read this Privacy Policy ('the Policy') carefully as it contains important information about how we will use your personal data.
+This Website is owned and operated by Hexpress Healthcare Ltd ('we', 'us', 'our') trading as [www.euroclinix.net/en](https://web.archive.org/en/) to users and visitors ('you', 'your'). We take your privacy very seriously, and we are committed to protecting and respecting your privacy, and to using technology to enhance your online security. We ask that you read this Privacy Policy ('the Policy') carefully as it contains important information about how we will use your personal data.
 
 For the purposes of the Data Protection Act 1998, Hexpress Healthcare Ltd is the 'data controller' (the company which is responsible for and controls the processing of your personal data).
 
@@ -119,6 +119,6 @@ You also have the right to ask us to stop processing your personal data for dire
 
 ### Our contact details
 
-We welcome your feedback and questions. If you wish to contact us, please send an email to [info@euroclinix.co.uk](mailto:info@euroclinix.co.uk), or you can write to our registered office at 144 Mitcham Road, Tooting, London, SW17 9NH or call us on 020 3322 1755.
+We welcome your feedback and questions. If you wish to contact us, please send an email to [patient-services@euroclinix.net](mailto:patient-services@euroclinix.net), or you can write to our registered office at 144 Mitcham Road, Tooting, London, SW17 9NH or call us on 020 3322 1755.
 
 We may change this Policy from time to time. You should check this Policy occasionally to ensure you are aware of the most recent version that will apply each time you access this Website.
