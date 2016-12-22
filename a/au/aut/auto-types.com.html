@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the auto-types.com privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613092145id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the auto-types.com privacy policy that was archived on 2016-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222040100id_/http%3A//www.auto-types.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-us"><head profile="http://www.w3.org/2005/10/profile" id="head" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
 	<title>Test drives, automotive news &amp; cars technical details</title>
@@ -29,19 +29,95 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-2833990-9', 'auto-types.com');
+
+  function readCookie(name) {
+	  var nameEQ = name + "=";
+	  var ca = document.cookie.split(';');
+	  for(var i=0;i < ca.length;i++) {
+		  var c = ca[i];
+		  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		  if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	  }
+	  return null;
+  }
+  var usrIDC = readCookie('userIDC');
+  console.log(usrIDC);
+  if (usrIDC == null) {
+	  ga('create', 'UA-2833990-9', 'auto-types.com');
+
+  } else {
+	  ga('create', 'UA-2833990-9', {
+		  'storage': 'none',
+		  'clientId': usrIDC
+	  });
+  }
+
+  //ga('create', 'UA-2833990-9', 'auto-types.com');
+//  ga('create', 'UA-2833990-9', 'auto-types.com', {
+//	  userId: usrIDC
+//  });
   ga('require', 'displayfeatures');
+  //ga('set', 'userId', usrIDC);
   ga('send', 'pageview');
+//  var clID = //;
+//  ga('set', 'clientID', clID);
+
+  var dimensionValue = '';
+  ga('set', 'dimension1', dimensionValue);
+
+  var dimensionValue = '369505951';
+  ga('set', 'dimension2', dimensionValue);
+
+
+
+  var dimensionValue = usrIDC;
+  ga('set', 'dimension3', dimensionValue);
+
+  var dimensionValue = 'zzz12345';
+  ga('set', 'dimension4', dimensionValue);
 
 
 
 </script>
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async">script>
+		<script>
+		var OneSignal = window.OneSignal || [];
+		OneSignal.push(["init", {
+			appId: "21708116-d1e3-40a7-b8d2-899ba942ce00",
+			autoRegister: true, /* Set to true to automatically prompt visitors */
+			subdomainName: 'https://auto-types.onesignal.com',
+			httpPermissionRequest: {
+				enable: true
+			},
+			notifyButton: {
+				enable: true, /* Required to use the notify button */
+				size: 'medium', /* One of 'small', 'medium', or 'large' */
+				theme: 'default', /* One of 'default' (red-white) or 'inverse" (white-red) */
+				position: 'bottom-right', /* Either 'bottom-left' or 'bottom-right' */
+				offset: {
+				bottom: '0px',
+				left: '0px', /* Only applied if bottom-left */
+				right: '0px' /* Only applied if bottom-right */
+			}
+		}]);
+		</script>
 
-<link rel="stylesheet" type="text/css" href="css/jquery.cookiebar.css">
-		
+<link rel="stylesheet" type="text/css" href="/css/jquery.cookiebar.css">
+	<!-- Hotjar Tracking Code for http://www.auto-types.com -->
+	<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:357676,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script><script async="" src="//static.hotjar.com/c/hotjar-357676.js?sv=5"></script>
+
 
 </head>
-<body onload="return marcaListOnChange('3', '1');" itemscope="" itemtype="http://schema.org/WebPage">
+<body onload="return marcaListOnChange('3', '1');" itemscope="" itemtype="http://schema.org/WebPage"><div id="cookie-bar"><p>We use cookies as set out in our cookie policy. By using this website, you agree we may place these<a href="https://web.archive.org/web/20161022225859/http://www.auto-types.com/en/cookie-policy/">cookies</a> on your device.<a href="" class="cb-enable"><font style="color:#ffffff;">I Understand</font></a></p></div>
 
 
 
@@ -318,7 +394,130 @@ Below are links to the privacy policies of the advertising networks used by Auto
 </div>					</div>
 										<div style="width:250px;float:left;margin-left:0px;">
 					<!--  <div class="bxl"><a href="/international-motor-show/2010/paris-motor-show-mondial-de-l-automobile-2010/" title="Paris Motor Show 2010"><img src="http://www.auto-types.com/img/mondial_de_lautomobile_paris_2010_paris_motor_show.jpg"  width="250" height="231" alt="Paris Motor Show 2010" /></a></div>-->
-<div class="bxl">
+<div class="crsh">Search Cars</div>
+<form name="registerForm" action="/en/searchModels/" method="post" onsubmit="return validare_adaugare();">
+
+<div style="float:left;width:80px;padding-top:10px;">Brands: </div>
+<div style="float:left;width:150px;text-align:left;padding-top:10px;">
+<select name="marci_id" id="marcaList" onchange="return marcaListOnChange(3)" style="width:150px;">
+		<option value="0">All Brands</option>
+						<option value="84">Abarth</option>
+								<option value="1" selected="selected">Alfa Romeo</option>
+								<option value="2">Asia motors</option>
+								<option value="3">Aston Martin</option>
+								<option value="4">Audi</option>
+								<option value="5">Austin</option>
+								<option value="6">Autobianchi</option>
+								<option value="8">BMW</option>
+								<option value="7">Bentley</option>
+								<option value="88">Bugatti</option>
+								<option value="9">Buick</option>
+								<option value="10">Cadillac</option>
+								<option value="82">Carver</option>
+								<option value="11">Chevrolet</option>
+								<option value="12">Chrysler</option>
+								<option value="13">Citroen</option>
+								<option value="14">Corvette</option>
+								<option value="15">Dacia</option>
+								<option value="16">Daewoo</option>
+								<option value="17">Daihatsu</option>
+								<option value="18">Daimler</option>
+								<option value="19">Datsun</option>
+								<option value="20">Dodge</option>
+								<option value="21">Donkervoort</option>
+								<option value="22">Ferrari</option>
+								<option value="23">Fiat</option>
+								<option value="85">Fisker</option>
+								<option value="24">Ford</option>
+								<option value="26">Galloper</option>
+								<option value="28">Honda</option>
+								<option value="29">Hummer</option>
+								<option value="30">Hyundai</option>
+								<option value="83">Infiniti</option>
+								<option value="89">Iveco</option>
+								<option value="32">Jaguar</option>
+								<option value="33">Jeep</option>
+								<option value="35">Josse Indigo</option>
+								<option value="36">Kia</option>
+								<option value="37">Lada</option>
+								<option value="38">Lamborghini</option>
+								<option value="39">Lancia</option>
+								<option value="40">Land Rover</option>
+								<option value="34">Landwind</option>
+								<option value="41">Lexus</option>
+								<option value="42">Lincoln</option>
+								<option value="43">Lotus</option>
+								<option value="51">MG</option>
+								<option value="44">Marcos</option>
+								<option value="45">Maserati</option>
+								<option value="46">Maybach</option>
+								<option value="47">Mazda</option>
+								<option value="48">Mega</option>
+								<option value="49">Mercedes-Benz</option>
+								<option value="50">Mercury</option>
+								<option value="52">Mini</option>
+								<option value="53">Mitsubishi</option>
+								<option value="54">Morgan</option>
+								<option value="55">Morris</option>
+								<option value="56">Nissan</option>
+								<option value="57">Noble</option>
+								<option value="58">Opel</option>
+								<option value="60">PGO</option>
+								<option value="59">Peugeot</option>
+								<option value="61">Pontiac</option>
+								<option value="62">Porsche</option>
+								<option value="63">Princess</option>
+								<option value="64">Renault</option>
+								<option value="65">Rolls-Royce</option>
+								<option value="66">Rover</option>
+								<option value="67">Saab</option>
+								<option value="68">Seat</option>
+								<option value="69">Skoda</option>
+								<option value="70">Smart</option>
+								<option value="71">Spectre</option>
+								<option value="72">Ssangyong</option>
+								<option value="73">Subaru</option>
+								<option value="74">Suzuki</option>
+								<option value="78">TVR</option>
+								<option value="75">Talbot</option>
+								<option value="86">Tesla</option>
+								<option value="87">Think</option>
+								<option value="76">Toyota</option>
+								<option value="77">Triumph</option>
+								<option value="79">Volkswagen</option>
+								<option value="80">Volvo</option>
+								<option value="81">Yugo</option>
+					</select>
+		
+</div>
+
+<div style="float:left;width:80px;padding-top:10px;">Models: </div>
+<div style="float:left;width:150px;padding-top:10px;text-align:left;">
+	<select name="modele_id" id="modelList" style="width:150px;">
+		<option value="0">All models</option>
+	</select>
+</div>
+<div style="float:left;width:80px;padding-top:10px;">Fuel: </div>
+<div style="float:left;width:150px;padding-top:10px;text-align:left;">
+
+
+	<select name="fuel" style="width:150px;">
+	<option value="">All fuels</option>
+			<option value="petrol">petrol</option>
+				<option value="diesel">diesel</option>
+				<option value="electric">electric</option>
+				<option value="bio-ethanol">bio-ethanol</option>
+				<option value="NG">NG</option>
+				<option value="lpg">lpg</option>
+			</select>
+</div>
+<div style=" padding-top:10px;clear:both;">
+<div style="text-align: center; width: 100%;padding:10px;">
+	<input type="submit" name="op" value="SEARCH CARS">
+</div>
+</div>
+
+</form><div class="bxl">
 	<script language="javascript" type="text/javascript" src="http://www.wewebcars.com/newsofday2.php"></script>
 	<a target="_blank" href="http://shareasale.com/r.cfm?b=762322&amp;u=1217243&amp;m=57682&amp;urllink=&amp;afftrack="><img src="http://static.shareasale.com/image/57682/250x-250.gif" border="0"></a>	
 <a href="http://www.auto-types.com/en/contact/" title="Your adv in this site"><img src="http://www.auto-types.com/img/your_adv_here_250.gif" width="247" height="167" alt="Your adv in this site"></a></div>
@@ -389,6 +588,21 @@ Below are links to the privacy policies of the advertising networks used by Auto
 		<a href="http://www.auto-types.com/images/kia/Kia_Sportage_mok_4410.jpg" title="2016 Kia Sportage" target="_blank" class="titleNews"><img src="/images/kia/thumbs/Kia_Sportage_mok_4410.jpg" alt="2016 Kia Sportage" width="121" height="86"><br>2016 Kia Sportage</a>
 	</div>
 		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/opel/Opel_Astra_Sports_Tourer_9zw_4390.jpg" title="2016 Opel Astra Sports Tourer" target="_blank" class="titleNews"><img src="/images/opel/thumbs/Opel_Astra_Sports_Tourer_9zw_4390.jpg" alt="2016 Opel Astra Sports Tourer" width="121" height="86"><br>2016 Opel Astra Sports Tourer</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/renault/Renault_Megane_ydk_4403.jpg" title="2016 Renault Megane" target="_blank" class="titleNews"><img src="/images/renault/thumbs/Renault_Megane_ydk_4403.jpg" alt="2016 Renault Megane" width="121" height="86"><br>2016 Renault Megane</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/renault/Renault_Talisman_ntm_4386.jpg" title="2016 Renault Talisman" target="_blank" class="titleNews"><img src="/images/renault/thumbs/Renault_Talisman_ntm_4386.jpg" alt="2016 Renault Talisman" width="121" height="86"><br>2016 Renault Talisman</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/land_rover/Land_Rover_Range_Rover_Evoque_Convertible_84y_4401.jpg" title="2016 Land Rover Range Rover Evoque Convertible" target="_blank" class="titleNews"><img src="/images/land_rover/thumbs/Land_Rover_Range_Rover_Evoque_Convertible_84y_4401.jpg" alt="2016 Land Rover Range Rover Evoque Convertible" width="121" height="86"><br>2016 Land Rover Range Rover Evoque Convertible</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
+		<a href="http://www.auto-types.com/images/saab/Saab_900_q2r_4392.jpg" title="1978 Saab 900" target="_blank" class="titleNews"><img src="/images/saab/thumbs/Saab_900_q2r_4392.jpg" alt="1978 Saab 900" width="121" height="86"><br>1978 Saab 900</a>
+	</div>
+		<div style="float:left;padding:1px;width:120px;height:120px;">
 		<a href="http://www.auto-types.com/images/lexus/Lexus_GS_95v_4404.jpg" title="2016 Lexus GS" target="_blank" class="titleNews"><img src="/images/lexus/thumbs/Lexus_GS_95v_4404.jpg" alt="2016 Lexus GS" width="121" height="86"><br>2016 Lexus GS</a>
 	</div>
 		<div style="float:left;padding:1px;width:120px;height:120px;">
@@ -415,21 +629,6 @@ Below are links to the privacy policies of the advertising networks used by Auto
 		<div style="float:left;padding:1px;width:120px;height:120px;">
 		<a href="http://www.auto-types.com/images/mercedes-benz/Mercedes-Benz_S-klasse_Cabriolet_55v_4408.jpg" title="2016 Mercedes-Benz S-klasse Cabriolet" target="_blank" class="titleNews"><img src="/images/mercedes-benz/thumbs/Mercedes-Benz_S-klasse_Cabriolet_55v_4408.jpg" alt="2016 Mercedes-Benz S-klasse Cabriolet" width="121" height="86"><br>2016 Mercedes-Benz S-klasse Cabriolet</a>
 	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/toyota/Toyota_Prius_2cp_4383.jpg" title="2015 Toyota Prius+" target="_blank" class="titleNews"><img src="/images/toyota/thumbs/Toyota_Prius_2cp_4383.jpg" alt="2015 Toyota Prius+" width="121" height="86"><br>2015 Toyota Prius+</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/mercedes-benz/Mercedes-Benz_S-klasse_Cabriolet_55v_4409.jpg" title="2016 Mercedes-Benz S-klasse Cabriolet" target="_blank" class="titleNews"><img src="/images/mercedes-benz/thumbs/Mercedes-Benz_S-klasse_Cabriolet_55v_4409.jpg" alt="2016 Mercedes-Benz S-klasse Cabriolet" width="121" height="86"><br>2016 Mercedes-Benz S-klasse Cabriolet</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/toyota/Toyota_RAV4_ml1_4406.jpg" title="2016 Toyota RAV4" target="_blank" class="titleNews"><img src="/images/toyota/thumbs/Toyota_RAV4_ml1_4406.jpg" alt="2016 Toyota RAV4" width="121" height="86"><br>2016 Toyota RAV4</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/mercedes-benz/Mercedes-Benz_SL-klasse_gvw_4411.jpg" title="2016 Mercedes-Benz SL-klasse" target="_blank" class="titleNews"><img src="/images/mercedes-benz/thumbs/Mercedes-Benz_SL-klasse_gvw_4411.jpg" alt="2016 Mercedes-Benz SL-klasse" width="121" height="86"><br>2016 Mercedes-Benz SL-klasse</a>
-	</div>
-		<div style="float:left;padding:1px;width:120px;height:120px;">
-		<a href="http://www.auto-types.com/images/volkswagen/Volkswagen_Multivan_45x_4398.jpg" title="2015 Volkswagen Multivan" target="_blank" class="titleNews"><img src="/images/volkswagen/thumbs/Volkswagen_Multivan_45x_4398.jpg" alt="2015 Volkswagen Multivan" width="121" height="86"><br>2015 Volkswagen Multivan</a>
-	</div>
 	</div>				</div>
 				</div>
 				<div style="clear:both;">&nbsp;</div>
@@ -442,9 +641,10 @@ Below are links to the privacy policies of the advertising networks used by Auto
 	<div class="btme"><a href="/en/contact/" title="contact" class="normal">Contact</a></div>
 	<div class="btme"><a href="/sitemap.xml" title="Sitemap" rel="nofollow" class="normal">Sitemap</a></div>
 	<div class="btme"><a href="/newssitemap.xml" title="Sitemap" rel="nofollow" class="normal">News sitemap</a></div>
+	<div class="btme"><a href="http://m.auto-types.com" title="Mobile version" rel="nofollow" class="normal">Mobile version</a></div>
 
 
-	<div style="float:left;margin-top:15px;margin-left:10px;padding:0;line-height:25px;width:130px;background:url('/img/usronline.png') no-repeat top left;font-size:13px;"><font style="color:#ffffff;font-weight:300;">Visitors online - 19</font></div>
+	<div style="float:left;margin-top:15px;margin-left:10px;padding:0;line-height:25px;width:130px;background:url('/img/usronline.png') no-repeat top left;font-size:13px;"><font style="color:#ffffff;font-weight:300;">Visitors online - 10</font></div>
 	<div style="clear:both;"></div>
 </div></div>
 			
@@ -558,18 +758,16 @@ Below are links to the privacy policies of the advertising networks used by Auto
   })();
 </script>
 <script type="text/javascript" language="javascript" src="http://www.auto-types.com/js/scripts.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.auto-types.com/js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="/js/auto-js.js"></script>
 
-<!-- luminate -->
-<script language="javascript" type="text/javascript" src="/js/AjaxCode.js"></script>
 
-<!--		<script type="text/javascript" src="js/jquery.cookiebar.js"></script>-->
-<!--		<script type="text/javascript">-->
-<!--			$(document).ready(function(){-->
-<!--				$.cookieBar({-->
-<!--				});-->
-<!--			});-->
-<!--		</script>-->
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$.cookieBar({
+				});
+			});
+		</script>
 
 <div id="queries"></div>
 
@@ -609,4 +807,4 @@ Below are links to the privacy policies of the advertising networks used by Auto
       })();
     </script>
 
-<!-- Cached 13th June 2016 01:30:20 --></body></html>
+</body></html>
