@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206141628id_/http%3A//wssp.suntimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suntimes.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222030356id_/http%3A//chicago.suntimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sun Times Market
+# Privacy Policy | Chicago Sun-Times
 
 **This Privacy Policy applies to our web and mobile services.**
 
@@ -52,7 +52,7 @@ This Privacy Policy describes how we collect, use and disclose information that 
 
 **You have certain choices about how we use your information.**
 
-**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click here or follow the instructions in any promotional message you get from us. You may still receive transactional messages. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, [click here](http://wssp.suntimes.com/unsubscribe/) or follow the instructions in any promotional message you get from us. You may still receive transactional messages. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
 
 **You can control cookies and tracking tools.** We may use cookies and other technologies to store information on your computer or mobile device. Advertising service vendors that serve ads on the Services may also use their own cookies or identifiers.
 
@@ -64,17 +64,17 @@ If you block cookies on your browser, certain features of the Services may not w
 
 **You can opt-out of targeted advertising.**
 
-The advertisements on the Services may be provided by us, or they may be provided by a third-party vendor. These advertisements may be targeted, which means that advertisers want to reach a certain type of audience, and your information may be used in order to serve advertisements about products and services that may be of interest to you. One of our advertising vendors, Google Inc. displays ads on our Services. If you would like more information about its practices, including information on how to opt-out, please click here: http://www.google.com/policies/technologies/ads/ or if you would like to manage your advertising preferences, please click here: <http://www.google.com/ads/preferences/>.
+The advertisements on the Services may be provided by us, or they may be provided by a third-party vendor. These advertisements may be targeted, which means that advertisers want to reach a certain type of audience, and your information may be used in order to serve advertisements about products and services that may be of interest to you. One of our advertising vendors, Google Inc. displays ads on our Services. If you would like more information about its practices, including information on how to opt-out, please click here: <http://www.google.com/policies/technologies/ads/> or if you would like to manage your advertising preferences, please click here: <http://www.google.com/ads/preferences/>.
 
 In some instances, we and advertisers on the Services work with ad networks and analytics providers which use cookies or other online technologies to collect information about your online activity such as type of pages viewed and categories of interests. Many third party vendors that that perform these functions are members of the Network Advertising Initiative or the Digital Advertising Alliance, and you can opt out of those vendors’ delivery of targeted advertising to you by visiting <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>.
 
 We do not control any of the above opt-out links and are not responsible for the continued availability or accuracy of these mechanisms.
 
-Choices you make are both browser and device-specific. Some web browsers have a “Do Not Track” feature. This feature lets you tell websites you visit that you do not want to have your online activity tracked. These features are not yet uniform across browsers. Our sites are not currently set up to respond to those signals.
+Choices you make are both browser and device-specific. Some web browsers, mobile devices, and plug-ins have a “Do Not Track” feature. This feature lets you tell websites you visit that you do not want to have your online activity tracked. These features are not yet uniform across browsers. Our sites are not currently set up to respond to those signals.
 
 **The Services and children**.
 
-Our Services are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@suntimes.com) us at privacy@suntimes.com. You can also write to us at the address listed at the end of this Policy. Please mark your inquiries “COPPA Information Request.”
+Our Services are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at privacy@suntimes.com. You can also write to us at the address listed at the end of this Policy. Please mark your inquiries “COPPA Information Request.”
 
 **We use standard security measures.**
 
@@ -90,7 +90,7 @@ If you click on a link to a third party site, you will be taken to websites we d
 
 **Feel free to contact us if you have more questions.**
 
-If you have any questions about this Policy or other privacy concerns, please [email](mailto:privacy@suntimes.com) us privacy@suntimes.com. You can also write to us or call at: 312-321-3000.
+If you have any questions about this Policy or other privacy concerns, please email us privacy@suntimes.com. You can also write to us or call at: 312-321-3000.
 
 Sun-Times Media Productions, LLC 350 N. Orleans Street, 10-S Chicago, IL 60654 Attention: Privacy Questions. Phone: 312-321-3000.
 
