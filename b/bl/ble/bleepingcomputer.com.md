@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053821id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050417id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ BleepingComputer follows generally accepted industry standards to protect your s
 
 ##### 6\. How can I update or change my personal information?
 
-You can update almost all information about your account by logging in and clicking on My Settings found under your User Name. From the My Settings you can edit your profile and manage other profile settings. If there is information that you can not change with this method, please contact us by using this [feedback form](http://www.bleepingcomputer.com/contact/) with all relevant information.
+You can update almost all information about your account by logging in and clicking on My Settings found under your User Name. From the My Settings you can edit your profile and manage other profile settings. If there is information that you can not change with this method, please contact us by using this [feedback form](https://www.bleepingcomputer.com/contact/) with all relevant information.
 
 ##### 7\. Policies for individuals under 13 (COPPA)
 
@@ -88,6 +88,6 @@ We are concerned about the safety of children when they use the Internet, and un
 
 ##### 8\. How to Unsubscribe from BleepingComputer
 
-If you are a member of BleepingComputer.com, and would like to unsubscribe, you can [contact us](http://www.bleepingcomputer.com/contact/) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it per your instructions.
+If you are a member of BleepingComputer.com, and would like to unsubscribe, you can [contact us](https://www.bleepingcomputer.com/contact/) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it per your instructions.
 
-If at any time you would like to communicate with us about your privacy concerns, please contact us using this [feedback form](http://www.bleepingcomputer.com/contact/).
+If at any time you would like to communicate with us about your privacy concerns, please contact us using this [feedback form](https://www.bleepingcomputer.com/contact/).
