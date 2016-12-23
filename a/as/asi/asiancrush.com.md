@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031081726id_/http%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223222102id_/http%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Asian CrushAsian Crush
+# PRIVACY POLICY | Asian Crush
 
 ## Asian Crush – Privacy Policy
 
@@ -32,7 +32,7 @@ We require this information to provide you with a better service, and in particu
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### How we use cookies
 
@@ -50,9 +50,9 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@digitalmediarights.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@asiancrush.com
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting.  
-If you believe that any information we are holding on you is incorrect or incomplete, please email us at info@digitalmediarights.com. We will correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us at support@asiancrush.com. We will correct any information found to be incorrect.
