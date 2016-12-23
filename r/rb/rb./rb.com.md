@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618154520id_/http%3A//www.rb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rb.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223224721id_/http%3A//www.rb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Data Collection and Use – RB
 
