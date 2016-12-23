@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232706id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpingwithmath.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223113116id_/http%3A//www.helpingwithmath.com/about_us/privacy.htm) for the most accurate reproduction.*
 
-# helpingwithmath.com - Privacy Policy
+# HelpingWithMath.com - Privacy Policy
 
 Your privacy is important to HelpingWithMath.com. We have created this privacy statement to show our commitment to privacy. 
 
@@ -11,11 +11,11 @@ We use third-party advertising companies to serve ads when you visit our website
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads based on your visit to HelpingWithMath.com and other sites on the Internet. 
   * We analyse anonymous data regarding age and gender to help us better tailor resources to our audience.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/). 
+  * You may change how ads are displayed to you and/ or opt out of personalized advertising by visiting [Ads Settings](https://www.google.co.uk/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/)
   * Google's Interest-based advertising or 3rd-party anonymous audience data (such as age, gender and interests) is collected on this site using Google Analytics. This data is used by HelpingWithMath.com to help identify the best way to update and improve the site. It is not used for any other purpose. 
 
 
 
 If we keep your email address we will not use it for any purpose other than that which we specifically tell you. We will not pass your email address to any other person or company without your permission.
 
-If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20160609232706id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
+If you have any questions about this Privacy Policy please [contact the HelpingWithMath.com team](https://web.archive.org/web/20161223113116id_/http%3A//www.helpingwithmath.com/about_us/where.htm)
