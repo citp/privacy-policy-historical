@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505161320id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223201759id_/http%3A//www.storm8.com/notice-of-privacy) for the most accurate reproduction.*
 
 # Storm8 – Notice of Privacy
 
@@ -6,11 +6,11 @@
 
 **In order to provide better service to our users and to increase the level of transparency around our privacy practices, we have made some updates to our policy including changes describing what data are collected through the use of our applications.**
 
-**Should you have any questions regarding these updates, please email us at support@storm8.com**
+**Should you have any questions regarding these updates, please contact us through[support.storm8.com.](http://support.storm8.com/)**
 
-Last Revised June 4, 2012.
+Last Revised October 28, 2016.
 
-Storm8, Inc., its subsidiaries and affiliated companies (“Storm8″ or “we”) provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of (i) the website located at http://www.storm8.com (the “Site”), including any services, features and content accessible or downloadable from the Site, and (ii) any other Storm8 application, service or product licensed, downloaded or otherwise accessed by such users through third party websites or sources ((i) and (ii) collectively, the “Service”).
+Storm8, Inc., its subsidiaries and affiliated companies (“Storm8” or “we”) provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of (i) the website located at http://www.storm8.com (the “Site”), including any services, features and content accessible or downloadable from the Site, and (ii) any other Storm8 application, service or product licensed, downloaded or otherwise accessed by such users through third party websites or sources ((i) and (ii) collectively, the “Service”).
 
 **Acceptance and Consent:**  
 By registering for a user account that enables you to post to the Forums (the “Account”), and/or using the Service, you agree to the terms and conditions of this Privacy Policy, and you consent to the collection, use and disclosure of your information by Storm8 in accordance with the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not provide us with any information and do not use the Service.
@@ -72,7 +72,7 @@ We will disclose any information about you to government or law enforcement offi
 We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 
 **Facebook Connect:**  
-If you use one of our applications and connect to your Facebook account within such application, you will be providing us with basic account information i.e., user ID, name, email, gender, birthday, current city, profile picture URL and the user IDs of your friends who have also connected with our applications. In addition, we will cache data we receive from the Facebook APIs to improve our user experience. If you want us to delete the data we receive from Facebook about you, please contact us at support@storm8.com.
+If you use one of our applications and connect to your Facebook account within such application, you will be providing us with basic account information i.e., user ID, name, email, gender, birthday, current city, profile picture URL and the user IDs of your friends who have also connected with our applications. In addition, we will cache data we receive from the Facebook APIs to improve our user experience. If you want us to delete the data we receive from Facebook about you, please contact us through [support.storm8.com](http://support.storm8.com/).
 
 **Offer Wall:**  
 We may display an “offer wall” in our applications that is hosted by an offer wall provider. The offer wall allows third party advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These are not offers made by Storm8. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by Storm8. To properly credit user accounts and to prevent fraud, a unique identifier, will be shared with the offer wall provider.
@@ -98,10 +98,10 @@ If you are located outside the United States and choose to provide information t
 The Service may contain links to other websites and online services (“Linked Sites”). The fact that we link to a third party website or service is not an endorsement or representation of our affiliation with that third party, nor is it an endorsement of their privacy policies or practices. You acknowledge and agree that we are not responsible for the privacy practices of such Linked Sites, and this Privacy Policy does not apply to such Linked Sites. The operators of Linked Sites may collect information about you, and may use and disclose that information. We encourage you to review the privacy policies of the Linked Sites that you use.
 
 **Opt-In and Opt-Out Policy:**  
-We will not share your personal information in ways other than as described in this Privacy Policy unless you specifically elect to make your personal information available to third parties by selecting to “opt-in” in various places on the Service. Your “opt-in” elections will not, however, require us to share your personal information with any third parties. Further, you may “opt-out” of any prior elections and of receiving certain types of communications at any time by contacting Storm8 at support@storm8.com.
+We will not share your personal information in ways other than as described in this Privacy Policy unless you specifically elect to make your personal information available to third parties by selecting to “opt-in” in various places on the Service. Your “opt-in” elections will not, however, require us to share your personal information with any third parties. Further, you may “opt-out” of any prior elections and of receiving certain types of communications at any time by contacting Storm8 through [support.storm8.com](http://support.storm8.com/).
 
 **Our Policy Regarding Children:**  
 The Service is not directed to children under the age of 13. We do not knowingly collect or solicit personally identifiable information from children under 13. If you are under 13, please do not attempt to register for an Account on the Service or send any information about yourself to Storm8. If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files.
 
 **Contacting Us:**  
-If you have any questions about this Privacy Policy, please contact us at support@storm8.com.
+If you have any questions about this Privacy Policy, please contact us through [support.storm8.com](http://support.storm8.com/).
