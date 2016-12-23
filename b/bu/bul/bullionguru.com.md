@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullionguru.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616230742id_/https%3A//www.bullionguru.com/inner.php%3Fid%3D35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullionguru.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223130100id_/http%3A//www.bullionguru.com/inner.php%3Fid%3D35) for the most accurate reproduction.*
 
 # Privacy Policy
 
