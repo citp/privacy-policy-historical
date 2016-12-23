@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dlink.co.th privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531015430id_/http%3A//www.dlink.co.th/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.co.th privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223143909id_/http%3A//www.dlink.co.th/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - D-LinkD-Link
+# Privacy Policy - D-Link Thailand
 
 D-Link Systems, Inc. (“we” or “us”) is committed to providing you with a positive, easy and secure online shopping experience.
 
