@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the otavo.tv privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503221212id_/http%3A//otavo.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otavo.tv privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210142id_/http%3A//otavo.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Otavo TV - Movies, TV and Celebrities
+# Privacy Policy - Watch Online Episodes | Otavo TV
 
 **What information do we collect?**
 
