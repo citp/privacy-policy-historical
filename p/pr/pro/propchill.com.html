@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the propchill.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621112402id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propchill.com privacy policy that was archived on 2016-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223225318id_/http%3A//www.propchill.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -27,14 +27,207 @@ Privacy Policy and Instructions for Website Users - PropChill </title>
 <meta name="Googlebot" content="INDEX, Follow">
 <meta name="distribution" content="global">
 <meta name="Author" content="propchill">
- 
-<link rel="stylesheet" type="text/css" href="/css/homepage_min.css">
-<link href="http://www.propchill.com/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/resize-header/jQuery.js"></script> 
+ 	<link rel="stylesheet" type="text/css" href="/css/homepage_min.css">
+<link href="http://www.propchill.com/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;version=v2.5"></script><script src="/js/resize-header/jQuery.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/7.1.0/bootstrap-slider.js"></script>
+
+       
+
+<script type="text/javascript">
+    var logout='0';
+    
+function fblog()
+{
+     $('#facebox #dialog-busy').css({'display' : 'Block'});
+     
+     if(status=='1'){
          
+     require(["dojo/request", "dojo/query"], function(request) {
+                    request.post("/advertise/checkcampname", {
+                        data : {
+                            'first_name':firstname,
+                          'last_name':lastname,
+                           'email':email,
+                           'medium':'fb',
+                          'sex':sex,
+                                                   
+                           'birth_date':dob,
+                          'role':'citizen'
+                           
+                           
+                           
+                           
+                        }
+                       ,handleAs:'json'
+
+                    }).then(function(response) {
+                                          
+                                            if(response !== 'none')
+                                            {
+										//  console.debug(response);
+                                            
+                                               
+                                            //$('#slot_id').prop('disabled', false); 		  
+                                            //$('#slot_id').html(response);
+                                            if(response['status']=="1")
+                                            {
+                                                $("#slotrow"+id+" #c_name_err").show();
+                                                $("#slotrow"+id+" #c_name_err").css('color', 'green');
+                                            $("#slotrow"+id+" #c_name_err").html(response['message']);
+                                            }
+                                            
+                                            else{
+                                                
+                                            $("#slotrow"+id+" #c_name_err").hide();
+                                            }   
+                                            
+                                        }
+                                               
+                                             
+                                             
+                    });
+                });
+   
+                                            }
+                                            else{
+                                            login();
+                                            }
+
+    	
+    // Additional init code here
+ 
+ 
+ 
+}
+function firsttestAPI() {
+    var url = '/me?fields=name,email,first_name,last_name';
+    FB.api(url, function(response) {
+       console.log(response);
+	firstname=response.first_name;
+	lastname=response.last_name;
+        sex=response.gender;
+        email=response.email;
+       
+        
+          require(["dojo/request", "dojo/query"], function(request) {
+                    request.post("/authenticate/sociallogin", {
+                        data : {
+                            'first_name':firstname,
+                          'last_name':lastname,
+                           'email':email,
+                           'vendor':'facebook'
+                          
+                           
+                           
+                           
+                           
+                        }
+                       ,handleAs:'json'
+
+                    }).then(function(response) {
+                                          
+                                            if(response !== 'none')
+                                            {
+										//  console.debug(response);
+                                            
+                                               
+                                            //$('#slot_id').prop('disabled', false); 		  
+                                            //$('#slot_id').html(response);
+                                            if (typeof suggest_url !== 'undefined') { 
+                                                      
+                                                      
+                                                    location.href=suggest_url;
+                                                    }
+                                            else{        
+                                             location.reload();
+                                                }
+                                            
+                                        }
+                                               
+                                             
+                                             
+                    });
+        
+    });
+    }, {scope: 'email'});
+}
+
+function login() {
+ 
+    FB.login(function(response) {
+        if (response.authResponse) {
+           
+		firsttestAPI();
+            // connected
+        } else {
+           //$('#facebox #dialog-busy').css({'display' : 'none'});
+        }
+    }, {scope: 'email'},{mode:'redirect'});
+}
+    
+(function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&version=v2.5";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+var status;
+window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '307861466069275', // App ID
+      channelUrl : 'www.propchill.com/', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true,
+       version    : 'v2.5'// parse XFBML
+    });
+    FB.getLoginStatus(function(response) {
+        
+    
+  if (response.status === 'connected') {
+      status=0;
+     // login();
+      if(logout=='1')
+          {
+             FB.logout(function(response) {
+               
+            }); 
+            status=0;
+          }
+          else{
+        //testAPI();
+    }
+  } else if (response.status === 'not_authorized') {
+        status=0;
+        $('#fb_detect').html('<h1>3bandar detected that You are already logged in with facebook </h1>')
+  } else {
+    status=0;
+  }
+ });	
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+
+	
+var email;
+var firstname;
+var lastname;
+var sex;
+var dob;
+var email1;
+var firstname1;
+var lastname1;
+var sex1;
+var dob1;
+var livecity=0;
+
+    </script>
+    
 <script type="text/javascript">
     var dojoConfig = {
    async: true,
-     cacheBust: true,
+     cacheBust: false,
      isDebug:false ,
     parseOnLoad: true,
     tlmSiblingOfDojo: true,
@@ -55,18 +248,18 @@ Privacy Policy and Instructions for Website Users - PropChill </title>
   //  canvasEvents:false,
     
     packages: [
-        { name: "dojo", location: "../../../vendorT/dojo/dojo" },
-        { name: "dijit", location: "../../../vendorT/dojo/dijit" },
-        { name: "dojox", location: "../../../vendorT/dojo/dojox" },
-        { name: "bootstrap", location: "../../../vendorT/dojo/bootstrap" },
-        { name: "dgrid", location: "../../../vendorT/dojo/dgrid" },
-        { name: 'snet', location: '../../../vendorT/fileUploader-master/speich.net'}
+        { name: "dojo", location: "../../../vendorTmin/dojo/dojo" },
+        { name: "dijit", location: "../../../vendorTmin/dojo/dijit" },
+        { name: "dojox", location: "../../../vendorTmin/dojo/dojox" },
+        { name: "bootstrap", location: "../../../vendorTmin/dojo/bootstrap" },
+        { name: "dgrid", location: "../../../vendorTmin/dojo/dgrid" },
+        { name: 'snet', location: '../../../vendorTmin/fileUploader-master/speich.net'}
       
     ]
 };
     
     </script>
-<script type="text/javascript" src="http://www.propchill.com/vendorT/dojo/dojo/dojo.js"></script>   
+<script type="text/javascript" src="http://www.propchill.com/vendorTmin/dojo/dojo/dojo.js"></script>   
 <!--<link rel="stylesheet" type="text/css" href="/test/app.css">-->
 
 
@@ -625,7 +818,7 @@ padding:5px 2px !important;
 }
 .addre.addres-mes {
     /* float: right; */
-    width: 32%;
+    width: 39%;
 }
 .header {
     background: #0b386a;
@@ -645,6 +838,7 @@ top:4px !important;}
     width: 47% !important;
 }
 }
+
 </style>
 
 
@@ -662,7 +856,7 @@ top:4px !important;}
                <div class="addre addres-mes">
 					<!--<span class="mess"> </span>-->
 					 <div class="detail-para">
-						<p>Phone: 0124-4370612/13/14</p>					
+						<p>Customer Care No: +91-7827-456-456</p>					
 					  </div>
 					<div class="clearfix"> </div>
 				</div>
@@ -687,7 +881,7 @@ top:4px !important;}
                                         
                                         <li class="dropdown headerdrop">
                                         
-              					<a href="#" class="dropdown-toggle topheaderlink" data-toggle="dropdown" id="registerLink" data-position="bottom" data-intro="Register to exploit the user panel for shortlisiting property">Register <b class="caret"></b></a>
+              					<a href="#" class="dropdown-toggle topheaderlink" data-toggle="dropdown" id="registerLink" data-position="left" data-intro="Register to exploit the user panel for shortlisiting property">Register <b class="caret"></b></a>
                                 
                                 
               					<ul id="menu1" class="dropdown-menu " role="menu" aria-labelledby="drop4">
@@ -754,7 +948,11 @@ top:4px !important;}
   				<!--toggle icon close-->
     
     			<div id="navbarcontainer">
+                <!--<div class="col-lg-8 col-xl-8" style="text-align:center;margin-top: -41px;position: absolute;"><img src="/contestimg/bestandpopular_housingandinterior.png" style="height:102px; display:inline-block;"/></div>-->
     				<div class="navbar-collapse navbar-responsive-collapse collapse" id="header-navigation">
+                    
+                    
+                    
           				<ul class="nav navbar-nav navbar-right customtext newnav1">
                                                 
                             
@@ -1246,6 +1444,10 @@ font-size:14px !important;}
 
                                                                 
                                                             
+                        <li class="cityOptions1"><a href="/insights/real-estate-trends-kolkata">Kolkata</a></li>
+
+                                                                
+                                                            
                         <li class="cityOptions1"><a href="/insights/real-estate-trends-gurgaon">Gurgaon</a></li>
 
                                                                 
@@ -1319,6 +1521,10 @@ font-size:14px !important;}
                                                                 
                                                                                                             
                         <li class="cityOptions1"><a href="/selection/hyderabad">Hyderabad</a></li>
+
+                                                                
+                                                                                                            
+                        <li class="cityOptions1"><a href="/selection/kolkata">Kolkata</a></li>
 
                                                                 
                                                                                                             
@@ -2287,6 +2493,9 @@ color: rgb(255, 255, 255);
     height: 25px;
     width: 25px;
     opacity: 1;}
+.popover{
+color:#000 !important;
+}
 .modal .close, .panel-default .close, .popover{
 color:#fff;}
 .modal-content{
@@ -2903,7 +3112,7 @@ By clicking <strong class="label label-primary">Register</strong>, you agree to 
 <div class="col-sm-6 col-md-6 col-lg-6 padding">
 <div class="form-group">
 <div class="col-sm-12 col-md-12 col-lg-12 padding">
-<select class="form-control widthzero widthincrease" name="developer_company_name" id="developer_company_name" data-dojo-props="placeholder:'Company Name '" required="true">
+<select class="form-control widthzero widthincrease" name="developer_company_name" id="developer_company_name" data-dojo-props="placeholder:'Company Name '" required="true" onchange="builderval(this);">
 <option value="">Company Name</option>                                         
 </select> 
 
@@ -2913,6 +3122,13 @@ By clicking <strong class="label label-primary">Register</strong>, you agree to 
 </div>
 </div>
 
+<div class="col-sm-12 col-md-12 col-lg-12 padding" style="display:none;" id="dev_other">
+<div class="form-group">
+<div class="col-sm-12 col-md-12 col-lg-12 padding">
+<input class="form-control" name="developer_company" id="developer_company" data-dojo-type="dijit/form/ValidationTextBox" data-dojo-props="placeholder:'Company Name' , pattern: '^[a-zA-Z1-9 \r\n]*$', invalidMessage:'Only letter, Number and white space allowed.'" dojoattachevent="onfocus,onkeyup,onkeypress:_onKeyPress" dojoattachpoint="textbox,focusNode">
+</div>
+</div>
+</div>
 
 <div class="col-sm-6 col-md-6 col-lg-6 padding">
 <div class="form-group">
@@ -3169,6 +3385,11 @@ function ( ) {
                                                       
                                                       
                                                     window.location = "/"+redirectPage+'/';
+                                                    }
+                                                    else if (typeof suggest_url !== 'undefined') { 
+                                                      
+                                                      
+                                                    location.href=suggest_url;
                                                     }
                                                     else
                                                     {
@@ -3560,7 +3781,14 @@ function ( ) {
                     }).then(function(response) {
                                             
                                            console.debug(response);
+                                           if (typeof suggest_url !== 'undefined') { 
+                                                      
+                                                      
+                                                    location.href=suggest_url;
+                                                    }
+                                            else{        
                                              location.reload();
+                                                }
 //                                            if(response == 'success')
 //                                            {
 //                                                dojo.byId('registration_alert_message').style.display='block';
@@ -3590,7 +3818,74 @@ function ( ) {
          }        
         
         }  
-    
+    function l_userContestValidate() {
+    		if(document.getElementById('mycheck').checked) {
+   
+
+    require(["dojo/dom-form"], function(domForm){
+  var formId = "loginForm1";
+   window.userRegistrationFormJson1 = domForm.toJson(formId);
+  
+});
+
+console.debug(userRegistrationFormJson1);
+
+ if(dijit.byId('loginForm1').validate()) {   
+           
+        dijit.byId('l_user_register_button1').set('disabled', true);
+        if($(".textareatext").val().trim()!='')
+        {
+         require(["dojo/important"],
+function ( ) {
+        
+        require(["dojo/request", "dojo/query"], function(request) {
+                    request.post("http://www.propchill.com/authenticate/contestlogin", {
+                        data : {
+                                                    
+                                                    l_userRegistrationForm:userRegistrationFormJson1
+                        }
+
+                    }).then(function(response) {
+                                                                                  
+                                            dijit.byId('l_user_register_button1').set('disabled', false); 
+                                             
+                                           //  location.reload();
+                                             dojo.byId('l_registration_alert_message1').style.display = 'block';
+                                            if(response == 'success')
+                                            {
+                                                dojo.byId('l_registration_alert_message1').innerHTML = 'A verification link has been sent on your email id. Kindly Verify Your email id in order to make you eligible for the contest.<b style="font-size:16px;">Incase the mail is not recieved inyour inbox, Kindly check the Spam Folder.</b>';  
+                                                alert("A verification link has been sent on your email id. Kindly Verify Your email id as it will be used to send the coupon. Incase the mail is not recieved inyour inbox, Kindly check the Spam Folder.");
+                                                setTimeout(function(){location.href='http://www.propchill.com';}, 12000);
+                                           //setTimeout(function(){location.reload();}, 5000);
+                                           
+                                           }
+                                            else
+                                            {
+                                                
+                                                dojo.byId('l_registration_alert_message1').innerHTML = ''+response+'';  
+                                                setTimeout(function(){location.href='http://www.propchill.com';}, 5000);
+                                            }
+                                             
+                                             
+                    });
+                }); 
+                });
+                }
+                else{
+                $(".textareatext").addClass("textareaerrortext");
+                $(".tooltiptextarea").show();
+                }
+        
+         }
+         else
+         {
+         
+           //dojo.byId('l_registration_alert_message1').innerHTML = '<p class="text-danger">Email or Password should not be blank...</p>';  
+         }        
+        } else {
+    alert("Please vote for propchill on website of the year");
+}
+        }
     function l_userRegisterValidate() {
     
     require(["dojo/dom-form"], function(domForm){
@@ -3623,9 +3918,9 @@ function ( ) {
                                              
                                             if(response == 'success')
                                             {
-                                                dojo.byId('l_registration_alert_message').innerHTML = '<p class="text-success">successfully registered , Plz check your mail.</p>';  
+                                                dojo.byId('l_registration_alert_message').innerHTML = '<p class="text-success">Successfully registered , Please verify your mail. Check your inbox and spam.</p>';  
                                            
-                                           setTimeout(function(){location.reload();}, 5000);
+                                           setTimeout(function(){location.reload();}, 15000);
                                            
                                            }
                                             else
@@ -4036,6 +4331,7 @@ function ( ) {
                                             if(response.trim() == 'success'){
                                             
                                             dojo.byId('forgot_password_alert_message_id').innerHTML = 'Successfully resend , please check your mail';
+                                             dojo.byId('l_registration_alert_message1').innerHTML = 'Successfully resend , please check your mail';
                                         }
                                         else
                                         {
@@ -4207,15 +4503,15 @@ dojo.attr(dojo.byId('contact_no') , 'value',response[0].user_contact_no);
 <div id="social-dialog" class="unit social-connect-login">
 <div class="tmargin25"><span class="social-signin-message fk-font-bold">Sign in with</span></div>
 <div class="line tmargin10">
-<a href="https://www.facebook.com/dialog/oauth?redirect_uri=http%3A%2F%2Fwww.propchill.com%2Fauthenticate%2Fsocialauth&amp;client_id=307861466069275&amp;state=1ad091ec779212f0d1ca1c99c581b64b&amp;scope=email" class="sprite-socialicon fb-modal-icon">
+<a href="javascript:void(0);" onclick="fblog();" class="sprite-socialicon fb-modal-icon">
 <!--<img width="30px;" height="30px;" src="/icon/asar/web-icon/facebook-icon.png" alt="Facebook-propchill-indian-realestate">
 --></a> 
 
-<a href="https://accounts.google.com/o/oauth2/auth?redirect_uri=http%3A%2F%2Fwww.propchill.com%2Fauthenticate%2Fsocialauth1&amp;response_type=code&amp;client_id=778155671986-it0e9oq8b8nkf855bj501onopa2tqmh6.apps.googleusercontent.com&amp;state=89de1bc35f6d5c08772d7eb4049433e4&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email" class="sprite-socialicon google-modal-icon">
-<!--<img width="30px;" height="30px;" src="/icon/asar/web-icon/google-plus-icon.png" alt="Google+-propchill-property-in-india">
---></a> 
-<a href="https://www.linkedin.com/uas/oauth2/authorization?redirect_uri=http%3A%2F%2Fwww.propchill.com%2Fauthenticate%2Fsocialauth2&amp;response_type=code&amp;client_id=77vmm8wb9uaa0i&amp;state=890977b636d2d37970b9ecb735f575b8&amp;scope=r_emailaddress+r_fullprofile+r_contactinfo" class="sprite-socialicon linkedin-modal-icon">
-<!--<img width="30px;" height="30px;" src="/icon/asar/web-icon/linkedin-icon.png" alt="LinkedIn-propchill-indian-property">
+    <button href="javascript:void(0);" id="mySignIn" onclick="loadgoogle()" class="sprite-socialicon google-modal-icon" style="border:none;">
+<!--<img width="30px;" height="30px;" src="/icon/asar/web-icon/facebook-icon.png" alt="Facebook-propchill-indian-realestate">
+--></button> 
+<a href="javascript:void(0);" onclick="liLogin1()" class="sprite-socialicon linkedin-modal-icon">
+<!--<img width="30px;" height="30px;" src="/icon/asar/web-icon/linkedin-icon.png" alt="LinkedIn-propchill-indian-property" sprite-webicon >
 --></a>
 </div>
 </div>
@@ -4778,73 +5074,56 @@ function ( ) {
 
  function developerRegisterValidate() {
      //alert(dojo.attr(dojo.byId('broker_first_name') , 'value')); 
-
-           
            require(["dojo/dom-form"], function(domForm){
   var formId = "developerRegistrationForm";
    window.formJson = domForm.toJson(formId);
 //console.debug(formJson);
-  
-});   
-           
-    if(dijit.byId('developerRegistrationForm').validate()) {
-            
-         //  dijit.byId('broker_register_button').set('disabled', true);
-          
-   /*     require(["dojo/important"],
-function ( ) {*/
-        
-         require(["dojo/important"],
+}); 
+var values = JSON.parse(formJson);     
+
+
+        if(values['developer_company'] == '' && values['developer_company_name'] == '0')
+{
+ alert('Please Enter Company Name');
+ return false;        
+}
+var email=values['developer_email_id'];
+if(/@yahoo.com\s*$/.test(email)||/@gmail.com\s*$/.test(email)||/@rediffmail.com\s*$/.test(email)||/@rediff.com\s*$/.test(email))
+{
+    alert("Please enter company authorised email id");
+     return false;  
+}
+
+    if(dijit.byId('developerRegistrationForm').validate()) {   
+         //  dijit.byId('broker_register_button').set('disabled', true); 
+        require(["dojo/important"],
 function ( ) {
-        
         require(["dojo/request", "dojo/query"], function(request) {
                     request.post("/authenticate/developer", {
                         data : {
-                            
-                                                   developer_register_data:formJson
-                                                    
+                                                   developer_register_data:formJson                  
                         }
-
-                    }).then(function(response) {
-                                            
+                    }).then(function(response) {    
                                         console.debug(response);
-                                            
-                                            
-                                            
-                                            if(response == 'success')
+                                           if(response == 'success')
                                             {
-                                                
-                                                dojo.byId('registration_alert_message_developer').innerHTML = '<p class="text-success" style="font-size:14px;">Please check your e-mail. Once having verified email, Please upload self photograph in "Your Panel" to enable all features for developers.</p> '; 
-                                                
-                                                 dijit.byId('developerRegistrationForm').reset();
-                                                 
-                                                 setTimeout(function(){location.reload();}, 7000);
-                                             //  dijit.byId('developer_register_button').set('disabled', false);      
-                                                
+                                                dojo.byId('registration_alert_message_developer').innerHTML = '<p class="text-success" style="font-size:14px;">Please check your e-mail. Once email id has been verified, Please upload photograph in "Your Panel" to enable all features for developers.</p> '; 
+                                                  dijit.byId('developerRegistrationForm').reset();
+                                                 setTimeout(function(){location.reload();}, 7000);                                            
                                             }
                                             else
-                                            {
-                                                
-                                                
+                                            {                                              
                                                dojo.byId('registration_alert_message_developer').innerHTML = '<p class="text-danger">'+response+'</p>'; 
                                            //  dijit.byId('developer_register_button').set('disabled', false);      
-                                            }
-                                             
+                                            }   
                     });
                 });
-                
-                
-                });
-                
-            /*    });  */
-                
-        
+                });  
          }
          else
          {
            dojo.byId('registration_alert_message_developer').innerHTML = 'Form is Incorrect.';  
          }
-        
         }
 
 
@@ -4904,6 +5183,19 @@ function developerForm()
 dojo.byId('developer_register_modal').click();      
       
   }    
+  
+  function builderval(node)
+{  
+   var company = dojo.attr(node,'value');
+    if(company==0)
+    {
+      dojo.byId('dev_other').style.display='block';  
+    }
+    else{
+        dojo.byId('dev_other').style.display='none';
+    }
+    }
+	
     </script>
     
     
@@ -5432,7 +5724,7 @@ h3.featuredheading {font-family: Helvetica;font-weight:600;margin-top: 30px;colo
 h4.subheadinggallery {display: block;font-size: 19px;font-weight: 400;}
 .footer-cnn-comingsoon-sprite{display: inline-block; background: url('/icon/featured_icon/footer-cnn-coming-sprite.png') no-repeat;}
 .logo_yourstory { background-position: 0 0; width: 270px; height: 90px; } 
-.cnn_logo-gray { background-position: 0 -100px; width: 114px; height: 88px; }
+.cnn_logo-gray { background-position: 0 -100px !important; width: 114px; height: 88px; }
 .boxgreypadding{padding: 20px 20px 12px;height:312px;}
 .insightcityblock h4.subheadinggallery {display: block;font-size: 14px;font-weight: 600;}
 
@@ -5548,6 +5840,10 @@ width:100%;}
 }
 .hyderabad-pic{
 background-position: 15px -285px;}
+.kolkata-pic {
+    background-position: 0 -1026px;
+}
+.surat-pic{background-position:0 -855px}.vadodara-pic{background-position: 0 -969px;}.ahmedabad-pic{background-position: 0 -912px;}
 #carousel-icon .left.carousel-control.insightdivarrowleft {
     /* position: relative; */
     font-size: 40px;
@@ -5636,6 +5932,12 @@ font-family: calibri !important;
 }
 .footersitemap-icon{
 background-image: url("/newimages/sitemap_icon.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 58px;
+    text-align: center;}
+.footermedia-icon{
+background-image: url("/newimages/media_icon.png");
     background-position: center top;
     background-repeat: no-repeat;
     height: 58px;
@@ -5758,9 +6060,6 @@ font-size:11pt;
 .company li {
     display: block;
 }
-.footergetheading{color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;}
-.awardheading{color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;}
-.featuredheading{color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;}
 @media(min-width:1600px){
 .insightcityblock {
     background: #fff none repeat scroll 0 0;
@@ -5856,7 +6155,8 @@ width:41%;}
 width:45%;}
 .bubble::after{
 left:346px;}
-
+#header-navigation{
+top:32px;}
 .topheaderlink{
 background-color:transparent;}
 #menu1 a {
@@ -5907,73 +6207,11 @@ margin-top:0px;}
 .maingallery {
     width: 93%;
 }
-.insight-h2 {
-font-size:18pt;}
-.localitylistdiv h5{
-font-size:14pt;}
-.localitylink {font-size: 9pt;}
-.top_viewed_properties_collection h5{font-size: 15pt;}
-.insightcityblock {width: 39%;}
-.insightcityblock {
-    height: 100px;
-    margin-top: 6px;
-}
-.insightcityblock {
-    margin-left: 68px;
-    padding: 9px;
-}
-.subheadinggallery {
-    font-size: 11px !important;
-}
-.footergetheading {
-    font-size: 20px;
-}
-.awardheading, .featuredheading {
-    font-size: 20px;
-}
 }
 
-@media(max-width:767px) and (min-width:361px){
-.insight-h2 {
-font-size:18pt;}
-.localitylistdiv h5{
-font-size:14pt;}
-.localitylink {font-size: 9pt;}
-.top_viewed_properties_collection h5{font-size: 15pt;}
-.insightcityblock {width: 39%;}
-.insightcityblock {
-    height: 100px;
-    margin-top: 6px;
-}
-.insightcityblock {
-    margin-left: 68px;
-    padding: 9px;
-}
-.subheadinggallery {
-    font-size: 11px !important;
-}
-.footergetheading {
-    font-size: 20px;
-}
-.awardheading, .featuredheading {
-    font-size: 20px;
-}
-#my-modal-login .divider-or-login {
-    background: rgba(0, 0, 0, 0) url("/user_img/or.png") no-repeat scroll 0 0;}
-	.logodivback {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-}
-.surat-pic {
-    background-position: 0 -855px;
-}
-.ahmedabad-pic {
-    background-position: 0 -912px;
-}
-.vadodara-pic {
-    background-position: 0 -969px;
-}	/* end footer css */
+
+
+	/* end footer css */
 </style>
 
 <footer id="footer">
@@ -6005,11 +6243,8 @@ font-size:14pt;}
                 </ol>
      
 <div id="carouselfullblock1" class="carousel-inner col-lg-12 col-xl-12">
-                        
-                        
                         <div class="item active">
                 	<div class="row-fluid">
-                                      
                 	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistmumbai" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Mumbai</h5>
@@ -6270,14 +6505,8 @@ font-size:14pt;}
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistpune')"></span></div>
                                                     
                 	  </div>
-                	
-                  
                 </div><!--.row-->
                 </div><!--.item-->
-                 
-                              
-                                            
-                        
                         <div class="item ">
                 	<div class="row-fluid">
                                       
@@ -6365,6 +6594,70 @@ font-size:14pt;}
                                                     
                 	  </div>
                 	
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
+                      <div class="col-inner localitylistdiv" id="poplistkolkata" status="small" style="overflow: hidden; height: 226px;">
+                              <h5 class="size heading-list">Kolkata</h5>
+                              <ul class="footerbody company">
+                                                          <li><a href="/locality-search/kolkata/alipore" title="2 Accomodation available in Alipore" class="link-padding localitylink">Alipore (2)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/bagdobamachhi-bhanga" title="8 Accomodation available in Bagdobamachhi Bhanga" class="link-padding localitylink">Bagdobamachhi Bhanga (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/bagmari" title="4 Accomodation available in Bagmari" class="link-padding localitylink">Bagmari (4)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/ballygunge" title="5 Accomodation available in Ballygunge" class="link-padding localitylink">Ballygunge (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/barasat" title="16 Accomodation available in Barasat" class="link-padding localitylink">Barasat (16)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/barisha" title="8 Accomodation available in Barisha" class="link-padding localitylink">Barisha (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/barrackpore" title="3 Accomodation available in Barrackpore" class="link-padding localitylink">Barrackpore (3)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/baruipur" title="8 Accomodation available in Baruipur" class="link-padding localitylink">Baruipur (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/behala" title="9 Accomodation available in Behala" class="link-padding localitylink">Behala (9)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/bhatenda" title="4 Accomodation available in Bhatenda" class="link-padding localitylink">Bhatenda (4)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/birati" title="6 Accomodation available in Birati" class="link-padding localitylink">Birati (6)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/bishnupur" title="17 Accomodation available in Bishnupur" class="link-padding localitylink">Bishnupur (17)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/bonhooghly" title="7 Accomodation available in Bonhooghly" class="link-padding localitylink">Bonhooghly (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/chandpur" title="2 Accomodation available in Chandpur" class="link-padding localitylink">Chandpur (2)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/cossipore" title="2 Accomodation available in Cossipore" class="link-padding localitylink">Cossipore (2)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/dakshinewar" title="3 Accomodation available in Dakshinewar" class="link-padding localitylink">Dakshinewar (3)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/dhapa" title="13 Accomodation available in Dhapa" class="link-padding localitylink">Dhapa (13)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/durga-nagar" title="8 Accomodation available in Durga Nagar" class="link-padding localitylink">Durga Nagar (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/garia" title="65 Accomodation available in Garia" class="link-padding localitylink">Garia (65)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/haltu" title="5 Accomodation available in Haltu" class="link-padding localitylink">Haltu (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/howrah" title="32 Accomodation available in Howrah" class="link-padding localitylink">Howrah (32)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/jodhpur-park" title="1 Accomodation available in Jodhpur Park" class="link-padding localitylink">Jodhpur Park (1)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kamarhati" title="5 Accomodation available in Kamarhati" class="link-padding localitylink">Kamarhati (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kamdahari" title="6 Accomodation available in Kamdahari" class="link-padding localitylink">Kamdahari (6)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kankaria-estate" title="3 Accomodation available in Kankaria Estate" class="link-padding localitylink">Kankaria Estate (3)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kankurgachi" title="5 Accomodation available in Kankurgachi" class="link-padding localitylink">Kankurgachi (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kasba" title="2 Accomodation available in Kasba" class="link-padding localitylink">Kasba (2)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kasinathpur" title="3 Accomodation available in Kasinathpur" class="link-padding localitylink">Kasinathpur (3)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/konnagar" title="7 Accomodation available in Konnagar" class="link-padding localitylink">Konnagar (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/kustia" title="3 Accomodation available in Kustia" class="link-padding localitylink">Kustia (3)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/madhyamgram" title="29 Accomodation available in Madhyamgram" class="link-padding localitylink">Madhyamgram (29)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/maheshtala" title="12 Accomodation available in Maheshtala" class="link-padding localitylink">Maheshtala (12)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/malancha-mahi-nagar" title="7 Accomodation available in Malancha Mahi Nagar" class="link-padding localitylink">Malancha Mahi Nagar (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/manicktala" title="6 Accomodation available in Manicktala" class="link-padding localitylink">Manicktala (6)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/mankundu" title="7 Accomodation available in Mankundu" class="link-padding localitylink">Mankundu (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/mominpore" title="7 Accomodation available in Mominpore" class="link-padding localitylink">Mominpore (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/mukundapur" title="5 Accomodation available in Mukundapur" class="link-padding localitylink">Mukundapur (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/nayabad" title="19 Accomodation available in Nayabad" class="link-padding localitylink">Nayabad (19)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/netaji-nagar" title="2 Accomodation available in Netaji Nagar" class="link-padding localitylink">Netaji Nagar (2)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/newtown" title="47 Accomodation available in Newtown" class="link-padding localitylink">Newtown (47)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/pailan" title="8 Accomodation available in Pailan" class="link-padding localitylink">Pailan (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/purba-barisha" title="9 Accomodation available in Purba Barisha" class="link-padding localitylink">Purba Barisha (9)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/rahara" title="4 Accomodation available in Rahara" class="link-padding localitylink">Rahara (4)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/rajarhat" title="146 Accomodation available in Rajarhat" class="link-padding localitylink">Rajarhat (146)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/rajpur-sonarpur" title="60 Accomodation available in Rajpur Sonarpur" class="link-padding localitylink">Rajpur Sonarpur (60)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/raypur" title="7 Accomodation available in Raypur" class="link-padding localitylink">Raypur (7)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/reekjoyoni" title="5 Accomodation available in Reekjoyoni" class="link-padding localitylink">Reekjoyoni (5)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/sealdah" title="4 Accomodation available in Sealdah" class="link-padding localitylink">Sealdah (4)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/sodepur" title="15 Accomodation available in Sodepur" class="link-padding localitylink">Sodepur (15)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/south-dum-dum" title="32 Accomodation available in South Dum Dum" class="link-padding localitylink">South Dum Dum (32)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/tangra" title="52 Accomodation available in Tangra" class="link-padding localitylink">Tangra (52)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/thakurpura" title="8 Accomodation available in Thakurpura" class="link-padding localitylink">Thakurpura (8)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/tiljala" title="6 Accomodation available in Tiljala" class="link-padding localitylink">Tiljala (6)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/tollygunge" title="6 Accomodation available in Tollygunge" class="link-padding localitylink">Tollygunge (6)</a></li> 
+                                                         <li><a href="/locality-search/kolkata/topsia" title="6 Accomodation available in Topsia" class="link-padding localitylink">Topsia (6)</a></li> 
+                                                           </ul>
+                          </div>
+                                                    <div id="localityViewAll" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" style="background-color:#d1cbcb;color:#fff;"><span onclick="FullBlock(this,'poplistkolkata')" class="fa fa-sort-down fa-2x" style="display:block;cursor:pointer;"></span></div>
+                                                    
+                	  </div>
                                    
                 	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistgurgaon" class="col-inner localitylistdiv">
@@ -6389,7 +6682,6 @@ font-size:14pt;}
                                                     <div style="background-color:#d1cbcb;color:#fff;height:32px;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"></div>
                                                     
                 	  </div>
-                	
                                    
                 	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistnoida" class="col-inner localitylistdiv">
@@ -6410,9 +6702,11 @@ font-size:14pt;}
                                                     <div style="background-color:#d1cbcb;color:#fff;height:32px;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"></div>
                                                     
                 	  </div>
-                	
-                                   
-                	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
+                </div><!--.row-->
+                </div><!--.item-->
+                        <div class="item ">
+                	<div class="row-fluid">
+                                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistnavimumbai" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Navi Mumbai</h5>
                               <ul class="footerbody company">
@@ -6449,17 +6743,6 @@ font-size:14pt;}
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistnavimumbai')"></span></div>
                                                     
                 	  </div>
-                	
-                  
-                </div><!--.row-->
-                </div><!--.item-->
-                 
-                              
-                                            
-                        
-                        <div class="item ">
-                	<div class="row-fluid">
-                                      
                 	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistthane" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Thane</h5>
@@ -6489,7 +6772,6 @@ font-size:14pt;}
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistthane')"></span></div>
                                                     
                 	  </div>
-            
             		<div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistahmedabad" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Ahmedabad</h5>
@@ -6569,7 +6851,6 @@ font-size:14pt;}
                           </div>
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistahmedabad')"></span></div>                                                    
                 	  </div>
-                      
             		 <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistsurat" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Surat</h5>
@@ -6608,8 +6889,11 @@ font-size:14pt;}
                           </div>
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistsurat')"></span></div>                                                    
                 	  </div>
-                    
-        <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
+                </div><!--.row-->
+                </div><!--.item-->
+                        <div class="item ">
+                	<div class="row-fluid">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistvadodara" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Vadodara</h5>
                               <ul class="footerbody company">
@@ -6675,16 +6959,6 @@ font-size:14pt;}
                           </div>
                                                     <div style="background-color:#d1cbcb;color:#fff;" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 customcontainer text-center" id="localityViewAll"><span style="display:block;cursor:pointer;" class="fa fa-sort-down fa-2x" onclick="FullBlock(this,'poplistvadodara')"></span></div>                                                    
                 	  </div>
-                                   
-                	         
-                </div><!--.row-->
-                </div><!--.item-->
-                 
-                              
-                                            
-                        
-                        <div class="item ">
-                	<div class="row-fluid">
                         <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistbhopal" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Bhopal</h5>
@@ -6822,7 +7096,12 @@ font-size:14pt;}
                 	  </div>
                 	
                          
-                	  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
+                </div><!--.row-->
+                </div><!--.item-->
+                
+                 <div class="item ">
+                	<div class="row-fluid">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistbhiwadi" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Bhiwadi</h5>
                               <ul class="footerbody company">
@@ -6840,16 +7119,7 @@ font-size:14pt;}
                                                     
                 	  </div>
                 	
-                                   
-                	           
-                             
-                    
-                  
-                </div><!--.row-->
-                </div><!--.item-->
-                
-                 <div class="item ">
-                	<div class="row-fluid">
+             
                         <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 col-xs-12 localitycity-list">
                       <div style="overflow: hidden;" status="small" id="poplistneemrana" class="col-inner localitylistdiv">
                               <h5 class="size heading-list">Neemrana</h5>
@@ -6876,38 +7146,19 @@ font-size:14pt;}
                      </div><!--.row-->
                 </div><!--.item-->               
 
-
-
-
-
-
 </div><!-- end carousel-inner -->
 
 <div style="margin: 0px auto; text-align: center; padding-bottom:10px;" id="carousel-icon" class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12">
 <div style="margin-top:6px; padding-left:4px;padding-right:4px; width:60px;display: inline-block;float: none;" class="text-center col-lg-2 col-xl-2 col-md-2 col-sm-12 col-xs-12">
 <a style="display:inline-block;" class="left carousel-control insightdivarrowleft col-lg-12 customcontainer" href="#localityCarousel" data-slide="prev">‹ </a></div>
 <div style="margin-top:6px; padding-left:4px;padding-right:4px; width:60px;display: inline-block;float: none;" class="text-center col-lg-2 col-xl-2 col-md-2 col-sm-12 col-xs-12">
- <a style="display:inline-block;" class="right carousel-control insightdivarrowright  col-lg-12 customcontainer" href="#localityCarousel" data-slide="next"> ›</a></div>
-
-<!--<a data-slide="prev" href="#localityCarousel" class="left carousel-control localityarrowleftcarousel" style="display:block;">‹</a>
-<a data-slide="next" href="#localityCarousel" class="right carousel-control" style="display:block;">›</a>-->
-
-                  
+ <a style="display:inline-block;" class="right carousel-control insightdivarrowright  col-lg-12 customcontainer" href="#localityCarousel" data-slide="next"> ›</a></div>               
 </div>
 </div>
-
-
-<!-- end new design for Locality -->
-
-
-
 <!-- end new design for Locality -->
 </div>
 </div>
 <!-- end locality design-->
-
- 
-
 <!-- Start new design start for snap Collection -->
 <div class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12" style="background-color:#0b386a;">
 <div style="text-align:center;">
@@ -6932,7 +7183,6 @@ font-size:14pt;}
 <div class="carousel-inner col-lg-12 col-xl-12">
 <div class="item active">
 <div class="row-fluid">
-
 <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
 <div class="col-inner top_viewed_properties_collection box">
                               <h5 class="size heading-list" style="">India</h5>
@@ -6953,8 +7203,6 @@ font-size:14pt;}
                               </ul>
                           </div>
 </div>
-
- 
                          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Mumbai</h5>
@@ -6973,8 +7221,6 @@ font-size:14pt;}
                               </ul>
                         </div>
                           </div>
-                          
-                          
                             <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                                <div class="col-inner top_viewed_properties_collection box">     
                               <h5 class="size heading-list">Bengaluru</h5>
@@ -6993,10 +7239,9 @@ font-size:14pt;}
                               </ul>
                           </div>
                          </div>
-                    
                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Chennai<img style="width:45px;float:right;" src="/newimages/smatycity_icon_letter.png"></h5>
+                              <h5 class="size heading-list">Chennai<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
 							  
                               <ul class="footerbody company">
                              
@@ -7015,18 +7260,14 @@ font-size:14pt;}
                               </ul>
                           </div>
                          </div>
-
-
 </div><!-- item -->
 </div><!-- row -->
-
-
 <div class="item ">
                 	<div class="row-fluid">
                     
                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Pune<img style="width:45px;float:right;" src="/newimages/smatycity_icon_letter.png"></h5>
+                              <h5 class="size heading-list">Pune<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
                               <ul class="footerbody company">
                              
                            <li><a href="/projectlist/real-estate-property-in-pune" target="_blank" class="link-padding snapcolllink">Property in Pune</a></li>
@@ -7062,6 +7303,20 @@ font-size:14pt;}
                         </div>
                           </div> 
                     
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                      <div class="col-inner top_viewed_properties_collection box"> 
+                              <h5 class="size heading-list">Kolkata</h5>
+                              <ul class="footerbody company">
+<li><a href="/projectlist/real-estate-property-in-kolkata" target="_blank" class="link-padding snapcolllink">Property in Kolkata</a></li>
+                            <li><a href="/projects/top-residential-real-estate-kolkata" target="_blank" class="link-padding snapcolllink">Top Projects in Kolkata</a></li> 
+                             <li><a href="/segment-search/kolkata/luxury-apartments" target="_blank" class="link-padding snapcolllink">Luxury Apartments in Kolkata</a></li>
+                            <li><a href="/segment-search/kolkata/mid-segment-apartments" target="_blank" class="link-padding snapcolllink">Mid Segment Apartments in Kolkata</a></li>
+                             <li><a href="/segment-search/kolkata/affordable-apartments" target="_blank" class="link-padding snapcolllink">Affordable Apartments in Kolkata</a></li>
+                            <li><a href="/builders/residential-builder-list-kolkata" target="_blank" class="link-padding snapcolllink">Developers in Kolkata</a></li>
+                              </ul>
+                          </div>
+                      </div>
+                    
                   <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Gurgaon</h5>
@@ -7081,9 +7336,15 @@ font-size:14pt;}
                           </div>
                           
                       </div>
-                          
-                	  
-                            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+</div><!-- item -->
+</div><!-- row -->
+
+
+
+
+<div class="item ">
+                	<div class="row-fluid">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box">
                               <h5 class="size heading-list">Noida</h5>
                               <ul class="footerbody company">
@@ -7101,16 +7362,6 @@ font-size:14pt;}
                               </ul>
                               </div>
                           </div>
-                                            
-</div><!-- item -->
-</div><!-- row -->
-
-
-
-
-<div class="item ">
-                	<div class="row-fluid">
-                    
                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Navi Mumbai</h5>
@@ -7129,8 +7380,8 @@ font-size:14pt;}
                               </ul>
                         </div>
                           </div> 
-                     
-                      <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                   
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Thane</h5>
                               <ul class="footerbody company">
@@ -7149,25 +7400,16 @@ font-size:14pt;}
                         </div>
                           </div> 
                           
-                          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
-                      <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Ahmedabad<img src="/newimages/smatycity_icon_letter.png" style="width:45px;float:right;"></h5>
-                              <ul class="footerbody company">
-                           <li><a href="/projectlist/real-estate-property-in-ahmedabad" target="_blank" class="link-padding snapcolllink">Property in Ahmedabad</a></li>
-                            <li><a href="/projects/top-residential-real-estate-ahmedabad" target="_blank" class="link-padding snapcolllink">Top Projects in Ahmedabad</a></li> 
-                            <li><a href="/segment-search/ahmedabad/luxury-apartments" target="_blank" class="link-padding snapcolllink">Luxury Apartments in Ahmedabad</a></li>
-                            <li><a href="/segment-search/ahmedabad/mid-segment-apartments" target="_blank" class="link-padding snapcolllink">Mid Segment Apartments in Ahmedabad</a></li>
-                             <li><a href="/segment-search/ahmedabad/affordable-apartments" target="_blank" class="link-padding snapcolllink">Affordable Apartments in Ahmedabad</a></li>
-                        <li><a href="/builders/residential-builder-list-ahmedabad" target="_blank" class="link-padding snapcolllink">Developers in Ahmedabad</a></li>
-                              
-                            
-                              </ul>
-                        </div>
-                          </div>
+                      
                           
-                          <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+</div><!-- item -->
+</div><!-- row -->
+
+<div class="item ">
+                	<div class="row-fluid">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Surat<img src="/newimages/smatycity_icon_letter.png" style="width:45px;float:right;"></h5>
+                              <h5 class="size heading-list">Surat<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
                               <ul class="footerbody company">
                            <li><a href="/projectlist/real-estate-property-in-surat" target="_blank" class="link-padding snapcolllink">Property in Surat</a></li>
                             <li><a href="/projects/top-residential-real-estate-surat" target="_blank" class="link-padding snapcolllink">Top Projects in Surat</a></li> 
@@ -7180,36 +7422,22 @@ font-size:14pt;}
                               </ul>
                         </div>
                           </div>
-                    
-                      
-</div><!-- item -->
-</div><!-- row -->
-
-<div class="item ">
-                	<div class="row-fluid">
                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Vadodara</h5>
                               <ul class="footerbody company">
-                             
                            <li><a href="/projectlist/real-estate-property-in-vadodara" target="_blank" class="link-padding snapcolllink">Property in Vadodara</a></li>
                             <li><a href="/projects/top-residential-real-estate-vadodara" target="_blank" class="link-padding snapcolllink">Top Projects in Vadodara</a></li> 
-                            
-                             <li><a href="/segment-search/vadodara/luxury-apartments" target="_blank" class="link-padding snapcolllink">Luxury Apartments in Vadodara</a></li>
+                            <li><a href="/segment-search/vadodara/luxury-apartments" target="_blank" class="link-padding snapcolllink">Luxury Apartments in Vadodara</a></li>
                             <li><a href="/segment-search/vadodara/mid-segment-apartments" target="_blank" class="link-padding snapcolllink">Mid Segment Apartments in Vadodara</a></li>
                              <li><a href="/segment-search/vadodara/affordable-apartments" target="_blank" class="link-padding snapcolllink">Affordable Apartments in Vadodara</a></li>
-                            
-                            
-                            <li><a href="/builders/residential-builder-list-vadodara" target="_blank" class="link-padding snapcolllink">Developers in Vadodara</a></li>
-                            
+                        <li><a href="/builders/residential-builder-list-vadodara" target="_blank" class="link-padding snapcolllink">Developers in Vadodara</a></li>
                               </ul>
+                        </div>
                           </div>
-                          
-                      </div>
-                    
-                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Bhopal<img src="/newimages/smatycity_icon_letter.png" style="width:45px;float:right;"></h5>
+                              <h5 class="size heading-list">Bhopal<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
                               <ul class="footerbody company">
                              
                            <li><a href="/projectlist/real-estate-property-in-bhopal" target="_blank" class="link-padding snapcolllink">Property in Bhopal</a></li>
@@ -7226,11 +7454,9 @@ font-size:14pt;}
                           </div>
                           
                       </div>
-                          
-                	  
-                            <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box">
-                              <h5 class="size heading-list">Indore<img src="/newimages/smatycity_icon_letter.png" style="width:45px;float:right;"></h5>
+                              <h5 class="size heading-list">Indore<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
                               <ul class="footerbody company">
                              
                            <li><a href="/projectlist/real-estate-property-in-indore" target="_blank" class="link-padding snapcolllink">Property in Indore</a></li>
@@ -7246,12 +7472,14 @@ font-size:14pt;}
                               </ul>
                               </div>
                           </div>
-                                       
-                    
-                    
+</div><!-- item -->
+</div><!-- row -->
+
+<div class="item ">
+                	<div class="row-fluid">
                     <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
-                              <h5 class="size heading-list">Jaipur<img src="/newimages/smatycity_icon_letter.png" style="width:45px;float:right;"></h5>
+                              <h5 class="size heading-list">Jaipur<span class="headingsprite headingsmartciytimg spancityicon"></span></h5>
                               <ul class="footerbody company">
                              
                            <li><a href="/projectlist/real-estate-property-in-jaipur" target="_blank" class="link-padding snapcolllink">Property in Jaipur</a></li>
@@ -7266,17 +7494,8 @@ font-size:14pt;}
                             
                               </ul>
                         </div>
-                          </div> 
-                     
-                                            
-</div><!-- item -->
-</div><!-- row -->
-
-<div class="item ">
-                	<div class="row-fluid">
-
-
-<div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                          </div>
+                    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Bhiwadi</h5>
                               <ul class="footerbody company">
@@ -7290,9 +7509,8 @@ font-size:14pt;}
                             
                               </ul>
                         </div>
-                          </div> 
-                    
-                  <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
+                          </div>
+    <div class="col-lg-3 col-xl-3 col-md-3 col-sm-6 responsivesnapdiv snap-collection">
                       <div class="col-inner top_viewed_properties_collection box"> 
                               <h5 class="size heading-list">Neemrana</h5>
                               <ul class="footerbody company">
@@ -7305,11 +7523,7 @@ font-size:14pt;}
                               </ul>
                           </div>
                           
-                      </div>
-                          
-                	  
-                            
-                                            
+                      </div>                
 </div><!-- item -->
 </div><!-- row -->
 
@@ -7361,10 +7575,9 @@ font-size:14pt;}
                     
                 </ol>
      
-<div class="carousel-inner col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12">
+<div class="carousel-inner col-lg-12 col-xl-12">
 <div class="item active">
 <div class="row-fluid">
-
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-india')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
 <a class="cityimg-sprite india-pic " target="_blank" href="/insights/real-estate-trends-india">
@@ -7374,7 +7587,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-india"><h4 class="subheadinggallery">India</h4></a>
 </div>
 </div>
-
 <!-- Start Mumbai Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-mumbai')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7383,10 +7595,7 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-mumbai"><h4 class="subheadinggallery">Mumbai</h4></a>
 </div>
 </div>
-
-
 <!-- End Mumbai Insights -->
-
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-bengaluru')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
 <a class="cityimg-sprite bengaluru-pic" target="_blank" href="/insights/real-estate-trends-bengaluru"></a>
@@ -7394,7 +7603,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-bengaluru"><h4 class="subheadinggallery">Bengaluru</h4></a>
 </div>
 </div>
-
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-chennai')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
 <a class="cityimg-sprite chennai-pic" target="_blank" href="/insights/real-estate-trends-chennai"></a>
@@ -7402,8 +7610,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-chennai"><h4 class="subheadinggallery">Chennai</h4></a>
 </div>
 </div>
-
-
 <!-- Start Pune Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-pune')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 insightimgmaindiv customcontainer">
@@ -7413,7 +7619,6 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Pune Insights -->
-
 <!-- Start Hydearabad Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-hyderabad')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7423,7 +7628,15 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Hyderabad Insights -->
-
+<!-- Start Kolkata Insights -->
+<div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-kolkata')">
+<div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
+<a class="cityimg-sprite kolkata-pic" target="_blank" href="/insights/real-estate-trends-kolkata"></a>
+<div class="btn viewinsightsdetailbtn"> <i class="fa fa-search fa-3x"></i> </div>
+<a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-kolkata"><h4 class="subheadinggallery">Kolkata</h4></a>
+</div>
+</div>
+<!-- End Kolkata Insights -->
 <!-- Start Gurgaon Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-gurgaon')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7433,7 +7646,11 @@ font-size:14pt;}
 </div>
 </div>
 <!-- Start Gurgaon Insights -->
+</div>
+</div>
 
+<div class="item">
+<div class="row-fluid">
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-noida')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
 <a class="cityimg-sprite noida-pic" target="_blank" href="/insights/real-estate-trends-noida"></a>
@@ -7441,14 +7658,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-noida"><h4 class="subheadinggallery">Noida</h4></a>
 </div>
 </div>
-
-
-</div>
-</div>
-
-<div class="item">
-<div class="row-fluid">
-
 <!-- Start Navi Mumbai Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-navimumbai')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7458,7 +7667,6 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Navi Mumbai Insights -->
-
 <!-- Start Thane Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-thane')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7468,7 +7676,6 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Thane Insights -->
-
 <!-- Start Ahmedabad Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-ahmedabad')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7477,8 +7684,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-ahmedabad"><h4 class="subheadinggallery">Ahmedabad</h4></a>
 </div>
 </div>
-<!-- End Ahmedabad Insights -->
-
 <!-- Start Surat Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-surat')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7488,9 +7693,7 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Surat Insights -->
-
-
-<!-- Start Surat Insights -->
+<!-- Start Vadodara Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-vadodara')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
 <a class="cityimg-sprite vadodara-pic" target="_blank" href="/insights/real-estate-trends-vadodara"></a>
@@ -7498,8 +7701,6 @@ font-size:14pt;}
 <a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer" target="_blank" href="/insights/real-estate-trends-vadodara"><h4 class="subheadinggallery">Vadodara</h4></a>
 </div>
 </div>
-<!-- End Vadodara Insights -->
-
 <!-- Start Bhopal Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-bhopal')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7518,6 +7719,11 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Indore Insights -->
+</div>
+</div>
+
+<div class="item">
+<div class="row-fluid">
 <!-- Start Jaipur Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-jaipur')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7527,13 +7733,6 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Jaipur Insights -->
-
-</div>
-</div>
-
-<div class="item">
-<div class="row-fluid">
-
 <!-- Start Bhiwadi Insights -->
 <div class="col-lg-2 col-xl-2 col-md-2 col-sm-4 col-xs-12 insightcityblock show-insightimage" style="cursor:pointer;" onclick="openInNewTab('/insights/real-estate-trends-bhiwadi')">
 <div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 customcontainer">
@@ -7552,34 +7751,8 @@ font-size:14pt;}
 </div>
 </div>
 <!-- End Neemrana Insights -->
-
-
 </div>
 </div>
-
-<!--Upcoming Projects -->
-<!--<div class="item">
-<div class="row-fluid">
-
-<div class="col-lg-4 col-xl-6 col-md-6 col-sm-12 col-xs-12" style="  border: 1px dotted #ccc;">
-<div class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12 btn viewupcominginsightsbtn"> upcoming</div>
-
-<div class="col-lg-6 col-xl-4 col-md-4 col-sm-4 col-xs-12" style="margin-top:-7px;">
-<div class="aligncenter col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12">
-<a class="" href="#">
-
-
-<div class="upcoming-citysprite jaipur-pic"></div>
-</a>
-
-<a class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12" href="#"><h4 class="subheadinggallery" style="opacity:0.5;margin-top:8px;">Surat</h4></a>
-</div>
-</div>
-</div>
-
-</div>
-</div>-->
-<!-- End Upcoming Projects-->
 
 </div>
 <div class="col-lg-12 col-xl-12 col-md-12 col-sm-12 col-xs-12" id="carousel-icon" style="margin: 0px auto; text-align: center;">
@@ -7740,49 +7913,51 @@ font-size:14pt;}
 <a href="/careers" target="_blank" class="newlinkdesgin"><div class="footerhiring-icon"></div> We are Hiring</a>
 <!--<a href="/testimonials" target="_blank" class="newlinkdesgin">Testimonials</a>-->
 <a href="/home/sitemap" target="_blank" class="newlinkdesgin"><div class="footersitemap-icon"></div>Site Map</a>
-
+<a href="/media" target="_blank" class="newlinkdesgin"><div class="footermedia-icon"></div> Media</a>
 </div>
 
 <div class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="background-color:#ffffff;">
 
 <div class="col-xl-4 col-md-4 col-lg-4 col-sm-12 col-xs-12">
-<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer footergetheading" style="">Get in Touch</h2>
+<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;">Get in Touch</h2>
 <hr class="footerline footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
-<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;"><img src="/newimages/call_icon.png" alt="propchill-call-icon"><span class="" style="font-size: 14px;color:#11406c;padding-left:7px">0124-4370612/13/14</span></div>
-<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;"><img src="/newimages/suppor_icons.png" alt="propchill-support-icon"><span class="" style="font-size: 14px;color:#11406c;padding-left:7px"><a href="mailto:support@propchill.com">support@propchill.com</a></span></div>
+<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;"><img src="/newimages/call_icon.png"><span class="" style="font-size: 14px;color:#11406c;padding-left:7px">+91-7827-456-456</span></div>
+<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;"><img src="/newimages/suppor_icons.png"><span class="" style="font-size: 14px;color:#11406c;padding-left:7px"><a href="mailto:support@propchill.com">support@propchill.com</a></span></div>
 
 <div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;">
-<span class="" style="font-size: 14px;color:#11406c;">117, 1st Floor Spaze ITech Park, Near Omaxe City center Mall Gurgaon-342001</span>
+<span class="" style="font-size: 14px;color:#11406c;">117, 1st Floor Spaze ITech Park, Near Omaxe City center Mall Gurgaon-122018</span>
 </div>
 
-<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;">
-<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer featuredheading" style="margin-top: 22px;">Featured In</h2>
+<!--<div class="col-lg-12 col-xl-12 customcontainer" style="margin-top:10px;">
+<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 26px;">NewsLetter</h2>
+<div class="col-lg-12 col-xl-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 16px;"> The web portal is equally useful for property brokers to get an insight into the real estate market. Its also provide a B2C(Business to Consumer) platform for genuine Brokers.</div>
+<div class="col-lg-6 col-xl-6 customcontainer" style="margin-top: 10px"><input class="form-control" type="text" name="newsletter" style="border:1px solid #a9cbe3; border-radius:0px"/></div> <div class="col-lg-4 col-xl-4" style="margin-top: 10px"><button class="newsBtnInfo" type="submit">Subscribe</button></div>
+</div>-->
+
+
+</div>
+
+
+
+
+<div class="col-xl-4 col-md-4 col-lg-4 col-sm-12 col-xs-12">
+<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;">Awards</h2>
+<hr class="footerline footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
+<div class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
+<img class="img-responsive" src="/icon/award-img/award-logo.png">
+</div>
+<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;">Featured In</h2>
 <hr class="footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
 <div class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
 <div class="col-lg-3 col-xl-3 col-md-3 col-sm-5 col-xs-9 featuredbox2 logo_yourstory sprite-cnn-indiaflag"> </div>
 <div class="col-lg-1 col-xl-1 col-md-2 col-sm-2 col-xs-3 featuredbox3 cnn_logo-gray sprite-cnn-indiaflag" style="background-color:#fff;"> </div>
 </div>
-</div>
 
-
-</div>
-
-
-
-
-<div class="col-xl-4 col-md-4 col-lg-4 col-sm-12 col-xs-12">
-<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer awardheading">Awards</h2>
-<hr class="footerline footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
-<div class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
-<img class="img-responsive" src="/icon/award-img/award-logo.png">
-</div>
-<!--<h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer featuredheading" style="margin-top: 4px;">Global Property Award</h2>
-<hr class="footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">-->
-<img class="img-responsive" src="/icon/award-img/global-award.jpg">
 </div>
 
 
 <div class="col-xl-4 col-md-4 col-lg-4 col-sm-12 col-xs-12">
+
 
 <h2 class="col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer" style="color:#2c527d;font-family: calibri;font-size: 26px; margin-bottom:0px;">We are on</h2>
 <hr class="footerline footerline col-xl-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 customcontainer">
@@ -7927,24 +8102,7 @@ function ( ) {
       ready(function(){
          
    dojo.byId('loadingdiv1').style.display='none';
-  
-  
-  query("#localityCarousel").carousel({
-   pause: true,
-    interval: false
-});
-
-query("#projectCarousel").carousel({
-   pause: true,
-    interval: false
-});
-
-
-
-query("#insightCarousel").carousel({
-   pause: true,
-    interval: false
-}); 
+   
 //	if(dojo.byId('display_explanation')==null || dojo.byId('display_explanation')==undefined || typeof dojo.byId('display_explanation')=== typeof undefined){
 //	// do nothing
 //	} else {
@@ -8068,9 +8226,7 @@ _atrk_opts = { atrk_acct:"s9oXk1a4SBe0Y8", domain:"propchill.com",dynamic: true}
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=s9oXk1a4SBe0Y8" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript --> 
- 
-
+<!-- End Alexa Certify Javascript -->  
 <script type="text/javascript" src="/extra/share42/share42.js"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -8216,7 +8372,7 @@ function showScroll() {
 <button type="button" class="btn btn-xs socialbtn socialbtndown"><img src="/images/homepage/social_icon/social-icon-new24.png" alt="propchill_share_button" width="24px" height="24px"><!--<i class="fa fa-angle-double-left fa-2x compdownarrowimg"></i>--></button> 
 <ul class="socialmenu" id="socialmenu" style=" background: #fff none repeat scroll 0 0; border: 1px solid #e4e4e4; box-shadow: 0 0 3px rgba(1, 1, 1, 0.16);padding: 2px 15px 45px; width: 72px;display:block;z-index: 1;"><div style="font-weight:bold;font-size:14px;padding-bottom:10px;text-align:center;">Share</div>
 <nav id="social-sidebar" style="width:100%;">
-<div class="share42init" data-top1="33%" data-top2="40" data-margin="0"><span id="share42" style="position: relative; z-index: 9999; margin-left: 0px; top: 40px;"><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -0px 0 no-repeat" href="#" data-count="fb" onclick="window.open('http://www.facebook.com/sharer.php?m2w&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160621112402id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Facebook" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -32px 0 no-repeat" href="#" data-count="gplus" onclick="window.open('https://plus.google.com/share?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160621112402id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Google+" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -64px 0 no-repeat" href="#" data-count="lnkd" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160621112402id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy&amp;title=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=600, height=400, toolbar=0, status=0');return false" title="Share on Linkedin" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -96px 0 no-repeat" href="#" data-count="pin" onclick="window.open('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160621112402id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy&amp;media=null&amp;description=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=600, height=300, toolbar=0, status=0');return false" title="Pin It" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -128px 0 no-repeat" href="#" data-count="twi" onclick="window.open('https://twitter.com/intent/tweet?text=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160621112402id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Twitter" target="_blank"></a></span></div>
+<div class="share42init" data-top1="33%" data-top2="40" data-margin="0"><span id="share42" style="position: relative; z-index: 9999; margin-left: 0px; top: 40px;"><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -0px 0 no-repeat" href="#" data-count="fb" onclick="window.open('http://www.facebook.com/sharer.php?m2w&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161223225318id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Facebook" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -32px 0 no-repeat" href="#" data-count="gplus" onclick="window.open('https://plus.google.com/share?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161223225318id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Google+" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -64px 0 no-repeat" href="#" data-count="lnkd" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161223225318id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy&amp;title=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=600, height=400, toolbar=0, status=0');return false" title="Share on Linkedin" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -96px 0 no-repeat" href="#" data-count="pin" onclick="window.open('http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161223225318id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy&amp;media=null&amp;description=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=600, height=300, toolbar=0, status=0');return false" title="Pin It" target="_blank"></a><a rel="nofollow" style="display:block;width:32px;height:32px;margin:0 0 0px;padding:0;outline:none;background:url(https://web.archive.org/extra/share42/icons.png) -128px 0 no-repeat" href="#" data-count="twi" onclick="window.open('https://twitter.com/intent/tweet?text=Privacy%20Policy%20and%20Instructions%20for%20Website%20Users%20-%20PropChill&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161223225318id_%2Fhttp%253A%2F%2Fwww.propchill.com%2Fprivacy-policy', '_blank', 'scrollbars=0, resizable=1, menubar=0, left=100, top=100, width=550, height=440, toolbar=0, status=0');return false" title="Share on Twitter" target="_blank"></a></span></div>
 <!--<li><a style="background-color:rgba(79, 129, 201, 1)" href="https://www.facebook.com/pages/Prop-Chill/1443836599225909?ref=hl" class="fa fa-facebook fa-2x" target="_blank" rel="nofollow"><span>Facebook</span></a></li>
 
 <li><a style="background-color:#e04006;" href="https://plus.google.com/u/0/b/106781193345264252140/106781193345264252140/posts" class="fa fa-google-plus fa-2x" target="_blank" rel="nofollow"><span>Google+</span></a></li> 
@@ -8297,7 +8453,136 @@ $(function() {
    
   
 </script>
+<script>
+  /**
+   * Handler for the signin callback triggered after the user selects an account.
+   */
+  
+  function onSignInCallback(resp) {
+      if(resp['g-oauth-window']){
+            gapi.client.load('plus', 'v1', apiClientLoaded);
+        }else  {
+            $("#mySignIn").click();
+        }
+  }
+  /**
+   * Sets up an API call after the Google API client loads.
+   */
+  function apiClientLoaded() {
+    gapi.client.plus.people.get({userId: 'me'}).execute(handleEmailResponse);
+  }
+  function handleEmailResponse(resp) {
+    var primaryEmail;
+    
+    for (var i=0; i < resp.emails.length; i++) {
+      if (resp.emails[i].type === 'account') primaryEmail = resp.emails[i].value;
+    }
+    firstname=resp.name.givenName;
+    lastname=resp.name.familyName;
+    
+    require(["dojo/request", "dojo/query"], function(request) {
+                    request.post("/authenticate/sociallogin", {
+                        data : {
+                            'first_name':firstname,
+                          'last_name':lastname,
+                           'email':primaryEmail,
+                           'vendor':'google'
+                        }
+                       ,handleAs:'json'
+                    }).then(function(response) {
+                                          
+                                            if(response !== 'none')
+                                            {
+                                            location.reload();
+                                        }
+                    });
+    });
+  }
+  </script>
+  <script>
+      function loadScript(url, callback){
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
 
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+}
+
+function loadgoogle()
+{
+    loadScript("https://plus.google.com/js/client:platform.js", function(){
+            
+       gapi.signin.render("mySignIn", { 
+  'callback': onSignInCallback, 
+  'clientid': '778155671986-it0e9oq8b8nkf855bj501onopa2tqmh6.apps.googleusercontent.com', 
+  'cookiepolicy': 'single_host_origin', 
+  
+  'scope': 'email'
+});
+        
+   });
+}
+    
+
+    var liLogin1 = function() {
+        
+        loadScript("http://platform.linkedin.com/in.js?async=true", function(){
+            
+       IN.init({
+            api_key: '78vf4j8x3sbpbu',
+            authorize:true,
+          onLoad: "myOnloadFunction"
+        });
+        
+   });
+        // Setup an event listener to make an API call once auth is complete
+       
+        
+    }
+    function myOnloadFunction()
+    {
+        IN.UI.Authorize().params({"scope":["r_basicprofile", "r_emailaddress"]}).place();
+                        IN.Event.on(IN, 'auth', getProfileData);
+    }
+    var getProfileData = function() { // Use the API call wrapper to request the member's basic profile data
+        IN.API.Profile("me").fields("id,firstName,lastName,email-address,picture-urls::(original),public-profile-url,location:(name)").result(function (me) {
+            var profile = me.values[0];
+            var id = profile.id;
+            var firstName = profile.firstName;
+            var lastName = profile.lastName;
+            var emailAddress = profile.emailAddress;
+             require(["dojo/request", "dojo/query"], function(request) {
+                    request.post("/authenticate/sociallogin", {
+                        data : {
+                            'first_name':firstName,
+                          'last_name':lastName,
+                           'email':emailAddress,
+                           'vendor':'linkedin'
+                        }
+                       ,handleAs:'json'
+                    }).then(function(response) {
+                                            if(response !== 'none')
+                                            {
+                                            location.reload();
+                                        }
+                    });
+    });
+        });
+    }
+</script>
 
 
 </body></html>
