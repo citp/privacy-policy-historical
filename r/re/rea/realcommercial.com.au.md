@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326151336id_/http%3A//www.realcommercial.com.au/static/rca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223030034id_/http%3A//www.realcommercial.com.au/static/rca/privacy.html) for the most accurate reproduction.*
 
 # realcommercial.com.au
 
 (including the Credit Reporting Policy)
-
-21 January 2015
 
 **INTRODUCTION**
 
@@ -25,7 +23,7 @@ realestate.com.au and REA Group are together known as “REA” or “we”, “
 
 This Privacy Policy sets out the manner in which we collect, use, disclose and manage personal information. By using the Websites and the REA Group Website, subscribing to our services or entering into an agreement with us in relation to the Websites, you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy.
 
-We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. We welcome your comments and [feedback](http://www.realcommercial.com.au/static/rca/contact-us.html).
+We may modify this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. If you are a customer and the modification would result in a material change to either party’s rights or obligations and, for that reason, may cause you material detriment, we will give you at least 30 days’ written notice via email before the modification is to take effect and you may terminate your agreement with us during this period if you consider that the modification will cause you material detriment.  For non-material changes we make that would not cause material detriment to a customer, we will give customers at least 30 days’ written notice via Agent Admin (located at https://secure.realestate.com.au/sign_in) before the modification is to take effect, but customers may not terminate as a result of this during this period.
 
 **RESPECTING INFORMATION PRIVACY**
 
@@ -188,7 +186,7 @@ For more information about privacy issues in Australia and protecting your priva
 We use cookies, web beacons and measurement software and tools on the Websites and REA Group Website and so do our services providers and third parties such as our analytics, advertising or ad serving partners. We use and disclose the information collected through the use of cookies, web beacons and measurement software and tools in accordance with this Privacy Policy. This includes using the information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. We may allow other third parties to use their own cookies and web beacons to collect information about your visits to the Websites and REA Group Website. **  
 **
 
-We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons) to provide better or more relevant services and advertising to you on the Websites and REA Group Website. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
+We may combine our cookies, information collected through the cookies and web beacons on the Websites and REA Group Website with other information (including information collected by third parties using their own cookies and web beacons and providing our cookies and information to thirdparties) and use analytics services such as Firebase Analytics – to provide better or more relevant services and advertising to you on the Websites, REA Group Website and third party websites. Our service providers and other third parties may do the same in order to provide more relevant services and advertising to you through other websites that you may visit.
 
 **COOKIE CHOICES**
 
@@ -268,4 +266,4 @@ If you are not satisfied with our handling of your complaint, you can refer your
 
 COSL offers consumers an accessible, independent and fair dispute resolution service. You can contact COSL at 1800 555 727, online at cosl.com.au or write to them at Credit Ombudsman Service Ltd, PO Box A252, South Sydney, NSW 1235.
 
-Last updated 16 June 2015.
+Last updated October 2016.
