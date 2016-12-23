@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329185153id_/http%3A//www.tupperware.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupperware.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223015620id_/http%3A//www.tupperware.com/privacy) for the most accurate reproduction.*
 
-# Tupperware: Help > Privacy, Security & Accessibility
+# Privacy, Security & Accessibility
 
 The privacy policy set forth below applies to Tupperware's Web sites, authorized My.Tupperware(SM) Consultant Web sites, and other authorized sales and marketing activities conducted in Canada. Please read Tupperware's privacy policy to understand how we'll handle your personal information as you take advantage of the many activities and programs offered by Tupperware: through this Web site, authorized My.Tupperware(SM) Consultant Web sites, our Tupperware Showcases located at local area shopping malls, our Tupperware offerings on television, and our traditional Tupperware Parties where you have the opportunity to shop in the convenience of your home or office with the expert assistance of your personal Tupperware Consultant.
 
