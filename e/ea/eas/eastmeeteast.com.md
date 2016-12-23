@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eastmeeteast.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612214254id_/http%3A//www.eastmeeteast.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastmeeteast.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223202144id_/http%3A//www.eastmeeteast.com/help/privacy) for the most accurate reproduction.*
 
-# EastMeetEast
-
-You are not logged in. 
+# Privacy Policy - EastMeetEast
 
 Effective as of 6/12/14
 
@@ -55,7 +53,7 @@ We may transfer Personal Information as an asset in connection with a proposed o
 
 We may combine your Personal Information with non-personally identifiable information and aggregate it with information collected from other Members in order to provide you with a better experience, to improve the quality and value of the Service, and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product or service to you according to your preferences or restrictions.
 
-We may share non-personally identifiable information publicly and with connected sites or services. We only use this this data in aggregate for business and administrative purposes, for the purposes of performing statistical analyses on user behavior and characteristics, for increasing the Service's functionality and user-friendliness, for demographic profiling, and to better tailor our Site to our visitors' needs. Any aggregated information shared in these contexts will not contain your Personal Information. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.
+We may share non-personally identifiable information publicly and with connected sites or services. We only use this data in aggregate for business and administrative purposes, for the purposes of performing statistical analyses on user behavior and characteristics, for increasing the Service's functionality and user-friendliness, for demographic profiling, and to better tailor our Site to our visitors' needs. Any aggregated information shared in these contexts will not contain your Personal Information. We also use this information to verify that visitors to the Site meet the criteria required to process their requests.
 
 ## How We Collect Information
 
@@ -131,7 +129,7 @@ Please review "Your choices about collection and use of your information" below.
 
 We may use third-party advertising agencies or other service providers to serve ads on the Site on behalf of EastMeetEast or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Third Parties, with whom we partner to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+Third Parties, with whom we partner to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 ## Security
 
@@ -174,7 +172,7 @@ The Site is not directed to individuals under 18. We do not knowingly collect pe
 
 ### Contacting Us
 
-If you have any questions about this Policy, please contact us at privacy@eastmeeteast.com 
+If you have any questions about this Policy, please contact us at privacy@eastmeeteast.com
 
 ## Acceptance of this Privacy Policy
 
