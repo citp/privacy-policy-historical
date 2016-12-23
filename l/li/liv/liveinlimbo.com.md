@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425201902id_/http%3A//www.liveinlimbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223025810id_/http%3A//www.liveinlimbo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Our Privacy Policy was last updated on Monday, September 28, 2015.
+### Our Privacy Policy was last updated on Wednesday, October 19, 2016.
 
 Your privacy is important to Live in Limbo and always has been. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information.
 
@@ -15,30 +15,6 @@ Like many other Web sites, www.liveinlimbo.com makes use of log files. These fil
 
  **Cookies and Web Beacons**  
 www.liveinlimbo.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
-
- **DoubleClick DART Cookie**
-
-→ Google, as a third party vendor, uses cookies to serve ads on www.liveinlimbo.com
-
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.liveinlimbo.com and other sites on the Internet. 
-
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
-
-**Our Advertising Partners**
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ……. 
-
-  * Google
-
-
-
- _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies)._
-
-You may consult this listing to find the privacy policy for each of the advertising partners of www.liveinlimbo.com.
-
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.liveinlimbo and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
-
-www.liveinlimbo.com has no access to or control over these cookies that are used by third-party advertisers.
 
  **Third Party Privacy Policies**
 
