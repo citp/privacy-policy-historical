@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511102952id_/http%3A//www.pediped.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pediped.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223224236id_/http%3A//www.pediped.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | pediped footwear | comfortable shoes for kids | infant baby toddler youth shoes
 
@@ -10,7 +10,7 @@ If you wish at any time to opt out of future pediped® mailings, please send an 
 
 ### How does pediped® use my information?
 
-We may use the information you provide to us to respond to your inquiries about our products, store locations and offerings. We may also offer you other products, programs or services we think you may find valuable. We may also share your information with pediped footwear's sister companies including Kinderbliss, Brian James Footwear and others.
+We may use the information you provide to us to respond to your inquiries about our products, store locations and offerings. We may also offer you other products, programs or services we think you may find valuable. We may also share your information with pediped footwear's sister companies including pediped® Outlet, Brian James Footwear and others.
 
 ### Does pediped® use cookies?
 
