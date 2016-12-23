@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127141125id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223184042id_/http%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy - Generic - DSM
+# Privacy Policy | DSM
 
 ### General
 
