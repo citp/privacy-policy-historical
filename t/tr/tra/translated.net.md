@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630030845id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223141323id_/http%3A//www.translated.net/en/confidentiality) for the most accurate reproduction.*
 
 # Translation Service - Confidentiality - Translated
 
