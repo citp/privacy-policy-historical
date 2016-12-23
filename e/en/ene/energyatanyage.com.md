@@ -1,41 +1,36 @@
-> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629161526id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223185030id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
-# Gundry MD
+# Privacy Statement for Gundry MD Supplements and Skincare Products
 
-### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+#### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
 When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.  
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-
-### SECTION 2 - CONSENT
+#### SECTION 2 – CONSENT
 
 How do you get my consent?
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.  
-
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
 
+#### SECTION 3 – DISCLOSURE
 
-### SECTION 3 - DISCLOSURE
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.  
-
-
-### SECTION 4 - E-COMMERCE
+#### SECTION 4 – E-COMMERCE
 
 Our store is hosted on http://gundrymd.com/. Providing youwith the online e-commerce platform that allows us to sell our products and services to you.
 
-Your data is stored through http://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.  
-
+Your data is stored through http://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
 
 Payment:
 
@@ -45,10 +40,9 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Gundry MD Terms of Service here or Privacy Statement here.  
+For more insight, you may also want to read Gundry MD Terms of Service here or Privacy Statement here.
 
-
-### SECTION 5 - THIRD-PARTY SERVICES
+#### SECTION 5 – THIRD-PARTY SERVICES
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -60,38 +54,34 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.  
-
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 Links
 
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-
-### SECTION 6 - SECURITY
+#### SECTION 6 – SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-### SECTION 7 - AGE OF CONSENT
+#### SECTION 7 – AGE OF CONSENT
 
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.  
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-
-### SECTION 8 - CHANGES TO THIS PRIVACY POLICY
+#### SECTION 8 – CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.  
-
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@gundrymd.com](mailto:support@gundrymd.com) or by mail at Gundry MD
 
-[Re: Privacy Compliance Officer]
+[Re: Privacy Compliance Officer] 
 
-[9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States]
+[9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States] 
 
-\----
+—-
