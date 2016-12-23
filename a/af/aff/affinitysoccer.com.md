@@ -1,169 +1,91 @@
-> *The following text is extracted and transformed from the affinitysoccer.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519132617id_/http%3A//www.affinity-sports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitysoccer.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223120842id_/http%3A//www.affinity-sports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Affinity Sports
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+**Privacy Statement**
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+Updated as of May 13, 2016
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+**Introduction.**
 
-**When do we collect information?**
+Affinity Soccer, LLC and its affiliated clients, companies and marketing partners (“Affinity”) value your privacy and are committed to protecting your personal information. Affinity provides this privacy statement (“Privacy Statement”) to inform you of how we use, share, update and secure personal information that we collect. This Privacy Statement applies to information Affinity collects through (i) our team, club, league, event and tournament registration service (“Registration Services), (ii) our association and governing body operating platform (“ShareView Association Platform”), and (iii) services or products offered by Affinity through websites, mobile applications social media, etc. (“Affinity Advantage”). Collectively, the Registration Services, Shareview Association Services and Affinity Advantage Services may be referred to as the “Services”. This Privacy Statement does not create a contractual obligation between you and Affinity and it is subject to our Terms of Use. If you have questions about this Privacy Statement email us at [privacy@affinitysoccer.com](mailto:privacy@affinitysoccer.com) or call us at (800) 808-7195.
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.
+**What information does Affinity collect from me?**
 
-**How do we use your information?**
+From time to time, we receive information related to you or family members that you or a third party voluntarily provides while using one or more of our Services. When registering a participant or volunteer for a team, club, league, event or tournament through our Registration Services, you may provide us with certain personal information which may include your user name, password, address, zip/postal code, email address, phone numbers, participant name, birthdate, emergency contact information, driver’s license number, social security number, and payment information such as credit card or financial account numbers if applicable. We also collect information about you through your use of our ShareView Association Platform or any products or services you purchase or participate in through our Affinity Advantage Services. Affinity may also collect certain automated information through cookies, web beacons, tags, scripts and other automated devices to collect information including personally identifiable information about you when you use our Services which may include internet protocol addresses, operating systems, device specific browser information, location based geographic information, user ID’s and pages viewed through our Services. Affinity may collect certain basic personal information if you connect to any of the Services through social media. Affinity also collects general information about its users which does not necessarily identify the user. Affinity may enable third parties to collect information in connection with our Services. This Privacy Statement does not apply to, and Affinity is not responsible for any collection of information by any third party.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**How does Affinity use my information?**
 
-  * To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To contact you periodically regarding your order and/or other products and services.
+Affinity does not sell, rent or trade your personal information to third parties. Affinity’s use of your information is consistent with this Privacy Statement.
 
+We use the information that we gather about you (i) to communicate the Services to you, to provide the Services to you and to provide customer service. Affinity’s primary goal in collecting personal information is to provide you, the user, with a customized experience while using any of our Services. This includes personalization services, interactive communications, online commerce, and many other types of services. By knowing a little about our clients and their members, volunteers and users, Affinity is able to deliver better service and more relevant content to each user of one or more of our Services. Once you register for the ShareView Operating Platform, you are no longer anonymous to Affinity as you are provided with a personal user ID and password that provides you with access to the areas of our client’s operating platform so that you can view data or perform role based functions that our client has given you permission to access.  With certain Services, we collect information about you on behalf of our sports association clients where our contracts significantly limit our ability to use your information. In many cases, our right to use your information is solely to provide the Services and many of our written client agreements do not allow Affinity to use your information for marketing purposes without the prior written approval of our clients. Affinity may combine certain personal information, customer information and automated information both online and from third parties and we may share such information with affiliates, partners and subsidiaries. Affinity will retain such information as needed in order to provide the Services, comply with legal obligations, resolve disputes and enforce agreements.
 
+**How Can I Access and Update My Personal Information?**
 
-**How do we protect visitor information?**
+For the ShareView Association Platform Service, you can log in to your account, provide your password and then update any of your personal contact information that is listed within your personal account information.
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+**What about Affinity’s clients, partner services or linked sites?**
 
-We use regular Malware Scanning.
+Several of our clients request that we establish links to third party organizations, products and services.  To obtain some of these other products and services you may be on another company’s web site or a site they share with Affinity. When ordering, registering for, or purchasing products or services from these partners or you click on a link away from Affinity’s website, you will be entering into an agreement with that partner, and not with Affinity. In these cases, Affinity’s privacy policy would not apply, but the privacy policy of the partner who provides the goods or services would then apply to your information. We urge you to read and understand each third party’s privacy policies and terms of use prior to using their product or service. While Affinity is committed to trying to partner with third parties that share our privacy concerns, Affinity can’t control the way these partners collect or use your information. If you have questions about any third party’s privacy policies, please contact them directly.
 
-We do not use an SSL certificate
+**How Secure Is My Information?**
 
-  * We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
+Affinity has implemented a variety of reasonable security measures including password protection, encryption and secure socket layers to help protect your information from loss, misuse, unauthorized access, disclosure, modification or destruction. We also use a variety of security measures to help protect your information that we store by implementing a number of physical, administrative and technical controls. Please be aware that despite our reasonable efforts, no data security measures can guarantee security of your data at all times so keep this in mind when disclosing personal information through the Internet. It is important that you never divulge your password to anyone. Also please remember to sign out of your account and close your browser window from any of your internet enabled devices when you have finished use of a connection to any of our Services.
 
+**What Choices Do I Have Regarding My Information?**
 
+You may unsubscribe from future e-mail marketing communications from Affinity by clicking on the unsubscribe link provided in our email communications. Please note that it may take up to ten (10) business days for Affinity to process your opt-out request. Even if you opt-out of future e-mail marketing communications, Affinity many still contact you as part of our customer service responsibilities related to the Services. In addition, you may still receive emails sent by our clients through means other than Affinity’s email service.
 
-**Do we use ‘cookies’?**
+**SECURITY**
 
-We do not use cookies for tracking purposes
+At Affinity, we appreciate your concerns about the security of your confidential online business transactions. Affinity takes security measures to protect information passed between our site and your computer.  Affinity strives to provide a private and secure Web environment to all users of the Website and its services. Password, credit card and other personal information is encrypted before being stored on Affinity’s servers.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+Affinity’s hosting service uses Secure Socket Layer (SSL) technology, which provides strong encryption to digital information as it crosses the Internet and supports up to 256-bit encryption, depending on your browser’s capabilities. Affinity maintains high performance as well as highly reliable access to data regardless of a user’s physical location. Affinity’s physical hardware and software components of its IT infrastructure are further hardened against attack and natural disasters. Affinity’s systems are co-located at an enterprise quality service provider with all of the resources required to support large-scale applications.
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+Affinity’s data center is guarded and under video surveillance on a 24/7 basis to ensure maximum access control and data protection. Affinity stores files under the desired security permissions rules specified by the Website administrator and tracks all versions and usage of files by those users who are granted access.
 
-However, you can still place orders .
+Affinity uses a highly secure technique based on S/MIME, which utilizes public key cryptography to digitally sign and encrypt each message sent for player and volunteer registrations using Affinity’s online registration service. This protects not only against the message being read, but also is designed to show that the message came only from the sender and was not altered in transport. From the moment you submit an online registration to the moment you leave our registration service website, all data transferred between your browser and Affinity’s servers is encrypted. This means that your credit card numbers and order details are always encrypted as they are passed across the Internet. This combination of encrypted online sessions and a highly secure computing infrastructure serves to help protect your information and the storage of your information..
 
-**Third Party Disclosure**
+**Children Under The Age of 13.**
 
-We do not sell to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. 
+A parent has the right to consent to the collection and use of personal information regarding their children who are under the age of 13 (individually, a “Child”, collectively, “Children”) solely to provide the Services without also consenting to the disclosure of such information to third parties. Affinity does not knowingly collect personal information from a Child without express parental consent. Affinity does not share personal information collected from Children with third parties for any purpose other than to provide the Services. On behalf of our association clients, in order to register Children to participate on a team, league, tournament or event, Affinity may collect the following information from Children under the age of 13; date of birth, display name, information about activities or interests, gender, photo submitted by parent or guardian, height, weight, uniform size, position, all-star participation, awards, red cards, injuries and return to play data. Affinity maintains the information we collect for as long as your Child’s account is active and Affinity uses this information solely to provide the Services. If you are a parent or guardian who believes that Affinity has unauthorized information about your Child or wants to delete information related to your Child, then please email us at privacy@affinitysports.com or call us at (800) 808-7195.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**California Resident Information**
 
-**Third party links**
+California residents may request a list of all third parties to which Affinity has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per year pursuant to the California “Shine the Light” Request statute. In your request, please state that you are a California resident and provide a current California address for Affinity to send your response. You may request this information in writing by contacting us at:
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Attn: Affinity Privacy
 
-**Google**
+Affinity Sports, LLC
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en ](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
+10271 Vista Sorrento Parkway, Suite 100
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+San Diego, CA 92121
 
-**California Online Privacy Protection Act**
+Toll Free: (800) 808-7195
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+Email: [privacy@affinitysports.com](mailto:privacy@affinitysports.com)
 
-**According to CalOPPA we agree to the following:**
+**California Do Not Track Disclosures**.
 
-Users can visit our site anonymously
+For information on our online tracking practices, please refer to the section of this Privacy Statement entitled What Information Does Affinity Collect From Me.
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+**Privacy Policy Updates.**
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+As Affinity expands its offerings, we will update our Privacy Policy to address these changes. Please check this page on a regular basis for updates to our Privacy Policy. Ultimately, you are responsible for maintaining the secrecy of your passwords and your user profile. Please be careful and responsible whenever you’re online.
 
-Users will be notified of any privacy policy changes:
+**Contact Us.**
 
-  * On our Privacy Policy Page
+From time to time, Affinity reviews its practices regarding personally identifiable information and this Privacy Statement. If you have any questions, comments or concerns regarding personally identifiable information or this Privacy Statement, please contact us at:
 
+Attn: Affinity Privacy
 
+Affinity Sports, LLC
 
-Users are able to change their personal information:
+10271 Vista Sorrento Parkway, Suite 100
 
-  * By emailing us
-  * By calling us
+San Diego, CA 92121
 
+Toll Free: (800) 808-7195
 
-
-**How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-**Does our site allow third party behavioral tracking?**
-
-It’s also important to note that we do not allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify the users via email
-
-  * Within 7 business days
-
-
-
-We will notify the users via in site notification
-
-  * Within 7 business days
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-  * Send information, respond to inquiries, and/or other requests or questions.
-  * Process orders and to send information and updates pertaining to orders
-  * We may also send you additional information related to your product and/or service.
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-
-
-**To be accordance with CANSPAM we agree to the following:**
-
-  * NOT use false, or misleading subjects or email addresses
-  * Identify the message as an advertisement in some reasonable way
-  * Include the physical address of our business or site headquarters
-  * Monitor third party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly
-  * Allow users to unsubscribe by using the link at the bottom of each email
-
-
-
-**If at any time you would like to unsubscribe from receiving future emails, you can**
-
-  * Follow the instructions at the bottom of each email.
-
-
-
-and we will promptly remove you from **ALL** correspondence.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-**Affinity  Sports**
-
-10251 Vista Sorrento Parkway Suite #100
-
-San Diego, CA, USA 92121
-
-info@affinity-sports.com
-
-1-800-808-7195
-
-###### Last Edited on 2015-01-09
+Email: [privacy@affinitysports.com](mailto:privacy@affinitysports.com)
