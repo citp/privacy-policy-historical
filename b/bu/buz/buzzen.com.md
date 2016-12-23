@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520141619id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223105043id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.*
 
 # Buzzen Chat - Privacy Agreement
 
