@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animemusicdownload.info privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612130817id_/http%3A//animemusicdownload.info/opanda_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animemusicdownload.info privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223025258id_/http%3A//animemusicdownload.info/opanda_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download MP3 320K
 
@@ -44,7 +44,3 @@ However, non-personally identifiable visitor information may be provided to othe
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
 If there are any questions regarding this privacy policy you may contact us.
-
-x
-
-## BBBBReport Error
