@@ -1,66 +1,102 @@
-> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611091800id_/http%3A//www.zeetv.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeetv.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223024731id_/http%3A//www.ozee.com/privacy-policy) for the most accurate reproduction.*
 
-# ZEE TV Official Website: ZEE TV Shows & Serials, Watch Full Episodes and Videos Online at ZEETV.com
+# OZEE - Watch Free TV Shows, Episodes, Movies, Music, Gossips, Hot HD Videos and Live Cricket Match Online
 
-About www.zeetv.com  
-[www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") is an official site of Zee Entertainment Enterprises Limited owned and managed by Zee Entertainment Enterprises Limited.  
-Registered members are allowed to vote online, send messages, and participate in different contests and many more...  
-In order to ensure that the objectives of the site can be fulfilled to the satisfaction of the members of [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), we request and display some personal information / profile information relating to one or more members to other members and visitors, which allows our users to identify each other and expand their network of friends. Members can change their personal information and/or profile information at any time. Kindly note that although most of the online services are offered for free, users would require a "Mandatory Registration" to navigate and use the services of [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"). We respect the privacy of users and are committed to protect their privacy in all respects. Should you have any questions concerning this privacy policy, please email us at privacy@ZEEL.in. The present privacy policy governs the online information collection practices of Zee Entertainment Enterprises Limited ("we" or "us" or "[www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com")"). Specifically, it outlines the types of information that we gather about you from your use of the website [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") (the "Site"), and the ways in which we use and don't use this information. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to us regarding your age verification shall be truthful, accurate, and complete. This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. We provide this privacy policy to help you make an informed decision about whether to use or discontinue using the Site. This privacy policy is incorporated into and is subject to the Terms of Use. Your use of the website [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") and any personal information you provide on the Site remains subject to the terms of this privacy policy and our Terms of Use. Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice. Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use.
+We value the trust placed in use by you and therefore, we follow the highest standards of privacy guidelines to protect the information shared by you with us.
 
-WHAT INFORMATION IS COLLECTED ABOUT OUR USERS AND MEMBERS?  
-The information that we collect about you while you are using the Site falls into the following general categories:  
-1\. User provided information: We may collect and store information, personal or otherwise, that you voluntarily supply either while on the Site or in responding via email in connection with a feature provided on the Site. Some examples of this type of information include demographic information that you electronically submit when you sign up for access to certain features on the Site, information (such as your name or email address) that you electronically submit when you register for surveys or contests on the Site, information that you post on message boards on the Site, and information contained in search requests or questions that you submit to the Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.  
-2\. Cookies information: When you visit the Site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site may not function properly. In addition, third party advertisers or third party ad servers that place and present advertising on the Site also may collect information from you via cookies, web beacons, clear gifs or similar technologies. These third party advertisers and ad servers may use the information they collect to help present their advertisements, to help measure and research the advertisements' effectiveness, or for other uses. The use and collection of your information by these third party advertisers and ad servers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. Indeed, the privacy policy of these third party advertisers and ad servers may be different from our privacy policy.  
-3\. Log file information: When you use the Site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.  
-4\. Clear / transparent GIFs information: When you use the Site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our users / members anonymously. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+This Privacy Policy (“ **Privacy Policy** ”) governs the use of personal information shared with or collected by ZDCL from the users of OZEE. This Privacy Policy is subject to change from time to time without any written notice to you. Please review the Privacy Policy from time to time to be updated with the latest changes and modifications.
 
-HOW IS THIS INFORMATION USED?  
-1\. If you submit personally identifiable information to us through the Site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), then we use your personal information to operate, maintain, and provide to you the features and functionality of the site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com").  
-2\. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected, seen and used by others besides us. We cannot be and are not responsible for any unauthorized third party use of such information. Your account name (not your email address) is displayed to other users / members when you upload videos or send messages through the site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") and other users / members can contact you through messages and comments. Any videos that you submit to the site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-3\. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. We reserve the right to use and to disclose to third parties all of the information that we collect online about you and other visitors in any way and for any purpose, with one important exception viz. We will not use the information that we collect online from you while you are using the Site, nor will we authorize third parties to use such information, to mail or email promotional offers directly to you unless you have specifically informed us that you would like to receive promotional offers from us and/or from third parties. If you choose to receive these promotional offers, then your information may be used for direct mail or email marketing. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major site [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") changes or for customer service purposes).  
-4\. We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user / member preferences and trends.  
-5\. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, and contests.  
-6\. The Site includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.  
-7\. We may also make some content, products and services available through our Site through cooperative relationships with third party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly; in which cases the privacy policy of the provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Be aware that we may occasionally release information about visitors / members when release is appropriate to comply with law, to enforce our Terms of Service agreement, or to protect the rights, property or safety of users of the Site, the public, or the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site.  
-8\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.  
-WHEN [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") DISCLOSES INFORMATION  
-1\. We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliate companies, or other businesses or people for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.  
-2\. We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site.  
-3\. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any law or to respond to a court order or an order from any governing body or statutory authority.  
-4\. We also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist Government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com"), our users / members or others.  
-5\. Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.  
-INVITATIONS AND OTHER COMMUNICATIONS TO NON-MEMBERS  
-Our members can invite friends to join the service by sending invitation emails via our automated invitation system. The [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. The [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site does not sell these email addresses or use them to send any other communication besides invitations, invitation reminders (up to three (3) per email address). Recipients of invitations from [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") may contact the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") site to request the removal of their information from our database. [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") members may also store email addresses of people they know in their internal [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") address book and may also choose to send invitations and other communications to those addresses.  
-OUR COMMITMENT TO CHILDREN'S' PRIVACY  
-The Site is NOT directed to or intended for people under the age of Sixteen (16). A User less than Sixteen (16) years of age should not register to use the Site. [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") does not knowingly collect any personal information from people under the age of Sixteen (16). If you are a parent of a child under the age of Sixteen (16) and you have questions about our Site or Privacy Policy, please feel free to contact the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") Privacy Coordinator at privacy@ZEEL.in. Those between the age of Sixteen (16) and Eighteen (18) are to provide either of their parents Email ID and an Email will be send informing that their ward has registered himself/herself to use the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") services. The parent will be legally bound by any acts/deeds/Violation of [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") Terms of Use & Privacy Policy by their wards.
+By browsing, using, downloading or installing OZEE, you agree to be bound by the terms of this Privacy Policy. If you do not agree with the terms contained herein, please do not download or browse OZEE.
 
-OUR COMMITMENT TO DATA SECURITY  
-We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") and you do so at your own risk. Once we receive your transmission of information, [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") may post a notice on the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this link privacy@ZEEL.in
+By mere browsing or use of OZEE, you consent to the terms of this Privacy Policy and agree to the use of your personal information in the manner as provided under this Privacy Policy.
 
-SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS  
-[www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") is hosted in India and is intended for and directed to users / members in India. If you are a user / member accessing the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the [www.zeetv.com](http://www.zeetv.com/ "www.zeetv.com") Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India from time to time.
+All capitalized terms that have not been specifically defined herein shall have the same meaning as provided under the Terms of Use.
 
-HOW YOU CAN MAKE CHANGES TO YOUR INFORMATION  
-NOTIFICATION OF CHANGES: We reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the Site; or change/charge any fees or charges for use of the Services. Any changes we make will be effective immediately on notice, which we may give either by posting the new Agreement on the Site or via electronic mail. Your use of the Services after such notice will be deemed acceptance of such changes. Be sure to review this Agreement periodically to ensure your familiarity with the most current version. You will always be able to tell when the version was last updated by checking the "Last Revised" date in the header of this Agreement.
+This Privacy Policy should be read in conjunction and together with the Terms of Use available on www.ozee.com/terms.html.
 
-CONFLICT RESOLUTION: We are committed to resolving disputes as soon as feasible and shall endeavor to resolve all disputes brought to our notice in keeping with the mechanism prescribed, within Fifteen ( 15) working days of such receipt.
+  1. **Collection and Use of Personal Information**
 
-CONTACT INFORMATION: If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
-Postal Address:  
-Zee Entertainment Enterprises Limited  
-Continental Bldg., 135,  
-Dr. Annie Besant Road,  
-P.B. Marg, Worli, Mumbai - 400 018  
-State: Maharashtra,  
-Country: India.
 
-WEBSITE ADMINISTRATION  
-Business name: WWW.ZEETV.COM   
-Postal Address:  
-Zee Entertainment Enterprises Limited,  
-Continental Bldg., 135,  
-Dr. Annie Besant Road,  
-P.B. Marg, Worli, Mumbai - 400 018  
-State: Maharashtra,  
-Country: India,  
-Website URL: www.zeetelevision.com 
+
+‘Personal Information’, ‘Information’ and ‘Sensitive Information’ shall have the meaning ascribed to it under the IT Act, 2000 and Information Technology (Reasonable Security Practises and Procedures and Sensitive Personal Data or Information) Rules, 2011.
+
+Generic Information
+
+We collect Your Personal Information/Information when you use OZEE and when You share such information with Us through email or by posting on OZEE or by any other means made available to You by Us. During browsing/using of OZEE by You, We collect information with respect to Your IP Address and zip code. In the event You want to share any feedback or raise a concern, We collect information with respect to Your name, age, mobile number, email address, gender, occupation etc.
+
+We collect information in order to provide you with a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize OZEE to make your experience safer and easier.
+
+We do not solicit any Sensitive Information about You or seek information with respect to Your credit/debit card, net banking or other financial information, except as expressly provided herein. However, if You share such information with Us voluntarily, We will not be liable for any actions, claims, costs, expenses or other liabilities that may arise as a consequence of such any unauthorized use or misuse of such information.
+
+Demographic Information
+
+We may track certain information about you based upon your behaviour on OZEE. We use this information for conducting internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the website that you just visited (whether this website is on OZEE or not), which website you next visit, your computer browser information.
+
+We may also collect information to track user behaviour and preferences for internal analytics and research. We may also use Your information: (i) to evaluate Your interest for various genres of content, services, offers; (ii) to perform analytics and conduct customer research, to determine Your interest, for identifying Content that generate sales and to analyse traffic patterns.
+
+If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, We will collect that information You provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
+
+If You send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about Your activities or postings on OZEE, we may store such information.
+
+We identify and use Your IP address to help diagnose problems with our server, and to administer OZEE. Your IP address is also used to help identify You and to gather broad demographic information.
+
+We will occasionally ask You to complete optional online surveys. These surveys may ask You for contact information and demographic information (like zip code, age, or  
+income level). We use this data to tailor Your experience at OZEE, providing You with content that We think You might be interested in and to display content according to Your preferences.
+
+Cookie
+
+A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.
+
+You will always have an option not to provide certain information and can choose to opt-out from provision of certain information.
+
+  1. **Disclosure of Personal Information with Third Parties**
+
+
+
+We may disclose Personal Information to affiliates and group companies. We may also disclose Your Personal Information with third parties strictly on confidential terms. We may disclose such information to third parties in order to provide You access to OZEE and facilitate or Your participation in any contest, game or activity conducted by ZDCL, to comply with Our legal obligations, to enforce Terms of Use, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to OZEE. 
+
+We will always take Your express consent at the time of sharing your Personal Information with third parties for their marketing and advertising purposes.
+
+In the event of any requirement by court order, government or quasi-government agency to disclose Your Personal Information, We will disclose information as may be legally required. We may also disclose Your Personal Information if we, in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
+
+In the event ZDCL is merged with or acquired by another company or in case of re-organization or re-structuring of business, We and our affiliates will share Your Personal Information, wholly or in part, with another business entity. 
+
+OZEE app contains a software development kit (“SDK”) from a third party, Red Brick Lane Marketing Solutions Private Limited (“RBL”). The SDK is integrated with this app for the purposes of profiling the device on media consumption and other device data and utilizing the same to target relevant content and ads to the device ("Services") pursuant to the terms and conditions of RBL Services ("Terms of Use"). Further details can be obtained at <http://www.zapr.in/privacy/>.
+
+If you do not wish for RBL to identify television, radio and other offline content viewing around your mobile device, please opt out of all RBL Services via the following link: <http://www.zapr.in/privacy/>.
+
+RBL does not collect any personally identifiable information or audio/video/image/contact files from your mobile device. For any questions or clarifications please reach out to: [privacy@zapr.in](mailto:privacy@zapr.in).
+
+RBL also automatically receives and tracks certain data about your mobile device (such as your device-type, installed software and language preference) or desktop interface, your taps and interests; and may create a unique device or user ID for you. In some cases RBL can automatically detect or infer your location using GPS, your IP address, watermarks and/or Bluetooth, but often your operating system will require you to grant RBL permission to access your GPS or Bluetooth settings; please refer to your device’s system settings regarding location services.
+
+  1. **Third Party Sites**
+
+
+
+OZEE may provide links to various third party websites that may collect your Personal Information. Use of Your information collected by such third party website will be governed by the privacy policy in such third party website. ZDCL has no control on the operation of such third party websites and You may share information with such third party at Your sole risk. ZDCL shall not be liable to You for any misappropriation of Your Personal Information by such third party.
+
+  1. **Promotional and Marketing Activities  **
+
+
+
+We will send communications to You at regular intervals to notify you of, among other things, various offers, new content, exclusive deals etc., that may be available or new services that may be of interest to You. By accessing OZEE, you expressly consent to receiving such communications from us at regular intervals.
+
+However, if you do not wish to receive any communication from us, You may request to opt-out by writing to us at response@ozee.com. Once, We are in receipt of Your request, We will cease sending promotional messages to You.
+
+  1. **Security and Compliance with Laws**
+
+
+
+We strive to protect Your Personal Information against unauthorized disclosure, misuse, unlawful use, modification, loss or destruction. We take all reasonable measures and precautions, as per standard industry practises, to keep Your Personal Information confidential. We ensure compliance with all applicable laws including but not limited to Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011.
+
+  1. **Contact Us**
+
+
+
+If You require any information or clarification regarding the use of your Personal Information or this Privacy Policy or if You have any grievance with respect to use of Your Personal Information, you can contact us at response@ozee.com.
+
+  1. **International Use**
+
+
+
+ZDCL is a company based in India. By browsing/using OZEE, YOU hereby acknowledge that ZDCL is not responsible or liable in any manner to comply with any local laws of YOUR territory except India with respect to OZEE.
