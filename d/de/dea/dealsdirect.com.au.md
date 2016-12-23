@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231842id_/http%3A//www.dealsdirect.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223100013id_/https%3A//www.dealsdirect.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # dealsdirect.com.au - Privacy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 DEALSDIRECT.COM.AU, referred to below as DEALSDIRECT, is an online retailer of consumer goods.
 
-DEALSDIRECT values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@ DEALSDIRECT.COM.AU or call +61 02 8999 0407.
+DEALSDIRECT values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@ DEALSDIRECT.COM.AU or call 02 9037 2540.
 
 DEALSDIRECT.COM.AU is located at Unit 5, 111 Old Pittwater Road, Brookvale NSW 2100
 
@@ -48,13 +48,13 @@ To view and amend the information we store.
 
 We enable you to view the personal information we store via the My Account Section of the website or App. Here you can view any of your personal details including your registered username, password, email address or date of birth. We also enable you to store and amend up to three addresses for the effective delivery of goods.
 
-If you would like to access any other personal information which we hold about you or if you would like to seek the correction of that information, you can do so by contacting us via our contact us page, email us via privacy@ DEALSDIRECT.COM.AU or call 02 8999 0407
+If you would like to access any other personal information which we hold about you or if you would like to seek the correction of that information, you can do so by contacting us via our contact us page, email us via privacy@DEALSDIRECT.COM.AU or call 02 9037 2540
 
 The purposes for which we collect, hold, use and disclose your personal information
 
 We collect, hold, use and disclose personal information for the following purposes:
 
-o In order to send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out of us using your personal information for future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you. You can also select unsubscribe on our website or apps, contact us via our Contact page, email us via privacy@ DEALSDIRECT.COM.AU or call 02 8999 0407 and request to be unsubscribed.
+o In order to send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out of us using your personal information for future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you. You can also select unsubscribe on our website or apps, contact us via our Contact page, email us via privacy@DEALSDIRECT.COM.AU or call 02 9037 2540 and request to be unsubscribed.
 
 o In order to allow you to access our website and view the offers that we have made.
 
@@ -116,7 +116,7 @@ If you wish to be removed from our database for any reason, simply send us an em
 
 Complaints
 
-If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our contact us page, email us via privacy@ DEALSDIRECT.COM.AU or call 02 8999 0407. Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period of time. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
+If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our contact us page, email us via privacy@ DEALSDIRECT.COM.AU or call 02 9037 2540. Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period of time. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
 
 Updates to our information practices
 
