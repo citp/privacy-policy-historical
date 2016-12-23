@@ -1,0 +1,66 @@
+> *The following text is extracted and transformed from the bloovo.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223231756id_/https%3A//www.bloovo.com/Privacy-Policy) for the most accurate reproduction.*
+
+# BLOOVO Privacy Policy
+
+**INTRODUCTION  
+**   
+Thank you for using www.BLOOVO.com (the “Website”) as your portal for employment services. The Website is operated by BLOOVO Middle East FZ LLC (“BLOOVO”), which is a fully owned subsidiary of BLOOVO Ltd.. 
+
+This Privacy Policy (the “Policy”) sets out the basis on which BLOOVO collects, uses and discloses personal and/or professional or employer information obtained from you when using the Website. 
+
+This Policy is effective from 1 October 2015. 
+
+BLOOVO is an online social recruitment platform for professionals searching for jobs; and for employers looking to recruit professionals to serve their recruitment and professional needs. 
+
+By visiting the Website, and/or by using any services provided via this Website, from anywhere in the world (the “Territory”), you expressly agree to be bound by the terms of this Policy and you consent to its collection, use and disclosure of your information in accordance with the terms of this Policy. 
+
+BLOOVO may amend this Policy at any time without notice, and such amendments become effective from the date upon which BLOOVO makes them available on the Website. 
+
+If you do not agree to the Policy (including any amendments), then you should immediately cease using the Website. 
+
+**YOUR INFORMATION  
+**   
+The type of information collected from you is either personal to you as a professional and/or Job Seeker or proprietary as an Employer or recruiter, or is general in nature: 
+
+  * **Personal / Professional / Employer Information:** When you register on the Website as a user, update your information or send emails to BLOOVO, you provide BLOOVO with information that BLOOVO stores and processes. Such information may include your name, address, phone number, email address, purchase and transaction history, billing information (including credit/Debit card information), interests, and other such 'Personal Information'. BLOOVO collects information when you fill out a profile. A complete BLOOVO profile that includes professional details – like your job title, education, and skills – helps you get found by employers / recruiters for job opportunities. After you create an account, you may choose to provide additional information on your BLOOVO profile such as descriptions of your skills, professional experience, and educational background and other personal and professional information. Providing additional information enables you to derive more benefit from our Services by helping you express your professional identity and help employers or recruiters find you.
+  * **General Information:** BLOOVO also receives more general information from you as a result of your visits to, and use of, the Website. This general information does not identify you personally, and can include information such as your IP address, the date and time you access the Website, length of time you spend on the Website, your browsing history (recorded by the text and graphics files that compose that page), the Internet address of the website from which you linked directly to its Website, and other such information. To create an account on BLOOVO, you must provide us with at least your name, email address and/or mobile number, and a password and agree to our Terms and Conditions and this Privacy Policy, which govern how we treat your information. You may provide additional information during the registration flow (for example, your postal code, job title, and company) to help you build your profile and to provide you more customized services. You understand that, by creating an account, we, and others, will be able to identify you by your BLOOVO profile. BLOOVO also allows you through its invitation module to send invitations on your behalf to your contacts that are not members on BLOOVO. Please note that employers / recruiters registered on BLOOVO will have access to your profile information that you have created when they search for professionals who are members on BLOOVO.
+
+
+
+**COLLECTING AND USING INFORMATION  
+**   
+Most of this Website can be used without giving BLOOVO any information, apart from those required to register as a user. However, certain services may involve collection of personal information from you. BLOOVO uses this information to provide you with a better service, and in particular to keep internal records; improve its products, services and this Website; communicate with you if you have ordered or purchased products from BLOOVO; contact you for market research purposes; and provide you with information about new products, promotions, special offers and other information. 
+
+BLOOVO uses Personal Information for a range of business-related purposes, including account registration (e.g. your name, telephone number and email address), billing information, transaction and credit or debit card information (should you make a purchase with BLOOVO); and information regarding your interests, demographics, experiences and contact preferences in order to recommend a Position for you that exists on the Website or recommend a user that might be appropriate for the Position that you are offering. If you contact BLOOVO via the Website, or via email to the contacts set out on the Website, BLOOVO may keep a record of that correspondence. 
+
+BLOOVO uses General Information to help BLOOVO make the Website more useful to users (including to help BLOOVO assess content of interest to users), and for other purposes such as determining the Website’s technical design specifications and identifying system performance or problem areas, for tracking activity on the Website, preparing reports, assessing trends, and otherwise monitoring the way in which the Website is being used – none of which would be in a way that personally identifies any users. 
+
+**NON-DISCLOSURE OF PERSONAL INFORMATION  
+**   
+You agree that BLOOVO may share your Personal Information within any companies that are related to BLOOVO (whether as a holding company, an affiliate or a subsidiary). BLOOVO will not share, sell or rent your Personal Information in any manner to any third parties outside that group, except when BLOOVO has your permission; or if required to do so by law or any governing authority; or to protect its own legitimate interests. 
+
+**SECURITY  
+**  
+Keeping your Personal Information secure and preventing unauthorized access is of utmost priority to BLOOVO, and BLOOVO will take all steps reasonably necessary to protect your Personal Information against any unauthorized access, use, alteration, disclosure or destruction. Whilst BLOOVO has put in place physical, electronic and managerial procedures to secure and safeguard your Personal Information, BLOOVO will not be held responsible for any unauthorized access by third parties and cannot guarantee that the Personal Information provided by you or that is transmitted via this Website or by email is totally secure and safe. We may process your information outside the country where you live. We may transfer your information and process it outside your country of residence, wherever BLOOVO, its affiliates and service providers operate. 
+
+You can change your BLOOVO information at any time by editing your profile, deleting content that you have posted, or by closing your account. You can also ask us for additional information we may have about your account. 
+
+You have a right to access, modify, correct, or delete your personal information controlled by BLOOVO regarding your profile, or change or remove your content, and close your account. We generally delete closed account information and will de-personalize any logs or other backup information through the deletion process within 30 days of account closure, except as information you have shared with others or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other members copied or exported out of our services, because this information may not be in our control. Your public profile may be displayed in search engine results until the search engine refreshes its cache. 
+
+We keep your information for as long as your account is active or as needed. For example, we may keep certain information even after you close your account if it is necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce this agreement. 
+
+**COOKIES  
+**   
+The Website uses cookies, which are files that store information on your hard drive that allow a website to recognize users, track new users and to record session information. Most browsers are automatically set to accept cookies but if you choose you can disable the cookies from your browser. 
+
+**LINKS TO THIRD PARTY WEBSITES  
+**  
+The Website may provide links to other third party websites not within its control. BLOOVO cannot be responsible or liable for the content of such websites and BLOOVO advises you to exercise caution and review and understand the privacy policy of such websites before submitting any of your Personal Information to them. 
+
+**APPLICABLE LAW AND JURISDICTION  
+**   
+This Policy, as well as your access to the Website, is subject to and governed by the laws of the United Arab Emirates as applied in the Emirate of Dubai without giving effect to conflicts of law principles thereof. Any dispute regarding this Policy or its handling of your Personal Information and General Information shall be subject to the exclusive jurisdiction of the Courts in Dubai. 
+
+**CONTACT BLOOVO  
+**  
+If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that BLOOVO may hold about you is incorrect or incomplete, please contact BLOOVO at the following address and BLOOVO will endeavor to respond to you promptly. [info@bloovo.com] 
