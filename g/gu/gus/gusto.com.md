@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605100522id_/https%3A//gusto.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223103310id_/https%3A//gusto.com/about/privacy) for the most accurate reproduction.*
 
 # Gusto Privacy Policy | Gusto
 
 ### Payroll and Compliance Privacy Policy
 
-##### Last Updated September 17, 2015
+##### Last Updated November 10, 2016
 
 This Privacy Policy explains how information is collected, used and disclosed by us, ZenPayroll, Inc., a Delaware corporation doing business as Gusto (“Gusto”), with respect to your access and use of our online payroll service (the “Service”), which is provided through Gusto’s website and/or mobile application operated by Gusto (the “Site”).
 
@@ -26,7 +26,9 @@ We use personal information to improve the quality of the services that we offer
 
 Non-Personally Identifiable Information. We automatically collect certain information when you visit our Site, such as Internet Protocol (IP) address (if using a browser), operating system, the browser type, the address of a referring site, and any device identifier (if using a mobile device). We use this information to monitor and analyze use of the Site and our Service, for technical administration of the Site, to increase the functionality and user-friendliness of our Site and our Service, and to better tailor it to our visitors’ needs. 
 
-We also automatically collect certain information through the use of "cookies” or web beacons. These are small files that your browser places on your computer. We may use both session cookies and persistent cookies to better understand how you interact with our Site, to monitor aggregate usage by our users and web traffic routing on our Site, and to improve our Site. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not allow cookies, however, you may not be able to use some or all portions or functionality of the Service. 
+We also partner with third parties to manage our advertising on other sites and determine our website performance. Such partners may use “cookies” or web beacons to collect information about your activities on our website and other sites so that we can provide advertising that may be of interest to you or to help us evaluate the efficacy of our marketing programs or website. To prevent our partners from using your information for interest-based advertising, you can visit [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) to opt out of certain advertising networks. 
+
+We may use both session cookies and persistent cookies to better understand how you interact with our Site, to monitor aggregate usage by our users and web traffic routing on our Site, and to improve our Site. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not allow cookies, however, you may not be able to use some or all portions or functionality of the Service. 
 
 ##### Sharing and Disclosure of Your Information
 
@@ -125,7 +127,7 @@ We may sell, transfer, or otherwise share some or all of our assets, where permi
 
 Gusto Insurance automatically collects certain information when you visit the Site, such as Internet Protocol (IP) address (if using a browser), operating system, the browser type, the address of a referring site, and any device identifier (if using a mobile device). Gusto Insurance uses this information to monitor and analyze use of the Site and its Service, for technical administration of the Site, to increase the functionality and user-friendliness of the Site and Gusto Insurance’s service, and to better tailor it to Gusto Insurance’s visitors’ needs.
 
-Gusto Insurance also automatically collects certain information through the use of “cookies” or web beacons. These are small files that your browser places on your computer. As you browse Gusto Insurance, advertising cookies will be placed on your computer so that Gusto Insurance can understand what you are interested in. Gusto Insurance’s display advertising partner, AdRoll, then enables Gusto Insurance to present you with retargeting advertising on other sites based on your previous interaction with Gusto Insurance. The techniques our partners employ do not collect Protected Information such as your name, email address, postal address, or telephone number. You can visit http://www.networkadvertising.org/choices/ to opt out of AdRoll and their partner’ targeted advertising.
+Gusto Insurance partners with third parties to manage its advertising on other sites and determine its website performance. Such partners may also use “cookies” or web beacons to collect information about your activities on its Site and other sites so that Gusto Insurance can provide advertising that may be of interest to you or to help it evaluate the efficacy of its marketing programs or website. To prevent Gusto Insurance's partners from using your information for interest-based advertising, you can visit [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/) to opt out of certain advertising networks. 
 
 Gusto Insurance may use both session cookies and persistent cookies to better understand how you interact with the Site, to monitor aggregate usage by users and web traffic routing on the Site, and to improve the Site. Most internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not allow cookies, however, you may not be able to use some or all portions or functionality of the Service.
 
