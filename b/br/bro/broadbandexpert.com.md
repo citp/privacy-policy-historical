@@ -1,77 +1,74 @@
-> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515174945id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandexpert.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223215551id_/http%3A//www.broadbandexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # The Broadband Expert Privacy Policy
 
-## BROADBAND EXPERT PRIVACY POLICY
+The purpose of this Privacy Policy is to give you a summary of the ways in which Clearlink Technologies, LLC, a wholly owned subsidiary of Sykes Enterprises, Inc., d/b/a SITENAME collects, maintains, and uses your information. Please feel free to contact us by email at [privacy@clearlink.com](mailto:privacy@clearlink.com) or by mail at Clearlink Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
-RichWeb Media LLC (“RWM”, “we” or “us”) operates the web site located at www.broadbandexpert.com. (the “Site”). This serves as RWM’s Privacy Policy for the Site.
+**How We Collect Your Information**
 
-RWM makes the Site available to those individuals (“Users”) who access the Site for availability and price comparisons of internet providers, satellite, cable and mobile broadband providers (“Broadband Services”). Users communicate with us through the Site, respond to surveys about the usefulness and value of the Site and its contents, choose the right service for their needs, and receive other information about products and services, subject to this Privacy Policy (the “Policy”). This Policy explains what information RWM collects about its Users, how RWM uses and/or shares this information, and how such information is maintained. By visiting the Site, you accept the terms of this Policy.
+We gather information about you as you use our websites, contact our customer service representatives, fill out online order forms or information request sheets, and provide your information to our sales agents. We use cookies and pixel tags to track your usage of our websites. We also use online order forms and information request sheets to obtain information from you necessary to process your orders and provide you with requested information. When you call the numbers on our websites and speak with our customer service representatives, we collect information provided during the call to ensure the best quality of service and the correct processing of your orders.
 
-Note that this Policy applies only with respect to the information collected by RWM through the Site, and not any information collected or obtained through other methods or sources.
+**Information We Collect**
 
-**Collection of Personally Identifiable Information**
+We collect various types of Customer Information. A summary of the types of information that we collect is set forth below:
 
-RWM collects Users’ personally-identifiable information (“PII”) that is volunteered by Users at the Site who conduct surveys or inquire about the products or services offered on the Site. Examples of PII that may be requested and/or collected include: first and last name, address, zip code, email address, telephone number, facsimile number, company or business identity and Broadband Services that interests the User or for which the User has subscribed. From time to time, RWM may also present opportunities for Users to voluntarily provide additional information about themselves.
+-Customer Contact Information. Your Customer Contact Information is any information needed to contact you and fulfill your orders and requests such as your name, address, phone number, fax number, and email address.
 
-**Use and Sharing of PII**
+-Private Customer Information. Private Customer Information is that information that may be necessary to check credit and process payments. Such information includes your Social Security Number, credit card information, and banking and wiring information.
 
-RWM will use User PII: to provide the User with information about RWM products or services, Broadband Services to which the User has requested, newsletters, or other materials about Broadband Services, or to compile information in response to RWM surveys. Other than the uses set forth in this Privacy Policy, RWM does not share User PII with any third party. Please note, however, that RWM may change this Policy at any time (See “Changes to this Policy,” below), and that RWM may in the future use User PII for additional purposes not currently included in this Policy.
+-Customer Order Information. Customer Order Information is that information necessary to complete your orders and requests for information. Such information may include your Customer Contact Information, programming and packaging selections, your billing and shipping information, as well as other details pertaining to your order of products and services through us.
 
-User PII collected by us may be added to our databases and used for future marketing purposes, including but not limited to, e-mail and direct marketing. RWM may also allow carefully selected third parties to contact Users occasionally about products and services which may be of interest to Users. They may contact you by mail, telephone or fax, as well as by e-mail. By using the Site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+-Demographical Information. Demographical Information is publicly available information that we may learn about you regarding such things as your age, income, home ownership, household size, etc. that helps us to provide you with better offers for products and services.
 
-RWM may also disclose User PII in order to: (1) comply with applicable laws (including, without limitation, the CAN-SPAM Act); (2) respond to governmental inquiries; (3) comply with valid legal process; (4) protect the rights or property of RWM, including without limitation, filing copyright applications with the Library of Congress, Copyright Office, or (5) protect the health and personal safety of any individual.
+-Website Usage Information. Website Usage Information is information that we collect, via anonymous third-party cookies, that tells us about the way you use and navigate through our websites.
 
-If you do not wish us to share your PII with our dealers or other third parties for marketing purposes, please submit your request in writing to:
+– This site uses proprietary analytics systems to help improve usability and the customer experience. We may record mouse clicks, mouse movements, scrolling activity, user agent, browser version, operating system, browser extensions installed, browser features enabled, and other non-personally identifiable behavioral and non-behavioral information. You can choose to disable these features by electing to use the private browser setting and/or disabling javascript. Note, that doing so will disable other features that this site may employ.
 
-RichWeb Media LLC
+**  Security Measures**
 
-ATTN: Privacy Policy Manager
+Clearlink Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.
 
-ADDRESS: Cypress Creek Executive Center  
-1451 W Cypress Creek Road, Suite 300  
-Ft. Lauderdale, FL 33309 
+**Use and sharing of customer information**
 
-EMAIL: info@broadbandexpert.com
+All of your Customer Information is used in an effort to process your orders and requests and to provide you with the products and services you desire. We may share your Customer Information with third parties in order to complete your purchases of products and services as described below. In addition, your Customer Information may be used and shared in an effort to present to you other special offers and promotions that may become available. The extent to which we use and share your Customer Information depends upon the nature of and purpose for which we use and share it. A summary of how we share your Customer Information with third parties is set forth as follows:
 
-**Non-Personally Identifiable Information**
+-With Third Party Product and Service Providers. We share your Customer Information, as needed, to the third parties who actually provide the products and services you request. We frequently act as a third party marketer and seller of various brand name products and services, and we provide these companies with the information necessary to carry out your orders. How these companies use your Customer Information, once we have passed it on to them, is governed by their respective privacy policies and procedures.
 
-RWM also collects certain non-personally identifiable information, including the non-personally identifiable information more fully described below.
+-With Third Party Advertisers. Although we never share your Private Customer Information with any third parties, except with the Third Party Product and Service Providers described above, we may share other types of your Customer Information with third party advertisers who are able to use that information to provide you with special offers or promotions. The ways in which such advertisers may subsequently use your Customer Information is governed by their own privacy policies and procedures. You may opt out from having us share your Customer Information with Third Party Advertisers by following the steps in the next section.
 
-_Cookies_. RWM may use “cookies” on the Site. Cookies are small pieces of information that RWM’s server places on an individual’s computer hard drive to enable the individual to more easily communicate and interact with the Site. For example, RWM may place a cookie on a User’s computer when he/she initially registers at the Site. The next time that User visits the Site, RWM’s server will recognize the cookie (and the User) and allow the User to perform certain actions immediately without signing in.
+-With Third Party Cookies. We allow third-parties to collect anonymous information when you visit our website and to use that information to serve ads for our products or services when you visit the other websites. These third-parties may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to our website in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.
 
-While some Web browsers allow a User to automatically reject all cookies or be notified when a cookie is about to be placed on the User’s computer, disabling this feature may compromise the efficiency and added services that cookies provide.
+**Opt-out Procedures**
 
-_IP Address_. RWM collects your IP (Internet Protocol) address to help diagnose problems with its server, and to administer the Site and RWM’s email messages to Site Users. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data.
+-Email Promotions. To opt out from receiving further email communications from us regarding other offers and promotions, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe.
 
-Although the information collected through the foregoing methods does not itself contain any PII, RWM may analyze and match such information with other information that you provide (including PII) as well as information that RWM may obtain elsewhere, and RWM may share all or some of such information with actual or prospective distributors, dealers, or other third parties.
+-Third Party Cookies. To opt-out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click here http://www.networkadvertising.org/choices/.
 
-RWM may also disclose non-PII in order to (1) comply with applicable laws, (2) respond to governmental inquiries, or (3) comply with valid legal process, or (4) protect the rights or property of RWM or Users of the Site. **Access to Information** If you want to review, correct or change your User information, please contact us at the address listed below.
+**Telemarketing**
 
-**Third Party Services**
+IMPORTANT – PLEASE READ: By providing your contact information, including your telephone number, on this Web site, you are expressly granting us permission to contact you even though you may have previously chosen to have your telephone number added to any Do-Not-Call List including lists maintained by us, or any local, state or federal government agency. In addition, your state may have laws that prevent us from calling you on your mobile/cellular telephone. If you use a mobile/cellular telephone as your primary means of communication, please call us toll-free in the U.S. and Canada at 1-800-580-5494.
 
-The Site may contain links from the Site to the websites of other providers of products and services. When you click on the icon of such an entity, you will leave the Site and be connected to the website of such entity. RWM does not have any control over the information handling practices of these other entities, and is not responsible for any failure of such entities to adhere to this Policy. You should familiarize yourself with the privacy policies of such other entities before you share any PII with those entities.
+**Changes to This Privacy Policy**
 
-**Links from Email**
+We will update this Privacy Policy from time to time to reflect changes in our business. If we change how we use your Customer Information or the purposes or entities for and to which we disclose your Customer Information we will post the policy change notification on our web site.
 
-RWM email communications with you may provide links to the websites of other third parties providing products and services that may be of interest to you. If you link to any of these third party websites, this Policy will not apply to your use of, and activities on, those websites. We encourage you to read the legal notices posted on these sites, including their privacy policies. RWM shall have no responsibility or liability for your visitation to, and the data collection and use policies and practices of, these other websites.
+**Access to information**
 
-**Note Concerning Individuals 18 Years of Age And Younger**
+Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clearlink Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
 
-The Site, RWM emails and the content available in connection therewith, are neither intended for, nor directed to, children under the age of 18. You must be at least 18 years old to have our permission to use our Site and to provide your PII to RWM. If RWM learns that a person who is a User is under the age of 18, RWM will promptly delete the individual’s PII from RWM’s records. RWM will NOT knowingly distribute such information to third parties.
+**If You Are a Resident of California or Delaware**
 
-**Security**
+If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties’ direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:
 
-While RWM takes reasonable precautions to safeguard information transmitted between RWM and Users of the Site, RWM may be unable to prevent unauthorized access to such information by third parties or inadvertent disclosure of such information. Users acknowledge this risk when communicating with RWM.
+  1. The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year 
 
-**Consent to Processing**
+The names and addresses of third parties that received such information: and
 
-By providing PII and other information to RWM, Users of the Site fully understand and unambiguously consent to the collection and processing of such information in, and the transfer of such information to, the United States and other countries or territories, in accordance with the terms of this Policy.
+3\. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.
 
-**Transfer in Certain Circumstances**
+4\. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com.
 
-In its sole discretion, RWM may transfer, sell or assign information collected on or about Users of the Site, including without limitation, PII and other User provided information, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of RWM.
 
-**Changes to This Policy**
 
-RWM may, from time to time, amend this Policy, in whole or part, in its sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy. By continuing to use the Site following any changes, you will be deemed to have agreed to such changes.
+
+The Effective Date hereto shall be August 25, 2016.
