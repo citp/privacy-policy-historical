@@ -1,15 +1,47 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616130458id_/http%3A//zeenews.india.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223042223id_/http%3A//zeenews.india.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Zee News
 
-[http://www.zeenews.com](http://www.zeenews.com/) wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
+**INFORMATION COLLECTION AND USE**
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make [http://www.zeenews.com](http://www.zeenews.com/) your service with your name all over it and give you just the content you need.
+ZeeNews.com wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
 
-Information collected online is often defined as being either anonymous or personally identifiable:
+Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like.
 
-  * Anonymous Information: Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route - but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.   
- 
-  * Personally Identifiable Information: Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, [ **http://www.zeenews.co** m](http://www.zeenews.com/) can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My [ **http://www.zeenews.com**](http://www.zeenews.com/) Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Zee Next Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you.
+The following is what we normally collect about you to help us provide you with our services, where we can:
+
+  1. Information on how you use our website, including details of your domain name and Internet Protocol address, operating system, browser, cookies, time spent on a page or content, and the route you took to navigate through the pages.
+
+  2. Other data, from time to time, to help us provide you with improved products and services.
+
+
+
+
+If you choose not to provide us with certain information we may not be able to provide you with a particular service.
+
+ZeeNews.com also automatically receives and records information on our server logs from your browser including your IP address, ZeeNews.com cookie information and the page you requested. In addition, when you use ZeeNews.com's services, you may make some of your personal information public.
+
+If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and ZeeNews.com will not be responsible for the use or misuse of such information. The main uses of your personal information are to verify your identity; to help provide our services; to administer those services; to enable us to review and improve our service to provide access to certain areas of the website; to personalise your visit to our Site; to run competitions and games and to assist with advertising and other revenue generation functions.
+
+The information we collect is also used to notify visitors about events, changes and other information about this Site. The information we collect is never shared with other organizations for commercial or other purposes.
+
+This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services and to send you newsletters and information (where you have agreed to this) about our products and services.
+
+We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include:
+
+  1. information about your use of this Site;
+
+  2. household classification data,
+
+  3. your responses to communications from us;
+
+  4. your interaction with other parts of the ZeeNews.com group;
+
+  5. information you provide when you register on a Site;
+
+  6. customer surveys;
+
+  7. information provided by other companies, where you gave them permission to share this information. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on "Use of Cookies" for further information).
+
 
 
