@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163352id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223030642id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
 
@@ -154,6 +154,9 @@ Below is the current list of official FAA social media accounts.
   * [FAA Facebook](https://web.archive.org/exit/?pageName=FAA%20Facebook&pgLnk=https%3A%2F%2Fwww%2Efacebook%2Ecom%2FFAA)
   * [FAA Twitter](https://web.archive.org/exit/?pageName=FAA%20Twitter&pgLnk=https%3A%2F%2Ftwitter%2Ecom%2FFAANews)
   * [FAA on YouTube](https://web.archive.org/exit/?pageName=FAA%20on%20YouTube&pgLnk=http%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fuser%2FFAAnews)
+  * [FAA on Flickr](https://web.archive.org/exit/?pageName=FAA%20on%20Flickr&pgLnk=https%3A%2F%2Fwww%2Eflickr%2Ecom%2Fphotos%2FFAANews)
+  * [FAA on Instagram](https://web.archive.org/exit/?pageName=FAA%20on%20Instagram&pgLnk=https%3A%2F%2Fwww%2Einstagram%2Ecom%2Ffaa%2F)
+  * [FAA on LinkedIn](https://web.archive.org/exit/?pageName=FAA%20on%20LinkedIn&pgLnk=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Ffaa)
 
 
 
