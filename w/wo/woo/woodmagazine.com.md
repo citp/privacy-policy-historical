@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627001105id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223100008id_/http%3A//www.meredith.com/policyMSO.html) for the most accurate reproduction.*
 
 # Meredith Privacy Policy
+
+Pursuant to a 10-year Licensing Agreement between Meredith Corporation (“Meredith”) and Martha Stewart Living Omnimedia, Inc. (“MSO”), Meredith operates and manages MarthaStewart.com, MarthaStewartWeddings.com, their related mobile applications and the print and electronic editions of the corresponding magazines (“MSO Properties.”) For the term of this Licensing Agreement, the Meredith Corporation privacy policy described and hyperlinked to below will apply to Meredith’s collection, use and disclosure of user information collected through the MSO Properties. During and after the term of the Licensing Agreement, MSO, its corporate parent, Sequential Brand Group, Inc., and their successor companies may also receive any user information collected through the MSO Properties for their use pursuant to their own respective privacy policies.
+
+Read this summary and our full updated privacy policy carefully so you understand what types of information Meredith collects about you, how we use and share that information and your related choices. In our most recent amendment, we’ve streamlined our postal address opt-out form and updated our description of how we share information with service providers.
 
 ## Quick Links
 
@@ -22,7 +26,7 @@ Please read this summary and our updated privacy policy carefully so you underst
 
 (As provided by California Civil Code Section 1798.83)
 
-California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond by providing instructions about how our users can prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions in the section of our Online Privacy Policy titled "How We Disclose Information and Your Related Opt-out Choices". Or, if you are a California resident and prefer that we send you a separate response, please email your request to [privacy@meredith.com](mailto:privacy@meredith.com)
+California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond by providing instructions about how our users can prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions in the section of our Privacy Policy titled "How We Disclose Information and Your Related Opt-out Choices". Or, if you are a California resident and prefer that we send you a separate response, please email your request to [privacy@meredith.com](mailto:privacy@meredith.com)
 
 More
 
@@ -95,7 +99,7 @@ _Effective Date: May 3, 2016_
 
 Welcome! This Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications provided by Meredith Corporation or our affiliates (collectively, "Meredith," "we" or "us") that include an authorized link or reference to this policy (collectively, the "Services"). Except as specified herein, this policy does not apply to information you may provide to us offline.
 
-By using any of our Services, you agree that this Online Privacy Policy and our [Visitor Agreement](https://web.archive.org/web/20160627001105id_/http%3A//www.meredith.com/Visitoragreement.html) govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
+By using any of our Services, you agree that this Privacy Policy and our [Visitor Agreement](https://web.archive.org/web/20161223100008id_/http%3A//www.meredith.com/Visitoragreement.html) govern your use of our Services and any dispute concerning the Services. Please take a few minutes to read them before using or registering to access our Services.
 
 This Policy describes our privacy practices regarding:
 
@@ -200,7 +204,7 @@ In addition, we and our authorized service providers generally use other informa
   * Measure and analyze visitor traffic and usage patterns and improve the quality and effectiveness of our content, features, advertisements, and other communications;
   * Conduct market or audience analysis and related reporting; 
   * Understand whether our users read email messages and click on links contained within those messages; 
-  * Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our [Visitor Agreement](https://web.archive.org/web/20160627001105id_/http%3A//www.meredith.com/Visitoragreement.html); 
+  * Prevent potentially prohibited or illegal activities, comply with applicable law and enforce our [Visitor Agreement](https://web.archive.org/web/20161223100008id_/http%3A//www.meredith.com/Visitoragreement.html); 
   * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
@@ -233,7 +237,7 @@ Keep in mind that any information that you choose to post to blogs, discussion f
 
 ### Legal Compliance, Business Transfers and Other Disclosures.
 
-Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Visitor Agreement](https://web.archive.org/web/20160627001105id_/http%3A//www.meredith.com/Visitoragreement.html), or protect the rights, property or safety of users of our Services, the public, Meredith Corporation, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates. 
+Notwithstanding anything to the contrary stated herein or within our Services, we may occasionally release information about users of our Services when we deem such release appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Visitor Agreement](https://web.archive.org/web/20161223100008id_/http%3A//www.meredith.com/Visitoragreement.html), or protect the rights, property or safety of users of our Services, the public, Meredith Corporation, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or on our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Meredith or our affiliates. 
 
 Return to top
 
@@ -277,7 +281,7 @@ Meredith Corporation provides you with the ability to access and edit certain pe
 
 Return to top
 
-We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our [Visitor Agreement](https://web.archive.org/web/20160627001105id_/http%3A//www.meredith.com/Visitoragreement.html) for more information related to posting materials on our Services including our use of such materials. 
+We use commercially reasonable procedures to protect the personally-identifying information that we collect. No security system is impenetrable, however. We cannot guarantee the security of our databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Please see our [Visitor Agreement](https://web.archive.org/web/20161223100008id_/http%3A//www.meredith.com/Visitoragreement.html) for more information related to posting materials on our Services including our use of such materials. 
 
 For the purposes set out in this Online Privacy Policy, personally-identifying information may be transferred to, processed, stored and accessed by us, our affiliates and our unaffiliated service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personally-identifying information. By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside. 
 
