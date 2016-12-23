@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612045326id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the.me privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223174923id_/http%3A//the.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THEME
 
@@ -36,7 +36,7 @@ Google, as a third party vendor, uses cookies to serve ads on [www.the.me](http:
 
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to [www.the.me](http://the.me/) and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://support.google.com/adsense/answer/1348695?hl=en).
 
 Some of our advertising partners may use cookies and Web beacons on our site. Our advertising partners include, among others:
 
