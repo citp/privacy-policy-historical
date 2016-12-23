@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161507id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223125327id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
 
 # EasyClosets Policies | EasyClosets
 
@@ -13,7 +13,7 @@ We stand behind our quality craftsmanship and proudly offer a Limited Lifetime W
 
 ### Additional Parts Policy
 
-We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our team at 800-910-0129 option 4 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
+We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our team at 1-800-218-2492 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
 
   
 
@@ -31,7 +31,7 @@ You may return new, uninstalled items within 30 days of delivery for a full refu
 
 If your order is returned to us because delivery was refused, then you will be responsible for the shipping cost to have the order shipping back to our manufacturing facility and we will also charge a 20% restocking fee. 
 
-A Return Material Authorization (RMA) must accompany all returns. Please call 1-800-910-0129 to request an RMA be sent to you via email.
+A Return Material Authorization (RMA) must accompany all returns. Please call 1-800-218-2492 to request an RMA be sent to you via email.
 
   
 
@@ -55,7 +55,7 @@ At EasyClosets, we take the privacy and security concerns consumers have when us
 EasyClosets uses secure socket layer (SSL) technology to keep your personal information safe. All of your ordering information (name, address and credit card number) is encrypted for maximum security. This prevents anyone from reading any of your information as it travels to our ordering system. To protect you even further, EasyClosets does not retain any credit card numbers within our ordering system. Approval is immediate and we do not add your credit card number to any of our databases. This forces you to re-enter your credit card number when you make a future purchase, but it also prevents anyone from gaining access to your information. 
 
 **Still Prefer to Order Via Phone**  
-If you prefer, we provide Customer Service support at 1-800-910-0129. Our representatives can view your shopping basket and design portfolio and complete the sale over the phone. 
+If you prefer, we provide Customer Service support at 1-800-218-2492. Our representatives can view your shopping basket and design portfolio and complete the sale over the phone. 
 
 **Your Credit Card Guarantee**  
 In addition to our guarantee and secure technology, our credit card partners offer programs to further protect you against any possible fraud when shopping online at EasyClosets.com. 
