@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the unknowncheats.me privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402205947id_/http%3A//www.unknowncheats.me/forum/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknowncheats.me privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223172930id_/https%3A//www.unknowncheats.me/forum/pp.html) for the most accurate reproduction.*
 
 # Unknowncheats™ - Privacy Policy Information
 
 **Privacy Policy Information**
 
 This Privacy Policy governs the manner in which Unknowncheats™ collects, uses, maintains and discloses information collected from users (each, a "User") of the [unknowncheats.me](http://www.unknowncheats.me/) website ("Site").
+
+### Your Acceptance of these Terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Changes to this Privacy Policy
+
+Unknowncheats™ has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ### Personal Identification Information
 
@@ -59,15 +67,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Children's Online Privacy Protection
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-### Changes to this Privacy Policy
-
-Unknowncheats™ has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-### Your Acceptance of these Terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Protecting the privacy of the very young is important, for that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 ### Contact
 
