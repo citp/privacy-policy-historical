@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghpage.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619081958id_/http%3A//www.ghpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghpage.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210528id_/http%3A//www.ghpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,8 +59,21 @@ Gh Page has the discretion to update this privacy policy at any time. When we do
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us on the form below. This document was last updated on 31st May,2016.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us ](http://www.ghpage.com/privacy-policy/)on any of the following channels. This document was last updated on 20th September,2016.
 
-####   This Privacy Policy governs the manner in which Gh Page collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ghpage.com/ website (“Site”).
+Email : [info@ghpage.com](mailto:info@ghpage.com)
 
-Read more at: http://ghpage.com/privacy-policy/
+Chief Editor: [tonikusi@ghpage.com](mailto:tonikusi@ghpage.com)
+
+Send news to : [news@ghpage.com](mailto:news@ghpage.com)
+
+  * **Facebook** :  [Ghpage.Com](https://web.facebook.com/officialghpage)
+  * **Twitter** : [GHPage](https://twitter.com/ghpage_com)
+  * **Instagram** : [GHPage•Com](http://instagram.com/ghpagedotcom)
+  * **Youtube Channel :[Ghana Page ](http://www.youtube.com/channel/UCoP6-47eI0_vPEdfaimOs9A)**
+
+
+
+You can also call us on these numbers :+233267312515 /+233203713877
+
+Or whatsapp us on +233244403336/+233245475186
