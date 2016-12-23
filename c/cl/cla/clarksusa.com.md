@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119034934id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223185741id_/http%3A//www.clarksusa.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Information - Clarks® Shoes
+# Privacy Policy Information - Clarks® Shoes Official Site
 
 C & J Clark America, Inc. and our family of brands, which include, but are not limited to Clarks, Bostonian, Privo, and Indigo (collectively known as "Clarks"), value and respect your individual privacy. As part of our commitment to providing exceptional products and services, we collect personal information during our interactions with you. The following privacy policy outlines what information we collect, how it is handled, and the steps we take to ensure that it remains protected.
 
@@ -36,7 +36,7 @@ If you would prefer not to accept cookies from our Sites or any others, you can 
 
 In addition to using cookies, we also gather non-personally identifiable "click stream" data and store it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information.
 
-Criteo: Clarks utilizes Criteo cookies for remarketing purposes. In particular, the Criteo technology allows Clarks to serve personalized advertisements on our partner websites to those internet users who have shown an interest in our Sites and products. To learn more about the Criteo service, or to opt out of receiving Criteo advertisements, please visit <http://www.criteo.com/privacy/>.
+Criteo: Clarks utilizes Criteo cookies for remarketing and email marketing purposes. The purpose of Criteo’s service is to find visitors to Criteo’s advertising clients’ properties in order to send them personalized emails or serve personalized ads. Criteo uses cookies to single out users and personalize ads from their browsing experience. To learn more or opt out of Criteo display: <http://www.criteo.com/privacy/>. To learn more or opt out of Criteo email: <http://privacy.criteoemail.com/privacy/policy>.
 
 **Third parties and your information**  
 Clarks does not sell, rent, trade, or otherwise share your personal information with third parties without first giving you advance notice, except as set forth in this privacy policy. We may disclose your information to third parties with whom you explicitly ask us to share your information, where it is permitted or required by law, and as it is necessary for business operation purposes.
@@ -63,8 +63,8 @@ When you sign up as a member of one of our Sites or make an online purchase, you
 
 Clarks Americas, Inc.  
 Attn: Retail Marketing  
-156 Oak Street  
-Newton Upper Falls, MA 02464.
+60 Tower Road  
+Waltham, MA 02451.
 
 Removal from our direct mail list may take up to ten business days from the time your request is received, during which time you may continue to receive marketing correspondence from Clarks. 
 
@@ -76,8 +76,8 @@ In accordance with California Civil Code Section 1798.83, Clarks customers who a
 
 Clarks Americas, Inc.  
 Attn: Retail Marketing  
-156 Oak Street  
-Newton Upper Falls, MA 02464
+60 Tower Road  
+Waltham, MA 02451
 
 Please include "Request for California Privacy" in the letter subject line. Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year. We will also provide you with the names and addresses of these third parties. Clarks reserves the right to not respond to requests sent more than once in a calendar year. Our disclosures are limited to the information covered by the law.
 
@@ -98,8 +98,8 @@ Online:  | [Click here to contact us](https://web.archive.org/us/contact-us)
 Phone:  | (800) 211-5461  
 U.S. Mail:  | Clarks Americas, Inc.  
 Attn: eCommerce  
-156 Oak Street   
-Newton Upper Falls, MA 02464  
+60 Tower Road  
+Waltham, MA 02451  
   
 This Privacy Policy applies only to the information collected by [www.clarksusa.com](http://www.clarksusa.com/)
 
