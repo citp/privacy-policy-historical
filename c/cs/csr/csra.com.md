@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172613id_/http%3A//www.csra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223085747id_/http%3A//www.csra.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CSRA Inc.
 
