@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616142347id_/http%3A//www.propertyforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertycommunity.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223171320id_/http%3A//www.propertyforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Investment Property Forum
+# Privacy Policy - Investment Property Forum
 
 This policy (together with our [terms of use](http://www.propertyforum.com/forum/faq.php?faq=terms#faq_termstext)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
