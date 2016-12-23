@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505035408id_/http%3A//www.k12reader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12reader.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223030545id_/http%3A//www.k12reader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reading Worksheets, Spelling, Grammar, Comprehension, Lesson Plans
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or professional role or other information required for contests or profile registration if applicable. You may, however, visit our site anonymously.
 
@@ -45,6 +45,12 @@ After a transaction, your private information (credit cards, social security num
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**3rd Party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org.
 
 **Do we disclose any information to outside parties?**
 
