@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the fatfreekitchen.com privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303215106id_/http%3A//www.fatfreekitchen.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreekitchen.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223030136id_/http%3A//www.fatfreekitchen.com/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+>
+
+## Disclaimer on Health/Medical Information
+
+The medical/health information or advice provided on the site is meant to complement and not replace any advice or information from a health professional. You should consult with a healthcare professional before starting any remedy, diet, exercise or any program/tip/advise suggested in this web site. Never disregard professional medical advice or delay in seeking it because of something you have read on this site!
+
+**The medical/health information or advice given on this web site is a general guidance only to general public, offered by non-medical professionals or organisations and is not intended as a substitute for advice from a physician or other health care professional. Do not use this information to diagnose or treat a health problem or disease without consulting a qualified health care professional. Any body using the information given in this web site is doing so at his own risk. You should not stop taking any medication without first consulting your physician. Please consult your Doctor.**  
+
+
+**Our Mission**
+
+It is our mission to provide general detailed authoritative information on various health topics to **general public**. The aim of the web site is to encourage the general public to lead a healthy living.
+
+These pages are designed to provide authoritative information in the areas of health & foods and are presented with the understanding that the authors and publisher are not rendering medical advice. It is the individual reader's obligation to evaluate their own medical needs, to determine for themselves whether specific medical advice is required, and where necessary to seek the services of a qualified health care professional. **You should consult with a healthcare professional before starting any remedy, diet, exercise or any program/tip/advise suggested in this web site. Never disregard professional medical advice or delay in seeking it because of something you have read on this site!**  
+
+
+## Our Privacy Policy : FatFreeKitchen.com
 
 **FatFreeKitchen.com** values your privacy as much as you do. The following discloses our information gathering and dissemination practices for this website. 
 
@@ -23,11 +41,7 @@ FatFreeKitchen.com does not hold any responsibility on links to the third party 
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age.
 
- **The information given on this web site is a general guidance only and is not intended as a substitute for advice from a physician or other health care professional. Do not use this information to diagnose or treat a health problem or disease without consulting a qualified health care professional. Any body using the information given in this web site is doing so at his own risk. You should not stop taking any medication without first consulting your physician. Please consult your Doctor.**  
-
-
-These pages are designed to provide authoritative information in the areas of health & foods and are presented with the understanding that the authors and publisher are not rendering medical advice. It is the individual reader's obligation to evaluate their own medical needs, to determine for themselves whether specific medical advice is required, and where necessary to seek the services of a qualified health care professional. **You should consult with a healthcare professional before starting any remedy, diet, exercise or any program/tip/advise suggested in this web site. Never disregard professional medical advice or delay in seeking it because of something you have read on this site!**  
-
+## Limitation of Liability
 
 FatFreeKitchen.com is in no way liable for any errors, omissions or inaccuracies of the information found on the FatFreeKitchen.com website. In addition, FatFreeKitchen.com is not liable for any decisions which may or may not be made based upon the information provided on the FatFreeKitchen.com website. FatFreeKitchen.com shall not be responsible for any reliance upon information provided by the its website.  
 
@@ -43,4 +57,4 @@ IP addresses are held temporarily in a log in order to track user traffic patter
 **External Links**  
 This site contains links to other sites on different pages. FatFreeKitchen.com is not responsible for the privacy practices or the content of such Web sites. 
 
-If you have any concern about this privacy statement or the practices of this site, please feel free to contact us.
+If you have any concern about this privacy statement or the practices of this site, please feel free to contact us at info@fatfreekitchen.com
