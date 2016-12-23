@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013627id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science.gov privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223091452id_/http%3A//www.science.gov/disclaimer.html) for the most accurate reproduction.*
 
 # Science.gov: Privacy and Security
 
@@ -43,7 +43,7 @@ This site employs the use of two separate types of cookies, session and persiste
 
 
 
-The federal government has [guidelines on the use of persistent cookies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) related to web measurement and tracking. The goals of the guidelines are to enable the useful functioning of federal websites while protecting individual privacy. 
+The federal government has [guidelines on the use of persistent cookies](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) related to web measurement and tracking. The goals of the guidelines are to enable the useful functioning of federal websites while protecting individual privacy. 
 
 This site does not automatically collect or store personal information in identifiable form about users. Certain non-personally identifiable information is collected and stored automatically via session cookies, including: 
 
@@ -82,19 +82,19 @@ Visitors to this site who have JavaScript enabled are by default anonymously tra
 
 
 
-Google Analytics data is shared with Google. For more information on Google's Privacy Policies, visit: <http://www.google.com/privacy.html>
+Google Analytics data is shared with Google. For more information on Google's Privacy Policies, visit: [http://www.google.com/privacy.html](https://www.google.com/privacy.html)
 
 The Office of Management and Budget (OMB) classifies the use of this type of technology as Tier 2 usage, since we are utilizing a multi-session web measurement technology that does not collect any personally identifiable information (PII). 
 
 The information collected by Google Analytics is used to optimize our website; helping us determine top tasks, improve our user interface, and diversify our content offerings to meet the needs of our customers. No personally identifiable information is collected, so the anonymity of the end user is protected. The measurement data that is collected is retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose job function requires it. 
 
-Users who do not wish to participate in these web measurement and tracking activities may visit <http://www.usa.gov/optout_instructions.shtml> for step-by-step instructions of how to opt-out. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at <http://tools.google.com/dlpage/gaoptout>. Please note that opting-out in no way affects your access to content withinthe site. 
+Users who do not wish to participate in these web measurement and tracking activities may visit [http://www.usa.gov/optout_instructions.shtml](https://www.usa.gov/optout_instructions.shtml) for step-by-step instructions of how to opt-out. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at [http://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). Please note that opting-out in no way affects your access to content withinthe site. 
 
 Users may choose to provide personal information containing comments or questions or to enable use of specialized site features. This information is only used to provideservice to the user or to respond to a user inquiry. 
 
 * ###  Copyright, Restrictions, and Permissions Notice
 
-This system is made available by an agency of the United States Government. Government information at DOE websites, including the OSTI site, is in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the Department of Energy be given appropriate acknowledgement. When using the OSTI website, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [fair use](http://www.copyright.gov/fls/fl102.html) as defined in the copyright laws requires the written permission of the copyright owners. 
+This system is made available by an agency of the United States Government. Government information at DOE websites, including the OSTI site, is in the public domain. Public domain information may be freely distributed and copied, but it is requested that in any subsequent use the Department of Energy be given appropriate acknowledgement. When using the OSTI website, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [fair use](https://www.copyright.gov/fls/fl102.html) as defined in the copyright laws requires the written permission of the copyright owners. 
 
 Images on our website which are in the public domain may be used without permission. If you use images from our website, we ask that you credit us as the source. Please note that some images on our site may have been obtained from other organizations. Permission to use these images should be obtained directly from those organizations. 
 
@@ -102,9 +102,9 @@ The OSTI website has links to many other websites. Once you access another site 
 
 * ###  Accessibility/Section 508
 
-The U.S. Department of Energy is committed to making its electronic and information technologies accessible to individuals with disabilities in accordance with [Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended in 1998](http://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508 "Section 508 details"). Send feedback or concerns related to the accessibility of this website to [DOE Section 508 Coordinator](mailto:DOESection508Coordinator@hq.doe.gov "DOE Section 508 Coordinator") mailbox. 
+The U.S. Department of Energy is committed to making its electronic and information technologies accessible to individuals with disabilities in accordance with [Section 508 of the Rehabilitation Act (29 U.S.C. 794d), as amended in 1998](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508 "Section 508 details"). Send feedback or concerns related to the accessibility of this website to [DOE Section 508 Coordinator](mailto:DOESection508Coordinator@hq.doe.gov "DOE Section 508 Coordinator") mailbox. 
 
-For more information about Section 508, please visit the [DOE Section 508 website](http://energy.gov/cio/department-energy-doe-and-section-508 "DOE Section 508 website"). 
+For more information about Section 508, please visit the [DOE Section 508 website](https://energy.gov/cio/department-energy-doe-and-section-508 "DOE Section 508 website"). 
 
   * #### Persons with Disabilities
 
@@ -130,35 +130,35 @@ Links are maintained with Websites and databases whose administration and operat
 
 * ###  Data Rights 
 
-Government information publicly accessible via the Web is in the public domain. Such information may be freely distributed and copied, but it is requested that in any subsequent use the appropriate Federal source be acknowledged. When using OSTI Websites, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [Fair Use](http://www.copyright.gov/fls/fl102.html) as defined in the copyright laws requires the written permission of the copyright owners. Outside Websites are not within the purview of the Federal government and data rights policies and practices of those Websites govern information contained therein. 
+Government information publicly accessible via the Web is in the public domain. Such information may be freely distributed and copied, but it is requested that in any subsequent use the appropriate Federal source be acknowledged. When using OSTI Websites, you may encounter documents, illustrations, photographs, or other information resources contributed or licensed by private individuals, companies, or organizations that may be protected by U.S. and foreign copyright laws. Transmission or reproduction of protected items beyond that allowed by [Fair Use](https://www.copyright.gov/fls/fl102.html) as defined in the copyright laws requires the written permission of the copyright owners. Outside Websites are not within the purview of the Federal government and data rights policies and practices of those Websites govern information contained therein. 
 
 * ###  Freedom of Information
 
-You may pursue the acquisition of information via the [Freedom of Information Act](http://www.usdoj.gov/oip/index.html) (FOIA). 
+You may pursue the acquisition of information via the [Freedom of Information Act](https://www.usdoj.gov/oip/index.html) (FOIA). 
 
-To access previously-released information requested under FOIA, go to the [Oak Ridge DOE Information Center](http://www.oakridge.doe.gov/external/Home/PublicActivities/DOEInformationCenter/tabid/126/Default.aspx). 
+To access previously-released information requested under FOIA, go to the [Oak Ridge DOE Information Center](https://www.oakridge.doe.gov/external/Home/PublicActivities/DOEInformationCenter/tabid/126/Default.aspx). 
 
 * ###  Information Quality
 
-As appropriate, this Website complies with [Guidance for Ensuringand Maximizing the Quality, Objectivity, Utility and Integrity of Information Dissemination by Federal Organization](http://www.whitehouse.gov/omb/fedreg/reproducible2.pdf) (161-KB PDF). 
+As appropriate, this Website complies with [Guidance for Ensuringand Maximizing the Quality, Objectivity, Utility and Integrity of Information Dissemination by Federal Organization](https://www.whitehouse.gov/omb/fedreg/reproducible2.pdf) (161-KB PDF). 
 
 * ###  No Fear Act
 
-As appropriate, this Website provides information in compliance with the ["No Fear" Act](http://www.energy.gov/diversity/services/protecting-civil-rights/no-fear-act). You may review [Government-wide data pertaining to the "No Fear" Act](http://www.eeoc.gov/eeoc/statistics/nofear/). 
+As appropriate, this Website provides information in compliance with the ["No Fear" Act](https://www.energy.gov/diversity/services/protecting-civil-rights/no-fear-act). You may review [Government-wide data pertaining to the "No Fear" Act](https://www.eeoc.gov/eeoc/statistics/nofear/). 
 
 * ###  Schedule for Posting Information
 
 Information is posted to this Website on an intermittent basis as it is made available from a wide variety of disparate sources, unless otherwise required by law. 
 
-* ###  [USAJOBS](http://www.usajobs.gov/)
+* ###  [USAJOBS](https://www.usajobs.gov/)
 
 USAJOBS is the official online, one-stop jobsite of the U.S. federal government. a wide variety of disparate sources, unless otherwise required by law. 
 
-* ###  [Grants](http://www.grants.gov/)
+* ###  [Grants](https://www.grants.gov/)
 
 Grants.gov is an online resource to find and apply for federal government grants. It is a central storehouse for information on over 1,000 grant programs and provides access to approximately $500 billion in annual awards. 
 
-* ###  [Regulations](http://regulations.gov/)
+* ###  [Regulations](https://regulations.gov/)
 
 Regulations.gov is an online resource for all regulations (or rulemakings) issued by U.S. government agencies. On this site, the following can be found: 
 
@@ -167,6 +167,6 @@ Regulations.gov is an online resource for all regulations (or rulemakings) issue
   * Additional supporting materials, public comments, and Federal agency guidance and adjudications. 
 
 
-* ###  [USA.gov](http://www.usa.gov/)
+* ###  [USA.gov](https://www.usa.gov/)
 
-USA.gov is an interagency initiative administered by the [U.S. General Services Administration](http://www.gsa.gov/portal/category/100000). The site provides official information and services from the U.S. government. 
+USA.gov is an interagency initiative administered by the [U.S. General Services Administration](https://www.gsa.gov/portal/category/100000). The site provides official information and services from the U.S. government. 
