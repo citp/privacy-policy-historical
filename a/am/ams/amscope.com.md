@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amscope.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615010336id_/http%3A//www.amscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amscope.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223113113id_/https%3A//www.amscope.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Privacy Notice
+## **Privacy Notice**
 
 Effective Date: October 8, 2014
 
@@ -24,7 +24,7 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Your Access to and Control Over Information
+ **Your Access to and Control Over Information**
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number provided on our website:
 
@@ -35,15 +35,15 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-Security
+**Security**
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (e.g, billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (e.g., billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a secure environment.
 
-Notification of Changes
+ **Notification of Changes**
 
 United Scope LLC reserves the right, at its sole discretion, to change, modify, add or remove portions of this Online Privacy Policy at any time. Accordingly, United Scope LLC recommends that you revisit this Online Privacy Policy from time to time to ensure that you are aware of the current privacy practices. Your continued use of the web site following any changes signifies your acceptance of these changes.
 
