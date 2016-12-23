@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinarguru.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525212710id_/http%3A//www.dinarguru.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinarguru.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223021901id_/http%3A//www.dinarguru.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy - Dinar Guru
 
