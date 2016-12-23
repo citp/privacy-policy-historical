@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ad-flow.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205121306id_/http%3A//www.suite66.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-flow.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223122724id_/http%3A//www.suite66.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Suite66
+# Suite 66 - Privacy Policy
 
 Suite 66 strongly believes in a consumer's right to privacy. All web user data collected by Suite 66 as part of the ad serving process is not personally identifiable (browser type, for example) and is used in aggregate form. Suite 66 does not conduct individual web user "profiling".
 
@@ -32,7 +32,7 @@ While advertisements that users see are purely interest-based and non-personal, 
 
 Consumers who are interested in learning more about interest-based (behavioural) advertising and also set their opt-out preferences can visit The Digital Advertising Alliance of Canada's opt-out page here: [http://youradchoices.ca/choices](http://youradchoices.ca/choices)
 
-Additionally, you may click [here](https://web.archive.org/web/20151205121306id_/http%3A//www.suite66.com/optout.html) to opt out of data collection and behaviourally targeted advertising from Suite 66. You will still continue to receive online advertisements from Suite 66 but these may not be relevant to you. Note that if you switch browsers, or to computers/devices where your browser settings are not automatically synchronized, you will need to complete the opt-out process each time. Finally, your browser settings must have cookies enabled and allow 3rd party cookies for the opt-out mechanism to work correctly. 
+Additionally, you may click [here](https://web.archive.org/web/20161223122724id_/http%3A//www.suite66.com/optout.html) to opt out of data collection and behaviourally targeted advertising from Suite 66. You will still continue to receive online advertisements from Suite 66 but these may not be relevant to you. Note that if you switch browsers, or to computers/devices where your browser settings are not automatically synchronized, you will need to complete the opt-out process each time. Finally, your browser settings must have cookies enabled and allow 3rd party cookies for the opt-out mechanism to work correctly. 
 
 #######  Accessible Customer Service Feedback Process
 
