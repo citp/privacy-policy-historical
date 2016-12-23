@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crossmark.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316195258id_/http%3A//www.crossmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossmark.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223140348id_/http%3A//www.crossmark.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CROSSMARK
+# Privacy Policy
 
 The purpose of this Online Privacy Statement is to inform you about the types of information we gather online about you when you visit crossmark.com (“our Site”), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information. This Online Privacy Statement may change from time to time, so please check back periodically. This Statement will explain the following regarding the treatment of data collected on our Site:
 
