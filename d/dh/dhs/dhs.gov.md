@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413005130id_/https%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhs.gov privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223010501id_/https%3A//www.dhs.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Homeland Security
+# Website Privacy Policy | Homeland Security
 
-Thank you for visiting the Department of Homeland Security online and reviewing our website privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction. PII includes information that is personal in nature and which may be used to identify you.  You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
+Thank you for visiting the Department of Homeland Security online and reviewing our website privacy policy. Our privacy policy explains how we handle the personally identifiable information (PII) that you provide to us when you visit us online to browse, obtain information, or conduct a transaction.
+
+PII includes information that is personal in nature and which may be used to identify you.  You may provide PII to us when you send us an e-mail message or a request for information, when you fill out a questionnaire or customer satisfaction survey, when you participate in a research study, etc. We do not require you to register or provide PII to visit our website. We do collect some technical information that does not include PII when you visit to make your visit seamless. The section below explains how we handle and collect information when you visit www.dhs.gov.
 
 The PII you provide on a Department website will be used only for the purpose for which you provided it. We will protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm), the [E-Government Act of 2002](http://www.it.ojp.gov/default.aspx?area=privacy&page=1287#contentTop), and the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/).
 
-### Personally Identifiable Information
+## Privacy Policy Contact Information
+
+We welcome feedback if you have any questions regarding our privacy policy or the use of your information.  Any additional privacy questions should be directed to the [DHS Privacy Office](https://web.archive.org/privacy).  The Department’s privacy compliance materials are available at [Privacy Impact Assessments (PIA)](https://web.archive.org/privacy-impact-assessments) and [Systems of Records Notices (SORN)](https://web.archive.org/system-records-notices-sorns).  For additional information about our Privacy Policy, or for general privacy inquiries, please contact us at [privacy@dhs.gov](mailto:privacy@dhs.gov), 202-343-1717 or mail us at:
+
+Department of Homeland Security  
+Washington, D.C. 20528  
+Attn: Privacy Office
+
+## Personally Identifiable Information
 
 As a general rule, the Department does not collect PII about you when you visit our website, unless you choose to provide such information to us. Submitting PII through our website is voluntary. By doing so, you are giving the Department your permission to use the information for a specific, stated purpose. However, not providing certain information may result in the Department’s inability to provide you with the service you desire.
 
@@ -33,13 +43,13 @@ For the general contact information that may be submitted through [www.dhs.gov](
 
 
 
-### Email Communications
+## Email Communications
 
 Many of our programs and websites allow you to send us email messages. We will use the information you provide to respond to your inquiry. We will only send you general information via email. You should be reminded that email may not necessarily be secure against interception. Therefore, we suggest that you do not send sensitive PII (such as your Social Security number) to us via email. If your intended email communication is sensitive, e.g., it includes information such as your bank account, charge card, or Social Security number, you should instead send it by U.S. mail. Another alternative may be submission of data through a secure program website, if available.
 
 Electronic mail messages that meet the definition of records in the [Federal Records Act](http://www.archives.gov/records-mgmt/laws/) (44 U.S.C. § 3101) are covered under the same disposition schedule as all other Federal records. This means that emails you send us will be preserved and maintained for varying periods of time if those emails meet the definition of Federal records. Electronic messages that are not records are deleted when no longer needed.
 
-### Information Collected and Stored Automatically
+## Information Collected and Stored Automatically
 
 When you browse through any website, certain information about your visit can be collected. We automatically collect the following types of information about your visit:
 
@@ -64,7 +74,7 @@ The Department’s staff conducts, analyses and reports on the aggregated data f
 
 The Department retains the data from Google Analytics, and Survey Monkey survey results only as long as required by law or needed to support the mission of the DHS websites.
 
-### How the Department Uses Cookies
+## How the Department Uses Cookies
 
 The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) allows Federal agencies to use session and persistent cookies.
 
@@ -84,7 +94,7 @@ If you do not wish to have session or persistent cookies stored on your machine,
 
 For additional information about the Department’s use of Google Analytics, please see our privacy impact assessment, DHS/ALL/PIA-033 [Google Analytics](https://web.archive.org/publication/privacy-policy) (June 9, 2011).
 
-### Third-Party Websites and Applications
+## Third-Party Websites and Applications
 
 The Department uses social media websites and other kinds of third-party websites. The Department uses social media websites to engage in dialogue, share information and media, and collaborate with the public.  The Department may also use these websites to make information and services widely available, while promoting transparency and accountability, as a service for those seeking information about or services from the Department. The privacy policies for approved social media platforms are linked to the right of this privacy policy.  The Department has also published two Privacy Impact Assessments detailing the Department use of social media:
 
@@ -95,7 +105,7 @@ The Department uses social media websites and other kinds of third-party website
 
 The Department does not use third-party websites to solicit and collect PII from individuals. Any PII collected by the third-party website will not be transmitted or stored by the Department; no PII will be disclosed, sold or transferred to any other entity outside the Department, unless required for law enforcement purposes or by statute consistent with the Privacy Act.
 
-### Site Security
+## Site Security
 
 The Department takes the security of all PII very seriously. We take precautions to maintain the security, confidentiality, and integrity of the information we collect at this site. Such measures include access controls designed to limit access to the information to the extent necessary to accomplish our mission. We also employ various security technologies to protect the information stored on our systems. We routinely test our security measures to ensure that they remain operational and effective.
 
@@ -105,18 +115,10 @@ The Department takes the security of all PII very seriously. We take precautions
 
 
 
-### Interaction with Children Online
+## Interaction with Children Online
 
 The Department is committed to the protection of children’s online privacy. The Children’s Online Privacy Protection Act (COPPA) governs information gathered online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under age 13. If a Department website intends to collect information from children under 13 years old, COPPA-required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
 
-### Visiting Other Websites
+## Visiting Other Websites
 
 Our website contains links to international agencies, private organizations, and some commercial entities. These websites are not within our control and may not follow the same privacy, security, or accessibility polices. Once you link to another site, you are subject to the policies of that site. All Federal websites, however, are subject to the same Federal policy, security, and accessibility mandates.
-
-### Privacy Policy Contact Information
-
-We welcome feedback if you have any questions regarding our privacy policy or the use of your information.  Any additional privacy questions should be directed to the [DHS Privacy Office](https://web.archive.org/privacy).  The Department’s privacy compliance materials are available at [Privacy Impact Assessments (PIA)](https://web.archive.org/privacy-impact-assessments) and [Systems of Records Notices (SORN)](https://web.archive.org/system-records-notices-sorns).  For additional information about our Privacy Policy, or for general privacy inquiries, please contact us at [privacy@dhs.gov](mailto:privacy@dhs.gov), 202-343-1717 or mail us at:
-
-Department of Homeland Security  
-Washington, D.C. 20528  
-Attn: Privacy Office
