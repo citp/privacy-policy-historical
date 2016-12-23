@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622035936id_/http%3A//hybris.com/en/disclaimer/hybris-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybris.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223120807id_/http%3A//hybris.com/en/disclaimer/hybris-privacy-statement) for the most accurate reproduction.*
 
 # SAP Privacy Statement | SAP Hybris
 
