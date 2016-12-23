@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608225109id_/https%3A//www.coinstar.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223174807id_/https%3A//www.coinstar.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Coinstar.com
+# Privacy Policy | Coinstar and Coinstar Exchange
 
 ### Last Updated: April 20, 2015
 
