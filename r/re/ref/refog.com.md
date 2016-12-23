@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317025550id_/https%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223232741id_/https%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
 
 # REFOG Privacy Policy
 
 ## A. INTRODUCTION
 
-PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE. BY CONTINUING TO USE REFOG, INC. WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS REFOG’S PRIVACY POLICY. Your use of the REFOG Website and any services and software provided therein, including any dispute concerning privacy, is subject to this Privacy Policy. By using the REFOG’s Website, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the REFOG’s Website following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE. BY CONTINUING TO USE Refog WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS REFOG’S PRIVACY POLICY. Your use of the REFOG Website and any services and software provided therein, including any dispute concerning privacy, is subject to this Privacy Policy. By using the REFOG’s Website, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the REFOG’s Website following posting of the updated Privacy Policy will constitute your acceptance of the changes.
 
-This privacy statement was last updated on 08 February, 2010. REFOG, Inc. and its affiliates (collectively, “REFOG”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Website, www.refog.com (the “Website”).
+This privacy statement was last updated on 08 February, 2010. Refog and its affiliates (collectively, “REFOG”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Website, www.refog.com (the “Website”).
 
 Upon reading this privacy statement, you will be informed regarding the following:
 
@@ -141,4 +141,4 @@ Please note that if you provide REFOG with inconsistent privacy preferences (for
 
 Please note that REFOG does not collect any credit card information unless and until you provide such information in connection with your payment for REFOG’s paid services. REFOG will never contact you to ask you for your credit card data or other personal information via e-mail, phone etc.
 
-Copyright © 2010 REFOG, Inc. All rights reserved.
+Copyright © 2010 Refog All rights reserved.
