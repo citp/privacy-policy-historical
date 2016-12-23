@@ -1,54 +1,107 @@
-> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526054842id_/http%3A//www.rocawear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224000708id_/http%3A//rocawear.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Rocawear :: Privacy Policy
 
-PRIVACY POLICY  
-Iconix Brand Group, Inc., its affiliates and subsidiaries (“Iconix” or, collectively, “us,” “we” or “our”), operate this website (the “Site”). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.  
-I. WHAT INFORMATION IS COLLECTED AND WHY  
-a. Information submitted by you  
-At times, we may ask you to provide information about yourself in order to better serve you. For example, some of the information collected may include name, title, address, phone number, email address, and personal information concerning your interests, occupation, gender and other demographic information. We do not require this information to obtain access to any area of our Site, however, you are required to create a new account or login as a registered user prior to ordering any products on our Site. If you wish to correct or remove your account information please follow the procedures set forth below in the section titled “Can I Update or Remove My Account Information?”  
-b. Information collected by Cookies  
-We also make use of website “cookies” to help you use our services more easily and to help us continuously improve our Site and our service to you. A “cookie” is a small data file that a website can send to your browser, which may then be stored on your computer to help our Site “remember” information about you to make it easier and more efficient to use our Site. Our Site employs session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain none of your personal information and cannot be used to track you around the internet. Our session cookies can only be used by this Site and they only exist for the duration of your visit. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Site or restrict us in better serving your needs and interests. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  
-II. HOW IS MY INFORMATION USED?  
-a. User Identification  
-For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.  
-b. Contacting You Concerning Promotions and New Products  
-We may request you to “opt-in” to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled How Can I “Opt-out” of Receiving E-mail Communications. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.  
-c. Use of Your Information  
-At times, we may request you to provide personally identifiable information to identify you as a user of the Site and to assist and speed the completion of transactions on the Site. We may also use information collected about your preferences and activities at the Site, such as the particular pages you request at the Site and purchases or other transactions you effect through the Site. We may vary the content you receive in future visits to the Site based on your preferences and activities.  
-d. Disclosure of Your Information  
-We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless:  
-(i) You have been given an opportunity to “opt-in” and have agreed to opt-in to such disclosure of your information;  
-(ii) We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request; or  
-(iii) We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.  
-e. Disclosure of Aggregate Information  
-We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users’ information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business.  
-f. How Can I “Opt-out” of Receiving E-mail Communications?  
-If you do not wish to receive email messages from us, please choose “unsubscribe” from within the email that you receive.  
-III. WHAT WE DO TO KEEP THIS SITE SECURE  
-a. Security  
-We employ procedural and technical safeguards to secure your personal information against loss, theft, alteration, and unauthorized access, use and disclosure. Any information you enter on our accounts setup page is encrypted before transmission to our server by using 128-bit Secure Sockets Layer encryption software. You can safely enter your credit card and personal registration information and it cannot be read in transit to our server. We also employ many security procedures to protect your information from unauthorized access by users inside and outside the company.  
-Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.  
-What You Can Do To Protect Your Information?  
-(i) Use only secure websites when disclosing your information. Secure pages begin with “https”.  
-(ii) Avoid using easy to figure out access and personal ID (PIN) codes.  
-(iii) Never respond to unsolicited requests for your social security number or financial information.  
-(iv) Do not disclose your passwords to the Site or your account information to any other person.  
-(v) Be sure to sign off when finished using a shared computer.  
-b. Hypertext Links  
-Our Site may contain “links” to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites’ policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.  
-IV. INFORMATION FROM PERSONS UNDER THE AGE OF 13  
-NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/topics/kids-privacy.aspx) for tips from the Federal Trade Commission on protecting kids’ privacy online.  
-We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at [info@iconixbrand.com](mailto:info@iconixbrand.com) and we will remove such information from our database. If you are concerned about your children’s use of the Site, you may use web filtering technology to supervise or limit access to the Site.  
-V. YOUR CALIFORNIA PRIVACY RIGHTS (As provided by California Civil Code Section 1798.83)  
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes (“California customer”) is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.  
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
+EFFECTIVE TIME: March, 2016.
 
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure — typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy Policy of any party that collects your information to determine how that entity will handle your information.  
-California customers may request further information about our compliance with this law by e-mailing info@iconixbrand.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.   
-a. Limitation of Liability  
-IN NO EVENT SHALL WE BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT OR SPECIAL DAMAGES, (INCLUDING LOST PROFITS) WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE LIMITATIONS SET FORTH IN THIS PARAGRAPH MAY NOT APPLY TO YOU. IF THE FOREGOING LIMITATIONS ARE HELD INAPPLICABLE OR UNENFORCEABLE FOR ANY REASON, THEN THE MAXIMUM LIABILITY OF US TO YOU FOR ANY TYPE OF DAMAGES SHALL BE LIMITED TO THE GREATER OF THE ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS OFFERED ON THE WEBSITE OR U.S. $100.00.  
-b. Miscellaneous  
-The Privacy Policy for the Site established by us constitutes ours and your entire understanding with respect to the use of the Site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable. This Privacy Policy shall be construed in accordance with the laws of the State of New York, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in New York County, New York State. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy P9olicy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.  
-VII. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY  
-We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time. 
+Rocawear Online Store (“we”) operates the web site located at http://www.rocawear.com (the “Web Site”). We recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
+
+PLEASE READ THIS PRIVACY POLICY CAREFULLY, AND IF YOU HAVE ANY QUESTIONS, PLEASE FEEL FREE TO CONTACT US. BY VISITING THE WEB SITE, YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION AS OUTLINED IN THE PRIVACY POLICY.
+
+## When do we collect information?
+
+We may collect information about you anytime you interact with us such as when you (i) access or browse the Web Site, (ii) order products or services through the Web Site, (iii) communicate with us either by e-mail, over the telephone or in any other manner, (iv) elect to participate in any of our product promotions, and (v) request information about products and services.
+
+## What information do we collect? 
+
+Information we collect is generally of two types—personally identifiable information and non-personally identifiable information.
+
+Personally identifiable information comprises any information that can help us identify or locate an individual, including, without limitation, an individual’s name, address, e-mail address, telephone number and credit card number.
+
+Non-personally identifiable information comprises information that does not by itself identify an individual. This information generally includes anonymous information about an individual’s use of the Website that includes, among other things, information concerning date and time of visit, the pages of the Website visited, path through the Website, IP address, the type of browser and operating system used.
+
+## What do we use your information for? 
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+  * **To personalize your experience**  
+(your information helps us to better respond to your individual needs)
+
+  * **To improve the Web Site**  
+(we continually strive to improve the Web Site offerings based on the information and feedback we receive from you)
+
+  * **To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+  * **To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+  * **To send periodic emails**  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+
+
+
+
+**Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+## How do we protect your information? 
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+## Do we use cookies? 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+## Do we disclose any information to outside parties? 
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Web Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third Party Links 
+
+Occasionally, at our discretion, we may include or offer third party products or services on the Web Site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of the Web Site and welcome any feedback about these sites.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of the Web Site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+## Children’s Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+As a parent or guardian you can request us to remove personal information of your child that was submitted without your consent or by misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database. All such requests should include the same user name, password, and e-mail address that your child submitted and should be sent to [customerservice@rocawear.com](mailto:customerservice@rocawear.com).
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through the Web Site and not to information collected offline.
+
+## Terms and Conditions 
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of the Web Site.
+
+## Integrity
+
+During the account sign-in process you can review, change or remove the information you have submitted. We aim to keep our information about you as accurate as possible and encourage you to promptly update your information if it changes. You may, at any time, access your information to update, modify or delete any inaccuracies by accessing your account through the Web Site. You may also request us to remove your account information from our databases and we will try to remove as much information as possible. However, as we generally keep information related to past transactions for our records, we will not be able to completely remove your information.
+
+## Changes to our Privacy Policy 
+
+We may change our policy at any time by posting a new version of it on the Web Site. We encourage you to check the Web Site regularly for information about revisions to this Privacy Policy. In the event that we change our Privacy Policy, such changes will affect all of the information we collect after any such change. If you object to the change to our Privacy Policy, then you must contact us in writing regarding your objection.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+Rocawear Online Store  
+Attn: Privacy Policy  
+946 W. 17th Street  
+Costa Mesa, CA 92627  
+USA 
