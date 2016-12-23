@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revitaliseyourhealth.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100945id_/http%3A//www.revitaliseyourhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revitaliseyourhealth.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223113930id_/http%3A//www.revitaliseyourhealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy >>> RevitaliseYourHealth.com
 
