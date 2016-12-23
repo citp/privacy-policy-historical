@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnersdictionary.com privacy policy that was archived on 2016-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160530134321id_/http%3A//www.learnersdictionary.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnersdictionary.com privacy policy that was archived on 2016-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223215320id_/http%3A//learnersdictionary.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US" class=" js audio"><head>
         <!--SEO-related tags: title, keywords, description-->
@@ -12,7 +12,7 @@
         <meta property="fb:app_id" content="177288989106908">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+        
         <!--Opensearch link-->
         <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="M-W Learner's Dictionary">
 
@@ -34,28 +34,50 @@
         <link href="/css/shared/resets.0001.css" type="text/css" rel="Stylesheet" charset="utf-8">
 
         <!-- TEMPLATE CSS (both mobile + desktop)-->
-        <link href="/css/main_template.0016.css" type="text/css" rel="Stylesheet" charset="utf-8">
+        <link href="/css/main_template.0017.css" type="text/css" rel="Stylesheet" charset="utf-8">
 
         <!--MODERNIZR-->
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/vendor/modernizr.2.7.1/modernizr.custom.95871.js"></script>
+        <script id="LOTCC_6936" src="//tags.crwdcntrl.net/c/6936/cc.js?ns=_cc6936"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/vendor/modernizr.2.7.1/modernizr.custom.95871.js"></script>
+        
+        <!--JS config-->
+        <script type="text/javascript">
+          window.mwdata = {};
+          window.mwdata.assetsDomain1 = 'http://assets.merriam-webster.com';
+          window.mwdata.assetsDomain2 = 'http://assets2.merriam-webster.com';
+          window.mwdata.env           = 'production';
+          window.mwdata.ads           = {"ad_slot_top":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-1","defSizes":[[728,90]],"targeting":[["POS",["TOP"]]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,100],"ads":[[728,90]]}]}},"ad_slot_left":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-2","defSizes":[[160,600]],"targeting":[["POS",["TOP"]]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,100],"ads":[[160,600]]}]}},"ad_slot_right_top":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-3","defSizes":[[300,250]],"targeting":[["POS",["TOP"]]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,100],"ads":[[300,250]]}]}},"ad_slot_right_bottom":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-4","defSizes":[[300,250]],"targeting":[["POS",["BOT"]]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,100],"ads":[[300,250]]}]}},"ad_slot_bottom":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-5","defSizes":[[728,90]],"targeting":[["POS",["BOT"]]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[[728,90]]}]}}};
+          window.mwdata.ads2          = [];
+          window.mwdata.gatReady      = false;
+          window.mwdata.gatQueue      = [];
+          window.mwdata.tagsPrepped   = [];
+          window.mwdata.gTagReady     = false;
+          window.mwdata.dfpSvcUp      = false;
+          window.mwdata.adsBlacklist  = [];
+          window.mwdata.adsWhitelist  = null;
+        </script>
 
         <!-- JS -->
         <script src="/vendor/requirejs.2.1.6/require.min.js"></script>
         <script type="text/javascript">
-            /*
-             * The reason I use js for path construction here - Google reports crawl errors while
-             * parsing out AMD paths from this JS chunk that it was never supposed to parse in the first place. :-(
-             */
+            //The reason I use js for path construction here - Google reports crawl errors 
             var vnd = '/vendor/';
             var fwdsl = '/';
             requirejs.config({
 
                 enforceDefine: false,
                 paths: {
-                    //mine AMDs
-                    'auth_messages':     '/js/auth/assign_errors.0002',
+                    //Our modules
+                    'auth_messages':     '/js/lib/assign_errors.0002',
+                    'adProcessor':       '/js/lib/adProcessor.0001',
+                    'ads2Refresher':     '/js/lib/ads2Refresher.0001',
+                    'uniqueId':          '/js/lib/uniqueId.0001',
+                    'dynScript':         '/js/lib/dynScript.0001',
+                    
+                    'main':              '/js/components/main.0001',
+                    'facebookApi':       '/js/components/facebookApi.0001',
+                    'search':            '/js/components/search.0001',
 
-                    //other AMDs (those I don't merge in - as they're updated independently)
+                    //Vendor modules
                     "jquery":            vnd + 'jquery.1.10.2' + fwdsl + 'jquery.min',
                     "jquery.jqueryui":   vnd + 'jquery-ui-1.10.3.custom' + fwdsl + 'js' + fwdsl + 'jquery-ui-1.10.3.custom.min',
                     "underscore":        vnd + 'lodash_1.2.1'  + fwdsl + 'lodash.min',
@@ -64,9 +86,9 @@
                     "jquery.blockui":    vnd + 'blockui_2.6.1' + fwdsl + 'jquery.blockUI',
                     "bowser":            vnd + 'bowser.0.3.1'  + fwdsl + 'bowser.min',
                     "jquery.cookie":     vnd + 'jquery_cookie_1.4.0' + fwdsl + 'jquery.cookie',
+                    'matchMedia':        '/vendor/match-media/matchMedia',
 
                     //non-AMDs
-                    'dfpTagApi':         '//www.googletagservices.com/tag/js/gpt',
                     "twitter":           '//platform.twitter.com/widgets',
                     "jquery.cycle2":     vnd + 'cycle2' + fwdsl + 'jquery.cycle2.20130909.min',
                     "jquery.rrssb":      vnd + 'rrssb.1.6.0' + fwdsl + 'js' + fwdsl + 'rrssb.min'
@@ -80,210 +102,43 @@
                 }
             });
         </script>
-
-        <!-- Lotame -->
-        <script type="text/javascript" src="http://tags.crwdcntrl.net/c/6936/cc.js?ns=_cc6936" id="LOTCC_6936"></script>
-        <script type="text/javascript" language="javascript">_cc6936.bcp();</script>
-
-        <!--ADs-->
-        <script type="text/javascript">
-    // Define the command queue to be able to issue tagging commands
-    // before the actual JavaScript library loads.
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-
-    // Load the library, asynchronously.
-    (function() {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
- </script>
-     <script type="text/javascript">
-        (function() {
-            var src = '//merriamwebster-d.openx.net/w/1.0/jstag?nc=34444486-LearnersDictionary';
-            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-        })();
-    </script><script src="//merriamwebster-d.openx.net/w/1.0/jstag?nc=34444486-LearnersDictionary"></script>
-        <!--LOAD ADVERTISEMENTS-->
-<script type="text/javascript">
-    var ads = {"ad_slot_top":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-1","width":"728","height":"90","targeting":[["POS",["TOP"]]],"sizes":{"0,0":["728,90"]}}},"ad_slot_left":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-2","width":"160","height":"600","targeting":[["POS",["TOP"]]],"sizes":{"0,0":["160,600"]}}},"ad_slot_right_top":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-3","width":"300","height":"250","targeting":[["POS",["TOP"]]],"sizes":{"0,0":["300,250"]}}},"ad_slot_right_bottom":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-4","width":"300","height":"250","targeting":[["POS",["BOT"]]],"sizes":{"0,0":["300,250"]}}},"ad_slot_bottom":{"type":"google_dfp","data":{"slot":"\/34444486\/Learners_Dictionary\/GEN","id":"div-gpt-ad-123311533973704640-5","width":"728","height":"90","targeting":[["POS",["BOT"]]],"sizes":{"767,200":["728,90"],"0,0":["320,50"]}}}};
-    window.gptadslots = [];
-    
-    //ads loaded in mobile or desktop mode - inbdicators
-    window.adsLoadedD = false;
-    window.adsLoadedM = false;
-    
-    if (ads !== null) {
-        /*
-         * Determine what types of ad-networks are present.
-         */
-        var googleDfpAdsPresent = false;
-        for (var adHolderDivId in ads) {
-            if (ads.hasOwnProperty(adHolderDivId)) {
-                var adEntry = ads[adHolderDivId];
-                if (adEntry.type === 'google_dfp') {
-                    googleDfpAdsPresent = true;
-                }
-            }
-        }
         
-        /*
-         * Load google ads if they're present
-         */
-        var loadDfpAds= function(isDesktop) {
-            googletag.cmd.push(function() {
-                for (var adHolderDivId in ads) {
-                    var adEntry = ads[adHolderDivId];
-                    
-                    //DFP type
-                    if (adEntry.type === 'google_dfp') {
-                        
-                        //Load all slots in desktop, only bottom slot in mobile
-                        if (isDesktop || (!isDesktop && (adHolderDivId === 'ad_slot_bottom'))) {
-                            // Creating a slot
-                            gptadslots[adHolderDivId] = googletag.defineSlot(adEntry.data.slot, [parseInt(adEntry.data.width), parseInt(adEntry.data.height)], adEntry.data.id);
-                            
-                            // Adding targets to a slot
-                            if (typeof adEntry.data.targeting !== 'undefined') {
-                                for (var i = 0; i < adEntry.data.targeting.length; i++) {
-                                    var currentTarget = adEntry.data.targeting[i];
-                                    var targetingType = currentTarget[1];
-                                    if (targetingType !== null) {
-                                        gptadslots[adHolderDivId].setTargeting(currentTarget[0], targetingType);
-                                    }
-                                }
-                            }
-                            
-                            // Adding responsive mappings to a slot
-                            var mapping = googletag.sizeMapping();
-                            for (var key in adEntry.data.sizes) {
-                                if (adEntry.data.sizes.hasOwnProperty(key)) {
-                                    var browserSize = key.split(",");//w,h
-                                    for (var i = 0; i < adEntry.data.sizes[key].length; i++) {
-                                        var adSize = adEntry.data.sizes[key][i].split(",");//w,h
-                                        mapping.addSize([parseInt(browserSize[0]), parseInt(browserSize[1])], [parseInt(adSize[0]), parseInt(adSize[1])]);
-                                    }
-                                }
-                            }
-                            mapping = mapping.build();
-                            gptadslots[adHolderDivId].defineSizeMapping(mapping);
-                            
-                            //add color
-                            gptadslots[adHolderDivId].set("adsense_background_color", "#CCCCCC");
-                            gptadslots[adHolderDivId].set("adsense_border_color", "#FF0000");
-                            
-                            
-                            //adding service
-                            gptadslots[adHolderDivId].addService(googletag.pubads());
-                        }
-                    }
+        
+        <script>
+            //JC: instantiating adProcessor
+            require(['adProcessor'], function(adProcessor) {
+                //JC: Initiating ad libraries (google slot lib, ) & initializing slots
+                adProcessor.prepareAdLibraries();
+                
+                //JC: by default we use a black-list, white-list is only being used if provided (rare cases)
+                if (window.mwdata.adsWhitelist  !== null) {
+                  adProcessor.prepareOnlyTheseAdSlots(window.mwdata.adsWhitelist);
+                } else {
+                  adProcessor.prepareAllAdSlotsExcept(window.mwdata.adsBlacklist);
                 }
-                googletag.pubads().enableAsyncRendering();
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
             });
-        }
-        
-        /*
-         * Load initially
-         */
-        if (googleDfpAdsPresent) {
-            var isDesktop = (window.innerWidth > 767);
-            if (isDesktop && !window.adsLoadedD) {
-                window.adsLoadedD = true;
-                loadDfpAds(true);
-            }
-            if (!isDesktop && !window.adsLoadedM) {
-                window.adsLoadedM = true;
-                loadDfpAds(false);
-            }
-        };
-        
-        /*
-         * Potential ad change on window resize (or screen rotation)
-         */
-        /*$(window).resize(function() {
-            var isDesktop = (window.innerWidth > 767);
-            if ((isDesktop && !window.adsLoadedD) || (!isDesktop && !window.adsLoadedM)) {
-                loadDfpAds(isDesktop);
-            }
-        });*/
-    }
-</script>
-        <!-- Tracking-->
-        <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-296234-17', 'learnersdictionary.com');
-  ga('send', 'pageview');
-</script>    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="adProcessor" src="./adProcessor.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="common" src="./common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="audioplayer" src="./audioplayer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="wodSubscribe" src="./wodSubscribe.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="gaTracker" src="./gaTracker.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="fbSdk" src="./fbSdk.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="raf" src="./raf.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="searchBar" src="./searchBar.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="topAdAdjuster" src="./topAdAdjuster.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="enableSticky" src="./enableSticky.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="shareLinks" src="./shareLinks.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="/vendor/lodash_1.2.1/lodash.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/vendor/jquery.1.10.2/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.cookie" src="/vendor/jquery_cookie_1.4.0/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.jqueryui" src="/vendor/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js"></script></head>
+            
+            //JC: lotami tracking
+            require(['dynScript'], function(dynScript) {
+                dynScript.load('//tags.crwdcntrl.net/c/6936/cc.js?ns=_cc6936', {id: 'LOTCC_6936'}, function() {
+                    _cc6936.bcp();
+                });
+            });
+            
+            //JC: Google analitics
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-296234-17', 'learnersdictionary.com');
+            ga('send', 'pageview');
+        </script>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="adProcessor" src="/js/lib/adProcessor.0001.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="dynScript" src="/js/lib/dynScript.0001.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="facebookApi" src="/js/components/facebookApi.0001.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/vendor/jquery.1.10.2/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="uniqueId" src="/js/lib/uniqueId.0001.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="underscore" src="/vendor/lodash_1.2.1/lodash.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/js/components/main.0001.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.cookie" src="/vendor/jquery_cookie_1.4.0/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery.jqueryui" src="/vendor/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js"></script></head>
     <body class="arial_font" style="">
-
+        
         <!--Facebook Api-->
-        <script>
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
-<div id="fb-root"></div>
-        <!-- "Upgrade your browser" message -->
-        <!--CSS-->
-<link href="/css/update_browser.0001.css" type="text/css" rel="Stylesheet" charset="utf-8">
-
-<!--HTML-->
-<!--NOJS warning-->
-<noscript>
-    <div class = "upgr8d3r_container">
-        <div class = "upgr8d3r_container_internal upgr8d3r_browser_noscript">
-            This website requires JavaScript in order to work correctly.<br/>
-            Please enable JavaScript in your browser.        </div>
-    </div>
-</noscript>
-    
-<!---Bad browsers warning -->
-<!--[if lt IE 7]>
-<div class = "upgr8d3r_container">
-    <div class = "upgr8d3r_container_internal upgr8d3r_browser_warning">
-        <b>ATTENTION: You are using an outdated browser</b>
-        This website will not be displayed correctly:(<br/>
-        Please use one of the free popular alternative modern browsers (Google Chrome preferred)<br/>
-        <div class = "upgr8d3r_container_links">
-            <a href='http://www.firefox.com'>
-                <span class = "browser_icon firefox">&nbsp;</span>
-                <div class = "browser_text">Mozilla<br/>Firefox</div>
-            </a>
-            <a href='http://www.google.com/chrome'>
-                <span class = "browser_icon chrome">&nbsp;</span>
-                <div class = "browser_text">Google<br/>Chrome</div>
-            </a>
-            <a href='http://www.apple.com/safari/download'>
-                <span class = "browser_icon safari">&nbsp;</span>
-                <div class = "browser_text">Apple<br/>Safari</div>
-            </a>
-        </div>
-    </div>
-</div>
-<![endif]-->
-        <!-- Initial banner -->
-        <!--
-        <div id="greeting-banner" class="ld_xs_hidden noprint">
-            Welcome&#x20;to&#x20;the&#x20;new&#x20;LearnersDictionary.com.            <a href="/help/contact">We&#x20;want&#x20;to&#x20;hear&#x20;your&#x20;thoughts&#x20;about&#x20;the&#x20;new&#x20;design.</a>
-            <i class="fa fa-times closex"></i>
-        </div>
-        -->
-
+        <script>require(['facebookApi']);</script>
+        
         <!--Wrapper-->
         <div id="wrap_full">
             <div id="wrap_c">
@@ -297,14 +152,12 @@
                         <a href="/"><img src="/images/logos/d_logo.0001.gif" alt="Learner's Dictionary Logo"></a>
                     </div>
 
-                    <!--ADVERTISEMENT CONTAINER-->
-                                            <div id="ad_slot_left" class="box_sizing">
-                                                                                                <div id="div-gpt-ad-123311533973704640-2">
-                                        <script type="text/javascript">
-                                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-123311533973704640-2"); });
-                                        </script>
-                                    </div>
-                                                                                    </div>
+
+                                            <div class="abl abl-m0-t160-d160 ld_xs_hidden">
+                            <div class="ad_slot_left"><div id="gpt-id-8294f86d-974b-4134-80a5-df1096770ad1" adonis-marker=""></div>
+                               <script>require(['adProcessor'], function(ap) {ap.renderDfp('ad_slot_left');});</script>
+                            </div>
+                        </div>
                                     </div>
 
                 <!--Central right-->
@@ -392,14 +245,11 @@
 
                     <!--Central right: top-->
                     <div id="wrap_cr_t" class="ld_xs_hidden noprint box_sizing">
-                        <!--ADVERTISEMENT CONTAINER-->
-                        <div id="ad_slot_top" class="box_sizing">
-                                                                                                <div id="div-gpt-ad-123311533973704640-1">
-                                        <script type="text/javascript">
-                                            googletag.cmd.push(function() { googletag.display("div-gpt-ad-123311533973704640-1"); });
-                                        </script>
-                                    </div>
-                                                                                    </div>
+                        <div class="abl abl-m0-t728-d728 ld_xs_hidden">
+                            <div class="ad_slot_top"><div id="gpt-id-84464369-d60b-4a48-a576-bfd856b5f377" adonis-marker=""></div>
+                               <script>require(['adProcessor'], function(ap) {ap.renderDfp('ad_slot_top');});</script>
+                            </div>
+                        </div>
                     </div>
 
                     <!--Central right: bottom-->
@@ -460,372 +310,11 @@
 <!--HTML-->
 <div id="privacy_container">
     <div class="universal_large_title georgia_font">
-        Privacy Policy    </div>
+        Privacy Policy
+    </div>
     <div class="thin_dots"></div>
     <div class="block20pxh"></div>
-    
-  
-<!--[if lt IE 8]><html lang="en"><![endif]-->
-<!--[if IE 8]> <html class="lt-ie10 lt-ie9 ie8"> <![endif]-->
-<!--[if IE 9]> <html class="lt-ie10 ie9"> <![endif]-->
-<!--[if gt IE 9]><html lang="en"><![endif]-->
-<!--[if !IE]><html lang="en"><![endif]-->
-
-  
-  
-    
-    <!-- DP: initialize optimizely snippet -->
-    <script src="//cdn.optimizely.com/js/4162051502.js"></script>
-    
-    <!--JC: let's add modernizr-->
-    <script src="http://assets2.merriam-webster.com/mw/modernizr-3.3.1/modernizr-custom.js"></script>
-    
-    <!--Following html5bp, placing on top-->
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    
-    <!--Basic meta-->
-          <title>Privacy Policy | Merriam-Webster</title>
-              <meta name="description" content="Merriam-Webster is committed to respecting the privacy of visitors to its Web sites. The guidelines below explain how we protect the privacy of visitors to Merriam-Webster.com and its features.">
-              <meta name="keywords" content="merriam-webster, dictionary, online dictionary, webster\'s dictionary, talking dictionary, english language, online thesaurus, word of the day, word games">
-              <link rel="canonical" href="http://www.merriam-webster.com/privacy-policy">
-            
-    <!--JC: vendor fonts-->
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic|Playfair+Display:400,700|Open+Sans:400,300,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    
-    <!--Static meta -->
-    <meta name="robots" content="noodp, noydir">
-    <meta property="fb:app_id" content="178450008855735">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <!--Add opensearch link-->
-          <link rel="search" type="application/opensearchdescription+xml" href="/opensearch/dictionary.xml" title="Merriam-Webster Dictionary">
-    
-        
-    <!--Dynamic meta-->
-                          <meta property="og:title" content="Merriam-Webster is committed to respecting the privacy of visitors to its Web sites.">
-                                <meta property="og:image" content="http://assets2.merriam-webster.com/mw/static/social-media-share/mw-logo-245x245@1x.png">
-                                  <meta property="og:url" content="http://www.merriam-webster.com/privacy-policy">
-                                <meta property="og:description" content="Here's how we protect the privacy of visitors to Merriam-Webster.com and its features.">
-                                <meta property="og:type" content="article">
-                    
-                                      <meta name="twitter:title" content="Merriam-Webster is committed to respecting the privacy of visitors to its Web sites.">
-                                                    <meta name="twitter:image" content="http://assets2.merriam-webster.com/mw/static/social-media-share/mw-logo-245x245@1x.png">
-                                                    <meta name="twitter:url" content="http://www.merriam-webster.com/privacy-policy">
-                                                    <meta name="twitter:description" content="Here's how we protect the privacy of visitors to Merriam-Webster.com and its features.">
-                                                                  <meta name="twitter:card" content="summary">
-                                                    <meta name="twitter:site" content="@MerriamWebster">
-                            
-    <!-- FAVICON -->
-    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
-    <link rel="icon" href="/favicon.png" type="image/x-icon">
-
-    <!--Our minified css-->
-    <link rel="stylesheet" href="http://assets.merriam-webster.com/mw/app-bundles/1464354515-app-bundle/css/style.min.css" media="screen" charset="utf-8">
-
-    <!--JS config-->
-    <script type="text/javascript">
-      window.mwdata = {};
-      window.mwdata.assetsDomain1 = 'http://assets.merriam-webster.com';
-      window.mwdata.assetsDomain2 = 'http://assets2.merriam-webster.com';
-      window.mwdata.env           = 'production';
-      window.mwdata.vidPref       = 'http://video.merriam-webster.com';
-      window.mwdata.jw7key        = 'U4WOTZRVVnSrkUDlXjD6ad101zKp0yGynG822w==';
-      window.mwdata.isHome        = false;
-      window.mwdata.ads           = {"slot-top":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/GEN","id":"div-gpt-ad-120504305048625096-1","defSizes":[[320,50]],"targeting":[["POS",["TOP"]],["PAGE"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[[320,50]]},{"screen":[768,100],"ads":[[728,90]]}]}},"slot-right1":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/GEN","id":"div-gpt-ad-120504305048625096-2","defSizes":[[300,250]],"targeting":[["POS",["TOP"]],["PAGE"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}},"slot-right2":{"type":"google_dfp","data":{"slot":"\/34444486\/MW\/GEN","id":"div-gpt-ad-120504305048625096-3","defSizes":[[300,250]],"targeting":[["POS",["BOT2"]],["PAGE"],["requestSource","GPT"]],"sizeMappings":[{"screen":[0,0],"ads":[]},{"screen":[768,260],"ads":[[300,250]]}]}}};
-      window.mwdata.ads2          = [];
-      
-      window.mwdata.fbAppId       = '178450008855735';
-      window.mwdata.fbSdkReady    = false;
-      window.mwdata.fbSdkQueue    = [];
-      window.mwdata.gaSiteId      = 'UA-296234-25';
-      window.mwdata.gatReady      = false;
-      window.mwdata.gatQueue      = [];
-      window.mwdata.tagsPrepped   = [];
-      window.mwdata.gTagReady     = false;
-      window.mwdata.dfpSvcUp      = false;
-      window.mwdata.adsBlacklist  = [];
-      window.mwdata.adsWhitelist  = null;
-      window.mwdata.adsCarCount   = 0;
-      window.mwdata.adsQuizCount  = 0;
-      window.mwdata.search        = "";
-      window.mwdata.cat           = "";
-      
-      //JC: casale index related
-      window.mwdata.hasCasale     = true;
-
-      window.mwdata.contentType1  = null;
-      window.mwdata.contentType2  = null;
-      window.mwdata.contentType3  = null;
-      window.mwdata.lotame        = null;
-    </script>
-    
-          <!--JC: Combined JS bundle in prod & staging-->
-      <script src="http://assets.merriam-webster.com/mw/app-bundles/1464354515-app-bundle/js/main.min.js"></script>
-        
-    <script>
-      //JC: some libs are better off to be left out of compiled bundle
-      var jwplayerPath = window.mwdata.assetsDomain2 + '/mw/jwplayer-7.3.4/jwplayer';
-      requirejs.config({paths: {jwplayer: jwplayerPath}});
-    </script>
-    
-    
-    <!--Enabling some default functionality -->
-    <script>
-      require(['adProcessor'], function(adProcessor) {
-        //JC: Initiating ad libraries (google slot lib, ) & initializing slots
-        adProcessor.prepareAdLibraries();
-        
-        //JC: by default we use a black-list, white-list is only being used if provided (rare cases)
-        if (window.mwdata.adsWhitelist  !== null) {
-          adProcessor.prepareOnlyTheseAdSlots(window.mwdata.adsWhitelist);
-        } else {
-          adProcessor.prepareAllAdSlotsExcept(window.mwdata.adsBlacklist);
-        }
-      });
-      require(['common', 'audioplayer', 'wodSubscribe', 'gaTracker', 'fbSdk', 'raf'], function(common, audioplayer, wodSubscribe, gaTracker, fbSdk) {
-        
-        //JC: this enables audio playback everywhere (wod & definitions)
-        audioplayer.init();
-        
-         //JC: Enabling WOD subscribe forms if present
-        wodSubscribe.init();
-        
-        //JC: Loading google analitics libary and starting tracking
-        gaTracker.init();
-        
-        //JC: this is inheritedd from MI - needs to be refactored
-        common.init();
-        
-        //JC: Facebook SDK is needed on all pages except for Home
-        if (window.mwdata.isHome === false) {
-          fbSdk.init();
-        }
-      });
-    </script>
-    
-    
-    
-    <!--[if lt IE 9]>
-      <link rel="stylesheet" href="http://assets.merriam-webster.com/mw/app-bundles/1464354515-app-bundle/css/ie.min.css?v=1">
-      <script src="http://assets.merriam-webster.com/mw/app-bundles/1464354515-app-bundle/js/vendor/html5shiv/dist/html5shiv.min.js?v=1"></script>
-    <![endif]-->
-    
-    <!--JC: noscript only need for quantcast alternative counter so far-->
-    <noscript>
-      <img src="//pixel.quantserve.com/pixel/p-2a93ALTZSnZrY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-    </noscript>
-  
-  
-  
-
-    <div class="outer-container">
-      <div class="main-container">
-        
-        <!--Global menu and search area-->
-        <!--JC: this is just a filler for when sticky header is scrolled-->
-<div class="menu-filler "></div>
-
-<!--JC: actual menu + search-->
-<header class="shrinkheader">
-  
-  <!--JC: top menu area (link bar etc)-->
-  <div class="shrinkheader-t">
-    <div class="in-cnt-type3">
-      <div class="shrinkheader-t-inner border-box clearfix">
-        
-        <nav class="link-bar-r">
-          <span>Follow: </span>
-          <a href="http://www.facebook.com/merriamwebster" target="_blank" class="social-icon fb"></a>
-          <a href="http://twitter.com/merriamwebster" target="_blank" class="social-icon twitter"></a>
-          <a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-icon gplay"></a>
-          <a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-icon instagram"></a>
-        </nav>
-        
-        <nav class="link-bar-l" role="navigation">
-          <ul>
-            <li>
-              <a href="/word-games">GAMES</a>
-            </li>
-            <li>
-              <a href="/word-of-the-day">WORD OF THE DAY</a>
-            </li>
-            <li>
-              <a href="/video">VIDEO</a>
-            </li>
-            <li>
-              <a href="/words-at-play">WORDS AT PLAY</a>
-            </li>
-            <li>
-              <a href="/my-saved-words/">FAVORITES</a>
-            </li>
-          </ul>
-        </nav>
-  
-      </div>
-    </div>
-  </div>
-    
-    
-    
-  <!--JC: bottom menu area (link bar etc)-->
-  <div class="shrinkheader-b clearfix">
-    <div class="in-cnt-type3">
-      <div class="shrinkheader-b-inner clearfix">
-      
-      <div class="filler-cnt"></div>
-      
-      
-        <!--JC: left logo container-->
-        <div class="logo-cnt border-box">
-          <a href="/"><img src="http://assets2.merriam-webster.com/mw/static/app-standalone-images/MW_logo.png" alt="Merriam-Webster Logo"></a>
-        </div>
-        
-        <!--JC: since 1828 container-->
-        <div class="since1828-cnt border-box">
-          <a href="/"><span class="since1828-text">SINCE</span>&nbsp;<span class="since1828-num">1828</span></a>
-        </div>
-        
-        <!--JC: central thingie (button)-->
-        <div class="nav-btn-cnt border-box">
-          <a href="javascript:void(0)" class="menu-toggle">
-            <span class="menu-txt">Menu</span>
-    
-            <div class="menu-lines">
-              <div class="line line-1"></div>
-              <div class="line line-2"></div>
-              <div class="line line-3"></div>
-            </div>
-          </a>
-        </div>
-      
-        
-        <!--JC: right container-->
-        <div class="search-cnt border-box">
-        
-          <!--JC: menu-->
-          <div class="s-frm-cnt">
-            <form class="s-frm clearfix" action="/dictionary">
-
-              <div class="s-dropdown-wrap border-box">
-                <button class="s-dropdown-btn typo5 text-left" type="button"><span>Dictionary</span></button>
-                <ul class="s-dropdown">
-                  <li class="typo6  selected" data-search-url="/dictionary" data-ref="dictionary">Dictionary</li>
-                  <li class="typo6 " data-search-url="/thesaurus" data-ref="thesaurus">Thesaurus</li>
-                  <li class="typo6" data-search-url="http://scrabble.merriam.com/finder" data-ref="scrabble">Scrabble</li>
-                  <li class="typo6" data-search-url="http://spanishcentral.com/translate" data-ref="spanish">Spanish Central</li>
-                  <li class="typo6" data-search-url="http://learnersdictionary.com/definition" data-ref="learners">Learner's Dictionary</li>
-                </ul>
-              </div>
-              
-              <div class="s-term-cnt border-box">
-                <input name="s" id="s-term" class="s-term sline-ell border-box" type="text" value="" placeholder="Hello! What word would you like to learn today?" autocapitalize="off" spellcheck="false" autocorrect="off">
-              </div>
-              
-              <div class="s-autocomplete border-box"></div>
-              
-            </form>
-          </div>
-          
-          <div class="company-text">
-            <p><a href="http://www.britannica.com" target="_blank">An Encyclopædia Britannica Company</a></p>
-          </div>
-        </div>
-        
-        <div class="mob-search-btn">
-          <span class="search-icon"></span>
-        </div>
-        <div class="desk-search-btn">
-          <span class="search-icon1"></span>
-        </div>
-    
-        
-        <div class="filler-cnt"></div>
-        
-      </div>
-    </div>
-  
-</div></header>
-
-
-
-<!--JC: actual mobile menu-->
-<div class="menu-mob-cnt">
-  <a href="javascript:void(0)" class="close-trigger"></a>
-  
-  <div class="menu-mob-cnt-inner">
-    <div class="menu-mob-cnt-cut">
-      <ul class="border-box">
-        <li>
-          <a href="/word-games">GAMES</a>
-        </li>
-        <li>
-          <a href="/word-of-the-day">WORD OF THE DAY</a>
-        </li>
-        <li>
-          <a href="/video">VIDEO</a>
-        </li>
-        <li>
-          <a href="/words-at-play">WORDS AT PLAY</a>
-        </li>
-        <li>
-          <a href="/my-saved-words/">FAVORITES</a>
-        </li>
-      </ul>
-      
-      <div class="social-btns">
-        <span>Follow: </span>
-        <a href="http://www.facebook.com/merriamwebster" target="_blank" class="social-icon fb"></a>
-        <a href="http://twitter.com/merriamwebster" target="_blank" class="social-icon twitter"></a>
-        <a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-icon gplay"></a>
-        <a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-icon ig"></a>
-      </div>
-    </div>      
-  </div>
-</div>
-
-
-<script type="text/javascript">
-  require(['searchBar'], function(searchBar) {
-    searchBar.init();
-  });
-</script>        
-        <!-- Recirc bar - disabled on certain pages-->
-                
-        <!--Top ad (hidden on interstitial pages & error pages)-->
-                  <div class="home-top-creative-cont border-box">
-              <div class="home-top-creative-cont-shadow border-box" "=""></div>
-              <div class="abl abl-m320-t728-d728">
-                <div class="ad-liner slot-top">
-                   <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-top');});</script>
-                </div>
-              </div>
-          </div>
-          <script>
-            var topAdAdjusterDisabled = false;
-            require(['topAdAdjuster'], function(topAdAdjuster) {
-              topAdAdjuster.init(topAdAdjusterDisabled);
-            });
-          </script>
-                
-        <!--JC: featured carousel is outside of main-wrapper (only present on home page)-->
-        
-        <!--JC: so that's an actual MI content, it corresponds to entire MI "main-wrapper" element -->
-        <div class="main-wrapper clearfix">
-  
-      <div class="univ-title-container">
-      <span class="rubric-text margin-lr-0 margin-tb-1875em"></span>
-      <h1 class="title-lg">Privacy Policy</h1>
-      <h2 class="title-sm"></h2>
-    </div>
-    
-    <hr class="gray-divide">
-    
-  <div class="lr-cols-area clearfix sticky-column">
-    <div class="left-content">
-      <div id="static_pg_container">
+    <div id="static_pg_container">
   <section>
     <p><em>Updated June 9, 2015</em></p>
 
@@ -946,181 +435,18 @@
 
     <p>If you have any questions or concerns, please send an e-mail to <a href="mailto:privacy@m-w.com">privacy@m-w.com</a>.</p>
   </section>
-</div>    </div>
-
-
-      <div class="right-rail">
-        <div class="fixed-wrapper">
-    
-          <div class="rail-abl-box hide-mobile">
-            <div class="abl abl-300-250-nr">
-              <div class="ad-liner slot-right1">
-                 <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-right1');});</script>
-              </div>
-            </div>
-          </div>
-    
-          <!--JC: Side trending widget start-->
-<div class="wgt-side wgt-wap-side-trending">
-  
-  <h4 class="jc-wgt-title-type1">
-    <a href="/trend-watch/see-all">TRENDING NOW</a>
-  </h4>
-  
-  <div class="jc-under-tline-type2 margin-t-0p5em margin-b-0p938em"></div>
-  
-  <div class="wgt-wap-side-trending-items">
-    <ol>
-              <li>
-          <p class="title"><a href="/trend-watch/gesellschaft-2016-05-27">Gesellschaft</a></p>
-          <p class="blurb">One of two winning words in the Bee</p>
-        </li>
-              <li>
-          <p class="title"><a href="/trend-watch/cavalier-2016-05-26">Cavalier</a></p>
-          <p class="blurb">What does it mean to have a cavalier attitude?</p>
-        </li>
-              <li>
-          <p class="title"><a href="/trend-watch/inviscate-2016-05-25">Inviscate</a></p>
-          <p class="blurb">The youngest Spelling Bee contestant</p>
-        </li>
-              <li class="last">
-          <p class="title"><a href="/trend-watch/kafkaesque-2016-05-17">Kafkaesque</a></p>
-          <p class="blurb">Nightmarishly complex, bizarre, or illogical</p>
-        </li>
-              <li>
-          <p class="title"><a href="/trend-watch/donnybrook-2016-05-16">Donnybrook</a></p>
-          <p class="blurb">The origin story is true</p>
-        </li>
-          </ol>
-  </div>
-  
-  <div class="see-all-cnt">
-    <a href="/trend-watch/see-all">SEE ALL</a>
-  </div>
-</div>
-<!--JC: Side trending widget end-->    
-          <div class="rail-abl-box hide-mobile">
-            <div class="abl abl-300-250-nr">
-              <div class="ad-liner slot-right2">
-                 <script>require(['adProcessor'], function(ap) {ap.renderDfp('slot-right2');});</script>
-              </div>
-            </div>
-          </div>
-    
-        </div>
-      </div>
-
-  </div>
-</div>        <script>require(['enableSticky']);</script>
-
-        <!-- Set up the share links. -->
-        <script type="text/javascript">
-          require(['shareLinks'], function(shareLinks) {
-            shareLinks.init();
-          });
-        </script>
-    
-        <!--JC: Global footer-->
-        <!--Global footer start-->
-<footer class="global-footer">
-  
-  <div class="footer-mast clearfix">
-    <div class="mw-logo-section">
-      <a href="/" class="footer-logo">Merriam Webster</a>
-    </div>
-    <div class="footer-mast-content clearfix">
-      <div class="footer-subscribe-block">
-        <div class="footer-subscribe-msg">
-          <p>Learn a new word every day. Delivered to your inbox!</p>
-        </div>
-        <form class="footer-subscribe js-wod-subscribe-frm">
-          <input class="footer-subscribe-field" type="text" name="email" value="" placeholder="Your email address">
-          <input class="footer-subscribe-button" type="submit" name="submit" value="SUBSCRIBE">
-          <input class="footer-subscribe-button hidden arrow" type="submit" name="submit" value=">">
-        </form>
-      </div>
-      <div class="footer-dictionaries">
-        <p>OTHER MERRIAM-WEBSTER DICTIONARIES</p>
-        <div class="other-dictionaries">
-          <ul>
-            <li><a href="http://www.spanishcentral.com/">SPANISH CENTRAL</a></li>
-            <li><a href="http://learnersdictionary.com/">LEARNER'S ESL DICTIONARY</a></li>
-            <li><a href="http://www.wordcentral.com/">WORDCENTRAL FOR KIDS</a></li>
-            <li><a href="http://www.visualdictionaryonline.com/">VISUAL DICTIONARY</a></li>
-          </ul>
-          <ul>
-            <li><a href="http://scrabble.merriam.com/">SCRABBLE<sup>®</sup> WORD FINDER</a></li>
-            <li><a href="http://unabridged.merriam-webster.com/">MERRIAM-WEBSTER'S UNABRIDGED DICTIONARY</a></li>
-            <li><a href="http://arabic.britannicaenglish.com/en">BRITANNICA ENGLISH - ARABIC TRANSLATION</a></li>
-            <li><a href="http://www.nglish.com/spanish/en/">NGLISH - SPANISH-ENGLISH TRANSLATION</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="follow-us">
-        <p>FOLLOW US</p>
-        <div class="follow-links">
-          <ul>
-            <li><a href="http://www.facebook.com/merriamwebster" target="_blank" class="social-link social-fb">facebook</a></li>
-            <li><a href="http://twitter.com/merriamwebster" target="_blank" class="social-link social-tw">twitter</a></li>
-            <li><a href="https://www.youtube.com/user/MerriamWebsterOnline" target="_blank" class="social-link social-play">youtube</a></li>
-            <li><a href="https://www.instagram.com/merriamwebster/" target="_blank" class="social-link social-ig">instagram</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="footer-foot clearfix">
-    <div class="footer-foot-content clearfix">
-      <ul class="footer-menu">
-        <li><a href="/">Home <span class="rborder"></span></a></li>
-        <li><a href="/help">Help <span class="rborder"></span></a></li>
-        <li><a href="/apps">Apps <span class="rborder"></span></a></li>
-        <li><a href="/about-us">About Us <span class="rborder"></span></a></li>
-        <li><a href="/shop-dictionaries">Shop <span class="rborder"></span></a></li>
-        <li><a href="/advertising">Advertising Info <span class="rborder"></span></a></li>
-        <li><a href="http://www.dictionaryapi.com/" target="_blank">Dictionary API <span class="rborder"></span></a></li>
-        <li><a href="/about-our-ads">About Our Ads <span class="rborder"></span></a></li>
-        <li><a href="/contact-us">Contact Us <span class="rborder"></span></a></li>
-        <li><a href="http://nws.merriam-webster.com/opendictionary/" target="_blank">The Open Dictionary <span class="rborder"></span></a></li>
-        <li><a href="/words-at-play/word-of-the-year-2015/-ism">Word of the Year <span class="rborder"></span></a></li>
-        <li><a href="/privacy-policy">Privacy Policy <span class="rborder"></span></a></li>
-        <li class="last"><a href="/terms-of-use">Terms of Use</a></li>
-      </ul>
-
-      <ul class="footer-menu">
-        <li><a href="/browse/dictionary">Browse the Dictionary <span class="rborder"></span></a></li>
-        <li><a href="/browse/thesaurus">Browse the Thesaurus <span class="rborder"></span></a></li>
-        <li><a href="http://www.spanishcentral.com/browse/a" target="_blank">Browse the Spanish-English Dictionary <span class="rborder"></span></a></li>
-        <li class="last"><a href="/browse/medical">Browse the Medical Dictionary</a></li>
-      </ul>
-
-      <p class="copyright">© 2015 Merriam-Webster, Incorporated</p>
-    </div>
-  </div>
-</footer>
-<!--Global footer end-->        
-        
-        <!-- JC: Footer Recirc bar -- disabled on certain pages -->
-                
-      </div>
-    </div>
-      
-</div>
+</div></div>
                         </div>
 
                         <!--Central right: bottom: right column-->
                         <div id="wrap_cr_br" class="box_sizing ld_xs_hidden noprint">
 
-                            <!--ADVERTISEMENT CONTAINER-->
-                            <div id="ad_slot_right_top" class="box_sizing">
-                                                                                                            <div id="div-gpt-ad-123311533973704640-3">
-                                            <script type="text/javascript">
-                                                googletag.cmd.push(function() { googletag.display("div-gpt-ad-123311533973704640-3"); });
-                                            </script>
-                                        </div>
-                                                                                                </div>
-
+                            <div class="abl abl-m0-t300-d300 ld_xs_hidden">
+                                <div class="ad_slot_right_top"><div id="gpt-id-77ce09d3-edfc-44bf-8ca1-fc9b0520ab89" adonis-marker=""></div>
+                                   <script>require(['adProcessor'], function(ap) {ap.renderDfp('ad_slot_right_top');});</script>
+                                </div>
+                            </div>
+                            
                             <div id="wrap_rbr_c" class="box_sizing">
                                                                     <!-- CSS -->
 <link href="/css/qa/siderail.0001.css" type="text/css" rel="Stylesheet" charset="utf-8">
@@ -1130,35 +456,29 @@
 
     <!--header-->
     <div class="area_header verdana_font margin_bottom_10">
-        ASK THE EDITOR    </div>
+        ASK THE EDITOR
+    </div>
 
     <!--content-->
     <table class="cont">
         <tbody><tr>
             <td class="qa_content_l">
-                    <a href="/qa/When-to-Use-Did-You-Know-Instead-of-Do-You-Know-" title="">
+                    <a href="/qa/How-to-Use-Could-Would-and-Should" title="">
                         <img src="http://assets2.merriam-webster.com/ld/old_authors/50903/100x100e.jpeg" alt="">
                     </a>
             </td>
             <td class="qa_content_r">
                 <div class="question">
-                    <a class="arial_font" href="/qa/When-to-Use-Did-You-Know-Instead-of-Do-You-Know-" title="Question text">Why do we say "did you know" rather than "do you know"? </a>
+                    <a class="arial_font" href="/qa/How-to-Use-Could-Would-and-Should" title="Question text">What is the difference between <em class="mw_spm_it">could</em>, <em class="mw_spm_it">would</em>, and <em class="mw_spm_it">should</em>?</a>
                 </div>
 
                 <div class="find_answer">
-                    <a href="/qa/When-to-Use-Did-You-Know-Instead-of-Do-You-Know-" class="helvetica_font">See the answer »</a>
+                    <a href="/qa/How-to-Use-Could-Would-and-Should" class="helvetica_font">See the answer »</a>
                 </div>
             </td>
         </tr>
     </tbody></table>
-</div>
-
-<!-- JAVASCRIPT -->
-<script type="text/javascript">
-    require(['underscore', 'jquery'], function(_) {
-
-    });
-</script>                                    <!-- CSS -->
+</div>                                    <!-- CSS -->
 <link href="/css/quizzes/siderail.0001.css" type="text/css" rel="Stylesheet" charset="utf-8">
 
 <!-- HTML -->
@@ -1166,7 +486,8 @@
     
     <!--header-->
     <div class="area_header verdana_font margin_bottom_10">
-        LEARNER'S QUIZZES    </div>
+        LEARNER'S QUIZZES
+    </div>
     
     <!--content-->
     <div class="main_content">      
@@ -1214,24 +535,25 @@
 
     <!--header-->
     <div class="area_header verdana_font margin_bottom_10">
-        LEARNER'S WORD OF THE DAY    </div>
+        LEARNER'S WORD OF THE DAY
+    </div>
 
     <!--content-->
     <table class="cont">
         <tbody><tr>
             <td class="qa_content_l">
                                     <a href="/word-of-the-day" title="">
-                        <img src="http://assets.merriam-webster.com/ld/word_of_the_day/images/2870/thumb.jpg" alt="Leaf through Illustration">
+                        <img src="http://assets.merriam-webster.com/ld/word_of_the_day/images/3081/thumb.jpg" alt="Go over big  Illustration">
                     </a>
                             </td>
             <td class="qa_content_r">
                 <div class="word georgia_font">
-                    <a href="/word-of-the-day" title="leaf through">
-                        leaf through                    </a>
+                    <a href="/word-of-the-day" title="go over big ">
+                        go over big                     </a>
                 </div>
 
                 <div class="blurb">
-                    <a href="/word-of-the-day" title="{bc} to turn the pages of (a book, a magazine, etc.)"><strong class="mw_spm_bc">:</strong> to turn the pages of (a book, a magazine, etc.)</a>
+                    <a href="/word-of-the-day" title="{bc} to be successful or well-liked ({i}informal{/i})"><strong class="mw_spm_bc">:</strong> to be successful or well-liked (<em class="mw_spm_it">informal</em>)</a>
                 </div>
 
                 <div class="learn_more">
@@ -1248,14 +570,11 @@
     });
 </script>                                                            </div>
 
-                            <!--ADVERTISEMENT CONTAINER-->
-                            <div id="ad_slot_right_bottom" class="box_sizing">
-                                                                                                            <div id="div-gpt-ad-123311533973704640-4">
-                                            <script type="text/javascript">
-                                                googletag.cmd.push(function() { googletag.display("div-gpt-ad-123311533973704640-4"); });
-                                            </script>
-                                        </div>
-                                                                                                </div>
+                            <div class="abl abl-m0-t300-d300 ld_xs_hidden">
+                                <div class="ad_slot_right_bottom"><div id="gpt-id-8fd80619-e30b-40ce-9879-098363d49aa7" adonis-marker=""></div>
+                                   <script>require(['adProcessor'], function(ap) {ap.renderDfp('ad_slot_right_bottom');});</script>
+                                </div>
+                            </div>
                         </div>
 
                         <!--Central right: bottom: clearing column floats-->
@@ -1289,7 +608,8 @@
                             <div class="offer2 ind_offer">
                                 <div class="featTitle">
                                     Learning Spanish?
-                                    <br>We can help                                </div>
+                                    <br>We can help
+                                </div>
 
                                 <div class="featImage_2">
                                     <a href="http://www.learnersdictionary.com/">
@@ -1310,7 +630,8 @@
                                 </div>
 
                                 <div class="featTitle">
-                                    Our Dictionary, <br> On Your Devices                                </div>
+                                    Our Dictionary, <br> On Your Devices
+                                </div>
 
                                 <div class="featDescr">
                                     Merriam-Webster, <br> <em>With Voice Search</em> <br> <a href="http://www.merriam-webster.com/dictionary-apps/android-ipad-iphone-windows.htm">Get the Free Apps! »</a>
@@ -1334,23 +655,21 @@
                             </div>
                         </div>
 
-                        <!--Footer: advertisement area-->
+                        <!--Footer: ad area-->
                         <div class="ad_holder">
-                            <!--ADVERTISEMENT CONTAINER-->
-                            <div id="ad_slot_bottom" class="box_sizing">
-                                                                                                            <div id="div-gpt-ad-123311533973704640-5">
-                                            <script type="text/javascript">
-                                                googletag.cmd.push(function() { googletag.display("div-gpt-ad-123311533973704640-5"); });
-                                            </script>
-                                        </div>
-                                                                                                </div>
+                            <div class="abl abl-m320-t728-d728">
+                                <div class="ad_slot_bottom"><div id="gpt-id-80ba3498-f55d-498f-ba87-8b79f97f6175" adonis-marker=""></div>
+                                   <script>require(['adProcessor'], function(ap) {ap.renderDfp('ad_slot_bottom');});</script>
+                                </div>
+                            </div>
                         </div>
 
                         <!--The rest of the footer-->
                         <div class="offerings_bottom ld_xs_hidden">
                             <div class="offer5 ind_offer">
                                 <div class="featTitle">
-                                    Join Us                                </div>
+                                    Join Us
+                                </div>
 
                                 <div class="twitter">
                                     <div class="twLogo">
@@ -1373,7 +692,8 @@
 
                             <div class="offer6 ind_offer">
                                 <div class="featTitle">
-                                    Bookstore: Digital and Print                                </div>
+                                    Bookstore: Digital and Print
+                                </div>
                                 <div class="bookstoreDescr">
                                     Merriam-Webster references for Mobile, Kindle, print, and more. <a href="http://www.merriam-webster.com/shop/index.htm">See all&nbsp;»</a>
                                 </div>
@@ -1381,7 +701,8 @@
 
                             <div class="offer7 ind_offer">
                                 <div class="featTitle">
-                                    Other Merriam-Webster Dictionaries                                </div>
+                                    Other Merriam-Webster Dictionaries
+                                </div>
 
                                 <div class="dictURLs_1">
                                     <a href="http://unabridged.merriam-webster.com">Webster's Unabridged Dictionary&nbsp;»</a>
@@ -1423,7 +744,7 @@
                                 </ol>
                             </div>
                             <div class="copyright">
-                                <a href="/terms-of-use#copyright">© <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Merriam-Webster, Incorporated</a>
+                                <a href="/terms-of-use#copyright">© 2016 Merriam-Webster, Incorporated</a>
                                                             </div>
                         </div>
                     </div>
@@ -1433,261 +754,10 @@
 
         <!-- JAVASCRIPT -->
         <script type="text/javascript">
-
             var focusIn = false;
             var focusInHome = false;
-
-            require(['underscore', 'jquery', 'jquery.jqueryui', 'jquery.cookie'], function(_) {
-
-                $('.offer1').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Top4-Position1', 'Unabridged Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer2').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Top4-Position2', 'Spanish Central Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer3').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Top4-Position3', 'Mobile Apps Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer4').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Top4-Position4', 'Visual Dictionary Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer5').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Bottom3-Position1', 'Twitter/Facebook Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer6').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Bottom3-Position2', 'Bookstore Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-                $('.offer7').find('a').on('click', function(e) {e.preventDefault();
-                    var url = $(this).attr('href');
-                    ga('send', 'event', 'Site Promos', 'Bottom3-Position3', 'Other Dictionaries Promo', {'page': url, 'hitCallback': function () {document.location = url;}});
-                });
-
-                /*
-                 * Show/hide preview banner
-                 *
-                 */
-                /*$('#greeting-banner').find('.closex').on('click', function(e) {e.preventDefault();
-                    // Hide the banner.
-                    $(this).parent().hide();
-
-                    //set expiration cookie
-                    var d = new Date();
-                    d.setTime(d.getTime()+(1*24*60*60*1000));
-                    $.cookie('previewBanner', 'hidden', { expires: d, path: '/' });
-                });
-
-                if ($.cookie('previewBanner') === undefined) {
-                    $('#greeting-banner').show();
-                }*/
-
-                /*
-                 * Universal pron playback
-                 */
-                $('.play_pron').on('click', function(e){e.preventDefault();
-                    var lang = $(this).attr('data-lang');
-                    var dir  = $(this).attr('data-dir');
-                    var file = $(this).attr('data-file');
-                    var word = $(this).attr('data-word');
-                    var pron = $(this).attr('data-pron') ? $(this).attr('data-pron') : '';
-                    var path = lang.replace("_", "/");
-
-                    if (window.innerWidth > 767) {
-                        var url = "/audio?file=" + encodeURIComponent(file) + '&format=mp3&word=' + encodeURIComponent(word) + '&pron=' + encodeURIComponent(pron);
-                        var newwindow = window.open(url, 'Listen', 'toolbar=no,scrollbars=yes,status=no,resizable=yes,menubar=no,height=290,width=660');
-                        if (window.focus) {
-                            newwindow.focus();
-                        }
-                    } else {
-                        //Urls for various extensions
-                        var fileMp3 = "http://media.merriam-webster.com/audio/prons/" + path + '/' + 'mp3' + '/' + dir + '/' + file + '.mp3';
-                        var fileOgg = "http://media.merriam-webster.com/audio/prons/" + path + '/' + 'ogg' + '/' + dir + '/' + file + '.ogg';
-                        var fileWav = "http://media.merriam-webster.com/audio/prons/" + path + '/' + 'wav' + '/' + dir + '/' + file + '.wav';
-
-                        // HTML5 audio vs document.location
-                        if (Modernizr.audio.mp3) {
-                            var audio = new Audio();
-                            audio.src = fileMp3;
-                            audio.play();
-                        } else {
-                            document.location = fileMp3;
-                        }
-                    }
-                });
-
-                /*
-                 * AUTOCOMPLETE: we need 2 versions:mobile and desktop.
-                 * Stakeholders insisted that they must be positioned in different DOM places - so here we go :(
-                 * another case of: NOT REALLY A RESPONSIVE DESIGN - GUUUUUYYYYYSS!
-                 */
-                //globar vars for autocomplete
-                window.autocompleteCache = {};
-                window.autocompletes = [];
-
-                //This action redirects user to a definition
-                var submitSearch = function(textToSubmit, searchHolder) {
-                    var textArea = $('[name=ld_search_inp]');
-
-                    /*
-                     * Don't submit if search contains default text
-                     */
-                    if ((textToSubmit === textArea.attr('data-placeholder')) || (textToSubmit === '')) {
-                        return;
-                    } else {
-                        window.location = '/definition/' + encodeURIComponent(textToSubmit);
-                    }
-                };
-
-                //initialize 2 autocompletes
-                $.each($(".ld_search_inp"), function(i, nativeField) {
-                    var inputField = $(nativeField);
-                    var searchHolder = inputField.parent().parent();
-                    var isMobile = (searchHolder.attr('id') === 'ld_searchc_d') ? false : true;
-                    var searchBtn = searchHolder.find('.search_btn');
-
-                    /*
-                     * Instantiating autocomplete
-                     */
-                    window.autocompletes[i] = inputField.autocomplete({
-                        appendTo: isMobile ? '.autocomplete_holder_m' : '.autocomplete_holder_d',
-                        position: {
-                            my: "left top",
-                            at: "left bottom"
-                        },
-                        minLength: 2,
-                        delay: 500,
-                        source: function(request, response) {
-                            var term = request.term;
-                            if (term in autocompleteCache) {
-                                var d = (window.innerWidth > 767) ? autocompleteCache[term] : autocompleteCache[term].slice(0, 4);
-                                response(d);
-                            } else {
-                                $.getJSON( "/ac", request, function(data, status, xhr) {
-                                    autocompleteCache[term] = data;
-                                    var d = (window.innerWidth > 767) ? data : data.slice(0, 4);
-
-                                    response(d);
-                                });
-                            }
-                        },
-                        select: function(e, ui) {
-                            window.location = '/definition/' + encodeURIComponent(ui.item.value);
-                            return false;
-                        },
-                        focus: function(e, ui) {
-                            //HACK: because I have to to implement responsive design in a wrong way.
-                            //so we need to sync data between inputs
-                            $('#ld_searchc_d').find('.ld_search_inp').val(ui.item.label).removeClass('ld_pholder');
-                            $('#ld_searchc_m').find('.ld_search_inp').val(ui.item.label).removeClass('ld_pholder');
-
-                            return false;
-                        }
-                    });
-
-                    //user click on submit button
-                    searchBtn.on('click', function(e) {e.preventDefault();e.stopPropagation();
-                        submitSearch(inputField.val(), searchHolder);
-                    });
-
-                    //user presses enter
-                    inputField.on('keydown', function(e) {
-                        if (e.keyCode == 13) {
-                            e.stopPropagation();e.preventDefault();
-                            submitSearch(inputField.val(), searchHolder);
-                        }
-                    });
-
-                    //user presses other carachters
-                    inputField.on('keyup', function(e) {
-                        if (e.keyCode !== 13) {
-                            //HACK: because I have to to implement responsive design in a worng way.
-                            //so we need to sync data between inputs
-                            if (isMobile) {
-                                $('#ld_searchc_d').find('.ld_search_inp').val(inputField.val());
-                            } else {
-                                $('#ld_searchc_m').find('.ld_search_inp').val(inputField.val());
-                            }
-                            console.log('keyup');
-
-                            //depending on if input is empty -> hide or show a clear button
-                            if ((inputField.val() !== '') && (inputField.val() !== inputField.attr('data-placeholder'))) {
-                                $('#ld_searchc_m').find('.clear_btn').show();
-                            } else {
-                                $('#ld_searchc_m').find('.clear_btn').hide();
-                            }
-                        }
-                    });
-
-                    //cross-browser placeholder
-                    inputField.focus(function() {
-                        if (inputField.val() == inputField.attr('data-placeholder')) {
-                            //HACK: because I have to to implement responsive design in a wrong way.
-                            //so we need to sync data between inputs
-                            $('#ld_searchc_d').find('.ld_search_inp').val('').removeClass('ld_pholder');
-                            $('#ld_searchc_m').find('.ld_search_inp').val('').removeClass('ld_pholder');
-                        }
-                    }).blur(function() {
-                        if ((inputField.val() == '') || (inputField.val() == inputField.attr('data-placeholder'))) {
-                            //HACK: because have to implement responsive design in a wrong way.
-                            //so we need to sync data between inputs
-                            $('#ld_searchc_d').find('.ld_search_inp').val($('#ld_searchc_d').find('.ld_search_inp').attr('data-placeholder')).addClass('ld_pholder');
-                            $('#ld_searchc_m').find('.ld_search_inp').val($('#ld_searchc_m').find('.ld_search_inp').attr('data-placeholder')).addClass('ld_pholder');
-                        }
-                    });
-                    if (focusIn || focusInHome) {
-                        inputField.trigger('focus').trigger('blur');
-                    }
-                });
-
-                $('.m_menu_btn').on('click', function(e) {e.preventDefault();
-                    if ($('.ld_searchc_m_plusb').hasClass('open')) {
-                        $('.ld_searchc_m_plusb').removeClass('open');
-                    } else {
-                        $('.ld_searchc_m_plusb').addClass('open');
-                    }
-                });
-
-                /*
-                 * Focus on desktop
-                 */
-                if (window.innerWidth > 767) {
-                    if (focusIn) {
-                        $('#ld_searchc_d').find('[name=ld_search_inp]').trigger('focus');
-                    } else if (focusInHome) {
-                        $('#ld_searchc_d').find('[name=ld_search_inp]').trigger('focus');
-                    }
-                }
-
-                /*
-                 * In mobile view -> scroll form input to the top on focus
-                 */
-                $('#ld_searchc_m').find('[name=ld_search_inp]').on('focus', function() {
-                    var anchor = $(this);
-                    $('html, body').stop().animate({
-                        scrollTop: anchor.offset().top - 8
-                    }, 800, 'easeInOutExpo');
-                });
-
-                //Show or hide clear button -> initial
-                if (($('#ld_searchc_m').find('[name=ld_search_inp]').val() !== '') && ($('#ld_searchc_m').find('[name=ld_search_inp]').val() !== $('#ld_searchc_m').find('[name=ld_search_inp]').attr('data-placeholder'))) {
-                    $('#ld_searchc_m').find('.clear_btn').show();
-                } else {
-                    $('#ld_searchc_m').find('.clear_btn').hide();
-                }
-
-                /*
-                 * This is what happens when user clicks on clear button
-                 */
-                $('#ld_searchc_m').find('.clear_btn').on('click', function(e){e.stopPropagation();
-                    $(".ld_search_inp").val('');
-                    $('#ld_searchc_m').find('[name=ld_search_inp]').trigger('focus');
-                    $('#ld_searchc_m').find('.clear_btn').hide();
-                });
+            require(['main'], function(main) {
+                main.init(focusIn, focusInHome);
             });
         </script>
     
