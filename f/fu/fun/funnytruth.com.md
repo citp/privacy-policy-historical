@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnytruth.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065155id_/http%3A//www.funnytruth.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnytruth.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223085610id_/http%3A//www.funnytruth.com/about/privacy) for the most accurate reproduction.*
 
 # Funnytruth.com
 
