@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515123712id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223181719id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Salamanders Privacy Policy
 
@@ -42,19 +42,15 @@ Using the link below open the WikiHow website in a new browser window with infor
 
 
 
-Third Party Advertising - Google Adsense and Infolinks
+Third Party Advertising - Google Adsense
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
 Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting Google's ad and content network policy. 
 
-[ Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
+[ Opt out of seeing personal ads ](https://support.google.com/ads/answer/2662922?hl=en-GB)
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
-
-Infolinks is an In Text advertising service; they take my text and create links within it. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. 
-
-[ Learn more or opt out of the Infolinks Double Underline Link Ads. ](http://www.infolinks.com/opt-out.html?pid=247155%20&wsid=0%20)
 
 Search Box
 
@@ -89,9 +85,3 @@ The Math Salamanders
 Whether you are looking for a free Homeschool Math Worksheet collection, banks of useful Math resources for teaching kids, or simply wanting to improve your child's Math learning at home, there is something here at Math-Salamanders.com for you! 
 
 The Math Salamanders hope you enjoy using these free printable Math worksheets and all our other Math games and resources. 
-
-We welcome any comments about our site on the Facebook comments box at the bottom of every page. 
-
-comments received about this page so far! 
-
-***SOCIALIZEIT***
