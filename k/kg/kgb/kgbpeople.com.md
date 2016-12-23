@@ -1,75 +1,62 @@
-> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614080051id_/http%3A//kgb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223080547id_/http%3A//www.conduitglobal.com/privacy-policy) for the most accurate reproduction.*
 
-# kgb — Privacy
+# Privacy Policy - Conduit Global
 
-  1\. Introduction
+Last Updated September 16, 2016
 
-The websites located at the domains www.kgb.com, www.thekgb.com, www.kgbkgb.com and kgb Mobile Applications (collectively, the “Sites”) are operated by kgb (“kgb” or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. The Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from services on any of the Sites for which you have previously registered, please contact us at accounts@kgb.com or at the address at the end of this policy.
+### Our Commitment to Privacy ** **
 
-**We encourage you to read and review this privacy policy carefully. By using our Sites, you are accepting the practices described in this Privacy Policy.**
+Conduit Global, Inc. (“Conduit Global”) considers the responsible use of personal information to be a critical element in enabling the Internet to reach its potential as a tool for personal and professional activities.  Conduit Global intends to give you as much control as possible over your personal information and we are committed to protecting your personal privacy.  We provide this privacy policy (the “Policy”) to explain the type of information we collect on our website, www.conduitglobal.com (the “Website”).  This Policy also explains the choices you can make about the way your information is collected and used.
 
-2\. Privacy Policy
+### The Information We Collect
 
-This privacy policy applies to your use of the Sites but not does apply to any third-party sites that may be linked to them or to any third-party entities listed on the Sites.
+This Policy applies to all information submitted on the Website.  In general, you can visit www.conduitglobal.com without telling us who you are or revealing any information about yourself.  There are times, however, when we may need information from you (such as your name and address, telephone number, and/or email address) to be able to provide you with the information, service or product you have requested.  Conduit Global will seek to notify you before we collect any personal information from you through this Website.  Some examples of when we may need information are requests by you for information from our Resource Library, which we may deliver to you by email.  We do keep track of the domains from which people visit our site.  If you do not want us or our business partners or affiliates to contact you, you may choose to “opt-out”.  You may “opt-out” by emailing your request to [info@conduitglobal.com](mailto:info@conduitglobal.com), and we will take steps to remove your information from our records.
 
-User information. If you create an account and join kgb in order to take advantage of the full range of services offered on the Sites, we ask for and record some “personal information.” “Personal Information” means information you knowingly choose to disclose to us, such as your name and email address. We may use your email address to send you updates and news about the Sites. You may choose not to receive email of this type and can do so through your “Account Settings” on www.kgb.com.
+In general on the Website, IP addresses (the Internet address of a computer) are logged to track a user’s session while the user remains anonymous.  We analyze this data for certain trends and statistics, such as which parts of our Website users are visiting and how long they spend there. Additionally, we may collect computer and connection information such as browser type, version, and time zone setting, browser plug-in type and versions, and operating system for similar purposes.
 
-Contributions. We store and may publicly display your contributions to the Sites in order to provide and enhance the services that we offer. When we display your contributions, we may do so together with your user name. “Contributions” refers to any content you submit or post to any of the Sites for public display, such as ratings, comments, photos, facts, and other similar types of information. Please do not include information in your contributions that you expect to be kept private.
+### The Way We Use Information
 
-Feedback. If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content you provide in your communication so we can effectively respond to your communication.
+We use the information that you provide us to better design our Website and to enhance our marketing strategy and our products.  To the extent such information is shared with third parties, please see the “Onward Transfer” section, below.
 
-Activity. We record information relating to your use of the Sites, such as the searches you undertake, the pages you visit, your browser or phone type, IP address, requested URL, referring URL, and timestamp information, and other similar types of information. We use this information to operate and administer the Sites and to provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the Sites. You cannot be identified from this aggregate information.
+### Use of Cookies
 
-Enforcement. In certain cases, we may use the information we collect in connection with your use of the Sites (including your personal information) in order to investigate, enforce, and apply our Terms of Use and Privacy Policy.
+Conduit Global web pages use “cookies”, which are small files stored on your computer that help websites remember who you are and information about your visit.  We use cookies to better tailor the Website and our products/services to your interests and needs.  Cookies may also be used to help improve your user experience by remembering the information that you have already provided to Conduit Global.  We do not use cookies to retrieve information from your computer that was not voluntarily provided by you.  You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept the cookie.  However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.  If you want to know more about how cookies work and how to manage or delete them, visit the All About Cookies website ([http:wwwallaboutcookies.org/manage-cookies/](http://wwwallaboutcookies.org/manage-cookies/)) or the Interactive Advertising Bureau’s website ([http://www.youronlinechoices.com](http://www.youronlinechoices.com/)).
 
-3\. Use of Information We Collect 
+### California Do Not Track (DNT) Act
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our services, and to offer you other products, programs, or services we believe may be of interest to you.
+Conduit Global does not respond to “do not track” signals or similar mechanisms.
 
-We may use or disclose your information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+### Onward Transfer
 
-If we believe it is necessary, we may disclose your personal information to third parties in a good- faith belief that such disclosure is reasonably necessary to (i) take action regarding suspected illegal activities; (ii) enforce or apply our Terms of Use or Privacy Policy; (iii) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (iv) protect our rights, reputation, or property or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena, or other similar governmental request we may receive.
+Occasionally, we may share aggregate, non-personally identifiable information about our users with our business partners and affiliates.  Other than our business partners and affiliates, we do not provide personally identifiable information to any third party for any purpose whatsoever.  One of our business partners or affiliates may from time to time also ask for other personal information via the Internet.  They may use this information to correspond with you or for other purposes to support your request or their own business interests.  If you wish to opt-out of receiving future email or mailings from third party vendors, please contact them directly.
 
-We may transfer your information to a third party in connection with a sale or acquisition of kgb or substantially all of its assets.
+### Links to other Sites
 
-kgb may aggregate data and disclose such data only in aggregate and in a non-personally identifiable manner to third parties for marketing and promotional purposes (e.g., how many users responded to a particular offer). Aggregated information does not identify any User individually.
+Users should be aware that when you are on this Website you could be directed to other sites that are beyond our control.  There may be links to other sites that take you outside our service, for example, links to business partners and affiliates.  These other sites may send their own cookies to users, or otherwise collect data or solicit personal information.  If the Conduit Global Website links you to any third party web page, we make no representation or warranty as to the existence, sufficiency, accuracy or completeness of their privacy policy.
 
-We use information about which links have been followed and whether action has been taken on another party’s website to improve our offerings and to customize the Service.
+### Our Commitment to Data Security
 
-When you visit our Site, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Sites. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our website design and functionality.
+We take the security of your personal information very seriously.  We have put in place appropriate physical, electronic and managerial policies/procedures designed to safeguard the information we collect and which cover storing, using and releasing personal data that you have provided and preventing unauthorized access or use.  We have put into place technical and organizational measures designed to prevent unauthorized or unlawful processing of personal information and designed to prevent accidental access, disclosure, alteration, loss or destruction of, or damage to, personal information.  We use an internal self-assessment program to verify that this Policy is accurate, comprehensive, prominently displayed, implemented and accessible.  The self-assessment program is also used to indicate whether or not this Policy adheres to the Safe Harbor principles, as applicable, and aims to ensure that we have in place procedures for training employees regarding implementation and discipline for failure to comply, as well as periodically conducting objective reviews of compliance with the same.  Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
-We use third-party advertising companies to serve ads when you visit the Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+### Privacy Shield
 
-4\. Collection of Information by Third Parties and Sponsors 
+Conduit Global is committed to complying with the Privacy Shield Principles developed by the U.S. Department of Commerce, as well as the European Commission.  To learn more about the Privacy Shield and to view the Privacy Shield list of companies, please visit <https://www.privacyshield.gov/welcome>.
 
-The Sites may contain third-party advertisements or offers that are complementary to your use of kgb. If you choose to use these separate products or services, disclose information to the providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. You should evaluate their practices before deciding to use their services.
+### Use of the Website by Minors
 
-5\. Cookies 
+This Website is not directed to individuals under the age of eighteen (18) and we request that these individuals do not provide personal information about themselves or others through the Website.
 
-To enhance your experience with our Sites, many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering on our Sites. However, once you choose to furnish any of the Sites with Personal Information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our Sites. For example, we may use cookies to personalize your experience at our Sites (e.g., to recognize you by name when you return to the Sites), and to save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. If you choose to disable cookies, some areas of the Sites may not work properly or at all.
+### Changes to This Privacy Policy
 
-6\. No Guarantees 
+We will occasionally update this Policy to reflect changes in our services and customer feedback.  We encourage you to periodically review this policy to be informed of how Conduit Global is protecting your information.
 
-While this Privacy Statement expresses kgb’s standards for maintenance of private data, kgb is not in a position to guarantee the standards will always be met. There may be factors beyond our control that may result in unintentional disclosure of data. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. But no method of transmission over the Internet or method of electronic storage, is 100 percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+### What to Do if You Have a Complaint or Concern
 
-7\. Data
+We are committed to resolving any privacy concerns that you may have.  If you have any concerns or complaints about the way we have handled your personal information, please contact us at: [privacy.officer@conduitglobal.com](mailto:privacy.officer@conduitglobal.com) .  Should you have a complaint, we will try to resolve that complaint directly with you; however, if we are unable to resolve your dispute and you reside in the US, Conduit Global has selected the International Dispute Resolution Center as the independent recourse mechanism to resolve the dispute via arbitration.  For more information on the International Dispute Resolution Center, please visit <https://www.idrc.co.uk/> .  Additionally, Conduit Global is subject to the jurisdiction of the U.S. Federal Trade Commission.  Individuals who are unable to resolve a complaint through the aforementioned complaint process may contact the Federal Trade Commission at:
 
-Should you terminate your account, portions of your data may remain on our production and back-up servers indefinitely.
-
-Any “personal information” you submit to any of our Sites can be viewed and used by other users and could be used to send you unsolicited messages. kgb is not responsible for your disclosure of any such information.
-
-8\. Changes to This Policy 
-
-We reserve the right to make changes to this Privacy Policy. You may review updates to our Terms of Use and Privacy Policy at any time via links on our Sites. You agree to accept electronic communications and/or postings of an annual or revised Privacy Policy on the Sites and that such electronic communications or postings constitute notice to you of the Privacy Policy. We reserve the right to modify this policy from time to time, so please review it regularly. If we make material changes to this policy, we will notify you here, by email, and/or by means of a notice on our home page.
-
-Kgb Contact Information
-
-You can contact kgb with any questions or issues relating to this Privacy Policy at:
-
-kgb
-
-655 Madison Avenue, Third Floor
-
-New York, NY 10065
-
-Phone: (212) 909-8282
+Federal Trade Commission  
+Attn: Consumer Response Center  
+600 Pennsylvania Avenue NW  
+Washington, DC 20580  
+[consumerline@ftc.gov  
+](mailto:consumerline@ftc.gov)[www.ftc.gov](http://www.ftc.gov/)
