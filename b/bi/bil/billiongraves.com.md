@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2016-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160216145724id_/https%3A//billiongraves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billiongraves.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223071944id_/https%3A//billiongraves.com/privacy-policy) for the most accurate reproduction.*
 
 # BillionGraves | Cemetery & Headstone Records
 
