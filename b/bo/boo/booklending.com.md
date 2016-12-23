@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booklending.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032402id_/http%3A//www.booklending.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklending.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223072719id_/http%3A//booklending.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# BookLending.com - Privacy Policy - Book Lending - Borrow and Lend Kindle Books for Free.
+# BookLending.com - Privacy Policy - Book Lending - Borrow and Lend Kindle Books for Free
 
 _Last updated April 16, 2012._
 
