@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmyshow.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403133327id_/https%3A//in.bookmyshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyshow.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224000413id_/https%3A//in.bookmyshow.com/privacy) for the most accurate reproduction.*
 
 # BookMyShow - Privacy Policy, Book Latest Movies Tickets Online
 
@@ -15,5 +15,9 @@ Bigtree will not sell, trade or disclose to third parties any information derive
 Bigtree will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Bigtree will continue to enhance our security procedures as new technology becomes available. 
 
 If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Bigtree will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
+
+Privacy Policy updated as on 14th Nov, 2014. 
+
+Grievance officer of the Company is Ms. Komal Chainani & her email address is [allears@bookmyshow.com](mailto:allears@bookmyshow.com). 
 
 [Contact Us](https://web.archive.org/contactus.bms)
