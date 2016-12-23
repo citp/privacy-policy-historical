@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626005321id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalchalk.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223113104id_/http%3A//www.digitalchalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigitalChalk
 
 * * *
 
-Digitalchalk.com is committed to protecting your personal information. As a reminder, Digitalchalk.com does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of DigitalChalk.com, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Digitalchalk.com’s privacy practices, contact us at 1-828-665-8292.
+As a reminder, Digitalchalk.com does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of DigitalChalk.com, DO NOT RESPOND! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Digitalchalk.com’s privacy practices, contact us at 1-828-665-8292.
 
 **OUR PRIVACY COMMITMENT TO OUR CUSTOMERS**
 
@@ -160,7 +160,7 @@ Our Web site may also use other technologies to track which pages of our Web sit
 
 _**Third-Party Ad Providers**_
 
-_****_Our Web sites include third-party service providers with advertising on our website to be served across the Internet. If you click on these advertisements, you will be connected to those service providers. They may collect anonymous information about your visits to our Web site, and your interaction with our ads. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about your visits to this and other Web sites so that we can provide advertisements about goods and services.
+Our Web sites include third-party service providers with advertising on our website to be served across the Internet. If you click on these advertisements, you will be connected to those service providers. They may collect anonymous information about your visits to our Web site, and your interaction with our ads. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about your visits to this and other Web sites so that we can provide advertisements about goods and services.
 
 No personally identifiable information is collected in this process. We may share anonymous information with these service providers in an aggregate form, for purposes of analysis and improvement of our site.
 
@@ -216,4 +216,4 @@ Because Digitalchalk.com will continue to implement new technologies and improve
 * * *
 
 WHERE CAN I DOWNLOAD THE REFUND POLICY.  
-Digitalchalk.com is a delivery agent for digital media content posted on Digitalchalk.com by third-party providers. To acces the full refund policy please download the [Refund Policy PDF](https://web.archive.org/refund-policy.pdf "DigitalChalk: Refund Policy").
+Digitalchalk.com is a delivery agent for digital media content posted on Digitalchalk.com by third-party providers. To access the full refund policy please download the [Refund Policy PDF](https://web.archive.org/refund-policy.pdf "DigitalChalk: Refund Policy").
