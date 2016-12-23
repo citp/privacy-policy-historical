@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621121249id_/http%3A//www.cookmates.com/static/privacy_cookmates.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookmates.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223130747id_/http%3A//www.cookmates.com/static/privacy_cookmates.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
