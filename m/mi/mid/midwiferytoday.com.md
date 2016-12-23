@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609210009id_/http%3A//midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwiferytoday.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223114945id_/http%3A//midwiferytoday.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,10 +19,10 @@ Our e-mail address is
 
 Our telephone numbers are
 
-U.S. and Canada|  | 1-800-743-0974  
+U.S. and Canada|  | 800-743-0974  
 ---|---|---  
-Worldwide|  | +1 541-344-7438  
-Fax|  | +1 541-344-1422  
+Worldwide|  | +1-541-344-7438  
+Fax|  | +1-541-344-1422  
   
 ## General Information
 
