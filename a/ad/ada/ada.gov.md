@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ada.gov privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108174139id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.gov privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223033306id_/https%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # Privacy Policy | DOJ | Department of Justice
 
@@ -36,7 +36,7 @@ You do not have to provide any personal information to us to access information 
 
 We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In some circumstances, we may be required by law to disclose information you submit or we may share this information with other agencies for law enforcement purposes or to protect the Department's websites from security threats.  If you provide comments in response to a request for public comments, we may make those comments as well as your identity available to the public in a publication or by posting them on our website. Where possible we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed.
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act (FOIA). A discussion of the FOIA can be found at [http://www.justice.gov/oip/foia_guide09.htm](http://www.justice.gov/oip/foia_guide09.htm) and a discussion about the Privacy Act can be found at [http://www.justice.gov/opcl/privacyact1974.htm](http://www.justice.gov/opcl/privacyact1974.htm).  
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act (FOIA). A discussion of the FOIA can be found at [http://www.justice.gov/oip/foia_guide09.htm](https://web.archive.org/oip/foia_guide09.htm) and a discussion about the Privacy Act can be found at [http://www.justice.gov/opcl/privacyact1974.htm](https://web.archive.org/opcl/privacyact1974.htm).  
 
 Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.
 
@@ -56,7 +56,7 @@ _Session cookies_
 Session cookies are not stored on your computer’s hard drive, and are removed when you complete your session or exit the site. Some Department websites use these “Tier 1” session cookies to provide streamlined navigation and statistical analysis. No personally identifying information is gathered. 
 
 _Persistent cookies_  
-Certain Department websites use “Tier 2” persistent cookies that remain on your computer’s hard drive after you complete an activity. For example, some Department websites use persistent cookies in association with a voluntary customer satisfaction survey conducted by a third party, [Foresee Results](https://www.foresee.com/). These surveys obtain feedback and data regarding visitors’ satisfaction with our websites, but they do not collect any personally identifying information. If you are randomly selected to participate in this survey, a persistent cookie is stored on your computer’s hard drive for 90 days to preclude a new invitation during that time. Some Department websites also use persistent cookies to enable a [Google Analytics ](http://www.google.com/)or [Webtrends ](http://www.webtrends.com/)program to measure how new and returning visitors use our websites over time. These persistent cookies do not collect any personally identifying information, and the information that is collected is only used to improve our websites. 
+Certain Department websites use “Tier 2” persistent cookies that remain on your computer’s hard drive after you complete an activity. For example, some Department websites use persistent cookies in association with a voluntary customer satisfaction survey conducted by a third party, [Foresee Results](http://www.foresee.com/). These surveys obtain feedback and data regarding visitors’ satisfaction with our websites, but they do not collect any personally identifying information. If you are randomly selected to participate in this survey, a persistent cookie is stored on your computer’s hard drive for 90 days to preclude a new invitation during that time. Some Department websites also use persistent cookies to enable a [Google Analytics ](http://www.google.com/)or [Webtrends ](http://www.webtrends.com/)program to measure how new and returning visitors use our websites over time. These persistent cookies do not collect any personally identifying information, and the information that is collected is only used to improve our websites. 
 
 Back to Top
 
@@ -70,7 +70,7 @@ Please note that the Department does not control, moderate, endorse, or respond 
 
 The Department’s websites may also contain embedded content from third-party websites, such as [YouTube ](https://www.youtube.com/user/TheJusticeDepartment)videos uploaded by the Department.  We provide this embedded content as a service to visitors to our site.  When you click on embedded content, you are subject to the privacy and security policies of the third-party website that hosts the content.
 
-For more information on the Department’s use of social media applications and third-party websites, please refer to the Department’s Privacy Impact Assessment, “[Third-Party Social Web Services](http://www.justice.gov/opcl/docs/opa-webservices-pia.pdf),” published by the Department’s Office of Public Affairs.
+For more information on the Department’s use of social media applications and third-party websites, please refer to the Department’s Privacy Impact Assessment, “[Third-Party Social Web Services](https://web.archive.org/opcl/docs/opa-webservices-pia.pdf),” published by the Department’s Office of Public Affairs.
 
 Back to Top
 
