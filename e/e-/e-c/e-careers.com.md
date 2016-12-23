@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-careers.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326145954id_/http%3A//www.e-careers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-careers.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223155735id_/https%3A//www.e-careers.com/privacy-policy) for the most accurate reproduction.*
 
 # e-Careers - Privacy Policy
 
@@ -39,7 +39,7 @@ We may use your personal information to:
 
 
 
-It is to be noted that except as provided in this policy, we will not disclose your personal information to third parties.
+It is to be noted that except as provided in this policy, we will not disclose your personal information to third parties. However please be aware that since some of the courses that you buy are sourced by us and provided via our supplier’s Learning Management System (LMS), we will need to share certain details of yours in order to provide you, access to the course and fulfil our services.
 
 ##### CONTROLLING YOUR PERSONAL INFORMATION
 
