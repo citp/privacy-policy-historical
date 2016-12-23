@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypublishing.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630115129id_/http%3A//www.speedypublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypublishing.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224005506id_/http%3A//www.speedypublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
