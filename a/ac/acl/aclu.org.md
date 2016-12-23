@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235436id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223215802id_/https%3A//www.aclu.org/american-civil-liberties-union-privacy-statement) for the most accurate reproduction.*
 
-# AMERICAN CIVIL LIBERTIES UNION PRIVACY STATEMENT | American Civil Liberties Union
+# American Civil Liberties Union Privacy Statement | American Civil Liberties Union
 
 _Passively Collected Data_
 
@@ -18,6 +18,7 @@ We may use that voluntarily submitted data to:
   * Contact you about other ACLU activities or news, or about opportunities to support the ACLU.
   * In the case of petitions, display your first name, last initial, city, and state on petition forms that you sign.
   * In the case of blog comments, post your comment and, if given, your name.
+  * Deliver content to you on platforms such as social media, other websites, search results pages and mobile apps.
 
 
 
@@ -25,7 +26,9 @@ _When We May Share Your Information With Other Organizations_
 
 When we give you an opportunity to voluntarily submit information about yourself, we may give you the option of indicating that you permit us to share that data with other parties such as coalition partners or specific legislators. We will not share your data with such parties unless you have indicated that you permit us to do so.
 
-To help facilitate our membership growth, we may also use your name and mailing address in blind exchanges with other nonprofit organizations. Learn more about how this type of exchange helps our work, while limiting disclosure of your information: <https://www.aclu.org/address-share>. However, you may choose not to participate in this type of exchange by [visiting our contact page](https://www.aclu.org/contact-us) and submitting a request to opt out.
+To help facilitate our membership growth, we may also use your name and mailing address in blind exchanges with other nonprofit organizations. Learn more about how this type of exchange helps our work, while limiting disclosure of your information: <https://www.aclu.org/address-share>.  However, you may choose not to participate in this type of exchange by visiting our contact page (<https://www.aclu.org/contact-us>) and submitting a request to opt out.
+
+In addition to those ways of sharing information with unrelated organizations, we may also share information with our own ACLU affiliates around the country.  Our affiliates are bound to use that information only as allowed under this Online Privacy Statement, and with regard to their own operations.
 
 _Our Email List_
 
