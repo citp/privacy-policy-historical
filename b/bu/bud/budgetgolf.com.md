@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531134633id_/http%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223140326id_/http%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Home :: BudgetGolf Privacy Policy
-
-## BudgetGolf Privacy Policy
 
 BudgetGolf  II Inc. ("BudgetGolf") is committed to protecting online user privacy because we care. In order to ensure your privacy, information BudgetGolf collects through the BudgetGolf.com web site at www. BudgetGolf.com ("Site") is used only in the manner and for the purposes described in this BudgetGolf.com Privacy Policy ("Privacy Policy.")
 
