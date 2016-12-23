@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610155113id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223165641id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FortuneBuilders
 
@@ -45,6 +45,10 @@ To third parties to facilitate or implement a transfer/sale of all or part of ou
 If we reasonably believe it is necessary or appropriate: (i) under applicable law; (ii) to comply with legal process; (iii) to respond to requests from public and government authorities; (iv) to enforce our terms and conditions; (v) to protect our operations or those of any of our affiliates; (vi) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; or (vii) to allow us to pursue available remedies or limit the damages that we may sustain.
 
 In any other way we may describe to you when you provide the Personal Information. 
+
+### Unsubscribing from Email Communication
+
+You can unsubscribe from email communication at any time using the link provided at the bottom of all our emails or by emailing [support@fortunebuilders.com](mailto:support@fortunebuilders.com).
 
 ### Other Information
 
