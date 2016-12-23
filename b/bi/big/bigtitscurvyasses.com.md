@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigtitscurvyasses.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809054005id_/http%3A//bigtitscurvyasses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitscurvyasses.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223045232id_/http%3A//bigtitscurvyasses.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**PRIVACY POLICY for Incredipass sro  
+**PRIVACY POLICY for Karel Sklenar business reg. 01531948  
 Effective as of February 1, 2010 (the "Effective Date")**
 
   
