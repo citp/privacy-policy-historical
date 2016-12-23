@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213954id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223053715id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
