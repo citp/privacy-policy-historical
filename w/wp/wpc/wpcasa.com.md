@@ -1,72 +1,120 @@
-> *The following text is extracted and transformed from the wpcasa.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026235816id_/http%3A//wpcasa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcasa.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223102129id_/https%3A//wpcasa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy › wpCasa
+# Privacy Policy | WPCasa
 
-Our Privacy Policy was last updated and posted on April 4, 2013. It governs the privacy terms of our Website, located at http://wpcasa.com/. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+This privacy policy has been compiled to better serve those who are concerned with how their _Personally Identifiable Information_ (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**Your Privacy**  
-Simon Rimkus (ESX3380548P) follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-**Definitions**  
-“Non Personal Information” is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address or other details to help you with your experience.
 
-“Personally Identifiable Information” is non-public information that is personally identifiable to you and obtained in order for us to provide you within our Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.
+**When do we collect information?**
 
-**Information We Collect**  
-Generally, you control the amount and type of information you provide to us when using our Website.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, open a support ticket or enter information on our site.
 
-As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
+**How do we use your information?**
 
-**Computer Information Collected**  
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication:
 
-  * **Cookies**  
-Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
-  * **Third Party Tracking Tools**  
-We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only Non-Personal Information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
-
-  * **Automatic Information**  
-We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
+  * It allows us to better service you in responding to your customer service requests.
+  * It allows us to quickly process your transactions.
+  * It allows us to send periodic emails regarding your order or other products and services.
 
 
 
+**How do we protect your information?**
 
-**How We Use Your Information**  
-We use the information we receive from you as follows:
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-  * **Customizing Our Website**  
-We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via **Secure Socket Layer** (SSL) technology.
 
-  * **Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
+We implement a variety of security measures when a user places an order enters, submits or accesses their information to maintain the safety of your personal information.
 
-  * **Data Aggregation**  
-We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-  * **Legally Required Releases of Information**  
-We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; © necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Simon Rimkus (ESX3380548P), our Users, employees, and affiliates.
+### Do we use _cookies_?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We use cookies to:
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 
 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s help menu to learn the correct way to modify your cookies.
 
-**Protecting Your Child’s Privacy**  
-Our Website is not designed for use by anyone under the age of 13 (“Child”), though we realize we may have a Child attempt to make purchases through our Website. We do not verify the age of our Users nor do we have any liability for verifying a User’s age. If you are a Child, please seek the permission of a parent or guardian before using our Website.If you are a parent or guardian and believe your Child is using our Website, please contact us to remove your Child’s account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our Website, we will immediately delete the account as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. However, as parent of such a Child, you understand that you are legally liable for any transactions created by the Child.
+If you turn cookies off, some features will be disabled. Some of the features that make your site experience more efficient and may not function properly. However, you will still be able to place orders by contacting customer service.
 
-**Links to Other Websites**  
-Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.
+### Third-party disclosure
 
-**Our Email Policy**  
-Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
 
-**Privacy Policy Updates**  
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the “Last Updated” date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+However, non-personally identifiable visitor information may be provided to other parties for marketing (e.g. newsletter), advertising or other uses.
 
-**Questions About Our Privacy Practices or This Privacy Policy**  
-If you have any questions about our Privacy Practices or this Policy, please contact us.
+**Third-party links**
 
-**Simon Rimkus**  
-Avda. Aragon 161  
-E-29604 Marbella  
-[simon@wpcasa.com](mailto:simon@wpcasa.com)  
-N.I.F. ESX3380548P
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Google
+
+Google’s advertising requirements can be summed up by [Google’s Advertising Principles](https://support.google.com/adwordspolicy/answer/6008942?hl=en&rd=1). They are put in place to provide a positive experience for users.
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+**Opting out:**
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+  * We will notify you via email (within 3 business days)
+  * We will notify the users via in-site notification (within 3 business days)
+
+
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions.
+  * Process orders and to send information and updates pertaining to orders.
+  * Send you additional information related to your product and/or service.
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at [mail@wpcasa.com](mailto:mail@wpcasa.com) or follow the instructions at the bottom of each email and we will promptly remove you from all correspondence.
+
+—
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Simon Rimkus  
+C/ Dalí 20  
+Urb. Real de Zaragoza  
+29604 Marbella (Spain)  
+[mail@wpcasa.com](mailto:mail@wpcasa.com)
+
+Last Edited on 2016-06-23
