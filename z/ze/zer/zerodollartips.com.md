@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630160755id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodollartips.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223173847id_/http%3A//www.zerodollartips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zero Dollar Tips
+
+[__  Home](http://www.zerodollartips.com/) > Privacy Policy
 
 At [Zero Dollar Tips](http://www.zerodollartips.com/about-us/ "Zero Dollar Tips") the privacy of our readers/visitors is exceedingly important. This Privacy Policy outlines the all types of personal information that is received and collected and how it is used.
 
