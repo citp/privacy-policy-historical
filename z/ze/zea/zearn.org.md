@@ -1,76 +1,144 @@
-> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324181718id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zearn.org privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223010911id_/https%3A//www.zearn.org/privacy) for the most accurate reproduction.*
 
 # Zearn
 
-Zearn, Inc. (“Zearn,” “we,” “us,” and “our”) WILL NOT sell, trade, or assign any unaggregated, personally-identifiable personal information that it collects to third parties outside of Zearn. If Zearn shares any such information with a third party, it will be in accordance with the terms of this privacy policy and for the limited purposes that we discuss below. If you have any questions, concerns or comments regarding this privacy policy, you may contact us at the email and address posted at the end of this policy statement. We are committed to addressing your privacy or security questions or concerns. 
+_We've recently updated our Privacy Policy to help make it easier for you to understand our data collection and handling practices. Please be assured that we have not changed our data handling practices. We've simply changed the way we describe them in an attempt to improve our clarity and transparency._
 
-This privacy policy applies to “Programs” (as defined in Paragraph 1 below) and to our “Mobile Apps titled Impoppable” (as defined in Paragraph 9 below). The manner in which we collect, use and share information from persons using a Program vs. those persons using a Mobile App titled Impoppable differs significantly. Mobile Apps titled Impoppable are subject to Paragraphs 8, 9, 10 and 11 below only and, for purposes of this privacy policy, Mobile Apps titled Impoppable are not Programs. 
+Last Updated: April 2016
 
-**1\. Information Collected by Zearn**  
-In order for a student under the age of 13 to participate in the Zearn Pilot Program, the Zearn Free Trial Program, and/or other Zearn products (which includes our web apps, but which does not include our Mobile Apps titled Impoppable) (collectively, the “Programs”), a parent or a legal guardian of that student or an authorized school official must first register at the Zearn website. If you do not register at our website, you and your student(s) will not be able to use the Programs. This registration process will require you to provide your name and email address. For home accounts we require your phone number and, if payment will be required for the Programs, your credit card information, including your billing address. Once you have registered, you may then sign up your student(s) for the Programs by providing each student’s first and last name, gender, their current school grade level, and for home accounts, their date of birth. When you and your student(s) participate in the Programs, Zearn will automatically collect information about your patterns of usage, session data, and other information relating to usage, choices, and preferences, including that of your student or students. We call this information “Participation Information.” 
+At Zearn, we are committed to protecting your privacy. This Privacy Policy explains the types of information we collect on our website, located at [www.zearn.org](https://www.zearn.org/), through our Zearn Math and related programs (collectively, “Zearn”) and through our Impoppable app. It further explains how we will use, disclose, and protect your information. By visiting Zearn, you agree to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use Zearn.
 
-**2\. How Zearn will use the information collected from you**  
-Email Address: Your email address will serve as your login username to participate in one or more Programs. Your email address may be used to send a confirmation email at registration, as well as information and updates to the Programs. In some cases we will also email your student’s personal reports to you, with further information about the progress your student is making on the Programs. We may use the email address as an additional means of communicating with you about the Programs and Zearn, including notifying you of updates to the Web Site or its related policies. Student’s Name: Your student’s name will be used to customize your student’s participation in the Programs, as well as to personalize the reports and updates about your student’s progress in the Programs. 
+Zearn is hosted in the United States. If you are located outside of the United States, please note that the information you provide is being transmitted to us in the United States, and will be subject to this Privacy Policy and applicable laws, which may not be as protective as the laws in your country. By using Zearn, you agree to this.
 
-In addition, in some cases we may mail related material to your student using his/her name, care of you, at the mailing address that you provide. Phone Number: Your phone number will serve as an alternate way of contacting you for the same purposes as the email address. Student’s Date of Birth: We will use a student’s age to group Performance Data of children of similar age so we can assess performance by age, and improve the program. Student’s School Grade Level: We will use a student’s grade level to group Performance Data of children of similar grade levels so we can assess performance by grade level, and improve the program. Student’s Gender: We will use a student’s gender to personalize the Program’s experience. In addition, we will use a student’s gender to group Performance Data of children of the same gender so we can assess performance by gender, and improve the program. Mailing Address: Your mailing address may be used to allow Zearn to mail you and/or your student various Program materials and ancillary program products. Secondary Uses: Registration Information and other information may be used by us for demographic profiling and targeted advertising, although in such cases, the information will be aggregated as ANONYMOUS statistical information. Zearn WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of Zearn. Participation Information: Participation Information will be collected for client care, marketing, development, and other operational and business purposes, including improvements to the Programs by Zearn. 
+By registering students for Zearn or providing us with any student information, you represent and warrant that you are authorized to provide such information and to allow the information collection and use for your students.
 
-**3\. Information Zearn collects directly from your student**  
-Zearn collects information directly from your student, over the internet, in the form of the interactions that your student makes when participating in the Programs. We refer to the data resulting from such participation, which includes but is not limited to data on when your student starts and stops a lesson, the responses your student makes to questions asked, the timing of your student’s responses, your student’s choice of character and customizations, and the choice of lessons to play as “Performance Data.” We will use Performance Data to (1) measure your student’s performance in each lesson of the Zearn Programs and to adapt the Programs to his or her learning needs, (2) analyze your student’s Performance Data, and provide you with periodic progress reports about your student’s performance in the Programs, and (3) improve the Programs. If we ever need to collect information that is not Performance Data directly from your student, Zearn will seek your authorization prior to collecting such additional information from your student. In addition, we may aggregate your student’s Performance Data with the Performance Data of other students participating in the Programs for marketing and other business related purposes. Aggregate information will be ANONYMOUS and will not identify your student. 
+  
 
-**4\. Opting-out of providing the information we request**  
-Because the Zearn Programs are individualized and customized for each student, all the information we request from you and your student is required for you and your student to participate in the Programs, with the exception of certain information to be used for our marketing purposes to you only. At any time, you may revoke your consent to allowing your student to participate in the Zearn Programs or refuse to allow Zearn to further use or collect your student’s personal information. Any ANONYMOUS performance data will be retained, but we will no longer use any identifiable information regarding you or your student that you have provided. However, if you do any of the foregoing, you and your student will not be able to participate in the Programs. 
 
-**5\. Reviewing and changing your information**  
-You may review and modify your Registration Information at any time by accessing our website using your password. 
+## 1\. Information Collected by Zearn
 
-**6\. Consent**  
-In order to use the Programs, you will be asked to submit certain personal information about your student under 13 and you and to authorize Zearn to use that information in a limited number of ways. We will require you to review and submit a Parental Consent as part of the registration process, which will require you to consent to our collection and use of information directly from your student over the Internet as described above. 
+_Information You Provide:_  
+When educators register for Zearn, we ask you to provide certain personal information, such as your first and last name, your role, the name of your school, district, city, state, email address, and a password. Teachers are also asked to provide their grade level. 
 
-**7\. Password Protection**  
-You will be asked to select a password to access the Programs through our website, and this password will be used to allow your student to use the Programs. Your password should be kept confidential. Your password will also allow you to review and change the information we collect about you and your student or students. 
+In the alternative, you may register for Zearn by using a pre-existing Google account. Please be aware that Google has its own privacy policy, and we encourage you to read it. By registering with Zearn through your Google account, you agree to our collection and use of any personal information or other data we may receive from them in accordance with the terms of this Privacy Policy. 
 
-**8\. Protecting your information.**  
-No data transmissions over the internet (or elsewhere) can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit (or otherwise provide) to us and you do so at your own risk. Zearn has multiple security measures in place to protect the loss, misuse or alteration of information under our control. Please note that this Program is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States, which does not have the same data protection laws as the EU or other regions and by providing your personal data you consent to the use of your personal data for the uses identified above in accordance with this Privacy Policy; and the transfer of your personal data to the United States as indicated above. 
+To sign up your students for Zearn, we may ask you to provide each student’s first and last name, and unique student identifier, as well as log-in information including username and password and non-personal information such as gender, current grade level, and date of birth. Zearn only collects information about students when it is provided by a school representative legally authorized to share the student’s information. Students under 13 may not register on their own.
 
-**9\. Mobile Apps titled Impoppable**  
-Zearn may offer one or more mobile applications titled Impoppable (collectively, “Mobile Apps titled Impoppable”) via various platforms or operating system providers (e.g., Apple App Store) that can be used in conjunction with a smartphone, tablet and/or other devices (each a “Device”). [Note: The web apps that Zearn offers are Programs; they are not Mobile Apps titled Impoppable.] This Paragraph 9 describes the specific privacy-related practices that apply to our Mobile Apps titled Impoppable. 
+You may also choose to register your students on Zearn using a school authorized Google email account. By doing so, you confirm that you have obtained any necessary permissions from your school, district, and parents.
 
-**A. Information collected (and not collected) by Zearn.**  
-In order for a student (or other person) to participate in a game or other activity via a Mobile App titled Impoppable, a person must download the Mobile App titled Impoppable to his/her Device. Upon downloading a Mobile App titled Impoppable, a user identification will be created by the platform operator that is associated with that installation (“User ID”). When a person participates in an activity via the Mobile App titled Impoppable (e.g., plays a game or creates a Username (as defined below)), Zearn will automatically collect information about that person’s patterns of usage, session data, and other information relating to usage and choices (which includes “Mobile Performance Data” as defined in the following paragraph) as well as the type of platform and type of Device, all based on the User ID. We call all of this information “Mobile Participation Information.” 
+Users may also provide feedback on Zearn or report a problem.
 
-We refer to the data resulting from such participation in an activity via a Mobile App titled Impoppable, which includes, but is not limited to, data on when a person starts and stops an activity, the responses a person makes to questions asked and the timing of a person’s responses as “Mobile Performance Data.” 
+_Program Information:_  
+When your students use Zearn, we collect certain information, such as when a student starts and stops a lesson, which lessons a student chooses to do, the responses students provide to questions asked, and the timing of those responses. 
 
-Once the Mobile App titled Impoppable is downloaded onto a Device, a person using the Mobile App titled Impoppable will be asked to provide a username (“Username”) of his/her choice in order to play a game or initiate another activity. Multiple Usernames may be created so that multiple users can use the Mobile App titled Impoppable on a single Device. Zearn will not have access to any Usernames and, therefore, does not collect or use Usernames in any way. Also, Zearn does not associate a given User ID with any Username(s). Except for Mobile Participation Information (which includes Mobile Performance Data), Zearn does not collect other information from persons using a Mobile App titled Impoppable. For example, Zearn does not collect a user’s email address, phone number, email address, friends list or geolocation through any means including, but not limited to, the User ID. 
+_Site Usage Information:_  
+When using Zearn, our servers automatically collect certain site usage information associated with your computer. Site usage information is non-personal information that includes, but is not limited to, browser type, operating system, IP address, and the domain name from which you accessed Zearn. It may also include information such as the date and time you accessed Zearn, how much time you spent on Zearn, the pages you visit, and other “click-stream” data. 
 
-**B. How Zearn will use the information collected via Mobile Apps titled Impoppable (including sharing of information with third parties)**  
-Mobile Participation Information will be collected for administrative, client care, marketing, development, and other operational and business purposes, including improvements to the Mobile Apps titled Impoppable by Zearn. We will use Mobile Performance Data to (1) measure your student’s performance in a Mobile App titled Impoppable and to adapt the Mobile App titled Impoppable to his or her learning needs, and (2) improve the Mobile App(s) titled Impoppable. In addition, we may aggregate a student’s Mobile Performance Data with the Mobile Performance Data of other students using a Mobile App(s) titled Impoppable (or participating in a Program(s)) for marketing and other business related purposes. Aggregate information will be ANONYMOUS. As indicated in, and subject to, Paragraph 10, we may share information collected via Mobile Apps titled Impoppable with third parties. 
+We use cookies to collect the Program and Site Usage information described above. A cookie is a small data file that may be sent by a website or application and stored on the hard drive of your computer. A cookie stores information about your browser that allows us to recognize your browser when you return and to remember your preferences. You may reject cookies, but by doing so, you may not be able to use Zearn. To learn more about browser cookies, including how to manage or delete them, check the “Help,” “Tools” or similar section of your browser. By using Zearn, you agree to the use of cookies.
 
-**10\. Your information and third parties**  
-Except as provided in this Privacy Policy, Zearn WILL NOT disclose the information that it obtains from you to third parties without your express written permission, or where we believe, in good faith, that the law requires us to disclose the information. Zearn WILL NOT sell, trade, or assign any unaggregated personal information that it collects to third parties outside of Zearn. We, however, may aggregate the information that we collect from users of our website and/or Mobile Apps titled Impoppable to create demographic profiles and/or performance profiles regarding the progress of students who use the Programs and/or Mobile Apps titled Impoppable. Zearn may share aggregated information with advertisers, marketing professionals, or potential investors. This aggregated information will be compiled and reported in the form of ANONYMOUS group statistics only. In addition, in order to offer and improve the Programs, Zearn may share Registration Information about the parents, legal guardians, and school officials that register to participate in the Programs, along with such registrants’ Participation History, to contractual business partners of Zearn that are directly involved in the sale, distribution, operation, maintenance, and support of the Programs on behalf of Zearn. Notwithstanding anything to the contrary, as Zearn continues to develop its business, it might sell some or all of its assets. In such transactions, customer information is generally one of the transferred business assets. An acquiring company would be required to protect all information that Zearn collects from users of our website, Programs and Mobile Apps titled Impoppable in accordance with the terms of this Privacy Policy. 
+_App Usage Information:_  
+When using Impoppable app, Zearn will automatically collect certain app usage information, such as the mobile operating system, device ID, patterns of data, and session data, such as when activities are started and stopped and timing of responses to questions. 
 
-**11\. Unsolicited third-party promotional emails**  
-Zearn will not send you unsolicited third-party promotional emails. 
+We use third party service providers to assist us in collecting and understanding Program Information, Site Usage Information, and App Usage information. 
 
-**12\. Use of cookies**  
-As a standard practice, Zearn uses “cookies”. A cookie is a small amount of data sent to your browser from our web server and stored on your computer, then sent back to the server by your browser each time you access our website. Cookies enable us to track usage of our website. In addition, cookies are required for the operation of the Programs. Please note that if you refuse the Zearn cookie (by turning cookies off in your browser or by clicking “don’t accept” if you have set your browser to warn you before accepting cookies), our Programs will not work. Cookies cannot be used to gather personal information from your computer. 
+  
 
-**13\. Children’s Online Privacy Protection Act**  
-Congress has enacted a law called the Children’s Online Privacy Protection Act of 1998 (COPPA) which is designed to protect children’s privacy during use of the Internet. Zearn has implemented practices consistent with the guidelines provided by the Federal Trade Commission to date. Zearn will never knowingly request personally identifiable information or private content from anyone under the age of 13 without parental consent. If you subscribe to our Programs, provided you are 13 years of age or older, you will be asked, at the time of registration, whether you consent to allowing users under the age of 13 to use your subscription and to be subject to this Privacy Policy. You must be the parent or legal guardian to grant such consent. If we receive this parental consent, we may receive personal information from children under the age of 13 listed on your account in order to provide our Programs and services to them. ZEARN DOES NOT SHARE CHILDREN’S PERSONALLY IDENTIFIABLE INFORMATION WITH THIRD PARTIES. If you are a parent or legal guardian of a user under 13 you may, at any time, revoke your consent to allow your student to use the Programs under your subscription, refuse to allow Zearn to further use or collect your student’s personal information, or direct Zearn to delete all identifiable information regarding your student that you have provided. To do so, please contact us at the contact information below. However, if you do any of the foregoing, your student will not be able to use the Programs. If you would like more information about COPPA, please go to http://www.ftc.gov/ogc/coppa1.htm. 
 
-**14\. The Children’s Internet Protection Act**  
-The Children’s Internet Protection Act (CIPA) is a federal law enacted by Congress in December 2000 to address concerns about access to offensive content over the Internet on school and library computers. CIPA imposes certain types of requirements on any school or library that receives funding support for Internet access or internal connections from the “E-rate” program — a program that makes certain technology more affordable for eligible schools and libraries. Our Programs do not provide links to external resources or chat rooms, and do not contain any offensive or inappropriate matter. As a result, any school or library that uses Zearn Programs will be fully compliant with CIPA. If you would like more information about CIPA, please go to http://www.fcc.gov/cgb/consumerfacts/cipa.html. 
+## 2\. How We Use Your Information:
 
-**15\. The Family Educational Rights and Privacy Act**  
-The Family Educational Rights and Privacy Act (FERPA) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA gives parents certain rights with respect to their children’s education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. Zearn is fully compliant with FERPA. Specifically: Any sensitive online information is transmitted over secure channels. All student data are stored in ways that are not publicly accessible. Zearn does not share student information with any third parties. If a school requests that student data should be sent to a third party, with parental consent, Zearn would send the data to the school and never directly to the third party. If you would like more information about FERPA, please go to http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html. 
+_Information You Provide:_  
+We may use the information that you provide when you register for Zearn to create your account. This allows you to log in, register a classroom within the product, and sign up your students. 
 
-**16\. Amendments**  
-Zearn may amend this Privacy Policy from time to time. We will notify you by email regarding any material changes to our privacy and security practices. Please review all revisions to the Privacy Policy. Your continued use of our website(s) and the Programs after the date Zearn has emailed such notices will be deemed to be your agreement to the changed terms. 
+We may use your email address to send you information regarding your Zearn account. We may also use your email address to send you a newsletter if you choose to subscribe.
 
-**17\. Contact Us**  
-If you have any questions about your privacy or security measures at Zearn, please contact us:  
+We use the student names solely to facilitate a teacher, school, or district’s identification of their students using Zearn. 
+
+When users provide feedback or report a concern, we use their information to respond to their request or fix the issue. We do not email students directly at any time; any concerns reported by a student will be resolved through the adult who created the student’s account.
+
+You always remain in control of the personal information you provide to us about you and your students. This means that you can review, revise, or delete your personal information or that of your students as described below.
+
+Non-personal information, such as gender, grade level, date of birth, and other demographic information are used in aggregated, anonymized reporting to help us better understand how the program is used and to improve the program. 
+
+_Program Information:_  
+We use Program Use Information to (1) provide you with information regarding your students’ usage and performance on Zearn and (2) to serve sequential and progressive lessons to your students. 
+
+In addition, we may use aggregated, anonymized Program Use Information to improve and demonstrate the efficacy of Zearn.
+
+_Site Usage Information:_  
+We use Site Usage Information to administer the site and program, monitor and diagnose problems with it, remember you when you return so that you don’t have to resubmit your information and so that we can maintain your progress, and to improve our program.
+
+We do not combine the personal information that you provide at registration with Program or Site Usage information. 
+
+_App Usage Information:_  
+We use App Usage Information to administer the app, to monitor and diagnose problems with it, remember you when you return so that we can maintain your progress, and to improve our products.
+
+Although you may create a user name within the app, we do not collect that information on our servers and do not combine it with App Usage Information.
+
+  
+
+
+## 3\. How We May Share Your Information:
+
+We do not ever sell or rent your information.
+
+We will only share your information or that of your students in the following circumstances: 
+
+  * When we believe in good faith that disclosure of your information is necessary to protect our rights and those of others, to protect your safety or the safety of others, to investigate fraud or to respond to a government, judicial or other legal request or to comply with the law.
+  * In connection with an organizational change, such as a dissolution, provided that your information and that of your students will remain subject to the terms of this Privacy Policy.
+  * We sometimes hire third parties to perform certain business-related functions for us. Examples include mailing information, maintaining databases, hosting services, and processing payments. When we employ another company to provide services to support Zearn, we provide them with the information that they need to perform their specific function. This may include your personal information, but will not include personal information from your students. Our third parties are legally obligated to keep your personal information confidential and use it only for our specific purpose. 
+
+
+
+We may also share certain aggregated, de-identified information with third party providers to help us analyze the information. Our third party providers are prohibited from further sharing or making additional use of the data.
+
+  
+
+
+## 4\. Your Access and Opt-Out Rights
+
+You may review or change the information you have provided about yourself by logging into your account or by contacting us at [support@zearn.org](mailto:support@zearn.org). If you contact us, we will ask you to verify your identity before we provide you with information or make changes. 
+
+If you are an educator who has provided us with personal information about your students, you may review, revise, or delete that information at any time by logging into your account and accessing your classroom portal.
+
+You may also choose to opt in or opt out of email messages and newsletters from us. To opt out, simply click on the “unsubscribe” button that appears on emails or contact us at [support@zearn.org](mailto:support@zearn.org)
+
+If you are a parent or legal guardian of a minor child, you may also have the right to access certain information about your child. To do so, we request that you contact your school or district, which may access your child’s information through their classroom portal.
+
+  
+
+
+## 5\. Data Retention:
+
+You may inactivate your or your student(s)’ account at anytime through the product account dashboard. Following inactivation, we will retain inactive account data for a period of 6 months so that you may easily reactivate your account within that limited period and retain continuity of your classroom progress. However, you may request deletion of your account data earlier by contacting us at [support@zearn.org](mailto:support@zearn.org). During the 6 months that your account is inactive, we do not access your account data.
+
+We do retain aggregated, anonymized information for some of the purposes described above. 
+
+  
+
+
+## 6\. Security:
+
+We maintain reasonable security standards to help safeguard your data. Zearn has multiple security measures in place to protect against the loss, misuse, or alteration of information under our control. These include encryption of data in transit and at rest, use of two-factor authentication to access the system, regular software security updates, and industry best practices for network and physical security.
+
+However, please be aware that no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit or otherwise provide to us and you do so at your own risk.
+
+If you create an account, you will be asked to select a password for both yourself and each student to access Zearn, and this password will be used to allow your student to use Zearn. You are responsible for maintaining the strict confidentiality of your and your students’ account password(s), and for any activity that occurs under your account credentials, whether or not authorized by you. Please notify us of any unauthorized use of your account or any suspected breach of security. 
+
+  
+
+
+## 7\. Changes to this Privacy Policy:
+
+Zearn may amend this Privacy Policy from time to time. When we do, we will notify you by updating the date of this Privacy Policy and posting it on this page of our site. We will also notify you of any material changes to this Privacy Policy via email. In some cases, we may request your consent to the changes.
+
+  
+
+
+## 8\. Contact Us:
+
+If you have any questions about this Privacy Policy, please contact us:  
 Zearn, Inc.  
 261 West 35th Street  
-15th floor  
+15th Floor  
 New York, NY 10001  
-[tel: (212) 967-6071](https://web.archive.org/web/20160324181718id_/https%3A//www.zearn.org/2129676071)  
-Or email us at: [support@zearn.org](mailto:support@zearn.org)
+[support@zearn.org](mailto:support@zearn.org)
