@@ -1,32 +1,34 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407140319id_/http%3A//www.hotdeals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223122022id_/http%3A//www.hotdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HotDeals
+# HotDeals.com | Privacy Policy
 
-HotDeals.com takes your privacy seriously. Please read this Privacy Policy carefully, as it explains what information we collect from you and how we keep that information secure. By using our website, you consent to this policy. If you do not agree with the terms of our Privacy Policy, please do not use HotDeals.com. 
+##### Privacy Statement
 
-1\. Emails   
-If you register on our website or subscribe to the HotDeals newsletter, we will collect your email address to ensure that we can send newsletters, website updates and a replacement password, if necessary. We will never share or sell your email address to any third parties. You can opt in or out of the newsletter through your profile settings and via the "unsubscribe" link found at the bottom of each newsletter. 
+HotDeals is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our offerings. This policy may change from time to time so please check back periodically. This Privacy Statement only covers the site HotDeals.com.
 
-2\. Forum   
-Users are free to use their real name to register our website. We will never record any personally identifiable information you submit. However, you should be aware that any personally identifiable information you publicly submit can be read, collected, or used by other users. We are not responsible for any personally identifiable information you choose to submit to our website.   
-We do not monitor or collect your posts, or comments on posts, but we do reserve the rights to delete them if they infringe upon our [Rules & Regulations](https://web.archive.org/static/rulesregulations). You are solely responsible for anything you choose to publicly post. 
+##### Aggregated Information
 
-3\. IP Addresses   
-We may collect your IP address information for the purposes of web traffic analysis and web security maintenance. It will not be disclosed to any third party unless we receive prior consent, or to law enforcement, if required. 
+Aggregated information, such as which pages users access or visit, and information volunteered by users is collected through various methods. For example,HotDeals.com collects IP addresses; an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers (the computers that "serve up" Web pages) automatically identify your computer by its IP address; when you request a page from HotDeals.com, our servers log your IP address.  
+HotDeals.com only uses IP addresses for the purposes of Web traffic analysis and trends.
 
-4\. Cookies   
-We use "cookies" on this website. A cookie is a piece of data stored on a site visitor's hard drive used to help us improve your access to our site and identify repeat visitors to our site. We use cookies on our website to improve the browser experience, enable voting capability, allow commenting and posting, and allow you to remain signed in while you browse the site.   
-We also use cookies to receive commissions from our affiliate sponsors via affiliate links. However, we do not use cookies to identify your personal information nor do we share any information collected with any third party.   
-If you would prefer to not use cookies, you can delete those cookies that are stored on your computer's hard drive. 
+##### Use of Cookies
 
-5\. Links   
-Our site does contain links to third-party websites. If you follow the links on our site to any third-party website, you should be aware that these websites are not subject to our Privacy Policy. We recommend that you read their privacy policy carefully before submitting your personal data to their website. We cannot guarantee the security of the data you submit to any other website. 
+HotDeals.com uses cookies for this site. A cookie is a small data file that most major websites write to your hard drive for record-keeping purposes. Cookies allow HotDeals.com to measure activity on the site and to improve your user experience, for example by remembering your passwords and viewing preferences.
 
-6\. Changes   
-We reserve the right to change this policy at any time by posting changes to this page. Changes become effective as soon as they are posted. Please check back for any changes on a regular basis. 
+##### Children and Privacy
 
-7\. Under-Age Users   
-No information should be submitted to HotDeals.com by children under the age of 13 years without a parent or guardian's consent. We do not monitor the age of our users, as we are unable to confirm nor take responsibility for the age of said users. 
+HotDeals.com encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children.
 
-8\. Contact   
-If you have any questions about the use of your personal information or would like to correct or amend any personal information we maintain about you, please feel free to contact us at [support@hotdeals.com](mailto:support@hotdeals.com). 
+##### Individuals under 13
+
+No information should be submitted on HotDeals.com by users under the age of 13 years without consent of their parent or guardian. HotDeals.com does not provide any personally-identifying information for users under the age of 13, regardless of its source, to any third party for any purpose whatsoever unless disclosed during collection.
+
+##### Links to Other Sites
+
+HotDeals.com contains links to sites other than HotDeals.com; those sites may not follow the same privacy policies as HotDeals.com.
+
+##### Effect of Privacy Policy
+
+This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. HotDeals.com reserves the right to change this privacy policy at any time and users will be notified of any changes made. 
+
+**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
