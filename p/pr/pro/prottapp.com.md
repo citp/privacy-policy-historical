@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prottapp.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527021522id_/https%3A//prottapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prottapp.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223015354id_/https%3A//prottapp.com/privacy) for the most accurate reproduction.*
 
 # Prott - Prototyping tool. Privacy Policy
 
@@ -76,4 +76,4 @@ Attn: Personal Information Treatment Inquiry Office
 3-3 Uguisu-cho, Shibuya-ku, Tokyo  
 Email:[ info@prottapp.com](mailto:info@prottapp.com)
 
-nexus 5iPhone 6MacBook Bordericon-billicon-communicationRectangle 54 + Rectangle 54contactdesign-processetuOval 63 + Oval 63GroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16GroupRectangle 54 + Rectangle 54previewGroupicon-seminarGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Oval 63 + Oval 63icon-user-supportGroupadwaysanyperkbizreachcookpaddenaPage 1greeideoignismixirecruitunitedustwovoyagegroupyahoo!japanzappallasImported Layersimages/icon/logoanyperkbizreachcookpadimage/icon/DeNAFill 2ideorecruitrhizomatiksustwoyahoo!japanarrowarrowarrow
+nexus 5iPhone 6MacBook Bordericon-billicon-communicationRectangle 54 + Rectangle 54contactdesign-processetuPage 1Oval 63 + Oval 63Group 11GroupGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Page 1Page 1GroupGroupRectangle 54 + Rectangle 54previewGroupicon-seminarGroupRectangle 107 + Rectangle 107 + Rectangle 107 + Oval 57 + Oval 57 + Path 192 Copy 16 + Oval 57 + Path 192 Copy 16Oval 63 + Oval 63icon-user-supportGroupadwaysanyperkbizreachcookpaddenaPage 1greeideoignismixirecruitunitedustwovoyagegroupyahoo!japanzappallasImported Layersimages/icon/logoanyperkbizreachcookpadimage/icon/DeNAFill 2ideorecruitrhizomatiksustwoyahoo!japanarrowarrowarrow
