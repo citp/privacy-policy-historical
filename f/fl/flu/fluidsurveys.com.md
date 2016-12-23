@@ -1,34 +1,83 @@
-> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626064332id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223205831id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FluidSurveys
 
 ### FluidSurveys Privacy Statement
 
-**Posted** : August 5, 2014  
-**Effective date** September 6, 2014
+**Effective date** September 12, 2016
 
-FluidSurveys is an online survey tool that allows individuals and organizations to create their own surveys and collect data from respondents. FluidSurveys is a service provided by SurveyMonkey.
+FluidSurveys is an online survey tool that allows individuals and organizations to create their own surveys and collect data from respondents. This privacy statement applies to [http://fluidsurveys.com](http://fluidsurveys.com/) (“FluidSurveys”). FluidSurveys is a service provided by SurveyMonkey.
 
 Personal information and data collected, used and disclosed in the course of using FluidSurveys will be treated in the manner set out below and in SurveyMonkey’s main Privacy Policy at <http://www.surveymonkey.com/mp/policy/privacy-policy>. This privacy statement describes privacy practices that are specific to FluidSurveys, but it should be read in conjunction with the [main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/).
 
-### 1\. How does SurveyMonkey use the information we collect?
+**EU – U.S. Privacy Shield. SurveyMonkey** Inc. (and its subsidiary company, Infinity Box Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  **SurveyMonkey** is committed to subjecting all personal data received from European Union (EU) member countries to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>.
+
+When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on SurveyMonkey’s behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage.  With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Please contact SurveyMonkey as described below if you have any concerns or complaints of any nature.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+**U.S. – Swiss Safe Harbor.  **SurveyMonkey Inc. (and its subsidiary company, Infinity Box Inc.) complies with the [US-Swiss Safe Harbor Framework](https://safeharbor.export.gov/swisslist.aspx) developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information received in the U.S. from Switzerland.  SurveyMonkey Inc. has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles with respect to such information. SurveyMonkey may process some data from individuals or companies in Switzerland via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. To learn more about the Safe Harbor program, and to view our certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=923f19c3-37fc-49b9-871b-caae4c6840b3 "TRUSTe Privacy Certification")
+
+### **1\. What information does SurveyMonkey collect?**
+
+**Registration information**. You need a FluidSurveys account before you can use the service. When you register for an account, we collect your name, username, password and email address.
+
+### **2\. How does SurveyMonkey use the information we collect?**
 
 **To monitor, maintain, and improve our services and features.** In addition to the uses of data set out in the [SurveyMonkey Privacy Policy](http://www.surveymonkey.com/mp/policy/privacy-policy), SurveyMonkey internally performs statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. We may use your information for internal purposes designed to keep our services secure and operational, such as for troubleshooting and testing purposes, and for service improvement and development purposes.
 
 **To create new services, features or content.** We may use your aggregated survey data and survey metadata (that is, data about the characteristics of a survey) to create and provide new services, features or content.
 
-### 2\. With whom do we share or disclose your information?
+### **3\. With whom do we share or disclose your information?**
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement.
+
+**Service Providers.** We may share your information with third parties who provide services on our behalf to help with our business activities such as providing customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
 **Your email address to your organization.** If the email address under which you’ve registered your account belongs to or is controlled by an organization, we may disclose your email address to that organization in order to help the organization understand which of its personnel use FluidSurveys.
 
-### 3\. What are your rights to your information?
+**Your information if there’s a change in business ownership or structure.** We may transfer your information, including all profile data, account details, other personal information, and responses to surveys, to a successor entity upon a merger, consolidation or other corporate reorganization in which SurveyMonkey participates or to a purchaser of all or substantially all of SurveyMonkey’s assets related to SMC. In this event, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
 
-**Access and correct your personal information.** You may access and correct inaccuracies in the personal information that SurveyMonkey holds about you. This right may be exercised by visiting your account management page or by emailing [support@fluidsurveys.com](mailto:support@fluidsurveys.com). This right is subject to some exceptions, such as where giving you access would have an unreasonable impact on the privacy of other individuals. SurveyMonkey will respond to your request for access or correction within a reasonable time and, where reasonable and practicable to do so, we will provide access to your personal information in the manner requested by you.
+**Disclosures required by law.** We may disclose your information as required or permitted by law, including for purposes of national security and law enforcement, or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.
 
-### 4\. Security, cookies and other important information
+### **4\. What are your rights to your information?**
+
+**Access and correct your personal information.** Some account holders and other individuals (including those whose information we receive under the EU-U.S. Privacy Shield and the U.S.-Swiss Safe Harbor) have certain legal rights to obtain information of whether we hold personal information about them, to access personal information we hold about them, and to obtain its correction, update, amendment or deletion in appropriate circumstances.  For some information, these rights may be exercised through your account management page, and in all cases, requests to exercise these rights may be directed to support@fluidsurveys.com. These rights are subject to some exceptions, such as where giving you access would have an unreasonable impact on the privacy of other individuals. We will respond to your request to exercise these rights within a reasonable time and, where required by law or where we deem it otherwise appropriate and practicable to do so, we will honor your request.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Opt-out Preferences.** When you register for an account, we will use your name and email address to send periodic emails to you of both promotional and transactional in nature. You may choose to stop receiving promotional emails by following the unsubscribe instructions included in these emails or you can contact us at [support@fluidreview.com](mailto:support@fluidreview.com).
+
+We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
+
+### **5\. Security, cookies and other important information**
 
 **Data locations.** The servers on which FluidSurveys operate are located in Canada, so your information will be hosted in Canada. Additionally, your information may be processed in and transferred or disclosed to countries in which our affiliates are located and in which our service providers are located or have servers. You can view where our affiliates are located on the [Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/) page.
 
-**Contact Information.** If you wish to access or correct inaccuracies in the personal information we hold about you, or if you have any questions or comments about the manner in which treat your data (including your personal information), please contact us at [support@fluidsurveys.com](mailto:support@fluidsurveys.com).
+**Security.** The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at support@fluidreview.com.
 
-[View privacy statement applicable to the FluidSurveys service through September 5, 2014.](http://fluidsurveys.com/about/privacy-sept5)
+**Cookies / Tracking Technologies.** FluidReview and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+
+**Log files.** As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+
+**Behavioral Targeting.** We may ask advertising networks and exchanges to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie, but in doing so will not share any other personal information with the advertiser. Our advertising network partners may use cookies and page tags or web beacons to collect certain non-personal information about your activities on this and other websites to provide you with targeted advertising based upon your interests. If you do not wish to have this information used for the purpose of serving you such targeted ads, you may opt-out at <http://preferences-mgr.truste.com/> or, if you’re located in the European Union, at [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). You will continue to receive generic ads.
+
+### **1.Information Related to Data Collected through the Service**
+
+**Information Related to Data Collected for our Clients.** FluidSurveys collects information under the direction of its clients, and has no direct relationship with the individual respondents whose personal information it processes. If you are a customer or respondent of one of our clients and would no longer like to be contacted by the client that using our service, please contact the client that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our clients.
+
+**Access and Retention of Data Controlled by our Clients.** FluidSurveys has no direct relationship with the individual respondents whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the FluidSurveys client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+
+We will retain personal data we process on behalf of our clients for as long as needed to provide services to our client. SurveyMonkey will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### **6\. Changes to This Privacy Statement.**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Contact Information.** If you wish to access or correct inaccuracies in the personal information we hold about you, or if you have any questions or comments about the manner in which treat your data (including your personal information), please contact us at [support@fluidsurveys.com](mailto:support@fluidsurveys.com).  or by mail to SurveyMonkey Inc., 101 Lytton Avenue, Palo Alto, CA 94301, USA, Attn: Privacy Department or to SurveyMonkey Europe, 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland Attn: Privacy Department.
+
+[View privacy statement applicable to the FluidSurveys service through September 12, 2016.](https://fluidsurveys.com/about/privacy2015)
