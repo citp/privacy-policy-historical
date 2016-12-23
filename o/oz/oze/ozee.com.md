@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozee.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626214146id_/http%3A//www.ozee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozee.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223024731id_/http%3A//www.ozee.com/privacy-policy) for the most accurate reproduction.*
 
-# OZEE Watch Movies,TV,Serial,Shows and episodes, Music and Gossip videos Online
+# OZEE - Watch Free TV Shows, Episodes, Movies, Music, Gossips, Hot HD Videos and Live Cricket Match Online
 
 We value the trust placed in use by you and therefore, we follow the highest standards of privacy guidelines to protect the information shared by you with us.
 
