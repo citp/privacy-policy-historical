@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173142id_/http%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnsun.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223123646id_/http%3A//cdnsun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDNsun
 
@@ -60,7 +60,7 @@ We reserve the right to change our Privacy Policy from time to time without noti
 If there are any questions or comments regarding this Privacy Policy you may contact us using the information below.
 
   * Office: Pavla Benese 750/14, Prague, 199 00, Czech Republic
-  * Website: [cdnsun.com](http://cdnsun.com/)
+  * Website: [cdnsun.com](https://cdnsun.com/)
   * Email: info@cdnsun.com
   * Phone: +420 776 256 872
 
