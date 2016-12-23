@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608152149id_/http%3A//www.tafford.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223080000id_/http%3A//www.tafford.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,4 +58,6 @@ If we decide to change our privacy policy, we will prominently post a link to th
 
 ### Transfer of Information
 
-In the event our company is ever sold, we reserve the right to transfer ownership of our customer information to the acquiring company.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes. Any changes will be effective immediately upon posting of the revised policy. If you are concerned about how your information is used, you should check back at our Website periodically (we will maintain a last-updated date at the bottom of this web page). WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS POLICY. IF YOU DO NOT AGREE TO THIS POLICY, OR TO ANY CHANGES WE SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES.
+
+Last Updated | 11-08-16
