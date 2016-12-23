@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603152824id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223063010id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # QuickQuid - Privacy Policy
 
@@ -85,17 +85,17 @@ If you do not want to receive cookies from us, please follow the procedures belo
 
   * Security Cookies – Session cookies used to support security measures within the site. 
   * Yield Manager – This is a tracking pixel that records traffic coming from 3rd party sources. 
-  * LivePerson – A tracking pixel used to track web session for customer service web chat. 
   * QuickQuid – Contains a session cookie recognizing applicant to process loan application through completion 
   * Iovation – Contains a cookie to identify applicants electronic device 
   * DoubleClick – This is a tracking pixel that records traffic coming from 3rd party sources. 
   * Google Analytics – Web analytics tracking 
   * Google Adwords – Conversion tracking 
   * AdRoll – Marketing analytics 
-  * Criteo – Marketing analytics 
   * Commission Junction – Marketing analytics 
-  * Lead Impact – Marketing analytics 
-  * c2lk – Marketing analytics 
+  * Adobe Analytics – Web analytics tracking 
+  * Crazy Egg – Web analytics tracking 
+  * Optimizely – Marketing analytics 
+  * [24]7 – A tracking pixel used to track web session for customer service web chat 
 
 
 
