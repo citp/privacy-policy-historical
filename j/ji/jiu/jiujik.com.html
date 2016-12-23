@@ -1,834 +1,546 @@
-<!--The following is the downloaded HTML source of the jiujik.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401094627id_/http%3A//www.jiujik.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jiujik.com privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224005516id_/http%3A//www.cpjobs.com/hk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:wb="http://open.weibo.com/wb" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-		<!--New Relic tag -->
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=542226929162482"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OWFNWGwEFUFJaDgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>	
-        <link rel="shortcut icon" href="/favicon_jj.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" href="/sites/default/themes/jj_theme/images/apple-touch-icon-iphone.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="/sites/default/themes/jj_theme/images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="/sites/default/themes/jj_theme/images/apple-touch-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="/sites/default/themes/jj_theme/images/apple-touch-icon-144x144.png">
-        <link rel="apple-touch-icon-precomposed" href="/sites/default/themes/jj_theme/images/apple-touch-icon-precomposed.png">	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:wb="http://open.weibo.com/wb" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1210">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:url" content="http://www.cpjobs.com/hk/privacy-policy">
+<link rel="shortcut icon" href="http://www.cpjobs.com/hk/favicon.ico" type="image/vnd.microsoft.icon">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="cpjobs.com">
+<meta property="og:title" content="Privacy Policy">
+<link rel="canonical" href="http://www.cpjobs.com/hk/privacy-policy">
+<!-- Begin comScore Tag -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({c1: "2", c2: "6687883"});
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6687883&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OWFNWGwEIUVVRDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
-<link rel="canonical" href="http://www.jiujik.com/privacy-policy">
-<meta name="news_keywords" content="business association directories, career advice, career forum, career handbook, company profile, employer directories, employers in hong kong, hong kong career, employment agency, employment agencies, jobs in hong kong, job vacancies in hong kong, job seekers, hong kong job market, hong kong job site, hong kong jobs, learning resources, hong kong vacancies, professional association directories, South China Morning Post">
-<meta name="keywords" content="business association directories, career advice, career forum, career handbook, company profile, employer directories, employers in hong kong, hong kong career, employment agency, employment agencies, jobs in hong kong, job vacancies in hong kong, job seekers, hong kong job market, hong kong job site, hong kong jobs, learning resources, hong kong vacancies, professional association directories, South China Morning Post">
-<meta name="description" content="Providing information on jobs vacancies, career advice, resume building, employer directories, and corporate profiles for job seekers and employers in Hong Kong from South China Morning Post online.">
-        <title>Privacy Policy | 招職</title>
-        <link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_RJzktkbKM6l24mzNYtYBIDt6bvsdsFW9H_VcmY5p5TU.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_19tHKmKtcZbY-jWvyx--RHdQfeO3qsG7jbbofVm25H8.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://myjobs.jiujik.com/css/myjobs/jquery.msgbox.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://myjobs.jiujik.com/css/jquery.ui.autocomplete.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_ART34W3tT3i-YQyRpugTOT0ByWdWGrqQespgC1pkofM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
-
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie7_override.css?o4y6sq" media="all" />
-<![endif]-->
-
-<!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie8_override.css?o4y6sq" media="all" />
-<![endif]-->
-        <script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_kPKw9MerbP1HIOaFCy9zwrUWSGUa2iKyW6ih9PEtqck.js"></script>
-<script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_dTzpEfg5C8aCKXF1xNgEebophY6fm3bvn1HT7ZtCxpM.js"></script>
+<!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4787b90ec2bf9ec4b5ce8274e58f9bb4");</script><!-- end Mixpanel -->    <title>Privacy Policy | cpjobs.com</title>
+	    <style type="text/css" media="all">@import url("http://www.cpjobs.com/hk/modules/system/system.messages.css?oinl2d");</style>
+<style type="text/css" media="all">@import url("http://www.cpjobs.com/hk/sites/all/modules/date/date_api/date.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/modules/poll/poll.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/all/modules/quiz/quiz.css?oinl2d");</style>
+<style type="text/css" media="all">@import url("http://www.cpjobs.com/hk/sites/default/themes/cptheme/css/jquery-ui-1.10.4.custom.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/default/themes/cptheme/css/jquery.jscrollpane.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/default/themes/cptheme/css/main.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/default/themes/cptheme/css/block.css?oinl2d");
+@import url("http://www.cpjobs.com/hk/sites/default/themes/cptheme/css/revamp.css?oinl2d");</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.cpjobs.com/hk/css/myjobs/jquery.msgbox.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.cpjobs.com/hk/css/jquery.comboBox.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.cpjobs.com/hk/css/myjobs/common.css">
+         
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var $ = jQuery;
+window.jQuery || document.write("<script src='/hk/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/hk/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/misc/drupal.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/all/modules/admin_menu/admin_devel/admin_devel.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/revamp.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/jquery.color-2.1.2.min.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/jquery.jscrollpane.min.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/loginbox.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/predict.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/cpjs.user.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/cpjs.tracking.js?oinl2d"></script>
+<script type="text/javascript" src="http://www.cpjobs.com/hk/sites/default/themes/cptheme/js/cpjs.renderinfo.js?oinl2d"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/hk\/","pathPrefix":"","ajaxPageState":{"theme":"cptheme","theme_token":"7mImRIJG-8OkciEstkXnEH_YEex5OC2T1lETPccYTZQ","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/default\/themes\/cptheme\/js\/revamp.js":1,"sites\/default\/themes\/cptheme\/js\/jquery.color-2.1.2.min.js":1,"sites\/default\/themes\/cptheme\/js\/jquery.jscrollpane.min.js":1,"sites\/default\/themes\/cptheme\/js\/loginbox.js":1,"sites\/default\/themes\/cptheme\/js\/predict.js":1,"sites\/default\/themes\/cptheme\/js\/cpjs.user.js":1,"sites\/default\/themes\/cptheme\/js\/cpjs.tracking.js":1,"sites\/default\/themes\/cptheme\/js\/cpjs.renderinfo.js":1},"css":{"modules\/system\/system.messages.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/poll\/poll.css":1,"sites\/all\/modules\/quiz\/quiz.css":1,"sites\/default\/themes\/cptheme\/css\/jquery-ui-1.10.4.custom.css":1,"sites\/default\/themes\/cptheme\/css\/jquery.jscrollpane.css":1,"sites\/default\/themes\/cptheme\/css\/main.css":1,"sites\/default\/themes\/cptheme\/css\/block.css":1,"sites\/default\/themes\/cptheme\/css\/article.css":1,"sites\/default\/themes\/cptheme\/css\/revamp.css":1}},"pathToTheme":"\/hk\/sites\/default\/themes\/cptheme\/","myjobsHost":"http:\/\/www.cpjobs.com\/hk\/","mixpanel_tracker_name":"land","mixpanel_tracker_type":""});
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://myjobs.jiujik.com/js/jquery.ui.autocomplete.js"></script>
-<script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_q8VxTHk3DnNxiO7s_X41pk1VeRYqdbhIlRyw7LE6GqA.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/jquery.msgBox.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/jquery.comboBox.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/jquery.validate.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/revamp/common.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/revamp/search.js"></script>
+    <script type="text/javascript" src="http://www.cpjobs.com/hk/js/revamp/mixpanel.js?v=1"></script>
+            <meta name="aplus-rhost-v" content="gj.mmstat.com"><meta name="aplus-rhost-g" content="gj.mmstat.com"> 
+  </head>
+  
+    
+  <body style="min-width:1210px" id="article">
+        <script type="text/javascript" id="beacon-aplus" src="//u.alicdn.com/js/aplus_v2.js" exparams="clog=o&amp;aplus&amp;sidx=aplusSidx&amp;ckx=aplusCkx"></script>
+        <!--Header-->
+<div style="display:none" class="render-info" data-render-info="cpblock_header::s:20161223 11:33::e:20161224 11:33::{&quot;cpblock_vars&quot;:{&quot;is_recruiter_page&quot;:0}}"></div>
+<div id="header">
+    <div class="container">
+        <div id="top_menu">
+            <ul>
+                <li class="active"><a href="/hk/">Jobs</a></li>
+                <li><a href="http://www.educationpost.com.hk" target="_blank" id="link_education">Education</a></li>
+                <li><a href="/hk/cp-learning" target="_blank" id="link_training">Training</a></li>
+                <li>
+                    <dt>
+                        <span>Events</span>
+                        <div>
+                        <a href="/hk/cp-event" id="link_event">Classified Post</a>
+                        <a href="/hk/jj-event" id="link_event">JiuJik 招職</a>
+                        </div>
+                    </dt>
+                </li>
+                <li>
+                    <dt>
+                        <span>e-paper</span>
+                        <div>
+                        <a href="/hk/e-paper" id="link_epaper" target="_blank">Classified Post</a>
+                        <a href="/hk/jiujik/e-paper" id="link_epaper" target="_blank">JiuJik 招職</a>
+                        </div>
+                    </dt>
+                </li>
+                <script language="javascript">
+					function changeLang(lang){
+						var d = new Date();
+						d.setTime(d.getTime() + (30*24*60*60*1000));
+						var expires = "expires="+d.toUTCString();
+						document.cookie = "revampLang=" + lang + "; " + expires+";path=/";
+						window.location.reload(true);
+					}
+                    function autoLoginHandle(username) {
+                        var content = "<ul id='loggedin_box'><li class='first'><a href='/hk/myprofile/index'><i>Hi " + username + "</i></a></li>";
+                        content += "<li id='member_logout' ><a href='/hk/login/logout'>Logout</a></li>";
+                        content += "<li class='last'><a href='/hk/recruiters' id='recruiter_login_btn'>Recruiter Login</a></li>";
+						content += "<li><a href=\"javascript:changeLang('zhhk')\">中文</a></li>";
+                        $("#login_bar").html(content);
+                        $("#auto_login_monitor").remove();
+                        $("#loggedin_box").show();
+                        try{
+                            initMatchedJobs();
+                        }catch(e){
+                            
+                        }
+                    }
+                </script>
+                <div id="login_bar">      
+                    <ul id="loggedin_box">
+                      <li class="first"><a href="/hk/myprofile/index"><i></i></a></li>
+                      <li id="member_logout"><a href="/hk/login/logout">Logout</a></li>
+                      <li class="last"><a href="/hk/recruiters" id="recruiter_login_btn">Recruiter Login</a></li>
+					  <li><a href="javascript:changeLang('zhhk')">中文</a></li>					  
+                    </ul>
+                    <ul id="login_box">
+                        <li><a href="/hk/registration" id="register_btn">Register</a></li>
+                        <li><a href="javascript:void(0)" id="main_login_btn">Sign in</a></li>
+                        <li class="last"><a href="/hk/recruiters" id="recruiter_login_btn">Recruiter Login</a></li>
+						<li><a href="javascript:changeLang('zhhk')">中文</a></li>						
+                    </ul>
+                    <div id="login_popup">
+                        <div class="arrow"></div>
+                        <form method="post" name="topLoginForm" action="/hk/login">
+                            <div class="row"><div class="custom_input"><span class="left"></span><span class="center"><input size="10" type="text" name="candidatelogin[candidateUsername]" tabindex="101" id="candidatelogin_candidateUsername" placeholder="Username / Email"></span><span class="right"></span></div>                    </div>
+                            <div class="row"><div class="custom_input"><span class="left"></span><span class="center"><input size="10" type="password" name="candidatelogin[candidatePassword]" tabindex="102" id="candidatelogin_candidatePassword" placeholder="Password"></span><span class="right"></span></div>                    </div>
+                            <a href="javascript:void(0)" id="forgotpassword">Forgot password?</a>
+                            <div id="saveit">
+                                <div class="custom_checkbox "><input type="checkbox" name="candidatelogin[saveit]" value="Save" id="candidatelogin_saveit"></div>                       <label for="candidatelogin_saveit">Keep me logged in</label>                   </div>
+                            <div class="botton_container">
+                                <a href="javascript:topLoginSubmit();" id="top_login_btn" tabindex="103" class="button"><span>Login</span></a>
+                                <input type="submit" class="hidden_submit">
+                                <div class="login_bottom"> <div class="orWith">Or</div>
+                                     <label>Login with</label>
+                                <a href="javascript:void(0);" class="facebook_login" id="facebook_login_btn" title="Facebook" tabindex="104"><span></span></a>
+                                <a href="javascript:void(0);" class="google_login" id="google_login_btn" title="Google+" tabindex="105"><span></span></a>
+                                <a href="javascript:void(0);" class="linkedin_login" id="linkedin_login_btn" title="LinkedIn" tabindex="106"><span></span></a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="share"><span>Share:</span>
+                    <div class="fb_icon_s_white"><a href="javascript:jobActionHandle('facebook')" title="Share on Facebook"></a></div>
+                    <div class="in_icon_s_white"><a href="javascript:jobActionHandle('linkedin')" title="Share on LinkedIn"></a></div>
+                </div>
+            </ul>
+        </div>
+        <div id="navigator" role="navigation">
+            <ul>
+                <a id="logo" href="/hk/"></a>
+                <div>
+                    <li><a href="/hk/SearchJobs">Find a Job</a></li>
+                    <li><a href="javascript:void(0)" id="nav_hiring" class="nav_parent">Who's Hiring</a>
+                        <div class="nav_sub">
+                            <ul>
+                                <dt><a href="/hk/directory/employer">Employers</a></dt>
+                                <dt class="last"><a href="/hk/directory/agency">Agencies</a></dt>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="/hk/career-advice">Career Advice</a></li>
+                    <li><a href="/hk/recruitmentday">Recruitment Day<i></i></a></li>
+                    <!--<div class="channel_menu_wrapper">
+                        <div id="channel_menu">
+                            <ul>
+                                <li><a href="/hk/hot-industries/banking-finance" class="channel_bank">Banking<br> & Finance</a></li>
+                                <li><a href="/hk/hot-industries/education-training" class="channel_edu">Education<br> & Training</a></li>
+                                <li><a href="/hk/hot-industries/property-construction" class="channel_eng">Property<br> & Construction</a></li>
+                                <li><a href="/hk/hot-industries/government-ngo" class="channel_gov">Government<br> & NGO</a></li>
+                                <li><a href="/hk/hot-industries/retail" class="channel_retail">Retail<i></i></a></li>
+                                <li><a href="/hk/hot-industries/fresh-graduates" class="channel_gra">Fresh<br>Graduates</a></li>
+                            </ul>
+                        </div>
+                    </div>-->
+            </div></ul>
+        </div>
+		</div>
+	</div>
+
+
+<script> $(function() { cpjs.user.login_box_init() }); </script>
+
+<!--Main Content-->
+<div id="main">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <style>
+.news_heading {
+	background: #fff;
+    padding: 20px 15px;
+    position: relative;
+    width: 855px;
+	float: left;
+}
+</style>
+<div class="content">
+	<div class="career_advice_wrapper"></div>
+	<div class="outer_wrapper">
+		<div class="homecontent">
+			<div class="double-block wide FL">
+				<div id="top_site_nav">
+					<div class="content">
+					<span class="first_level"><a href="/hk/">Home</a> &gt; </span>
+					<span class="next_level">Privacy Policy</span>
+					</div>
+				</div>
+				<div class="news_heading">
+					<div id="pure_text" style="text-align:justify;">
+						<div style="display:none" class="render-info" data-render-info="cpblock_privacy_policy::s:20161224 01:49::e:20161225 01:49::{&quot;cpblock_vars&quot;:[]}"></div>
+<h1>Privacy Policy</h1>
+
+<p>Welcome to the cpjobs.com Web site, owned and operated by the South China Morning Post Publishers Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as "<b>SCMP</b>", "<b>we</b>", "<b>our</b>" or "<b>us</b>").  Our products and services are offered through web pages at or linked to the uniform resource locator <a href="http://www.cpjobs.com/hk/">http://www.cpjobs.com/hk/</a>, (and other Web sites that we establish from time to time ("<b>cpjobs.com Web site</b>") and are made available subject to the terms and conditions set out in this statement. This statement ("<b>Privacy Policy</b>") describes the privacy practices we have adopted with respect to personal data in operating the cpjobs.com Web site.</p>
+<p>"<b>Personal data</b>" means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.</p>
+<p>"<b>You</b>" and "<b>Your</b>" when used in this Privacy Policy include any person who accesses the cpjobs.com Web site and submits personal data.</p>
+
+<div class="subtitle strong-text">Our Commitment to Privacy</div>
+<p>Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the cpjobs.com Web site and our products and services.  We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs.  Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.</p>
+
+<div class="subtitle strong-text">What Information Do We Collect?</div>
+<p>When you visit the cpjobs.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the cpjobs.com Web site use information collected on an aggregate basis as you and others browse the cpjobs.com Web site.</p>
+<div class="subtitle">1. Personal Information You Choose to Provide</div>
+<div class="subtitle italic-text">Registration</div>
+<p>During the registration process prior to using the cpjobs.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, mailing address and demographic information (country, age, sex, personal and household income, marital status, academic qualifications, employment status and occupation).  Failure to provide such information may result in our being unable to provide you with our services including access to the cpjobs.com Web site.  On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers.   You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.</p>
+<div class="subtitle italic-text">Credit Card Information</div>
+<p>If you choose to purchase products or services from us, you may need to give personal data and authorise us to obtain information from various credit services.  For example, you may need to provide the following information:</p>
+<ul>
+  <li>Name</li>
+  <li>Mailing address</li>
+  <li>E-mail address</li>
+  <li>Identity reference</li>
+  <li>Credit card number, name of bank and expiry date</li>
+  <li>Telephone or fax or pager number</li>
+</ul>
+<p>In addition to providing the foregoing personal data to us, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
+
+<div class="subtitle">2. cpjobs.com Web site Use Information</div>
+
+<div class="subtitle italic-text">Cookies</div>
+<p>The cpjobs.com Web site utilises Web server logs and will use a standard technologycalled "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the cpjobs.com Web site as well as to collect information about how the cpjobs.com Web site is used.  Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the cpjobs.com Web site, and the web sites you visited immediately before and after the cpjobs.com Web site.  This information is collected on an aggregate basis.  None of this information is associated with you as an individual.</p>
+
+<div class="subtitle italic-text">IP Addresses</div>
+<p>We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the cpjobs.com Web site.</p>
+
+<div class="subtitle italic-text">Social Networking Sites ("SNS")</div>
+<p>We collect your personal data when you register to join cpjobs.com / JiuJik.com / SmartJob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join cpjobs.com / JiuJik.com / SmartJob.com. In this connection, your registration to join cpjobs.com / JiuJik.com / SmartJob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your cpjobs.com / JiuJik.com / SmartJob.com membership and/or providing related services to you. &nbsp;If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services. &nbsp;The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your cpjobs.com / JiuJik.com / SmartJob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.</p>
+
+<div class="subtitle strong-text">How Do We Use the Information That You Provide to Us?</div>
+<p>Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the cpjobs.com Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data.  You will be given the opportunity to notify us of your desire not to receive these offers.</p>
+<p>The main purposes for which personal data may be used by us are:</p>
+<ul>
+  <li>Processing your application or registration for our services, enquiry or feedback</li>
+  <li>Incorporation into our user database</li>
+  <li>Provision of contacts and business details in response to enquiries and complaints</li>
+  <li>Operations</li>
+  <li>Service surveys</li>
+  <li>Direct marketing</li>
+  <li>Processing billing and payment</li>
+  <li>Meeting requirements to make disclosure under any law applicable in or outside Hong Kong</li>
+  <li>Public notices</li>
+  <li>Auditing</li>
+  <li>Other related purposes</li>
+</ul>
+<p>We may use your personal data both in and outside Hong Kong.</p>
+
+<div class="subtitle strong-text">Disclosure to Third Parties</div>
+<p>Personal data held by us will be kept confidential but we may provide such data to:</p>
+<ul>
+  <li>Banks and other financial institutions in connection with the collection of payments;</li>
+  <li>Any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to us in connection with our operations;</li>
+  <li>Any person under a duty of confidentiality to us;</li>
+  <li>Any person to whom we are required to make disclosure under any law applicable in or outside Hong Kong; and</li>
+  <li>Any actual or proposed transferee of our business or the cpjobs.com Web site or any part of our business or cpjobs.com Web site or participant in our operations.</li>
+</ul>
+<p>You should also note that the privacy protection as set out in this Privacy Policy does not apply to personal data which is passed to third parties, and we are not responsible for the protection of your personal data or lack thereof by such third parties.</p>
+<p>Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.</p>
+
+<div class="subtitle strong-text">Sharing Information with South China Morning Post Publishers Limited</div>
+<p>Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, South China Morning Post Publishers the Gro, for the purposes of direct marketing or the provision of customized information regarding the South China Morning Post Publishers Limited's network of Internet and other products and services.</p>
+
+<div class="subtitle strong-text">What Do We Do with the Information We Gather?</div>
+
+<div class="subtitle italic-text">Statistical Analysis and Banner Advertising</div>
+<p>We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the cpjobs.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the cpjobs.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.</p>
+
+<div class="subtitle strong-text">What Are Cookies?</div>
+<p>Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  They are small pieces of data that are stored by a user's Web browser on the user's hard drive.  Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages.  This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet.  Cookies should make your online experience easier and more personalized.</p>
+
+
+<div class="subtitle strong-text">How Do We Use Information We Collect from Cookies?</div>
+<p>We use Web site browser software tools such as cookies and Web server logs to gather information about the cpjobs.com Web site users' browsing activities in order to constantly improve the cpjobs.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the cpjobs.com Web site to better meet the needs of our customers and prospective customers.</p>
+<p>Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another.  Web server logs allow us to count how many people visit the cpjobs.com Web site and evaluate the cpjobs.com Web site's visitor capacity.  We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.</p>
+<p>From time to time you may notice offers from outside companies advertised on the cpjobs.com Web site.  We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers.  However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.</p>
+
+
+<div class="subtitle strong-text">How Do We Share Information with Strategic Partners?</div>
+<p>We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to your personal data.</p>
+
+<div class="subtitle strong-text">Notice of New Services and Changes</div>
+<p>Occasionally, we may also use the information we collect to notify you about important changes to the cpjobs.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at <a href="mailto:info@cpjobs.com">info@cpjobs.com</a>.</p>
+
+<div class="subtitle strong-text">Information Transmissions</div>
+<p>Personal data or e-mail that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.</p>
+
+<div class="subtitle strong-text">Direct Marketing</div>
+<p>In accordance with the requirements of the Ordinance, SCMPP will honor an individual’s request not to use his or her personal data for the purposes of direct marketing.  Should you wish not to receive direct marketing material from cpjobs.com Web site or SCMPP, please write to our Personal Data Privacy Officer at the address listed below.</p>
+
+<blockquote>
+  Personal Data Privacy Officer<br>
+  <em>South China Morning Post Publishers Limited<br>
+    Morning Post Centre, 22 Dai Fat Street,<br>
+    Tai Po Industrial Estate,<br>
+    New Territories,<br>
+    Hong Kong</em>
+</blockquote>
+
+<p>Any such request should clearly state details of the personal data in respect of which the request is being made.  Please also state clearly the authority under which you are authorized to make such a request.
+</p>
+<p>Unless otherwise instructed as per the above, we may use any of the personal data collected in the normal course of our business for marketing purposes.</p>
+
+<div class="subtitle strong-text">How Do We Protect Your Personal Data?</div>
+
+<div class="subtitle italic-text">Information Security</div>
+<p>We utilise encryption/security software to safeguard the confidentiality of personal data we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.</p>
+
+<div class="subtitle italic-text">Evaluation of Information Protection Practices</div>
+<p>Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.  This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.</p>
+
+<div class="subtitle italic-text">Employee Access</div>
+<p>Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.  Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy.</p>
+
+<div class="subtitle strong-text">What Are your Rights Under the Personal Data (Privacy) Ordinance?</div>
+<p>Under the Personal Data (Privacy) Ordinance of Hong Kong, you have the right:</p>
+<ul>
+  <li>To check whether we hold data about you and to access such data;</li>
+  <li>To require us to correct any inaccurate data relating to you; and</li>
+  <li>To be told our policies and practices in relation to personal data and the kind of personal data held by us.</li>
+</ul>
+<p>We may charge a reasonable fee for processing any data access request.</p>
+
+<div class="subtitle strong-text">How Can You Access and Correct Your Information?</div>
+<p>You may address data access or correction requests, and questions or complaints to:</p>
+<blockquote>
+  Personal Data Privacy Officer<br>
+  <em>South China Morning Post Publishers Limited<br>
+    Morning Post Centre, 22 Dai Fat Street,<br>
+    Tai Po Industrial Estate,<br>
+    New Territories,<br>
+    Hong Kong</em>
+</blockquote>
+
+<div class="subtitle strong-text">Use of Personal Data in Legal Procedures</div>
+<p>If it becomes necessary that we take legal action against you for any reason whatsoever including copyright infringement, you expressly agree that the personal data provided by you can be relied upon in identifying and taking action against you.</p>
+
+<div class="subtitle strong-text">What About Legally Compelled Disclosure of Information?</div>
+<p>We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.</p>
+
+<div class="subtitle strong-text">Data Retention</div>
+<p>We retain personal data so long as the data is still required for the purposes mentioned above.</p>
+<p>We reserve the right to retain copies indefinitely for our archives.</p>
+
+<div class="subtitle strong-text">What About Other Web sites Linked to the cpjobs.com Web site?</div>
+<p>Please note that the cpjobs.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the cpjobs.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites that have a link to the cpjobs.com Web site, is subject to that Web site's own rules and policies which may differ from that of the cpjobs.com Web site.</p>
+<p>We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.</p>
+
+<div class="subtitle strong-text">Your Consent</div>
+<p>By using the cpjobs.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on the cpjobs.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>					</div>
+				</div>
+			</div>
+	</div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div>
+
+<!--Footer-->
+<div style="display:none" class="render-info" data-render-info="cpblock_footer::s:20161223 11:33::e:20161224 11:33::{&quot;cpblock_vars&quot;:[]}"></div>
+<!-- footer start-->
+<div id="footer">
+  <div class="container">
+    <div class="wrapper">
+      <div class="firstcol">
+        <div class="footer_logo"><img src="/images/revamp/cp_logo_footer.png"></div>
+        <ul>
+          <h3>Job Posting Enquiry:</h3>
+          <li class="tel">+ 852 2680 8866 (M-F, 9am - 6pm)</li>
+          <li class="mail"><a href="mailto:info@cpjobs.com">info@cpjobs.com</a></li>
+        </ul>
+      </div>
+        <ul class="secondcol">
+            <h4>Search our database and see the latest available jobs in Hong Kong now.</h4>
+       <div class="footer_section">
+        <h3>Job Seekers</h3>
+        <li><a href="/hk/">Find a Job</a></li>
+        <li><a href="/hk/registration">Register</a></li>
+        <li><a href="/hk/myjob"><span>My Account</span></a></li>
+        <li><a href="/hk/recruitmentday"><span>Recruitment Day</span></a></li>
+      </div>
+      <div class="footer_section MLpad">
+           <h3>Employers</h3>
+          <li><a target="_blank" href="/hk/recruiters">Post a Job</a></li>
+          <li><a target="_blank" href="/hk/recruiters">Advertise With Us</a></li>
+          <li><a href="mailto:adinfo@cpjobs.com"><span>Contact Us</span></a></li>
+      </div>
+        <div class="footer_section MLpad">
+          <h3>Resources</h3>
+          <li><a href="/hk/directory/employer">Employers Directory</a></li>
+          <li><a href="/hk/directory/agency">Agencies Directory</a></li>
+          <li><a href="/hk/career-advice">Career Advice</a></li>
+      </div>
+        <div class="footer_section MLpad">
+          <h3>What's New</h3>
+          <li><a href="/hk/product/match-me-plus">Match Me +</a></li>
+          <li><a href="/hk/hdapp">Mobile App new feature</a></li>
+          <li><a href="/hk/recruiters">Recruiter Module</a></li>
+      </div>	  
+        </ul>
+      <ul class="thirdcol">
+        <h3>Download Mobile Apps:</h3>
+        <li><a target="_blank" href="/hk/iphone"><img src="/images/revamp/app_store.png"></a>
+			<a target="_blank" href="/hk/aphone"><img src="/images/revamp/google_play.png"></a>
+		</li>
+        <li class="mobileVer"><a href="http://m.cpjobs.com/" id="mobile_link">Mobile Version - cpjobs.com</a></li>
+	</ul>
+	<ul class="forthcol">
+         <h3 class="FL">Connect with us:</h3>
+          <li class="FL ML30">
+            <div class="fb_icon_35_blue"><a href="https://www.facebook.com/pages/cpjobscom/1397724720541851" target="_blank"></a></div></li>
+          <li class="FL ML10">
+            <div class="in_icon_35_blue"><a href="http://www.linkedin.com/company/classified-post" target="_blank"></a></div></li>
+     </ul>
+	<ul class="fifthcol">
+		<div class="footer_section">
+        <h3>Classified Post Enquiry:</h3>
+        <li class="tel">+ 852 2565 8822 (M-F, 9am - 6pm)</li>
+        <li class="mail"><a href="mailto:classified@scmp.com">classified@scmp.com</a></li>
+      </div>
+      <div class="footer_section MLpad">
+           <h3>Jiu Jik Enquiry:</h3>
+        <li class="tel">+ 852 2565 8811 (M-F, 9am - 6pm)</li>
+        <li class="mail"><a href="mailto:jiujik@scmp.com">jiujik@scmp.com</a></li>
+      </div>
+        <div class="footer_section MLpad">
+          <h3>Education Post Enquiry:</h3>
+			<li class="tel">+ 852 2680 8888 (M-F, 9am - 6pm)</li>
+			<li class="mail"><a href="mailto:info@educationpost.com.hk">info@educationpost.com.hk</a></li>
+      </div>
+
+        </ul>	
+      <div class="clear"></div>
+    </div>
+  </div>
+  <div class="cpright">
+    <div class="container">
+      <div class="wrapper copyright result"> Copyright © 2016. South China Morning Post Publishers Ltd. All rights reserved.
+        <ul>
+          <li><a href="/hk/privacy-policy" target="_blank">Privacy Policy</a></li>
+          <li><a href="/hk/site-map" target="_blank">Sitemap</a></li>
+          <li class="last"><a href="/hk/about-us" target="_blank">About Us</a></li>
+        </ul>
+        <a href="http://www.scmp.com/frontpage/hk" target="_blank" id="scmp_btn"></a>
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- footer end-->    
+    <div style="display:none" class="render-info" data-render-info="cpblock_closure::s:20161223 11:33::e:20161224 11:33::{&quot;cpblock_vars&quot;:[]}"></div>
+
+<div style="display: none;">
+  <!-- Google Code for Remarketing Tag -->
+  <!--------------------------------------------------
+  Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+  --------------------------------------------------->
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 983764289;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    var google_conversion_format = 3;
+    /* ]]> */
+  </script>
+  <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+
+<noscript>
+<div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/983764289/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jj_theme","theme_token":"QbVompmnwyYUoIlqKmT6Ku-8maeD0lY-HXrbwhJLjgk","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"0":1,"http:\/\/myjobs.jiujik.com\/js\/jquery.ui.autocomplete.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.corner.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.msgBox.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.easing.1.3.js":1,"sites\/default\/themes\/jj_theme\/js\/shared.js":1,"sites\/default\/themes\/jj_theme\/js\/cookies.js":1,"sites\/default\/themes\/jj_theme\/js\/scripts.js":1,"sites\/default\/themes\/jj_theme\/js\/core.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custompage\/custompage.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"http:\/\/myjobs.jiujik.com\/css\/myjobs\/jquery.msgbox.css":1,"http:\/\/myjobs.jiujik.com\/css\/jquery.ui.autocomplete.css":1,"sites\/default\/themes\/jj_theme\/css\/style.css":1,"sites\/default\/themes\/jj_theme\/css\/drupal_cms.css":1,"sites\/default\/themes\/jj_theme\/css\/mock.css":1,"sites\/default\/themes\/jj_theme\/css\/home_extra.css":1,"sites\/default\/themes\/jj_theme\/css\/print.css":1,"sites\/default\/themes\/jj_theme\/css\/ie7_override.css":1,"sites\/default\/themes\/jj_theme\/css\/ie8_override.css":1}},"cms_url":"http:\/\/www.jiujik.com\/","myjobs_url":"http:\/\/myjobs.jiujik.com\/","mobile_url":"http:\/\/m.jiujik.com\/"});
-//--><!]]>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6891676-20']);
+  _gaq.push(['_setDomainName', 'cpjobs.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+//  if (Drupal.settings.mixpanel_tracker_type !== "") {
+//    mixpanel.track(Drupal.settings.mixpanel_tracker_name, {"type": Drupal.settings.mixpanel_tracker_type});
+//  } else {
+//    mixpanel.track(Drupal.settings.mixpanel_tracker_name);
+//  }
 </script>
         
-                       <!--<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>//-->
-
-        <!-- Start: GPT Sync -->
-        <script type="text/javascript">
-            var gptadslots=[];
-            (function(){
-                var useSSL = 'https:' == document.location.protocol;
-                var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-                document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-            })();
-        </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-        <!-- End: GPT -->
-        <script type="text/javascript">
-                        googletag.pubads().collapseEmptyDivs();
-            googletag.pubads().enableSyncRendering();
-            googletag.enableServices();
-        </script>
-
-        <!-- Begin comScore Tag -->
-        <script>
-          var _comscore = _comscore || [];
-          _comscore.push({ c1: "2", c2: "6687883" });
-          (function() {
-            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-            el.parentNode.insertBefore(s, el);
-          })();
-        </script>
-        <noscript>
-          <img src="http://b.scorecardresearch.com/p?c1=2&c2=6687883&cv=2.0&cj=1" />
-        </noscript>
-        <!-- End comScore Tag -->
-
-        <!--<script type='text/javascript'>
-            GS_googleAddAdSenseService("ca-pub-1211130372129369");
-            GS_googleEnableAllServices();
-        </script>//-->
-
-            <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-    <body class="html not-front not-logged-in no-sidebars page-privacy-policy">
-        <div id="fb-root"></div>
-<script>(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=542226929162482";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-        <div id="skip-link">
-            <a href="#main-content" class="element-invisible element-focusable">
-                Skip to main content            </a>
-        </div>
-
-                	<div id="header">
-			<div class="scmpAppTopBanner">
-		<a href="javascript:void(0)" class="sb-close"></a>
-		<div class="column left">
-			<a class="icon" href="javascript:getApp( osVersion );" onclick="eventTrack( osVersion );">
-				<div class="img"></div>
-				<div class="mask"></div>
-			</a>
-			<div class="sb-info"><strong>Jiujik</strong><span>South China Morning Post Publishers Limited</span>
-			<span class="rating-static"></span>
-			<span class="rating-num">(48)</span><br>
-			<span id="download_platform"></span></div>
-			<a href="javascript:getApp( osVersion );" class="sb-button" onclick="eventTrack( osVersion );"><span>VIEW</span></a>
-		</div>
-		<div class="column right">
-			<div class="screen-shot">
-				<a class="item" href="#"><img src="/sites/default/themes/jj_theme/images/mobile_app/screen_app_1.jpg"></a>
-				<a class="item" href="#"><img src="/sites/default/themes/jj_theme/images/mobile_app/screen_app_2.jpg"></a>
-				<a class="item" href="#"><img src="/sites/default/themes/jj_theme/images/mobile_app/screen_app_3.jpg"></a>
-				<a class="item" href="#"><img src="/sites/default/themes/jj_theme/images/mobile_app/screen_app_4.jpg"></a>
-				<a class="item" href="#"><img src="/sites/default/themes/jj_theme/images/mobile_app/screen_app_5.jpg"></a>
-			</div>
-		</div>
-		<div class="sb-clear"></div>
-	</div>		<div class="jj_top_banner_wrapper">
-        		<div class="jj_top_banner">
-		<div id="">
-			<script type="text/javascript">
-				googletag.display('');
-			</script>
-		</div>
-	</div>  </div>
-<div id="site-header" class="header">
-  <div class="row site-header-top">
-    <div class="columns">
-      <div class="cell"><a class="logo general" href="/"></a></div>
-                        <div id="login_box" class="cell">
-            <dl id="dl_to_login" class="sub-nav seperated primary_links clean">
-              <dt>Job Seeker</dt>
-              <dd><a href="javascript:;" id="register_btn">Register</a></dd>
-              <dd class="lined-left"><a href="javascript:;" id="main_login_btn">Login</a></dd>
-            </dl>
-            <dl id="dl_logged_in" class="sub-nav seperated primary_links clean" style="display:none;">
-			  <iframe width="1" height="1" src="" id="auto_login_monitor"></iframe>	
-              <dt>Hi <span></span></dt>
-              <dd><a href="http://myjobs.jiujik.com/myjob/index" class="logged_in_dashboard"><img src="/sites/default/themes/jj_theme/images/top_home_icon.jpg"></a></dd>
-              <dd><a href="http://myjobs.jiujik.com/myjob/jobalert" class="logged_in_jobalert">Job Alert <span></span></a></dd>
-              <dd><a href="http://myjobs.jiujik.com/myjob/savedjob" class="logged_in_savedjobs">Saved Jobs <span></span></a></dd>
-              <dd><a href="http://myjobs.jiujik.com/myjob/recruitmentday" class="logged_in_recruitmentday">Recruitment Day Alert <span></span></a></dd>
-              <dd class="lined-left"><a href="http://myjobs.jiujik.com/login/logout">Logout</a></dd>
-			 
-            </dl>
-            <!-- login / registration form -->
-            <div id="form_container">
-              <div class="form" style="display: none;">
-                <div class="arrow"></div>
-                <form action="http://myjobs.jiujik.com/login" method="post" name="topLoginForm">
-                  <label for="candidatelogin_candidateUsername">Username/Email</label>
-                  <div class="custom_input"><span class="left"></span><span class="center"><input size="10" type="text" name="candidatelogin[candidateUsername]" tabindex="101" id="candidatelogin_candidateUsername"></span><span class="right"></span></div>                    <label for="candidatelogin_candidatePassword">Password</label>                    <div class="custom_input"><span class="left"></span><span class="center"><input size="10" type="password" name="candidatelogin[candidatePassword]" tabindex="102" id="candidatelogin_candidatePassword"></span><span class="right"></span></div>                   <div class="botton_container">
-                    <label>Login with</label>
-                    <a href="javascript:void(0);" class="facebook_login" id="facebook_login_btn" title="Facebook" tabindex="104"><span></span></a>
-                    <a href="javascript:void(0);" class="google_login" id="google_login_btn" title="Google+" tabindex="105"><span></span></a>
-                    <a href="javascript:void(0);" class="linkedin_login" id="linkedin_login_btn" title="LinkedIn" tabindex="106"><span></span></a>
-                    <a href="javascript:topLoginSubmit();" id="top_login_btn" tabindex="103"><span>Login</span></a>
-                    <a href="javascript:void(0)" id="forgotpassword">Forgot password?</a>
-                  </div><input type="submit" class="hidden_submit">
-                </form>
-              </div>
-              <div id="register_popup" style="display: none;">
-                <div class="arrow"></div>
-                <label>Connect with</label>
-                <a href="javascript:void(0);" class="facebook_login" id="facebook_register_btn" title="Facebook"><span></span></a>
-                <a href="javascript:void(0);" class="google_login" id="google_register_btn" title="Google+"><span></span></a>
-                <a href="javascript:void(0);" class="linkedin_login" id="linkedin_register_btn" title="LinkedIn"><span></span></a>
-                <a href="http://myjobs.jiujik.com/registration/" id="general_register_btn"><span>Register with email</span></a>
-                <div class="bottom"></div>
-              </div>
-            </div>
-            <!--/ login / registration form -->
-          </div>
-                  </div>
-  </div>
-  <div class="site-menu">
-    <div class="row" id="navigator">
-      <div class="columns">
-        <div class="top-bar gutter-left-right" data-options="is_hover:false">
-          <div class="top-bar-section">
-            <ul class="left for-general">
-              <li class="itm-home "><a href="/">Home</a></li>
-              <li class="itm-job-channels expandable "><a href="javascript:;">Job Channels</a></li>
-              <li class="itm-top-employers"><a href="http://myjobs.jiujik.com/recruiter/employer">Who's Hiring</a></li>
-              <li class="itm-events "><a href="/events">Recruitment Day</a>
-			  <div id="hot_icon"></div>
-			  </li>
-              <li class="itm-courses"><a href="http://education.jiujik.com">Courses</a></li>
-              <li class="itm-resourses "><a href="/resources">Resources</a></li>
-            </ul>
-            <ul class="right clean for-employers">
-              <li><a href="/recruiter?ref=mn">Employers Login</a></li>
-            </ul>
-          </div>
-          <div id="dropList-whos-hiring" class="dropList for-job-channels" style="">
-                        <div class="left-column navi"><ul>
-                <li class="active sec-hotel-catering"><a href="/job-channels/hotel-catering-jobs">Catering, Hotel &amp; Tourism</a></li>
-                <li class="sec-retail"><a href="/job-channels/retail-jobs">Retail</a></li>
-                <li class="sec-finance"><a href="/job-channels/finance-jobs">Finance</a></li>
-                <li class="sec-part-time"><a href="http://myjobs.jiujik.com/Category/PARTTIME">Part-time</a></li>
-              </ul></div>
-            <div class="left-column pool">
-              <div class="section for-hotel-catering active">
-                <div class="jobs-column">
-                  <div class="caption">Latest Job</div>
-                  <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-OTHERS-Job-Description/Assistant+Events+Operations+Manager/1471887">Assistant Events Operations Manager</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+ABERDEEN+MARINA+CLUB-Company-Name/THE+ABERDEEN+MARINA+CLUB">The Aberdeen Marina Club</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-OTHERS-Job-Description/AV+Technician/1471815">AV Technician</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+ABERDEEN+MARINA+CLUB-Company-Name/THE+ABERDEEN+MARINA+CLUB">The Aberdeen Marina Club</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/-Job-Description/Senior+Duty+Engineer+資深當值工程師/1470393">Senior Duty Engineer 資深當值工程師</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/EMPIRE+HOTELS-Company-Name/EMPIRE+HOTELS">EMPIRE HOTELS</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/-Job-Description/Craftsman+木工/1470385">Craftsman 木工</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/EMPIRE+HOTELS-Company-Name/EMPIRE+HOTELS">EMPIRE HOTELS</a></dd>
-</dl>                </div>
-                <div class="articles-column">
-                  <div class="caption">Latest News / Update</div>
-                  <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%8F%90%E4%BE%9B%E4%BA%8B%E6%A5%AD%E7%A9%BA%E9%96%93-%E5%87%9D%E8%81%9A%E9%85%92%E5%BA%97%E4%BA%BA%E6%89%8D"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/Activity%20-%20Laugther%20Yoga-W109.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%8F%90%E4%BE%9B%E4%BA%8B%E6%A5%AD%E7%A9%BA%E9%96%93-%E5%87%9D%E8%81%9A%E9%85%92%E5%BA%97%E4%BA%BA%E6%89%8D">提供事業空間 凝聚酒店人才</a></dt>
-  <dd>酒店業的人才競爭向來激烈，求職者不乏選擇，僱主自得從人力資源策略著手，締造理想的工作環境，以充裕的培訓及事業發展空間推動員工成長，藉此吸引及保留人才。</dd>
-</dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E5%8A%A0%E5%BC%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98-%E6%A7%8B%E5%BB%BA%E5%92%8C%E8%AB%A7%E5%B7%A5%E4%BD%9C%E9%96%93"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/SCMP_03MAR16_JJ_WINGON53__YAN_0231_56215589-W109.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E5%8A%A0%E5%BC%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98-%E6%A7%8B%E5%BB%BA%E5%92%8C%E8%AB%A7%E5%B7%A5%E4%BD%9C%E9%96%93">加強精神健康知識 構建和諧工作間</a></dt>
-  <dd>香港人生活節奏急促，工作壓力大，久而久之更或會形成情緒問題，影響心理健康。有見及此，香港永安旅遊有限公司 ( 永安旅遊 ) 特別為員工舉辦「精神健康急救證書課程」，...</dd>
-</dl>                </div>
-                <div class="clear"></div>
-              </div>
-              <div class="section for-retail">
-                <div class="jobs-column">
-                  <div class="caption">Latest Job</div>
-                  <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CUSTOMER-SERVICE-SALES-SUPPORT-TELEMARKETING-CALL-CENTRE-Job-Description/Customer+Service+Assistant+(6-month+Contract)/1471951">Customer Service Assistant (6-month Contract)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/AMWAY+HONG+KONG+LIMITED-Company-Name/AMWAY+HONG+KONG+LIMITED">AMWAY HONG KONG LIMITED</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/PROPERTY-AGENCY-PROPERTY-SALES-OTHERS-Job-Description/Assistant+Officer+-+Sales+(2)+Department/1471704">Assistant Officer - Sales (2) Department</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/HENDERSON+LAND+DEVELOPMENT+CO+LTD-Company-Name/HENDERSON+LAND+DEVELOPMENT+CO+LTD">HENDERSON LAND DEVELOPMENT CO LTD</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CUSTOMER-SERVICE-SALES-SUPPORT-RETAIL-SALES-OTHERS-Job-Description/Part-time+Sales+長期_s_短期兼職運動用品店務員(大量空缺提供)/1471590">Part-time Sales 長期/短期兼職運動用品店務員(大量空缺提供)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ROYAL+SPORTING+HOUSE-Company-Name/ROYAL+SPORTING+HOUSE">ROYAL SPORTING HOUSE</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/傢俬度尺專員(月薪可達$15,000以上)/1471509">傢俬度尺專員(月薪可達$15,000以上)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/實惠家居有限公司-Company-Name/實惠家居有限公司">實惠家居有限公司</a></dd>
-</dl>                </div>
-                <div class="articles-column">
-                  <div class="caption">Latest News / Update</div>
-                  <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%80%86%E5%B8%82%E4%B8%AD%E6%89%BE%E6%A9%9F%E6%9C%83"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_252422464-W109.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%80%86%E5%B8%82%E4%B8%AD%E6%89%BE%E6%A9%9F%E6%9C%83">逆市中找機會 </a></dt>
-  <dd>筆者在復活節假期第一天便不約而同接到兩位業界朋友來電，第一位說對餐飲業前景未敢樂觀，另一位更說零售業倒閉潮開始了。兩個都是壞消息，但同樣是早已預料的事。</dd>
-</dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%9F%B9%E8%B6%B3%E8%85%AB-%E4%BF%82%E4%B9%9C%E6%9D%B1%E6%9D%B1%EF%BC%9F"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/xie%20400cmyk-W109.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%9F%B9%E8%B6%B3%E8%85%AB-%E4%BF%82%E4%B9%9C%E6%9D%B1%E6%9D%B1%EF%BC%9F">蟹足腫 係乜東東？</a></dt>
-  <dd>你們有沒有好奇，為甚麼有些人的心口，或是手臂會有一條粗粗紅紅，又微微隆起的疤痕呢？其實這種疤痕叫做蟹足腫，是一種疤痕組織增生引起的良性皮膚病變。</dd>
-</dl>                </div>
-                <div class="clear"></div>
-              </div>
-              <div class="section for-finance">
-                <div class="jobs-column">
-                  <div class="caption">Latest Job</div>
-                  <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OPERATIONS-RETAIL-BANKING-BRANCH-BANKING-Job-Description/Assistant+Manager,+Settlement/1471942">Assistant Manager, Settlement</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CREDIT-OTHERS-Job-Description/Officer,+Operations+(Credit+Card)+(Contract+Period+until+November+26,+2016)/1471934">Officer, Operations (Credit Card) (Contract Period until November 26, 2016)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/DERIVATIVES-EQUITIES-INVESTMENT-SECURITIES-Job-Description/Manager,+Investment+Product/1471929">Manager, Investment Product</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RESEARCH-ANALYSIS-RETAIL-BANKING-BRANCH-BANKING-OTHERS-Job-Description/Senior+Business+Analyst+(Contract+Period+until+November+26,+2016)/1471925">Senior Business Analyst (Contract Period until November 26, 2016)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
-</dl>                </div>
-                <div class="articles-column">
-                  <div class="caption">Latest News / Update</div>
-                  <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E5%B7%A5%E4%BD%9C%E6%96%B0%E8%B6%A8%E5%8B%A2%E8%A6%81%E6%9C%89%E7%94%9F%E6%84%8F%E4%BA%BA%E9%A0%AD%E8%85%A6"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_140668648-W109.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E5%B7%A5%E4%BD%9C%E6%96%B0%E8%B6%A8%E5%8B%A2%E8%A6%81%E6%9C%89%E7%94%9F%E6%84%8F%E4%BA%BA%E9%A0%AD%E8%85%A6">會計工作新趨勢要有生意人頭腦</a></dt>
-  <dd>會計工作涉及內部核數、全盤會計、內部監控及遵守規章等不同範疇，隨著環球經濟市場的變動，澳洲會計師公會早前一項調查指出，今年負責危機管理、策略想法、網上行銷知識三方面，最有增聘人手的需要，...</dd>
-</dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E6%A5%AD%E9%9C%80%E6%B1%82%E5%B0%88%E6%89%8D-%E4%BB%A5%E8%BF%8E%E6%8E%A5%E6%9B%B4%E5%A4%9A%E5%A5%91%E6%A9%9F"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_129182672-W109_0.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E6%A5%AD%E9%9C%80%E6%B1%82%E5%B0%88%E6%89%8D-%E4%BB%A5%E8%BF%8E%E6%8E%A5%E6%9B%B4%E5%A4%9A%E5%A5%91%E6%A9%9F">會計業需求專才 以迎接更多契機</a></dt>
-  <dd>職業訓練局 ( VTC ) 會計業訓練委員會 ( 下稱「委員會」 ) 發表《2015年會計業人力調查報告》。委員會對會計業未來人力需求持審慎樂觀態度，預測到2020年的會計業主要職能的人力需求，...</dd>
-</dl>                </div>
-                <div class="clear"></div>
-              </div>
-              <div class="section for-part-time">
-                <div class="jobs-column">
-                  <div class="caption">Latest Job</div>
-                  <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/兼職店務員+(時薪$35-41)/1471507">兼職店務員 (時薪$35-41)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/實惠家居有限公司-Company-Name/實惠家居有限公司">實惠家居有限公司</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CLEANER-DISHWASHER-KITCHEN-WORKER-FOOD-BEVERAGE-Job-Description/(葵興)兼職潔淨員/1471318">(葵興)兼職潔淨員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/食品包裝員/1471317">食品包裝員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CHEF-COOK-FOOD-BEVERAGE-Job-Description/(兼職)食品製作員/1471310">(兼職)食品製作員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl>                </div>
-                <div class="jobs-column">
-                  <div class="caption">&nbsp;</div>
-                  <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/兼職侍應/1471156">兼職侍應</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CHEF-COOK-FOOD-BEVERAGE-Job-Description/兼職西式廚師/1471154">兼職西式廚師</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/兼職侍應(金鐘_s_中環)/1471149">兼職侍應(金鐘/中環)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CASHIER-CATERING-SERVICE-FOOD-BEVERAGE-Job-Description/(兼職)烘焙店店務員/1471137">(兼職)烘焙店店務員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
-</dl>                </div>
-                <div class="clear"></div>
-              </div>
-            </div>
-            <div class="clear"></div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-  var msg;
-  msg = '';
-
-  if (msg != '') {
-    jQuery(document).ready(function($) {
-      $.msgBox({
-        title: 'ERROR',
-        content: msg + '</br>',
-        type: 'alert'});
-    });
-  }
-
-  $(document).ready(function() {
-  	//initialize auto login;
-	  var name = $Cookies.get(".devCanProfile");
-	  var auto_flag=$Cookies.get("disable_autologin");
-	  if(auto_flag==null && name == null){
-	  	$("#auto_login_monitor").attr("src"," http://myjobs.jiujik.com//social/facebooklogin?from=autologin");
-	  }else{
-	  	$("#auto_login_monitor").remove();
-	  }
-	 
-    var ref = '';
-    if ($("#login_box .form").length > 0) {
-      $("#login_box #main_login_btn").bind("click", function() {
-        $("#login_box .form").show();
-        $("#login_box #candidatelogin_candidateUsername").focus();
-      });
-      $("#login_box .form").bind("mousedown", function(e) {
-        inLoginForm = true;
-        if (e.stopPropagation())
-          e.stopPropagation();
-      });
-      $(document).bind("mousedown", function() {
-        if ($(".msgBox_bg").length == 0)
-          inLoginForm = false;
-      });
-      $(document).bind("mouseup", function() {
-        if (!inLoginForm) {
-          $("#login_box .form").hide();
-          $("#login_box #register_popup").hide();
-        }
-      });
-
-           $("#login_box #register_btn").bind("click", function() {
-        $("#login_box #register_popup").show();
-      });
-      $("#login_box #register_popup").bind("mousedown", function(e) {
-        inLoginForm = true;
-        if (e.stopPropagation())
-          e.stopPropagation();
-      });
-          }
-        $("#forgotpassword").bind("click", function() {
-      $.msgBox({
-        title: 'forgot password',
-        content: 'http://myjobs.jiujik.com/login/forgotpassword/',
-        width: 410,
-        height: 260,
-        type: 'iframe',
-        cache: false
-      });
-    });
-    //facebook login added by ivan lee on 20120515;
-    $('#facebook_login_btn,.facebook_login_btn').click(function() {
-      signinWin = window.open(generateUrl('social/facebooklogin?event=' + getParameter('event')), "SignIn", "width=620,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-    });
-    $('#facebook_register_btn').click(function() {
-      signinWin = window.open(generateUrl('social/facebooklogin?from=register'), "SignIn", "width=620,height=400,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-    });
-    //google login added by ivan lee on 20120818;
-    $('#google_login_btn,.google_login_btn').click(function() {
-      signinWin = window.open(generateUrl('social/googlelogin?event=' + getParameter('event')), "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-
-    });
-    $('#google_register_btn').click(function() {
-      signinWin = window.open(generateUrl('social/googlelogin?from=register'), "SignIn", "width=620,height=430,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-    });
-    //linkedin login added by ivan lee on 20120818;
-    $('#linkedin_login_btn,.linkedin_login_btn').click(function() {
-      signinWin = window.open(generateUrl('social/linkedinlogin?event=' + getParameter('event')), "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-
-    });
-    $('#linkedin_register_btn').click(function() {
-      signinWin = window.open(generateUrl('social/linkedinlogin?from=register'), "SignIn", "width=440,height=581,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0");
-      signinWin.focus();
-      return false;
-    });
-      });
-    var inLoginForm = false;
-  var freeze = false;
-  (function() {
-    var name = $Cookies.get(".devCanProfile");
-    if (name != null && name != '' && name.length > 0 && name != 'null') {
-      $('#dl_logged_in dt span').text(decodeURI(name));
-      var counts = $Cookies.get("candidateInfoCounts").split("|");
-      $('#dl_logged_in dd span').each(function(i) {
-        $(this).text(counts[i]);
-      });
-      $("#dl_logged_in").show();
-      $("#dl_to_login").hide();
-    } else {
-      $("#dl_logged_in").hide();
-      $("#dl_to_login").show();
-    }
-  })();
   
-  function removeMonitor() {
-    $("#auto_login_monitor").remove();
-  }
-function autoLoginHandle(data){
-		data=data.split("|");
-		var username=data[0];
-		if(username==''){
-			username=$Cookies.get(".devCanProfile")
-		}
-		$("#dl_logged_in dt span").text(username);
-		$("#dl_logged_in .logged_in_jobalert span").text(data[1]);
-		$("#dl_logged_in .logged_in_savedjobs span").text(data[2]);
-		$("#dl_logged_in .logged_in_recruitmentday span").text(data[3]);   
-		$("#dl_logged_in").show();		
-		$("#dl_to_login").remove();
-		$("#auto_login_monitor").remove();
-}
-  function getParameter(name)
-  {
-    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
-    var r = window.location.search.substr(1).match(reg);
-    if (r != null)
-      return unescape(r[2]);
-    return '';
-  }
-  function generateUrl(route, param) {
-    return "http://myjobs.jiujik.com/" + route;
-  }
-    
-  function topLoginSubmit() {
-    var isEmpty = false;
-    var target = false;
-    var tips = "";
-    if ($.trim($("#login_box #candidatelogin_candidateUsername").val()) == "") {
-      tips += "Username/Email is required.</br>";
-      target = "#login_box #candidatelogin_candidateUsername";
-      isEmpty = true;
-    }
-    if ($.trim($("#login_box #candidatelogin_candidatePassword").val()) == "") {
-      tips += "Password is required.</br>";
-      if (!isEmpty) {
-        target = "#login_box #candidatelogin_candidatePassword";
-      }
-      isEmpty = true;
-    }
-    if (isEmpty) {
-      $.msgBox({
-        content: tips,
-        type: 'alert',
-        title: 'ERROR',
-        closeEvent: function(v) {
-          $(target).focus();
-        }
-      });
-    } else {
-      $("form[name='topLoginForm']").submit();
-    }
-  }
-</script>
-	
-	<div id="wrapper">
-		<div id="block-system-main" class="block block-system">
-			<div class="content_block fullwidth">
-						  <div class="region region-content">
-    
-<div id="block-system-main" class="block block-system">
-	
-	
-	
-	<div class="content ">
-			
-	<div class="breadcrumbs">
-		<ul>
-			<li><a href="http://www.jiujik.com/">Home</a></li>
-			<li class="current"><a href="#">Privacy Policy</a></li>		</ul>
-	</div>  <div class="content_block fullwidth">
-		<h2>Privacy Policy</h2>
-        <div class="article_content">
-          <p>Welcome to the JiuJik.com Web site, owned and operated by the SCMP Group Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as "<b>SCMP</b>", "<b>we</b>", "<b>our</b>" or "<b>us</b>").  Our products and services are offered through web pages at or linked to the uniform resource locator <a href="http://www.jiujik.com">http://www.jiujik.com</a>, (and other Web sites that we establish from time to time ("<b>JiuJik.com Web site</b>") and are made available subject to the terms and conditions set out in this statement. This statement ("<b>Privacy Policy</b>") describes the privacy practices we have adopted with respect to personal data in operating the JiuJik.com Web site.</p>
-          <p>"<b>Personal data</b>" means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.</p>
-          <p>"<b>You</b>" and "<b>Your</b>" when used in this Privacy Policy include any person who accesses the JiuJik.com Web site and submits personal data.</p>
-
-          <p><b>Our Commitment to Privacy</b></p>
-          <p>Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners.  The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the JiuJik.com Web site and our products and services.  We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs.  Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.</p>
-
-          <p><b>What Information Do We Collect?</b></p>
-          <p>When you visit the JiuJik.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the JiuJik.com Web site use information collected on an aggregate basis as you and others browse the JiuJik.com Web site.</p>
-          <p><b>1. Personal Information You Choose to Provide</b></p>
-          <p><b>Registration</b></p>
-          <p>During the registration process prior to using the JiuJik.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, mailing address and demographic information (country, age, sex, personal and household income, marital status, academic qualifications, employment status and occupation).  Failure to provide such information may result in our being unable to provide you with our services including access to the JiuJik.com Web site.  On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers.   You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.</p>
-          <p><b>Credit Card Information</b></p>
-          <p>If you choose to purchase products or services from us, you may need to give personal data and authorise us to obtain information from various credit services.  For example, you may need to provide the following information:</p>
-          <ul style="color: rgb(51, 51, 51);">
-            <li>Name</li>
-            <li>Mailing address</li>
-            <li>E-mail address</li>
-            <li>Identity reference</li>
-            <li>Credit card number, name of bank and expiry date</li>
-            <li>Telephone or fax or pager number</li>
-          </ul>
-          <p>In addition to providing the foregoing personal data to us, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
-          <p><b>2. JiuJik.com Web site Use Information</b></p>
-          <p><b>Cookies</b></p>
-          <p>The JiuJik.com Web site utilises Web server logs and will use a standard technologycalled "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the JiuJik.com Web site as well as to collect information about how the JiuJik.com Web site is used.  Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the JiuJik.com Web site, and the web sites you visited immediately before and after the JiuJik.com Web site.  This information is collected on an aggregate basis.  None of this information is associated with you as an individual.</p>
-          <p><b>IP Addresses</b></p>
-          <p>We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the JiuJik.com Web site.</p>
-          <p><b>Social Networking Sites ("SNS")</b></p>
-          <p>We collect your personal data when you register to join ClassifiedPost.com / JiuJik.com / SmartJob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join ClassifiedPost.com / JiuJik.com / SmartJob.com. In this connection, your registration to join Classifiedpost.com / JiuJik.com / SmartJob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your ClassifiedPost.com / JiuJik.com / SmartJob.com membership and/or providing related services to you.  If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services.  The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your ClassifiedPost.com / JiuJik.com / SmartJob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.</p>
-
-          <p><b>How Do We Use the Information That You Provide to Us?</b></p>
-          <p>Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the JiuJik.com Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data.  You will be given the opportunity to notify us of your desire not to receive these offers.</p>
-          <p>The main purposes for which personal data may be used by us are:</p>
-          <ul style="color: rgb(51, 51, 51);">
-            <li>Processing your application or registration for our services, enquiry or feedback</li>
-            <li>Incorporation into our user database</li>
-            <li>Provision of contacts and business details in response to enquiries and complaints</li>
-            <li>Operations</li>
-            <li>Service surveys</li>
-            <li>Direct marketing</li>
-            <li>Processing billing and payment</li>
-            <li>Meeting requirements to make disclosure under any law applicable in or outside Hong Kong</li>
-            <li>Public notices</li>
-            <li>Auditing</li>
-            <li>Other related purposes</li>
-          </ul>
-          <p>We may use your personal data both in and outside Hong Kong.</p>
-
-          <p><b>Disclosure to Third Parties</b></p>
-          <p>Personal data held by us will be kept confidential but we may provide such data to:</p>
-          <ul style="color: rgb(51, 51, 51);">
-            <li>Banks and other financial institutions in connection with the collection of payments;</li>
-            <li>Any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to us in connection with our operations;</li>
-            <li>Any person under a duty of confidentiality to us;</li>
-            <li>Any person to whom we are required to make disclosure under any law applicable in or outside Hong Kong; and</li>
-            <li>Any actual or proposed transferee of our business or the JiuJik.com Web site or any part of our business or JiuJik.com Web site or participant in our operations.</li>
-          </ul>
-          <p>You should also note that the privacy protection as set out in this Privacy Policy does not apply to personal data which is passed to third parties, and we are not responsible for the protection of your personal data or lack thereof by such third parties.</p>
-          <p>Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.</p>
-
-          <p><b>Sharing Information with SCMP and the Group</b></p>
-          <p>Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, SCMP (the "Group"), for the purposes of direct marketing or the provision of customized information regarding the Group's network of Internet and other products and services.</p>
-
-          <p><b>What Do We Do with the Information We Gather?</b></p>
-          <p>Statistical Analysis and Banner Advertising</p>
-          <p>We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the JiuJik.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the JiuJik.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.</p>
-
-          <p><b>What Are Cookies?</b></p>
-          <p>Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  They are small pieces of data that are stored by a user's Web browser on the user's hard drive.  Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages.  This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet.  Cookies should make your online experience easier and more personalized.</p>
-
-          <p><b>How Do We Use Information We Collect from Cookies?</b></p>
-          <p>We use Web site browser software tools such as cookies and Web server logs to gather information about the JiuJik.com Web site users' browsing activities in order to constantly improve the JiuJik.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the JiuJik.com Web site to better meet the needs of our customers and prospective customers.</p>
-          <p>Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another.  Web server logs allow us to count how many people visit the JiuJik.com Web site and evaluate the JiuJik.com Web site's visitor capacity.  We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.</p>
-          <p>From time to time you may notice offers from outside companies advertised on the JiuJik.com Web site.  We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers.  However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.</p>
-
-          <p><b>How Do We Share Information with Strategic Partners?</b></p>
-          <p>We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to your personal data.</p>
-
-          <p><b>Notice of New Services and Changes</b></p>
-          <p>Occasionally, we may also use the information we collect to notify you about important changes to the JiuJik.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at <a href="mailto:adinfo@jiujik.com">adinfo@jiujik.com</a>.</p>
-
-          <p><b>Information Transmissions</b></p>
-          <p>Personal data or e-mail that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.</p>
-
-          <p><b>Direct Marketing</b></p>
-          <p>In accordance with the requirements of the Ordinance, SCMPP will honor an individual’s request not to use his or her personal data for the purposes of direct marketing.  Should you wish not to receive direct marketing material from JiuJik.com Web site or SCMPP, please write to our Personal Data Privacy Officer at the address listed below.</p>
-          <blockquote><p>Personal Data Privacy Officer<br>South China Morning Post Publishers Limited<br>Morning Post Centre, 22 Dai Fat Street,<br>Tai Po Industrial Estate,<br>New Territories,<br>Hong Kong</p></blockquote>
-          <p>Any such request should clearly state details of the personal data in respect of which the request is being made.  Please also state clearly the authority under which you are authorized to make such a request.</p>
-          <p>Unless otherwise instructed as per the above, we may use any of the personal data collected in the normal course of our business for marketing purposes.</p>
-
-          <p><b>How Do We Protect Your Personal Data?</b></p>
-          <p><b>Information Security</b></p>
-          <p>We utilise encryption/security software to safeguard the confidentiality of personal data we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.</p>
-          <p><b>Evaluation of Information Protection Practices</b></p>
-          <p>Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.</p>
-          <p><b>Employee Access</b></p>
-          <p>Our corporate values, ethical standards, policies and practices are committed to the protection of customer information.  In general, our         business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.  Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy.</p>
-
-          <p><b>What Are your Rights Under the Personal Data (Privacy) Ordinance?</b></p>
-          <p>Under the Personal Data (Privacy) Ordinance of Hong Kong, you have the right:</p>
-          <ul style="color: rgb(51, 51, 51);">
-            <li>To check whether we hold data about you and to access such data;</li>
-            <li>To require us to correct any inaccurate data relating to you; and</li>
-            <li>To be told our policies and practices in relation to personal data and the kind of personal data held by us.</li>
-          </ul>
-          <p>We may charge a reasonable fee for processing any data access request.</p>
-
-          <p><b>How Can You Access and Correct Your Information?</b></p>
-          <p>You may address data access or correction requests, and questions or complaints to:</p>
-          <blockquote><p>Personal Data Privacy Officer<br>South China Morning Post Publishers Limited<br>Morning Post Centre, 22 Dai Fat Street,<br>Tai Po Industrial Estate,<br>New Territories,<br>Hong Kong</p></blockquote>
-
-          <p><b>Use of Personal Data in Legal Procedures</b></p>
-          <p>If it becomes necessary that we take legal action against you for any reason whatsoever including copyright infringement, you expressly agree that the personal data provided by you can be relied upon in identifying and taking action against you.</p>
-
-          <p><b>What About Legally Compelled Disclosure of Information?</b></p>
-          <p>We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.</p>
-
-          <p><b>Data Retention</b></p>
-          <p>We retain personal data so long as the data is still required for the purposes mentioned above.</p>
-          <p>We reserve the right to retain copies indefinitely for our archives.</p>
-
-          <p><b>What About Other Web sites Linked to the JiuJik.com Web site?</b></p>
-          <p>Please note that the JiuJik.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the JiuJik.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites that have a link to the JiuJik.com Web site, is subject to that Web site's own rules and policies which may differ from that of the JiuJik.com Web site.</p>
-          <p>We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.</p>
-
-          <p><b>Your Consent</b></p>
-          <p>By using the JiuJik.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on the JiuJik.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>
-        </div>
-	</div>
-	</div>
-</div>  </div>
-			</div>
-		</div>
-	</div>
-	
-	<div id="footer">
-		<div class="row footer">
-  <div class="container">
-    <div class="large-3 small-6 columns">
-      <div class="links-package">
-        <h4 class="lead">Job Seekers</h4>
-        <ul>
-          <li><a href="http://www.jiujik.com/">Find a job</a></li>
-          <li><a href="http://myjobs.jiujik.com/registration">Register</a></li>
-          <li><a href="http://www.jiujik.com/?subpage=create-job-alert">Create Job alert</a></li>
-          <li><a href="http://www.jiujik.com/?subpage=create-recruitment-day-alert">Create Recruitment day alert</a></li>
-          <li><a href="http://myjobs.jiujik.com/myjob/index">My Account</a></li>
-          <li><a href="http://www.jiujik.com/resources">Resources</a></li>
-        </ul>
-      </div>
-      <div class="links-package">
-        <h4 class="lead">Employers</h4>
-        <ul>
-          <li><a target="_blank" href="http://www.jiujik.com/recruiter">Post a Job</a></li>
-          <li><a target="_blank" href="http://www.jiujik.com/recruiter">Advertise with us</a></li>
-          <li><a target="_blank" href="mailto:adinfo@jiujik.com">Contact us</a></li>
-          <li><a target="_blank" href="http://www.jiujik.com/recruiter/user-guide">User Guide</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="large-3 small-6 columns">
-      <div class="links-package">
-        <h4 class="lead">Recruitment Day 招聘日</h4>
-        <ul>
-          <li><a href="http://www.jiujik.com/recruitment-day/fashion">Fashion</a></li>
-          <li><a href="http://www.jiujik.com/recruitment-day/catering">Catering</a></li>
-          <li><a href="http://www.jiujik.com/recruitment-day/beauty">Beauty</a></li>
-          <li><a href="http://www.jiujik.com/recruitment-day/electronics">Electronics</a></li>
-          <li><a href="http://www.jiujik.com/recruitment-day/finance">Finance</a></li>
-        </ul>
-      </div>
-      <div class="links-package">
-        <h4 class="lead">Job Channels 搵工專頁</h4>
-        <ul>
-          <li><a href="http://www.jiujik.com/job-channels/hotel-catering-jobs">Catering, Hotel &amp; Tourism</a></li>
-          <li><a href="http://www.jiujik.com/job-channels/retail-jobs">Retail</a></li>
-          <li><a href="http://www.jiujik.com/job-channels/finance-jobs">Finance</a></li>
-          <li><a href="http://myjobs.jiujik.com/Category/PARTTIME">Part-time</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="large-3 small-6 columns gutter-tiny-right">
-      <div class="links-package inline-block wide">
-        <h4 class="lead facebook-link">
-          <a href="http://www.facebook.com/jiujik" target="_blank">
-            <img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_footer_facebook.png"> 
-            <span>Find us on Facebook</span>
-          </a>
-        </h4>
-        <div class="clear-both"></div>
-      </div>
-      <div class="links-package inline-block">
-        <h4 class="lead">Download Mobile Apps</h4>
-        <a href="http://www.jiujik.com/iphone" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_footer_itune_store.png"></a>
-        <span class="sepr"></span>
-        <a href="http://www.jiujik.com/aphone" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_footer_google_play.png"></a>
-        <div class="clear-both"></div>
-      </div>
-      <div class="links-package inline-block list">
-        <h4 class="lead">Other Resources</h4>
-        <a href="http://www.scmp.com/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_scmp.png"></a>
-        <a href="http://www.cpjobs.com/hk/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_cp.png"></a>
-        <a href="http://www.educationpost.com.hk/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_ep.png"></a>
-        <a class="mobile-link" href="http://m.jiujik.com/"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_footer_mobile.png">&nbsp;&nbsp;<nobr>Mobile Version - JiuJik.com</nobr></a>
-        <div class="clear-both"></div>
-      </div>
-    </div>
-    <div class="large-3 small-6 columns" style="width: 160px;">
-      <div class="links-package">
-        <h4 class="lead">Latest e-book</h4>
-        <a href="http://www.jiujik.com/ecopy-archive"><img src="http://www.jiujik.com/static/jj-ecopy/20160401/COVER001.jpg" width="173" height="209"></a>
-        <p>Published every Tue and Fri</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div id="advert-grid" class="full advert-grid">
-  <div class="row advert-grid">
-    <div class="container gutter-left-right">
-      <div class="large-6 small-12 columns">
-        <p> Copyright © 2016 South China Morning Post Publishers Ltd. All rights reserved.</p>
-      </div>
-      <div class="large-6 small-12 columns last-child">
-        <div class="links-package"><ul>
-            <li> <a target="_blank" href="http://www.scmpgroup.com/">SCMP Group</a> </li>
-            <li> | </li>
-            <li> <a target="_blank" href="http://www.jiujik.com/privacy-policy">Privacy Policy</a> </li>
-            <li> | </li>
-            <li> <a href="http://m.jiujik.com/">Mobile.Ver</a> </li>
-            <li> | </li>
-            <li> <strong>South China Morning Post</strong> </li>
-          </ul></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-		<div style="display: none;">
-			<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-6891676-7']);
-	_gaq.push(['_setDomainName', 'jiujik.com']);
-	_gaq.push(['_trackPageview']);
-	
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>			<script type="text/javascript">
-  adroll_adv_id = "FZRXWEGQMVFXHO55MOGRSD";
-  adroll_pix_id = "2INRRKVDBNAGRMAXY3NJCD";
-  (function() {
-    var oldonload = window.onload;
-    window.onload = function() {
-      __adroll_loaded = true;
-      var scr = document.createElement("script");
-      var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-      scr.setAttribute('async', 'true');
-      scr.type = "text/javascript";
-      scr.src = host + "/j/roundtrip.js";
-      ((document.getElementsByTagName('head') || [null])[0] ||
-        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-      if (oldonload) {
-        oldonload()
-      }
-    };
-  }());
-</script> 
-		</div>
-	</div>
-                
-        <!-- Google Code for Remarketing tag -->
-        <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-        <script type="text/javascript">
-            /* <![CDATA[ */
-            var google_conversion_id = 981913338;
-            var google_conversion_label = "SJOUCMb4lwUQ-p2b1AM";
-            var google_custom_params = window.google_tag_params;
-            var google_remarketing_only = true;
-            /* ]]> */
-        </script>
-        <div style="display:none">
-            <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-        </div>
-        <noscript>
-            <div style="display:inline;">
-                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981913338/?value=0&amp;label=SJOUCMb4lwUQ-p2b1AM&amp;guid=ON&amp;script=0"/>
-            </div>
-        </noscript>
-		<!--New Relic -->
-		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"8fe53df881","applicationID":"2543897","transactionName":"ZVEANkZTVhICAUQKXFwbNxBdHVEPBwdITUNaRA==","queueTime":0,"applicationTime":142,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>		
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8fe53df881","applicationID":"2854380","transactionName":"ZVEANkZTVhICAUQKXFwbNxBdHVEPBwdITUNaRA==","queueTime":0,"applicationTime":34,"ttGuid":"","agentToken":"","atts":"SRYDQA5JRRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
+  
 </body></html>
