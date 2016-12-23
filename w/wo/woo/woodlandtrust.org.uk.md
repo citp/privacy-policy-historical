@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085703id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandtrust.org.uk privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223191819id_/http%3A//www.woodlandtrust.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Woodland Trust
 
 At the Woodland Trust we respect the privacy of our supporters and visitors to our websites. This policy is concerned with how we collect information, what we do with it and what controls you have.
 
-This policy is in connection with our websites, social media pages, and all our printed and electronic communications.
+This policy explains how we handle your personal information in connection with our websites, social media pages, and all our printed and electronic communications.
 
 In this policy references to the Woodland Trust, or Trust, or to ‘we’ or ‘us’ are to the Woodland Trust which is a registered charity in England and Wales 294344, and in Scotland SC038885. A non-profit making company limited by guarantee. Registered in England No. 1982873 at Kempton Way, Grantham, Lincolnshire, NG31 6LL.  This also includes our charitable trading company - Woodland Trust (Enterprises) Limited (registered company number 2296645) a wholly owned subsidiary of the Woodland Trust which trades only to raise funds for its parent company – the Woodland Trust.
 
@@ -18,22 +18,35 @@ The information is either needed to fulfil your request or to enable us to provi
 
 The Woodland Trust also uses cookies. Please see “Cookies and how they benefit you” below.
 
-**How will we use your personal information?**
+**Where we collect your information?**
 
-Personal information given to the Woodland Trust or Woodland Trust Enterprises will be used for the purposes outlined at the time of collection or registration in accordance with the preferences you express.
+We collect your personal information in a number of ways:
+
+  * When you provide it to us directly
+  * When you provide permission to other organisations to share it with us (including Facebook or Twitter)
+  * When we collect it as you use our websites or apps
+  * From publicly available sources (where possible) to keep your information up to date (e.g. the Post Office’s National Change of Address database)
+
+
+
+We combine the information from these sources with the information you provide to us directly.
+
+When providing permission for 3rd party organisations to share your data you should check their Privacy Policies carefully to understand fully how they will process your data.
+
+**How will we use your personal information?**
 
 Personal information collected and processed by us may be used, for the following purposes:
 
-  * Administration of membership(s)
-  * Fulfilment of orders for goods and services requested
-  * Administration of donations and legacies
-  * In-house research and statistical analysis
-  * Communication about conservation, campaigning, membership, volunteering, fundraising, events, products and services and other activities
-  * To provide a personalised service to you when you visit our websites
-  * Communication about special offers from carefully selected organisations
-  * To provide you with information which we think may be of interest to you
+  * To provide you with information (including campaigning, volunteering and fundraising), products or services you have requested or which we feel may interest you where you have consented to being contacted
+  * To allow you to participate in interactive features on our website, when you choose to do so, e.g. we may help you complete forms by inserting your contact details for you to edit
+  * To analyse and improve the services offered on our websites by providing you with the most user-friendly navigation experience we can for your computer or other internet device
+  * To process your personal information for the purposes of customer analysis, assessment, profiling and direct marketing, on a personalised or aggregated basis, to help us with our activities and to provide you with the most relevant information.
+  * To develop our products, services, systems and relationships with you
+  * When we are legally required to hold certain personal information to fulfil statutory obligations, e.g. the collection of Gift Aid.
 
 
+
+We will also hold information about your details so that we can respect your preferences for being contacted by us.
 
 **Consent**
 
@@ -49,16 +62,19 @@ We will not make marketing calls to you if you are registered with the Telephone
 
 You may still receive other types of telephone calls from us as long as they are not marketing calls such as checking your direct debit mandate for example. We do outsource some of the telephone calling we carry out but we will only ever use carefully selected organisations with operate in a sympathetic manner to the Trust.
 
+If you contact us by telephone, your telephone call may be recorded or monitored for the purpose of quality control and for staff training. Any recordings will be held for two years and will then be deleted.
+
 **Who do we share information with?**
 
 We will never sell or rent your personal information to other organisations. We only disclose information when obliged to by law, for purposes of national security, taxation and criminal investigations and the following:
 
   * If you have agreed that we may do so 
-  * When we use other companies to provide services on our behalf, e.g. processing, mailing or delivering orders, answering customers’ questions about products or services, sending mail and emails, analysing/profiling data, when using auditors/advisors or processing credit card payments 
+  * When we use other companies to provide services on our behalf, e.g. processing, mailing or delivering orders, answering customers’ questions about products or services, sending mail and emails, customer analysis, assessment and profiling, when using auditors/advisors or processing credit/debit card payments 
   * To our subsidiaries (i.e. the companies owned by the Woodland Trust)
   * If we receive a complaint about any content you have posted or transmitted to or from one of our sites, to enforce or apply our Terms & Conditions or if we believe that we need to do so to protect and defend the rights, property or personal safety of the Woodland Trust, our websites or our visitors and for other lawful purposes
   * If we merge with another organisation to form a new entity, information may be transferred to the new entity
   * We may disclose aggregate statistics about our site visitors, supporters, customers and sales to describe our services and operations to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics won’t include any personally identifying information
+  * If we run an event in partnership with other named organisations your details may need to be shared. We will be very clear what will happen to your data when you register.
 
 
 
@@ -70,15 +86,13 @@ Information submitted by you may be transferred by us to our other offices and o
 
 Any personal information you supply to us will not be retained for longer than necessary.
 
-**Users aged under 16**
+**Children**
 
 If you are aged under 16, please ensure you obtain your parent/guardian's consent before sending any personal information to any website or the Woodland Trust.
 
 We do have activities for those under 16 so we may ask your age. Prior to taking part in these please ensure you speak to your parent or guardian.
 
 Please note that we will not knowingly accept online donations or orders for goods or services from persons aged under 16 years.
-
-**Parents and guardians**
 
 We encourage you to be aware of the activities in which your children are participating, both offline and online. If your children voluntarily disclose information, this may encourage unsolicited messages. We suggest that you discourage your child from providing any information without your consent.
 
@@ -96,7 +110,7 @@ NG31 6LL
 
 Our websites contains hyperlinks to many other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
 
-Please let us know if a link is not working (use the '[Contact us](https://www.woodlandtrust.org.uk/contact-us/)' link which can be found at the bottom of every webpage).
+Please let us know if a link is not working (use the '[Contact us](https://web.archive.org/contact-us/ "Contact us")' link which can be found at the bottom of every webpage).
 
 In purchasing goods or services from any of the companies to which any Woodland Trust sites links, you are forming a contract with the company(s) concerned (agreeing to their terms and conditions), not the Woodland Trust.
 
@@ -132,7 +146,8 @@ Where you or we have provided a password enabling you to access parts of our web
 
 **Volunteering**
 
-If you register to become a volunteer we will use your information to process your application, update you with the latest news about our work, for administration, for fundraising, update you with how you can get involved and to ensure that you are receiving the right information.
+If you register to become a volunteer we will use your information to process your application, update you with the latest news about our work, for administration, for fundraising, update you with how you can get involved and to ensure that you are receiving the right information.  
+
 
 **Cookies and how they benefit you**
 
@@ -229,7 +244,7 @@ It may be that your concerns around cookies relate to so called "spyware". Rathe
 
 We keep our privacy policy under regular review and we will place any updates on this webpage. Your continued use of any of our websites after changes are posted constitutes your acceptance of these Terms and Conditions.
 
-This Privacy and Cookie Policy was last updated: April 2016
+This Privacy and Cookie Policy was last updated: December 2016
 
 **Your acceptance of this policy**
 
@@ -239,7 +254,7 @@ By using our sites or social media pages, or by entering a competition or raffle
 
 If you wish to talk to use about anything in the policy or the information we hold about you please contact our Supporter Services team:
 
-  * by telephone:  **0330 333 3300**
+  * by telephone: 0330 333 3300
   * or by email: [enquiries@woodlandtrust.org.uk](mailto:enquiries@woodlandtrust.org.uk) 
   * or by post: Supporter Services, Woodland Trust, Kempton Way, Grantham, Lincolnshire, NG31 6LL
 
