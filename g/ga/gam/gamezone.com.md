@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520161950id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223050059id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
 # Intergi | Privacy Policies
 
