@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531151125id_/http%3A//www.benhogangolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benhogangolf.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223023932id_/http%3A//www.benhogangolf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
