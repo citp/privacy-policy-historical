@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609093641id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210721id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
 
 # CHANEL POLICIES
 
-  * LEGAL STATEMENT
-  * PRIVACY POLICY
+This content is not available in the language you have selected.
+
+  *   * 
 
 
-
-  * Preface
+  * ## 
 
 The Chanel companies worldwide ("Chanel") recognize the importance of protecting the privacy of all consumers (“you” or “user”) who visit the CHANEL hosted or sponsored websites.
 
@@ -19,13 +19,13 @@ This Privacy Policy applies only to information collected by us via the Sites. D
 
 You expressly acknowledge and agree that your personal data may be collected on the Sites.
 
-  * 1\. General Information
+  * ## 
 
 This Privacy Policy sets forth how Chanel collects and uses your personal data and the measures taken to ensure the protection of your personal data while you use the Site, pursuant to French law n°78-17 of January 6, 1978 on Data processing, files and individual liberties as amended by French law n°2004-801 of August 6, 2004 relating to the Protection of individuals with regard to the processing of personal data.
 
 Chanel protects the privacy of the users of its Sites by complying with the applicable regulations in force. Accordingly, Chanel, as data controller, has notified the French data protection authority (Commission Nationale de l’Informatique et des Libertés) (hereinafter "CNIL") that it collects and processes your personal data.
 
-  * 2\. Data Collection, Use, and Storage
+  * ## 
 
  **2.1 Data Collection**
 
@@ -96,7 +96,7 @@ Mandatory information required by Chanel to carry out the above tasks is marked 
 
 Chanel may store your identifiable personal information for a period of up to ten years following the last date of contact. Cookies used to analyze traffic on the Sites are stored for six months.
 
-  * 3\. Sharing and disclosure of Identifiable Personal Data
+  * ## 
 
 The data collected shall be provided only to Chanel and to companies authorized to use the CHANEL trademarks.
 
@@ -109,12 +109,12 @@ Chanel will use its best efforts to ensure the confidentiality and security of i
 
 When you introduce a Chanel brand product to someone you know using the "Share" function provided on the Sites, the information you enter is used only to send your message. It is not stored by Chanel or used for any other purpose. You are solely responsible for any messages you send to people you know using the "Share" function.
 
-  * 4\. Data Transmitted by the Sites Users other than as Requested by Chanel
+  * ## 
 
 Chanel requests that you refrain from transmitting any content including but not limited to business, advertising, creative, marketing or any other types of proposals, concepts, know-how, ideas and the like ("Unsolicited Materials") that is not requested via a questionnaire or any other collection form, such as commercial information, advertisements, personal creations, ideas, or concepts, etc.  
 All Unsolicited Materials, including any unsolicited Personal Information (for example, Personal Information provided not in response to a specific request for such information, but in a free form text box), that we receive will not be subject to this Privacy Policy. By submitting any Unsolicited Materials, you agree that we shall have the sole discretion as to how to utilize such Unsolicited Materials and you automatically provide to us a perpetual, royalty free license to such end. If any Unsolicited Materials that you provide to us are protected by third party copyright, trademark or other proprietary rights, you agree to indemnify, defend, and hold harmless Chanel against any claims or actions brought against Chanel arising out of or relating to our use or possession of the Unsolicited Materials.
 
-  * 5\. Security Measures
+  * ## 
 
 Chanel will use its best efforts to protect your identifiable personal information against damage, loss, disclosure, misappropriation, intrusion, alteration, and destruction.
 
@@ -124,7 +124,7 @@ Any Chanel employees who, in the course of their work, might have access to your
 
 However, Chanel has no control over the risks in connection with the functioning of the Internet and draws your attention to the existence of potential risks in terms of confidentiality of the data transiting via this network. Access to information proposed on the Sites might be interrupted for high priority events or beyond Chanel's reasonable control, or reasons which do not fall under Chanel's scope of responsibility.
 
-  * 6\. Individual Rights Relating to Collected Data
+  * ## 
 
 6.1 Right to Access, Modify, Correct, and Delete Data
 
@@ -143,23 +143,23 @@ Users of the Sites who no longer wish to receive it can unsubscribe as follows:
 * by simply clicking on the unsubscribe link located at the bottom of each Newsletter; or  
 * by filling out the "Contact Us" form and specifying your request and the email address to be unsubscribed in your message.
 
-  * 7\. Use of Data in the Event of a Change of Corporate Control
+  * ## 
 
 Data collected by Chanel may be transferred to third parties within the framework of a change of corporate control, an acquisition, bankruptcy proceedings, or the sale of company assets.
 
-  * 8\. Identifiable personal information Policy and Minors
+  * ## 
 
 The Sites are not targeted towards minors. However, access to the Sites is not reserved for adults, as it does not present any content prohibited for minors under the age of 18.
 
 The Sites forms and questionnaires are not aimed at collecting information on minors. If information on a minor has been collected by the Sites, the minor's legal representative can contact Chanel's Customer Service Department to correct, modify, or delete the information (see article 6.1.)
 
-  * 9\. Identifiable personal information Policy Updates
+  * ## 
 
 The identifiable personal information Policy may be modified by Chanel at any time. Should Chanel wish to use your personal data other than as stipulated in the identifiable personal information Policy in force at the time of data collection, notice of any such modifications will be posted on the Sites in a visible manner and you will also receive notice by email if you have subscribed to the Newsletter.
 
 With regard to any changes which may be made to the identifiable personal information Policy, we invite you to check the "identifiable personal information" section on a regular basis.
 
-  * 10\. Questions / Contact
+  * ## 
 
 For any questions or comments relating to the identifiable personal information Policy or the manner in which Chanel collects and uses your identifiable personal information, please contact our Customer Service Department by filling out the "Contact Us" form.
 
