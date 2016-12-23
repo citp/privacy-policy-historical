@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314021855id_/https%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223104944id_/https%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - InsureandGo UK
 
@@ -45,6 +45,10 @@ Please remember that disabling cookies can severely affect the functionality of 
 
 Here's a list of all the cookies we put on your computer when you visit our website:
 
+#### _AntiCSRFToken
+
+This cookie helps to protect you against cross-site request forgery (CSRF) attacks.
+
 #### affiliateid
 
 Used to track the affiliate ID, which lets us know which of our partners (if any) sent you to our website.
@@ -57,40 +61,45 @@ A unique identifier assigned to each visitor to our website. This cookie is reta
 
 We use a number of third-party services that need to place cookies on your computer to function properly. Here is a list of the services we use, the cookies they create and a brief description of what we use each service for:
 
-#### Disqus
+#### Bing  
+Cookie name: MR, MUID
 
-Cookie name: __jid, disqus_unique  
+We use Bing to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who’ve visited our website and then gone to another website without buying a policy. For information about the data Bing’s cookies contain, [click here](http://ads.bingads.microsoft.com/en-uk/privacy-policy).
+
+#### Disqus  
+Cookie name: __jid, disqus_unique
+
 We use Disqus to enable readers of the InsureandGo blog to leave comments on our posts. For information about the data Disqus's cookies contain, [click here](http://help.disqus.com/customer/portal/articles/466235-enabling-cookies).
 
-#### DoubleClick (Google)
+#### DoubleClick (Google)  
+Cookie name: id
 
-Cookie name: id  
 We use DoubleClick to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who've visited our website and then gone to another website without buying a policy. For information about the data DoubleClick's cookies contain, [click here](http://www.google.com/intl/en/policies/privacy/)
 
-#### Google Analytics
+#### Google Analytics  
+Cookie name: ND, _dc_gtm_UA-41509584-1, _dc_gtm_UA-9347930-3, _gat_UA-9347930-3, _ga, __utma, __utmc, __utmz, __utmt, __utmb
 
-Cookie name: _ga, __utma, __utmb, __utmc, __utmz  
 We use Google Analytics to help us understand how people find and use our website. For information about the data Google Analytics' cookies contain, [click here](http://www.google.com/analytics/learn/privacy.html).
 
-#### LivePerson
+#### LivePerson  
+Cookie name: LivePersonID, 22725166-SKEY, HumanClickSiteContainerID_22725166, 22725166-VID, HumanClickKEY
 
-Cookie name: 22725166-SKEY, 22725166-VID, ASPSESSIONIDCSBRDBRA, HumanClickKEY, HumanClickSiteContainerID_22725166, LivePersonID  
 We use LivePerson to enable people to chat to members of our customer services team. For information about the data LivePerson's cookies contain, [click here](http://www.liveperson.com/policies/privacy).
 
-#### Pintrest
+#### Pinterest  
+Cookie name: Cookie name: _pinterest_cm
 
-Cookie name: Cookie name: _pinterest_cm  
 We use Pinterest to allow visitors to our blog to share photos with their followers. For information about the data Pinterest's cookies contain, [click here](http://about.pinterest.com/en/privacy-policy).
 
-#### Scorecard Research (Disqus)
+#### Twitter  
+Cookie name: pid
 
-Cookie name: guest_id, pid  
-Scorecard Research is used by a service called Disqus, which is what we use to enable visitors to our blog to leave comments on our posts. For information about the data AddThis's cookies contain, [click here](http://www.addthis.com/privacy).
-
-#### Twitter
-
-Cookie name: pid  
 We use Twitter to enable people to follow InsureandGo with the click of a button. For information about the data Twitter's cookies contain, [click here](https://twitter.com/privacy).
+
+#### Yahoo!  
+Cookie name: B
+
+We use Yahoo! to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who’ve visited our website and then gone to another website without buying a policy. For information about the data Bing’s cookies contain, [click here](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm).
 
 * * *
 
