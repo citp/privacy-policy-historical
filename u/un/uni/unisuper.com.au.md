@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428215646id_/http%3A//www.unisuper.com.au/%7E/media/files/forms%2520and%2520downloads/forms%2520and%2520brochures/about%2520unisuper/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223140336id_/https%3A//www.unisuper.com.au/%7E/media/files/forms%2520and%2520downloads/forms%2520and%2520brochures/about%2520unisuper/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -52,7 +52,7 @@ We have a sound privacy framework supported by industry         through lawful a
 practices that comply with our legislative privacy obligations
 to ensure you can have confidence that your information
 is safe and secure. Privacy is managed at each stage of the
-www.unisuper.com.au
+unisuper.com.au
 
 
 Why does UniSuper collect                                        UniSuper‘s policy is only to collect sensitive information
@@ -72,7 +72,7 @@ information from you if you choose to receive financial
                                                                  information. If you do not provide this information, we may
 advice and related services from us.
                                                                  not be able to provide you with a product or service.
-                                                                 Health Information
+                                                                 HEALTH INFORMATION
 How we use your Personal                                         When we collect and manage health information, we comply
 Information that we collect                                      with the terms of our Privacy Policy and with the following
                                                                  additional rules:
@@ -96,16 +96,16 @@ Also, if we are unable to collect certain personal information        health inf
 from you, we may not be able to administer your benefits              reasonable steps to note any statement you make about
 at all or you may be disadvantaged. For example, if you               the relevant health information.
 fail to provide your tax file number, UniSuper will not
-able to accept any voluntary after-tax (non-concessional)        Government Identifiers
+able to accept any voluntary after-tax (non-concessional)        GOVERNMENT IDENTIFIERS
 contributions from you and additional tax may be deducted        UniSuper is authorised by law to collect government related
 from any employer or salary sacrifice (concessional)             identifiers such as your Tax File Number. UniSuper will not
 contributions made by you or your employer.                      use or disclose this information other than when required or
                                                                  authorised by law.
 In other cases, if we are unable to collect certain personal
 information (e.g. your email address), we will not be able to
-                                                                 Dealing with us Anonymously
+                                                                 DEALING WITH US ANONYMOUSLY
 provide you with member communications or other services
-as quickly or as effectively as we otherwise might.              or with a Pseudonym
+as quickly or as effectively as we otherwise might.              OR WITH A PSEUDONYM
                                                                  You can deal with UniSuper anonymously or with a
                                                                  pseudonym where it is lawful and practicable to do so. A
 Other Types of Information                                       pseudonym is a name or other description that is different
@@ -113,7 +113,7 @@ Other Types of Information                                       pseudonym is a 
 UniSuper collects
                                                                  In these circumstances, as we are limited in the amount of
                                                                  information that we have about you, we may be limited in
-Sensitive Information
+SENSITIVE INFORMATION
                                                                  our ability to provide details about our services and products
 Sensitive information is a subset of personal information,       applicable to your particular circumstances.
 which is afforded a higher level of privacy protection.
@@ -121,7 +121,7 @@ Sensitive information includes information about your            If you would li
 health, race or ethnicity, political opinions, criminal records, information from UniSuper, you will need to provide us with
 religious beliefs or affiliations, trade union or professional   your personal details so that we can verify your identity.
 memberships you may be associated with.
-www.unisuper.com.au
+unisuper.com.au
 
 
 Additional Information                                         Direct Marketing
@@ -162,8 +162,8 @@ company requirements.                                          intranet and netw
 Disclosure of your Personal Information                        We provide a website for the benefit of members to allow
                                                                them to easily manage their accounts (www.unisuper.com.
                                                                au). Generally, any personal information that is collected
-Disclosure of Personal Information                             from and managed via the website is collected and managed
-to Third Parties                                               in the same manner as other personal information. However,
+DISCLOSURE OF PERSONAL INFORMATION                             from and managed via the website is collected and managed
+TO THIRD PARTIES                                               in the same manner as other personal information. However,
 UniSuper engages certain external organisations to assist in   there are some additional features of the website that are
 the provision of services to you (e.g. mail-houses, auditors,  slightly different. These are as follows:
 insurers, actuaries, lawyers and research consultants).        AA   MemberOnline: We allow you to access and
@@ -177,7 +177,7 @@ contractual terms and ask them to hold, use and disclose your
                                                                     If you click on a link in our website that leads you to
 personal information in accordance with the Privacy Act.
                                                                     another organisation’s website, UniSuper will cease to
-Overseas Disclosure of Personal Information                         be responsible for the privacy or security of any personal
+OVERSEAS DISCLOSURE OF PERSONAL INFORMATION                         be responsible for the privacy or security of any personal
                                                                     information that you may provide to the operator of
 In order to provide our services and products to you, we may,
                                                                     the linked site. You should check with the linked site’s
@@ -195,15 +195,15 @@ Australian laws and standards.
                                                                     is collected for the purpose of improving the usefulness
                                                                     and usability of the site. You can usually modify your
                                                                     browser to prevent this from happening.
-www.unisuper.com.au
+unisuper.com.au
 
 
                                                                                                                           or information provided by a third party entity. Where this
 Technology, Risk and                                                                                                      occurs, UniSuper may refer you to the third party to access
 our Control Framework                                                                                                     the information directly. In each of these cases, UniSuper
                                                                                                                           will provide you with reasons for the refusal.
-How does UniSuper maintain the                                                                                            If you believe your personal information is not accurate,
-quality of Personal Information?                                                                                          complete, or up-to-date, please contact us (see the Contact
+HOW DOES UNISUPER MAINTAIN THE                                                                                            If you believe your personal information is not accurate,
+QUALITY OF PERSONAL INFORMATION?                                                                                          complete, or up-to-date, please contact us (see the Contact
 We take reasonable steps to ensure that our information                                                                   Us section for more information).
 about you is accurate, complete and up-to-date. UniSuper
 encourages you to advise us immediately of any changes to
@@ -211,7 +211,7 @@ your personal information, especially if it may affect your                     
 benefits directly (e.g. changes to your name, address or
 nominated beneficiaries).                                                                                                 UniSuper may amend this Privacy Policy as required, and we
                                                                                                                           encourage you to check the website for updates.
-Security and Storage of Personal Information
+SECURITY AND STORAGE OF PERSONAL INFORMATION
 We are committed to protecting the personal information
 we hold about you. UniSuper takes all reasonable steps                                                                    More Details and Further Queries
 to protect your personal information, including the use
@@ -222,16 +222,16 @@ Our systems are subject to regular audit, and are maintained                    
 based on appropriate industry guidelines. UniSuper ensures                                                                        Write to the: Privacy Officer, UniSuper,
 that all information is backed up and stored securely in a
                                                                                                                           AA
-                                                                                                                                  Level 35, 385 Bourke Street,
+                                                                                                                                  Level 1, 385 Bourke Street,
 remote location. All access to personal information is by                                                                         Melbourne, VIC 3000; or
 authorised staff only and is carefully monitored.                                                                                 E-mail us at enquiry@unisuper.com.au; or
                                                                                                                           AA
-                                                                                                                          AA      Call the UniSuper Helpline on 1800 331 685 between
-                                                                                                                                  8.30am and 7.00pm, Monday to Thursday and 8.30am
-Responding to Complaints and Inquiries                                                                                            to 6.30pm on Friday.
+                                                                                                                          AA      Call the UniSuper Helpline on 1800 331 685
                                                                                                                           AA      For more information about privacy in general, you
-UniSuper has a complaints handling and inquiries team and                                                                         can visit the Office of the Australian Information
-processes in place to ensure that we deal with complaints and                                                                     Commissioner’s website http://www.oaic.gov.au
+Responding to Complaints and Inquiries                                                                                            can visit the Office of the Australian Information
+                                                                                                                                  Commissioner’s website http://www.oaic.gov.au
+UniSuper has a complaints handling and inquiries team and
+processes in place to ensure that we deal with complaints and
 questions from members, employers, and the general public.
 Access and Correction
 to Personal Information
@@ -249,8 +249,8 @@ This information is of a general nature only and includes general advice. It has
 membership, you should consider your personal circumstances, the relevant product disclosure statement for your membership category and whether to consult a licensed financial adviser.
 This information is current as at March 2014 and is based on our understanding of legislation at that date. Information is subject to change. To the extent that this fact sheet contains information which is inconsistent with the
 UniSuper Trust Deed and Regulations (together the Trust Deed), the Trust Deed will prevail.
-Issued by: UniSuper Management Pty Ltd ABN 91 006 961 799, AFSL No. 235907 on behalf of UniSuper Limited the trustee of UniSuper, Level 35, 385 Bourke Street, Melbourne Vic 3000.
+Issued by: UniSuper Management Pty Ltd ABN 91 006 961 799, AFSL No. 235907 on behalf of UniSuper Limited the trustee of UniSuper, Level 1, 385 Bourke Street, Melbourne Vic 3000.
 Fund:          UniSuper, ABN 91 385 943 850
 Trustee:       UniSuper Limited, ABN 54 006 027 121
 Date:          March 2014
-www.unisuper.com.au
+unisuper.com.au
