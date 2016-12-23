@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315220727id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagebdr.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210237id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | engage:BDR
 
@@ -20,13 +20,13 @@ This Privacy Policy was last revised on the date at the top of this page. We res
 
 INFORMATION ENGAGE:BDR, INC. COLLECTS
 
-_Personal Identifiable Information (PII)_
+ _Personal Identifiable Information (PII)_
 
 Personal Identifiable Information is data that can be used directly, or with reasonable effort, indirectly, to contact or identify you, and may include, but is not limited to, your name, phone number, date of birth, age, gender, email address and home address, among other things.
 
 engage:BDR, Inc. does not intentionally collect PII from website visitors and takes precautions to avoid the collection of PII.   engage:BDR, Inc. cannot guarantee it may not inadvertently come into the possession of PII. Additionally, engage:BDR, Inc. may obtain PII from our website when you, the website user, choose to provide it to engage:BDR, Inc. Collection of PII may occur when you send us PII about yourself in an email or by completing an online form or registration on our website. PII obtained in this manner may be stored for a reasonable time for record keeping purposes. You are not required to provide any PII to us unless you choose to access features on this site which require the information. If you do not agree with the terms of this Privacy Policy or other terms of use on this website, then you should immediately exit this website and discontinue using the site.
 
-_Non-Personal Identifiable Information (Non-PII)_
+ _Non-Personal Identifiable Information (Non-PII)_
 
 Non-Personal Identifiable Information is information that cannot be used to personally identify the user. As part of our on-going efforts to ensure the best possible experience for all advertising recipients, our technology may use log files, web beacons and cookies to collect data from browsers, advertisers and third party sites to aggregate information. The information collected is used for marketing purposes, enabling us to determine which advertisements perform well, allowing us to more effectively match advertisements and website content to your interests, assisting us in improving the operation of our services, and enabling us to provide general statistics to our business partners and clients regarding use of engage:BDR, Inc.’s services.
 
