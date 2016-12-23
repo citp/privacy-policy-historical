@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headphonesaddict.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520024057id_/http%3A//headphonesaddict.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headphonesaddict.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223230528id_/http%3A//headphonesaddict.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Headphones Addict
+# Headphonesaddict.com - Privacy Policy
 
 At headphonesaddict.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by headphonesaddict.com and how it is used.
 
