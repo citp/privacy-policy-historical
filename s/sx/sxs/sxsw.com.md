@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629155216id_/http%3A//www.sxsw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxsw.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223231532id_/https%3A//www.sxsw.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SXSW
 
@@ -87,3 +87,7 @@ You should be aware that it may not be technologically possible to remove each a
 Residents of California have a right to request a detailed list of any third-party entities with which SXSW shares PII for their own marketing purposes. You may opt-out of having your PII shared with third parties by sending your request including your full name, email address, and postal address to: SXSW, LLC, P.O. Box 685289, Austin, TX, 78768 ATTN: Privacy Officer. SXSW does not respond to “do not track” signals from users of the Site regarding the collection of PII. California residents using the Site are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, by phone at 916-445-1254 or 800-952-5210, or by email to [dca at dca.ca.gov](mailto:dca@dca.ca.gov).
 
 **VII. CONTACT** You may contact us by U.S. mail with any questions about this Privacy Policy at: SXSW, LLC, P.O. Box 685289, Austin, TX, 78768 ATTN: Privacy Officer.
+
+* * *
+
+[2016 Archive](https://www.sxsw.com/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2016.pdf) | [2015 Archive](https://www.sxsw.com/wp-content/uploads/2016/05/Privacy-Policy-SXSW-2015.pdf)
