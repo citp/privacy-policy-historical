@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buzzen.com privacy policy that was archived on 2016-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160520141619id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzen.com privacy policy that was archived on 2016-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223105043id_/http%3A//www.buzzen.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -11,7 +11,7 @@
 	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=235872146496562"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>	<script src="http://www.buzzen.com/cms/js/bootstrap.min.js"></script>
 	<script src="http://www.buzzen.com/cms/js/respond.min.js"></script>
 	<script type="text/javascript" src="http://www.buzzen.com/cms/js/jquery.cookie.js"></script>
-	<link href="http://www.buzzen.com/cms/style/style_main.css?v1.3" rel="stylesheet">
+	<link href="http://www.buzzen.com/cms/style/style_main.css?v1.16" rel="stylesheet">
 	<link rel="icon" type="image/x-icon" href="http://www.buzzen.com/cms/imgs/main/favicon.ico">
 	<script src="http://www.buzzen.com/cms/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 	<meta name="keywords" content="chat, buzzen chat, web chat, free chat, free chatrooms, Buzzen multiplex, chatroom moderator, social network, mIRC, spacedom, IRCwx, net-bits, blogs, arcade, profiles, photo albums">
@@ -116,8 +116,12 @@
 </div>		
 </div>
 <div class="container">
-	<h2><span class="fa fa-warning"></span> Privacy Statement</h2>
-	<div style="border-top:1px solid #CCC;border-bottom:1px solid white;height:2px;"></div>
+	<h2 class="mainh2"><span class="fa fa-warning"></span> Privacy Statement</h2>
+	<div style="border-top:1px solid #CCC;border-bottom:1px solid white;height:2px;margin-bottom:5px;"></div>
+	<ol class="breadcrumb breadcrumbuser">
+		<li><a href="http://www.buzzen.com/">Home</a></li>
+  		<li class="active">Privacy Statement</li>
+	</ol>
 	<br>
 	<div>
 		<p><strong>COPYRIGHT© BUZZEN: </strong></p>
@@ -232,9 +236,41 @@
 </div>
 <!-- Sound Player -->
 <div id="sound_newmessage" style="display:none;"></div>
+<!-- General Modal -->
+<div id="GenModal" class="modal fade" tabindex="-1" role="dialog">
+	<div class="modal-dialog">
+    	<div class="modal-content" style="margin-right:20px;">
+      		<div id="GenModalBody" class="modal-body" style=""></div>
+      		<div class="modal-footer" style="border:0px;margin:0 5px 5px 5px;padding:0px;text-align:center;">      		
+        		<button type="button" class="btn btn-danger btn-sm btn-block" data-dismiss="modal">Close</button>
+      		</div>
+      	</div>
+    </div>
+</div>
 <script type="text/javascript">
 // <![CDATA[
-$(document).ready(function(){	
+$(document).ready(function(){
+	$('.popGenModal').on( "click", function() {	
+		var en = $(this).attr('href');
+		$("#GenModalBody").load(en);
+		$('#GenModal').modal({backdrop:'static',keyboard:false, show:true});
+		return false;
+	});
+	$(document).on('click', '[id^="moodset_"]', function( e ) {
+		var en = $(this).attr('id').split("_");
+		var enb = en[1].substr(0,1).toUpperCase()+en[1].substr(1);
+		$.ajax({
+			type: "POST",
+			url: "http://www.buzzen.com/cms/ajax/ajax_moods.php",
+			data: { what: 'changemood', mid: en[1] },
+			cache: false,
+			success: function(theResponse) {
+				$('.moodname').text(enb);
+				$('.moodimg').attr('src','http://www.buzzen.com/cms/imgs/moods/mood_' + en[1] + '.gif');
+			}
+		});		
+		return false;
+	});
 	/* Show Alert */
 	if ($.cookie("buzzalert")) { }
 	else { 
