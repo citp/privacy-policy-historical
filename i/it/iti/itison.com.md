@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325232231id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223144210id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – itison
 
