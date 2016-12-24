@@ -1,36 +1,24 @@
-> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513024858id_/https%3A//www.lostmy.name/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostmy.name privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224031346id_/https%3A//www.lostmy.name/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lost My Name
 
 ### Privacy Policy of lostmy.name
 
-**Introduction**
+**Introduction** This policy (together with our terms and conditions of use as set out at [www.lostmy.name/terms](http://www.lostmy.name/terms)) applies when you use our website www.lostmy.name (the **“Website”** ) or visit a site that uses our advertising technology. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.For the purpose of the Data Protection Act 1998, the data controller is Lostmy.name Limited of 30-36 Pritchards Road, London E2 9AP, United Kingdom. **Types of Data collected** We may collect and process the following information about you:
 
-This policy (together with our terms and conditions of use as set out at [www.lostmy.name/terms](http://www.lostmy.name/terms)) applies to your use of the website www.lostmy.name (the **“Website”** ) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+1 Information you give us – You may give us information about you by filling out forms on the Website or by corresponding with us by email, phone or otherwise. This includes information you provide when you register to use the Website, place an order on our Website, participate in discussion boards or other social media functions on our Website, enter a competition, promotion or survey and when you report a problem with our Website. The information you give us may include your name, billing address, delivery address, email address, phone number, age, date of birth, gender, photograph, username, password and other registration information, as well as the book recipient’s name and address.
 
-For the purpose of the Data Protection Act 1998, the data controller is Lostmy.name Limited of 30-36 Pritchards Road, London E2 9AP, United Kingdom.
-
-**Types of Data collected**
-
-We may collect and process the following information about you:
-
-  1. Information you give us – You may give us information about you by filling out forms on the Website or by corresponding with us by email, phone or otherwise. This includes information you provide when you register to use the Website, place an order on our Website, participate in discussion boards or other social media functions on our Website, enter a competition, promotion or survey and when you report a problem with our Website. The information you give us may include your name, billing address, delivery address, email address, phone number, age, date of birth, gender, photograph, username, password and other registration information, as well as the book recipient’s name and address.
-
-  2. Information we collect about you and your device – Each time you visit the Website we may automatically collect the following information:
-
-
-
+2 Information we collect about you and your device – Each time you visit the Website we may automatically collect the following information:
 
 a. technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
 
 b. information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed, purchased or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
 
-  1. Information we receive from other sources - We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+3 Information we collect about you via advertising – From time to time, we may place ads on third party sites (such as YouTube). When you view or otherwise interact with our ads, we and our partners may use various technologies (such as cookies) to collect and store information about you including cookie data & anonymised IDs for attribution & advertising purposes. We use these technologies to help us understand more about our customers and the effectiveness of our adverts.
 
-  2. Location Information - We may also collect information about your location, such as the IP Address of the device you access our Website from.
+4 Information we receive from other sources - We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them
 
-
-
+5 Location Information - We may also collect information about your location, such as the IP Address of the device you access our Website from.
 
 We do not collect your financial information. This is collected and stored by third party payment processors. 
 
@@ -132,16 +120,13 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use the following cookies:
 
-  1. Strictly necessary cookies - These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website, use a shopping cart or make use of e-billing services.
+1 Strictly necessary cookies - These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website, use a shopping cart or make use of e-billing services.
 
-  2. Analytical/performance cookies - They allow us to recognise and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+2 Analytical/performance cookies - They allow us to recognise and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
 
-  3. Functionality cookies - These are used to recognise you when you return to our Website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of currency or language).
+3 Functionality cookies - These are used to recognise you when you return to our Website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of currency or language).
 
-  4. Targeting cookies - These cookies record your visit to our Website, the pages you have visited and the links you have followed. We will use this information to make our Website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
-
-
-
+4 Targeting cookies - These cookies record your visit to our Website and services, the pages you have visited and the links you have followed. We will use this information to make our Website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose. We may also use these cookies when we place ads on third party sites (such as YouTube). This allows us to understand the number of times our ad has been viewed, whether you visited our Website after viewing our ad and the links that you followed to get there.
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -157,7 +142,7 @@ In particular, you have the right to ask us not to process your personal data fo
 
 **Changes to this privacy policy**
 
-We reserve the right to make changes to this privacy policy at any time and for any reason. Any changes we may make to our privacy policy in the future will be notified to you by posting an updated version of this policy on this page with an updated revision date and, where appropriate, by email. Your continued use of or access to the Website following the notification of any changes to this policy constitutes acceptance to those changes. 
+We reserve the right to make changes to this privacy policy at any time and for any reason. Any changes we may make to our privacy policy in the future will be notified to you by posting an updated version of this policy on this page with an updated revision date and, where appropriate, by email. Your continued use of or access to our services following the notification of any changes to this policy constitutes acceptance to those changes. 
 
 **Links to third party websites**
 
@@ -167,6 +152,4 @@ The Website may, from time to time, contain links to and from the websites of th
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to digital@lostmy.name.
 
-This privacy policy relates solely to this Website.
-
-Latest update: 01 September 2015
+Latest update: 21 November 2016
