@@ -1,83 +1,82 @@
-> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408054235id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bath.ac.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224195905id_/http%3A//www.bath.ac.uk/web/privacy) for the most accurate reproduction.*
 
-# Privacy | University of Bath
-
-This is a privacy statement disclosing our information gathering, use and dissemination practices for the University of Bath website. Our homepage is at [www.bath.ac.uk](https://web.archive.org/). If you have any queries about this statement, you may contact us:
-
-Web Services  
-University of Bath  
-Bath BA2 7AY  
-Email: [web-support@bath.ac.uk](mailto:web-support@bath.ac.uk?subject=web%20privacy%20statement).
-
-## Data collection
-
-### Personal data
+# Privacy and cookie policy
 
 All personal data is collected and stored in line with the Data Protection Act 1998.
 
 We collect the following data:
 
-  * Click stream data (the type of computer and browsing software you use, the address of the website from which you linked, etc)
-  * HTTP protocol elements (your server address and top level domain name (eg .com, .gov etc), date and time of visit, etc)
-  * Search terms
+  * clickstream data (the type of computer and browsing software you use, the address of the website from which you linked, etc)
+  * HTTP protocol elements (your server address and top level domain name – like .com or .gov – date and time of visit, etc)
+  * search terms
 
 
 
-This data will be used for the following purposes:
+We use this data for:
 
-  * Completion and support of the current activity.
-  * Website and system administration.
-  * Research and development.
+  * completion and support of the current activity
+  * website and system administration
+  * research and development
 
 
 
-This data is collected from all web users. Web access logs are used for statistical purposes only (eg to measure the use/performance of the site) except in the event of a security breach when they could be used for the purpose of tracing the breach. No information gathered from web logs is given or sold to any third party.
+We collect this data from all web users. We only use web access logs for statistical purposes, for example, to measure the use and performance of the site. The only exception is if there is a security breach and we could use them to trace the breach.
 
-Any personal information that you provide to us will only be used for the purpose stated at the time we request it. This information will not be disclosed to a third party except where authorised by you or as otherwise permitted by the Data Protection Act.
+We do not give or sell any information gathered from web logs to any third party.
 
-### Cookies
+We only use any personal information that you provide to us for the purpose stated at the time we request it. We do not disclose this information to a third party unless you authorise it or as otherwise permitted by the Data Protection Act.
 
-Cookies are a technology which can be used to provide you with tailored information from a website; they can facilitate communication and interaction with the site. You may stop or restrict the placement of cookies on your computer by adjusting your web browser preferences, but this may interfere with some of the functionality of the site.
+Cookies can be used to provide you with tailored information from a website. They can enable communication and interaction with the site.
 
-At the user's option, we will collect the following data:
+You may stop or restrict the placement of cookies on your computer by adjusting your web browser preferences. This may interfere with some of the functionality of the site.
+
+We use cookies to track visitors to our site, including Google Analytics. At your option, we collect the following data:
 
   * HTTP cookies
 
 
 
-Cookies will be used for the following purposes:
+We use cookies for:
 
-  * Research and development.
-  * User targeting.
+  * research and development
+  * user targeting
+  * advertising and marketing
 
 
 
-This data will be used by ourselves and our agents.
+This data is used by us and our agents.
 
-Cookies are used to track visitors to our site.
+## Advertising and remarketing
 
-### E-mail and online forms
+We sometimes use Google Analytics Advertising Features for promotional campaigns, including remarketing and Google Display Network. We use this to show our ads on other websites based on your past visits to bath.ac.uk.
+
+You can opt out of this display and remarketing advertising by changing your [Google Analytics ad settings](https://www.google.com/settings/u/0/ads/authenticated).
 
 We collect the following information:
 
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Preference data
+  * physical contact information
+  * online contact information
+  * demographic data
+  * preference data
 
 
 
-This data will be used for the following purposes:
+We will use this data for:
 
-  * Completion and support of the current activity.
-  * Contacting visitors for marketing of services or products.
+  * completion and support of the current activity
+  * contacting visitors for marketing of services or products
 
 
 
-In all cases, we will only use this information for the stated purpose for which it was provided. A number of online forms are provided on this site. The pages containing these forms should include a statement on how data submitted to them will be processed.
+In all cases, we will only use this information for the stated purpose. 
 
-The data is collected so that we can send you news and other information which is relevant to your needs and interests.
+Pages with forms should include a statement on how we will process data submitted to them.
 
-### Opting out
+We collect this data so that we can send you news and information which is relevant to your needs and interests.
 
-If you have any concerns regarding the data that we hold about you, please contact us at the address given above.
+If you have any questions about this statement or concerns about your data, contact us at [web-support@bath.ac.uk](mailto:web-support@bath.ac.uk) or:
+
+Digital Marketing & Communications  
+University of Bath  
+Bath  
+BA2 7AY
