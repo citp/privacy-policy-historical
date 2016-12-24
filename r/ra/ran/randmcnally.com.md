@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217031123id_/http%3A//www.randmcnally.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224055634id_/http%3A//www.randmcnally.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Rand McNally - Privacy Policy
 
@@ -20,6 +20,7 @@ This Privacy Policy applies only to information collected through Rand McNally's
   * How can you update your information?
   * Changes to this Privacy Policy Statement
   * Conflict in terms
+  * Product specific policies
   * Additional information and how to contact us
 
 
@@ -129,6 +130,14 @@ return to top
 ### Conflict in terms
 
 It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Policy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Policy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Policy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Policy Statement. For this reason, you should rely on our Privacy Policy Statement as the most accurate and definitive description of our practices.
+
+return to top
+
+### Product specific policies
+
+  * [Rand McNally DriverConnect](http://www.randmcnally.com/legal/doc/driverconnect-privacy-policy)
+
+
 
 return to top
 
