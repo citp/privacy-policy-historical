@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the velopal.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011231842id_/http%3A//velopal.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velopal.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224080447id_/http%3A//velopal.com/privacy_policy.html) for the most accurate reproduction.*
 
-# VeloPal
+# Best Cycling App | Garmin Cycling Computer | VeloPal
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR OUR SERVICES. MatixSoft, Inc. ("Company") and VeloPal.com("the Website") (collectively "we") are committed to protecting the privacy and security of our visitors, registered users, and subscribers who access our Website or Services. This Privacy Policy sets forth how the Website and our Services collect and use personal information. By using the Website and Services, you acknowledge that you have read and accepted our privacy practices set forth below.
 
@@ -80,7 +80,7 @@ We are committed to protecting the privacy of children. In furtherance of this c
 
 ## 8\. CONTACT WITH YOU
 
-We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint or suspicious transactions. We also may contact you by telephone for the same reasons. You may at any time choose to unsubscribe (or "opt-out") of any of our mailings, either by adjusting your membership settings or by contacting us at [info@velopal.com](mailto:info@matixsoft.com).
+We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint or suspicious transactions. We also may contact you by telephone for the same reasons. You may at any time choose to unsubscribe (or "opt-out") of any of our mailings, either by adjusting your membership settings or by contacting us at "info at velopal.com."
 
 ## 9\. CHANGES AND UPDATES TO THIS PRIVACY POLICY
 
@@ -94,7 +94,7 @@ If you ever have a dispute over privacy or security, it will be subject to this 
 
 ## 11\. CALIFORNIA USERS
 
-If you are a California resident, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties for their own direct marketing uses. California law provides that you have the right to submit a request to us at our email address in order to receive information on the categories of customer information that we shared and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information, please send an email message to [info@velopal.com](mailto:info@matixsoft.com?subject=Request%20for%20California%20Privacy%20Information) with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you in your email address in response.
+If you are a California resident, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties for their own direct marketing uses. California law provides that you have the right to submit a request to us at our email address in order to receive information on the categories of customer information that we shared and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year. To obtain this information, please send an email message to "info at velopal.com" with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you in your email address in response.
 
 Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
