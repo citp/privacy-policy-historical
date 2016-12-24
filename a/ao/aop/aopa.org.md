@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212141443id_/http%3A//www.aopa.org/Privacy-Policy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224085934id_/http%3A//www.aopa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOPA
 
@@ -122,7 +122,7 @@ AOPA strongly encourages you to review the privacy policies of any site before p
 
 You may opt out of AOPA's use of your personal information.
 
-  * We respect your privacy and your choices. [You may request ](https://ebiz.aopa.org/MyAccount/NameContactPreferences.aspx)at any time to have your name, address, phone number, or e-mail address excluded from various types of communications you receive from AOPA. 
+  * We respect your privacy and your choices. [You may request](https://web.archive.org/account/aopaaccount)[ ](https://ebiz.aopa.org/MyAccount/NameContactPreferences.aspx)at any time to have your name, address, phone number, or e-mail address excluded from various types of communications you receive from AOPA. 
     * No mail, email, or phone calls from Aircraft Owners & Pilots Association.
     * No mail, email, or phone calls from our Affiliated Companies1, individually or as a group.
     * No mail, email, or phone calls from our Joint Marketing3 partners.
@@ -132,7 +132,7 @@ You may opt out of AOPA's use of your personal information.
 
 
 
-Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [updating your account information online](https://ebiz.aopa.org/MyAccount/NameContactPreferences.aspx), or emailing us at PrivacyOfficer@AOPA.org. 
+Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [updating your account information online](https://web.archive.org/account/aopaaccount), or emailing us at PrivacyOfficer@AOPA.org. 
 
 ## Definitions
 
@@ -142,7 +142,7 @@ Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [u
   * AOPA has two other Affiliated Companies that are required by law to have their own privacy policies. They are the AOPA Insurance Agency, Inc., an insurance brokerage company (not an insurance carrier) and the AOPA Aviation Finance Company, LLC, an aviation loan broker (not a lender).  You may view their privacy policies on their websites: [
     * AOPA Insurance Agency, Inc. privacy policy »
 ](http://insurance.aopa.org/about/legal)
-    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/Files/Finance/aopaaviationfinanceprivacypolicy.pdf)
+    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en)
 
 
 
