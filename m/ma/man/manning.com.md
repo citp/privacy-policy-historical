@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406135350id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224181510id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
 
 # Manning | Privacy
 
@@ -22,11 +22,9 @@ Manning tracks such information as clickstreams, click-throughs, pageviews, and 
 
 ## Cookies
 
-Manning uses small data files called cookies to help us tailor our websites to individual users. Cookies are transferred to your computer’s hard drive through your web browser, and then enable our systems to recognize our user’s computers and to track user traffic patterns.
+Manning uses small data files called cookies to help us tailor our websites to individual users. Cookies are transferred to your computer's hard drive through your web browser, and then enable our systems to recognize our users' computers and to track user traffic patterns.
 
-Your browser can be set to block cookies or to give you a warning before accepting them. You can still use our website even if you block cookies, but certain site features or functions may not be available to you.
-
-No third parties are involved in Manning’s use of cookies. That means we don’t set third party cookies, share information, or provide tracking support to any third parties.
+Additionally, Manning's shopping cart currently requires the use of third party cookies. These cookies are used only for tracking contents (products) added to your Aabaco e-commerce shopping cart from our website. We are currently evaluating alternative solutions for this feature and hope to remove the need for third party cookies in the near future.
 
 ## Notification of changes
 
