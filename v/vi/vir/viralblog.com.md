@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralblog.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608180456id_/http%3A//www.viralblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralblog.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224110939id_/http%3A//www.viralblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -10,9 +10,9 @@ Our readers can personalize ViralBlog in Zite alike ways, and **schedule e-mail 
 
 **Choose your sign-up method:**
 
-Could not connect to Twitter. Refresh the page or try again later.[](https://web.archive.org/web/20160608180456id_/http://www.viralblog.com/privacy-policy/&oauth_callback)
+[](https://api.twitter.com/oauth/authenticate?oauth_token=Fu1iEAAAAAAAMiReAAABWTCFoKY&oauth_callback)
 
-[](https://www.facebook.com/dialog/oauth?client_id=345764372178167&redirect_uri=http%3A%2F%2Fwww.viralblog.com%2Fcheck_social_login&state=9ec2dbe8e626d387a806683b7f48540e&scope=read_stream%2C+friends_likes)
+[](https://www.facebook.com/dialog/oauth?client_id=345764372178167&redirect_uri=http%3A%2F%2Fwww.viralblog.com%2Fcheck_social_login&state=f3e88dd7821894052d516c0321d7a4ab&scope=read_stream%2C+friends_likes)
 
 * * *
 
