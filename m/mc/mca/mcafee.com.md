@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621201547id_/http%3A//www.mcafee.com/common/privacy/english/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafee.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094411id_/http%3A//www.mcafee.com/common/privacy/english/index.htm%23ht%3Dtab2) for the most accurate reproduction.*
 
 # Privacy Policy | Intel Security
 
 **Last Updated  
-**On May 9, 2016, the McAfee Privacy Notice was updated to the Intel Privacy Notice (see below).  To view Intel's previous notices, please click [**here**](http://www.intel.com/content/www/us/en/privacy/intel-privacy-notice-archive.html). 
+**On December 2, 2016, the McAfee Privacy Notice was updated to the Intel Privacy Notice (see below).  To view Intel's previous notices, please click [**here**](http://www.intel.com/content/www/us/en/privacy/intel-privacy-notice-archive.html). 
 
 Intel Corporation and its group companies ("Intel", "we", "us" and "our") respect your privacy. This Privacy Notice describes our privacy practices regarding the collection, use, and disclosure of your information through Intel’s web sites, products, online services, software, apps, tools, and other services and functionality we provide both online and offline (collectively referred to as “Intel® Services”), along with our marketing and advertising practices.
 
@@ -195,6 +195,7 @@ The following privacy supplements, policies, notices, and statements (“Notice�
   * [Intel® Active Management Technology: Privacy Statement](http://www.intel.com/technology/vpro/privacy/index.htm)
   * [Security Products, Services, and Functionality Privacy Notice Supplement](https://web.archive.org/common/privacy/english/privacy-supplement.html)
   * [Intel Cookie and Similar Technologies Notice](https://web.archive.org/common/privacy/english/index.htm#ht=tab3)
+  * [ Intel Security Privacy Notice Supplement for McAfee® Safe Family](https://web.archive.org/common/privacy/english/mcafee-safe-family-supplement.html)
 
 
 
@@ -294,3 +295,114 @@ This Notice updates and supersedes [previous versions](http://www.intel.com/cont
 LAST UPDATED: March 20, 2015
 
 Contact Intel by using the [Contact Us form](https://www-ssl.intel.com/content/www/us/en/forms/privacy-contact-us.html).
+
+## Mobile App Privacy Notice
+
+Effective November 18th, 2016, the following Mobile App Privacy Notice will apply to McAfee mobile apps.
+
+Intel Corporation, Intel Security and their group companies (" **we** ", " **us** " and " **our** ") respect your privacy. This privacy notice (" **App Privacy Notice** ") describes our privacy practices regarding the collection, use, and disclosure of your personal information through our mobile apps (our "app" or "apps"). 
+
+Other than as specifically set forth in this App Privacy Notice, we will treat your personal information as described in our Privacy Philosophy and our Privacy Notice, both available at <http://www.intel.com/privacy>. 
+
+**1\. What We Collect.**
+
+__Information you provide:__
+
+We may require that you register to use the apps. Registration may require personal information like your email address and name and information like a unique user name or password. In some cases, you may be able to sign in using your Google or Facebook account credentials which will then be used only for the purpose of account access and account management.
+
+The functionality of the apps may require some access to personal information in order to use the apps. This may include contact information such as your name, address, phone number and email address, unique log in credentials. The apps may also access unique numeric identifiers assigned to your device such as your mobile advertising ID/IDFA, Bluetooth device IDs and mobile device ID.
+
+Other types of information may also be collected by the apps such as:
+
+  * IDs of any Bluetooth devices connected to your mobile device 
+  * media such as photos and videos that you store or consent to give us access to
+  * device details such as OS, device ID and device type 
+  * list of other apps on your device and information about those applications
+  * your location 
+  * details of your McAfee product subscriptions such as  products used, registration data, product key and the like
+  * information on websites that you view and visit
+  * battery levels, on/off device status
+
+
+
+Access to some of the above information (such as your location) may be restricted by your mobile device's operating system, and your consent will be requested before we may access this information. It is your choice whether you wish to provide consent; however, if you do not provide consent, some functionality of the apps may be restricted.
+
+You may also have the opportunity to voluntarily provide additional information from time to time that is not required by the apps but may improve your experience.
+
+__Information we collect automatically from your device and apps__
+
+In addition to the above information, the apps automatically collect other device-related information and app performance data. This includes crash logs to assess application usability and performance, length of time spent on the apps and other aggregate or statistical information. Location data may be automatically collected, such as by GPS, for the purpose of providing certain features of the apps. This data is transmitted and stored separately from any personal information processed by the apps and contains no information that can reasonably be used to directly identify you.
+
+**2\. How We Use Your Information.**
+
+In addition to providing and improving the apps and related services, we use your personal information to communicate with you, including to send you notifications and alerts and for in-app advertising and marketing (in accordance with your marketing preferences), to respond to your requests (such as for technical support or customer service) and for research and analytics. In addition to the uses described in this Mobile App Privacy Notice, we may use your personal information as otherwise permitted by applicable law.
+
+Some apps may use information about the websites you visit and the apps installed on your device to show you more relevant ads. When we do this, we will provide you notice of these activities and the opportunity to opt out. 
+
+**3\. How We Share Your Information.**
+
+__Third party service providers and affiliated companies__
+
+We do not sell, rent or share information that identifies you personally like your name, email address, phone number, or address We may need to share the information we collect through the apps with third party service providers in order to support the apps, their features and their services, including customer services and technical support, and with our affiliated companies as described in this Mobile App Privacy Notice. 
+
+We may share the advertising identifier assigned to your device along with information about the websites you visit or the apps installed on your device with third party service providers so that they can use that information to help show you ads that are more likely to be relevant to your interests. This information does not identify you personally. 
+
+Some of our providers may use your information in a format that does not directly identify you for their own business purposes (such as to improve their own services). For example, they may track the number of customer support calls required before an issue is resolved in order to improve resolution time. Our contracts do not permit our third party service providers to use your personal information in ways that are inconsistent with this Mobile App Privacy Notice. 
+
+__Third party service provider terms__
+
+Some of our third party service providers may have additional terms and choices that apply to your information which we are required to make available to you as follows: 
+
+_Google Maps:_ If the app uses Google’s Maps API, it is governed by Google’s Privacy Policy available here: <http://www.google.com/policies/privacy>.  Certain Maps API(s) store and access cookies and other information on end user’s devices. 
+
+_The Facebook Audience Network:_ We are a member of the Facebook Audience Network.  This provides a way for companies to display their ads to Facebook users in apps and websites that are also part of the network. Facebook helps tailor the ads so that they are relevant and useful. You can use Facebook’s ad preferences tool to view, add and remove your preferences, including whether you receive these tailored ads, including in our apps.  We encourage you to review Facebook’s data policy and privacy basics at <https://www.facebook.com/about/privacy/>.  Ads in our apps may also include an Ad Choices opt-out icon so you can opt out directly from our app.
+
+__Other ways your personal information may be shared__
+
+Your personal information may also be used and shared in accordance with the Intel Security Privacy Notice available [here](http://www.intel.com/privacy), which includes sharing with law enforcement, government representatives or others if required by law, in connection with a sale purchase, merger or reorganization, or when we believe it is necessary to protect our rights, property, or safety, to comply with a judicial proceeding, court order, or legal process – such as evidence in litigation in which we are involved. In the case of a sale or purchase we will instruct the entities to which we transfer your personal information only to use it in a manner consistent with this Mobile App Privacy Notice.
+
+**4\. Your Choices.**
+
+You may request access to view, modify, update or remove the personal information that we have related to your use of the apps by sending a request to us at <http://www.mcafee.com/us/about/contact-us.aspx> or by contacting us using the details supplied in the "[Contact Us" section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) below.  You can unsubscribe from our marketing-related messages at any time by following the unsubscribe instructions included within each marketing-related message sent to you or by using the details in the ["Contact Us" section](http://www.mcafee.com/common/privacy/english/index.htm#contactus). We will comply with requests within the time frames required by applicable law. Please note that if you choose not to receive marketing-related emails from us, we may still send you important administrative and transactional messages related to the apps and services (“service notifications”).
+
+You may have the option to limit the use of information about your device for purposes of serving ads that are targeted to your interests through your device settings (called “Limit Ad Tracking” on iOS devices and “Opt Out of Interest-Based Advertising” on Android devices).
+
+**5\. Security.   **
+
+We take reasonable technical, administrative and physical measures to protect the personal information provided, but you must understand that no app or Internet transmission can ever be guaranteed 100% secure. Where personal data collected is stored on your device, security is through your device’s own secure storage facilities. You should also take care to protect the secrecy of your account user name and password and to protect the personal information that is stored on your device.
+
+**6\. International Transfers.   **
+
+We are a U.S.-based, global company. As such, we may transfer, store and process your personal information in the United States (U.S.) or to any of our group companies worldwide when processing that information for the purposes described in this Mobile App Privacy Notice. We may also transfer your personal information to our third party service providers, who may be located in a different country to you. 
+
+Personal information shared by us from the European Economic Area and Switzerland is also subject to a set of binding corporate rules known as the Intel Corporate Privacy Rules (“Intel’s BCR”) which establish adequate protection of such personal information at participating Intel group companies. Intel's BCR can be accessed [here](http://www.intel.com/content/www/us/en/privacy/corporate-privacy-rules-deed-poll.html). All transfers shall be carried out in accordance with applicable laws, and your personal information will remain protected in accordance with this Mobile App Privacy Notice.
+
+**7\. Data Retention.**
+
+We retain account information, such as your name, account credentials and email for the lifetime of your account. However, if you are not an active user of the app (as determined by number of log in attempts) your account and all data will be deleted after a reasonable period of time. If your data is deleted, you may have to establish a new account to begin using the app again. in some products, data may be stored locally on your device as well as remotely on our (or our service provider's) systems. Generally, if you delete the apps on your device, any data stored locally on the device will be deleted; however, data on servers elsewhere may remain. You can request that we delete your personally identifiable information on our app servers by sending a written request to us as instructed in the [Contact Us section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) below. Your request must provide your name, any app-specific user ID, email address and the name of any apps subject to your request. We will retain these communications for our record keeping purposes.
+
+**8\. Use of Services by Minors.**
+
+We comply with the Children’s Online Privacy Protection Act of the United States and similar laws around the world where applicable our products and services. We do not knowingly collect personal information from children without proper parental consent. If you believe that we may have improperly collected personal information from someone under the applicable age of consent in your country, please let us know using the methods described in the [Contact Us section](http://www.mcafee.com/common/privacy/english/index.htm#contactus) and we will take appropriate measures to investigate and address the issue promptly. 
+
+**9\. Notice to California Residents.   **
+
+Section 1798.83 of the California Civil Code requires us to tell you that we do not share your personal information with third parties for their direct marketing purposes.
+
+**10\. Updates to this Mobile App Privacy Notice**
+
+From time to time we may update this Mobile App Privacy Notice and/or the Intel Privacy Notice for legal, regulatory or business reasons. We will post any such updates to this App Privacy Notice along with the effective date of these updates within the app or on <http://www.mcafee.com/common/privacy/english/index.htm> as applicable. 
+
+If we make any material changes to the way we collect and use your personal information, then we will also take other reasonable measures to inform you (which may include contacting you by e-mail, if we hold your e-mail address). Where required by law, we will seek your affirmative consent to such material changes. 
+
+Except where prohibited by law, your continued use of the apps following such changes will confirm that you have read and understand the updated Mobile App Privacy Notice.
+
+**11\. Contact Us.   **
+
+If you have questions or concerns about our privacy practices, you can contact us at <http://www.mcafee.com/us/about/contact-us.aspx> or send a letter to the postal address listed below. To help us most effectively respond to your query, please include your contact information, name of the Service or website, and a detailed description of your request or privacy concern.
+
+Intel Corporation  
+ATTN: Privacy Office  
+M/S RNB4-145  
+2200 Mission College Blvd.  
+Santa Clara, CA 95054 USA
