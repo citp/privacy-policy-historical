@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightredbooks.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608091159id_/http%3A//www.brightredpublishing.co.uk/Shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightredbooks.net privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224052452id_/http%3A//www.brightredpublishing.co.uk/Shop/privacy-policy) for the most accurate reproduction.*
 
 # BrightRed Publishing. Privacy Policy
 
