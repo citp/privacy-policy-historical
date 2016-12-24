@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonathanleger.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508075416id_/http%3A//www.jonathanleger.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonathanleger.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224180021id_/http%3A//jonathanleger.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
