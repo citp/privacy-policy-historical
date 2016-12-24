@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solotravelerblog.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503210928id_/http%3A//solotravelerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solotravelerblog.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224235208id_/http%3A//solotravelerblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Solo Traveler
+# Privacy Policy & Disclosure - Solo Traveler
 
 The privacy of our readers is important to us and we recognize that privacy of your personal information is important to you too.
 
@@ -24,4 +24,8 @@ We are not responsible for republished content from this blog on other blogs or 
 
 This privacy policy is subject to change without notice and was last updated April 1, 2016. If you have any questions feel free to contact me directly at info@solotravelerblog.com
 
-Last updated: 1st April, 2016
+**Disclosure**
+
+In accordance with FTC guidelines, I disclose that I may be compensated if consumers choose to utilize links located throughout the content on this site. Additionally, some posts might be sponsored to support this blog. Please do the appropriate research before participating in any third party offers. All opinions are my own.
+
+Last updated: 5th May, 2016
