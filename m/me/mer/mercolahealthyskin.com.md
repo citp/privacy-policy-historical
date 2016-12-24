@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614102717id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercolahealthyskin.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224020846id_/http%3A//media.mercola.com/assets/html/privacy/security_privacy.html) for the most accurate reproduction.*
 
 # Mercola Policy on Security, Privacy and Website Terms of Use
 
-## Effective Date: 6/3/2016
+## Effective Date: 7/11/2016
 
 This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
 
@@ -183,9 +183,15 @@ Users who no longer wish to receive our newsletter may opt-out of receiving thes
 
 ^ Back to Top
 
+### AP Writing Style
+
+Mercola.com follows journalistic industry standards by using the Associated Press (AP) writing style. For consistency's sake, we sometimes change quoted text from other printed sources to reflect AP style, or to indicate that the usage is the exact language of the quoted text. Those changes and indications will appear in brackets within the text.
+
+^ Back to Top
+
 ### Email-A-Friend
 
-If a user elects to use our Email-A-Friend service for informing a friend about an article, we launch the default email program on the user's computer. We do not know who the article is sent to, and therefore we cannot collect and store that data.
+If a user elects to use our Email-A-Friend service for informing a friend about an article, we we will ask for your friend's name and email address. Mercola.com will only use this information send the article to your friend, and does not retain the information once the request has been completed.
 
 ^ Back to Top
 
@@ -203,7 +209,7 @@ Our Site includes Social Media Features, such as the Facebook and Twitter button
 
 ### Public Profiles
 
-The profile you create on your site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
+The profile you create on the site will be publically accessible unless otherwise indicated. You may change the privacy settings of your profile through your account portal.
 
 ^ Back to Top
 
