@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesbox.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420141910id_/https%3A//www.templatesbox.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesbox.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224092326id_/https%3A//www.templatesbox.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Templates Box - TemplatesBox.com
 
