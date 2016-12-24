@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the v8juice.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530020848id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8juice.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224170054id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is very important to the Campbell Soup Company and its affiliates ("CSC," "we" or "us"). We have created this Privacy Policy to provide transparency about the type of information we collect from you; how we handle your information; and how you can make choices to control certain uses of your information.
+Your privacy is very important to the Campbell Soup Company and its affiliates (“CSC,” “we” or “us”). We have created this Privacy Policy to provide transparency about the type of information we collect from you; how we handle your information; and how you can make choices to control certain uses of your information.
 
-This Privacy Policy governs our websites, mobile applications and our applications and branded pages on third-party sites and platforms where it is posted (our "Site" or, collectively "Sites"). You may access our Sites from a number of different devices, such as a computer, mobile phone, tablet or other device; however, this Privacy Policy governs your use of our Sites regardless of the means of access. **By using or accessing our Sites, you consent to the terms of this Privacy Policy.**
+This Privacy Policy governs our websites, mobile applications and our applications and branded pages on third-party sites and platforms where it is posted (our “Site” or, collectively “Sites”). You may access our Sites from a number of different devices, such as a computer, mobile phone, tablet or other device; however, this Privacy Policy governs your use of our Sites regardless of the means of access.  **By using or accessing our Sites, you consent to the terms of this Privacy Policy.**
 
-We encourage you to read this Privacy Policy to learn more about: 
+We encourage you to read this Privacy Policy to learn more about:
 
-  * **Information We Collect**
-  * **How We Use and Share Your Information**
-  * **How We Protect Your Information**
-  * **Interest-Based Advertising**
-  * **Social Media Services**
-  * **Opting Out of Communications**
-  * **Children’s Privacy Policy**
-  * **Other Important Information**
-  * **Contact Us**
+  * **[Information We Collect](http://www.campbellsoupcompany.com/privacy-policy/#information)**
+  * **[How We Use and Share Your Information](http://www.campbellsoupcompany.com/privacy-policy/#share_information)**
+  * **[How We Protect Your Information](http://www.campbellsoupcompany.com/privacy-policy/#protect_information)**
+  * **[Interest-Based Advertising](http://www.campbellsoupcompany.com/privacy-policy/#advertising)**
+  * **[Social Media Services](http://www.campbellsoupcompany.com/privacy-policy/#social)**
+  * **[Opting Out of Communications](http://www.campbellsoupcompany.com/privacy-policy/#communications)**
+  * **[Children’s Privacy Policy](http://www.campbellsoupcompany.com/privacy-policy/#children)**
+  * **[Other Important Information](http://www.campbellsoupcompany.com/privacy-policy/#other_information)**
+  * **[Contact Us](http://www.campbellsoupcompany.com/privacy-policy/#contact_us)**
 
- 
+
 
 #### INFORMATION WE COLLECT
 
-We may collect various types of information from you depending on how you interact with our Sites, as described below. 
+We may collect various types of information from you depending on how you interact with our Sites, as described below.
 
 **Information You Provide to Us**
 
@@ -45,13 +45,13 @@ We may receive and store information that you provide to us voluntarily when you
 
 If you choose to share information about yourself in a public forum, such as through a social media platform like Facebook or Twitter, or in any user-generated content area of our Sites, we consider that information to be public and not private. Others with access may read, collect and use that information. You assume the risk that your information may be read, collected and shared by such other parties.
 
-**Information We Automatically Collect From You**
+**Information We Automatically Collect From You  **
 
-We may automatically collect information about your interactions with our Sites and online ads and may combine this information with other information about you in order to customize your online experience with us. The information we automatically collect may include your IP address, referring URLs, browser and device characteristics, browsing behavior (e.g., date and time of visit, length of visit, clicks on product information or other content) and your response to our email campaigns (e.g., whether and when you open our email, the links you click). We may use cookies, and other similar industry standard technologies to capture this information. A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer or device. Among other things, cookies allow us to facilitate the administration and improve the effectiveness of our Sites as well as further tailor and enhance your experience to your interests. You may set your browser to decline cookies. If you do so, you may not be able to fully experience certain interactive features of our Sites.
+We may automatically collect information about your interactions with our Sites and online ads and may combine this information with other information about you in order to customize your online experience with us. The information we automatically collect may include your IP address, referring URLs, browser and device characteristics, browsing behavior (e.g., date and time of visit, length of visit, clicks on product information or other content) and your response to our email campaigns (e.g., whether and when you open our email, the links you click). We may use cookies, and other similar industry standard technologies to capture this information. A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer or device. Among other things, cookies allow us to facilitate the administration and improve the effectiveness of our Sites as well as further tailor and enhance your experience to your interests. You may set your browser to decline cookies. If you do so, you may not be able to fully experience certain interactive features of our Sites.
 
-We may also use third party analytics companies, such as Google Analytics or Adobe Analytics, to analyze the usage of our Site for internal purposes. These analytics companies may use cookies and other tracking mechanisms to collect data about how you use our Sites and provide us with aggregate information on such usage, which helps us improve the performance of our Sites. Please review [**Google’s privacy policy**](http://www.google.com/intl/en/policies/privacy/) or [**Adobe’s privacy policy**](http://www.adobe.com/privacy.html) to learn more about each company’s privacy practices.
+We may also use third party analytics companies, such as Google Analytics or Adobe Analytics, to analyze the usage of our Site for internal purposes. These analytics companies may use cookies and other tracking mechanisms to collect data about how you use our Sites and provide us with aggregate information on such usage, which helps us improve the performance of our Sites. Please review  **[Google’s privacy policy](http://www.google.com/intl/en/policies/privacy/)**  or  **[Adobe’s privacy policy](http://www.adobe.com/privacy.html)**  to learn more about each company’s privacy practices.
 
-We may also permit other third parties to gather information automatically on our Sites for advertising purposes, as described below in **Interest-Based Advertising.**
+We may also permit other third parties to gather information automatically on our Sites for advertising purposes, as described below in  **[Interest-Based Advertising.](http://www.campbellsoupcompany.com/privacy-policy/#advertising)**
 
 **Geolocation Information**
 
@@ -89,20 +89,20 @@ The security of your information is important to us. We have undertaken commerci
 
 #### INTEREST-BASED ADVERTISING
 
-We may allow third parties to use cookies and other online tracking tools to better understand your behavior and browsing activities, so that we can serve you targeted advertising (also referred to as "interest-based advertising”) while on our Sites and display our ads to you when you visit other sites. These third parties may passively collect information with these tools so that content specific to your interests can be delivered to you online. To learn more about interest-based advertising, visit [**www.aboutads.info**](http://www.aboutads.info/). To manage your preferences or opt-out of interest-based advertising, please click here [**www.aboutads.info/choices**](http://www.aboutads.info/choices/).
+We may allow third parties to use cookies and other online tracking tools to better understand your behavior and browsing activities, so that we can serve you targeted advertising (also referred to as “interest-based advertising”) while on our Sites and display our ads to you when you visit other sites. These third parties may passively collect information with these tools so that content specific to your interests can be delivered to you online. To learn more about interest-based advertising, visit  **[www.aboutads.info](http://www.aboutads.info/)**. To manage your preferences or opt-out of interest-based advertising, please click here  **[www.aboutads.info/choices](http://www.aboutads.info/choices/)**.
 
 You can prevent your receipt of interest-based ads by deleting and declining cookies in your browser. If you block cookies, certain features on our Sites may not work. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt-out of certain mobile ads via their device settings.
 
-Some browsers offer a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. Our Sites do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. Our Sites do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
 
-Our Sites may provide you with the ability to register, log on to, "like" or otherwise interact with social media services, such as Facebook, Instagram, Twitter, Pinterest or YouTube. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your information on such services will be used. If you choose to log on to or submit information through any of these social media services, your information will be subject to the applicable social media service’s privacy policy. You are encouraged to read such policy to learn more about how the social media service will handle your information. By accessing any social media service, you will be assuming the risk that the information you provide on that service may be viewed and/or used by us or third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+Our Sites may provide you with the ability to register, log on to, “like” or otherwise interact with social media services, such as Facebook, Instagram, Twitter, Pinterest or YouTube. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your information on such services will be used. If you choose to log on to or submit information through any of these social media services, your information will be subject to the applicable social media service’s privacy policy. You are encouraged to read such policy to learn more about how the social media service will handle your information. By accessing any social media service, you will be assuming the risk that the information you provide on that service may be viewed and/or used by us or third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
 
 #### OPTING OUT OF COMMUNICATIONS
 
-You may exercise your opt-out rights to stop receiving our promotional communications by: 
+You may exercise your opt-out rights to stop receiving our promotional communications by:
 
-  * Clicking the "unsubscribe" link in the footer of any promotional electronic message from us and following the on-screen directions. If you created an online account with us, you may log-in to the applicable Site and make changes to your communications preferences. We may still need to contact you for administrative or transactional purposes.
-  * You may also contact us as provided below under [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) to make your opt-out request. Be sure to specify the Site and how you want to change, update or limit our use of your information.
+  * Clicking the “unsubscribe” link in the footer of any promotional electronic message from us and following the on-screen directions. If you created an online account with us, you may log-in to the applicable Site and make changes to your communications preferences. We may still need to contact you for administrative or transactional purposes.
+  * You may also contact us as provided below under  **[Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/)**  to make your opt-out request. Be sure to specify the Site and how you want to change, update or limit our use of your information.
 
 
 
@@ -110,31 +110,31 @@ We will endeavor to accommodate your requests in our own databases as soon as we
 
 #### CHILDREN’S PRIVACY POLICY
 
-We recognize the need to provide further privacy protections for children. While most of our Sites are intended for adults, certain Sites may be directed to children. This Children's Privacy Policy describes our practices with respect to the online collection of personal information from children under the age of 13.
+We recognize the need to provide further privacy protections for children. While most of our Sites are intended for adults, certain Sites may be directed to children. This Children’s Privacy Policy describes our practices with respect to the online collection of personal information from children under the age of 13.
 
 **What We Collect From Children and How We Use It**
 
-We do not require children to share any personal information in order to participate on our child-directed Sites. Children can surf, view content, play games and enjoy many features of our child-directed Sites without providing any personal information. If a child wants to use a Site for special activities, like earning badges, we may ask the child to "join" the Site. A child can join the Site anonymously by providing us with a username and password. On our child-directed Sites with the ability to enter a user name, we advise children not to provide any personal information in their username.
+We do not require children to share any personal information in order to participate on our child-directed Sites. Children can surf, view content, play games and enjoy many features of our child-directed Sites without providing any personal information. If a child wants to use a Site for special activities, like earning badges, we may ask the child to “join” the Site. A child can join the Site anonymously by providing us with a username and password. On our child-directed Sites with the ability to enter a user name, we advise children not to provide any personal information in their username.
 
 On occasion, however, we may collect personal information, such as an email address, from children as part of an activity. For example:
 
-  * **Email address:** We may collect a child's email address via our child-directed Sites in order to respond to a one-time request from the child, such as if the child asks us a question. In this case, we delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
-  * **Send-a-friend:** In the case of send-a-friend card or email service via our child-directed Sites, we may collect the friend’s email address to send the card/email. We do not store the friend’s email address for any longer than reasonably necessary to send the card/email.
-  * **Contests or Sweepstakes:** We may collect a child's email address to enter the child in a sweepstakes or contest via our child-directed Sites, and then use this email address to notify the child that he or she has won or lost that sweepstakes or contest. For certain promotions, we may require that a child give us his/her parent’s email address so we can obtain more information from the parent for prize fulfillment purposes; to tell the parent whether the child has registered in a promotion; or to notify and obtain consent from the parent if we need to collect more than a child’s email address to enter the child in the promotion.
+  * **Email address:**  We may collect a child’s email address via our child-directed Sites in order to respond to a one-time request from the child, such as if the child asks us a question. In this case, we delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
+  * **Send-a-friend:**  In the case of send-a-friend card or email service via our child-directed Sites, we may collect the friend’s email address to send the card/email. We do not store the friend’s email address for any longer than reasonably necessary to send the card/email.
+  * **Contests or Sweepstakes:**  We may collect a child’s email address to enter the child in a sweepstakes or contest via our child-directed Sites, and then use this email address to notify the child that he or she has won or lost that sweepstakes or contest. For certain promotions, we may require that a child give us his/her parent’s email address so we can obtain more information from the parent for prize fulfillment purposes; to tell the parent whether the child has registered in a promotion; or to notify and obtain consent from the parent if we need to collect more than a child’s email address to enter the child in the promotion.
 
 
 
-We will not collect other personal information from a child, such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required, we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the consent of the parent or guardian. We will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in and operate that activity.
+We will not collect other personal information from a child, such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required, we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the consent of the parent or guardian. We will not condition a child’s participation in any online activity on the child’s disclosure of more personal information than is reasonably necessary to participate in and operate that activity.
 
 We may also collect information using automated tools solely to support the Site’s internal operations, including maintaining, securing, and analyzing the functioning of the Site. For example, we may collect this information to recognize returning visitors, understand and monitor usage of the Site, customize content on the Site, and otherwise improve performance of the Site. We do not permit interest-based advertising on our Sites directed to children.
 
 **Special Circumstances for Information Sharing and Platform Security**
 
-We may share a child's personal information with third parties if we are required to do so by law or to the extent reasonably necessary to protect the security or integrity of our Sites; take precautions against liability; or to respond to judicial process or requests from other governmental authorities. We also may share personal information collected from children with vendors that perform services for us. These services may include hosting our Sites, providing other technical services to us, fulfilling requests, or administering promotions. Such vendors are obligated to protect the confidentiality of the personal information we share with them. We may also share personal information if CSC reorganizes or transfers ownership, including with those who may purchase our Site assets, or with other parts of the company for corporate reporting.
+We may share a child’s personal information with third parties if we are required to do so by law or to the extent reasonably necessary to protect the security or integrity of our Sites; take precautions against liability; or to respond to judicial process or requests from other governmental authorities. We also may share personal information collected from children with vendors that perform services for us. These services may include hosting our Sites, providing other technical services to us, fulfilling requests, or administering promotions. Such vendors are obligated to protect the confidentiality of the personal information we share with them. We may also share personal information if CSC reorganizes or transfers ownership, including with those who may purchase our Site assets, or with other parts of the company for corporate reporting.
 
 **Parents Rights**
 
-Under the Children’s Online Privacy Protection Act ("COPPA"), parents have the right to review and have their child’s personal information deleted from our records. Parents also have the right to tell us to stop collecting or using their child’s personal information. To exercise these options, parents may email, call, or write to us via the information listed in the [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) section below. Please reference "COPPA Information Request."
+Under the Children’s Online Privacy Protection Act (“COPPA”), parents have the right to review and have their child’s personal information deleted from our records. Parents also have the right to tell us to stop collecting or using their child’s personal information. To exercise these options, parents may email, call, or write to us via the information listed in the [Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/) section below. Please reference “COPPA Information Request.”
 
 #### OTHER IMPORTANT INFORMATION
 
@@ -148,7 +148,7 @@ We reserve the right to modify or replace this Privacy Policy at any time. Pleas
 
 **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 (the "Code") permits users who are California residents to request certain information regarding the disclosure of personal information to third parties which is used for their direct marketing purposes. To make such a request, to which we shall respond to the extent required by the Code, send us correspondence with your name, postal address and email, referencing "California Privacy Rights," via any of the methods provided in the [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) section below.
+California Civil Code Section 1798.83 (the “Code”) permits users who are California residents to request certain information regarding the disclosure of personal information to third parties which is used for their direct marketing purposes. To make such a request, to which we shall respond to the extent required by the Code, send us correspondence with your name, postal address and email, referencing “California Privacy Rights,” via any of the methods provided in the  **[Contact Us](http://www.campbellsoupcompany.com/connect-with-campbell/)**  section below.
 
 **United States of America**
 
@@ -156,10 +156,10 @@ This Site is maintained in and governed by the laws of the United States of Amer
 
 **Consent to Our Terms of Use and Privacy Policy**
 
-Your use of our Sites is subject to our [**Terms of Use**](http://www.campbellsoupcompany.com/terms-of-use/), which you agree to by using or accessing our Sites. If you do not agree to these Terms, please refrain from using our Sites and providing us with any information.
+Your use of our Sites is subject to our  **[Terms of Use](http://www.campbellsoupcompany.com/terms-of-use/)** , which you agree to by using or accessing our Sites. If you do not agree to these Terms, please refrain from using our Sites and providing us with any information.
 
 #### CONTACT US
 
 If you have any questions or concerns about this Privacy Policy or our collection or handling of your personal information, please contact us at:
 
-Campbell Soup Company One Campbell Place Camden, NJ 08103-1799 Attention: General Counsel, Legal Department You may also call us at 1-800-257-8443. Our phone lines are staffed from 9 a.m. – 7 p.m. Eastern Time, Monday through Friday. Please also feel free to email us anytime by visiting our **[Consumer Response Center](http://www.campbellsoupcompany.com/connect-with-campbell/).** **Effective Date:** This Privacy Policy is effective and was last updated on May 07, 2015.
+Campbell Soup Company One Campbell Place Camden, NJ 08103-1799 Attention: General Counsel, Legal Department You may also call us at 1-800-257-8443. Our phone lines are staffed from 9 a.m. – 7 p.m. Eastern Time, Monday through Friday. Please also feel free to email us anytime by visiting our  **[Consumer Response Center](http://www.campbellsoupcompany.com/connect-with-campbell/)**.  **Effective Date:**  This Privacy Policy is effective and was last updated on May 07, 2015.
