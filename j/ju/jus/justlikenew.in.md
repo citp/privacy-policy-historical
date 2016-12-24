@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justlikenew.in privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518165259id_/http%3A//www.justlikenew.in/pages/Privacy-Policy/pgid-1105408.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justlikenew.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224074942id_/http%3A//www.justlikenew.in/pages/Privacy-Policy/pgid-1105408.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
