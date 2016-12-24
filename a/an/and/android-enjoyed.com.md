@@ -1,95 +1,81 @@
-> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601121346id_/https%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android-enjoyed.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224154835id_/https%3A//www.android-enjoyed.com/privacy-policy) for the most accurate reproduction.*
 
 # Android Enjoyed - Privacy Policy
 
-**Data Collection**
+### 1\. Openness and transparency
 
-We collect information on our website users in the following ways:
+Android Enjoyed, Digital Marketing and Solutions ("DMS") is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Android Enjoyed as set out in this policy.
 
-●      When a user registers for the website: The user account registration is optional. The data is stored on our server in United States.
+### 2\. Personal information
 
-●      When a user places an order in Android Enjoyed Online Store: We collect customer's Physical Contact Address and Internet Contact Address for the sole purpose of processing the order and delivering the goods ordered. PayPal collects your payment information on their website. We do NOT have access to your credit card number or security code. A Android Enjoyed account is automatically registered for you when you shop in our Online Store
+Personal information is information or an opinion about an individual whose identity is apparent, or can be reasonably ascertained, from that information or opinion. Personal information we may collect from you includes, without limitation, your name, address, email address, telephone number(s) and date of birth.
 
-●      When a user subscribes to our Online Store Newsletter: Customers may opt-in and opt-out of our Online Store newsletter service. Our newsletter subscription service application may collect customer's demographic data in order to provide suitable content to subscribers. Customers may opt-out of the newsletter at anytime. Instructions on how to opt-out come with every newsletter sent.
+### 3\. Collection
 
-●      When a user interacts with a Customer Service representative: We collect information when you interact with Android Enjoyed’s customer service website in order to accurately categorize and respond to customer inquiries and investigate breaches of our terms. 
+Android Enjoyed will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Android Enjoyed will only collect personal information about you directly from you. Android Enjoyed will not collect personal information unless the information is reasonably necessary for our functions and activities.
 
-●      When a user interacts with the website and its applications: We receive information when you interact with and use the Android Enjoyed website and Android Enjoyed Applications.
+Android Enjoyed may enter into arrangements with third parties to collect your personal information in circumstances where the third party notifies you, at the time of collection, that your personal information will be provided to Android Enjoyed.
 
-●      When a user responds to take part in a survey or poll. As a User, you may be invited to participate in polls and surveys from the Android Enjoyed website. Your selection may be random, or it may be based on your non-personally identifiable information. Whether you decide to participate in the poll or survey is completely up to you.
+If you use a pseudonym when dealing with us or you do not provide identifiable information Android Enjoyed may not be able to provide you with any or all of our services as requested. If you wish to remain anonymous when you use our website do not sign into it or provide any information that might identify you.
 
-**How do we protect your information?**
+Android Enjoyed requires individuals to provide accurate, up-to-date and complete personal information at the time it is collected.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+### 4\. What does Android Enjoyed do with your personal information?
 
-We offer the use of a secure server. All supplied personal information is transmitted via Secure Socket Layer (SSL) technology. Our credit card processor, PayPal – also encrypt your payment details.
+In addition to any purpose notified to you at the time of collection Android Enjoyed uses your personal information for the purposes of: 
 
-**Cookies**
+  * providing our services to you;
+  * providing and assisting in warranty and RMA claims;
+  * our internal management needs;
+  * our marketing activities;
+  * responding to any inquiries or comments that you submit to us;
+  * any other purpose you have consented to; and
+  * any use which is required or authorised by law.
 
-Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not.
 
-We use cookies to help you remain logged into your account and to help us remember and process the items in your shopping cart, understand and save your preferences for future visits so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve user experience.
 
-**Do we disclose any information to outside parties?**
+### 5\. Disclosure of personal information
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Android Enjoyed may disclose your personal information: 
 
-**Compliance with Legal Process**
+  * to third-parties we ordinarily engage for the above purposes;
+  * any person or entity to whom you have consented to Android Enjoyed disclosing your personal information to; and
+  * any person or entity to whom we are required or authorised to disclose your personal information to in accordance with the law.
 
-It is possible that we may need to disclose personal information, profile information and/or information about your activities as a Android Enjoyed User when required by subpoena or other legal process, or if Android Enjoyed has a good faith belief that disclosure is necessary to (a) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (b) to enforce the User Agreement, to investigate and defend ourselves against any third party claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property or personal safety of Android Enjoyed, our Users, employees, or others.
 
-**Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+### 6\. Access and Management
 
-**Opt-In/Opt-Out**
+You may request access to your personal information in our customer account database, or seek correction of it, by contacting our customer service team. See Section 9: Contact information.
 
-Registering as a user and opening a user account is optional. To close an account, please visit our online support centre and submit a ticket. Your user account will be closed and all information removed from our server within 28 days.
+Android Enjoyed may charge a reasonable fee that is not excessive to cover the charges of retrieving your personal information from our customer account database. Android Enjoyed will not charge you for making the request.
 
-To opt-out of our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+If you believe that Android Enjoyed holds personal information about you in our customer account database that is not accurate, complete, up-to-date, relevant or information that is misleading then you may request its amendment and Android Enjoyed will respond to your request within a reasonable time. Android Enjoyed will not charge you for correcting your personal information.
 
-**Dispute Resolution**
+If Android Enjoyed no longer needs your personal information for any the purposes set out in this policy, or as otherwise required by law, Android Enjoyed will take such steps as are reasonable in the circumstances to destroy the information or to de-identify it.
 
-If visitors or customers have any issues regarding the privacy practice of our website, please email privacy@android-enjoyed.com or write to our Privacy Policy Supervisor at the address below. Our Privacy Policy Supervisor will respond within 10 working days. 
+Android Enjoyed will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
-**Privacy Act (AU) California Online Privacy Protection Act (US) Compliance**
+### 7\. Opting Out
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the Privacy Act (AU) and California Online Privacy Protection Act (US). We therefore will not distribute your personal information to outside parties without your consent.
+At any time you may opt out of receiving direct marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. To opt out email [cs@android-enjoyed.com](mailto:cs@android-enjoyed.com).
 
-As part of the above mentioned acts, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+### 8\. Cross-border disclosure
 
-**Childrens Online Privacy Protection Act (US) Compliance**
+Android Enjoyed may transfer your personal information to a person who is in a foreign country to assist Android Enjoyed in providing you with the service that you have requested.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. Our Online Store is directed at people who are at least 18 years old or older.
+Android Enjoyed will take such steps as are reasonable in the circumstances to ensure that the information that is transferred to third parties located outside of Australia will not be held, used or disclosed by the recipient of the information in a manner that is inconsistent with the Australian Privacy Principles.
 
-If you become aware that your child has provided personal information to us without your consent, please contact our Privacy Supervisor at privacy@android-enjoyed.com.
+### 9\. Contact information
 
-**Online Privacy Policy Only**
+If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Android Enjoyed, please contact us at [cs@android-enjoyed.com](mailto:cs@android-enjoyed.com) or call us on [+61 2 8294 7094](https://web.archive.org/web/20161224154835id_/https%3A//www.android-enjoyed.com/+61282947094) or send mail to: **Attn: Privacy Officer, Digital Marketing and Solutions, 84 Hotham St. Preston. Vic. 3072**. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Android Enjoyed will take as a result of your complaint.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+### 10\. Android Enjoyed website
 
-**Your Obligations**
+When transmitting personal information from your computer to the Android Enjoyed website, you must keep in mind that the transmission of information over the Internet is not always completely secure or error-free. Other than liability that cannot lawfully be excluded, Android Enjoyed will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
-As a User, you have certain obligations to other Users. Some of these obligations are imposed by applicable law and regulations, and others have become commonplace in user-friendly communities of like-minded members such as Android Enjoyed:
+The Android Enjoyed website may use "cookies" to help personalise your online experience and save you time. You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Android Enjoyed website.
 
-●      You must, at all times, abide by the terms and conditions of the then-current Privacy Policy and Terms of Use. This includes respecting all intellectual property rights that may belong to third parties (such as trademarks or photographs).
+### 11\. Miscellaneous
 
-●      You must not download or otherwise disseminate any information that may be deemed to be injurious, violent, offensive, racist or xenophobic, or which may otherwise violate the purpose and spirit of Android Enjoyed and its community of Users.
-
-●      You must not provide to Android Enjoyed and/or other Users information that you believe might be injurious or detrimental to your person or to your professional or social status.
-
-●      You must keep your username and password confidential and not share it with others.
-
-Any violation of these guidelines may lead to the restriction, suspension or termination of your account at the sole discretion of Android Enjoyed.
-
-**Your Consent**
-
-By using our site, you consent to our Privacy Policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our Privacy Policy, we will post those changes on this page, and/or send an email notifying you of any changes.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us [here.](https://web.archive.org/contacts)
+Android Enjoyed reserves the right to modify this Privacy Policy in whole or in part from time to time without notice and amendments will be effective immediately upon posting of the amended Privacy Policy on the Android Enjoyed website.
