@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeitv.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624094656id_/http%3A//www.awesomeitv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeitv.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224224243id_/http%3A//www.awesomeitv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Awesome TV
 
