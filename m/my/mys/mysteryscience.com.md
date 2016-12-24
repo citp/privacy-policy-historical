@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysteryscience.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205111559id_/http%3A//mysteryscience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteryscience.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224130955id_/https%3A//mysteryscience.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - Mystery Science
 
 ## Effective: May 20, 2014
 
-This Privacy Policy explains how information is collected, used and disclosed by Limelight Corp. with respect to your access and use of our services. This Privacy Policy doesn’t apply to any websites, services or applications operated or provided by other companies that can be accessed through our services.
+This Privacy Policy explains how information is collected, used and disclosed by Mystery Science, Inc. with respect to your access and use of our services. This Privacy Policy doesn’t apply to any websites, services or applications operated or provided by other companies that can be accessed through our services.
 
 Any information that is collected is subject to the Privacy Policy in effect at the time such information is collected. We may, however, modify and revise our Privacy Policy from time-to-time. If we make any material changes to this policy, we will notify you of those changes by posting them on our website, through our services or by sending you an email or other notification, and we will indicate when those changes will become effective. By continuing to access or use our services after those changes become effective, you are agreeing to be bound by the revised policy.
 
@@ -22,7 +22,7 @@ We collect certain information that your web browser sends when you visit our we
 
 **Information Collected by Others**
 
-We may enable other companies to collect usage analytics about our services. These companies may place their own cookies on your device to collect traffic and activity data in order to deliver us relevant metrics and information. We do not share any personal information of our users with these companies, but we may share anonymous or aggregated information about our users with them to help improve our services. The collection of this data by these companies is subject to their own privacy policy. For more information visit: [Google Analytics.](https://web.archive.org/web/20151205111559id_/http%3A//mysteryscience.com/www.google.com/policies/privacy/)
+We may enable other companies to collect usage analytics about our services. These companies may place their own cookies on your device to collect traffic and activity data in order to deliver us relevant metrics and information. We do not share any personal information of our users with these companies, but we may share anonymous or aggregated information about our users with them to help improve our services. The collection of this data by these companies is subject to their own privacy policy. For more information visit: [Google Analytics.](http://www.google.com/policies/privacy/)
 
 **How We Use the Information We Collect**
 
