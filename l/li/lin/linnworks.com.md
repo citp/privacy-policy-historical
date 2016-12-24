@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linnworks.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225230id_/http%3A//www.linnworks.com/linn-systems-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linnworks.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224074336id_/http%3A//www.linnworks.com/linn-systems-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
