@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliveroo.com.sg privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630221232id_/https%3A//deliveroo.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.com.sg privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224010434id_/https%3A//deliveroo.com.sg/privacy) for the most accurate reproduction.*
 
-# Deliveroo | Privacy
+# Privacy - Deliveroo
 
 Deliveroo Singapore Pte Ltd ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website deliveroo.co.sg and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
 
