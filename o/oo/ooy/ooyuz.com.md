@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ooyuz.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620104938id_/http%3A//www.ooyuz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooyuz.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224222345id_/http%3A//www.ooyuz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Report Based On Past 7 Days Data 
 
 ## Data Controller and Owner
 
