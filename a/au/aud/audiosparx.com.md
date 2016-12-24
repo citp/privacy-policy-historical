@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613102309id_/http%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224072757id_/https%3A//www.audiosparx.com/sa/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
@@ -98,23 +98,23 @@ We reserve the right to modify this policy in the future.
 
 Back to Top
 
-sound bites download,  
-download a lot of sound effects,  
-funny sound,  
-cartoon sounds,  
-free sound effects classroom,  
-free gunshot sound effects,  
-2010 soundfx library,  
-creepy sound effects,  
-sounds for pc startup,  
-crayon sound fx,  
-noises to download free,  
-slow whoosh sound fx,  
-motorbike sound effects,  
-tigers roar sound effect,  
-sound effect bus horn,  
-free sound bytes,  
-sound effects auto car automobile,  
-ilife sound effects downloads,  
-sounds downloads,  
-welcome sounds for windows 
+old movie sound clips,  
+sondage,  
+sound effects,  
+free heavy cymbal effects,  
+free animal sound clips,  
+sound clips from zulu,  
+free mp3 downloads,  
+free dog sounds,  
+99 cent sound effects,  
+sound effects mri,  
+100 sound effects,  
+sound effect cell phone ring free,  
+sound effects with no download,  
+cheering gallery sound effect,  
+desktop voice fx,  
+free thunder downloads,  
+free german bomber sound effects,  
+wav sound fx,  
+wav collection,  
+news sound clips 
