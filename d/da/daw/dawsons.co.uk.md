@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625195955id_/http%3A//www.dawsons.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsons.co.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224082350id_/http%3A//www.dawsons.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dawsons Music
 
@@ -8,16 +8,19 @@ This Privacy Policy, along with the Terms and Conditions, is also applicable to 
 
 ## Use of personal information
 
-We collect information through enquiry, registration, newsletter subscription, competition and order forms. We process personal information collected via Dawsons.co.uk for the purposes of:
+We collect information through enquiry, registration, newsletter subscription, order forms and social media competitions. We process personal information for the purposes of:
 
   * providing the best possible service
   * processing any orders you may have made
   * running competitions
-  * providing you with information about products and services we offer
+  * to contact you about leaving a review on a product once your order has been completed
+  * to inform you about new products, special offers or other information which we think you may find interesting
 
 
 
-This information is only used by Dawsons internally, and will never be made available to outside companies.
+We will not share your information except where we’re obliged to do so (i.e. a legal request), or when we need to work with a third party or core service provider, for example a delivery service or finance provider. The providers we work with are carefully selected, and we only pass on the information required for them to perform that service on our behalf.
+
+We’ll never sell your information, and we won’t share it with advertisers or ad networks. We’ll always comply with the Data Protection Act 1998 and all other relevant legislation.
 
 We also collect information automatically about your visit to our website. The information obtained in this way, which includes demographic data and browsing patterns, is only used in aggregate form, and as such cannot be used to identify you. This aggregate information is used to build up marketing profiles, aid strategic development and audit usage of the site.
 
@@ -33,7 +36,7 @@ Cookies are small text files that are placed on your computer, mobile device or 
 
 Cookies do not harm your computer nor do any of our cookies store any credit/debit card information or password details. We don't store personally identifiable information such as address details in the cookies we create, but we do use encrypted information gathered from them to help us to identify and resolve errors.
 
-For more information please see [Google's video about cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies/).
+For more information please see [Google's video about cookies](https://www.google.com/policies/technologies/cookies/).
 
 ### How we use Cookies
 
