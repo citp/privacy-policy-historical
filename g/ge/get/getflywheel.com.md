@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529043602id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224040349id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Flywheel | Privacy Policy
 
@@ -53,6 +53,6 @@ This Privacy Policy was last modified on February 10, 2014.
 
 Get our free ebook!
 
-### How to manage 50 + WordPress Sites
+### Recurring revenue: how to scale your agency
 
-](http://highfive.getflywheel.com/managing-50-wordpress-sites?utm_campaign=Managing%2050%20Sites%20Ebook&utm_source=site-sticky-box)
+](http://highfive.getflywheel.com/recurring-revenue-secret?utm_source=sticky-box&utm_medium=internal&utm_campaign=recurring-revenue)
