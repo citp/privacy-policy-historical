@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406133006id_/https%3A//www.lingq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingq.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224093748id_/https%3A//www.lingq.com/privacy) for the most accurate reproduction.*
 
 # LingQ Privacy Policy
 
@@ -9,7 +9,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-## Information gathering and usage
+### Information gathering and usage
 
   * When you register for LingQ we ask for information such as your name, country, email address, and credit card information. Members who sign up for the free account are not required to enter a credit card.
   * LingQ uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
@@ -23,7 +23,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-## Cookies
+### Cookies
 
   * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
   * Cookies are required to use the LingQ website.
@@ -31,20 +31,20 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 
 
-## Data storage
+### Data storage
 
 The Linguist Institute uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run LingQ. Although The Linguist Institute owns the code, databases, and all rights to the LingQ application, you retain all rights to your data.
 
-## Disclosure
+### Disclosure
 
   * The Linguist Institute may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
 
 
-## Changes
+### Changes
 
 The Linguist Institute may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your LingQ account or by placing a prominent notice on our site.
 
-## Questions
+### Questions
 
 Any questions about this Privacy Policy should be addressed to support at LingQ dot com or by mail at: The Linguist Institute, 200-2232 Marine Drive, West Vancouver, BC, Canada, V7V1K4.
