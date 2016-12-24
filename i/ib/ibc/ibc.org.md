@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibc.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619061959id_/http%3A//www.ibc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibc.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224074414id_/http%3A//www.ibc.org/privacy-policy) for the most accurate reproduction.*
 
-# IBC Privacy Policy - IBC 2016
+# IBC Privacy Policy - IBC.org
 
 IBC (International Broadcasting Convention) is committed to protecting your privacy.  When you request information from IBC, sign up to any of our services or buy things from us, The International Broadcasting Convention obtains information about you.  This statement explains how we look after that information and what we do with it.
 
