@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409070400id_/https%3A//www.onthemarket.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133712id_/https%3A//www.onthemarket.com/terms/%23privacy) for the most accurate reproduction.*
 
 # OnTheMarket | Property, Houses & Flats for Sale & to Rent
 
