@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautynama.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105838id_/http%3A//beautynama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautynama.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224193408id_/http%3A//beautynama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Beautynama
 
 **Visitor Notice**  
 Beautynama is a Blog and You can Visit it by no Logins or Giving out Your Email Address anywhere except while in Comments  
