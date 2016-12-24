@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2016-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405101237id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zeromotorcycles.com privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224104342id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://www.zeromotorcycles.com/favicon.ico?v=3">
 
 
-<link href="/css/zero.css?m=561f332f" rel="stylesheet" type="text/css">
+<link href="/css/zero.css?m=582169c2" rel="stylesheet" type="text/css">
 
 <style type="text/css">
 .js .hide-if-js,.no-js .hide-if-no-js{display:none;}
@@ -28,7 +28,7 @@ h1.maintitle {padding-top:20px;}
 <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.min_15075.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/zero-common_11863.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.hoverIntent.min_15058.js"></script>
-<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/dropdown-menu_11863.js"></script>
+<script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/dropdown-menu_17151.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.popupwindow_15058.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.cookie_12581.js"></script>
 <script type="text/javascript" src="http://cdn.zeromotorcycles.net/js/jquery.validate.min_15073.js"></script>
@@ -48,6 +48,12 @@ function setPrefSiteCookie(site) {
 function countryChangeClick(id,action) {
 	var sc = id.substring(id.length-2);
 	countryChangeEvent(action,zm_site_country+' => '+ sc);
+	if(sc=='il') {
+		if(action=='bottom_flag_link') {
+			$('#footer-country-menu1').hide();
+		}
+		return;
+	}
 	setPrefSiteCookie(sc);
 }
 (function($){
@@ -247,7 +253,7 @@ initializeFooterForm();
 			<li class="l-4"><a class="lower" href="/zero-ds/dsr.php">Zero DSR</a></li>
 			<li class="l-5"><a class="lower" href="/zero-fx/">Zero FX</a></li>
 			<li class="l-6"><a class="lower" href="/zero-fxs/">Zero FXS</a></li>
-			<li class="l-7"><a class="lower" href="/2015/">2015 Models</a></li>
+			<li class="l-7"><a class="lower" href="/2016/">2016 Models</a></li>
 			</ul>
 		</div>
 	</td>
@@ -262,6 +268,7 @@ initializeFooterForm();
 			<li class="l-4"><a class="lower" href="/gallery/">Gallery</a></li>
 			<li class="l-5"><a class="lower" href="/news.php">News</a></li>
 			<li class="l-6"><a class="lower" href="/events.php">Events</a></li>
+			<li class="l-7"><a class="lower" href="/10-years/">10th anniversary</a></li>
 			</ul>
 		</div>
 	</td>
@@ -284,11 +291,12 @@ initializeFooterForm();
 		<a class="rollover-menu" href="/shop/index.php?cPath=1&amp;myCountry=223">Buy</a>
 		<div class="sliding-menu">
 			<ul>
-			<li class="l-1" style="padding-left:357px;"><a class="lower" href="/locator/">Dealers</a></li>
-			<li class="l-2"><a class="lower" href="/consumer_financing.php">Financing</a></li>
-			<li class="l-3"><a class="lower" href="/incentives/">Incentives</a></li>
-			<li class="l-4"><a class="lower" href="/shop/index.php?main_page=index&amp;myCountry=223">Accessories/Apparel</a></li>
-			<li class="l-5"><a class="lower" href="/shop/index.php?cPath=1&amp;myCountry=223">Motorcycles</a></li>
+			<li class="l-1" style="padding-left:265px;"><a class="lower" href="/promo/">Promotions</a></li>
+			<li class="l-2"><a class="lower" href="/locator/">Dealers</a></li>
+			<li class="l-3"><a class="lower" href="/consumer_financing.php">Financing</a></li>
+			<li class="l-4"><a class="lower" href="/incentives/">Incentives</a></li>
+			<li class="l-5"><a class="lower" href="/shop/index.php?main_page=index&amp;myCountry=223">Accessories/Apparel</a></li>
+			<li class="l-6"><a class="lower" href="/shop/index.php?cPath=1&amp;myCountry=223">Motorcycles</a></li>
 			</ul>
 		</div>
 	</td>
@@ -544,7 +552,8 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 <td class="footer-links">
 	<h3>About</h3>
 	<a class="bottom-link" href="/company/">Who We Are</a>
-	<a class="bottom-link" href="/press/">Press</a>
+	<a class="bottom-link" href="/company/employment.php">Employment</a>
+	<a class="bottom-link" href="/media-center/">Media Center</a>
 	<a class="bottom-link" href="/news.php">News</a>
 	<a class="bottom-link" href="/high-res-photos/">High Res Images</a>
 </td>
@@ -568,6 +577,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 	<a class="bottom-link" href="/consumer_financing.php">Financing</a>
 	<a class="bottom-link" href="/incentives/">Incentives</a>
 	<a class="bottom-link" href="/shop/index.php?main_page=index&amp;myCountry=223">Shop</a>
+	<a class="bottom-link" href="/promo/">Promotions</a>
 </td>
 			<td>
 				<div class="footer-right">
@@ -581,7 +591,7 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 </div>
 <form id="address_formfooter" class="address-form" name="address_formfooter" action="/legal/privacy-policy.php" method="post">
 <input type="hidden" name="posted" value="true">
-<input type="hidden" name="jscv" value="16896">
+<input type="hidden" name="jscv" value="17159">
 
 <table style="width:100%;">
 
@@ -1016,6 +1026,9 @@ This page describes the most recent updates to our Privacy Policy. We will updat
 <div class="footer-region-sep"></div>
 <div class="footer-region">Pacific</div>
 <a class="footer-country-link" href="/au/" id="footer-au"><img src="http://cdn.zeromotorcycles.net/images/flags/australia_11226.jpg" alt="">Australia</a>
+<div class="footer-region-sep"></div>
+<div class="footer-region">Middle East</div>
+<a class="footer-country-link" target="_blank" href="http://www.zeromotorcycles.co.il/zero/index.html" id="footer-il"><img src="http://cdn.zeromotorcycles.net/images/flags/israel_17275.jpg" alt="">Israel</a>
 		</div>
 		</div>
 	</div><a class="bottom-link" href="/contact.php">Contact</a>:
@@ -1072,7 +1085,7 @@ fbq('init', '719213288167028');
 fbq('track', "PageView");
 
 </script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=719213288167028&amp;ev=PageView&amp;noscript=1" /></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=719213288167028&amp;ev=PageView&amp;noscript=1" alt="" /></noscript>
 
 
 
