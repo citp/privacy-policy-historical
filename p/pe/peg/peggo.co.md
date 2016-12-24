@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peggo.co privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429203000id_/http%3A//peggo.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peggo.co privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224132505id_/http%3A//peggo.tv/privacy) for the most accurate reproduction.*
 
 # Peggo Privacy Policy
 
