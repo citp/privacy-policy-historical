@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611060804id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225005441id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
 
 # Cars for Sale - oto.my
 
