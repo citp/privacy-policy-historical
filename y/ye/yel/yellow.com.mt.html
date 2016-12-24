@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yellow.com.mt privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324124429id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellow.com.mt privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224204711id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta charset="utf-8">
@@ -9,12 +9,14 @@
 		
 		<title>Privacy Policy - Yellow, Discover Local - Malta &amp; Gozo</title>
 		<meta name="author" content="https://plus.google.com/+yellowpagesmalta">
-		<link rel="stylesheet" type="text/css" media="screen" href="/y_css.css?t=1458821611">
-		<link rel="stylesheet" type="text/css" media="screen" href="/responsive.css?t=1458821611">
+		<link rel="stylesheet" type="text/css" media="screen" href="/portal.css?t=1482611936">
+		<link rel="stylesheet" type="text/css" media="screen" href="/y_css.css?t=1482611936">
+		<link rel="stylesheet" type="text/css" media="screen" href="/responsive.css?t=1482611936">
+		<link rel="stylesheet" type="text/css" media="screen" href="/responsive-portal.css?t=1482611936">
 		<link rel="icon" type="image/png" href="https://www.yellow.com.mt/favicon.png">
 		
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script language="javascript" src="/scripts/jquery.js"></script>		
-		
+		<script language="javascript" src="/scripts/portal.js?t=1482611936"></script>
 		
 <script type="text/javascript">
 	$(window).scroll(function () {
@@ -33,54 +35,32 @@
 <script type="text/javascript">
 function check(e)
 {
-	var ac = $(".over").attr("href");
-	var ga_ac = $(".over").text();
-	var searchedtext = $("#yp_search").val();
+	var searched = $("#yp_search").val();
 	
-	if (ac != null)
+	searched = searched.replace(" ", "%20");
+	
+	if (searched != '')
 	{
-		var ga_searched_click = 'L2-Search-' + ga_ac;
-		ga('send', 'event', ga_searched_click, 'click');
+		var ga_searched = 'L2-Search-' + searched;
+		ga('send', 'event', ga_searched, 'Submit Form');
 		
-		var searched_field = searchedtext.replace('&', '*and*');
+		var searched_field = searched.replace('&', '*and*');
+		
 		$.ajax({
 			'async': false,
 			'type': 'POST',
-			'url': 'https://www.yellow.com.mt/statistics.html?action=2||52||||||'+ac+'||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_field+'||||'
+			'url': 'https://www.yellow.com.mt/statistics.html?action=2||53||||||https://www.yellow.com.mt/search/'+searched_field+'||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_field+'||||'
 		});
 		
-		window.location.href=ac;
-		return false;	
+		$("#ac_form").get(0).setAttribute("action", "https://www.yellow.com.mt/search/" + searched);
 	}
 	else
-	{	
-		var searched = $("#yp_search").val();
-		
-		if (searched != '')
-		{
-			var ga_searched = 'L2-Search-' + searched;
-			ga('send', 'event', ga_searched, 'Submit Form');
-			
-			var searched_field = searched.replace('&', '*and*');
-			
-			$.ajax({
-				'async': false,
-				'type': 'POST',
-				'url': 'https://www.yellow.com.mt/statistics.html?action=2||53||||||https://www.yellow.com.mt/search/'+searched_field+'||https://www.yellow.com.mt/yp/privacy-policy.html||'+searched_field+'||||'
-			});
-			
-			$("#ac_form").get(0).setAttribute("action", "https://www.yellow.com.mt/search/" + searched);
-		}	
-		else
-		{
-			return false;
-		}
+	{
+		return false;
 	}
 }
 </script>
-
 <script type="text/javascript">
-
 	$( document ).ready(function() {
 		$("form #yp_search").on("keyup", function (e) {
 			var dir = e.which;
@@ -162,17 +142,6 @@ function check(e)
 					{
 						ajax_request.abort();
 					}
-				
-					ajax_request = $.post("https://www.yellow.com.mt/development-tools/search_results.html", {search: ""+query+"", level: "2", current: "https://www.yellow.com.mt/yp/privacy-policy.html"}, function(data) {
-						$(".yp_results").fadeIn();
-						$(".yp_results .section").html(data);
-						
-						var $scrollbar3 = $("#scrollbar3");
-						$scrollbar3.tinyscrollbar();
-						var scrollbar3 = $scrollbar3.data("plugin_tinyscrollbar");
-						scrollbar3.update();
-					});
-					
 					var searched_query = query.replace('&', '*and*');
 					
 					$.post("https://www.yellow.com.mt/statistics.html", {action: "2||88||||||||https://www.yellow.com.mt/yp/privacy-policy.html||"+searched_query+"||||" }, function(data) {});
@@ -181,7 +150,7 @@ function check(e)
 				}
 			}
 		});
-		
+	
 	function lookup(inputString) {
 			if(inputString.length == 0) {
 				$(".yp_results").fadeOut();
@@ -232,7 +201,7 @@ function check(e)
 		}
 			
 		$(document).ready(function() {
-			action("pageload||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/scoglitti-restaurant/malta-gozo","");
+			action("pageload||https://www.yellow.com.mt/yp/privacy-policy.html||https://www.yellow.com.mt/","");
 		});
 		</script>
 		
@@ -301,8 +270,54 @@ function check(e)
 	  ga('send', 'pageview');
 	</script>
 		
-	</head>
+	<script type="text/javascript">
+    adroll_adv_id = "ENOCLG53LNEVZL3JSDC47E";
+    adroll_pix_id = "6SGWGQFTJRG6LCJYZCKD2U";
+    / OPTIONAL: provide email to improve user identification /
+    adroll_email = "edward.mallia@yellow.com.mt";
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+		
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 	<body oncontextmenu="return false" class="about_body">
+		
+		<div class="box-overlay"></div>
+		<div class="box-wrap portal-ajax">
+			<div id="client-login" class="box-outer">
+	<div class="client-box">
+		<a onclick="action2('2||100||||||||https://www.yellow.com.mt/yp/privacy-policy.html||||||Close Login','');" class="close-portal-box"></a>
+		<span class="h1-title">Login</span>
+		<span class="loader"></span>
+		<form id="login" action="" method="post" class="portal-login-form portal-form">
+			
+			<p class="errors"></p>
+			<input class="input" type="email" name="Email" placeholder="EMAIL ADDRESS" required="">
+			<input class="input" type="password" name="Password" placeholder="PASSWORD" required="">
+			<div class="section">
+				<input onclick="action('2||100||||||||https://www.yellow.com.mt/yp/privacy-policy.html||||||Login','');" class="submit" type="submit" name="submit" value="Login">
+			</div>
+		</form>
+		<div class="section bottom-section forgot">
+			<a onclick="action2('2||100||||||||https://www.yellow.com.mt/yp/privacy-policy.html||||||Forgot Password','');" alt="Forgot Password" title="Forgot Password">Forgot Password</a>
+		</div>
+	</div>
+	<div class="register-text"><p>If you are a business owner and need to register your account, <a onclick="action2('2||100||||||||https://www.yellow.com.mt/yp/privacy-policy.html||||||Register','');" class="register-portal">click here</a></p></div>
+</div>
+		</div>
 		
 		<div class="outside  header_yellow">
 			<div class="inside">
@@ -331,25 +346,29 @@ function check(e)
 					
 					<div class="menu">
 						<ul>
+							
+							<li class="portal-login">
+								<a onclick="action2('2||47||||||https://www.yellow.com.mt/portal/dashboard.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Business Manager','L2-Business Manager');" href="https://www.yellow.com.mt/portal/dashboard.html" alt="Business Manager" title="Business Manager">Business Manager</a>
+							</li>
 							<li>
 								<a onclick="action('2||47||||||https://www.yellow.com.mt/tips/||https://www.yellow.com.mt/yp/privacy-policy.html||||||Tips','L2-Tips');" href="https://www.yellow.com.mt/tips/" alt="Tips - Yellow, Discover Local" title="Tips - Yellow, Discover Local">Tips</a>
 							</li>
 							<li>
 								<a onclick="action('2||47||||||https://www.yellow.com.mt/app.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||App','L2-App');" href="https://www.yellow.com.mt/app.html" alt="Yellow App" title="Yellow App">App</a>
 							</li>
-							<li>
+							<!--<li>
 								<a onclick="action('2||47||||||https://www.yellow.com.mt/weather.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Weather','L2-Weather');" href="https://www.yellow.com.mt/weather.html" alt="Weather in Malta &amp; Gozo" title="Weather in Malta &amp; Gozo">Weather</a>
-							</li>
-							<li class="last_career">
-								<a onclick="action('2||47||||||https://www.yellow.com.mt/advertise/why-advertise-with-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Advertise','L2-Advertise');" href="https://www.yellow.com.mt/advertise/why-advertise-with-us.html" alt="Advertise - Yellow, Discover Local" title="Advertise - Yellow, Discover Local">Advertise</a>
+							</li>-->
+							<li class="last">
+								<a onclick="action('2||47||||||http://advertise.yellow.com.mt||https://www.yellow.com.mt/yp/privacy-policy.html||||||Advertise','L2-Advertise');" href="http://advertise.yellow.com.mt" alt="Advertise - Yellow, Discover Local" title="Advertise - Yellow, Discover Local">Advertise</a>
 							</li>
 							
 							<!--<li class="last_career">
 								<a onclick="action('2||47||||||https://www.yellow.com.mt/corporate/careers.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Careers','L2-Careers');" href="https://www.yellow.com.mt/corporate/careers.html" alt="Careers" title="Careers">Careers<span class="career_icon"></span></a>
-							</li>-->
+							</li>
 							<li class="last">
 								<a onclick="action('2||47||||||https://www.yellow.com.mt/contact/contact-us.html||https://www.yellow.com.mt/yp/privacy-policy.html||||||Contact','L2-Contact');" href="https://www.yellow.com.mt/contact/contact-us.html" alt="Contact - Yellow, Discover Local" title="Contact - Yellow, Discover Local">Contact</a>
-							</li>
+							</li>-->
 						</ul>
 					</div>
 					
@@ -436,8 +455,6 @@ function check(e)
 				</div>
 			</div>
 		</div>
-
-
 <!-- Google Code for Remarketing Tag -->
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
