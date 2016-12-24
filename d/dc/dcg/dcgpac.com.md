@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604041405id_/http%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcgpac.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224103051id_/http%3A//www.dcgpac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | DCGpac
 
 ****We respect your privacy.****
 
@@ -44,4 +44,4 @@ You can access, view and edit your Registration Information and Publishing Infor
 
  ** **Your feedback****
 
-DCG Tech India welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [seema@dcgpac.com](mailto:seema@dcgpac.com)
+DCG Tech India welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [sahil@dcgpac.com](mailto:seema@dcgpac.com)
