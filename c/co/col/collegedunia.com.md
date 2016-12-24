@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630020659id_/http%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224070455id_/http%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
 
 # Collegedunia: Privacy Policy
-
-[](http://collegedunia.com/)
 
 **1\. Overview of the Privacy Policy:**
 
@@ -34,9 +32,3 @@ Rohini Sector - 14,
 Near Indian Overseas Bank & back side of Pitampura RU Block Bus Stand  
 Pin Code - 110085  
 Or Send a Mail at [privacy@collegedunia.com](mailto:privacy@collegedunia.com)
-
- **We Appreciate Your Input To Us!**
-
-### Thank you for your feedback.
-
-#### Its important to us!
