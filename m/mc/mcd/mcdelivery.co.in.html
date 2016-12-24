@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the mcdelivery.co.in privacy policy that was archived on 2015-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150820214840id_/http%3A//www.mcdelivery.co.in/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdelivery.co.in privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224133537id_/https%3A//www.mcdelivery.co.in/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1"><title>
 	Home
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=1024"><meta name="keywords" content="mcdelivery ,mcdonalds,mc donalds ,mcdonalds india ,mc donalds india ,mcdonald delivery,mcdonald india ,mcdonald order,mcdonalds delivery,mc donald ,
+</title><link rel="shortcut icon" href="Images/favicon.ico" type="image/x-icon"><link rel="icon" href="Images/favicon.ico" type="image/x-icon"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=1024"><meta name="keywords" content="mcdelivery ,mcdonalds,mc donalds ,mcdonalds india ,mc donalds india ,mcdonald delivery,mcdonald india ,mcdonald order,mcdonalds delivery,mc donald ,
     coupons mcdonalds,mc delivery,mcdonalds coupons,mcd,mcd offers,Mcdonalds home delivery,Mcdonalds menu,Order food,Burger,Home delivery,Pizza delivery,Food delivery"><link href="/Styles/style.css" rel="stylesheet" type="text/css" media="all"><link href="/Styles/Web.css" rel="stylesheet" type="text/css"><link href="/Styles/Plugins.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/Styles/lightbox.css" media="all">
-    <script type="text/javascript" async="" src="https://plus.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script async="" src="//d17m68fovwmgxj.cloudfront.net/js/rt/track.js"></script><script type="text/javascript" async="" src="https://plus.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/jquery.min.js"></script>
     <script type="text/javascript" src="/Scripts/custom.js"></script>
     
     <script src="/Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
@@ -13,15 +13,24 @@
     <script src="/Scripts/Mcdonalds.js" type="text/javascript"></script>
     <script src="/Scripts/Calendar.js" type="text/javascript"></script>
     <script src="/Scripts/jquery.easing.js" type="text/javascript"></script>
+    <script src="/Scripts/Aes.js" type="text/javascript"></script>
+   
     <script src="/Scripts/SiteMaster.js?123" type="text/javascript"></script>
+
     
     
     <script src="/Scripts/common.js" type="text/javascript"></script>
     <script src="/Scripts/lightBox.js" type="text/javascript"></script>
     
     
-    <script src="/Scripts/OrderPlacement_Web.js" type="text/javascript"></script>
+    <script src="/Scripts/OrderPlacement_Web.js?a=10" type="text/javascript"></script>
+    <script src="/Scripts/jquery.jscrollpane.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.mousewheel.js" type="text/javascript"></script>
+    <link href="Styles/jscroll.css" rel="stylesheet" type="text/css">
+    
     <script type="text/javascript">
+
+
         window.onload = function () {
             var SessionTimer = null,
             TimeOutInterval = 1000 * 60 * parseInt(SessiontimeOutTime), //Converted in milliseconds
@@ -92,6 +101,28 @@
                 return false;
             }
         }
+    </script>
+    <script type="text/javascript">
+        //$("#BirthdayParty").live("click", function () {
+        //    //Check if the User is Looged in
+        //    $.ajax({
+        //        type: "POST",
+        //        url: "../OrderPlacement/AjaxProcessCart_Web.aspx/IsUserLoggedIn",
+        //        data: "{}",
+        //        contentType: "application/json; charset=utf-8",
+        //        dataType: "json",
+        //        success: function (response) {
+        //            var result = (typeof response.d) == 'string' ? eval('(' + response.d + ')') : response.d;
+        //            //Check if User Logged In
+        //            if (result[0]["IsLoggedIn"] == false) {
+        //                alert("Don't forget to login, before you proceed!");
+        //            }
+        //        },
+        //        failure: function () { }
+        //    });
+        //    document.location = "#";
+        //    return false;
+        //});
     </script>
     <script type="text/javascript">
         //  $(document).ready(function () {
@@ -195,13 +226,28 @@
                 // $('.ahrefbuttonapp').click();
                 return false;
             });
-           
+
+
+//            $(".partOrdr").live('click', function () {
+                //var win = window.open('http://uattraining.mcdelivery.co.in/BirthdayPartyStoreSelection.aspx', '_self');
+//                var win = window.open('http://localhost:72/BirthdayPartyStoreSelection.aspx', '_self');
+                //win.focus();
+                // $('.ahrefbuttonapp').click();
+//                return false;
+ //           });
             $(".BulkOrdr").live('click', function () {
                 var win = window.open('/BulkOrderRequest.aspx', '_self');
                 
                 return false;
             });
            
+//            $(".BulkOrdr").live('click', function () {
+//                var win = window.open('/BirthdayPartyStoreSelection.aspx', '_self');
+                //var win = window.open('http://localhost:8002/BirthdayPartyStoreSelection.aspx', '_self');
+                //win.focus();
+                // $('.ahrefbuttonapp').click();
+//                return false;
+//            });
         });
     </script>
     <!--[if lt IE 9]>
@@ -209,185 +255,182 @@
     <script src="/Scripts/css3-mediaqueries.js"></script>
 <![endif]-->
     <style type="text/css">
-       .water
-       {
-           color: #A2A0A1 !important;
-           font-family: 'Trebuchet MS' , Arial, Helvetica, sans-serif;
-       }
-       .black
-       {
-           color: black !important;
-       }
-       #fb_login_button
-       {
-           width: 80px;
-       }
-       #fb_login_button span, #fb_login_button iframe
-       {
-           width: 80px !important;
-           height: 25px !important;
-       }
-       .ultermsconditions
-       {
-           color: #000;
-       }
-       .ultermsconditions li
-       {
-           padding: 10px;
-           text-align: justify;
-       }
-       .ultermsconditions ul
-       {
-           padding: 15px;
-       }
-       .FBbtns
-       {
-           float: left;
-           width: 100px;
-           padding-right: 5px;
-       }
-       #gConnect
-       {
-           float: right;
-       }
-       /*;background-color:#DF4A32;height:29px;width:107px}*/
-       #gConnect div button
-       {
-           float: left;
-           width: 100px;
-           padding-right: 10px;
-           background: url("../images/GooglePlus.png") no-repeat scroll top left rgba(0, 0, 0, 0) !important;
-           opacity: 1 !important;
-           color: transparent;
-           margin-left: 5px;
-           border: 0;
-           width: 107px !important;
-           height: 29px !important;
-       }
-       #gConnect iframe
-       {
-           opacity: 0 !important;
-       }
-       
-       .jspVerticalBar
-       {
-           width: 4px;
-       }
-       .MenuUserBasedPromoCode
-       {
-           float: left;
-           width: 48%;
-           font: bold 13px Trebuchet MS;
-           color: #444444;
-       }
-       .MenuUserBasedPromodesc
-       {
-           /*float: left;
+        .water
+        {
+            color: #A2A0A1 !important;
+            font-family: 'Trebuchet MS' , Arial, Helvetica, sans-serif;
+        }
+        .black
+        {
+            color: black !important;
+        }
+        #fb_login_button
+        {
+            width: 80px;
+        }
+        #fb_login_button span, #fb_login_button iframe
+        {
+            width: 80px !important;
+            height: 25px !important;
+        }
+        .ultermsconditions
+        {
+            color: #000;
+        }
+        .ultermsconditions li
+        {
+            padding: 10px;
+            text-align: justify;
+        }
+        .ultermsconditions ul
+        {
+            padding: 15px;
+        }
+        .FBbtns
+        {
+            float: left;
+            width: 100px;
+            padding-right: 5px;
+        }
+        #gConnect
+        {
+            float: right;
+        }
+        /*;background-color:#DF4A32;height:29px;width:107px}*/
+        #gConnect div button
+        {
+            float: left;
+            width: 100px;
+            padding-right: 10px;
+            background: url("../images/GooglePlus.png") no-repeat scroll top left rgba(0, 0, 0, 0) !important;
+            opacity: 1 !important;
+            color: transparent;
+            margin-left: 5px;
+            border: 0;
+            width: 107px !important;
+            height: 29px !important;
+        }
+        #gConnect iframe
+        {
+            opacity: 0 !important;
+        }
+        
+        .jspVerticalBar
+        {
+            width: 4px;
+        }
+        .MenuUserBasedPromoCode
+        {
+            float: left;
+            width: 48%;
+            font: bold 13px Trebuchet MS;
+            color: #444444;
+        }
+        .MenuUserBasedPromodesc
+        {
+            /*float: left;
             width: 50%;*/
-           color: Blue;
-           text-decoration: underline;
-           font: 14px Trebuchet MS;
-           width: 30%;
-           border-top: 1px solid #c6c6c6;
-           border: 1px solid #C6C6C6;
-       }
-       
-       
-       
-       .MenuUserBasedPromoCodeHeading
-       {
-           float: left;
-           width: 48%;
-           background-color: gray;
-           color: white;
-           line-height: 20px;
-           font: bold 14px Trebuchet MS;
-       }
-       .MenuUserBasedPromodescHeading
-       {
-           float: left;
-           width: 50%;
-           background-color: gray;
-           color: white;
-           line-height: 20px;
-           font: bold 14px Trebuchet MS;
-       }
-       
-       .MenuUserPromo
-       {
-           font-family: Verdana, Geneva, sans-serif;
-           overflow: hidden;
-           padding: 4px 1px 5px 4px;
-           font-size: 13px;
-           width: 98%;
-           overflow-y: scroll;
-       }
-       .menuPromo
-       {
-           width: 100%;
-           padding-left: 5px;
-       }
-       .toglemore
-       {
-       }
-       .TermsNdConditionTR1
-       {
-           font-family: 'Trebuchet MS';
-           text-decoration: none;
-       }
-       .toglemore
-       {
-           padding-left: 25px;
-           color: Black;
-           cursor: pointer;
-           background: url(../images/arrow-down.png) 0 0 no-repeat;
-       }
-       .minusBtn
-       {
-           background: url(../images/arrow-up.png) 0 0 no-repeat;
-       }
-      
-       div#lblTermsAndCondition1 ol li, div#lblTermsAndCondition1 ul li, div#lblTermsAndCondition1 ul
-       {
-           list-style: inherit !important;
-       }
-   </style>
+            color: Blue;
+            text-decoration: underline;
+            font: 14px Trebuchet MS;
+            width: 30%;
+            border-top: 1px solid #c6c6c6;
+            border: 1px solid #C6C6C6;
+        }
+        
+        
+        
+        .MenuUserBasedPromoCodeHeading
+        {
+            float: left;
+            width: 48%;
+            background-color: gray;
+            color: white;
+            line-height: 20px;
+            font: bold 14px Trebuchet MS;
+        }
+        .MenuUserBasedPromodescHeading
+        {
+            float: left;
+            width: 50%;
+            background-color: gray;
+            color: white;
+            line-height: 20px;
+            font: bold 14px Trebuchet MS;
+        }
+        
+        .MenuUserPromo
+        {
+            font-family: Verdana, Geneva, sans-serif;
+            overflow: hidden;
+            padding: 4px 1px 5px 4px;
+            font-size: 13px;
+            width: 98%;
+            overflow-y: scroll;
+        }
+        .menuPromo
+        {
+            width: 100%;
+            padding-left: 5px;
+        }
+        .toglemore
+        {
+        }
+        .TermsNdConditionTR1
+        {
+            font-family: 'Trebuchet MS';
+            text-decoration: none;
+        }
+        .toglemore
+        {
+            padding-left: 25px;
+            color: Black;
+            cursor: pointer;
+            background: url(../images/arrow-down.png) 0 0 no-repeat;
+        }
+        .minusBtn
+        {
+            background: url(../images/arrow-up.png) 0 0 no-repeat;
+        }
+        
+        div#lblTermsAndCondition1 ol li, div#lblTermsAndCondition1 ul li, div#lblTermsAndCondition1 ul
+        {
+            list-style: inherit !important;
+        }
+    </style>
   
-     
+    
     <script type="text/javascript" src="Scripts/jquery.jscrollpane.min.js"></script>
     <script src="Scripts/jquery.mousewheel.js" type="text/javascript"></script>
     <link href="Styles/jscroll.css" rel="stylesheet" type="text/css">
     <style type="text/css">
-        .SecondRepeaterBorder
-        {
+        .SecondRepeaterBorder {
             border-bottom: 1px solid black;
         }
-        
-        .trackOrder
-        {
+
+        .trackOrder {
             margin: 0;
             padding: 0;
             border: none;
             outline: none;
         }
-        body
-        {
+
+        body {
             font-family: Arial, Helvetica, sans-serif;
             font-size: 14px;
         }
-        .Policycontent
-        {
+
+        .Policycontent {
             height: 900px;
             text-align: justify;
         }
-        
-        
-        .tblDiv04
-        {
+
+
+        .tblDiv04 {
             margin-left: 1%;
         }
-        .heading
-        {
+
+        .heading {
             color: #752d39;
             font-size: 18px;
             padding: 0px 0px 3px 0px;
@@ -395,8 +438,8 @@
             margin-top: 10px;
             font-family: Arial, Helvetica, sans-serif;
         }
-        .subheading
-        {
+
+        .subheading {
             color: #752d39;
             font-size: 14px;
             padding: 0px 0px 3px 0px;
@@ -404,22 +447,22 @@
             margin-top: 10px;
             font-family: Arial, Helvetica, sans-serif;
         }
-        .Policycontent p
-        {
+
+        .Policycontent p {
             padding-left: 10px;
             line-height: 24px;
         }
-        .Policycontent table
-        {
-            margin-left: 20px; 
+
+        .Policycontent table {
+            margin-left: 20px;
             line-height: 24px;
         }
-         .jspVerticalBar
-        {
-            width:4px;
+
+        .jspVerticalBar {
+            width: 4px;
         }
     </style>
-   
+
     <script type="text/javascript">
         $(document).ready(function () {
             var settings = {
@@ -456,11 +499,11 @@
     <div id="fb-root">
     </div>
     <script type="text/javascript">
-        // var FBAppID = '1436256383256924';
+        // var FBAppID = '818738601499871';
         // alert(FBAppID);
         window.fbAsyncInit = function () {
             FB.init({
-                appId: '1436256383256924', //McDelivery AppID 357601817706162//Local AppID :  181329815385647// NewMcDelivery AppID: 290347801096914 //McDeliveryWeb AppID: 671502522874314 //TestMcDelivery ApID: 602129489822413 //New TestMcDelivery:1436256383256924 
+                appId: '818738601499871', //McDelivery AppID 357601817706162//Local AppID :  181329815385647// NewMcDelivery AppID: 290347801096914 //McDeliveryWeb AppID: 671502522874314 //TestMcDelivery ApID: 602129489822413 //New TestMcDelivery:1436256383256924 
                 channelUrl: '//' + window.location.hostname + '/channel', // Path to your Channel File
                 status: true, // check login status
                 cookie: true, // enable cookies to allow the server to access the session
@@ -531,7 +574,7 @@
             });
         }
 
-       function onSignInCallback(authResult) {
+        function onSignInCallback(authResult) {
 
             if (authResult['access_token'] && $('[id*=lblWcUserName]').text() == '' && authResult['status']['method'] != 'AUTO') {
                 // The user is signed in
@@ -622,22 +665,49 @@
                 window.location.href = "/Home";
             });
         }
-       function GPLogout() {
+        function GPLogout() {
             gapi.auth.signOut();
         }
     </script>
     
     <form method="post" action="PrivacyPolicy" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+fKPydGO4xjDGXg5vng65vDcOGa7Xvq4YUDzVa5tkVO1Rq+hanAdYztQwmz3lFTAlB604KO2f4IpWzV0FmFId1T9jeqBnB8RQF9IwLjEQfEXs0yrNAOjIChT7HXiImu8X5wwytS8xqlS8bVR/Jq3gimDodS8WiMKmQX1gqJ2ISZmhiSu+KCrKzo0xUaTIl9505HDNfwfn7LTw5Hhn8BqXJ7iUuzZdc1wfG3qyb+Gb+HidzZPoti86S8gRpz7/rIFEhoq220KWNGSoy8p7G0RV+1oqTnQceTMDH4WEAZCO2M=">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mFg1KMWnk13xQscrikUTfeKFVcKoIlJjqGWOE1rbzCUYGDhV/G5i7ofZ3kcdR96O6AnbPyDPi++Uw/1N4bffinkupNNOGe+FPS9SEiZLJ5lyPa2ex3NIo7JgkYYJQd+3pCDyeYmwhQrOfDMMTX/0jPrSyQTyTsiE5HCmGs62DxDRmoptGwtiNk/YmCgEZArTYrektq45UiBb7Lrbqo3Wopr9QUn0TmHP2pmz1BcxoicU3HJ6mCw8Yx9wnP+2kGpyMkbDHeDiNV1mvPVfRj3zsWYOmME5uz8WxMup9wYe7jA=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=dObCVBGmd3zORpwfrikpzPD-G79UImF1bAMEcJpokNiHmLA_kurokm2bYFVvkCXKZQ_S-JVU6G2iKeL7LoREZxle3pEhbdqlyFy51fcquSQ1&amp;t=635091107518590119" type="text/javascript"></script>
 
 <script type="text/javascript" src="/ajax/common.ashx"></script><script type="text/javascript" src="/ajax/SiteMaster,App_Web_site.master.cdcab7d2.ashx"></script>
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="oiGAqLxJTJAzfK4MFCfFBwtuZqNB14NHWv9h62I2vUH14dn31N6TgxYJQMy-sLGfOcpXMe8xxxFtGa0uE9APRbTRukvEsia_J6qljBVsscc1">
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="oiGAqLxJTJAzfK4MFCfFBwtuZqNB14NHWv9h62I2vUH14dn31N6TgxYJQMy-sLGfOcpXMe8xxxFtGa0uE9APRbTRukvEsia_J6qljBVsscc1">
+</div>
     <div class="page">
         <div class="main">
             <!--Hidden Fields Order Placement-->
             <input type="hidden" name="ctl00$hdnCategoryID" id="hdnCategoryID">
             <input type="hidden" name="ctl00$hdnCoreItemID" id="hdnCoreItemID">
+            <input type="hidden" name="ctl00$hdnNewRegisterPromo" id="hdnNewRegisterPromo">
             <!--End Hidden Fields-->
             <!--Order Placement Pop Ups-->
             <!--Overlay-->
@@ -720,7 +790,7 @@
                             <img src="/images/close_bt01.gif" alt=""></a></div>
                     <h1>
                         please select 
-                        </h1>
+                    </h1>
                 </div>
                 <div class="border">
                 </div>
@@ -1371,21 +1441,35 @@
             </div>
             <!--End Favourite Previous Orders-->
             <!--Desert Missing-->
-            <div class="lightBox01 make_selection  popUp noDessertItemsPopUp" style="height: 285px;">
+            <div class="lightBox01 make_selection  popUp noDessertItemsPopUp">
                 <div>
-                    <img src="/Images/Foccacia.jpg" usemap="#Map" border="0">
-                    <map name="Map" id="Map">
-                        <area shape="rect" id="Foccasia" coords="218, 220, 356, 253" href="javascript:void(0);" style="cursor: pointer;">
-                        <span class="noDessertItemsPopUpCloseBtn" style="cursor: pointer;">
-                            <area shape="rect" coords="377, 218, 546, 257" href="javascript:void(0);">
-                        </span>
-                    </map>
+                    <div class="close_btn01">
+                        </div>
+                </div>
+                <div class="noDessertItemsContainer">
+                    <div class="noDessertItemsContent">
+                        <div class="dessertImg">
+                            <img src="/Images/Desert.png"></div>
+                        <div class="dessertContent">
+                            <span style="display: block;">
+                                Looks like you've forgotten to choose a dessert!</span>
+                            <div class="button02 dessertBtn">
+                                <span style="padding: 6px 0 7px 7px;" class="noDessertRedirectBtn">
+                                    Explore Tempting Desserts</span>
+                            </div>
+                            <div class="button02 dessertBtn" style="float: right; margin-top: -27px; margin-left: 100px;
+                                width: 150px;">
+                                <span style="padding: 6px 0 7px 7px;" class="noDessertItemsPopUpCloseBtn">Skip to checkout</span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
+            
             <!--End Dessert Missing-->
-             
             <!--Start Check Promo Container-->
-            <div id="DivPromoCodeCheckContainer" class="PromoCodeCheckContainer" style="display: none;"> 
+            <div id="DivPromoCodeCheckContainer" class="PromoCodeCheckContainer" style="display: none;">
                 <div>
                     <div class="CodeCheckContainer">
                         <a href="#">
@@ -1421,16 +1505,17 @@
                                         <br>
                                     </td>
                                 </tr>
-                                <tr class="TermsNdConditionTR1 toglemore">
-                                    <td>
-                                        <span><b>Terms and Condition</b></span>
+           
+                                <tr class="TermsNdConditionTR1">
+                                    <td style="cursor: pointer;">
+                                        <span style="text-decoration: underline;"><b>Terms and Condition</b></span> <a href="#" class="toglemore"></a>
                                     </td>
                                 </tr>
                                 <tr class="TermsNdConditionTR1">
                                     <td>
                                     </td>
                                 </tr>
-                                <tr class="TermsNdConditionTR1 TCcontent">
+                                <tr class="TermsNdConditionTR1 TCcontent" style="list-style-position: inside;">
                                     <td>
                                         <div id="lblTermsAndCondition1">
                                         </div>
@@ -1442,7 +1527,6 @@
                 </div>
             </div>
             <!--End Check Promo Container-->
-
             <!--Terms and conditions Pop Up-->
             <div class="lightBox05 popUp termsConditionsPopUp">
                 <div>
@@ -1703,84 +1787,46 @@
                 
                 
             <div class="jspContainer" style="width: 1366px; height: 900px;"><div class="jspPane" style="padding: 0px; top: 0px; width: 1358px;"><p>
-                    Thank you for visiting us online at www.mcdonaldsindia.com (“website” or “our website”).</p><br><p>
-                    Hardcastle Restaurants Private Limited (HRPL) is a wholly owned subsidiary of Westlife
-                    Development Limited listed on BSE (Bombay Stock Exchange) with scrip code 505533,
-                    which focuses on putting up and operating Quick Service Restaurants (QSR) in West
-                    and South India. HRPL is a franchisee of McDonald’s India Private Limited (MIPL)
-                    with rights to own and operate restaurants under the brand name “McDonald’s” in
-                    India’s West and South markets.</p><br><p>
-                    At HRPL, we strive to do everything we can to respect the trust customers have in
-                    our brand, and our commitment to your privacy is no exception. We are committed
-                    to protecting and safeguarding consumer’s privacy on the internet, especially for
-                    children.</p><p class="heading">
-                    <b>HRPL’S INTERNET PRIVACY POLICY</b></p><p>
-                    HRPL is pleased to provide information to all of its customers about its online
-                    privacy policy. Please be assured that HRPL uses its best efforts to protect the
-                    privacy of visitors to this website.</p><br><p>
-                    This Privacy Policy (“Policy”) describes the types of personal information we collect
-                    from visitors to our website and users of our Mobile Applications (collectively
-                    "Online Services"). This Policy not only sets forth how we use this information,
-                    but also provides other details about our personal information practices, and explains
-                    how to contact us if you have any questions or concerns.</p><p class="heading">
-                    <b>TYPES OF INFORMATION WE COLLECT AND HOW IT IS USED</b></p><p>
-                    HRPL gathers personal information, such as first and last names, addresses and email
-                    ids, only when voluntarily submitted by you. e.g., personal information may be collected
-                    from you in order to get your feedback on our website and our products, or to ensure
-                    your entry in one of our contests or sweepstakes. If you do not agree or consent
-                    to submission of such information, you will not be allowed to register yourself
-                    or participate in our contests, sweepstakes or use any functions on our website
-                    which require such personal information to be submitted.</p><p class="heading">
-                    <b>SHARING OF PERSONAL INFORMATION</b></p><p>
-                    HRPL may share personal information within the McDonald’s Family. The McDonald’s
-                    Family includes McDonald’s Corporation, our franchisees, our subsidiaries and our
-                    affiliates. Of course, any use of this information by the McDonald’s Family will
-                    comply with this Policy. Occasionally, we will send marketing information to you,
-                    such as discount coupons, information about new product offerings, etc. If you elect
-                    not to receive such materials, we will not send them to you.</p><br><p>
-                    In addition, when you visit our website or use Online Services, we may collect certain
-                    information by automated means. The information we collect may include your Internet
-                    Protocol (IP) address, computer/mobile device operating system and browser type,
-                    type of mobile device, the Unique Device Identifier (UDID) or Mobile Equipment Identifier
-                    (MEID) for your mobile device, the address of a referring website (if any), and
-                    the pages you visit on our website. We may use this information to operate, maintain,
-                    and manage our Online Services and to provide services such as technical support.
-                    We provide additional information regarding our use of "cookies" in this Privacy
-                    Policy below.</p><p class="heading">
-                    <b>MOBILE DEVICES AND LOCATION INFORMATION</b></p><p>
-                    Mobile Apps. may collect precise information about the location of your mobile device
-                    using technologies such as GPS, Wi-Fi, or cell tower proximity. HRPL uses this information
-                    for location- based services that you request such as locating nearby McDonald's
-                    restaurants or identifying special offers that may be of interest to you. For most
-                    mobile devices, you are able to withdraw your permission for HRPL to acquire this
-                    information on your location through the device settings. If you have questions
-                    about how to disable your mobile device's location services, we recommend you contact
-                    your mobile device service provider or the device manufacturer. If you would like
-                    us to delete location information we have collected, please contact us at the email
-                    or postal address listed below. Please note that the applications may not function
-                    properly following deletion, and that we may be required by law to retain certain
-                    information.</p><br><p>
-                    HRPL does not sell, transfer or disclose personal information to third parties outside
-                    the McDonald’s Family. However, with your permission, we will, on occasion send
-                    marketing information on behalf of one of our business partners about products or
-                    services they provide that may be of interest to you. You may be asked if you wish
-                    to receive marketing materials from McDonald’s business partners. If you elect to
-                    receive such materials, HRPL will not share your personal information with such
-                    partners but rather will send a mailer or email on behalf of the partners.</p><br><p>
-                    HRPL reserves the right to use or disclose any information as needed to satisfy
-                    any law, regulation or legal request, to protect the integrity of the sites, to
-                    fulfil your requests, or to co-operate in any law enforcement investigation or an
-                    investigation on a matter of public safety.</p><p class="heading">
-                    <b>CHILDREN'S PRIVACY NOTICE</b></p><p>
-                    HRPL understands the importance of privacy to visitors to and users of our Online
-                    Services. We are especially committed to protecting the privacy of children who
-                    visit or use our Online Services.</p><table cellpadding="2" cellspacing="2">
+                    Thank you for visiting us online at <a href="http://www.mcdonaldsindia.com">www.mcdonaldsindia.com</a> (“website” or “our website”).
+                </p><br><p>
+                    Hardcastle Restaurants Private Limited (HRPL) is a wholly owned subsidiary of Westlife Development Limited listed on BSE (Bombay Stock Exchange) with scrip code 505533, which focuses on putting up and operating Quick Service Restaurants (QSRs) in West and South India. HRPL is a franchisee of McDonald’s India Private Limited (MIPL) with rights to own and operate restaurants under the brand name “McDonald’s” in India’s West and South markets.
+                </p><br><p>
+                    At HRPL, we strive to do everything we can to respect the trust customers have in our brand, and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer’s privacy on the internet, especially for children.
+                </p><p class="heading">
+                    <b>HRPL’S INTERNET PRIVACY POLICY</b>
+                </p><p>
+                    HRPL is pleased to provide information to all of its customers about its online privacy policy. Please be assured that HRPL uses its best efforts to protect the privacy of visitors to this website.
+                </p><br><p>
+                    This Privacy Policy (“Policy”) describes the types of personal information we collect from visitors to our website and users of our Mobile Applications (collectively “Online Services”). This Policy not only sets forth how we use this information, but also provides other details about our personal information practices, and explains how to contact us if you have any questions or concerns.
+                </p><p class="heading">
+                    <b>TYPES OF INFORMATION WE COLLECT AND HOW IT IS USED</b>
+                </p><p>
+                    When using Online Services i.e. when ordering or registering on HRPL’s website or Mobile Applications, you may be asked to enter your name, email address, mailing address, telephone number or other details. HRPL gathers such personal information only when voluntarily submitted by you. e.g., personal information may be collected from you in order to get your feedback on our website and our products, or to improve our website in order to serve you better, or to quickly process your transactions, or to ensure your entry in one of our contests or sweepstakes. If you do not agree or consent to submission of such information, you will not be allowed to register yourself or participate in our contests, sweepstakes or use any functions on our website which require such personal information to be submitted.
+                </p><p class="heading">
+                    <b>SHARING OF PERSONAL INFORMATION</b>
+                </p><p>
+                    HRPL may share personal information within the McDonald’s Family. The McDonald’s Family includes McDonald’s Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald’s Family will comply with this Policy. Occasionally, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you elect not to receive such materials, we will not send them to you.
+                </p><br><p>
+                    In addition, when you visit our website or use Online Services, we may collect certain information by automated means. The information we collect may include your Internet Protocol (IP) address, computer/mobile device operating system and browser type, type of mobile device, the location of mobile device, the Unique Device Identifier (UDID) or Mobile Equipment Identifier (MEID), the network carrier or any other information about your mobile device, the address of a referring website (if any), and the pages you visit on our website. We may use this information to operate, maintain, and manage our Online Services and to provide services such as technical support. We provide additional information regarding our use of “cookies” in this Privacy Policy below.
+                </p><p class="heading">
+                    <b>MOBILE DEVICES AND LOCATION INFORMATION</b>
+                </p><p>
+                    Mobile Apps may collect precise information about the location of your mobile device using technologies such as GPS, Wi-Fi, or cell tower proximity. HRPL uses this information for location-based services that you request such as locating nearby McDonald’s restaurants or identifying special offers that may be of interest to you. For most mobile devices, you are able to withdraw your permission for HRPL to acquire this information on your location through the device settings. If you have questions about how to disable your mobile device’s location services, we recommend you contact your mobile device service provider or the device manufacturer. If you would like us to delete location information we have collected, please contact us at the email or postal address listed below. Please note that the applications may not function properly following deletion, and that we may be required by law to retain certain information.
+                </p><br><p>
+                    HRPL does not sell personal information to third parties outside the McDonald’s Family though, with your permission, such personal information may be, subject to compliance with this Policy, transferred, shared or disclosed to third parties including third party service providers outside the McDonald’s Family. Such personal information shall however be transferred, shared or disclosed securely via modern cryptography e.g. over HTTPS. In case personal information (which includes the online behavioural analysis of the user of Online Services) is shared, transferred or disclosed to third party service providers, it shall be done so only for the purpose of personalizing your online ordering experience With your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald’s business partners. If you elect to receive such materials, HRPL will not share your personal information with such partners but rather will send a mailer or email on behalf of the partners.
+                </p><br><p>
+                    HRPL reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the sites, to fulfil your requests, or to co-operate in any law enforcement investigation or an investigation on a matter of public safety.
+                </p><p class="heading">
+                    <b>CHILDREN'S PRIVACY NOTICE</b>
+                </p><p>
+                    HRPL understands the importance of privacy to visitors to and users of our Online Services. We are especially committed to protecting the privacy of children who visit or use our Online Services.
+                </p><table cellpadding="2" cellspacing="2">
                     <tbody><tr>
                         <td class="termsno" width="5%">
                             <b>A .</b>
                         </td>
                         <td class="subheading">
-                            <b>WHAT PERSONAL INFORMATION DO WE COLLECT?</b>
+                            <b>&nbsp;&nbsp;WHAT PERSONAL INFORMATION DO WE COLLECT?</b>
                         </td>
                     </tr>
                     <tr>
@@ -1789,35 +1835,21 @@
                                 <td class="termsno" width="5%">
                                     <b>1 .</b>
                                 </td>
-                                <td style="padding-bottom: 10px;">
-                                    We offer many features on our website, like games and other activities, which do
-                                    not require a child to provide any personal information. On occasion, however, we
-                                    may collect personal information, such as an email address from children as part
-                                    of an activity. For example: We may collect a child's email address to notify the
-                                    child if he or she has won or lost a contest or activity. In that event, we will
-                                    notify the child using the email address the child supplies. We will not keep the
-                                    address or use it for any other purpose.
+                                <td style="padding-bottom: 10px;">&nbsp;&nbsp;We offer many features on our website, like games and other activities, which do not require a child to provide any personal information. On occasion, however, we may collect personal information, such as an email address from children as part of an activity. For example: We may collect a child’s email address to notify the child if he or she has won or lost a contest or activity. In that event, we will notify the child using the email address the child supplies. We will not keep the address or use it for any other purpose.
                                 </td>
                             </tr>
                             <tr>
                                 <td class="termsno" width="5%">
                                     <b>2 .</b>
                                 </td>
-                                <td style="padding-bottom: 10px;">
-                                    We may collect a child's email address in order to respond to a request from the
-                                    child on a one-time basis, such as to send the child a screen saver. In this case
-                                    we promptly delete the email address from our system once we have responded, and
-                                    we do not use the address for any other purpose.
+                                <td style="padding-bottom: 10px;">&nbsp;&nbsp;We may collect a child’s email address in order to respond to a request from the child on a one-time basis, such as to send the child a screen saver. In this case we promptly delete the email address from our system once we have responded, and we do not use the address for any other purpose.
                                 </td>
                             </tr>
                             <tr>
                                 <td class="termsno" width="5%">
                                     <b>3 .</b>
                                 </td>
-                                <td style="padding-bottom: 10px;">
-                                    HRPL will not condition a child's participation in any online activity on the child's
-                                    disclosure of more personal information than is reasonably necessary to participate
-                                    in that activity.
+                                <td style="padding-bottom: 10px;">&nbsp;&nbsp;HRPL will not condition a child’s participation in any online activity on the child’s disclosure of more personal information than is reasonably necessary to participate in that activity.
                                 </td>
                             </tr>
                         </tbody></table><table cellpadding="2" cellspacing="2">
@@ -1835,9 +1867,7 @@
                                 <td class="termsno" width="5%">
                                     <b>1 .</b>
                                 </td>
-                                <td style="padding-bottom: 10px;">
-                                    We use email addresses submitted by a child in order to respond to the child's request
-                                    or to notify the child if he or she has won or lost a contest or activity they entered.
+                                <td style="padding-bottom: 10px;">&nbsp;&nbsp;We use email addresses submitted by a child in order to respond to the child’s request or to notify the child if he or she has won or lost a contest or activity they entered.
                                 </td>
                             </tr>
                         </tbody></table><table cellpadding="2" cellspacing="2">
@@ -1852,74 +1882,54 @@
                     <tr>
                         </tr></tbody></table><table cellpadding="2" cellspacing="2">
                             <tbody><tr>
-                                <td colspan="2" style="padding-bottom: 10px; padding-left: 10px;">
-                                    We may share a child's personal information with third parties to the extent reasonably
-                                    necessary to protect the security or integrity of our Online Services, take precautions
-                                    against liability, or respond to judicial process or requests from other governmental
-                                    authorities; or when we believe disclosure is necessary or appropriate to prevent
-                                    physical harm or financial loss, or in connection with an investigation of suspected
-                                    or actual illegal activity.
+                                <td colspan="2" style="padding-bottom: 10px; padding-left: 10px;">We may share a child’s personal information with third parties to the extent reasonably necessary to protect the security or integrity of our Online Services, take precautions against liability, or respond to judicial process or requests from other governmental authorities; or when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity.
                                 </td>
                             </tr>
                             <tr>
                                 <td class="termsno" width="5%">
                                     <b>1 .</b>
                                 </td>
-                                <td style="padding-bottom: 10px;">
-                                    We also may share personal information collected with vendors that perform services
-                                    for McDonald's. These services may include hosting our website, providing technical
-                                    services to McDonald's, fulfilling requests or administering activities. Such vendors
-                                    are obligated to protect the confidentiality of the personal information we share
-                                    with them.
+                                <td style="padding-bottom: 10px;">We also may share personal information collected by us with vendors that perform services for HRPL. These services may include hosting our website, providing technical services to HRPL, fulfilling requests or administering activities. 
                                 </td>
                             </tr>
                         </tbody></table><p class="heading">
-                    <b>ACCESS</b></p><p>
-                    You are in control of any personal information you provide us on-line. If at any
-                    time, you would like to correct the personal information we have about you or if
-                    you would like to change your preferences for contacts from us or on behalf of our
-                    business partners, you can let us know by contacting us at the email or postal address
-                    listed below.</p><p class="heading">
-                    <b>COOKIES</b></p><p>
-                    “Cookies” are pieces of information that a website transfers to an individual’s
-                    hard drive for record keeping purposes. Cookies allow the website to remember important
-                    information that will make your use of the sites more convenient. Like most web
-                    sites, HRPL uses cookies for a variety of purposes in order to improve your on-line
-                    experience. e.g., we track the total number of visitors to our website on an anonymous
-                    aggregate basis. We may also employ cookies so that we remember you when you return
-                    to the sites, to keep track of the items/pages you view on our website to help us
-                    customize your experience.</p><br><p>
-                    We may associate personal information with a cookie file in those instances.</p><p class="heading">
-                    <b>LINKS TO OTHER SITES</b></p><p>
-                    The policies of HRPL’s website may vary from other McDonald’s sites operated by
-                    other McDonald’s entities, however because of local customs, practices or laws or
-                    due to circumstances unique to those sites. In all cases, however, we will honour
-                    the commitments to our customers set forth in this policy regarding the collection
-                    and use of personal information.</p><p class="heading">
-                    <b>CHANGES TO OUR PRIVACY POLICY</b></p><p>
-                    This Privacy Policy is effective as of 1st to change Policy. If we change our Policy,
-                    we will post the revised version here, so we suggest that you check here periodically
-                    for the most up-to-date version of our Policy. Your continued use of the sites will
-                    be deemed acceptance of the Policy. Rest assured, however, that any changes will
-                    not be retroactively applied and will not alter how we handle previously collected
-                    information. June, 2014. From time to time, it may be necessary for HRPL</p><p class="heading">
-                    <b>HOW TO CONTACT US</b></p><p>
-                    If you have any questions about HRPL’s Internet Privacy Policy, please contact us
-                    at:</p><br><p>
-                    Hardcastle Restaurants Private Limited</p><p>
+                    <b>ACCESS</b>
+                </p><p>
+                    You are in control of any personal information you provide us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.
+                </p><p class="heading">
+                    <b>COOKIES</b>
+                </p><p>
+                    “Cookies” are pieces of information that a website transfers to an individual’s hard drive for record keeping purposes. Cookies allow the website to remember important information that will make your use of the sites more convenient. Like most websites, HRPL uses cookies for a variety of purposes in order to improve your on-line experience. e.g., we track the total number of visitors to our website on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the sites, to keep track of the items/pages you view on our website to help us customize your experience.
+                </p><br><p>
+                    We may associate personal information with a cookie file in those instances.
+                </p><p class="heading">
+                    <b>LINKS TO OTHER SITES</b>
+                </p><p>
+                    The policies of HRPL’s website may vary from other McDonald’s sites operated by other McDonald’s entities, however because of local customs, practices or laws or due to circumstances unique to those sites. In all cases, however, we will honour the commitments to our customers set forth in this policy regarding the collection and use of personal information.
+                </p><p class="heading">
+                    <b>CHANGES TO OUR PRIVACY POLICY</b>
+                </p><p>
+                    If we change our Policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Policy. Your continued use of the sites will be deemed acceptance of the Policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. 
+                </p><p class="heading">
+                    <b>HOW TO CONTACT US</b>
+                </p><p>
+                    If you have any questions about HRPL’s Internet Privacy Policy, please contact us at:
+                </p><br><p>
+                    Hardcastle Restaurants Private Limited
+                </p><p>
                     1001 - 1002, Tower - 3, 10th floor,<br>
                     Indiabulls Finance Centre,<br>
                     Senapati Bapat Marg,<br>
                     Elphinstone Road, Mumbai - 400013<br>
                     T: 022 - 49135000; F: 022 – 49135001<br>
                     Email: <a href="http://www.mcdonaldsindia.com/myfeedback@mcdonaldsindia.com">myfeedback@mcdonaldsindia.com</a>
-                </p></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 900px;"><div class="jspDrag" style="height: 374px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></div>
+                </p></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 900px;"><div class="jspDrag" style="height: 362px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></div>
         </div>
     </div>
 
             </div>
             
-            <div class="clsLightboxContainerRegister" style="position: absolute; top: 10%; left: 678px;">
+            <div class="clsLightboxContainerRegister" style="position: absolute; top: 10%; left: 653.5px;">
                 <div class="clsBody lightBox03">
                     <div class="clsCloseSign clsCloseBtnRegister">
                         <a href="#">
@@ -1931,7 +1941,7 @@
                     </div>
                 </div>
             </div>
-            <div class="clsLightboxEnterPassword" style="position: absolute; top: 10%; left: 678px;">
+            <div class="clsLightboxEnterPassword" style="position: absolute; top: 10%; left: 653.5px;">
                 <div class="clsBody lightBox02 divEnterPwd">
                     <div class="clsCloseSign clsCloseBtnEnterPwd">
                         <a href="#">
@@ -2003,7 +2013,7 @@
                     </div>
                 </div>
             </div>
-            <div class="clsLightboxForgotPassword" style="position: absolute; top: 10%; left: 678px;">
+            <div class="clsLightboxForgotPassword" style="position: absolute; top: 10%; left: 653.5px;">
                 <div class="clsBody lightBox03">
                     <div class="clsCloseSign clsCloseBtnForgotPwd">
                         <a href="#">
@@ -2027,7 +2037,7 @@
                     </div>
                 </div>
             </div>
-            <div class="clsLightboxFBEnterPassword" style="position: absolute; top: 10%; left: 678px;">
+            <div class="clsLightboxFBEnterPassword" style="position: absolute; top: 10%; left: 653.5px;">
                 <div class="clsBody lightBox02 divEnterPwd">
                     <div class="clsCloseSign clsCloseBtnFBEnterPwd">
                         <a href="#">
@@ -2218,7 +2228,7 @@
                     </div>
                 </div>
             </div>
-               
+            
             <div class="backdrop3">
             </div>
             <div class="box3">
@@ -2255,7 +2265,17 @@
             
             
             
-        </div>
+            
+                        
+                        
+                        
+                    
+                    
+                    
+                        
+                    
+            
+        
         <div class="rightSide">
             <div class="top">
                 <div class="topSocldiv">
@@ -2349,31 +2369,31 @@
                                     <span>
                                         <img src="/images/facebkIcon.png" alt="">
                                         <img src="/images/googlePlusIcon.png" alt="">
-                                        </span>
-                                        </a>
- </div>
+                                    </span>
+                                </a>
+                            </div>
                             <div class="collapse loginPanel" style="display: none;">
                                 <div class="accCntnt">
                                     <div class="firstDiv">
-                                     <div id="Panel1">
+                                        <div id="Panel1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnSubmit')">
 	
-                                        <div class="row1">
-                                            <input name="ctl00$txtMobileNumber" type="text" value="Mobile Number" id="txtMobileNumber" title="Mobile Number" class="OnlyNumeric water input1" autocomplete="off">
-                                            <input name="ctl00$txtMsgPwd" type="text" value="Enter Password" id="txtMsgPwd" title="Enter Password" class="input1 marrt" autocomplete="off" style="color: rgb(162, 160, 161);">
-                                            <input name="ctl00$txtPassword" type="password" id="txtPassword" title="Enter Password" class="input1 marrt hide" autocomplete="off" style="color: black; display: none;">
-                                        </div>
-                                        <div class="row2">
-                                            <div class="remB">
-                                                <input id="chkRememberMe" type="checkbox" name="ctl00$chkRememberMe">
-                                                <span id="lblRememberMe">Remember Me</span>
+                                            <div class="row1">
+                                                <input name="ctl00$txtMobileNumber" type="text" value="Mobile Number" id="txtMobileNumber" title="Mobile Number" class="OnlyNumeric water input1" autocomplete="off">
+                                                <input name="ctl00$txtMsgPwd" type="text" value="Enter Password" id="txtMsgPwd" title="Enter Password" class="input1 marrt" autocomplete="off" style="color: rgb(162, 160, 161);">
+                                                <input name="ctl00$txtPassword" type="password" id="txtPassword" title="Enter Password" class="input1 marrt hide" autocomplete="off" style="color: black; display: none;">
                                             </div>
-                                            <div class="div2">
-                                                <a class="subMit1" href="#"><span>
-                                                    <input type="submit" name="ctl00$btnSubmit" value="Submit" id="btnSubmit" class="clsBtnSubmit">
-                                                </span></a>
+                                            <div class="row2">
+                                                <div class="remB">
+                                                    <input id="chkRememberMe" type="checkbox" name="ctl00$chkRememberMe">
+                                                    <span id="lblRememberMe">Remember Me</span>
+                                                </div>
+                                                <div class="div2">
+                                                    <a class="subMit1" href="#"><span>
+                                                        <input type="submit" name="ctl00$btnSubmit" value="Submit" id="btnSubmit" class="clsBtnSubmit">
+                                                    </span></a>
+                                                </div>
                                             </div>
-                                        </div>
-                                         
+                                        
 </div>
                                         <div class="row3">
                                             <a id="lnkBtnForgotPassword" class="clsForgotPwd" href="javascript:__doPostBack('ctl00$lnkBtnForgotPassword','')">Forgot Password</a>
@@ -2384,7 +2404,6 @@
                                                 or
                                                 <span id="lblLoginWith">Login With</span>
                                             </div>
-                                          
                                             
                                             
                                             
@@ -2393,15 +2412,13 @@
                                             
                                             
                                         </div>
- <div class="row4" style="clear:both">
-                                         <a href="#" class="faceBk fbicon FBbtns" onclick="FBLogin()"></a>
+                                        <div class="row4" style="clear: both">
+                                            <a href="#" class="faceBk fbicon FBbtns" onclick="FBLogin()"></a>
                                             <input type="BUTTON" onclick="FBLogout()" value="logout" style="display: none;">
-                                                
-                                        <div id="gConnect">
-                                                <button class="g-signin" data-scope="https://www.googleapis.com/auth/plus.login  https://www.googleapis.com/auth/userinfo.email " data-requestvisibleactions="http://schemas.google.com/AddActivity" data-clientid="126194130444-3gt2g6fc4s86tn815gqj67q9js7kqahm.apps.googleusercontent.com" data-accesstype="offline" data-callback="onSignInCallback" data-theme="dark" data-cookiepolicy="single_host_origin">
+                                            <div id="gConnect">
+                                                <button class="g-signin" data-scope="https://www.googleapis.com/auth/plus.login  https://www.googleapis.com/auth/userinfo.email " data-requestvisibleactions="http://schemas.google.com/AddActivity" data-clientid="269916134232-7fkotugkt1bsfa2e40irpt1mei3fv6gc.apps.googleusercontent.com" data-accesstype="offline" data-callback="onSignInCallback" data-theme="dark" data-cookiepolicy="single_host_origin">
                                                 </button>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                     <div class="row5">
@@ -2421,11 +2438,11 @@
                                 <div class="accCntnt">
                                     <div id="menuContainer" class="secdDiv">
                                         
-                                    <ul><li><a href="javascript:__doPostBack('ctl00$ctl10','')">Value Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl12','')">Classic With Twist</a></li><li><a href="javascript:__doPostBack('ctl00$ctl14','')">Burgers &amp; Wraps</a></li><li><a href="javascript:__doPostBack('ctl00$ctl16','')">McNuggets</a></li><li><a href="javascript:__doPostBack('ctl00$ctl18','')">Happy Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl20','')">Royale Burgers</a></li><li><a href="javascript:__doPostBack('ctl00$ctl22','')">Sides</a></li><li><a href="javascript:__doPostBack('ctl00$ctl24','')">Pizza McPuff</a></li><li><a href="javascript:__doPostBack('ctl00$ctl26','')">Drinks</a></li><li><a href="javascript:__doPostBack('ctl00$ctl28','')">Desserts</a></li><li><a href="javascript:__doPostBack('ctl00$ctl30','')">McCafe</a></li></ul></div>
+                                    <ul><li><a href="javascript:__doPostBack('ctl00$ctl13','')">What's New</a></li><li><a href="javascript:__doPostBack('ctl00$ctl15','')">Value Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl17','')">McCafe</a></li><li><a href="javascript:__doPostBack('ctl00$ctl19','')">Sharing Packs</a></li><li><a href="javascript:__doPostBack('ctl00$ctl21','')">Burgers &amp; Wraps</a></li><li><a href="javascript:__doPostBack('ctl00$ctl23','')">McNuggets</a></li><li><a href="javascript:__doPostBack('ctl00$ctl25','')">Happy Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl27','')">Sides</a></li><li><a href="javascript:__doPostBack('ctl00$ctl29','')">Drinks</a></li><li><a href="javascript:__doPostBack('ctl00$ctl31','')">Desserts</a></li><li><a href="javascript:__doPostBack('ctl00$ctl33','')">Family Meal</a></li></ul></div>
                                 </div>
                             </div>
-                              <!-----------------For UserBase Promotion---------------------------------------------->
-                             
+                            <!--by sachin start-->
+                            
                             <div class="collapse" style="display: none;">
                                 <div class="accCntnt">
                                     <div id="UserPromo" class="MenuUserPromo">
@@ -2447,7 +2464,7 @@
                                     </div>
                                 </div>
                             </div>
-                              <!--------------------------------------------------------------->
+                            <!--------------------------------------------------------------->
                             <div id="div2" class="expand exploreUserbase" style="margin-top: 6px;">
                                 <div>
                                     <a id="lnkChkPromo" class="OfferLink" href="javascript:__doPostBack('ctl00$lnkChkPromo','')">Check Offer Details</a>
@@ -2458,11 +2475,10 @@
                                     <div style="padding: 9px 0px 5px 0px;">
                                         <input name="ctl00$txt_PromoCode" type="text" value="Enter promo code to get details" id="txt_PromoCode" title="Enter promo code to get details" class="txt_PromoCode" autocomplete="off">
                                         <span id="btn_CheckPromo" class="btn_CheckPromo">GO</span>
-                                         
                                     </div>
                                 </div>
                             </div>
-                              <!--------------------------------------------------------------->
+                            <!--by sachin End-->
                             <div class="hgt6" style="display: none;">
                             </div>
                             <div class="expand" style="display: none;">
@@ -2506,29 +2522,45 @@
                         </div>
                     </div>
                 </div>
+                <div class="partOrdr">
+                    Party Order
+                </div>
+            
+                     
+                        
+                  
+               
                 
-                 <div class="dnloadApp">
-          	     <div class="downloadAppBg">
-            	<div class="appIcons"> 
-                <a href="#" class="window lightbox1"><img src="../images/windowsIcon.png" width="28" height="26"></a>
-                <a href="#" class="blackB lightbox2"><img src="../images/blackberryIcon.png" width="29" height="20"></a>
-                <a href="#" class="android lightbox"><img src="../images/androidIcon.png" width="23" height="26"></a>
-                <a href="#" class="IOSapp lightbox3"><img src="../images/appleIcon.png" width="19" height="25"></a></div>
-            </div>
-          </div>
-          <div class="BulkOrdr"> </div>
+                <div class="dnloadApp">
+                    <div class="downloadAppBg">
+                        <div class="appIcons">
+                            <a href="#" class="window lightbox1">
+                                <img src="../images/windowsIcon.png" width="28" height="26"></a> <a href="#" class="blackB lightbox2">
+                                    <img src="../images/blackberryIcon.png" width="29" height="20"></a> <a href="#" class="android lightbox">
+                                        <img src="../images/androidIcon.png" width="23" height="26"></a> <a href="#" class="IOSapp lightbox3">
+                                            <img src="../images/appleIcon.png" width="19" height="25"></a></div>
+                    </div>
+                </div>
                 <div class="storeTrack">
                     <div class="storeLocator" title="Store Locator">
                         <a id="lnkBtnStoreLocator" title="Store Locator" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkBtnStoreLocator", "", false, "", "/StoreLocator", false, true))'>Store Locator</a></div>
                     <div class="trackOrder" title="Track Order">
                         <a id="lnkBtnTrackOrder" title="Track Order" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkBtnTrackOrder", "", false, "", "/TrackOrder", false, true))'>Track your Order</a></div>
                 </div>
-                <div class="storeTrack" style="height: 250px;display:none;">
-                    <img id="imgBnnr" src="http://www.mcdelivery.co.in/Images/banner_Temp1.jpg" width="254px" height="244px">
+                <div class="BulkOrdr">
+                </div>
+                <div class="dnloadApp bdaylink" style="background: url('../images/accordBg.jpg') repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+                    float: left; font: bold 15px/55px Arial, Helvetica, sans-serif; width: 250px;
+                    color: #818180; text-transform: uppercase;display:none">
+                    <a href="../BirthdayPartyStoreSelection.aspx" id="BirthdayParty" class="BirthdayParty" style="color: #818180;">BIRTHDAY PARTY</a>
+                    <span id="Label1"></span>
+                </div>
+                <div class="storeTrack" style="height:250px;display:none">
+                    <img id="imgBnnr" src="http://www.mcdelivery.co.in/Images/banner_Temp1.jpg" width="254px" height="244px" style="display:none">
                 </div>
                  <div class="Banner" style="margin-left: 28px;">
                     <img src="../images/Banner_sof15.jpg" alt="Free French Fries on Rs.150" style="height: 300px;"></div>
-                <div class="bottmDv" style="position: absolute; y: 700px; bottom: 0px;">
+                <div class="bottmDv" style="position: fixed; y: 700px; bottom: 0px;">
                     <div class="callUs">
                         <div class="cllus">
                             Call Us
@@ -2587,7 +2619,7 @@
                                  Mobile number
                             </td>
                             <td>
-                                <input name="ctl00$FbktxtMobile" type="text" maxlength="15" id="FbktxtMobile" class="FbktxtMobile input1">
+                                <input name="ctl00$FbktxtMobile" type="text" maxlength="15" id="FbktxtMobile" class="FbktxtMobile input1" style="width:187px;">
                             </td>
                             <td class="tderror">
                                 <span class="error"></span>
@@ -2613,6 +2645,7 @@
                                 <a href="#" class="subMit1"><span>
                                     <input type="submit" name="ctl00$btnFeedbackSubmit" value="Submit" id="btnFeedbackSubmit" class="feedbacksubmit clsBtnSubmit">
                                 </span></a>
+                                <img src="../Images/ajax-loader.gif" style="display:none; margin-top: -14px;" class="loaderimg" alt="Please Wait">
                                 <span id="fbksucessmsg" class="fbksucessmsg">Thank you for your valuable feedback</span>
                             </td>
                         </tr>
@@ -2623,34 +2656,34 @@
         <div class="clear">
         </div>
     </div>
-    <div class="footer">
-        <div class="mainFooter">
-            <div class="flogo">
-                <span>
-                    <img src="../images/flogo.png" alt=""></span>
-                <p>
-                    <!-- Visit:-->
-                    <a href="http://www.mcDonaldsIndia.com" class="newwindow" target="_blank">www.mcdonaldsindia.com</a></p>
-                <p class="copyWrt">
-                    © 2013 McDonald's Corporation. All Rights Reserved.
-                </p>
-                <p class="flinks">
-                    <a class="lnktermsconditions" href="#">
-                        Terms of Use</a> <a href="#" style="display: none">
-                                Disclaimer</a> <a href="/ContactUs" style="display: none">
-                                        Contact Us</a></p>
-                <p class="flinks">
-                    <a href="/PrivacyPolicy">
-                        PrivacyPolicy</a>
-                </p>
-                <div class="siteCrdt">
-                    Design and Developed by
-                    <a href="http://www.idealake.com" class="newwindow" target="_blank">
-                        <img src="../images/idealake.png" alt="idealake">Idealake 21</a></div>
+        <div class="footer">
+            <div class="mainFooter">
+                <div class="flogo">
+                    <span>
+                        <img src="../images/flogo.png" alt=""></span>
+                    <p>
+                        <!-- Visit:-->
+                        <a href="http://www.mcDonaldsIndia.com" class="newwindow" target="_blank">www.mcdonaldsindia.com</a></p>
+                    <p class="copyWrt">
+                        © 2013 McDonald's Corporation. All Rights Reserved.
+                    </p>
+                    <p class="flinks">
+                        <a class="lnktermsconditions" href="#">
+                            Terms of Use</a> <a href="#" style="display: none">
+                                    Disclaimer</a> <a href="/ContactUs" style="display: none">
+                                            Contact Us</a></p>
+                    <p class="flinks">
+                        <a href="/PrivacyPolicy">
+                            PrivacyPolicy</a>
+                    </p>
+                    <div class="siteCrdt">
+                        Design and Developed by
+                        <a href="http://www.idealake.com" class="newwindow" target="_blank">
+                            <img src="../images/idealake.png" alt="idealake">Idealake</a></div>
+                </div>
             </div>
         </div>
-    </div>
-    </form>
+    
     <!-- Google Code for Remarketing tag -->
     <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
     <script type="text/javascript">
@@ -2668,9 +2701,9 @@ var google_remarketing_only = true;
             <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000857609/?value=0&amp;label=sWe8COfoqgQQicCf3QM&amp;guid=ON&amp;script=0" />
         </div>
     </noscript>
-     <script type="text/javascript">
-     
-      (function () {
+    <script type="text/javascript">
+
+        (function () {
             var po = document.createElement('script');
             po.type = 'text/javascript'; po.async = true;
             po.src = 'https://plus.google.com/js/client:plusone.js';
@@ -2678,6 +2711,42 @@ var google_remarketing_only = true;
             s.parentNode.insertBefore(po, s);
         })();
     </script>
+    <script src="//d17m68fovwmgxj.cloudfront.net/js/appier-track-v1.7.js"></script>
+
+<script>
+    if (typeof window.APPIER_RETARGET == 'undefined') {
+        (function (w, d, s, m) {
+            var f = d.getElementsByTagName('script')[0],
+                        j = d.createElement('script'),
+                        ns = 'APPIER_RETARGET';
+            w._appierSendQueue = w._appierSendQueue || [];
+            w['appierRetargetJson'] = { id: s, site: m };
+            j.async = true;
+            j.src = '//d17m68fovwmgxj.cloudfront.net/js/rt/track.js';
+            f.parentNode.insertBefore(j, f);
+            !w[ns] && (w[ns] = {});
+            (!w[ns].send) && (w[ns].send = function (j) {
+                w._appierSendQueue.push(j);
+            });
+        })(window, document, 'k91L', 'mcdelivery.co.in');
+    }
+    Appier.appierPVTrack('WA942Lxib6P0pSd', 0, 'false', 'N87nF7u2L7R5npP');
+</script>
+    <script type="text/javascript">
+        /*
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-35867573-1']);
+        _gaq.push(['_setDomainName', 'mcdelivery.co.in']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        */
+    </script>
+    <script src="../Scripts/CleverTap.js?a=4" type="text/javascript"></script>
 
 
-<div class="overlay" style="display: none;"></div><div class="Overlayloading loading" style="display: none;"></div><div class="loader loading" style="top: 2668px; left: 658px; display: none;"></div><div class="BackgroundLayer"></div></body></html>
+</div></form><div class="overlay" style="display: none;"></div><div class="Overlayloading loading" style="display: none;"></div><div class="loader loading" style="top: 2431px; left: 658px; display: none;"></div><div class="BackgroundLayer"></div></body></html>
