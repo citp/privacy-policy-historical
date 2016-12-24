@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smergers.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409073533id_/https%3A//www.smergers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smergers.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224081551id_/https%3A//www.smergers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SMERGERS
 
