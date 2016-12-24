@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404003556id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224084931id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Disney India
 
@@ -114,7 +114,7 @@ We provide you the ability to exercise certain controls and choices regarding ou
 * You may change your choices for subscriptions, newsletters and alerts
 * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
 * You may choose whether we share your _personal information_ with other companies so they can send you offers and promotions about their products and services
-* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://www.youronlinechoices.com)
+* You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers
 * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
 You may exercise your controls and choices, or request access to your personal information, by contacting 
@@ -198,7 +198,9 @@ CA Privacy Rights
 Disney Interactive Media Group   
 500 South Buena Vista Street  
 Mail Code 7667  
-Burbank, CA 91521-7667  In your request, please specify the member of The Walt Disney Family of companies to which your request pertains. If no member is specified, we will treat your request as pertaining to Disney Online. 
+Burbank, CA 91521-7667 
+
+In your request, please specify the member of The Walt Disney Family of companies to which your request pertains. If no member is specified, we will treat your request as pertaining to Disney Online. 
 
 **Definitions**
 
@@ -224,21 +226,12 @@ The data controller is the subsidiary or affiliated entity of The Walt Disney Co
 
 Sites and Applications | Company | Contact Information  
 ---|---|---  
-www.utvgroup.com | UTV Software Communication Limited | 1181-82, 8th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093  
-bindass.com | GenX Entertainment Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
-utvstars.com | UTV Entertainment Television Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
-utvaction.in | GenX Entertainment Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
-utvworldmovies.com | UTV Entertainment Television Limited | 7th Floor, Building No. 11, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E ), Mumbai- 400093  
-www.disney.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
-www.disneyxd.in | The Walt Disney Company (India) Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
-www.hungamatv.com | United Home Entertainment Private Limited | 4th Floor, Peninsula Tower No. 1, Peninsula Corporate Park, G.K. Marg, Lower Parel, Mumbai- 400013.  
-indiagames.in | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-mobile.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-god.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-t20fever.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-game.raonemovie.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
-www.clubpenguin.com | Disney Online Inc. | 500 Buena Vista Street, Burbank CA 91521  
-www.indiagames.com | Indiagames Limited | 11th Floor, Vishwaroop IT Park, Sector 30A, Opp. Vashi Railway Station, Navi Mumbai 400705  
+[ www.utvgroup.com](http://www.utvgroup.com/) | UTV Software Communication Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093.  
+[bindass.com](http://www.bindass.com/) | GenX Entertainment Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093.  
+[utvaction.in](http://www.utvaction.in/) | GenX Entertainment Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093.  
+[www.disney.in](http://www.disney.in/) | Disney Broadcasting (India) Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093  
+[www.disneyxd.in](http://www.disneyxd.in/) | Disney Broadcasting (India) Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093.  
+[www.hungamatv.com](http://www.hungamatv.com/) | United Home Entertainment Private Limited | First Floor, Building No. 14, Solitaire Corporate Park, Guru Hargovindji Marg, Chakala, Andheri (E), Mumbai- 400093.  
 _Data Processor._
 
 A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s). 
@@ -313,10 +306,10 @@ India:
 
 Guest Services
 
-The Walt Disney Company (India) Private Limited  
-4th Floor, Peninsula Tower No. 1,   
-Peninsula Corporate Park, G.K. Marg,   
-Lower Parel, Mumbai- 400013, India
+Disney Broadcasting (India) Limited  
+First Floor, Building No. 14, Solitaire Corporate Park,   
+Guru Hargovindji Marg, Chakala, Andheri (E),   
+Mumbai- 400093, India
 
   
 
@@ -330,16 +323,6 @@ Disney Interactive Media Group
 Mail Code 7667  
 Burbank, CA 91521-7667  
 United States of America
-
-Disney Interactive Media Group is a licensee of the TRUSTe Privacy Program in the United States. If you believe that Disney Interactive Media Group has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe 
-
-[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=http://watchdog.truste.com/pvr.php?page=complaint)
-
-or the United States Federal Trade Commission through its online consumer complaint form available 
-
-[_here_](http://www.disney.in/DisneyOnline/j/redirect.jsp?redirectURL=https://www.ftccomplaintassistant.gov/)
-
-.
 
  **Communication Choices**
 
@@ -367,13 +350,9 @@ Following our receipt of your request to cease using your personal information f
 
 **4\. Choices for Subscriptions, Newsletters and Alerts**
 
-In addition to the general marketing choices managed above, you may choose to subscribe or unsubscribe to a number of communications covering a variety of topics. Please click on the links below to learn about many of these communications and set your choices. 
+In addition to the general marketing choices managed above, you may choose to subscribe or unsubscribe to a number of communications covering a variety of topics. Please click on the links below to learn about many of these communications and set your choices.
 
-_Click here_
-
-to subscribe to GoD packs 
-
-_Click here_
+ _Click here_
 
 to unsubscribe newsletters 
 
