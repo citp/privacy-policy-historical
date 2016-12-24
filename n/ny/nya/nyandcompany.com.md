@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529231314id_/http%3A//www.nyandcompany.com/nyco/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224121521id_/http%3A//www.nyandcompany.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New York & Company
 
@@ -61,7 +61,7 @@ If you would like to exercise your rights under California law, please send your
 
 **Postal Address:**  
 New York & Company   
-450 West 33rd Street  
+330 West 34th Street  
 New York, NY 10001  
 Att: Customer Service
 
