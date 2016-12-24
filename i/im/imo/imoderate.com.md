@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515002225id_/http%3A//www.imoderate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224042042id_/http%3A//www.imoderate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iModerate
+# Privacy Policy - iModerate Qualitative Research Company
 
 This Privacy Policy governs the manner in which iModerate collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://imoderate.com](http://imoderate.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iModerate.
 
@@ -66,6 +66,4 @@ info@imoderate.com
 
 This document was last updated on June 10, 2014
 
-## Ready to Get Consumer Fluent? Let’s Talk  (303) 333-7880
-
-©2014 iModerate. All rights reserved.
+©2016 iModerate. All rights reserved.
