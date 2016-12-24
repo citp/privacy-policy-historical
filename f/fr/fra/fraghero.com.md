@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fraghero.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140840id_/http%3A//fraghero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraghero.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225003834id_/http%3A//fraghero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 
 In addition to reviewing this Privacy Policy, please read our [TERMS OF USE](http://fraghero.com/terms-of-use/). Your use of the Website constitutes agreement to its terms and conditions as well.
 
-  1.  **TYPES OF INFORMATION WE COLLECT AND HOW WE USE YOUR INFORMATION**
+  1. **TYPES OF INFORMATION WE COLLECT AND HOW WE USE YOUR INFORMATION**
 
 
 
@@ -48,7 +48,7 @@ While your personally identifying information is protected as outlined above, we
 
 As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Fraghero, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website and the Website users may be among the transferred assets.
 
- **II.THIRD PARTY ADVERTISING & COOKIES**
+**II.THIRD PARTY ADVERTISING & COOKIES**
 
 The ads appearing on our Website are delivered to you by a number of affiliates and Third-Parites, including, but not limited to: Indieclick/3Jane, Google/Doubleclick, Tribal Fusion, and Tailsweep. These and other companies set cookies on your computer to gather information about your visit to our site and other sites. These cookies contain among other data the number of times you have viewed an ad, but do not contain your username, date of birth, or any other personal information.
 
@@ -60,10 +60,10 @@ If you do not want the benefits of these advertising cookies or receiving focuse
 
 If you don’t want any cookies, your Web browser likely has an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our Website may not function properly.
 
- **III. INFORMATION SECURITY AND NOTIFICATION**  
+**III. INFORMATION SECURITY AND NOTIFICATION**  
 Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, we can not guarantee the security of the information you send to us or the security of our servers or databases.Â By using our Website, you agree to assume all risk in connection with the information sent to us or collected by us when you use our Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail, provided we have your e-mail address, or by public disclosure on this page and elsewhere on our Website, or both.
 
-  13.  **ACCESS BY CHILDREN**  
+  13. **ACCESS BY CHILDREN**  
 This Website is not intended for use by children under the age of 18, and especially those under age 13. No one under age 18 is allowed to provide any personal information, register for accounts, or use our public discussion areas, forums and chats.Â Â Parents, if your children disclose information about themselves in publicly accessible areas of the Website or create accounts to message other members, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you’re worried about your children’s activities or their privacy on our site.
 
 
