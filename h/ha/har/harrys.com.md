@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414024504id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224235447id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Harry's - Great Shave. Fair Price. Simple.
+# Privacy Policy
 
 This Privacy Policy describes the policies and procedures of Harry's, Inc. d/b/a Harry’s (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.harrys.com (the “Site”) and the services, features, content, applications, and products we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
