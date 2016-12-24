@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611181026id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbasket.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224173246id_/https%3A//sunbasket.com/privacy) for the most accurate reproduction.*
 
-# SunBasket: Privacy Policy
+# Sun Basket: Privacy Policy
+
+## Privacy Policy
 
 Last Updated on August 18, 2014
 
