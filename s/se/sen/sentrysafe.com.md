@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610030137id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224072604id_/http%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
@@ -22,7 +22,7 @@ This Policy describes how we treat personal information on the websites where it
 
 **We collect information directly from you.** If you register on our site or sign up for our emails we collect information from you. We also collect information if you contact us or enter a promotion.
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We may also use tracking pixels. We collect information about users over time when you use this website. We might also collect information from our mobile apps like device identifiers. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](https://web.archive.org/about-our-ads).
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We may also use tracking pixels. We collect information about users over time when you use this website. We might also collect information from our mobile apps like device identifiers. We may have third parties collect personal information this way. [Learn more about these tools and how you can control them](https://web.archive.org/about-our-ads).
 
 **We get information about you from third parties.** Our business partners may give us information about you. Social media platforms may also give us information about you.
 
@@ -38,7 +38,7 @@ This Policy describes how we treat personal information on the websites where it
 
 **We use information for marketing purposes.** We might provide you with information about new products and special offers. We might also use your information to serve you ads about our products and services. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. To learn about your choices for these communications, read the "choices" section below.
 
-**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms. We may also use push notifications on our mobile apps. We may send you push notifications to request permission to turn on your device's Bluetooth function, or for other reasons as we may notify you from time to time.
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms. We may also use push notifications on our mobile apps. We may send you push notifications to request permission to turn on your device's Bluetooth® function, or for other reasons as we may notify you from time to time.
 
 **We use information as otherwise permitted by law or as we may notify you.**
 
@@ -60,7 +60,7 @@ This Policy describes how we treat personal information on the websites where it
 
 **You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. You may also adjust your settings in one of our Preference Centers on certain of our sites. If you object to our use of your information for direct marketing purposes, please email us at [masterlock@mlock.com](mailto:masterlock@mlock.com). Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.
 
-**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and to read our **Do Not Track** policy, please click [here](https://web.archive.org/about-our-ads).
+**You can control cookies and tracking tools.** To learn how to manage how we and our vendors use cookies and other tracking tools, and to [read our **Do Not Track** policy](https://web.archive.org/about-our-ads).
 
 **You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.
 
@@ -70,7 +70,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
 ### These sites and apps are not intended for children.
 
-Our sites where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [masterlock@mlock.com](mailto:masterlock@mlock.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+Our sites where this policy is found are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [masterlock@mlock.com](mailto:masterlock@mlock.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, you can [learn more about how to protect children's privacy on-line](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 ### We use standard security measures.
 
@@ -88,14 +88,9 @@ If you click on a link to a third party site, you will be taken to a website we 
 
 If you have any questions about this Policy, please email us at [masterlock@mlock.com](mailto:masterlock@mlock.com).
 
-You can also write to us or call at:  
-Master Lock Company LLC  
-World Headquarters  
-Attn: Customer Care  
-137 W. Forest Hill Avenue  
-Oak Creek, WI 53154  
-Phone: 1-800-464-2088  
+You can also write to us or call at: Master Lock Company LLC World Headquarters Attn: Customer Care
 
+137 W. Forest Hill Avenue Oak Creek, WI 53154 Phone: 1-800-464-2088
 
 ### We may update this Policy.
 
