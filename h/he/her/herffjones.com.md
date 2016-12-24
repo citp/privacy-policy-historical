@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152256id_/https%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224083857id_/https%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Herff Jones
 
 ###### **Safeguarding Our Members’ Privacy**
 
-Your privacy is very important to Herff Jones, Inc. This Privacy Policy spells out our commitment to respecting the privacy of herffjones.com users.  It applies to the HerffJones.com website, content and other related websites where this policy appears in the footer of the page. Herffjones.com reserves the right to change this policy, and we will notify you of any changes.
+Your privacy is very important to Herff Jones, LLC. This Privacy Policy spells out our commitment to respecting the privacy of herffjones.com users.  It applies to the HerffJones.com website, content and other related websites where this policy appears in the footer of the page. Herffjones.com reserves the right to change this policy, and we will notify you of any changes.
 
 ###### **Collection of Information**
 
