@@ -1,188 +1,296 @@
-> *The following text is extracted and transformed from the graziashop.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621095027id_/http%3A//www.graziashop.com/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graziashop.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224083829id_/http%3A//www.graziashop.com/privacy-policy-and-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Graziashop.com
 
-Mondadori UK Limited is a company within the Mondadori Group , which is controlled by Arnoldo Mondadori Editore SPA, a leading book and magazine publisher in Italy. Mondadori International Business S.r.l owns the Grazia trademark and operates this website through its subsidiary company, Mondadori UK Limited.
+### **PRIVACY POLICY**
 
-This Privacy Policy describes how we, Mondadori UK Limited and its group companies  (collectively “MB” and “we”), handle the personal information you provide to us and what we learn about you from your visit to our website, [www.graziashop.com](http://www.graziashop.com/) (the “Website”). MB recognises the importance of your privacy, and we commit to only use your personal information in accordance with the Data Protection Act 1998 and all applicable laws.
+Effective Date: This Privacy Policy was last revised on July 15th, 2016.
 
-By using this Website and registering with us you are agreeing to the terms of this Privacy Policy, our Terms and Conditions, and our use of your data as described below. If you have any queries regarding this Privacy Policy or complaints about our use of your information please contact us at **[hello@graziashop.com](mailto:hello@graziashop.com)** / **+44 (0) 203 754 4040** and we will do our best to deal with your complaint or query as soon as possible. If you do not agree, please cease using the Website.
+### **Introduction**
 
-## Information which we obtain about you
+Welcome!  You have arrived at a web site that is provided by Venditan Limited. (“ **Venditan** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of www.graziashop.com (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
 
-You do not have to register with us to enjoy using our Website. However, you will need to register if you would like to order any of our products from the Website. If you wish to register with us at [www.graziashop.com](http://www.graziashop.com/) (“Users”), we will ask you to supply us with personal information. The type of personal information we collect includes: your first and last names, your address, your email address, your phone number and, if you are using Fashion Stories our user generated content platform (the “ **UGC Platform** ”), we will also collect your chosen username and your gender (“ **Personal Information** ”).
+**To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use.**
 
-We do not gather any information about our Users, without their knowledge and consent, other than the information set out in this Policy. The Personal Information you give us will be handled by MB in strict confidence and in accordance with UK privacy laws. Your Personal Information is collected so that we can make our website services available to you. 
+In addition, please review the Site’s  **Terms and Conditions of Service**  which governs your use of the Site.   _By using our Site_ , _  you consent to our Privacy Policy and Terms and Conditions of Service and our collection, use and sharing of your information and data, and other activities, as described below._
 
-## How we use your Personal Information
+### **Privacy Policy**
 
-We use your Personal Information to:
+**1.  What Information Does the Site Collect?**
 
-  * create an account for you so that you can shop on our Website;
-  * provide the products you have ordered and keep in touch with you regarding your order and delivery;
-  * verify your details and identity for any payments and fraud protection;
-  *  send offers and information to you;
-  * communicate with you generally;
-  * provide and improve our customer service; and
-  * develop our business by taking into account User preferences and purchases.
+**(a)  Information You Provide to Us**
 
+**Personal Information and Demographic Information**.  On the Site, we may ask you to provide certain categories of information such as: (1) personally identifiable information, which is information that identifies you personally, such as your first and last name, email address and phone number (“ **Personal Information** ”); and (2) demographic information, such as information about your gender (“ **Demographic Information** ”).  We may collect this information through various forms and in various places on the Site, including if you register for a newsletter, through “contact us” forms, or when you otherwise interact with the Site.  If we combine Demographic Information with the Personal Information we collect directly from you on the Site, we will treat the combined data as Personal Information under this Privacy Policy.
 
+**(b)  Information We Collect and Store As You Access and Use the Site**
 
-We ask for your phone number in case we need to communicate with you in relation to any order you place. We may also share your phone number with a courier company, in case they need to contact you to deliver your order. 
+In addition to any Personal Information or other information that you choose to submit to us via our Site, we and our third-party service providers may use a variety of technologies that automatically (or passively) collect and store certain information whenever you visit or interact with the Site (“ **Usage Information** ”).  This Usage Information may be stored or accessed using a variety of technologies that may be downloaded to your personal computer, laptop, tablet or mobile phone (a “ **Device** ”) whenever you visit or interact with our Site.  Usage Information may be non‑identifying or may be associated with you.  Whenever we associate Usage Information with your Personal Information, we will treat it as Personal Information.  This Usage Information may include:
 
-If you have opted in to receiving marketing messages from us at the time of registration, we may use the Personal Information you supply us to keep you informed of any activities undertaken by us, or for carefully selected offers and promotions from ourselves or from our network of carefully selected partners, which we believe may be of interest to you. MB publishes a newsletter which you will receive if you have opted to do so. You may unsubscribe from the newsletter at any time, free of charge, by using the link in the newsletter.
+  * your IP address or other unique identifier (“ **Device Identifier** ”).  A Device Identifier is a number that is automatically assigned to your Device used to access the Site, and our computers identify your Device by its Device Identifier;
+  * your Device functionality (including browser, operating system, hardware, mobile network information);
+  * the URL that referred you to our Site;
+  * the areas within our Site that you visit and your activities there, including remembering you and your preferences;
+  * your Device location;
+  * your Device characteristics; and
+  * certain other Device data, including the time of day, among other information.
 
-Our promotions may include sending you email and postal marketing. If you do not wish to receive our marketing messages please notify us by email at the address at the top of this Privacy Policy or by changing your marketing preferences in the ‘Your Account’ section of the Website. At the time of gathering your Personal Information, and each time we send you marketing information, we give you the opportunity to unsubscribe from receiving this type of information from us. You can opt-out or unsubscribe at any time. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services.
 
-From time to time MB may offer you the chance to invite a family member or friend to enjoy a particular offer. In these circumstances we will collect Personal Information for both you and your friend or family member. We will request your consent to mention your name when we contact the friend or family member you have recommended, but we will only use this information once and we will not save it in our database, unless your friend or family member has entered a competition, for example, when the information will be stored purely for that purpose. If your friend or family member decides to take up any of our invitations, then their Personal Information will be treated in exactly the same way as your own, under the terms of this Privacy Policy. Please make sure your friend or family member is happy to receive any offer from us before inviting them and check they agree to you passing their contact details on to us.
 
-MB may also collect data about your use of our Website, in an anonymous form, to improve our services. Data collection statements will always be visible when we collect information from you, and you can change your preferences at any time on the ‘Your Account’ section of the Website.
+We may use various developed methods and technologies to collect Usage Information (“ **Tracking Technologies** ”).  Tracking Technologies may set, change, alter or modify settings or configurations on your Device.  A few of the Tracking Technologies include, without limitation, the following (and subsequent technology and methods later developed):
 
-## Personal Information and third parties
+**_Cookies_**.  A cookie is a data file placed on a Device when it is used to visit the Site.  A Flash cookie (or locally shared object) is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device.  HTML5 cookies can be programmed through HTML5 local storage.  Unlike Flash cookies, HTML5 cookies do not require a plug-in.  Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings.  Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard.  Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies.  For information on disabling Flash cookies go to Adobe’s web site [www.adobe.com](http://www.adobe.com/).  Please be aware that if you disable or remove cookies, Flash cookies, or HTML5 cookies on your Device, some parts of our Site may not function properly, and that when you revisit our Site your ability to limit cookies is subject to your browser settings and limitations.
 
-When you use our Website, we need to share your Personal Information with third parties in order to complete your order and give you the best website service. 
+**_Web Beacons_**.  Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our Site’s pages and messages.  Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
-By using our Website, you consent to us sharing your Personal Information with:
+**_Embedded Scripts_**.  An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on.  The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
 
-  * our partner agencies, Amazine (Amazine GmbH, Schwedter Straße 36 a, 10435 Berlin (“Amazine”)) and Docnet (Doctor Net Limited Speakers House, 39 Deansgate Manchester M3 2BA (“Docnet”)); 
-  * our retail partners and those parties with whom we have a commercial relationship and from whom we think you might be interested to receive communications from time to time; 
-  * any third parties who have expressed a clear and credible interest in acquiring some or all of the Graziashop business or the share capital of Mondadori UK Limited;
-  * members of our Grazia network; and
-  *  the service providers and agents to the Grazia network (examples include companies who provide payment processing, identity verification, IT services, website services, customer service, marketing or advertising).
+**_Browser Fingerprinting_**.  Collection and analysis of information from your Device, such as, without limitation, your operating system, plug-ins, system fonts and other data, for purposes of identification.
 
+**_ETag, or entity tag_**.  A feature of the cache in browsers.  It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.  If the resource content at that URL ever changes, a new and different ETag is assigned.  Used in this manner ETags are a form of Device Identifier.  ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash and/or HTML5 cookies.
 
+We may use Tracking Technologies for a variety of purposes, including:
 
-All our partners are required to comply with this Privacy Policy as well as all applicable laws (being the data protection laws of the country where the partner or their service provider or agent is established). 
+**_Strictly Necessary_**.  We may use cookies or other Tracking Technologies that we consider are strictly necessary to allow you to use and access our Site, including cookies required to prevent fraudulent activity, improve security or allow you to make use of Site functionality.
 
-Our partner agencies and retail partners agree that:
+**_Performance‑Related_**.  We may use cookies or other Tracking Technologies that are useful in order to assess the performance of the Site, including as part of our analytic practices or otherwise to improve the content, products or services offered through the Site.
 
-**(a)**     the security measures are appropriate, under the applicable law, to protect your Personal Information against accidental or unlawful destruction, accidental loss, alteration, unauthorized disclosure or access (in particular where your Personal Information is transferred over a network) and against all other unlawful forms of data use, and that these security measures ensure an appropriate level of security for the risks presented by the nature and use of your Personal Information; 
+**_Functionality‑Related_**.  We may use cookies or other Tracking Technologies that are required to offer you enhanced functionality when accessing the Site, including identifying you when you visit our Site or keeping track of our specified preferences, including in terms of the presentation of content on our Site.
 
-**(b)**     any use of your Personal Information will be carried out with at least the same level of protection for your Personal Information as MB provides; 
+**_Targeting‑Related_**.  We may use Tracking Technologies to deliver content, including ads, relevant to your interests on our Site and third‑party sites based on how you interact with our content and ads.  This includes using Tracking Technologies to understand the usefulness to you of the content and ads that have been delivered to you.  Further information on this, and your opt-out choices, is found in Section 5 below.
 
-**(c)**     they shall promptly notify MB about: (i) any legally binding request for disclosure of your Personal Information by a law enforcement authority unless otherwise prohibited (such as a prohibition under criminal law to preserve the confidentiality of a criminal investigation);  
-(ii) any accidental or unauthorized access to Personal Information; and (iii) any request received directly from you, prior to responding to that request, unless it has been otherwise authorized to do so; and
+There may be other Tracking Technologies now and later devised and used by us in connection with the Site.  Further, third parties may use Tracking Technologies in connection with our Site, which may include the collection of information about your online activities over time and across third-party web sites or online services.  We may not control those Tracking Technologies and we are not responsible for them.  However, you consent to potentially encountering third-party Tracking Technologies in connection with use of our Site and accept that our statements under this Privacy Policy do not apply to the Tracking Technologies or practices of such third parties. 
 
-**(d)**     any User who has suffered direct or indirect damage as a result of any breach of the obligations referred to above is entitled to receive compensation.
+**(c)  Information Third Parties Provide About You**
 
-Except as otherwise stated in this Privacy Policy, we will not pass your Personal Information on to third parties without your consent, unless this is required by law.
+We may receive information about you from our affiliates and others that use the Site, such as when they submit content to us or post on the Site.  Additionally, we may, from time to time, supplement the information we collect directly from you on our Site with outside records from third parties for various purposes, including to enhance our ability to serve you, to determine your location, to tailor our content to you and to offer you opportunities that may be of interest to you.  To the extent we combine information we receive from those sources with Personal Information we collect on the Site, it will be treated as Personal Information and we will apply this Privacy Policy to such combined information, unless we have disclosed otherwise.  In no other circumstances do our promises under this Privacy Policy apply to information we receive about you from third parties.
 
-## Children’s privacy
+**(d)  Interactions with Third Party Sites**
 
-Child safety is important to us. We do not collect personal information from people under the age of 18. If personal information given via our website shows a visitor is a child, we will not allow the child to continue to give personal information and any personal information given will be deleted from our records unless we have obtained the consent of the child’s parent or guardian in writing. Children should always ask a parent before sending personal information to anyone online.  
- 
+The Site may include functionality that allows certain kinds of interactions between the Site and your account on a third-party web site or application.  The use of this functionality may involve the third-party operator providing certain information, including Personal Information, to us.  For example, when you wish to post a comment on one of our blogs, you may have an option to use your Facebook, Google or other account provided by a third-party site or application to facilitate the registration process on the Site, or otherwise link accounts.  If we offer and you choose to use this functionality to access or use our Site, the third-party site or application may send Personal Information about you to us.  If so, we will then treat it as Personal Information under this Privacy Policy, since we are collecting it as a result of your accessing of and interaction on our Site.  In addition, we may provide third-party sites’ interfaces or links on the Site to facilitate your sending a communication from the Site.  For example, we may use third parties to facilitate emails, tweets or Facebook postings.  These third parties may retain any information used or provided in any such communications or other activities and these third parties’ practices are not subject to our Privacy Policy.  Venditan may not control or have access to your communications through these third parties.  Further, when you use third-party sites or services, you are using their services and not our services and they, not we, are responsible for their practices.  You should review the applicable third-party privacy policies before using such third-party tools on our Site.
 
-## Our UGC Platform
+**(e)  Information You Provide About a Third Party**
 
-Our website includes the UGC Platform which allows Users to post content to it. If you chose to use our UGC Platform, your username, first name, background and profile picture will be displayed on the UGC Platform and will be visible to other Users. Any images, stories or comments you post will also be displayed on the UGC Platform and will be visible to other Users. Please remember that if you choose to post on our UGC Platform, the information in your post can be collected and used by third parties and is out of our control. We expect you to abide by the following UGC Platform rules and will monitor it to preserve these fundamental restrictions.
+You may send someone else a communication from the Site, such as sending an invitation to a friend.  If so, the information you provide (names, email addresses, mobile number, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any send-to-a-friend functionality on our Site, your email address, mobile number, name or user name and message may be included in the communication sent to your addressee(s).
 
-  1. Please remain polite and courteous at all times. We reserve the right to remove and suspend any account if content does not follow this requirement.
-  2. Mondadori UK Limited will not tolerate personal attacks, foul language or discriminatory comments based on race, sex, sexual orientation, age, disability or religion/belief. Comments revealing personal information about bloggers or users will also be removed.  
- 
+**(f)  California Do Not Track Disclosures**
 
+Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third-party web sites or online services ( _e.g._ , browser do not track signals).  Currently, we do not monitor or take any action with respect to these signals or other mechanisms.
 
+### **2.  How Do We Use the Information Collected?**
 
-## Security of Personal Information 
+**(a)  Use of Information By Us**
 
-We recognise the need to ensure the Personal Information we gather from you via this Website remains secure. Our Website has security measures in place to protect against the loss, misuse and alteration of the Personal Information under our control. You acknowledge that although we exercise adequate care and security there remains a risk that information transmitted over the internet and stored by computer may be intercepted or accessed by an unauthorised third party.
+We may use your Personal Information, Demographic Information or Usage Information for various purposes, including:
 
-## Cookies
+  * to process transactions or provide you with information such as to send you electronic newsletters or to provide you with special offers or promotional and marketing materials on behalf of us or third parties, including to let you know about new products, services or upcoming events;
+  * to enable you to participate in a variety of the Site’s features such as to enable you to participate in online entry sweepstakes, contests or other promotions;
+  * to improve the Site, marketing endeavours or our Site offerings;
+  * to customize your experience on the Site or to serve you specific content or ads that are relevant to you;
+  * to provide customer support;
+  * to contact you with regard to your use of the Site and, in our discretion, changes to the Site and/or Site’s policies;
+  * to notify you of product recalls or providing other information concerning products you have purchased;
+  * to identify your product and Site preferences so that you can be informed of new or additional products, services and promotions;
+  * to improve merchandise selections and the overall shopping experience at the Site;
+  * for internal business purposes; and
+  * for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
 
-Our website uses cookies. A “cookie” is a file that is sent to your computer by a website and automatically saved on your computer by your web browser (e.g. “Internet Explorer”).  Each time you request a page from a website, your web browser sends this cookie back to the website server.  
 
-We use cookies to:
 
-  * recognise and track which parts of our Website you visit when you are using our Website; and
-  * customise your experience of our Website.
+**(b)  Use of Information for Recruitment Purposes**
 
+Where you have provided us with information as part of an online application for employment or internship, we may use that information in order to allow us to make an informed decision about whether to proceed with your application.  We may, as part of this recruitment process, collect information about your education, employment history and similar matters.  Where this information is considered to be sensitive, you expressly consent to our processing of this information for recruitment purposes by submitting it to us.
 
+### **3.  How and When Do We Disclose Information to Third Parties?**
 
-We may also use the information collected from cookies to estimate our audience size, analyse trends and general usage patterns of our Website, optimise our Website, and for other research and marketing purposes.  We may also share this information with third parties, who may conduct the analysis on our behalf, or with our investors, for example, regarding numbers of visitors and purchases made. This is statistical information and does not identify any individual.
+We may share non-Personal Information, such as aggregated user statistics, with third parties.  Further, we may share your Device Identifiers with third parties along with data related to you and your activities.  We do not share your Personal Information that we have collected directly from you on our Site with third parties for those third parties’ direct marketing purposes unless you have consented (either through an opt-in our opt-out opportunity) at the time you provide your Personal Information.  In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.  Venditan may disclose your information as follows:
 
-In certain circumstances we may also match cookies to Personal Information that you disclose to us or that we already hold.  These circumstances include where you have registered and provided the Personal Information referred to in the “Information which we obtain about you” section above.  We will use this information as set out in the section “What we do with your information” above. MB may also use other cookies, which stay on your computer or mobile media device even after you have gone offline. 
+**(a)  When You Request Information From or Provide Information to Third Parties**
 
-If you wish, you can set your browser to notify you before you receive a cookie so you have the chance to accept it and you can also set your browser to refuse to receive or send all cookies.  The website [www.allaboutcookies.org](http://www.allaboutcookies.org/) (run by the Interactive Marketing Bureau) contains step-by-step guidance on how cookies can be switched off by users. Please be aware that if you do not accept cookies our website may not function correctly, or at all.
+You may be presented with an option on our Site to receive certain information and/or marketing offers directly from third parties or to have us send certain information to third parties or give them access to it.  If you choose to do so, your Personal Information and other information may be disclosed to such third parties and all information you disclose will be subject to the third party privacy policies and practices of such third parties.  In addition, third parties may store, collect or otherwise have access to your information when you interact with their Tracking Technologies, content, tools apps or ads on our Site or link to them from our Site.  This may include using third party tools such as Facebook, Twitter, Pinterest or other third party posting or content sharing tools.  It may also include ordering or purchasing products from third parties through us where we indicate that the third party rather than us is the seller.  We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review such third party privacy policies and practices of such third parties prior to requesting information from or otherwise interacting with them. 
 
-Please note that our advertisers may also use cookies.  These parties may use so-called “third party” cookies so that they can track your response to their adverts and/or identify you on any other website that you visit which also contains their adverts. Please refer to their privacy policies for further details.
+#### **(b)  Third Parties Providing Services on Our Behalf**
 
-By using our Website without disabling cookies you are consenting to our use of cookies as described in this Privacy Policy.
+We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential.  We may provide vendors with access to your information to carry out the services they are performing for you or for us.  Third-party analytics and other service providers may set and access their own technologies on your Device and they may otherwise collect or have access to information about you.  We are not responsible for those third party technologies or activities arising out of them.  However, some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart at the end of this policy.  We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
 
-MB uses different types of cookies on different pages of our Website, these include: 
+#### **(c)  Administrative and Legal Reasons**
 
-“ **Essential Cookies** ”: these cookies are essential to the running of a MB website. They carry out essential functions on Website such as saving your login details for the session or the contents of your shopping basket or a transaction. The Essential Cookies are not stored on your computer and will be deleted when you close your web browser session;
+We may access, use, preserve, transfer and disclose your information (including Device Identifiers and Personal Information) to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Site’s  ** _Terms and Conditions of Service_**  or other policies applicable to the Site, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Site or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use IP address or other Device Identifiers, to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion, subject to applicable law.  Such disclosures may be carried out without notice to you.
 
-“ **MB Marketing Cookies** ”: these cookies are normally supplied by our approved partners or used for adverts delivered from our own marketing systems. They allow us to personalise your experience and show you adverts that you might be more interested in. This tracking system uses anonymous data and, therefore, does not know who you are; and
+**(d)  Affiliates and Business Transfer**
 
-“ **3rd Party Advertising Cookies** ”: many of our websites have advertising. The majority of the advertising is tailored to your use and uses cookies to gather information about the pages you visit and might be interested in. The tracking system uses anonymous data and, therefore, does not know who you are. The cookies simply use the limited information available to it to match adverts to your use. 
+We may share your information, including your Device Identifiers and Personal Information, Demographic Information and Usage Information with our parent, subsidiaries and affiliates.  We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Site or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any due diligence process. 
 
-You can remove or deactivate such cookies using the settings on your computer; however, if you do this you might not be able to use all functions of this Website. If you wish to opt out of third party cookies visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Opting out means that the companies you have opted out from will not deliver advertising tailored to your website usage, but you will still continue to receive online advertising.
+**(e)  Co-branded Areas**
 
-## Payment details
+Certain areas of the Site may be provided to you in association with third parties (“ **Co-Branded Areas** ”) such as our donation partners, and may require you to disclose Personal Information to them.  Such Co-Branded Areas will identify the third party and indicate if they have a privacy policy that applies to their collection and use of you information.  If you elect to register for products and/or services, communicate with such third parties or download their content or applications, at Co-Branded Areas, you may be providing your information to both us and the third party.  Further, if you sign-in to a Co-Branded Area with a username and password obtained on the Site, your Personal Information may be disclosed to the identified third parties for that Co-Branded Area.  We are not responsible for such third party’s data collection or practices and you should look to such third party privacy policies for more information.
 
-Please note we do not keep your payment details on file. Your payment card details will only be seen by the third party providers who process your payment. However, we do keep a record of your purchases from our Website, so that we can make appropriate recommendations to you and assist with any of your queries promptly.  
- 
+**(f)  Sweepstakes, Contests and Promotions**
 
-## Mobile access
+We may offer sweepstakes, contests, and other promotions (any, a “ **Promotion** ”) through the Site that may require registration.  By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.  If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfilment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-If you access our Website from your mobile, we may collect information about your mobile provider and your mobile phone.  
- 
+### **4.  What About Information I Disclose Publicly?**
 
-## Google Analytics
+**(a)  User-Generated Content and Public Information**
 
-We use Google Analytics on our Website. The information generated by the cookie about your use of our Website (including your IP address) will be transferred to, and stored by, a Google server in the United States. Google will use this information, to evaluate your use of our Website, prepare reports about activity on our Website and provide further services about the use of websites and the Internet. Google may transfer this information to third parties, if legally obliged to do so or if third parties analyze this data on their behalf. Google will not connect your IP address with other data from Google. By using this Website you agree to the processing of your Personal Information by Google to the extent and purpose stated above. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/geoptout>.
+The Site may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, “ **User Content** ”), such as on profiles, blogs and message boards.  We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it with third parties.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content.  Please note that Venditan does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  Our promises under this Privacy Policy do not apply to any information that you disclose publicly, share with others or otherwise upload onto the publicly available positions of our Site.  We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Site. 
 
-## IP addresses
+**(b)  Name and Likeness**
 
-Our website logs your IP address and other information about your computer for administrative and security reasons, to collate statistical (non-personal) information about your use of our Website, gather demographic information, detect fraudulent transactions and report advert viewing information to our advertisers.  The information we track includes your domain service, language choice, type of computer, country and web browser.  
- 
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [ **Terms and Conditions of Service**](http://www.whowhatwear.co.uk/terms-conditions "Terms and Conditions of Service").
 
-## Social media plugins 
+### **5.  Ads and Information About You**
 
-Our Website includes plugins to social networking sites including, amongst others, Facebook, Twitter and Pinterest. The social media plugins allow you to share your experience of our Website on social networking sites.  
-You will recognize the social media plugins by logos or buttons on the relevant page. If you click on the button, the social plugin will be activated and sets up a direct connection between your browser and the social media site. MB cannot control or review which data is transferred during this connection with the social media site, or how that site uses your data. The information relating to your use of our Website will also be transmitted. If you have logged onto a social media site, the information relating to your use of our Website will be connected to that site and can be identified with you. The same applies if you click on any ‘like’ button and if you make comments. You can prevent the information transfering to social media sites by opting not to connect to that site. You can receive additional information concerning the further use and storage of your personal information by social media sites by consulting their privacy policies.  
- 
+We may use third parties such as network advertisers and ad exchanges to serve advertisements across the Internet and may use third party analytics service providers to evaluate and provide us and/or third parties with information about the use of these ads on third party sites and viewing of ads and of our content.  Network advertisers are third parties that display advertisements, which may be based on your activities across the Internet and mobile media (“ **Behavioural Ads** ”).  Behavioural Ads enable us to target advertisements to you for products and services in which we believe you might be interested.  If you object to receiving Behavioural Ads from us on third party sites, you can learn more about your ability to limit Behavioural Ads below.  Our third party ad network and exchange providers, the advertisers and/or traffic measurement services may themselves set and access their own technologies on your Device and track certain behavioural Usage Information via a Device Identifier.  These third party technologies may be set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements; and (c) understand the usefulness of the advertisements that have been delivered to you. 
 
-## Data Protection
+Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect.  We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice.  The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices.  We make no representations regarding the policies or practices of third party advertisers or advertising networks or exchanges or related third parties.
 
-The servers used to provide our website and service are protected using [HTTP and SSL] technology, so whilst your data is in our care we know it is as secure as it can be. Our staff are trained in data security, and our staff policies and procedures help our staff to understand what is required of them by us, and also their responsibilities under any applicable laws.   
-By using our Website, you are agreeing and acknowledging that data protection and data privacy during data transfer via open networks (such as the Internet) cannot be completely guaranteed. You understand and acknowledge that the internet provider can view the pages stored on the web server and, perhaps, other data stored on such server at any time. The internet is not a totally secure medium and you acknowledge and agree that MB shall not be responsible for unauthorized use, distribution, damage or destruction of personal data, except to the extent that we are required to accept such responsibility under applicable laws.  
- 
+Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in a chart at the end of this.  Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioural Ads to you, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  You may also opt-out of receiving Behavioural Ads on participating sites and services by visiting the Digital Advertising Alliance (“ **DAA** ”) website at<http://www.aboutads.info/choices/#completed>.  Similar limitations may apply to the DAA opt-out.  We are not responsible for effectiveness of or compliance with any third parties’ opt-out options or programs.
 
-## Links to third party websites
+### **6.  Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?**
 
-Our website contains links to other websites belonging to third parties (including our retail partners).  When you click on adverts or links on our Website, you will leave our site and go to a third party site, which is outside of our control. When we place an advert on our Website, it does not mean that we are endorsing that advertiser's product or service. We do not accept responsibility for the content of third party websites. We do not control the privacy practices of these other websites.  Our Privacy Policy does not apply to these companies, sites or content and if such third party sites collect your personal information, we cannot control how your personal information is analyzed, stored or used, or that third party’s compliance with applicable law. We advise you to read their data collection statements and privacy policies before you submit your personal information. You should therefore make sure when you leave our Website that you have read that website’s privacy policy.  
- 
+The Site may contain content that is supplied by a third party, and those third parties may collect Usage Information and your Device Identifier when pages from the Site are served to you.  In addition, when you are on the Site you may be directed to other sites that are operated and controlled by third parties that we do not control.  We are not responsible for the data collection and privacy practices employed by any of these third parties or their services and they may be tracking you across multiple sites and may be sharing the results of that tracking with us and/or others.  For example, if you “click” on a link, the “click” may take you off the Site onto a different site.  These other sites may associate their Tracking Technologies with you, independently collect data about you, including Personal Information, and may or may not have their own published privacy policies. 
 
-## Transmission of Personal Information outside EEA
+Third-party applications may also be available via the Site.  The owners of these applications (“ **Third-Party Owners** ”) may collect Personal Information and other data from you and may have their own policies and practices.  We are not responsible for how Third-Party Owners or their applications collect or use your information and they may be tracking you across multiple sites and may be sharing the results of that tracking with us and/or others.  These Third-Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same.  We are not responsible for these third-party privacy policies or the practices of Third-Party Owners.  Be sure to review any available policies before submitting any personally identifiable information to a third-party application or otherwise interacting with it and exercise caution in connection with these applications.  We also encourage you to note when you leave our Site and to review the third-party privacy policies of all third-party locations and exercise caution in connection with them.
 
-The Personal Information you provide to us may be given by us to our partners, retailers who process your order, our web partners and group companies worldwide (including the US). We may need to share your Personal Information in order to complete your order from our Website. Countries outside the European Economic Area may not always have strong data protection laws. However, we will always take steps to ensure that your Personal Information is used by third parties in accordance with this Privacy Policy and that it is kept secure. If you do not consent to this transfer, then please do not subscribe as a User as we will be unable to provide you with our services.  
- 
+### **7.  How Do I Change My Information and Communications Preferences?**
 
-## Changes and Information
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided to us.  You may provide updates and changes by using the Contact Us Form.  If you send us a request to make changes, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed.  When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes.  You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your Site account and changing your communication preferences.  This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited.  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us by using the Contact Us Form.
 
-In accordance with your rights under the Data Protection Act, you may ask us to amend the Personal Information we hold about you. Should you wish to update or correct your information please contact hello@graziashop.com.  
- 
+### **8.  What About Transfer of Information to the United Kingdom?**
 
-## Access Rights
+Our Site is operated in the United Kingdom and intended for users located in the United Kingdom.  If you are located outside of the United Kingdom, please be aware that information we collect, including Personal Information, will be transferred to, and processed, stored and used in the United Kingdom and within the European Union.  The data protection laws in the United Kingdom may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United Kingdom according to laws of the United Kingdom.  By using the Site or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including Personal Information, in the United Kingdom as set forth in this Privacy Policy.
 
-You have a right to access the Personal Information we hold about you and to correct any inaccuracies.  If you wish to obtain a copy of this information, update your details or remove your Personal Information from our records, please contact us on hello@graziashop.com enclosing your postal details. We may charge you a small fee for providing a copy of your Personal Information, as permitted by law.
+### **9.  What Should Parents Know About Children?**
 
-## Updates to our Privacy Policy
+Each Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13).  We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us by using the Contact Us Form.
 
-We may update this Policy at any time without notice. Any changes will be notified to you using the email address you have given us and/or by an announcement on this Website.  Your continued use of this Website, following the posting of changes to these terms, will mean you accept these changes.  
-This Privacy Policy was last updated on 6th November 2014. Please keep any eye on this page to be kept informed on any changes to this Privacy Policy.
+### **10.  What About Security?**
 
-## Legal Disclosure
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information.  However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure the security of any information you transmit to us, and you use our Site and provide us with your information at your own risk.
 
-In some cases we may be required to disclose your Personal Information to comply with legal requirements and requests from government agencies, to enforce or apply our Terms and Conditions, protect our rights, users or others.
+### **11.  What About Changes to the Privacy Policy?**
 
-## Contact Us
+We reserve the right to change this Privacy Policy at any time without notice to you.  Any changes will be effective immediately upon the posting of the revised Privacy Policy.  However, we will not use your Personal Information in a manner materially different than promised at the time it was collected without your consent.  To the extent any provision of this Privacy Policy is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable.
 
-Mondadori UK Limited is a company registered in England and Wales under company number 07193901.  
-Our registered office address is Mondadori UK Limited, 55-56 Russell Square London WC1B 4HP. 
+//End Privacy Policy//
 
-If you have any questions please contact us at:
+The following third parties that collect information from you on our Site have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
 
-55-56 Russell Square London WC1B 4HP  
-+44 (0) 203 754 4040  
-**[hello@graziashop.com](mailto:hello@graziashop.com)**
+**Party**
+
+| 
+
+**Site**
+
+| 
+
+**For More Information**
+
+| 
+
+**Use of Tracking Technologies**
+
+| 
+
+**Privacy Choices**  
+  
+---|---|---|---|---  
+  
+Google
+
+| 
+
+Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on
+
+| 
+
+<https://support.google.com/analytics/answer/6004245>
+
+https://www.google.com/settings/u/0/ads
+
+| 
+
+Yes
+
+| 
+
+<https://tools.google.com/dlpage/gaoptout/>  
+  
+DoubleClick
+
+| 
+
+Ad Serving Software
+
+| 
+
+<http://www.google.com/doubleclick/>
+
+| 
+
+Yes
+
+| 
+
+https://support.google.com/analytics/answer/2700409
+
+https://www.google.com/settings/u/0/ads/anonymous
+
+<https://tools.google.com/dlpage/gaoptout/>  
+  
+Quantcast
+
+| 
+
+Audience Measurement
+
+| 
+
+<http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
+
+| 
+
+Yes
+
+| 
+
+See link provided.  
+  
+Parse.ly
+
+| 
+
+Audience Measurement
+
+| 
+
+<https://parsely.com/privacy.html>
+
+| 
+
+Yes
+
+| 
+
+See link provided.  
+  
+Crazy Egg
+
+| 
+
+Audience Measurement/ A/B Testing
+
+| 
+
+<http://www.crazyegg.com/>
+
+| 
+
+Yes.
+
+| 
+
+None.  
+  
+  
+PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
