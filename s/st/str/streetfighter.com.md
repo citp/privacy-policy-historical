@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622232831id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetfighter.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224085419id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -12,7 +12,7 @@
 
 Last updated May 11, 2016
 
-Here is a [PDF version](https://web.archive.org/web/20160622232831id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202016.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20161224085419id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202016.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
