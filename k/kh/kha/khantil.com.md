@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the khantil.com privacy policy that was archived on 2016-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160111111414id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khantil.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224172053id_/http%3A//khantil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+### **Privacy Policy**
 
 Thanks for visiting khantil.com. KHANTIL E-COMMERCE PRIVATE LIMITED ("Khantil") is concerned about the privacy of its users (hereinafter referred to as "You" "Your" "Yourself") accessing its website located at www.khantil.com ("Website") and has provided this Privacy Policy ("Policy") to familiarise you with the manner in which Khantil collects, uses and discloses your information collected through the website. 
 
