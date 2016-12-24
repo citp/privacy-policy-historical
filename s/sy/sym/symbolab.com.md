@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the symbolab.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417092523id_/https%3A//www.symbolab.com/public/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symbolab.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133922id_/https%3A//www.symbolab.com/public/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
-
-Fair Information Practices 
-
-Fair information  
-Practices
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
@@ -14,25 +9,13 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
- **When do we collect information?**
-
 We collect information from you when you register on our site or enter information on our site.
-
- **How do we use your information?**
-
-  
-
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
  **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
  **•** To allow us to better service you in responding to your customer service requests.
-
- **How do we protect visitor information?**
-
-  
-
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
@@ -43,6 +26,8 @@ Your personal information is contained behind secured networks and is only acces
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+The Website and any of its services is not directed to children under the age of 13 (in some countries, stricter age limits may apply. See our Terms and Conditions of Use.) We do not knowingly collect personal information from children under 13 or under the applicable age limit. If you are under the Age Limit, do not use the Service and do not provide any personal information to us. If you are a parent of a child under the Age Limit and become aware that your child has provided personal information to the Website, please contact us at and you may request exercise of your applicable access, rectification, cancellation, and/or objection rights.
 
  **Do we use 'cookies'?**
 
@@ -197,3 +182,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
  **•** Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Last Edited on 2015-04-14
