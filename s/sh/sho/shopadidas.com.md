@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629151505id_/http%3A//www.adidas.com/us/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224233923id_/http%3A//www.adidas.com/us/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,21 +16,25 @@ This Website may be operated, in whole or in part, from a country other than the
 
 **What Information about me does adidas.com collect and store?**
 
-Our privacy policy is simple: Except as disclosed below, we don't sell, trade, give away, or rent your personal information to any company outside of the adidas Group. One of the basic principles we've tried to follow in designing this Website is **to limit the information we collect from and share about you**. 
+Our privacy policy is simple: Except as disclosed below, we don't sell, trade, give away, or rent your personal information to any company outside of the adidas Group. One of the basic principles we've tried to follow in designing this Website is to limit the information we collect from and share about you. 
 
 **Personal Information**
 
-We collect and store information that you provide to our Website or our Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, and credit card number and expiration date. We collect your e-mail addresses and zip code if you subscribe to our newsletter **and we collect your mobile number if you opt in to receive text messages**. You may unsubscribe at any time by following the instructions located within each newsletter **or linked to each text message**. **We also collect and store your geolocation information.** Registration may be required and personal information collected in certain areas of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards), suggestions, or customer service requests. When we run a contest or sweepstakes relating to our Website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Policy. Personal information will be collected only if you voluntarily submit it to our sponsors or us.
+We collect and store information that you provide to our Website or our Customer Service Department or that we receive from third parties. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, and credit card number and expiration date. We collect your e-mail addresses and zip code if you subscribe to our newsletter and we collect your mobile number if you opt in to receive text messages. You may unsubscribe at any time by following the instructions located within each newsletter or linked to each text message. We also collect and store your geolocation information. Registration may be required and personal information collected in certain areas of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards), suggestions, or customer service requests. When we run a contest or sweepstakes relating to our Website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Policy. Personal information will be collected only if you voluntarily submit it to our sponsors or us.
 
-Usage **Information**
+**Usage Information**
 
-Through your use of our Website, we may also gather certain information **about your use of our Website  **(" **Usage** **Information** "). Generally, this information is collected through "traffic data". We collect and store certain other information automatically whenever you interact with our Website. For example, we collect your IP address, browser information and reference site domain name every time you visit our Website. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve our Website, to provide our customers with a fulfilling shopping experience, **and to personalize the Website, our communications with you, and your shopping experience**.
+Through your use of our Website, we may also gather certain information about your use of our Website("Usage Information"). Generally, this information is collected through "traffic data". We collect and store certain other information automatically whenever you interact with our Website. For example, we collect your IP address, browser information and reference site domain name every time you visit our Website. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve our Website, to provide our customers with a fulfilling shopping experience, and to personalize the Website, our communications with you, and your shopping experience.
 
 **How does adidas.com use cookies, advertising, and online tracking?**
 
-Like many websites, we use "cookies", files stored on your computer's hard drive by your browser to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. You may occasionally get cookies from companies advertising on our behalf to tailor advertisements shown to you for goods and services. We do not control these cookies, and these cookies are not subject to our Website. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Website enable you to opt out of this type of advertising. For more information about third party cookies, including information about how to opt out of these technologies, visit <http://www.networkadvertising.org/managing/opt_out.asp> **or**[ **www.aboutads.info/choices/**](http://www.aboutads.info/choices/) **.**
+Like many websites, we use "cookies", files stored on your computer's hard drive by your browser to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. You may occasionally get cookies from companies advertising on our behalf to tailor advertisements shown to you for goods and services. We do not control these cookies, and these cookies are not subject to our Website. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Website enable you to opt out of this type of advertising. For more information about third party cookies, including information about how to opt out of these technologies, visit <http://www.networkadvertising.org/managing/opt_out.asp> or [www.aboutads.info/choices/](http://www.aboutads.info/choices/).
 
-**We use Google Analytics and Google AdWords on the Website to collect Usage Information, to analyze how users use the Website and to provide advertisements to you on other websites.   For more information about how to opt out of having your information used by Google Analytics, visit **[**https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/) **.   You can learn more about advertising and online tracking and how to opt out of such practices in the paragraph above.**
+We use Google Analytics and Google AdWords on the Website to collect Usage Information, to analyze how users use the Website and to provide advertisements to you on other websites.  For more information about how to opt out of having your information used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout/>.  You can learn more about advertising and online tracking and how to opt out of such practices in the paragraph above.
+
+**Interest-Based Advertising**
+
+**We also use third party companies to measure and target ads on our behalf about products and services tailored to your interests. We allow these third-party companies to use cookies, web beacons, pixel tags and similar technologies to collect or receive information about your interaction with us on our Website and elsewhere on the internet (“Tracking Data”) and use such Tracking Data to display ads for adidas and other companies when you visit this or other websites. These third-party companies may not recognize browser “Do Not Track” signals. If you would like to opt out of the collection and use of Tracking Data for ad targeting, please visit**[ **www.aboutads.info/choices/**](http://www.aboutads.info/choices/) **.**
 
 **Is Information collected from children?**
 
@@ -38,7 +42,7 @@ We do not knowingly collect or solicit personal information from children under 
 
 **How does adidas.com use your personal information?**
 
-We may use your personal information to provide the products and services that you have ordered or requested, to process and ship orders, to provide customer service, **to provide other services to you, and to personalize the Website, our communications with you, and your shopping experience**. Your information also may be used to contact you about sales, new products, new site features, special offers, and **personalized offers based on your location,** unless you have opted to not receive promotional communications. The information we collect may be combined with information obtained from companies within the adidas Group and from other companies. Aggregating data allows adidas to update and correct the information contained in our database and to provide you with product recommendations and special offers.
+We may use your personal information to provide the products and services that you have ordered or requested, to process and ship orders, to provide customer service, to provide other services to you, and to personalize the Website, our communications with you, and your shopping experience. Your information also may be used to contact you about sales, new products, new site features, special offers, and personalized offers based on your location, unless you have opted to not receive promotional communications. The information we collect may be combined with information obtained from companies within the adidas Group and from other companies. Aggregating data allows adidas to update and correct the information contained in our database and to provide you with product recommendations and special offers.
 
 **How does adidas.com share your personal Information?**
 
@@ -46,7 +50,7 @@ adidas Group - Except as described in this Policy, we will not disclose your per
 
 **How does adidas.com use usage information?**
 
-We use **Usage** Information to help us determine how people use parts of the Website and who our readers are. This allows us to improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use **Usage** Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website.  **We may combine Usage Information about you with other information, including Personal Information, about you in order to personalize the Website and our communications with you and to provide you with information likely to be of interest to you.**
+We use Usage Information to help us determine how people use parts of the Website and who our readers are. This allows us to improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use Usage Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website.  We may combine Usage Information about you with other information, including Personal Information, about you in order to personalize the Website and our communications with you and to provide you with information likely to be of interest to you.
 
 **What steps are taken to help secure personal information?**
 
@@ -62,7 +66,7 @@ Please remember that any information you share in public areas, such as message 
 
 **How do I opt-out of receiving promotions?**
 
-We provide you with several opportunities to opt-out of receiving our promotional communications and newsletters, including: At the time we request information from you; When you set up an account, or place an order; By clicking on "Manage Your Account"; and By following the "unsubscribe," "preference center," **or other opt-out** instructions contained in our promotional communications.
+We provide you with several opportunities to opt-out of receiving our promotional communications and newsletters, including: When you set up an account; By clicking on "Manage Your Account" **on the Website** ; and By following the "unsubscribe," "preference center," or other opt-out instructions contained in our promotional communications.
 
 **How do I contact you about privacy-related questions?**
 
@@ -76,7 +80,7 @@ Attn: Legal Privacy Policy
 
 Portland, OR 97217
 
-If you have a question regarding a product or service, please contact Customer Service by e-mail customerservice@us.adidas.com. The adidas Group is a global player which is represented in markets all over the world. To find out more about our major locations, see [here](http://www.adidas-group.com/en/group/headquarters/)
+If you have a question regarding a product or service, please contact Customer Service by e-mail customerservice@us.adidas.com. The adidas Group is a global player which is represented in markets all over the world. To find out more about our major locations, see http://www.adidas-group.com/en/ourgroup/locations/default.
 
 **How does this policy apply to European Union and Swiss Residents?**
 
@@ -94,4 +98,4 @@ Oregon state law governs the interpretation of this Policy and applies to claims
 
 We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the bottom. If there are material changes to this Policy or in how adidas will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas is protecting your information.
 
-REV: 6/13/2015
+REV: [11/17/2016]
