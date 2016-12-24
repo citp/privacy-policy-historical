@@ -1,121 +1,204 @@
-> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417164442id_/https%3A//blippar.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225005355id_/https%3A//blippar.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy for Augmented Reality App Blippar
+# Privacy Policy | Blippar
 
-Effective Date: May 1st 2014
+**Blippar Privacy Policy**
 
-The website www.blippar.com (the “Blippar Website”) is owned and operated by Blippar.Com Limited and the expressions "Blippar", "we", "us" and "our" mean Blippar.Com Limited (Registered Number 07446749) whose principal place of business is at 6th Floor, Weston House, 246 High Holborn, London, England, WC1V 7EX.
+**Last modified: 5 th December 2016**
 
-This privacy policy (the “Privacy Policy”) explains Blippar’s policies in relation to personal data collected from users of the Blippar Website.
+Blippar is the world's first visual discovery browser, using augmented reality, artificial intelligence and computer vision technology to transform how you connect with the world.
 
-We take the privacy of users of the Blippar Website seriously. We will obtain, retain and process information (including your personal and sensitive data) in accordance with the applicable law. We respect your right to privacy and we understand that, as a visitor to this Blippar Website you prefer to control your own personal information and preferences. [For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of the Blippar Website or request information.]
+The Blippar app uses the camera on your smartphone, whilst the app is enabled, to recognise images through the camera and show on-screen dynamic content on top of what you see 'in the real world' – what the technology industry calls 'augmented reality'.
 
-This Privacy Policy forms part of the conditions of use of the Blippar Website, which can be found at blippar.com/terms. By using the Blippar Website, the Blippar Mobile Application and the services on the Blippar Website, you consent to the collection and use of your personal data by us for the purposes authorized below and for any other purpose, which is reasonably necessary for the provision of the proper administration of our relationship with you and the Blippar Website.
+We use artificial intelligence, computer vision technology and other functionality – including, where you choose to enable it, facial recognition technology – to make this happen.  Scanning an item or a person with your mobile device is something we call 'blipping' and the online content we show you around that item or person is something we call 'blipp'.   You can find out more about our app and how it works at <https://blippar.com/en/resources/faq/>   
 
-**What information do we collect?**
+As part of our offering to other businesses, we enable them to offer blipp and augmented reality content as part of their advertising and marketing campaigns.
 
-We collect information provided by you when you use the Blippar Website and other of the services on the Blippar Website.
+At Blippar we are working to build a service which is useful and fun for our users and in doing that we are absolutely committed to your privacy.  The Blippar app, the Blippar websites and related APIs and tools covered by this policy are constantly evolving as we add new features to improve your experience, but our users' privacy remains at the heart of what we do. As the Blippar app changes, so might the information we use and how we use it.   We encourage users to consult this policy whilst using Blippar and we will notify material changes to it through the Blippar app.
 
-In particular, we may collect information from you through the Blippar Website in the following circumstances:        
+The technology behind Blippar is complex, and you can do different things using the Blippar app, the Blippar websites and related APIs and tools, so we have tried hard to explain the ways we collect and use your data in a straightforward way so you know what is going on.   We may provide sets of FAQs on how Blippar works and for specific products and features to help you understand them better.   We welcome any feedback or questions you may have on privacy matters and how we use your data – please contact us at [privacy@blippar.com](mailto:privacy@blippar.com)
 
-  * When you contact us by email or through the Blippar Website with any particular comments or inquiries;
-  * When you sign up to the Blippar newsletter; and
-  * When you contact us to receive details about our Blippbuilder tool.
+**Who we are**
+
+Blippar is a technology business headquartered in London, UK, with local subsidiary companies in various countries around the world.   For the purposes of European data protection law, Blippar.Com Limited (registered in England and Wales, number 07446749) is the ultimate data controller for personal data collected, processed and used through the app. 
+
+**What this document tells you**
+
+When you use the Blippar app, websites, APIs, tools and any other services we may make available, you will share some information with us. When we talk about the Blippar "app" or "service", we mean all the websites, APIs, tools and other services.
+
+This policy is designed to explain to you what information about you Blippar collects in providing the Blippar app and service, how that information is used and shared and how you can control what happens with that information. 
+
+**What information we collect**
+
+When you use the Blippar app or visit our websites we receive personal information about you which you choose to give us. For example, when you download the Blippar app and want to use our Face Profile tool, we ask you to register some basic information with us so we can provide our service to you, including your first name and surname, your email address and, with your consent, your location (both generally in respect of your locale, e.g. the UK and specifically, exact latitude and longitude coordinates) and confirmation that you are over 16 years old. You don’t have to create a Face Profile in order to use the Blippar app and services.
+
+We also collect some information about you as you use the Blippar app including:
+
+  * digital images of the objects and people you are 'blipping'.  
+  * the blipp and other online content you are shown and link to and your interests and preferences that your blipp and online content viewed suggest;
+  * a unique user ID, which we assign to you, against which we maintain data about you and your use of the Blippar app
+  * if you choose to create a Face Profile through the Blippar app, we will collect your face ‘signature’; if you then choose to make this public then – when someone points a phone at your face or an image of it, with the Blippar app enabled – it will search against our database of facial signatures (see section on [**facial recognition**](http://blippar.com/en/app/privacy#facereco) here for more detail) and will also store these scanned images that have been taken of you
+  * certain content that you have chosen to associate with your Face Profile, that is specific to you (we may also ask your permission to review third party data about you, for example your Twitter or Facebook feeds, so that you can create an even more individual Face Profile)
+  * certain mobile network and device identifiers to help us provide our services including the IP address that your internet network provider may allocate to your mobile or other internet enabled device
 
 
 
-For more details about data collection through the Blippar Mobile Application, please see the Mobile Application Privacy Policy terms below blippar.com/privacy.
+Blippar also uses cookies. Please see [**cookies**](http://blippar.com/en/app/privacy/#cookies) section below for details and collects IP addresses from visitors to our app and websites.
 
-We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms and questionnaires. We also monitor customer traffic patterns and the use of the Blippar Website, which enables us to improve the service we provide.
+**How we use your information**
 
-**How do we use the data we collect?**
+We use your personal information mainly to provide, monitor and improve the Blippar app, website, services and the technology which supports them and to provide you with a great, personalised experience.   We occasionally will use your information to contact you, for instance if you send us requests or ask us questions about Blippar or if there are technical or operational issues or updates which we think our users need to know about.  
 
-We use personal information collected from you for the following purposes:                                 
+We provide augmented reality services to brands so that their marketing materials are blippable, showing users augmented reality content when they blipp the materials (like a magazine advert or packaging).  Where we do this, we also report to our clients on an aggregated basis (so never revealing who you are), where users accessing their blippable content are located, how long they spent interacting with the client's Blippar content or our app generally and how they use the Blippar app.
 
-  * To deliver our products and services (including, without limitation, the Blippar Mobile Application);                        
-  * To provide a more personalized service;
-  * To contact you regarding the products or services that you have requested;
-  * To respond to any comments or queries you may have;        
-  * To carry out auditing, research and analysis in order to maintain, protect and enhance the services we provide;
-  * To transfer your details (including account details) to relevant third parties, public bodies, industry organizations and regulators as reasonably required for the operation of our business; and
-  * To disclose your details to government and associated organizations as required by law.
+We also disclose information in aggregate (so that no individuals are identified) to third parties for marketing and strategic development purposes.
+
+**This section applies to Facial recognition & Face Profiles**
+
+We understand that engaging with facial recognition technology may be a new experience for you. At Blippar, we have worked hard to ensure that facial recognition is simple, fun and safe and that it puts the user in control.
+
+**_Face Profiles and facial recognition is intended for users who are at least 16 years old_**.  If you are aged under 16, please get your parent/guardian's permission before you provide any personal information to Blippar. Users without this consent are not allowed to provide us with personal information.   By using the Face Profile tool, you are representing to us that you are 16 or over or have the specific consent of your parent or guardian to use Blippar, including in respect of facial recognition.
+
+**_Creating Face Profiles_**
+
+A Face Profile is an augmented reality profile of someone’s face. You decide whether you want Blippar to scan your face in order to create what we call a 'Face Profile'. You can activate a scan of your face by activating the Face Profile setting and pointing the phone camera at your face; you then have to "join the dots" by using your nose to follow the dot around the screen so the camera sees your face from different angles.  That process is called the ‘Blippar star’. This is important as it creates your unique ‘face signature’, which is essentially a set of measurements of your face features, which the Blippar app can then use to recognise as you. 
+
+The great advantage about this process is that it makes it hard for people to create a Face Profile using someone else's image, because the process takes a while and requires movement – so a single photo with a smartphone cannot be used to create a Face Profile.  
+
+Once this is done, you can then complete your Face Profile by adding content about you which you want other users to see when they blipp you: you can link your profile to your other social media accounts, you can add photos, videos, your mood at the time using icons and 3D avatars and you can update this constantly.   We will keep adding new kinds of content to add to your Face Profile so watch this space! 
+
+The Face Profile is just a fun way to express yourself to other Blippar users – the content appears to other users when they blipp you or an image of you as a 'halo' of bubbles around your face.
+
+**_How are facial signatures and Face Profiles used?_**
+
+Facial recognition is enabled in the Blippar app.   This means that when the app is on, it recognises when your camera is pointed at a human face or an image of a face. The app then checks whether there is a recognized Face Profile (this may be a facial signature which matches a face that someone has specifically created or, for public figures, from images drawn from Blipparsphere (Blippar’s knowledge graph which pulls information from publicly available sources); if there is, the Face Profile for that user or public figure has augmented reality bubbles around the image of their face on your phone screen.
+
+**_What if you don’t have a Face Profile?_**
+
+If the person being blipped is not a Blippar user or is a Blippar user but does not have a Face Profile, the app will not display their Face Profile (because they don't have one) and a ‘famous’ lookalike will be shown instead, based on the public figure our platform thinks they most closely resemble.  
+
+If you blipp a public figure in real life or an image of them from a newspaper or computer screen, you will see their Blippar Face Profile (if they have created one) and, if they haven't, you will see bubbles of online content which relates to them and which has been discovered in our extensive knowledge graph. To do this, we have created simple facial signatures for high-profile public figures in the public eye from photographs which are generally available online.  We think this offers a fun way to add to their online engagement with fans!  
+
+We also allow you to blipp yourself and your friends to find your "famous lookalike" based on your facial signature just for fun, and upload your lookalike to your Face Profile.    We plan to add more fun ways for you to use your Face Profile and will launch them in the future and, where they involve using your information in different ways from what we have explained here, we will update this policy and explain how it all works.
+
+**_Who can see my Face Profile?_**
+
+Everyone who uses Blippar if they blipp you in person, or a photograph of you and you have consented to your Face Profile being public.   You can make your Face Profile private when you first create it and it any time afterwards.   A private Face Profile can only be seen by you.
+
+We do not allow users to search the database of facial signatures and images to find someone they want to, and we do not apart from in very limited circumstances share facial signatures and images with any third party – see [_Will you share my facial data_?](http://blippar.com/en/app/privacy/#facedata)
+
+Other users can only see your Face Profile by blipping you in person or by blipping an image they have of you – and users cannot blipp images stored on the same phone they blipp with.
+
+**_How are facial signatures stored?_**
+
+To make Face Profiles and related facial recognition services work, we retain the facial images you take of your face when creating a Face profile, and of public figures from online sources, and the facial signatures we create from them all on secure Amazon Web Services (“AWS”) data centres in the United States.   We need to do this in order for the app to recognise a face as belonging to a user with a Face Profile and for the service to work.
+
+**_What control do I have other my facial signature and Face Profile?_**
+
+A Face Profile of a user is only created if the user wants to create one.   We do create simple facial signatures from publicly available online images of public figures, and use them to present generic online information relating to them, or their own Blippar Face Profile if they have created one. 
+
+You can delete your Face Profile, and with it the facial signatures relating to you, through the profile settings section in settings in the Blippar app.   You change your Face Profile from public (which means your Face Profile is discoverable by any Blippar user who blipp you or a photo of you) to private (visible only to you) and the other way around any time in the profile settings of the app.
+
+Public figures can request to switch off the facial recognition feature by emailing us at [privacy@blippar.com](mailto:privacy@blippar.com) and we will remove the facial recognition piece so their Blipparsphere profile does not come up when they are blipped. The information associated with them will stay in the knowledge graph.
+
+If you have any concerns about your Face Profile or data that we hold about you then please contact us at [_privacy@blippar.com_](mailto:privacy@blippar.com)
+
+**_Will Blippar share my facial data?_**
+
+We will not share your facial signatures or Face Profiles with our clients or third parties, other than when making the Face Profiles visible to other users when your Face Profile is set to public.   We take keeping this biometric data secure extremely seriously and use AWS, one of the most secure data centres in the world.  The only exception to this is where there are legal reasons for us to disclose – see section entitled [**With third parties for legal reasons**](http://blippar.com/en/app/privacy/#thirdpartylegal) for further detail.
+
+We will collect aggregated statistics which are not unique to you and cannot identify you about how our users or categories of users are interacting with Face Profiles and other services we offer using facial recognition. 
+
+**This Section Has General Information About Your Personal Information**
+
+**Where we store your information**
+
+The information we collect in relation to you is stored on data centres operated by our third party providers.  The data centres are currently based in the United States and you consent to the hosting of your personal information in the USA.   The USA has different regulations in relation to personal information, including in relation to rights of access by law enforcement authorities,
+
+**Can I find out what personal information Blippar holds about me?**
+
+You have the right to request a copy of the personal information Blippar holds about you and to have any inaccuracies corrected. We need to establish your identity as we do not want to release information to the wrong person, so we may ask for documents that prove your identity. Please address requests and questions about this to [_privacy@blippar.com_](mailto:privacy@blippar.com)
+
+**How we share your information**
+
+We may share information about you in the following ways:
+
+  * **With other Blippar users**. We may share the following information with other users:
+  * Information about you, such as your username and name as you have provided it with other users but we will not share your contact details with them
+  * Your Face Profile and the content you have posted in it, where your Face Profile is in public mode
+  * Information about how you have interacted with the Blippar app, based on the number of blipps you do and how many users blipp your face, and celebrity users are able to view their top fans based on how many times users have blipped the celebrity.
+  * **With third parties.** We may share your information with the following third parties: 
+    * With organisations who provide services or technology to us.  See here in respect of facial data specifically [_Will Blippar share my facial data?_](http://blippar.com/en/app/privacy/#facedata) We may share information about you with service providers who perform services on our behalf – for instance our data centre providers who host the Blippar technology and data and partners that provide services to us.
+    * We provide augmented reality services to brands so that their marketing materials are blippable, showing users augmented reality content when they blipp the materials (like a newspaper ad).  Where we do this, we also report to our clients on an aggregated basis (so never revealing who you are) where users accessing their blippable content are located, how long they spent interacting with the client's Blippar content or our app generally and how they use the Blippar app.
+  * We also disclose information in aggregate (so that no individuals are identified) to third parties for marketing and strategic development purposes.
+  * **With third parties for legal reasons.**   We may share information about you if we believe that disclosing the information is needed to: 
+    * comply with any valid legal process, governmental request, or applicable law, rule, or regulation
+    * investigate, remedy, or enforce potential breaches of our Terms of Use.
+    * protect the rights, property, and safety of us, our users, or others.
+    * detect and resolve any fraud or security concerns.
+  * **With our affiliates.** We may share information with entities within the Blippar family of companies
+  * **With third parties if Blippar is acquired or its legal structure undergoes a reorganisation or all or a big chunk of our business is transferred to another company or companies.** In that circumstance we may share your information with that company before and after the transaction closes so that we can still provide you with a great service.
 
 
 
-Where you have not objected to such use, we might also use your information to let you know about other products and services which we offer which may be of interest to you. If you do not object initially, but you change your mind later, please email us at [info@blippar.com](mailto:info@blippar.com).
+**How old do I have to be to use Blippar?**
 
-**Children Under the Age of 13**
+Blippar’s services are intended for users who are at least 13 years old (other than Face Profiles which is 16 years old and above).  If you are aged under 13, please get your parent/guardian's permission before you provide any personal information to Blippar. Users without this consent are not allowed to provide us with personal information.   By using the Blippar app, you are representing to us that you are 13 or over or have the specific consent of your parent or guardian to use Blippar, including in respect of facial recognition (16 years old or above).
 
-The Blippar Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Blippar Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information to or on the Blippar Website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@blippar.com](mailto:info@blippar.com).
+**How long will Blippar keep my personal information?**
 
-**Changes to our policy**
+We will hold your personal information on our systems for as long as is necessary to provide access to our app and websites.  Through the settings on the app, you can have all account data deleted – if you do this a red flag goes on the database and, while Blippar cannot use the personal information, it stays on the system for a period for administration purposes before being deleted automatically.
 
-We reserve the right to make changes to this Privacy Policy at any time without prior notice by posting new terms on the Blippar Website. We will only use information in accordance with the Privacy Policy under which the information was collected. If you regularly use the Blippar Website you should continue to check this Privacy Policy for updates and amendments, as you will be deemed to have accepted the changes if you continue to use the Blippar Website after any changes have been posted.
+If we are subject to a legally binding requirement to retain user information for a specific period, this may (subject to the law in question) override your ability to require deletion.
 
-**How do we store and maintain personal information?**
+Please remember that other Blippar users may have content and information you have made available through Blippar, for instance through screen shots or other image capture and we do not control how they use or how long they keep that content.
 
-All of our employees are subject to obligations of confidentiality regarding information which they have access to in the course of their employment including the personal information of customers. All personal information is held in secure computer storage facilities and paper-based files. We take steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure.
+**Web browser cookies**
 
-It may be necessary for us to maintain our records for a number of years. However, when information is no longer required, we will destroy records containing personal information securely.
+_What is a cookie?_
 
-**Disclosure of your information**
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer, tablet or mobile phone web browser from a websites’ computer and is stored on your computer, table or mobile phone web browser.
 
-As we develop our business we might buy or sell businesses or subsidiaries. Where such a transaction occurs, or in the event that we are or substantially all of our assets are acquired, the transferred assets will generally include customer information but any such transfer shall be conditional on this information remaining subject to the restrictions on its use as set out in the Privacy Policy notice pre-existing the transfer.
+_How does Blippar use cookies?_
 
-We employ other companies and individuals to carry out functions on our behalf including sending mail, providing marketing assistance, analyzing data and providing customer service. In order to carry out their functions these companies and individuals may require access to your personal data but we shall only disclose such relevant personal information as is needed by them to perform their functions.
+In general terms, Blippar only uses cookies to record information about your preferences, how you prefer to use our websites and our services. They allow us to tailor our app, websites and our other services to your interests.
 
-Where requested to do so, we may co-operate with any court, tribunal, regulatory body, police authority or other similar authority in any investigations or proceedings concerning you or your use of the Website. This may include disclosing information about communications transmitted via the Blippar Website to such authorities where required.
+Information supplied by cookies can help us to analyse the profile of visitors to our app and website and users of our other services and help us to provide you with a better user experience. 
 
-We may also use and share information relating to groups of customers, without identifying individuals, to learn more about customer behavior and find ways of enhancing our service.
+_Third party cookies_
 
-Where any of your personal information is transferred by us outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by applicable law. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the European Economic Area.
+We use analytics cookies and mobile device equivalents served by our third party providers to analyse how users use our app and websites and report back to us. This helps us work out what elements of the app and websites are working and helps us improve them. In the future, we may have digital advertising partners who may use cookies, mobile equivalents and other technologies to collect information to support the delivery of interest-based advertising to users. We will ensure you are properly notified including through updates to this policy before that happens.
 
-We regard our databases of information (which will include your personal information) as an important part of our business and we will not give or sell this information to any outside organization for use in its marketing or solicitation without your consent.
+_Third Party Cookies in embedded content on Blippar pages_
 
-**Cookies – What are they and how do we use them?**
+Please note that during your visits to our websites you may notice some cookies that are not related to Blippar or Blippar’s partners. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites (“Third Party Websites”). Blippar does not control the dissemination of these cookies. You should check the Third Party Websites for more information about these.
 
-"Cookies" are small bits of electronic information that a website can transfer to your hard drive to help tailor and keep records of your visit to that website. If you visit the Website, cookies are used to allow us to better customize your visit to your individual preferences, helping us provide you with the best possible service on the Website. Most major websites use cookies and their use is standard on the Internet. You can find out more about the way cookies work on[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.cookiecentral.com%2F&sa=D&sntz=1&usg=AFQjCNHw6DBIfPn05hduykMfBqiflHuIqw)[www.cookiecentral.com](http://www.google.com/url?q=http%3A%2F%2Fwww.cookiecentral.com%2F&sa=D&sntz=1&usg=AFQjCNHw6DBIfPn05hduykMfBqiflHuIqw) and[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ)[www.allaboutcookies.org](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ).
+_Blippar cookies and how to reject cookies_
 
-We use cookies to enable traffic monitoring.
+If you wish to control what cookies are set on your device through our app, websites or other services then you can by changing the settings on your personal computer or mobile device web browser. It is important to note that if you change your settings and block certain cookies, this means that certain personalised features and other functionality cannot then be provided to you and accordingly you may not be able to take full advantage of all of the app, websites or our other services features.
 
-On visiting our Blippar Website you will be sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile.
+_Other information collected from web browsers_
 
-Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser, but this may restrict the use of some parts of the Website.
+Your web browser may also provide Blippar with information about your device, such an IP address and details about the browser that you are using. It may also provide Blippar with access to details of your personal computer or mobile device’s location.
 
-**Web Beacons – What are they and how do we use them?**
+**Mobile devices**
 
-We or third parties on our behalf may use web beacons in combination with cookies on the Website, in our emails or in our advertisements. Web beacons help us understand how visitors interact with the Blippar Website and enable us to measure the effectiveness of the Blippar Website and our advertising, for example by counting the number of individuals who have visited the Blippar Website via a particular advert.
+When you download or use the app on your mobile device, information may be accessed from or stored to your mobile device. This is used in a similar way to a web browser cookie, such as by enabling the apps to ‘remember’ you or provide you with the content you have requested.
 
-A web beacon is typically an electronic image that is placed on a site, email or advert which allows a website to record the simple actions of the user opening the page that contains the beacon. Web beacons provide us with details of how the Blippar Website is navigated, how many individuals visit specific pages, the time material was viewed, the types of browsers and computer operating systems used and the Internet Protocol addresses from which you connect to the Website. This is information that is available to any web server you visit and web beacons do not give any extra information away. Web beacons are simply a convenient way of gathering simple statistics and managing cookies and by being able to recognize you this allows us to improve your experience of the Blippar Website by enabling us to tailor and personalize your visit.
+Your web browser on your device or your mobile device’s operating system may also provide Blippar with information about your mobile device, such as a device identifier or IP address. Device identifiers may be collected automatically, such as the device ID, IP address and apps ID (a unique identifier relating to the particular copy of the Apps you are running). In the future we may use mobile device identifiers for advertising use which perform a similar role to cookies, like the IDFA used by Apple devices and the Advertising ID used by Android devices.
 
-Where web beacons are used in connection with cookies then they may be rendered ineffective by either opting out of the cookies or changing the cookie settings in your browser.
+**Changes to Blippar's Privacy Policy**
 
-You can find out more about the way web beacons work on[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ)[www.allaboutcookies.org](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ).
+This Privacy Policy may be updated from time to time so please check from time to time. Major changes to the data we collect or how we use and share it will be notified through the Blippar app. The date of the most recent revisions will appear at the beginning of this policy. If you do not agree to these changes, please do not continue to use the apps, websites or our other services to submit personal information to Blippar.
 
-**Links**
+**Contacting Blippar about this Privacy Policy**
 
-The Blippar Website contains links to other websites. Please note that we are not responsible for the privacy practices of such other websites, and we recommend you read the privacy statements immediately on entering other websites. This Privacy Policy applies only to information collected through the Blippar Website.
+If you any questions or comments about this Privacy Policy please contact:
 
-**Your rights**
+The Data Protection Officer  
+5th Floor West,  
+1 London Bridge  
+London  
+SE1 9BG
 
-IF YOU DO NOT WISH YOUR PERSONAL DATA TO BE USED IN THE MANNER SET OUT IN THIS PRIVACY POLICY PLEASE EXIT the Blippar Website IMMEDIATELY AND DO NOT USE the Blippar Website IN THE FUTURE.
-
-You have the right to obtain a copy of any personal information which we hold about you and to notify us of any inaccuracies. If you would like to obtain a copy of your personal information please write to us using the address provided in this Privacy Policy. You will need to verify your identity and specify what information you require. We may charge you a fee to cover our costs incurred in providing you with a copy of your information.
-
-We will be happy to answer any inquiries from you regarding this Privacy Policy, the personal data we hold about you or the use we make of it. If you have any queries, comments, or if you wish to correct or update the data we hold about you, please either email us at info@blippar.com, or write to us at: Blippar.Com Limited, 6th Floor Weston House, 246 High Holborn, London, WC1V 7EX.
-
-Please enclose your postal details, proof of identity and a cheque for £10 payable to Blippar.com Limited.
-
-**Your California Privacy Rights**
-
-California Civil Code Section § 1798.83 permits users of the Blippar Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@blippar.com or write to us at Blippar LLC, RocketSpace, 225 Bush Street, Floor 12, San Francisco, CA 94104, USA.
-
-**Jurisdiction**
-
-This Privacy Policy will be exclusively governed by and construed in accordance with the laws of England and Wales (without giving effect to any choice or conflict of law provision) whose Courts will have exclusive jurisdiction in any dispute, save that we have the right, at our sole discretion, to commence and pursue proceedings in alternative jurisdictions.
-
-**Use of Blippar Application through mobile device**
-
-This Privacy Policy applies to our collection and processing of personal data through the Blippar Mobile Application.
-
-Through the Mobile Application, we may collect mobile device identifiers, such as device type, IP address, operating system and your geographic location. If you choose to activate Facebook or Twitter on the Blippar application, we will also collect your name, sex, occupation and any other personal information you have provided to Facebook or Twitter.
+Email: [_privacy@blippar.com_](mailto:privacy@blippar.com)
