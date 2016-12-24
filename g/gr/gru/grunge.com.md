@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grunge.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605013403id_/http%3A//www.grunge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grunge.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133008id_/http%3A//www.grunge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grunge
 
@@ -38,8 +38,8 @@ The Grunge Website may contain links to other web sites ("Linked Sites") operate
 
 **Our Policy Towards Children**
 
-The Grunge Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided Grunge with personally identifiable information without their consent, he or she should contact Grunge at info@Grunge.com.  If Grunge becomes aware that a child under 13 has provided Grunge with personally identifiable information, Grunge will remove such information from our files.
+The Grunge Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided Grunge with personally identifiable information without their consent, he or she should contact Grunge at staff@Grunge.com.  If Grunge becomes aware that a child under 13 has provided Grunge with personally identifiable information, Grunge will remove such information from our files.
 
 **Changes to this Privacy Policy**
 
-Grunge reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at info@Grunge.com.
+Grunge reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at staff@Grunge.com.
