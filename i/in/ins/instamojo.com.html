@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instamojo.com privacy policy that was archived on 2016-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160507003935id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instamojo.com privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224192736id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -9,7 +9,7 @@
 
   <!-- Stylesheets -->
   
-    <link rel="stylesheet" href="https://im-cdn.com/assets/stylesheets/homepage.26b6290c6dc0.css">
+    <link rel="stylesheet" href="https://im-cdn.com/assets/stylesheets/homepage.b297be109399.css">
   
   
   
@@ -53,7 +53,7 @@
     
   <div id="header_area" class="gw"><div class="page row"><header role="banner"><div class="columns medium-3 small-12" id="logo"><a class="brand" href="/">Instamojo</a></div><nav class="columns medium-9 small-12 navbar"><ul class="nav nav--block palm-nav--collapsed small-only-text-center medium-text-right"><li class="nav__palm-header"><a class="switch-span" href="#"><span class="icon icon-bars"></span><span style="display:none;" class="icon icon-times"></span>
             Navigation
-          </a></li><li><a href="/about/">About</a></li><li><a href="http://support.instamojo.com/">Support</a></li><li><a href="/developers/">Developers</a></li><li><a href="/accounts/register/">Sign-up</a></li><li><a class="login" href="/accounts/login/">Login</a></li></ul></nav></header></div></div><!-- #header_area -->
+          </a></li><li><a href="/about/">About</a></li><li><a href="https://support.instamojo.com/">Support</a></li><li><a href="/developers/">Developers</a></li><li><a href="/accounts/register/?ref=privacy ">Sign-up</a></li><li><a class="login" href="/accounts/login/">Login</a></li></ul></nav></header></div></div><!-- #header_area -->
 
         <div id="content_area" class="gw">
     <div class="page row" style="padding-top: 20px;">
@@ -123,7 +123,7 @@ The Services may contain links to other sites. We are not responsible for the pr
               <li><a href="/about/">About</a></li>
               <li><a href="http://blog.instamojo.com">Blog</a></li>
               <li><a href="/contact/">Contact</a></li>
-              <li><a href="http://support.instamojo.com/">Support</a></li>
+              <li><a href="https://support.instamojo.com/">Support</a></li>
               <li><a href="/press/">Press</a></li>
               <li><a href="/careers/">Careers</a></li>
               <li><a href="/developers/">Developers</a></li>
@@ -172,12 +172,21 @@ The Services may contain links to other sites. We are not responsible for the pr
     user_level: null
   };
   window.MojoServerEnv = "production"
+
+  window.FsUserVars = {
+    displayName: MojoUser.first_name && MojoUser.last_name ? MojoUser.first_name + ' ' + MojoUser.last_name : MojoUser.username,
+    email: MojoUser.email,
+    kycstatus_str: MojoUser.kyc_status,
+    signupdate_date: new Date(MojoUser.sign_up_time),
+    phone_str: MojoUser.phone,
+    userlevel_str: MojoUser.user_level
+  }
 </script>
 
-    <script type="text/javascript" src="https://im-cdn.com/vendor/jquery/dist/jquery.5353ee84ec02.js"></script>
+    <script type="text/javascript" src="https://im-cdn.com/vendor/jquery/dist/jquery.0ed702894240.js"></script>
     <script type="text/javascript" src="https://im-cdn.com/vendor/raven-js/dist/raven.514d4a16acec.js"></script>
-    <script type="text/javascript" src="https://im-cdn.com/vendor/requirejs/require.6bfef1bef96b.js"></script>
-    <script type="text/javascript" src="https://im-cdn.com/assets/js/config.bd2d4228201c.js"></script>
+    <script type="text/javascript" src="https://im-cdn.com/vendor/requirejs/require.1a0e60913670.js"></script>
+    <script type="text/javascript" src="https://im-cdn.com/assets/js/config.5640bd3d5927.js"></script>
     
 
     
