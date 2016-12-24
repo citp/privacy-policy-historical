@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524214004id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224221611id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
 # 
 
