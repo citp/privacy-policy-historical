@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608190001id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224173435id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,12 +9,12 @@ We collect information from you when you register on our site or subscribe to ou
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **Facebook Application**
 
-_WrestlingNewsWorld.com_ has a sharing application through [Facebook](http://www.facebook.com/) where we store user ids and names once a user begin using it. We will not share or distribute this information to third parties. Only users’ names are stored.
+_WrestlingNewsWorld.com_ has a sharing application through [Facebook](http://www.facebook.com/) where we store user ids and names once a user begin using it. We will not share or distribute this information to third parties. Only users' names are stored.
 
 **What do we use your information for?**
 
