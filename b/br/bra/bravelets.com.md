@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411124432id_/https%3A//www.bravelets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224080541id_/https%3A//www.bravelets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,7 +70,7 @@ We may also disclose your personal information:
 
 To comply with any court order, law or legal process, including to respond to any government or regulatory request.
 
-To enforce or apply our Terms of Use _[www.bravelets.com/website-terms](http://www.bravelets.com/website-terms)_ and other agreements, including for billing and collection purposes.
+To enforce or apply our Terms of Use _[www.bravelets.com/website-terms](https://web.archive.org/website-terms)_ and other agreements, including for billing and collection purposes.
 
 If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Bravelets, LLC, our customers or others. 
 
@@ -80,7 +80,7 @@ You can review and change your personal information by logging into the Website 
 
 You may also send us an e-mail at info@bravelets.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use _[www.bravelets.com/website-terms](http://www.bravelets.com/website-terms)_
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use _[www.bravelets.com/website-terms](https://web.archive.org/website-terms)_
 
 How do I know my personal information is secure?
 
@@ -92,11 +92,11 @@ Unfortunately, the transmission of information via the internet is not completel
 
 How does Bravelets protect kids’ privacy?
 
-We are concerned about the privacy and safety of children when they use the internet. Our Website is not targeted to or intended for use by children, and we do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at _[info@bravelets.com](mailto:info@bravelets.com)_ or Bravelets, 620 W 34th St, Austin TX 78705, Attn: Bravelets Legal.
+We are concerned about the privacy and safety of children when they use the internet. Our Website is not targeted to or intended for use by children, and we do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at _[info@bravelets.com](mailto:info@bravelets.com)_ or Bravelets, 337 Garden Oaks Blvd #46624, Houston, TX 77018, Attn: Bravelets Legal.
 
 Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to _[info@bravelets.com](mailto:info@bravelets.com)_ or write us at: Bravelets, 620 W 34th St, Austin TX 78705, Attn: Bravelets Legal.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to _[info@bravelets.com](mailto:info@bravelets.com)_ or write us at: Bravelets, 337 Garden Oaks Blvd #46624, Houston, TX 77018, Attn: Bravelets Legal.
 
 Changes to Our Privacy Policy
 
@@ -112,6 +112,6 @@ Address:
 
 Attn: Bravelets Legal
 
-620 W 34th St
+337 Garden Oaks Blvd #46624, Houston, TX 77018
 
-Austin TX 78705
+Houston, TX 77018
