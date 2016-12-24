@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617000721id_/http%3A//mytruspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytruspot.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224222043id_/http%3A//mytruspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy on TruSpot
+# Privacy Policy - TruSpot
 
 TruSpot cares about online privacy. If you have any questions concerning this privacy policy, please email us at privacy@mytruspot.com. Unless explicitly stated otherwise, any current, updated and new products and services ("Products and Services"), including the addition of new properties/features shall be subject to this Privacy Policy, as well as the [General Terms and Conditions of Service ("Terms of Service")](http://mytruspot.com/terms-of-use). By using TruSpot you agree to be bound by this **Privacy Policy** and the [**Terms and Conditions**](http://mytruspot.com/terms-of-use), whether or not you register as a listener, Artist, Label or other account types. Please read this Privacy Policy carefully. 
 
