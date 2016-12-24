@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dpdhl.jobs privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402022644id_/http%3A//dpdhl.com/en/data_protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpdhl.jobs privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224153328id_/http%3A//dpdhl.com/en/data_protection.html) for the most accurate reproduction.*
 
 # Deutsche Post DHL Group | Data protection
 
    
-**As of April 18, 2013**  
+**As of July 13, 2016**  
 Deutsche Post AG (hereinafter called 'Deutsche Post DHL Group') is pleased that you have visited our website and are interested in our company, products and services. It is important to us to protect your personal data during handling throughout the entire business process. We want you to feel secure when you visit our Internet pages.
 
 In the following, we explain what information Deutsche Post DHL Group collects when you visit our website and how this information is used.
@@ -234,15 +234,14 @@ We keep our data protection statement under regular review.
 
 Deutsche Post DHL Group reserves the right to change its data protection statement at any time with or without prior notice. Please check back frequently to be informed of any changes. By using the Deutsche Post DHL Group website, you agree to this Privacy Policy.
 
-This statement was last updated on April 18, 2013.
+This statement was last updated on July 13, 2016.
 
 ### Contact
 
-If you have questions in regard to the processing of your personal data, please contact the Deutsche Post AG data protection officer. The Data Protection team is also available to help with information requests, take suggestions or handle complaints.
+If you have questions in regard to the processing of your personal data, please contact the Deutsche Post AG data protection officer. We are also available to help with information requests, to take suggestions or to handle complaints.
 
-Data Protection Officer for Deutsche Post AG
-
-Gabriela Krader, LL.M  
 Deutsche Post AG  
-Corporate Center  
-53250 Bonn
+Data Protection Officer  
+Gabriela Krader, LL.M.  
+53250 Bonn  
+Germany
