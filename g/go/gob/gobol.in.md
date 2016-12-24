@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobol.in privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625012050id_/http%3A//www.gobol.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobol.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224091053id_/http%3A//www.gobol.in/privacy_policy) for the most accurate reproduction.*
 
 # Gobol.in: Privacy Policy
 
