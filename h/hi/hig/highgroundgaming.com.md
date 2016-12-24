@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highgroundgaming.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505144311id_/http%3A//www.highgroundgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highgroundgaming.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133412id_/http%3A//www.highgroundgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | High Ground Gaming
 
