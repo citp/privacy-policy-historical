@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthypeople.gov privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628133045id_/http%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypeople.gov privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224060205id_/http%3A//www.hhs.gov/privacy.html) for the most accurate reproduction.*
 
 # HHS Privacy Policy Notice | HHS.gov
 
-This privacy notice applies to [www.hhs.gov](https://web.archive.org/) and a number of other HHS websites with unique domains, such as [www.StopBullying.gov](http://www.stopbullying.gov/).  However, some HHS websites maintain their own privacy policy notices.  You can find links to the applicable privacy notice in the footer of each HHS website.
+This privacy notice applies to [www.hhs.gov](https://web.archive.org/) and a number of other HHS websites with unique domains, such as [www.StopBullying.gov](http://www.stopbullying.gov/). However, some HHS websites maintain their own privacy policy notices.  You can find links to the applicable privacy notice in the footer of each HHS website.
 
   * We do not collect personally identifiable information (PII) about you unless you choose to provide that information to us.
   * Any personal information you chose to provide is protected by security practices.
@@ -28,8 +28,6 @@ For more detailed information on HHS privacy, see these topics below:
 
 
 
-Back to Top
-
 ## Personal Information Voluntarily Submitted to HHS
 
 If you choose to provide HHS with personal information -- for example by completing a “Contact Us” form, leaving a comment, sending email, or completing a survey -- we may use that information to respond to your message and/or help us get you the information or services you requested. Submitting personal information (name, address, telephone number, email address, etc.) is voluntary and is not required to access information on our website.
@@ -43,15 +41,11 @@ For more information, see:
 
 
 
-Back to Top
-
 ## Interaction with Children Online
 
 The Department will take all reasonable steps necessary to protect the privacy and safety of any child from whom information is collected, as required by the Children’s Online Privacy Protection Act (COPPA). A child’s parent or guardian is required to provide consent before HHS collects, uses, or shares personal information from a child under age 13.
 
 Information and instructions will be provided by the specific Web page that collects information about a child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept.
-
-Back to Top
 
 ## Visiting an Official HHS Page on Third-Party Websites
 
@@ -66,8 +60,6 @@ Common third-party website privacy policies used by HHS include:
 If you have an account/profile with a third-party website, and choose to follow, like, friend, or comment on a third-party website managed by HHS, certain personal information associated with your account may be made available to us based on the privacy policies of the third-party website and your privacy settings within that website.  **We do not share personally identifiable information made available through these websites.**
 
 HHS conducts and publishes a Privacy Impact Assessment for each use of a third-party website. Each use of a third-party website may have unique features or practices. HHS sometimes collects and uses the information made available through third-party websites. To learn more, review the [published assessments](https://web.archive.org/pia/).
-
-Back to Top
 
 ## Information Automatically Collected and Stored
 
@@ -128,8 +120,6 @@ Websites can automatically place small text files, known as “cookies,” on th
 
 
 You can take actions to block cookies by [opting out](http://www.usa.gov/optout_instructions.shtml) [](https://web.archive.org/disclaimer.html). Blocking session cookies from your computer will not affect your access to the content and tools on our website. Blocking multi-session or persistent cookies may affect the personalization of the information on those sites.
-
-Back to Top
 
 ## Website Security
 
