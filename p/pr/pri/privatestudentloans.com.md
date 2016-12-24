@@ -1,39 +1,40 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081654id_/https%3A//www.privatestudentloans.com/terms-privacy-disclaimer/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224162319id_/https%3A//www.privatestudentloans.com/terms-privacy-disclaimer/%23privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy | PrivateStudentLoans.com
 
 ## Terms of Use
 
-Last Modified: October 29, 2013
+Last Modified: June 30, 2016
 
 ### Contents
 
-  1. [Accepting Edvisors' Terms of Use](https://www.privatestudentloans.com/terms-privacy-disclaimer/#accepting-terms)
-  2. [Privacy Policy](https://www.privatestudentloans.com/terms-privacy-disclaimer/#terms)
-  3. [Changes to Edvisors' Terms of Use and Our Services](https://www.privatestudentloans.com/terms-privacy-disclaimer/#changes)
-  4. [Third-Party Links and Content](https://www.privatestudentloans.com/terms-privacy-disclaimer/#third-party)
-  5. [User Submissions](https://www.privatestudentloans.com/terms-privacy-disclaimer/#user-submissions)
-  6. [Digital Millennium Copyright Act](https://www.privatestudentloans.com/terms-privacy-disclaimer/#digital-millennium-copyright)
-  7. [Children's Online Privacy Protection Notice](https://www.privatestudentloans.com/terms-privacy-disclaimer/#childrens-online-privacy)
-  8. [Proprietary Rights to Content](https://www.privatestudentloans.com/terms-privacy-disclaimer/#proprietary-rights)
-  9. [Eligibility for Registered Services](https://www.privatestudentloans.com/terms-privacy-disclaimer/#eligibility-registered-services)
-  10. [Registration and Site Visitation Obligations](https://www.privatestudentloans.com/terms-privacy-disclaimer/#registration-site-visitation)
-  11. [Registered Services Password and Account Access](https://www.privatestudentloans.com/terms-privacy-disclaimer/#password-account-access)
-  12. [Registered-User and Website Visitor Conduct](https://www.privatestudentloans.com/terms-privacy-disclaimer/#visitor-conduct)
-  13. [Disclaimer of Warranties](https://www.privatestudentloans.com/terms-privacy-disclaimer/#disclaimer-of-warranties)
-  14. [Limitation of Liability](https://www.privatestudentloans.com/terms-privacy-disclaimer/#limitation-of-liability)
-  15. [Indemnification](https://www.privatestudentloans.com/terms-privacy-disclaimer/#indemnification)
-  16. [Use and Storage](https://www.privatestudentloans.com/terms-privacy-disclaimer/#use-storage)
-  17. [Trademark Information](https://www.privatestudentloans.com/terms-privacy-disclaimer/#trademark-information)
-  18. [Arbitration](https://www.privatestudentloans.com/terms-privacy-disclaimer/#arbitration)
-  19. [Jurisdiction](https://www.privatestudentloans.com/terms-privacy-disclaimer/#jurisdiction)
-  20. [Entire Agreement](https://www.privatestudentloans.com/terms-privacy-disclaimer/#entire-agreement)
-  21. [Assignment](https://www.privatestudentloans.com/terms-privacy-disclaimer/#assignment)
-  22. [Invalidity; Waiver](https://www.privatestudentloans.com/terms-privacy-disclaimer/#invalidity-waiver)
-  23. [Termination](https://www.privatestudentloans.com/terms-privacy-disclaimer/#termination)
-  24. [Definitions](https://www.privatestudentloans.com/terms-privacy-disclaimer/#definitions)
-  25. [User Suggestions](https://www.privatestudentloans.com/terms-privacy-disclaimer/#user-suggestions)
-  26. [Questions / Comments](https://www.privatestudentloans.com/terms-privacy-disclaimer/#questions-comments)
+  1. Accepting Edvisors' Terms of Use
+  2. Privacy Policy
+  3. Changes to Edvisors' Terms of Use and Our Services
+  4. Third-Party Links and Content
+  5. User Submissions
+  6. Digital Millennium Copyright Act
+  7. Children's Online Privacy Protection Notice
+  8. Proprietary Rights to Content
+  9. Eligibility for Registered Services
+  10. Registration and Site Visitation Obligations
+  11. Registered Services Password and Account Access
+  12. Registered-User and Website Visitor Conduct
+  13. Liability for Technical Disruptions to Our Website(s)
+  14. Disclaimer of Warranties
+  15. Limitation of Liability
+  16. Indemnification
+  17. Use and Storage
+  18. Trademark Information
+  19. Arbitration
+  20. Jurisdiction
+  21. Entire Agreement
+  22. Assignment
+  23. Invalidity; Waiver
+  24. Termination
+  25. Definitions
+  26. User Suggestions
+  27. Questions / Comments
 
 
 
@@ -47,32 +48,37 @@ StudentScholarshipSearch.com
 PrivateStudentLoans.com  
 FinancialAidNews.com  
 FAFSAOnline.com  
-StudentLoanConsolidator.com | ParentPlusLoan.com  
+StudentLoanConsolidator.com
+
+ParentPlusLoan.com  
 StaffordLoan.com  
 StudentLoanNetwork.com  
 HowToGetIn.com  
 CollegeToolkit.com  
 CollegeGrader.com  
-FinancialAidForum.com | FinancialAidOfficer.com  
+FinancialAidForum.com
+
+FinancialAidOfficer.com  
 GraduateCenter.com  
 GradLoans.com  
 MBAloans.com  
 DirectStudentLoans.com  
 CollegeLoanSolutions.com  
-   
----|---|---  
-  
+ 
+
 Edvisors provides its Services to you through its Websites (“Website”) mobile applications and related services (“Service(s)”), subject to the following Terms of Use. By accessing this Website, mobile application or using the Services, you agree to these Terms of Use. If you do not agree to any of the terms and conditions of these Terms of Use, please do not use the Services and exit the website now. You may be required to register with Edvisors in order to access and use certain Services or features (“Registered Services”). If you choose to register, you must meet the eligibility requirements of the website and your choice to register for such Registered Services indicates your acceptance of these Terms of Use.
 
 ### 2\. Privacy Policy
 
-As a condition for using the Service(s), you agree that you have read, understood and accept [Edvisors’ Privacy Policy](https://www.privatestudentloans.com/terms-privacy-disclaimer/#privacy), which may be updated from time to time. After notice of a change to the privacy policy, continued use of the website(s) will be deemed acceptance of the policy.
+As a condition for using the Service(s), you agree that you have read, understood and accept [Edvisors’ Privacy Policy](https://www.privatestudentloans.com/privacy/), which may be updated from time to time. After notice of a change to the privacy policy, continued use of the website(s) will be deemed acceptance of the policy.
 
 ### 3\. Changes to Edvisors’ Terms of Use and Our Services
 
 We reserve the right to modify these Terms of Use at any time and in our sole discretion without prior notice. Furthermore, we reserve the right to add to, update, delete from or modify the Services at any time and in our sole discretion. We may post or display notices of changes to the Term of Use on or through the Services. Once posted, these changes to the Terms of Use become effective immediately. If any change that we make is not acceptable to you, your sole recourse shall be to cease using the Services. Any access or use by you of the Services after any changes to our Terms of Use constitutes conclusive evidence of your acknowledgement of the modification to these Terms of Use and your agreement to be bound by such change(s). You should check back regularly and review these Terms of Use. Any new or additional feature of the Services shall be subject to these Terms of Use.
 
 ### 4\. Third-Party Links and Content
+
+Edvisors does not exercise editorial control over third-party content provided, uploaded, published, or distributed by users and other participants on Edvisors websites. In other words, the Edvisors website(s) is/are merely a distributor, not a publisher, of such content. Such content may contain the views, opinions, statements, offers, and other material of the respective users, suppliers, participants, or authors. Edvisors does not endorse, is not responsible for, and makes no representations or warranties regarding, such content or its accuracy, supplier ability or fitness for any particular purpose, and Edvisors shall not be liable for any harm resulting from or in connection with reliance on any such content,  including, but not limited to, claims for defamation, libel, slander, infringement, invasion of privacy and publicity rights, obscenity, pornography, profanity, fraud, or misrepresentation. In addition, the Edvisors. shall not be a party to or liable in any way for any harm associated with, any transaction between our users and any other user or participant on the website(s).  Notwithstanding the foregoing, Edvisors reserves the right to block or remove communications, postings or materials at any time in our sole discretion.
 
 The Services may contain links to third-party websites or applications that are not owned or controlled by Edvisors. Edvisors has no control over, and assumes no responsibility for the products, services, content, privacy policies or practices of any third-party website or application. In addition, Edvisors is unable and unwilling to censor or edit the content of any third-party website or application. By accessing and using the Services, you expressly relieve Edvisors from any and all liability arising from your use of any linked third-party website or application. Accordingly, we encourage you to be aware when you leave our Services and to read the terms and conditions and privacy policy of each website or application that you access or use. If you decide to access any other websites or applications linked to or from our Services, you do so entirely at your own risk. Any questions, complaints, or claims related to any product or service provided by a third-party on the Services should be directed to the applicable third-party.
 
@@ -146,29 +152,33 @@ You may not use any “deep-link,” “page-scrape,” “robot,” “spider�
 
 You may not attempt to gain unauthorized access to any portion or feature of the Services, or any other systems or networks connected to the Services or to any Edvisors server, or to any of the services offered on or through the Services, by hacking, password “mining” or any other illegitimate means. You may not harvest or collect User names, User IDs, email addresses or any other User identifying information by electronic or other means for the purpose of sending unsolicited email or other communications. Unauthorized commercial advertisements, affiliate links, and other forms of solicitation may be removed from User profiles and/or community postings without notice and may result in termination of User privileges.
 
-### 13\. Disclaimer of Warranties
+### 13\. Liability for Technical Disruptions to Our Website(s)
+
+If you cause a technical disruption of our website or any aspect of its functionality you agree to be responsible for any and all loss, costs, liabilities or expenses Edvisors may suffer and you agree to be liable for any attorneys' fees and costs arising from and/or related to the same. The foregoing shall be without limitation of our other venders in law or equity.
+
+### 14\. Disclaimer of Warranties
 
 You agree that use of the Services and this Website is solely at your own risk. All Services offered by Edvisors are provided on a strictly “as is” and “as available” basis, without representation or warranty of any kind. Neither Edvisors nor its third-party partners make any warranty, express or implied: (i) with regard to any products, services, or gifts obtained by you through the Services or through any third-party; (ii) that the services will meet your requirements; (iii) that the Services will be uninterrupted, timely, free of errors or without defects; (iv) as to the results you may obtain by using the Services; or (v) as to the accuracy or reliability of any information obtained via the Services. **EDVISORS EXPRESSLY DISCLAIMS ANY AND ALL EXPRESS, IMPLIED AND STATUTORY WARRANTIES REGARDING THE INFORMATION, SERVICES OR GOODS PROVIDED BY OR THROUGH THE SERVICES (OTHER THAN THOSE INCAPABLE OF EXCLUSION UNDER THE LAWS APPLICABLE TO THESE TERMS OF USE), INCLUDING, BUT NOT LIMITED TO: (I) THE IMPLIED WARRANTY OF MERCHANTABILITY; (II) THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR USER OR PURPOSE; AND (III) NON-INFRINGEMENT. EDVISORS CANNOT AND SHALL NOT BE LIABLE OR RESPONSIBLE FOR THOSE GUARANTEES, WARRANTIES, AND REPRESENTATIONS, IF ANY, OFFERED BY ANY THIRD-PARTY INCLUDING BUT NOT LIMITED TO: CLIENTS, SPONSORS, REWARD PARTNERS, MANUFACTURERS OF MERCHANDISE OR SUPPLIERS OF SERVICES. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM EDVISORS OR VIA THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.**
 
-### 14\. Limitation of Liability
+### 15\. Limitation of Liability
 
 You understand that some goods and services offered through the Services may be offered by third-parties or affiliates, and that Edvisors does not operate, control or endorse any of their information, goods or services in any way. You understand that third-parties may place restrictions on the use of goods and services offered through the Services. Neither Edvisors nor its officers, directors, stockholders, subsidiaries, employees, agents, licensors, affiliates, or other third-party providers shall be held liable for any damages or losses, whether direct, indirect, incidental, special, consequential or exemplary damages resulting from: (i) the user or inability to use the Services; (ii) the cost of procurement of substitute goods or services; (iii) any transaction entered into or through the Services; (iv) the reliance on or use of any information, goods, services or merchandise provided through the Services; (v) unauthorized access to or alteration of your transmissions or data; (vi) statements or conduct of any third-party; (vii) any claim attributable to errors, omissions, or other inaccuracies in the Services and/or materials or information retrieved through the Services; or (viii) any other matter relating to the Services or these Terms of Use. The above limitation is applicable even if Edvisors or its authorized representatives have been advised of (or know or should know of) the possibility of such damages. Because some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages, some of the above limitations and disclaimers may not apply to you. Your rights vary from jurisdiction to jurisdiction. To the extent that we may not, as a matter of applicable law, disclaim any implied warranty, the scope and duration of such warranty shall be the minimum permitted under such applicable law. You acknowledge and agree that Edvisors neither endorses the contents of any electronic mail or Internet communications nor shall be held responsible or liable for: (i) the accuracy of material contained in electronic mail, Internet, or other communications of third-parties or affiliates; (ii) any infringement of third-party intellectual property rights arising from the electronic mail Internet, or other communications from third-parties or affiliates; or (iii) any fraud or other crime facilitated by the electronic mail, Internet, or other communications by third-parties or affiliates. You agree that Edvisors is not liable to you or to any third-party for any modification, suspension or discontinuances of services from particular providers to the Services.
 
-### 15\. Indemnification
+### 16\. Indemnification
 
 YOU AGREE TO INDEMNIFY AND HOLD HARMLESS EDVISORS AND ITS SUBSIDIARIES, PREDECESSORS, SUCCESSORS, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, SUPPLIERS, CO-BRANDERS, THIRD-PARTY PROVIDERS, CLIENTS, SPONSORS, REWARD PARTNERS OR OTHER PARTNERS, FROM AND AGAINST ANY AND ALL CLAIMS, LOSSES, COSTS (INCLUDING COURT COSTS), FEES (INCLUDING ATTORNEY’S FEES), DAMAGES AND EXPENSES THAT SUCH PARTIES MAY INCUR AS A RESULT OF, DUE TO, OR ARISING OUT OF THE VIOLATION BY YOU (OR ANYONE ACTING UNDER YOU ACCOUNT OR PASSWORD) OF THESE TERMS OF USE OR THE USE OR MISUSE OF THE SERVICES BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD), OR THE VIOLATION OF ANY RIGHTS OF ANOTHER BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD).
 
-### 16\. Use and Storage
+### 17\. Use and Storage
 
 You acknowledge that Edvisors may establish general practices and limits concerning use of the Services including, without limitation, the maximum number of days that information, data, account history or other uploaded content will be retained by the Services, the maximum disk space that will be allotted on Edvisors servers on your behalf, and the maximum number of times (and the maximum duration for which) you may access the Services in a given period of time. You acknowledge that Edvisors reserves the right to terminate accounts that are inactive for an extended period of time, as determined by Edvisors in its sole discretion. You further acknowledge that Edvisors reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice. You agree that EDVISORS has no responsibility or liability for the deletion or failure to store any information or data and other communications or other content maintained or transmitted by or through the Services.
 
-### 17\. Trademark Information
+### 18\. Trademark Information
 
 All Edvisors trademarks, as well as any third-party trademarks, service marks, logos and trade names appearing on this Website or on or through the Services, are the property of their respective owners, and you may not copy or use them in any manner.
 
 Nothing contained on this Website should be understood as granting you a license to use any of the trademarks, service marks, or logos owned by Edvisors or by any third party.
 
-### 18\. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS
+### 19\. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS
 
   1. Most of your concerns can be resolved quickly by contacting Edvisors at [info@edvisors.com](mailto:info@edvisors.com). In the event that we cannot resolve your concern, binding arbitration through the following procedures shall be your sole and exclusive remedy. Any arbitration under these Terms of Use will take place on an individual basis; class arbitrations and class actions are not permitted.
   2. Pursuant to the Federal Arbitration Act, Edvisors and you agree to arbitrate all disputes and claims between us. This agreement to arbitrate is intended to be broadly interpreted. It includes, but is not limited to, claims arising out of or relating to any aspect of the relationship between us, regardless of legal theory, including, but not limited to, claims relating to advertising and claims relating to any and all use of the Service(s), whether brought during or after the term of these Terms of Use. References to “Edvisors,” “you,” and “us” include our respective corporate subsidiaries and parents, affiliates, agents, employees, officers, directors, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services under these Terms of Use or prior agreements between us. Notwithstanding the foregoing, either party may bring an individual action in small claims court. You agree that, by accepting these Terms of Use, you and Edvisors are each waiving the right to a trial by jury or to participate in a class action. This Section 18 shall survive termination of these Terms of Use.
@@ -179,23 +189,23 @@ Nothing contained on this Website should be understood as granting you a license
 
 
 
-### 19\. Jurisdiction
+### 20\. Jurisdiction
 
 These Terms of Use and any dispute of any kind that arises with Edvisors shall be governed by the laws of the State of Nevada without regard to the principles of conflicts of laws. You further agree to irrevocably submit to the exclusive personal jurisdiction of Nevada courts.
 
-### 20\. Entire Agreement
+### 21\. Entire Agreement
 
 These Terms of Use constitutes the complete, final and exclusive understanding between Edvisors and you relating to the subject matter hereof and governs your use of the Service(s), superseding all prior or contemporaneous understandings, agreements and/or communications with respect to such subject matter. You may be subject to additional terms and conditions that may apply when you obtain or use third-party content, third-party software or goods and services provided by or through Clients, Sponsors, Reward Partner, Affiliates or other third-party partners of Edvisors.
 
-### 21\. Assignment
+### 22\. Assignment
 
 These Terms of Use, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Edvisors without restriction.
 
-### 22\. Invalidity; Waiver
+### 23\. Invalidity; Waiver
 
 If any provision of these Terms of Use is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Use, which shall remain in full force and effect. No waiver of any term of these Terms of Use shall be deemed a further or continuing waiver of such term or any other term, and Edvisors’ failure to assert any right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
 
-### 23\. Termination
+### 24\. Termination
 
 A Member may terminate their membership in any of the Registered Services with or without cause at any time. Member’s termination of Registered Services is effective upon Member’s terminating his/her membership on the Service’s Website. A visitor to any Edvisors Website who is not a Member but who does not agree to any of the terms and conditions of these Terms of Use should not use any of the Services and should exit the Website immediately.
 
@@ -203,7 +213,7 @@ Edvisors may terminate membership and use of any of the Registered Services and 
 
 Upon termination by either you or Edvisors: (i) Edvisors may immediately deactivate or delete your account and all related information and files and/or bar any further access to such files or the Services: (ii) your rights to use the Service(s) ceases immediately, including any rights to contests, games, or activities active at the time of termination; (iii) should you object to any of these Terms of Use or any subsequent modifications thereto or become dissatisfied with the Service, your only recourse is to immediately discontinue use of the Service. You agree that Edvisors shall not be liable to you or to any third-party for any termination of your account or your access to the Services.
 
-### 24\. Definitions
+### 25\. Definitions
 
   1. **Sponsor:** Any company or an organization that pays Edvisors to plan and carries out a sweepstakes, contest or activity on an Edvisors’ owned and operated website or mail-in promotion.
   2. **Client:** Any company which Edvisors has a contract with to connect Edvisors members with. The Client would plan and carry out the sweepstakes, survey, contest or activity on Client’s owned and operated website or mail-in promotion.
@@ -212,7 +222,7 @@ Upon termination by either you or Edvisors: (i) Edvisors may immediately deactiv
 
 
 
-### 25\. User Suggestions
+### 26\. User Suggestions
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information provided by you to Edvisors are not commercial and you grant us a worldwide, royalty-free license to distribute, publish, modify, edit or otherwise use your submissions. Edvisors shall be entitled to the unrestricted use and dissemination of these submissions for any purpose, commercial or otherwise without any acknowledgement of or compensation to you.
 
@@ -226,17 +236,18 @@ We provide this policy to explain our privacy practices, including what informat
 
 ### Contents
 
-  1. [Information We Collect](https://www.privatestudentloans.com/terms-privacy-disclaimer/#information-we-collect)
-  2. [Children’s Privacy Policy](https://www.privatestudentloans.com/terms-privacy-disclaimer/#childrens-privacy-policy)
-  3. [How We Protect Your Information](https://www.privatestudentloans.com/terms-privacy-disclaimer/#how-we-protect-your-information)
-  4. [How We Use Your Information](https://www.privatestudentloans.com/terms-privacy-disclaimer/#how-we-use-your-information)
-  5. [How We Share Your Information](https://www.privatestudentloans.com/terms-privacy-disclaimer/#how-we-share-your-information)
-  6. [Links To Other Sites](https://www.privatestudentloans.com/terms-privacy-disclaimer/#links-to-other-sites)
-  7. [How To Update Your Information](https://www.privatestudentloans.com/terms-privacy-disclaimer/#how-to-update-your-information)
-  8. [Changing Our Privacy Policy](https://www.privatestudentloans.com/terms-privacy-disclaimer/#changing-our-privacy-policy)
-  9. [Retention](https://www.privatestudentloans.com/terms-privacy-disclaimer/#retention)
-  10. [Disputes: No Rights of Third Parties](https://www.privatestudentloans.com/terms-privacy-disclaimer/#disputes-no-rights-of-third-parties)
-  11. [Effective Date of This Policy](https://www.privatestudentloans.com/terms-privacy-disclaimer/#effective-date-of-this-policy)
+  1. Information We Collect
+  2. Children’s Privacy Policy
+  3. How We Protect Your Information
+  4. How We Use Your Information
+  5. How We Share Your Information
+  6. Links To Other Sites
+  7. How To Update Your Information
+  8. Your Opt Out Rights
+  9. Changing Our Privacy Policy
+  10. Retention
+  11. Disputes: No Rights of Third Parties
+  12. Effective Date of This Policy
 
 
 
@@ -248,7 +259,7 @@ This Privacy Policy applies to all web sites owned and operated by Edvisors Netw
 10000 W. Charleston Blvd., Suite 200  
 Las Vegas, NV 89135 USA**
 
-Our goal is to resolve questions or concerns you have about this policy or our privacy practices. If you have questions about this policy, you may reach us during regular business hours at (888) 972-1010. If you wish to opt out, [click here](https://www.edvisors.com/contact/unsubscribe/).
+Our goal is to resolve questions or concerns you have about this policy or our privacy practices. If you have questions about this policy, you may reach us during regular business hours at (888) 972-1010.
 
 ### 1\. Information We Collect
 
@@ -328,7 +339,7 @@ This web site is not directed or otherwise promoted for use by children under th
 
 ### 3\. How We Protect Your Information
 
-We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. Edvisors Network, Inc. maintains physical, electronic, and administrative safeguards to help protect our data. To protect your personal information from unauthorized access and use, we have implemented both online and offline security measures such as computer safeguards (firewalls and passwords) and securing servers and buildings where your information is stored. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect your information.
+We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. Edvisors Network, Inc. maintains physical, electronic, and administrative safeguards to help protect our data. To protect your personal information from unauthorized access and use, we have implemented both online and offline security measures such as computer safeguards (firewalls and passwords) and securing servers and buildings where your information is stored. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect your information, however we “do not guarantee” the security of personal information sold to or shared with third parties.
 
 We cannot, however, ensure or warrant the security of any information you transmit to us or store on the Service and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
@@ -338,17 +349,17 @@ We use your Information to provide you the services you request (such as student
 
 In addition, we use your information to operate, administer, test and improve our sites, and to customize and improve the user experience.
 
-**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above. If you prefer not to receive marketing materials from Edvisors, you may [opt out](https://www.edvisors.com/contact/unsubscribe/).
+**Edvisors Sites:** The sites that constitute the Edvisors Network all have access to and use information about you for the purposes described above.
 
-**Advertisers and Marketing Partners:** We may share with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; or nonprofit organizations. If you prefer not to receive marketing materials from third parties, you may [opt out](https://www.edvisors.com/contact/unsubscribe/).
+**Advertisers and Marketing Partners:** We may share and/or sell with third parties whose products and services we think may be of interest to you, such as educational institutions; financial companies, such as those that make or arrange student loans and other financial products; non-financial institutions, such as retailers who sell a wide range of products and services to consumers; direct marketing companies; or nonprofit organizations. These third parties may be domestic or international.
 
-**Third Party Market Research (MR) Companies:** We may also share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the purpose of identifying survey opportunities that you may be eligible for through the Third Party MR Companies. If you are eligible for a survey opportunity, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the survey. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States. If you have any questions about this data sharing, you may reach us during regular business hours at (888) 972-1010 or alternatively you may [opt-out](https://www.edvisors.com/contact/unsubscribe/). Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
+**Third Party Market Research (MR) Companies:** We may also share your personal information and/or social-demographic information, including, without limitation, a unique identification number (“UID”), postal code, gender, marital status, education, ethnicity/race (where permitted by applicable law), employment related information, and non-personally identifiable information on household members, with third party sample/market research companies (individually each a “Third Party MR Company” and collectively the “Third Party MR Companies”) for the purpose of identifying survey opportunities that you may be eligible for through the Third Party MR Companies. If you are eligible for a survey opportunity, the Third Party MR Company will provide your unique identification number and a survey link to us and we will invite you to participate in the survey. We will not share your name, email address, or phone number with the Third Party MR Companies. In connection with the sharing of your information with a Third Party MR Company, your information may be transferred and stored outside of your country of residence, including, without limitation, in the United States. If you have any questions about this data sharing, you may reach us during regular business hours at (888) 972-1010. Your participation in such survey opportunities does not entitle you to any benefits offered by, or membership with, the Third Party MR Companies.
 
 **Analytics Partners:** We may share your information with third parties who use the information solely for analytical purposes. The third-party analytics provider cannot associate your IP address with your personally identifiable information.
 
 We make certain anonymized or aggregated information (which is information that does not personally identify you) available to third parties, to: (a) comply with various reporting obligations; (b) for business or marketing purposes; or (c) to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through the Service.
 
-**Third-Party Service Providers:** From time to time we may use third parties to perform specific services, such as sending emails or newsletters to Edvisors users. If we use a third party to provide specific services, then information (such as contact information) may be shared with that party to the extent necessary for the third party to provide these services. These third-party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by Edvisors. The third-party services covered by this paragraph do not include links to third-party sites found on our sites. These third party links are governed by a [more specific provision below](https://www.privatestudentloans.com/terms-privacy-disclaimer/#links-to-other-sites).
+**Third-Party Service Providers:** From time to time we may use third parties to perform specific services, such as sending emails or newsletters to Edvisors users. If we use a third party to provide specific services, then information (such as contact information) may be shared with that party to the extent necessary for the third party to provide these services. These third-party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by Edvisors. The third-party services covered by this paragraph do not include links to third-party sites found on our sites. These third party links are governed by a more specific provision below.
 
 **Disclosure to Law Enforcement and Similar Disclosures:** While Edvisors strives to protect the personal information of all users, Edvisors will disclose information if legally required to do so, if requested to do so by a government entity, or if it believes in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
@@ -374,9 +385,13 @@ We endeavor to ensure that personal information is as accurate, complete and cur
 
 The appropriate method(s) for accessing your information, if any, will depend on which of our web sites and services you have visited or used. Depending on the web site and service, you may have the ability to view or edit some of your information online, by logging into the services and visiting your account profile page. You may also reach us during regular business hours at (888) 972-1010 to request access to, correct, or delete any personal information that you have provided to us; however, we may ask you to verify your identity and provide other details to help us to respond to your request.
 
-**Promotional E-mails:** If you do not wish to receive promotional e-mails from us, including our e-newsletters, follow the unsubscribe process at the bottom of the promotional e-mail. Alternatively, you can [opt-out here](https://www.edvisors.com/contact/unsubscribe/). Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on or made through the services).
+### 8\. Your Opt Out Rights
 
-If you wish to opt out of the use of your technical information by online advertising networks, please visit <http://www.aboutads.info/choices>. You can also disable or delete cookies directly on your web browser. Please see your browser’s “help” content for information on how to do this.
+**Unsubscribe from Our  E-mails:** If you do not wish to receive promotional e-mails from us, (whether on our behalf or on behalf of a client), including our e-newsletters, follow the unsubscribe process at the bottom of the promotional e-mail. Alternatively, you can [unsubscribe here](https://www.edvisors.com/contact/unsubscribe/). Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on or made through the services).
+
+**Opting Out — Advertisers and Third Parties:** We will stop sharing and/or selling your personal information in Edvisors’ proprietary database to help third parties (including Third Party Market Research (MR) Companies) , or marketing partners send or tailor ads and content to you, including through email, direct mail or online display marketing. Doing so will not opt you out of our marketing partners’ or third parties databases, only data in Edvisors’ own database – so other companies that we work with may still send ads, offers and content to you. To opt out of Edvisors sharing and/or selling your information with third parties and/or marketing partners, [opt out here](https://www.edvisors.com/third-party-opt-out/).
+
+**Opting Out of Interest Based Advertising:** If you wish to opt out of the use of your technical information by online advertising networks, please visit <http://www.aboutads.info/choices>. You can also disable or delete cookies directly on your web browser. Please see your browser’s “help” content for information on how to do this.
 
 You can opt-out of our use of your online viewing behavior data to serve you interest-based advertising on third-party sites at [www.aboutads.info](http://www.aboutads.info/) or by clicking on the Interest-based Ads link in the footer of our web sites and navigating to the consumer opt-out page. Use the same links to opt-out of interest-based advertising on our services from any third-party advertising networks we may use.
 
@@ -384,13 +399,13 @@ If you would like to opt-out of having interest-based ad targeting, [click here]
 
 Your access to our web sites should not be affected if you do not accept cookies served by third parties.
 
-If you have any problems or questions regarding your privacy preferences or opt out options, and cannot resolve them using our [opt out](https://www.edvisors.com/contact/unsubscribe/) page, you may reach us during regular business hours at (888) 972-1010.
+If you have any problems or questions regarding your privacy preferences or opt out options,  you may reach us during regular business hours at (888) 972-1010.
 
 **Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)**
 
-Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for direct marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can [opt-out here](https://www.edvisors.com/contact/unsubscribe/).
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California residents asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of California residents to third parties for the third parties' direct marketing purposes if the California resident has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
-**Opting out of Email Marketing:** If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails.
+Any California residents who have an established relationship with Edvisors may opt out of Edvisors disclosing your personal information with third parties for direct marketing purposes. Under California law, third parties include affiliates of Edvisors. If you do not want Edvisors to disclose your personal information to third parties, including affiliates, you can [opt-out here](https://www.edvisors.com/third-party-opt-out/).
 
 Pursuant to California privacy law, registered users under 18 years of age may request to have content or information posted by the user removed from any of our online platforms. In order to effectuate removal of such content or information, you may reach us during regular business hours at (888) 972-1010.
 
@@ -398,21 +413,21 @@ The removal of content does not ensure complete or comprehensive removal of the 
 
 We do not advertise or market any of the products or services identified in Chapter 22.1 Sec. 22580 (i) to users we have actual knowledge are under 18 years of age.
 
-### 8\. Changing Our Privacy Policy
+### 9\. Changing Our Privacy Policy
 
 Your use of any web site owned or operated by Edvisors Network, Inc. indicates an acceptance of the terms of the Privacy Policy. Edvisors reserves the right to update or amend this Privacy Policy at any time to reflect our current privacy practices. If Edvisors decides to materially change this Privacy Policy in the way we use your personal information, those changes will be posted through a prominent notice on the web site.
 
-### 9\. Retention
+### 10\. Retention
 
 We will retain your personal information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.
 
-### 10\. Disputes; No Rights of Third Parties
+### 11\. Disputes; No Rights of Third Parties
 
-If you choose to access our web sites or use any of our services, any dispute over privacy is subject to our [Terms of Use](https://www.privatestudentloans.com/terms-privacy-disclaimer/#terms-of-use), including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of Nevada. This Privacy Policy does not create rights enforceable by third parties.
+If you choose to access our web sites or use any of our services, any dispute over privacy is subject to our Terms of Use, including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of Nevada. This Privacy Policy does not create rights enforceable by third parties.
 
-### 11\. Effective Date of This Policy
+### 12\. Effective Date of This Policy
 
-Revised: **August 5, 2015**
+Revised: **June 8, 2016**
 
 ## Disclaimer
 
