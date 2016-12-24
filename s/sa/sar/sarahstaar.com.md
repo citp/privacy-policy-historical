@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623091307id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224032651id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SarahStaar.com
 
@@ -12,7 +12,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Our Commitment To Children’s Privacy**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are no allowed to access our service.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are not allowed to access our service.
 
 **Collection of Personal Information**
 
