@@ -1,74 +1,105 @@
-> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604063104id_/http%3A//iflmylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflmylife.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224221331id_/http%3A//iflmylife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – IFL My Life
+# Privacy Policy | IFLMyLife
 
-This Privacy Policy governs the manner in which I.F.L MyLife collects, uses, maintains and discloses information collected from users (each, a “User”) of the WWW.IFLMYLIFE.COM website (“Site”). This privacy policy applies to the Site and all products and services offered by I.F.L MyLife
+Last updated: April 01, 2016
 
-Personal information – Shhh! we won’t tell.
+IFLMyLife (“us”, “we”, or “our”) operates the http://www.iflmylife.com website (the “Service”).
 
-We may collect information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our site. Users may visit our site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain site related activities.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Non-personal identification information
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.iflmylife.com
 
-Web browser cookies – ( **yummy)**
+**Information Collection And Use**
 
-I.F.L MyLife
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you.
 
-may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Log Data**
 
-How we use collected information
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-I.F.L MyLife
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-  may collect and use Users personal information for the following purposes:  
+**Cookies**
 
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
+**DoubleClick Cookie**
 
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-How we protect your information
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: http://www.google.com/ads/preferences
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**Behavioral Remarketing**
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+IFLMyLife uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-Sharing your personal information
+**Facebook**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Facebook remarketing service is provided by Facebook Inc.
 
-Google Adsense
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
 
-Some of the ads may be served by Google. Google’s use of the cookies enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217
 
-Changes to this privacy policy
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu, or opt-out using your mobile device settings.
 
-Blogglez has the discretion to update this privacy policy at any time. When we do, we will send you an email or mention it on our site at the privacypolicy section. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
 
-Your acceptance of these terms
+**AppNexus**
 
-By using or visiting
+AppNexus remarketing service is provided by AppNexus Inc.
 
-www.IFLMyLife.com
+You can opt-out of AppNexus remarketing by visiting the Privacy & the AppNexus Platform web page: http://www.appnexus.com/platform-policy#choices
 
- you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+For more information on the privacy practices of AppNexus, please visit the AppNexus Platform Privacy Policy web page: http://www.appnexus.com/platform-policy
 
-Contacting us
+**Service Providers**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-​Ecolitics
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-  
-[www.](http://www.blogglez.com/)IFLMyLife.com 
+**Compliance With Laws**
 
-IFLMyLife01@gmail.com
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-This document was last updated on
+**Business Transaction**
 
-3rd of February 2015
+If IFLMyLife is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children’s Privacy**
+
+Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us: info@iflmylife.com
