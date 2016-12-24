@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229215238id_/http%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-insight.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224090713id_/http%3A//www.game-insight.com/en/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -120,6 +120,6 @@ We occasionally modify our Privacy Policy and any changes we may make to it in t
 
 **UAB Game Insight**
 
-**A. Gostauto** **s** **t. 40, Vilnius, Lithuania**
+**Antakalnio st. 17, LT-10312 Vilnius, Lithuania**
 
-**** _Last updated: February 13, 2015_
+**** _Last updated: October 1, 2016_
