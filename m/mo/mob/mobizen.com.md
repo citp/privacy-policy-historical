@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421003257id_/https%3A//help.mobizen.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224013315id_/http%3A//support-mirroring.mobizen.com/hc/en-us/articles/217861358) for the most accurate reproduction.*
 
-# Privacy Policy : Helpdesk
-
-Jin Lee  
-posted this on March 10, 2015, 09:44 
-
-### Privacy Policy
+# Privacy Policy – Mobizen Mirroring Support
 
 This Rsupport Privacy Policy (“Privacy Policy”) applies to each interactive application, service and product (“Service”) that expressly refer to this Privacy Policy, and that are provided and operated by Rsupport Co., Ltd. When you share information with us for the purpose of your using the Service, we want you to give us informed consent to how we are using such information and the ways in which you can protect your privacy. Your informed consent to our use of such information and this Privacy Policy in its entirety will be deemed to be given to us by your use of any of the Services.
 
-We may change this Privacy Policy from time to time, which will be notified by posting any changes on this page. For changes to this Privacy Policy that are significant, we will post a more prominent notice on this Website. The most current version of this Privacy Policy will be available on <http://www.rsupport.com/AboutUs/PrivacyPolicy> (the “Website”) and all previous versions of this Privacy Policy will be kept in an archive for your review. Please see the end of this Privacy Policy for the date this Privacy Policy was last updated.
+We may change this Privacy Policy from time to time, which will be notified by posting any changes on this page. For changes to this Privacy Policy that are significant, we will post a more prominent notice on this Website. The most current version of this Privacy Policy will be available on<http://www.rsupport.com/AboutUs/PrivacyPolicy> (the “Website”) and all previous versions of this Privacy Policy will be kept in an archive for your review. Please see the end of this Privacy Policy for the date this Privacy Policy was last updated.
 
 #### Information We Collect
 
