@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spritzinc.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611055652id_/http%3A//spritzinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spritzinc.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224210303id_/http%3A//spritzinc.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
