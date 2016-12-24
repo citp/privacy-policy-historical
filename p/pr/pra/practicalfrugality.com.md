@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicalfrugality.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604193559id_/http%3A//practicalfrugality.com/about-me/pr-friendly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalfrugality.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133423id_/http%3A//practicalfrugality.com/about-me/pr-friendly/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Practical Frugality
 
