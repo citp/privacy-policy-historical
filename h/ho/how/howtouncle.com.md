@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the howtouncle.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629114201id_/http%3A//www.howtouncle.com/2013/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtouncle.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224025823id_/http%3A//www.howtouncle.com/2013/06/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | How To Uncle
 
 At [How To Uncle](http://www.howtouncle.com/) the privacy of our readers/visitors is exceedingly important. This Privacy Policy outlines the all types of personal information that is received and collected and how it is used.                                                                                                                                                       
 
-This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.  
-  
-
+This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
 [](http://2.bp.blogspot.com/-QfTDH4uYtg0/UnTDCyxrQ1I/AAAAAAAAC3g/uGTdHPqsPts/s1600/privacy+policy.png)
 
