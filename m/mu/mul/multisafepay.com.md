@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multisafepay.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618105458id_/https%3A//www.multisafepay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multisafepay.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133559id_/https%3A//www.multisafepay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | MultiSafepay
 
