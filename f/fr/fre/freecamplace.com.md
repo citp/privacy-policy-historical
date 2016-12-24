@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the freecamplace.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628073148id_/http%3A//www.freecamplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecamplace.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224172027id_/http%3A//www.freecamplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Freecamplace
 
-  
-
+Freecamplace - Privacy Policy 
 
 **1.** Freecamplace (the **“website”** ) applies the following Privacy Policy in order to protect your privacy. We understand your privacy is crucial to you.   
 
@@ -11,7 +10,7 @@
 **2.** We will let you know what information we may use and in what way we will be using it. The privacy policy applies to online activities done by you in Freecamplace.  
 
 
-**3.** Changes: may change this policy from time to time. Please review the privacy policy periodically..  
+**3.** Changes: may change this policy from time to time. Please review the privacy policy periodically..  
 By using Freecamplace you are accepting the privacy policy and its changes from time to time.   
 
 
@@ -46,3 +45,13 @@ Your personal information is not shared with any third parties and is used mainl
 9\. Changing the information stored by our website 
 
 You can modify your email preferences and opt-out from certain communications or change your personal information by updating your profile here. Please note that due to server synchronization updates, changes may take a few hours to appear on the website. You can also contact our customer service by clicking here or delete your account. The data will be saved by us but your profile will not be visible anymore.
+
+**%s :** %s
+
+**%s :** %s
+
+**Tip from %s: %d tokens.**
+
+** Gift from %s (%dtk) **
+
+You cannot issue this command because you are a guest user. [Signup for free](https://web.archive.org/)
