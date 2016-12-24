@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emergencyreporting.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504055919id_/https%3A//www.emergencyreporting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emergencyreporting.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224220904id_/https%3A//www.emergencyreporting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Emergency Reporting
 
