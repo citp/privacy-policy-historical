@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiagasva.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327093744id_/https%3A//www.columbiagasva.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiagasva.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224084101id_/https%3A//www.columbiagasva.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Columbia Gas of Virginia
 
@@ -16,7 +16,8 @@ Columbia Gas of Virginia
 Chester, VA 23836  
 Customer Contact Center:  
 **1-800-543-8911**  
-Monday through Friday, 7:00 AM - 5:30 PM
+Monday through Friday, 7:00 AM - 7:00 PM  
+Saturday, 8:00 AM - 12:00 PM
 
 Columbia Gas of Virginia (referred to as the “Company”, “we”, “our” or “us”) understands how important customer privacy is to you. We hope this statement will answer your questions about our information and privacy practices. Generally, this Privacy Statement does not apply to information which is already available to the public, or which becomes available to the public hereafter.   Any dispute related to this Privacy Statement will be governed by our [Terms of Use](http://www.columbiagasva.com/terms-of-use). 
 
