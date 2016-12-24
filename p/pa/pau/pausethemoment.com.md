@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508124255id_/http%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224091252id_/http%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,12 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Pause The Moment has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
+**Amazon Affiliate Disclaimer**
+
+Pause The Moment is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+For more information about affiliate earnings, please see my [Affiliate Disclaimer](http://www.pausethemoment.com/affiliate-disclaimer/).
+
 **Your acceptance of these terms**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
@@ -47,4 +53,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Pause The Moment](http://www.pausethemoment.com/contact/ "Pause The Moment") | admin[at]pausethemoment[dot]com
 
-This document was last updated on July 9, 2014
+_This document was last updated on Sept 2, 2016_
