@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dotnet-tricks.com privacy policy that was archived on 2016-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160428172210id_/http%3A//www.dotnettricks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dotnet-tricks.com privacy policy that was archived on 2016-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224194424id_/http%3A//www.dotnettricks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" ng-app="app"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,272 +13,522 @@
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
-    <link href="/css/bootstrap.min.css" type="text/css" rel="stylesheet">
-    <link href="/css/common.css" type="text/css" rel="stylesheet">
-    <link href="/css/owl.carousel.css" type="text/css" rel="stylesheet">
-    <link href="/css/style.css" type="text/css" rel="stylesheet">
-    <link href="/css/responsive.css" type="text/css" rel="stylesheet">
-    <link href="/css/easy-responsive-tabs.css" type="text/css" rel="stylesheet">
-    <link href="/css/sm-core-css.css" type="text/css" rel="stylesheet">
-    <link href="/css/ms_styles.css" type="text/css" rel="stylesheet">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link href="/css/training.css" rel="stylesheet">
+    <link href="/css/site?v=NqA2ohZmXPxcWRel11iesoaGSkacK_rqyLP0wJNUZhk1" rel="stylesheet">
 
+   
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/js/jquery?v=l3IS5rTPIL6vtw6Wr9aLPNu1WvGaI2YvIaoH7SqWnVI1"></script>
+
+    <script src="/js/site?v=7pIMgnWRccDQ3E2lk5OkngzwUx_MNuCHrP9h2HGZRvw1"></script>
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+    <script src="/js/app.js"></script>
+   
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <script src="/js/jquery.js"></script>
-    <script src="/js/jquery.validate.js"></script>
-    <script src="/js/jquery.validate.unobtrusive.js"></script>
 
-    <script type="text/javascript">
+    <!-- Check Javascript Support -->
+   
+    <noscript>
+        <div class="noscript">
+            <div>
+                <span>Please enable Javascript to correctly display the contents on Dot Net Tricks!</span>
+            </div>
+        </div>
+    </noscript>
+</head>
+<body style="">   
+    <!-- Header -->
+    
 
+<style>
+    .form-group-search {
+        height: 100%;
+        width: 100%;
+        position: relative;
+        display: table;
+        border-collapse: separate;
+    }
+
+    #txtMenuSearch {
+        height: 114% !important;
+    }
+     .MenuSearchfix {
+        width: 100% !important;
+        height: 114% !important;
+    }
+    .input-group-menu-search {
+        position: absolute;
+        right: 0;
+        background-color: #f5f5f5;
+    }
+
+    #btnMenuSearch {
+        background-color: #f5f5f5;
+        padding: 12px 18px;
+        border: 0;
+    }
+    #btnMenuSearchFix {
+        background-color: #f5f5f5;
+        padding: 12px 18px;
+        border: 0;
+    }
+
+    #fsr:hover {
+        color: orange !important;
+        font-size: 16px !important;
+    }
+</style>
+<script>
+    //menu json
+    var main_menu = JSON.parse('{".NET Development":[{"Id":"7","Name":".NET Development","Description":"DotNetTricks is a .NET Development training institute offers online dot net course and classes which are primarily designed for freshers and Professionals, who want to make a career in .NET technologies.","Url":"/training/dotnet-development","CourseLogo":"/uploads/CourseImages/.netdevelopment-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.00","Reviews":"4.00","Learners":"740","TagLine":"Learn .NET Framework, C#, OOPS and Advanced C#","CourseSellingPoints":"<ul><li>Build modern applications using .NET</li><li>Object Oriented Concepts </li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>"},{"Id":"16","Name":"ASP.NET Core Development","Description":"Join ASP.NET Core course which is primarily designed for Beginners and Professionals who want to develop cloud based web applications using ASP.NET Core framework and MVC design pattern.","Url":"/training/asp-net-core-development","CourseLogo":"/uploads/CourseImages/asp.netcoredevelopment-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"60","TagLine":"Learn .NET Core, ASP.NET Core, Entity Framework Core with Project","CourseSellingPoints":"<ul><li>Open source framework</li><li>Build modern applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>"},{"Id":"1","Name":"ASP.NET MVC with AngularJS Development","Description":"MVC with AngularJS Development training program is primarily designed for .NET Beginner(s)/Professional(s) who want to learn and join MVC Classes. In this course, you will learn how to create web pages, custom validation etc...","Url":"/training/mvc-angularjs-development","CourseLogo":"/uploads/CourseImages/asp.netmvcwithangularjsdevelopment-mobile.png","CategoryId":"1","ParentCourse":".NET Development","CourseRating":"4.50","Reviews":"4.50","Learners":"1768","TagLine":"Learn MVC5, AngularJS, LINQ, Entity Framework, Unit Testing, Web API and jQuery with Project","CourseSellingPoints":"<ul><li>Open source web development framework</li><li>Build modern web applications and services</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>"}],"BigData and Analytics":[{"Id":"2","Name":"Hadoop Development cum Administration","Description":"The Hadoop Development cum Administration course is primarily designed for Software Professional(s)/ Manager(s)/ Architect(s) who want to learn how to manage large and complex data sets and scale up it from single servers to thousands of machines. ","Url":"/training/bigdata-hadoop-development-cum-administration","CourseLogo":"/uploads/CourseImages/hadoopdevelopmentcumadministration-mobile.png","CategoryId":"5","ParentCourse":"BigData and Analytics","CourseRating":"4.00","Reviews":"4.00","Learners":"316","TagLine":"Learn Hadoop, MapReduce, HBase, Hive, Spark, Oozie","CourseSellingPoints":"<ul><li>Avg salary of Big Data Developer is $82-100K</li><li>Big Data industry is growing at almost 10% every year</li><li>Big Data needs 1.5 mn managers by 2018.</li></ul>"}],"Digital Marketing":[{"Id":"17","Name":"PPC Marketing","Description":"PPC Marketing","Url":"/training/ppc-marketing","CourseLogo":"/uploads/CourseImages/ppcmarketing-mobile.png","CategoryId":"7","ParentCourse":"Digital Marketing","CourseRating":"4.50","Reviews":"4.50","Learners":"125","TagLine":"Learn Digital Marketing","CourseSellingPoints":"<ul><li>Expected Salary for Digital Marketing Fresher is 20-25K per month</li><li>Marketing jobs will grow 40% this decade</li><li>Online Marketing Managers are paid 10-15% more</li></ul>"}],"English":[{"Id":"18","Name":"Spoken English & Personality Development","Description":"The Spoken English course is primarily designed for student(s)/fresher(s)/professional(s) who want to learn how to speak English with confidence. This course is designed to cover all aspects of communication in the working environment.","Url":"/training/spoken-english-personality-development","CourseLogo":"/uploads/CourseImages/spokenenglishwithpersonalitydevelopment-mobile.PNG","CategoryId":"8","ParentCourse":"English","CourseRating":"4.50","Reviews":"4.50","Learners":"1200","TagLine":"Grammar, Vocabulary, Spoken English and Pronunciation","CourseSellingPoints":"<ul><li>Speak English confidently in daily life</li><li>Use proper word while speaking</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>"}],"Java Development":[{"Id":"14","Name":"Java/J2EE Development","Description":"The Java Development course is primarily designed for student(s)/fresher(s) who want to make a career in Java technologies. ","Url":"/training/java-j2ee-development","CourseLogo":"/uploads/CourseImages/java-j2eedevelopment-mobile.PNG","CategoryId":"6","ParentCourse":"Java Development","CourseRating":"4.00","Reviews":"4.00","Learners":"180","TagLine":"Learn Java/J2EE with Project","CourseSellingPoints":"<ul>Average Salary of Java Developer is 3-4 lakhs</li><li>Build Scalable and Secure Web Application</li><li>Assignment and Mockup Tests</li></ul>"}],"JS Framework Development":[{"Id":"5","Name":"Angular2 and Angular1 Development","Description":"Master in Angular2 and Angular1 by developing Single Page App. At the end of this course, students will able to use Angular and Node.js to develop an end-to-end Single Page App.","Url":"/training/angular-development","CourseLogo":"/uploads/CourseImages/angularjsdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.50","Reviews":"4.50","Learners":"1382","TagLine":"Learn Angular2 and Angular1 Advanced Concepts with Project","CourseSellingPoints":"<ul><li>Open source front-end web development framework</li><li>Build rich, scalable, extensible and high performance SPA</li><li>Enhance Salary and Job Security</li><li>Assignments and Mockup Tests</li></ul>"},{"Id":"4","Name":"MEAN Stack 2.x Development","Description":"The MEAN Stack Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications.","Url":"/training/mean-stack-development","CourseLogo":"/uploads/CourseImages/meanstackdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.50","Reviews":"4.50","Learners":"792","TagLine":"Learn MongoDB, ExpressJS, AngularJS and Node.js with Project and Cloud Hosting","CourseSellingPoints":"<ul><li>Develop web application using latest JavaScript Stack</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>"},{"Id":"9","Name":"NodeJS Development","Description":"The Node.js Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to develop high performance, event-driven, real-time and scalable networking and web applications. ","Url":"/training/nodejs-development","CourseLogo":"/uploads/CourseImages/nodejsdevelopment-mobile.png","CategoryId":"3","ParentCourse":"JS Framework Development","CourseRating":"4.00","Reviews":"4.00","Learners":"780","TagLine":"Learn Node.js, ExpressJS, Unit Testing, JavaScript Task Runner With Project Development","CourseSellingPoints":"<ul><li>Develop cross platform web application</li><li>Use the power of JavaScript on Server-Side</li><li>Highly paid web development platform</li></ul>"}],"Mobile Development":[{"Id":"8","Name":"Android Apps Development","Description":"The Android Development course is primarily designed for Beginner(s)/Professional(s) who want to learn how to create mobile apps using android sdk. ","Url":"/training/android-development","CourseLogo":"/uploads/CourseImages/androidappsdevelopment-mobile.png","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.00","Reviews":"4.00","Learners":"516","TagLine":"Learn Android Development","CourseSellingPoints":"<ul><li>Avg salary of Android Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>"},{"Id":"3","Name":"Ionic : Build Hybrid Mobile Apps","Description":"The Hybrid Mobile Apps Development course is primarily designed for UI Developer(s)/Web Developer(s) who want to learn how to create cross platform mobile apps using Ionic, Cordova and AngularJS.","Url":"/training/hybrid-apps-development","CourseLogo":"/uploads/CourseImages/hybridmobileappsdevelopment-mobile.png","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.50","Reviews":"4.50","Learners":"150","TagLine":"Learn Ionic2, Angular2 with Mobile Apps","CourseSellingPoints":"<ul><li>Avg salary of Hybrid Mobile App Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>"},{"Id":"11","Name":"Xamarin Forms : Build Cross-platform Apps","Description":"The Xamarin Forms Development course is primarily designed for Beginner(s)/Professional(s) who want to learn how to develop native cross platform apps with C# that run-on Android, iOS and Windows.","Url":"/training/xamarin-forms-build-native-cross-platform-apps","CourseLogo":"/uploads/CourseImages/xamarinforms-buildnativecross-platformapps-mobile.PNG","CategoryId":"4","ParentCourse":"Mobile Development","CourseRating":"4.50","Reviews":"4.50","Learners":"20","TagLine":"Learn Xamarin Forms","CourseSellingPoints":"<ul><li>Avg salary of Mobile Developer is $82-100K</li><li>App economy will generate over 1MNs jobs</li><li>Assignment and Mockup Tests</li></ul>"}]}');
+    //menu enter key press search
+    function menukeypress(event) {
+        var keycode = event.keyCode || e.charCode;
+        if (keycode == '13' && $.trim($("#txtMenuSearch").val()) != "") {
+            window.location = "/search?q=" + $.trim($("#txtMenuSearch").val());
+        }
+        if (keycode == '13' && $.trim($("#MenuSearchFix").val()) != "") {
+            window.location = "/search?q=" + $.trim($("#MenuSearchFix").val());
+        }
+    }
     $(document).ready(function () {
-
-        var val = 0;
-        $(document).scroll(function () {
-            if (val == 0) {
-                var y = $(this).scrollTop();
-                if (y > 200) {
-                    $('.bottomads').addClass('animated zoomInLeft');
-                    $('.bottomads').fadeIn(1000);
-                } else {
-                    $('.bottomads').fadeOut(500);
-                }
+        //menu search
+        $("#btnMenuSearch").bind("click", function () {
+            if ($.trim($("#txtMenuSearch").val()) != "") {
+                window.location = "/search?q=" + $.trim($("#txtMenuSearch").val());
             }
         });
-        $('.bottomads1').click(function () {
-            val = 1;
-            $('.bottomads').addClass('animated zoomOut');
-            $(".bottomads").slideToggle(500);
-        });
-
-    });
-    </script>
-
-</head>
-<body>
-    
-    <!-- Header -->
-    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
-<script>
-    $(document).ready(function () {
-        $.ajax({
-            url: '/Home/GetAllCourses',
-            cache: false,
-            type: 'GET',
-            dataType: "json",
-            contentType: 'application/json; charset=utf-8',
-            success: function (courseData) {
-                $(".search-form").autocomplete({
-                    source: courseData,
-                    focus: function (event, ui) {
-                        $(event.target).val(ui.item.label);
-                        return false;
-                    },
-                    select: function (event, ui) {
-                        $(event.target).val(ui.item.label);
-                        window.location = "http://www.dotnettricks.com" + ui.item.value;
-                        return false;
-                    }
-                });
-
-                $("#tags").autocomplete({
-                    source: courseData,
-                    focus: function (event, ui) {
-                        $(event.target).val(ui.item.label);
-                        return false;
-                    },
-                    select: function (event, ui) {
-                        $(event.target).val(ui.item.label);
-                        window.location = "http://www.dotnettricks.com" + ui.item.value;
-                        return false;
-                    }
-                });
+        $("#btnMenuSearchFix").bind("click", function () {
+            if ($.trim($("#MenuSearchFix").val()) != "") {
+                window.location = "/search?q=" + $.trim($("#MenuSearchFix").val());
             }
         });
     });
 </script>
-
-<header class="home-header">
-
-    <!-- Navigation -->
-    <nav id="header" class="navbar navbar-default main-nav ">
+<header class=" topnavbar">
+    <div class="wsmenucontainer clearfix" id="mainmu" style="background-color: white;">
+        <div class="overlapblackbg"></div>
+        <div class="wsmobileheader clearfix">
+            <a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+            <a class="smallogo" href="/">
+                <img class="" src="/images/logo.png" alt="Dot Net Tricks Classroom and Instructor-led Online Training for Professionals">
+            </a>
+            <a class="callusicon" href="tel:+911133034100">
+                <span class="fa fa-phone" style="color:#569AD3"></span>
+            </a>
+        </div>
         <div class="container">
-
-
-
-            <!-- Brand and toggle -->
-            <div class="row">
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <h1 class="logo">
-                            <a class="top-logo white-logo" href="/">
-
-                                <img class="" src="/images/logo.png" alt="Classroom and Instructor-led Online Training for Professionals">
-                            </a>
-                            <a class="top-logo red-logo" href="/"><img class="" src="/images/logo.png" alt="Classroom and Instructor-led Online Training for Professionals" title="Dot Net Tricks"></a>
-                        </h1>
-
-                    </div>
-                    <!-- search button -->
-                    <a class="search-btn nav-search pull-right collapsed" data-toggle="collapse" data-target="#search" aria-expanded="false" aria-controls="search">
-                    </a>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div id="main-nav" class="navbar-right collapse navbar-collapse">
-                        <!-- Sample menu definition -->
-                        <ul id="main-menu" class="sm sm-simple">
-                            <li>
-                                <a href="javascript:void(0);" title="Courses">Our Courses </a>
+            <nav class="wsmenu clearfix">
+                <ul class="mobile-sub wsmenu-list">
+                    <li style="background:none !important;">
+                        <a href="/" style="background:none !important; padding-left:0;text-align:center">
+                            <img src="/images/logo.png" alt="Dot Net Tricks Classroom and Instructor-led Online Training for Professionals" style=" padding-bottom:4px;max-width:none !important">
+                        </a>
+                    </li>
+                    <li class="dropdown hidden-sm hidden-xs" id="menu-option-web">
+                        <a href="javascript:void(0);">Our Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <div class="dropdown-menu menu-container dropdown-menu-right">
+                            <div class="col-sm-3 category-container">
                                 <ul>
-                                         <!--Code for submenu-->
-                                        <li>
-                                            <a href="#" class="has-submenu"><span class="sub-arrow"></span>.NET Development</a>
-                                            <ul class="sm-nowrap">
-                                                    <li>
-                                                        <a href="/training/details/dotnet-development">.NET Development</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/training/details/advanced-csharp-development">Advanced C# Development</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/training/details/mvc-angularjs-development">ASP.NET MVC with AngularJS Development</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/training/details/wcf-development">WCF Development</a>
-                                                    </li>
-                                            </ul>
-                                        </li>
-                                         <!--Code for submenu-->
-                                        <li>
-                                            <a href="#" class="has-submenu"><span class="sub-arrow"></span>BigData and Analytics</a>
-                                            <ul class="sm-nowrap">
-                                                    <li>
-                                                        <a href="/training/details/bigdata-hadoop-development-cum-administration">Hadoop Development cum Administration</a>
-                                                    </li>
-                                            </ul>
-                                        </li>
-                                         <!--Code for submenu-->
-                                        <li>
-                                            <a href="#" class="has-submenu"><span class="sub-arrow"></span>Java Development</a>
-                                            <ul class="sm-nowrap">
-                                                    <li>
-                                                        <a href="/training/details/java-j2ee-development">Java/J2EE Development</a>
-                                                    </li>
-                                            </ul>
-                                        </li>
-                                         <!--Code for submenu-->
-                                        <li>
-                                            <a href="#" class="has-submenu"><span class="sub-arrow"></span>JS Framework Development</a>
-                                            <ul class="sm-nowrap">
-                                                    <li>
-                                                        <a href="/training/details/angularjs-development">AngularJS Development</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/training/details/nodejs-development">NodeJS Development</a>
-                                                    </li>
-                                            </ul>
-                                        </li>
-                                         <!--Code for submenu-->
-                                        <li>
-                                            <a href="#" class="has-submenu"><span class="sub-arrow"></span>Mobile Development</a>
-                                            <ul class="sm-nowrap">
-                                                    <li>
-                                                        <a href="/training/details/android-development">Android Apps Development</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="/training/details/hybrid-apps-development">Hybrid Mobile Apps Development</a>
-                                                    </li>
-                                            </ul>
-                                        </li>
-
+                                        <li class="category-list " data-category=".NET Development"><i class="fa fa-angle-right"></i> .NET Development<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="BigData and Analytics"><i class="fa fa-angle-right"></i> BigData and Analytics<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="Digital Marketing"><i class="fa fa-angle-right"></i> Digital Marketing<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="English"><i class="fa fa-angle-right"></i> English<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="Java Development"><i class="fa fa-angle-right"></i> Java Development<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="JS Framework Development"><i class="fa fa-angle-right"></i> JS Framework Development<i class="fa fa-caret-left category-list-caret"></i></li>
+                                        <li class="category-list " data-category="Mobile Development"><i class="fa fa-angle-right"></i> Mobile Development<i class="fa fa-caret-left category-list-caret"></i></li>
                                 </ul>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);" title="Learning Solutions">
-                                    Learning Solutions
-                                </a>
+                                <div align="center" class="padding-top-10">
+                                    <a href="/all-courses" class="btn btn-info" id="cur">
+                                        View All Courses
+                                    </a>
+                                </div><br>
+                            </div>
+                            <div class="col-sm-4 category-course-container">
                                 <ul>
-                                    <li> <a href="/corporate-training" title="Corporate Training">Corporate Training</a></li>
-                                    <li><a href="/classroom-training" title="Classroom Training">Classroom Training</a></li>
-                                    <li><a href="/online-training" title="Online Training">Online Training</a></li>
-                                    <li><a href="/campus-training" title="Campus Training">Campus Training</a></li>
-                                    <li>
-                                        <a href="/industrial-training" title="Industrial Training">Industrial Training</a>
-
-                                    </li>
-                                    <li><a href="/hands-on-training" title="Hands-On Training">Hands-On Training</a></li>
+                                        <a class="category-course-anchor" href="/training/dotnet-development">
+                                            <li class="category-course" data-course-category=".NET Development" data-category-course-key="0">.NET Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                                        </a>
+                                        <a class="category-course-anchor" href="/training/asp-net-core-development">
+                                            <li class="category-course" data-course-category="ASP.NET Core Development" data-category-course-key="0">ASP.NET Core Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                                        </a>
+                                        <a class="category-course-anchor" href="/training/mvc-angularjs-development">
+                                            <li class="category-course" data-course-category="ASP.NET MVC with AngularJS Development" data-category-course-key="0">ASP.NET MVC with AngularJS Development<i class="fa fa-caret-left category-course-caret"></i></li>
+                                        </a>
                                 </ul>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);" title="Free Resources">Free Resources</a>
-                                <ul>
-                                    
-
-                                        <li><a href="/free-ebooks" title="E-Books">E-Books</a></li>
-
-                                    <li>
-                                        <a href="javascript:void(0)" title="Events">Events</a>
-
-                                        <ul class="sm-nowrap">
-
-                                            <li>
-                                                <a href="/events/upcoming-events">Upcoming Events</a>
-                                            </li>
-                                            <li>
-                                                <a href="/events/past-events">Past Events</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="/batch-details" title="Batches">Batches</a>
-                            </li>
-                            <li>
-                                <a href="http://www.dotnet-tricks.com/Home/Archive" title="Blogs" target="_blank">Blogs</a>
-                            </li>
-                                <li><a href="/member-login">Login</a></li>
-                                <li><a href="/member-registration">Register</a></li>
-
-
-                        </ul>
-
-                    </div>
-                    <!-- /.navbar-collapse -->
-                    <div id="search" class="hidden-search nav-collapse slide-right collapse ">
-                        <div class="search">
-                            <div>
-                                <div class="input-group">
-                                    <input type="text" name="courseSearch" class="form-control search-form" placeholder="Search for a Course" autocomplete="off">
-                                    <span class="input-group-btn">
-                                        <button class="btn btn-black" type="submit"> <i class="fa fa-search"></i></button>
-                                    </span>
+                            </div>
+                            <!--Course Information-->
+                            <div class="col-sm-5 category-course-info-container text-center">
+                                <div class="padding-top-10">
+                                    <img class="category-course-info-image lazy img-circle">
                                 </div>
-
+                                <div class="padding-top-10">
+                                    <span class="category-course-info-name"></span>
+                                </div>
+                                <div>
+                                    <span id="course-rating" class="course-rating-star"></span> Reviews | <i class="glyphicon glyphicon-user"></i>&nbsp;<span id="course-learners"></span>
+                                </div>
+                                <div id="course-tagline" class="padding-top-10">
+                                </div>
+                                <div id="course-selling-points" align="left">
+                                </div>
+                                <div id="course-more" class="padding-top-10">
+                                </div>
                             </div>
                         </div>
+                    </li>
+                    <li class="hidden-lg hidden-md">
+                        <a href="javascript:void(0);">Our Courses <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <ul class="wsmenu-submenu">
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>.NET Development</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/dotnet-development"><i class=" fa fa-angle-right"></i>.NET Development</a></li>
+                                            <li><a href="/training/asp-net-core-development"><i class=" fa fa-angle-right"></i>ASP.NET Core Development</a></li>
+                                            <li><a href="/training/mvc-angularjs-development"><i class=" fa fa-angle-right"></i>ASP.NET MVC with AngularJS Development</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>BigData and Analytics</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/bigdata-hadoop-development-cum-administration"><i class=" fa fa-angle-right"></i>Hadoop Development cum Administration</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>Digital Marketing</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/ppc-marketing"><i class=" fa fa-angle-right"></i>PPC Marketing</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>English</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/spoken-english-personality-development"><i class=" fa fa-angle-right"></i>Spoken English &amp; Personality Development</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>Java Development</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/java-j2ee-development"><i class=" fa fa-angle-right"></i>Java/J2EE Development</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>JS Framework Development</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/angular-development"><i class=" fa fa-angle-right"></i>Angular2 and Angular1 Development</a></li>
+                                            <li><a href="/training/mean-stack-development"><i class=" fa fa-angle-right"></i>MEAN Stack 2.x Development</a></li>
+                                            <li><a href="/training/nodejs-development"><i class=" fa fa-angle-right"></i>NodeJS Development</a></li>
+
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa fa-angle-right"></i>Mobile Development</a>
+                                    <ul class="wsmenu-submenu-sub">
+                                            <li><a href="/training/android-development"><i class=" fa fa-angle-right"></i>Android Apps Development</a></li>
+                                            <li><a href="/training/hybrid-apps-development"><i class=" fa fa-angle-right"></i>Ionic : Build Hybrid Mobile Apps</a></li>
+                                            <li><a href="/training/xamarin-forms-build-native-cross-platform-apps"><i class=" fa fa-angle-right"></i>Xamarin Forms : Build Cross-platform Apps</a></li>
+
+                                    </ul>
+                                </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" title="Training Solutions">
+                            Training Solutions
+                            <span class="wsmenu-arrow fa fa-angle-down"></span>
+                        </a>
+                        <ul class="wsmenu-submenu">
+                            <li>
+                                <a href="/industrial-training"><i class="fa fa-angle-right"></i>Industrial Training&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                                <ul class="wsmenu-submenu-sub">
+                                    <li><a href="/industrial-training/noida/six-months-dot-net"><i class="fa fa-angle-right"></i>Dot Net Six Months/Weeks Industrial Training</a></li>
+                                    <li><a href="/industrial-training/noida/six-months-android"><i class="fa fa-angle-right"></i>Android Six Months/Weeks Industrial Training</a></li>
+                                    <li><a href="/industrial-training/noida/six-months-seo-ppc"><i class="fa fa-angle-right"></i>SEO/PPC Six Months/Weeks Industrial Training</a></li>
+
+                                </ul>
+                            </li>                           
+                            <li> <a href="/corporate-training" title="Corporate Training"><i class="fa fa-angle-right"></i>Corporate Training</a></li>
+                            <li><a href="/classroom-training" title="Classroom Training"><i class="fa fa-angle-right"></i>Classroom Training</a></li>
+                            <li><a href="/online-training" title="Online Training"><i class="fa fa-angle-right"></i>Online Training</a></li>
+                            <li><a href="/campus-training" title="Campus Training"><i class="fa fa-angle-right"></i>Campus Training</a></li>
+                            <li><a href="/hands-on-training" title="Hands-On Training"><i class="fa fa-angle-right"></i>Hands-On Training</a></li>
+                        </ul>
+                    </li>               
+                    <li>
+                        <a href="#">Articles <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <div class="megamenu clearfix">
+                            <h2 class="title">&nbsp; LIST OF CATEGORIES &nbsp;&nbsp; <span><a href="/learn" style="background:none !important; color:#2B7EDA !important">ALL ARTICLES</a></span></h2>
+                            
+
+<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
+        <li>
+            <a href="/learn/netframework"> <i class="fa fa-hand-o-right"></i>.Net Framework</a>
+        </li>
+        <li>
+            <a href="/learn/adonet"> <i class="fa fa-hand-o-right"></i>ADO.NET</a>
+        </li>
+        <li>
+            <a href="/learn/ajax"> <i class="fa fa-hand-o-right"></i>Ajax</a>
+        </li>
+        <li>
+            <a href="/learn/android"> <i class="fa fa-hand-o-right"></i>Android</a>
+        </li>
+        <li>
+            <a href="/learn/angularmaterialdesign"> <i class="fa fa-hand-o-right"></i>Angular Material Design</a>
+        </li>
+        <li>
+            <a href="/learn/angularjs"> <i class="fa fa-hand-o-right"></i>AngularJS</a>
+        </li>
+        <li>
+            <a href="/learn/aspnet"> <i class="fa fa-hand-o-right"></i>ASP.NET</a>
+        </li>
+        <li>
+            <a href="/learn/backbone"> <i class="fa fa-hand-o-right"></i>Backbone</a>
+        </li>
+        <li>
+            <a href="/learn/c"> <i class="fa fa-hand-o-right"></i>C</a>
+        </li>
+        <li>
+            <a href="/learn/csharp"> <i class="fa fa-hand-o-right"></i>C#</a>
+        </li>
+</ul>
+<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
+        <li>
+            <a href="/learn/cswinapps"> <i class="fa fa-hand-o-right"></i>C# Windows Apps</a>
+        </li>
+        <li>
+            <a href="/learn/dependencyinjection"> <i class="fa fa-hand-o-right"></i>Dependency Injection</a>
+        </li>
+        <li>
+            <a href="/learn/designpatterns"> <i class="fa fa-hand-o-right"></i>Design Patterns</a>
+        </li>
+        <li>
+            <a href="/learn/entityframework"> <i class="fa fa-hand-o-right"></i>Entity Framework</a>
+        </li>
+        <li>
+            <a href="/learn/fluentnhibernate"> <i class="fa fa-hand-o-right"></i>Fluent Nhibernate</a>
+        </li>
+        <li>
+            <a href="/learn/hybridmobileapps"> <i class="fa fa-hand-o-right"></i>Hybrid Mobile Apps</a>
+        </li>
+        <li>
+            <a href="/learn/ionic"> <i class="fa fa-hand-o-right"></i>Ionic</a>
+        </li>
+        <li>
+            <a href="/learn/javascript"> <i class="fa fa-hand-o-right"></i>JavaScript</a>
+        </li>
+        <li>
+            <a href="/learn/jquery"> <i class="fa fa-hand-o-right"></i>jQuery</a>
+        </li>
+        <li>
+            <a href="/learn/jquerymobile"> <i class="fa fa-hand-o-right"></i>jQuery Mobile</a>
+        </li>
+</ul>
+<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
+        <li>
+            <a href="/learn/knockout"> <i class="fa fa-hand-o-right"></i>Knockout</a>
+        </li>
+        <li>
+            <a href="/learn/linq"> <i class="fa fa-hand-o-right"></i>LINQ</a>
+        </li>
+        <li>
+            <a href="/learn/mongodb"> <i class="fa fa-hand-o-right"></i>MongoDB</a>
+        </li>
+        <li>
+            <a href="/learn/mvc"> <i class="fa fa-hand-o-right"></i>MVC</a>
+        </li>
+        <li>
+            <a href="/learn/mvc6"> <i class="fa fa-hand-o-right"></i>MVC 6</a>
+        </li>
+        <li>
+            <a href="/learn/nhibernate"> <i class="fa fa-hand-o-right"></i>Nhibernate</a>
+        </li>
+        <li>
+            <a href="/learn/nodejs"> <i class="fa fa-hand-o-right"></i>NodeJS</a>
+        </li>
+        <li>
+            <a href="/learn/oops"> <i class="fa fa-hand-o-right"></i>OOPS</a>
+        </li>
+        <li>
+            <a href="/learn/phonegap"> <i class="fa fa-hand-o-right"></i>PhoneGap</a>
+        </li>
+        <li>
+            <a href="/learn/sqlserver"> <i class="fa fa-hand-o-right"></i>SQL Server</a>
+        </li>
+</ul>
+<ul class="col-lg-3 col-md-3 col-xs-12 link-list">
+        <li>
+            <a href="/learn/stylesheet"> <i class="fa fa-hand-o-right"></i>StyleSheet</a>
+        </li>
+        <li>
+            <a href="/learn/tfs"> <i class="fa fa-hand-o-right"></i>TFS</a>
+        </li>
+        <li>
+            <a href="/learn/unittesting"> <i class="fa fa-hand-o-right"></i>Unit Testing</a>
+        </li>
+        <li>
+            <a href="/learn/visualstudio"> <i class="fa fa-hand-o-right"></i>Visual Studio</a>
+        </li>
+        <li>
+            <a href="/learn/wcf"> <i class="fa fa-hand-o-right"></i>WCF</a>
+        </li>
+        <li>
+            <a href="/learn/webapi"> <i class="fa fa-hand-o-right"></i>Web API</a>
+        </li>
+        <li>
+            <a href="/learn/webservice"> <i class="fa fa-hand-o-right"></i>Web Service</a>
+        </li>
+        <li>
+            <a href="/learn/windowsazure"> <i class="fa fa-hand-o-right"></i>Windows Azure</a>
+        </li>
+        <li>
+            <a href="/learn/windowsphoneapps"> <i class="fa fa-hand-o-right"></i>Windows Phone Apps</a>
+        </li>
+        <li>
+            <a href="/learn/wpf"> <i class="fa fa-hand-o-right"></i>WPF</a>
+        </li>
+</ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#">Step By Step <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <div class="megamenu clearfix">
+                            <h2 class="title">&nbsp; STEP BY STEP TUTORIAL</h2>
+                            <ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+                                <li>
+                                    <a href="/learn/stepbystep/javascript/introduction"><i class="fa fa-hand-o-right"></i>JavaScript</a>
+                                </li>
+                                <li>
+                                    <a href="/learn/stepbystep/angularjs/introduction"><i class="fa fa-hand-o-right"></i>AngularJS</a>
+                                </li>
+                                <li>
+                                    <a href="/learn/stepbystep/mvc/introduction"><i class="fa fa-hand-o-right"></i>ASP.NET MVC</a>
+                                </li>
+                                <li>
+                                    <a href="/learn/stepbystep/c/introduction"><i class="fa fa-hand-o-right"></i>C Language</a>
+                                </li>
+                            </ul>
+                            <ul class="col-lg-6 col-md-6 col-xs-12 link-list">
+                                <li>
+                                    <a href="/learn/stepbystep/csharp/introduction"><i class="fa fa-hand-o-right"></i>C#</a>
+                                </li>
+                                <li>
+                                    <a href="/learn/stepbystep/linq/introduction"><i class="fa fa-hand-o-right"></i>LINQ</a>
+                                </li>
+                                <li>
+                                    <a href="/learn/stepbystep/webapi/introduction"><i class="fa fa-hand-o-right"></i>Web API</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);">Activities <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <ul class="wsmenu-submenu">
+                            <li><a href="/jobs"><i class="fa fa-angle-right"></i>Recent Jobs</a>
+                            </li><li>
+                                <a href="#"><i class="fa fa-angle-right"></i>Events</a>
+                                <ul class="wsmenu-submenu-sub">
+                                    <li><a href="/events/upcoming-events"><i class="fa fa-angle-right"></i>Upcoming Events</a></li>
+                                    <li><a href="/events/past-events"><i class="fa fa-angle-right"></i>Passed Events</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-right"></i>Download Free eBooks</a>
+                                <ul class="wsmenu-submenu-sub">
+                                        <li>
+        <a href="/books/nodejs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>Node.js Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="/books/angularjs/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>AngularJS Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="/books/linq/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>LINQ Interview Questions and Answers 
+        </a>
+    </li>
+    <li>
+        <a href="/books/mvc/interview" rel="title" class="b-link-stripe b-animate-go  thickbox">
+            <i class="fa fa-angle-right"></i>ASP.NET MVC Interview Questions and Answers 
+        </a>
+    </li>
+
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);">About Us <span class="wsmenu-arrow fa fa-angle-down"></span></a>
+                        <ul class="wsmenu-submenu">
+                            <li>
+                                <a href="/about-us"><i class="fa fa-angle-right"></i>About Dot Net Tricks</a>
+                            </li>
+                            <li>
+                                <a href="/about-shailendra-chauhan"><i class="fa fa-angle-right"></i>About Shailendra Chauhan</a>
+                            </li>
+                            <li>
+                                <a href="/contact-us"><i class="fa fa-angle-right"></i>Contact Us</a>
+                            </li>
+                        </ul>
+                    </li>
+                   
+                    <li>
+                        <a href="/batch-details" title="Batches">Batches</a>
+                    </li>
+                        <li>
+                            <a href="/member-login">Login</a>
+                        </li>
+                        <li>
+                            <a href="/member-registration">Register</a>
+                        </li>
+                   
+                    <li>
+                        <a href="javascript:void(0);" data-search-open="" title="Search" class="hidden-xs">
+                            <em class="fa fa-search"></em>
+                        </a>
+                            <form role="search" class="navbar-form hidden-lg hidden-md hidden-sm" novalidate="novalidate">
+                                <div class="form-group-search">
+                                    <input type="text" placeholder="find courses, articles and events..." class="form-control MenuSearchfix" id="MenuSearchFix" name="q" onkeypress="return menukeypress(event);">
+                                    <div class="input-group-menu-search">
+                                        <button type="button" id="btnMenuSearchFix"><i class="fa fa-search" id="fsr" style="color:black;font-size:16px"></i></button>
+                                    </div>
+                                </div>
+
+                            </form>
+                        
+                    </li>
+                </ul>
+                <form role="search" class="navbar-form" novalidate="novalidate">
+                    <div class="form-group-search">
+                        <input type="text" placeholder="find courses, articles and events..." class="form-control" id="txtMenuSearch" name="q" onkeypress="return menukeypress(event);">
+                        <div class="input-group-menu-search">
+                            <button type="button" id="btnMenuSearch"><i class="fa fa-search" id="fsr" style="color:black;font-size:16px"></i></button>
+                        </div>
                     </div>
-                </div>
-            </div>
-            <!-- /.container-fluid -->
+
+                </form>
+            </nav>
+            <!--Menu HTML Code-->
         </div>
-    </nav>
+    </div>
 </header>
-   
     <div>
         
 
-<div id="home-slider-1">
-    <div class="container">
+<div id="home-slider-1" class="text-justify">
+        <div class="container">
         <div class="wow fadeInDown heading-full text-left">
             <h2>Privacy Policy</h2>
             <span></span>
@@ -363,115 +613,232 @@
 </div>
 
     </div>
+        <div id="testimonial">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="wow fadeInDown heading-full text-center">
+                            <h2 class="">Professional Speaks</h2>
+                            <span></span>
+                        </div>
+                        <div class="wow fadeInDown">
+                            <div id="testimonial-slider" class="carousel slide testimonial" data-ride="carousel">
+                                <!-- Wrapper for slides -->
+                                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators"></ol>
+    <div class="carousel-inner" style="width:95% !important" role="listbox">
 
-    <div id="testimonial">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="wow fadeInDown heading-full text-center">
-                        <h2 class="">Students Speak</h2>
-                        <span></span>
-                    </div>
-                    <div class="wow fadeInDown">
-                        <div id="testimonial-slider" class="carousel slide testimonial" data-ride="carousel">
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner" role="listbox">
 
+                <div class="item speak-item text-center active ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">
 
-            <div class="item speak-item text-center active ">
-                <div class="col-md-10 pull-left">
-                    <p>I recently took an online course with dot net tricks to enhance my skills as a software developer.This worked out way better than attending the class physically.I was highly impressed with their training technique and the trainer himself, Mr. Shailendra Chauhan. He not only discussed all available methods, but also emphasized the recommended practices in each process.</p>
-                    <span>
-                        <strong>Jaya Banbah (Application Developer)</strong>
-                        ASP.NET MVC with AngularJS Development
-
-                    </span>
-                </div>
-                    <div class="col-md-2 pull-right">
-                        <img src="/images/female.png" class="img-circle" style="position:relative; top:0; left:0;">
-                        <a href="https://ph.linkedin.com/in/jayabanbah" target="_blank" rel="nofollow">
-                            <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                        </a>
-
-                    </div>            </div>
-            <div class=" item speak-item text-center ">
-                <div class="col-md-10 pull-left">
-                    <p>I am quite impressed with simplicity and technical expertise of Shailendra Sir. His technical expertise in the area was reflected in all areas of the course and everything was done very professionally. The course material was extremely well organized and Shailendra Sir explained it very clearly. Another point of this course is small batch and long term support for the development needs.</p>
-                    <span>
-                        <strong>Rohit Kumar (Technical Lead)</strong>
-                        ASP.NET MVC with AngularJS Development
-
-                    </span>
-                </div>
-                    <div class="col-md-2 pull-right">
-                        <img src="/images/male.png" class="img-circle" style="position:relative; top:0; left:0;">
-                        <a href="https://in.linkedin.com/in/rohit-kumar-1b045a13" target="_blank" rel="nofollow">
-                            <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                        </a>
-
-                    </div>            </div>
-            <div class=" item speak-item text-center ">
-                <div class="col-md-10 pull-left">
-                    <p>I thought it was an enjoyable course, with a great tutor. Lots of information which will benefit my job role. Thank you !!</p>
-                    <span>
-                        <strong>Harendra Thind (Software Engineer)</strong>
-                        ASP.NET MVC with AngularJS Development
-
-                    </span>
-                </div>
-                    <div class="col-md-2 pull-right">
-                        <img src="/images/male.png" class="img-circle" style="position:relative; top:0; left:0;">
-                        <a href="https://in.linkedin.com/in/harendra1993" target="_blank" rel="nofollow">
-                            <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                        </a>
-
-                    </div>            </div>
-            <div class=" item speak-item text-center ">
-                <div class="col-md-10 pull-left">
-                    <p>Shailendra is a great teacher who has knows more about MVC 5 than any other online instructor I have seen. I still need to learn more C#, but will continue to use his recorded video's as a reference to improve my developer skills. Unlike other online instructor's, Shailendra is always there to answer your questions and give feedback on any problems you may be having.  </p>
-                    <span>
-                        <strong>John Thomas  (Software Engineer)</strong>
-                        ASP.NET MVC with AngularJS Development
-
-                    </span>
-                </div>
-                    <div class="col-md-2 pull-right">
-                        <img src="/images/male.png" class="img-circle" style="position:relative; top:0; left:0;">
-                        <a target="_blank" rel="nofollow">
-                            <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
-                        </a>
-
-                    </div>            </div>
-            <div class=" item speak-item text-center ">
-                <div class="col-md-10 pull-left">
-                    <p>I recently took an online course ASP.NET MVC with AngularJS Development with dot net tricks to enhance my skills as a software developer. This worked out way better than attending the class online. I was highly impressed with their training technique and the trainer himself, Mr. Shailendra Chauhan. He not only discussed all available methods, but also I get the job quickly and easy. 
+Real time project based training of “DotNetTricks” is exceptional because their explanation and implementation on project helped me lot to work on company projects. Because their real-time exposer is really practical and same as development of projects. They have cleared all my concepts and cleared my doubts. 
+By doing the project based training, I have increased my confidence now I can develop something from scratch using NODEJS, AngularJS and Express.Js.
+I will suggest professions to go with them once you will remain with them.
 </p>
-                    <span>
-                        <strong>Srihari Nelapati (Software Engineer)</strong>
-                        ASP.NET MVC with AngularJS Development
+                        <span>
+                            <strong>Kiran Kumar Mohanty (Senior Software Engineer at VeriFone India)</strong>
+                            MEAN Stack 2.x Development
+                        </span>
+                    </div>
 
-                    </span>
-                </div>
-                    <div class="col-md-2 pull-right">
-                        <img src="/images/male.png" class="img-circle" style="position:relative; top:0; left:0;">
-                        <a target="_blank" rel="nofollow">
+                    <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212041854.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                                <a href="https://www.linkedin.com/in/kirankumarmohanty" target="_blank" class="imglin" rel="nofollow">
                             <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
                         </a>
+                    </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">"DotNetTricks" is truly great E-Learning Organisation which provides real time project based training for professionals .They relates the concepts with real time scenarios that really helps us to correlate with our project work. Because of their efforts, I am stronger and more flexible in my technology and thanks to "Mr.Shailendra Sir" for his excellent efforts and developments exposure, I recommend them without reservation."</p>
+                        <span>
+                            <strong>Bhawna Gunwani (Corporate Trainer)</strong>
+                            NodeJS Development
 
-                    </div>            </div>
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212041911.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://in.linkedin.com/in/bhawna-gunwani" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">My experience with DotNetTricks has been nothing short of Amazing! The training they offer is real time and Mr.Shailendra is always patient enough to answer all the candidate queries and even goes one step further to demo any special scenarios requested by the candidates. The best thing I found about DotNetTricks is that, they allow you to attend sessions in a different batch if you want to repeat a particular session or if you have missed any particular session. I don't think there is any other training organization that provides this flexibility. Overall, a very informational session and definitely look forward to doing more trainings with DotNetTricks. Will absolutely recommend to anyone looking for real time, hands on technical training!
 
+</p>
+                        <span>
+                            <strong>Lakshmi Goyal (CEO, Archwings Global (IT Services))</strong>
+                            ASP.NET MVC with AngularJS Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212041928.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://in.linkedin.com/in/lakshmi-goyal-70925a40" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">I glad to say Thanks to dot net tricks!!
+dot net tricks is an unique Development training company, which only provide real time development training. while i was preparing to change my job I have reached dot net tricks website, I followed their blog and books &amp; it was very fruitful for me since then i am big fan of dot net tricks. I have been following their books and blogs to improve my technical skills.
+Now after two year I again looking for change the job then I realize that in every email which I receive every recruiter looking for AngularJS and Node. So for learning Angular and node module I have looked for many trainers in the market and attended their demos session but finally I have attended Shailendra demo class and i realize that he is the best among all.
+Now few words about Shailendra Chauhan, he is very experienced and technically strong, he is providing the best project based training after discussing the concepts and real word examples after that all concepts he implements that’s in live project.
+I think this is best training company, Guys if you are looking for any training. I would highly recommend Dot Net Tricks!!
+</p>
+                        <span>
+                            <strong>Satish Kr Verma (Sr. Software Engineer)</strong>
+                            Angular2 and Angular1 Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212041942.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">I believe that Dot Net Tricks is the best place for learning and updating ourselves moreover overcome from all issues that are face during development ...!!
+I come to know about Dot Net Tricks innovative way of providing real time project based training in 2014 through one of my friend who have taken class from Dot Net Tricks, during that time I started my career as a UI developer, my friend who have taken training in Angular JS working with HCL technology. 
+Now after one and half year I have been looking for changing my job profile so that I have joined Dot Net Tricks again for updating MEAN Stack Developer. 
+Few words to Shailendra Sir, 
+Thank you very much sir for giving me a precious guidance by explaining through various real world scenario.
+</p>
+                        <span>
+                            <strong>Kuldeep Kr. Shakya (Sr. Project Executive)</strong>
+                            Angular2 and Angular1 Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042114.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://www.facebook.com/kuldeep.shakya.980?fref=ts" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/facebook_link.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">Dot Net Tricks has brought a new revolution in e-learning which reform the way of learning. Dot Net Tricks training best ever training i have gone through. It's compliantly changed my programming approach while developing software application. i'm feeling proud while writhing this testimonial.   </p>
+                        <span>
+                            <strong>Rajat Sharma (Sr. Software Engineer)</strong>
+                            ASP.NET MVC with AngularJS Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042158.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://www.facebook.com/profile.php?id=100008735985117" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/facebook_link.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">It was very good experience getting AngularJS Development Training with Dot Net Tricks. Dot net tricks a unique training institute for new updated technology in MVC and AngularJS. Mr. Shailendra always teaches latest technologies. Thanks Dot Net Tricks for teaching me in depth practical concept. 
+
+</p>
+                        <span>
+                            <strong>Basant Badwal Kumar (Web Developer )</strong>
+                            Angular2 and Angular1 Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042239.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://www.linkedin.com/in/basantmailbox" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">Thanks a lot for arranging such Technical training's and would like to join more such training's with Dot Net tricks.
+Training is lead by a great teacher "Shailendra" .
+Training has been great learning curve for me and I am still learning and going through the shared videos to capture things which I have missed.
+</p>
+                        <span>
+                            <strong>Nikhil adhikary  (Module Lead at Mindtree)</strong>
+                            ASP.NET MVC with AngularJS Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042255.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="http://www.linkedin.com/in/nikhiladhikary" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">Thanks for providing me training on NodeJS technology, i want to request Dot Net Tricks management to host this kind of training for me.
+because i have got best value for my money which they have provided me advance training on real time project.</p>
+                        <span>
+                            <strong>Mohit Tyagi ( Software Engineer)</strong>
+                            NodeJS Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042314.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://in.linkedin.com/in/mohittyagi82" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/linkedincircle.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+                <div class=" item speak-item text-center ">
+                    <div class="col-sm-10 pull-left">
+                        <p style="padding-left:20px;text-align:justify">Learning with the latest technology makes each person up-to-date, which plays a great role to compete with any situation. I am very thankful to Honorable Mr. Shailendra Sir, who encourages me to go with MEAN Stack Development. Being an author, Dot Net Tricks MEAN Stack Development Training is career turning point. I have learnt superior assistance from Sir in terms of Skill Development and Success Mantra. Always believe in Learning is Earning.
+Thank You Sir!
+</p>
+                        <span>
+                            <strong>Sanjay Kumar (Sr. Software Developer)</strong>
+                            MEAN Stack 2.x Development
+
+                        </span>
+                    </div>
+                                            <div class="col-sm-2 pull-right imgtest">
+                            <img src="/uploads/testimonialImages/220161212042329.jpg" class="img-circle" style="position:relative; top:0; left:0;width:150px;height:150px">
+                                <a href="https://twitter.com/webmasters964" target="_blank" class="imglin" rel="nofollow">
+                                    <img src="/images/twitter-link.png" style="width:20%;top: 50%; right: 80%;position: absolute;">
+                                </a>
+                        </div>
+                </div>
+    </div>
+    <div class="clearfix text-center">
+        <a class="btn btn-info" href="/Home/Testimonials" style="margin: 20px; padding: 6px 60px">View All</a>
+    </div>
+
+    <a style="bottom: 50%; position: absolute;left:0;margin-left:-2%" href="#myCarousel" role="button" data-slide="prev">
+        <span><img src="/images/left.png"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a style="bottom: 50%;float:right;position: absolute;right:0;margin-right:-2%" href="#myCarousel" role="button" data-slide="next">
+        <span><img src="/images/right.png"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 
 
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div><!--/.container-->
-    </div>
+            </div><!--/.container-->
+        </div>
 
-
-    
+                                    
 <footer id="footer">
     <div id="footer-Course" class="footer-list">
         <div class="container wow fadeInDown">
@@ -484,44 +851,53 @@
                                 <span></span>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-sm-6" style="padding-right:0">
                             <div class="widget">
                                 <ul>
                                         <li>
-                                            <a href="/training/details/dotnet-development" title=".NET Development">.NET Development</a>
+                                            <a href="/training/dotnet-development" title=".NET Development">.NET Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/advanced-csharp-development" title="Advanced C# Development">Advanced C# Development</a>
+                                            <a href="/training/android-development" title="Android Apps Development">Android Apps Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/android-development" title="Android Apps Development">Android Apps Development</a>
+                                            <a href="/training/angular-development" title="Angular2 and Angular1 Development">Angular2 and Angular1 Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/angularjs-development" title="AngularJS Development">AngularJS Development</a>
+                                            <a href="/training/asp-net-core-development" title="ASP.NET Core Development">ASP.NET Core Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/mvc-angularjs-development" title="ASP.NET MVC with AngularJS Development">ASP.NET MVC with AngularJS Development</a>
+                                            <a href="/training/mvc-angularjs-development" title="ASP.NET MVC with AngularJS Development">ASP.NET MVC with AngularJS Development</a>
+                                        </li>
+                                        <li>
+                                            <a href="/training/bigdata-hadoop-development-cum-administration" title="Hadoop Development cum Administration">Hadoop Development cum Administration</a>
+                                        </li>
+                                        <li>
+                                            <a href="/training/hybrid-apps-development" title="Ionic : Build Hybrid Mobile Apps">Ionic : Build Hybrid Mobile Apps</a>
                                         </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-6 col-sm-6" style="padding-right:0">
                             <div class="widget">
                                 <ul>
                                         <li>
-                                            <a href="/training/details/bigdata-hadoop-development-cum-administration" title="Hadoop Development cum Administration">Hadoop Development cum Administration</a>
+                                            <a href="/training/java-j2ee-development" title="Java/J2EE Development">Java/J2EE Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/hybrid-apps-development" title="Hybrid Mobile Apps Development">Hybrid Mobile Apps Development</a>
+                                            <a href="/training/mean-stack-development" title="MEAN Stack 2.x Development">MEAN Stack 2.x Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/java-j2ee-development" title="Java/J2EE Development">Java/J2EE Development</a>
+                                            <a href="/training/nodejs-development" title="NodeJS Development">NodeJS Development</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/nodejs-development" title="NodeJS Development">NodeJS Development</a>
+                                            <a href="/training/ppc-marketing" title="PPC Marketing">PPC Marketing</a>
                                         </li>
                                         <li>
-                                            <a href="/training/details/wcf-development" title="WCF Development">WCF Development</a>
+                                            <a href="/training/spoken-english-personality-development" title="Spoken English &amp; Personality Development">Spoken English &amp; Personality Development</a>
+                                        </li>
+                                        <li>
+                                            <a href="/training/xamarin-forms-build-native-cross-platform-apps" title="Xamarin Forms : Build Cross-platform Apps">Xamarin Forms : Build Cross-platform Apps</a>
                                         </li>
                                 </ul>
                             </div>
@@ -557,16 +933,15 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="widget-heading">
-                                <h3>Free Resources</h3>
+                                <h3>Activities</h3>
                                 <span></span>
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12">
                             <div class="widget">
                                 <ul>
-                                    <li><a href="/free-ebooks" title="E-Books">E-Books</a></li>
-                                    <li><a href="/events/upcoming-events">Events</a></li>
-                                    
+                                    <li><a href="/events/upcoming-events">Upcoming Events</a></li>
+                                    <li><a href="/free-ebooks">Download Free eBooks</a></li>                                   
                                 </ul>
                                 <p style="margin-top:10px;">
                                     <a href="https://www.google.co.in/maps/place/DOT+NET+TRICKS/@28.585458,77.314262,15z/data=!4m2!3m1!1s0x0:0x5e02676d0b3f5af5?sa=X&amp;ved=0ahUKEwiWib2Sjt3JAhXRHo4KHahkD9cQ_BIIajAN" target="_blank">
@@ -592,7 +967,7 @@
                             <span></span>
                         </div>
 
-<form action="/Home/Subscription" method="post">                            <div class="input-group">
+<form action="/Home/Subscription" method="post" novalidate="novalidate">                            <div class="input-group">
                                 <input name="Email" id="Email" type="text" class="form-control subscribe-form" placeholder="Enter your email for latest news">
                                 <span class="input-group-btn">
                                     <button class="btn btn-orange" type="button" onclick="Subscribe();"> <i class="fa fa-envelope-o"></i> </button>
@@ -622,24 +997,25 @@
                                 <a class="gpls" href="https://plus.google.com/communities/111263519871220907813" target="_blank" rel="nofollow"><i class="fa fa-google-plus"></i>&nbsp;</a>
                             </li>
                             <li>
-                                <a class="rss" href="#" target="_blank" rel="nofollow"><i class="fa fa-rss"></i>&nbsp;</a>
+                                <a class="rss" href="http://feeds.feedburner.com/dotnettricks/feed" target="_blank" rel="nofollow"><i class="fa fa-rss"></i>&nbsp;</a>
                             </li>
                         </ul>
                     </div>
 
                 </div><!--/.col-md-3-->
 
-                <div class="col-md-6 col-sm-12 col-xs-12">
+                <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="widget-heading">
-                        <h3>Make online Payments</h3>
+                        <h3>We Accept Online Payments</h3>
                         <span></span>
                     </div>
-                    <p>
-                        <a href="#" target="_blank"><img class="img-responsive" src="/images/pay-option.png" alt="PayUmoney, an online 100 % secure payment gateway" title="Indian Payment Option" style="display: inline;height: 44px;"></a>
-                        <a href="#" target="_blank"><img class="img-responsive" src="/images/paypal.png" alt="Paypal, an online 100 % secure payment gateway" title="International Payment Option" style="height:44px;display: inline;"></a>
-                    </p>
+                    <span style="font-size:50px;color:#fff">
+                        <i class="fa fa-cc-visa"></i>
+                        <i class="fa fa-cc-mastercard"></i>
+                        <i class="fa fa-credit-card"></i>
+                        <i class="fa fa-cc-paypal"></i>
+                    </span>
                 </div>
-
                 
                 <!--/.col-md-6-->
                 <div class="clearfix"></div>
@@ -649,11 +1025,11 @@
                         <li><a href="/contact-us">Contact Us</a></li>
                         <li><a href="/become-a-mentor">Become a Mentor</a></li>
                         <li><a href="/refer-and-earn">Refer And Earn</a></li>
-                        <li><a href="http://www.dotnet-tricks.com/Home/Archive" target="_blank">Blogs</a></li>
+                        <li><a href="/jobs">Jobs</a></li>
+                        <li><a href="/learn">Articles</a></li>
                         <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
                         <li><a href="/refund-policy">Refund Policy</a></li>
-                        
                     </ul>
                 </div>
             </div>
@@ -664,7 +1040,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 col-sm-6 col-xs-12 no-margin">
-                <p>Copyright © 2016 Dot Net Tricks Innovation. All Rights Reserved.</p>
+                <p>Copyright © 2016 Dot Net Tricks Innovation Pvt. Ltd. All Rights Reserved.</p>
             </div>
             <div class="col-md-7 col-sm-6 col-xs-12">
                 <div class="disclaimer-bx text-right">
@@ -733,8 +1109,8 @@
                     }
                     else {
                         $("#alertModel").modal('show');
-                        alert("There is some error!");
-                    } 
+                       // alert("There is some error!");
+                    }
 
                 },
                 error: function (result) {
@@ -746,19 +1122,20 @@
 </script>
 
 
-    <!-- Small modal -->
+                                    <!-- Small modal -->
 <div class="modal fade" id="quick_query" tabindex="-1" role="dialog" aria-labelledby="quick_query" aria-hidden="true">
     <div class="ui-258 visible-xs">
         <!-- Icon -->
         <div class="ui-icon bg-info">
             <!-- mobile -->
-            <a href="tel:+919871749695" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="+91 987 174 9695"><i class=" fa fa-mobile"></i></a>
+            <a href="tel:+911133034100" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="+91 11 330 34100"><i class=" fa fa-phone"></i></a>
         </div>
         <!-- Icon -->
-        
+        <div class="ui-icon bg-info">
+            <a href="mailto:info@dotnettricks.com" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="info@dotnettricks.com"><i class="fa fa-envelope-o"></i></a>
+        </div>
         <div class="ui-icon btn-info">
-
-            <a href="http://www.dotnettricks.com/batch-details" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="Upcoming Batches"><i class="fa fa-users"></i></a>
+            <a href="/batch-details" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="Upcoming Batches"><i class="fa fa-users"></i></a>
         </div>
         <!-- Icon -->
         <div class="ui-icon bg-info">
@@ -777,7 +1154,7 @@
 
     <div class="modal-dialog">
         <div class="modal-content">
-<div class="panel panel-blue">
+<div class="panel panel-blue" style="border: 0px !important;">
     <div class="panel-heading">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
         <h4 class="panel-title" style="text-align:center; display:block">START LEARNING WITH A FREE DEMO SESSION</h4>
@@ -802,16 +1179,19 @@
                         <i class="fa fa-book"></i>
                     </span>
                     <select class="form-control  placeholder" data-val="true" data-val-number="The field Course must be a number." data-val-required="Please select course" id="QCourseId" name="QCourseId"><option value="">Course Name*</option>
-<option value="7">.NET Development</option>
-<option value="11">Advanced C# Development</option>
-<option value="8">Android Apps Development</option>
-<option value="5">AngularJS Development</option>
+<option value="18">Spoken English &amp; Personality Development</option>
 <option value="1">ASP.NET MVC with AngularJS Development</option>
-<option value="2">Hadoop Development cum Administration</option>
-<option value="3">Hybrid Mobile Apps Development</option>
-<option value="14">Java/J2EE Development</option>
+<option value="5">Angular2 and Angular1 Development</option>
+<option value="17">PPC Marketing</option>
+<option value="3">Ionic : Build Hybrid Mobile Apps</option>
+<option value="8">Android Apps Development</option>
 <option value="9">NodeJS Development</option>
-<option value="6">WCF Development</option>
+<option value="11">Xamarin Forms : Build Cross-platform Apps</option>
+<option value="4">MEAN Stack 2.x Development</option>
+<option value="7">.NET Development</option>
+<option value="16">ASP.NET Core Development</option>
+<option value="2">Hadoop Development cum Administration</option>
+<option value="14">Java/J2EE Development</option>
 </select>
                     <span class="field-validation-valid text-danger" data-valmsg-for="QCourseId" data-valmsg-replace="true"></span>
 
@@ -834,13 +1214,14 @@
             <div class="col-md-12">
                 <div class="input-group field">
                     <span class="input-group-addon"><i class="fa fa-phone"></i></span>
-                    <input class="form-control" data-val="true" data-val-length="The field Mobile No must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please enter your mobile number" id="QContactNo" maxlength="20" name="QContactNo" placeholder="Contact No.*" type="text" value="">
-                    <span class="field-validation-valid" data-valmsg-for="QContactNo" data-valmsg-replace="true"></span>
+                    <myquick-contact>
+                    </myquick-contact>
+                    
                 </div>
             </div>
             <div class="col-md-12">
                 <div class="input-group field">
-                    <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                    <span class="input-group-addon"><i class="fa fa-map-marker"></i></span>
                     <input maxlength="50" class="form-control" data-val="true" data-val-length="The field Current City must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please enter your current City" id="QCity" name="QCity" placeholder="Your Current City*" type="text" value="">
                     <span class="field-validation-valid" data-valmsg-for="QCity" data-valmsg-replace="true"></span>
                 </div>
@@ -859,13 +1240,116 @@
                         </label>
                     </div>
                 </div>
-                <button type="button" class="btn btn-info btn-block" onclick="SubmitQuickForm()">SUBMIT QUERY</button>
+                <button type="button" id="btndownq" class="btn btn-info btn-block" onclick="SubmitQuickForm()">SUBMIT QUERY</button>
+                <button class="btn btn-info btn-block" id="btnwaitq" style="display: none;"><span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Please Wait...</button>
             </div>
         </div>
     </div>
 </div>
 
+
+
+
 <script type="text/javascript">
+    $('#btnwaitq').hide();
+    $('#btndownq').show();
+    $(document).ready(function () {
+        flag = true;
+        $("#QCourseId").change(function (e) {
+            if ($.trim($("#QCourseId").val()) == "") {
+                $("#QCourseId").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QCourseId").removeClass("input-validation-error");
+            }
+        });
+        $("#QTrainingModeId").change(function (e) {
+            if ($.trim($("#QTrainingModeId").val()) == "") {
+                $("#QTrainingModeId").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QTrainingModeId").removeClass("input-validation-error");
+            }
+        });
+        $("#QName").keypress(function (e) {
+            if ($.trim($("#QName").val()) == "") {
+
+                $("#QName").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QName").removeClass("input-validation-error");
+            }
+        });
+        $("#QEmailID").keypress(function (e) {
+            if ($.trim($("#QEmailID").val()) == "") {
+                $("#QEmailID").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QEmailID").removeClass("input-validation-error");
+            }
+
+            if ($.trim($("#QEmailID").val()) != "") {
+                var email = $.trim($("#QEmailID").val());
+                if (!validEmail(email)) {
+                    $("#QEmailID").addClass("input-validation-error");
+                    flag = false;
+                }
+                else {
+                    $("#QEmailID").removeClass("input-validation-error");
+                }
+            }
+        });
+
+        $(".modal-body").on("keyup", "#QContactNo", (function () {
+
+            if ($.trim($(this).val()) == "") {
+                $(this).addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                var number = $.trim($(this).val());
+                if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
+                    $(this).removeClass("input-validation-error");
+                }
+                else {
+                    $(this).addClass("input-validation-error");
+                    flag = false;
+                }
+            }
+        }));
+        $("#QSubject").keypress(function (e) {
+            if ($.trim($("#QSubject").val()) == "") {
+                $("#QSubject").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QSubject").removeClass("input-validation-error");
+            }
+        });
+        $("#QCity").keypress(function (e) {
+            if ($.trim($("#QCity").val()) == "") {
+                $("#QCity").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QCity").removeClass("input-validation-error");
+            }
+        });
+        $("#QMessage").keypress(function (e) {
+            if ($.trim($("#QMessage").val()) == "") {
+                $("#QMessage").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#QMessage").removeClass("input-validation-error");
+            }
+        });
+    });
+
     function SubmitQuickForm() {
         flag = true;
 
@@ -919,7 +1403,7 @@
         }
         else {
             var number = $.trim($("#QContactNo").val());
-            if (number.match(/^(\+\d{1,3}[- ]?)?\d{10}$/) && !(number.match(/0{5,}/))) {
+            if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
                 $("#QContactNo").removeClass("input-validation-error");
             }
             else {
@@ -960,6 +1444,7 @@
         }
 
         if (flag) {
+            //$('.modal').modal('hide');
             var obj = {
                 QCourseId: $("#QCourseId").val(),
                 QTrainingModeId: $("#QTrainingModeId").val(),
@@ -968,7 +1453,9 @@
                 QContactNo: $("#QContactNo").val(),
                 QCity: $("#QCity").val().trim(),
                 QSubject: $("#QSubject").val(),
-                QMessage: $("#QMessage").val().trim()
+                QMessage: $("#QMessage").val().trim(),
+                Code: $("#code").val(),
+                EnquiryType: 3,
             };
 
             $.ajax({
@@ -977,10 +1464,14 @@
                 url: '/Home/SaveQuickEnquiry',
                 data: JSON.stringify(obj),
                 dataType: "json",
+                beforeSend: function () {
+                    // setting a timeout
+                    $('#btnwaitq').show();
+                    $('#btndownq').hide();
+                },
                 success: function (data) {
-                    if (data.msg = "success") {
-                        $('.modal').modal('hide');
-                        $("#alertModel").modal('show');
+                    if (data.msg == "success") {
+                         $("#alertModel").modal('show');
 
                         $('.modal-body > p > span').html('Your enquiry has been submitted successfully.');
 
@@ -992,14 +1483,27 @@
                         $("#QCity").val("");
                         $("#QMessage").val("");
                         $('#Qagree_check').prop('checked', false);
+                        $('#btnwaitq').hide();
+                        $('#btndownq').show();
                     }
                     else {
-                        alert("There is some error!");
+                        $('.modal').modal('hide');
+                        $("#alertModel").modal('show');
+                        $('.modal-body > p > span').html('You have crossed maximum limit of enquiry for this Course! <br> &nbsp;&nbsp;&nbsp; Please try again later!');
                     }
                 },
                 error: function (result) {
                     alert('Service call failed: ' + result.status + ' Type :' + result.statusText);
-                }
+                    $('#btnwaitq').hide();
+                    $('#btndownq').show();
+                },
+                complete: function () {
+                    setTimeout(function () {
+                        $('#btnwaitq').hide();
+                        $('#btndownq').show();
+                        $('.modal').modal('hide');
+                    }, 2000);
+                },
             });
         }
     }
@@ -1025,29 +1529,103 @@
                     <!--form strat-->
                     
                     
-<form action="/Home/SaveCallbackRequest" method="post">        <div class="form-group">
-            <input class="form-control" data-val="true" data-val-length="The field Name must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please Enter Your Name" id="Name" maxlength="50" name="Name" placeholder="Your Name*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true"></span>
-        </div>
-        <div class="form-group">
-            <input class="form-control" data-val="true" data-val-length="The field ContactNo must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please Enter Your Contact No." id="ContactNo" maxlength="20" name="ContactNo" onkeypress="return isNumberKey(event);" placeholder="Contact No.*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="ContactNo" data-valmsg-replace="true"></span>
-        </div>
-        <div class="form-group">
-            <label>Preferred Time to Call </label>
-            <input class="form-control" data-val="true" data-val-length="The field CallTime must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please Enter your prefered Call Time" id="CallTime" maxlength="10" name="CallTime" placeholder="HH:MM*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="CallTime" data-valmsg-replace="true"></span>
-        </div>
-        <button type="button" class="btn btn-block btn-orange" onclick="SaveCallBackRequest()">SUBMIT QUERY </button>
+<form action="/Home/SaveCallbackRequest" method="post" novalidate="novalidate">    <div class="form-group">
+        <input class="form-control" data-val="true" data-val-length="The field Name must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please Enter Your Name" id="Name" maxlength="50" name="Name" placeholder="Your Name*" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="Name" data-valmsg-replace="true"></span>
+    </div>
+    <div class="form-group">
+        <input class="form-control" data-val="true" data-val-length="The field ContactNo must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please Enter Your Contact No." id="ContactNo" maxlength="20" name="ContactNo" onkeypress="return isNumberKey(event);" placeholder="Contact No.*" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="ContactNo" data-valmsg-replace="true"></span>
+    </div>
+    <div class="form-group">
+        <label>Preferred Time to Call </label>
+        <table class="Myform-control">
+            <tbody><tr>
+                <td>
+                    <select id="hourid" name="hourid" class="Myform-control">
+                        <option value="00">00</option>
+                        <option value="01">01</option>
+                        <option value="02">02</option>
+                        <option value="03">03</option>
+                        <option value="04">04</option>
+                        <option value="05">05</option>
+                        <option value="06">06</option>
+                        <option value="07">07</option>
+                        <option value="08">08</option>
+                        <option value="09">09</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+
+                    </select>
+                </td>
+                <td style="font-size:large;padding-left:5px"><strong> :</strong>
+                </td><td style="padding-right:5px;padding-left:5px">
+                    <select id="minid" name="minid" class="Myform-control">
+                        <option value="00">00</option>
+                        <option value="00">00</option>
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="30">30</option>
+                        <option value="40">40</option>
+                        <option value="50">50</option>
+
+                    </select>
+                </td>
+                <td>
+                    <select id="timeid" name="timeid" class="Myform-control">
+                        <option value="">--</option>
+                        <option value="AM">AM</option>
+                        <option value="PM">PM</option>
+                    </select>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <button type="button" id="btndown" class="btn btn-block btn-orange" onclick="SaveCallBackRequest()">SUBMIT QUERY </button>
+    <button class="btn btn-info btn-block" id="btnwait" style="display: none;"><span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Please Wait...</button>
 </form>
 
+
 <script type="text/javascript">
-    //Function for validating Course partial view i.e. _CourseEnquiry.cshtml
+    $('#btnwait').hide();
+    $('#btndown').show();
+    $(document).ready(function () {
+        flag = true;
+        $("#Name").keypress(function (e) {
+            if ($.trim($("#Name").val()) == "") {
+
+                $("#Name").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#Name").removeClass("input-validation-error");
+            }
+        });
+
+        $(".form-group").on("keyup", "#ContactNo", (function () {
+
+            if ($.trim($(this).val()) == "") {
+                $(this).addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                var number = $.trim($(this).val());
+                if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
+                    $(this).removeClass("input-validation-error");
+                }
+                else {
+                    $(this).addClass("input-validation-error");
+                    flag = false;
+                }
+            }
+        }));
+    });
     function SaveCallBackRequest() {
         flag = true;
-       
+
         if ($.trim($("#Name").val()) == "") {
-         
+            
             $("#Name").addClass("input-validation-error");
             flag = false;
         }
@@ -1061,7 +1639,7 @@
         }
         else {
             var number = $.trim($("#ContactNo").val());
-            if (number.match(/^(\+\d{1,3}[- ]?)?\d{10}$/) && !(number.match(/0{5,}/))) {
+            if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
                 $("#ContactNo").removeClass("input-validation-error");
             }
             else {
@@ -1071,21 +1649,26 @@
             }
         }
 
-        if ($.trim($("#CallTime").val()) == "") {
-
-            $("#CallTime").addClass("input-validation-error");
+        if ($('#hourid').val() == "00") {
+            $("#hourid").addClass("input-validation-error");
             flag = false;
         }
         else {
-            $("#CallTime").removeClass("input-validation-error");
+            $("#hourid").removeClass("input-validation-error");
         }
-
-
+        
+        if ($('#timeid').val() == "") {
+            $("#timeid").addClass("input-validation-error");
+            flag = false;
+        }
+        else {
+            $("#timeid").removeClass("input-validation-error");
+        }
         if (flag) {
             var obj = {
                 Name: $("#Name").val(),
                 ContactNo: $("#ContactNo").val(),
-                City: $("#CallTime").val().trim()
+                CallTime: $("#hourid").val() + ":" + $("#minid").val() + $("#timeid").val()
             };
 
             $.ajax({
@@ -1094,22 +1677,41 @@
                 url: '/Home/SaveCallbackRequest',
                 data: JSON.stringify(obj),
                 dataType: "json",
+                beforeSend: function () {
+                    // setting a timeout
+                    $('#btnwait').show();
+                    $('#btndown').hide();
+                },
                 success: function (data) {
-                    if (data.msg = "success") {
+                    if (data.msg == "success") {
+
                         $("#alertModel").modal('show');
                         $('.modal-body > p > span').html('');
                         $('.modal-body > p > span').html('Your enquiry has been posted successfully.');
                         $("#Name").val("");
                         $("#ContactNo").val("");
-                        $("#CallTime").val("");
+                        $("#hourid").val("00");
+                        $("#minid").val("00");
+                        $("#timeid").val("");
+                       
                     }
                     else {
-                        alert("There is some error!");
+                        $("#alertModel").modal('show');
+                        $('.modal-body > p > span').html('');
+                        $('.modal-body > p > span').html('You have already submitted your Query.<br/> Try again later !! ');
+
                     }
                 },
                 error: function (result) {
                     alert('Service call failed: ' + result.status + ' Type :' + result.statusText);
-                }
+                },
+                complete: function () {
+                    setTimeout(function () {
+                        $('#btnwait').hide();
+                        $('#btndown').show();
+                        $('.call-back-form').removeClass('in');
+                    }, 2000);
+                },
             });
         }
     }
@@ -1126,14 +1728,13 @@
     <!-- Icon -->
     <div class="ui-icon btn-info">
         <!-- mobile -->
-        <a href="tel:+91-9871749695" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="+91-987 174 9695"><i class="fa fa-mobile" style="font-size:24px;"></i></a>
+        <a href="tel:+911133034100" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="+91 11 330 34100"><i class="fa fa-phone" style="font-size:24px;"></i></a>
     </div>
     <!-- Icon -->
     <div class="ui-icon btn-info">
-      
-        <a href="http://www.dotnettricks.com/batch-details" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="Upcoming Batches"><i class="fa fa-users"></i></a>
+
+        <a href="/batch-details" class="ui-tooltip" data-toggle="tooltip" data-placement="right" title="Upcoming Batches"><i class="fa fa-calendar"></i></a>
     </div>
-    
     <!-- Icon -->
     <div class="ui-icon btn-info">
         <!-- callback -->
@@ -1167,29 +1768,104 @@
 
 
                                 
-<form action="/Home/SaveCallbackRequest2" method="post">        <div class="form-group">
-            <input class="form-control" data-val="true" data-val-length="The field Name2 must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please Enter Your Name" id="Name2" maxlength="50" name="Name2" placeholder="Your Name*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="Name2" data-valmsg-replace="true"></span>
-        </div>
-        <div class="form-group">
-            <input class="form-control" data-val="true" data-val-length="The field ContactNo2 must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please Enter Your Contact No." id="ContactNo2" maxlength="20" name="ContactNo2" onkeypress="return isNumberKey(event);" placeholder="Contact No.*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="ContactNo2" data-valmsg-replace="true"></span>
-        </div>
-        <div class="form-group">
-            <label>Preferred Time to Call </label>
-            <input class="form-control" data-val="true" data-val-length="The field CallTime2 must be a string with a maximum length of 10." data-val-length-max="10" data-val-required="Please Enter your prefered Call Time" id="CallTime2" maxlength="10" name="CallTime2" placeholder="HH:MM*" type="text" value="">
-            <span class="field-validation-valid" data-valmsg-for="CallTime2" data-valmsg-replace="true"></span>
-        </div>
-        <button type="button" class="btn btn-block btn-orange" onclick="SaveCallBackRequest2()">SUBMIT QUERY </button>
-</form>
+<form action="/privacy-policy" method="post" novalidate="novalidate">    <div class="form-group">
+        <input class="form-control" data-val="true" data-val-length="The field Name2 must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Please Enter Your Name" id="Name2" maxlength="50" name="Name2" placeholder="Your Name*" type="text" value="">
+        
+    </div>
+    <div class="form-group">
+        <input class="form-control" data-val="true" data-val-length="The field ContactNo2 must be a string with a maximum length of 20." data-val-length-max="20" data-val-required="Please Enter Your Contact No." id="ContactNo2" maxlength="20" name="ContactNo2" onkeypress="return isNumberKey(event);" placeholder="Contact No.*" type="text" value="">
+        
+    </div>
+    <div class="form-group">
+        <label>Preferred Time to Call </label>
+        <table class="Myform-control">
+            <tbody><tr>
+                <td>
+                    <select id="hourid2" name="hourid2" class="Myform-control">
+                        <option value="00">00</option>
+                        <option value="01">01</option>
+                        <option value="02">02</option>
+                        <option value="03">03</option>
+                        <option value="04">04</option>
+                        <option value="05">05</option>
+                        <option value="06">06</option>
+                        <option value="07">07</option>
+                        <option value="08">08</option>
+                        <option value="09">09</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
 
+                    </select>
+                </td>
+                <td style="font-size:large;padding-left:5px"><strong> :</strong>
+                </td><td style="padding-right:5px;padding-left:5px">
+                    <select id="minid2" name="minid2" class="Myform-control">
+                        <option value="00">00</option>
+                        <option value="00">00</option>
+                        <option value="10">10</option>
+                        <option value="20">20</option>
+                        <option value="30">30</option>
+                        <option value="40">40</option>
+                        <option value="50">50</option>
+
+                    </select>
+                </td>
+                <td>
+                    <select id="timeid2" name="timeid2" class="Myform-control">
+                        <option value="">--</option>
+                        <option value="AM">AM</option>
+                        <option value="PM">PM</option>
+                    </select>
+                </td>
+            </tr>
+        </tbody></table>
+        
+        
+    </div>
+    <button type="button" id="btndown2" class="btn btn-block btn-orange" onclick="SaveCallBackRequest2()">SUBMIT QUERY </button>
+    <button class="btn btn-info btn-block" id="btnwait2" style="display: none;"><span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Please Wait...</button>
+</form>
 <script type="text/javascript">
-    //Function for validating Course partial view i.e. _CourseEnquiry.cshtml
+    $('#btnwait2').hide();
+    $('#btndown2').show();
+
+    $(document).ready(function () {
+        flag = true;
+        $("#Name2").keypress(function (e) {
+            if ($.trim($("#Name2").val()) == "") {
+
+                $("#Name2").addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                $("#Name2").removeClass("input-validation-error");
+            }
+        });
+
+        $(".form-group").on("keyup", "#ContactNo2", (function () {
+
+            if ($.trim($(this).val()) == "") {
+                $(this).addClass("input-validation-error");
+                flag = false;
+            }
+            else {
+                var number = $.trim($(this).val());
+                if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
+                    $(this).removeClass("input-validation-error");
+                }
+                else {
+                    $(this).addClass("input-validation-error");
+                    flag = false;
+                }
+            }
+        }));
+    });
     function SaveCallBackRequest2() {
         flag = true;
-       
+
         if ($.trim($("#Name2").val()) == "") {
-         
+
             $("#Name2").addClass("input-validation-error");
             flag = false;
         }
@@ -1197,13 +1873,14 @@
             $("#Name2").removeClass("input-validation-error");
         }
 
+
         if ($.trim($("#ContactNo2").val()) == "") {
             $("#ContactNo2").addClass("input-validation-error");
             flag = false;
         }
         else {
             var number = $.trim($("#ContactNo2").val());
-            if (number.match(/^(\+\d{1,3}[- ]?)?\d{10}$/) && !(number.match(/0{5,}/))) {
+            if (number.match(/^-?\d+\.?\d*$/) && (number.match(/\d{5}/))) {
                 $("#ContactNo2").removeClass("input-validation-error");
             }
             else {
@@ -1213,21 +1890,27 @@
             }
         }
 
-        if ($.trim($("#CallTime2").val()) == "") {
-
-            $("#CallTime2").addClass("input-validation-error");
+        if ($('#hourid2').val() == "00") {
+            $("#hourid2").addClass("input-validation-error");
             flag = false;
         }
         else {
-            $("#CallTime2").removeClass("input-validation-error");
+            $("#hourid2").removeClass("input-validation-error");
         }
-
+        
+        if ($('#timeid2').val() == "") {
+            $("#timeid2").addClass("input-validation-error");
+            flag = false;
+        }
+        else {
+            $("#timeid2").removeClass("input-validation-error");
+        }
 
         if (flag) {
             var obj = {
-                Name: $("#Name2").val(),
-                ContactNo: $("#ContactNo2").val(),
-                City: $("#CallTime2").val().trim()
+                Name2: $("#Name2").val(),
+                ContactNo2: $("#ContactNo2").val(),
+                CallTime2: $("#hourid2").val() + ":" + $("#minid2").val() + $("#timeid2").val()
             };
 
             $.ajax({
@@ -1236,22 +1919,43 @@
                 url: '/Home/SaveCallbackRequest2',
                 data: JSON.stringify(obj),
                 dataType: "json",
+                beforeSend: function () {
+                    // setting a timeout
+                    $('#btnwait2').show();
+                    $('#btndown2').hide();
+                },
                 success: function (data) {
-                    if (data.msg = "success") {
+                    if (data.msg == "success") {
+                        
                         $("#alertModel").modal('show');
                         $('.modal-body > p > span').html('');
                         $('.modal-body > p > span').html('Your enquiry has been posted successfully.');
                         $("#Name2").val("");
                         $("#ContactNo2").val("");
-                        $("#CallTime2").val("");
+                        $("#hourid2").val("00");
+                        $("#minid2").val("00");
+                        $("#timeid2").val("");
+                      
+
                     }
                     else {
-                        alert("There is some error!");
+                        $("#alertModel").modal('show');
+                        $('.modal-body > p > span').html('');
+                        $('.modal-body > p > span').html('You have already submitted your Query.<br/> Try again later !! ');
+                        
                     }
-                },
+                }
+                ,
                 error: function (result) {
                     alert('Service call failed: ' + result.status + ' Type :' + result.statusText);
-                }
+                },
+                complete: function () {
+                    setTimeout(function () {
+                        $('#btnwait2').hide();
+                        $('#btndown2').show();
+                        $('.call-back-form').removeClass('in');
+                    }, 2000);
+                },
             });
         }
     }
@@ -1261,38 +1965,30 @@
                         <a data-toggle="collapse" href="#call-back" aria-expanded="false" aria-controls="call-back"> <i class=" fa fa-reply"></i> Request a Callback </a>
                     </div>
                     <div class="fix-btn pull-left">
-                        <a href="tel:+919871749695"><i class="fa fa-mobile" style="font-size: 26px"></i><span>+91 987 174 9695</span></a>
+                        <a href="tel:+911133034100"><i class="fa fa-phone" style="font-size: 26px"></i><span>+91 11 330 34100</span></a>
                     </div>
-                    <div class="fix-btn pull-left">
-                        <a href="tel:+911204265198"><i class="fa fa-phone" style="font-size: 22px"></i><span>+91 120 426 5198</span></a>
-                    </div>
+
                     <div class="email-fx call-back-bt pull-left">
-                        <a href="http://www.dotnettricks.com/batch-details"><span><i class="fa fa-users" aria-hidden="true"></i></span> Upcoming Batches</a>
-                    </div>
-                    <div class=" news-btn">
                         <div class="news-latest-form collapse" id="newslat">
                             <div class="news-form-field text-left">
                                 <button type="button" onclick="$('.news-latest-form').removeClass('in');" class="close" data-dismiss="collapse" aria-label="Close"><span aria-hidden="false">×</span></button>
                                 <span class="ttl">LATEST NEWS</span>
                             </div>
 
-<form action="/privacy-policy" method="post">    <div class="latnews-btn">
+<form action="/privacy-policy" method="post" novalidate="novalidate">    <div class="latnews-btn" style="max-height:400px;overflow:auto;">
 
-<div class="item active">
-                    <a href="http://www.dotnettricks.com/training/details/mvc-angularjs-development" target="_blank" style="color:#0099ff;"> <i class=" fa fa-bullhorn"></i> Starting Online "ASP.NET MVC with AngularJS Development" Training Batch from 25th April 2016.</a>
-                </div>                     <div class="item active">
-                        <a href="http://www.dotnettricks.com/training/details/nodejs-development" target="_blank" style="color:#808080;"><i class=" fa fa-bullhorn"></i>  Starting Offline "NodeJS Development"  Batch from 30th April 2016.</a>
-                    </div><div class="item active">
-                    <a href="http://www.dotnettricks.com/Events/Webinar/H6S8120416-web-applications-development-with-mean-stack" target="_blank" style="color:#0099ff;"> <i class=" fa fa-bullhorn"></i> Join Free Webinar - Web Applications Development with MEAN Stack, Timings - Saturday, 30th April 2016 (8:30 PM-10:00 PM IST)</a>
-                </div>                     <div class="item active">
-                        <a href="http://www.dotnettricks.com/training/details/dotnet-development" target="_blank" style="color:#808080;"><i class=" fa fa-bullhorn"></i> Starting Online ".NET Development" Batch from 24th April 2016.</a>
-                    </div>    </div>
+    </div>
 </form>
 
                         </div>
                         <a data-toggle="collapse" href="#newslat" aria-expanded="false" aria-controls="newslat">
-                            <i class=" fa fa-bell-o"></i> News (<span style="color:yellow;font-stretch:expanded;font-size:18px">4</span>)
-                        </a>
+                            <i class=" fa fa-bell-o"></i> News <span style="color:yellow;font-stretch:expanded;font-size:18px" class="newsnoti" data-badge="0" <="" span="">
+                        </span></a>
+
+                    </div>
+                    <div class=" news-btn">
+                        <a href="/batch-details" class="noti" data-badge="5"><span><i class="fa fa-calendar" aria-hidden="true"></i></span> Upcoming Batches</a>
+                       
                     </div>
                 </div>
             </div>
@@ -1305,7 +2001,48 @@
     </a>
 </span>
 <!-- /top-link-block -->
-    <div id="alertModel" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+<style>
+    .noti {
+        position: relative;
+    }
+
+        .noti[data-badge]:after {
+            content: attr(data-badge);
+            position: absolute;
+            top: 0px;
+            left: 14%;
+            font-size: 0.7em;
+            background: #ea172b;
+            color: yellow;
+            width: 17px;
+            height: 13px;
+            text-align: center;
+            line-height: 12px;
+            border-radius: 20%;
+            box-shadow: 0 0 0px #f9cf03;
+        }
+
+    .newsnoti {
+        position: relative;
+    }
+
+        .newsnoti[data-badge]:after {
+            content: attr(data-badge);
+            position: absolute;
+            top: 0px;
+            left: 23px !important;
+            font-size: 0.7em;
+             background: #ea172b;
+            color: yellow;
+            width: 17px;
+            height: 13px;
+            text-align: center;
+            line-height: 12px;
+            border-radius: 20%;
+            box-shadow: 0 0 0px #f9cf03;
+        }
+</style>
+                                    <div id="alertModel" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="panel panel-blue">
@@ -1325,15 +2062,138 @@
         </div>
     </div>
 </div>
+                                    
+    <script id="contact.html" type="text/ng-template">
+        <div class="select_wraper dr_cun" style="width:100%">
+            <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:14%">
+                <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
+            </select>
+            <div class="placeholder_wrap ie_class" style="width:86%">
+                <span class="country_code_span">
+                    {{countryData.repeatSelect}}
+                    <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
+                </span>
+                <input class="form-control" data-val="true" data-val-required="Please enter your mobile number" id="ContactNo" maxlength="20" name="ContactNo" placeholder="Your ContactNo*" style="padding-left: 20%; width:100%" type="text" value="">
+                <span class="field-validation-valid" data-valmsg-for="ContactNo" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </script>
 
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/main.js"></script>
-    <script src="/js/owl.carousel.js"></script>
-    <script src="/js/wow.min.js"></script>
-    <script src="/js/simple-ripple-effect.js"></script>
-    <!-- SmartMenus jQuery plugin -->
-    <script src="/js/jquery.smartmenus.min.js"></script>
-    <script src="/js/header-fix.js"></script>
-    <script src="/js/common.js"></script>
+    <script id="quickcontact.html" type="text/ng-template">
+        <div class="select_wraper dr_cun" style="width:100%">
+            <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:10%">
+                <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
+            </select>
+            <div class="placeholder_wrap ie_class" style="width:90%">
+                <span class="country_code_span">
+                    {{countryData.repeatSelect}}
+                    <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
+                </span>
+                <input class="form-control contacttext" data-val="true" data-val-required="Please enter your mobile number" id="QContactNo" maxlength="20" name="QContactNo" placeholder="Contact No.*" style="padding-left: 12%; width:100%" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="QContactNo" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </script>
+    <script id="quickDownload.html" type="text/ng-template">
+        <div class="select_wraper dr_cun" style="width:100%">
+            <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:10%">
+                <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
+            </select>
+            <div class="placeholder_wrap ie_class" style="width:90%">
+                <span class="country_code_span">
+                    {{countryData.repeatSelect}}
+                    <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
+                </span>
+                <input class="form-control contacttext" data-val="true" data-val-required="Please enter your mobile number" id="DContactNo" maxlength="20" name="DContactNo" placeholder="Contact No.*" style="padding-left: 12%; width:100%" type="text" value="" />
+                <span class="field-validation-valid" data-valmsg-for="DContactNo" data-valmsg-replace="true"></span>
+            </div>
+        </div>
+    </script>
+
+    <script id="signupcontact.html" type="text/ng-template">
+        <div class="select_wraper dr_cun" style="width:100%">
+            <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:10%">
+                <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
+            </select>
+            <div class="placeholder_wrap ie_class" style="width:90%">
+                <span class="country_code_span">
+                    {{countryData.repeatSelect}}
+                    <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
+                </span>
+                <input class="form-control" data-val="true" data-val-required="Please enter your mobile number" id="ContactNo" name="ContactNo" placeholder="Contact No.*" type="text" value="" style="padding-left: 12%; width:100%" maxlength="20" />
+            </div>
+        </div>
+    </script>
+
+    <script id="modalcontact.html" type="text/ng-template">
+        <div class="select_wraper dr_cun" style="width:100%">
+            <select name="countrySelect" ng-model="countryData.repeatSelect" class="sel_cr monospace_class" style="width:12%">
+                <option ng-repeat="option in countryData.availableOptions" value="{{::option.CountryValue}}" ng-disabled="option.CountryValue=='disabled'">{{::option.CountryCode}}</option>
+            </select>
+            <div class="placeholder_wrap ie_class" style="width:88%">
+                <span class="country_code_span">
+                    {{countryData.repeatSelect}}
+                    <input type="hidden" value="{{countryData.repeatSelect}}" name="code" id="code" />
+                </span>
+                <input class="form-control" ng-class="{ 'input-validation-error' : userSignUpForm.ContactNo.$invalid && (userSignUpForm.ContactNo.$dirty || IsSubmit)}" name="ContactNo" placeholder="Contact No.*" type="text" style="padding-left: 12%; width:100%" maxlength="20" ng-model="user.ContactNo" ng-required="true" />
+            </div>
+        </div>
+    </script>
+    <style>
+        .select_wraper .sel_cr {
+            width: 337px;
+            height: 34px;
+            border: 1px solid #D4D4D4;
+            position: relative;
+            z-index: 1;
+            background: none;
+            border-right: none;
+            -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+            box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+            -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+            transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        }
+
+        .select_wraper {
+            background: #fff;
+            width: 100%;
+            overflow: hidden;
+            position: relative;
+            height: 34px;
+        }
+
+        .country_code_span {
+            position: absolute;
+            float: left;
+            padding: 6px 12px;
+            font-size: 14px;
+            left: 0;
+        }
+
+        .ie_class {
+            float: right;
+        }
+
+        .placeholder_wrap {
+            position: relative;
+        }
+    </style>
+
+
+    <!-- Widgets and livechat -->
+    <script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=38373981"></script>
+
+    <script type="text/javascript" defer="defer">
+        //google analytics
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-29156530-2', 'auto');
+        ga('send', 'pageview');
+    </script>
 
 </body></html>
