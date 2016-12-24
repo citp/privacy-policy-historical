@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canistream.it privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607193744id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canistream.it privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224083602id_/http%3A//www.canistream.it/pages/privacy) for the most accurate reproduction.*
 
 # Can I Stream.It?: Search Netflix, Hulu, Google Play, iTunes, and more, for movies to stream instantly, rent, and buy.
 
