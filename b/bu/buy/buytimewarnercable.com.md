@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401155019id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224094051id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BuyTimeWarnerCable.com
+# Privacy Policy - Time Warner Online
 
 ### PRIVACY POLICY
 
 Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications.
 
-This policy is effective as of and was last updated on December 22, 2014.
+This policy is effective as of and was last updated on January 1, 2015
 
 **General**   
 This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that Qology Direct (“Company”, “we,” “our” or “us”) may gather about or collect from you in connection with your use of this Qology Direct website (this “Site”). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.
 
 **Children**   
-This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18.
+In accordance with the Children’s Online Privacy Protection Act (“COPPA”), this site does not collect personally identifying information from children under the age of 13.
 
- **Gathering, Use and Disclosure of Non-Personally-Identifying Information**  
+**Gathering, Use and Disclosure of Non-Personally-Identifying Information**  
 We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. “Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
- **Gathering Non-Personally-Identifying Information**
+### Gathering Non-Personally-Identifying Information
 
 **Web Browsers**   
 Like most site operators, we gather from you Non-Personally-Identifying Information of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol (“IP”) address, operating system and browser type, and the locations of the web pages that you view right before arriving at, while navigating and immediately after leaving this Site.
@@ -84,7 +84,7 @@ We take reasonable precautions to protect the security of your information. Howe
 **Contests, Giveaways and other Promotions**   
 From time to time, we may offer Site users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. However, your participation in the promotion will not be conditioned on the consent to use your Personally-Identifying Information for purposes unrelated to the promotion.
 
- **Collection and Use of Information by Third Parties Not Covered By This Agreement**  
+**Collection and Use of Information by Third Parties Not Covered By This Agreement**  
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, you should review its privacy policies and terms of use.
 
 **For Additional Information.**   
@@ -93,4 +93,4 @@ Qology Direct, LLC maintains this Site from its headquarters in Margate, Florida
 **To Inspect, Change or Modify Your Personal Information:**   
 Upon request, Qology Direct, LLC will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. We will also modify the information that you have provided to us. To make such a request, contact us at privacy@qologydirect.com.
 
-To view our Do Not Call Policy [click here.](https://web.archive.org/do-not-call-policy)
+To view our Do Not Call Policy [click here.](https://web.archive.org/dnc-policy)
