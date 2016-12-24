@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010756id_/http%3A//www.economy.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskjobs.ca privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224191636id_/http%3A//www.economy.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - Economy - Government of Saskatchewan
 
@@ -16,14 +16,15 @@ Some Government of Saskatchewan websites may distribute a small file to your bro
 
 Questions or concerns regarding our management of this privacy statement may be directed to:
 
-**Mr. James Kirby  
-** Acting Manager, Legislative and Contract Services  
+**Ms. Dawn Campbell  
+** Chief Privacy and Access Officer  
+Manager, Legislative and Contract Services  
 Saskatchewan Ministry of the Economy  
 1000 - 2103 - 11th Avenue  
 REGINA SK  S4P 3Z8  
-Phone: (306) 787-4483  
-Fax: (306) 787-2198  
-E-mail:  [james.kirby@gov.sk.ca](mailto:james.kirby@gov.sk.ca)
+Phone: (306) 787-9549  
+Fax: (306) 798-0005  
+E-mail:  [dawn.campbell3@gov.sk.ca](mailto:dawn.campbell3@gov.sk.ca)
 
 If you are not satisfied with our response to your privacy concern, you may wish to contact the:
 
