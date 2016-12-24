@@ -1,31 +1,53 @@
-> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219004928id_/http%3A//www.ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224101352id_/http%3A//ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – NGO Jobs
 
-This privacy policy sets out the basis on which your personal data will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how they will be treated by us. NGOJobsinAfrica.com collects personal data provided by our site users to help in their recruitment process.
+Ngojobsinafrica.com is Africa’s largest Job site that focuses only on Non-Government Organization job Opportunities across Africa.  We publish latest jobs and career information for Africans who intends to build a career in this industry (NGO). Please read our Privacy Policy below if you intend to use our service.
 
-• Information that you provide by filling in forms on the site. This includes information provided at the time of registration or at the time of posting material or requesting further services.
+**_What information do we collect_**  
+we collect information such as Name & Email, Address you when you register on our site. This information is necessary to keep you updated on latest Ngo Jobs in your country. You may however visit the site anonymously.
 
-• If you contact us, we may keep a record of that correspondence.
+**_What do we use your information for?_**  
+Any of the information we collect from you may be used in one following ways:  
+– To personalize your experience  
+– To send you periodic updates on our services.  
+– To administer a survey or contest on our site.  
+– To improve our customer service (respond to your request easily and faster).
 
-• Details of your visits to the site and the resources that you access.
+**_How do we protect your information?_**  
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
-  
-By using this website and by registering your details with us, you consent to our collecting and processing sensitive personal data supplied by you and disclosing this information to prospective employers and clients in connection with the recruitment process. We do not pass on any of your personal data to outside organisations and/or individuals without this consent.
+**_Do we use cookies?_**  
+Yes we use cookies to maintain your session on our site and to service you relevant third party ads
 
-  
-IP Addresses and Cookies.
+**_Do we disclose any information to our outside parties?_**  
+We do not sell trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.  
+However during the cause of search by employers, information such as your resume, job objective, resume, name and pic will be revealed to employers to enable them choose the best candidate and to contact you.  
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non -personally identifiable visitor information may be provided to other parties for marketing, advertising and other uses.
 
-We may collect information about your computer including where available your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. These are data about our users' browsing actions and patterns and do not identify any individual. You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. If you want to find out more about how to disable cookies please see this external third party website: http://www.allaboutcookies.org/manage-cookies/  
-Please note that our advertisers may also use cookies over which we have no control.  
-Risks Involved in Transmitting Personal Data Over the Internet  
-Unfortunately, the transmission of information via the Internet is not completely secure. So, whilst NGOJobsinAfrica.com will do its best to protect your personal data, we cannot ensure the security of data transmitted by you to the Site. Any transmission is at your own risk. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, NGOJobsinAfrica.com utilizes appropriate physical, technical and administrative procedures to safeguard the information we collect.  
-You may remove your profile at any time. However, potential employers who you have permitted to view your profile may have retained a copy of your profile in their own files or databases. We are not responsible for the retention, use, or privacy of profiles in these instances.
+**_Third Party Links_**  
+Please refer to our disclaimer section at www.ngojobsinafrica.com/disclaimer/
 
-Links to third party websites  
-We have included links on this site for your reference. We are not responsible for the privacy policies on these websites.  
-Changes to this Policy  
-We may change this Privacy Statement from time to time. If we do make a change, we will post the revised Privacy Statement on this Site. We encourage you to review this Privacy Statement periodically.
+**_Online Privacy Policy Only_** This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-How To Contact Us  
-You are more than welcome to write to us what you feel about this site. Please help us keep to keep our site an enjoyable experience for all Users. If you observe material or behavior that may violate any of our Terms & Conditions, please contact us at _____
+**_Terms and Conditions_**  
+Please refer to our terms and conditions  
+**_Your Consent_**  
+By using our site, you consent to our privacy policy
+
+**_Changes to our policy_**  
+If we decide to change our policy we will post those changes on this page.
+
+**_Unsubsription_**  
+If at any time you wish to stop receiving our Information/updates/alerts you can unsubscribe by clicking on the Un-subscription link in our newsletters or send a request to Hello@ngojobsinafrica.com.
+
+**Disclaimer**
+
+Ngojobsinafrica.com is Africa’s largest Job site that focuses only on Non-Government Organization job Opportunities across Africa.  We publish latest jobs and career information for Africans who intends to build a career in this industry (NGO). Please read our Privacy Policy below if you intend to use our service.
+
+**_Job Scams_**  
+**Ngojobsinafrica.com publishes** latest jobs and career information for Africans who intends to build a career in this NGO industry. This site offers exclusive NGO Job Opportunities In Africa. We do not in any way expect visitors/candidates or job seekers to pay any form of money to apply for jobs or as a criteria be shortlisted for interviews.  
+Please do not pay to any organization that claims to be Ngojobsinafrica.com. We neither solicit nor request for money from job seekers to provide job, expect in cases where a user subscribes for our premium services.  
+Employers or agencies that ask for money, are fake, they might be scammers and fraudsters: none of these forms of requests originate from either our site or that of any of our affiliates.
+
+These sort of scams may be a part of the notorious Advance Fee Fraud, popularly known as 419. Please beware!!!
