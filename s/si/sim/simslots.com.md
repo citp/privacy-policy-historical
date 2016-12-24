@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the simslots.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simslots.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)     
-[Free Slots 1](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/slots-1.htm)     
-[Free Slots 2](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/slots-2.htm)     
-[Free Slots 3](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/slots-3.htm)     
-[Free Slots 4](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/slots-4.htm)     
-[Multi-Payline Slots](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/MultiPayline1.htm)     
+[Free Slots 1](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/slots-1.htm)     
+[Free Slots 2](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/slots-2.htm)     
+[Free Slots 3](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/slots-3.htm)     
+[Free Slots 4](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/slots-4.htm)     
+[Multi-Payline Slots](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/MultiPayline1.htm)     
 [Video Poker](http://www.freevideopoker.com/)     
-[Winners List](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/Winners.htm)     
-[FAQ](https://web.archive.org/web/20160506012552id_/http%3A//www.freeslots.com/FAQ.htm)    | 
+[Winners List](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/Winners.htm)     
+[FAQ](https://web.archive.org/web/20161224122114id_/http%3A//www.freeslots.com/FAQ.htm)    | 
 
 **Privacy Policy**
 
@@ -58,13 +58,13 @@ The Website uses cookies. A cookie is a small piece of information sent by a web
 
 5.2 We may use "pixel tags" (sometimes called "web beacons" or "clear gifs"), which are tiny graphic images, on the Website. Pixel tags help us analyze Users' online behavior and measure the effectiveness of the Website and our advertising and marketing. We may also use other analytical tools to evaluate site performance through the use of aggregated data, which contain no Personal Information. We work with service providers that help us track, collect, and analyze this information. 
 
-5.3 Cookies, pixel tags and/or other analytical tools that we may use on the Website may collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Website. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to the Website. We do not otherwise track any information about your use of other websites. 
+5.3 Games, cookies, pixel tags and/or other analytical tools that we may use on the Website may collect information about your visit, including the pages you view, the features you use, the links you click, your gameplay, and other actions you take in connection with the Website. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. It may also include information about game state and operation, audio and display capabilities, browser dimensions, error information, and communication diagnostics. We may also track certain information about the identity of the website you visited immediately before coming to the Website. We do not otherwise track any information about your use of other websites.
 
 5.4 Cookies, pixel tags, and/or other analytical tools in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
 5.5 We may also work with businesses that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to the Website and your interaction with our advertising and other communications, but no Personal Information is shared with them. 
 
-5.6 We may combine the NPII collected through cookies, pixel tags and other analytical tools with other information we may have collected from you. This information may be used to improve our Website, to personalize your online experience, to help us deliver information to you, to determine the effectiveness of advertising, and for other internal business purposes. 
+5.6 We may combine the NPII collected through games, cookies, pixel tags and other analytical tools with other information we may have collected from you. This information may be used to improve our Website, to personalize your online experience, to help us deliver information to you, to determine the effectiveness of advertising, and for other internal business purposes. 
 
 6\. Your Security 
 
@@ -114,4 +114,4 @@ We may freely assign this Privacy Policy or any of our rights and/or obligations
 
 If you have any questions about your privacy or security at the Website, please send correspondence to FreeSlots, 7154 W State St #304, Boise ID 83714 and include your name and email address.
 
-Last Updated: October 16, 2014.
+Last Updated: September 26, 2016.
