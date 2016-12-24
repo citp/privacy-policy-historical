@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgmaker.net privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419192913id_/http%3A//rpgmaker.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmaker.net privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224035114id_/https%3A//rpgmaker.net/privacy) for the most accurate reproduction.*
 
 # rpgmaker.net
 
