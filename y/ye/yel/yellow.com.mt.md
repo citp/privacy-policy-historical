@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellow.com.mt privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324124429id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellow.com.mt privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224204711id_/https%3A//www.yellow.com.mt/yp/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yellow, Discover Local - Malta & Gozo
 
