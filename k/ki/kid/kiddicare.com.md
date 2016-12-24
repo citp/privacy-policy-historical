@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325133059id_/http%3A//www.kiddicare.com/x/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiddicare.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224104907id_/http%3A//www.kiddicare.com/x/page.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Kiddicare
 
@@ -11,7 +11,7 @@ This issue is very important to us, so we have set out full details in this poli
 
 Please take the time to read this policy in full and understand it. By using our websites and mobile apps, contacting us by telephone or otherwise providing information to us (for example through our stores or social media), you agree to its terms.
 
-Stopping our marketing. We provide the means for you to stop all email and test (SMS or MMS) communications you receive from us - please see the 'unsubscribe' link and 'STOP' details we include in each email and text respectively. If you don't have an email to directly unsubscribe from then you can send an email to [hello@kiddicare.com](mailto:hello@kiddicare.com) stating that you wish to be unsubscribed from marketing communications. Alternatively you can call customer services on 0345 164 7000 and speak to one of our customer service reps who will be able to assist.
+Stopping our marketing. We provide the means for you to stop all email and test (SMS or MMS) communications you receive from us - please see the 'unsubscribe' link and 'STOP' details we include in each email and text respectively. If you don't have an email to directly unsubscribe from then you can send an email to [hello@kiddicare.com](mailto:hello@kiddicare.com) stating that you wish to be unsubscribed from marketing communications. 
 
 To be helpful, we've included some links to other websites in this policy. Please note that these websites are controlled by other people, not us, and we are not responsible for them.
 
@@ -216,6 +216,20 @@ They make a lot of information available to consumers on [their website.](http:/
 They make the registered details of all data controllers such as us and Kiddicare available publicly. You can access them[ here.](http://www.ico.gov.uk/ESDWebPages/search.asp)
 
 You can make a complaint to the ICO about our use of your information at any time. As mentioned above, please consider raising any issue or complaint you have with us first though. Your satisfaction is very important to us, and we strive to solve all problems and complaints wherever possible. 
+
+**PHISHING**
+
+Phishing is the act of someone purporting to be from a reputable company and tricking an individual into providing personal payment or banking details, usually by email or by text message.
+
+You should be cautious of messages that contain:
+
+  * Poor grammar or spelling
+  * A request for payment or banking details e.g. credit card details
+  * Attachments that you do not recognise
+
+
+
+If you receive a suspicious message via email or text, please don't respond to this and let us know as soon as you can.
 
 **CONTACT US**
 
