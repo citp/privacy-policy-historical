@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084510id_/http%3A//www.babbittsonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224190012id_/http%3A//www.babbittsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ We collect personal information when you register for an account, when you use o
 We use this information for three general purposes:  
 • To customize the advertising and content you see  
 • To fulfill your requests for certain products and services  
-• To contact you about specials and new products.
+• To contact you about specials and new products
 
 ### Sharing Information
 
