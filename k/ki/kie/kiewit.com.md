@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607063056id_/http%3A//www.kiewit.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiewit.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224171908id_/http%3A//www.kiewit.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Kiewit : Privacy Policy
 
-### Privacy Policy
+### Privacy Statement
 
-Peter Kiewit Sons', Inc. and its subsidiaries ("Kiewit") own and operate a number of Internet domains, including but not limited to this Website (the "Website"). This statement describes Kiewit's Website privacy policies.
+Peter Kiewit Sons', Inc. and its subsidiaries ("Kiewit") own and operate a number of Internet domains, including but not limited to this Website (the "Website"). This statement describes Kiewit's Website privacy statements.
 
 ### Privacy Philosophy
 
