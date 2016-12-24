@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsnhire.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203508id_/http%3A//www.jobsnhire.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsnhire.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224045622id_/http%3A//www.jobsnhire.com/privacypolicy) for the most accurate reproduction.*
 
 # Jobs & Hire
 
