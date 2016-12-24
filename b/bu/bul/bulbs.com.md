@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419093132id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224065011id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
+
+Customer Service
 
 When you visit any Web site, your computer exchanges information with other computers. Except for information or commands you enter yourself, most of this process eliminates your need to enter numerous technical codes. That's what makes the Bulbs.com experience so user friendly. We assure your privacy by supporting your right to decide what information you share and how it is used! 
 
