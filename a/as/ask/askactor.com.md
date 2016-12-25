@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askactor.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811081936id_/http%3A//askactor.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askactor.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225133103id_/http%3A//askactor.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Welcome to ASK K-POP is the Ultimate Site for Kpop, Fanclubs,News,Images Community Entertainment
 
