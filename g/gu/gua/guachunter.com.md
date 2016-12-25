@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625092846id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guachunter.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134117id_/https%3A//www.chipotle.com/privacy-policy) for the most accurate reproduction.*
 
 # Chipotle — Privacy Policy
 
 ## CHIPOTLE’S PRIVACY POLICY
 
-###### (Last updated September 14, 2015) 
+###### (Last updated October 17, 2016) 
 
 Thank you for visiting Chipotle online. This Privacy Policy describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliated companies (collectively, "Chipotle", “we” or “our”) collect, use and disclose personal information of visitors to our websites, users of our online services and others to whom we expressly provide that this Privacy Policy will apply.
 
@@ -106,7 +106,3 @@ From time to time, Chipotle may change this privacy policy. Thus, you should che
 ###### Limitation to Online
 
 This policy applies only to individuals who visit our websites or interact with us through any of our e-mail or mobile campaigns. It does not apply to information which we may collect by means other than through our websites and it does not apply to businesses which may use our websites.
-
-###### Safe Harbor Privacy Policy
-
-Chipotle complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Chipotle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Chipotle’s certification, please visit <http://www.export.gov/safeharbor/>[ ](http://www.export.gov/safeharbor/). 
