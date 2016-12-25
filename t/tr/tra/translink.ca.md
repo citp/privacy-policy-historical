@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translink.ca privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210065809id_/http%3A//www.translink.ca/en/Site-Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.ca privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225013313id_/http%3A//www.translink.ca/en/Site-Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
