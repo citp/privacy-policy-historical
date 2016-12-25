@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvicity.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521035336id_/http%3A//www.techvicity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvicity.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225025617id_/http%3A//www.techvicity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 **Tech Vicity**
 
-http://www.techvicity.com/
+> [TechVicity- Technology Hub](http://www.techvicity.com/)
 
 Kolkata, West Bengal, India
 
