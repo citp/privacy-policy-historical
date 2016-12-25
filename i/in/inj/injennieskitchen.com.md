@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the injennieskitchen.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602174802id_/http%3A//www.injennieskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the injennieskitchen.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225124714id_/http%3A//www.injennieskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In Jennie's Kitchen
 
