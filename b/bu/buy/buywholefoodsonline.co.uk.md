@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buywholefoodsonline.co.uk privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527111211id_/http%3A//www.buywholefoodsonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywholefoodsonline.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225201750id_/https%3A//www.buywholefoodsonline.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,16 +84,16 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **10 August 2010**
+This policy was last modified on **8 December 2015**
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.buywholefoodsonline.co.uk  
-8 College Road  
-Canterbury, Kent CT1 1QX  
+16 Barton Business Park  
+Canterbury, Kent CT1 3AA  
 United Kingdom  
-info@buywholefoodsonline.co.uk  
+support@buywholefoodsonline.co.uk  
 0800 0431 455  
 international: +44 2081445702
