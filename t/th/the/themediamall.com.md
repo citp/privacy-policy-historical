@@ -1,108 +1,101 @@
-> *The following text is extracted and transformed from the themediamall.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531191923id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themediamall.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134237id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.playon.tv
 
-We at MediaMall Technologies take privacy seriously. We would never sell any of your private information. Any sensitive information that you provide to us will be protected and never disseminated to other third parties. We do use private information to sell and deliver our PlayOn and PlayLater Service, and the Privacy Policy described here governs our use of that information.
+## **MediaMall Technologies Privacy Policy**
 
-If you have questions or concerns regarding privacy at MediaMall Technologies, you should first contact our Privacy Office via email at [support@playon.tv](mailto:support@playon.tv?subject=MMT%20Privacy).
+Effective Date: September 1, 2016
 
-### About MediaMall Technologies and the information we collect
+We at MediaMall Technologies (MMT) take privacy seriously. This Privacy Policy describes how we collect, use, process, and protect your information when you access and use our PlayOn and PlayOn Cloud Services, and on websites or through software managed by MMT (the "Services"). Please review this Privacy Policy periodically as we may modify it from time to time. Each time you visit the site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
 
-MediaMall Technologies (MMT) has created this Privacy Policy to demonstrate our dedication to protecting your personal information and informing you about how we handle it. This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on websites or through software managed by MMT. Please review this Privacy Policy periodically as we may modify it from time to time. Each time you visit the site or provide us with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
+If you have questions or concerns regarding privacy at MMT, you should first contact our Privacy Office via email at [support@playon.tv](mailto:support@playon.tv?subject=MMT%20Privacy).
 
-### Information Collected
+## **What We Collect and Why**
 
-#### Your Personally Identifiable Information:
+We collect and use the following information to provide, protect, and improve our Services.
 
-  * Our blog, forum, newsletter, and trial registration forms require you to give us certain information such as your name, email address and password. You may always choose not to provide such Personally Identifiable Information; however, this may limit our ability to provide you with a specific service or particular content. At any time, you may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions.
-  * You may also enter usernames and passwords for use to access your accounts on other services via PlayOn and PlayLater (Hulu, Netflix, and YouTube, as examples).
-  * If you place an order for one of our products, you may be required to enter your credit card number and information, as well as your address and/or other contact information.Our credit card transaction data is processed and stored by PayPal, TrialPay and Litle — please see the [section on security](http://www.playon.tv/privacy#security) for more information.
+**Account Information:** When you register for an account with us, we may collect your name, email address, username, and password. We use this information to verify you and to contact you in connection with your transactions, postings and other activities on the Services, to send you product updates and announcements, and for general corporate communications. You may always choose not to provide such information; however, this may limit our ability to provide you with a specific service or particular content.
 
+**Facebook Authentication:** If you use Facebook to sign-up for our Services, then we receive the minimum amount of data required to authenticate your identity.
 
+**Third-Party Account Information:** Our Services let you access your accounts and your information with other service providers, such as Hulu, Netflix, and YouTube. You may be required to provide your user credentials in order to access content from these other service providers.
 
-#### Cookies:
+_For PlayOn (Desktop):_
 
-MediaMall Technologies wants to optimize your experience by ensuring that the most relevant information, searches and offers are displayed to you while using the Site. A common manner in which to do this is by placing cookies on your computer. Cookies are strings of text and numbers that can identify your computer to us when you visit the Site, and which may be correlated with your Personally Identifiable Information in our log files.
+Any passwords to third-party sites that you provide to the PlayOn (Desktop) software will be stored encrypted on your local PC, and will only be used in secure channel communication with the respective sites. This information will never be sent to or stored on our servers.
 
-#### Pixel Tags:
+_For PlayOn Cloud:_
 
-MMT uses pixel tags to gather information about the emails we send to our users. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our email provider's server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the message, and other standard logging information. The pixel tag also may see or read cookies. For more information about cookies and how to disable their use, see the section below on "Use of Cookies."
+Any passwords to third-party sites that you provide to the PlayOn Cloud service will be persistently stored encrypted on your local device, and will only be sent to our servers via secure channel communication when needed to login to the respective third-party sites on your behalf to facilitate browsing of content libraries and initiating video recordings.  This information will never be persistently stored on our servers, and will only be temporarily stored encrypted on our servers for the duration of these activities.
 
-#### User Names and Passwords to Third-Party Sites:
+**Payment Information:** If you place an order for one of our products, you may be required to enter your credit card number and information, as well as your address and/or other contact information. Our credit card transaction data is processed and stored by PayPal or Vantiv — please see the section on security for more information.
 
-Any passwords to third-party sites that you provide will be stored encrypted on your local PC, and will only be used in secure channel communication with the respective sites. We will never ask for your login information to third-party sites, nor will this information be sent to our servers.
+**Transactional Data:** We collect information from and about the devices you use to access the Services. This includes things like IP addresses, the type of browser and device you use, and identifiers associated with your devices.
 
-#### Tracking:
+**Cookies and Pixel Tags:** We use technologies such as cookies and pixel tags to optimize your experience by ensuring that the most relevant information, searches, and offers are displayed to you while using the Services. Cookies are strings of text and numbers that can identify your computer to us when you use the Services, and which may be correlated with your information in our log files. You can set your browser to not accept cookies, but this may limit your ability to use the Services. MMT uses pixel tags to gather information about the emails we send to our users. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our email provider's server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the message, and other standard logging information. The pixel tag also may see or read cookies.
 
-Our software sends installation tracking to our servers, which is used to calculate the raw total numbers of licensed and trial installations of our products. License keys for licensed installations are also validated by our server
+**Tracking Software:** Our software sends installation tracking to our servers, which is used to calculate the raw total numbers of licensed and trial installations of our products. PlayOn and PlayOn Cloud account login information is also validated by our server.
 
 Our software additionally tracks video browsing and playback metadata for statistical purposes. We do not divulge this information from individual customers to third parties, and typically only use it for analysis of aggregate data. We will, from time to time, use it to inform customers of content or special offers that may be of interest to them. We may also use it to detect errors with playback of certain titles or channels.
 
-#### Support Requests:
+**Support Requests:**
 
-Support requests send a copy of diagnostic logs that enable us to assess the problem you are having. These logs contain binary data about your PlayOn and PlayLater installation. The information in these logs includes:
+Support requests send a copy of diagnostic logs to our support team to enable us to assess the problem you are having. These logs contain binary data about your PlayOn and PlayOn Cloud installations. The information in these logs may include:
 
-  * PC information: operating system version, CPU, RAM, free HDD space, security software status, etc.
-  * Basic UPnP communication information with the DLNA device(s).
+  * PC or client device information: operating system version, CPU, RAM, free HDD space, security software status, etc.
+  * Basic discovery information regarding other media devices on your network.
   * Video playback attempts and their timestamps, as well as playback status (errors, serve rates, etc.).
-  * Usernames for Netflix and Hulu accounts (not the respective passwords)
+  * Usernames for third party sites (Netflix and Hulu as examples), but not the respective passwords.
 
 
 
-Without this information, we cannot support your PlayOn or PlayLater installation.
+Without this information, we cannot support your PlayOn or PlayOn Cloud installation.
 
-#### Other
+**Other**
 
-Some pages on the PlayOn website collect demographic data about visitors. PlayOn is unable to link this data to individuals and is only able to see aggregate data through Google reporting. This data can be used by Google to serve targeted internet advertisements to customers. If you wish to opt out of this tracking you may do so here: <https://tools.google.com/dlpage/gaoptout/>
+Some pages on the PlayOn website collect demographic data about visitors. MMT is unable to link this data to individuals and is only able to see aggregate data through Google reporting. This data can be used by Google to serve targeted internet advertisements to customers. If you wish to opt out of this tracking you may do so here: <https://tools.google.com/dlpage/gaoptout/>
 
-### Use of Information
+## **Disclosure of Information**
 
-#### Use of Personally Identifiable Information by MediaMall Technologies:
+MMT may share information as described below, but we do not sell it to advertisers or other third-parties.
 
-  * We use the collected Personally Identifiable Information to verify you and to contact you in connection with your transactions, postings and other activities on the Site, to send you product updates and announcements and for general corporate communications.
-  * MMT uses your Personally Identifiable Information to help us provide you with personalized content, advertising, and commercial messages (collectively, "Content").
-  * MMT does not sell, share or otherwise provide any "Personally Identifiable Information" you give to us unless required by law, court order or as required to technically operate the service, or to complete a transaction or order.
-  * MMT does reserve the right to share your Personally Identifiable Information with its parent, subsidiary or affiliated entities.
+We may disclose your information if necessary in order to complete a transaction such as the fulfillment of an order or purchase placed by you.
 
+It is possible that as we continue to develop the PlayOn and PlayOn Cloud Services and business, MMT and/or related assets may be acquired. In such a transaction, customer information may be transferred to the acquiring entity.
 
+MMT may disclose information about your account or the contents of your private communications if required to do so (1) by law or court order, (2) to protect MMT's rights and property, (3) to protect against unauthorized use of the Services, and (4) during emergencies such as when we believe someone's physical safety is at risk. You have a right to know if we are required by law to disclose your information. As such, before we disclose your information in response to a law enforcement request (for example, a subpoena or court order), we will notify you at the email address you have provided to us, unless (a) we are prohibited from doing so or (b) in emergency cases where notice could create a risk of injury or death to an identifiable individual or group of individuals, or the case involves potential harm to minors. In such cases, we might delay notice to you.
 
-#### When We May Disclose Your Personally Identifiable Information, MMT Communications Content, Data and Information:
+Nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including the government's, request to disclose your information.
 
-MMT may disclose your Personally Identifiable Information or the contents of your private communications if required to do so by law or court order. Your Personally Identifiable Information may also be disclosed if necessary in order to complete a transaction such as the fulfillment of an order or purchase placed by you.
+## **Children**
 
-MMT will in no way disclose the contents of your MMT communications other than to the intended recipient(s) unless required (1) by law or court order, (2) to protect MMT's rights and property, (3) to protect against unauthorized use of the Site or Service, and (4) during emergencies such as when we believe someone's physical safety is at risk.
+Our Services are not intended for children under the age of 13.  If you believe a child is using the Services, please contact us at [support@playon.tv](mailto:support@playon.tv?subject=MMT%20Privacy).
 
-It is possible that as we continue to develop the PlayOn and PlayLater Service and business, MMT and/or related assets may be acquired. In such a transaction, customer information may be transferred to the acquiring entity.
+## **Security**
 
-### Security
+Our Services use industry standard security measures to protect the loss, misuse and integrity of the information under our control.
 
-This site has industry standard security measures in place to protect the loss, misuse and integrity of the information under our control.
+Credit card transaction data is processed and stored by PayPal and Vantiv – third party websites with their own stringent privacy policies. To review PayPal's privacy policies, please visit https://www.paypal.com/webapps/mpp/ua/privacy-full. To review Vantiv's privacy policies, please visit https://www.vantiv.com/privacy-policy
 
-Our credit card transaction data is processed and stored by PayPal, TrialPay and Litle – third party websites with their own stringent privacy policies. To review PayPal's privacy policies, please visit <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>. To review TrialPay's privacy policies, please visit<http://www.trialpay.com/privacypolicy/>. To review Litle's privacy policies, please visit <http://www.litle.com/about-us/privacy-policy>
+## **Other Websites or Links**
 
-### Compromise of Personal Information
+The Services may contain hyperlinks to other websites. MMT is not responsible for the privacy practices or the content of such websites.
 
-In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+## **Opt-Out / Correct / Delete / Deactivate**
 
-### Other Websites or Links
+At any time, you may choose to opt-out of the receipt of any promotional communications from MMT by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions. You may also discontinue use of our Service at any time.
 
-This Website contains hyperlinks to other websites. MMT is not responsible for the privacy practices or the content of such websites.
+## **Notification Procedures**
 
-### Opt-Out / Correct / Delete / Deactivate
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes via e-mail notice, smart phone "push" notifications, written or hard copy notice, or through conspicuous posting of such notice on the relevant MMT website or as determined by us in our sole discretion. Notwithstanding the foregoing, we reserve the right to determine the form and means of providing notifications to you.
 
-You may elect not to receive future communications from MMT or to discontinue use of our Service.
-
-### Notification Procedures
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or web site Users, via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on the relevant MMT website or as determined by us in our sole discretion. Notwithstanding the foregoing, we reserve the right to determine the form and means of providing notifications to our customers or web site Users.
-
-### Changes to this Policy
+## **Changes to this Policy**
 
 MMT reserves the right to amend this Privacy Policy at its sole discretion. If we make any substantive changes to the policy in the future with regard to how we use your information, we will notify you as described above.
 
-### Contacting Us
+## Contacting Us
 
-We strive to do everything we can to protect the privacy of our Users. Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy, the practices of the MMT Site or PlayOn and PlayLater Service, or your dealings with this website, you can contact us by writing to:
+We strive to do everything we can to protect your privacy. Please feel free to share any comments and concerns with us. If you have any questions about this Privacy Policy, the practices of the MMT Site or PlayOn and PlayOn Cloud Services, or your dealings with this website, you can contact us by writing to:
 
 [support@playon.tv](mailto:support@playon.tv?subject=MMT%20Privacy)
 
