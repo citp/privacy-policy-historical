@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405150000id_/https%3A//www.gnomon.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomonschool.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225184800id_/https%3A//www.gnomon.edu/privacy-policy) for the most accurate reproduction.*
 
-# Gnomon
+# Privacy Policy | Gnomon | Gnomon
 
 ## What information do we collect?
 
