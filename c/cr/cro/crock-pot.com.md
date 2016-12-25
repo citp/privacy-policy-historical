@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crock-pot.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516042900id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crock-pot.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225034521id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Crock-Pot.com.
 
