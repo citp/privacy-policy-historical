@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622111549id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chathamhouse.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225031831id_/https%3A//www.chathamhouse.org/privacy-and-cookie-policies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policies | Chatham House
 
@@ -29,37 +29,27 @@ We do not store credit card details nor do we share customer details with any 3r
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of our site. The list below explains the cookies we use and why. 
 
-  * Browser Session Cookie
-
-
+ **Browser Session Cookie**
 
 This cookie is set by the website when a user logs into their member secure account and is an essential cookie for the operation of the members’ area. This cookie does not display any identifiable or tracking information and is deleted when the user closes their browser
 
-  * Google Analytics
-
-
+ **Google Analytics**
 
 These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. These persistent cookies hold the following data: _ga is used to distinguish users and has a lifespan of two years. These cookies are first-party cookies. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. See an overview of [privacy at Google](https://www.google.com/policies/privacy/).
 
 The data collected through Google Analytics will be connected to any existing user data held and this includes the anonymous user ID of logged-in users and this feature will operate across multiple devices.
 
-  * YouTube Videos
-
-
+ **YouTube Videos**
 
 This cookie helps track the number of views for a particular video. The pref cookie will track user preferences and serve up related content or adverts within an embedded YouTube video. Click here for an overview of the privacy and interest based ads set within Youtube videos.
 
-  * Content Management (Drupal) 
-
-
+ **Content Management (Drupal)**  
 
 These include cookies to store information about the user’s browser capabilities but which can’t be linked to any identifying information; a PHP session cookie that Drupal uses to identify the visitor with a  logged in user account; a ‘Don’tShowCookieNotice’ to dismiss cookie notice and two cookies for logged in users to securely handle mixed mode sessions.
 
-  * Multi-media related cookies
+ **Multimedia-related cookies**
 
-
-
-A cookie to detect the initial bandwidth of a viewer’s computer or device and which helps significantly improve rendition selection. Another cookie to collect information about the quality of the video delivery and which enables the multi-media support and development teams to monitor and improve the quality of service and to troubleshoot video quality issues.  
+A cookie to detect the initial bandwidth of a viewer’s computer or device and which helps significantly improve rendition selection. Another cookie to collect information about the quality of the video delivery and which enables the multimedia support and development teams to monitor and improve the quality of service and to troubleshoot video quality issues.  
 
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
 
@@ -119,4 +109,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy should be sent to webmaster@chathamhouse.org
+Questions, comments and requests regarding this privacy policy should be sent to [webmaster@chathamhouse.org](mailto:webmaster@chathamhouse.org)
