@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305083632id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketluck.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225133453id_/http%3A//www.ticketluck.com/policies.php) for the most accurate reproduction.*
 
 # Policies: Ticket Luck
 
