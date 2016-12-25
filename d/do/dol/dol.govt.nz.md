@@ -1,48 +1,31 @@
-> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121106id_/http%3A//employment.govt.nz/er/employment/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134852id_/https%3A//employment.govt.nz/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - New Zealand Department of Labour
+# Privacy » Employment New Zealand
 
-## Providing Visitors with Anonymous Access
+### No need to disclose personal information
 
-You can access our website and browse our site without having to disclose personal information. 
+You can use [www.employment.govt.nz](https://employment.govt.nz/) without disclosing any personal information.
 
-## Information Collection and Purpose Specification
+### Voluntary disclosure of personal information
 
-We do collect some personal information that you may volunteer while using our website and its services.  We collect or use personal information for the purpose(s) specified at collection. 
+You may choose to voluntarily provide personal information through this website (eg in ‘ask a question’, or feedback forms). This information may be viewable by site administrators, MBIE staff (as appropriate) and third-party contractors who may administrate or work on the site.
 
-Your personal information may be stored on behalf of the Ministry of Business, Innovation and Employment by authorised third parties, subject to the Ministry’s information security and privacy requirements.  We do not disclose your personal information to other organisations outside the Ministry of Business, Innovation and Employment, including to other government institutions and authorities. 
+### Electronic alerts and newsletters
 
-If we wish to use your personal data for a new purpose(s), we will give you the opportunity to consent to that new purpose(s). 
+When you subscribe to one of our alerts or newsletters, the details you provide may be stored in a secure third-party database (ie Campaign Monitor). Your name and email address will be used to send you future electronic newsletters, and will not be disclosed without your consent. When you unsubscribe to our alert or newsletter, your details will be deleted from the database.
 
-## Automatic Collection of Information
+### Collection of personal information
 
-We do not use cookies to store personal information.  You can access and use our website with cookies disabled in your browser settings.  Use of our website is monitored using a third party analytics tool that does use cookies. 
+MBIE may ask or require you to provide some personal information when you complete an online form (eg the contact us form). MBIE may require you to register your details with us in order to create or maintain an account or profile (eg Submitting a Record of Settlement to Employment Mediation Services). As part of our online processes there may be other information that is required to be supplied. Failing to provide such information may reduce or make unavailable some services we provide to you. 
 
-If you visit this website to read or download information, the Ministry of Business, Innovation and Employment collects and stores the following data: 
+### Holding of information
 
-  * Your service address (IP address); 
-  * Your top level domain name; 
-  * The date and time of your visit to the site; 
-  * The pages you accessed and the documents you downloaded; 
-  * The type of browser you used.
+When you provide personal information, it will be held by MBIE. It may be stored or accessed on behalf of MBIE by authorised third parties (such as third-party contractors) to the extent that is necessary, for example for them to administrate or work on the site. We will store and keep your personal information secure in accordance with the Privacy Act 1993 and agents will be subject to the MBIE's information security and privacy requirements. 
 
+### Disclosure of information
 
+MBIE will generally not share personal information that is provided or collected through this website, unless it is necessary to do so for the purpose for which you gave us the information (eg to investigate a complaint, or to manage or schedule a mediation) or where you consent. MBIE will not otherwise disclose personal information provided or collected through this website unless required or otherwise permitted by law.
 
-The data collected is used to create summary statistics which allow the Ministry of Business, Innovation and Employment to assess the number of visitors to different sections of the website, identify what information is of most and least interest, monitor system performance, and help us make our website more useful to visitors. 
+### Use of personal information
 
-## Confidentiality/Security 
-
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
-
-  * unauthorised access 
-  * improper use or disclosure 
-  * unauthorised modification 
-  * unlawful destruction or accidental loss 
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our online visitors' personal data. 
-
-## Access to the personal data we may hold about you 
-
-For those who have supplied their personal contact information to order and receive publications or use other online services from within our organisation, you can request our web manager to provide you with the personal data we might hold about you and make any changes you request. 
+MBIE will generally only use personal information provided to us through this website for the purpose you provided it (eg to administer, evaluate and improve the site, to improve our services, or to action or respond to the information provided). We may also use personal information provided to us through this website for other reasons permitted under the Privacy Act 1993 (eg with your consent, for a directly related purpose, or where the law permits or requires it).
