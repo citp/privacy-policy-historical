@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodora.ca privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610102230id_/https%3A//www.foodora.ca/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodora.ca privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225025357id_/https%3A//www.foodora.ca/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy | foodora
 
