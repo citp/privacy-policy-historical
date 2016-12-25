@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buckdodgers.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620210153id_/http%3A//www.buckdodgers.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckdodgers.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225011718id_/http%3A//www.buckdodgers.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Australia - BuckDodgers Free Classifieds - Post Anything
+# BuckDodgers Free Classifieds - Post Anything
 
 ## Privacy Policy
 
