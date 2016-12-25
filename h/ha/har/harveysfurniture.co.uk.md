@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629125834id_/http%3A//www.harveysfurniture.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225013846id_/http%3A//www.harveysfurniture.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,8 +103,6 @@ This Privacy Policy only extends to this Site and does not, therefore, extend to
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Tim Marsden  
-Marketing and E-Commerce Director  
 Steinhoff UK Retail Limited  
 Huncoat Industrial Estate  
 Bolton Avenue  
@@ -112,4 +110,4 @@ Accrington
 Lancashire  
 BB5 6NU
 
-[timmarsden@harveys-furnishing.co.uk](mailto:timmarsden@harveys-furnishing.co.uk)
+[marketing@harveys-furnishing.co.uk](mailto:marketing@harveys-furnishing.co.uk)
