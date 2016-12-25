@@ -1,73 +1,156 @@
-> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602224823id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225082451id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
 
-# Shipwire Privacy Policy
+# Corporate site - Privacy Statement
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Shipwire.com, you are accepting the practices described in this Privacy Notice.  
+## Ingram Micro Privacy Statement [as of August 18, 2016]
+
+### Purpose and Scope
+
+This Ingram Micro Privacy Policy (the **“Policy”** ) governs how Ingram Micro Inc., a Delaware corporation, and companies that we own or control, that own or control us, or that are under common ownership or control with us (“Affiliates”) (collectively, **“Ingram Micro”** , **“we”** , or **“us”** ), collect, use, store, process, disclose, and delete Personal Data (as defined in this Policy) you provide directly to us or that we receive from your authorized third parties including, without limitation, that you provide to us via our website, located at the ingrammicro.com domain, or any website of any one of our Affiliates that post or link to this Policy (individually and collectively **“Website”** ), accessed through any medium, including via computer, mobile device, or other device.
+
+Ingram Micro provides you with the ability to purchase or access a variety of product and service offerings made available by Ingram Micro and various third party providers ( **“Offerings”** ) both directly from Ingram Micro and through resellers and distributors. EACH OFFERING MAY BE SUBJECT TO OFFERING-SPECIFIC PRIVACY POLICIES, WHICH MAY SUPERCEDE THE TERMS OF THIS POLICY. INGRAM MICRO ENCOURAGES YOU TO CAREFULLY READ THE PRIVACY POLICY OF ANY OFFERING BEFORE ACCESSING OR USING THAT OFFERING.
+
+### Summary
+
+Although we encourage you to read this entire Policy, this is a summary of some of the more important aspects of the Policy:
+
+  * Each Offering may include its own specific privacy policy. You should carefully read the privacy policy of any Offering before accessing or using that Offering.
+  * We may collect both Personal Data and other information from you through a variety of sources, including Personal Data we have collected from you, whether on- or offline. We may also combine it with information we receive about you from other sources, such Affiliates, publicly available information sources (including information from your publicly available social media profiles), and other third parties.
+  * We will not use or share your Personal Data except as permitted by this Policy.
+  * Where applicable, We honor opt out instructions from you for certain uses of your Personal Data under this Policy, such as, for example, when you opt out of receiving marketing email communications from us.
+  * We use commercially reasonable measures to secure and protect your Personal Data, but we cannot ensure or warrant that your Personal Data will be completely secure from misappropriation by hackers or from other nefarious or criminal activities.
+
+
+
+**Information that Ingram Micro Collects**
+
+Ingram Micro may collect different types of information from you when you access or use the Website:
+
+**“Personal Data”** refers to any information that directly identifies you or information otherwise defined as “personally identifiable” under applicable law. This includes, but is not limited to, your first and last name; billing or shipping address; credit card or payment information; government issued identification number; your geo-location information; resume information; email address; and a combination of your username and password used to access the Website.
+
+**“Additional Usage Information”** refers to any additional information that may not by itself reasonably identify you as the source. This includes, non-user specific information regarding your computer, your IP address, your Media Access Control (MAC) address, the type and version of Internet browser you are using, screen resolution, the location from which you access the Website, the type of computer operating system you are using (Windows or Mac OS), the domain name of the website from which you linked to the Website, or the areas of the Website you visited and actions performed on the Website. We may collect similar information, such as your device type and identifier, if you access the Website through a mobile device.
+
+**Collection of Information**
+
+Ingram Micro may collect Personal Data and Additional Usage Information about you from a variety of sources, including, for example:
+
+**Directly from You**. We may collect Personal Data directly from you when you voluntarily provide it to us. For example, when you communicate with us over the telephone or through the Website by way of email, online chat, or online account registration to obtain access to Offerings, purchase an Offering, ask questions, attempt to resolve any issues related to the Website or Offerings, submit a job application, or submit feedback and comments.
+
+**From Other Users.** We may receive Personal Data about you from other users of the Website when they provide information to us. For example, we may receive information when they communicate with you or with us through the Website.
+
+**From Resellers and Distributors.** We may obtain Personal Data about you from the resellers and distributors that purchase Offerings available from us and provide such Offerings to you.
+
+**From Our Vendors.** We may obtain Personal Data about you from the third party vendors that make Offerings available through us, and from the third party vendors that provide services to us to help us operate the Website. For example, when we rely on third party services to facilitate emails or other messages sent through the Website, we may receive Personal Data about you from those third parties.
+
+**From Our Affiliates and Business Units.** We may obtain Personal Data about you from our Affiliates regardless of whether these entities share the “Ingram Micro” brand. We may also obtain information about you from other business units that also offer products or services under the Ingram Micro brand or one of our other brands. We may use any information about you that we obtain from our Affiliates, or business units in accordance with the terms under which that information was collected by that Affiliate or business unit.
+
+**Through the Operation of the Website.** The systems we use to provide the Website may automatically log and record Additional Usage Information about your use of the Website. For example, our systems may record the information you enter on the Website, the areas of the Website you visit, your activities on the Website, your IP address, or information about the computer or software you are using to access the Website.
+
+**Other Website Usage Information.** The Website may also monitor and collect Additional Usage Information about how you access, use, and interact with the Website automatically through “cookies,” “flash cookies”, “web beacons,” and other automated tracking technology.
+
+A “cookie” is a small text file that is stored on a user’s computer or mobile device you are using. Cookies allow us to collect information such as browser type, time spent on the Website, pages visited, and language preferences. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Website.
+
+Ingram Micro uses both session cookies and persistent cookies. For example, we may use session cookies to store the contents of your shopping cart or we may use a persistent cookie to store your password(s) or to track and target the interests of users to enhance the experience on the Website. A session cookie expires when you close your browser. A persistent cookie remains on your computer for an extended period of time. Most Internet browsers allow you to remove cookies, block acceptance of cookies, or receive a warning before a cookie is stored by following directions provided in the browser. Note that if you reject cookies, you may not be able to use the Website or your ability to use some areas of the Website features may be limited.
+
+A “flash cookie” is a file similar to a cookie, except that they can store more complex data. Our use of Adobe Flash technology (including Flash Local Stored Objects ("Flash LSOs")) allows us to, among other things, serve you with more tailored information, facilitate your ongoing access to and use of the Website, and collect and store information about your use of the Website. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Adobe Flash Website Storage Settings Panel available on the Internet. You can also control Flash LSOs by going to the Adobe Flash Global Storage Settings Panel available on the Internet and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Adobe site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with this Site or our online content.
+
+A “web beacon” (also known as a clear pixel or pixel tag) includes an electronic image imbedded in the Website interface that allows us to recognize when you visit that area of the Website. These may also be used in connection with some Website pages and HTML-formatted e-mail messages to, among other things, track the actions of Website users and e-mail recipients, measure the success of our marketing campaigns, and compile statistics about Website usage and response rates.
+
+Please note that the use of cookies or these other tracking technologies by Ingram Micro’s third party service providers is not covered by this Policy. Ingram Micro does not have access or control over third-party cookies. Ingram Micro’s service providers may use persistent cookies for advertising and retargeting purposes. We may tie the information gathered from third party cookies to Ingram Micro’s users’ Personal Data, and we will use the combined information in accordance with this Policy.
+
+**From Third Party Information Providers.** Ingram Micro may also obtain Personal Data from third parties that have obtained or collected information about you and that have the right to provide that Personal Data to us. For example, if you register for the Website using a third party service or through a third party website or service, the information you provide to that third party will be provided to us to establish your account on the Website. We may also contract with third parties that are in the business of providing information to businesses such as ours to verify certain information about you or obtain information about you. We may use the Personal Data about you we receive from a third party outside of the Website in accordance with the terms we establish with that third party.
+
+### Use of Information
+
+**Additional Usage Information.** Ingram Micro may use Additional Usage Information in any way that it determines appropriate, except where we are required to do otherwise under applicable law (for example, if we are required to treat such information as Personal Data). This may include, by way of example, providing Additional Usage Information to authorized third parties, developing products, services or other offerings based on such information, or conducting research and analysis using such information. In addition, we may use and disclose information that is not in personally identifiable form (such as anonymized, masked or de-identified information) for any purpose. If we combine information that is not in personally identifiable form with information that is (such as combining your name with your geographical location), we will treat the combined information as Personal Data as long as it is combined.
+
+**Personal Data.** Ingram Micro may use your Personal Data for a variety of purposes (the **“Purposes”** ), including, but not limited to:
+
+  * provide users with Offerings that have been requested or purchased;
+  * contact users directly (such as through email) or indirectly (such as through web based advertising) with marketing messages regarding Offerings offered by Ingram Micro and its Affiliates, contractors, and business partners; • understand user preferences in order to enhance users’ experience with Ingram Micro and its Affiliates, contractors, and business partners;
+  * research the effectiveness of the Website and the marketing, advertising and sales efforts of Ingram Micro, its Affiliates, contractors, and business partners;
+  * collect account receivables owed by users to Ingram Micro;
+  * process orders and payments made through the Website;
+  * develop additional Offerings;
+  * conduct research and analysis;
+  * process job applications; and
+  * manage our everyday business needs.
+
+
+
+We may combine and enhance the Personal Data we collect about you with other information we receive from third parties. We may also combine and enhance Personal Data using Additional Usage Information. In each case, we will treat the combined information as Personal Data and use it in accordance with this Policy.
+
+We may also use the Personal Data we collect about you through the Website to generate Additional Usage Information. When we do so, we will take reasonable measures to ensure that the Additional Usage Information is no longer personally identifiable and may not later be easily used to identify you except in the case of fraud checks or as otherwise required by applicable law. This will include, by way of example, storing the Additional Usage Information separately from any Personal Data. Once we generate Additional Usage Information from any Personal Data, we will not attempt to again make that information into Personal Data (i.e., to make it personally identifiable). However, we may combine and enhance that Additional Usage Information with other Additional Usage Information (including information we obtain third parties) and use the Additional Usage Information in accordance with this Policy.
+
+### Information Sharing
+
+We may disclose your Personal Data as follows:
+
+**Third Party Vendors.** Ingram Micro may provide your Personal Data to third parties that provide services to assist us with the Website and with achieving the Purposes. For example, these third parties may include providers of customer service, payment processing, email and messaging support, hosting, management, maintenance, information analysis, or other services we may receive on an outsourced basis. We will endeavor to require that these third parties use your Personal Data only as necessary for such reasons.
+
+**Affiliates and Business Units.** Ingram Micro may share your Personal Data with our Affiliates, regardless of whether these entities share the Ingram Micro brand. We may also share your Personal Data with other business units that also offer products or services under the Ingram Micro brand or one of our other brands. Our Affiliates and business units will use your Personal Data we share with them in a manner consistent with this Policy.
+
+**Other Users.** Ingram Micro may share your Personal Data with other users when you elect to interact with those users (or request that we communicate with them on your behalf) through the Website. This may include facilitating communications with other users or enabling posting of Personal Data to areas of the Website accessible by other users. You should be aware that any Personal Data (or other information) you provide in these areas may be read, collected, and used by others who access them.
+
+**Resellers and Distributors.** Ingram Micro may share your Personal Data with the resellers and distributors that purchase Offerings available through the Website. For example, we may share your Personal Data if you purchase or access an Offering through a reseller or distributor.
+
+**Law Enforcement and Safety.** Ingram Micro may share your Personal Data with law enforcement or other governmental officials if it relates to a criminal investigation, alleged illegal activity, or regulatory enforcement. Ingram Micro may share your Personal Data as required or permitted by law, whether in response to subpoenas, court orders, other legal processes, or as we believe necessary to exercise or enforce our rights, including to defend against potential or actual legal claims brought against us. Ingram Micro may disclose your Personal Data if we believe that such action is necessary to protect or defend the rights, property, interests, or safety of Ingram Micro, any of our users, resellers or vendors, or any other third parties or to act under urgent circumstances to protect the safety of Ingram Micro or its employees or a member of the public.
+
+**Sale or Acquisition of Assets.** If Ingram Micro transfers ownership or control of any portion of Ingram Micro or the Website to a third party, whether in the context of an acquisition, merger, reorganization, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings), we may transfer your Personal Data to that third party, provided that the use of your Personal Data by that third party remains subject to applicable law.
+
+### General Principles for the Processing Of Personal Data
+
+Personal Data will be collected, stored, processed and transmitted in accordance with Ingram Micro’s established policies and applicable federal, state, local and foreign laws, rules and regulations.
+
+The principles of Ingram Micro with respect to the processing of Personal Data are as follows: (1) Personal Data will be processed fairly and lawfully, (2) Personal Data will be collected for specified, explicit, and legitimate purposes and not further processed for incompatible purposes, (3) Personal Data collected by Ingram Micro will be adequate, relevant, and not excessive in relation to the purposes for which it is collected, (4) Personal Data collected by Ingram Micro will be accurate and, where necessary, kept up to date to the best of our ability, and (5) Personal Data collected by Ingram Micro will be retained as identifiable data for no longer than necessary to serve the purposes for which the Personal Data was collected.
+
+If Ingram Micro engages in the processing of Personal Data for purposes other than those specified in this Policy, Ingram Micro will provide notice of these changes, the purposes for which the Personal Data will be used, and the recipients of Personal Data.
+
+### Security of Personal Data
+
+Unfortunately, no data transmitted over or accessible through the Internet can be guaranteed to be 100% secure. As a result, while Ingram Micro attempts to protect all Personal Data, Ingram Micro cannot ensure or warrant that Personal Data will be completely secure from misappropriation by hackers or from other nefarious or criminal activities, or in the event of a failure of computer hardware, software, or a telecommunications network. Ingram Micro will notify you in the event we become aware of a security breach involving your personally identifiable information (as defined by the applicable state and federal laws) stored by or for us. By disclosing your email address to us for any reason, you expressly consent to receive electronic notice from us in the event of such a security breach.
+
+### Access to Personal Data
+
+If you contact Ingram Micro and request that Ingram Micro provide you with access to the Personal Data held about you or delete your Personal Data from Ingram Micro’s system and records, subject to this Policy, Ingram Micro will use commercially reasonable efforts to honor your request. Due to technical constraints and the fact that Ingram Micro backs up its systems, your Personal Data may continue to reside within Ingram Micro’s systems after deletion for some period of time and you should not expect that your Personal Data will be completely removed from Ingram Micro’s systems in response to any accepted request for deletion.
+
+If your Personal Data changes, you may correct, update, or delete it through the Website or by contacting us as indicated in this Policy.
+
+Ingram Micro reserves the right to decline requests to access or delete Personal Data if: (1) disclosure or deletion of the information requested is not required or permitted by applicable law; or (2) the request is, in the sole discretion of Ingram Micro, repetitious or vexatious.
+
+If information will not or cannot be disclosed, the individual making the request will be provided with the reasons for non-disclosure.
+
+To guard against fraudulent requests for access, Ingram Micro reserves the right to require sufficient information to allow it to confirm the identity of the party making the request before granting access or making corrections.
+
+### Accuracy
+
+It is your responsibility to provide Ingram Micro with accurate Personal Data. Except as otherwise set forth in this Policy, Ingram Micro shall only use Personal Data in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. To the extent necessary for these purposes, Ingram Micro shall take reasonable steps to ensure that Personal Data is accurate, complete, current and relevant to its intended use.
+
+### Retention Period
+
+We retain your Personal Data for the period necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required or allowed by law or to otherwise fulfill a legal obligation.
+
+### Additional Provisions
+
+**Children**. The Website is intended solely for use by individuals 18 years of age and older and thus is not directed to children under 13 years of age. Ingram Micro does not knowingly solicit or collect Personal Data from children under 13 years of age.
+
+**Do Not Track.** Certain web browsers and other devices you may use to access the Website may permit you to indicate your preference that you do not wish to be “tracked” online. At this time, the Website does not respond to "Do Not Track" signals. We do not modify your experience on the Website, or modify the Personal Data we collect from you through the Website, based on whether such a preference is indicated.
+
+**Revisions.** Ingram Micro may from time to time revise this Policy in its sole and absolute discretion to reflect changes in our business practices. If we revise this Policy, we will notify you by posting the updated Policy on this Website. Changes to the Policy will become effective and will apply to the information collected starting on the date Ingram Micro posts the revised Policy on the Website. Your continued use of the Website after any change has become effective will constitute your acceptance of any change.
+
+**Your California Privacy Rights.** California law provides that California residents have a right to request that businesses tell them how their personal information has been shared with third parties for their direct marketing purposes. Under California law, "personal information" includes your name, signature, Social Security number, physical description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. There is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person’s personal information to third parties for direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their Personal Data to third parties for such purposes. We have adopted a policy of allowing you to opt-out of the disclosure of your personal information to third parties for direct marketing purposes and thus fall within this exception. To opt-out of the sharing of your personal information to third parties for direct marketing purposes, please contact us at: legaldept@ingrammicro.com.
+
+**Third Party Sites.** In addition to providing access to Offerings, the Website may include links to other websites and web services. This Policy does not apply to those websites and services and the privacy practices of those websites and services may differ from those described in this Policy. If you submit Personal Data to any of those other websites or services, your Personal Data is governed by the privacy policies applicable to those websites and services. Ingram Micro encourages you to carefully read the privacy policy of any website or web service you visit.
+
+**Compliance with Local Laws.** This Policy is meant to guide Ingram Micro with respect to Personal Data collected from or about you at this Website. While this Policy applies to Personal Data generally, the local laws, rules and regulations of jurisdictions that are applicable to Ingram Micro (“Local Laws”) may require standards which are stricter than this Policy and, in such event, Ingram Micro will comply with applicable Local Laws. Specific privacy policies may be adopted to address the specific privacy requirements of particular jurisdictions.
+
+**Cross-Border Data Transfer.** Your Personal Data may be stored and processed in any country where we have facilities or service providers, and by using our Website or by providing consent to us (where required by law), you agree to the transfer of Personal Data to countries outside of your country of residence, including to the United States, which may provide for different data protection rules, and a lower standard of required protection, than in your country.
+
+**Sensitive Information.** Unless we specifically request or invite it, we ask that you not send us, and you not disclose, any sensitive personal data (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through this Website or otherwise to us. In those cases where we may request or invite you to provide sensitive personal data, we will do so with your express consent.
+
+**Compliance.** Ingram Micro will use a self-assessment approach to verify compliance with this Policy and periodically verify that the Policy is accurate, comprehensive for the information intended to be covered, prominently displayed, implemented and accessible.
+
+If you believe that your Personal Data has been processed or disclosed in violation of this Policy, Ingram Micro encourages you to raise any concerns using the contact information provided in this Policy. Ingram Micro will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Data.
+
+**Questions**. If you have any questions or concerns about this Policy, the privacy practices of Ingram Micro, our collection or use of your Personal Data, or you wish to access your Personal Data, please [contact us](https://web.archive.org/Contact-Us/Feedback.aspx). If we need or are required to contact you concerning any issue or event that involves this Policy, your Personal Data, or the Website, then we may do so using the email address, telephone number, or physical mailing address we have on file for you.  
  
-
-#### What personal information does Shipwire.com gather?
-
-The information we learn from customers helps us personalize and continually improve your shipping experience at [Shipwire.com](https://www.shipwire.com/ "Shipwire.com"). Here are the types of information we gather.
-
-  * **Information you give us:** We receive and store any information you enter on our Web site or give us in any other way. You provide most such information when you price, ship, participate in a contest or questionnaire, or communicate with customer service. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom packages have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in your address book; content of reviews and e-mails to us; personal description; and financial information, including Social Security and driver’s license numbers. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shipping for you, improving our site, and communicating with you.
-  * **Automatic information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Shipwire.com. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; shipping history, which we sometimes aggregate with similar information from other customers to create features such as shipping circles and top shippers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; routes you searched for; and the phone number you used to call our 888 number. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Shipwire.com if we cannot recognize you, we want you to be aware that these tools exist.
-  * **Behavioral “retargeting” Advertising:** We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, company, address, email address, or telephone number) cookies or web beacons to collect non-personally identifiable information such as IP address, pages viewed, and if a conversion and other information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.adroll.com/privacy) for more information about behavioral advertising and how it uses your anonymous info, you can visit http://www.networkadvertising.org.
-  * **E-mail communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Shipwire.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please go to the My Account link in the header of any Shipwire page and adjust your Newsletter preferences.
-  * **Information from other sources:** We might receive information about you from other sources and add it to our account information. Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next shipment or communication more easily; account information, purchase or redemption information, and page-view information; pricing criteria and pricing result information; and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit services to some customers.
-
-
-
-#### Does Shipwire.com share the information it receives?
-
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.
-
-  * **Affiliated businesses we do not control:** We work closely with our affiliated businesses. Examples of co-branded and joint offerings include carriers which handle the delivery of your packages, and brokers which provide your packages with cargo insurance. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
-  * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional offers:** Sometimes we send offers to selected groups of our customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please go to the My Account link in the header of any Shipwire page and adjust your Newsletter preferences.
-  * **Business transfers:** As we continue to develop our business, we might sell or buy business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that we, or substantially all of our assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of Shipwire.com and others:** We release account and other personal information as necessary to enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of us, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * **Law Enforcement:** Shipwire’s policy is to notify members of requests for their data unless it is prohibited from doing so by statute or court order. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other process that specifically precludes member notification.
-  * **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
-
-
-
-#### How secure is information about me?
-
-We reveal only the last five digits of your credit card numbers when confirming a shipment. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.  
- 
-
-#### Which information can I access?
-
-Shipwire.com gives you access to a broad range of information about your account and your interactions with Shipwire.com for the limited purpose of viewing and, in certain cases, updating that information.  
- 
-
-#### Children
-
-If you are under 18, you may use Shipwire.com only with the involvement of a parent or guardian.  
- 
-
-#### Conditions of use, notices, and revisions
-
-If you choose to visit Shipwire.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Shipwire.com, please contact us with a thorough description, and we will try to resolve it.
-
-Our business changes constantly, and our Privacy Notice and the Terms of Use will change also. You should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.  
- 
-
-#### Contact us
-
-If you have any questions about this privacy statement, the practices of this site or your dealings with Shipwire.com, please contact Customer Support. Our Privacy Policy is subject to change without notice. Please visit this site often to keep up to date with our latest policies.  
- 
-
-#### For more information
-
-  * [Electronic Frontier Foundation](http://www.eff.org/ "Electronic Frontier Foundation") – a civil liberties organization working to protect your rights online.
-  * [Electronic Privacy Information Center](http://www.epic.org/ "Electronic Privacy Information Center") – established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
-  * [Privacy Issues Page](http://www.cdt.org/privacy "Privacy Issues Page") – from the Center for Democracy and Technology (CDT).
-  * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies "The EPIC Cookies Page") – definitions, links, and news.
-  * [How to Protect Your Privacy](http://www.ftc.gov/privacy "How to Protect Your Privacy") – information from the Federal Trade Commission.
-
-
-
-* * *
-
-Was this article helpful?  Yes   No 
