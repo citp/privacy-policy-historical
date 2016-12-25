@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611034804id_/http%3A//www.jtv.com/linkpage%3Fcid%3Dhelp-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrytelevision.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225075851id_/https%3A//www.jtv.com/help/jewelry-television-privacy-policy.htm/help-privacypolicy.html) for the most accurate reproduction.*
 
 # Jewelry Television Privacy Policy
 
