@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysavers.gov privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615033720id_/http%3A//energy.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavers.gov privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225210940id_/http%3A//energy.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Department of Energy
 
