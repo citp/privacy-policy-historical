@@ -1,42 +1,35 @@
-> *The following text is extracted and transformed from the zeerk.com privacy policy that was archived on 2014-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140930233932id_/http%3A//zeerk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeerk.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225154109id_/https%3A//zeerk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zeerk
+# Privacy Policy | Zeerk
 
-Privacy Policy
+We take the protection of your personal data very seriously. Whenever we collect, process or use (“use”) your personal data for the purpose of the services offered by Zeerk, this will take place within the scope of the services offered by Zeerk at zeerk.com’s registered office.
 
-We take the protection of your personal data very seriously. Wherever we collect, process or use (“use”) your personal data for the purposes of the services offered by Zeerk, this shall take place within the scope of the services offered by Zeerk at zeerk.com registered office.
+We will use the personal data that you disclose to us to provide the services offered by Zeerk on the basis of and in compliance with the valid data protection regulations contained in Data Protection Act. This includes, in particular, allowing you to access the content of the Zeerk.com website, managing the content uploaded by you on your behalf, providing you with information about this, and providing you with other services with your agreement, where applicable.
 
-We will use the personal data that you disclose to us to provide the services offered by Zeerk on the basis of and in compliance with the valid data protection regulations contained in Act No. 428/2002 Coll. (Data Protection Act). This includes, in particular, allowing you to access the content of the Zeerk website, managing the content uploaded by you on your behalf, providing you with information about this, and providing you with other services with your agreement, where applicable.
+Where Zeerk is used by a natural person, he/she will be obliged to disclose or make the following personal data accessible to Zeerk upon registering and when using Zeerk services:
 
-Where Zeerk is used by a natural person, they shall be obliged to disclose or make the following personal data accessible to Zeerk upon registering and when using Zeerk services:
+*** Email**
 
-Email
+*** Username**
 
-Username
+*** Password**
 
-Password
+***  Paypal email, Payoneer email, Payza email, Bank Name and Account Number  
+**
 
-Paypal email  
+By registering and accepting the terms and conditions of use, the user consents to his or her personal data being processed in accordance with according law and he or she also consents to this data being used and stored by Zeerk for the purposes of providing and guaranteeing Zeerk services.
 
+The user will grant his or her consent in accordance with the DPA for the entire duration of his or her registration and use of the Zeerk services. If the user’s member account is deleted for any reason, or if any other use of the Zeerk services is terminated for any reason, Zeerk will ensure that the personal data disclosed to it by the user is deleted.
 
-or MoneyBookers/ Skrill email  
+You may withdraw your consent issued once in accordance with the relevant provisions of the DPA in writing at any time and/or object to the future use of your data in writing. Your consent will lapse one month after the delivery of written withdrawal to the Zeerk address given above.
 
-
-Payout details
-
-By registering and accepting the terms and conditions of use, the user consents to his or her personal data being processed in accordance with according law and he or she also consents to this data being used and stored by Zeerk for the purposes of providing and guaranteeing Zeerk services.
-
-The user shall grant his or her consent in accordance with the DPA for the entire duration of his or her registration and use of the Zeerk services. If the user’s member account is deleted for any reason, or if any other use of the Zeerk services is terminated for any reason, Zeerk will ensure that the personal data disclosed to it by the user is deleted.
-
-You may withdraw your consent issued once in accordance with the relevant provisions of the DPA in writing at any time and/or object to the future use of your data in writing. Your consent will lapse one month after the delivery of written withdrawal to Zeerk address given above.
-
-We may analyse pseudonymised usage profiles for advertising and market research purposes and to improve our services to the extent permitted by law, but will only do so if you have not asserted your legal right to object to your data being used in such a way.
+We may analyse fictitious usage profiles for advertising and market research purposes and to improve our services to the extent permitted by law, but will only do so if you have not asserted your legal right to object to your data being used in such a way.
 
 We will not pass on your personal data to third parties unless this is necessary to provide the services offered, or if transmission is otherwise permitted by relevant statutory provisions, in particular by the DPA.
 
 **Do we use cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow it) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits.
 
@@ -48,10 +41,12 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Children’s Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13-years-old or older.
 
 **Your consent**
 
 By using our site, you consent to our privacy policy.
 
-**Changes to our Privacy Policy** If we decide to change our privacy policy, we will post those changes on this page.
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
