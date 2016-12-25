@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413125329id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225173440id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Acellus — The Science of Learning
 
