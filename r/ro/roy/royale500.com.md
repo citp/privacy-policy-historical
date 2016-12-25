@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royale500.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607203558id_/http%3A//www.royale500.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royale500.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225144556id_/http%3A//www.royale500.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Royale500.com
 
