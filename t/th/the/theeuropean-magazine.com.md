@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611002456id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225140147id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -63,12 +63,6 @@ Germany
 info@theeuropean.de
 
 Most Read 
-
-  * Column
-
-## [Election in Austria](https://web.archive.org/alexander-goerlach--2/11008-election-in-austria)
-
-The Alpine neighbor of Germany was prepared to swear in a far-right leaning President. What the heck? [read more](https://web.archive.org/alexander-goerlach--2/11008-election-in-austria)
 
 
 
