@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archeagedatabase.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523062121id_/http%3A//archeagedatabase.net/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archeagedatabase.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225114747id_/http%3A//archeagedatabase.net/us/privacy) for the most accurate reproduction.*
 
-# Item - Archeage Database 2.0
+# Item - Archeage Database
 
 **WHAT THIS PRIVACY POLICY COVERS**
 
