@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfredangelo.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501171709id_/http%3A//www.alfredangelo.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfredangelo.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225071256id_/http%3A//www.alfredangelo.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Alfred Angelo - Privacy Policy and Terms of Service
 
