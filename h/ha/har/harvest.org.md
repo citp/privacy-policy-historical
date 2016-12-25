@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601074812id_/https%3A//www.harvest.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225085350id_/https%3A//www.harvest.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Harvest: Greg Laurie
 
@@ -8,7 +8,7 @@ At Harvest we understand the importance of privacy for our users. This Privacy P
 
   * ## Communications
 
-When you send e-mails, form submissions, or other communications to Harvest Online, we may keep those communications indefinitely in order to process your inquiries, respond to your requests, and improve our sites. We'll always provide a clear "double opt-in" mechanism to subscribe to our e-mail lists, and won't spam non-subscribers.
+When you send e-mails, form submissions, or other communications to Harvest Online, we may keep those communications indefinitely in order to process your inquiries, respond to your requests, and improve our sites. We may also use your contact information to send you communications about our organization, events, news, and opportunities that may be of interest to you. You are free to change your email preferences or unsubscribe at any time.
 
   * ## Links
 
@@ -47,6 +47,9 @@ When you send e-mails, form submissions, or other communications to Harvest Onli
 
     * _**4/18/2014**  
 Updated headings, changed order, clarified cookie policy, improved formatting, and added notes related to Google Analytics Demographics/Interest Reporting._
+
+    * _**11/21/2016**  
+Updated communications section._
 
 
 
