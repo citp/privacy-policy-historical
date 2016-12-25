@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceme.com.ph privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331231422id_/http%3A//www.priceme.com.ph/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceme.com.ph privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225124427id_/http%3A//www.priceme.com.ph/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ The following principles apply to the personally identifying information we ask 
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
 
-If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20160331231422id_/http%3A//www.priceme.com.ph/About/ContactUs.aspx) any time.
+If you have any additional questions, please feel free to [contact us](https://web.archive.org/web/20161225124427id_/http%3A//www.priceme.com.ph/About/ContactUs.aspx) any time.
