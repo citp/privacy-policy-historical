@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neu.edu privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526010433id_/http%3A//www.northeastern.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neu.edu privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226004021id_/http%3A//www.northeastern.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Online Privacy Statement | Northeastern University
 
@@ -123,7 +123,7 @@ We use your Personal Information primarily to enable delivery, personalization, 
 
 **How Personal Information is Shared Outside Northeastern**
 
-We may share your Personal Information with others outside of the University, such as third-party providers, vendors, and others acting on behalf of the University, for a variety of purposes, for example, to the extent necessary to deliver,  improve and tailor services to you. Third parties who receive Personal Information are contractually prohibited from using or sharing Personal Information for any purpose other than providing services to users.  Northeastern does not sell Personal Information to third-party data brokers. The University may share Personal Information pursuant to valid legal process, to detect, prevent or investigate fraud or system or network security issues, or to protect the safety or rights of the university and other third parties.
+We may share your Personal Information with others outside of the University, such as third-party providers, vendors, and others acting on behalf of the University, for a variety of purposes, for example, to the extent necessary to deliver,  improve and tailor services to you. Third parties who receive Personal Information are generally contractually prohibited from using or sharing Personal Information for any purpose other than providing services to users.  Northeastern does not sell Personal Information to third-party data brokers. The University may share Personal Information pursuant to valid legal process, to detect, prevent or investigate fraud or system or network security issues, or to protect the safety or rights of the university and other third parties.
 
 **Sharing Cookies and Technical Information with Third Parties**
 
@@ -247,4 +247,4 @@ Northeastern University does not knowingly solicit or collect Personal Informati
 
 **Changes to the Privacy Statement**
 
-The Privacy Statement is subject to change at any time, and the revision date will be noted here. We encourage users to regularly review the Privacy Statement for any changes. The most recent changes to the privacy statement occurred on December 18, 2015.
+The Privacy Statement is subject to change at any time, and the revision date will be noted here. We encourage users to regularly review the Privacy Statement for any changes. The most recent changes to the privacy statement occurred on August 16, 2016.
