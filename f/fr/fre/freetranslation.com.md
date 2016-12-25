@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610062635id_/https%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225192733id_/https%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
 
 # Free Translation and Professional Translation Services from SDL
 
