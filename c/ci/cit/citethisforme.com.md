@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630152054id_/https%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225195141id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -67,6 +67,22 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 ### Google Analytics
 
 We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. 
+
+### Advertisements
+
+When you are on this web site, you may see advertisements and those advertisements may be targeted to your interests. We work with third party network advertisers, ad agencies, analytics service providers, and other vendors to serve ads on this site and to serve our ads across the internet.. These third parties also provide us with information regarding how visitors use our website and the effectiveness of our advertisements. These third parties may collect information about you when you view or interact with one of their advertisements and may collect information about your online activities over time and across different websites.
+
+These third parties may set and access tracking technologies on your device, including cookies, and may otherwise collect or have access to information about you. Cookies and other tracking technologies, including those set by third-party network advertisers, may be used for many purposes, such as to target advertisements, prevent you from seeing the same advertisements too many times, and conduct research regarding the usefulness of certain advertisements to you. We may share information regarding our users and the use of our website with third-party advertising companies, analytics providers and other vendors for similar purposes. We do not share your name or contact information, but we may share certain information that has been de-identified so that it is no longer personally identifiable (such as through a hash function). 
+
+While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative ("NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt_out.asp, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or http://www.aboutads.info/choices/, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to be served generic ads while online.
+
+### Advertising
+
+Cite This For Me TM serves advertising, and our ad partners may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visit in order to provide advertisements on our sites about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here [http://www.networkadvertising.org/choices/]. To opt out of interest based ads served by Google, you can visit the Google advertising opt-out page [http://google.com/settings/ads]
+
+When advertisers request, Cite This For Me TM will provide aggregate information on the general makeup of the site's viewers. Such aggregate information includes the number of pageviews in a session, time spent on page, continental locations (if applicable), most hit URLs, and browser types.
+
+Although Cite This For Me TM has a strict privacy policy, all interactions with the Internet pose some inherent dangers. Please be aware of these and conduct all your transactions with caution. Please be careful and responsible when you are surfing online.
 
 ### Contact Information
 
