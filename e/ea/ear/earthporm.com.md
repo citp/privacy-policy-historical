@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthporm.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625092949id_/http%3A//www.earthporm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthporm.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225063115id_/http%3A//www.earthporm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earth Porm
 
