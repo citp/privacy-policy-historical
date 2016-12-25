@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxfirst.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520030834id_/http%3A//inboxfirst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxfirst.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225165924id_/http%3A//inboxfirst.com/privacy) for the most accurate reproduction.*
 
 # Privacy | InboxFirst
 
@@ -38,7 +38,7 @@ We are headquartered in the United States of America and you explicitly acknowle
 
 If we decide to change this privacy statement in any material way, we will notify you here, by email, or by means of a notice on the InboxFirst website. For major changes in how we use personally identifying data, we will provide advance notice. In all cases, your continued use of our Websites or our products and services constitutes consideration and your binding acceptance to any such changes.
 
-**Information You Provide to Us:** When you register to use InboxFirst, communicate with our customer service team, send us an email, or post on our blog, you’re giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Terms of Use and Privacy Policy.
+**Information You Provide to Us:** When you register to use InboxFirst, communicate with our customer service team, send us an email, or post on our blog, you’re giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Terms of Service and Privacy Policy.
 
 **List and Email Information:** When you add an email Distribution List or create an email with InboxFirst services, we have access to the data on your list and the information in your email.
 
@@ -52,7 +52,7 @@ If we decide to change this privacy statement in any material way, we will notif
 
 When you send email marketing, it bounces around from server to server as it crosses the internet. Along the way, server administrators can read what you send. Email wasn’t built for confidential information. If you have something confidential to send, please don’t use InboxFirst.
 
-Sometimes we review the content of our Members’ email campaigns to make sure they comply with our Terms of Use. To improve that process, we have software that helps us find email campaigns that may violate our Terms. Our employees or independent contractors may review those particular Email Campaigns. This benefits all of our Members who comply with the Terms of Use because, among other things, it reduces the amount of spam being sent through our servers and helps to maintain high deliverability.
+Sometimes we review the content of our Members’ email campaigns to make sure they comply with our Terms of Service. To improve that process, we have software that helps us find email campaigns that may violate our Terms. Our employees or independent contractors may review those particular Email Campaigns. This benefits all of our Members who comply with the Terms of Service because, among other things, it reduces the amount of spam being sent through our servers and helps to maintain high deliverability.
 
 Your subscriber lists are stored on a secure InboxFirst server. We don’t, under any circumstances, sell your lists, contact people on your lists, market to people on your lists, steal your lists, or share your lists with any other party, unless it’s required by law. If someone on your list complains or contacts us, we may then contact that person. Only authorized employees have access to view Distribution Lists. You may export (download) your lists from InboxFirst at any time, as long as we have a copy.
 
