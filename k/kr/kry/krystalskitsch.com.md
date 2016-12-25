@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503045617id_/http%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225204236id_/http%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosures - Sunny Sweet Days
 
