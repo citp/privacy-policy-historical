@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511144712id_/http%3A//agrifarming.in/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrifarming.in privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225081701id_/http%3A//www.agrifarming.in/privacyterms) for the most accurate reproduction.*
 
 # Privacy Policy&Terms | Agrifarming.in
 
@@ -16,6 +16,6 @@ Links to third party Websites We have included links on this site for your use a
 
 Changes to this Privacy Statement The contents of this statement may be altered at any time, at our discretion.
 
-Content provided on this website [www.agrifarming.in](http://agrifarming.in/) is only for information, we are not responsible for any loss that you may incur in [agriculture farming](http://agrifarming.in/agriculture-farming). please consult any of agricultural technical officer or adviser before using the information.
+Content provided on this website [www.agrifarming.in](http://agrifarming.in/) is only for information, we are not responsible for any loss that you may incur in [agriculture farming](http://www.agrifarming.in/agriculture-farming/). please consult any of agricultural technical officer or adviser before using the information.
 
 All information provided in these articles is based either on personal experience or information provided by others In all cases, it is your responsibility to obtain veterinary services and advice before using any of the information provided in these articles or on this website . Neither [http://agrifarming.in](http://agrifarming.in/) nor any of the contributors to this website will be held responsible for the use of any information contained herein.
