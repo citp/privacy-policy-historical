@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630132619id_/https%3A//www.mormon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormon.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225101000id_/https%3A//www.mormon.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mormon.org
+# | Mormon.org
 
 The privacy of your personal information is important to The Church of Jesus Christ of Latter-day Saints and our affiliated legal entities (referred to in this policy collectively as “the Church,” “we,” “us,” and similar terms). This Privacy Policy is intended to be a general statement that describes how we collect, use, and process personal information you provide on our websites or Internet applications (referred to as “sites”). We strive to collect, use, and disclose personal information in a manner consistent with the laws of the countries in which we collect personal information. This Privacy Policy applies to this site, which is owned and operated by the Corporation of the President of The Church of Jesus Christ of Latter-day Saints, the Corporation of the Presiding Bishop of The Church of Jesus Christ of Latter-day Saints, or FamilySearch International (as noted specifically on the first page of the website).
 
