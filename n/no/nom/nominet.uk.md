@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630190558id_/http%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nominet.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225221430id_/http%3A//www.nominet.uk/resources/privacy-policy) for the most accurate reproduction.*
 
 # See our Privacy Policy & Your Rights as a Website User
 
@@ -28,7 +28,7 @@ So we can monitor usage of .uk domains, Nominet collects data, on a regular basi
 
 The information we gather is used to help Nominet better understand the .uk market and identify changes over time. To keep bandwidth to a minimum, only the landing page and About Us or Contact Us pages of a website is visited and we will restrict the number of times we visit websites which use the same IP address. Any information gathered is used to help Nominet better understand how .uk domains are used by registrants.
 
-If you want to, you can stop us from collecting data about your website(s) by adding the following to a “robots.txt” file: 
+If you want to, you can stop us from collecting data about your website(s) by adding the following to a “robots.txt” file:
 
 `User-agent: http://www.nominet.org.uk/privacypolicy  
 Disallow: /`
@@ -73,3 +73,7 @@ The Act gives you the right to access information held about you. Your right of 
 #### Changes to our privacy policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+#### Third party apps
+
+You are responsible for deciding if you want to access or use third party apps or sites that link from our services. You agree that Nominet is not responsible for third parties’ content or information or for any damages as result of your use of or reliance on it. If you allow a third party app or site to authenticate you or connect with Nominet’s services, they will have their own legal terms and privacy policies, and you may be giving others permission to use your information in ways we would not. Except to the limited extent it may be required by applicable law, Nominet is not responsible for these other sites and apps — use these at your own risk.
