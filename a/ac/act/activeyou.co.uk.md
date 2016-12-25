@@ -1,789 +1,161 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625101102id_/http%3A//www.activeyou.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134412id_/http%3A//www.activeyou.co.uk/privacy) for the most accurate reproduction.*
 
-# Active You - Play.Win.Save
+# Active You - Privacy Policy
 
-DATA COLLECTION NOTICE
+This Privacy Policy relates to the ActiveYou.co.uk website (the 'Site') which is owned and operated by NetPerform Limited (trading as Digitalbox Data) a member of the Digitalbox Group of companies), company registration number 09909900, Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. NetPerform Limited is registered under the Data Protection Act 1998 under registration number ZA157045. Any reference to “we” or “us” in this Privacy Policy means NetPerform Limited.
 
-Set out below are some valued, third party data partners who may send you marketing messages. From time to time we may add or remove businesses from this list and we will update this web page accordingly.
+You do not need to register to browse the Site, but if you want to enter into any competition or to participate in any branded survey appearing on the Site, you will need to join the ActiveYou Scheme. Joining the ActiveYou Scheme means your details will be shared not only with the organisation who provides the competition prize or sponsors the survey in question, but with other organisations who we select, (sometimes based on interests you have shown when browsing the Site, or participating in competitions and surveys on the Site) from our trusted community of data partners ('Participating Data Partners'), for them to contact you about their products, services, promotions, offers and competitions, and/or to update their records for fraud prevention, debt tracing and anti-money laundering purposes. **Section 1** of this Privacy Policy explains this in more detail and what you need to do if you do not want to receive such information - it is important that you read this before you submit your details to join the ActiveYou Scheme. **Section 2** of this Privacy Policy sets out how we will use your Personal Information regardless of whether you join the ActiveYou Scheme ie when you are generally browsing and using the Site.
 
-**Automotive**
+**SECTION 1 - IF YOU HAVE JOINED THE ACTIVEYOU SCHEME**
 
-Alfa Romeo
+You will need to join the ActiveYou Scheme to enter into a competition or participate in surveys that appear on the Site. Joining also means we will share your personal details with:
 
-BMW
+  * Our Participating Data Partners – [click here](https://web.archive.org/data-category) to see a list of the types of organisations our Participating Data Partners are drawn from (who may be from the UK, other European countries, the USA or Canada) and the types of goods or services you can expect to hear from us or them about as part of the ActiveYou Scheme ('Data Categories List') and/or
+  * Other companies in the Digitalbox Group of companies – [click here](https://web.archive.org/group-companies) for a list of Digitalbox Group companies
 
-Chysler
 
-Citroen
 
-Confused.com
+This is so we or they can contact you with information about products, services, promotions, offers, competitions and surveys that may interest you. We or they may contact you in this regard by email, text message, post or telephone, according to the contact details you provided to us when you joined the ActiveYou Scheme or later updated with us. Our Participating Data Partners may combine this information with other information that they already have about you in their records (eg if they have separate dealings with you).
 
-Fiat
+We very regularly review and update the Data Categories List (usually weekly) to ensure you continue to hear about the latest great information, offers, competitions and surveys, and so to stay up to date with the types of organisation you might hear from and the types of goods and services you might hear about, please regularly refer to this list. If we learn of great competitions and offers which are not related to the current range of topics in the Data Categories List, then we will check that you are interested in these before putting you in touch with the relevant Participating Data Partner(s). 
 
-Ford Motors
+**Participating Data Partners:**
 
-Goalover
+The level of personal information we share with Participating Data Partners and how, depends on which activities you chose to participate in on the Site.
 
-Infiniti
+The following information that you provide to us through the ActiveYou Scheme (eg when registering, updating your details, entering competitions and participating on surveys appearing on the Site) ('Registration Details') will be shared, by way of either single or multiple use data licences, with organisations selected from our Participating Data Partners according to the Data Categories List ('Licensed Partners').
 
-Jaguar
+  * Title
+  * Name
+  * Address
+  * Telephone number (mobile and fixed line)
+  * Email address
+  * Date of Birth
+  * Answers to questions you complete on the surveys
 
-Jeep
 
-Lexus
 
-Mini
+Licensed Partners may contact you by email, text message, telephone or post using the type of contact details you provided to ActiveYou.
 
-Nissan
+We usually only permit Licensed Partners to use these details to contact you in this way for a specified limited period. They are obliged to comply with data protection requirements regarding their holding and use of these details.
 
-Precision Infinity
+We will capture your IP address (see **'Cookies'** section for more details) but this will not be shared with Participating Data Partners unless you participate in their Branded Survey (see below).
 
-PS Group
+Participating Data Partners must comply with relevant data protection laws including screening (according to the method used to contact you) against the Telephone Preference Service ('TPS') and Mailing Preference Service ('MPS') prior to use.
 
-Volvo
+Participating Data Partners may also use your personal information for the purposes of fraud prevention, e.g. anti money-laundering and debt tracing according to their privacy policies.
 
-**Broadband**
+**When you take a Branded Survey on the Site:**
 
-National Broadband Service
+To help you choose which surveys you would like to participate in, it will be clear when you visit the Site, who the survey relates to ('the Survey Sponsor'). When you participate in a Survey, we will, in addition to the Registration Details referred to above, provide the Survey Sponsor with the following details ('Survey Details'): 
 
-Primus Broadband
+  * IP address (the unique numbers that identify the computer you are using to participate in the Survey)
+  * Your responses to the Survey and date of response and any other information specific to the Survey that you are asked to provide
+  * Cookies captured from your use of the Site generally and in completing the Survey.
 
-Simplify Digital
 
-Virgin Media
 
-**Broadband & TV**
+The Survey Sponsor will use your responses and the Registration Details to identify what future competitions, surveys, offers, and information about their products and services that you may be interested in, and to contact you by the methods referred to above. We do not place a specific timeframe on their using the Registration and Survey Details, however please be assured that the Survey Sponsor is obliged to comply with data protection laws regarding their holding and use of such information.
 
-Direct Save Telecom
+Please note that by ticking the box provided to register with the ActiveYou Scheme, you are agreeing to be contacted by the companies running the Branded Surveys by the methods referred to above, including by telephone. This will this take preference over any registration with the Telephone Preference Service of the number you have provided to us or updated with us through the ActiveYou Scheme. It is always your choice as to whether you want to receive such calls, so if you are registered with the Telephone Preference Service and decide you no longer wish to hear from ActiveYou, you can leave the ActiveYou Scheme at any time (See 'How to Unsubscribe' below). If you no longer wish to hear from any of the companies running the Surveys who we have put you in touch with, you will need to contact them each directly to request this. This also applies to any other preference service you may have registered with such as the Mailing Preference Service.
 
-SKY - RESQ
+**When you agree be contacted by a site sponsor:**
 
-**Charity**
+If you agree to be contacted by one or more of our site sponsors by ticking the sponsors box on the registration page your registration details will be shared with these sponsors and you agree to be contacted by email, telephone and SMS.
 
-Age Uk
+**When you enter a competition on the Site**
 
-Alzhemiers
+All competitions on the Site are either sponsored by us or a third party sponsor ('Competition Sponsor'). Each competition page contains the details of the relevant Competition Sponsor for that competition. Your Registration Details, IP address and details that you submit when entering the competition will be used to administer the competition and as follows:
 
-Cancer Research UK
+  * If you enter a competition which is sponsored by us, these details may be shared immediately with the Participating Data Partners.
+  * If you enter a competition which is sponsored by a Competition Sponsor then we will pass your details: 
+    * Immediately with the Competition Sponsor according to the preferences you choose when completing your entry to the competition; and
+    * after expiry of 30 days from entering the competition, with Participating Data Partners.
 
-Crisis
 
-Dogs Trust
 
-Ethicall
+Some competitions on the Site have additional provisions for how your personal information is used so please ensure you read the particular terms and conditions for each competition before taking part in those competitions.
 
-Great Ormond Street
+**If you win a competition on the Site**
 
-Greenpeace
+The full name of all winners will be automatically displayed against the details of all competitions on the Site under the 'Winners' page in accordance with our [Terms and Conditions](https://web.archive.org/terms-and-condition).
 
-Guide Dogs
+If you have won a competition on the Site you will be contacted by ActiveYou with details of how to claim your prize and we will ask you whether you would like to add a testimonial and/or photo to the 'Winners' page. If you choose not to provide a testimonial or photo then your full name will remain displayed on the 'Winners' page against the competition that you have won unless you ask us to remove your details from the 'Winners' page. You can ask to be removed from the 'Winners' page at any time (see **'Contact Us'** below).
 
-Kidney Research
+**Social Media**
 
-Macmillan
+Please note that the information that we gather about you may be uploaded and shared to and from social media platforms for targeting and retargeting purposes. For example if you 'like' a page or feature or share a tweet then we may use the marketing features of social media platforms to let you know about other similar products, services, promotions, offers or competitions in accordance with your settings on those social media platforms. Please see the privacy policies for the social media platforms that you are subscribed to for further details.
 
-Marie Curie
+**Sharing your details with Digitalbox Group Companies**
 
-Mencap
+We may share any of the personal information you provide or we obtain from you from the Site or in our dealings with you, so that we can create a group level picture of how you use the Site, and what interests you have based on how you use the ActiveYou Scheme, and for general group management information purposes. They may use this information to identify which of their products and services may be of interest to you, and to contact you about them as described above.
 
-NSPCC
+**How to Unsubscribe**
 
-NTT Fundraising
+You can leave the ActiveYou Scheme at any time by visiting [http://www.activeyou.co.uk/unsubscribe](https://web.archive.org/unsubscribe) or by emailing [dataprotection@digitalbox.com](mailto:dataprotection@digitalbox.com) or by writing to us at Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. If you leave the ActiveYou Scheme your contact details will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou and ActiveYou will cease sharing your details with Participating Data Partners and Digitalbox Group companies for marketing purposes. Please however note that there may be a brief period of time between your unsubscribe request and suppression to allow our systems to update. If you no longer wish to receive information Participating Data Partners or from Digitalbox Group Companies you will need to request this from them directly.
 
-PDSA
+Please note that ActiveYou and Digitalbox Group companies may still need to retain your details for use for the non-direct marketing purposes described in this Privacy Policy.
 
-RNLI
-
-RSPB
-
-Word Wildlife Federation
-
-**Competition Sites**
-
-Croggles
-
-Get Me A Ticket
-
-Offerx
-
-Paid Offers
-
-Survey Central
-
-UKPrize
-
-**Daily Deals**
-
-Bespoke Offers
-
-Daily Deals
-
-Discount Vouchers
-
-Go Groopie
-
-GoGroopie
-
-Here For A Day
-
-Mighty Deals
-
-MyVoucherCodes
-
-**Debt & Finance**
-
-Barclaycard
-
-Card One Banking
-
-Clark Richards
-
-Debt Advisory Line
-
-Debt Free Direct
-
-Eagle Claims
-
-EU Delay
-
-Media Tactics
-
-Natwest RBS
-
-Scottish Friendly
-
-**Education**
-
-E-Careers
-
-Home Learning College
-
-Learn To Trade
-
-**Fashion**
-
-Arcadia Group
-
-Barbour
-
-Ben Sherman
-
-Farfetch
-
-Feelunique
-
-Joy the Store
-
-LaCoste
-
-Next
-
-Ralph Lauren
-
-Shop Direct
-
-TOMS
-
-Uniqlo
-
-Wolford
-
-**Finance**
-
-Blueberry Wealth
-
-Bvocal
-
-Franklin Hughes
-
-Morses Club
-
-The Yes Card
-
-Think Financial
-
-**Freebie Sites**
-
-FreebiesWorld.co.uk
-
-Freestuff.eu
-
-Latest Freestuff
-
-MagicFreebies
-
-**Gambling**
-
-888 Holdings
-
-Bet Fair
-
-Betclic
-
-Betfair
-
-Betsson Group
-
-Big Fat Lotto
-
-Bingo Diamond
-
-BoyleSports
-
-Coral
-
-Euromillions Lottery
-
-Gala
-
-Geo lotto
-
-Labrokes
-
-Ladbrookes
-
-Little Star Media
-
-Paddy Power
-
-Planit UK
-
-Play2WinCasino
-
-Sky Bet
-
-The Football Pools
-
-Unibet
-
-William Hill
-
-Winner.com
-
-**Gardening**
-
-MBL Group
-
-Price Engines
-
-Quotatis Limited
-
-**General Marketing**
-
-1DayOneOffer
-
-Accidents Direct
-
-Acxiom
-
-Adconian
-
-All Grove
-
-Annexio
-
-Ascend
-
-Aspect Web Media
-
-Aunzton Communications UK LTD
-
-b-Three Ltd
-
-Beaufort Securities Ltd
-
-Brunel Franklin
-
-Calculatemypba.com
-
-Callcredit Data Solutions Ltd
-
-Carpeo
-
-Census Data
-
-Choose Leads
-
-Claims Advisory Group
-
-Clickbooth
-
-DMLS
-
-Doing Digital
-
-Ginger Nut Media
-
-Gordon Lockwood
-
-Injury Law 4 U
-
-Injury Support Network
-
-Inspired Outsourcing Limited
-
-JMR Financial Ltd
-
-JRM Marketing
-
-Landmark Law Ltd
-
-Lead Performance
-
-Leadx (Claims Guys)
-
-Lifestyles Online
-
-Lion Claim Line
-
-Lito Marketing Ltd
-
-Madison Legal
-
-Mager Marketing
-
-Manchester Outsouring
-
-Manger Marketing
-
-Marketing Punch
-
-Marketing Source Ltd 
-
-McDowall
-
-Med Assist Ltd 40k
-
-Medassist ltd
-
-Media Bowl
-
-Media Tactics
-
-Minus5Media Ltd
-
-Nationwide Injury Lawyer
-
-Nextgen Ltd
-
-OK Claims
-
-One-Direct
-
-Paul Reybold Marketing
-
-PDV Ltd
-
-Sequoia Digital
-
-Teradata
-
-The Central Claims Group
-
-The Pension Review Service
-
-Total Reclaim
-
-UK Data House
-
-uk DataHouse
-
-Unique Solutions
-
-Veritas
-
-Visio Digital
-
-Web Clubs
-
-WebClubs
-
-XL Marketing
-
-**Health & Beauty**
-
-Acuvue
-
-All Bran
-
-Blooms Hearing
-
-Clarins
-
-Clear Smoke
-
-Fitness First
-
-Johnson & Johnson
-
-Optical Express
-
-Shave Kit
-
-Special K
-
-Ultralase
-
-Virgin Active
-
-Weight Watchers
-
-**Home & Lifestyle**
-
-Blinkbox
-
-Huggies
-
-Johnson & Johnson
-
-LoveFilm
-
-Money Dashboard
-
-My Survey
-
-Newspaper Readership – Dennis Publishing
-
-PS Group
-
-Sky
-
-TARA
-
-The Sun+
-
-Toluna
-
-Valued Opinions
-
-**Home Improvement**
-
-B&Q Kitchens
-
-Habitat
-
-Hillarys
-
-Made
-
-Tesco Kitchens & Bathrooms
-
-Thomas Sanderson
-
-**Life Insurance**
-
-BestLifeCover
-
-ESMI
-
-Media Tactics
-
-Prime Life Cover
-
-Protected
-
-Simply Life
-
-The Review Bureau Ltd
-
-**Lottery**
-
-European Lottery Guild
-
-Free-Lotto
-
-LottoBytext
-
-Postcode Lottery
-
-**Pension**
-
-Golden Charter
-
-Grove Pensions
-
-JMR Financial Ltd
-
-Media Bowl
-
-Media Tactics
-
-Pension Right Limited
-
-The Pension Review Service
-
-**Personal Injury**
-
-Nextgen Ltd
-
-**Premium Rate**
-
-iTech Logic
-
-Lotto by Text
-
-Media Tactics
-
-Prize Pin
-
-SB Digital Media ltd
-
-SB7 Mobile
-
-txtwinner.co.uk
-
-UME Ltd
-
-**Sport**
-
-ESPN
-
-**Telecommunications**
-
-BT
-
-BTG Home Solutions
-
-Carphone Warehouse
-
-Convergys
-
-EE
-
-Fone Factory
-
-Intelling
-
-Lead Performance
-
-Liquid 11
-
-Media Bowl
-
-O2
-
-Quality Comms
-
-Quality Communication
-
-ResQ
-
-Simple Site
-
-Vodaphone
-
-**Travel**
-
-Bono Tours
-
-British Airways
-
-Butlins
-
-Celebrity Cruises
-
-CheapFlights
-
-Club La Costa
-
-Cruise Club
-
-Cyplon Holidays
-
-Deal Checker
-
-Disney
-
-Easy Voyage
-
-Holiday Discount Centre
-
-Hotels.com
-
-Ice Lolly
-
-Lastminute.com
-
-Lifestyle Media
-
-Love Holidays
-
-P&O
-
-Paul Raybould Marketing
-
-Qatar Airlines
-
-Royal Caribbean
-
-SAGA
-
-Secret Escapes
-
-Skyscanner
-
-Thomas Cook
-
-Tourism Ireland
-
-Travel Bird
-
-Visit Scotland
-
-Visit Wales
-
-Voyage Prive
-
-Warner Leisure
-
-Web-Clubs
-
-Zurich
-
-**Utilities**
-
-Aquira
-
-B&Q Boilers
-
-British Gas
-
-Carpeo
-
-Choose Leads
-
-Consumer Helper
-
-EDF Energy
-
-Energy Helpline
-
-First Utility
-
-Greenstar Energy
-
-Helplink
-
-Inspired Outsourcing Limited
-
-Lead Performance
-
-MediaBowl
-
-Npower
-
-Ovo Energy
-
-PDV
-
-PDV Lts
-
-Precision Affinity Specialists Ltd
-
-Previse Solutions
-
-Save Britain Money
-
-Scottish Power
-
-Spark Energy
-
-SSE
-
-Synergy HES
-
-Totemic
-
-U Compare (ne) Ltd
-
-U-Compare
-
-Uswitch
-
-HOW WE USE YOUR INFORMATION
-
-We, ActiveYou.co.uk take seriously the security of the personal information that you provide and takes every reasonable precaution to ensure that your information is used only in ways that you expect. Your personal information will be used for the purposes of marketing by ActiveYou.co.uk, its group of companies, and shared with other valued third parties for them to contact you with their marketing messages, with your agreement by email, post, telephone & SMS – click on ‘Data Collection Notice’ above to see a list of our third party data partners. It will also be used for us and them for identification, fraud prevention and tracing. ActiveYou.co.uk is owned and operated by NetPerform Limited Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. NetPerform Limited is registered under the Data Protection Act 1998 under registration number ZA157045 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003. For full details of how your personal information will be used and shared, please ensure you read each section of this Privacy Policy by clicking on all the headings set out below. 
-
-  
-
-
-## **Disclosure**
-
-Your personal information submitted to ActiveYou.co.uk, that we gather from you using this website, and from you signing up to and using our service (eg your interests and demographics), will be shared with other companies within our group of companies, (‘the Digitalbox Group’) for our group companies to use and share in the same ways as described for ActiveYou.co.uk in this Privacy Policy, including in particular for sharing with third parties and partners who may send you their marketing messages. Please click here for a list of the companies currently in the Digitalbox Group - this may change from time. We may also share it with successors in title to our business, or if a Digitalbox Group company becomes part of another group of companies, for them to use in the same ways. We may also disclose your personal information to government bodies and law enforcement agencies when we are required to do so by law, or where we think it is appropriate to do so to protect our business, staff, clients, partners and users of this website and our services. We will share your personal information with third party companies for the purposes of market research, fraud prevention, tracing and identification. We will also share data with our suppliers who undertake data processing on our behalf and at our request, but with the appropriate controls in place to protect the privacy of your personal details. ActiveYou.co.uk is owned and operated by NetPerform Limited, Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. NetPerform Limited is registered under the Data Protection Act 1998 under registration number ZA157045 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003. 
-
-YOUR PERSONAL INFORMATION
-
-When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfil the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties including Optical Express (Westfield) Limited who provide products or services which we think will be of interest to you, which may be unrelated to the offerings on this Site.
-
-  
-
-
-When you participate in a competition and/or enquire about an offer you are also agreeing to receive promotional offers from ActiveYou.co.uk, the partner company sponsoring the competition/offer and possibly third parties based in the UK, other European countries, USA or Canada. These promotional offers could be sent to you by email, in the post, by telephone or by text message. Please be aware that countries outside the European Union may have less stringent data protection standards than those within it, and that by signing up on this website you are acknowledging that your personal details may be transferred to those countries. You also agree for your information to be passed to a tracing company to be used for their products & services. 
-
-If you would prefer not to receive promotions in the future, you can unsubscribe at any time. Please see how to unsubscribe below. 
-
-Some ActiveYou.co.uk competitions have specific terms and conditions relating to how your data is used and it is advisable to read and understand this information. If you have responded to ActiveYou.co.uk competitions or offers through a third party partner site, it is possible that the third party may also hold your information and will be using it to make you offers.
-
-Subject to the marketing preferences you have indicated to us, ActiveYou.co.uk reserves the right to transfer or sell your personal information to companies as further described in this notice including as referred to in our Data Collection Notice.
-
-SECURITY OF YOUR INFORMATION
-
-The information that you provide to ActiveYou.co.uk, is held by both ActiveYou.co.uk and the Partners sponsoring the competition or offer. In respect your dealings with ActiveYou.co.uk, we centralise all the personal information we collect about you and use this to create a profile of your interests and/or your demographics so that ActiveYou.co.uk can provide you with information, and also to help our Partners understand offers that may interest you. Where ActiveYou.co.uk uses specialist third party suppliers to carry out the fulfilment to send the offers to you, we will still maintain our control of your personal information. However when your information is shared with our third party partners for promotional purposes, it is no longer governed by this Privacy Policy, it is governed by the Privacy Policy of that Partner/ their website - so please always read these. 
-
-HOW TO UNSUBSCRIBE
-
-You can unsubscribe from ActiveYou.co.uk at any time by emailing [dataprotection@digitalbox.com](mailto:dataprotection@digitalbox.com) If you unsubscribe your information will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou.co.uk. Please however note that there may be a brief period of time between your unsubscribe request and suppression to allow our systems to update. If you need to contact ActiveYou.co.uk regarding an unsubscribe request you can do this by emailing [dataprotection@digitalbox.com](mailto:dataprotection@digitalbox.com) or writing to us Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. If you no longer wish to receive offers from any third party partners, you will need to request this from the third party/ies in question, so please follow the instructions contained in the promotional material that they send you.
-
-COOKIES
-
-A cookie is a small text-only file which is stored on your computer or mobile device when visiting a website. This website requires cookies to help the website function properly, improve the website appearance and user experience by tracking your visits and usage statistics. By opting-in to this website you agree to the use of cookies by ActiveYou.co.uk . For further information on cookies and to find out about how to delete or manage cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). The table below explains the cookies that are used on the ActiveYou website. 
-
-Cookie | Name | Purpose  
----|---|---  
-Google Analytics | N_ga  
-__utma  
-__utmb  
-__utmc  
-__utmv  
-__utmz | These cookies allow Active You to collect information about how visitors use the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
-Google Adsense | __gads  
-_drt_  
-id | Google uses cookies to serve more relevant ads across the web and limit the number of times a given ad is shown to you. When you visit a website, view an ad, or click an ad supported by Google’s advertising services, Google may set a cookie on your browser. This advertising cookie will appear in your browser as coming from the domain "doubleclick.net". [Learn more about Googles Policies](http://www.google.com/policies/privacy/ads/)  
-Pingdom | PRUM_EPISODES | Allows us to monitor user experience.  
-  
-In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to VisualDNA, Acxiom, Criteo and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioural advertising can be found at [www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/). 
-
-Cookie | Name | Purpose  
----|---|---  
-Visual DNA  | vdnaR  
-vdnaSessionId  
-vdnaWidgetMC | These cookies are used to anonymously profile your interests to help advertisers with targeting. You can view and manage your profile at [my.visualdna.com](http://my.visualdna.com/).  
-Acxiom | __gads  
-_drt_  
-id | Acxiom Limited (registered office at 17 Hatfields London SE1 8DJ) and its partners may use the data you provide to this website, together with other data collected elsewhere, to place cookies on your device. Data through these cookies, in conjunction with other data collected about you and others, will be used to improve the relevance of online advertisements displayed to you when you visit this and/or other unrelated websites. To opt-out of data collection, please click [here](http://www.acxiom.co.uk/about-acxiom/privacy/uk-privacy-policy/). Acxiom will then add an opt-out flag to this cookie which will ensure it is no longer used by Acxiom for targeted advertising  
-Criteo | ERCook  
-CEM | The purpose of Criteo’s service is to find visitors of our advertising clients’ properties and send them personalized emails or serve them personalized ads. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Display click [here](http://privacy.criteoemail.com/gb/index.html)  
-  
-USEFUL INFORMATION
+**Useful Information**
 
 For useful information about data protection you can visit:
 
-  * **The Direct Marketing Association; www.dma.org.uk**
-  * **The Information Commissioner; www.ico.org.uk**
-  * **The Citizens Advice Bureau; www.adviceguide.org.uk**
+  * **The Direct Marketing Association: www.dma.org.uk**
+  * **The Information Commissioner: www.ico.org.uk**
+  * **The Citizens Advice Bureau: www.adviceguide.org.uk**
 
 
 
-CHANGES TO THIS STATEMENT
+**SECTION 2 – GENERAL USE OF THE SITE**
 
-How we use your data is kept under regular review and changes are published on this page. This page was last updated on the date shown above.
+**Sharing your personal information**
 
-ACCESS YOUR INFORMATION
+We may share your personal information as follows:
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the addresses below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for this.
+  * with anyone we use to help us to operate our business such as contractors, consultants, advisers and agents. We will put in place appropriate measures to ensure your personal information remains protected
+  * with any person (including our or their legal and professional advisers) with whom we are negotiating to sell or transfer the company or our business or any part of it, or as part of any group re-structure or re-organisation. In respect of any resulting transfer, sale, group restructure or re-organisation, the transferee, purchaser or relevant group company, may use your personal information in the same ways as explained in this Privacy Policy
+  * with regulatory bodies, government authorities or other authorities to comply with our regulatory obligations and industry standards
+  * with the police and other investigatory authority where we consider it reasonable to do so in order to protect our business, premises, visitors and staff
+  * with any individual or entity where we are required to do so by law (for example, pursuant to a court order)
 
-HOW TO CONTACT US
 
-If you have questions regarding this statement, please contact us at: ActiveYou.co.uk Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. Or by emailing us at  
-[ **hello@netperform.co.uk** ](mailto:hello@netperform.co.uk?subject=privacy%20question)  
-To call us please phone (+44) 1225 430091 
+
+**Transfer of Information outside the UK**
+
+In conducting our business we, our contractors, agents and advisers, may transfer your personal information to countries outside the UK (including outside the European Economic Area), whose data protection laws may not be equivalent to those in the UK. If we do so, we will put in place appropriate measures for the protection of your personal information in such countries.
+
+**Security**
+
+Information provided through the Site is stored on our secure servers or those of any third party we engage to provide our IT platform, and is encrypted using standard technology
+
+Whilst we will have appropriate measures in place to protect personal information you send to the Site, we cannot guarantee the security of the internet, so please refrain from sending us particularly private or sensitive details in any free text fields, please only provide such details to the extent that specific data fields are provided.
+
+**Accessing your Personal Information**
+
+You have the right to make a Subject Access Request, i.e. a right to be told whether we hold your personal information and, subject to certain exceptions, to be provided with a copy of such information. If you would like to make a Subject Access Request, please do so in writing to the address in the **Contact Us** section below. Please note that a fee of £10 is payable for each Subject Access Request made. Should you wish to exercise this right against any other company in the Digitalbox Group of companies and/or against any of the Participating Data Partners referred to in **Section 1** above, you will need to make a separate Subject Access Request (and pay the fee to each company in question.
+
+**Third Party Links**
+
+The Site may contain links to the websites of third parties. If you follow a link to any third party website, please note that these websites will have their own privacy policies which we would encourage you read.
+
+**Cookies**
+
+This Site uses Cookies. Please read our [Cookies Policy](https://web.archive.org/cookie-policy)
+
+**Changes to this Privacy Policy**
+
+How we use your Personal Information is kept under regular review and changes are published on this page. This page was last updated on the date shown at the bottom of this policy.
+
+**Contact Us**
+
+If you have any queries about this Privacy Policy, or you wish to leave the ActiveYou Scheme, or update any of your personal details, or remove your details from the 'Winners' page, you can contact us by writing to us or emailing us at:
+
+Postal Address: | ActiveYou Studio 2  
+Monmouth Street Studios  
+30 Monmouth Street  
+Bath  
+BA1 2AN   
+---|---  
+Email: | **hello@netperform.co.uk**  
+  
+This Privacy Policy was last updated on 25th July 2016
