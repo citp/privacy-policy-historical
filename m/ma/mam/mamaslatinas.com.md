@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamaslatinas.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605051038id_/http%3A//www.mamaslatinas.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaslatinas.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225121242id_/http%3A//www.mamaslatinas.com/about/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - MamásLatinas
+# Privacy Policy
 
 **Effective: June 05, 2013** For the prior Privacy Policy, please click [here](http://www.mamaslatinas.com/about/archive/privacy_policy_06_13.php). 
 
