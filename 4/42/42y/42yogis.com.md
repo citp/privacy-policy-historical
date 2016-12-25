@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42yogis.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614002210id_/http%3A//www.42yogis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42yogis.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225091500id_/http%3A//www.42yogis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 42Yogis.com
 
