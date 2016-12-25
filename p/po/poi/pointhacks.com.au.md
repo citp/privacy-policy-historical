@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616023022id_/http%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225083931id_/http%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Point Hacks
 
@@ -15,13 +15,11 @@ We collect information from you when you:
 
 
 
-We collect information necessary to operate the Website including for the purpose of providing services to you through our Website. Among other things, we use your information to improve your experience of our Website.  
-In relation to the Point Hacks loyalty scheme, we collect your information so that we can contact you in relation to the conduct of the scheme and reward your loyalty to the Website.
+We collect information necessary to operate the Website including for the purpose of providing services to you through our Website. Among other things, we use your information to improve your experience of our Website.
 
 ### What information do we collect?
 
-The information collected from you depends on your use of the Website including the activities you participate in and whether you elect to receive certain communications from us.  
-Generally, we will collect your name and email address.
+The information collected from you depends on your use of the Website including the activities you participate in and whether you elect to receive certain communications from us. Generally, we will collect your name and email address.
 
 ### Who do we disclose information to?
 
