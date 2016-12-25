@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607034402id_/http%3A//www.firehousesubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225175610id_/http%3A//www.firehousesubs.com/privacy-policy) for the most accurate reproduction.*
 
 # Firehouse Subs - Privacy Policy | Firehouse Subs
 
@@ -74,11 +74,11 @@ At this time, the Sites are not set up to honor web browser do-not-track setting
 
 Information on Marketing Disclosures
 
-California Civil Code Section 1798.83 permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us at Firehouse Restaurant Group, Inc., 3400-8 Kori Road, Jacksonville, Florida 32257.
+California Civil Code Section 1798.83 permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us at Firehouse Restaurant Group, Inc., 12735 Gran Bay Parkway, Suite 150, Jacksonville, Florida 32258.
 
 Content Removal Requests for Users Under 18 Years Old
 
-If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the Sites.    You may send us any such requests by one of the following methods: (i) by email (writing “Privacy Policy – Removal Request” in the subject line) at privacy@firehousesubs.com; (ii) by writing to us at 3400-8 Kori Road, Jacksonville, Florida 32257; or (iii) by calling us at (904) 886-8300.  We will review the request and respond promptly.  You should be aware that a request to remove content or information posted by you on the Sites does not ensure or require complete or comprehensive removal of such content or information from our databases.
+If you are a user under 18 years of age and reside in California, you may request and obtain removal of, content or information that you have posted on the Sites.    You may send us any such requests by one of the following methods: (i) by email (writing “Privacy Policy – Removal Request” in the subject line) at privacy@firehousesubs.com; (ii) by writing to us at 12735 Gran Bay Parkway, Suite 150, Jacksonville, Florida, 32258; or (iii) by calling us at (904) 886-8300.  We will review the request and respond promptly.  You should be aware that a request to remove content or information posted by you on the Sites does not ensure or require complete or comprehensive removal of such content or information from our databases.
 
 **Links to Other Websites**
 
@@ -94,6 +94,6 @@ We may assign our rights and duties under this Privacy Policy, including, withou
 
 **Your Questions and Concerns**
 
-If you have questions or concerns regarding this Privacy Policy or our privacy practices, please send us an email (writing “Privacy Policy” in the subject line) at privacy@firehousesubs.com; write to us at 3400-8 Kori Road, Jacksonville, Florida 32257; or call us at (904) 886-8300. We will use reasonable efforts to promptly look investigate any concern.
+If you have questions or concerns regarding this Privacy Policy or our privacy practices, please send us an email (writing “Privacy Policy” in the subject line) at privacy@firehousesubs.com; write to us at 12735 Gran Bay Parkway, Suite 150, Jacksonville, Florida, 32258; or call us at (904) 886-8300. We will use reasonable efforts to promptly look investigate any concern.
 
 * * *
