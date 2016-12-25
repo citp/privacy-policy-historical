@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversephonelookup.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614001111id_/http%3A//www.reversephonelookup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonelookup.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225150925id_/http%3A//www.reversephonelookup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -17,7 +17,7 @@ We will use your information to respond to you, regarding the reason you contact
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
 **Your Access to and Control Over Information**  
-You may opt out of having your information included in this directory. You can do this at any time by visiting our [removal form](https://web.archive.org/web/20160614001111id_/http%3A//www.reversephonelookup.com/remove.php) and requested your information be removed.
+You may opt out of having your information included in this directory. You can do this at any time by visiting our [removal form](https://web.archive.org/web/20161225150925id_/http%3A//www.reversephonelookup.com/remove.php) and requested your information be removed.
 
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
@@ -25,4 +25,4 @@ We take precautions to protect your information. When you submit sensitive infor
 **Cookies and Tracking**  
 We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. 
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
