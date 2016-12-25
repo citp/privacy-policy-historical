@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinity.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612211813id_/http%3A//www.twinity.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinity.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226001041id_/http%3A//www.twinity.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Twinity - Privacy Policy
 
@@ -71,7 +71,7 @@ IP addresses allow devices that are connected to the internet to be identified. 
 
 ### What should I know about changing or deleting my personal data?
 
-We aim to store correct and up-to-date personal data. You can change your data (i.e. update, rectify, or amend it) or delete it. To protect your privacy and for your own security, we check your identity before you can do so. To change your account data or if you no longer want us to use your account data, please contact us at [support@twinity.com](mailto:support@twinity.com). In the latter case we will delete your data as soon as possible. However, please note that due to technical and organizational reasons, some measures that have already commenced may be completed even after receipt of your email. We reserve the right to modify this privacy policy from time to time at our own discretion and always respecting the relevant data protection laws. We will inform you if we intend to extend the scope with which your personal data is used.
+We aim to store correct and up-to-date personal data. You can change your data (i.e. update, rectify, or amend it) or delete it. To protect your privacy and for your own security, we check your identity before you can do so. To change your account data or if you no longer want us to use your account data, please contact us at [twhelp@twinity.com](mailto:twhelp@twinity.com). In the latter case we will delete your data as soon as possible. However, please note that due to technical and organizational reasons, some measures that have already commenced may be completed even after receipt of your email. We reserve the right to modify this privacy policy from time to time at our own discretion and always respecting the relevant data protection laws. We will inform you if we intend to extend the scope with which your personal data is used.
 
 Last modified: 23 July 2008
 
