@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the selfmademan.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619141912id_/http%3A//mikedillard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmademan.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225063738id_/http%3A//mikedillard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mike Dillard
-
-## Privacy Policy
+# Privacy Policy -
 
 ### **Privacy Policy**
 
@@ -10,11 +8,11 @@ Last modified: February 16, 2016
 
 **Introduction**
 
-Mike Dillard Media LLC ( **“Company”** or **  “We”**) respects your privacy and is committed to protecting it through tis compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit (a) [http://mikedillard.com](http://mikedillard.com/), (b) [https://selfmademan.com](https://selfmademan.com/), and/or (c) [https://selfmademansociety.com](https://selfmademansociety.com/) (including any content, functionality and services offered on or through such websites, whether as a guest or a registered user), and our practices for collecting, using, maintaining, protecting and disclosing that information. As used herein, “ **Website** ” shall refer to each of the aforementioned websites, or any combination of them.
+Mike Dillard Media LLC ( **“Company”** or **“We”** ) respects your privacy and is committed to protecting it through tis compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit (a) [http://mikedillard.com](http://mikedillard.com/), (b) [https://selfmademan.com](https://selfmademan.com/), and/or (c) [https://selfmademansociety.com](https://selfmademansociety.com/) (including any content, functionality and services offered on or through such websites, whether as a guest or a registered user), and our practices for collecting, using, maintaining, protecting and disclosing that information. As used herein, “ **Website** ” shall refer to each of the aforementioned websites, or any combination of them.
 
 This Privacy Policy applies to information we collect on the Website or in e-mail, text and other electronic messages between you and this Website. It does not apply to information collected by (a) us offline or through any other means, including on any other website operated by Company or any third party; or (b) any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-Please read this policy carefully (before using the Website or submitting any personal information) to understand our policies and practices regarding your information and how we will treat it.  California residents, please also see the “Note to California Residents” Section below for additional rights that apply to you. If you do not agree with our policies and practices, your choice is to not use our Website. By accessing or using the Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully (before using the Website or submitting any personal information) to understand our policies and practices regarding your information and how we will treat it. California residents, please also see the “Note to California Residents” Section below for additional rights that apply to you. If you do not agree with our policies and practices, your choice is to not use our Website. By accessing or using the Website, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 **Information We Collect About You and How We Collect It**
 
@@ -116,6 +114,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 **Contacting Us**
 
-If you need to contact us, you can submit a support ticket at <http://www.mikedillard.com/support>, email us at [support@mikedillard.com](mailto:support@mikedillard.com), or send us a letter at: 3736 Bee Cave Road, #1-162, Westlake Hills, Texas 78746.
+If you need to contact us, you can submit a support ticket at <http://www.mikedillard.com/support>, email us at [support@mikedillard.com](mailto:support@mikedillard.com), or send us a letter at: 3736 Bee Cave Road, #1-162, Westlake Hills, Texas 78746.
 
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
