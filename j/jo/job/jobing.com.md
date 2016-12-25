@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the jobing.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225112422id_/http%3A//sanfrancisco.jobing.com/privacy) for the most accurate reproduction.*
+
+# Jobing.com Privacy Statement
+
+[Home](http://sanfrancisco.jobing.com/) > Jobing.com Privacy Statement
+
+Jobing.com has created this privacy statement in order to demonstrate our firm commitment to the privacy of our users. We give our best effort to ensure that the information that you submit to us remains private, and that information is utilized only for the purposes described herein. The following discloses our information gathering and dissemination practices for Jobing.com.
+
+**Resumes** \- Jobing.com gives you the ability to place your resume online in our database in a few different ways. First, you may store your resume in our system, but ask that it be "confidential." In this way, your resume is not searchable by employers or recruiters through our resume search feature, but may be used to apply for jobs. You may also specify if your resume is to be searchable by "employers"--those organizations that are direct employers--and/or "recruiters/agencies," which are those organizations who may be recruiters, staffing agencies, or headhunters. If you allow your resume to be "searchable," it will be available to employers or agencies (whichever your specify) that sign up for Jobing.com’s resume service. Jobing.com is not responsible for employers or agencies that may misuse our system, but we will make our best effort to ensure that users utilize the system in a proper manner. You may change your information or the confidentiality of your resume at any time by visiting our web site. You can also delete it from the website if you wish. Employers and recruiters may have already downloaded your resume, so we cannot take responsibility for your resume after it has been downloaded.
+
+**Equal Employment Opportunity (EEO) Information** \- Jobing.com collects EEO data that includes demographic and profile data on users who wish to provide it. Giving this information is strictly voluntary, and this data is used for EEO reporting to our employers; IT IS NOT DELIVERED TO HIRING MANAGERS AND IS NOT AVAILABLE ON RESUME SEARCHES. This information is sent to a designated Human Resources representative of the employer on an aggregate basis. The information is also used by Jobing.com on an aggregate basis to analyze website traffic.
+
+**Links -** The Jobing.com web site contains links to other sites through our advertisers and our resources for job seekers and employers. Jobing.com is not responsible for the privacy practices or the content of such web sites and web pages that are not part of the Jobing.com site.
+
+**Cookies -** Our site uses "cookies" to keep track of your site visit and to ensure that your experience is interactive. We use cookies to deliver content specific to your interests and your searches in order to give you a unique experience on Jobing.com. In addition to various other purposes, we also utilize cookies to save your password so you don't have to re-enter it each time you visit our site. Please note that the Jobing.com website may not work properly for you if you have cookies disabled. Cookies do not pose any security risk to your computer.
+
+**Newsletter -** Jobing.com offers an electronic e-mail newsletter for job seekers who utilize the Jobing.com website. We ask for the user’s e-mail address to distribute the newsletter, and you may choose not to receive the e-mail newsletter on the Jobing.com website.
+
+**Contests -** We run contests on our site in which we ask visitors for contact information (such as an e-mail address), unique identifiers, and demographic information (such as zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may decline to receive future mailings; see the choice/opt-out section below. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitors’ experiences at our site, showing them content that we think they might be interested in and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
+
+**Feedback -** Please [send feedback](https://web.archive.org/contact) to the webmaster. We appreciate the opportunity to hear from you, and we review all of your comments. All feedback that is submitted to us becomes the property of Jobing.com, and we may utilize it for other purposes, including, but not limited to, marketing.
+
+**Security -** This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+**Choice/Opt-Out -** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+
+**Changes -** Any changes to our privacy statement will be posted on this page of our web site.
