@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115743id_/http%3A//www.travelyaari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225030402id_/http%3A//www.travelyaari.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Travelyaari.com
+# Privacy Policy
 
 Travelyaari respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. In general, you can visit Travelyaari website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
