@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629111436id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225235556id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -26,4 +26,20 @@ We welcomes feedback concerning this Privacy Policy. Please send your comments a
   
 
 
-##     Send Flowers, Cakes and Gifts Same Day and at Midnight India-wide ||    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Same Day Delivery Accepted till 5 PM IST ||
+##     Support: +91 9831319069, 10 AM - 08 PM IST ||    Send Flowers, Cakes and Gifts Same Day and at Midnight India-wide ||    All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Same Day Delivery Accepted till 5 PM IST ||
+
+Customer Testimonials 
+
+* * *
+
+**Jayasri Dunaboyina** (Andhra Pradesh - 2016-01-04) 
+
+_Thank u sooooooo much for ur efficient service...really im sooo happy_
+
+**Neha Agarwal** (Bangalore - 2015-07-28) 
+
+_Thanks Team for the wonderful service. Awesome Cake and flower Delivered. Great Job!!!_
+
+**Anandam K Bangalore** (Bangalore - 2014-10-03) 
+
+_Hi Team,Thanks a lot, As my personal experience/feedback is nicely delivered my gift and within a time. What I had is that the flowers are very fresh and fabulous color mixture. Much appreciated! Keep up good work Best Regards Anandan.K_
