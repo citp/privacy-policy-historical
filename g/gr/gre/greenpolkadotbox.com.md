@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenpolkadotbox.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426051008id_/https%3A//www.greenpolkadotbox.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpolkadotbox.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225040357id_/https%3A//www.greenpolkadotbox.com/privacypolicy) for the most accurate reproduction.*
 
-# The Green PolkaDot Box®
+# Organic and Non-GMO Foods, Shipped to Your Door
 
 **Green PolkaDot Box (“GPDB”) and its Health Merchants, including this store,  **know you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.  **By visiting this GPDB Health Merchant platform you are accepting the practices described in this Privacy Notice.**
 
