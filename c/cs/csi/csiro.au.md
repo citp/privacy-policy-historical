@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617100636id_/http%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csiro.au privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225060101id_/http%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
 
 # CSIRO and the Australian Privacy Principles - Privacy Policy - CSIRO
 
-CSIRO is committed to protecting your personal information and complying with the Privacy Act 1988 (Cth) (“Privacy Act”) and Australian Privacy Principles (APPs). 
+CSIRO is committed to protecting your personal information and complying with the Privacy Act 1988 (Cth) (“Privacy Act”) and Australian Privacy Principles (APPs).
+
+## Contact information
+
+Megan Fincher:  
+Privacy Officer
+
+Phone:  
++61 3 9545 2226
 
 This document describes the policies and procedures that we have in place for the management and protection of personal information that CSIRO collects and holds. 
 
