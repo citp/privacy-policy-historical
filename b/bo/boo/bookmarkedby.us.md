@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkedby.us privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430163708id_/http%3A//bookmarkedby.us/%3Fpage_id%3D2359) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkedby.us privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225073253id_/http%3A//bookmarkedby.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Book marked by education
 
