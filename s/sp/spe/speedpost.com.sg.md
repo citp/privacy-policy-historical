@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedpost.com.sg privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617113656id_/http%3A//www.speedpost.com.sg/home/group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedpost.com.sg privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225090612id_/http%3A//www.speedpost.com.sg/home/group-privacy-policy) for the most accurate reproduction.*
 
 # Speedpost - Group Privacy Policy
 
@@ -162,7 +162,7 @@ a) **Data collected directly from you.** This may be done through this website, 
 
 Attention to                   :           The SingPost Group Data Protection Officer
 
-Email                            :           [GCDPO@singpost.com](mailto:GCDPO@singpost.com)
+Email                            :           GCDPO@singpost.com
 
 Telephone number    :           62295995
 
@@ -186,7 +186,7 @@ Mail                               :         
 
 \- be addressed to the SingPost Group Data Protection Officer at:-
 
-      * Email: [GCDPO@singpost.com](mailto:GCDPO@singpost.com)
+      * Email: GCDPO@singpost.com
       * Address: 10 Eunos Road 8, Singapore Post Centre,  
 Singapore 408600
 
