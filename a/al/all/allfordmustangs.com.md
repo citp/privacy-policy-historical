@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630183747id_/http%3A//www.allfordmustangs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225081332id_/http%3A//www.allfordmustangs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AllFordMustangs
 
