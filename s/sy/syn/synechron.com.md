@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synechron.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628162601id_/http%3A//synechron.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synechron.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225063531id_/http%3A//www.synechron.com/privacypolicy) for the most accurate reproduction.*
 
 # Synechron - Privacy Policy
 
