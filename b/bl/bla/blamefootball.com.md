@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blamefootball.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621093501id_/http%3A//www.blamefootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blamefootball.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225131256id_/http%3A//www.blamefootball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlameFootball
 
@@ -23,6 +23,10 @@ A cookie may also convey information to us about how you use the website, and al
 Information collected using cookies is never shared with anyone or disclosed to third parties.
 
 A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies.
+
+**ADVERTISING**
+
+We currently work with third-party advertising companies, who serve ads on our website. These ads may contain cookies to collect information about your visits. This allows us to provide more relevant and interesting content to users. Cookies received with banner ads are collected by advertising network, and we do not have access to this information.
 
 **OTHER WEBSITES**
 
