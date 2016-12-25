@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrome.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612114607id_/http%3A//www.nitrome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrome.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225023230id_/http%3A//www.nitrome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - nitrome.com
 
