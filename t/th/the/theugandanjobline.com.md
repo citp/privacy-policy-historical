@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204102id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225215200id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ Ugandan Jobline Jobs - The Best Uganda Jobs
+
+### [Programme Officer - Research, Documentation and Advocacy (RDA) NGO Jobs - Center for Health, Human Rights & Development (CEHURD)](http://www.theugandanjobline.com/2016/12/programme-officer-research-documentation-and-advocacy-rda-ngo-jobs-center-for-health-human-rights-development-cehurd.html)
+
+Job Title:     Programme Officer - Research, Documentation and Advocacy (RDA) Organization: Center for Health, Human Rights & Develo... 
+
+[ ](https://www.blogger.com/rearrange?blogID=5878136938400860152&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
 This privacy policy sets out how  **Ugandan Jobline Jobs** uses and protects any information that you give  **Ugandan Jobline Jobs** when you use this website.  **Ugandan Jobline Jobs** is very ** _COMMITTED_** to ensuring that your privacy is protected. In case we ask you to provide certain information by which you can be identified when using this website, please rest assured that we will only use it only accordance with this privacy statement.  **Ugandan Jobline Jobs** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 8th of April, 2013.
 
@@ -39,3 +45,5 @@ You may choose to restrict the collection or use of your personal information in
 ·         Please feel free to advise us on Why you are opting out because we value all our visitors even those that are disgruntled with our service.
 
 **_NB_** : We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+[](http://www.linkwithin.com/)
