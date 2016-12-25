@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mlblogs.com privacy policy that was archived on 2016-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629122635id_/http%3A//mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mlblogs.com privacy policy that was archived on 2016-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161225121033id_/http%3A//mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" device-desktop" lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><!-- stopgap_start --><head>
         
@@ -97,7 +97,7 @@
 
 
 
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TGJ9RZ"></script><script type="text/javascript">
+        <script async="" src="//d2bnxibecyz4h5.cloudfront.net/runtimejs/intercept/intercept.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TGJ9RZ"></script><script type="text/javascript">
             var club      = "mlb",
                     section   = "official_info",
                     ctxPath   = "",
@@ -105,7 +105,7 @@
                     pageid    = "privacy_policy",
                     dc_keyVal = "",
                     dc_lang   = "en",
-                    sysdate   = "201606290547";
+                    sysdate   = "201612250418";
         </script>
         
         <!--[if lte IE 7 ]>
@@ -195,13 +195,13 @@
                     }
                 });
                 bam.I18N = 'en';
-                bam.EASTERN_OFFSET = -400;
+                bam.EASTERN_OFFSET = -500;
                 bam.getEasternDate = function () {
                     return bam.getDateByOffset(bam.EASTERN_OFFSET);
                 };
                 bam.EASTERN_TIME = bam.getEasternDate();
                 var flips = {
-    global: '06/29/2016 10:00 AM GMT-400'
+    global: '12/25/2016 10:00 AM GMT-500'
                 };
 
                 bam.getFlipDate = function (club) {
@@ -243,7 +243,6 @@
         
 
         
-        <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
         
 
@@ -332,6 +331,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	var omniture_sponsor_name = "";
 	var author_test;
 	var res_arr = [];
+	var user_loginStatus = "Not Logged In";
 	s.pageName = omPageName;
 	s.channel = "Official Info";
 	s.prop1 = "MLB.com Privacy Policy";
@@ -364,6 +364,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	if (document.location.href.indexOf("article") > 0){
 		s.prop63 = omniture_sponsor_name;
 	}
+
+	if (GetCookie("fprt") != null) {
+		user_loginStatus = "Logged In";
+	}
+
+	s.prop39 = user_loginStatus;
+	s.eVar39 = user_loginStatus;
 
 	s.prop24 = s_rsid;
 	s.campaign = s.getQueryParam("partnerId");
@@ -550,7 +557,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<a class="languagebar__logo" href="http://mlb.mlb.com" data-phone-href="http://mlb.mlb.com"><img src="/assets/images/0/8/6/113326086/cuts/mlb.com_0r2ty9nf_mjkvcybr.png" alt="" onerror="this.onerror=null;this.src='/assets/images/0/8/6/113326086/cuts/mlb.com_0r2ty9nf_mjkvcybr.png';"></a>
 			<nav class="languagebar__site-language">
 				<a href="http://mlb.mbcsportsplus.com/" data-phone-href="http://mlb.mbcsportsplus.com/">한국어</a>
-				<a href="http://mlbjapan.tumblr.com/" data-phone-href="http://mlbjapan.tumblr.com/">日本語</a>
+				<a href="http://www.mlb.jp/" data-phone-href="http://www.mlb.jp/">日本語</a>
 				<a href="http://mlb.mlb.com/es/index.jsp?c_id=mlb" data-phone-href="http://m.mlb.comm.es.mlb.com">Español</a>
 			</nav>
 			<span class="languagebar__title"></span>
@@ -586,13 +593,13 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				    <a href="http://m.mlb.com/video/?affiliateId=clubMEGAMENU" data-phone-href="http://m.mlb.com/video/?affiliateId=clubMEGAMENU" class="menu-item menu-item--video">Video</a>
 				    <a href="http://mlb.mlb.com/stats/sortable.jsp" data-phone-href="http://m.mlb.com/stats" class="menu-item menu-item--stats">Stats</a>
 				    <a href="http://mlb.mlb.com/mlb/standings/index.jsp" data-phone-href="http://m.mlb.com/standings" class="menu-item menu-item--standings">Standings</a>
-				    <a href="http://mlb.mlb.com/mlb/schedule/index.jsp" data-phone-href="http://m.mlb.com/schedule" class="menu-item menu-item--schedule">Schedule</a>
+				    <a href="http://mlb.mlb.com/mlb/schedule/index.jsp" data-phone-href="http://mlb.mlb.com/mlb/schedule/index.jsp" class="menu-item menu-item--schedule">Schedule</a>
 				    <a href="http://mlb.mlb.com/mlb/players/?tcid=nav_mlb_players" data-phone-href="" class="menu-item menu-item--players">Players</a>
-				    <a href="https://securea.mlb.com/mlb/events/all_star/y2016/ballot.jsp?tcid=ASG16_mlb_navlink" data-phone-href="https://securea.mlb.com/mlb/events/all_star/y2016/ballot.jsp?tcid=ASG16_mlb_navlink" class="menu-item menu-item--Vote" data-no-panel="">Vote</a>
-				    <a href="http://mlb.mlb.com/mlb/tickets/?tcid=nav_mlb_tickets&amp;y=2015" data-phone-href="http://m.mlb.com/tickets" class="menu-item menu-item--tickets">Tickets</a>
+				    <a href="http://mlb.mlb.com/mlb/tickets/?tcid=nav_mlb_tickets&amp;y=2016" data-phone-href="http://m.mlb.com/tickets" class="menu-item menu-item--tickets">Tickets</a>
 				    <a href="http://mlb.mlb.com/mobile/?tcid=nav_mlb_mobile" data-phone-href="http://m.mlb.com/apps/" class="menu-item menu-item--mobile">Apps</a>
-				    <a href="http://shop.mlb.com/?partnerId=X23M1TV388R1-10" data-phone-href="http://mshop.mlb.com/?partnerId=X23M1TV388R1-10" class="menu-item menu-item--shop">Shop</a>
-				    <a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" class="menu-item menu-item--mlbtv">MLB.TV</a>
+				    <a href="http://mlbshop.com/?partnerId=X23M1TV388R1-10" data-phone-href="http://m.mlbshop.com/?partnerId=X23M1TV388R1-10" class="menu-item menu-item--shop">Shop</a>
+				    <a href="http://mlb.mlb.com/mediacenter/#date=11/2/2016&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mediacenter/#date=11/2/2016&amp;affiliateId=mlbMENU" class="menu-item menu-item--mlbtv">MLB.TV</a>
+				    <a href="http://auction.mlb.com/" data-phone-href="http://auction.mlb.com/" class="menu-item menu-item--Auction" data-no-panel="">Auction</a>
 				    <a href="http://mlb.mlb.com/mlb/fantasy/?tcid=nav_mlb_fantasy&amp;y=2016" data-phone-href="http://m.mlb.com/fantasy" class="menu-item menu-item--fantasy">Fantasy</a>
 				    <a href="http://mlb.mlb.com/team/index.jsp" data-phone-href="http://m.mlb.com/teams" class="menu-item menu-item--teams">Teams</a>
 				</nav>
@@ -695,10 +702,10 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<a href="http://mlb.mlb.com/mlb/news/entertainment/index.jsp" data-phone-href="http://mlb.mlb.com/mlb/news/entertainment/index.jsp">Entertainment</a>
 		</li>
 		<li>
-			<a href="http://m.mlb.com/cutfour/2015/09/11/148718578/video-ferrell-takes-the-field-trailers-for-10-mlb-teams" data-phone-href="http://m.mlb.com/cutfour/2015/09/11/148718578/video-ferrell-takes-the-field-trailers-for-10-mlb-teams">Will Ferrell</a>
+			<a href="http://www.worldbaseballclassic.com/" data-phone-href="http://www.worldbaseballclassic.com/">World Baseball Classic</a>
 		</li>
 		<li>
-			<a href="https://securea.mlb.com/mlb/awards/y2015/mlb-awards/" data-phone-href="https://securea.mlb.com/mlb/awards/y2015/mlb-awards/">#AwardWorthy</a>
+			<a href="https://securea.mlb.com/mlb/awards/y2016/mlb-awards/" data-phone-href="https://securea.mlb.com/mlb/awards/y2016/mlb-awards/">#AwardWorthy</a>
 		</li>
 		<li>
 			<a href="http://mlb.mlb.com/es/news/index.jsp?c_id=mlb" data-phone-href="">Espanol</a>
@@ -768,13 +775,13 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			</a>
 		</li>
 		<li>
-			<a href="http://m.mlb.com/video/topic/73494742" data-phone-href="http://m.mlb.com/video/topic/73494742">
-				No Man Left Behind
+			<a href="http://m.mlb.com/video/topic/8665222" data-phone-href="http://m.mlb.com/video/topic/8665222">
+				Morning Roundup
 			</a>
 		</li>
 		<li>
 			<a href="http://mlb.mlb.com/mlbtv/help-center/index.jsp" data-phone-href="">
-				FAQs
+				MLB.TV Help Center/FAQs
 			</a>
 		</li>
 		<li>
@@ -789,7 +796,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		</li>
 		<li>
 			<a href="http://mlb.mlb.com/help/supportforum/index.jsp?tcid=mm_mlb_vid" data-phone-href="">
-				MLB.com Support Forum
+				MLB.TV Support Forum
 			</a>
 		</li>
 		<li>
@@ -814,7 +821,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<h2 class="module__title">Featured</h2>
 	<ul class="link__list">
 		<li>
-			<a href="http://m.mlb.com/video/topic/155065792" data-phone-href="http://m.mlb.com/video/topic/155065792">#ASGWorthy</a>
+			<a href="http://m.mlb.com/video/topic/42469262" data-phone-href="http://m.mlb.com/video/topic/42469262">MLB Tonight</a>
 		</li>
 		<li>
 			<a href="http://m.mlb.com/video/topic/29387502/" data-phone-href="http://m.mlb.com/video/topic/29387502/">MLB Moments</a>
@@ -843,6 +850,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<li>
 			<a href="http://mlb.mlb.com/video/play.jsp?topic_id=7759164&amp;tcid=mm_mlb_vid" data-phone-href="">Baseball's Best Moments</a>
 		</li>
+		<li>
+			<a href="http://m.mlb.com/video/topic/63520384" data-phone-href="http://m.mlb.com/video/topic/63520384">Double Plays</a>
+		</li>
 	</ul>
 </div>
 	</div>
@@ -858,7 +868,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<h2 class="module__title">Stats</h2>
 	<ul class="link__list">
 		<li>
-			<a href="http://mlb.mlb.com/stats/sortable.jsp" data-phone-href="http://m.mlb.com/stats">
+			<a href="http://mlb.mlb.com/stats/sortable.jsp#elem=%5Bobject+Object%5D&amp;tab_level=child&amp;click_text=Sortable+Player+hitting&amp;game_type='P'&amp;season=2016&amp;season_type=ANY&amp;league_code='MLB'&amp;sectionType=sp&amp;statType=hitting&amp;page=1&amp;ts=1475649758900" data-phone-href="http://m.mlb.com/stats/?stat_type=hitting&amp;season=2016&amp;game_type=P&amp;sort_column=avg&amp;player_pool=QUALIFIER">
+				Postseason Sortable Stats
+			</a>
+		</li>
+		<li>
+			<a href="http://mlb.mlb.com/stats/sortable.jsp#elem=%5Bobject+Object%5D&amp;tab_level=child&amp;click_text=Sortable+Player+hitting&amp;game_type='R'&amp;season=2016&amp;season_type=ANY&amp;league_code='MLB'&amp;sectionType=sp&amp;statType=hitting&amp;page=1&amp;ts=1475650272263&amp;timeframe=" data-phone-href="http://m.mlb.com/stats/?stat_type=hitting&amp;season=2016&amp;game_type=R&amp;sort_column=avg&amp;player_pool=QUALIFIER">
 				Regular Season Sortable Stats
 			</a>
 		</li>
@@ -906,11 +921,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </div>	</div>
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
-	<a href="https://securea.mlb.com/mlb/sweepstakes/y2016/quicken_loans/steal_a_home_sweeps.jsp?qls=MLB_homepage.bannericon" data-phone-href="https://securea.mlb.com/mlb/sweepstakes/y2016/quicken_loans/steal_a_home_sweeps.jsp?qls=MLB_homepage.bannericon">
-		<img data-src="/images/0/8/2/170835082/150x150_stealahome_RED_2016_d4h9ln35.jpg">
-		<span>Quicken Loans</span>
-	</a></div>
-			<div class="panel__module panel__module--promotional-image">
 	<a href="http://mlb.mlb.com/stats/sortable.jsp" data-phone-href="">
 		<img data-src="/images/4/5/2/42261452/160x160_sortable_stats_j3b0337b.jpg">
 		<span>Sortable Stats</span>
@@ -933,8 +943,18 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			</a>
 		</li>
 		<li>
-			<a href="http://mlb.mlb.com/mlb/standings/wildcard.jsp" data-phone-href="http://m.mlb.com/standings/wildcard">
+			<a href="http://mlb.mlb.com/mlb/standings/wildcard.jsp" data-phone-href="http://m.mlb.com/standings/?yyyy=2016&amp;view=wildcard">
 				2016 Wild Card Standings
+			</a>
+		</li>
+		<li>
+			<a href="http://mlb.mlb.com/mlb/standings/probability.jsp" data-phone-href="">
+				Postseason Projections
+			</a>
+		</li>
+		<li>
+			<a href="http://mlb.mlb.com/mlb/standings/postseason-picture/" data-phone-href="http://mlb.mlb.com/mlb/standings/postseason-picture/">
+				Postseason Picture
 			</a>
 		</li>
 		<li>
@@ -953,7 +973,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 						</li>
 						<li class="menu-item menu-item--schedule">
-						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/schedule/index.jsp" data-phone-href="http://m.mlb.com/schedule">Schedule<div class="submenu-button"></div></a>
+						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/schedule/index.jsp" data-phone-href="http://mlb.mlb.com/mlb/schedule/index.jsp">Schedule<div class="submenu-button"></div></a>
 						    	<div class="menu__submenu panel panel--generic-panel">
 	<h2 class="panel__title">Schedule</h2>
 	<div class="panel__container panel__container--a">
@@ -961,13 +981,18 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<h2 class="module__title">Schedule</h2>
 	<ul class="link__list">
 		<li>
-			<a href="http://mlb.mlb.com/mlb/schedule/index.jsp" data-phone-href="http://m.mlb.com/schedule">
-				2016 Regular Season
+			<a href="http://mlb.mlb.com/mlb/schedule/index.jsp#date=04/02/2017" data-phone-href="http://m.mlb.com/schedule/2017/04/02/">
+				2017 Regular Season
 			</a>
 		</li>
 		<li>
-			<a href="http://mlb.mlb.com/mlb/schedule/index.jsp#date=02/28/2016" data-phone-href="http://m.mlb.com/schedule/2016/02/28/">
-				2016 Spring Training
+			<a href="http://m.mlb.com/postseason-schedule" data-phone-href="http://m.mlb.com/postseason-schedule">
+				2016 Postseason
+			</a>
+		</li>
+		<li>
+			<a href="http://mlb.mlb.com/mlb/schedule/index.jsp#date=10/02/2016" data-phone-href="http://m.mlb.com/schedule/2016/10/02/">
+				2016 Regular Season
 			</a>
 		</li>
 		<li>
@@ -1064,6 +1089,11 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </div>	</div>
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
+	<a href="http://mlb.mlb.com/mlb/news/hot_stove/y2016/free_agent_tracker.jsp" data-phone-href="http://m.mlb.com/hotstove">
+		<img data-src="/images/4/4/8/208056448/160x160_Kay_HotStove_tw6v6myb.jpg">
+		<span>Hot Stove Tracker</span>
+	</a></div>
+			<div class="panel__module panel__module--promotional-image">
 	<a href="http://mlbdigitalacademy.com/coaches_corner" data-phone-href="">
 		<img data-src="/images/5/9/0/56857590/MLB_com_160x160_c6a49dox_34082928.jpg">
 		<span></span>
@@ -1072,11 +1102,8 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </div>
 
 						</li>
-						<li class="menu-item menu-item--Vote" data-no-panel="">
-						    <a class="menu-item--link" href="https://securea.mlb.com/mlb/events/all_star/y2016/ballot.jsp?tcid=ASG16_mlb_navlink" data-phone-href="https://securea.mlb.com/mlb/events/all_star/y2016/ballot.jsp?tcid=ASG16_mlb_navlink">Vote</a>
-						</li>
 						<li class="menu-item menu-item--tickets">
-						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/tickets/?tcid=nav_mlb_tickets&amp;y=2015" data-phone-href="http://m.mlb.com/tickets">Tickets<div class="submenu-button"></div></a>
+						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/tickets/?tcid=nav_mlb_tickets&amp;y=2016" data-phone-href="http://m.mlb.com/tickets">Tickets<div class="submenu-button"></div></a>
 						    	<div class="menu__submenu panel panel--generic-panel">
 	<h2 class="panel__title">Tickets</h2>
 	<div class="panel__container panel__container--a">
@@ -1089,37 +1116,37 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			</a>
 		</li>
 		<li>
-			<a href="http://mlb.mlb.com/mlb/tickets/ps_refund_2015.jsp" data-phone-href="">
-				Postseason Ticket Refund Policies
-			</a>
-		</li>
-		<li>
-			<a href="http://mlb.mlb.com/mlb/tickets/autism-awareness/?partnerId=A131O40T81B-85E" data-phone-href="http://mlb.mlb.com/mlb/tickets/autism-awareness/?partnerId=A131O40T81B-85E">
-				Autism Awareness
-			</a>
-		</li>
-		<li>
 			<a href="http://mlb.mlb.com/sh" data-phone-href="">
 				StubHub.com
 			</a>
 		</li>
 		<li>
-			<a href="http://m.mlb.com/promo/fort_bragg_tc" data-phone-href="">
-				Fort Bragg Tickets Terms &amp; Conditions
+			<a href="http://mlb.mlb.com/mlb/tickets/big_league_tours.jsp" data-phone-href="">
+				Big League Tours
 			</a>
 		</li>
 	</ul>
 </div>	</div>
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
+	<a href="http://mlb.mlb.com/mlb/tickets/season_tickets.jsp" data-phone-href="">
+		<img data-src="/images/5/7/6/63106576/160x160_Season_Tkt_x2i8ue0c.jpg">
+		<span>2017 Season Tickets</span>
+	</a></div>
+			<div class="panel__module panel__module--promotional-image">
+	<a href="http://mlb.mlb.com/mlb/tickets/big_league_tours.jsp" data-phone-href="">
+		<img data-src="/images/3/3/0/190317330/big_league_tours_jta7bn3m.jpg">
+		<span>Big League Tours</span>
+	</a></div>
+			<div class="panel__module panel__module--promotional-image">
 	<a href="https://www.applyonlinenow.com/USCCapp/Ctl/entry?sc=VACN8Q" data-phone-href="https://www.applyonlinenow.com/USCCapp/Ctl/entry?sc=VACN8Q&amp;pid=ma">
 		<img data-src="/images/3/6/0/170184360/160x160_BOA_Affinity_Dropdown_MLB_9qa5qdoe.jpg">
 		<span>Bank of America</span>
 	</a></div>
 			<div class="panel__module panel__module--promotional-image">
-	<a href="http://mlb.mlb.com/mlb/schedule/index.jsp?affiliateId=31HG1EK3481-210X" data-phone-href="http://mlb.mlb.com/mlb/schedule/index.jsp?affiliateId=31HG1EK3481-210X">
-		<img data-src="/images/6/8/4/152114684/160x160_2016Schedule_uz5lemc4.jpg">
-		<span>2016 Schedule</span>
+	<a href="http://m.mlb.com/schedule/2017/04/02/" data-phone-href="http://m.mlb.com/schedule/2017/04/02/">
+		<img data-src="/images/6/8/4/152114684/160X160_mlb_schedule_2b007osx.jpg">
+		<span>2017 Schedule</span>
 	</a></div>
 			
 			
@@ -1200,7 +1227,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
 	<a href="http://mlb.mlb.com/mobile/atbat/index.jsp" data-phone-href="">
-		<img data-src="/images/2/2/2/16724222/160x160_tjyeasd6.jpg">
+		<img data-src="/images/2/2/2/16724222/160x160_12fwl2o3.jpg">
 		<span></span>
 	</a></div>
 			<div class="panel__module panel__module--promotional-image">
@@ -1223,7 +1250,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 						</li>
 						<li class="menu-item menu-item--shop">
-						    <a class="menu-item--link" href="http://shop.mlb.com/?partnerId=X23M1TV388R1-10" data-phone-href="http://mshop.mlb.com/?partnerId=X23M1TV388R1-10">Shop<div class="submenu-button"></div></a>
+						    <a class="menu-item--link" href="http://mlbshop.com/?partnerId=X23M1TV388R1-10" data-phone-href="http://m.mlbshop.com/?partnerId=X23M1TV388R1-10">Shop<div class="submenu-button"></div></a>
 						    	<div class="menu__submenu panel panel--generic-panel">
 	<h2 class="panel__title">Shop</h2>
 	<div class="panel__container panel__container--a">
@@ -1231,48 +1258,53 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<h2 class="module__title">Shop</h2>
 	<ul class="link__list">
 		<li>
-			<a href="http://shop.mlb.com/jerseys?partnerId=3R13Z8L8G1-72" data-phone-href="http://mshop.mlb.com/jerseys?partnerId=3R13Z8L8G1-72">
+			<a href="http://mlbshop.com/jerseys?partnerId=3R13Z8L8G1-72" data-phone-href="http://m.mlbshop.com/jerseys?partnerId=3R13Z8L8G1-72">
 				Jerseys
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/caps?partnerId=1O713IUD881-134G" data-phone-href="http://mshop.mlb.com/caps?partnerId=1O713IUD881-134G">
+			<a href="http://mlbshop.com/caps?partnerId=1O713IUD881-134G" data-phone-href="http://m.mlbshop.com/caps?partnerId=1O713IUD881-134G">
 				Caps
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/men?partnerId=1A1P13881P-Z196J" data-phone-href="http://mshop.mlb.com/men?partnerId=1A1P13881P-Z196J">
+			<a href="http://mlbshop.com/men?partnerId=1A1P13881P-Z196J" data-phone-href="http://m.mlbshop.com/men?partnerId=1A1P13881P-Z196J">
 				Men's
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/women?partnerId=31392YM1BX-5" data-phone-href="http://mshop.mlb.com/women?partnerId=31392YM1BX-5">
+			<a href="http://mlbshop.com/women?partnerId=31392YM1BX-5" data-phone-href="http://mshop.mlb.com/women?partnerId=31392YM1BX-5">
 				Women's
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/kids?partnerId=V311JP3931IA-16" data-phone-href="http://mshop.mlb.com/kids?partnerId=V311JP3931IA-16">
+			<a href="http://mlbshop.com/kids?partnerId=V311JP3931IA-16" data-phone-href="http://m.mlbshop.com/kids?partnerId=V311JP3931IA-16">
 				Kids
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/big_and_tall?partnerId=2F9G13H9P31-7D6" data-phone-href="http://mshop.mlb.com/big_and_tall?partnerId=2F9G13H9P31-7D6">
+			<a href="http://mlbshop.com/big_and_tall?partnerId=2F9G13H9P31-7D6" data-phone-href="http://m.mlbshop.com/big_and_tall?partnerId=2F9G13H9P31-7D6">
 				Big &amp; Tall
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/collectibles_and_memorabilia?partnerId=CK1313Q931B-1T43" data-phone-href="http://mshop.mlb.com/collectibles_and_memorabilia?partnerId=CK1313Q931B-1T43">
+			<a href="http://mlbshop.com/collectibles_and_memorabilia?partnerId=CK1313Q931B-1T43" data-phone-href="http://m.mlbshop.com/collectibles_and_memorabilia?partnerId=CK1313Q931B-1T43">
 				Collectibles &amp; Memorabilia
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/home_and_office?partnerId=51P39TAH31-20L5" data-phone-href="http://mshop.mlb.com/home_and_office?partnerId=51P39TAH31-20L5">
+			<a href="http://mlbshop.com/home_and_office?partnerId=51P39TAH31-20L5" data-phone-href="http://m.mlbshop.com/home_and_office?partnerId=51P39TAH31-20L5">
 				Home &amp; Office
 			</a>
 		</li>
 		<li>
-			<a href="http://shop.mlb.com/on_sale/yes?partnerId=31ER13931S-33D1A" data-phone-href="http://mshop.mlb.com/on_sale/yes?partnerId=31ER13931S-33D1A">
+			<a href="http://mlbshop.com/on_sale/yes?partnerId=31ER13931S-33D1A" data-phone-href="http://m.mlbshop.com/on_sale/yes?partnerId=31ER13931S-33D1A">
 				Clearance
+			</a>
+		</li>
+		<li>
+			<a href="https://photostore.mlb.com/" data-phone-href="https://photostore.mlb.com/">
+				Photo Store
 			</a>
 		</li>
 	</ul>
@@ -1314,9 +1346,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	</ul>
 </div>
 			<div class="panel__module panel__module--promotional-image">
-	<a href="http://shop.mlb.com/Custom_Shop?partnerId=LJ1I114M051-A17" data-phone-href="http://.shop.mlb.com/Custom_Shop?partnerId=LJ1I114M051-A17">
-		<img data-src="/images/9/9/2/164723992/160x166_Tray_CustomShop2_3xm6gn8d.jpg">
-		<span>Custom Shop</span>
+	<a href="http://www.mlbshop.com/Chicago_Cubs_Gear/pg/1%20/source/bm-mlbcom=banner" data-phone-href="http://m.mlbshop.com/Chicago_Cubs_Gear/pg/1%20/source/bm-mlbcom=banner">
+		<img data-src="/images/9/9/2/164723992/160x160_bqaqp7k1.jpg">
+		<span>World Series Champs</span>
 	</a></div>
 			<div class="panel__module panel__module--promotional-image">
 	<a href="http://auction.mlb.com/" data-phone-href="">
@@ -1328,7 +1360,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 						</li>
 						<li class="menu-item menu-item--mlbtv">
-						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU">MLB.TV<div class="submenu-button"></div></a>
+						    <a class="menu-item--link" href="http://mlb.mlb.com/mediacenter/#date=11/2/2016&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mediacenter/#date=11/2/2016&amp;affiliateId=mlbMENU">MLB.TV<div class="submenu-button"></div></a>
 						    	<div class="menu__submenu panel panel--generic-panel">
 	<h2 class="panel__title">MLB.TV</h2>
 	<div class="panel__container panel__container--a">
@@ -1336,18 +1368,18 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<h2 class="module__title">MLB.TV</h2>
 	<ul class="link__list">
 		<li>
-			<a href="http://mlb.mlb.com/mediacenter/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="">
-				Watch MLB.TV
+			<a href="http://mlb.mlb.com/mlb/subscriptions/gift?&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/gift?&amp;affiliateId=mlbMENU">
+				MLB.TV Holiday Gift Giving
 			</a>
 		</li>
 		<li>
-			<a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU">
+			<a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?&amp;affiliateId=mlbMENU" data-phone-href="http://m.mlb.com/mlb/subscriptions/index.jsp?&amp;affiliateId=mlbMENU">
 				Buy MLB.TV
 			</a>
 		</li>
 		<li>
-			<a href="http://m.mlb.com/video/v591160283/mlbtv-the-1-streaming-sports-product" data-phone-href="">
-				View MLB.TV Demo
+			<a href="http://mlb.mlb.com/mediacenter/#date=11/2/2016&amp;affiliateId=mlbMENU" data-phone-href="">
+				Watch MLB.TV
 			</a>
 		</li>
 		<li>
@@ -1367,12 +1399,12 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		</li>
 		<li>
 			<a href="http://mlb.mlb.com/mlbtv/help-center/index.jsp" data-phone-href="">
-				FAQs
+				MLB.TV Help Center/FAQs
 			</a>
 		</li>
 		<li>
 			<a href="http://mlb.mlb.com/help/supportforum/index.jsp?tcid=mm_mlb_vid" data-phone-href="">
-				MLB.com Support Forum
+				MLB.TV Support Forum
 			</a>
 		</li>
 		<li>
@@ -1394,23 +1426,16 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 </div>	</div>
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
-	<a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU">
-		<img data-src="/images/7/6/6/172084766/160_160_dc_Generic_1khnawfn.jpg">
-		<span>MLB.TV Student</span>
-	</a></div>
-			<div class="panel__module panel__module--promotional-image">
-	<a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU">
-		<img data-src="/images/8/8/6/164867886/160x160_MLBTV2016_bos_3celyqkf.jpg">
-		<span>MLB.TV ST</span>
-	</a></div>
-			<div class="panel__module panel__module--promotional-image">
-	<a href="http://mlb.mlb.com/mlb/subscriptions/index.jsp?c_id=mlb&amp;affiliateId=mlbMENU" data-phone-href="">
-		<img data-src="/images/4/7/0/164415470/160x160_MLBTV16_regseason_v2_mlb_l0zgmjq6.jpg">
-		<span></span>
+	<a href="http://mlb.mlb.com/mlb/subscriptions/gift?&amp;affiliateId=mlbMENU" data-phone-href="http://mlb.mlb.com/mlb/subscriptions/gift?&amp;affiliateId=mlbMENU">
+		<img data-src="/images/0/0/0/209848000/160x160_thy6s3pp.jpg">
+		<span>MLB.TV Holiday Gift Giving</span>
 	</a></div>
 	</div>
 </div>
 
+						</li>
+						<li class="menu-item menu-item--Auction" data-no-panel="">
+						    <a class="menu-item--link" href="http://auction.mlb.com/" data-phone-href="http://auction.mlb.com/">Auction</a>
 						</li>
 						<li class="menu-item menu-item--fantasy">
 						    <a class="menu-item--link" href="http://mlb.mlb.com/mlb/fantasy/?tcid=nav_mlb_fantasy&amp;y=2016" data-phone-href="http://m.mlb.com/fantasy">Fantasy<div class="submenu-button"></div></a>
@@ -1420,16 +1445,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 		<div class="panel__module panel__module--in-this-section">
 			<h2 class="module__title">Fantasy</h2>
 	<ul class="link__list">
-		<li>
-			<a href="http://m.mlb.com/fantasy/preview/y2016" data-phone-href="http://m.mlb.com/fantasy/preview/y2016">
-				Fantasy Player Preview
-			</a>
-		</li>
-		<li>
-			<a href="http://mlb.mlb.com/mlb/fantasy/fb/info/" data-phone-href="">
-				Fantasy Baseball 2016
-			</a>
-		</li>
 		<li>
 			<a href="http://www.rbigame.com/" data-phone-href="http://www.rbigame.com/">
 				R.B.I. Baseball 16
@@ -1500,18 +1515,13 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<div class="panel__container panel__container--b">
 			<div class="panel__module panel__module--promotional-image">
 	<a href="http://mlb.mlb.com/mlb/fantasy/bts/y2016/splash_index.jsp" data-phone-href="http://mlb.mlb.com/mlb/fantasy/bts/y2016/splash_index.jsp">
-		<img data-src="/images/0/1/8/170189018/160x160_bts_megamenu_tupzaszg.jpg">
+		<img data-src="/images/0/1/8/170189018/160x160_bts_dominos_z5tkflh4.jpg">
 		<span>Beat the Streak</span>
 	</a></div>
 			<div class="panel__module panel__module--promotional-image">
 	<a href="http://www.rbigame.com/" data-phone-href="http://www.rbigame.com/">
 		<img data-src="/images/6/8/6/108755686/160x160_RBI16_4nm3s6cg.jpg">
 		<span>R.B.I. Baseball 16</span>
-	</a></div>
-			<div class="panel__module panel__module--promotional-image">
-	<a href="https://www.draftkings.com/gateway?s=563195274" data-phone-href="https://www.draftkings.com/gateway?s=563195274">
-		<img data-src="/images/3/0/4/118652304/160x160_MLB_Play1Day_yk5bz2d1.png">
-		<span>DraftKings</span>
 	</a></div>
 			<div class="panel__module panel__module--promotional-image">
 	<a href="http://mlb.mlb.com/mlb/fantasy/linedrive/index.jsp" data-phone-href="">
@@ -1549,6 +1559,11 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<a href="" data-phone-href="">
 		<img data-src="">
 		<span></span>
+	</a></div>
+			<div class="panel__module panel__module--promotional-image">
+	<a href="http://mlb.mlb.com/mlb/fantasy/bracket-challenge/" data-phone-href="http://m.mlb.com/promo/ps-bracket-challenge-entry">
+		<img data-src="/images/4/5/0/204755450/160x160_PSBC_liosm867.jpg">
+		<span>MLB.com Postseason Bracket Challenge</span>
 	</a></div>
 	</div>
 </div>
@@ -1809,7 +1824,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
   </li>
 
 <ul id="section_navigation_ad">
-	<li><script type="text/javascript">writeAd(120,60,1)</script><ilayer id="DClayerFlat1" visibility="hidden" width="120" height="60"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070205133410/http://ad.doubleclick.net/adi/mlb.mlb/official_info;;pos=1;sz=120x60;tile=1;ord=345136554?" width="120" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></li>
+	<li><script type="text/javascript">writeAd(120,60,1)</script><ilayer id="DClayerFlat1" visibility="hidden" width="120" height="60"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070205133410/http://ad.doubleclick.net/adi/mlb.mlb/official_info;;pos=1;sz=120x60;tile=1;ord=894685029?" width="120" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></li>
 	<li class="stubhub_ad"> 
 
 
@@ -2021,7 +2036,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         <div id="ad">
           
             <span class="screen_reader">Below is an advertisement.</span>
-            <script type="text/javascript">writeAd(160,600,1);</script><ilayer id="DClayerFlat2" visibility="hidden" width="160" height="600"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070205133410/http://ad.doubleclick.net/adi/mlb.mlb/official_info;;pos=1;sz=160x600;tile=1;ord=345136554?" width="160" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer>
+            <script type="text/javascript">writeAd(160,600,1);</script><ilayer id="DClayerFlat2" visibility="hidden" width="160" height="600"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070205133410/http://ad.doubleclick.net/adi/mlb.mlb/official_info;;pos=1;sz=160x600;tile=1;ord=894685029?" width="160" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer>
 
           
         </div>
@@ -2064,7 +2079,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
                         <li id="footer-bgca-logo">
                                 <a data-phone-href="http://www.bgca.org/meetourpartners/Pages/MLB.aspx" href="http://www.bgca.org/meetourpartners/Pages/MLB.aspx">
-                                    <img src="/assets/images/7/9/0/105956790/cuts/gbc_3x_cus7um1s_decu4o45.png" alt="Boys and Girls Club of America">
+                                    <img src="/assets/images/6/6/8/198520668/cuts/599x94_boys_and_girls_club_20thann_logo_1_kz16rr96_surrdkvh.png" alt="Boys and Girls Club of America">
                                 </a>
                         </li>
                     </ul>
@@ -2088,7 +2103,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
                                <li><a data-phone-href="http://m.mlb.com/help/contact/" href="http://mlb.mlb.com/mlb/help/contact_us.jsp">Contact Us</a></li>
                     </ul>
                         
-                    <div id="copyright-container">© <span class="copyright-year"></span> MLB Advanced Media, LP. All rights reserved.</div>
+                    <div id="copyright-container">© <span class="copyright-year"></span> MLB Advanced Media, LP. All rights reserved. </div>
                 
                 </div>
 
@@ -2154,46 +2169,6 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
-<script type="text/javascript">
-if (section=="gameday" || section=="homepage" || section=="multimedia" || section=="news") {
-	var _sf_mlb_sec = (section=="gameday")?"gd":(section=="homepage")?"hp":(section=="multimedia")?"mm":(section=="news")?"news":"";
-	var _sf_async_config={};
-	// curfour article only
-	var isCutFourArticle = (window.location.pathname === '/cutfour/index.jsp' && window.location.hash !== "") ? true : false;
-	
-	/** CONFIGURATION START **/
-	_sf_async_config.uid = 43794;
-	_sf_async_config.domain = "mlb.com";	
-	_sf_async_config.sections = _sf_mlb_sec+","+page_id;//CHANGE THIS
-	_sf_async_config.authors = club;					//CHANGE THIS
-	bam.CBTrackingOnLoad = true;
-	
-	
-       
-    
-       _sf_async_config.useCanonical =  true;
-    
-    
-   
-	/** CONFIGURATION END **/
-	if (bam && bam.CBTrackingOnLoad) {
-	(function(){
-		function loadChartbeat() {
-			window._sf_endpt=(new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
-			document.body.appendChild(e);
-		}
-		var oldonload = window.onload;
-		window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	})();
-	} 
-}
-</script>
-
-
 
   </div>
 </div>
@@ -2212,6 +2187,53 @@ if (section=="gameday" || section=="homepage" || section=="multimedia" || sectio
     newsalert.init({"club":"mlb"});
 </script>
 
+
+
+
+
+
+<style>
+.sg-b-l-t {display: none;}
+.sg-b-l-m {display: block;}
+.sg-b-t {
+    font-size: 16px;
+}
+.sg-b-p.sg-b-p-s {
+    border-radius: 4px;
+    margin: 0 auto;
+    max-width: 400px;
+    right: 20px;
+    left: 20px;
+}
+.sg-b-l-m {
+    font-family: mlb_primary, "Helvetica", "Helvetica Neue", arial, sans-serif !important;
+    font-size: 16px;
+    letter-spacing: .02em;
+    text-decoration: none;
+    border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+    color: #fff !important;
+    text-decoration: none !important;
+    display: inline-block;
+    zoom: 1;
+    padding: 8px 16px;
+    min-width: 60px;
+    background: #4C8CEE;
+    color: #fff;
+    border: 1px solid #1656bc;
+    text-shadow: 0 1px #1656bc;
+}
+</style>
+<script>
+if (club === 'mlb') {
+    (function(d,e,j,h,f,c,b){d.SurveyGizmoBeacon=f;d[f]=d[f]||function(){(d[f].q=d[f].q||[]).push(arguments)};c=e.createElement(j),b=e.getElementsByTagName(j)[0];c.async=1;c.src=h;b.parentNode.insertBefore(c,b)})(window,document,'script','//d2bnxibecyz4h5.cloudfront.net/runtimejs/intercept/intercept.js','sg_beacon');
+
+    sg_beacon('init','NTU5ODgtNWNjZmE0NmU4ZjJkOGM0ZTQ2ZjM4NmNiM2Y2YmQ0NzQ4OTE2YmVhNmE4ZTQwMDM5M2M=');
+
+    (function(){var pages=0;try{var name="_sg_b_p";var parts=("; "+document.cookie).split("; "+name+"=");if(parts.length==2){pages=decodeURIComponent(parts.pop().split(";").shift()).split(",").length}sg_beacon("data","pagesVisited",pages)}catch(e){}})();
+}
+</script>
 
 
 
