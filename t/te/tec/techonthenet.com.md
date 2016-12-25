@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616223057id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonthenet.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225044133id_/http%3A//www.techonthenet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Personal Information is information that identifies you as an individual. It inc
 
 ## Personal Information Collection
 
-We only collect your personal information when you voluntarily provide it to us through our Online Feedback form on our [Contact Us](https://web.archive.org/web/20160616223057id_/http%3A//www.techonthenet.com/feedback.php) page.
+We only collect your personal information when you voluntarily provide it to us through our Online Feedback form on our [Contact Us](https://web.archive.org/web/20161225044133id_/http%3A//www.techonthenet.com/feedback.php) page.
 
 The information we may collect or obtain includes:
 
