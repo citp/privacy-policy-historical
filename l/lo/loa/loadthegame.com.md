@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loadthegame.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614024018id_/http%3A//www.loadthegame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadthegame.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225073934id_/http%3A//www.loadthegame.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Load the Game
 
 This Privacy Policy was last modified on February 01, 2014.
 
