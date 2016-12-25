@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsourcely.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506141112id_/https%3A//www.outsourcely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsourcely.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225164613id_/https%3A//www.outsourcely.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
