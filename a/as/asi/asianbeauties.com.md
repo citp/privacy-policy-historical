@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624050049id_/http%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianbeauties.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225145331id_/http%3A//www.asiandate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Depending on what you do when you visit any Web site, you are providing information about your visit to the site's owners. This includes AsianDate.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. 
+Depending on what you do when you visit any Web site, you are providing information about your visit to the site's operators. This includes AsianDate.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it's a good idea for you to first understand what that site's privacy policies are. If the site doesn't tell you, don't hesitate to ask. 
 
 The bottom line at www.AsianDate.com is that we only use the information that we get from your visit for internal tracking purposes, to make AsianDate.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party. 
 
@@ -137,6 +137,6 @@ AsianDate.com reserves the right to change, modify or amend this policy at any t
 
 ### Effective Date
 
-This privacy statement was last revised on March 20, 2015.
+This privacy statement was last revised on September 1, 2016.
 
 ### Registered addresses:
