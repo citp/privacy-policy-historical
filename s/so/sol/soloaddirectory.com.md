@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soloaddirectory.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618115612id_/http%3A//www.soloaddirectory.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloaddirectory.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225164322id_/http%3A//www.soloaddirectory.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solo Ad Directory
 
