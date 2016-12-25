@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616204431id_/http%3A//www.jobs.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225035948id_/http%3A//www.jobs.ac.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal - jobs.ac.uk
 
@@ -6,7 +6,7 @@
 
 This part of the Privacy Policy is specific to Jobseekers.
 
-jobs.ac.uk is committed to ensuring your privacy is protected. When signing up for a jobs.ac.uk account, our Jobs by Email service or our CV Search Service, we collect your name, email address, location, current role, job seeking status and job searching preferences. We will not contact you other than to send you the bulletins you have subscribed for or internal news about our services for jobseekers, or offers from our partner companies and we will not distribute any of the details you provide to a third party. We have put in place suitable security procedures to safeguard your information. 
+jobs.ac.uk is committed to ensuring your privacy is protected. When signing up for a jobs.ac.uk account or our Jobs by Email service, we collect your name, email address, location and job searching preferences. We will not contact you other than to send you the bulletins you have subscribed for or internal news about our services for jobseekers, or offers from our partner companies and we will not distribute any of the details you provide to a third party. We have put in place suitable security procedures to safeguard your information. 
 
 ### Cookies
 
