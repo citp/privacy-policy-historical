@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storify.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120739id_/https%3A//storify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storify.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225112219id_/https%3A//storify.com/privacy) for the most accurate reproduction.*
 
 # Privacy · Storify
 
