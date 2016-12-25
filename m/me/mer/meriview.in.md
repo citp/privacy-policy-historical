@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402205117id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225143641id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Result Admit card Notification - MeriView.in: Privacy Policy
 
 This Privacy Policy governs the manner in which MeriView.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.meriview.in website ("Site"). This privacy policy applies to the Site and all products and services offered by MeriView.in.
 
