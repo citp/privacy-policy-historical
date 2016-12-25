@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608191726id_/http%3A//www.archives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225055449id_/http%3A//www.archives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
-Effective Date: June 25th, 2015
+Effective Date: October 19, 2016
 
 ## What This Privacy Policy Covers
 
-This policy covers how Ancestry.com Operations Inc. (“Archives,” “we”, “us”, “our”), operating the website Archives.com ("Website"), treats personal information that we collect and receive, including information related to your use of the Website and/or our products or services. This Privacy Policy applies to visitors and new users registering on the Website on or after June 25th, 2015, and to all users already registered or subscribing to the Website on or after July 25th, 2015. For the previous version of the Privacy Policy, please click [here](https://web.archive.org/privacy/1). 
+This policy covers how Ancestry.com Operations Inc. (“Archives,” “we”, “us”, “our”), operating the website Archives.com ("Website"), treats personal information that we collect and receive, including information related to your use of the Website and/or our products or services. This Privacy Policy applies to visitors and new users registering on the Website on or after October 19, 2016, and to all users already registered or subscribing to the Website on or after November 19, 2016. For the previous version of the Privacy Policy, please click [here](https://web.archive.org/privacy/1).
 
 By using the Website you consent to the collection, processing, use, storage, transfer and disclosure of your personal information by us in accordance with this Privacy Policy. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage.
 
 Archives has received TRUSTe's Privacy Seal signifying that this privacy policy, our practices, and the Website have been reviewed for compliance with the TRUSTe program viewable [here](https://www.truste.com/privacy-certification-standards/program-requirements/) or on the validation page available by clicking the TRUSTe seal. TRUSTe’s program does not cover information that may be collected through any downloadable software that may be available on our Website or from third party sites, which are covered by their own privacy policies, which you should review. If you have questions or complaints regarding our privacy policy or practices, please contact us via the information below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
-Archives also complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Archives has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor. With respect to processors outside Europe, we attempt to ensure adequate safeguards for your personal information, as required by applicable law and endeavor to confirm that they have adopted, are subject to, or are contractually obligated to comply with the principles and objectives of this Privacy Policy.
+Ancestry, its Group Companies and service providers in the US and elsewhere, process and share the personal information of users from the European Economic Area subject to the standard model contract clauses approved by the European Commission. With respect to processors outside Europe, we attempt to ensure adequate safeguards for your personal information, as required by applicable law and endeavor to confirm that they have adopted, are subject to, or are contractually obligated to comply with the principles and objectives of this Privacy Policy.
 
-This Privacy Policy should be read in conjunction with the [Archives Terms and Conditions](https://web.archive.org/terms) .
+This Privacy Policy should be read in conjunction with the [Archives Terms and Conditions](https://web.archive.org/terms).
 
 ## 1\. Collection of personal information
 
@@ -90,11 +90,11 @@ We may update this policy. From time to time, we will review our information col
 
 ## 9\. How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this policy or wish to request access to and receive information about the personal information we maintain about you (note please that the right to access personal information may be limited in some circumstances), update and correct inaccuracies in your personal information, have the information blocked or deleted, as appropriate, or oppose (in case of legitimate reasons) the processing carried out with respect to your personal information, you can contact us via the information below. We will respond to all access requests within 30 days. You can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, 360 W 4800 N, Provo, UT 84604. 
+If you have questions or concerns regarding this policy or wish to request access to and receive information about the personal information we maintain about you (note please that the right to access personal information may be limited in some circumstances), update and correct inaccuracies in your personal information, have the information blocked or deleted, as appropriate, or oppose (in case of legitimate reasons) the processing carried out with respect to your personal information, you can contact us via the information below. We will respond to all access requests within 30 days. You can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, 1300 W. Traverse Parkway, Lehi, UT 84043. 
 
 Official correspondence must be sent via postal mail to: 
 
 Archives.com  
 Attn: Customer Solutions  
-360 W 4800 N  
-Provo, UT 84604 
+1300 W. Traverse Parkway  
+Lehi, UT 84043 
