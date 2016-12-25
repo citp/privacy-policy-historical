@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827030834id_/http%3A//www.free-stuff.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-stuff.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225060646id_/http%3A//www.free-stuff.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# Free Stuff
+# Free Stuff | Freebies, Free Stuff and Free Samples
 
 Privacy Policy for free-stuff.co.uk
 
