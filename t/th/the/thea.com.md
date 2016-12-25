@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thea.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612205408id_/http%3A//thea.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thea.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225184028id_/http%3A//thea.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
