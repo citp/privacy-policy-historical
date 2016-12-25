@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508031717id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveholidays.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225104617id_/http%3A//www.loveholidays.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - loveholidays.com
+# Privacy Policy - loveholidays
 
-#### loveholidays.com takes your privacy seriously
+#### loveholidays takes your privacy seriously
 
-Loveholidays.com understands and respects the importance of your privacy and we are committed to safeguarding your personal information. 
+loveholidays understands and respects the importance of your privacy and we are committed to safeguarding your personal information. 
 
-Any personal information you provide to us including and similar to your name, address, telephone number and email address will not be released, sold, or rented to any entities or individuals outside of Loveholidays.com except where required by us to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements. Our representatives may sometimes follow up, either by e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional e-mail about new products, special offers or other information which we think you may find interesting using the e-mail address which you have provided. 
+Any personal information you provide to us including and similar to your name, address, telephone number and email address will not be released, sold, or rented to any entities or individuals outside of loveholidays except where required by us to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements. Our representatives may sometimes follow up, either by e-mail, phone, fax or mail, to people who have registered their details and we may periodically send promotional e-mail about new products, special offers or other information which we think you may find interesting using the e-mail address which you have provided. 
 
 We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as your tour operator, airlines, hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law. We may need to disclose our customer list including any personal information relating to you to a third party who acquires or attempts to acquire all or substantially all of the asset/ stock in our company or our website. 
 
@@ -30,7 +30,7 @@ Our website may contain links to enable you to visit other websites of interest 
 
 You are entitled to a copy of your information held by us. If you would like to see this please ask us. [We may make a small charge for providing this to you]. 
 
-If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at Loveholidays.com, The Triangle, 4th Floor South Side, 5-17 Hammersmith Grove, London, W6 0LG or by email at [insert e-mail address]. 
+If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at loveholidays, The Triangle, 4th Floor South Side, 5-17 Hammersmith Grove, London, W6 0LG or by email at [insert e-mail address]. 
 
 In accordance with the Data Protection Act 1998, you may ask us in writing for a copy of the information we hold about you (for which we may charge an administration fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request. 
 
@@ -46,7 +46,7 @@ Please note that in order for us to provide you with optimum service, we use ‘
 
 **What are cookies?**
 
-A "cookie" is a small data text file that is placed in your browser and allows loveholidays.com to recognise you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and loveholidays.com does not use cookies to collect personal information. Cookies may also be used to pass information between websites owned by loveholidays.com. Cookies will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+A "cookie" is a small data text file that is placed in your browser and allows loveholidays to recognise you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and loveholidays does not use cookies to collect personal information. Cookies may also be used to pass information between websites owned by loveholidays. Cookies will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
 Two types of cookies are used on this web site - session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
 
@@ -87,7 +87,7 @@ Last Updated: March 2015
 
 #### WEBSITE TERMS OF USE
 
-This website is owned and operated by Loveholidays.com (“the Company”). Access to and use of any information on this website is conditional on your acceptance of these website terms and conditions (“the Conditions”). We recommend you read them carefully and print out and keep a copy of them for your future reference. If you do not wish to accept any part of these Conditions then you may not use our website. 
+This website is owned and operated by loveholidays (“the Company”). Access to and use of any information on this website is conditional on your acceptance of these website terms and conditions (“the Conditions”). We recommend you read them carefully and print out and keep a copy of them for your future reference. If you do not wish to accept any part of these Conditions then you may not use our website. 
 
 Please Note:  
 When you visit our website or send e-mails to us, you are communicating electronically. We will also communicate with you by e-mail. You agree that all notices, agreements, disclosures and other communications that we provide to you electronically satisfy any requirement that such communications be in writing. 
