@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414015135id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225224731id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
