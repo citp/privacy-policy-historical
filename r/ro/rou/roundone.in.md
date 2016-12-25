@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510051100id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundone.in privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225111126id_/http%3A//www.roundone.in/app_term_cond.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -48,6 +48,7 @@ THE FOLLOWING ARE THE TERMS OF USE OF THE WEBSITE ROUNDONE.IN (" **WEBSITE** ") 
   42. Round One uses the services of third parties ("Payment Gateway") for the purpose of accepting on line payments. In order to process payment, the Payment Gateway may require the Candidate to provide personal information about himself, in accordance with the policies of the Payment Gateway, which may change from time to time. Such information submitted by the Candidate shall be shared by Round One with the Payment Gateway only. Round One shall not be responsible for data loss/theft of data/corruption of data or the wrong usage/misuse or damage or leak of information and its consequential usage by any third party. Round One shall, nonetheless, take all reasonable precautions at its end to ensure that there is no leakage/misuse of data submitted by the Candidate.
   43. The Candidate agrees that he shall not in any manner transfer or assign his rights or obligations under these terms of use. Round One may, however, transfer or assign all of its rights and obligations under these terms of use, without any notice to the Candidate, to any entity whether or not such entity is currently in existence.
   44. The Candidate shall indemnify and hold harmless the Round One, its affiliates, and their respective officers, directors, employees and agents, from and against any demands, liabilities, claims and actions, including without limitation any professional and legal and accounting fees, resulting from or relating to any material uploaded by the Candidate on the Website or breach by the Candidate of these terms of use.
+  45. No payment or fee should be paid to the referrer for the interaction or reference.
 
   
 **Privacy Policy**  
