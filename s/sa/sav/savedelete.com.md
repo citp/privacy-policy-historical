@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629063719id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225043650id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SaveDelete
 
