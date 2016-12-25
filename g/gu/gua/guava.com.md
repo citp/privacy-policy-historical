@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guava.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525115939id_/http%3A//www.netbooster.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guava.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225040610id_/http%3A//www.netbooster.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetBooster - Your Digital Performance Architects
 
