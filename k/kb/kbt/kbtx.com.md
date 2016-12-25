@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404100820id_/http%3A//www.kbtx.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226001807id_/http%3A//www.kbtx.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Fri 1:50 PM, Oct 04, 2013  | 
+Posted: Wed 3:50 PM, Jan 27, 2016  | 
 
-Updated: Thu 1:44 PM, Jan 28, 2016 
+Updated: Mon 3:47 PM, Jul 18, 2016 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
