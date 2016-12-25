@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524083433id_/http%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredtaste.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225014834id_/http%3A//www.inspiredtaste.net/privacy-and-terms) for the most accurate reproduction.*
 
 # Inspired Taste Privacy and Terms
 
@@ -151,6 +151,10 @@ This is a blog written and edited by Adam and Joanne Gallagher of Inspired Taste
 
 Inspired Taste may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is valid from 27 January 2013.
 
+### Amazon Affiliate Program
+
+Inspired Taste is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
 ## Contact Us
 
 **For Our Readers:**  We love to hear from you! Email us using inspiredtaste@gmail.com if you have a question, comment, photo of one of our recipes you have made (love these) or link you’d like to share.
@@ -159,6 +163,8 @@ Inspired Taste may change this policy from time to time by updating this page. Y
 
 Inspired Taste Inc.
 
-1117 North Pitt Street, 3A Alexandria, VA 22314
+2641 42nd Avenue SW
 
-**Page Last Updated on March 4, 2015**
+Seattle, WA 98116
+
+**Page Last Updated on October  27, 2016**
