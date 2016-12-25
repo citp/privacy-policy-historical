@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auburn.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617162341id_/http%3A//www.auburn.edu/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auburn.edu privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225153233id_/http%3A//www.auburn.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Auburn University
 
