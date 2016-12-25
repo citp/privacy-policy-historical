@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the europesworld.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616050710id_/http%3A//europesworld.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europesworld.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225221134id_/http%3A//europesworld.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Europe’s World
+# Privacy policy - Europe’s World
 
 We, at _Europe’s World_ , are committed to protecting the privacy and security of your visits to this website. This notice provides our policy regarding the nature, purpose, use, and sharing of any information collected via this Web site. The information you provide on this site will be used only for its intended purpose. We never collect information for commercial marketing. Submitting information is strictly voluntary. By doing so, you are giving us your permission to use the information. If you do not want to give us permission to use your information, simply do not provide it. However, not providing certain information may preclude us from providing you with the information or services you desire.
 
