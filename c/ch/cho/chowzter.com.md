@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chowzter.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620183823id_/http%3A//www.foodiehub.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chowzter.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225202422id_/http%3A//www.foodiehub.tv/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | FoodieHub – Find The World’s Essential Eats
+# PRIVACY POLICY | FOODIEHUB - The world's Essential Eats curated by local food experts
 
   1. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at [www.foodiehub.tv](http://www.foodiehub.tv/) (“Site”), the App known as “FoodieHub”, and/or the services provided from the Site or the App (“Services”). You are deemed to accept the terms of this Privacy Policy on your first use of the Site or the App. We may change this Privacy Policy from time to time and such changes shall be effective from the date and time the revised Privacy Policy is posted on the Site or the App. The Site, the App, and all content in the Site and the App, are owned or controlled by Chowzter Limited, a company registered in England whose registered office is at 40 Clifton Street, London EC2A 4DX.
 
