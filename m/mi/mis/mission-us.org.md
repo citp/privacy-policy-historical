@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611115343id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mission-us.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225162458id_/http%3A//www.wnet.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WNET
 
 _**(Updated December 15, 2015)**_
 
- **Thank you for visiting the WNET Privacy Policy (the “Policy”). We believe that maintaining the highest standards of privacy online and on mobile devices is crucial to maintaining your trust in WNET. For this reason, we want to inform our visitors about the types of information we collect and how we use and store that information.**
+**Thank you for visiting the WNET Privacy Policy (the “Policy”). We believe that maintaining the highest standards of privacy online and on mobile devices is crucial to maintaining your trust in WNET. For this reason, we want to inform our visitors about the types of information we collect and how we use and store that information.**
 
 ## 1\. Sites Covered by this Policy
 
@@ -14,37 +14,37 @@ Please note that the WNET Sites often link to third party sites or services, inc
 
 ## 2\. Information We Collect
 
-The WNET Sites collect only information that is reasonably necessary to facilitate and optimize the WNET Sites and the activities available on them.
+The WNET Sites collect only information that is reasonably necessary to facilitate and optimize the WNET Sites and the activities available on them. 
 
- **A. Information You Provide to Us (Personally Identifiable Information)**  
+**A. Information You Provide to Us (Personally Identifiable Information)**  
 You may be asked to provide some personally identification information to participate in some activities on the WNET Sites. If you do not want this information to be collected or used by us for these purposes, you can simply choose not to submit your information. However, this may prevent your participation in these activities. Some of the purposes for which WNET may request personally identifiable information include:
 
- **a. Making a Membership Pledge**  
+**a. Making a Membership Pledge**  
 We will ask you to provide the information necessary (name, billing and shipping address, telephone number, email address, and credit card number) to process and service your membership pledge for THIRTEEN, WLIW, or NJTV. This information is encrypted for your security and is only seen by the membership staff processing your gift and by our contracted fulfillment agencies.
 
- **b. Completing an Online Survey**  
+**b. Completing an Online Survey**  
 WNET occasionally posts surveys on its sites. These surveys, which are completely voluntary, may ask about your interests, occupation, educational background, and so on. We use this voluntarily provided information to understand our members and viewers better and to determine how best to serve them, and we store survey answers separately from email addresses and other personally identifiable information. Personally identification information collected in surveys is not shared with third parties.
 
- **c. Entering a Promotion**  
+**c. Entering a Promotion**  
 WNET may offer you the opportunity to enter sweepstakes, contests, or other promotions on the WNET Sites or through social media pages owned or controlled by WNET. You may be required to provide your name and email address at the time of entry, and WNET may also request additional contact information (e.g., your street address or phone number) so that we may contact you in connection with the promotion. Please see each promotion’s individual rules or terms for further information.
 
- **B. Information We Collect Automatically (Aggregate and Other Non-Personally Identifiable Information)**  
+**B. Information We Collect Automatically (Aggregate and Other Non-Personally Identifiable Information)**  
 Our server tracks how you and other visitors use the WNET Sites, identifying the source of visitors and what pages they use. By looking at this “traffic” we can better understand our community, which allows us to improve our websites and mobile applications and to provide you with an optimal experience and better service.
 
- **a. Cookies and Tracking Technologies**  
+**a. Cookies and Tracking Technologies**  
 In order to provide optimal service and convenience we may use tracking technologies, including “cookies.” Cookies and similar technologies (e.g., pixels and other tags) are temporary bits of code placed in your web browser that allows WNET to track how you use the WNET Sites and facilitates communication when you browse WNET Sites. Cookies are completely anonymous and help us serve you: we use information gathered with cookies to optimize the WNET Sites and your browsing experience. We also use cookies when you make a pledge to keep track of items you add to your pledge basket so you can continue to browse the WNET Sites until you are ready to check out. At no time does the cookie reveal your name, address, email, or telephone number (even if you have entered these in other areas of WNET Sites). You always have the ability to set your browser to refuse to accept cookies without limiting your ability to make a pledge securely or browse the WNET Sites – though some parts of the WNET Sites may not function properly if cookie acceptance is disabled.
 
- **b. Third Party Tracking**  
+**b. Third Party Tracking**  
 Third parties, including those advertising on our sites and our advertising analytics partners, may also use tracking technologies to follow your use of the WNET Sites or advertisements placed on the Sites. WNET does not control third party tracking, which occurs on our Sites by DoubleClick; you may opt out of DoubleClick tracking by visiting Google’s [DoubleClick opt-out page](http://www.google.com/settings/u/0/ads/authenticated#display_optout) and control your trackability more widely at the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 ## 3\. How We Use Your Information
 
-WNET does not sell or rent personal information of members, donors, or website visitors under any circumstances, and we do not share member, donor or visitor information without prior consent except as compelled by law or provided in this Policy.
+WNET does not sell or rent personal information of members, donors, or website visitors under any circumstances, and we do not share member, donor or visitor information without prior consent except as compelled by law or provided in this Policy. 
 
- **A. Personally Identifiable Information**  
+**A. Personally Identifiable Information**  
 Personally identifiable information will only be used for the purpose for which it was requested and provided. Our staff uses your credit card information to process your pledge and our fulfillment agencies use your name and address to mail your gift. When you enroll in sweepstakes featured on any WNET Site, independent sweepstakes judges use your information for the sole purposes of selecting and notifying winners. WNET may request permission, when you give us your email address, to add you to our email list; email recipients may opt out of this list at any time by clicking the “Unsubscribe” button at the bottom of our mailings.
 
- **B. Aggregate and Other Non-Personally Identifiable Information**  
+**B. Aggregate and Other Non-Personally Identifiable Information**  
 In general, the information we collect automatically may be used to respond to your requests, enable you to take advantage of WNET Site features and services, personalize your content and experience, measure analytics, and manage and improve the services available on the WNET Sites.
 
 ## 4\. Information We Share With Third Parties
