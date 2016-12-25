@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrapuris.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427172924id_/http%3A//nutrapuris.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrapuris.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225091455id_/http%3A//nutrapuris.com/pages/privacy) for the most accurate reproduction.*
 
 # Nutrapuris - Privacy Policy | Nutrapuris
 
