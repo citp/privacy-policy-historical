@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesbacker.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417180849id_/http%3A//www.salesbacker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesbacker.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225094347id_/http%3A//www.salesbacker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
