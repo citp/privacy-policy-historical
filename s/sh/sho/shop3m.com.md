@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop3m.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630013509id_/http%3A//solutions.3m.com/wps/portal/3M/en_US/WW3/Country/Corp/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop3m.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225095323id_/http%3A//solutions.3m.com/wps/portal/3M/en_US/WW3/Country/Corp/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 3M United States
 
