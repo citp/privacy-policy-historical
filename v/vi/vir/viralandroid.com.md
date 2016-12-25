@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralandroid.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610103816id_/http%3A//www.viralandroid.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralandroid.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225064014id_/http%3A//www.viralandroid.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Viral Android – Tutorials, Examples, UX/UI Design
+# Privacy Policy | Viral Android – Tutorials, Examples, UX/UI Design
 
 Last Edited on 2016-02-02
 
@@ -59,4 +59,4 @@ If at any time you would like to unsubscribe from receiving future emails, follo
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using our [contact form](http://www.viralandroid.com/p/contact-us.html). 
+If there are any questions regarding this privacy policy you may contact us using our [contact form](http://www.viralandroid.com/p/contact-us.html).
