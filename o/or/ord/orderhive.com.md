@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617003841id_/http%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderhive.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225135104id_/http%3A//www.orderhive.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Orderhive
 
