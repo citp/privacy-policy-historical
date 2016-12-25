@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530144407id_/http%3A//www.ocra.com/ourgroup/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocra.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225042921id_/http%3A//ocra.com/ourgroup/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy and Use of OCRA Website
 
 ### "What you should know when you utilise this website"
 
-Introduction Application of this Privacy Policy External Review of this Privacy Policy Sites covered by this Privacy Policy Links to Non-OCRA Worldwide Websites Browsing OCRA Worldwide Websites How we treat Personal Information Keeping your Personal Information secure Access to and accuracy of your Personal Information Sharing or disclosing Personal Information Distribution of Personal Information outside the EEA Changes to Our Privacy Policy Contacting Us 
+[Introduction](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#1) [Application of this Privacy Policy](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#2) [External Review of this Privacy Policy](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#3) [Sites covered by this Privacy Policy](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#4) [Links to Non-OCRA Worldwide Websites](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#5) [Browsing OCRA Worldwide Websites](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#6) [How we treat Personal Information](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#7) [Keeping your Personal Information secure](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#8) [Access to and accuracy of your Personal Information](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#9) [Sharing or disclosing Personal Information](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#10) [Distribution of Personal Information outside the EEA](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#11) [Changes to Our Privacy Policy](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#12) [Contacting Us ](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#13)
 
 ### INTRODUCTION
 
@@ -12,7 +12,7 @@ The Members of OCRA Worldwide respect your privacy and are committed to protecti
 
 We have structured our websites so that, in general, you can visit OCRA Worldwide on the Web without identifying yourself or revealing any personal information. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### APPLICATION OF THIS PRIVACY POLICY
 
@@ -23,9 +23,9 @@ OCRA Worldwide provides this Privacy Policy to describe our privacy practices re
 
 
 
-This Privacy Policy ceases to apply when persons contract with us and become our clients as our terms relating to client privacy and confidentiality are contained in our [Terms of Business](https://web.archive.org/ourgroup/terms.asp). Clients should note that the privacy and confidentiality provisions in our Terms of Business differ from this Privacy Policy. 
+This Privacy Policy ceases to apply when persons contract with us and become our clients as our terms relating to client privacy and confidentiality are contained in our [Terms of Business](http://www.ocra.com/ourgroup/terms.asp). Clients should note that the privacy and confidentiality provisions in our Terms of Business differ from this Privacy Policy. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### SITES COVERED BY THIS PRIVACY POLICY
 
@@ -35,7 +35,7 @@ This Privacy Policy applies to www.ocra.com.
 
 The OCRA Worldwide Websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave our websites. OCRA Worldwide does not control those sites or their privacy practices, which may differ from OCRA Worldwide's. We do not endorse or make any representations about third-party websites. OCRA Worldwide's Privacy Policy does not cover the personal data you choose to give to unrelated third parties. We encourage you to review the privacy policy of any company before submitting your personal information. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### BROWSING OCRA WORLDWIDE WEBSITES
 
@@ -47,7 +47,7 @@ We use IP addresses to analyse trends, administer our websites, track user's mov
 
 An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and utilise online forms and processes. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### HOW WE TREAT PERSONAL INFORMATION
 
@@ -59,13 +59,13 @@ Our email newsletter is available to users who subscribe to it and instructions 
 
 If you choose to use our referral service to tell a friend about our website, we will ask you for your name and email address, as well as your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We do not store this information. The information is for the sole purpose of sending this one-time email. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### KEEPING YOUR PERSONAL INFORMATION SECURE
 
 OCRA Worldwide is committed to protecting the information you provide us. To prevent unauthorised access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, OCRA Worldwide has in place appropriate physical and managerial procedures to safeguard the information we collect. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### ACCESS TO AND ACCURACY OF YOUR PERSONAL INFORMATION
 
@@ -73,19 +73,19 @@ OCRA Worldwide strives to keep your personal data accurate. We have implemented 
 
 The most effective way to obtain information or change any personal information we may collect is to contact [privacy@ocra.com](mailto:privacy@ocra.com). . Prior to making changes to personal data or releasing information we will confirm that email requests to [privacy@ocra.com](mailto:privacy@ocra.com) are genuine by comparing the information contained in email requests against our records and seeking confirmation by email to the email address we hold on record or by seeking written instructions. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### SHARING OR DISCLOSING PERSONAL INFORMATION
 
 The personal information and personal data we collect is used only for the purposes described in this Privacy Policy and in this manner, it is never sold, lent or leased to third parties. 
 
-Members of OCRA Worldwide reserve the right to treat these obligations of privacy as not applicable when obliged by law.  Back to top
+Members of OCRA Worldwide reserve the right to treat these obligations of privacy as not applicable when obliged by law. [Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### Distribution of Personal Information outside the EEA
 
 As some Members of OCRA Worldwide are outside the EEA and as the provision of services and products by Members of OCRA Worldwide may necessitate the transfer of personal data and personal information outside the EEA, users and potential clients must accept that this may mean that personal data may be transferred to countries that do not provide adequate protection of data in accordance with Article 26 (1) of the EU Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data. 
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### CHANGES TO OUR PRIVACY POLICY
 
@@ -93,12 +93,10 @@ If there are updates to the terms of our Privacy Policy, we will post those chan
 
 Prior to changing our Privacy Policy to allow new unrelated uses of your personal data we will post a notice on our home page advising that our Privacy Policy will be changing in 30 days and send you an email so that you may choose not to accept these new unrelated uses of your personal data.
 
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
 
 ### CONTACTING US
 
 We value your opinions. If you have comments or questions about our privacy policy, please send them to the [privacy@ocra.com](mailto:privacy@ocra.com). 
 
-OCRA (Isle of Man) Limited Grosvenor Court Tower Street Ramsey, Isle of Man IM8 1JA British Isles 
-
-Back to top
+[Back to top](http://www.ocra.com/ourgroup/privacy.aspx?PageView=Shared#)
