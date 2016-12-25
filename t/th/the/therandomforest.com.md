@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406232216id_/http%3A//therandomforest.com/confidential.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225215743id_/http%3A//therandomforest.com/confidential.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,5 @@ To complete a merger or sale of assets. If therandomforest.com sells all or part
 ##  CONTACT US
 
 If you have questions about this Privacy Policy, please contact us at:   
-Email: privacypolicy@therandomforest.com 
+Email: privacypolicy@therandomforest.com   
+
