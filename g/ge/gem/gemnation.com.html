@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the gemnation.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608014336id_/http%3A//www.gemnation.com/base%3Fprocessor%3DgetPage%26pageName%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gemnation.com privacy policy that was archived on 2016-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226203729id_/http%3A//www.gemnation.com/base%3Fprocessor%3DgetPage%26pageName%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <link href="http://fonts.googleapis.com/css?family=Oxygen:400,300,700" rel="stylesheet" type="text/css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu_jquery.js"></script>
 
 
@@ -146,6 +146,30 @@ $(document).ready(function () {
 	itemsCustom:[[240,1],[320,2],[480,3],[700,4]],
   });
 });
+$(document).ready(function () {
+	var carousel = $("#owl-demo6");
+	carousel.owlCarousel({
+	navigation:true,
+	navigationText: [
+	  "<img src='images/responsive/arrowLeft.png' style='padding-top:30px;'>",
+	  "<img src='images/responsive/arrowRight.png' style='padding-top:30px;'>"
+	  ],
+	pagination:false,
+	itemsCustom:[[240,1],[758,2]],
+  });
+});
+$(document).ready(function () {
+	var carousel = $("#owl-demo7");
+	carousel.owlCarousel({
+	navigation:true,
+	navigationText: [
+	  "<img src='images/responsive/arrowLeft.png' style='padding-top:142px;'>",
+	  "<img src='images/responsive/arrowRight.png' style='padding-top:142px;'>"
+	  ],
+	pagination:false,
+	itemsCustom:[[240,1],[320,1],[480,2],[700,2]],
+  });
+});
 </script>
 <!-- END CAROUSEL -->
 
@@ -222,7 +246,8 @@ body {
 }
 </style> 
 
- 
+<script src="//load.sumome.com/" data-sumo-site-id="1915bc9ebea2a5d89e87941825763f80e2613af0e65c345cab623f152bea955a" async="async"></script>
+
  <!-- MAIL CHIMP CODE -->
  
  <!-- END MAIL CHIMP -->
@@ -251,18 +276,25 @@ body {
 
 <a name="TopHeader"></a>
 
-<!-- Holiday Banner 
+<!-- Holiday Banner -->
 <div class="topBannerHoliday">
     <div class="topBannerContent">
         <div class="GiftGuide">
-            <a href="/base?processor=getPage&pageName=gift_guide">View Holiday Gift Guide</a>
+            <a href="/base?processor=getPage&amp;pageName=gift_guide">View Holiday Gift Guide</a>
         </div>
         <div class="SeeDetails">
-            Free Engraving + Extended Returns <a href = "javascript:void(0)" onclick = "document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">See Details</a>
+            Free Engraving + Extended Returns <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">See Details</a>
         </div>
     </div>
+    <div class="topBannerContent_responsive">
+    	<div class="centerDiv">
+        <div class="GiftGuide">
+            <a href="/base?processor=getPage&amp;pageName=gift_guide">View Holiday Gift Guide</a>
+        </div>
+        </div>
 </div>
- End Holiday Banner -->
+</div>
+<!--  End Holiday Banner -->
 <!-- Vacation Banner -->
 <!--   
 <div style="width: 100%; height: 28px; padding-top:10px; background-color:#000; color:#fff; border-bottom: 1px solid #fff;">
@@ -274,10 +306,10 @@ Gemnation's customer service and shipping department will be closed for the holi
 <!-- End of Vacation Banner -->
 <div class="blueHeader">
 	<div class="blueHeader_responsive">
-    	<span class="blueHeaderboldtext">FREE</span> U.S. Shipping&nbsp;&nbsp;•&nbsp;&nbsp;30 Day Returns
+    	<span class="blueHeaderboldtext">FREE</span> U.S. Shipping&nbsp;&nbsp;•&nbsp;&nbsp;<!-- DURING HOLIDAY SEASON --><a href="/base?processor=getPage&amp;pageName=30dayreturns">Extended Returns</a><!-- 30 Day Returns -->
     </div>
     <div class="blueHeader_content">
-    	<div class="fleft"><span class="blueHeaderboldtext">FREE</span> U.S. Shipping&nbsp;&nbsp;<!-- DURING HOLIDAY SEASON&bull;&nbsp;&nbsp;International Shipping Available --><!-- REMOVED FOR HOLIDAY SEASON -->•&nbsp;&nbsp;Complimentary Engraving&nbsp;
+    	<div class="fleft"><span class="blueHeaderboldtext">FREE</span> U.S. Shipping&nbsp;&nbsp;<!-- DURING HOLIDAY SEASON &bull;&nbsp;&nbsp;International Shipping Available  --><!-- REMOVED FOR HOLIDAY SEASON-->•&nbsp;&nbsp;Complimentary Engraving&nbsp;<!-- -->
     	<a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'" class="topIcon">See Details</a><!-- -->
     	</div>
         <div class="fright topRight">
@@ -303,13 +335,24 @@ Gemnation's customer service and shipping department will be closed for the holi
 <!-- POPUPCONTENT -->
 <div class="centeredPopup">
 <div id="light" class="white_content">
-    <strong>Free Engraving</strong>
+    <strong>Complimentary Engraving</strong>
     <br><br>
     Add a free laser engraved message (up to 20 characters) to any watch over $300. 
     Just add your watch to the cart, click on "Engrave" to add your personal message 
     and then add code ENGRAVE during checkout.
-    <br><br><br>
-    
+    <br><br>
+	Complimentary engraving cannot be used on sale items or private offers and cannot be 
+	combined with any other promo code.
+    <br><br>
+    <!-- DURING HOLIDAY SEASON -->
+    <strong>Extended Holiday Returns</strong>
+    <br><br>
+	For the holiday season, Gemnation has extended our 30 day money back guarantee 
+	until after the holidays. <strong>All items ordered between November 23rd and December 16th are 
+	eligible for our extended holiday return policy and can be returned through January 15th.</strong> 
+	Extended holiday returns must comply with our return policy as stated on our  
+    <a href="/base?processor=getPage&amp;pageName=30dayreturns">Returns</a> page.  
+    <!-- DURING HOLIDAY SEASON -->  
     <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'" style="position: absolute; top:10px; right:10px; text-decoration: none;">X</a>
 </div>
 </div>
@@ -375,6 +418,7 @@ Gemnation's customer service and shipping department will be closed for the holi
                             <li><a href="/watches/Carl-F-Bucherer/watches.html">Carl F. Bucherer</a></li>
                             <li><a href="/watches/Cartier/watches.html">Cartier</a></li>
                             <li><a href="/watches/Chanel/watches.html">Chanel</a></li>
+                            <li><a href="/watches/Charriol/watches.html">Charriol</a></li>
                             <li><a href="/watches/Chopard/watches.html">Chopard</a></li>
                             <li><a href="/watches/Christian-Dior/watches.html">Christian Dior</a></li>
                             <li><a href="/watches/Chronoswiss/watches.html">Chronoswiss</a></li>
@@ -466,7 +510,6 @@ Gemnation's customer service and shipping department will be closed for the holi
                             <li><a href="/watches/Paul-Picot/watches.html">Paul Picot</a></li>
                             <li><a href="/watches/Perrelet/watches.html">Perrelet</a></li>
                             <li><a href="/watches/Philip-Stein/watches.html">Philip Stein</a></li>
-                            <li><a href="/watches/Phillipe-Charriol/watches.html">Phillipe Charriol</a></li>
                             <li><a href="/watches/Piaget/watches.html">Piaget</a></li>
                             <li><a href="/watches/Porsche-Design/watches.html">Porsche Design</a></li>
                         </ul>
@@ -566,7 +609,7 @@ Gemnation's customer service and shipping department will be closed for the holi
                 </ul>
             </li>
             <li><a href="/watches/Recent-Additions.html"><span style="color:#000 !important;">New Arrivals</span></a></li>
-			<li><a href="/watches/Gift-Guide.html"><span style="color:#000 !important;">Watch Guide</span></a></li>
+			<li><a href="/watches/Gift-Guide.html"><span style="color:#000 !important;">Gift Guide</span></a></li>
 			<li><a href="/watches/Deal-Of-The-Day.html"><span style="color:#3f76ae !important; font-weight:bold;">Daily Deal</span></a></li>
 			<li><a href="/watches/clearance-watch/watches.html"><span style="color:#ee0808 !important; font-weight:bold;">Clearance</span></a></li>
             
@@ -636,13 +679,16 @@ Gemnation's customer service and shipping department will be closed for the holi
                              <div class="LetterTitle">C</div>
                              <li><a href="/watches/Carl-F-Bucherer/watches.html"><span>Carl F. Bucherer</span></a></li>
                              <li><a href="/watches/Cartier/watches.html"><span>Cartier</span></a></li>
-                             <li><a href="/watches/Chanel/watches.html"><span>Chanel</span></a></li>
-                             <li class="last2"><a href="/watches/Chopard/watches.html"><span>Chopard</span></a></li>
+                             <li class="last2"><a href="/watches/Charriol/watches.html"><span>Charriol</span></a></li>
+                             
+                             
                                                 
                          </div>
                          
                          <div class="megaSub">
-                         	 <li class="start"><a href="/watches/Christian-Dior/watches.html"><span>Christian Dior</span></a></li>
+                         	 <li class="start"><a href="/watches/Chanel/watches.html"><span>Chanel</span></a></li>
+                         	 <li><a href="/watches/Chopard/watches.html"><span>Chopard</span></a></li>
+                         	 <li><a href="/watches/Christian-Dior/watches.html"><span>Christian Dior</span></a></li>
                          	 <li><a href="/watches/Chronoswiss/watches.html"><span>Chronoswiss</span></a></li>
                          	 <li><a href="/watches/Concord/watches.html"><span>Concord</span></a></li>
                              <li><a href="/watches/Corum/watches.html"><span>Corum</span></a></li>
@@ -666,13 +712,13 @@ Gemnation's customer service and shipping department will be closed for the holi
                              <li><a href="/watches/Franck-Muller/watches.html"><span>Franck Muller</span></a></li>
                              <li class="last2"><a href="/watches/Frederique-Constant/watches.html"><span>Frederique Constant</span></a></li>
                              
-                             <div class="LetterTitle">G</div>
-                             <li class="last2"><a href="/watches/Gerald-Genta/watches.html"><span>Gerald Genta</span></a></li>
                              
                          </div>
                          
                          <div class="megaSub">
-                             <li class="start"><a href="/watches/Girard-Perregaux/watches.html"><span>Girard-Perregaux</span></a></li>
+                             <div class="LetterTitle">G</div>
+                             <li><a href="/watches/Gerald-Genta/watches.html"><span>Gerald Genta</span></a></li>
+                             <li><a href="/watches/Girard-Perregaux/watches.html"><span>Girard-Perregaux</span></a></li>
                              <li><a href="/watches/Graff/watches.html"><span>Graff</span></a></li>
                              <li><a href="/watches/Graham/watches.html"><span>Graham</span></a></li>
                              <li><a href="/watches/Greubel-Forsey/watches.html"><span>Greubel Forsey</span></a></li>
@@ -696,13 +742,13 @@ Gemnation's customer service and shipping department will be closed for the holi
                              <li><a href="/watches/Kadloo/watches.html"><span>Kadloo</span></a></li>
                              <li class="last2"><a href="/watches/Kiva/watches.html"><span>Kiva</span></a></li>
                              
-                             <div class="LetterTitle">M</div>
-                             <li><a href="/watches/Maurice-Lacroix/watches.html"><span>Maurice Lacroix</span></a></li>
-                             <li class="last2"><a href="/watches/Michele-Watch/watches.html"><span>Michele Watch</span></a></li>
                              
                          </div>
                          
                          <div class="megaSub">
+                             <div class="LetterTitle">M</div>
+                             <li><a href="/watches/Maurice-Lacroix/watches.html"><span>Maurice Lacroix</span></a></li>
+                             <li><a href="/watches/Michele-Watch/watches.html"><span>Michele Watch</span></a></li>
                         	<li><a href="/watches/Momo-Design/watches.html"><span>Momo Design</span></a></li>
                             <li><a href="/watches/Montblanc/watches.html"><span>Montblanc</span></a></li>
                          	 <li><a href="/watches/H-Moser-Cie/watches.html"><span>Moser</span></a></li>
@@ -717,20 +763,19 @@ Gemnation's customer service and shipping department will be closed for the holi
                              <li><a href="/watches/Paul-Picot/watches.html"><span>Paul Picot</span></a></li>
                              <li><a href="/watches/Perrelet/watches.html"><span>Perrelet</span></a></li>
                              <li><a href="/watches/Philip-Stein/watches.html"><span>Philip Stein</span></a></li>
-                             <li><a href="/watches/Phillipe-Charriol/watches.html"><span>Phillipe Charriol</span></a></li>
                              <li><a href="/watches/Piaget/watches.html"><span>Piaget</span></a></li>
                              <li class="last2"><a href="/watches/Porsche-Design/watches.html"><span>Porsche Design</span></a></li>
                              
                              <div class="LetterTitle">R</div>
                              <li><a href="/watches/Raymond-Weil/watches.html"><span>Raymond Weil</span></a></li>
                              <li><a href="/watches/Revue-Thommen/watches.html"><span>Revue Thommen</span></a></li>
-                             <li><a href="/watches/Richard-Mille/watches.html"><span>Richard Mille</span></a></li>
-                             <li><a href="/watches/Roger-Dubuis/watches.html"><span>Roger Dubuis</span></a></li>
-                             <li class="last2"><a href="/watches/Rolex/watches.html"><span>Rolex</span></a></li>
+                             <li class="last2"><a href="/watches/Richard-Mille/watches.html"><span>Richard Mille</span></a></li>
                              
                          </div>
                          
                          <div class="megaSub">
+                             <li class="start"><a href="/watches/Roger-Dubuis/watches.html"><span>Roger Dubuis</span></a></li>
+                             <li><a href="/watches/Rolex/watches.html"><span>Rolex</span></a></li>
                             <li class="last2"><a href="/watches/Romain-Jerome/watches.html"><span>Romain Jerome</span></a></li>
                               <div class="LetterTitle">S</div>
                              <li><a href="/watches/Seiko/watches.html"><span>Seiko</span></a></li>
@@ -808,7 +853,7 @@ Gemnation's customer service and shipping department will be closed for the holi
 	                  </ul>
 	               </li>
 	               <li><a href="/watches/Recent-Additions.html"><span>New Arrivals</span></a></li>
-	               <li><a href="/watches/Gift-Guide.html"><span>Watch Guide</span></a></li>
+	               <li><a href="/watches/Gift-Guide.html"><span>Gift Guide</span></a></li>
 <!-- 	               <li class='has-sub'><a href='/base?processor=getDPB&productkey=gifts'><span>Accessories</span></a>
 	                  <ul style="width: 120px;">
 	                     <li><a href='/Gifts-Accessories/Category-Cuff-Links/products.html'><span>Cuff Links</span></a></li>
@@ -841,6 +886,12 @@ Gemnation's customer service and shipping department will be closed for the holi
 
 <script type="text/javascript" src="https://www.wishpond.com/wp_script/327588.js" defer=""></script>
 
+<script type="text/javascript">
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+	 Wishpond.Popup.pause(739160)
+	}
+
+</script>
 
 <div class="clear"></div>
 
@@ -1108,6 +1159,7 @@ Gemnation's customer service and shipping department will be closed for the holi
 
 <!-- Footer -->
 
+
 <div class="footer_logos" style="margin-top:-1px;">
     <div class="footer_logos_content">
     	<a title="Gem Nation Corporation BBB Business Review" href="javascript:void window.open('http://www.bbb.org/new-york-city/business-reviews/watches-dealers/gem-nation-corporation-in-brooklyn-ny-80384/#bbbonlineclick', 'BBB Business Review', 'width=760,height=900')"><img alt="Gem Nation Corporation BBB Business Review" src="http://seal-newyork.bbb.org/seals/blue-seal-200-42-gem-nation-corporation-80384.png" class="padBBB fleft"></a>
@@ -1266,6 +1318,35 @@ window.onload = function(){
    if(oldonload){oldonload()}}; 
 }()); 
 </script> 
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_tag_params = {
+ecomm_pagetype: 'other',
+
+};
+var google_conversion_id = 995637349;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995637349/?value=0&amp;guid=ON&amp;script=0&amp;data=ecomm_pagetype%3Dother%3B"/>
+</div>
+</noscript>
+<!-- END Google Remarketing Tag -->
+
+<!--BEGIN: Bing Ads UET Javascript tag.-->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5437999"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5437999&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<!--END: Bing Ads UET Javascript tag.-->
+
 
 <!-- </div>Snowflakes -->
 
