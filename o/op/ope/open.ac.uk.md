@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627023512id_/http%3A//www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227003409id_/http%3A//www.open.ac.uk/about/main/management/policies-and-statements/website-privacy-ou) for the most accurate reproduction.*
 
 # Website privacy at the OU - About the OU - Open University
 
@@ -33,15 +33,6 @@ For more information on how we handle and use personal information about our stu
 
 [Data Protection policy](http://www8.open.ac.uk/students/essential-documents/files/essential-docs-pl/file/ecms/web-content/data-protection.pdf) (pdf)
 
-## SocialLearn
-
-SocialLearn is the latest evolution of online learning from The Open University, providing an effectual learning space that gives you control of what and how you learn, and with whom, by harnessing the power of the web and the energy of social networking. There is also a research aspect to SocialLearn and as such the following clauses related to SocialLearn users:
-
-  * The Open University supports the development of SocialLearn. Use of and contributions to SocialLearn are monitored, evaluated and reported for this and associated work. The associated research programme currently deals with the practice of producing a social learning resource and with how people can learn within online social networks.
-  * We use third-party analytics on SocialLearn. These capture information about the use of SocialLearn. The team operating SocialLearn will use this data to help us monitor and improve SocialLearn.
-
-
-
 ## Freedom of Information Act Publication Scheme
 
 Use the link below to find a guide to the University’s publication scheme which consists of nine groups of classes of information. Each class contains descriptions of the information available and the links to it. The site also contains information about the FoI Act and its implementation.
@@ -59,6 +50,16 @@ If you prefer not to receive cookies while browsing our website, you can set you
 If you are a registered user of the University and wish to sign in to password protected websites you will need to allow “per-session” cookies. These are only stored on your computer for the duration of your visit and are deleted when you close your browser or sign out of The Open University website.
 
 For more detailed information see [Cookie use on the OU website](http://www8.open.ac.uk/about/main/admin-and-governance/policies-and-statements/cookie-use-the-ou-website).
+
+## Cookies we use for internet and application advertising purposes
+
+On Open University owned and operated sites as well as unaffiliated sites and internet based applications, we might display interest-based advertising using information you make available to us when you interact with our sites, content, or services. Interest-based ads, also sometimes referred to as personalised or targeted ads, are displayed to you based on information from activities such as completing a web-form on our sites, use of apps or software, or by visiting unaffiliated sites that contain Open University content or ads.
+
+Like other online advertisers, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, "cookies"). Cookies enable us to learn about what content and ads you interact with. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly.
+
+Third party applications may also use cookies to measure the effectiveness of their advertisements and to personalise content. We do not have access to or control over cookies or other features that those applications and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Privacy Notice or our [Cookies information page](http://www.open.ac.uk/about/main/management/policies-and-statements/cookie-use-ou-website/cookies-you-may-see-if-you-browse-our-site). Please contact them directly for more information about their privacy practices.
+
+We do not associate your interaction with unaffiliated or third party sites/applications with your identity in providing you with interest-based ads.
 
 ## Security
 
