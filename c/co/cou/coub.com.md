@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coub.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625005551id_/http%3A//coub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coub.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226222704id_/http%3A//coub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -106,6 +106,8 @@ The technologies we use for this automatic data collection may include:
 
   3. Address and/or platform specific identifiers: Apple®’s Advertiser ID (IDFA) 
 
+  4. Google Analytics (GA)
+
 
 
 * ### How We Use Your Information.
@@ -172,6 +174,10 @@ Your mobile device may have certain settings that relate to the Applications Pr
   2. Promotional Announcements from the Company.
 
 If you do not wish to have your contact information used by the Company for our own promotional announcements or events, you can opt-out by sending us an e-mail stating your request to [support@coub.com](mailto:support@coub.com). If we have sent you a promotional or event advisory e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+
+  3. We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://aboutads.info/) or Networking Advertising Initiative at [www.networkadvertising.org/choices](http://networkadvertising.org/choices).
+
+  4. California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an e-mail to [support@coub.com](mailto:support@coub.com) and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response.
 
 
 
