@@ -1,133 +1,199 @@
-<!--The following is the downloaded HTML source of the whosdatedwho.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627022441id_/http%3A//members.whosdatedwho.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whosdatedwho.com privacy policy that was archived on 2016-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226230205id_/http%3A//www.whosdatedwho.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<title>Privacy Policy</title>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="robots" content="noindex, nofollow">
-<link rel="canonical" href="http://www.whosdatedwho.com/privacy">
-<meta name="title" content="Privacy Policy">
-<meta name="description" content="Privacy Policy">
-<meta name="keywords" content="Privacy Policy">
-<link rel="shortcut icon" href="http://static.whosdatedwho.com/img/wdw/favicon.ico">
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="/privacy">
-<meta property="og:site_name" content="Who's Dated Who?">
-<meta property="fb:app_id" content="136043229790810">
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
-<link rel="stylesheet" href="http://pts2.whosdatedwho.com/static/css/?v=72&amp;f=$s/css/ff.global.css,ff.comment.css,ff.table.css,ff.list.css,ff.header.css,ff.footer.css,ff.masonry.css,ff/ff.sub.global.css,ff/ff.sub.header.css,/static/icons/css/ff-icon-set.css,/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">if (window.self != window.top){top.location.replace(window.location.pathname);}</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://pts2.whosdatedwho.com/static/js/?v=72&amp;f=$s/js/ff.global.js,ff.all.js,ff.trx3.js"></script>
-<script type="text/javascript">
-var currentUser = new User('0');
-</script>
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2"><head>
+			<meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=1060, initial-scale=0.7547169811320755, user-scalable=no"><title>Privacy Policy</title><meta charset="UTF-8"><meta name="title" content="Privacy Policy"><meta name="description" content=""><meta name="keywords" content="privacy policy"><link rel="shortcut icon" href="http://static.whosdatedwho.com/img/wdw/favicon.ico"><meta property="og:url" content="http://whosdatedwho.com"><meta property="og:site_name" content="Who's Dated Who?"><meta property="fb:app_id" content="589859177821389">		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="http://pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&amp;_c=A|2&amp;t=1482206330" rel="stylesheet">
+	
+	
+					
+			<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", 'http://fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
 </head>
-<body>
-<!--74A17--><!--Ad1_ok1_m0-->
-					
-<header id="header2">
-	<div class="nobanr">
-		<div id="ff3">
-			<div id="site-nav">			
-				
-					<div class="posl" style="width:60px;">
-												
-							<div style="position:relative;">
-								<div style="position:absolute; top:0px; left:5px;">
-									<a href="http://www.whosdatedwho.com"><img alt="WDW" width="47" height="40" src="http://static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>					
-								</div>
-								&nbsp;
-							</div>
-						
-					</div>					
+	
+<body id="ff-page-page">
 
-					<div class="posl" style="padding-top:2px;">
-						<form id="liveform" action="http://members.famousfix.com/include/actions/add_search.asp" method="post">			
-							
-							<input id="livetxt" class="sqry noselsearch" name="q" type="text" value="" onpaste="pasteSubmit(this.form, this);" placeholder="Search for ..." autocomplete="off" onclick="this.select();">								
-							<input type="hidden" id="sTBL" value="4">
-							<input type="hidden" id="sTBT" value="54">
-							<input type="hidden" name="SID" value="3">
-							<input type="hidden" name="u" value="/privacy">
-							<input type="hidden" name="d" value="d">
-							
-							
-																	
-							<div class="sbtn sbtnwdw posl">
-								<span class="sbtnb"></span>
-								<input type="submit" class="sbtni" value="Go">																		
-							</div>	
-						</form>				
-					</div>				
+<div data-ffw="online" data-ff-user="9194794944c20d8986b7543cae3303ad"></div>
 				
-				
-				<div class="posr icor">	
+		
 														
-					
-						<div class="posl" style="padding-top:2px; font-size:12px; padding-right:10px;">
-							<form name="loginNav" method="post" action="http://members.whosdatedwho.com/members/login">
-								<a class="sbtnwdw navlogin " title="Login to FamousFix" rel="nofollow" onclick="document.loginNav.submit();">Login</a>
-								<input type="hidden" name="r" value="/privacy">
-								<input type="hidden" name="loginNavlink" value="Y">
-							</form>
-							<!--&middot;
-							<a class="sbtnwdw navlogin" title="Join FamousFix" rel="nofollow" href="http://members.famousfix.com/members/join">Create Account</a>-->
-						</div>					
-																						
-				</div>		
+				
+										
+						
+				
+
+
+
+		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="fullwidth">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="http://static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input="" data-ff-hide-views="" data-ff-url-redirect="" data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit="" data-ff-size-medium="" data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows="1"></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social="" data-ffw="user" data-ff-success-url="http://members.whosdatedwho.com#/">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
 			</div>
 		</div>
 	</div>
+
+		
 	
-</header>
-<div id="global-nonav"></div><div id="ad970x250p40"><script type="text/javascript">
-<!--
-	e9 = new Object();
-    e9.size = "728x90,970x250";
-//-->
-</script>
-
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js">
-</script></div>
-
-	<!-- begin content -->
-	<div id="wrap-body">
-		<div id="wrap-content-a">
-			<div id="wrap-content-b">
-				<!-- begin left column -->
-				<div id="lcol" class="posl whitebg">            		
-					
-					
-					<!-- left content -->
-					<div class="left-content">
-						<div class="featurebox-shadow"></div>
-						<!-- begin subcontent -->
-						<div class="contentbox-l">
-
-								<!-- begin main column -->
-								<!--<div class="w470 posl">-->
-								<div class="w640 posl">
-									<div class="cbox">
-										<div class="cbody">
-											<h1 class="posl pb6">Privacy Policy</h1>
-											
-											<br class="cf">		
-
-											<div align="justify" class="paratext font14">
-
-<h2 class="padb10 padt10">1. General</h2>
-
-<p>Lucy Media Pty Ltd ("Lucy Media") welcomes you. This
+	<div class="ff-cont-wrapper" data-ff-id="ff-main-content-area">
+				<div data-ff-layout-block="" class="row ff-cont-full ff-droplist" data-ff-name="main">		<fieldset data-ff-trx="eb" data-ff-id="post.staticPage" class="ff-dropitem block-post-staticPage" data-ff-name="post.staticPage"><div class="ff-block-content " id="ff-5f1eb3626f629e43d56d468c81006afe"><div class="ff-block-header" style="margin-bottom:1rem;"><h1>Privacy Policy</h1></div><div class="ff-panel"><p></p><div align="justify" class="paratext font14"><h2 class="pb10 pt10">1. General</h2><p>Lucy Media welcomes you. This
 Privacy Policy applies to web sites and interactive services owned or operated
 by Lucy Media and its subsidiaries which include, but are not limited to,
 FamousFix.com, WhosDatedWho.com, FanPix.net, AllStarPics.net, LucyWho.com, LucyLooks.com, LucyMe.com,
 BDBPhotos.com, LucyPhotos.com and TheBaseballWebsite.com (individually the
-"Service"; together the "Services").</p>
-
-<p>Lucy Media is committed to protecting your privacy when you visit
+"Service"; together the "Services").</p><p>Lucy Media is committed to protecting your privacy when you visit
 or use the Services as further outlined in this policy. As a condition of using
 the Services, you agree to provide Lucy Media with certain personal
 information. This information includes, but not limited to: your email address
@@ -139,11 +205,7 @@ use the Services, or provide us with information, you are accepting the
 practices described in this privacy policy at that time. You agree that by
 using the Services you are expressly and affirmatively consenting to our use
 and disclosure of the information that you provide, and consenting to receive
-emails, as described below in this privacy policy.</p>
-
-<h2 class="padb10 padt10">2. Changes to Privacy Policy</h2>
-
-<p>This policy may be revised over time as new features are
+emails, as described below in this privacy policy.</p><h2 class="pb10 pt10">2. Changes to Privacy Policy</h2><p>This policy may be revised over time as new features are
 added to the Services or as we incorporate suggestions from our users. If we
 are going to use or disclose your personally identifiable information in a
 manner materially different from that stated at the time we collected the
@@ -151,47 +213,27 @@ information, you will have a choice as to whether or not we use or disclose
 your information in this new manner. We will also post a notification that the
 Privacy Policy has been amended prominently on the Services so that you can
 always review what information we gather, how we might use that information,
-and under which conditions we will disclose it to anyone.</p>
-
-<h2 class="padb10 padt10">3. How Your Information is Used</h2>
-
-<h3 class="padb10 padt10 bold">Contacting You for Offers and Promotions:</h3>
-
-<p>You agree, in consideration for the use of the Services
+and under which conditions we will disclose it to anyone.</p><h2 class="pb10 pt10">3. How Your Information is Used</h2><h3 class="pb10 pt10 bold">Contacting You for Offers and Promotions:</h3><p>You agree, in consideration for the use of the Services
 provided by Lucy Media, to allow Lucy Media to use your personal information to
 send you marketing and promotional materials. Lucy Media may also send you
 marketing and promotional materials that promote third party products. Lucy
 Media will not rent or sell your personal information for use by third parties.
 These materials may include, but are not limited to: newsletters providing you
 with additional information on how to use the Services, and promotional offers
-for goods and services from Lucy Media or third parties.</p>
-
-<h3 class="padb10 padt10 bold">Use of Demographic Information:</h3>
-
-<p>Lucy Media may use your demographic information to perform
+for goods and services from Lucy Media or third parties.</p><h3 class="pb10 pt10 bold">Use of Demographic Information:</h3><p>Lucy Media may use your demographic information to perform
 business analyses or to tailor the Services and communications to your
 interests. We may share anonymous, aggregated demographic information with
 advertisers and other third parties so that they can tailor their
 advertisements and communications to the appropriate audience. Any time that we
 are allowed under this privacy policy to share your contact information,
-we may also share your demographic information along with it.</p>
-
-<h2 class="padb10 padt10">4. Disclosure to Governmental
-Entities</h2>
-
-<p>Lucy Media may disclose specific contact information when we
+we may also share your demographic information along with it.</p><h2 class="pb10 pt10">4. Disclosure to Governmental
+Entities</h2><p>Lucy Media may disclose specific contact information when we
 determine that such disclosure is necessary to comply with law, to cooperate
 with or seek assistance from law enforcement or to protect the interests or
 safety of Lucy Media or other visitors or users of the Services. Also, your
 contact information may be passed on to a third party in the event of a merger,
-acquisition, consolidation, divestiture, or a bankruptcy of Lucy Media.</p>
-
-<h2 class="padb10 padt10">5. Use of Cookies and Other
-Site Tracking Data</h2>
-
-<h3 class="padb10 padt10 bold">Cookies:</h3>
-
-<p>A "cookie" is a small file that we save on your
+acquisition, consolidation, divestiture, or a bankruptcy of Lucy Media.</p><h2 class="pb10 pt10">5. Use of Cookies and Other
+Site Tracking Data</h2><h3 class="pb10 pt10 bold">Cookies:</h3><p>A "cookie" is a small file that we save on your
 computer's hard drive that contains non-personal information. These cookies
 help to give you faster access to pages you have already visited. They also
 allow you to personalize your pages, and optimize your experience at our sites.
@@ -201,21 +243,13 @@ information helps us figure out which of our web features are highly successful
 and which sites might need improvement. You can disable cookies on your
 computer by indicating this in the preferences or options menus in your
 browser. Most browsers accept cookies automatically, but allow you to disable
-them. Disabling cookies may prevent you from properly using or accessing the Services.</p>
-
-<h3 class="padb10 padt10 bold">Session IDs:</h3>
-
-<p>"Session IDs" allow us to identify a particular
+them. Disabling cookies may prevent you from properly using or accessing the Services.</p><h3 class="pb10 pt10 bold">Session IDs:</h3><p>"Session IDs" allow us to identify a particular
 user across multiple web page requests. This Session ID is maintained within
 your cookie file, where possible. If cookies are not enabled, or if The user's internet browser program does not support cookies
 then Lucy Media will place the Session ID in the requested web page. This
 allows the end user to avoid having to continually re-enter Certain
 information such as account name and password for every web page request. This
-Session ID expires whenever the user closes their internet browser.</p>
-
-<h3 class="padb10 padt10 bold">Web Site Tracking, Reporting:</h3>
-
-<p>Many of our web pages also contain special electronic images
+Session ID expires whenever the user closes their internet browser.</p><h3 class="pb10 pt10 bold">Web Site Tracking, Reporting:</h3><p>Many of our web pages also contain special electronic images
 (called a "single-pixel gif" or "gifs") that allow us to
 gather only non-personally identifiable traffic statistics and other aggregate
 information about visitors to our sites. Lucy Media (through itself or third
@@ -229,11 +263,7 @@ or off), and search engine keywords (what key words did a visitor use to get to
 the Services). We also record number of visits, paths taken, and time spent on
 sites and pages within the Services. Please keep in mind that none of this
 information is personally identifiable and that we only distribute this
-information to internal staff at Lucy Media</p>
-
-<h3 class="padb10 padt10 bold">Banner Ads:</h3>
-
-<p>The Services may include the use of ad banner partners for
+information to internal staff at Lucy Media</p><h3 class="pb10 pt10 bold">Banner Ads:</h3><p>The Services may include the use of ad banner partners for
 the serving and/or targeting of ads, promotions, and other marketing messages.
 These ads may be provided, in some cases, by a third party ad service provider.
 The ad service provider may place or utilize their own unique cookie on your
@@ -241,28 +271,16 @@ browser, and may use non-personally identifiable information about your visit
 to our sites, such as the number of times you have viewed the ad. Lucy Media is
 not responsible for the collection of these cookies and is not responsible for
 the actions of the ad service providers. Lucy Media does not sponsor, endorse
-or guarantee any products or services advertised by third parties on the Services.</p>
-
-<p>These companies may use information (not including your
+or guarantee any products or services advertised by third parties on the Services.</p><p>These companies may use information (not including your
 name, address, email address or telephone number) about your visits to this and
 other web sites in order to provide advertisements about goods and services of
 interest to you. If you would like more information about this practice and to
 know your choices about not having this information used by these companies,
-click here:</p>
-
-<p><a class="blue" rel="nofollow" target="_blank" href="http://networkadvertising.org/consumer/opt_out.asp">http://networkadvertising.org/consumer/opt_out.asp</a></p>
-
-<h3 class="padb10 padt10 bold">Direct Linking URLs or Hotlinking:</h3>
-
-<p>In order to provide more relevant advertising and monitor
+click here:</p><p><a class="blue" rel="nofollow" target="_blank" href="http://networkadvertising.org/consumer/opt_out.asp">http://networkadvertising.org/consumer/opt_out.asp</a></p><h3 class="pb10 pt10 bold">Direct Linking URLs or Hotlinking:</h3><p>In order to provide more relevant advertising and monitor
 user bandwidth usage (as governed by the Lucy Media Terms of Service), Lucy
 Media may gather data from the referer logs that
 identify where and how frequently user images being hosted by Lucy Media are
-being displayed on third party sites.</p>
-
-<h2 class="padb10 padt10">6. Information from Other Sites</h2>
-
-<p>Lucy Media may place links to other web sites operated by
+being displayed on third party sites.</p><h2 class="pb10 pt10">6. Information from Other Sites</h2><p>Lucy Media may place links to other web sites operated by
 other parties and from time to time may include information and links to third
 party web sites in our promotional email. Some of these other web sites contain
 our brand names and trademarks and other intellectual property that we own;
@@ -274,18 +292,10 @@ policy does not apply to these other web sites. Consequently, the operators of
 these other web sites may collect different kinds of information about you, and
 may use and disclose that information in different ways than we would if it
 were collected on the Services. We encourage you to review their privacy
-policies and remind you that we will not be responsible for their actions.</p>
-
-<h2 class="padb10 padt10">7. Non-US Users</h2>
-
-<p>If you are not a resident of the United States, you
+policies and remind you that we will not be responsible for their actions.</p><h2 class="pb10 pt10">7. Non-US Users</h2><p>If you are not a resident of the United States, you
 understand and agree that Lucy Media stores and processes your information on
 computers located in the United States, and by providing any data to Lucy Media,
-you consent to the transfer of such information to the United States.</p>
-
-<h2 class="padb10 padt10">8. Security Precautions</h2>
-
-<p>Lucy Media has security measures in place to help protect
+you consent to the transfer of such information to the United States.</p><h2 class="pb10 pt10">8. Security Precautions</h2><p>Lucy Media has security measures in place to help protect
 against the loss, misuse and alteration of the information under our control. Your
 information may be transferred to and maintained in whole or in part on
 computer networks which may be located outside of the state, province, country
@@ -305,248 +315,169 @@ Services will see it. If you submit such information for display in public
 areas, Lucy Media cannot prevent it from being used in a manner that violates
 the law, your personal privacy or your safety. By submitting such information
 for display in public areas, you assume the risks and sole liability arising as
-a result of such information being displayed.</p>
-
-</div>
-										</div>
-									</div>
-								</div>
-								<!-- end main column -->							
-
-						</div>
-						<!-- end subcontent -->
-					</div>
-					<!-- end content -->
-
-				</div>
-				<!-- end left column -->
-								   
-				<!-- begin right column -->                           
-<div id="rcol" class="posr">		
-	
-	<!-- begin vertical adspace -->
-	<div class="adspace" style="min-height:630px;">     	
-					
-		<div id="ad300x250p12"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-4356445222935173";
-/* 300x250 Right New */
-google_ad_slot = "3956024950";
-google_ad_width = 300;
-google_ad_height = 250;
-google_ad_region = "anyname"
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>					
-		
-		<div class="cbox">
-			<h3 class="chead">Top Contributors Today</h3>			
-			<div class="cbody">
-				<ul class="gy"><li style="width:55px;"><a title="halfgoofy" href="http://members.famousfix.com/member/halfgoofy"><span class="img50x50"><img class="limg" alt="halfgoofy" src="http://img4.bdbphotos.com/images/50x50/o/u/ougm1yuins6uygiu.jpg?skj2io4l" width="50" height="50"></span></a></li><li style="width:55px;"><a title="angel_angel" href="http://members.famousfix.com/member/angel-angel"><span class="img50x50"><img class="limg" alt="angel_angel" src="http://img4.bdbphotos.com/images/50x50/d/d/ddj4fwgj0c3zwjjd.jpg?skj2io4l" width="50" height="50"></span></a></li><li style="width:55px;"><a title="mandia27" href="http://members.famousfix.com/member/mandia27"><span class="img50x50"><img class="limg" alt="mandia27" src="http://img4.bdbphotos.com/images/50x50/d/p/dp20l1obnxi3blx0.jpg?skj2io4l" width="50" height="50"></span></a></li><li style="width:55px;"><a title="wdweditorial" href="http://members.famousfix.com/member/wdweditorial"><span class="img50x50"><img class="limg" alt="wdweditorial" src="http://img4.bdbphotos.com/images/50x50/f/3/f3epsytf3rjurtuy.jpg?skj2io4l" width="50" height="50"></span></a></li><li style="width:55px;"><a title="Phoebe" href="http://members.famousfix.com/member/phoebe"><span class="img50x50"><img class="limg" alt="Phoebe" src="http://img4.bdbphotos.com/images/50x50/d/9/d9gwbk3z0fh3zbfw.jpg?skj2io4l" width="50" height="50"></span></a></li></ul>
-<br class="cf">
-				<div class="pt6 font12"><a class="blue" href="http://members.famousfix.com/members/join">Register Here</a> to contribute to FamousFix. <a class="blue" href="http://members.whosdatedwho.com/members/login">Login</a> »</div>
+a result of such information being displayed.</p></div><p></p></div></div></fieldset>	</div>	
 			</div>
-		</div>
-								
-		<div id="ad300x250p2"><script type="text/javascript"><!--
-	e9 = new Object();
-    e9.size = "300x250,300x600";
-//--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div>
-				
-	</div>
-	<!-- end vertical adspace -->
-
-	<div class="right-content">	 		
-			
-	<div class="cbox">
-		<div class="cbody">
-			<!-- begin join now contentbox-r-->
-<div style="max-width:300px;">
 	
-	  <h3 class="pb6">Join Now</h3>
-	                                                        
-		  <p><a class="blue linkline" href="http://members.famousfix.com/members/join">Register</a> to update information, save favorites, post photos, news stories and comments.</p>
-	  
-	  <h3 style="padding-top:15px; padding-bottom:8px;">Already A Member?</h3>
-	
-	<form method="post" action="http://members.whosdatedwho.com/members/login" name="loginForm">
-	<div class="fieldname posl">Email</div>
-	<div class="posr" style="width:200px; height:auto; overflow:visible; display:block;">
-		   <input name="email" class="inp inp-w200" size="20">
-	</div>
-	<br class="cf">
-	<br>
-	<div style="padding-bottom:8px;">
-		   <div class="fieldname posl">Password</div>
-		   <div class="posr" style="width:200px; height:auto; overflow:visible; display:block;">
-					<div class="posl" style="width:140px;">
-							 <input class="inp inp-w140" name="password" type="password" size="20">
-					</div>
-					<div class="posr" style="width:55px;">
-							 <input name="action" class="btn" style="width:54px;" type="submit" value="Login">
-					</div>
-		   </div>
-		   <br class="cf">
-		   <br>
-	</div>
-	
-	<input type="hidden" name="r" value="/privacy">
-	</form>
-	<span class="posr"><a class="grey font11" href="http://members.famousfix.com/members/password">Forgot Password?</a></span>
-	<br class="cf">
-</div>
-<!-- end join now -->
-		</div>
-	</div>
-
-			<!--INCLUDE VIRTUAL="/include/frames/right/inc_wdw_right_topic_links.asp"-->
-		 				
-	</div>		
-</div>
-<!-- end right column -->
-
-				<br class="cf">
-			</div>
-		</div>
-	</div>
-	<!-- end content -->
-
-	
-	<!-- begin ad footer -->
-	<div id="wrap-footer">
-		<div style="padding-bottom:10px;"> 
-			<div class="txtc">							
-				<div id="ad728x90p8"><script type="text/javascript"><!--
-google_ad_client = "pub-4356445222935173";
-/* 728x90, created 27/06/11 */
-google_ad_slot = "7118518163";
-google_ad_width = 728;
-google_ad_height = 90;
-google_ad_region = "anyname"
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>		
-			</div>		
-		</div>
-	</div>
-	<!-- end ad footer -->
-
-
-<!--INCLUDE VIRTUAL="/include/frames/footer/inc_wdw_bottom_netbox.asp"-->
-
-
-<!-- begin network footer -->
-<div id="wrap-netfooter">
-	<div id="netfooter" class="grey">	
-		<div class="posl" style="width:15%; min-width:170px;">
-			<form name="mswitch" method="post" action="">
-Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submit(); return false;">Mobile</a>
-<input type="hidden" name="device2">
-</form>			
-		</div>
-		<div class="font11 posl" style="width:50%;">								
-			This website is part of the <a href="http://www.whosdatedwho.com">FamousFix</a> entertainment community.
-			By continuing past this page, and by your continued use of this site, you agree to be bound by and abide by the <a rel="nofollow" href="http://members.whosdatedwho.com/terms">Terms of Use</a>.
-			Loaded in 0.02 secs.
-		</div>		
-		<div class="font11 posr">				
-			<a rel="nofollow" href="http://members.whosdatedwho.com/terms">Terms of Use</a> &nbsp;|&nbsp; 
-			<a rel="nofollow" href="http://members.whosdatedwho.com/copyright">Copyright</a> &nbsp;|&nbsp; 
-			<a rel="nofollow" href="http://members.whosdatedwho.com/privacy">Privacy</a>					
-			<div>Copyright 2006-2016, FamousFix</div>							
-		</div>
-		<br class="cf">
-	</div>
-</div>
-<!-- end network footer -->  
-<script type="text/javascript">
-	//DOMAINS
-	var this_dom = 'http://' + document.domain;
-	var root_dom = this_dom.replace(/http:\/\/.+?\./, '');
-	var ajaxDomain = 'http://members.' + root_dom;
-
-	$(document).ready(function() {
-	
-		
-			
-		//view more
-		$('.vmore').click(function() {
-		
-			var moretext = "Show more &#8659;";
-			var lesstext = "Show less &#8657;";
-	
-			$(this).prev('div').slideToggle();
-								
-			if($(this).hasClass("vless")) {
-				$(this).removeClass("vless");
-				$(this).html(moretext);
-			} else {
-				$(this).addClass("vless");
-				$(this).html(lesstext);
-			}
-		
-		});		
-
-		monkeyPatchAutocomplete();		
-		
-		$("#livetxt").autocomplete(
-			{
-			source:ajaxDomain+'/include/process/process_live_search_json.asp'+'?TBL='+$("#sTBL").val()+'&TBT='+$("#sTBT").val(),
-			minLength:1,
-			//autoFocus: true,
-			delay: 0,			
-			select: function(event, ui) {			
-				$("#livetxt").val(ui.item.label);										
-				$("#liveform").submit();			
-				return false;
-			}
+				<div style="margin-top:2rem;">
 							
-		});	
+		
+														
+																																																																									
+																	
+								<div style="margin-top:20px; margin-bottom:20px; height:90px;"><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
 						
-		$('body').on('click', 'li.cli',
-			function(e) {
-				if ($(e.target).is(':not(a)')) {
-					window.location=$(this).find("a").attr("href");
-					return false;
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.038</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal=""></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="http://pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,/static/www/js/ff.trx3.js&amp;_c=A|2&amp;t=1482206330" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
 				}
 			}
-		);
-				
-	});	
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
 </script>
 
 
-	<script type="text/javascript">
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-307493-9']);
-	  _gaq.push(['_setDomainName', 'whosdatedwho.com']);
-	  _gaq.push(['_trackPageview']);
 
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
 
-	</script>                       
+<script type="text/javascript" src="http://pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&amp;_c=A|2&amp;t=1482206330" crossorigin="anonymous"></script>
 
+
+
+<script>
+</script>
+
+	
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
 	<!-- Start Quantcast tag -->
-	<script type="text/javascript">
-	_qoptions={
-	qacct:"p-903bQOpJXvFzg"
-	};
-	</script>
-	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-	<noscript>
-	<img src="http://pixel.quantserve.com/pixel/p-903bQOpJXvFzg.gif" style="display: none;" height="1" width="1" alt="Quantcast"/></noscript>
-	<!-- End Quantcast tag -->	
+<script type="text/javascript">
+_qoptions={
+qacct:"p-903bQOpJXvFzg"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-903bQOpJXvFzg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
 
-	<script type="text/javascript">	
-		__trx.agent(['2','19362286','53','1','privacy','','3','%2Fprivacy','40:213,12:140,2:84,8:64','0']);		
-	</script>  
 <form><input class="data-ff-sss" type="hidden"></form>
-<script type="text/javascript" src="http://pts2.whosdatedwho.com/static/js/?v=72&amp;f=/static/jquery/js/jquery.caret.js,jquery.atwho.js,jquery.md5.js,jquery.cookie.js,jquery.fireworks.js,/js"></script>
+
+
+
+
+
+
 </body></html>
