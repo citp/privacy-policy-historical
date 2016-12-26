@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429080330id_/http%3A//www.myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226061657id_/http%3A//www.myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
 
 # MyFoodDiary Privacy Policy
 
@@ -123,7 +123,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have any questions or suggestions regarding our privacy policy, please contact us at: [https://www.myfooddiary.com/Support](https://web.archive.org/support).
 
 **MyFoodDiary**  
-1600 Harmony Hall Rd.  
-Lexington, KY 40502 
+110 East 3rd Street  
+Lexington, KY 40508 
 
-Last Updated on October 3, 2013
+Last Updated on June 8, 2016
