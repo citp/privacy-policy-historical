@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617082211id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226145219id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
 # GoGuides - Privacy Policy
 
-GoGuides, Inc. respects and protects your privacy, when you are using our free GoGuides Search and Directory. Information that may specifically identify you as an individual is never collected nor shared with third parties.
+GoGuides, LLC. respects and protects your privacy, when you are using our free GoGuides Search and Directory. Information that may specifically identify you as an individual is never collected nor shared with third parties.
 
 GoGuides and Cookies
 
