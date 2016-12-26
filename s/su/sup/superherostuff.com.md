@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superherostuff.com privacy policy that was archived on 2016-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160203234136id_/https%3A//www.superherostuff.com/safeshoppingguarantee.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superherostuff.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226110329id_/https%3A//www.superherostuff.com/safeshoppingguarantee.html) for the most accurate reproduction.*
 
 # Safe and Secure Shopping Guarantee
 
@@ -34,7 +34,7 @@ Cookies allow us to provide storage of items in your Shopping Cart between visit
 
 ## Third Party Use of Cookies
 
-Third party vendors, including Google, use cookies to serve the Google Trusted Badge on our website and to serve ads based on a user's prior visits to your website. You may opt out of Google's use of cookies to serve ads based on your prior visits to our website by visiting the Google advertising opt-out page.
+Third party vendors, including Google, use cookies to serve the Google Trusted Badge on our website and to serve ads based on a user's prior visits to your website. You may opt out of Google's use of cookies to serve ads based on your prior visits to our website by visiting the Google advertising opt-out page. Our system takes advantage of advanced Display Advertisting and eCommerce features to provide you with the best shopping experience possible. To opt-out of these features visit: https://tools.google.com/dlpage/gaoptout/
 
 ## Emails
 
