@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2016-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160515050818id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shockwave.com privacy policy that was archived on 2016-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226171205id_/http%3A//www.shockwave.com/about/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/LocalBusiness"><head prefix="og: http://ogp.me/ns# shockwavegames: http://ogp.me/ns/apps/shockwavegames#">
 		<title>
@@ -57,6 +57,7 @@
 	var gameArchiveValue = "";
 	var gameKeyword = "";
 	var gameTitle = "";
+	var gameGenre = "";
 	var isLiveEnvironment = "prod";
 
 	SW.envConfig = {
@@ -69,27 +70,26 @@
 		gameArchiveValue : gameArchiveValue,
 		gameKeyword : gameKeyword,
 		gameTitle : gameTitle,
+		gameGenre : gameGenre,
 		isLiveEnvironment : isLiveEnvironment
 	};
 </script>
 		
 		<script type="text/javaScript">
-    var dartGenre = 'hidden_objects';
-    var dartCategory = 'hidden_objects';
-    var dartKeyword = 'dreamscapes-sandman';
+    var dartGenre = 'wordgames';
+    var dartCategory = 'wordgames';
+    var dartKeyword = 'wordroundupfrenzy';
 </script>
 <script type="text/javaScript">
     SW.adSettings = {};
     SW.adSettings.DoubleClickDartSite = 'sw.nol';
     SW.adSettings.DoubleClickPositionThreshold = '1';
-    SW.adSettings.DoubleClickSections='hidden_objects/dreamscapes-sandman';
-    SW.adSettings.DoubleClickKeyValues = '!category=hidden_objects;!category=pop;!category=float;!category=expand;';
+    SW.adSettings.DoubleClickSections='wordgames/wordroundupfrenzy';
+    SW.adSettings.DoubleClickKeyValues = '!category=wordgames;!category=pop;!category=float;!category=expand;';
     SW.adSettings.DoubleClickAutoDcopt=true;
 </script>
 
 
-
-
 		
 		
 			
@@ -103,6 +103,7 @@
 				
 			
 		
+
 		<meta name="keywords" content="play games, free online games, free downloadable games">
 		<meta name="description" content="Play Games - Free Online Games, Free Downloadable Games from Shockwave.com">
 
@@ -262,6 +263,8 @@
 
     
     
+    
+    
         
     
 
@@ -304,16 +307,17 @@
     }, SW.globals.GTM_TIMEOUT);
 
     
-    // define the leaderboard slot
+    // Setup Ads
     googletag.cmd.push(function() {
     	
+    	  
+    	  
+    	    googletag.defineSlot('/4678/shockwave_web/ros', [[300, 250]], 'ad300x250').addService(googletag.companionAds()).addService(googletag.pubads());
+    	  
     	
-           googletag.defineSlot('/4678/shockwave_web', [[728, 90],[960,1]], 'ad728x90').addService(googletag.pubads());
-        
-        
-        
-        
-
+    	googletag.defineSlot('/4678/shockwave_web/ros', [[728, 90],[960,1]], 'ad728x90').addService(googletag.pubads());
+    	
+        // Sets Ad Targeting
         
 
 
@@ -332,9 +336,21 @@
         }
 
         googletag.enableServices();
+
+        
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+
+            // if the ad is not empty, track the event
+            if (!event.isEmpty) {
+                dataLayer.push({
+                    eAction: 'DFP Responded',
+                    eCategory: event.slot.getName().split('/').pop(), // get the adZone from the ad slot path
+                    eLabel: '',
+                    event: 'trackEvent'
+                });
+            }
+        });
     });
-    
-    
 
     window.setInterval(function(){
         if(typeof pbjs_refreshBid === 'function') {
@@ -403,7 +419,7 @@
 		}
 	</script>
 
-				
+		
 
 
 
@@ -442,7 +458,7 @@
                     <li><a title="Download Games" href="/download.jsp" class="download-tab">download games</a></li>
                     <li><a title="Free Online Gaming Community" href="/myShockwave.jsp" class="shockwave-tab">my shockwave</a></li>
                     <li class="search-games">
-                        <form id="globalSearch" name="globalSearch" method="get" action="/search.jsp">
+                        <form id="globalSearch" name="globalSearch" method="get" action="/games/elasticsearch.jsp">
                             <input id="globalSearchInput" type="text" value="" placeholder="Search Games" name="q" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
                             <input type="submit" id="game-search-submit" value=" ">
                         </form>
@@ -661,7 +677,7 @@
     <div class="bottom-shadow"></div>
 </div>
 
-				
+		
 		
 
 				
@@ -676,21 +692,47 @@
 
 
 
+    <!-- Leaderboard Ad - gamePlayDefault -->
     
 
 
-    
-    <div class="bannerWrapper">
-        <div class="banner">
-            <div id="ad728x90">
-                <script>
-                    googletag.cmd.push(function() {
-                        googletag.display('ad728x90');
-                    });
-                </script>
-            </div>
+
+
+
+
+
+	
+	<div class="bannerWrapper">
+		<div class="banner">
+			<div id="ad728x90">
+				<script>
+					googletag.cmd.push(function() {
+						
+							dataLayer.push({
+								eAction: 'DFP Called',
+								eCategory: '/ros',
+								eLabel: '',
+								event: 'trackEvent'
+							});
+
+							// Moved to adSlots.jsp
+							// googletag.defineSlot('/4678/shockwave_web/ros-top', [[728, 90],[960,1]], 'ad728x90').addService(googletag.pubads());
+
+							googletag.display('ad728x90');
+
+							dataLayer.push({
+								eAction: 'Slot rendered',
+								eCategory: '/ros',
+								eLabel: '',
+								event: 'trackEvent'
+							});
+						
+					});
+				</script>
+			</div>
 		</div>
 	</div>
+
 
 
 
@@ -1123,7 +1165,7 @@
 				<h2>Free Online Games and More</h2>
 				
 				
-				<p>This site is part of the Defy Media Gaming network.</p>
+				<p>Part of the Addicting Games network.</p>
 				<ul class="clear aboutUs corpLinks">
 					<li><a href="/help/contact_us.jsp" class="corpLinks btnOnlinePlain">CONTACT US</a></li>
 					<li><a href="/about/index.jsp" class="corpLinks">About Us</a></li>
@@ -1176,7 +1218,7 @@
 
 
     <div id="fb-root"></div>
-    <script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script src="https://connect.facebook.net/en_US/sdk.js"></script>
 
 <script>
 
@@ -1195,13 +1237,13 @@
 
     window.fbAsyncInit = function() {
 
-        FB.init({
+    	FB.init({
             appId: '187708801677',
             status: true,
             cookie: true,
             xfbml: true,
             oauth:true,
-            version: 'v2.2'
+            version: 'v2.7'
         });
     };
 
@@ -1324,32 +1366,51 @@
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
 
-
 		<!-- Ad Blocker Test & Tracking -->
-		<script src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
+		<script type="text/javascript" src="http://media5.break.com/campaigns/block-test/advertisement.js"></script>
 
 <script>
-    if (window.canRunAds === undefined) {
-        // adblocker detected, show console log
-        // console.log('adblocker detected');
-        dataLayer.push({
-            eCategory : 'ad block test',
-            eAction : 'ad blocked',
-            event : 'trackEvent'
-        });
-    } else {
-        // console.log('canRunAds is set to ' + canRunAds);
-        dataLayer.push({
-            eCategory : 'ad block test',
-            eAction	: 'not ad blocked',
-            event : 'trackEvent'
-        });
-    }
+	(function(){
+		
+		SW.globals.customDimensionAdsBlocked =  window.canRunAds === undefined ? 'ad-blocked' : 'not-ad-blocked';
+	}());
 </script>
 
 
     
-        
+		
+
+
+
+
+
+
+
+	<div id="ad1x1">
+		<script>
+			googletag.cmd.push(function() {
+				dataLayer.push({
+					eAction: 'DFP Called',
+					eCategory: '/ros',
+					eLabel: '',
+					event: 'trackEvent'
+				});
+
+				googletag.defineOutOfPageSlot('/4678/shockwave_web/ros-interstitial', 'ad1x1').addService(googletag.pubads());
+
+				dataLayer.push({
+					eAction: 'Slot rendered',
+					eCategory: '/ros',
+					eLabel: '',
+					event: 'trackEvent'
+				});
+
+				googletag.display('ad1x1');
+			});
+		</script>
+	</div>
+
+
     
 
 	
