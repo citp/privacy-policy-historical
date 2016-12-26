@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053521id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226232418id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
 
-# Rummy Online Games Privacy Policy | Play Rummy Free Games at Classic Rummy
-
-## You are here
-
-  1. [Home](https://web.archive.org/) › 
-  2. Privacy Policy
-
-
+# Classic Rummy Privacy Policy
 
   1. This privacy policy ("Privacy Policy") forms a part of the Terms.
   2. If You use the Website, You are deemed to have accepted this Privacy Policy, and We will have the right to use Your information as described and in terms of this Privacy Policy. If You do not agree to have Your information used in any of the ways described in this Privacy Policy, You must discontinue the use of the Website. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Website, after We either personally notify You or generally after changes on the Website, will constitute Your acceptance of those changes. It is hereby clarified that by accessing or otherwise using the Website, You agree to the Privacy Policy and You expressly consent to the processing of Your Personal Information (as defined hereinbelow) according to this Privacy Policy.
@@ -85,3 +78,5 @@ If You send Us an e-mail or give any feed back to ClassicRummy through the Websi
     7. ClassicRummy does not assume liability for any events beyond Our direct control or events arising from Force Majeure, such as acts of God, of governmental authorities, war, political unrest, civil disturbances or changes in applicable law. Despite Our best efforts to maintain Your privacy, due to the nature of the prevailing technology and software, We cannot guarantee, nor do We represent that there will be error free performance as regards the privacy of your Personal Information. We shall not be liable for any indirect, incidental, consequential, or punitive damages relating to the use or release of Personal Information.
 
 
+
+[](http://bit.ly/2bzNJO6) [](http://bit.ly/1SygM5F)
