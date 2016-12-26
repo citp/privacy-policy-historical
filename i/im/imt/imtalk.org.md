@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtalk.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055114id_/http%3A//www.imtalk.org/cmps_index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtalk.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227000422id_/http%3A//www.imtalk.org/cmps_index.php%3Fpageid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # IMTalk.org - Privacy Policy
 
