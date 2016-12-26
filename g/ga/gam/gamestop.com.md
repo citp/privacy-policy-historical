@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083237id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226195011id_/http%3A//www.gamestop.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | GameStop
 
@@ -149,4 +149,4 @@ Whether or not you have viewed our terms and conditions of use of our Websites, 
 
 Conditions of Website Use may be found by clicking [here](http://www.gamestop.com/gs/help/disclaimer.aspx).
 
-[► Return to Help Center](https://web.archive.org/web/20160616083237id_/http%3A//www.gamestop.com/gs/help/default.aspx)
+[► Return to Help Center](https://web.archive.org/web/20161226195011id_/http%3A//www.gamestop.com/gs/help/default.aspx)
