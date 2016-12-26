@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the midamericanenergy.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429121613id_/https%3A//www.midamericanenergy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midamericanenergy.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226153708id_/https%3A//www.midamericanenergy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## About MidAmerican Energy's Privacy Statement
 
 Berkshire Hathaway Energy knows how important it is to protect the information provided by our customers and visitors to our website or obtained through cookies. It is Berkshire Hathaway Energy's policy to safeguard and protect all personal information collected from Berkshire Hathaway Energy's website and to keep such information confidential. This policy applies to all information collected or submitted on our website.
 
