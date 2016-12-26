@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallbusinessbranding.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509153822id_/http%3A//www.smallbusinessbranding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessbranding.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226075024id_/http%3A//www.smallbusinessbranding.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Small Business Branding
+# Privacy Policy - Small Business Branding
 
 Last Updated: January 1, 2012
 
