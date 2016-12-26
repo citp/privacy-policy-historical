@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005927id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geox.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226115143id_/http%3A//www.geox.com/en/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service | Shop now at Geox
 
@@ -126,7 +126,7 @@ If you do not want your browser to accept cookies, you can turn off the cookie a
 For further information about how to turn off cookie acceptance please:
 
 * Internet Explorer: [click here](http://windows.microsoft.com/it-it/windows7/block-enable-or-allow-cookies)
-* Safari: [click here](http://support.apple.com/kb/PH11913)
+* Safari: [click here](https://support.apple.com/kb/PH19214?viewlocale=en_US&locale=it_IT)
 * Chrome: [click here](https://support.google.com/chrome/answer/95647?hl=it-IT&hlrm=fr&hlrm=en)
 * Firefox: [click here](http://support.mozilla.org/it-IT/kb/enable-and-disable-cookies-website-preferences)
 * Opera: [click here](http://help.opera.com/Windows/10.00/it/cookies.html)
