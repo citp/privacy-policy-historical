@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407192727id_/http%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227003013id_/http%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myVMC
 
