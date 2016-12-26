@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likesasap.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051444id_/http%3A//www.likesasap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesasap.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226225830id_/http%3A//www.likesasap.com/privacy.php) for the most accurate reproduction.*
 
 # LikesASAP.com : Increase Your Fans
 
