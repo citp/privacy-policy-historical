@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webappers.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628193433id_/http%3A//www.webappers.com/privacy-policy-for-webapperscom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webappers.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235834id_/http%3A//www.webappers.com/privacy-policy-for-webapperscom) for the most accurate reproduction.*
 
 # Privacy Policy for WebAppers.com - WebAppers | Web Resources | WebAppers
 
@@ -17,3 +17,5 @@ We also use third party advertisements on **WebAppers** **.com** to support our 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 0 Comments
+
+[](http://thesquid.ink/?utm_source=webappers&utm_medium=leaderboard&utm_campaign=under_first_post "flat icons")
