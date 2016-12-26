@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicaneo.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612173257id_/http%3A//www.musicaneo.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicaneo.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226213204id_/http%3A//www.musicaneo.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MusicaNeo Website Privacy Policy
 
