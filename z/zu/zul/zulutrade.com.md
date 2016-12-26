@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626011034id_/http%3A//www.zulutrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227004428id_/http%3A//www.zulutrade.com/privacy-policy) for the most accurate reproduction.*
 
-# ZuluTrade - Our Privacy Policy
+# ZuluTrade - Chính sách Bảo mật của Chúng tôi
 
-  * [company](https://web.archive.org/about)
-  * [faq](https://web.archive.org/faq)
-  * [forum](http://forum.zulutrade.com/?autologin=1)
+  * [công ty](https://web.archive.org/about)
+  * [các câu hỏi thường gặp](https://web.archive.org/faq)
+  * [diễn đàn](http://forum.zulutrade.com/?autologin=1)
   *   *   * 
 
 
-  * [Traders](https://web.archive.org/traders)
-  * [Calendar](https://web.archive.org/calendar)
-  * [Charts](https://web.archive.org/charts)
-  * [Support](https://web.archive.org/support)
+  * [Các Nhà giao dịch](https://web.archive.org/traders)
+  * [Lịch](https://web.archive.org/calendar)
+  * [Biểu đồ](https://web.archive.org/charts)
+  * [Hỗ trợ](https://web.archive.org/support)
 
 
 
