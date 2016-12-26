@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625193940id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhm.ac.uk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226143354id_/http%3A//www.nhm.ac.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy notice | Natural History Museum
 
