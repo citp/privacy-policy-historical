@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbound.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418182721id_/https%3A//inbound.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbound.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226222948id_/https%3A//inbound.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
