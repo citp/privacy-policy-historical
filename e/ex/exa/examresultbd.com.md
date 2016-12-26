@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the examresultbd.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607232101id_/http%3A//examresultbd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresultbd.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226131141id_/http%3A//examresultbd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy! | Examresultbd
+# Privacy Policy! - Examresultbd
 
-[](http://examresultbd.com/copyright-policy/copyright/)Policy
+Policy
 
 Privacy
 
-At [examresultbd.com](http://examresultbd.com/) , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.)
+At [examresultbd.com](http://examresultbd.com/) , the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.)
 
 This Privacy Policy governs the manner in which Bangladesh Jobs and Result collects, uses, maintains and discloses information collected from users of the http://examresultbd.com/ website. This privacy policy applies to the Site and all products and services offered by [Examresultbd.](http://examresultbd.com/)
 
@@ -29,5 +29,3 @@ This Privacy Policy governs the manner in which Bangladesh Jobs and Result colle
 
 **Log Files**  
 Like many other Web sites, [examresultbd.com](http://examresultbd.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-[fbcomments]
