@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052517id_/https%3A//www.sharecare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realage.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231504id_/https%3A//www.sharecare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sharecare
 
