@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12news.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013344id_/http%3A//www.12news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12news.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226013654id_/http%3A//12news.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | 12NEWS.com
 
