@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416121745id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226164748id_/https%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Email on Acid
 
@@ -37,6 +37,10 @@ We may also ask you to fill out an online customer survey, to obtain your sugges
 
 We also collect information about the usage of our site and its features, as well as data about our Email Analytics. This data may be used in aggregate form, but never in a way that would identify it with a user of our system. For example, site usage statistics may be used to help us improve our site. 
 
+### Email Analytics Data
+
+If you make use of our Advanced Email Analytics tool, we'll collect data on the recipients of your email campaigns. This data may include the email addresses of recipients, if you choose to use merge tag tracking. Email on Acid makes every effort to keep this date secure. This data is owned by you. In order to collect and display this data for you, you allow us access to it. You also allow us use of this data to aggregate (in a non-personally identifiable form) so that we can publish reports and improve our site.
+
 ## Account Security
 
 Because we know that the security of your data is important, we have created a password system to provide account security. It is the user's responsibility to prevent unauthorized access by protecting their password and access to their computer when using our system. 
@@ -71,7 +75,7 @@ We will not modify or alter your media in anyway. We don't own the copyright to 
 
 By adding your media to our service, you acknowledge that it will be publicly accessible. At this time we do not offer private hosting.
 
-#### How does Email on Acid handle Digital Millenium Copyright Act (DMCA) takedown requests?
+#### How does Email on Acid handle Digital Millennium Copyright Act (DMCA) takedown requests?
 
 If there is a takedown request we will be more than happy to comply. We will not contest the request for any reason.
 
