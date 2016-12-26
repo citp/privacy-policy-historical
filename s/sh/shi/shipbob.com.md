@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipbob.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313233557id_/http%3A//www.shipbob.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipbob.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226100111id_/http%3A//www.shipbob.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # ShipBob | Chicago - Forget Going To FedEx, UPS or USPS
 
