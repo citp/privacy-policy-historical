@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509205833id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226082409id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting, Web Design, Domain Names, E-Commerce, etc.
+# DailyRazor.com Privacy Policy
 
-DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+DailyRazor.com (hereafter referred to as DailyRazor) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-**What this Privacy Policy Covers**
+## What this Privacy Policy Covers
 
   * This privacy policy covers DailyRazor’s treatment of personally identifiable information collected by DailyRazor through a website owned and operated by DailyRazor.
   * This privacy policy does not apply to the practices of companies that DailyRazor does not own or control, or of persons that DailyRazor does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which DailyRazor websites link.
 
 
 
-**Collection and Use of Personal Information**
+## Collection and Use of Personal Information
 
   * You can visit the websites of DailyRazor without revealing any personal information. However, DailyRazor needs certain personal information if you wish to purchase our products, register for an affiliate account, receive DailyRazor newsletter, or use certain DailyRazor services.
   * Where required, this information may include your personal contact information and/or your company contact information. DailyRazor will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.
@@ -19,14 +19,14 @@ DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privac
 
 
 
-**Collection and Use of Non-Personal Information**
+## Collection and Use of Non-Personal Information
 
   * DailyRazor automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. DailyRazor may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, DailyRazor does not connect this non-personal data to any personal information collected from you.
   * DailyRazor also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and DailyRazor assumes no responsibility or liability for this usage.
 
 
 
-**Information Sharing and Disclosure**
+## Information Sharing and Disclosure
 
   * DailyRazor may disclose your personal information to third parties who work on behalf of DailyRazor to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information
   * DailyRazor may otherwise disclose your personal information when: 
@@ -37,13 +37,13 @@ DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privac
 
 
 
-**Consent**
+## Consent
 
   * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to DailyRazor. If you have provided personal information to DailyRazor and no longer consent to its use or disclosure as outlined herein, please notify DailyRazor at support@DailyRazor.com.
 
 
 
-**Security**
+## Security
 
   * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your DailyRazor Information protected for your privacy and security. In certain areas of our websites, as identified on the site, DailyRazor uses industry-standard SSL-encryption to protect data transmissions.
   * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
@@ -51,13 +51,13 @@ DailyRazor Hosting (hereafter referred to as DailyRazor) has created this privac
 
 
 
-**Changes to this Privacy Policy**
+## Changes to this Privacy Policy
 
   * DailyRazor may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of DailyRazor websites after any such amendments signifies your acceptance thereof.
 
 
 
-**Questions or Suggestions**
+## Questions or Suggestions
 
   * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@DailyRazor.com
 
