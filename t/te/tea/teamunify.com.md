@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630221112id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226044837id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -143,6 +143,9 @@ Whenever possible, database access is controlled at the operating system and dat
 
 **Server Management Security**   
 TeamUnify employees do not have direct access to the TeamUnify production equipment, except where necessary for system management, maintenance, monitoring, and backups. The TeamUnify engineering team provides all system management, maintenance, monitoring, and backups. 
+
+**PCI-DSS Compliance**   
+TeamUnify is compliant with the Payment Card Industry Data Security Standard ("PCI DSS") as a Level 1 service provider. PCI-DSS is the bankcard industry's most stringent security standard. TeamUnify will maintain all applicable PCI DSS requirements to the extent that TeamUnify handles, has access to, or otherwise stores, processes, or transmits customer cardholder data or sensitive authentication data, or manages the customer's cardholder data environment on behalf of a customer. Examples of TeamUnify's security measures include: physical, electronic, and procedural safeguards; sophisticated security monitoring tools; documented security policies; use of strong encryption for transmissions of Order Information to and from TeamUnify Customers; restricting access to personally identifiable information; and, periodic security audits by third party security experts. 
 
 Special notice regarding the security of TeamUnify's OnDeck and MainSet software applications: 
 
