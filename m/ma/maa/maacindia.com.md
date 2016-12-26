@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maacindia.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515192637id_/http%3A//www.maacindia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maacindia.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226031801id_/http%3A//www.maacindia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | maacindia.com
 
