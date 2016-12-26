@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201035445id_/http%3A//picclick.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picclick.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226100919id_/http%3A//picclick.com/pages/privacy.html) for the most accurate reproduction.*
 
-# PicClick Privacy Policy
+# PicClick • Privacy Policy
 
-_This Privacy Policy is effective as of October 7, 2009._
+_This Privacy Policy is effective as of October 7, 2014._
 
 PicClick provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at PicClick.com ("Site") or collected through our social networking service ("Service"). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
