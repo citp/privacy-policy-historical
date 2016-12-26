@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528061619id_/http%3A//www.birthdayinabox.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayinabox.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226061252id_/https%3A//www.birthdayinabox.com/pages/privacy-security) for the most accurate reproduction.*
 
-# None
+# Privacy & Security | Birthday in a Box
 
 At birthdayinabox.com we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy & Security Policy. This will give you a summary of how information is collected from you and how it is used. 
 
@@ -31,3 +31,5 @@ Edison, NJ 08837
 ### Cookies
 
 We use cookies only to help identify you when you visit our store and to customize your experience. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
+
+Top of Page
