@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the life.church privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630132315id_/http%3A//www.life.church/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life.church privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226084609id_/http%3A//www.life.church/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Life.Church
+# Life.Church | Privacy Policy
+
+### Posted August 18, 2015
 
 The Life.Church Website and Application are self-contained programs owned and operated by Life.Church. We understand that you care how information about you is used and shared. We do too. We hope the following statements will help you understand how we collect, use and protect the information you provide to us through our Website and Application.
 
-#### **What we collect and how we use it**
+### What we collect and how we use it
 
 **Information You Provide**  
 When you use certain functions within the Website or Application, we ask you for personal information (such as your name, email address and an account password). We do not sell, rent, or disclose your personally identifiable information with outside organizations without your explicit permission. We may combine the information you submit under your account, with information from other Life.Church services or third parties to provide certain services, offer you a better experience and to improve the quality of our services. Examples of the above include, but are not limited to, providing online giving services, presenting you with spiritual development opportunities, adding new features, and analyzing our app or website performance. For certain services, we may allow you to opt out of combining such information.
@@ -26,11 +28,11 @@ Personal information or requests that you submit through the Website or Applicat
 **Third Party Sites**  
 This Privacy Policy applies only to the Website or Application operated by us. We cannot regulate other sites linked from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. You should familiarize yourself with their unique Privacy Policies, should you choose to visit their sites.
 
-#### **How do we use your information?**
+### **How do we use your information?**
 
 When you sign up for a particular service that requires registration, we ask you to provide personal information. We collect your information to support your participation, deliver requested content, to note your preferences, and to keep you informed about events, related resources, and spiritual development opportunities. You may opt out of electronically delivered communication at any time by using the unsubscribe feature for that service. You may decline to submit personal information to any of our services, in which case we may not be able to provide those services to you. As a visitor to our Website and user of our Application, you can engage in many activities without providing any personal information.
 
-#### **How do we protect your information?**
+### How do we protect your information?
 
 **We do not sell, rent, or share your personal information with other institutions without your explicit consent.** We may share your personal information only if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) enforce applicable Terms Of Use, including investigation of potential violations thereof; (c) detect, prevent, or otherwise address fraud, security or technical issues; or (d) protect against imminent harm to the rights, property or safety of us, our users or the public as required or permitted by law. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data including internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. Unless explicit permission is obtained from you, we restrict access to personal information to our employees, contractors and agents who need to know that information to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
