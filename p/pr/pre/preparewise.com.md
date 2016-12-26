@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preparewise.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402172620id_/http%3A//www.preparewise.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preparewise.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226085231id_/http%3A//www.preparewise.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
