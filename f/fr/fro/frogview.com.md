@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frogview.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626041107id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frogview.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226195118id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
