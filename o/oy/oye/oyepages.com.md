@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyepages.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606142313id_/http%3A//oyepages.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyepages.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226113503id_/http%3A//oyepages.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - OyePages!
 
@@ -18,7 +18,7 @@ Our Privacy Policy explains – what information we collect and store, how we us
 
   * Profile (Personally Identifiable) Information - Information which you provide when you create an account such as your name, email, date of birth, marital status, gender, religion, age, education, address, phone number, etc. 
   * Service Usage - We collect some information when you use our Services. This information may include information of the device you use to access our Services, location information, IP address, browser type, browser language, date and time of login and other service requests, transaction history if there are any banking/e-commerce activities, etc.
-  * Content Information – These are the content you submit or post on www.oyepages.com or through our Services, or information of activities you perform using our Services. Any information you post or submit using our Services such as Status updates, Chat, Polls, Blogs, Photos, Messages, Groups, Mobilizers, Pages, etc. This also includes information of friend-requests, friend list, Likes, your favorite communities, etc.
+  * Content Information – These are the content you submit or post on oyepages.com or through our Services, or information of activities you perform using our Services. Any information you post or submit using our Services such as Status updates, Chat, Polls, Blogs, Photos, Messages, Groups, Mobilizers, Pages, etc. This also includes information of friend-requests, friend list, Likes, your favorite communities, etc.
   * Local Storage - We may collect and store information locally on your devices such as your mobile phones, laptops, etc.
   * Cookies - We may use various technologies to collect and store information when you visit our Services, and this may include sending one or more cookies to your device. We use cookies to provide you with more customized information to improve your user experience. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree to our use of any Personal Information collected by us using that Cookie.
 
@@ -71,13 +71,13 @@ If OyePages is involved in a merger, acquisition or asset sale, we will continue
 
 ### Application
 
-Our Privacy Policy applies to all of the Services offered by OyePages, including www.oyepages.com and our mobile applications.
+Our Privacy Policy applies to all of the Services offered by OyePages, including oyepages.com and our mobile applications.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals. Our Privacy Policy does not cover the information practices of other companies and organizations who may use cookies and other technologies to serve and offer relevant ads.
 
 ### Changes in our Privacy
 
-We may change our Privacy Policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice on www.oyepages.com or on your registered email. We request you to refer to this section frequently for updates, if any.
+We may change our Privacy Policy from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice on oyepages.com or on your registered email. We request you to refer to this section frequently for updates, if any.
 
 ### Security
 
