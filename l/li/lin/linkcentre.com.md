@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520190533id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231504id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
