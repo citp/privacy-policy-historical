@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stanleysteemer.com privacy policy that was archived on 2016-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160506052445id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stanleysteemer.com privacy policy that was archived on 2016-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226124216id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="_head"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9"><title>
 	Stanley Steemer's Privacy Policy
@@ -65,40 +65,45 @@
     var dataLayer = [];
 
     (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { 
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
         m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
     ga('create', 'UA-2949428-1', 'auto');
+    ga('require', 'displayfeatures');
+
 </script>
     
 <script type="text/javascript">
     
     ga('send', 'pageview');
 </script>
-<!--End Google Analytics --></head>
-<body onkeypress="var e = (event ? event : window.event); return (e.keyCode ? e.keyCode : e.charCode ? e.charCode : e.which) != 13;">
+<!--End Google Analytics -->
+    
     <!--Stanley Steemer: Google Tag Manager-->
     <noscript>
         <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KF29LR"
             height="0" width="0" style="display: none; visibility: hidden"></iframe>
     </noscript>
     <script type="text/javascript">(function (w, d, s, l, i) {
-    w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
-    }); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-})(window, document, 'script', 'dataLayer', 'GTM-KF29LR');</script>
-    <!--END Stanley Steemer: Google Tag Manager -->
-    <iframe id="radframe" style="display: none;"></iframe>
-    <!-- ClickTale Top part -->
-    <script type="text/javascript">
-        var WRInitTime = (new Date()).getTime();
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KF29LR');
     </script>
-    <!-- ClickTale end of Top part -->
+    <!--END Stanley Steemer: Google Tag Manager -->
+    
+
+</head>
+
+<body>
+
+    <iframe id="radframe" style="display: none;"></iframe>
+
 
     <form method="post" action="/privacy" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
 <div class="aspNetHidden">
@@ -149,7 +154,7 @@ return true;
 <div id="tdResidential_dlgRequestTerritory" title="Territory" style="display: none;">
     <div>
         There are multiple locations providing service in your area.<br>Please make the appropriate selection.<br><br>
-        <select name="ctl00$tdResidential$selTerritory" id="tdResidential_selTerritory" class="popup_select" style="width: 441px">
+        <select name="ctl00$tdResidential$selTerritory" id="tdResidential_selTerritory" title="Select Territory" label="Select Territory" class="popup_select" style="width: 441px">
 </select>
     </div>
 </div>
@@ -183,7 +188,7 @@ return true;
 <div id="tdCommercial_dlgRequestTerritory" title="Territory" style="display: none;">
     <div>
         There are multiple locations providing service in your area.<br>Please make the appropriate selection.<br><br>
-        <select name="ctl00$tdCommercial$selTerritory" id="tdCommercial_selTerritory" class="popup_select" style="width: 441px">
+        <select name="ctl00$tdCommercial$selTerritory" id="tdCommercial_selTerritory" title="Select Territory" label="Select Territory" class="popup_select" style="width: 441px">
 </select>
     </div>
 </div>
@@ -236,14 +241,17 @@ return true;
         closeOnEscape: false,
         draggable: false,
         resizable: false,
+        open: function(event, ui) {
+            $(".ui-dialog-titlebar-close", ui.dialog | ui).hide();
+        },
         buttons: {
-            'Yes, Keep Working': function () {
+            'Keep Working': function () {
                 // Just close the dialog. We pass a reference to this
                 // button during the init of the script, so it'll automatically
                 // resume once clicked
                 $(this).dialog('close');
             },
-            'No, Logoff': function () {
+            'Logoff': function () {
                 // fire whatever the configured onTimeout callback is.
                 $.idleTimeout.options.onTimeout.call(this);
             }
@@ -294,6 +302,11 @@ return true;
     function googleLogin() {
         $("#SsiTop1_btnGoogle").click();
     }
+
+    function twitterLogin() {
+        $("#SsiTop1_btnTwitter").click();
+    }
+
 </script>
 
 <div id="top">
@@ -302,14 +315,22 @@ return true;
         
         <div id="lefttop">
             
-            <span class="colororang">Already a Customer?</span> <a class="login">
-                LOG IN</a> <span class="colororang">
-                    or</span> <a class="register">
-                        <img src="/Content/img/register.png" alt="">REGISTER</a>
+            <span class="colororang">Already a Customer?</span> 
+            <a class="login" tabindex="0" aria-label="Log in">
+                
+                LOG IN
+                
+
+            </a>
+            
+            <span class="colororang">or</span>
+            <a class="register" tabindex="0" aria-label="Register">
+                <img src="/Content/img/register.png" alt="Register">REGISTER
+            </a>
             
         </div>
         <div id="righttop">
-            <a href="http://www.youtube.com/user/stanleysteemer" target="_blank"><img src="/Content/img/Youtub.png" alt=""></a><a href="http://www.linkedin.com/company/stanley-steemer" target="_blank"><img src="/Content/img/incos.png" alt=""></a><a href="https://twitter.com/stanleysteemer" target="_blank"><img src="/Content/img/twitter.png" alt=""></a><a href="http://www.facebook.com/stanleysteemer" target="_blank"><img src="/Content/img/facebook.png" alt=""></a>
+            <a href="http://www.youtube.com/user/stanleysteemer" target="_blank"><img src="/Content/img/Youtub.png" alt="YouTube"></a><a href="http://www.linkedin.com/company/stanley-steemer" target="_blank"><img src="/Content/img/incos.png" alt="Linked In"></a><a href="https://twitter.com/stanleysteemer" target="_blank"><img src="/Content/img/twitter.png" alt="Twitter"></a><a href="http://www.facebook.com/stanleysteemer" target="_blank"><img src="/Content/img/facebook.png" alt="Facebook"></a>
         </div>
         
         <div id="loginform">
@@ -319,7 +340,7 @@ return true;
                 <div class="contentlogin">
                     <div style="float: right; margin-right: -10px;">
                         <a href="javascript:void(0);" onclick="$('#loginform').hide();">
-                            <img src="/Content/img/close.jpg">
+                            <img src="/Content/img/close.jpg" alt="Close">
                         </a>
                     </div>
                     <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'SsiTop1_btnLogin')">
@@ -336,7 +357,7 @@ return true;
                             <div class="RStext">
                                 <div class="left_text_box">
                                 </div>
-                                <input name="ctl00$SsiTop1$tbLoginEmail" type="text" id="SsiTop1_tbLoginEmail" tabindex="2" class="mid_text_box" style="width:137px;">
+                                <input name="ctl00$SsiTop1$tbLoginEmail" type="text" id="SsiTop1_tbLoginEmail" tabindex="2" class="mid_text_box" title="Login Email" label="Login Email" style="width:137px;">
                                 <div class="right_text_box">
                                 </div>
                             </div>
@@ -346,23 +367,26 @@ return true;
                             <div class="RStext">
                                 <div class="left_text_box">
                                 </div>
-                                <input name="ctl00$SsiTop1$tbLoginPassword" type="password" id="SsiTop1_tbLoginPassword" tabindex="3" class="mid_text_box" style="width:137px;">
+                                <input name="ctl00$SsiTop1$tbLoginPassword" type="password" id="SsiTop1_tbLoginPassword" tabindex="3" class="mid_text_box" title="Login Password" label="Login Password" style="width:137px;">
                                 <div class="right_text_box">
                                 </div>
                             </div>
                             <span id="SsiTop1_rfvLoginPassword" style="display:none;"></span>
                             <br>
                         </span><span class="col3">
-                            <input type="submit" name="ctl00$SsiTop1$btnLogin" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnLogin&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnLogin" tabindex="4" onkeypress="doClick('SsiTop1_btnLogin',event)">
+                            <input type="submit" name="ctl00$SsiTop1$btnLogin" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnLogin&quot;, &quot;&quot;, true, &quot;vgLogin&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnLogin" tabindex="4" aria-label="Login" onkeypress="doClick('SsiTop1_btnLogin',event)">
                             <br>
-                            <a id="lbLoginForgotPassword" tabindex="1">Forgot Password?</a><br>
+                            <a id="lbLoginForgotPassword" tabindex="0">Forgot Password?</a><br>
                         </span><span class="orlog">Or Log In Using: <a href="javascript: void(0);" onclick="googleLogin();">
-                            <img src="/Content/img/plus.png" alt="">
+                            <img src="/Content/img/plus.png" alt="Goolge Plus Login">
                         </a><a href="javascript: void(0);" onclick="twitterLogin();">
-                            <img src="/Content/img/twitter.png" alt="">
-                        </a><a href="javascript: void(0);" class="to_fb" onclick="facebookLogin();">
-                            <img src="/Content/img/facebook.png" alt="">
-                        </a></span>
+                            <img src="/Content/img/twitter.png" alt="Twitter Login">
+                        </a>
+    <!--                        <a href="javascript: void(0);" class="to_fb" onclick="facebookLogin();">
+                            <img src="/Content/img/facebook.png" alt="" />
+                        </a>-->
+
+                               </span>
                     <br>
                     <br>
                     
@@ -381,13 +405,13 @@ return true;
                             <div>
                                 <div class="left_text_box">
                                 </div>
-                                <input name="ctl00$SsiTop1$tbLoginForgotPasswordEmail" type="text" id="SsiTop1_tbLoginForgotPasswordEmail" class="mid_text_box" placeholder="Email Address" style="width:137px;">
+                                <input name="ctl00$SsiTop1$tbLoginForgotPasswordEmail" type="text" id="SsiTop1_tbLoginForgotPasswordEmail" class="mid_text_box" title="Forgot Password" label="Forgot Password" placeholder="Email Address" style="width:137px;">
                                 <div class="right_text_box">
                                 </div>
                             </div>
                             <span id="SsiTop1_rfvLoginForgotPasswordEmail" style="display:none;"></span>
                             <span id="SsiTop1_revLoginForgotPasswordEmail" style="display:none;"></span>
-                            <input type="submit" name="ctl00$SsiTop1$btnLoginForgotPassword" value="" onclick="return NicerPage_ClientValidate('vgLoginForgotPassword');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnLoginForgotPassword&quot;, &quot;&quot;, true, &quot;vgLoginForgotPassword&quot;, &quot;&quot;, false, false))" id="btnLoginForgotPassword" class="batton" onkeypress="doClick('btnLoginForgotPassword',event)">
+                            <input type="submit" name="ctl00$SsiTop1$btnLoginForgotPassword" value="" onclick="return NicerPage_ClientValidate('vgLoginForgotPassword');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnLoginForgotPassword&quot;, &quot;&quot;, true, &quot;vgLoginForgotPassword&quot;, &quot;&quot;, false, false))" id="btnLoginForgotPassword" class="batton" aria-label="Forgot Password" onkeypress="doClick('btnLoginForgotPassword',event)">
                         </div>
                     
 </div>
@@ -398,12 +422,12 @@ return true;
             <div id="bodyregisterform">
                 <div class="topregister">
                     <a class="register">
-                        <img src="/Content/img/register2.png" alt="">REGISTER</a></div>
+                        <img src="/Content/img/register2.png" alt="Register">REGISTER</a></div>
                 
                 <div class="contentregister">
                     <div style="float: right; margin-right: -10px;">
                         <a href="javascript:void(0);" onclick="$('#registerform').hide();">
-                            <img src="/Content/img/close.jpg">
+                            <img src="/Content/img/close.jpg" alt="Close">
                         </a>
                     </div>
                 <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'SsiTop1_btnRegister')">
@@ -419,7 +443,7 @@ return true;
                         <div class="flleft">
                             <div class="left_text_box">
                             </div>
-                            <input name="ctl00$SsiTop1$tbRegisterEmail" type="text" id="SsiTop1_tbRegisterEmail" tabindex="6" class="mid_text_box" placeholder="Email Address" style="width:140px;">
+                            <input name="ctl00$SsiTop1$tbRegisterEmail" type="text" id="SsiTop1_tbRegisterEmail" tabindex="6" class="mid_text_box" label="Register Email" title="Register Email" placeholder="Email Address" style="width:140px;">
                             <div class="right_text_box">
                             </div>
                         </div>
@@ -429,8 +453,8 @@ return true;
                         <div class="flleft">
                             <div class="left_text_box">
                             </div>
-                            <input name="ctl00$SsiTop1$tbRegisterPassword" type="password" id="SsiTop1_tbRegisterPassword" tabindex="8" class="mid_text_box" onblur="if(this.value == '') ToggleInputControls('SsiTop1_tbRegisterPassword','SsiTop1_tbRegisterPasswordFake');" style="width:140px;display: none;">
-                            <input name="ctl00$SsiTop1$tbRegisterPasswordFake" type="text" value="Password" id="SsiTop1_tbRegisterPasswordFake" tabindex="8" class="mid_text_box" onfocus="ToggleInputControls('SsiTop1_tbRegisterPassword','SsiTop1_tbRegisterPasswordFake')" style="width:140px;">
+                            <input name="ctl00$SsiTop1$tbRegisterPassword" type="password" id="SsiTop1_tbRegisterPassword" tabindex="8" class="mid_text_box" label="Register Password" title="Register Password" onblur="if(this.value == '') ToggleInputControls('SsiTop1_tbRegisterPassword','SsiTop1_tbRegisterPasswordFake');" style="width:140px;display: none;">
+                            <input name="ctl00$SsiTop1$tbRegisterPasswordFake" type="text" value="Password" id="SsiTop1_tbRegisterPasswordFake" tabindex="8" class="mid_text_box" title="Register Password" label="Register Password" onfocus="ToggleInputControls('SsiTop1_tbRegisterPassword','SsiTop1_tbRegisterPasswordFake')" style="width:140px;">
                             <div class="right_text_box">
                             </div>
                         </div>
@@ -441,19 +465,19 @@ return true;
                         <div class="flleft">
                             <div class="left_text_box">
                             </div>
-                            <input name="ctl00$SsiTop1$tbRegisterConfirmEmail" type="text" id="SsiTop1_tbRegisterConfirmEmail" tabindex="7" class="mid_text_box" placeholder="Confirm Email" style="width:140px;">
+                            <input name="ctl00$SsiTop1$tbRegisterConfirmEmail" type="text" id="SsiTop1_tbRegisterConfirmEmail" tabindex="7" class="mid_text_box" label="Register Password" title="Register Password" placeholder="Confirm Email" style="width:140px;">
                             <div class="right_text_box">
                             </div>
                         </div>
-                        <span id="SsiTop1_rfvRegisterConfirmEmail" style="display:none;"></span>
+                        <span id="SsiTop1_rfvRegisterConfirmEmail" label="Register Confirm Email" style="display:none;"></span>
                         <span id="SsiTop1_cvRegisterEmail" style="display:none;"></span>
                         <br>
                         <span class="">*</span>
                         <div class="flleft">
                             <div class="left_text_box">
                             </div>
-                            <input name="ctl00$SsiTop1$tbRegisterConfirmPassword" type="password" id="SsiTop1_tbRegisterConfirmPassword" tabindex="9" class="mid_text_box" onblur="if(this.value == '') ToggleInputControls('SsiTop1_tbRegisterConfirmPassword','SsiTop1_tbRegisterConfirmPasswordFake');" style="width:140px;display: none;">
-                            <input name="ctl00$SsiTop1$tbRegisterConfirmPasswordFake" type="text" value="Confirm Password" id="SsiTop1_tbRegisterConfirmPasswordFake" tabindex="8" class="mid_text_box" onfocus="ToggleInputControls('SsiTop1_tbRegisterConfirmPassword','SsiTop1_tbRegisterConfirmPasswordFake')" style="width:140px;">
+                            <input name="ctl00$SsiTop1$tbRegisterConfirmPassword" type="password" id="SsiTop1_tbRegisterConfirmPassword" tabindex="9" class="mid_text_box" title="Register Confirm Password" label="Register Confirm Password" onblur="if(this.value == '') ToggleInputControls('SsiTop1_tbRegisterConfirmPassword','SsiTop1_tbRegisterConfirmPasswordFake');" style="width:140px;display: none;">
+                            <input name="ctl00$SsiTop1$tbRegisterConfirmPasswordFake" type="text" value="Confirm Password" id="SsiTop1_tbRegisterConfirmPasswordFake" tabindex="8" class="mid_text_box" title="Register Confirm Password" label="Register Confirm Password" onfocus="ToggleInputControls('SsiTop1_tbRegisterConfirmPassword','SsiTop1_tbRegisterConfirmPasswordFake')" style="width:140px;">
                             <div class="right_text_box">
                             </div>
                         </div>
@@ -461,7 +485,7 @@ return true;
                         <span id="SsiTop1_cvRegisterPassword" style="display:none;"></span>
                         <br>
                     </span><span class="col3">
-                        <input type="submit" name="ctl00$SsiTop1$btnRegister" value="" onclick="return NicerPage_ClientValidate('vgRegister');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnRegister&quot;, &quot;&quot;, true, &quot;vgRegister&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnRegister" tabindex="10">
+                        <input type="submit" name="ctl00$SsiTop1$btnRegister" value="" onclick="return NicerPage_ClientValidate('vgRegister');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnRegister&quot;, &quot;&quot;, true, &quot;vgRegister&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnRegister" tabindex="10" aria-label="Register">
                         <br>
                     </span>
                     
@@ -471,23 +495,23 @@ return true;
             </div>
         </div>
         <div style="display: none;">
-            <input name="ctl00$SsiTop1$tbHelpEmail" type="text" id="SsiTop1_tbHelpEmail">
-            <input name="ctl00$SsiTop1$tbHelpPasword" type="text" id="SsiTop1_tbHelpPasword">
-            <input name="ctl00$SsiTop1$tbHelpFirstName" type="text" id="SsiTop1_tbHelpFirstName">
-            <input name="ctl00$SsiTop1$tbHelpLastName" type="text" id="SsiTop1_tbHelpLastName">
-            <input type="submit" name="ctl00$SsiTop1$btnSocial" value="Button" id="SsiTop1_btnSocial">
-            <input type="submit" name="ctl00$SsiTop1$btnTwitter" value="Button" id="SsiTop1_btnTwitter">
-            <input type="submit" name="ctl00$SsiTop1$btnGoogle" value="Button" id="SsiTop1_btnGoogle">
+            <input name="ctl00$SsiTop1$tbHelpEmail" type="text" id="SsiTop1_tbHelpEmail" label="Help Email" title="Help Email">
+            <input name="ctl00$SsiTop1$tbHelpPasword" type="text" id="SsiTop1_tbHelpPasword" label="Help Password" title="Help Password">
+            <input name="ctl00$SsiTop1$tbHelpFirstName" type="text" id="SsiTop1_tbHelpFirstName" label="Help First Name" title="Help First Name">
+            <input name="ctl00$SsiTop1$tbHelpLastName" type="text" id="SsiTop1_tbHelpLastName" label="Help Last Name" title="Help Last Name">
+            <input type="submit" name="ctl00$SsiTop1$btnSocial" value="Button" id="SsiTop1_btnSocial" aria-label="Social">
+            <input type="submit" name="ctl00$SsiTop1$btnTwitter" value="Button" id="SsiTop1_btnTwitter" aria-label="Twitter">
+            <input type="submit" name="ctl00$SsiTop1$btnGoogle" value="Button" id="SsiTop1_btnGoogle" aria-label="Google">
         </div>
         <div id="viewform">
             <div id="bodyviewform">
                 <div class="topview">
                     <a class="view">
-                        <img src="/Content/img/loop2.png" alt="">VIEW SAVED QUOTES</a></div>
+                        <img src="/Content/img/loop2.png" alt="View Saved Quotes">VIEW SAVED QUOTES</a></div>
                 <div class="contentview">
                     <div style="float: right; margin-right: -10px;">
                         <a href="javascript:void(0);" onclick="$('#viewform').hide();">
-                            <img src="/Content/img/close.jpg">
+                            <img src="/Content/img/close.jpg" alt="Close">
                         </a>
                     </div>
                 <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'SsiTop1_btnViewSavedQuotes')">
@@ -504,14 +528,14 @@ return true;
                     <div class="textview">
                         <div class="left_text_box">
                         </div>
-                        <input name="ctl00$SsiTop1$tbViewSavedQuotesEmail" type="text" id="SsiTop1_tbViewSavedQuotesEmail" class="mid_text_box" placeholder="Email address" style="width:253px;">
+                        <input name="ctl00$SsiTop1$tbViewSavedQuotesEmail" type="text" id="SsiTop1_tbViewSavedQuotesEmail" class="mid_text_box" label="View Saved Quote" title="View Saved Quote" placeholder="Email address" style="width:253px;">
                         <div class="right_text_box">
                         </div>
                     </div>
                     <span id="SsiTop1_rfvViewSavedQuotesEmail" style="display:none;"></span>
                     <span id="SsiTop1_revViewSavedQuotesEmail" style="display:none;"></span>
                     <br>
-                    <input type="submit" name="ctl00$SsiTop1$btnViewSavedQuotes" value="" onclick="return NicerPage_ClientValidate('vgViewSavedQuotes');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnViewSavedQuotes&quot;, &quot;&quot;, true, &quot;vgViewSavedQuotes&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnViewSavedQuotes" class="batton">
+                    <input type="submit" name="ctl00$SsiTop1$btnViewSavedQuotes" value="" onclick="return NicerPage_ClientValidate('vgViewSavedQuotes');WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTop1$btnViewSavedQuotes&quot;, &quot;&quot;, true, &quot;vgViewSavedQuotes&quot;, &quot;&quot;, false, false))" id="SsiTop1_btnViewSavedQuotes" class="batton" aria-label="View Saved Quotes">
                     <br>
                     
                 
@@ -557,19 +581,65 @@ return true;
             //$('input[placeholder], textarea[placeholder]').placeholder();
             $('#registerform').hide();
             $('#viewform').hide();
+            $('#tbLoginEmail')[0].focus();
         });
+
         $('#loginform a.login').click(function () {
             $('#loginform').hide();
         });
+
+        $('.login').keypress(function (e) {
+            var key = e.which;
+            if (key === 13 || key === 32) // the enter key code
+            {
+                $('#loginform').toggle();
+                //$('input[placeholder], textarea[placeholder]').placeholder();
+                $('#registerform').hide();
+                $('#viewform').hide();
+                $('#tbLoginEmail')[0].focus();
+            }
+        });
+
+        $('#loginform a.login').keypress(function (e) {
+            var key = e.which;
+            if (key === 13 || key === 32) // the enter key code
+            {
+                $('#loginform').hide();
+            }
+        });
+
+
         $('.register').click(function () {
             $('#registerform').toggle();
             //$('input[placeholder], textarea[placeholder]').placeholder();
             $('#loginform').hide();
             $('#viewform').hide();
+            $('#tbRegisterEmail')[0].focus();
         });
         $('#registerform a.register').click(function () {
             $('#registerform').hide();
         });
+
+        $('.register').keypress(function (e) {
+            var key = e.which;
+            if (key === 13 || key === 32) // the enter key code
+            {
+                $('#registerform').toggle();
+                //$('input[placeholder], textarea[placeholder]').placeholder();
+                $('#loginform').hide();
+                $('#viewform').hide();
+                $('#tbRegisterEmail')[0].focus();
+            }
+        });
+        $('#registerform a.register').keypress(function (e) {
+            var key = e.which;
+            if (key === 13 || key === 32) // the enter key code
+            {
+                $('#registerform').hide();
+            }
+        });
+
+
         
         $('.view').click(function () {
             $('#viewform').toggle();
@@ -619,8 +689,14 @@ return true;
         <img src="/~/media/Images/SSI/Home/car.png" alt="Stanley Steemer International" width="210" height="93">
     </a>
     <div class="topleft megdustrochnui">
-        <span class="upper AntonRegular">Beyond Carpet Cleaning</span>
-<br>
+        <!-- <br> <span class="upper AntonRegular" style="font-size: 200%;">For a Cleaner & Healthier Home</span> 
+<br> -->
+
+<img alt="For a Cleaner &amp; Healthier Home" src="/~/media/Images/Uploaded/Tagline_360x80_3.png">
+
+
+<!-- <span class="upper AntonRegular">Beyond Carpet Cleaning</span>
+<br/>
 <span class="size12 marl-5">
   <a href="/residential/carpet-cleaning.aspx">Carpet</a>|
   <a href="/residential/furniture-cleaning.aspx">Furniture</a>|
@@ -629,23 +705,27 @@ return true;
   <a href="/residential/air-duct-cleaning.aspx">Air Duct</a>
 
 </span>
-<br>
+<br/>
 <a href="/residential/water-damage-restoration.aspx">
   <span class="bold colororang size14">Water Damage Restoration</span>
   <span class="bold colororang size18">1-800-783-3637</span>
-</a>
+</a> -->
     </div>
     <input type="hidden" name="ctl00$SsiTopConteiner1$hfShowPopupForm" id="SsiTopConteiner1_hfShowPopupForm">
-    <div id="topRightDefault" class="topright megdustrochnui"><span class="size14">Call your local <span class="bold size14">Stanley Steemer</span></span> <br>
+    <div id="topRightDefault" class="topright megdustrochnui"><span class="size14">Call <span class="bold size14">Stanley Steemer</span></span>
 for a FREE QUOTE<br>
-<span class="bold size18">1-800-STEEMER</span> / <span class="colororang size18">1-800-783-3637</span> </div>
+<span class="bold size18"><a href="tel:1-800-783-3637" title="1-800-STEEMER" style="text-decoration: none; color: black;">1-800-STEEMER<sup>®</sup></a></span> <span class="colororang size18"><a href="tel:1-800-783-3637" title="1-800-783-3637" style="text-decoration: none; color: #d17a11;">(1-800-783-3637)</a></span> </div>
+
+
+
+
     
     <div class="topright_logain" id="topRightChangeLocation" style="display: none;">
         <div class="changelocation">
             
             <div id="close">
                 <a id="pic_but" href="javascript: return false;" onclick="ToggleTopRightLoginDetail( ); return false;">
-                    <img src="/Content/img/close2.jpg"></a></div>
+                    <img src="/Content/img/close2.jpg" alt="Close"></a></div>
 
 
             <span>Please specify your Zip code:</span>
@@ -654,14 +734,14 @@ for a FREE QUOTE<br>
             <div class="textview">
                 <div class="left_text_box">
                 </div>
-           <input name="ctl00$SsiTopConteiner1$tbChangeZip" type="text" id="tbChangeZip" class="mid_text_box" style="width:263px;">
+           <input name="ctl00$SsiTopConteiner1$tbChangeZip" type="text" id="tbChangeZip" class="mid_text_box" label="Change Zip" title="Change Zip" style="width:263px;">
                 <div class="right_text_box">
                 </div>
             </div>
             
 </div>
             <span id="SsiTopConteiner1_rfvChangeZip" style="display:none;"></span>
-            <span id="SsiTopConteiner1_revChangeZip" style="display:none;"></span>
+            <span id="SsiTopConteiner1_revChangeZip" aria-label="Save Zip" name="Save Zip" style="display:none;"></span>
             <input type="submit" name="ctl00$SsiTopConteiner1$btnTCSaveZip" value="&nbsp;" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SsiTopConteiner1$btnTCSaveZip&quot;, &quot;&quot;, true, &quot;vgChangeZip&quot;, &quot;&quot;, false, false))" id="btnTCSaveZip" class="batton">
             <div class="changelocation_validationError">
                 <div id="SsiTopConteiner1_vsChangeZip" class="validationError" style="display:none;">
@@ -675,7 +755,7 @@ for a FREE QUOTE<br>
 <div id="SsiTopConteiner1_tdChangeZip_dlgRequestTerritory" title="Territory" style="display: none;">
     <div>
         There are multiple locations providing service in your area.<br>Please make the appropriate selection.<br><br>
-        <select name="ctl00$SsiTopConteiner1$tdChangeZip$selTerritory" id="SsiTopConteiner1_tdChangeZip_selTerritory" class="popup_select" style="width: 441px">
+        <select name="ctl00$SsiTopConteiner1$tdChangeZip$selTerritory" id="SsiTopConteiner1_tdChangeZip_selTerritory" title="Select Territory" label="Select Territory" class="popup_select" style="width: 441px">
 </select>
     </div>
 </div>
@@ -729,12 +809,12 @@ for a FREE QUOTE<br>
 
 
 <ul id="nav">
-    <li><a class="menuone" id="homemenulink" href="/">Home</a><span class="rasdelmenu"></span></li><li class="mennumb_2"><a href="/residential" class="menutoo" id="residentalcleaningmenulink">Residential</a><ul class="subMenu"><div class="mennumb_str" style="width: 100%;"><div class="topmenu"></div></div><li class="toper"><a href="/residential/aafa" class="">Certified <span style="font-size: 110%; font-family: 'franklin gothic heavy', arial, helvetica, sans-serif;">asthma &amp; allergy friendly</span><span style="vertical-align: 7px;font-size:7px;">TM</span></a></li><li class="mider"><a href="/residential/carpet-cleaning" class="mider">Carpet Cleaning</a></li><li class="mider"><a href="/residential/furniture-cleaning" class="mider">Furniture Cleaning</a></li><li class="mider"><a href="/residential/tile-and-grout" class="mider">Tile &amp; Grout Cleaning</a></li><li class="mider"><a href="/residential/natural-stone" class="mider">Natural Stone Cleaning</a></li><li class="mider"><a href="/residential/hardwood-floor-services" class="mider">Hardwood Floor Services</a></li><li class="mider"><a href="/residential/air-duct-cleaning" class="mider">Air Duct Cleaning</a></li><li class="mider"><a href="/residential/water-damage-restoration" class="mider">Water Damage Restoration</a></li><li class="mider"><a href="/residential/area-rug-cleaning" class="mider">Area Rug Cleaning</a></li><li class="mider"><a href="/residential/fine-area-rug-cleaning" class="mider">Oriental &amp; Fine Area Rug Cleaning</a></li><li class="mider"><a href="/residential/autos-boats" class="mider">Autos, Boats &amp; RVs</a></li><li class="mider"><a href="/residential/insurance-services" class="mider">Insurance Services</a></li><li class="douner"><a href="/residential/how-to videos" class="">Videos</a></li><div class="bottommenu"></div></ul><span class="rasdelmenu"></span></li><li class="mennumb"><a href="/commercial" class="menutoo" id="commercialcleaningmenulink">Commercial</a><ul class="subMenu"><div class="mennumb_str" style="width: 100%;"><div class="topmenu"></div></div><li class="toper"><a href="/commercial/carpet-cleaning" class="">Carpet Cleaning</a></li><li class="mider"><a href="/commercial/furniture-cleaning" class="mider">Furniture Cleaning</a></li><li class="mider"><a href="/commercial/tile-and-grout" class="mider">Tile &amp; Grout Cleaning</a></li><li class="mider"><a href="/commercial/hardwood-floor-services" class="mider">Hardwood Floor Services</a></li><li class="mider"><a href="/commercial/air-duct-cleaning" class="mider">Air Duct Cleaning</a></li><li class="mider"><a href="/commercial/water-damage-restoration" class="mider">Water Damage Repair</a></li><li class="douner"><a href="/commercial/national-accounts" class="">National Accounts</a></li><div class="bottommenu"></div></ul><span class="rasdelmenu"></span></li><li><a href="/residential/aafa" class="menutoo">Certified</a><span class="rasdelmenu"></span></li><li><a href="/residential/how-to videos" class="menutoo">Videos</a><span class="rasdelmenu"></span></li><li><a href="/steemer-products" class="menutoo">Store</a><span class="rasdelmenu"></span></li><li><a href="/faq" class="menutoo">FAQs</a><span class="rasdelmenu"></span></li><li><a href="/careers" class="menutoo">Careers</a><span class="rasdelmenu"></span></li>
+    <li><a class="menuone" id="homemenulink" href="/">Home</a><span class="rasdelmenu"></span></li><li class="mennumb_2"><a href="/residential" class="menutoo" id="residentalcleaningmenulink">Residential</a><ul class="subMenu"><div class="mennumb_str" style="width: 100%;"><div class="topmenu"></div></div><li class="toper"><a href="/residential/aafa" class="">Certified <span style="font-size: 110%; font-family: 'franklin gothic heavy', arial, helvetica, sans-serif;">asthma &amp; allergy friendly</span><span style="vertical-align: 7px;font-size:7px;">TM</span></a></li><li class="mider"><a href="/residential/carpet-cleaning" class="mider">Carpet Cleaning</a></li><li class="mider"><a href="/residential/furniture-cleaning" class="mider">Furniture Cleaning</a></li><li class="mider"><a href="/residential/tile-and-grout" class="mider">Tile &amp; Grout Cleaning</a></li><li class="mider"><a href="/residential/natural-stone" class="mider">Natural Stone Cleaning</a></li><li class="mider"><a href="/residential/hardwood-floor-services" class="mider">Hardwood Floor Cleaning</a></li><li class="mider"><a href="/residential/air-duct-cleaning" class="mider">Air Duct Cleaning</a></li><li class="mider"><a href="/residential/water-damage-restoration" class="mider">Water Damage Restoration</a></li><li class="mider"><a href="/residential/area-rug-cleaning" class="mider">Area Rug Cleaning</a></li><li class="mider"><a href="/residential/fine-area-rug-cleaning" class="mider">Oriental &amp; Fine Area Rug Cleaning</a></li><li class="mider"><a href="/residential/autos-boats" class="mider">Autos, Boats &amp; RVs</a></li><li class="mider"><a href="/residential/insurance-services" class="mider">Insurance Services</a></li><li class="douner"><a href="/residential/how-to videos" class="">Videos</a></li><div class="bottommenu"></div></ul><span class="rasdelmenu"></span></li><li class="mennumb"><a href="/commercial" class="menutoo" id="commercialcleaningmenulink">Commercial</a><ul class="subMenu"><div class="mennumb_str" style="width: 100%;"><div class="topmenu"></div></div><li class="toper"><a href="/commercial/carpet-cleaning" class="">Carpet Cleaning</a></li><li class="mider"><a href="/commercial/furniture-cleaning" class="mider">Furniture Cleaning</a></li><li class="mider"><a href="/commercial/tile-and-grout" class="mider">Tile &amp; Grout Cleaning</a></li><li class="mider"><a href="/commercial/hardwood-floor-services" class="mider">Hardwood Floor Cleaning</a></li><li class="mider"><a href="/commercial/air-duct-cleaning" class="mider">Air Duct Cleaning</a></li><li class="mider"><a href="/commercial/water-damage-restoration" class="mider">Water Damage Repair</a></li><li class="douner"><a href="/commercial/national-accounts" class="">National Accounts</a></li><div class="bottommenu"></div></ul><span class="rasdelmenu"></span></li><li><a href="/residential/aafa" class="menutoo">Certified</a><span class="rasdelmenu"></span></li><li><a href="/residential/how-to videos" class="menutoo">Videos</a><span class="rasdelmenu"></span></li><li><a href="/steemer-products" class="menutoo">Store</a><span class="rasdelmenu"></span></li><li><a href="/faq" class="menutoo">FAQs</a><span class="rasdelmenu"></span></li><li><a href="/careers" class="menutoo">Careers</a><span class="rasdelmenu"></span></li>
     <div class="menuform">
     <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'menu_SsiMenu1_btnSearch')">
 	
-        <input type="submit" name="ctl00$menu$SsiMenu1$btnSearch" value="" onclick="return HasSearchVal();" id="menu_SsiMenu1_btnSearch" class="batseatch">
-        <input name="ctl00$menu$SsiMenu1$tbSearch" type="text" id="menu_SsiMenu1_tbSearch" class="search" placeholder="Search our site...">
+        <input type="submit" name="ctl00$menu$SsiMenu1$btnSearch" value="" onclick="return HasSearchVal();" id="menu_SsiMenu1_btnSearch" class="batseatch" aria-label="Search">
+        <input name="ctl00$menu$SsiMenu1$tbSearch" type="text" id="menu_SsiMenu1_tbSearch" class="search" label="Search" title="Search" placeholder="Search our site...">
     
 </div>
     </div>
@@ -749,9 +829,12 @@ for a FREE QUOTE<br>
         <div id="conteinercontent">
             <div id="contentlefl">
                 
-                <h1>Privacy</h1><span class="to_text"><strong><span style="text-decoration: underline;">Introduction</span></strong>
-<p>Stanley Steemer International, Inc. (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.</p>
-<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website <a href="/">www.stanleysteemer.com</a> (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
+                <h1><center>Stanley Steemer International, Inc.<br>Privacy Policy</center></h1><span class="to_text"><p><strong>EFFECTIVE DATE: July 26, 2016</strong></p>
+
+
+<strong><span style="text-decoration: underline;">Introduction</span></strong>
+<p>Stanley Steemer International, Inc. (the <strong>"Company"</strong> or <strong>"We"</strong>) respects your privacy and is committed to protecting it through our compliance with this policy.</p>
+<p>This policy describes the types of information we may collect from you or that you may provide when you visit the website <a href="/">www.stanleysteemer.com</a> (our <strong>"Website"</strong>) and our practices for collecting, using, maintaining, protecting and disclosing that information.</p>
 <p>This policy applies to information we collect:</p>
 <ul>
     <li>On this Website.</li>
@@ -763,60 +846,52 @@ for a FREE QUOTE<br>
     <li>us offline or through any other means, including on any other website operated by the Company or any third party (including our affiliates; subsidiaries; or franchisees); or</li>
     <li>any third party (including our affiliates; subsidiaries; or franchisees), including through any application or content (including advertising) that may link to or be accessible from the Website.</li>
 </ul>
-<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
+<p>Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy. This Policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.</p>
 <p><strong><span style="text-decoration: underline;">Children Under the Age of 13</span></strong></p>
 <p>Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at <a href="mailto:privacy@stanleysteemer.com">privacy@stanleysteemer.com</a>.</p>
 <p><strong><span style="text-decoration: underline;">Information We Collect About You and How We Collect It</span></strong></p>
 <p>We collect several types of information from and about users of our Website, including information:</p>
 <ul>
-    <li>by which you may be personally identified, such as name, postal address, e-mail address or telephone number ("personal information");</li>
-    <li>about your internet connection, the equipment you use to access our Website and usage details.</li>
-</ul>
-<p>We collect this information:</p>
+    <li><span style="text-decoration: underline;">Information You Manually Provide.</span>  The Company collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use the Website, for example, we collect the information you provide when you request service, express interest in becoming a franchisee, send us questions, or otherwise interact with the Website. Some of the information you manually provide may be information by which you may be personally identified (<strong>“personal information”</strong>) such as name, postal address, e-mail address and telephone number.</li>
+    <li><span style="text-decoration: underline;">Information from Social Media Platforms.</span>  You may be able to register with, log on to, or enhance your profile on the Website by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. </li>
+    <li><span style="text-decoration: underline;">Information from Your Browser or Device.</span>  The Company collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings. The information we receive from your web browser and device typically is not, in and of itself, personally identifiable. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you.</li>
+    <li><span style="text-decoration: underline;">Information Collected by Cookies and Other Technologies.</span>  We use “cookies” and other technologies to collect information and support certain features of the Website. For example, we may use these technologies to:
 <ul>
-    <li>Directly from you when you provide it to us.</li>
-    <li>Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.</li>
-    <li>From third parties, for example, our business partners.</li>
+<li>collect information about the ways visitors use the Website—which pages they visit, which links they use, and how long they stay on each page; </li>
+<li>support the features and functionality of the Website—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;</li>
+<li>personalize your experience when you use the Website; and</li>
+<li>improve our marketing efforts, including through use of targeted advertising. </li>
 </ul>
-<strong><span style="text-decoration: underline;">
-Information You Provide to Us</span></strong>
-<p>The information we collect on or through our Website may include:</p>
-<ul>
-    <li>Information that you provide by filling in forms on our Website. This includes information provided at the time of scheduling or requesting services or registering to use our Website. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.</li>
-    <li>Records and copies of your correspondence (including e-mail addresses), if you contact us.</li>
-    <li>Your responses to surveys that we might ask you to complete for research purposes.</li>
-    <li>Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.</li>
-    <li>Your search queries on the Website.</li>
-</ul>
-<p>
-You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.</p>
-<p><strong><span style="text-decoration: underline;">
-Usage Details, IP Addresses, Cookies and Other Technologies</span></strong></p>
-<p>As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:</p>
-<ul>
-    <li>Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.</li>
-    <li>Information about your computer and internet connection, including your IP address, operating system and browser type.</li>
-</ul>
-<p>The information we collect automatically helps us to improve our Website and to deliver a better and more personalized service by enabling us to:</p>
-<ul>
-    <li>Estimate our audience size and usage patterns.</li>
-    <li>Store information about your preferences, allowing us to customize our Website according to your individual interests.</li>
-    <li>Recognize you when you return to our Website.</li>
-</ul>
+
 <p>The technologies we use for this automatic data collection may include:</p>
 <ul>
-    <li>Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</li>
-    <li>Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.&nbsp;</li>
-    <li>Web Beacons. Pages of our the Website [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
+    <li><strong>Cookies (or browser cookies).</strong> A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.</li>
+    <li><strong>Flash Cookies.</strong> Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.&nbsp;</li>
+    <li><strong>Web Beacons.</strong> Pages of our the Website [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).</li>
 </ul>
-<p>We do not collect Personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.</p>
+<p>The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit our Website, you may be unable to use all of the functionality of the Website if your browser rejects our cookies.</p><p></p></li>
+<li><span style="text-decoration: underline;">Information About Third Party Cookies and Other Technologies.</span>
+<ul>
+<li>In addition to the cookies and similar technologies delivered by the Company through our Website, certain third parties may deliver cookies and similar technologies to you for a variety of reasons. For example, the Company uses Google Analytics code that allows for certain forms of display advertising and other advanced features. Subject to change, the Google Display Advertising features the Company currently uses are Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting.</li>
+<li>These features are used to advertise online; to allow third-party vendors, including Google, to show you advertising across the Internet; to allow the Company and third-party vendors, including Google, to use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on your past visits to the Website and to report how ad impressions, uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Website. Data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) is also combined with Google Analytics to better understand the needs of our users and to improve the services offered through the Website.</li>
+<li>You may opt out of such display advertising at any time by visiting your <a href="https://support.google.com/ads/answer/2662856?hl=en" target="_blank">Google Ads Settings</a> page or by installing and running the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics Opt-out Browser Add-on</a>. Please note the Add-on does not prevent information from being sent to the Company.</li>
+<li>In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to our Website or other websites, please visit the Digital Advertising Alliance website for <a href="http://www.aboutads.info/choices/" target="_blank&quot;">Consumer Choice</a>. You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on our Website do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies. Please note that the industry-developed opt-out mechanism is device and browser specific. If you wish to opt-out from having interest-based information collected by participating entities across all devices and browsers, you need take the steps outlined above from each device and browser.</li>
+</ul></li>
+
+</ul>
 <p><strong><span style="text-decoration: underline;">
 How We Use Your Information</span></strong></p>
 <p>We use information that we collect about you or that you provide to us, including any personal information:</p>
 <ul>
     <li>To present our Website and its contents to you.</li>
+    <li>To provide you with effective customer service.</li>
     <li>To provide you with information, products or services that you request from us.</li>
+    <li>To contact you with special offers and other information we believe will be of interest to you (consistent with any privacy preferences you have expressed to us).</li>
+    <li>To invite you to participate in surveys and provide feedback to us (consistent with any privacy preferences you have expressed to us).</li>
     <li>To fulfill any other purpose for which you provide it.</li>
+    <li>To better understand your needs and interests.</li>
+    <li>To improve our products and services.</li>
+    <li>To improve our marketing and promotional efforts.</li>
     <li>To provide you with notices about your account, including expiration and renewal notices.</li>
     <li>To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.</li>
     <li>To notify you about changes to our Website or any products or services we offer or provide though it.</li>
@@ -824,7 +899,6 @@ How We Use Your Information</span></strong></p>
     <li>In any other way we may describe when you provide the information.</li>
     <li>For any other purpose with your consent.</li>
 </ul>
-<p>We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data.</p>
 <p><strong><span style="text-decoration: underline;">
 Disclosure of Your Information</span></strong></p>
 <p>We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.</p>
@@ -832,6 +906,9 @@ Disclosure of Your Information</span></strong></p>
 <ul>
     <li>To our subsidiaries; affiliates; or franchisees.</li>
     <li>To contractors, service providers and other third parties we use to support our business.</li>
+<li>To Social Media Platforms. We may provide functionality on our Website that allows you to automatically post information about the actions you take on our Website to a third-party social media platform (such as Facebook or Twitter). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform may be able to see the actions you have taken—for example, the products or services you have purchased. Thus, you should have no expectation of privacy in those actions. Further, if you choose to link your profile on our Website with an account on a third-party social media platform, we may share the information in your profile with that third-party platform. We may also use third-party social media platforms to offer you interest-based ads. To offer such ads, we may convert your email address into a unique value which can be matched by our partner company with a user on their platform. Although we do not provide any personal information to these platform vendors, they may gain insights about individuals who respond to the ads we serve.</li>
+    <li>To Other Users of this Site. You may be able to submit User-Generated Content on or through our Website or other Social Media Platforms (e.g., Facebook, Instagram, YouTube, Twitter, Snapchat, etc.). In this Policy, “User-Generated Content” or “UGC” refers to content that you post using the Social Media Platforms, the Website and/or the social networking tools we make available to you. Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through our Website.</li>
+
     <li>To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Stanley Steemer International, Inc.’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Stanley Steemer International, Inc. about our Website users is among the assets transferred.</li>
     <li>To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the "e-mail a friend" feature of our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients.</li>
     <li>For any other purpose disclosed by us when you provide the information.</li>
@@ -840,17 +917,18 @@ Disclosure of Your Information</span></strong></p>
 <p>We may also disclose your personal information:</p>
 <ul>
     <li>To comply with any court order, law or legal process, including to respond to any government or regulatory request.</li>
-    <li>To enforce or apply our <a href="/terms-and-conditions">terms of use</a> and other agreements, including for billing and collection purposes.</li>
+    <li>To enforce or apply our <a href="/terms-and-conditions">Terms of Use</a> of the Website and other agreements, including for billing and collection purposes.</li>
+
+    <li>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Stanley Steemer International, Inc., our customers or others.</li>
 </ul>
-<p>If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Stanley Steemer International, Inc., our customers or others.</p>
 <p><strong><span style="text-decoration: underline;">
 Choices About How We Use and Disclose Your Information</span></strong></p>
 <p>
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:</p>
 <ul>
-    <li>Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.</li>
-    <li>Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data &nbsp;or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to <a href="mailto:privacy@stanleysteemer.com">privacy@stanleysteemer.com</a>. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a the purchase of products or services, product service experience or other transactions.</li>
-    <li>Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to <a href="mailto:privacy@stanleysteemer.com">privacy@stanleysteemer.com</a>.</li>
+    <li><strong>Tracking Technologies and Advertising.</strong> You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.</li>
+    <li><strong>Promotional Offers from the Company.</strong> If we have sent you a promotional e-mail, you can follow the link at the bottom of such e-mails entitled, “Manage My Preferences or Unsubscribe” to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of the purchase of products or services, product service experience or other transactions. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by visiting the <a href="http://email.stanleysteemer.com/public/webform/render_form/220urr0ogc5vjwaj1y4hr2ruulxhb/e3df3aea9c9efc5d1e25f1a45f28625a/addcontact" target="_blank">Website</a> and adjusting your user preferences as appropriate.</li>
+    <li><strong>Targeted Advertising.</strong> If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your advertising preferences by visiting the <a href="http://email.stanleysteemer.com/public/webform/render_form/220urr0ogc5vjwaj1y4hr2ruulxhb/e3df3aea9c9efc5d1e25f1a45f28625a/addcontact" target="_blank">Website</a> and adjusting your user preferences as appropriate.</li>
 </ul>
 <p><strong><span style="text-decoration: underline;">
 Your California Privacy Rights</span></strong></p>
@@ -976,7 +1054,7 @@ Dublin, Ohio 43016</p></span>
 		
 <div class="vkladkacontent" id="residential">
    <!-- <span class="date_style">
-        MAY <span class='date_style_dd'>06</span>
+        DEC <span class='date_style_dd'>26</span>
     </span>
     <img src="/Content/img/kalendar.png" alt="" />-->
 
@@ -984,7 +1062,7 @@ Dublin, Ohio 43016</p></span>
         <!--Get Your <span class="colorwhite">Enter your zip code to begin your instant quote.</span>-->
     Enter your zip code to begin your instant quote</span>
    <span class="gyf-realTimeQuote" style="padding-top:9px">
-       <img src="/ssi/images/spacer.gif" width="1" height="20"><!--Real-Time Quote in 60 Seconds!--></span>
+       <img src="/ssi/images/spacer.gif" alt="null" width="1" height="20"><!--Real-Time Quote in 60 Seconds!--></span>
    <!-- <span class="gyf-ScheduleOnline">
         Schedule Online &amp; Save!</span>-->
     
@@ -995,7 +1073,7 @@ Dublin, Ohio 43016</p></span>
         <span class="check"><input id="ContentPlaceHolder1_sidebarright_0_cbResidentialTileGrout" type="checkbox" name="ctl00$ContentPlaceHolder1$sidebarright_0$cbResidentialTileGrout" tabindex="23"><label for="ContentPlaceHolder1_sidebarright_0_cbResidentialTileGrout">Tile &amp; Grout</label></span>
         <span class="check"><input id="ContentPlaceHolder1_sidebarright_0_cbResidentialHardwoodFloors" type="checkbox" name="ctl00$ContentPlaceHolder1$sidebarright_0$cbResidentialHardwoodFloors" tabindex="24"><label for="ContentPlaceHolder1_sidebarright_0_cbResidentialHardwoodFloors">Hardwood Floors</label></span>
         <span class="check"><input id="ContentPlaceHolder1_sidebarright_0_cbResidentialAirDucts" type="checkbox" name="ctl00$ContentPlaceHolder1$sidebarright_0$cbResidentialAirDucts" tabindex="25"><label for="ContentPlaceHolder1_sidebarright_0_cbResidentialAirDucts">Air Ducts</label></span>
-        <span class="check"><input id="ContentPlaceHolder1_sidebarright_0_cbResidentialAreaRugs" type="checkbox" name="ctl00$ContentPlaceHolder1$sidebarright_0$cbResidentialAreaRugs" tabindex="26"><label for="ContentPlaceHolder1_sidebarright_0_cbResidentialAreaRugs">Area Rugs</label></span>
+        <span class="check"><input id="ContentPlaceHolder1_sidebarright_0_cbResidentialAreaRugs" type="checkbox" name="ctl00$ContentPlaceHolder1$sidebarright_0$cbResidentialAreaRugs" tabindex="26"><label for="ContentPlaceHolder1_sidebarright_0_cbResidentialAreaRugs">In-Home Area Rugs</label></span>
     </div>
 
     <div class="vleft">
@@ -1013,7 +1091,7 @@ Dublin, Ohio 43016</p></span>
             </div>
             
             <input type="hidden" name="ctl00$ContentPlaceHolder1$sidebarright_0$hdnIsResidentalTerritoryValid" id="hdnIsResidentalTerritoryValid" value="0">
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbResidentialZip" type="text" maxlength="5" id="_tbResidentialZip" tabindex="33" class="mid_text_box" onfocusout="$( '#hdnIsResidentalTerritoryValid' ).val( '1' );" placeholder="Zip Code" style="width:128px;margin-top:10px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbResidentialZip" type="text" maxlength="5" id="_tbResidentialZip" tabindex="33" class="mid_text_box" title="Residential Zip" onfocusout="$( '#hdnIsResidentalTerritoryValid' ).val( '1' );" placeholder="Zip Code" style="width:128px;margin-top:10px;">
             <div class="right_text_box" style="margin-top:10px;">
             </div>
 
@@ -1023,7 +1101,7 @@ Dublin, Ohio 43016</p></span>
         <span id="ContentPlaceHolder1_sidebarright_0_rfvResidentialZip" style="color:Red;display:none;"></span>
         <span id="ContentPlaceHolder1_sidebarright_0_revResidentialZip" style="color:Red;display:none;"></span>
         
-        <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_0$btnResidentialGetQuote" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_0$btnResidentialGetQuote&quot;, &quot;&quot;, true, &quot;vgResidential&quot;, &quot;&quot;, false, false))" id="btnResidentialGetQuote" tabindex="38" class="getquote" disabled="disabled"></div>
+        <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_0$btnResidentialGetQuote" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_0$btnResidentialGetQuote&quot;, &quot;&quot;, true, &quot;vgResidential&quot;, &quot;&quot;, false, false))" id="btnResidentialGetQuote" tabindex="38" class="getquote" aria-label="Get Quote" disabled="disabled"></div>
         <div id="ContentPlaceHolder1_sidebarright_0_vsResidential" class="validationError" style="color:Red;display:none;">
 
 		</div>
@@ -1035,7 +1113,7 @@ Dublin, Ohio 43016</p></span>
 <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btnCommercialGetQuote')">
 		
 <div class="vkladkacontent" style="display: none;" id="commercial">
-    <img src="/Content/img/telef.png" alt="">
+    <img src="/Content/img/telef.png" alt="Telephone">
     <span class="bold megstr18" style="font-size: 18px;">
         Contact Us for a <span class="colorwhite">
             FREE ESTIMATE</span></span><br>
@@ -1060,7 +1138,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialFirstName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialFirstName" tabindex="50" class="mid_text_box" placeholder="First Name" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialFirstName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialFirstName" tabindex="50" class="mid_text_box" title="Commercial First Name" label="Commercial First Name" placeholder="First Name" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1071,7 +1149,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialCompanyName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialCompanyName" tabindex="52" class="mid_text_box" placeholder="Company Name" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialCompanyName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialCompanyName" tabindex="52" class="mid_text_box" title="Commercial Company Name" label="Commercial Company Name" placeholder="Company Name" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1082,7 +1160,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialPhoneNumber" type="text" maxlength="10" id="ContentPlaceHolder1_sidebarright_0__tbCommercialPhoneNumber" tabindex="54" class="mid_text_box phone" placeholder="Phone Number" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialPhoneNumber" type="text" maxlength="10" id="ContentPlaceHolder1_sidebarright_0__tbCommercialPhoneNumber" tabindex="54" class="mid_text_box phone" title="Commercial Phone Number" label="Commercial Phone Number" placeholder="Phone Number" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1093,7 +1171,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialEmail" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialEmail" tabindex="56" class="mid_text_box" placeholder="Email" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialEmail" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialEmail" tabindex="56" class="mid_text_box" title="Commercial Email" label="Commercial Email" placeholder="Email" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1109,7 +1187,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialLastName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialLastName" tabindex="51" class="mid_text_box" placeholder="Last Name" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialLastName" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialLastName" tabindex="51" class="mid_text_box" title="Commercial Last Name" label="Commercial Last Name" placeholder="Last Name" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1120,7 +1198,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialNumberOfLocations" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialNumberOfLocations" tabindex="53" class="mid_text_box" placeholder="Number of Locations" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialNumberOfLocations" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialNumberOfLocations" tabindex="53" class="mid_text_box" title="Commercial Number Of Locations" label="Commercial Number Of Locations" placeholder="Number of Locations" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1133,7 +1211,7 @@ Dublin, Ohio 43016</p></span>
             </div>
             
             <input type="hidden" name="ctl00$ContentPlaceHolder1$sidebarright_0$hdnIsCommercialTerritoryValid" id="hdnIsCommercialTerritoryValid" value="0">
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialZip" type="text" maxlength="5" id="_tbCommercialZip" tabindex="55" class="mid_text_box" placeholder="Zip Code" onfocusout="$( '#hdnIsCommercialTerritoryValid' ).val( '1' );" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialZip" type="text" maxlength="5" id="_tbCommercialZip" tabindex="55" class="mid_text_box" title="Commercial Zip" label="Commercial Zip" placeholder="Zip Code" onfocusout="$( '#hdnIsCommercialTerritoryValid' ).val( '1' );" style="width:128px;">
             <div class="right_text_box">
 
             </div>
@@ -1147,7 +1225,7 @@ Dublin, Ohio 43016</p></span>
         <div class="textform">
             <div class="left_text_box_quote">
             </div>
-            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialConfirmEmail" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialConfirmEmail" tabindex="57" class="mid_text_box" placeholder="Confirm Email" style="width:128px;">
+            <input name="ctl00$ContentPlaceHolder1$sidebarright_0$_tbCommercialConfirmEmail" type="text" id="ContentPlaceHolder1_sidebarright_0__tbCommercialConfirmEmail" tabindex="57" class="mid_text_box" title="Commercial Confirm Email" label="Commercial Confirm Email" placeholder="Confirm Email" style="width:128px;">
             <div class="right_text_box">
             </div>
         </div>
@@ -1164,7 +1242,7 @@ Dublin, Ohio 43016</p></span>
         -->
         <span id="ContentPlaceHolder1_sidebarright_0_cvCommercialServise" style="color:Red;display:none;"></span>
 
-        <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_0$btnCommercialGetQuote" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_0$btnCommercialGetQuote&quot;, &quot;&quot;, true, &quot;vgCommercial&quot;, &quot;&quot;, false, false))" id="btnCommercialGetQuote" tabindex="59" class="getquote b_submit" onkeydown="CommercialOnClick(event)">
+        <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_0$btnCommercialGetQuote" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_0$btnCommercialGetQuote&quot;, &quot;&quot;, true, &quot;vgCommercial&quot;, &quot;&quot;, false, false))" id="btnCommercialGetQuote" tabindex="59" class="getquote b_submit" aria-label="Get Commercial Quote" onkeydown="CommercialOnClick(event)">
         </div>
         <div id="ContentPlaceHolder1_sidebarright_0_vsCommercial" class="validationError" style="color:Red;display:none;">
 
@@ -1238,7 +1316,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$sidebarri
 <div id="ContentPlaceHolder1_sidebarright_1_tdResidential_dlgRequestTerritory" title="Territory" style="display: none;">
     <div>
         There are multiple locations providing service in your area.<br>Please make the appropriate selection.<br><br>
-        <select name="ctl00$ContentPlaceHolder1$sidebarright_1$tdResidential$selTerritory" id="ContentPlaceHolder1_sidebarright_1_tdResidential_selTerritory" class="popup_select" style="width: 441px">
+        <select name="ctl00$ContentPlaceHolder1$sidebarright_1$tdResidential$selTerritory" id="ContentPlaceHolder1_sidebarright_1_tdResidential_selTerritory" title="Select Territory" label="Select Territory" class="popup_select" style="width: 441px">
 	</select>
     </div>
 </div>
@@ -1285,16 +1363,16 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$sidebarri
         <div class="RStext">
             <div style="float: left;">
                 <div class="left_text_box" style="margin-top: 10px;"></div>
-                <input name="ctl00$ContentPlaceHolder1$sidebarright_1$tbRsSignUpEmail" type="text" id="tbRsSignUpEmail" tabindex="200" class="mid_text_box" placeholder="Email">
+                <input name="ctl00$ContentPlaceHolder1$sidebarright_1$tbRsSignUpEmail" type="text" id="tbRsSignUpEmail" tabindex="200" class="mid_text_box" title="Coupon Signup Email" label="Coupon Signup Email" placeholder="Email">
                 <div class="right_text_box" style="margin-top: 10px;"></div>
             </div>
             <div style="clear: both;"></div>
             <div style="float: left;">
                 <div class="left_text_box" style="margin-top: 10px;"></div>
-                <input name="ctl00$ContentPlaceHolder1$sidebarright_1$tbRsSignUpZip" type="text" maxlength="5" id="tbRsSignUpZip" tabindex="201" class="mid_text_box" placeholder="Zip Code">
+                <input name="ctl00$ContentPlaceHolder1$sidebarright_1$tbRsSignUpZip" type="text" maxlength="5" id="tbRsSignUpZip" tabindex="201" class="mid_text_box" title="Coupon Signup Zip" label="Coupon Signup Zip" placeholder="Zip Code">
                 <div class="right_text_box" style="margin-top: 10px;"></div>
             </div>
-            <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_1$btnRsSignUp" value="" onclick="ClearMessages();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_1$btnRsSignUp&quot;, &quot;&quot;, true, &quot;vgRsSignUp&quot;, &quot;&quot;, false, false))" id="btnRsSignUp" tabindex="202" class="RStextbat">
+            <input type="submit" name="ctl00$ContentPlaceHolder1$sidebarright_1$btnRsSignUp" value="" onclick="ClearMessages();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$sidebarright_1$btnRsSignUp&quot;, &quot;&quot;, true, &quot;vgRsSignUp&quot;, &quot;&quot;, false, false))" id="btnRsSignUp" tabindex="202" class="RStextbat" aria-label="Coupon Signup">
         </div>
         <div class="signup_validation">
             
@@ -1314,10 +1392,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$sidebarri
         $('.successMsg').hide();
         $('#vsRsSignUp').val("");
         $('#vsRsSignUp').hide();
+
         var trackingUrl = 'https://insight.adsrvr.org/track/conv/?adv=ne3x775&ct=0:72prt31e&fmt=3';
         $('<img />').on('load').attr('src', trackingUrl);
     }
 </script>
+
 
             </div>
             <div>
@@ -1332,7 +1412,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$sidebarri
     </div>
 
                 </div>
-                <div class="footer1"><div class="conteiner"><div class="status"><a href="/residential/water-damage-restoration"><img src="/Content/img/cars.png" alt=""><span class="WaterDamageRestoration"><img src="/Content/img/24h.png" class="h24hh"><span class="hour">Hour Emergency </span><span class="water_rest">Water Restoration Services</span></span></a></div><div class="menufoother bold size14 colororang"><span class="id1">Navigation</span><span class="id2">Residential Cleaning</span><span class="id2">Commercial Cleaning</span><span class="id3">Latest Tweets</span></div></div></div><hr><div class="footer1"><div class="conteiner"><div class="id1"><ul><li><a href="/">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/faq">FAQs</a></li><li><a href="/franchising">Franchising</a></li><li><a href="/careers">Careers</a></li><li><a href="/newsroom">Newsroom</a></li><li><a href="/blog">Blog</a></li><li><a href="/locations-home">Locations</a></li><li><a href="/contact-us">Contact Us</a></li></ul></div><div class="id2"><ul><li><a href="/residential/aafa">Certified <span style="font-size: 110%; font-family: 'franklin gothic heavy', arial, helvetica, sans-serif;">asthma &amp; allergy friendly</span><span style="vertical-align: 7px;font-size:7px;">TM</span></a></li><li><a href="/residential/carpet-cleaning">Carpet Cleaning</a></li><li><a href="/residential/furniture-cleaning">Furniture Cleaning</a></li><li><a href="/residential/tile-and-grout">Tile &amp; Grout Cleaning</a></li><li><a href="/residential/natural-stone">Natural Stone Cleaning</a></li><li><a href="/residential/hardwood-floor-services">Hardwood Floor Services</a></li><li><a href="/residential/air-duct-cleaning">Air Duct Cleaning</a></li><li><a href="/residential/water-damage-restoration">Water Damage Restoration</a></li><li><a href="/residential/area-rug-cleaning">Area Rug Cleaning</a></li><li><a href="/residential/fine-area-rug-cleaning">Oriental &amp; Fine Area Rug Cleaning</a></li><li><a href="/residential/autos-boats">Autos, Boats &amp; RVs</a></li><li><a href="/residential/insurance-services">Insurance Services</a></li><li><a href="/residential/how-to videos">Videos</a></li></ul></div><div class="id2"><ul><li><a href="/commercial/carpet-cleaning">Carpet Cleaning</a></li><li><a href="/commercial/furniture-cleaning">Furniture Cleaning</a></li><li><a href="/commercial/tile-and-grout">Tile &amp; Grout Cleaning</a></li><li><a href="/commercial/hardwood-floor-services">Hardwood Floor Services</a></li><li><a href="/commercial/air-duct-cleaning">Air Duct Cleaning</a></li><li><a href="/commercial/water-damage-restoration">Water Damage Repair</a></li><li><a href="/commercial/national-accounts">National Accounts</a></li></ul></div><div class="id3">
+                <div class="footer1"><div class="conteiner"><div class="status"><a href="/residential/water-damage-restoration"><img src="/Content/img/cars.png" alt="Vans"><span class="WaterDamageRestoration"><img src="/Content/img/24h.png" alt="24 Hour Water Restoration" class="h24hh"><span class="hour">Hour Emergency </span><span class="water_rest">Water Restoration Services</span></span></a></div><div class="menufoother bold size14 colororang"><span class="id1">Navigation</span><span class="id2">Residential Cleaning</span><span class="id2">Commercial Cleaning</span><span class="id3">Latest Tweets</span></div></div></div><hr><div class="footer1"><div class="conteiner"><div class="id1"><ul><li><a href="/">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/faq">FAQs</a></li><li><a href="/franchising">Franchising</a></li><li><a href="/careers">Careers</a></li><li><a href="/newsroom">Newsroom</a></li><li><a href="/blog">Blog</a></li><li><a href="/locations-home">Locations</a></li><li><a href="/contact-us">Contact Us</a></li></ul></div><div class="id2"><ul><li><a href="/residential/aafa">Certified <span style="font-size: 110%; font-family: 'franklin gothic heavy', arial, helvetica, sans-serif;">asthma &amp; allergy friendly</span><span style="vertical-align: 7px;font-size:7px;">TM</span></a></li><li><a href="/residential/carpet-cleaning">Carpet Cleaning</a></li><li><a href="/residential/furniture-cleaning">Furniture Cleaning</a></li><li><a href="/residential/tile-and-grout">Tile &amp; Grout Cleaning</a></li><li><a href="/residential/natural-stone">Natural Stone Cleaning</a></li><li><a href="/residential/hardwood-floor-services">Hardwood Floor Cleaning</a></li><li><a href="/residential/air-duct-cleaning">Air Duct Cleaning</a></li><li><a href="/residential/water-damage-restoration">Water Damage Restoration</a></li><li><a href="/residential/area-rug-cleaning">Area Rug Cleaning</a></li><li><a href="/residential/fine-area-rug-cleaning">Oriental &amp; Fine Area Rug Cleaning</a></li><li><a href="/residential/autos-boats">Autos, Boats &amp; RVs</a></li><li><a href="/residential/insurance-services">Insurance Services</a></li><li><a href="/residential/how-to videos">Videos</a></li></ul></div><div class="id2"><ul><li><a href="/commercial/carpet-cleaning">Carpet Cleaning</a></li><li><a href="/commercial/furniture-cleaning">Furniture Cleaning</a></li><li><a href="/commercial/tile-and-grout">Tile &amp; Grout Cleaning</a></li><li><a href="/commercial/hardwood-floor-services">Hardwood Floor Cleaning</a></li><li><a href="/commercial/air-duct-cleaning">Air Duct Cleaning</a></li><li><a href="/commercial/water-damage-restoration">Water Damage Repair</a></li><li><a href="/commercial/national-accounts">National Accounts</a></li></ul></div><div class="id3">
  
  <div id="TwitterWidget">
     
@@ -1343,7 +1423,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ContentPlaceHolder1$sidebarri
 </div>
 <a href="http://twitter.com/stanleysteemer">
             Read more
-          </a></div></div></div><div id="footer2"><div class="conteiner"><span class="id1"><br><a href="/terms-and-conditions">Terms &amp; Conditions</a><br><a href="/privacy">Privacy</a></span><span class="id2">Copyright © 2001-2012 Stanley Steemer International, Inc. All rights reserved. STANLEY STEEMER Carpet Cleaner identifies the products and services of Stanley Steemer International, Inc. and is registered with the U.S. Patent and Trademark Office. Any unauthorized use of the Stanley Steemer name or trademark is prohibited by law.</span></div></div>
+          </a></div></div></div><div id="footer2"><div class="conteiner"><span class="id1"><br><a href="/terms-and-conditions">Terms of Use</a><br><a href="/privacy">Privacy Policy</a></span><span class="id2">Copyright © 2001-2016 Stanley Steemer International, Inc. All Rights Reserved. All Stanley Steemer Franchise Locations are Independently Owned and Operated.  Available Services; Pricing; Promotions; and Hours of Operation may vary by location.  <!-- STANLEY STEEMER Carpet Cleaner identifies the products and services of Stanley Steemer International, Inc. and is registered with the U.S. Patent and Trademark Office. Any unauthorized use of the Stanley Steemer name or trademark is prohibited by law. --></span></div></div>
             </div>
         </div>
         <div id="dialog-message">
@@ -1926,8 +2006,7 @@ document.getElementById('ContentPlaceHolder1_sidebarright_1_revRsSignUpZip').dis
 </script>
 </form><div class="ui-dialog ui-widget ui-widget-content ui-corner-all " tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-dialog">Your session is about to expire!</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="dialog" style="" class="ui-dialog-content ui-widget-content">
 	<p>You will be logged off in <span id="dialog-countdown"></span> seconds.</p>
-	<p>Do you want to continue your session?</p>
-</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button">Yes, Keep Working</button><button type="button">No, Logoff</button></div></div></div>
+</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button">Keep Working</button><button type="button">Logoff</button></div></div></div>
     
     
 
