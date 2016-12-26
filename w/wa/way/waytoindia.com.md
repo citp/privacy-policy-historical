@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waytoindia.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405234307id_/http%3A//www.waytoindia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waytoindia.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227002310id_/http%3A//www.waytoindia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Waytoindia
 
