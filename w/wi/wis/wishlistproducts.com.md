@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052147id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistproducts.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226230845id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WishList Products
 
@@ -91,17 +91,17 @@ If there are any questions regarding this privacy policy you may contact us usin
 [support.wishlistproducts.com](http://support.wishlistproducts.com/)
 
 WishList Products, Inc.  
-P.O. Box 546  
-Cordova, TN 38088  
+1930 Village Center Circle #3-3766  
+Las Vegas, NV 89134  
 United States  
 [support@wishlistproducts.com](mailto:support@wishlistproducts.com)
 
 **Privacy Policy Customer Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
+Federal Trade Commission Fair  
 California Online Privacy Protection Act  
-Childrens Online Privacy Protection Act  
+Children’s Online Privacy Protection Act  
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
