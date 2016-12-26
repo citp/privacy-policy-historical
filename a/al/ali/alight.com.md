@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614213655id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226015501id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
-
-privacy statement
 
 We respect your privacy, and take great care to safeguard information in our possession. Since our launch in 1999, we have treated the protection and proper use of your personal information very seriously.    
 
@@ -24,6 +22,3 @@ We use secure servers to protect your personal information, including your name,
 When you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it reaches us. 
 
 So order with confidence at alight.com.
-
-  
-
