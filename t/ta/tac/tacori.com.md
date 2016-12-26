@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacori.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623204243id_/http%3A//www.tacori.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacori.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226041420id_/https%3A//www.tacori.com/privacy-policy) for the most accurate reproduction.*
 
 # Tacori® Privacy Policy
 
