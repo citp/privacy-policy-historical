@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513172026id_/http%3A//collegesurfing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226185358id_/http%3A//collegesurfing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## CollegeSurfing Privacy Policy
 
-Last Updated: 09/24/15
+Last Updated: 12/2016
 
-This Privacy Policy describes the types of information we collect from and about you when you visit our website www.collegesurfing.com or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it.
+This Privacy Policy describes the types of information we collect from and about you when you visit our website or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it. It also describes your choices regarding use, access and correction of your personal information.
 
 If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com).
 
@@ -53,7 +53,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
 ### INFORMATION DISCLOSURE
 
-CollegeSurfing may disclose the information we collect from and about you as only in the ways that are described in this privacy policy: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the CollegeSurfing Site Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (5) to our selected partners and affiliates that we believe may have offers of interest to you; (6) as described to you at the point of collection and (7) to any other Third party with your prior consent to do so. 
+CollegeSurfing may disclose the information we collect from and about you as only in the ways that are described in this privacy policy: (1) to the employment or educational organizations from whom you have requested information or the employment or educational organization we have matched based on your interests; (2) to our email, data hosting, and Short Message Service (SMS)/text messaging service providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the CollegeSurfing Site Terms of Use or of our rights or the rights of any third party; (4) in certain situations, CareerCo may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements (5) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; (6) to our selected partners and affiliates that we believe may have offers of interest to you; (7) as described to you at the point of collection and (8) to any other Third party with your prior consent to do so. 
 
 We do not sell your personal information to third parties. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
 
@@ -71,13 +71,9 @@ California law requires that we disclose how our site responds to "Do Not Track"
 
 ### COOKIES AND DATA COLLECTION TECHNOLOGIES
 
-Technologies such as: cookies, beacons, tags and scripts are used by CareerCo LLC and our marketing affiliate partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies or similar technologies are used by CareerCo LLC and our marketing affiliate partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies to remember users' search criteria (e.g. zip code). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
-
-We use Local Storage Objects (LSOs) such as HTML5 to store. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 ### OPTING OUT OF INTEREST-BASED ADVERTISEMENTS
 
@@ -111,7 +107,7 @@ When you enter sensitive information our forms, we encrypt the transmission of t
 
 ### ACCESS TO YOUR PERSONAL INFORMATION
 
-To update your information stored by CareerCo LLC, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.careerco.com/opt-out/) page. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Upon request CareerCo LLC will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information, please resubmit your new contact information along with your interests in certain employment or educational opportunities. If the Site uses an online account, you may sign in to your account and update your personal information. If you prefer that we no longer use your information to provide you with services, please visit our [opt-out](http://www.careerco.com/opt-out/) page. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### IF YOU HAVE QUESTIONS
 
