@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628063734id_/http%3A//www.dillards.com/c/faqs-notices-policies-international%23q%3Dpolicies-notices-question-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227002431id_/http%3A//www.dillards.com/c/faqs-notices-policies-international%23q%3Dpolicies-notices-question-privacy-policy) for the most accurate reproduction.*
 
 # FAQ - International | Dillards.com
 
-Dillard's understands that online and mobile privacy is very important to you. We have adopted this Privacy Policy as part of our commitment to your privacy. The terms "we", "us", and "our" refer to Dillard's Inc. and its affiliated companies. 
+Dillard's understands that online and mobile privacy is very important to you. We have adopted this Privacy Policy as part of our commitment to your privacy. The terms "we", "us", and "our" refer to Dillard's Inc. and its affiliated companies.
 
-This Privacy Policy applies to information we obtain via Dillards.com (referred to hereafter as the Site). Please note that the Privacy Policy applies only to your interactions with us through the Site. It does not apply to interactions through our retail stores, or to your use of a Dillard's Card. A separate Privacy Notice, administered by Wells Fargo Bank, N.A., pertains to your Dillard's Credit Card and Dillard's American Express® Card. For that Privacy Notice, [click here](https://retailservices.wellsfargo.com/pdf/dillards/privacy.pdf). When you use your Dillard's Credit Card or Dillard's American Express® Card on the Site, this Privacy Notice fully applies to your usage of the Site. Additionally, when using the Site you may submit product reviews. We currently use a company called PowerReviews for product reviews. Your submission of reviews is governed by a separate privacy policy maintained by PowerReviews. A link to that policy is provided on the screen from which you submit your review, but you can also review it [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html). Also, if you click the [Dillard's Careers](http://careers.dillards.com/) link on the bottom of any Dillards.com page to search for Dillard's jobs, you will be directed to job listings on the Dillard's Career web site (careers.dillards.com). Your submission of information and the collection of information from you through the use of the [Dillard's Career web site](http://careers.dillards.com/) is governed by the privacy policy of Dillards.com. 
+This Privacy Policy applies to information we obtain via Dillards.com (referred to hereafter as the Site). Please note that the Privacy Policy applies only to your interactions with us through the Site. It does not apply to interactions through our retail stores, or to your use of a Dillard's Card. A separate Privacy Notice, administered by Wells Fargo Bank, N.A., pertains to your Dillard's Credit Card and Dillard's American Express® Card. For that Privacy Notice, [click here](https://retailservices.wellsfargo.com/pdf/dillards/privacy.pdf). When you use your Dillard's Credit Card or Dillard's American Express® Card on the Site, this Privacy Notice fully applies to your usage of the Site. Additionally, when using the Site you may submit product reviews. We currently use a company called PowerReviews for product reviews. Your submission of reviews is governed by a separate privacy policy maintained by PowerReviews. A link to that policy is provided on the screen from which you submit your review, but you can also review it [here](http://www.powerreviews.com/legal/privacy_policy_en_US.html). Also, if you click the [Dillard's Careers](http://careers.dillards.com/) link on the bottom of any Dillards.com page to search for Dillard's jobs, you will be directed to job listings on the Dillard's Career web site (careers.dillards.com). Your submission of information and the collection of information from you through the use of the [Dillard's Career web site](http://careers.dillards.com/) is governed by the privacy policy of Dillards.com.
 
 1\. What information We Obtain
 
@@ -32,7 +32,7 @@ For payment fraud prevention purposes, we use a technology called "Flash Cookies
 
 You may access and update your Personal Information and your preferences about receiving promotional emails from Dillard's at any time. To do that:
 
-**For Desktop/Tablet Users on Dillards.com:**
+ **For Desktop/Tablet Users on Dillards.com:**
 
   1. Enter your email address into the email field at the bottom of the page
   2. Uncheck the box that opts you IN to the promotional emails and click Submit
@@ -43,29 +43,29 @@ If you "opt out" of receiving promotional emails from us, the only emails you wi
 
 6\. Miscellaneous Information
 
-Changes to this Privacy Policy: We reserve the right to change this Privacy Policy, and to apply any changes to previously collected personal information. We urge you to periodically check this Privacy Policy for any changes. The last revised date will change when we make revisions to the policy. All changes will be effective upon posting or as otherwise stated in the revision. If you cannot accept the terms of the Privacy Policy, as posted, please do not use the Site. 
+Changes to this Privacy Policy: We reserve the right to change this Privacy Policy, and to apply any changes to previously collected personal information. We urge you to periodically check this Privacy Policy for any changes. The last revised date will change when we make revisions to the policy. All changes will be effective upon posting or as otherwise stated in the revision. If you cannot accept the terms of the Privacy Policy, as posted, please do not use the Site.
 
-Do Not Track Header: Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast. Data Security: Security of your information is very important to us, and we follow reasonable procedures to protect the information in our possession. However, no security system is perfect, and we accordingly cannot guarantee that a security breach will not occur. 
+Do Not Track Header: Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time we do not modify your experience based upon whether such a signal is broadcast. Data Security: Security of your information is very important to us, and we follow reasonable procedures to protect the information in our possession. However, no security system is perfect, and we accordingly cannot guarantee that a security breach will not occur.
 
-Governing Law, Dispute Jurisdiction: The laws of the State of Arkansas, excluding its choice of law principles, govern all matters arising from or related to the Site, including your access and use, and any Internet transaction between you and us. 
+Governing Law, Dispute Jurisdiction: The laws of the State of Arkansas, excluding its choice of law principles, govern all matters arising from or related to the Site, including your access and use, and any Internet transaction between you and us.
 
-Links: Our Site may have links to third party websites. This Privacy Policy does not apply to any other web sites. You should review their privacy policies. 
+Links: Our Site may have links to third party websites. This Privacy Policy does not apply to any other web sites. You should review their privacy policies.
 
 Children's Privacy: We do not knowingly request or collect personal information from any person under 13 years of age through the Site without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information to us through the Site for any purpose without prior verifiable parental consent, we will delete his or her information from our files. Although we permit users to post reviews concerning our products, we do not encourage users to include their full name when posting reviews. If you are under 18, have included your name in a review, and would like Dillard's to remove your name you can contact us at the email address, telephone number, or mailing address below with your request. Please note that even when we remove your name, the removal may not remove the remainder of your post or remove your name from all copies of the post.
 
 Questions?
 
-If you have questions regarding our Privacy Policy please contact us at: 
+If you have questions regarding our Privacy Policy please contact us at:
 
    **Dillard's, Inc.**
 
-   Attn: Legal Dept. 
+   Attn: Legal Dept.
 
-   1600 Cantrell Road 
+   1600 Cantrell Road
 
-   Little Rock, AR 72201 
+   Little Rock, AR 72201
 
-   1-800-643-8274 
+   1-800-643-8274
 
    Or email us at: [internationalsales@dillards.com](mailto:internationalsales@dillards.com)
 
