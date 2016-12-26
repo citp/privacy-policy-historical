@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nocopyrightsounds.co.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628170440id_/http%3A//nocopyrightsounds.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nocopyrightsounds.co.uk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226070327id_/http%3A//nocopyrightsounds.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCS - NoCopyrightSounds : NCS – NoCopyrightSounds
 
