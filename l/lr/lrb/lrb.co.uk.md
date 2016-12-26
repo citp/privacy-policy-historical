@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624230545id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrb.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227000808id_/http%3A//www.lrb.co.uk/privacy) for the most accurate reproduction.*
 
-# LRB
+# Privacy · LRB
 
 The _London Review of Books_ ( _LRB_ ) has created this statement to demonstrate our commitment to your privacy, to explain how we collect information and to explain how we use the information we collect about our web site users.
 
@@ -36,7 +36,11 @@ Your IP address is a numeric code which is assigned to your computer every time 
 
 ### Subscriptions, sales and other services
 
-When you use the _LRB_ Website to subscribe to the London Review of Books magazine or for a web subscription, to purchase goods and services, or to update your subscription data, we will need you to provide certain information which enables you to be identified as an individual (name, address, e-mail, credit card details, and so on). This information is necessary for us to process your order or update your details. We may associate information referenced by cookies with personal information which you provide to us online. We will not disclose your personal information to third parties except in the following cases:
+When you use the _LRB_ Website to subscribe to the London Review of Books magazine or for a web subscription, to purchase goods and services, or to update your subscription data, we will need you to provide certain information which enables you to be identified as an individual (name, address, e-mail, credit card details, and so on). This information is necessary for us to process your order or update your details.
+
+To enable us to improve our products and services for your benefit we may, providing we have your permission, contact you to ask if you wish to participate in our customer research programme. This may include an invite to join website usability testing which helps us to find ways to improve our website. You will always have the option to ignore the request or to decline.
+
+We may associate information referenced by cookies with personal information which you provide to us online. We will not disclose your personal information to third parties except in the following cases:
 
 (1) When it is necessary to provide you with a service you have requested.
 
