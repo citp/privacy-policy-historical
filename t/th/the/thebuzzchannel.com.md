@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebuzzchannel.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523090457id_/http%3A//thebuzzchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzzchannel.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226031014id_/http%3A//thebuzzchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Buzz Channel
 
