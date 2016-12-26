@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016174933id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclassifieds4u.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226113518id_/http%3A//www.eclassifieds4u.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - eClassifieds 4U
 
