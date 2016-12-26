@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323202058id_/https%3A//www.houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226015719id_/https%3A//www.houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
@@ -61,7 +61,7 @@ No demographic data is collected, and personal information is not linked to any 
 
 ### Affiliate Program:
 
-Data collected when signing up to our Affiliate Program may include Name, E-Mail Address, Preferred Payment Method, Address, Phone Number, Password of your own making, Web Site Address, and Description of your business. For more information on the the Affiliate Program, refer to the [Affiliate home page](http://www.houseofnames.com/xq/ASP/qx/affiliate.htm). 
+Data collected when signing up to our Affiliate Program may include Name, E-Mail Address, Preferred Payment Method, Address, Phone Number, Password of your own making, Web Site Address, and Description of your business. For more information on the the Affiliate Program, refer to the [Affiliate home page](https://web.archive.org/xq/ASP/qx/affiliate.htm). 
 
 ### Contacting Us:
 
@@ -157,7 +157,7 @@ Our site uses outside couriers to ship orders. We use either credit card process
 
 * * *
 
-Any trademark referenced on this site is the property of the trademark owner. Content used our the site, such as images, may be copyrighted by a third party. Please read our [Terms of Use Policy](http://www.houseofnames.com/wiki/terms-of-use-policy) for more details.
+Any trademark referenced on this site is the property of the trademark owner. Content used our the site, such as images, may be copyrighted by a third party. Please read our [Terms of Use Policy](https://web.archive.org/wiki/terms-of-use-policy) for more details.
 
 ## Web Beacons
 
@@ -165,27 +165,7 @@ Any trademark referenced on this site is the property of the trademark owner. Co
 
 When you receive newsletters or promotional E-Mail from us, we may use a simple web beacon to determine whether the E-Mail has been opened. This beacon is not used to collect or validate personal information.
 
-  
-This page was last modified on 10 April 2014 at 23:23.
+This page was last modified on 10 June 2016 at 10:44.
 
 ©2000-2016 Swyrich Corporation. See [Terms of Use](https://www.houseofnames.com/xq/asp/kbId.360/title.Terms+of+Use+Policy/qx/knowledgebase.htm) for details.  
 houseofnames.com is an internet property owned by Swyrich Corporation.
-
-| 
-
-### Suggested Reading
-
-  
-
-
-[](https://web.archive.org/product/Surname+History)
-
- **[Anderson Surname History](https://web.archive.org/product/Surname+History)**  
- **Our Rating:**  
-Over 20 years of research into the family history from the earliest records, showing spelling variations, early origins, notables, settlers and much more. Suitable for framing.
-
-[](http://www.amazon.com/Vikings-History-Robert-Ferguson/dp/0670020796/houseofnames-20)
-
- **[The Vikings: A History](http://www.amazon.com/Vikings-History-Robert-Ferguson/dp/0670020796/houseofnames-20)**  
- **Our Rating:**  
-"A fascinating history of the Viking age and its complex culture and influence
