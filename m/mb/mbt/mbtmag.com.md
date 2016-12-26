@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605145115id_/http%3A//www.mbtmag.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtmag.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226031822id_/https%3A//www.advantagemedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Manufacturing Business Technology
+# Privacy Policy | Advantage Business Media
 
 Last updated: January 25, 2013
 
 We appreciate your visiting this website (the “Site”).  Our visitors’ privacy and trust are important to us.  We provide this notice of our Privacy Policy in order to make sure that your expectations and our practices are aligned, and that you (“you” or “User”) are aware of your choices with regard to our use and disclosure of the information you provide to us.
 
- **Section 1.    OVERVIEW.**
+**Section 1.    OVERVIEW.**
 
 (a)    This Privacy Policy applies to your apply to your use of this website, including related digital publications, bulletin boards, forums, social media and e-newsletters (the “Site”) and, without limitation, (i) all websites owned and/or provided by Advantage Business Media LLC (“ABM” or “us”); (ii) all services offered through this Site and/or any other ABM website; (iii) all software offerings and applications owned and/or provided by ABM and/or available on or through this Site or any other ABM website; and (iv) all web pages, data, text, images, photographs, illustrations, graphics, audio, video and documents including articles, marketing materials, press releases and other information and content available on or through this Site or any ABM website (together with the Site, (i) through (iv), collectively the “Services”).  This Privacy Policy does not apply to the practices of companies that ABM does not own or control, or to people that ABM does not employ or manage.
 
@@ -16,7 +16,7 @@ We appreciate your visiting this website (the “Site”).  Our visitors’ pri
 
 (d)    We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time.  Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
 
- **Section 2.    INFORMATION WE COLLECT AND HOW WE COLLECT IT.**
+**Section 2.    INFORMATION WE COLLECT AND HOW WE COLLECT IT.**
 
 (a)    We require you to provide certain information about yourself when you register with this Site and when you request products and services.  We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., moderated discussions and bulletin boards). 
 
@@ -38,7 +38,7 @@ We appreciate your visiting this website (the “Site”).  Our visitors’ pri
 
 (vi)    The Services may display your IP address to the owners or maintainers of certain journals or Blogs when you post to those journals or Blogs and the owner or maintainer has enabled functionality on the sites for this purpose.
 
- **Section 3.    HOW WE USE YOUR INFORMATION.**
+**Section 3.    HOW WE USE YOUR INFORMATION.**
 
 (a)    We use Personally Identifiable Information collected on this Site for the following purposes:
 
@@ -52,15 +52,15 @@ We appreciate your visiting this website (the “Site”).  Our visitors’ pri
 
 (v)    For any other purpose disclosed at the time the information is collected or to which you consent.   
 
-(vi)    As otherwise specifically described in this Privacy Policy or the Terms (Click [Here](http://www.cedmagazine.com/terms-and-conditions) for Terms).
+(vi)    As otherwise specifically described in this Privacy Policy or the Terms.
 
 (b)    We may use your information to better understand our Users and to improve our Site.  For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally.  Cookies and other User information also enable us to customize your experience on the Site.  We may use IP addresses to help diagnose problems with our servers or to administer our Site.  We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
 
 (c)    We may use the information you provide us to send you e-mail, fax and other communications on behalf of ABM and our affiliates.  These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other ABM services.  All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter.  All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-(d)    We may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to privacymanager@advantagemedia.com with the subject line “opt out – third party” or by such other means as we may from time to time make available to you.
+(d)    We may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) with the subject line “opt out – third party” or by such other means as we may from time to time make available to you.
 
- **Section 4.    OUR DISCLOSURE OF YOUR INFORMATION.**
+**Section 4.    OUR DISCLOSURE OF YOUR INFORMATION.**
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed.  Otherwise, we will not disclose your Personally Identifiable Information except as follows:
 
@@ -70,7 +70,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
 (c)    Portions of this Site may be provided as “Premium” or “Sponsored” content.  Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers.  We will always disclose when you are registering or being provided with Premium or Sponsored content.
 
-(d)    To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to privacymanager@advantagemedia.com with the subject line: “do not disclose” or by such other means as we may from time to time make available to you.
+(d)    To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services.  You may opt out of such disclosures by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) with the subject line: “do not disclose” or by such other means as we may from time to time make available to you.
 
 (e)    To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving ABM or this Site.
 
@@ -80,7 +80,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
 (h)    We may share any information (including Personally Identifiable Information) you provide with other ABM member companies for any uses consistent with those disclosed in this Privacy Policy.
 
- **Section 5.    SHARING OF PERSONAL INFORMATION.**
+**Section 5.    SHARING OF PERSONAL INFORMATION.**
 
 (a)    We do not share personal information we learn about you from your use of the Site and Services with others, except as described in this Privacy Policy.  We do not share your information with unrelated third parties for their direct marketing purposes.  However, we may display targeted advertisements based on personal information.
 
@@ -98,15 +98,15 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
 (d)    IF YOU POST PERSONAL INFORMATION ONLINE THAT IS ACCESSIBLE TO THE PUBLIC, YOU MAY RECEIVE UNSOLICITED MESSAGES FROM OTHER PARTIES IN RETURN.
 
- **Section 6.    SECURITY.**
+**Section 6.    SECURITY.**
 
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure.  However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
- **Section 7.    RIGHTS TO ACCESS AND CHANGE INFORMATION.**
+**Section 7.    RIGHTS TO ACCESS AND CHANGE INFORMATION.**
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to privacymanager@advantagemedia.com or by such other means as we may from time to time make available to you.  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com) or by such other means as we may from time to time make available to you.  However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information.  Requests to view or change personal information may take a few days to process.
 
- **Section 8.    INFORMATION RELATED TO CHILDREN.**
+**Section 8.    INFORMATION RELATED TO CHILDREN.**
 
 (a)    The Children’s Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information (from children under 13 years of age.  **The Services are not directed at children under 13 years of age, but we recognize that with proper adult supervision some parents might permit their children to visit and utilize the Services.**   COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the Services.  
 
@@ -124,20 +124,20 @@ You may view and update information that you previously submitted to this Site b
 
 (f)   For purposes of this Section 8, persistent identifiers that can be used to recognize a user over time and across different websites or online services, such as a user name is also considered personal information. Where the Site or Services collect a persistent identifier and no other personal information and such identifier is used for the sole purpose of providing support for the internal operations of the Site or the Service, no notice will be given.
 
- **Section 9.    LINKS.**
+**Section 9.    LINKS.**
 
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties.  We have no control over those other sites, and this Privacy Policy does not apply to them.  We encourage you to refer to the privacy policies, if any, of those sites. 
 
- **Section 10.    MISCELLANEOUS.**
+**Section 10.    MISCELLANEOUS.**
 
 (a)     **This Site is operated by:**
 
 Advantage Business Media LLC  
 100 Enterprise Drive, Suite 600  
 Rockaway, NJ 07866  
-abmprogrequests@advantagemedia.com
+[abmprogrequests@advantagemedia.com](mailto:abmprogrequests@advantagemedia.com)
 
- **Copyright Agent**
+**Copyright Agent**
 
 c/o Legal Department  
 100 Enterprise Drive, Suite 600  
