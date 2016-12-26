@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042934id_/http%3A//www.nationalbusinessfurniture.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbusinessfurniture.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226044039id_/http%3A//www.nationalbusinessfurniture.com/privacy.aspx) for the most accurate reproduction.*
 
 # National Business Furniture Privacy Policy
 
@@ -65,7 +65,6 @@ It is the duty of NBF.com to safeguard the online privacy of all its visitors, i
 If you have any questions regarding the privacy statement, the practices of this website, or your interactions with this site, please contact us by [email](http://www.nationalbusinessfurniture.com/Contact-National-Business-Furniture.aspx) , by phone at 800-558-1010, or in writing to: 
 
 National Business Furniture  
-735 N. Water St. Ste. 400  
-PO Box 510050  
-Milwaukee, WI 53203-0017  
+770 South 70th Street  
+Milwaukee WI, 53214  
 
