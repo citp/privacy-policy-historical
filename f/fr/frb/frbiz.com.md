@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622210125id_/http%3A//www.frbiz.com/static/privacy_policy-298.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbiz.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226062517id_/http%3A//www.frbiz.com/static/privacy_policy-298.html) for the most accurate reproduction.*
 
 # Privacy Policy - frbiz.com
 
