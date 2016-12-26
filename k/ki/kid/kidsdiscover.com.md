@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004354id_/http%3A//www.kidsdiscover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdiscover.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226185626id_/http%3A//www.kidsdiscover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kids Discover
 
@@ -39,7 +39,7 @@ The following definitions, which describe how we characterize user’s informati
 
 “Personally Identifiable Information” or “PII” is information that can identify a user of this website, including e-mail, name and address. “Anonymous Information” is information that does not enable identification of an individual user. “De-Identified Information” is information from which all personally identifiable components have been removed. Unlike Anonymous Information, De-Identified information is initially collected as Personally Identifiable Information, after which we remove any identifying component to make the information anonymous.
 
-### WHAT TYPE OF INFORMATION DO WE COLLEGE AND WHY:
+### WHAT TYPE OF INFORMATION DO WE COLLEct AND WHY:
 
 **Information collected when subscribing:** In the registration process of any of our subscription types, we ask our subscriber to provide us with name, email address, affiliation with a school or district (if applicable), phone number and billing information. We use this contact information to send users service-related announcements on rare occasions when it is necessary or advisable to do so. For instance, if we perform routine maintenance, we might send an informational email.
 
