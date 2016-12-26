@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastify.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323141336id_/http%3A//www.broadcastify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastify.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226034631id_/http%3A//www.broadcastify.com/privacy) for the most accurate reproduction.*
 
 # Broadcastify - Privacy Policy
 
