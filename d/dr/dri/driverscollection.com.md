@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverscollection.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051928id_/https%3A//driverscollection.com%3FPrivacyPolicy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverscollection.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226230423id_/https%3A//driverscollection.com%3FPrivacyPolicy%3D1) for the most accurate reproduction.*
 
 # Privacy policy
 
