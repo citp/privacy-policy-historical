@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honorbuy.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530102114id_/http%3A//www.honorbuy.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honorbuy.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226105116id_/http%3A//www.honorbuy.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - HonorBuy Mobile Shop
 
@@ -32,3 +32,6 @@ In an effort to keep your information confidential, honorbuy.com provides its Me
 Minors (those under the age of 18) are not eligible to use honorbuy.com unless they use our Site through a parent or guardian who is a registered Member of honorbuy.com.  
 **Your Responsibilities**  
 We go to great lengths to protect all of your information on our Site. In order to help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions.
+
+This website is operating under QANDY INTERNATIONAL LIMITED   
+Address: 2/F Western Commercial Building, No. 31 Des Voeux Road West, Western District, Hong Kong
