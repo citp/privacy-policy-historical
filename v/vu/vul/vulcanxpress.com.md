@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vulcanxpress.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326101944id_/http%3A//vulcanxpress.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vulcanxpress.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226114123id_/http%3A//vulcanxpress.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Vulcan Express Private Limited.
 
@@ -94,4 +94,4 @@ On accessing this website user/ visitor undertakes to agree to the terms & condi
 
 **Contact @ Vulcan**
 
-In case any query arise in relation to any content/part of this privacy policy or you experience any difficulty in understanding it, you may contact us at +91 9711008888, send e mail at customer.support@vulcanxpress.com or you can send your query to our corporate office.
+In case any query arise in relation to any content/part of this privacy policy or you experience any difficulty in understanding it, you may contact us at +91 9212692126.
