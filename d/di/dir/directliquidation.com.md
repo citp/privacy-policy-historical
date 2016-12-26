@@ -1,45 +1,269 @@
-> *The following text is extracted and transformed from the directliquidation.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028083349id_/http%3A//www.directliquidation.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directliquidation.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226054231id_/https%3A//www.directliquidation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy DirectLiquidation.com
+# Privacy Policy - DirectLiquidation
 
-[Return to available inventory listings](https://web.archive.org/)
+__Back
 
-At DirectLiquidation.com we welcome your business and always strive to treat every customer and employee with the proper respect and appreciation. This policy has been written and developed to help you understand what information we collect, how we use it and what choices you have regarding your information. 
+Categories All Categories
 
-The Recon Group, Inc. ("Recon Group", “RECON”, “TRG”, "our", "us" or "we") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of DirectLiquidation.com (this "Site") and our corresponding applications for mobile devices (the "Applications"). This Privacy Policy applies only to information that you provide to us through the Site and Applications. This Privacy Policy may be updated from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://DirectLiquidation.com/terms](https://web.archive.org/terms). 
+  * All Categories
+  * Automotive
+  * Automotive Parts & Accessories
+  * Automotive Tools
+  * Hand
+  * Power
+  * Baby
+  * Baby Monitors
+  * Clothing, Shoes & Accessories
+  * Backpacks, Bags, Wallets & Accessories
+  * Clothing
+  * Mens
+  * T-Shirts, Polos, Sweaters
+  * Electronics
+  * Headphones & Portable Speakers
+  * In Ear Headphones
+  * Over Ear Headphones
+  * Portable Speakers
+  * Home Audio & Theater
+  * Media Streaming Players (IPTV)
+  * Shelf Stereo System
+  * Speakers
+  * Accessories
+  * DVD & Blu-ray Players
+  * Home Phones
+  * Portable Audio, Video Player
+  * Accessories
+  * Apple iPods
+  * Media, CD, Tape, Mini Disc
+  * Printers
+  * All-In-One
+  * Ink, Toner, Accessories & Supplies
+  * Inkjet
+  * Security & Surveillance
+  * Tablets & eReaders
+  * Accessories
+  * Apple iPads
+  * Microsoft Surface
+  * Other
+  * Samsung
+  * TV
+  * LED & LCD
+  * Projector
+  * Video Games
+  * Accessories
+  * Controllers
+  * Microsoft
+  * Gaming Figures
+  * Headsets
+  * Audio Headsets
+  * Consoles
+  * Microsoft
+  * Nintendo
+  * Sony
+  * Games
+  * Microsoft
+  * Sony
+  * Handheld Systems
+  * Nintendo
+  * Wearable Technology
+  * Watch
+  * Fitbit
+  * Other
+  * Cameras
+  * Point & Shoot
+  * Camcorders
+  * Digital Camcorders
+  * Action Camcorders
+  * Car Audio, Video & Electronics
+  * Speakers
+  * Stereos
+  * Accessories
+  * Amplifiers
+  * Back up & Dashboard Cameras
+  * Cellular Phones
+  * Mobile Hotspot
+  * Smart Phones
+  * Apple iPhones
+  * LG
+  * Other
+  * Samsung
+  * Accessories
+  * Basic Mobile Phones (Non-Smart)
+  * Postpaid
+  * Prepaid
+  * Computers
+  * Desktops
+  * Internal Computer Parts
+  * Monitors
+  * Networking
+  * Portable Storage
+  * Computer Software
+  * Digital Picture Frames
+  * Food
+  * Pantry
+  * Furniture
+  * TV Stands, Wall Mounts & Entertainment Centers
+  * General Merchandise
+  * General Merchandise Unsorted Pallets
+  * Health & Beauty
+  * Home Health Care, Vitamins & Supplements
+  * Massagers & Spa
+  * Shaving
+  * Bath & Body
+  * Fragrances
+  * Home
+  * Kitchen & Dining
+  * Luggage
+  * Security & Safety
+  * Storage & Organization
+  * Vacuums
+  * Appliances
+  * Refrigerators & Freezers
+  * Arts & Crafts
+  * Bath
+  * Bedding
+  * Pillows
+  * Décor
+  * Floor Care
+  * Heating & Cooling
+  * Home Improvement
+  * Tools
+  * Hand
+  * Power
+  * Hardware
+  * Movies & TV Media
+  * DVD Discs
+  * Music
+  * Music CDs/Vinyl/Tapes
+  * Musical Instruments
+  * Not Powered
+  * Powered
+  * Office
+  * Office Supplies
+  * Party & Occasions
+  * Stationery & Invitations
+  * Costumes
+  * Decorations & Favors
+  * Patio & Garden
+  * Patio & Outdoor Lighting / Décor
+  * Gardening & Lawn Care
+  * Mowers
+  * Other
+  * Snow Removal
+  * Accessories
+  * Grills & Outdoor Cooking
+  * Pet Toys & Pet Supplies
+  * Sports, Fitness & Outdoors
+  * Camping & Hiking
+  * Cycling & Bicycles
+  * Exercise & Fitness
+  * Game Room
+  * Hunting
+  * Outdoor Sports
+  * Scooters, Skateboards & Skates
+  * Not Powered
+  * Toys
+  * Vehicles, Trains & RC
+  * Action Figures
+  * Boardgames, Puzzles & Building Blocks
+  * Learning & Education
+  * Not Powered
+  * Powered
+  * Pretend & Dress-Up
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or Internationally. 
 
-1\. Personally Identifiable Information When you register with us through the Site or Applications to become a Member of DirectLiquidation.com, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends’ email addresses (which we will only use in order to invite them to use the service). We may also collect information you supply to us regarding your personal preferences and interests. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features. You can register to join DirectLiquidation.com via the Site or Applications or by logging into your account with certain third party social networking sites ("SNS") (including Facebook and Twitter) via our Site. If you decide to create your account by logging into a SNS via the Site, we may extract the Personal Information you have provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS) from the account you have with such SNS and use that information to create your Account; the information we extract may depend on the privacy settings you have with the SNS. We use your Personal Information mainly to provide the service and administer your inquiries. We will create your account for your use of the Site and Applications based upon the Personal Information you provide and you will become a Member of the DirectLiquidation.com marketplace. We also collect other information that you provide as part of registration, administration and personalization of your profile page on DirectLiquidation.com (e.g., without limitation, age and individual preferences) ("Non-Identifying Information"). We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries. Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Users of DirectLiquidation.com (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site, Applications and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions. We also use your Personal Information to contact you with DirectLiquidation.com newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "preferences" information in your DirectLiquidation.com profile. (See "Changing or Deleting Information," below.) Log Data. When you visit the Site or Applications, whether as a Member or a non-registered user just browsing ("DirectLiquidation.com User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your Internet Protocol address, the browser type or the webpage you were visiting before you came to our Site and Application, pages of our Site and Application that you visit, the time spent on those pages, information you search for on our Site and Application, access times and dates, and other statistics. We may use this information to monitor and analyze use of the Site, Applications and/or to Service the Site and Applications’ technical administration, to increase our Site and Applications’ functionality and user-friendliness, and to better tailor our Site and Applications to our visitors’ needs. For example, some of this information is collected so that when you visit the Site and Application again, it may recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site and Application meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information. 
 
-Device Information: In addition to Log Data, we may also collect information about the device you’re using to access DirectLiquidation.com, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider 
+Contidion All Conditions
 
-2\. Cookies Like many websites, our Site and Applications use "cookies" to collect information. A cookie is a small data file that we transfer to your computer or mobile device’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site and Applications. Second, we utilize session ID cookies to enable certain features of the Site and Applications, to better understand how you interact with the Site and Applications to monitor aggregate usage by DirectLiquidation.com Users and web traffic routing on the Site and Applications. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Applications and Service and then close your browser. Third party advertisers on the Site and Applications may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site and Applications or all functionality of the Service. 
+  * All Conditions
+  * Brand New
+  * Grade A&B&C
+  * Mixed
+  * Refurbished - Grade A
+  * Refurbished - Grade A&B
+  * Refurbished - Grade B
+  * Refurbished - Grade C
+  * Refurbished - Grade D
+  * Tested Not Working
+  * Untested Customer Returns
 
-3\. Information Sharing and Disclosure DirectLiquidation.com Users : When you register through the Site and Applications and submit Personal Information to create a profile or visual collection, other DirectLiquidation.com Users may see your username/screenname. If you choose to provide additional Personal Information in your profile, other DirectLiquidation.com Users may see such additional Personal Information, including, but not limited to, your photo, location, website and biography. Providing additional Personal Information is voluntary and should correlate with the degree of interaction you want to have with DirectLiquidation.com Users. We recommend that you guard your sensitive information with your own discretion. 
 
-Aggregate Information and Non-Identifying Information : We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. 
 
-Service Providers : We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site and Application-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site and Application’s features) or to assist us in analyzing how our Site, Applications and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+Location All Locations
 
-Social Networking Sites : We may share the information in your account (including your Personal Information) with the SNS’s that you have linked to your account. These third parties have access to your Personal Information only for this purpose (unless the SNS has received your Personal Information independently of the Service) and are obligated not to disclose or use it for any other purpose. Facebook Connect : We allow users to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by logging into their profile and selecting the option to disable Facebook Connect. Further, you may be able to edit your privacy settings for the content that you post which appears on Facebook by making selections in your “Edit Profile” settings via the Site and Applications. 
+  * All Locations
+  * Bentonville, AR
+  * Blacksburg, SC
+  * Brampton, ON
+  * Frankfort, KY
+  * Greenfield, IN
+  * Rogers, AR
 
-Compliance with Laws and Law Enforcement : TRG may cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we believe necessary or appropriate to respond to claims and legal process (including, but not limited to, subpoenas), to protect the property and rights of TRG or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity. 
 
-Business Transfers : TRG may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-4\. Changing or Deleting Your Information All Members may review, update, correct or delete the Personal Information in their Account by contacting us or by editing such profile information via the Site and Applications. If you completely delete all such information, then your Account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+Current Price 0.00 \- ">25,555.00
 
-5\. Security We may make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site or via the Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+Auction Type All Types
 
-6\. International Transfer Your information may be transferred to and stored on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, TRG transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+  * All Types
+  * Auction
+  * Buy It Now
 
-7\. Links to Other Sites Our Site and Applications may contain links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-8\. Our Policy Toward Children This Site and Applications are not directed to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [info@therecongroup.com](mailto:info@therecongroup.com). If we become aware that a child under 13 years of age has provided us with Personal Information, we will delete such information from our files. 
 
-9\. Merchant Privacy Statement How we protect your credit card information At DirectLiquidation.com, we are committed to protecting the privacy of each member's financial information. To that end, we implement and maintain extensive physical, electronic, and procedural safeguards at all times in compliance with federal regulations. This is to protect your information while conducting business via our online platform, wire services, standing orders and other DirectLiquidation.com channels. We ensure the highest level of security on our credit cards transactions, and have many security features in place to minimize and/or block unauthorized activity. You may hear of security breaches that arise from hackers illegally accessing databases of merchants. DirectLiquidation.com is not at fault for those breaches, and takes steps to minimize the chance that a compromised card will be used fraudulently. As a safety precaution, you should always closely monitor activity on your accounts to ensure there is no unexplained or suspicious activity. If you are billed for a transaction that you did not perform, please be sure to notify us immediately. 
+Quantity All Quantities
 
-10\. How to contact us If you have any questions about this Policy or any of the practices described herein, please email us at [info@therecongroup.com](mailto:info@therecongroup.com). 
+  * All Quantities
+  * Quantity < 10
+  * 10 < Quantity < 100
+  * Quantity > 100
 
-Note: This Privacy Policy is in effect as of June 1, 2013. 
+
+
+__OK, I am done!
+
+At DirectLiquidation.com we welcome your business and always strive to treat every customer and employee with the proper respect and appreciation. This policy has been written and developed to help you understand what information we collect, how we use it and what choices you have regarding your information.
+
+Direct Liquidation, LLP. (“Direct Liquidation”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of DirectLiquidation.com (this “Site”) and our corresponding applications for mobile devices (the “Applications”). This Privacy Policy applies only to information that you provide to us through the Site and Applications. This Privacy Policy may be updated from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://DirectLiquidation.com/terms.
+
+As used in this policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or Internationally.
+
+1\. Personally Identifiable Information When you register with us through the Site or Applications to become a Member of DirectLiquidation.com, we may ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (“Personal Information”). Personal Information includes, but is not limited to, your name, username, phone number, credit card and other billing information, email address, shipping address, and your friend’s email addresses (which we will only use in order to invite them to use the service). We may also collect information you supply to us regarding your personal preferences and interests. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features. 
+
+You can register to join DirectLiquidation.com via the Site or Applications or by logging into your account with certain third party social networking sites (“SNS”) (including Facebook and Twitter) via our Site. If you decide to create your account by logging into an SNS via the Site, we may extract the Personal Information you have provided to the SNS (such as your “real” name, email address and other information you make publicly available via the SNS) from the account you have with such SNS and use that information to create your Account; the information we extract may depend on the privacy settings you have with the SNS. We use your Personal Information mainly to provide the Service and administer your inquiries. We will create an account for you to use the Site and Applications based upon the Personal Information you provide and you will become a Member of the DirectLiquidation.com marketplace. We also collect other information that you provide as part of registration, administration and personalization of your profile page on DirectLiquidation.com (e.g., without limitation, age and individual preferences) (“Non-Identifying Information”). We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries. Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Users of DirectLiquidation.com (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site, Applications and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance, to deliver a product to you according to your preferences or restrictions. We also use your Personal Information to contact you with DirectLiquidation.com newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “preferences” information in your DirectLiquidation.com profile. (See “Changing or Deleting Information,” below.) Log Data. When you visit the Site or Applications, whether as a Member or a non-registered user just browsing (“DirectLiquidation.com User”), our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your Internet Protocol address, the browser type or the webpage you were visiting before you came to our Site and or Applications, pages of our Site and Applications that you visit, the time spent on those pages, information you search for on our Site and Applications, access times and dates, and other statistics. We may use this information to monitor and analyze usage of the Site, Applications and/or to Service the Site and Applications’ technical administration, to increase our Site and Applications’ functionality and user-friendliness, and to better tailor our Site and Applications to our visitor’s needs. For example, some of this information is collected so that when you visit the Site and Applications again, it may recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site and Applications meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+
+Device Information: In addition to Log Data, we may also collect information about the device you’re using to access DirectLiquidation.com, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether we collect some or all of this information depends on what type of device you’re using and its settings. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+
+2\. Cookies Like many websites, our Site and Applications use “cookies” to collect information. A cookie is a small data file that we transfer to your computer or mobile device’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your login information for future logins to the Site and Applications. Second, we utilize session ID cookies to enable certain features of the Site and Applications, to better understand how you interact with the Site and Applications to monitor aggregate usage by DirectLiquidation.com Users and web traffic routing on the Site and Applications. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Applications and Service and then close your browser. Third party advertisers on the Site and Applications may also place or read cookies on your computer or mobile device. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site and Applications or all functionality of the Service.
+
+3\. Information Sharing and Disclosure DirectLiquidation.com Users: When you register through the Site and Applications and submit Personal Information to create a profile or visual collection, other DirectLiquidation.com Users may see your username/screenname. If you choose to provide additional Personal Information in your profile, other DirectLiquidation.com Users may see such additional Personal Information, including, but not limited to, your photo, location, website and biography. Providing additional Personal Information is voluntary and should correlate with the degree of interaction you want to have with DirectLiquidation.com Users. We recommend that you guard your sensitive information with your own discretion.
+
+Aggregate Information and Non-Identifying Information: We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+
+Service Providers: We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site and Application-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site and Application’s features) or to assist us in analyzing how our Site, Applications and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Social Networking Sites: We may share the information in your account (including your Personal Information) with the SNS’s that you have linked to your account. These third parties have access to your Personal Information only for this purpose (unless the SNS has received your Personal Information independently of the Service) and are obligated not to disclose or use it for any other purpose. Facebook Connect: We allow users to automatically post recent activity back to Facebook, and give them the option to disable Facebook Connect at any time by logging into their profile and selecting the option to disable Facebook Connect. Further, you may be able to edit your privacy settings for the content that you post which appears on Facebook by making selections in your “Edit Profile” settings via the Site and Applications.
+
+Compliance with Laws and Law Enforcement: Direct Liquidation, LLP. may cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we believe necessary or appropriate to respond to claims and legal process (including, but not limited to, subpoenas), to protect the property and rights of Direct Liquidation, LLP. or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+
+Business Transfers: Direct Liquidation, LLP. may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.  
+4\. Changing or Deleting Your Information All Members may review, update, correct or delete the Personal Information in their Account by contacting us or by editing such profile information via the Site and Applications. If you completely delete all such information, then your Account may become deactivated. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+
+5\. Security We may make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site or via the Applications in the most expedient time possible and without unreasonable delay, insofar as it is consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+6\. International Transfer Your information may be transferred to and stored on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Direct Liquidation, LLP. transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+7\. Links to Other Sites Our Site and Applications may contain links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+8\. Our Policy Toward Children This Site and Applications are not directed to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at info@directliquidation.com. If we become aware that a child under 13 years of age has provided us with Personal Information, we will delete such information from our files.
+
+9\. Merchant Privacy Statement: How We Protect Your Credit Card Information At DirectLiquidation.com, we are committed to protecting the privacy of each member’s financial information. To that end, we implement and maintain extensive physical, electronic, and procedural safeguards at all times in compliance with federal regulations. This is to protect your information while conducting business via our online platforms, wire services, standing orders and other DirectLiquidation.com channels. We ensure the highest level of security on our credit card transactions, and have many security features in place to minimize and/or block unauthorized activity. You may hear of security breaches that arise from hackers illegally accessing databases of merchants. DirectLiquidation.com is not at fault for those breaches, and takes steps to minimize the chance that a compromised card will be used fraudulently. As a safety precaution, you should always closely monitor activity on your accounts to ensure there is no unexplained or suspicious activity. If you are billed for a transaction that you did not perform, please be sure to notify us immediately.
+
+10\. How to contact us If you have any questions about this Policy or any of the practices described herein, please email us at info@directliquidation.com.
+
+Note: This Privacy Policy is in effect as of June 1, 2015
+
+Receive New Auction  
+Notifications
+
+Sign up to receive free Email or SMS notifications when a new auction begins. Customizable by category.
