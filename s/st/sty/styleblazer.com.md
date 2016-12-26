@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleblazer.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617195110id_/http%3A//styleblazer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleblazer.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227000650id_/http%3A//styleblazer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
