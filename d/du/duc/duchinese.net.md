@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the duchinese.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210082344id_/http%3A//www.duchinese.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duchinese.net privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226192835id_/http%3A//duchinese.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Du Chinese Privacy Policy
 
-This privacy policy governs your use of the software application Du Chinese (â€œApplicationâ€) for iOS that was created by Peter Askelof. The Application is a language education tool aimed at Mandarin learners.
+This privacy policy governs your use of the software application Du Chinese (â€œApplicationâ€) for iOS and Android that was created by Peter Askelof. The Application is a language education tool aimed at Mandarin learners.
 
 ## What information does the Application obtain and how is it used?
 
