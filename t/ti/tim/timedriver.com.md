@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616071008id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227001914id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
 **1.  ** **Introduction**
 
-TimeTrade Systems, Inc. respects your privacy and values our clients’ trust. We are committed to ensuring that the privacy of the information stored by our systems is suitably protected and used appropriately. This Privacy Statement outlines how TimeTrade will treat information gathered by our Websites or hosted within our applications. By using this Website, you agree to comply with and be bound by this Privacy Statement and the Terms and Conditions of Use published at [www.timetrade.com/tou](https://web.archive.org/tou).  This Privacy Statement is incorporated into those Terms, and capitalized terms used, but not defined herein, have the meanings ascribed to them in the Terms.  PLEASE READ THIS PRIVACY STATEMENT CAREFULLY, AND PLEASE CHECK THIS PRIVACY STATEMENT PERIODICALLY, AS TIMETRADE RESERVES THE RIGHT TO CHANGE THIS POLICY WITHOUT NOTICE.
+TimeTrade Systems, Inc. respects your privacy and values our clients’ trust. We are committed to ensuring that the privacy of the information stored by our systems is suitably protected and used appropriately. This Privacy Statement outlines how TimeTrade will treat information gathered by our Websites or hosted within our applications. By using this Website, you agree to comply with and be bound by this Privacy Statement and the Terms and Conditions of Use published at [www.timetrade.com](http://www.timetrade.com/)/tou.  This Privacy Statement is incorporated into those Terms, and capitalized terms used, but not defined herein, have the meanings ascribed to them in the Terms.  PLEASE READ THIS PRIVACY STATEMENT CAREFULLY, AND PLEASE CHECK THIS PRIVACY STATEMENT PERIODICALLY, AS TIMETRADE RESERVES THE RIGHT TO CHANGE THIS POLICY WITHOUT NOTICE.
 
 **2.  ** **Definitions**
 
 “PII” or “Personally Identifiable Information” is defined under MA 201 CMR 17.00 Standards for the Protection of Personal Information of Residents of the Commonwealth of Massachusetts (i.e. social security, financial or credit account number, etc.).
 
-“SMB” refers to TimeTrade’s Personal, Professional, Workgroup, Individual, or Business Edition SaaS offerings. These offerings are for individuals and businesses or groups that require one-to-one appointment scheduling functionality or appointment routing. The SMB service is owned and operated by TimeTrade and sold on a per Subscriber basis. Terms of use for the SMB SaaS offering are detailed here: [http://www.timetrade.com/SMB-termsofservice](https://web.archive.org/SMB-termsofservice)
+“SMB” refers to TimeTrade’s Personal, Professional, Workgroup, Individual, or Business Edition SaaS offerings. These offerings are for individuals and businesses or groups that require one-to-one appointment scheduling functionality or appointment routing. The SMB service is owned and operated by TimeTrade and sold on a per Subscriber basis. Terms of use for the SMB SaaS offering are detailed here: [http://www.timetrade](http://www.timetrade/)[.com/TTPW-termsofservice](http://timetradestg.prod.acquia-sites.com/TTPW-termsofservice)
 
 “Enterprise” refers to TimeTrade’s SaaS product offering for larger businesses or organizations that require high volume scheduling, configurable interfaces and complex business rules.  Enterprise is licensed under a Subscriber specific licensing agreement. Terms of use for the Enterprise product are defined in the Subscriber’s Software as a Services Agreement with TimeTrade.
 
@@ -24,11 +24,11 @@ TimeTrade Systems, Inc. respects your privacy and values our clients’ trust. W
 
 “Visitor” is any person or device that connects to TimeTrade’s corporate Website.
 
-“Website is TimeTrade’s corporate website located at [www.timetrade.com](http://www.timetrade.com/).
+“Website” is TimeTrade’s corporate website located at [www.timetrade.com](http://www.timetrade.com/).
 
 **3\. Use of Information Gathered by TimeTrade During Registration For Services or Other General Inquiries.**
 
-When you visit TimeTrade’s Website for information regarding our products, promotions, employment opportunities or register to use TimeTrade services, TimeTrade may gather information about you such as your name, business type, contact information, email address, payment method, and billing address information. This information may be used to: a) contact you directly regarding TimeTrade services, career opportunities and/or to respond to your inquiries; or b) provide invoicing of the subscribed services.
+When you visit TimeTrade’s Website for information regarding our products, promotions, employment opportunities or register to use TimeTrade services, TimeTrade may gather information about you such as your name, business type, contact information, email address, payment method, and billing address information. If you disclose any personal data to us, you consent to our processing and use of such personal data in accordance with this Privacy Statement. Information may be used to: a) contact you directly regarding TimeTrade services, career opportunities and/or to respond to your inquiries; or b) provide invoicing of the subscribed services.
 
 Unless permission is provided through our Opt-in process, we will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by TimeTrade will only be in connection with the provision of agreed services, products or inquiries.
 
@@ -56,7 +56,7 @@ The functionality of the TimeTrade services allows Subscribers to collect inform
 
 **8\. Scheduling & Appointment Confidentiality**
 
-TimeTrade internally classifies all scheduling and appointment information as confidential and proprietary to the Subscriber. TimeTrade will never share a Subscriber’s schedule or appointment data with any third party outside the scope of TimeTrade’s services. For user experience, analytical and support purposes TimeTrade may record Subscriber User session-specific information, such as source IP, accessing browser and which pages or functions within application were accessed.  For Users scheduling appointments with a Subscriber, TimeTrade will not share their scheduling information with anyone except the Subscriber with whom they are making an appointment. A Subscriber can only view information relating to their instance of services.
+TimeTrade internally classifies all scheduling and appointment information as confidential and proprietary to the Subscriber. TimeTrade will never share a Subscriber’s schedule or appointment data with any third party outside the scope of TimeTrade’s services. For user experience, analytical and support purposes TimeTrade may record Subscriber User session-specific information, such as source IP, accessing browser and which pages or functions within application were accessed. For Users scheduling appointments with a Subscriber, TimeTrade will not share their scheduling information with anyone except the Subscriber with whom they are making an appointment. A Subscriber can only view information relating to their instance of services.
 
 **9.  ** **Links To Other Websites**
 
@@ -76,16 +76,28 @@ TimeTrade services are accessible via any supported internet connected web brows
 
 **13.  ** **Internet Browser Cookies**
 
-When any web browser connects to a TimeTrade provided Website or service, the sites and applications utilize browser cookies to a) provide a customizable and personalized experience, such as personal site preferences, b) record User session-specific information,  such as which pages within the application were accessed, and c) provide application session control to the servers hosting the application. Disabling the support of browser cookies is not recommended: non-use of cookies may lead to reduced functionality and or an unsatisfactory user experience. 
+When any web browser connects to a TimeTrade provided Website or service, the sites and applications utilize browser cookies to a) provide a customizable and personalized experience, such as personal site preferences, b) record User session-specific information,  such as which pages within the application were accessed, and c) provide application session control to the servers hosting the application. Disabling the support of browser cookies is not recommended: non-use of cookies may lead to reduced functionality and or an unsatisfactory user experience.
 
 **14.  ** **Security**
 
 TimeTrade has security controls in place to help protect against the loss, misuse, and alternation of the information under our custodianship.
 
-TimeTrade voluntarily complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view The Company's certification, please visit <http://www.export.gov/safeharbor/>
+**15.** **Privacy Shield**
 
-**15.  ** **Contacting Us**
+TimeTrade voluntarily complies with the Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union (EU) member countries to the United States. TimeTrade has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability of Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+TimeTrade respects an EU individual’s rights to access personal information about them, and to limit use and disclosure of their personal information. TimeTrade has limited ability to access information our customers submit to our services, however, if you wish to request access, to limit use, or to limit disclosure, please provide the name of the TimeTrade customer who submitted your personal information to our services. We will refer your request to that customer, and will support them as needed in responding to your request.
+
+As described in the Privacy Shield Principles, TimeTrade is accountable for personal information that it receives and subsequently transfers to third parties. If third parties that process personal information on our behalf do so in a manner that does not comply with the Privacy Shield Principles, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
+
+Individuals in the EU may submit inquiries or complaints related to our processing of personal information under the Privacy Shield Framework directly to us at the e-mail address listed below in Section 16. In compliance with the Privacy Shield Principles, TimeTrade maintains an independent mechanism to investigate unresolved Privacy Shield complaints regarding our compliance to the Privacy Shield Principles. If we have not been able to successfully resolve your inquiry or complaint and you are based in the EU, you may raise your inquiry or complaint to JAMS ADR at <https://www.jamsadr.com/eu-us-privacy-shield>. The services of JAMS are provided at no cost to you. In addition, as further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
+
+TimeTrade privacy practices are subject to the jurisdiction of the United States Federal Trade Commission (FTC) and as such TimeTrade is subject to the investigatory and enforcement powers of the FTC.
+
+To learn more about the Privacy Shield Framework and to view TimeTrade’s certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+**16.  ** **Contacting Us**
 
 Please direct any questions regarding our Privacy Statement to our privacy coordinator at privacytimetrade.com.
 
-This document was last updated on 3/30/2016
+This document was last updated on 10/07/2016.
