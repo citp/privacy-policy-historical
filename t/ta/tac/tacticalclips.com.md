@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tacticalclips.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221115724id_/http%3A//tacticalclips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalclips.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226210945id_/http%3A//tacticalclips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Tactical Clips
 
   1. **Introduction**  
 1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.  
@@ -32,7 +32,7 @@ _(h)_ Send you email notifications that you have specifically requested;
 _(i)_ Send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter  
 _(j)_ Send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications.  
 _(k)_ Provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information  
-_(l)_ deal with enquiries and complaints made by or about you relating to our website;  
+_(l)_ deal with inquiries and complaints made by or about you relating to our website;  
 _(m)_ Keep our website secure and prevent fraud  
 _(n)_ Verify compliance with the terms and conditions governing the use of our website (including monitoring private messages sent through our website private messaging service); and  
 _(o)_ (Other uses).  
@@ -52,7 +52,7 @@ _(e)_ To any person who we reasonably believe may apply to a court or other comp
 4.4 Except as provided in this policy, we will not provide your personal information to third parties.
   5. **International data transfers**  
 5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.  
-5.2 Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: The United States of America, Russia, Japan, China and India.  
+5.2 Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: The United States of America, Russia, Japan, China and India. In the event of a conflict in laws between countries, the owners and operators of this site will choose to operate under the guidelines of US laws only.)  
 5.3 Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.  
 5.4 You expressly agree to the transfers of personal information described in this Section 5.
   6. **Retaining personal information**  
@@ -74,7 +74,9 @@ _(c)_ In order to establish, exercise or defend our legal rights (including prov
 8.3 We may notify you of changes to this policy by email or through the private messaging system on our website.
   9. **Third party websites**  
 9.1 Our website includes hyperlinks to, and details of, third party websites.  
-9.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+9.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.  
+9.3 Third party websites such as, Amazon, Google, Facebook and other social networks and advertisers employ the use of tracking cookies. The data collected is sent back to those sites for processing, storage and analysis consistent with the use of their data collection and privacy policies. By using this website you agree to the collection and transfer of this data.  
+9.4 www.tacticalclips.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
   10. **Updating information**  
 10.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
   11. **Cookies**  
@@ -85,16 +87,16 @@ _(c)_ In order to establish, exercise or defend our legal rights (including prov
 11.5 We use both session and persistent cookies on our website.  
 11.6 Most browsers allow you to refuse to accept cookies; for example:  
 _(a)_ in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools”, “Internet Options”, “Privacy” and then “Advanced”;  
-_(b)_ in Firefox (version 24) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and  
-_(c)_ in Chrome (version 29), you can block all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.  
+_(b)_ in Firefox (version 24) you can block all cookies by clicking “Tools”, “Options”, “Privacy”, selecting “Use custom settings for history” from the drop-down menu, and un-ticking “Accept cookies from sites”; and  
+_(c)_ in Chrome (version 29), you can block all cookies by accessing the “Customisz and control” menu, and clicking “Settings”, “Show advanced settings” and “Content settings”, and then selecting “Block sites from setting any data” under the “Cookies” heading.  
 11.7 Blocking all cookies will have a negative impact upon the usability of many websites.  
 11.8 If you block cookies, you will not be able to use all the features on our website.  
 11.9 You can delete cookies already stored on your computer; for example:  
 _(a)_ In Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);  
 _(b)_ in Firefox (version 24), you can delete cookies by clicking “Tools”, “Options” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies”, and then clicking “Remove All Cookies”; and  
-_(c)_ in Chrome (version 29), you can delete all cookies by accessing the “Customise and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data”.  
+_(c)_ in Chrome (version 29), you can delete all cookies by accessing the “Customize and control” menu, and clicking “Settings”, “Show advanced settings” and “Clear browsing data”, and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data”.  
 11.10 Deleting cookies will have a negative impact on the usability of many websites.
 
 
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://tacticalclips.com/privacy-policy/)
+_Last updated 08/23/2016 to include required notification about Amazon Affiliates relationship._
