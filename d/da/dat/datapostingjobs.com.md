@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624132448id_/http%3A//datapostingjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226104641id_/http%3A//www.datapostingjobs.com/privacy.php) for the most accurate reproduction.*
 
 # Data Posting Jobs
 
