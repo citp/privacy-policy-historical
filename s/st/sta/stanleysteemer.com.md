@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the stanleysteemer.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506052445id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanleysteemer.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226124216id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.*
 
 # Stanley Steemer's Privacy Policy
 
+**EFFECTIVE DATE: July 26, 2016**
+
 **Introduction**
 
-Stanley Steemer International, Inc. (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
+Stanley Steemer International, Inc. (the **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.stanleysteemer.com](https://web.archive.org/) (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.stanleysteemer.com](https://web.archive.org/) (our **"Website"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -23,7 +25,7 @@ It does not apply to information collected by:
 
 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy. This Policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 **Children Under the Age of 13**
 
@@ -33,65 +35,44 @@ Our Website is not intended for children under 13 years of age. No one under age
 
 We collect several types of information from and about users of our Website, including information:
 
-  * by which you may be personally identified, such as name, postal address, e-mail address or telephone number ("personal information");
-  * about your internet connection, the equipment you use to access our Website and usage details.
-
-
-
-We collect this information:
-
-  * Directly from you when you provide it to us.
-  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies.
-  * From third parties, for example, our business partners.
-
-**Information You Provide to Us**
-
-The information we collect on or through our Website may include:
-
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of scheduling or requesting services or registering to use our Website. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes.
-  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
-  * Your search queries on the Website.
-
-
-
-You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
-
-**Usage Details, IP Addresses, Cookies and Other Technologies**
-
-As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
-
-  * Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.
-  * Information about your computer and internet connection, including your IP address, operating system and browser type.
-
-
-
-The information we collect automatically helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
-
-  * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
-  * Recognize you when you return to our Website.
-
-
+  * Information You Manually Provide. The Company collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use the Website, for example, we collect the information you provide when you request service, express interest in becoming a franchisee, send us questions, or otherwise interact with the Website. Some of the information you manually provide may be information by which you may be personally identified ( **“personal information”** ) such as name, postal address, e-mail address and telephone number.
+  * Information from Social Media Platforms. You may be able to register with, log on to, or enhance your profile on the Website by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
+  * Information from Your Browser or Device. The Company collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings. The information we receive from your web browser and device typically is not, in and of itself, personally identifiable. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you.
+  * Information Collected by Cookies and Other Technologies. We use “cookies” and other technologies to collect information and support certain features of the Website. For example, we may use these technologies to: 
+    * collect information about the ways visitors use the Website—which pages they visit, which links they use, and how long they stay on each page; 
+    * support the features and functionality of the Website—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+    * personalize your experience when you use the Website; and
+    * improve our marketing efforts, including through use of targeted advertising. 
 
 The technologies we use for this automatic data collection may include:
 
-  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-  * Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
-  * Web Beacons. Pages of our the Website [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+    * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+    * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
+    * **Web Beacons.** Pages of our the Website [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit our Website, you may be unable to use all of the functionality of the Website if your browser rejects our cookies.
+
+  * Information About Third Party Cookies and Other Technologies.
+    * In addition to the cookies and similar technologies delivered by the Company through our Website, certain third parties may deliver cookies and similar technologies to you for a variety of reasons. For example, the Company uses Google Analytics code that allows for certain forms of display advertising and other advanced features. Subject to change, the Google Display Advertising features the Company currently uses are Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager Integration, and Google Analytics Demographics and Interest Reporting.
+    * These features are used to advertise online; to allow third-party vendors, including Google, to show you advertising across the Internet; to allow the Company and third-party vendors, including Google, to use first-party cookies (such as the Google Analytics cookie) and third-party cookies together to inform, optimize, and serve ads based on your past visits to the Website and to report how ad impressions, uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Website. Data from Google's interest-based advertising or third-party audience data (such as age, gender, and interests) is also combined with Google Analytics to better understand the needs of our users and to improve the services offered through the Website.
+    * You may opt out of such display advertising at any time by visiting your [Google Ads Settings](https://support.google.com/ads/answer/2662856?hl=en) page or by installing and running the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please note the Add-on does not prevent information from being sent to the Company.
+    * In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to our Website or other websites, please visit the Digital Advertising Alliance website for [Consumer Choice](http://www.aboutads.info/choices/). You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on our Website do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies. Please note that the industry-developed opt-out mechanism is device and browser specific. If you wish to opt-out from having interest-based information collected by participating entities across all devices and browsers, you need take the steps outlined above from each device and browser.
 
 
-
-We do not collect Personal Information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
 **How We Use Your Information**
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
   * To present our Website and its contents to you.
+  * To provide you with effective customer service.
   * To provide you with information, products or services that you request from us.
+  * To contact you with special offers and other information we believe will be of interest to you (consistent with any privacy preferences you have expressed to us).
+  * To invite you to participate in surveys and provide feedback to us (consistent with any privacy preferences you have expressed to us).
   * To fulfill any other purpose for which you provide it.
+  * To better understand your needs and interests.
+  * To improve our products and services.
+  * To improve our marketing and promotional efforts.
   * To provide you with notices about your account, including expiration and renewal notices.
   * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
   * To notify you about changes to our Website or any products or services we offer or provide though it.
@@ -101,8 +82,6 @@ We use information that we collect about you or that you provide to us, includin
 
 
 
-We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data.
-
 **Disclosure of Your Information**
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
@@ -111,6 +90,8 @@ We may disclose personal information that we collect or you provide as described
 
   * To our subsidiaries; affiliates; or franchisees.
   * To contractors, service providers and other third parties we use to support our business.
+  * To Social Media Platforms. We may provide functionality on our Website that allows you to automatically post information about the actions you take on our Website to a third-party social media platform (such as Facebook or Twitter). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform may be able to see the actions you have taken—for example, the products or services you have purchased. Thus, you should have no expectation of privacy in those actions. Further, if you choose to link your profile on our Website with an account on a third-party social media platform, we may share the information in your profile with that third-party platform. We may also use third-party social media platforms to offer you interest-based ads. To offer such ads, we may convert your email address into a unique value which can be matched by our partner company with a user on their platform. Although we do not provide any personal information to these platform vendors, they may gain insights about individuals who respond to the ads we serve.
+  * To Other Users of this Site. You may be able to submit User-Generated Content on or through our Website or other Social Media Platforms (e.g., Facebook, Instagram, YouTube, Twitter, Snapchat, etc.). In this Policy, “User-Generated Content” or “UGC” refers to content that you post using the Social Media Platforms, the Website and/or the social networking tools we make available to you. Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through our Website.
   * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Stanley Steemer International, Inc.’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Stanley Steemer International, Inc. about our Website users is among the assets transferred.
   * To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the "e-mail a friend" feature of our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients.
   * For any other purpose disclosed by us when you provide the information.
@@ -121,19 +102,18 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [terms of use](https://web.archive.org/terms-and-conditions) and other agreements, including for billing and collection purposes.
+  * To enforce or apply our [Terms of Use](https://web.archive.org/terms-and-conditions) of the Website and other agreements, including for billing and collection purposes.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Stanley Steemer International, Inc., our customers or others.
 
 
-
-If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Stanley Steemer International, Inc., our customers or others.
 
 **Choices About How We Use and Disclose Your Information**
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data  or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@stanleysteemer.com](mailto:privacy@stanleysteemer.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a the purchase of products or services, product service experience or other transactions.
-  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@stanleysteemer.com](mailto:privacy@stanleysteemer.com).
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Promotional Offers from the Company.** If we have sent you a promotional e-mail, you can follow the link at the bottom of such e-mails entitled, “Manage My Preferences or Unsubscribe” to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of the purchase of products or services, product service experience or other transactions. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by visiting the [Website](http://email.stanleysteemer.com/public/webform/render_form/220urr0ogc5vjwaj1y4hr2ruulxhb/e3df3aea9c9efc5d1e25f1a45f28625a/addcontact) and adjusting your user preferences as appropriate.
+  * **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your advertising preferences by visiting the [Website](http://email.stanleysteemer.com/public/webform/render_form/220urr0ogc5vjwaj1y4hr2ruulxhb/e3df3aea9c9efc5d1e25f1a45f28625a/addcontact) and adjusting your user preferences as appropriate.
 
 
 
