@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619091803id_/http%3A//www.bigcontacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontacts.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226031038id_/http%3A//www.bigcontacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BigContacts
 
@@ -6,7 +6,7 @@ Effective Date: September 16th, 2015
 
 This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including:
 
-BigContacts ("BC") owns and operates the  [www.bigcontacts.com](http://www.bigcontacts.com/) , [https://crm.bigcontacts.com](https://crm.bigcontacts.com/)  and [https://mobile.bigcontacts.com](https://crm.bigcontacts.com/) websites. All references to "we", "us", this "website" or this "site" shall be construed to mean BC. We understand that visitors to these websites are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal-Covered Information (defined below), that we collect through this website as well as our policy on the confidentiality of ALL information that we store. By using any of these websites you are accepting the practices described in this Privacy Policy.
+BigContacts ("BC") owns and operates the  [www.bigcontacts.com](http://www.bigcontacts.com/) , [https://crm.bigcontacts.com](https://crm.bigcontacts.com/), [https://app.bigcontacts.com](https://app.bigcontacts.com/)  and [https://mobile.bigcontacts.com](https://crm.bigcontacts.com/) websites. All references to "we", "us", this "website" or this "site" shall be construed to mean BC. We understand that visitors to these websites are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal-Covered Information (defined below), that we collect through this website as well as our policy on the confidentiality of ALL information that we store. By using any of these websites you are accepting the practices described in this Privacy Policy.
 
 ## **HOW WE MODIFY THIS PRIVACY POLICY**
 
