@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508204100id_/http%3A//www.lastmin-flights.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastmin-flights.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226205244id_/http%3A//www.lastmin-flights.com/privacy.php) for the most accurate reproduction.*
 
 # lastmin-flights.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-Trip Technologies, Inc. (in this policy: "the Company", "We", "Us", or "Our") respects your privacy. This policy explains the accepted privacy practices for our website at [www.lastmin-flights.com](https://web.archive.org/) ("Lastmin-flights"). 
+Cricket Traveling LTD (in this policy: "the Company", "We", "Us", or "Our") respects your privacy. This policy explains the accepted privacy practices for our website at [www.lastmin-flights.com](https://web.archive.org/) ("Lastmin-flights"). 
 
 This policy covers, among other things, what personal information we collect from you, whether you are a registered user or not, how we use the information, with whom We share the information, the data obtained automatically when you use Lastmin-flights and how We retain it. 
 
