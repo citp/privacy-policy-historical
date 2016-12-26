@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adstage.io privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507135803id_/https%3A//www.adstage.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adstage.io privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226012054id_/https%3A//www.adstage.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdStage
 
