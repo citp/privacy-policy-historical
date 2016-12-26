@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleazyneasy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617093835id_/http%3A//www.sleazyneasy.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleazyneasy.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227001511id_/http%3A//www.sleazyneasy.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Page | Sleazy Porn Tube | Hardcore Porn Tube | Free Hardcore Tube
 
