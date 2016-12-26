@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pdfconvertsearch.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527225350id_/http%3A//www.pdfconvertsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfconvertsearch.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226081039id_/http%3A//www.pdfconvertsearch.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PDF Convert Search
+
+**Privacy policy for Hopebest Inc Media**
 
 **Hopebest** provides this Privacy Policy to demonstrate our commitment to respecting and protecting your privacy. This Privacy Policy applies to the Hopebest suite of softwares. Our privacy policy describes your rights regarding our use of your personal information. 
 
@@ -12,12 +14,7 @@ We collect personal information in order to provide you with a better use of Hop
 
 How We Collect Information 
 
-**Information You Provide to Us.**  
- When you use Hopebest services, we may collect information provided to us when you post to the Hopebest in another manner. When you log-in to the HOPEBEST Services via Facebook or another social media platform, we may also collect the information provided to us through these sites. When we provide you with an email inbox, we may collect and monitor the contents of emails sent through the system. 
-
-**Files which are Uploaded**
-
- When you use Hopebest services, your files are uploaded to our web server to be converted to PDF/from PDF to document formats. These files are automatically deleted within 1 hour and the files which are uploaded are NOT kept at all after 1 hour. You retain all ownership and rights to the files which are uploaded to our servers and our service only helps you to convert your files into PDF/away from PDF. We own & maintain another domain fasterpcmax.com to do the PDF file conversion process to ensure this website is up and running at all times. The privacy policy of pdfconvertsearch.com also applies to fasterpcmax.com 
+**Information You Provide to Us.**  When you use Hopebest services, we may collect information provided to us when you post to the Hopebest in another manner. When you log-in to the HOPEBEST Services via Facebook or another social media platform, we may also collect the information provided to us through these sites. When we provide you with an email inbox, we may collect and monitor the contents of emails sent through the system. 
 
 **Automatically Captured Information.**  We automatically collect information sent to us by your operating device when you use the HOPEBEST Services. The information sent to us may include your IP address, data about the pages you access, mobile network information, search history, and a time-stamp. Through the content of our undeleted cookies, we may also collect information regarding the devices connected to your computer, software installed upon, and referring website addresses. 
 
@@ -31,8 +28,24 @@ Information Collected By Third-Parties And Behavioral Advertising 
 How We Use the Personal Information We Collect   
 Our primary goal in collecting personal information is to provide you with a safe and customized user experience. We may use your personal information to: 
 
+  * Provide the products and services that you requested; 
+  * Deliver HOPEBEST Services and customer support; 
+  * Perform target marketing and advertising that is tailored to your interests; 
+  * Manage and protect our business, which includes the quality of the HOPEBEST Services and system; 
+  * Contact you by postal mail, e-mail, or telephone in order to explain our recent products and services.; and 
+  * Resolve complaints, abuse, or other allegations; 
+
+
+
 How We Share Your Personal Information With Third Parties   
 We may share your personal information we collect from you with others as indicated below: 
+
+  * Business Partners: We may share information we collect from you with our business partners whenever you engage in promotions, contests, and sweepstakes. 
+  * Advertisers and Ad Networks: These third party advertisers may collect information themelves in order to produce tailored advertisements. 
+  * Other HOPEBEST Businesses: We may share your information with our affiliated HOPEBEST companies to provide a customized user experience. 
+  * Other Important Situations: We may disclose your personal information as required by the courts in good faith compliance. 
+
+
 
 How We Protect and Store Personal Information   
 The information that we collected may be stored and processed in the country or territory of Hong Kong. Regardless of the residence of your home country, we protect the information transferred in accordance with this Privacy Policy. We protect your information using physical, electronic, and procedural security measures. 
@@ -41,10 +54,7 @@ Third Party Websites
 When you click on a link in the HOPEBEST Service, you may be directed to third party websites. You can consult these third party websites for their Privacy Policy. 
 
 How To Change Your Personal Information   
-You may exercise your right to object our use of your personal information by writing to us at the below address support@pdfconvertsearch.com 
-
-Removal of Personal Information   
-If you do not want us to retain or use your personal information in any way, please withdraw your consent (i.e. "opt out"), by contacting us at support@pdfconvertsearch.com . 
+You may exercise your right to object our use of your personal information by writing to us at the below address. 
 
 Children's Privacy   
 Our HOPEBEST Services are designed for those who are at least 13 years old. 
