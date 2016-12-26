@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playcontestofchampions.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404122335id_/http%3A//www.playcontestofchampions.com/Director.aspx%3Fsid%3D692%26sky%3D6JFQY64S%26pgi%3D10578%26pgk%3D7MX92W8T%26eli%3DD31F3F4B96C25BB92DB46DA53725B428CAFCFE4EAA9B33AC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcontestofchampions.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226222800id_/https%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kabam
 
