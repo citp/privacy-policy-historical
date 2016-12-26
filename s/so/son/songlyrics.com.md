@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229070531id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226230937id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Collection of Song Lyrics at SongLyrics.com
 
@@ -43,7 +43,7 @@ A cookie is a piece of data stored on the user's computer tied to information ab
 
 Cookies, if used, will be used on our site to remember and recall login names, login information, previous purchases, potential purchases, as well as other items to help us better understand user's needs. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the (Profile) section.
 
-We have no control over any third party use also use cookies to store personal information. However, we do not provide this information to any third party.
+We partner with Conversant to serve ads and/or collect certain information when you visit our website. Conversant may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.conversantmedia.com/legal/privacy>.
 
 ### Log Files
 
@@ -149,4 +149,4 @@ If, however, we are going to use users' personally identifiable information in a
 
 ## Contact Information
 
-If users have any questions, disputes or suggestions regarding our privacy policy, please [contact us here](http://www.songlyrics.com/email_us.php).
+If users have any questions, disputes or suggestions regarding our privacy policy, please [contact us here](http://www.songlyrics.com/email_us.php). 
