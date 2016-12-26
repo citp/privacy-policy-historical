@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 106andpark.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052344id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 106andpark.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226224022id_/http%3A//www.bet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,10 +26,10 @@ BET reserves the right to revise this Privacy Policy at any time and for any rea
 (ii). You can send mail to the following postal address:
 
   
-BET Networks   
-One BET Plaza   
-1235 W Street, NE   
-Washington, DC 20018   
+BET Networks  
+One BET Plaza  
+1235 W Street, NE  
+Washington, DC 20018  
 Attn: General Counsel
 
 All requests must be labeled “Your California Privacy Rights” on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name, street address, city, state, zip code and email address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
@@ -42,7 +42,7 @@ Please be aware that other websites that may be accessed through the Site (inclu
 
 **2.   United States Jurisdiction; Safe Harbor**
 
-The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.  By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our **Terms of Use** **[hyperlink to BET.com Terms of Use]**.  If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.  By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our **[Terms of Use](http://www.bet.com/terms-of-use.html)**. If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
 If you are located in the European Economic Area (“ _EEA_ ”) and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at <http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf>.  
 
@@ -58,7 +58,7 @@ Some functions, mobile applications or promotions, as well as some areas of BET.
 
 To the extent that we offer online sales or shopping services, if you order any of our products, in addition to your name and contact information, we will also collect and maintain certain Sensitive Personal Information, including your credit card or other payment instrument information, billing address, shipping address, product selections, your order number, and information about your computer’s Internet address and website which may have referred or directed you to the Site (e.g., the referring URL).
 
-**5.   Use of Personal and Other Information.**   
+**5.   Use of Personal and Other Information.**  
 BET’s primary goal in collecting Personal Information is to provide the user with a customized experience on our Site. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to our users. In order to provide services free of charge, we display advertisements. By knowing a little about users, BET is able to deliver more relevant advertisements and content, and hence better service, to our users.
 
 We may use Personal Information from our online registration, surveys, contests, mobile applications, specialized services, and order forms for our own internal evaluation and tracking purposes and to send our users information from our company (e.g., site announcements, newsletters, and message notifications) and promotional material from some of our business partners (or from other companies).
@@ -158,7 +158,7 @@ Please note that BET, our Parent Company, or our Affiliates may continue to cont
 
 ·         Please note the following with respect to opting out:
 
-o   **_The opt-out tools discussed above are “cookie based_** **.”**   This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences. 
+o   **_The opt-out tools discussed above are “cookie based_.”**  This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences. 
 
 o   **_Opt-outs are “browser-specific_**.”  The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences.  This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device.  It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.  
 
@@ -278,7 +278,7 @@ We reserve the right to deny access, use and registration privileges to any user
 If you have any privacy-related concerns with respect to operation of the Site, questions about this privacy statement or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, please feel free to contact:
 
 Privacy Administrator  
-Office of the General Counsel   
+Office of the General Counsel  
 BET Networks  
 One BET Plaza  
 1235 W Street, NE  
