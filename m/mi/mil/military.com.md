@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618033555id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235551id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy | Military.com
 
@@ -16,7 +16,7 @@ Personal Information is information that can be used to identify you, or any oth
 
 Demographic information is information that is not unique to you in the sense that it refers to selected population characteristics, such as your ZIP code or postal code, age, preferences, gender, race or ethnicity, occupation, career history, interests and favorites.
 
-Behavioral Information is information regarding how you use our site(s), the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geolocation, browser and operating system type, domain names, access times and referring Web site addresses. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services. In addition, Military may collect indirect information about you when you use certain third party services on Military. For example if you provide a title of 'Mrs.' we will assume you are female.
+Behavioral Information is information regarding how you use our site(s), the areas of our site that you visit, what services you access, and information about your computer hardware and software including your IP address, geolocation, browser and operating system type, domain names, access times and referring Web site addresses. This information is necessary for analyzing the use of resources, troubleshooting problems, preventing fraud, and improving our services.In addition, Military may collect indirect information about you when you use certain third party services on Military. For example if you provide a title of 'Mrs.' we will assume you are female.
 
 We may personalize the advertising that you are shown on our sites or other sites with which we have a business relationship. In order to provide this personalization, in addition to information we collect about you on our sites, we acquire information (including personal, demographic, behavioral and indirect information) about you from third parties who provide it to us.
 
@@ -26,7 +26,7 @@ We use the information we gather on Military for the purposes of providing our s
 
 If you have provided consent for us to do so, we may also use the information we gather to inform you of other products or services available from us or our affiliated companies.
 
-We may use your contact information in order to send you e-mail or other communications regarding updates at Military, to send you free informational newsletters from us relating to topics that may be of special interest to you, to contact you about your opinion of current products and services or potential new products and services that may be offered, to conduct surveys, questionnaires, promotions and contests, and to provide the results thereof such as success stories and contest winners. The nature and frequency of these messages will vary depending upon the information we have about you. We have areas on Military where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information.
+We may use your contact information in order to send you e-mail or other communications regarding updates at Military, to send you free informational newsletters from us relating to topics that may be of special interest to you, to contact you about your opinion of current products and services or potential new products and services that may be offered, to conduct surveys, questionnaires, promotions and contests, and to provide the results thereof such as success stories and contest winners. The nature and frequency of these messages will vary depending upon the information we have about you.We have areas on Military where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information.
 
 Some of our products and services, such as our social and professional networking, allow third parties to see your personal information and to contact you. Profile information may be used for networking with other community members.
 
@@ -58,7 +58,7 @@ Please remember that if you post any of your personal information in public area
 
 We retain all the information we gather about you in an effort to make your repeat use with us more efficient, practical and relevant until you change or remove your personal data as described below. You may have access to, review, correct, update, change or delete your account profile information at any time. Simply log into your account, go to your profile, and make the necessary changes. [Click here](https://web.archive.org/member-reg/member-profile-registration.html?vlv_redir=http://www.military.com/profile/member-profile.html) to access your Military.com account and profile information. Before providing you with a copy of your personal information or correcting, updating or deleting such information, we reserve the right to verify and authenticate your identity and the personal information to which you have requested access. Access to or correction, updating or deletion of your personal information may be denied or limited by Military if it would violate another person's rights and/or as otherwise permitted by applicable law.
 
-If you wish to delete or close your account or account profile information altogether, please [click here](https://web.archive.org/about-us/help-and-feedback#6) for more information on how to contact us. We will retain logs, demographic, indirect, and statistical information about you and keep an archival copy of this information in an anonymized form. If your personal information was previously accessed by others using our Sites, we are not able to delete the information or copies thereof from their systems. If you previously opted to receive newsletters, commercial e-mails or other communications from Military or third parties, but subsequently change your mind, you may opt-out by editing your account profile. If you previously opted not to receive such communications, you may later opt-in by editing your account profile.
+If you wish to delete or close your account or account profile information altogether, please [click here](https://web.archive.org/about-us/help-and-feedback#6) for more information on how to contact us. We will retain logs, demographic, indirect, and statistical information about you and keep an archival copy of this information in an anonymized form. If your personal information was previously accessed by others using our Sites, we are not able to delete the information or copies thereof from their systems.If you previously opted to receive newsletters, commercial e-mails or other communications from Military or third parties, but subsequently change your mind, you may opt-out by editing your account profile. If you previously opted not to receive such communications, you may later opt-in by editing your account profile.
 
 ## Important Information
 
@@ -121,23 +121,36 @@ Military Advantage, Inc.
 Suite 300  
 San Francisco, CA 94105
 
-Thank you for using Military.com.  
+Thank you for using Military.com.
+
 Update effective 10 June 2011
 
 ## Military.com Network of Sites
 
-Network Blogs:  
-**op-for.com  
-lineofdeparture.com  
-defensetech.org  
-dodbuzz.com  
-spousebuzz.com**
+**Network Blogs:**
 
-Military.com Blogs:  
-**military-education.military.com (education blog)  
-paycheck-chronicles.military.com (finance blog)  
-transitionstories.military.com (transition blog)  
-military-fitness.military.com (fitness blog)  
-kitup.military.com (equipment blog)  
-undertheradar.military.com (entertainment blog)  
-militaryadvantage.military.com (benefits blog)**
+op-for.com
+
+lineofdeparture.com
+
+defensetech.org
+
+dodbuzz.com
+
+spousebuzz.com
+
+**Military.com Blogs:**
+
+military-education.military.com (education blog)
+
+paycheck-chronicles.military.com (finance blog)
+
+transitionstories.military.com (transition blog)
+
+military-fitness.military.com (fitness blog)
+
+kitup.military.com (equipment blog)
+
+undertheradar.military.com (entertainment blog)
+
+militaryadvantage.military.com (benefits blog)
