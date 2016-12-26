@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemnation.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014336id_/http%3A//www.gemnation.com/base%3Fprocessor%3DgetPage%26pageName%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemnation.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226203729id_/http%3A//www.gemnation.com/base%3Fprocessor%3DgetPage%26pageName%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Gemnation
 
