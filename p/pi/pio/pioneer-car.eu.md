@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622214011id_/http%3A//www.pioneer-car.eu/eur/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer-car.eu privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226232523id_/http%3A//www.pioneer-car.eu/eur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer
+
+#### Select a country
+
+Europe
 
 **PIONEERS COMMITMENT TO PRIVACY**
 
