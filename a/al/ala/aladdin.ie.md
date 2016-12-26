@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aladdin.ie privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503032632id_/https%3A//www.aladdin.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aladdin.ie privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226162710id_/https%3A//www.aladdin.ie/privacy.html) for the most accurate reproduction.*
 
 # Aladdin Schools - Privacy
 
