@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefatburninghormone.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153140id_/http%3A//thefatburninghormone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefatburninghormone.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226150438id_/http%3A//thefatburninghormone.com/privacy-policy) for the most accurate reproduction.*
 
 # The Fat Burning Hormone - Privacy Policy
 
