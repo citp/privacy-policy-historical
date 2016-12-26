@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the examdrive.in privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627160634id_/http%3A//www.examdrive.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examdrive.in privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226180321id_/http%3A//www.examdrive.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ EXAM DRIVE
+# Privacy Policy || Examdrive
 
 **> Privacy Policy of Examdrive**
 
@@ -10,7 +10,7 @@ This website www.Examdrive.in is sensitive to privacy issues on the Internet. We
 
 Google, as a third party vendor, uses cookies to serve ads on www.examdrive.in Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.examdrive.in and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy/ads/ 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Google DoubleClick, Infolinks, Media (Yahoo|Bing ) Network Ads.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Google DoubleClick, Network Ads.
 
 This website www.examdrive.in has no access to or control over these cookies that are used by third-party advertisers. www.Examdrive.in Web site may contain links to other sites such as www.Examdrive.in partners and affiliates. 
 
