@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didww.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425043509id_/https%3A//www.didww.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didww.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226070005id_/https%3A//www.didww.com/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | DIDWW
 
