@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the toggle.com privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323121943id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toggle.com privacy policy that was archived on 2016-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226060049id_/https%3A//www.toggle.com/lv/privacy_policy/view.htm%3Flang%3Den) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" itemscope="" itemtype="https://schema.org/WebPage"><!-- tc 1458735584 --><head>
+<!DOCTYPE html><html lang="en" itemscope="" itemtype="https://schema.org/WebPage"><!-- tc 1482724216 --><head>
     <meta charset="utf-8">
             <title>Toggle - privacy policy</title>
         
@@ -247,6 +247,12 @@ We welcome questions and comments regarding this policy, so feel free to contact
         var ga = document.createElement('script');
         ga.type = 'text/javascript';
         ga.async = true;
+        
+        if (!document.location.origin) {
+          document.location.origin = document.location.protocol + "//" 
+            + document.location.hostname 
+            + (document.location.port ? ':' + document.location.port : '');
+        }
         ga.src = document.location.origin + '/js/ga.js';
         //ga.src = ('https:' == document.location.origin ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0];
