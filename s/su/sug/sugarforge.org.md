@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125223600id_/https%3A//www.sugarcrm.com/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarforge.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226232640id_/https%3A//www.sugarcrm.com/sugarcrm-inc-privacy-policy) for the most accurate reproduction.*
 
 # SugarCRM Inc. Privacy Policy | SugarCRM.com
 
-Last Updated: April 10, 2015
-
 SugarCRM Inc. and the subsidiaries we own or control worldwide (collectively, "SugarCRM") respect your privacy. This privacy policy (the "Policy") explains how SugarCRM collects and uses data collected from you, including personal information, through (i) our publicly available websites (the "Sites"), and (ii) the SugarCRM mobile and other add-on applications (e.g., SugarCRM for iPhone, SugarCRM for Android, etc.) ("Apps") and other related services on which we post a direct link to this Policy (together with Apps, the "Services"). This Policy does not cover any other data collection or processing, including without limitation, the data we host for our registered customers. If you purchase or download our solutions, the data that you (and your customers) submit as you use our solutions will be governed by the applicable SugarCRM agreement, and as required by law.
-
-SugarCRM adheres to the U.S.-European Union Safe Harbor Framework privacy principles and is registered with the Safe Harbor Program regarding the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. The scope of our Safe Harbor Certification is defined by our [EEA/CH Safe Harbor Notice](https://web.archive.org/web/20160125223600id_/https%3A//www.sugarcrm.com/node/12091). Our EEA/CH Safe Harbor Notice does not apply to data that we collect through our Sites.
 
 **How We Collect Information**
 
@@ -122,6 +118,24 @@ Transmissions over the Internet are never 100% secure or error-free. SugarCRM em
 
 SugarCRM recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. This Site is not intended for children under the age of 13. SugarCRM does not target this Site to children under 13. SugarCRM does not knowingly collect personal information from children under the age of 13.
 
+**US-EU Safe Harbor Privacy Principles**
+
+The U.S.-European Union Safe Harbor program addresses the collection, protection, storage, transfer, use and other processing of data transferred from the European Economic Area to the United States. While SugarCRM is not currently registered with the Safe Harbor program, SugarCRM is nonetheless committed to applying the Safe Harbor Privacy Principles in providing its products and services.
+
+**Our Collection of Usage Data Through Our Products**
+
+_Usage Data_. In the course of providing you with the SugarCRM product and services, we may collect, use, process and store Usage Data in order to  create and compile anonymized, aggregated datasets and/or statistics about the products or services for the following purposes: (a) to maintain and improve the performance and integrity of SugarCRM products or services, (b) to understand which SugarCRM products or services are most commonly deployed and preferred by customers and how customers interact with SugarCRM products or services, (c) to identify the types of SugarCRM products or services that may require additional maintenance or support, and (d) to comply with regulatory, legislative and/or contractual requirements; provided in each case that such aggregated datasets and statistics will not enable you or any living individual to be identified.
+
+_Web Analytics._ As one means of collecting Usage Data, we use third party web analytics tools (such as Google Analytics) that serve cookies or similar tracking technologies through our products and services, on end user devices, to collect anonymous Usage Data for the purposes described above. You are responsible for informing your end users about our use of such web analytics tools in connection with the products and related services.
+
+_Critical Control Software._ The Sugar product also includes Critical Control Software that regularly transmits certain Usage Data to us and, if applicable, an authorized partner, to verify compliance with the terms of the applicable agreement and to improve the SugarCRM products and services
+
+“Usage Data” means diagnostic and usage related content from the computer, mobile phone or other devices your users use to access the SugarCRM product and may include, but is not limited to, IP addresses, internet service, location, type of browser and modules that are used and/or accessed, licensing, system and service performance data. Usage Data does not, however, include Your Data.
+
+"Your Data" means any data, information or material stored by you in the SugarCRM product.
+
+“Critical Control Software" means software with functionality that reports the number of authorized subscription users, and provides us (and Authorized Partners, where applicable) with the ability to monitor certain usage of the product.
+
 **Changes to Privacy Policy**
 
 We reserve the right to change, modify, add or remove portions of this statement from time to time and in our sole discretion, but will alert you that changes have been made by indicating on the statement the date it was last updated. Your continued access to the Sites and Services will indicate your acceptance of our updated Policy. We recommend that users revisit this statement on occasion to learn of any changes.
@@ -129,3 +143,5 @@ We reserve the right to change, modify, add or remove portions of this statement
 **Contact Us**
 
 Please contact us by writing to us at: [contact@sugarcrm.com](mailto:contact@sugarcrm.com) or SugarCRM Inc., 10050 N. Wolfe Rd. SW2-130, Cupertino CA 95014, USA, c/o General Counsel if you have any questions regarding this Policy.
+
+Last Update: August 2016
