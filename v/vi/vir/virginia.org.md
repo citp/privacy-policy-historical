@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619132508id_/http%3A//www.virginia.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226165310id_/http%3A//www.virginia.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Virginia Is For Lovers
 
@@ -54,4 +54,6 @@ If we decide to change our privacy policy, we will post those changes on our pri
 
 [**Freedom of Information Act (FOIA) Policy**](http://www.vatc.org/about/FOIA/ "Freedom of Information Act \(FOIA\) Policy")
 
-Last Updated: 03/03/2016
+**[Copyright Notices](https://web.archive.org/copyrightnotices/ "Copyright Notices")**
+
+Last Updated: 09/30/2016
