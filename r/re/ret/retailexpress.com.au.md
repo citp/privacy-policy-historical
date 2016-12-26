@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailexpress.com.au privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517234700id_/http%3A//retailexpress.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailexpress.com.au privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226085009id_/http%3A//retailexpress.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retail Express
 
