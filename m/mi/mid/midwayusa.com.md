@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619105000id_/https%3A//www.midwayusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235806id_/http%3A//www.midwayusa.com/privacy-policy) for the most accurate reproduction.*
 
 # MidwayUSA — Shooting Supplies, Reloading, Gunsmithing, Hunting, Ammunition, Gun Parts & Rifle Scopes
 
 **Last Modified 10/23/2012**
 
-This Privacy Policy (this " **Policy** ") describes how personal information is collected, used and disclosed by MidwayUSA (" **MidwayUSA** ," " **we** ," or " **us** ") in connection with your use of the MidwayUSA website at http://www.midwayusa.com (the " **Site** "). We encourage you to read this Policy carefully before providing any personal information on the Site.
+This Privacy Policy (this " **Policy** ") describes how personal information is collected, used and disclosed by MidwayUSA (" **MidwayUSA** ," " **we** ," or " **us** ") in connection with your use of the MidwayUSA website at https://www.midwayusa.com (the " **Site** "). We encourage you to read this Policy carefully before providing any personal information on the Site.
 
 ### THIRD-PARTY SERVICES
 
@@ -69,7 +69,7 @@ Personal information provided on our Site may be linked together or merged with 
 
 ### DISCLOSURE OF INFORMATION
 
-We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://web.archive.org/account/) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](https://web.archive.org/Features/ContactUs) page.
+We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://web.archive.org/account/profile) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](https://web.archive.org/features/contactus) page.
 
 Public Posts: Posts made through the Site are intended to be public. Therefore, any information, including personal information, you post in reviews, comments, questions, answers, groups, forums and other public areas will be publicly available as part of the Site.
 
@@ -89,7 +89,7 @@ Other sharing: We may also share personal information:
 
 ### CHOICE AND ACCESS
 
-To "opt-out" of receiving promotional e-mail from us, you can; (a) [Contact Us](https://web.archive.org/Features/ContactUs); (b) call toll free at 1-800-243-3220; or (c) click on the "unsubscribe" link in the email you receive from us.
+To "opt-out" of receiving promotional e-mail from us, you can; (a) [Contact Us](https://web.archive.org/features/contactus); (b) call toll free at 1-800-243-3220; or (c) click on the "unsubscribe" link in the email you receive from us.
 
 Please note that opting out of promotional emails will not prevent you from receiving administrative communications, such as those concerning the operation of the Site or order information, or about a review, question, answer or comment you have submitted.
 
@@ -103,7 +103,7 @@ We use reasonable security measures in an effort to prevent loss, misuse and alt
 
 ### POLICY CHANGES
 
-If you have any questions about this Policy, or the practices of or your dealings with the Site, please [Contact Us](https://web.archive.org/Features/ContactUs), call toll free 1-800-243-3220, or contact us at the following address:
+If you have any questions about this Policy, or the practices of or your dealings with the Site, please [Contact Us](https://web.archive.org/features/contactus), call toll free 1-800-243-3220, or contact us at the following address:
 
 MidwayUSA  
 Attention: Customer Service  
