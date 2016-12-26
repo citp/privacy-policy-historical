@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the minimob.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001542id_/http%3A//www.minimob.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minimob.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226202238id_/http%3A//www.minimob.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Generic - Spectral by HTML5 UP
+# Privacy Policy | minimob
 
-Last Updated: September 2016
+#### Last Update: September 2016
 
-This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Minimob (CY) LTD and its subsidiaries and affiliates ("Minimob"). This Policy applies to Minimob's website, located at [www.minimob.com](http://www.minimob.com/) ("Site") as well as Minimob's mobile advertising platform, technology, features, products and services ("Service"). 
+This Privacy Policy ("Policy") explains how your personal information is collected, used and disclosed by Minimob (CY) LTD and its subsidiaries and affiliates ("Minimob"). This Policy applies to Minimob's website, located at [www.minimob.com](http://www.minimob.com/) ("Site") as well as Minimob's mobile advertising platform, technology, features, products and services ("Service").
 
-Minimob may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If you have any questions about this Privacy Policy, please contact Minimob at [support@minimob.com](mailto:support@minimob.com). 
-
-* * *
+Minimob may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If you have any questions about this Privacy Policy, please contact Minimob at [support@minimob.com](mailto:support@minimob.com).
 
 ## DATA COLLECTED THROUGH OUR SERVICE/SITE
 
@@ -29,11 +27,9 @@ Minimob may change this Policy from time to time. If we make any changes to this
 ### Cookies and Other Tracking Technologies
 
   * We use cookies and other technologies on our Site to see which areas and features are popular and to count visits to our Site. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site.
-  * If you would like to opt-out from having Minimob collect your Non-PII in connection with our Technology, please click [here](http://dashboard.minimob.com/app/opt-out). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+  * If you would like to opt-out from having Minimob collect your Non-PII in connection with our Technology, please click [here](http://dashboard.minimob.com/app/opt-out). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 
-
-* * *
 
 ## USE OF DATA COLLECTED THROUGH OUR SERVICE/SITE
 
@@ -47,8 +43,6 @@ We use personal information collected through our Service/Site for purposes desc
 
 
 
-* * *
-
 ## DISCLOSURE OF DATA COLLECTED THROUGH OUR SERVICE/SITE
 
 We do not share the personal information collected through our Site with third parties other than as follows:
@@ -60,8 +54,6 @@ We do not share the personal information collected through our Site with third p
   * We do not rent or sell any information about you to others, or trade any such information. We may also share aggregated or anonymized information that does not directly identify you.
 
 
-
-* * *
 
 ## YOUR INFORMATION CHOICES REGARDING OUR SERVICE/SITE
 
