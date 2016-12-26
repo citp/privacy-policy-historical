@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commentarymagazine.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419043504id_/https%3A//www.commentarymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commentarymagazine.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226184335id_/https%3A//www.commentarymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Commentary Magazine
 
@@ -18,7 +18,7 @@ How We Protect Privacy Online
 
 Our website uses some of the most secure forms of online communication available, including data encryption, Secure Sockets Layer (SSL) protocol, and user names and passwords. These technologies provide a high level of security and privacy when you get access to your account information and initiate online transactions.
 
-Within _Commentary_ , we restrict access to information about you to those employees who need to know the information in order to perform their jobs, such as servicing your accounts or notifying you of products and services. (Note that passwords are encrypted and that _Commentary_ cannot get access to them in any way. If you lose your password, you can reset it here.) To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust these safeguards regularly in response to advances in technology.
+Within _Commentary_ , we restrict access to information about you to those employees who need to know the information in order to perform their jobs, such as servicing your accounts or notifying you of products and services. (Note that passwords are encrypted and that _Commentary_ cannot get access to them in any way. If you lose your password, you can reset it [here](https://www.commentarymagazine.com/my-account/).) To protect your personal information, we maintain physical, electronic, and procedural safeguards in keeping with industry standards and practices, and we review and adjust these safeguards regularly in response to advances in technology.
 
 Your Personal Information
 
@@ -37,7 +37,7 @@ Under no circumstances does _Commentary_ divulge an individual’s e-mail addres
 
 
 
-You can also elect to receive other types of e-mail messages from us, including newsletters, alerts, or notifications. (To do so, [click here](https://www.commentarymagazine.com/newsletter/).)
+You can also elect to receive other types of e-mail messages from us, including newsletters, alerts, or notifications. To do so, use this form below:
 
 Please note that even if you opt-out of marketing e-mails, we will continue to send you e-mail service notifications that are related to your account. These include e-mails that provide account information, answer your questions about a product or service, and facilitate or confirm a sale.
 
