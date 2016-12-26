@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150048id_/http%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226064640id_/https%3A//www.polepositionmarketing.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pole Position Marketing
 
@@ -63,4 +63,4 @@ Aggregate information may be shared with third parties for the sole purpose of m
 You may contact us if you have questions about our privacy policy.
 
 **Resolving Privacy Policy Disputes  
-**If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](http://www.polepositionmarketing.com/contact-us/ "Contact Us").
+**If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](https://www.polepositionmarketing.com/contact-us/ "Contact Us").
