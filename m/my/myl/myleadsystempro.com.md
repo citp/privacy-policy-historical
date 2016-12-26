@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myleadsystempro.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051449id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleadsystempro.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226222633id_/http%3A//www.mlmleadsystempro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
@@ -28,7 +28,7 @@ Contact us at the address below if you want us to change or delete any informati
 
   This website is owned and operated by:  
 Upwards Enterprises, LLC  
-8605 Santa Monica Blvd #32665  
-Los Angeles, California 90069
+500 East 4th Street #361  
+Austin, Texas 78701
 
 This privacy policy is effective as of June 2, 2015.
