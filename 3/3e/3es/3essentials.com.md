@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522162639id_/http%3A//www.3essentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226040159id_/http%3A//www.3essentials.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 3essentials
+# Privacy Policy – 3essentials
 
 3Essentials, Inc. has adopted this Privacy Policy to notify you of its treatment of personal or personally identifiable information (“Personal Information”) that may be collected when you are on a 3essentials.com web site and when you use 3Essentials, Inc.’s services. This Privacy Policy does not apply to the practices of companies that 3Essentials, Inc. does not own or control, or to individuals that are not under 3Essentials, Inc.’s actual control.
 
