@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060143id_/https%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235543id_/https%3A//www.lyst.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,8 +59,6 @@ Please see our [Cookie Policy](https://web.archive.org/help/cookie-policy/) for 
 #### 4\. Where Will We Store Your Personal Data?
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed and use by staff operating outside the EEA who work for us or by one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your request, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. All information you provide to us is hosted and stored on Amazon Web Services cloud-based services (for further information on the measures taken by Amazon to protect the security of their servers and your personal data, please see: http://aws.amazon.com/security/). If you are not satisfied with the levels of security offered by our cloud provider, you should restrict the nature and amount of personal data or confidential information which you include in your log data or not use the Services. Any payment transactions will be encrypted using Secure Socket Layer (SSL) technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Services, you are responsible for keeping this password confidential. You must not to share a password with anyone.
-
-#### 5\. Will Lyst Share Any Of The Personal Data It Receives?
 
 Personal data about our customers is an integral part of our business. We neither licence nor sell your personal data to anyone. We share your personal data only as described in this Policy.
 
