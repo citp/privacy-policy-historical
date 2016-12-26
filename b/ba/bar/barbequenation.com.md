@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbequenation.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201053640id_/http%3A//barbequenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequenation.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226073052id_/http%3A//www.barbeque-nation.com/privacy-policy) for the most accurate reproduction.*
 
 # Barbeque Nation - Privacy Policy
 
