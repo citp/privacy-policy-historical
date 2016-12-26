@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgt-commerce.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915095314id_/http%3A//www.mgt-commerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgt-commerce.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226022940id_/https%3A//www.mgt-commerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,5 +44,5 @@ to release your personally identifiable information.
 We are reserving the right to modify this privacy policy at any time.   
 We will promptly reflect any such modifications in these Web pages. 
 
-MGT-COMMERCE GmbH © 2015 All Rights Reserved.   
+MGT-COMMERCE GmbH © 2016 All Rights Reserved.   
 Magento is a trademark of Magento Inc 
