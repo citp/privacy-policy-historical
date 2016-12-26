@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101150id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savorysimple.net privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226115848id_/http%3A//www.savorysimple.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savory Simple
 
