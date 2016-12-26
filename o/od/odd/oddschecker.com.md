@@ -1,93 +1,84 @@
-> *The following text is extracted and transformed from the oddschecker.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125190927id_/http%3A//www.oddschecker.com/myoddschecker/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddschecker.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226231755id_/http%3A//www.oddschecker.com/myoddschecker/cookies) for the most accurate reproduction.*
 
-# My Oddschecker | Privacy Policy | Oddschecker
+# My Oddschecker | Cookies | Oddschecker
 
-To return to the registration page please click [here](https://secure.oddschecker.com/myoddschecker/register "Register")
+## Oddschecker Cookie
 
-Oddschecker is committed to protecting and respecting your privacy. We use information we collect about you to provide you with the Services contained in our websites located at www.oddschecker.com, www.oddschecker.co.uk and other associated URLs displaying this privacy statement. We appreciate that you do not wish us to circulate your personal details on an indiscriminate basis. This document discloses the privacy practices for Oddschecker including: 
+You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'. 
 
-  * What personally identifiable information of yours is collected
-  * What organisation is collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control 
-  * How you can correct any inaccuracies in the information.
+### What are cookies and how do they work?
+
+Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.
+
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
+
+### What do you use cookies for?
+
+Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.
+
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
+
+### Cookies that are needed to provide the service you have asked for
+
+Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.
+
+Here are some examples of essential cookies:
+
+  * Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.
+  * When you add something to the bet basket, cookies make sure it remains there for your visit.
+  * Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.
 
 
 
-### Under 18s
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
 
-No one under the age of 18 is permitted to use the Account Opening Service.
+### Improving your browsing experience
 
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
+These cookies allow the website to remember choices you make, such as your preferred odds format and they provide improved features. 
 
-### Information We Collect
+Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.
 
-We only collect personal information in order to provide you with some of our Services. Subject to what is said below regarding cookies, you are free to browse the rest of our Site without information being collected. 
+  * Remembering your preferences and settings, including marketing preferences.
+  * Remembering if you've filled in a survey, so you're not asked to do it again.
+  * Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.
+  * Restricting the number of times you're shown a particular advertisement. This is sometimes called 'frequency capping'.
+  * Enabling social media components, like Facebook or Twitter.
+  * Showing 'related article' links that are relevant to the page you're looking at.
+  * Remembering your preferred bookie ordering.
 
-To fully use the Account Opening Service, you will need to register using our online registration form. You will be required to provide us with your contact information (e.g. name, postal address, telephone number and e-mail address). 
 
-Using the Site's web server log files, we use IP addresses to analyse trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser and operating system you are using, your IP address etc. 
 
-In addition, we use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. The other type of cookie we use is a 'persistent' cookie. This stays on your hard drive and we use this to automatically identify who you are. The cookie itself contains no personally identifiable information but it does pass an ID to our server which allows us to tie the cookie to your personal information. We do this to allow us to let you know on the homepage what has changed on the site since your last visit. We also use the cookie to track how often you visit the site so we know who our most loyal users are. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on our site. 
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
 
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
+### Analytics
 
-### Our Use of Your Information
+We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.
 
-We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. 
+This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or alias. 
+Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.
 
-We may occasionally send you direct mail about additional services we feel may be of interest to you. This will only come from us and only if you have indicated that you do not object to these offers. 
+We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie.
 
-Your Personal Information is stored in our databases, which are located in the UK. Please note that the information you enter may at some time be transferred outside the European Economic Area for the purposes of processing by Oddschecker or any of its affiliates. By submitting your information, you consent to this transfer. 
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
 
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
+### Showing advertising that is relevant to your interests
 
-### Our Disclosure of Your Information
+We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. We also place our own cookies to collect non-personal information about our users that we then sell to advertisers. This information can be used to:
 
-It is necessary to disclose your personal information to the Bookmakers with whom you indicate you would like to open an account. These Bookmakers will then use your personal information in accordance with their own privacy policies. Links are provided to the terms and conditions of use and the privacy policies of these Bookmaker during the account opening procedure. By using the Account Opening Service you consent to such disclosure of you information. 
+  1. restrict the number of times you see the same ad (frequency capping); and
+  2. help show other ads that are relevant to you while you're on our websites or visiting third party websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites may be used to show you relevant ads on our sites and other websites that you visit.
 
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. 
 
-By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. 
 
-As a general proposition, **we do not sell or rent any personally identifiable information about you to any third party.**
+Sometimes our websites contain ads for our own group’s products. These ads use cookies in the same way as described above.
 
-**Advertisers.** We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. 
+So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad. This also works in the same way when you come to our site then visit a third party website. The cookie you receive on our site may identify you as a user who is interested in football. When you visit a third party website, you may then be served an advert on the basis of this cookie that recognises your interest
 
-**Legal Requests.** Oddschecker cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personally identifiable information. 
+Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person.
 
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
+We use a cookie placed by a company called Lotame to collect this non-personal data that is used for OBA purposes. To opt-out of the collection and use of data by Lotame for OBA on your browser (including a mobile browser if third-party cookies are enabled in your browser), you can click [here](http://www.lotame.com/opt-out-preference-manager/) and follow the instructions provided. Your opt-out choice is applied only to the browser from which you make the choice. Note that our opt-out is cookie based, and so if you delete your cookies, you may no longer be opted out and you may need to opt-out again.
 
-### Control of Your Password
+Please e-mail any questions or comments you have about this policy [click here](https://www.oddschecker.com/# "Feedback")
 
-If you lose control of the password provided to you during the registration of some of the Services, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
-
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
-
-### Other Information Collectors
-
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. 
-
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
-
-### Security
-
-We use best endeavour to safeguard the confidentiality of your personal identifiable information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. We use secure server software (SSL) to encrypt information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this. However, you should be aware that "perfect security" does not exist on the Internet. 
-
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
-
-### Changes to Privacy Policy
-
-By using this site, you consent to the collection and use of information by Oddschecker and to the use of that information in accordance with the oddschecker privacy policy. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-You have a legal right to a copy of all personal information about you held by us. You also have a right to correct any errors in that information. 
-
-Please e-mail any questions or comments you have about this policy [click here](http://www.oddschecker.com/feedback "Feedback")
-
-[](http://www.oddschecker.com/myoddschecker/privacy#privacy-content "Top")
-
-To return to the registration page please click [here](https://secure.oddschecker.com/myoddschecker/register "Register")
+[Back to Top](https://www.oddschecker.com/myoddschecker/cookies#cookie-content "Top")
