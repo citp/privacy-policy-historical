@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618212847id_/http%3A//www.sussex.ac.uk/aboutus/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sussex.ac.uk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226042646id_/http%3A//www.sussex.ac.uk/aboutus/website/privacy) for the most accurate reproduction.*
 
 # Privacy statement : The website : About us : University of Sussex
 
