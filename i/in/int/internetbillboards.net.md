@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbillboards.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063553id_/http%3A//www.internetbillboards.net/privacy-statement-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbillboards.net privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226212548id_/http%3A//www.internetbillboards.net/privacy-statement-policy) for the most accurate reproduction.*
 
 # Privacy Statement Policy | Internet Billboards
 
