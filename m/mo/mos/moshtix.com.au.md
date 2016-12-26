@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224001id_/http%3A//m.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226051206id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
-**The Ticket Group Incorporating Moshtix Privacy Policy**
+**The Ticket Group Incorporating moshtix Privacy Policy**
 
 **Last updated: 27 August 2015**
 
-This is the Privacy Policy for The Ticket Group Pty Ltd incorporating Moshtix (“TTG”).
+This is the Privacy Policy for The Ticket Group Pty Ltd incorporating moshtix (“TTG”).
 
 TTG’s primary role is to provide event publishing, registration, ticketing, and related software, goods and services to Australian and New Zealand users of The Ticket Group and Moshtix and The Ticket Group and the Moshtix platforms.
 
@@ -63,9 +63,9 @@ You have a right to access most personal information we hold about you and if we
 You can access or correct your personal information by logging onto your account via:
 
 \- The Ticket Group website at [tickets.theticketgroup.com.au](https://tickets.theticketgroup.com.au/Online/default.asp); or  
-\- The Moshtix website at [moshtix.com.au](http://www.moshtix.com.au/v2/);
+\- The moshtix website at [moshtix.com.au](http://www.moshtix.com.au/v2/);
 
-You can also use the link which is at the bottom of every email to log in to your Moshtix or TTG account.
+You can also use the link which is at the bottom of every email to log in to your moshtix or TTG account.
 
 Should you encounter any issue with accessing your personal information, please contact our privacy officer as set out below.
 
