@@ -1,51 +1,41 @@
-> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919192844id_/http%3A//reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226220218id_/http%3A//reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReviewSaurus - Technology Rocks!
+# Privacy Policy – Review Saurus
 
-Privacy Policy Statement  
-This is the web site of Mayank Gupta.
+Our team here at reviewsaurus.com is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-Our postal address is  
-349/12, Dev Bhawan, Jawahar Nagar, New Railway Road, Gurgaon, Haryana, India – 122001
+**General**
 
-We can be reached via e-mail at web@reviewsaurus.com
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, user-specific information on what pages consumers access or visit.
+  1. for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fulfill any deals or promotions that the user signed up for
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
 
-With respect to cookies: We use cookies to store visitors preferences.
+  2. to third party service providers we have partnered with so we may provide services our users requested
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+  3. following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations  
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-http://www.google.com/privacypolicy.htm
 
-‘We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please refer to these websites.’
 
-* DoubleClick DFA (www.doubleclick.com)  
-* Mediaplex/ValueClick (www.mediaplex.com)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-* Eyeblaster (www.eyeblaster.com)  
-* EyeWonder (www.eyewonder.com)  
-* Interpolls (www.interpolls.com)  
-* Pointroll (www.pointroll.com)  
-* Unicast (www.unicast.com)
+**Cookies**
 
-* Dynamic Logic/Safecount (www.safecount.net)  
-* Factor TG (www.factortg.com)  
-* IAG (www.iagr.com)  
-* InsightExpress (www.insightexpress.com)
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+**Disclosure of User Information for Legal Purposes**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+**External Links**
 
-Consumers can access this information by e-mail us at the above address.
+Our site’s pages will contain links to third party websites that may be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**Children**
+
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
