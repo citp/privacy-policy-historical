@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061133id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227003037id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | PortableApps.com - Portable software for USB, portable and cloud drives
 
@@ -26,7 +26,7 @@ We do not share, sell or otherwise give away your personal information such as y
 
 The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-We have a relationship with Google to place ads on our Web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information. For further information, consult the [Google Privacy Center](http://www.google.com/privacy.html). We do not share any information you provide us with Google or other advertisers.
+We have a relationship with Google to place ads on and handle analytics for our web pages. As a result of your visit to our site, Google may collect information such as your domain type, your IP address and clickstream information. For further information, consult the [Google Privacy Center](http://www.google.com/privacy.html). You can also read more about ['How Google uses data when you use our partners' sites or apps'](https://www.google.com/policies/privacy/partners/). We do not share any information you provide us with Google or other advertisers.
 
 ## Policy Changes
 
@@ -46,4 +46,4 @@ We have appropriate security measures in place in our physical facilities to pro
 
 If you feel that this site is not following its stated information policy, you may contact us by email or by telephone on our [contact page](http://portableapps.com/about/contact).
 
-_This policy was last updated on 2015-07-29_
+_This policy was last updated on 2016-08-12_
