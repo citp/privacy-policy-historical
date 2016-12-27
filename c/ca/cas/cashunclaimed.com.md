@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327093005id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227220757id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Unclaimed Money - Cash Unclaimed Privacy Policy
 
