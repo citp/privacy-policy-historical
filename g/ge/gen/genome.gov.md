@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191223id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227145411id_/https%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
-# Website Privacy Policy
+# Website Privacy Policy - National Human Genome Research Institute (NHGRI)
 
 ### Website Privacy Policy
 
@@ -38,10 +38,9 @@ When you browse through any website, certain information about your visit can be
   * The referring address of the website you came from when you arrived at our site.
   * The keywords you may enter into our site's local search engine(s).
   * Any information you submit when you use our Contact Us form.
+  * Demographic and Interest Data. Note: on some portions of our website we have enabled Google Universal Analytics (UA) to provide aggregate demographic and interest data of our visitors. This information cannot be used to identify you as an individual. While these tools are used by some websites to serve advertisements, HHS only uses them to measure demographic data. We have no control over advertisements served on other websites.
 
 
-
-We use this information to measure the number of visitors to our site, to help make our site more useful to visitors, and to answer questions submitted to us.
 
 Top of page
 
@@ -98,7 +97,7 @@ Top of page
 
 #### P3P Compliance
 
-NHGRI's public websites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at [http://www.genome.gov/w3c/p3p.xml](https://web.archive.org/w3c/p3p.xml). Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049).
+NHGRI's public websites comply with P3P (Platform for Privacy Preferences Project) protocols. Our machine-readable P3P policy can be viewed at [http://www.genome.gov/w3c/p3p.xml](https://web.archive.org/w3c/p3p.xml). Questions about NHGRI privacy policies should be sent to the NHGRI webmaster at: [Questions and Feedback](https://web.archive.org/10005049/Questions-and-Feedback).
 
 Top of page
 
@@ -124,7 +123,7 @@ Top of page
 
 #### 3rd Party Websites and Applications
 
-##### [Read our External Link Disclaimer](https://web.archive.org/27546927)
+##### [Read our External Link Disclaimer](https://web.archive.org/27546927/External-Link-Disclaimer)
 
 Third-party websites and applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by NHGRI, such as non-.gov hosted applications and those embedded on an NHGRI Web pages that could cause personally identifiable information (PII) to become available or accessible to NHGRI, regardless of whether NHGRI solicits or collects it.
 
@@ -167,9 +166,16 @@ As part of the [Open Government Directive](http://www.whitehouse.gov/open/docume
 > 
 > NHGRI has a Livestream page - [GenomeTV](http://new.livestream.com/accounts/2556895). Livestream is a platform that allows NHGRI stream its live events over the internet, allowing users to watch the video from their computers, via a web browser, or their mobile devices. Livestream also enables NHGRI to embed streaming video on the genome.gov website. Users do not need to register with Livestream to view the streaming video. However, if users want to participate in the moderated chat room that accompanies a live streaming event, they will need to register and create an account. Users can register with either an e-mail address and password or an existing Facebook account.
 > 
-> If you log on to the Livestream site before watching NHGRI videos, Livestream may associate information about your site use with your Livestream account. If you log on to Livestream and participate in the chat, any personal information you included when registering for your account might be visible to to other users. If you do not log in before watching NHGRI videos on Livestream, your site use will not be associated with you or a Livestream account. Livestream's privacy policy is available at: <http://livestream.com/terms/privacy>.  
->   
+> If you log on to the Livestream site before watching NHGRI videos, Livestream may associate information about your site use with your Livestream account. If you log on to Livestream and participate in the chat, any personal information you included when registering for your account might be visible to to other users. If you do not log in before watching NHGRI videos on Livestream, your site use will not be associated with you or a Livestream account. Livestream's privacy policy is available at: <http://livestream.com/terms/privacy>.
+> 
+> ##### MailChimp
+> 
+> NHGRI uses MailChimp to send email communications to people who voluntarily sign up to receive them. To subscribe, you must provide an e-mail address and indicate which subscriptions you'd like to receive. __ MailChimp provides NHGRI with non-identifying, aggregate usage statistics about the number of emails sent, received, and opened, and links within emails clicked. MailChimp password-protects the subscriber lists and aggregate usage statistics, and only designated NHGRI staff and contractors who manage email communications via MailChimp have access to the information. MailChimp never allows access to the subscriber lists to anyone outside of NHGRI for any purposes. Review the [MailChimp Privacy Policy](http://mailchimp.com/legal/privacy/).
+> 
+> ##### Flickr
+> 
+> NHGRI uses Flickr to upload and share photos and images related to the NHGRI mission and culture. NHGRI is responsible for the uploaded images on it's Flickr page - [Genomegov](https://www.flickr.com/photos/genomegov/) - and must ensure that the images assigned for posting meet the NIH quality standards and comply with all NIH, HHS, and federal policies. Images posted are produced by NHGRI, and may include medical illustrations and other scientific images. Photos posted may also include pre-approved photos of NIH employees at events or in labs for the purpose of promoting the NHGRI mission and culture. You do not need to register with Flickr to view the images on NHGRI Flickr sites, because all images posted on the Flickr are visible in the public domain. However, if you choose to register, you will not provide PII directly to NHGRI. NHGRI has disabled the commenting feature on its Flickr site. Therefore, PII cannot be collected or unintentionally received by NHGRI employees via the Flickr site. Review the [Flickr Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html). 
 
 Top of page
 
-_Last Updated: June 18, 2015_
+_Last Updated: September 2, 2016_
