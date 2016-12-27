@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavishtrend.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616024910id_/http%3A//lavishtrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavishtrend.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227153134id_/http%3A//lavishtrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavish Trend
 
