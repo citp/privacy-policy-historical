@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooextension.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602200403id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooextension.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227113000id_/http%3A//www.zooextension.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZooExtension
 
