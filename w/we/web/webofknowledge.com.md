@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617062418id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227081313id_/http%3A//ip-science.thomsonreuters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IP & Science - Thomson Reuters
 
