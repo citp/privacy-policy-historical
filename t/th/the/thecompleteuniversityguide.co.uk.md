@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608012736id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227042613id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Complete University Guide
 
@@ -45,7 +45,7 @@ We do not disclose information about identifiable individuals to our advertisers
 We will not sell, rent, trade, share, reveal or disclose any of your personal information, unless:
 
   * you have specifically requested that we do so;
-  * we deem it necessary to provide you with services you have requested;
+  * we deem it necessary to provide you with services you have requested (for example, we share your personal information when you make an enquiry to a course provider through our website – we pass on your contact details to the course provider so that they can contact you directly);
   * we are required to do so by a Court of competent jurisdiction or by a governmental order, decree, regulation or rule of any regulatory agency;
   * our [Terms and Conditions](https://web.archive.org/terms-and-conditions/ "Terms and Conditions") state that we will;
   * we reasonably believe that use of disclosure is necessary to prevent or lessen a serious and imminent threat to an individual's life, health or safety or a serious threat to public health or safety; or
@@ -60,6 +60,14 @@ Some of our products are hosted by third parties but we agree with those third p
 If you sign up for services that are managed or offered by other organizations, they will obtain your information.
 
 A number of other people's web sites have links on our site. If you link to their sites, they may collect information. Such sites are not within our control and are not covered by this privacy statement.
+
+### Disclosure of personal information
+
+In many circumstances we will not disclose personal data without your consent unless required by law. 
+
+Complete University Guide is owned by Hotcourses Limited. Hotcourses Limited is the principal company and the Data Controller in the Hotcourses Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide). We may share your personal information with organisations that are part of the same group as the data controller as those companies may provide services to you over our websites.). To ensure your details are protected to the same level as in United Kingdom, we have put agreements in place to ensure these companies comply with the Hotcourses Privacy Policy and the Data Protection Act 1998. 
+
+Another instance when we may share your personal information is when you make an enquiry to a course provider though our website – we pass on your contact details to the course provider so that they can contact you directly.
 
 ### IP Addresses and Cookies
 
@@ -129,6 +137,12 @@ The Act gives you the right to access information held about you. Your right of 
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [admin@thecompleteuniversityguide.co.uk](mailto:admin@thecompleteuniversityguide.co.uk)[](https://web.archive.org/contact/)[](mailto:nova@thecompleteuniversityguide.co.uk).
 
-The Complete University Guide Ltd, 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. Registered no. 06644543. 
+The Data Controller  
+The Complete University Guide Ltd  
+1st Floor, Bedford House  
+69–79 Fulham High Street  
+London SW6 3JW
+
+Registered no. 06644543
 
 Next page: [Acceptable Use Policy](https://web.archive.org/terms-and-conditions/acceptable-use-policy/)
