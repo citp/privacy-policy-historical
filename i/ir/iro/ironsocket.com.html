@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ironsocket.com privacy policy that was archived on 2016-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402174918id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironsocket.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228003905id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
 	<title>IronSocket - Privacy Policy</title>
@@ -165,13 +165,19 @@ $(function()
 			$('#localize-original-lang').show();
 		}
 	}
+	
+	function LoadOriginalLang()
+	{
+		$('#localize-switch-lang option[value="' + Localize.getLanguage() + '"]').attr('selected', false);
+		Localize.setLanguage('source');
+		$('#localize-original-lang').hide();
+	}
+
 	LoadCurLangInDD();
 	$('#localize-original-lang').click(function(e)
 	{
 		e.preventDefault();
-		$('#localize-switch-lang option[value="' + Localize.getLanguage() + '"]').attr('selected', false);
-		Localize.setLanguage('source');
-		$('#localize-original-lang').hide();
+		LoadOriginalLang();
 	});
 	$('#localize-switch-lang').change(function() 
 	{
@@ -182,12 +188,16 @@ $(function()
 			$('#localize-original-lang').show();
 		}
 	});
+
+	
+		
+			
 });
 </script>
 
 					</div>
 									<div class="col-md-7">
-						<span isolate="">Your IP Address is:</span> <span class="usr_ip" notranslate="">207.241.229.227</span>
+						<span isolate="">Your IP Address is:</span> <span class="usr_ip" notranslate="">207.241.229.215</span>
 													<span isolate="">Your Location:</span> <img class="usr_loc_flag" src="/img/flags/US.png" width="16" height="10" alt=""> <span class="usr_address">United States</span>
 												<ul id="header_connect">
 							<li>
