@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917115005id_/http%3A//www.emporium.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporium.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227105827id_/http%3A//emporium.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emporium.com
 
-This privacy policy applies only to personal information collected via this Web site, and not to any other activities of Emporium or its affiliates or companies whose products and services we sell. Personal information means information about you that is personally identifiable like your name, address, e-mail address, phone number, or credit card information, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Emporium does not own or control, or to people that Emporium does not employ or manage. 
+This privacy policy applies only to personal information collected via this Web site, and not to any other activities of Emporium or its affiliates or companies whose products and services we sell. Personal information means information about you that is personally identifiable like your name, address, e-mail address, phone number, or credit card information, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Emporium does not own or control, or to people that Emporium does not employ or manage.
 
 **Information**  
 When visiting any Web site, your browser sends information to the site's hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting. We log this information and we may also track and catalog the search terms that you enter in our search forms. When you purchase a product at Emporium.com, we may collect certain information about your purchase and offer of credit (such as name, address, phone number, social security number, e-mail address and credit card and expiration date). We use this data to verify information about you and to administer and improve Emporium.com. 
@@ -20,17 +20,18 @@ We use industry-standard SSL (Secure Socket Layer) encryption technology, a secu
 As part of our information collection process, we may detect additional bank accounts under the ownership of the consumer. We will consider these additional accounts to be part of the application process. By applying, you authorize us to search for and evaluate bank accounts under your ownership for this purpose. 
 
 **Disclosure of Personal Information and Third Parties**  
-Emporium does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+Emporium does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
   * We provide the information to trusted parties who work on behalf of or with Emporium under confidentiality agreements. These companies may use your personal information to help Emporium fulfill orders, process credit card payments, evaluate Emporium.com or communicate with you about offers from Emporium and our suppliers. However, these companies do not have any independent right to share this information. You may opt out of future marketing communications from Emporium or our suppliers at any time by writing to us at 
 
 Emporium  
 Attn: Privacy Policy  
-4607 Lakeview Canyon Rd Suite 455  
-Westlake Village, CA 91361
+10920 Wilshire Blvd  
+Suite 150-9138  
+Los Angeles, CA 90024-6502
 
   * We may share information as necessary to respond to subpoenas, court orders, or legal processes, to establish or exercise our legal rights or defend against legal claims.
-  * We may share information when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Emporium.com terms of use, or as otherwise required by law.
+  * We may share information when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Emporium.com terms of use, or as otherwise required by law
   * We may transfer information about you in connection with an acquisition of Emporium or a merger with another company. In this event, Emporium will notify you if information about you becomes subject to a different privacy policy.
   * We may share customer information with certain third parties such as our agents, service providers and other representatives acting on our behalf for limited purposes. For example, we may share personal information with third parties to perform services on our behalf such as fulfilling customer orders, sending Emporium marketing communications, delivering packages, scheduling and performing installations, servicing products, maintaining our loyalty program, fulfilling subscription services, conducting research, analysis or administering surveys, sending regular mail and e-mail on behalf of Emporium, processing credit card payments.
   * The third parties with whom we conduct business are authorized to use your information only to perform the service for which they are hired. They are required to abide by the terms of our Privacy Policy including taking reasonable measures to ensure your personal information is secure.
@@ -46,9 +47,10 @@ For your convenience, our Web site may contain links to other sites. Links that 
 Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. 
 
 **Your Opt-Out Rights**  
-If you wish to correct, update or remove any personal information that you have provided through Emporium.com, please write us at: 
+If you wish to correct, update or remove any personal information that you have provided through Emporium.com, please write us at: 
 
 Emporium  
 Attn: Privacy Policy  
-4607 Lakeview Canyon Rd Suite 455  
-Westlake Village, CA 91361 
+10920 Wilshire Blvd  
+Suite 150-9138  
+Los Angeles, CA 90024-6502 
