@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210225id_/http%3A//connatix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connatix.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227035600id_/https%3A//connatix.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Connatix
 
