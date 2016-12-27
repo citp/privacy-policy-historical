@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorvoices.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502161135id_/http%3A//outdoorvoices.s3.amazonaws.com/ov_shopify/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorvoices.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227234909id_/http%3A//outdoorvoices.s3.amazonaws.com/ov_shopify/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy / Statementv
 
