@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonybet.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315004840id_/https%3A//tonybet.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonybet.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227192935id_/https%3A//tonybet.com/security) for the most accurate reproduction.*
 
 # Security & Privacy - TonyBet
 
@@ -88,6 +88,8 @@ TonyBet manages private Account Holder information in accordance with applicable
 
 
 TonyBet discloses personal data when ordered to do so by order of the Governing Authorities or the Republic of Lithuania and/or under provisions in the Lithuanian Governing Laws. Furthermore, TonyBet reserves the right to disclose personal data to relevant recipients when TonyBet has reasonable grounds to suspect irregularities that involve a TonyBet Account. The Account Holder has the right to require access to the Account Holder’s own personal data and/or has the right to correct and/or erase wrong and/or inappropriate data.
+
+NET/ENT privacy policy applies to all TonyBet Casino games managed and developed by NET/ENT. Find all terms and conditions on the [ NET/ENT privacy policy page](https://www.netent.com/en/netent-privacy-policy-eu/). 
 
 ####  Cookies
 
