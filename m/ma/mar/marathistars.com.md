@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613125242id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227113405id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Marathi Movies,Actress,Actors,Cast,Tv Serials,Biography,Review,News,Events,Wiki,photos,wallpapers,Images,
+# Privacy Policy - MarathiStars
 
 **What information is collected about our users and members?**
 
@@ -81,3 +81,7 @@ MarathiStars.com is registered in India. If you are a user / member accessing th
 MarathiStars.com reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
 
 MarathiStars.com is committed to resolving disputes as soon as feasible and shall endeavour to resolve all disputes brought to our notice in keeping with the mechanism prescribed.
+
+#### Tags
+
+Ankush Surve murder mystery in Hindi language, web, duheri serial rain song, marath new video hd song Page 1_57, ankush choudhary image hd hay coliti, marathi actors film, Goan actors in marathi serial ratris khel chale, mansi from khulta kali khulena foto, sairat actors wallpapers, 
