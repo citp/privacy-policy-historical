@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dora.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517190036id_/http%3A//www.dora.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dora.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227150850id_/http%3A//www.dora.net/privacy.html) for the most accurate reproduction.*
 
 # Dora.net - Privacy Policy
 
@@ -43,7 +43,7 @@ You can choose to opt out of Google's use of cookies by visiting: the Google ad 
 
 **Contact via email**
 
-When you contact us via email, by using at onminiclip [ at@ ] yahoo . com, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.Dora.net.
+When you contact us via email, by using at gabimolocea [ at@ ] gmail . com, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.Dora.net.
 
 We do not sell or disclose your email address or any other personal information about you. **Links**
 
