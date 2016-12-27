@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065202id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faim.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228003925id_/http%3A//www.faim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foundation for Alternative and Integrative Medicine
 
