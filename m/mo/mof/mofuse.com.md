@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629142942id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofuse.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227194610id_/http%3A//mofuse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MoFuse, Inc
+# Privacy Policy - MoFuse, Inc
 
 This Privacy Policy describes the policies and procedures of AdMax Local, LLC (“AdMax Local”, “we”, “our” or “us”) on the collection, use and disclosure of your personal information on [http://www.mofuse.com](http://www.mofuse.com/)  (the “Site”) through the services, features, content or applications we offer, such as our mobile website content management platform and fast on-boarders (collectively with the Sites, the “Services”). We receive personal information about you from various sources, including: (i) if you register for the Sites and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your personal information as described in this Privacy Policy.
 
