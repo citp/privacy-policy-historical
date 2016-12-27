@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604021227id_/http%3A//www.destinationlighting.com/faq.html%23general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227153749id_/http%3A//www.destinationlighting.com/faq.html%23general) for the most accurate reproduction.*
 
 # Frequently Asked Questions | Destination Lighting
 
