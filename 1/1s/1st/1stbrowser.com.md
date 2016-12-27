@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1stbrowser.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623005734id_/http%3A//www.1stbrowser.com/Corporate/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stbrowser.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227053829id_/http%3A//1stbrowser.com/Corporate/Privacy) for the most accurate reproduction.*
 
 # Privacy ∴ 1stBrowser
 
-Last modified: 12-08-2015
+Last modified: 09-29-2015
 
 The SIEN Privacy Policy describes how we treat personal information when you use SIEN's products and services, including when you use 1stBrowser to access those products and services. This SIEN Privacy Notice describes the privacy practices that are specific to 1stBrowser.
 
@@ -12,12 +12,12 @@ SIEN will notify you of any material changes to this policy, and you will always
 
 You do not need to provide any personally identifying information in order to use 1stBrowser.
 
-When you use any browser, including 1stBrowser, to contact SIEN's servers, by default SIEN receives standard log information including your system’s IP address and one or more cookies. You can configure 1stBrowser to not accept cookies from SIEN or other sites. [ Learn more about configuring cookies and site data in 1stBrowser.](https://web.archive.org/Corporate/Cookies)
+When you use any browser, including 1stBrowser, to contact SIEN's servers, by default SIEN receives standard log information including your system’s IP address and one or more cookies. You can configure 1stBrowser to not accept cookies from SIEN or other sites. [Learn more about configuring cookies and site data in 1stBrowser.](http://1stbrowser.com/Corporate/Cookies)
 
-If you use 1stBrowser to access other SIEN services the fact that you are using 1stBrowser does not cause SIEN to receive any special or additional personally identifying information about you. In addition, some 1stBrowser features may send limited additional information to SIEN or your default search engine : 
+If you use 1stBrowser to access other SIEN services the fact that you are using 1stBrowser does not cause SIEN to receive any special or additional personally identifying information about you. In addition, some 1stBrowser features may send limited additional information to SIEN or your default search engine :
 
   * When you use 1stBrowser’s default search engine, 1stBrowser will contact SIEN servers when it starts or when you change networks so as to determine the best local web address to send search queries. When you type URLs or queries in the 1stBrowser address bar (omnibox) or App Launcher search box, the letters you type may be sent to your default search engine so that the search engine’s prediction feature can automatically recommend terms or URLs you may be looking for. If you accept a predicted query or URL, 1stBrowser may send that information from the browser to your default search engine as well.
-  * If you navigate to a URL that does not exist, 1stBrowser may send the URL to SIEN so we can help you find the URL you were looking for. We may also use this information in an aggregated way to help other web users - e.g. to let them know that the site may be down. 
+  * If you navigate to a URL that does not exist, 1stBrowser may send the URL to SIEN so we can help you find the URL you were looking for. We may also use this information in an aggregated way to help other web users - e.g. to let them know that the site may be down.
   * 1stBrowser periodically contacts SIEN to perform functions such as checking for updates, checking connectivity status, validating current time, and estimating the number of active users. Each copy of 1stBrowser includes a temporary randomly-generated installation number which will be sent to SIEN when you install and first use the product. The temporary number will be promptly deleted the first time that 1stBrowser automatically checks for updates. If you received or reactivated your copy of the 1stBrowser as part of a promotional campaign, it may also generate a non-unique promotional tag which is sent to SIEN when performing searches with SIEN and a unique token which is sent to SIEN when you first run and use the browser after installation, reinstallation, or reactivation.. Furthermore, field trials may result in different variations of 1stBrowser, and 1stBrowser may send non-unique information to SIEN about which variation is active.
   * If you use the Translate feature of 1stBrowser, it will send the text you choose to be translated to third parties for translation.
   * If you use the Spellcheck feature of 1stBrowser it will send the text you type to third parties for spelling and grammar suggestions.
@@ -27,11 +27,11 @@ If you use 1stBrowser to access other SIEN services the fact that you are using 
 
 
 
-## Information SIEN sends when you use the Safe Browsing feature on 1stBrowser 
+## Information SIEN sends when you use the Safe Browsing feature on 1stBrowser
 
 SIEN 1stBrowser includes Google’s Safe Browsing feature. Safe Browsing sends and receives information between the browser you are using and Google’s servers about suspicious websites -- for example when you visit a site that is suspected to be a phishing or malware site.
 
-Use of the Google Safe Browsing Service is subject to the Google Terms of Service (<http://www.google.com/terms_of_service.html>) and to Google's Privacy Policy ( http://www.google.com/privacypolicy.html).
+Use of the Google Safe Browsing Service is subject to the Google Terms of Service (<http://www.google.com/terms_of_service.html>) and to Google's Privacy Policy ( http://www.google.com/privacypolicy.html).
 
 Information website operators receive when you visit a site using 1stBrowser
 
@@ -48,21 +48,21 @@ If you choose to use 1stBrowser’s location feature, this service allows you to
 1stBrowser stores some information locally on your system. This may include:
 
   * Basic browsing history information, for example the URLs of pages that you visit, a cache file of text and images from those pages, and a list of some IP addresses linked from pages that you visit .
-  * A searchable index of most pages you visit (except for secure pages with "https" web addresses, such as some bank pages) Thumbnail-sized screenshots of most pages you visit 
+  * A searchable index of most pages you visit (except for secure pages with "https" web addresses, such as some bank pages) Thumbnail-sized screenshots of most pages you visit
   * Cookies or web storage data deposited on your system by websites you visit
   * Locally-stored data saved by Add-ons
   * A record of downloads you have made from websites
-  * You can always choose to [delete your browsing history information](https://web.archive.org/Corporate/History) , in whole or in part.
+  * You can always choose to [delete your browsing history information](http://1stbrowser.com/Corporate/History), in whole or in part.
 
 
 
-You can also limit the information 1stBrowser stores on your system by using incognito mode or guest mode. The 1stBrowser offers both modes. Incognito mode is useful if you would still like to have access to information from your existing profile, such as suggestions based on your browsing history, while you are browsing. Guest mode is useful if you would prefer to begin a browsing session without seeing information from any existing profiles. In either of these modes, 1stBrowser will not store basic browsing history information such as URLs, cached page text, or IP addresses of pages linked from the websites you visit. It will also not store snapshots of pages that you visit or keep a record of your downloads (although this information could still be stored elsewhere on your system, e.g. in a list of recently opened files). New cookies received in these modes will not be saved after you close your browser, close all open incognito windows or exit guest mode. You can see when you are in incognito / guest mode because the incognito icon appears in the top corner of your browser; in some cases the border of your browser window may also change color. When you make changes to your browser configuration, such as by bookmarking a web page or changing your settings, this information is also saved. These changes are not affected by incognito / guest mode. 
+You can also limit the information 1stBrowser stores on your system by using incognito mode or guest mode. The 1stBrowser offers both modes. Incognito mode is useful if you would still like to have access to information from your existing profile, such as suggestions based on your browsing history, while you are browsing. Guest mode is useful if you would prefer to begin a browsing session without seeing information from any existing profiles. In either of these modes, 1stBrowser will not store basic browsing history information such as URLs, cached page text, or IP addresses of pages linked from the websites you visit. It will also not store snapshots of pages that you visit or keep a record of your downloads (although this information could still be stored elsewhere on your system, e.g. in a list of recently opened files). New cookies received in these modes will not be saved after you close your browser, close all open incognito windows or exit guest mode. You can see when you are in incognito / guest mode because the incognito icon appears in the top corner of your browser; in some cases the border of your browser window may also change color. When you make changes to your browser configuration, such as by bookmarking a web page or changing your settings, this information is also saved. These changes are not affected by incognito / guest mode.
 
 You can choose to have 1stBrowser save your passwords for specific websites. Stored passwords can be reviewed in 1stBrowser settings.
 
 ## Unique Identifiers for Digital Rights Management
 
-In order to allow certain content to be accessed using 1stBrowser for Windows, 1stBrowser may be required to provide selected content partners and websites using Adobe Flash Access with a unique identifier that is stored on your system. You can disable this feature in the settings or reset the unique identifier’s value by reinstalling the operating system. Parties to whom your unique identifier is provided could associate it with personally-identifiable information you provide to them. If you are accessing content from a third party service, you should review those parties’ privacy policies to learn more. 
+In order to allow certain content to be accessed using 1stBrowser for Windows, 1stBrowser may be required to provide selected content partners and websites using Adobe Flash Access with a unique identifier that is stored on your system. You can disable this feature in the settings or reset the unique identifier’s value by reinstalling the operating system. Parties to whom your unique identifier is provided could associate it with personally-identifiable information you provide to them. If you are accessing content from a third party service, you should review those parties’ privacy policies to learn more.
 
 ## Using apps, extensions, themes, services, and other add-ons with 1stBrowser
 
@@ -78,7 +78,7 @@ Information that SIEN receives when you use 1stBrowser is processed in order to 
 
 ## Phishing
 
-Identity theft and the practice currently known as “phishing” are of great concern to SIEN. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your username, password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the <http://www.consumer.ftc.gov/articles/0003-phishing> US Federal Trade Commission’s website.
+Identity theft and the practice currently known as “phishing” are of great concern to SIEN. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your username, password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the<http://www.consumer.ftc.gov/articles/0003-phishing> US Federal Trade Commission’s website.
 
 ## Information Sharing and Disclosure
 
@@ -87,6 +87,10 @@ Aggregate Information and Non-Identifying Information. We may share aggregated i
 ## Service Providers
 
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related actions (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site or Application’s features) or to assist us in analyzing how our Site and Application are used. These third parties don’t have access to your Personal Information and are obligated not to disclose or use any user information for any other purpose.
+
+## Collection of Information by Third Parties
+
+We may enable trusted third parties to collect anonymous non-identifying information on you, by deploying certain collection technologies within 1stBrowser, for purpose of collecting and analyzing statistics and aggregated anonymous information on you, so that the Company can improve our Service. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by our Privacy Policy. We further represent that in some events, we may receive payment from these third parties.
 
 ## Compliance with Laws and Law Enforcement
 
@@ -98,7 +102,7 @@ SIEN may sell, transfer or otherwise share some or all of its assets in connecti
 
 ## Security
 
-SIEN is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+SIEN is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
 ## International Transfer
 
