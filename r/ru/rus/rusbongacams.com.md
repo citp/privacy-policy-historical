@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusbongacams.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625225414id_/http%3A//rusbongacams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusbongacams.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227184345id_/http%3A//rusbongacams.com/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - RusBongaCams
 
