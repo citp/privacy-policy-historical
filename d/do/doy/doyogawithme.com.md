@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315013722id_/https%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyogawithme.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228000840id_/https%3A//www.doyogawithme.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DoYogaWithMe.com
 
@@ -93,6 +93,10 @@ Any modifications to our privacy practices will be reflected first within this a
 #### 8\. Privacy of children
 
 None of the sites within our network is directed to anyone under the age of 18. We do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 18 years of age. This requirement is clearly posted during the registration process.
+
+#### 9\. Affiliate Disclosure
+
+www.DoYogaWithMe.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
 
 #### Questions, Comments
 
