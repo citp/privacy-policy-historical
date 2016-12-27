@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectmatrix.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085029id_/http%3A//www.effectmatrix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectmatrix.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227164352id_/http%3A//www.effectmatrix.com/privacy.htm) for the most accurate reproduction.*
 
 # EffectMatrix Ltd privacy
 
