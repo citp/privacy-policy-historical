@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614061318id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227230221id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
 
 # NICOclub.com Privacy Policy
 
