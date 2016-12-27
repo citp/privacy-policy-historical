@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527025503id_/http%3A//wjla.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjla.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227055516id_/http%3A//wjla.com/station/privacy) for the most accurate reproduction.*
 
 # Washington, D.C. Area Privacy | News, Weather, Sports, Breaking News | WJLA
 
