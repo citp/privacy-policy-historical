@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local12.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611175718id_/http%3A//local12.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local12.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227054846id_/http%3A//local12.com/station/privacy) for the most accurate reproduction.*
 
 # Cincinnati Privacy | News, Weather, Sports, Breaking News | WKRC
 
