@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623221143id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnlodge.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227044334id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOClerks
 
@@ -52,10 +52,16 @@ Throughout the course of our provision of our services to you, we may delegate o
   * Clicky
   * MaxMind
   * SiftScience
-  * Bitpay
+  * Coinbase
   * GoCoin
   * Twilio
   * Lob
+  * Hyperwallet/Paylution
+  * Payoneer
+  * Google
+  * Twitter
+  * Facebook
+  * LinkedIn
 
 
 
