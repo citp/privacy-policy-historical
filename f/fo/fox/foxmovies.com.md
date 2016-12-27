@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxmovies.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606004953id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxmovies.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227154638id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 20th Century Fox
 
@@ -10,7 +10,7 @@ Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twenti
 
 As set forth in our [Terms of Use](http://www.foxprivacy.com/us/terms.html), the Fox FE Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
-This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with [or subscribed to] a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage). 
+This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage). 
 
 ## COLLECTION OF INFORMATION 
 
