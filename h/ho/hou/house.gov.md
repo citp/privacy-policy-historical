@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629003325id_/http%3A//www.house.gov/content/site_tools/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227070041id_/http%3A//www.house.gov/content/site_tools/privacy_policy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy · House.gov
 
@@ -34,11 +34,11 @@ If you choose to identify yourself (or otherwise provide us with personal inform
 
 ## How Long We Keep Information
 
-We may keep information that will collect for an unlimited period of time.
+We reserve the right to retain all information provided for as long as the information is needed.
 
 ## Security
 
-Please note that electronic communication, particularly email, is not necessarily secure against interception. Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form.
+Please note that electronic communication, particularly email, is not necessarily secure against interception. Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form unless necessary.
 
 ## Cookies
 
