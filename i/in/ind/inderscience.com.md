@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326033156id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inderscience.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227205255id_/http%3A//www.inderscience.com/info/ingeneral/privacy.php) for the most accurate reproduction.*
 
-# Inderscience Publishers - linking academia, business and industry through research
+# Inderscience Publishers: publishers of distinguished academic, scientific and professional journals
 
 [Home](http://www.inderscience.com/index.php) > Privacy and cookies statement
 
