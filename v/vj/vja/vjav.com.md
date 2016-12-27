@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vjav.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618025241id_/http%3A//www.vjav.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vjav.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227194330id_/http%3A//www.vjav.com/privacy) for the most accurate reproduction.*
 
 # Site Information - Privacy Policy - VJAV.com
 
