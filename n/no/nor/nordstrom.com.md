@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordstrom.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624015451id_/http%3A//shop.nordstrom.com/c/nordstrom-privacy%3Forigin%3Dfooter%26cm_sp%3Dcorp-_-corp_legal-_-globalfooternav_yourprivacyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordstrom.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227053818id_/http%3A//shop.nordstrom.com/c/nordstrom-privacy%3Forigin%3Dfooter%26cm_sp%3Dcorp-_-corp_legal-_-globalfooternav_yourprivacyrights) for the most accurate reproduction.*
 
 # Nordstrom Customer Privacy
 
