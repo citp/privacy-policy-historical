@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ckfinder.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814054847id_/http%3A//cksource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckfinder.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227100134id_/http%3A//cksource.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CKSource.com
 
@@ -14,6 +14,7 @@ At times we may request that you voluntarily supply us with personal information
   * If you choose to give us personal information via the Internet that we or our business partners may need to correspond with you, process a credit card order, or deliver a product for example, it is out intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes.
   * CKSource, the service providers for it, and all vendors providing products or services through our Website use your personal information: to operate our Website and/or effect your transactions; to create and share reports about your transactions among themselves; and to perform credit fraud screening services for transactions between you and us and/or others.
   * We intend to continue improving the content and function of the sites managed by CKSource. For this reason, we monitor customer traffic patterns and site usage to help us improve the design and layout of our sites and provide content of interest to you.
+  * Transaction data, including personal data, can be transferred to PayLane Sp. z o.o. located in Gdańsk at Arkońska 6/A3, zip code: 80-387, company number: 0000227278, in order to process payments.
 
 
 
