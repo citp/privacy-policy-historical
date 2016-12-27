@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heyo.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507201657id_/http%3A//heyo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyo.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227143025id_/http%3A//heyo.com/privacy) for the most accurate reproduction.*
 
 # Heyo.com :: Privacy Policy
 
