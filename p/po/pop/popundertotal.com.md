@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630154309id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popundertotal.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227133756id_/http%3A//popundertotal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
