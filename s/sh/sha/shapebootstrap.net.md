@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapebootstrap.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417081304id_/https%3A//shapebootstrap.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapebootstrap.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227192152id_/https%3A//shapebootstrap.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShapeBootstrap
 
@@ -50,5 +50,3 @@ Security of your personally identifiable information. We use a variety of indust
 ### Newsletter
 
 Want more Bootstrap themes & templates? Subscribe to our mailing list to receive an update when new items arrive! 
-
-We never spam!
