@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the id.me privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505111257id_/https%3A//www.id.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the id.me privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227193238id_/https%3A//wallet.id.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Information Handling for ID.me
+# Privacy Policy | ID.me Wallet
 
-**Doc Ref: IDme.S.00.030**  
-**Version: 4.0.4**  
-**Last updated: 2015-12-10**
+**Doc Ref: IDme.S.00.030  
+**
 
-This Privacy Policy discloses the privacy practices for the ID.me credentialing services (namely, ID.me’s services to eligible users who create an account with an electronic identification resource (or “ID.me Account”) and verify certain user criteria (such as legal name, address or membership in certain affinity group(s)) to access certain exclusive benefits). The Privacy Policy also covers the ID.me website located at [www.ID.me](http://www.id.me/), ID.me’s affiliated websites, the ID.me mobile application, and elements of ID.me’s technology platform (e.g., group affiliation widgets) present on ID.me client websites (collectively referred to hereafter as the “Website”). This Privacy Policy explains how ID.me collects, uses and discloses information you submit to or is collected via the Website and ID.me credentialing services.
+**Version: 4.0.6  
+**
+
+**Last updated: 12/19/2016**
+
+This Privacy Policy discloses the privacy practices for the ID.me credentialing services (namely, ID.me’s services to eligible users who create an account with an electronic identification resource (or “ID.me Account”) and verify certain user criteria (such as legal name, address or membership in certain affinity group(s)) to access certain exclusive benefits). The Privacy Policy also covers the ID.me website located at [www.ID.me](https://www.id.me/), ID.me’s affiliated websites, the ID.me mobile application, and elements of ID.me’s technology platform (e.g., group affiliation widgets) present on ID.me client websites (collectively referred to hereafter as the “Website”). This Privacy Policy explains how ID.me collects, uses and discloses information you submit to or is collected via the Website and ID.me credentialing services.
 
 ID.me, Inc., the provider of the ID.me’s credentialing services and Website (referred to as “us” or “we”), is committed to protecting the privacy of individuals who navigate to, or otherwise use the Service and/or Website (hereafter, “Users” or “you”). The ID.me’s credentialing services and Website are designed to offer eligible Users with ID.me Accounts to access certain exclusive benefits, including without limitation, deals, discounts, cash back rebates and employment and educational opportunities, offered by participating retailers, service providers, employers or benefits administrators (collectively, the “ID.me Service”). Users who create an ID.me Account are required to submit certain information to ID.me as part of the verification process so that we may ascertain the User’s identity, group affiliation, and determine other eligibility standards for the User tied to the ID.me Service. However, Users may choose what specific information (personally identifiable information and other forms of information as described in greater detail below) is tied to their ID.me Account and control how much of that information is shared with other websites in relation to the ID.me Service. In certain cases, the more information Users share the more rewards and benefits, such as deals, discounts, cash back rebates and employment and educational opportunities, the User may be eligible to receive, as further described in our [Terms of Service](https://www.id.me/terms). However, certain participating websites may require that Users provide certain, minimum levels of information and a User’s refusal to provide such may impact his or her eligibility for the subject good, service, or benefit offered.
 
@@ -28,7 +32,11 @@ We do not automatically collect any Personally Identifiable Information or Sensi
 
 In order to better serve members of America’s Armed Forces and other personnel covered by the Service Members Civil Relief Act (SCRA) (50 U.S.C. App. 501 et. seq.)*, ID.me provides services to financial services companies and Third Party Websites in order to facilitate their compliance with the provisions of SCRA. By joining ID.me, you agree that ID.me may use your Personally Identifiable Information in order to assist Financial Services companies and Third Party Websites to determine your eligibility or your family member’s eligibility for SCRA benefits and protections. ID.me may periodically use your Personally Identifiable Information to confirm your SCRA eligibility or your family member’s eligibility at a later point in time to inform third parties of any changes to your SCRA eligibility status. Additional sources of information may include, but are not limited to, publically available websites, physical documentation, financial information, ID.me’s network or third parties that have a relationship with ID.me.
 
-*The scope of ID.me’s SCRA services includes all individuals protected by the SCRA (i.e. personnel serving in the Untied States Armed Forces, commissioned officers of the Public Health Service and the National Oceanic and Atmospheric Administration, U.S. citizens serving with the armed forces of nations allied with the United States, and, where applicable according to federal or state laws and regulations, dependents and family members of an individual protected under the SCRA.
+*The scope of ID.me’s SCRA services includes all individuals protected by the SCRA (i.e. personnel serving in the United States Armed Forces, commissioned officers of the Public Health Service and the National Oceanic and Atmospheric Administration, U.S. citizens serving with the armed forces of nations allied with the United States, and, where applicable according to federal or state laws and regulations, dependents and family members of an individual protected under the SCRA.
+
+**Registering with ID.me via the Department of Veterans Affairs (VA) website at[www.Vets.gov](https://www.vets.gov/)**
+
+When you register with ID.me via the Department of Veterans Affairs (VA) website at [www.Vets.gov](https://www.vets.gov/) you will be asked to provide Personally Identifiable Information for purposes of identity verification. The requested information includes, without limitation, your first and last name, mailing address, e-mail address, home and/or mobile telephone number, social security number, gender, and date of birth. ID.me may also request a digital copy of an approved State or Federal ID.
 
 **Registering with ID.me via Outside Account**
 
@@ -37,6 +45,10 @@ ID.me may offer you the option of registering an account with the ID.me Service 
 **Non-Personally Identifiable Information**
 
 Non-Personally Identifiable Information is information that does not identify a specific User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to the Website, the URL of the website you visit after leaving the Website, the type of browser you are using, your Internet Protocol (“IP”) address, occupation, language, unique device identifier, approximately geographic location, and time zone. We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags or location based capabilities on your mobile device, including those described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming. In certain limited instances, we may combine certain Non-Personally Identifiable Information with other identifiers in order to confirm your identity as part of the ID.me verification process. For example, we may combine an approximate geographic location obtained from a User’s mobile device and match it with address information the User voluntarily submitted to the Website in order to confirm the User’s identity and prevent fraudulent conduct. Notwithstanding, this information would still be considered Non-Personally Identifiable Information when it is taken alone or combined only with other non-identifying information (for example, the type of web browser used by the User).
+
+**Collection of Mobile Identifiable Information**
+
+You authorize your wireless operator (AT&T, Sprint, T-Mobile, US Cellular, Verizon, or any other branded wireless operator) to use your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI) and other subscriber status details, if available, solely to allow verification of your identity and to compare information you have provided to ID.me with your wireless operator account profile information for the duration of the business relationship.
 
 ### 3\. Release of Personally Identifiable Information
 
@@ -104,13 +116,13 @@ To facilitate and customize your experience with the Website, we store cookies o
 
 We may use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
 
-For California Users: The Website is not presently configured to respond to DNT or “do not track” signals from web browsers.
+For California Users: The Website is not presently configured to respond to DNT or “do not track” signals from web browsers. 
 
 ### 9\. Privacy Policies of Third Party Websites
 
 This Privacy Policy only addresses the use and disclosure of information we collect from you on www.ID.me. Other websites, including Third Party Websites, may be accessible through this Website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we urge you review such website’s Privacy Policy. We are not responsible for the policies or practices of third parties.
 
-### 10\. Miscellaneous Privacy Issues
+### 10\. Miscellaneous
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at [help@ID.me](mailto:help@ID.me).
 
@@ -123,6 +135,10 @@ As set forth in the Website Terms of Service, users between the ages of 13 and 1
 **Third-Party Service Provider Authentication**
 
 ID.me may permit you to register for ID.me Service through certain Third Party Service Provider sites. By registering for the ID.me Service, you agree that ID.me may receive account information (such as name, email and unique ID) from the Third Party Service Provider. ID.me may use this information for authentication purposes via a credential brokering process, and may store your user access token.
+
+**Collection of Mobile Identifiable Information**
+
+You authorize your wireless operator (AT&T, Sprint, T-Mobile, US Cellular, Verizon, or any other branded wireless operator) to use your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI) and other subscriber status details, if available, solely to allow verification of your identity and to compare information you have provided to ID.me with your wireless operator account profile information for the duration of the business relationship.
 
 **Please Further Note**
 
