@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobipicker.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623061717id_/http%3A//www.mobipicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobipicker.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227072722id_/http%3A//www.mobipicker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobiPicker
 
-This Privacy Policy governs the manner in which MobiPicker collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mobipicker.com](https://web.archive.org/web/20160623061717id_/http://www.mobipicker.com/privacy-policy/www.mobipicker.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by MobiPicker.  
+This Privacy Policy governs the manner in which MobiPicker collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mobipicker.com](http://www.mobipicker.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by MobiPicker.  
 ****
 
 **Personal identification information**
@@ -59,10 +59,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.mobipicker.com/contact-us/ "Contact Us") at:
 
-[quote_box_center]Plot No. – 2  
-3rd Cross Street  
-Selaiyur, Chennai-73  
-TN, India  
-Email – contact@mobipicker.com[/quote_box_center]
+> Plot No. – 2  
+>  3rd Cross Street  
+>  Selaiyur, Chennai-73  
+>  TN, India  
+>  Email – contact@mobipicker.com
 
 This document was last updated on January 26, 2015.
