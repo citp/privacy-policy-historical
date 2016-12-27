@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918202641id_/http%3A//www.viaddress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viaddress.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227025615id_/https%3A//www.viabox.com/privacy.php) for the most accurate reproduction.*
 
 # Viabox: #1 Leader in Package Forwarding | Free USA Address
 
