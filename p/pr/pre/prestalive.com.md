@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestalive.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016183318id_/http%3A//www.prestalive.com/content/3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestalive.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227193001id_/http%3A//www.prestalive.com/content/3-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Presta Live
 
