@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foscam.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530230904id_/http%3A//www.foscam.com/company/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foscam.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227141415id_/http%3A//www.foscam.com/company/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Foscam - Privacy Policy
+# Foscam Privacy Policy System
 
 Privacy Policy
 
