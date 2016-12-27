@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernsurvivalonline.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420122635id_/http%3A//modernsurvivalonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsurvivalonline.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228002625id_/http%3A//modernsurvivalonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « ModernSurvivalOnline.com
+# Privacy Policy
 
 When you introduce your personal data (such as your e-mail address) on this website, you agree to subscribe to our mailing list and to receive promotional messages. The personal information you introduce on this website will not be used by us to send you unsolicited promotional messages. We will also not sell or share your e-mail address to anyone. The purpose of collecting this data is the sending of promotional messages.
 
