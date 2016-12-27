@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menupix.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324175402id_/http%3A//www.menupix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menupix.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227051351id_/http%3A//www.menupix.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MenuPix.com - The World's Largest Restaurant Menu Website
 
@@ -61,5 +61,3 @@ MenuPix.com reserves the right to makes changes to our Privacy Policy. In the ev
 ## Questions and Suggestions
 
 Feel free to email us with questions about our Privacy Policy at [support@menupix.com](mailto:support@menupix.com)
-
-MenuPix - Restaurant Menus, Ratings, and Reviews - New York, Boston, San Francisco, Washington, DC, Los Angeles, Providence, and More 
