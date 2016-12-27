@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oilpro.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517145007id_/http%3A//oilpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilpro.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227183516id_/http%3A//oilpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oilpro
 
@@ -17,9 +17,9 @@ By providing personal information to Oilpro, you are consenting to the informati
 We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information or to opt-out, please contact us by sending e-mail to [info@oilpro.com](mailto:info@oilpro.com) or contacting us at:
 
 > Oilpro  
->  110 Vintage Park Blvd.  
->  Bldg J. Suite 245  
->  Houston, TX 77070 
+>  9310 Max Conrad Drive  
+>  Suite 175  
+>  Spring, TX 77379 
 
   
 
