@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526075713id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227162752id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# PrivacyPolicy - Conserve-Energy-Future
+# PrivacyPolicy - Conserve Energy Future
 
 **Our Privacy Policy**
 
@@ -46,8 +46,8 @@ If you do not agree to www.conserve-energy-future.com Privacy Policy as posted h
 
 Your use of this site indicates acceptance of this privacy policy.
 
-  * [About](http://www.conserve-energy-future.com/PrivacyPolicy.php#abh_about)
-  * [Latest Posts](http://www.conserve-energy-future.com/PrivacyPolicy.php#abh_posts)
+  * [About](http://www.conserve-energy-future.com/privacypolicy.php#abh_about)
+  * [Latest Posts](http://www.conserve-energy-future.com/privacypolicy.php#abh_posts)
 
 
 
