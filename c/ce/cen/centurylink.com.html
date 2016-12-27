@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centurylink.com privacy policy that was archived on 2016-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630141642id_/https%3A//www.centurylink.com/aboutus/legal/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centurylink.com privacy policy that was archived on 2016-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227171810id_/https%3A//www.centurylink.com/aboutus/legal/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -23,12 +23,30 @@
 <meta name="eBiz_evar56" value="ctl">
 
 <!--Begin Head include - /assets/includes/templates/head.html-->
+
+<!-- The below noscript code added to get error message globally when javascript is disabled on browser -->
+
+	<noscript>
+<!--US10772 - Javascript warning content with "How to turn on Javascript" new target url-->
+<div class="noscript">
+	<div class="msgIcon">
+		<img src="/assets/images/page-components/message_icon.png" alt="Message Icon"> <!-- ADA Fix -US12477  -->
+	</div>
+	<div class="alertMsg">
+		Attention! Your browser settings show that JavaScript is disabled. As a result, your experience throughout centurylink.com including the use of drop-down menus, buttons and links will be limited. We recommend that you turn on Javascript and then refresh this page. <a href="https://www.google.com/search?q=how+to+turn+on+javascript+in+your+browser+-ads" target="_blank">How do I turn on Javascript?</a>
+	</div>
+</div>
+</noscript>
+
+
+
 <!--begin variable setting file-->  
 <!--set environment and url variables-->
 <script type="text/javascript" async="" src="https://com-centurylink.netmng.com/?async=1&amp;aid=1279"></script><script type="text/javascript">
 	/*echo server type url
 	  Server type: PROD */
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12540 -->
 <!--else is not catching in some cases, so setting vars first as alternative-->
 
 
@@ -85,8 +103,9 @@
 	var qcookie_url='https://q.myaccount.centurylink.com';
 	var qportal_url='https://sbcontrolcenter.centurylink.com';
 	var faq_url='http://faq.centurylink.com';
-	var goeam=geoam_url='//geoamsrv.centurylink.com/geoam/addressmatch/addresses';
+	var goeam=geoam_url='//geoamsrvcl.centurylink.com/geoam/addressmatch/addresses';
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12540 -->
 
 <link rel="stylesheet" type="text/css" href="/assets/css/reset.css" media="screen">
 <link rel="shortcut icon" href="/favicon.ico">
@@ -95,7 +114,7 @@
 <!-- "b" -->
 
 <!-- elseif -->
-<script type="text/javascript" src="/assets/js/require2.js"></script>
+<script type="text/javascript" src="/assets/js/require2.js"></script> 
 
 <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
 <!--script type="text/javascript" src="/assets/js/plugins/jquery.liveperson.js"></script-->
@@ -202,19 +221,28 @@ require(['centurycore','cc-shortcuts'],
 <!-- end modal setup -->
 
 <!--zam-->
+
 <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="/assets/js/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="autozam" src="/assets/js/plugins/jquery.autozam.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui" src="/assets/js/jquery-ui.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cookies" src="/assets/js/plugins/cookies2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="linkMatrix" src="/assets/js/template_link_matrix.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="locator" src="/assets/js/locator.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cookie" src="/assets/js/plugins/jquery.cookie.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="purl" src="/assets/js/plugins/purl.js"></script></head><body><div class="modal jqmWindow" id="zam-modal">
-	<div class="modal-top" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -2px -2px rgba(0, 0, 0, 0);font-weight: bold;height: 17px !important;padding: 10px;text-align: center;width: 386px !important;">
-		Customer Info <div class="modal-close"><a href="" id="zam_close_link" class="zam_close">Close Window</a><a href="" class="modal-close-btn zam_close" id="zam_close-button"></a></div>
+	<div class="modal-wrapper">
+		<div class="zam-modal-top-content">
+			Customer Info <a href="" id="zam_close_link" class="zam_modal-close zam_close" style="color:#00853F;">Close</a><span class="zam-modal-btn-close zam_close"></span>
+		</div>
+		<div class="modal-leftsnipe"></div>
+		<div class="modal-middlesnipe"></div>
+		<div class="modal-rightsnipe"></div>
 	</div>
-	<div class="modal-content" style="background: url('/assets/images/templates/modal_bg1.png') repeat-y scroll 0 0 rgba(0, 0, 0, 0);overflow: visible;padding: 20px; width: 366px !important;">
-		<div class="page initial" id="zam-initial">
+	<div class="modal-body">
+		<p id="zam-modal-p">We need your zip code to check for service in your area.</p>
+	<div class="page initial" id="zam-initial">
+			<div class="modal-container">
 			<form name="zam_form" id="zam-form" method="post">
 				<div id="zam-error-zip-required" class="modal-errors"><div class="modal-error-icon"></div><span class="error-text">You must enter a zip code.</span></div>
 				<div id="zam-error-zip-length" class="modal-errors"><div class="modal-error-icon"></div><span class="error-text">A zipcode must contain five digits.</span></div>
 				<div id="zam-error-zip-numeric" class="modal-errors"><div class="modal-error-icon"></div><span class="error-text">Please enter a valid zip code.</span></div>
 				<div id="zam-zip-unexpected" class="error interstital-timeout"><div class="modal-error-icon"></div><span class="error-text">We had an unexpected error, please try again.</span></div>
-				<div id="zam_zip">Zip code at service address: (required)<br>
-					<input type="text" id="zam_zip-code" style="position: relative; top: -4px;" maxlength="5"> <a href="#" id="zam_zip-auth-go" class="modal-button-go" style="margin-bottom: -6px;"></a>
+				<div id="zam_zip">
+					<label class="label" id="zamZip" for="zam_zip-code">Zip code (required)</label>
+					<input title="Enter Zipcode" class="zaminputText" type="text" id="zam_zip-code" maxlength="5" name="form.zipcode" placeholder="(Example: 80123)" onfocus="inputFocus (this)" onblur="inputBlur(this)"> 
 				</div>
 				<div id="zam_zip-on-file">Service address zip: <span id="zam_stored-zip"></span> <a href="#" id="zam_zip-reset">change</a></div>
 				<div id="zam_company-selector" class="company-selector-container">
@@ -226,25 +254,42 @@ require(['centurycore','cc-shortcuts'],
 					</span>
 					<br><br>
 					<div>
-						<img src="/assets/images/page-components/qwest_logo.png"><br>
-						<input type="radio" name="zam_company-selector-radio" value="Q" id="zam_company-selector-q"> Qwest
+						<img src="/assets/images/page-components/qwest_logo.png" alt="Qwest Logo"><br>
+						<input title="Qwest" type="radio" name="zam_company-selector-radio" value="Q" id="zam_company-selector-q"> Qwest
 					</div>
 					<div>
-						<img src="/assets/images/page-components/ctl_logo.png" style="margin-top:6px"><br>
-						<input type="radio" name="zam_company-selector-radio" value="CTL" id="zam_company-selector-ctl"> CenturyLink*
+						<img src="/assets/images/page-components/ctl_logo.png" style="margin-top:6px" alt="CenturyLink Logo"><br>
+						<input title="CenturyLink" type="radio" name="zam_company-selector-radio" value="CTL" id="zam_company-selector-ctl"> CenturyLink*
 					</div>
 					<br clear="all">
 					<br clear="all">
-					<div><a href="#" id="zam_overlap-go" class="modal-button-go" style="height:35px;" onclick="return false;"></a></div>
+					<div><a title="Go" alt="Go" href="#" id="zam_overlap-go" class="modal-button-go" style="height:35px;" onclick="return false;"></a></div>
 					<br clear="both">
 					<p style="margin-top: 10px;">*CenturyLink includes former ElPasoTel customers</p>
 				</div>
 				<br clear="both">
-				<a href="http://zip4.usps.com/zip4/welcome.jsp" class="popup-trigger">Help</a>
+				<div class="zamCTA">
+					<a class="zam-CTA" href="#" id="zam_zip-auth-go" alt="Continue">Continue</a>
+				</div>
 			</form>
-			<a href="javascript:;" class="needed-link" id="zam_needed-link">Why is this needed?</a>
-			<div id="zam_needed-content">
-				As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process.
+		</div>
+		</div>
+		<div class="tabs">
+			<div id="zam_help">
+				<a alt="Help" href="http://zip4.usps.com/zip4/welcome.jsp" class="popup-trigger" id="zam_help-a">Help</a>
+			</div>
+		
+			<div id="zam_needed">
+				<ul class="tab-links">
+					<li><a href="javascript:;" class="needed-link" id="zam_needed-link">Why is this needed?</a></li>
+				</ul>
+			</div>
+			<div id="zamcontainerContent" class="zam_tab-content">
+				<div id="zam_needed-content" class="tab">
+					<p>
+					As CenturyLink and Qwest merge companies, we are working hard to combine our systems. By supplying your service address zip code we will be able to get you to the right location. Thank you for your patience during the merger process.
+					</p>	
+				</div>
 			</div>
 		</div>
 		<div class="page" id="zam_oor" style="display: none;">
@@ -252,27 +297,44 @@ require(['centurycore','cc-shortcuts'],
 			<br><br>
 			<p>What would you like to do?</p>
 			<form name="ctam_nc_form" method="post">
-				<input type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
-				<input type="radio" name="oor_options" value="oor_nc-address">I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.<br>
-				<input type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
-				<a href="#" id="zam_oor-go" class="modal-button modal-button-go"></a><br><br><br>
+				<input title="Shop Out of Region Long Distance" type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
+				<input title="New Customer moving to a CenturyLink area" type="radio" name="oor_options" value="oor_nc-address">I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.<br>
+				<input title="Enter my information again" type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
+				<a title="Go" alt="Go" href="#" id="zam_oor-go" class="modal-button modal-button-go"></a><br><br><br>
 				<a href="http://qwest.centurylink.com/residential/customerService/contactus/phone.html">Not sure what to do? Try Customer Service</a>
 			</form>
 		</div>
 		<input type="hidden" name="targetRedirect" id="targetRedirect" value="sorry">
 	</div>
-	<div class="modal-bottom" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -3px -75px rgba(0, 0, 0, 0);height: 52px;width: 406px;"></div>
+	
 </div>
-<!--end zam-->
+
+<!--end zam--> 
+
 <!--ctam-->
 <div id="ctam_modal" class="modal jqmWindow">
-	<div class="modal-top" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -2px -2px rgba(0, 0, 0, 0);font-weight: bold;height: 17px !important;padding: 10px;text-align: center;width: 386px !important;">
-		Customer Info <div class="modal-close"><a href="" class="ctam_close">Close Window</a><a id="ctam_close-button" href="" class="modal-close-btn ctam_close"></a></div>
+	<div class="modal-wrapper" id="nc-ctam-modal">
+		<div class="nc-modal-top-content">
+			Check Availability <a href="#" class="modal-signin" id="ctam_current-customer-link" style="color:#00853F;">Already a customer? Sign in</a><span class="nc-modal-signin-arrow"></span><a title="Close" alt="Close" href="" class="nc-modal-btn-close ctam_close"></a>
+		</div>
+		<div class="modal-leftsnipe"></div>
+		<div class="modal-middlesnipe"></div>
+		<div class="modal-rightsnipe"></div>
 	</div>
-	<div class="modal-content" style="background: url('/assets/images/templates/modal_bg1.png') repeat-y scroll 0 0 rgba(0, 0, 0, 0);overflow: visible;padding: 20px 20px 6px; width: 366px !important;">
-		<!--<div class="modal-content" style="padding:20px 20px 0px 20px;">-->
+	<div class="modal-wrapper" id="ec-ctam-modal">
+		<div class="ec-modal-top-content">
+			Customer Account Info <a href="#" class="modal-signup" id="ctam_new-customer-link" style="color:#00853F;">New customer?</a><span class="ec-modal-signin-arrow"></span><a title="Close" alt="Close" href="" class="ec-modal-btn-close ctam_close"></a>
+		</div>
+		<div class="modal-leftsnipe"></div>
+		<div class="modal-middlesnipe"></div>
+		<div class="modal-rightsnipe"></div>
+	</div>	
+	
+	<div class="modal-body">
 		<div class="page initial" id="ctam_initial">
-			<p style="margin-bottom: 10px; margin-top: 0px;">To customize your pricing and feature options we need a little more information.</p>
+			<p id="nc-modal-p">Please enter your service address, so we can show you accurate pricing and product availability in your area.</p>
+			<p id="ec-modal-p">Sign in with your account user name and password so that we can show you the pricing options available to you. Don't have an account yet? <a href="https://eam.centurylink.com/eam/login.do">Enroll Now</a>
+			</p>
 			<div id="ctam-error-fullAddress-required" class="error"><div class="modal-error-icon"></div><span class="error-text"> A valid service address is required</span></div>
 			<div id="ctam-error-street-required" class="error"><div class="modal-error-icon"></div><span class="error-text"> A street address is required</span></div>
 				<div id="ctam-error-city-required" class="error"><div class="modal-error-icon"></div><span class="error-text"> A city is required</span></div>
@@ -281,33 +343,28 @@ require(['centurycore','cc-shortcuts'],
 				<div id="ctam-error-zip-length" class="error"><div class="modal-error-icon"></div><span class="error-text"> Please enter a valid zip code</span></div>
 				<div id="ctam-error-zip-unrecognized" class="error"><div class="modal-error-icon"></div><span class="error-text">Your zip code is unrecognized. Please try again.</span></div>
 				<div id="ctam-overlap-unexpected" class="error interstital-timeout"><div class="modal-error-icon"></div><span class="error-text">We had an unexpected error, please try again.</span></div>
-			<div class="modal-block-top" style="background: url('/assets/images/sprites/modal_sprite2.png') no-repeat scroll -9px -138px rgba(0, 0, 0, 0);height: 10px;margin-top: 10px; width: 366px;"></div>
-			<div class="modal-block" id="ctam_new-customer" style="background-color: #E7E7E7;border-left: 1px solid #CCCCCC;    border-right: 1px solid #CCCCCC; min-height: 10px;width: 364px;">
-				<a href="#" class="modal-block-title" id="ctam_new-customer-link">New Customers</a>
+			<div class="modal-container" id="ctam_new-customer">
 				<div class="modal-block-expanded" id="ctam_new-customer-expanded">
-					<!-- RRADHAK changes for Intake 693 start -->
-					
 					<div id="ctam_nc-form-container" class="ctam_nc-sfa">
-						<p>Please enter your service address so we can show you accurate pricing product availability in your area.</p>
-						<form method="post" id="ctam_nc_form" name="ctam_nc_form" action="https://shop.centurylink.com/MasterWebPortal/freeRange/login/shop/addressAuthentication">
-    						<div class="address-block">
-        						<label for="ctam_nc-sfaddress">Address (required)</label>
-        						<input type="text" id="ctam_nc-sfaddress" name="form.singleLineAddress" style="width:24em">
+						<form name="ctam_nc_form" id="ctam_nc_form" method="post" action="https://shop.centurylink.com/MasterWebPortal/freeRange/login/shop/addressAuthentication">
+							<div class="address-block">
+								<label class="label" for="ctam_nc-sfaddress">Address (required)</label>
+        						<input class="inputText" title="Address" type="text" id="ctam_nc-sfaddress" name="form.singleLineAddress" placeholder="(Example: 123 Main Street, Denver CO 80123)" onfocus="inputFocus (this)" onblur="inputBlur(this)">
         						<span class="loading"></span>
-        						<label for="ctam_nc-sfaddress">(Example: 123 Main Street, Denver, CO 80123)</label>
-        					</div>
-    						<div class="address-block">
-        						<label for="ctam_nc-unit-number">Unit Number</label>
-        						<input type="text" id="ctam_nc-unit-number" size="2" name="form.unitNumber">
-        						<label for="ctam_nc-unit-number">(If applicable: apartment, unit, lot, suite number)</label>
+							</div>
+							<div class="unit-address-block">
+        						<label class="label" for="ctam_nc-unit-number">Unit Number</label>
+        						<input class="inputText" type="text" id="ctam_nc-unit-number" size="2" name="form.unitNumber" style="color:#888;" value="" placeholder="(apt, unit, lot, suite)" onfocus="inputFocus (this)" onblur="inputBlur(this)">
+        						<label for="ctam_nc-unit-number"></label>
     						</div>
     						<input type="hidden" id="ctam_nc-address-id" name="form.addressID">
-    						<input type="submit" id="ctam_nc-go" class="modal-button btn-modal-show-options" value="Show My Options" style="background-position: -8px -185px; height: 28px; width: 138px; border: 0; clear: both;border:none ! important;cursor:pointer;">
+							
+							<div id="btnWrapperNC">
+							<input type="submit" id="ctam_nc-go" class="btn-modal-show-options contButton" value="Continue">
+							</div>
     						<input type="hidden" id="typeOfCTAM" value="sfa">
 						</form>
 					</div>
-					
-					<!-- RRADHAK changes for Intake 693 end -->
 					<div id="ctam_nc-overlap">
 						<form id="ctam_nc-overlap-form" method="post">
 							<div id="ctam_nc-instructions">
@@ -322,33 +379,28 @@ require(['centurycore','cc-shortcuts'],
 							</div>
 							<div id="ctam_nc-company-selector" class="company-selector-container">
 								<div>
-									<img src="/assets/images/page-components/qwest_logo.png"><br>
-									<input type="radio" name="ctam_nc-company-selector-radio" value="Q" id="ctam_nc-company-selector-q" checked="false"> Qwest
+									<img src="/assets/images/page-components/qwest_logo.png" alt="Qwest Logo"><br>
+									<input title="Qwest" type="radio" name="ctam_nc-company-selector-radio" value="Q" id="ctam_nc-company-selector-q" checked="false"> Qwest
 								</div>
 								<div>
-									<img src="/assets/images/page-components/ctl_logo.png" style="margin-top:6px"><br>
-									<input type="radio" name="ctam_nc-company-selector-radio" value="CTL" id="ctam_nc-company-selector-ctl" checked="false"> CenturyLink*
+									<img src="/assets/images/page-components/ctl_logo.png" alt="CenturyLink Logo" style="margin-top:6px"><br>
+									<input title="CenturyLink" type="radio" name="ctam_nc-company-selector-radio" value="CTL" id="ctam_nc-company-selector-ctl" checked="false"> CenturyLink*
 								</div>
 							</div><br><br>
-							<a href="#" class="modal-button btn-modal-show-options" id="ctam_nc-overlap-go"></a>
+							<a title="Show options" alt="Show options" href="#" class="modal-button btn-modal-show-options" id="ctam_nc-overlap-go"></a>
 							<p style="margin-top: 15px; margin-bottom: -15px;">*CenturyLink includes former ElPasoTel customers</p>
 							<input type="submit" class="input-hidden" value="Submit">
 						</form>
 					</div>
 				</div>
 			</div>
-			<div class="modal-block-bottom" style="background: url('/assets/images/sprites/modal_sprite2.png') no-repeat scroll -9px -171px rgba(0, 0, 0, 0);height: 12px;width: 366px;"></div>
-			<div class="modal-block-top" id="current_customer_top" style="background: url('/assets/images/sprites/modal_sprite2.png') no-repeat scroll -9px -138px rgba(0, 0, 0, 0);height: 10px;margin-top: 10px; width: 366px;"></div>
-			<div class="modal-block" id="ctam_existing-customer" style="background-color: #E7E7E7;border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC;min-height: 10px;width: 364px;">
-				<a href="#" class="modal-block-title" id="ctam_current-customer-link">Current Customers</a>
-				<div class="modal-block-expanded" id="ctam_current-customer-expanded">
-					<p>
-						Log in with your account username and password so that we can show you the pricing options available to you. Don't have an account yet? Select
-						"Enroll Now" on the <a href="https://eam.centurylink.com/eam/login.do">My Account Login page</a> to create one now.
-					</p>
+			<!-- End of New Customer CTAM modal content -->
+			
+			<!-- Start of Existing Customer CTAM modal content -->	
+			<div class="modal-container" id="ctam_existing-customer">
+				<div class="modal-block-expanded" id="ctam_current-customer-expanded" style="margin: -10px 15px;">
 					<br>
-					<input type="radio" name="ec_login_type" value="myaccount" id="ctam_ec-myaccount-radio" checked="checked" style="display: none;">
-					<strong>My Account</strong><br>
+					<input title="Existing Customer My Account" type="radio" name="ec_login_type" value="myaccount" id="ctam_ec-myaccount-radio" checked="checked" style="display: none;">
 					<div class="modal-block-expanded_lvl2" id="ctam_ec-myaccount" style="margin-left: 0;">
 						<div id="ctam-username-required-error" class="error"><div class="modal-error-icon"></div><span class="error-text">A username is required.</span></div>
 						<div id="ctam-password-required-error" class="error"><div class="modal-error-icon"></div><span class="error-text">A password is required.</span></div>
@@ -361,78 +413,102 @@ require(['centurycore','cc-shortcuts'],
 						</div>
 						<div id="ctam_company-selector" class="company-selector-container">
 							<div>
-								<img src="/assets/images/page-components/qwest_logo.png"><br>
-								<input type="radio" name="ctam_company-selector-radio" value="Q" id="ctam_company-selector-q" checked="false"> Qwest
+								<img src="/assets/images/page-components/qwest_logo.png" alt="Qwest Logo"><br>
+								<input title="Qwest" type="radio" name="ctam_company-selector-radio" value="Q" id="ctam_company-selector-q" checked="false"> Qwest
 							</div>
 							<div>
-								<img src="/assets/images/page-components/ctl_logo.png" style="margin-top:6px"><br>
-								<input type="radio" name="ctam_company-selector-radio" value="CTL" id="ctam_company-selector-ctl" checked="false"> CenturyLink
+								<img src="/assets/images/page-components/ctl_logo.png" style="margin-top:6px" alt="CenturyLink Logo"><br>
+								<input title="CenturyLink" type="radio" name="ctam_company-selector-radio" value="CTL" id="ctam_company-selector-ctl" checked="false"> CenturyLink
 							</div>
 						</div>
-						<div id="ma-container">
+						<div id="ec-ctam-acct ma-container">
 							<form id="qwest-ma-modal-login" class="ctam-myaccount-form" method="post" name="loginform" action="https://eam.centurylink.com/eam/login.do">
-								<label for="ctam_qwest-ec-myaccount-username">User Name (required)</label>
-								<input type="text" name="user" id="ctam_ec-myaccount-username" tabindex="60"> <a href="https://eam.centurylink.com/eam/loginTrouble/obtainForgottenUserID.do" tabindex="64">Forgot Username?</a>
-								<label for="ctam_qwest-ec-myaccount-password">Password (required)</label>
-								<input type="password" name="password" id="ctam_ec-myaccount-password" tabindex="61"> <a href="https://eam.centurylink.com/eam/loginTrouble/forgotPassword.do" tabindex="65">Forgot Password?</a><br><br>
+								<div class="ctam_username">
+								<label class="label" for="ctam_qwest-ec-myaccount-username">User Name (required)</label>
+								<input title="Enter Username" class="inputUser" type="text" name="user" id="ctam_ec-myaccount-username" tabindex="60"> 
+								</div>
+								<div id="inputGap"><a id="aUsername" href="https://eam.centurylink.com/eam/loginTrouble/obtainForgottenUserID.do" tabindex="64">Forgot Username?</a></div>
+								<div class="ctam_password">
+								<label class="label" for="ctam_qwest-ec-myaccount-password">Password (required)</label>
+								<input title="Enter Password" class="inputPassword" type="password" name="password" id="ctam_ec-myaccount-password" tabindex="61"> 
+								</div>
+								<div id="inputGap2"><a id="aPassword" href="https://eam.centurylink.com/eam/loginTrouble/forgotPassword.do" tabindex="65">Forgot Password?</a></div><br><br>
 								<input type="hidden" name="auth_mode" value="basic" tabindex="62">
-								<input id="ec-ma-submit" type="submit" class="input-hidden" value="Submit">
+								<div id="btnWrapperEC">
+								<input id="ec-ma-submit" type="submit" class="input-hidden contButton" value="Continue">
+								</div>
 							</form>
 						</div>
 					</div>
-					<div style="display: none;"><input type="radio" name="ec_login_type" value="phone_acct_num" id="ctam_ec-phonenum-radio" tabindex="70"> Phone Number or Account Number<br></div>
+					<div style="display: none;"><input title="Phone or Account Number" type="radio" name="ec_login_type" value="phone_acct_num" id="ctam_ec-phonenum-radio" tabindex="70"> Phone Number or Account Number<br></div>
 					<div class="modal-block-expanded_lvl2" id="ctam_ec-phonenum">
 						<form id="ctam_ec-btn" method="post">
 							<div id="ctam-phonenumber-required-error" class="error"><div class="modal-error-icon"></div><span class="error-text">A phone or account number is required</span></div>
 							<div id="ctam-mya-zip-unexpected" class="error interstital-timeout"><div class="modal-error-icon"></div><span class="error-text">We had an unexpected error, please try again.</span></div>
-							<input type="text" name="phone_acct_num_val" id="ctam_ec-phone-or-account">
+							<input title="Enter Account Phone Number" type="text" name="phone_acct_num_val" id="ctam_ec-phone-or-account">
 							<br>
 							<p id="ctam_phone-explanation">example: 333-222-2222</p><br>
 							<input type="submit" class="input-hidden" value="Submit">
 						</form>
 					</div>
-					<div id="ctam_ec-submit-tools" style="margin-left: 0;">
+					<div id="ctam_ec-submit-tools" style="margin-left: 0; display:none;">
 						<br>
-						<a href="#" class="modal-button btn-modal-show-options" id="ctam_ec-go" tabindex="63"></a>
+						<a title="Show options" alt="Show options" href="#" class="modal-button btn-modal-show-options" id="ctam_ec-go" tabindex="63"></a>
 					</div>
 				</div>
 				<input type="hidden" name="targetRedirect" id="ctam_target-redirect">
 			</div>
-			<div class="modal-block-bottom" id="current_customer_bottom" style="background: url('/assets/images/sprites/modal_sprite2.png') no-repeat scroll -9px -171px rgba(0, 0, 0, 0);height: 12px;width: 366px;"></div>
+			<!-- End of EC CTAM modal content-->
 			
-			<!-- fix for Defect 1851,1854-->
-			<!--<a href="/Pages/AboutUs/Legal/privacyPolicy.jsp" style="display:none;" id="protectInfo" class="link-protect-info popup-trigger">How does CenturyLink protect my information?</a>-->
-			<!-- WCP 130225-25 CPNI Compliance - Dynamic Message on CTAM (Ecom#2961) -->
-			
-			<div id="CTAM_Dynamic_Msg">
-				<p style="font-size: 11px;">
-					By inputting your account information and clicking the "Show My Options" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services.  Under federal law, it is your right and our duty to protect your account information.
-				</p>
+			<!-- Start of NC/EC CTAM disclaimer -->	
+			<div class="tabs">
+				<ul class="tab-links">
+					<li><div id="divInfo" class=""><a id="protectInfo-a" href="javascript:;">How does CenturyLink protect my information?</a><a title="Close" alt="Close" id="infoClose" href="javascript:;"></a></div></li>
+					<li><div id="divAcct" class=""><a id="protectAcct-a" href="javascript:;">How do we protect your account information?</a><a title="Close" alt="Close" id="acctClose" href="javascript:;"></a></div></li>
+				</ul>
+				
+				<div id="containerContent" class="tab-content">
+					<div id="protectContent" class="tab">
+						<p>Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.</p>
+					</div>
+ 
+					<div id="contentAcct" class="tab">
+						<p>By inputting your account information and clicking the "Continue" button, you provide consent to CenturyLink to access your account information, including the services you subscribe to, to respond to your inquiry and inform you of CenturyLink's products and services. You may deny us permission by proceeding no further and your denial will have no affect on your current services.  Under federal law, it is your right and our duty to protect your account information. <a href="/aboutus/legal/privacypolicy.html">Learn more</a> or <a class="ctam_close" href="">Close This Window</a></p>
+					</div>
+				</div>
 			</div>
-			<!-- End of WCP 130225-25 CPNI Compliance - Dynamic Message on CTAM (Ecom#2961) -->
+			<!-- End of NC/EC CTAM disclaimer -->
 		</div>
 		<div class="page" id="ctam_oor" style="display: none;">
 			<h3>Sorry, we don't recognize the information you provided.</h3>
 			<br><br>
 			<p>What would you like to do?</p>
 			<form name="ctam_nc_form" method="post" id="ctam-oor-form">
-				<input type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
-				<input type="radio" name="oor_options" value="oor_nc-address">I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.<br>
-				<input type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
-				<a href="#" id="ctam_oor-go" class="modal-button btn-modal-show-options"></a><br><br><br>
+				<input title="Shop Out of Region Long Distance" type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
+				<input title="New Customer moving to a CenturyLink area" type="radio" name="oor_options" value="oor_nc-address">I am a new customer moving to a CenturyLink service area. I'd like to search by my new address.<br>
+				<input title="Enter my information again" type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
+				<a title="Show options" alt="Show options" href="#" id="ctam_oor-go" class="modal-button btn-modal-show-options"></a><br><br><br>
 				<a href="http://qwest.centurylink.com/residential/customerService/contactus/phone.html">Not sure what to do? Try Customer Service</a>
 				<input id="ec-oor-submit" type="submit" class="input-hidden" value="Submit">
 			</form>
 		</div>
 	</div>
-	<div class="modal-bottom" style="background: url('/assets/images/sprites/white_sprite.png') no-repeat scroll 0 -117px / 406px auto rgba(0, 0, 0, 0);height: 10px;width: 406px;"></div>
-	<!--<div class="modal-bottom-new"></div>-->
 </div>
+
+<script>
+  function inputFocus(i){
+    if(i.value==i.defaultValue){ i.value=""; i.style.color="#000"; }
+}
+  function inputBlur(i){
+    if(i.value==""){ i.value=i.defaultValue; i.style.color="#888"; }
+}
+</script>
+<noscript></noscript> <!-- ADA Fix - US12554 : noscript tag added.  -->
 <!-- end ctam -->
 <!-- mam -->
 <div id="mam-modal" class="modal jqmWindow">
 	<div class="modal-top" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -2px -2px rgba(0, 0, 0, 0);font-weight: bold;height: 17px !important;padding: 10px;text-align: center;width: 386px !important;">
-		Customer Info <div class="modal-close"><a href="" class="mam_close">Close Window</a><a href="" id="mam_close-button" class="modal-close-btn mam_close"></a></div>
+		Customer Info <div class="modal-close"><a href="" class="mam_close">Close Window</a><a title="Close" alt="Close" href="" id="mam_close-button" class="modal-close-btn mam_close"></a></div>
 	</div>
 	<div class="modal-content" style="background: url('/assets/images/templates/modal_bg1.png') repeat-y scroll 0 0 rgba(0, 0, 0, 0);overflow: visible;padding: 20px; width: 366px !important;">
 		<div id="mam-initial">
@@ -456,7 +532,7 @@ require(['centurycore','cc-shortcuts'],
 				</div>
 				<div id="mam_company-buttons">
 					<div id="mam_standard-buttons">
-						<a href="#" class="modal-button modal-button-signin" id="mam_ec-go"></a>
+						<a title="Sign in" alt="Sign in" href="#" class="modal-button modal-button-signin" id="mam_ec-go"></a>
 					</div>
 					<div id="mam_company-links">
 						<a href="https://eam.centurylink.com/eam/qbp/identify.do">Quick Bill Pay</a><br>
@@ -477,11 +553,12 @@ require(['centurycore','cc-shortcuts'],
 			<br>
 			<p>What would you like to do?</p>
 			<form name="mam_oor_form" method="post" id="mam-oor-form">
-				<input type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
-				<input type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
-				<a href="#" id="mam_oor-go" class="modal-button modal-button-go"></a><br><br><br>
+				<input title="Enter my information again" type="radio" name="oor_options" value="oor_services">I'd like to shop for CenturyLink Out of Region Long Distance.<br>
+				<input title="Shop Out of Region Long Distance" type="radio" name="oor_options" value="oor_try-again">I'd like to try to enter my information again.<br><br>
+				<a title="Go" alt="Go" href="#" id="mam_oor-go" class="modal-button modal-button-go"></a><br><br><br>
 				<a href="http://qwest.centurylink.com/residential/customerService/contactus/phone.html">Not sure what to do? Try Customer Service</a>
 			</form>
+			
 		</div>
 	</div>
 	<div class="modal-bottom" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -3px -75px rgba(0, 0, 0, 0);height: 52px;width: 406px;"></div>
@@ -489,8 +566,8 @@ require(['centurycore','cc-shortcuts'],
 <!-- end mam -->
 
 <div id="interstitial">
-	
-	<div class="badge">
+<div id="intcontrol">
+<div class="badge" id="badge">
 		<div id="interstitial-logo" class="logo"></div>
 		<div id="interstitial-text-c" class="interstitial-text">
 			<span id="c-part1" class="partc">Please wait for a few moments.  We are <br>making sure you reach your intended destination.
@@ -498,26 +575,718 @@ require(['centurycore','cc-shortcuts'],
 			<span id="c-part2" class="partc">Wait for it</span>
 			<span id="c-part3" class="partc">Wait for it......</span>
 		</div>
-		<img id="interstitial-badge-image" src="/assets/images/page-components/interstitial-circles.gif">
+		<div id="ballsWaveG">   
+			<div id="ballsWaveG_1" class="ballsWaveG"></div>
+			<div id="ballsWaveG_2" class="ballsWaveG"></div>  
+			<div id="ballsWaveG_3" class="ballsWaveG"></div>
+			<div id="ballsWaveG_4" class="ballsWaveG"></div>
+			<div id="ballsWaveG_5" class="ballsWaveG"></div>
+		</div>
+		<!--img id="interstitial-badge-image" src="/assets/images/page-components/interstitial-circles.gif" /-->
 	</div>
+	<script> <!--US13628- ABQ-->
+	var tempFlagcontrol = false;
+	$("#ctam_nc-go").click(function(e){
+	
+	var id = $(this).closest("form").attr("id");
+	var zipCode_testcontrol = $("#ctam_nc-sfaddress").val().match(/\d+/g)[1];
+
+		var _ABQZips1=
+[87002,87007,87020,87023,87031,87043,87045,87047,87051,87061,87062,87063,87105,87106,87116,87120,87121,87005,87014,87015,
+87034,87052,87056,87059,87072,87101,87110,87111,87122,87144,87305,87312,87317,87375,87401,87402,87410,87417,87501,87512,
+87513,87519,87524,87525,87535,87539,87540,87553,87556,87577,87714,87749,87750,87801,87828,88022,88030,88041,88210,87124,   
+87174,87194,87301,87412,87415,87416,87499,87502,87506,87507,87508,87517,87529,87543,87544,87557,87579,87710,87742,87745,
+87753,87930,87933,88043,88053,88201,88203,88230,88232,88337,87001.87006,87008,87016,87017,87021,87022,87026,87036,87037,
+87041,87042,87060,87068,87083,87102,87107,87108,87109,87112,87123,87131,87151,87316,87365,87413,87514,87531,87532,87558,
+87729,87747,87831,87901,87931,88026,88061,88253,88310,88311,88349,87004,87010,87028,87032,87035,87038,87040,87048,87049,
+87053,87104,87113,87114,87115,87311,87319,87322,87323,87347,87418,87419,87421,87504,87505,87521,87530,87545,87564,87571,
+87574,87580,87701,87718,87731,87740,87823,87825,87832,88023,88040,88045,88065,88330,88342];
+		tempFlagcontrol = _ABQZips1.indexOf(parseInt(zipCode_testcontrol)) != -1 ;
+		
+		if(tempFlagcontrol){
+			$('#intcontrol').hide();
+			$('#ABQVersion').show();
+		}
+	
+	});
+	</script>
+	<noscript></noscript>
+	<!--US13628- ABQ-->
+</div>	
+
+
+<!--US13628- ABQ-->
+<!-- ABQ Version-->
+<div id="ABQVersion" style="display:none;">
+<div class="badgeabq" id="badge">
+		
+		<div id="interstitial-text-c" class="interstitial-text">
+			<span class="Find">Finding the Fastest Speed<br> Available at Your Home...</span>
+		</div>
+	<div id="floatingBarsGabq" class="floatingBarsGABQ">
+		<div class="blockG one" id="rotateG_01"></div>
+		<div class="blockG two" id="rotateG_02"></div>
+		<div class="blockG three" id="rotateG_03"></div>
+		<div class="blockG four" id="rotateG_04"></div>
+		<div class="blockG five" id="rotateG_05"></div>
+		<div class="blockG six" id="rotateG_06"></div>
+		<div class="blockG seven" id="rotateG_07"></div>
+		<div class="blockG eight" id="rotateG_08"></div>
+		<div class="blockG nine" id="rotateG_09"></div>
+		<div class="blockG ten" id="rotateG_10"></div>
+		<div class="blockG eleven" id="rotateG_11"></div>
+		<div class="blockG twelve" id="rotateG_12"></div>
+	</div>
+			<span class="pleaseverify">Please wait while we verify your Internet speed.</span>
+	</div>
+</div>	
+<!--US13628- ABQ-->
+<!--US11058-->
+<!--Version1-->
+<div class="int1" id="version1" style="display:none;">   
+<script type="text/javascript">
+   
+	var SetTimeoutforCycle=function($imgLoader1,isSystemReady1){
+             
+	   timeouts.push(setTimeout(function(){
+            $($imgLoader1).attr('src','/assets/images/page-components/check/1_1.png');
+		$("#floatingBarsG1").show();
+		},0000));  
+        timeouts.push(setTimeout(function(){
+            $($imgLoader1).attr('src','/assets/images/page-components/check/1_2.png');
+	$("#floatingBarsG1").show();
+        },5000));
+        timeouts.push(setTimeout(function(){
+            $($imgLoader1).attr('src','/assets/images/page-components/check/1_3.png');
+		$("#floatingBarsG1").show();
+        },10000));
+        timeouts.push(setTimeout(function(){
+            $($imgLoader1).attr('src','/assets/images/page-components/check/1_4.png');
+	$("#floatingBarsG1").show();
+        },15000));
+        if(isSystemReady1)
+            stopTrackedTimeouts1();
+    };
+	
+	
+	
+	var RepeatCycle=function($imgLoader1,isSystemReady1){
+        setTimeout(function(){
+            SetTimeoutforCycle($imgLoader1,isSystemReady1)
+        },35000)
+    };
+	
+	
+	var stopTrackedTimeouts1 = function() {
+        for(var i=0; i<timeouts.length; i++)
+        {
+            clearTimeout(timeouts[i]);
+        }
+        timeouts = [];
+    };
+
+	  var $imgLoader1,isSystemReady1=false,timeouts=[];
+	
+	$(document).ready(function(){
+			$("form").bind("submit",function(e){
+	var target = e.target || e.srcElement;
+    var id = target.id;
+	
+	
+    if(id=="ctam_nc_form")
+    {
+      $imgLoader1=$("#imgLoader1");
+    SetTimeoutforCycle($imgLoader1,null,e);
+    if(!isSystemReady1)
+    RepeatCycle($imgLoader1,isSystemReady1,e);
+    }
+    else 
+    {
+	        setTimeout(function(){
+            $("#intcontrol").show();
+		     $(this).submit();
+			},0)
+    }
+
+	
+	});
+	<!--US13628- ABQ-->
+	var tempFlag = false;
+	$("#ctam_nc-go,#ec-ma-submit").click(function(e){
+	
+	var id = $(this).closest("form").attr("id");
+	var zipCode_test = $("#ctam_nc-sfaddress").val().match(/\d+/g)[1];
+
+		var _ABQZips=
+[87002,87007,87020,87023,87031,87043,87045,87047,87051,87061,87062,87063,87105,87106,87116,87120,87121,87005,87014,87015,
+87034,87052,87056,87059,87072,87101,87110,87111,87122,87144,87305,87312,87317,87375,87401,87402,87410,87417,87501,87512,
+87513,87519,87524,87525,87535,87539,87540,87553,87556,87577,87714,87749,87750,87801,87828,88022,88030,88041,88210,87124,
+87174,87194,87301,87412,87415,87416,87499,87502,87506,87507,87508,87517,87529,87543,87544,87557,87579,87710,87742,87745,
+87753,87930,87933,88043,88053,88201,88203,88230,88232,88337,87001.87006,87008,87016,87017,87021,87022,87026,87036,87037,
+87041,87042,87060,87068,87083,87102,87107,87108,87109,87112,87123,87131,87151,87316,87365,87413,87514,87531,87532,87558,
+87729,87747,87831,87901,87931,88026,88061,88253,88310,88311,88349,87004,87010,87028,87032,87035,87038,87040,87048,87049,
+87053,87104,87113,87114,87115,87311,87319,87322,87323,87347,87418,87419,87421,87504,87505,87521,87530,87545,87564,87571,
+87574,87580,87701,87718,87731,87740,87823,87825,87832,88023,88040,88045,88065,88330,88342];
+		tempFlag = _ABQZips.indexOf(parseInt(zipCode_test)) != -1 ;
+		
+		if(tempFlag){
+			$('#version1').hide();
+			$('#ABQVersion').show();
+		}
+	
+	<!--US13628- ABQ-->
+    if(id=="ctam_nc_form")
+    {
+      $imgLoader1=$("#imgLoader1");
+    SetTimeoutforCycle($imgLoader1,null,e);
+    if(!isSystemReady1)
+    RepeatCycle($imgLoader1,isSystemReady1,e);
+    }
+    else 
+    {
+	        setTimeout(function(){
+            $("#intcontrol").show();
+		     $(this).click();
+			},0)
+    }
+});
+  
+});
+	
+</script>
+<noscript></noscript> <!-- ADA Fix - US12554 : noscript tag added.  -->
+
+    <style>
+   .Container1 {
+text-align: center;
+margin-top: -78px;
+position: absolute;
+margin-left: 5px;
+        }
+
+        .Container1:before {
+            content1: '';
+            height: 100%;
+            display: inline-block;
+            vertical-align:middle;
+        }
+
+
+
+        .Content1 {
+		display: inline-block;
+vertical-align: middle;
+margin-left: 115px;
+margin-top: 15px;
+
+        }
+
+}
+   
+    </style>
+<div id="divLoader" class="Container1">
+
+    <img id="imgLoader1" class="Content1" alt="Image Loader">
+	<div id="floatingBarsG1" class="floatingBarsG">
+		<div class="blockG one" id="rotateG_01"></div>
+		<div class="blockG two" id="rotateG_02"></div>
+		<div class="blockG three" id="rotateG_03"></div>
+		<div class="blockG four" id="rotateG_04"></div>
+		<div class="blockG five" id="rotateG_05"></div>
+		<div class="blockG six" id="rotateG_06"></div>
+		<div class="blockG seven" id="rotateG_07"></div>
+		<div class="blockG eight" id="rotateG_08"></div>
+		<div class="blockG nine" id="rotateG_09"></div>
+		<div class="blockG ten" id="rotateG_10"></div>
+		<div class="blockG eleven" id="rotateG_11"></div>
+		<div class="blockG twelve" id="rotateG_12"></div>
+	</div>
+  
+	</div>
+
+</div>        
+<!--Version2-->
+
+<div class="version2" id="int2" style="display:none;">
+<script type="text/javascript">
+
+    var SetCycle=function($intLoader2,isSystemReady2){
+
+        timeouts.push(setTimeout(function(){
+            $($intLoader2).attr('src','/assets/images/page-components/check/2_1.png');
+			$("#floatingBarsG2").show();
+        },0));
+        timeouts.push(setTimeout(function(){
+            $($intLoader2).attr('src','/assets/images/page-components/check/2_2.png');
+			$("#floatingBarsG2").show();
+        },8000));
+        timeouts.push(setTimeout(function(){
+            $($intLoader2).attr('src','/assets/images/page-components/check/2_3_1.png');
+			$("#floatingBarsG2").show();
+        },13000));
+        if(isSystemReady2)
+            stopTrackedTimeouts2();
+    };
+
+
+    var RepeatCycle1=function($intLoader2,isSystemReady2){
+        setTimeout(function(){
+            SetCycle($intLoader2,isSystemReady2)
+        },18000)
+    };
+
+    var stopTrackedTimeouts2 = function() {
+        for(var i=0; i<timeouts.length; i++)
+        {
+            clearTimeout(timeouts[i]);
+        }
+        timeouts = [];
+    };
+
+
+
+    var $intLoader2,isSystemReady2=false,timeouts=[];
+	
+$(document).ready(function(){
+	
+$("form").bind("submit",function(e){
+
+	var target = e.target || e.srcElement;
+    var id = target.id;
+
+    if(id=="ctam_nc_form")
+    {
+	$intLoader2=$("#intLoader2");
+    SetCycle($intLoader2,null,e);
+    if(!isSystemReady2)
+    RepeatCycle1($intLoader2,isSystemReady2,e);
+    }
+    else 
+    {
+	        setTimeout(function(){
+            $("#intcontrol").show();
+		     $(this).submit();
+			},0)
+    }
+
+	});
+	<!--US13628- ABQ-->
+   var tempFlag2 = false;
+	$("#ctam_nc-go,#ec-ma-submit").click(function(e){
+	var id = $(this).closest("form").attr("id");
+		var zipCode_test2 = $("#ctam_nc-sfaddress").val().match(/\d+/g)[1];
+
+		var _ABQZips2=
+[87002,87007,87020,87023,87031,87043,87045,87047,87051,87061,87062,87063,87105,87106,87116,87120,87121,87005,87014,87015,
+87034,87052,87056,87059,87072,87101,87110,87111,87122,87144,87305,87312,87317,87375,87401,87402,87410,87417,87501,87512,
+87513,87519,87524,87525,87535,87539,87540,87553,87556,87577,87714,87749,87750,87801,87828,88022,88030,88041,88210,87124,
+87174,87194,87301,87412,87415,87416,87499,87502,87506,87507,87508,87517,87529,87543,87544,87557,87579,87710,87742,87745,
+87753,87930,87933,88043,88053,88201,88203,88230,88232,88337,87001.87006,87008,87016,87017,87021,87022,87026,87036,87037,
+87041,87042,87060,87068,87083,87102,87107,87108,87109,87112,87123,87131,87151,87316,87365,87413,87514,87531,87532,87558,
+87729,87747,87831,87901,87931,88026,88061,88253,88310,88311,88349,87004,87010,87028,87032,87035,87038,87040,87048,87049,
+87053,87104,87113,87114,87115,87311,87319,87322,87323,87347,87418,87419,87421,87504,87505,87521,87530,87545,87564,87571,
+87574,87580,87701,87718,87731,87740,87823,87825,87832,88023,88040,88045,88065,88330,88342];
+		tempFlag2 = _ABQZips2.indexOf(parseInt(zipCode_test2)) != -1 ;
+		
+		if(tempFlag2){
+			$('#int2').hide();
+			$('#ABQVersion').show();
+		}
+	
+	<!--US13628- ABQ-->
+
+    if(id=="ctam_nc_form")
+    {
+	$intLoader2=$("#intLoader2");
+    SetCycle($intLoader2,null,e);
+    if(!isSystemReady2)
+    RepeatCycle1($intLoader2,isSystemReady2,e);
+    }
+    else 
+    {
+	        setTimeout(function(){
+            $("#intcontrol").show();
+		     $(this).click();
+			},0)
+    }
+	
+	});
+});	
+
+
+</script>
+<noscript></noscript> <!-- ADA Fix - US12554 : noscript tag added.  -->
+
+   <style>
+         .Container2 {
+         text-align: center;
+    margin-top: -68px;
+		position: absolute;
+        }
+
+        .Container2:before {
+            content2: '';
+            height: 100%;
+            display: inline-block;
+            vertical-align:middle;
+        }
+
+        .Content2 {
+            display:inline-block;
+            vertical-align: middle;
+			margin-left: 90px;
+        }
+
+    </style>
+<div id="divLoader3" class="Container2">
+
+    <img id="intLoader2" class="Content2" alt="Image Loader">
+	</div>
+	<div id="floatingBarsG2" class="floatingBarsG2">
+		<div class="blockG one" id="rotateG2_01"></div>
+		<div class="blockG two" id="rotateG2_02"></div>
+		<div class="blockG three" id="rotateG2_03"></div>
+		<div class="blockG four" id="rotateG2_04"></div>
+		<div class="blockG five" id="rotateG2_05"></div>
+		<div class="blockG six" id="rotateG2_06"></div>
+		<div class="blockG seven" id="rotateG2_07"></div>
+		<div class="blockG eight" id="rotateG2_08"></div>
+		<div class="blockG nine" id="rotateG2_09"></div>
+		<div class="blockG ten" id="rotateG2_10"></div>
+		<div class="blockG eleven" id="rotateG2_11"></div>
+		<div class="blockG twelve" id="rotateG2_12"></div>
+	</div>
+
+
 </div>
+<!--Version3-->
+
+<div class="int3" id="version3" style="display:none;">
+<script type="text/javascript">
+
+    var SetTimeoutsCycle=function($imgLoader3,isSystemReady3){
+
+        timeouts.push(setTimeout(function(){
+            $($imgLoader3).attr('src','/assets/images/page-components/check/3_1.png');
+			$("#floatingBarsG3").show();
+        },0));
+        timeouts.push(setTimeout(function(){
+            $($imgLoader3).attr('src','/assets/images/page-components/check/3_2.png');
+			$("#floatingBarsG3").show();
+        },6000));
+        timeouts.push(setTimeout(function(){
+            $($imgLoader3).attr('src','/assets/images/page-components/check/3_3.png');
+			$("#floatingBarsG3").show();
+        },12000));
+        if(isSystemReady3)
+            stopTrackedTimeouts3();
+    };
+
+
+    var RepeatCycle2=function($imgLoader3,isSystemReady3){
+        setTimeout(function(){
+            SetTimeoutsCycle($imgLoader3,isSystemReady3)
+        },36000)
+    };
+
+    var stopTrackedTimeouts3 = function() {
+        for(var i=0; i<timeouts.length; i++)
+        {
+            clearTimeout(timeouts[i]);
+        }
+        timeouts = [];
+    };
+
+
+
+ var $imgLoader3,isSystemReady3=false,timeouts=[];
+	
+$(document).ready(function(){
+	
+$("form").bind("submit",function(e){
+
+var target = e.target || e.srcElement;
+var id = target.id;
+
+    if(id=="ctam_nc_form")
+    {
+    $imgLoader3=$("#imgLoader3");
+    SetTimeoutsCycle($imgLoader3,null,e);
+    if(!isSystemReady3)
+    RepeatCycle2($imgLoader3,isSystemReady3,e);
+    }
+    else 
+    {
+	  setTimeout(function(){
+      $("#intcontrol").show();
+      $(this).submit();
+	  },0)
+    }
+	});
+	<!--US13628- ABQ-->
+var tempFlag3 = false;
+$("#ctam_nc-go,#ec-ma-submit").click(function(e){
+	
+var id = $(this).closest("form").attr("id");
+var zipCode_test3 = $("#ctam_nc-sfaddress").val().match(/\d+/g)[1];
+
+		var _ABQZips3=
+[87002,87007,87020,87023,87031,87043,87045,87047,87051,87061,87062,87063,87105,87106,87116,87120,87121,87005,87014,87015,
+87034,87052,87056,87059,87072,87101,87110,87111,87122,87144,87305,87312,87317,87375,87401,87402,87410,87417,87501,87512,
+87513,87519,87524,87525,87535,87539,87540,87553,87556,87577,87714,87749,87750,87801,87828,88022,88030,88041,88210,87124,
+87174,87194,87301,87412,87415,87416,87499,87502,87506,87507,87508,87517,87529,87543,87544,87557,87579,87710,87742,87745,
+87753,87930,87933,88043,88053,88201,88203,88230,88232,88337,87001.87006,87008,87016,87017,87021,87022,87026,87036,87037,
+87041,87042,87060,87068,87083,87102,87107,87108,87109,87112,87123,87131,87151,87316,87365,87413,87514,87531,87532,87558,
+87729,87747,87831,87901,87931,88026,88061,88253,88310,88311,88349,87004,87010,87028,87032,87035,87038,87040,87048,87049,
+87053,87104,87113,87114,87115,87311,87319,87322,87323,87347,87418,87419,87421,87504,87505,87521,87530,87545,87564,87571,
+87574,87580,87701,87718,87731,87740,87823,87825,87832,88023,88040,88045,88065,88330,88342];
+		tempFlag3 = _ABQZips3.indexOf(parseInt(zipCode_test3)) != -1 ;
+		
+		if(tempFlag3){
+			$('#version3').hide();
+			$('#ABQVersion').show();
+		}
+
+<!--US13628- ABQ-->		
+    if(id=="ctam_nc_form")
+    {
+    $imgLoader3=$("#imgLoader3");
+    SetTimeoutsCycle($imgLoader3,null,e);
+    if(!isSystemReady3)
+    RepeatCycle2($imgLoader3,isSystemReady3,e);
+    }
+    else 
+    {
+	   setTimeout(function(){
+       $("#intcontrol").show();
+	   $(this).click();
+	   },0)
+    }
+	
+	});
+
+});	
+
+	
+</script>
+<noscript></noscript> <!-- ADA Fix - US12554 : noscript tag added.  -->
+    <style>
+        .Container3 {
+            text-align: center;
+			margin-top: -50px;
+			position: absolute;
+        }
+
+        .Container3:before {
+            content3: '';
+            height: 100%;
+            display: inline-block;
+            vertical-align:middle;
+        }
+
+        .Content3 {
+            display:inline-block;
+            vertical-align: middle;
+			margin-top:-50px;
+			margin-left: 85px;
+        }
+
+  
+    </style>
+
+
+<div id="divLoader2" class="Container3">
+
+    <img id="imgLoader3" class="Content3" alt="Image Loader">
+	</div>
+	<div id="floatingBarsG3" class="floatingBarsG3">
+		<div class="blockG one" id="rotateG3_01"></div>
+		<div class="blockG two" id="rotateG3_02"></div>
+		<div class="blockG three" id="rotateG3_03"></div>
+		<div class="blockG four" id="rotateG3_04"></div>
+		<div class="blockG five" id="rotateG3_05"></div>
+		<div class="blockG six" id="rotateG3_06"></div>
+		<div class="blockG seven" id="rotateG3_07"></div>
+		<div class="blockG eight" id="rotateG3_08"></div>
+		<div class="blockG nine" id="rotateG3_09"></div>
+		<div class="blockG ten" id="rotateG3_10"></div>
+		<div class="blockG eleven" id="rotateG3_11"></div>
+		<div class="blockG twelve" id="rotateG3_12"></div>
+	</div>
+
+</div>
+
+<!--Version4-->
+
+<div class="int4" id="version4" style="display:none;">  
+
+<script type="text/javascript">  
+
+    var SetTime=function($imgLoader4,isSystemReady4){
+	 
+	         timeouts.push(setTimeout(function(){
+            $($imgLoader4).attr('src','/assets/images/page-components/check/4_1.png');
+			$("#floatingBarsG4").show();
+        },0));
+
+        timeouts.push(setTimeout(function(){
+            $($imgLoader4).attr('src','/assets/images/page-components/check/4_1.png');
+			$("#floatingBarsG4").show();
+        },12000));
+
+  
+        if(isSystemReady4)
+            stopTrackedTimeouts4();
+    };
+
+
+    var RepeatCycle4=function($imgLoader4,isSystemReady4){
+        setTimeout(function(){
+            SetTime($imgLoader4,isSystemReady4)
+        },13000)
+    };
+
+    var stopTrackedTimeouts4 = function() {
+        for(var i=0; i<timeouts.length; i++)
+        {
+            clearTimeout(timeouts[i]);
+        }
+        timeouts = [];
+    };
+
+
+
+    var $imgLoader4,isSystemReady4=false,timeouts=[];
+
+$(document).ready(function(){
+	
+$("form").bind("submit",function(e){
+
+var target = e.target || e.srcElement;
+var id = target.id;
+
+    if(id=="ctam_nc_form")
+    {
+    $imgLoader4=$("#imgLoader4");
+    SetTime($imgLoader4,null,e);
+    if(!isSystemReady4)
+    RepeatCycle4($imgLoader4,isSystemReady4,e);
+    }
+    else 
+    {
+	  setTimeout(function(){
+      $("#intcontrol").show();
+      $(this).submit();
+	  },0)
+    }
+	});
+<!--US13628- ABQ-->	
+	var tempFlag4=false;
+$("#ctam_nc-go,#ec-ma-submit").click(function(e){
+	
+var id = $(this).closest("form").attr("id");
+var zipCode_test4 = $("#ctam_nc-sfaddress").val().match(/\d+/g)[1];
+
+		var _ABQZips4=
+[87002,87007,87020,87023,87031,87043,87045,87047,87051,87061,87062,87063,87105,87106,87116,87120,87121,87005,87014,87015,
+87034,87052,87056,87059,87072,87101,87110,87111,87122,87144,87305,87312,87317,87375,87401,87402,87410,87417,87501,87512,
+87513,87519,87524,87525,87535,87539,87540,87553,87556,87577,87714,87749,87750,87801,87828,88022,88030,88041,88210,87124,
+87174,87194,87301,87412,87415,87416,87499,87502,87506,87507,87508,87517,87529,87543,87544,87557,87579,87710,87742,87745,
+87753,87930,87933,88043,88053,88201,88203,88230,88232,88337,87001.87006,87008,87016,87017,87021,87022,87026,87036,87037,
+87041,87042,87060,87068,87083,87102,87107,87108,87109,87112,87123,87131,87151,87316,87365,87413,87514,87531,87532,87558,
+87729,87747,87831,87901,87931,88026,88061,88253,88310,88311,88349,87004,87010,87028,87032,87035,87038,87040,87048,87049,
+87053,87104,87113,87114,87115,87311,87319,87322,87323,87347,87418,87419,87421,87504,87505,87521,87530,87545,87564,87571,
+87574,87580,87701,87718,87731,87740,87823,87825,87832,88023,88040,88045,88065,88330,88342];
+		tempFlag4 = _ABQZips4.indexOf(parseInt(zipCode_test4)) != -1 ;
+		
+		if(tempFlag4){
+			$('#version4').hide();
+			$('#ABQVersion').show();
+		}
+	
+<!--US13628- ABQ-->		
+    if(id=="ctam_nc_form")
+    {
+    $imgLoader4=$("#imgLoader4");
+    SetTime($imgLoader4,null,e);
+    if(!isSystemReady4)
+    RepeatCycle4($imgLoader4,isSystemReady4,e);
+    }
+    else 
+    {
+	   setTimeout(function(){
+       $("#intcontrol").show();
+	   $(this).click();
+	   },0)
+    }
+	
+	});
+
+});	
+
+</script>
+<noscript></noscript> <!-- ADA Fix - US12554 : noscript tag added.  -->
+ <style>
+        .Container4 {
+            text-align: center;
+			
+        }
+
+        .Container4:before {
+            content4: '';
+            height: 100%;
+            display: inline-block;
+            vertical-align:middle;
+        }
+
+        .Content4 {
+            display:inline-block;
+            vertical-align: middle;
+			margin-top:-12px;
+        }
+    </style>
+
+
+
+<div id="divLoader4" class="Container4">
+
+    <img id="imgLoader4" class="Content4" alt="Image Loader">
+	</div>
+	<div id="floatingBarsG4" class="floatingBarsG4">
+		<div class="blockG one" id="rotateG4_01"></div>
+		<div class="blockG two" id="rotateG4_02"></div>
+		<div class="blockG three" id="rotateG4_03"></div>
+		<div class="blockG four" id="rotateG4_04"></div>
+		<div class="blockG five" id="rotateG4_05"></div>
+		<div class="blockG six" id="rotateG4_06"></div>
+		<div class="blockG seven" id="rotateG4_07"></div>
+		<div class="blockG eight" id="rotateG4_08"></div>     
+		<div class="blockG nine" id="rotateG4_09"></div>
+		<div class="blockG ten" id="rotateG4_10"></div>
+		<div class="blockG eleven" id="rotateG4_11"></div>
+		<div class="blockG twelve" id="rotateG4_12"></div>
+	</div>
+
+</div>
+
+</div>   
 
 <!--uapmodal-->
 <div class="modal jqmWindow" id="unavailable-modal">
 	<div class="modal-top" style="background: url('/assets/images/sprites/modal_sprite1.png') no-repeat scroll -2px -2px rgba(0, 0, 0, 0);font-weight: bold;height: 17px !important;padding: 10px;text-align: center;width: 386px !important;">
-		Customer Service &amp; Support <div class="modal-close"><a href="" id="upm_close_link" class="upm_close">Close Window</a><a href="" class="modal-close-btn upm_close" id="upm_close-button"></a></div>
+		Customer Service &amp; Support <div class="modal-close"><a href="" id="upm_close_link" class="upm_close">Close Window</a><a title="Close" alt="Close" href="" class="modal-close-btn upm_close" id="upm_close-button"></a></div>
 	</div>
 	<div class="modal-content" style="background: url('/assets/images/templates/modal_bg1.png') repeat-y scroll 0 0 rgba(0, 0, 0, 0);overflow: visible;padding: 20px; width: 366px !important;">
 		<div class="page initial" id="zam-initial">
 			<h3>We apologize for the inconvenience.  This product is currently not available in your area.</h3><br>
 			<p>Continue to view these CenturyLink products:</p>
 			<form name="upm_form" method="post">
-				<input type="radio" name="unavailable_product_options" value="upm_directv">DIRECTV®<br>
-				<input type="radio" name="unavailable_product_options" value="upm_hsi">High-Speed Internet<br>
-				<input type="radio" name="unavailable_product_options" value="upm_bundles">Bundles<br>
-				<input type="radio" name="unavailable_product_options" value="upm_phone">Phone<br>
-				<input type="radio" name="unavailable_product_options" value="upm_home">Go back to the CenturyLink home page.<br><br>
-				<a href="#" id="upm_go" class="modal-button modal-button-go"></a><br>
+				<input title="DirecTv" type="radio" name="unavailable_product_options" value="upm_directv">DIRECTV®<br>
+				<input title="Internet" type="radio" name="unavailable_product_options" value="upm_hsi">High-Speed Internet<br>
+				<input title="Bundles" type="radio" name="unavailable_product_options" value="upm_bundles">Bundles<br>
+				<input title="Phone" type="radio" name="unavailable_product_options" value="upm_phone">Phone<br>
+				<input title="CenturyLink Home Page" type="radio" name="unavailable_product_options" value="upm_home">Go back to the CenturyLink home page.<br><br>
+				<a title="Go" alt="Go" href="#" id="upm_go" class="modal-button modal-button-go"></a><br>
 			</form>
 		</div>
 		<div class="page notonline" id="uap-notonline" style="display: none;">
@@ -534,7 +1303,7 @@ require(['centurycore','cc-shortcuts'],
 		Customer Info
 		<div class="modal-close">
 			<a href="" id="tam_close_link" class="tam_close">Close Window</a>
-			<a href="" class="modal-close-btn tam_close" id="tam_close-button"></a>
+			<a title="Close" alt="Close" href="" class="modal-close-btn tam_close" id="tam_close-button"></a>
 		</div>
 	</div>
 	<div class="modal-content" style="background: url('/assets/images/templates/modal_bg1.png') repeat-y scroll 0 0 rgba(0, 0, 0, 0);overflow: visible;padding: 20px; width: 366px !important;">
@@ -546,7 +1315,7 @@ require(['centurycore','cc-shortcuts'],
 				<div id="tam-error-valid" class="modal-errors"><div class="modal-error-icon"></div><span class="error-text">You must enter a valid telephone or account number.</span></div>
 				<label for="tam-phone-account">Home Telephone Number or Account Number</label><br>
 				<input type="text" name="tam-phone-account" id="tam-phone-account"> <a href="#" class="modal-button modal-button-go" id="tam-submit-go">Go</a>
-				<input type="submit" class="input-hidden">
+				<input title="Submit" type="submit" class="input-hidden">
 			</form>
 			<br>
 			<a href="/common/popups/residential/how_to_find_your_account_number.html" id="hp_wo_account-number" class="popup-trigger">How can I find my Account Number?</a><br><br>
@@ -562,11 +1331,42 @@ require(['centurycore','cc-shortcuts'],
 <!-- end TAM -->
 <!-- DISCLAIMER MODAL -->
 <div id="disclaimerModal" style="display:none;">
-	<h3 id="disclaimerModalTitle">&nbsp;</h3>
+	<!-- <h3 id="disclaimerModalTitle">&nbsp;</h3> -->
 	<iframe class="disclaimerContent"></iframe>
   <button class="okButton" onclick="$('#disclaimerModal').dialog('close')" id="dialogButton">OK</button>
 </div>
+<div id="disclaimerModalPromo" title="" style="display:none;">
+	<iframe class="disclaimerContent"></iframe>
+  <button class="okButton" onclick="$('#disclaimerModalPromo').dialog('close')" id="dialogButton">OK</button>
+</div>
+<div id="disclaimerModalProduct" title="" style="display:none;">
+	<iframe class="disclaimerContent"></iframe>
+  <button class="okButton" onclick="$('#disclaimerModalProduct').dialog('close')" id="dialogButton">OK</button><br clear="all">
+</div>
 <style>
+.ui-widget-content.ui-draggable {
+  border: 1px solid #888;
+  border-radius: 5px 5px 0 0;
+  left: 50% !important;
+  margin-left: -37%;
+  padding: 0;
+  position: fixed;
+  top: 75px !important;
+  width: 74% !important;
+}
+.ui-dialog .ui-dialog-title {
+  margin: 0;
+  padding: 0;
+}
+.ui-dialog .ui-dialog-content {
+	background: #f7f7f7 none repeat scroll 0 0;
+	padding: 1.5em 2em 0.5em;
+}
+.disclaimerContent {
+  height: 279px;
+  padding: 15px;
+  width: 100%;
+}
 .okButton {
 position: relative;
 display: block;
@@ -622,6 +1422,7 @@ require(['jquery'], function()
 	}
 );
 </script>
+<noscript></noscript> <!-- ADA Fix - US13010 : noscript tag added.  -->
 
 <!--googleon: all-->
 
@@ -629,7 +1430,7 @@ require(['jquery'], function()
 
 <script>
 require(['jquery','jquery-ui','centurycore','cc-shortcuts','modals'],function(require){
-
+	
 
 	$('#ctam_new-customer-link').click(function(e)
 		{
@@ -637,8 +1438,14 @@ require(['jquery','jquery-ui','centurycore','cc-shortcuts','modals'],function(re
 
 			/*toggle display of new customer content in modal block*/
 			$('#ctam_current-customer-expanded').hide();
-			$('#CTAM_Dynamic_Msg').css("display","none");
-			/*$('#protectInfo').css("display","none");*/
+			$('#ec-ctam-modal').hide();
+			$('#ec-ctam-acct').hide();
+			$('#ec-modal-p').hide ();
+			$('#divAcct').css("display","none");
+			$('#ctam_existing-customer').css("display","none");
+			$('#ctam_new-customer').toggle();
+			$('#nc-ctam-modal').toggle();
+			$('#nc-modal-p').toggle();
 			$('#ctam_new-customer-expanded').toggle();
 		}
 	);
@@ -647,10 +1454,95 @@ require(['jquery','jquery-ui','centurycore','cc-shortcuts','modals'],function(re
 			e.preventDefault();
 
 			/*toggle display of new customer content in modal block*/
-			$('#ctam_new-customer-expanded').hide();
+			$('#ctam_new-customer').hide();
+			$('#nc-ctam-modal').hide();
+			$('#nc-modal-p').hide();
+			$('#ec-modal-p').toggle();
+			$('#divAcct').css("display","block");
+			$('#ec-ctam-modal').toggle();
 			$('#ctam_current-customer-expanded').toggle();
-			$('#CTAM_Dynamic_Msg').css("display","block");
-			/*$('#protectInfo').css("display","block");*/
+			$('#protectAcct-a').css("display","block");
+			$('#ctam_existing-customer').css("display","block");
+		}
+	);
+	$('#protectInfo-a').click(function(e)
+		{
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#protectContent').css("display","block");
+			$('#contentAcct').css("display","none");
+			$('#divInfo').css("background", "white");
+			$('#divAcct').css("background", "none");
+			$('#divInfo').addClass("divTab");
+			$('#containerContent').addClass("tabContainer");
+			$('#infoClose').addClass("showClose");
+			$('#acctClose').removeClass("showClose");
+		}
+	);
+	$('#protectAcct-a').click(function(e)
+		{
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#protectContent').css("display","none");
+			$('#contentAcct').css("display","block");
+			$('#divAcct').css("background", "white");
+			$('#divInfo').css("background", "none");
+			$('#divAcct').addClass("divTab");
+			$('#protectAcct-a').addClass("protectAcct-display");
+			$('#containerContent').addClass("tabContainer");
+			$('#acctClose').addClass("showClose");
+			$('#infoClose').removeClass("showClose");
+		}
+	);
+		$('#infoClose').click(function(e)
+		{
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#protectContent').css("display","none");
+			$('#divInfo').css("background", "none");
+			$('#divInfo').removeClass("divTab");
+			$('#containerContent').removeClass("tabContainer");
+			$('#infoClose').removeClass("showClose");
+		}
+	);
+	$('#acctClose').click(function(e)
+		{
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#contentAcct').css("display","none");
+			$('#divAcct').css("background", "none");
+			$('#divAcct').removeClass("divTab");
+			$('#protectAcct-a').removeClass("protectAcct-display");
+			$('#containerContent').removeClass("tabContainer");
+			$('#acctClose').removeClass("showClose");
+		}
+	);
+	$('#zam_needed-link').click(function(e)
+	    {
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#zamcontainerContent').addClass("zam_tabContainer");
+			$('#zam_needed').addClass("zamTab");
+			$('.tabs').css("margin-top","0px")
+			$('.tabs').css("margin-bottom","-20px")
+			$('#zamcontainerContent').show();
+			$('#zam_needed-content').addClass("display_content");
+		}
+	);
+	$('#zam_help-a').click(function(e)
+	    {
+			e.preventDefault();
+
+			/*toggle display of link content in modal block*/
+			$('#zamcontainerContent').removeClass("zam_tabContainer");
+			$('#zam_needed').removeClass("zamTab"); 
+			$('#zamcontainerContent').hide();
+			$('#zam_needed-content').removeClass("display_content");
 		}
 	);
 	$('#zam_zip-code').blur(function()
@@ -668,7 +1560,43 @@ require(['jquery','jquery-ui','centurycore','cc-shortcuts','modals'],function(re
 			}
 		}
 	);
-  $().ready(function(){
+    if(/help/.test(window.location.href)) {
+			$('#zam_close_link').css("margin-top","4px");
+	}
+	if(/home/.test(window.location.href)) {
+			$('#zam-CTA').css("margin-top","0px");
+	}  		
+	if(/bundles/.test(window.location.href)) {
+			$('#protectAcct-a').css("display","inline-block");
+			$('#acctClose').css("margin-left","-17px");
+			$('#acctClose').css("padding-top","16px");
+	}
+	if(/mobile/.test(window.location.href)) {
+			$('#ctam_modal').addClass("modalNew");
+			$('#zam-modal').addClass("modalNew");
+	}
+	if(/tv/.test(window.location.href)) {
+			$('.ctam_password').css("margin-top","-73px");
+			$('#inputGap').css("margin-top","0px");
+			$('#inputGap2').css("margin-top","0px");
+			$('#btnWrapperEC').css("margin-top","-5px");
+			$('#btnWrapperEC').css("height","55px");
+	}
+	if(/bundles/.test(window.location.href)) {
+			$('.ctam_password').css("margin-top","-73px");
+			$('#inputGap').css("margin-top","0px");
+			$('#inputGap2').css("margin-top","0px");
+			$('#btnWrapperEC').css("margin-top","-5px");
+			$('#btnWrapperEC').css("height","55px");
+	}
+	if(/new-customer/.test(window.location.href)) {
+			$('.ctam_password').css("margin-top","-73px");
+			$('#inputGap').css("margin-top","0px");
+			$('#inputGap2').css("margin-top","0px");
+			$('#btnWrapperEC').css("margin-top","-5px");
+			$('#btnWrapperEC').css("height","55px");
+	}
+    $().ready(function(){
 	$('a.disclaimer-trigger').click(function (event) 
     {
     if(this.href.indexOf('promotions-ens.html') >-1 || this.href.indexOf('pricing_details_popup.html') >-1)  
@@ -697,8 +1625,57 @@ require(['jquery','jquery-ui','centurycore','cc-shortcuts','modals'],function(re
   event.preventDefault();
 	});
 	});
+  $().ready(function(){
+		$('a.promo-details-modal-trigger').click(function (event) {
+			var disclaimerModalTitle = '<h1 style="font-size: 20px; font-weight: bold; margin-top: 0px;">CenturyLink<sup style="font-size: .7em;">&reg;</sup>&nbsp; Promotions Details</h1>';
+			$("#disclaimerModalPromo iframe").attr("src", this.href);
+			$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+				_title: function(title) {
+					title.html(disclaimerModalTitle);
+				}
+			}));		
+			$("#disclaimerModalPromo").dialog({
+				height: 'auto',
+				width: '680px',
+				closeText: 'Close',
+				modal: true, 
+				resizable: false,  
+				open: function(event, ui) {
+					$(this).parent().addClass('ui-widget-disclaimer').removeClass('ui-widget-content');
+					$(this).parent().addClass('ui-widget-disclaimer-fixed-popup');
+					$('#dialogButton').blur();
+				}
+			});
+			event.preventDefault();
+		});
+		$('a.product-details-modal-trigger').click(function (event) {
+			var disclaimerModalTitle = '<h1 style="font-size: 20px; font-weight: bold; margin-top: 0px;">CenturyLink <sup style="font-size: .7em;margin-left: -4px;">&reg;</sup>&nbsp; Product Details</h1>';
+			$("#disclaimerModalProduct iframe").attr("src", this.href);
+			$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+				_title: function(title) {
+					title.html(disclaimerModalTitle);
+				}
+			}));		
+			$("#disclaimerModalProduct").dialog({
+				height: 'auto',
+				width: '680px',
+				closeText: 'Close',
+				modal: true, 
+				resizable: false,  
+				open: function(event, ui) {
+					$(this).parent().addClass('ui-widget-disclaimer').removeClass('ui-widget-content');
+					$(this).parent().addClass('ui-widget-disclaimer-fixed-popup');
+					$('#dialogButton').blur();
+				}
+			});
+			$('#disclaimerModalPromo').dialog('close');
+			event.preventDefault();
+		});
+	});
 });
 </script>
+<noscript></noscript> <!-- ADA Fix - US13010 -->
+ 
 
 
 <!-- End of WCP 130225-25 CPNI Compliance - Dynamic Message on CTAM (Ecom#2961) -->
@@ -712,6 +1689,7 @@ require(['centurycore','cc-shortcuts','modals'],function(){
 	});
 });
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US13010 -->
 
 <div id="popup-modal" class="modal jqmWindow">
 	<div class="modal-top">
@@ -814,11 +1792,7 @@ ol {
 </style>
 
 
-<noscript>
-<div class="noscript">
-	Attention! Your browser settings show that JavaScript is disabled. As a result, your experience throughout centurylink.com including the use of drop-down menus, buttons and links will be limited. We recommend that you turn on Javascript and then refresh this page. <a href="http://www3.qwest.com/cgi-bin/qwest.cfg/php/enduser/std_adp.php?p_faqid=1095" target="_blank">How do I turn on Javascript?</a>
-</div>
-</noscript>
+
 
 <div class="main-container">
 	<!--Begin Header include - /assets/includes/templates/header.html-->
@@ -830,6 +1804,7 @@ ol {
 	
 
 <script type="text/javascript" src="//assets.adobedtm.com/e2f8cd116ff52c784c699a7031ef84a705ee0e03/satelliteLib-203dbecd4d364d7db40bdcdebb64d13058915546.js"></script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 
 <div id="GlobalProvisioner" class="mboxDefault"></div>
 <script type="text/javascript">
@@ -837,7 +1812,7 @@ ol {
 		state: null,
 		city: null,
 		dma: null,
-		zipcode: null,
+		zipcode: null,    
 		custGroup: null,
 		targetStatesSubgroup: null,
 		prismStatesGroup: null,
@@ -846,6 +1821,15 @@ ol {
 	// Any code dependent on ttGeoLoc must be able to fail gracefully if values are still set to null after the mboxCreate call finishes executing
 	mboxCreate('GlobalProvisioner','path='+location.pathname);
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
+<!--US11058-->
+
+<div id="us11058-abcd" class="mboxDefault"></div>
+<script type="text/javascript">
+mboxCreate('us11058-abcd','path='+location.pathname);
+</script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->	
+<!--US11058-->
 <!-- End TnT-->
 
 <div class="header clearFix" id="tpl_header">
@@ -885,6 +1869,7 @@ ol {
 		}
 
 	</script>
+	<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 
 	<script type="text/javascript">
 	require(['jquery-ui','cookies','cookie'],function(){
@@ -913,6 +1898,7 @@ ol {
  	});
 
 	</script>
+	<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12484  -->
 
 
 
@@ -997,46 +1983,25 @@ ol {
 				}
 			}
 
-			//US2450
-			
-				/* US2450 Live Person */
-				var company=subcookiejar.fetch('profile_cookie','shoppingDomain');
-
-				window.lpMTagConfig = lpMTagConfig || {}; lpMTagConfig.vars = lpMTagConfig.vars || [];
-
-				lpMTagConfig.lpServer = "sales.liveperson.net";
-				lpMTagConfig.lpTagSrv = lpMTagConfig.lpServer;
-				lpMTagConfig.lpNumber = "86584264"; // clone# 90218425 prod#86584264
-				lpMTagConfig.deploymentID = "centurylink";
-
-				lpMTagConfig.vars.push(["page", "unit", "residential"]);
-				lpMTagConfig.vars.push(["session", "language", "english"]);
-
-				lpMTagConfig.vars.push(["page", "lpCompany", 'L'+company]); //value of lpCompany = 'LQ' OR 'LCTL'
-				lpMTagConfig.vars.push(["page", "lpZipCode", zip]);
 			
 		});
 	</script>
+	<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12484  -->
 	
-	<!--US2450--> 
 	
-		<!--US2450 executing mtagconfig.js-->
-		<script type="text/javascript" src="//www.centurylink.com/common/3rdparty/liveperson/mtagconfig.js"></script>
-		
-	
-	<!-- </div> -->
 
 
 </div>
 
 <div style="width:100%;">
 <hr class="horizontalLine">
-<a clicktrack="ctl|corp|global_nav|link|logo" href="//www.centurylink.com" class="logo" id="tpl_logo"></a>
+<a clicktrack="ctl|corp|global_nav|link|logo" href="//www.centurylink.com/home/" class="logo" id="tpl_logo"></a>
 
 
 
 	
 	<form class="search-form" id="tpl_search-form">
+		<label for="tpl_search-input" style="display:none;">Search field</label>   <!--ADA Fix -US13010 -->
 		<input type="text" name="search" id="tpl_search-input" width="5" clicktrack="ctl|corp|global_nav|link|search"><a href="#ZAM" class="btn-arrow search-submit modal-trigger" id="site-search-submit" clicktrack="ctl|rsd|global_nav|link|search"></a>
 	</form>
 	
@@ -1070,11 +2035,13 @@ ol {
 		$("#tpl_logo").attr('clicktrack','ctl|corp|global_nav|link|logo');
 	}
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 <!--End Header include-->
 
 	<!--Begin Navigation Menu include - /assets/includes/templates/navigation.html
 	All navigation items are assumed to be in the pre-id state until acted on by the JS
 -->
+
 
 
 <div class="nav-bar" id="tpl_nav-bar">
@@ -1091,7 +2058,10 @@ ol {
 	<script>
     var activeElement = "privacyPolicy";
 	</script>
+	<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12536 -->
 	
+
+
 
 
 
@@ -1118,7 +2088,7 @@ ol {
 			</li>
 			<li id="tpl_subnav-press-dd" class=" "><a href="http://news.centurylink.com/" clicktrack="ctl|corp|sub_nav|link|press_room">Newsroom</a>
 			</li>
-			<li id="tpl_subnav-careers-dd" class=" "><a href="http://find.centurylink.jobs/" clicktrack="ctl|corp|sub_nav|link|careers">Careers</a>
+			<li id="tpl_subnav-careers-dd" class=" "><a href="https://jobs.centurylink.com/?rid=careers" clicktrack="ctl|corp|sub_nav|link|careers">Careers</a>
 			</li>
 			<li id="tpl_subnav-gov-dd" class=" "><a href="//www.centurylink.com/aboutus/governance/" clicktrack="ctl|corp|sub_nav|link|governance">Governance</a>
 			</li>
@@ -1131,6 +2101,7 @@ ol {
 
 </div>
 
+
 <script type="text/javascript">
 	require(['watermark'],function(){
 		$.watermark.options.useNative = false;
@@ -1138,6 +2109,7 @@ ol {
 		$('#tpl_search-form').submit(function(){$('#site-search-submit').click();return false});
 	});
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix - US13884  -->
 
 <script type="text/javascript">
 //###############################################
@@ -1241,10 +2213,12 @@ function tvNavigation() {
 
 
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix - US13884  -->
 	<!-- Do not remove the reslanding/embeddedGeoContentController.js.  Doing so will break geo-targeted content on the page
 		 Contact Lee Bridges or T&T SME for further information
 	-->
 	<script type="text/javascript" src="/assets/js/page-specific/reslanding/embeddedGeoContentController.js"></script>
+	<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12536 -->
 	<!-- Do not remove the reslanding/embeddedGeoContentController.js.  Doing so will break geo-targeted content on the page -->
 
 	<div id="content">
@@ -1259,7 +2233,7 @@ Creation Date: 05/19/2015
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="https://2417582.fls.doubleclick.net/activityi;src=2417582;type=recru0;cat=ctlca0;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://2417582.fls.doubleclick.net/activityi;src=2417582;type=recru0;cat=ctlca0;ord=1;num=7183137269408.311?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="https://2417582.fls.doubleclick.net/activityi;src=2417582;type=recru0;cat=ctlca0;ord=1;num=6112065986466.68?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 	<iframe src="https://2417582.fls.doubleclick.net/activityi;src=2417582;type=recru0;cat=ctlca0;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 </noscript>
@@ -1362,7 +2336,7 @@ Creation Date: 05/19/2015
 			};
 
 		</script>
-
+		<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12536 -->
 	</div>
 
 </div>
@@ -1767,7 +2741,9 @@ Creation Date: 05/19/2015
 	}	
 
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12542  -->
 <script type="text/javascript" src="/assets/js/aboutus-menu.js"></script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12542 -->
   <br clear="all">
   <div style="border-bottom: 1px solid #ccc; width: 960px;"></div>
 	<!--Begin Footer include - /assets/includes/templates/footer.html-->
@@ -1778,11 +2754,6 @@ Creation Date: 05/19/2015
 	.footer-bus-units{ padding-top: 0; }
 </style>
 
-
-<link rel="stylesheet" type="text/css" href="//www.centurylink.com/common/3rdparty/opinionlab/5/oo_style.css">
-<script type="text/javascript" charset="windows-1252" src="//www.centurylink.com/common/3rdparty/opinionlab/5/oo_engine.5.9.0.js"></script>
-<script type="text/javascript" charset="windows-1252" src="//www.centurylink.com/common/3rdparty/opinionlab/5/oo_conf_inline.5.9.0.js"></script>
-<!-- END: OnlineOpinion v5.x.x -->
 
 
 	
@@ -1809,7 +2780,7 @@ Creation Date: 05/19/2015
 		<a href="//www.centurylink.com/Pages/AboutUs/Legal/Tariffs/displayTariffLandingPage.html" clicktrack="ctl|corp|footer|link|tariffs">Tariffs</a> |
 		<a href="//www.centurylink.com/aboutus/community/disabled/" clicktrack="ctl|corp|footer|link|customer_disabilities">Customers with Disabilities</a> |
 		<a href="//www.centurylink.com/help/contact/" clicktrack="ctl|corp|footer|link|contact_us">Contact Us</a><br><br>
-		<a href="http://storelocator.centurylinkapps.com/index.cfm" clicktrack="ctl|corp|footer|link|store_locator">Store Locator</a> |
+		<a href="http://storelocator.centurylinkapps.com/" clicktrack="ctl|corp|footer|link|store_locator">Store Locator</a> |
 		<a href="#ZAM" class="modal-trigger" id="tpl_footer-yellow-pages" clicktrack="ctl|corp|footer|link|yellow_pages">White/Yellow Pages</a>
 		<a href="http://www.dexpages.com/" id="footerWYPages" clicktrack="ctl|corp|footer|link|yellow_pages" style="display: none;">White/Yellow Pages</a> |
 		<a href="//www.centurylink.com/home/newsletter/" clicktrack="ctl|corp|footer|link|email_offers">Email Offers</a> |
@@ -1826,13 +2797,14 @@ Creation Date: 05/19/2015
 		<a href="//www.centurylink.com/wholesale/" clicktrack="ctl|corp|footer|link|wholesale">Wholesale</a>
 		<br><br>
 		© 2016, CenturyLink. All Rights Reserved.
-		<a class="footerFeedback" href="#" id="ol_static_footer_feedback_link" onclick="return !OOo.oo_feedback.show(event);">Feedback&nbsp;&nbsp;<img src="//www.centurylink.com/common/3rdparty/opinionlab/5/oo_icon.gif" title="Feedback"></a>
+		<a class="footerFeedback" href="#" id="ol_static_footer_feedback_link" onclick="return !OOo.oo_feedback.show(event);">Feedback&nbsp;&nbsp;<img src="//www.centurylink.com/common/3rdparty/opinionlab/5/oo_icon.gif" title="Feedback" alt="Feedback Image"></a> <!-- ADA Fix - US12477  -->
     </div>
 </div>
 
 
 
 <form action="//c.search.centurylink.com/search" id="siteSearch" name="searchform" method="get" style="display: none;">
+	<label for="searchTextId" style="display:none;">Search Text</label>  <!-- ADA Fix -US13010 -->
     <input type="text" id="searchTextId" name="q">
     <input type="hidden" name="site" id="search-site" value="ThunderCatProducts">
     <input type="hidden" name="proxystylesheet" id="proxystylesheet" value="default_frontend">
@@ -1871,6 +2843,7 @@ Creation Date: 05/19/2015
     orderNum = ""; /*s.purchaseID*/
     totalOrderPrice = ""; /*Doubleclick*/
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 
 <script type="text/javascript">
 	require(['centurycore','cc-shortcuts'],function(){
@@ -1881,13 +2854,11 @@ Creation Date: 05/19/2015
 		var mconfig = $('<script>');
 		mconfig.attr('type','text/javascript');
 		mconfig.attr('src','/assets/js/third-party/metrics/metrixConfig.js');
-		var tealeaf = $('<script>');
-		tealeaf.attr('type','text/javascript');
-		tealeaf.attr('src','/assets/tealeaf/TeaLeaf.js');
-		$('head').append(tealeaf);
 		$('head').append(mconfig);
 	});
 </script>
+<!--US12484 - Added noscript tag with message to achieve ADA compliance-->  
+<noscript>Attention! Your browser settings shows that JavaScript is disabled,please enable for better view</noscript>
 
 <!-- ***************  METRIX CONFIGURATION CODE END  ******************** -->
 
@@ -1927,15 +2898,18 @@ Creation Date: 05/19/2015
 
 
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 
 <!-- Motionpoint EasyLink code added for Gamut US7693 -->
 <!--mp_easylink_begins-->
 <script type="text/javascript" id="mpelid" src="//centurylinkresidential.mpeasylink.com/mpel/mpel.js" async=""></script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 <!--mp_easylink_ends-->
-
+ 
 
 <!-- call Adobe Dynamic Tag Manager function -->
 <script type="text/javascript">_satellite.pageBottom();</script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12477  -->
 </div>
 <script type="text/javascript">
 
@@ -1947,7 +2921,7 @@ require(
 		br.initialize();
 	}
 );
-
 </script>
+<noscript> Attention! Your browser settings show that JavaScript is disabled. </noscript> <!-- ADA Fix -US12536 -->
 
 </body></html>
