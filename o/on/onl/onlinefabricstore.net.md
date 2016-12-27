@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinefabricstore.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314202816id_/https%3A//www.onlinefabricstore.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefabricstore.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227155933id_/https%3A//www.onlinefabricstore.net/privacy.aspx) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | OnlineFabricStore.net
 
-Last Updated: February 2, 2012
+Last Updated: August 17, 2016
 
-OnlineFabricStore.net is committed to respecting and protecting the privacy of our customers. As a result, we will not disclose any contact information including e-mail, telephone or address information that you provide to us on www.onlinefabricstore.net (the "Site"), to any third party except as described in this privacy policy (our "Privacy Policy"). 
+OnlineFabricStore.net is committed to respecting and protecting the privacy of our customers. As a result, we will not disclose any contact information including email, telephone or address information that you provide to us on www.onlinefabricstore.net (the "Site"), to any third party except as described in this privacy policy (our "Privacy Policy"). 
 
 ## Web Orders and SSL Security
 
@@ -12,13 +12,13 @@ All personal information submitted when placing an order on this web Site is sec
 
 ## Promotional Mailings
 
-On occasion, we may contact you with news, coupons or promotions via e-mail or regular mail, if you have previously signed up for such mailings. If, at any time, you wish to opt-out of these mailings, simply send an e-mail to [info@onlinefabricstore.net](mailto:info@onlinefabricstore.net) with "remove" in the title, and your name will be removed from our list within 48 hours. You can also unsubscribe by sending us a notice at the regular address listed below.
+On occasion, we may contact you with news, coupons or promotions via email or regular mail, if you have previously signed up for such mailings. If, at any time, you wish to opt-out of these mailings, simply send an email to [help@onlinefabricstore.net](mailto:help@onlinefabricstore.net) with "remove" in the title, and your name will be removed from our list within 48 hours. You can also unsubscribe by sending us a notice at the regular address listed below.
 
 ## Changes to this Privacy Statement
 
 We reserve the right to modify our Privacy Statement at any time. If we change this Statement, this Site will be updated. Each time you visit the Site, you agree to the terms and conditions of this Privacy Statement as they are in effect at the time. Please be sure to check this Statement often so you will always be aware of the steps taken concerning your personal information.
 
-If you have any questions regarding our privacy practices, want to request "do not share/do not send" status, or otherwise need to contact us concerning this Statement, please [contact our customer service](https://web.archive.org/web/20160314202816id_/https%3A//www.onlinefabricstore.net/contact.aspx "OnlineFabricStore.net Customer Service").
+If you have any questions regarding our privacy practices, want to request "do not share/do not send" status, or otherwise need to contact us concerning this Statement, please [contact our customer service](https://web.archive.org/web/20161227155933id_/https%3A//www.onlinefabricstore.net/contact.aspx "OnlineFabricStore.net Customer Service").
 
 ## What information do we collect?
 
@@ -26,7 +26,7 @@ We collect information from you when you register on our Site or place an order.
 
 Any data we request that is not required will be specified as voluntary or optional. 
 
-When ordering or registering on our Site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our Site anonymously.
+When ordering or registering on our Site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our Site anonymously.
 
 ## What do we use your information for?
 
@@ -56,11 +56,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 ## Your Choices
 
-If you prefer not to receive communications from us, regarding special offers, products, or promotions, please email us at [info@onlinefabricstore.net](mailto:info@onlinefabricstore.net). Information on how to opt out of receiving marketing email is provided in every email, or you may email us, or you may write us at www.onlinefabricstore.net, PO Box 1051, West Springfield, MA 01090. Please be sure to include your full name, email address, and specifically what type of information you do not want to receive. If you opt out of receiving marketing email, we will continue to send you emails regarding order confirmation and shipment notification when you place an order with us. 
+If you prefer not to receive communications from us, regarding special offers, products, or promotions, please email us at [help@onlinefabricstore.net](mailto:help@onlinefabricstore.net). Information on how to opt out of receiving marketing email is provided in every email, or you may email us, or you may write us at www.onlinefabricstore.net, PO Box 1051, West Springfield, MA 01090. Please be sure to include your full name, email address, and specifically what type of information you do not want to receive. If you opt out of receiving marketing email, we will continue to send you emails regarding order confirmation and shipment notification when you place an order with us. 
 
 ##  Changing Information
 
-To update your customer information, please log in to the My Account section of the Site, email us at [info@onlinefabricstore.net](mailto:info@onlinefabricstore.net) or contact us at www.onlinefabricstore.net, PO Box 1051, West Springfield, MA 01090. You can direct us to remove your name from our lists by following the instructions in Your Choices above. For your security you may be asked to provide certain information to identify yourself before we will accept changes to your information. If we receive a request from a third party regarding, or requesting a change in, use of your customer information, we reserve the right, in our sole discretion, to not grant the request from such third party (unless required to do so by law) and/or to require that you personally confirm the third party request.
+To update your customer information, please log in to the My Account section of the Site, email us at [help@onlinefabricstore.net](mailto:help@onlinefabricstore.net) or contact us at www.onlinefabricstore.net, PO Box 1051, West Springfield, MA 01090. You can direct us to remove your name from our lists by following the instructions in Your Choices above. For your security you may be asked to provide certain information to identify yourself before we will accept changes to your information. If we receive a request from a third party regarding, or requesting a change in, use of your customer information, we reserve the right, in our sole discretion, to not grant the request from such third party (unless required to do so by law) and/or to require that you personally confirm the third party request.
 
 ## California Online Privacy Protection Act Compliance
 
@@ -76,7 +76,7 @@ This Privacy Policy applies only to information collected through our Site and n
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Site at <http://www.onlinefabricstore.net/terms.aspx>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Site at <https://www.onlinefabricstore.net/terms.aspx>.
 
 ## Your Consent
 
@@ -99,9 +99,9 @@ Children's Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](https://secure.trust-guard.com/disputesystem/).
 
 Respectfully,
 
 OnlineFabricStore.net   
-[http://www.onlinefabricstore.net](http://www.onlinefabricstore.net/)
+[https://www.onlinefabricstore.net](https://www.onlinefabricstore.net/)
