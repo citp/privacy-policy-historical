@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630104213id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paultan.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020108id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.*
 
 # Paul Tan's Automotive News - Privacy Policy
 
