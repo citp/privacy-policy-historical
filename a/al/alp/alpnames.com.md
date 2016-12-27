@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alpnames.com privacy policy that was archived on 2016-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160125005313id_/https%3A//alpnames.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpnames.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227075521id_/https%3A//www.alpnames.com/support/privacy.php) for the most accurate reproduction.*
 
-# AlpNames AlpNames Privacy Policy
+# Privacy Policy
 
 At AlpNames Limited we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
