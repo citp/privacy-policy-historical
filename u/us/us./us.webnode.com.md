@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the us.webnode.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617200920id_/http%3A//us.webnode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us.webnode.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227021132id_/https%3A//us.webnode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webnode
 
 Webnode recognizes that its customers, visitors, Users, and others who use www.webnode.com or other websites owned and/or operated by us ("Webnode AG") value Their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on Webnode websites. We provide this Privacy Policy to help You make an informed decision on whether to use or continue using Webnode websites.
 
-This Privacy Policy is incorporated in the Terms and Conditions and is subject to Webnode's [Terms of Service (TOS)](http://us.webnode.com/terms-and-conditions/#tos). Your use of the Webnode sites and all of the personal information You provide on our sites remain subject to the terms of this Privacy Policy, as well as to Our Terms of Service.
+This Privacy Policy is incorporated in the Terms and Conditions and is subject to Webnode's [Terms of Service (TOS)](https://us.webnode.com/terms-and-conditions/#tos). Your use of the Webnode sites and all of the personal information You provide on our sites remain subject to the terms of this Privacy Policy, as well as to Our Terms of Service.
 
 Please note that any image, video, or any other content posted by Users on the Webnode Sites become published content; hence these are not considered "personally identifiable information" and therefore are not subject to this Privacy Policy.
 
