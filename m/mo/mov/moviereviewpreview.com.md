@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613002825id_/http%3A//www.moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviereviewpreview.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227154941id_/http%3A//www.moviereviewpreview.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy moviereviewpreview.com
 
 **Moviereviewpreview.com** and its subsidiaries (“ **Moviereviewpreview**.in”) respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Moviereviewpreview.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Moviereviewpreview.com you agree to the collection and use of your data by Moviereviewpreview.com in the manner provided in this Privacy Policy.
 
-If you have questions or concerns regarding this statement, you should contact Moviereviewpreview.com Customer Support Desk at contact@moviereviewpreview.com or call on +91 9971405431.
+If you have questions or concerns regarding this statement, you should contact Moviereviewpreview.com Customer Support Desk at contact@moviereviewpreview.com or call on +91 9560617279.
 
 The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Moviereviewpreview.com or to the people that are not engaged, employed or managed by Moviereviewpreview.com
 
