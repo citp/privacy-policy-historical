@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517143136id_/http%3A//www.cluburb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluburb.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227201144id_/http%3A//www.cluburb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cluburb
+# Privacy Policy - Cluburb
 
 **Our Commitment to Privacy :** Welcome to CLUBURB.COM. For the purposes of this Privacy Policy, the terms “CLUBURB”, “this”, “Web Site”, “we”, “us”, “our”, “company” shall mean CLUBURB.COM and the terms “user”, “you” refer to you, the user of this Web Site.
 
