@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521172549id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenet.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227052247id_/http%3A//www.gamenet.com/privacypolicy) for the most accurate reproduction.*
 
 # Geekbeach and Gamenet Privacy Policy
 
