@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigdecisions.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417202315id_/http%3A//www.bigdecisions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdecisions.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228001413id_/http%3A//www.bigdecisions.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | BigDecisions.com
+# Privacy Policy –Big Decisions’ Value Your Trust
 
 ####  BigDecisions Website Privacy Policy 
 
 This website **(“BigDecisions Website”)** is brought to you by NWS Digital India Private Limited **(“NWS Digital”)**. Terms like “we”, “us”, “our”, etc. in this privacy policy refer to NWS Digital. Terms like “you”, “your”, etc. refer to you as a user of the website, whether or not you register with the website.
 
-**P lease read this privacy policy carefully and do not use the website if you disagree with any of the practices described herein. Please do also not use this website if you are below the age of 18.**
+**Please read this privacy policy carefully and do not use the website if you disagree with any of the practices described herein. Please do also not use this website if you are below the age of 18.**
 
 We know that you care about your personal data and so do we. That is why we exercise care to handle personal data carefully and sensibly. We do not only have a reputation for providing quality products and excellent customer service but are also committed to protecting your privacy in the online sphere. This privacy policy describes how we collect, process and use your personal data when you visit and/or register with the website and protect the data collected by us. 
 
@@ -42,11 +42,9 @@ Personal data that we collect, process and use in connection with the website in
   * Content of any communication sent through the website, including any information posted on social communities on the website or otherwise shared with NWS Digital and/or other users, as well as chat messages and chat transcripts;
   * Geo-location information when permitted by you on your device; and
   * Any other information that you enter on, or upload to, the website including the following which is collected from you to feed into online forms for the purposes of the various financial calculators on the BigDecisions Website:
-
-
-  1. Demographic information (as entered by you or authorized by you to extract from you social profile like Facebook, Google+, LinkedIn, etc.)
-  2. Financial information including assets, liabilities, earnings, expenses, insurance cover (as entered by you),
-  3. information about dependents and family (as entered by you),
+    1. Demographic information (as entered by you or authorized by you to extract from you social profile like Facebook, Google+, LinkedIn, etc.)
+    2. Financial information including assets, liabilities, earnings, expenses, insurance cover (as entered by you),
+    3. information about dependents and family (as entered by you),
 
 
 
@@ -114,10 +112,8 @@ We may disclose your personal data to third parties:
   * If a third party acquires NWS Digital or substantially all of its assets, in which case the personal data held by NWS Digital about its customers will be one of the transferred assets. We will ensure that the third party treats your personal data as confidential. 
   * If we use third parties to process your personal data on our behalf, for example, we may use third parties to host the BigDecisions Website and to maintain our IT systems. Where we use third parties to process your personal our Information on our behalf we will ensure that they have adequate security measures in place to safeguard your personal data. 
   * When you have consented to be contacted for such purposes, we will disclose your personal data to carefully selected third parties to offer their services for the product/services you have opted for and also for imparting product knowledge and offers offered by our business partners. We may disclose your personal data to the following types of business partners: 
-
-
-  1. Financial services providers such as companies engaged in banking, credit cards, consumer finance, securities and insurance. 
-  2. Non-financial organizations such as companies engaged in direct marketing. 
+    1. Financial services providers such as companies engaged in banking, credit cards, consumer finance, securities and insurance. 
+    2. Non-financial organizations such as companies engaged in direct marketing. 
 
 
 
@@ -126,7 +122,6 @@ We do not sell, trade, rent, disclose, transfer or otherwise share your personal
 Potential recipients of your personal data are listed in the following: 
 
   * **NWS business partners:** We may share your personal data (on a non-identifiable basis) with our business partners if there is a legitimate reason to do so (e.g., where a licensed business partner may provide you with appropriate product recommendations based on the information shared) and such sharing is legally permissible. A legal permission exists for instance if you have consented to the sharing of your personal data or if applicable law permits or requires it. In any case where we share your data with our business partners we do so only for specific purposes. 
-  * **Business partners:** We may share your personal data with our business partners if there is a legitimate reason to do so (e.g., where our business partner may provide you with appropriate product recommendations based on the information shared by you and such sharing is legally permissible. A legal permission exists for instance if you have consented to the sharing of your personal data or if applicable law permits or requires it. In any case where we share your data with our business partners we do so only for specific purposes. 
   * **Third party service providers:** We may employ third party service providers (i.e., companies or individuals engaged by us) to perform certain functions on our behalf and under our instructions. Examples include website management, database management, maintenance services, web analytics, handling in-bound inquiries, and email, removing repetitive information from customer lists, analysing data, providing sales and marketing assistance and providing customer service. Third party service providers may for instance include IT companies, credit rating agencies or legal, financial and other advisors. Any third party provider will have access only to such personal data needed to perform its specific functions, and only for the purpose of performing these functions. We will ensure that any third party service provider is aware of and abides by these obligations. We will also ensure that any third party service provider treats your personal data at least such protection and security as required by applicable data protection laws and that they adopt adequate technical and organizational security measures. 
   * **Courts, law enforcement authorities and regulators:** We may share personal data when we believe it necessary to comply with the law, to protect the rights or safety of our website, other users, or third parties (e.g., for fraud protection purposes). Without limitation, this may include cases in which we are required to share personal data by the law or binding order of courts, law enforcement authorities or regulators. We will carefully determine the permissibility of providing personal data in each such context, paying particular attention to the type of request, types of data affected and any impact that a disclosure of personal data would have on the user affected. Should we decide to disclose personal data in such context we will also consider ways of reducing the scope of the disclosure, for instance by redacting the information provided. 
   * **Buyers:** As we continue to develop our business, we might sell all or parts of our website or business. In such transactions, user information generally is one of the transferred business assets, but remains subject to the promises made in any pre-existing Website Privacy Policy, unless you consent otherwise. 
@@ -173,28 +168,26 @@ We may send you emails for various reasons, including the following:
 ####  Type of Content 
 
   * Except as provided in this privacy policy (or otherwise expressly provided by NWS Digital), you may not copy, download, stream capture, reproduce, duplicate, archive, upload, modify, translate, publish, broadcast, transmit, retransmit, distribute, perform, display, sell, frame or deep-link, make available, or otherwise use any content available on the BigDecisions Website. You further agree not to use the BigDecisions Website to: 
-
-
-  1. Post, upload or otherwise transmit or link to content that is: unlawful; threatening; abusive; obscene; vulgar; sexually explicit; pornographic or inclusive of nudity; offensive; excessively violent; invasive of another’s privacy, publicity, contract or other rights; tortious; false or misleading; defamatory; libelous; hateful; or discriminatory;
-  2. Harass or harm another person;
-  3. Exploit or endanger a minor;
-  4. Impersonate or attempt to impersonate any person or entity;
-  5. Violate any patent, trademark, trade secret, copyright, privacy, publicity or other proprietary right;
-  6. Introduce or engage in activity that involves the use of viruses, software disabling codes, bots, worms, or any other computer code, files or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, or otherwise permit the unauthorized use of or access to a computer or a computer network;
-  7. Attempt to decipher, decompile, disassemble or reverse engineer any of the software, applications and/or any element comprising the BigDecisions Website, the application for accessing the content;
-  8. Interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the BigDecisions Website, including NWS Digital’s servers, networks or accounts;
-  9. Cover, remove, disable, manipulate, block or obscure advertisements or other portions of the services/content available on the BigDecisions Website;
-  10. Delete or revise any information provided by or pertaining to any other user of the BigDecisions Website;
-  11. Use technology or any automated system such as scripts, spiders, offline readers or bots in order to collect or disseminate usernames, passwords, email addresses or other data from the BigDecisions Website, or to circumvent, delete, deactivate, decompile, reverse engineer, disassemble or modify any security technology or software that is part of the BigDecisions Website;
-  12. Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the BigDecisions Website;
-  13. Solicit, collect or request any personal information for commercial or unlawful purposes;
-  14. Post, upload or otherwise transmit an image or video of another person without that person’s consent;
-  15. Engage in commercial activity (including but not limited to advertisements or solicitations of business; sales; contests; sweepstakes; creating, recreating, distributing or advertising an index of any significant portion of the Content; or building a business using the Content) without NWS Digitial’s prior written consent;
-  16. Use technology or other means to access, index, frame, or link to the Site (including the Content) that is not authorized by NWS Digital;
-  17. Access the BigDecisions Website (including the content) through any automated means, including “robots,” “spiders,” or “offline readers” (other than by individually performed searches on publicly accessible search engines for the sole purpose of, and solely to the extent necessary for, creating publicly available search indices – but not caches or archives – of the Site and excluding those search engines or indices that host, promote, or link primarily to infringing or unauthorized content);
-  18. Use the services/content to advertise or promote competing services;
-  19. Use the services/content in a manner inconsistent with any and all applicable law; and
-  20. Attempt, facilitate, induce, aid and abet, or encourage others to do any of the foregoing.
+    1. Post, upload or otherwise transmit or link to content that is: unlawful; threatening; abusive; obscene; vulgar; sexually explicit; pornographic or inclusive of nudity; offensive; excessively violent; invasive of another’s privacy, publicity, contract or other rights; tortious; false or misleading; defamatory; libelous; hateful; or discriminatory;
+    2. Harass or harm another person;
+    3. Exploit or endanger a minor;
+    4. Impersonate or attempt to impersonate any person or entity;
+    5. Violate any patent, trademark, trade secret, copyright, privacy, publicity or other proprietary right;
+    6. Introduce or engage in activity that involves the use of viruses, software disabling codes, bots, worms, or any other computer code, files or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment, or otherwise permit the unauthorized use of or access to a computer or a computer network;
+    7. Attempt to decipher, decompile, disassemble or reverse engineer any of the software, applications and/or any element comprising the BigDecisions Website, the application for accessing the content;
+    8. Interfere with, damage, disable, disrupt, impair, create an undue burden on, or gain unauthorized access to the BigDecisions Website, including NWS Digital’s servers, networks or accounts;
+    9. Cover, remove, disable, manipulate, block or obscure advertisements or other portions of the services/content available on the BigDecisions Website;
+    10. Delete or revise any information provided by or pertaining to any other user of the BigDecisions Website;
+    11. Use technology or any automated system such as scripts, spiders, offline readers or bots in order to collect or disseminate usernames, passwords, email addresses or other data from the BigDecisions Website, or to circumvent, delete, deactivate, decompile, reverse engineer, disassemble or modify any security technology or software that is part of the BigDecisions Website;
+    12. Send or cause to send (directly or indirectly) unsolicited bulk messages or other unsolicited bulk communications of any kind through the BigDecisions Website;
+    13. Solicit, collect or request any personal information for commercial or unlawful purposes;
+    14. Post, upload or otherwise transmit an image or video of another person without that person’s consent;
+    15. Engage in commercial activity (including but not limited to advertisements or solicitations of business; sales; contests; sweepstakes; creating, recreating, distributing or advertising an index of any significant portion of the Content; or building a business using the Content) without NWS Digitial’s prior written consent;
+    16. Use technology or other means to access, index, frame, or link to the Site (including the Content) that is not authorized by NWS Digital;
+    17. Access the BigDecisions Website (including the content) through any automated means, including “robots,” “spiders,” or “offline readers” (other than by individually performed searches on publicly accessible search engines for the sole purpose of, and solely to the extent necessary for, creating publicly available search indices – but not caches or archives – of the Site and excluding those search engines or indices that host, promote, or link primarily to infringing or unauthorized content);
+    18. Use the services/content to advertise or promote competing services;
+    19. Use the services/content in a manner inconsistent with any and all applicable law; and
+    20. Attempt, facilitate, induce, aid and abet, or encourage others to do any of the foregoing.
 
 
 
