@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616112555id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020243id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Help Center | Sweetwater.com
 
@@ -55,8 +55,8 @@ By using our website you consent to our collection and use of your personal info
 
 This policy was last updated on January 16, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-222-4700 or [contact us](https://web.archive.org/about/contact/). 
 
-#### Can We Help?
+#### Still have questions?
 
-Sweetwater is committed to providing the best shopping experience in the industry. You can find information regarding Sweetwater.com policies and services to the left.
+We're committed to providing you with the best shopping experience in the industry. Give us a call to learn more about our policies and services.
 
-##### Questions? Call us toll-free **(800) 222-4700**
+##### **(800) 222-4700**
