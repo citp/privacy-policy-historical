@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010035id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227195118id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Jigsaw Online: Privacy Policy | Jigsaw
 
