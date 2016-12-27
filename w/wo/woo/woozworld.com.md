@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621015757id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woozworld.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227175804id_/http%3A//www.woozworld.com/community/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Woozworld News
 
-Document revised: January 28th, 2015
+Document revised: September 20, 2016
 
-Revised document #13
+Revised document #14
 
 ## **1.**   **Introduction**
 
@@ -18,11 +18,11 @@ This Policy is applicable to the Website and all associated products and service
 
 ****Your use of the Website means that you accept the terms of this Policy. By using the Website, you agree to the collection, use, transfer and processing of PII as described in this Policy by Woozworld. If you do not accept the terms of this Policy, please discontinue the use of the Website immediately and at all times.****
 
-## **2.** **COPPA and PRIVO® ’s** ******Privacy Assurance Program**
+## ** ** 2\. COPPA and PRIVO-Cert™ Safe Harbor Certification Program
 
 Woozworld complies with the U.S. [Children’s Online Privacy Protection Act](http://coppa.org/) (“ ** **COPPA**** ”). The COPPA requires that we inform the Parents on how we collect and use PII from their children under the age of 13.
 
-Woozworld is certified under the [PRIVO-Cert® – PRIVO’s Privacy Assurance Certification](http://www.privo.com/) (the “ ** **Certification**** ”). In accordance with the Certification, Woozworld adheres to the strict information collection, use and disclosure requirements. PRIVO is an independent, third party organization committed to safeguarding children’s PII collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The Certification seal posted on this page indicates that Woozworld has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about this Policy, please contact us at [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com) or at (514) 281-8999. If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
+Woozworld (owned and operated by Woozworld Inc.) is a Member of the PRIVO-Cert™ Safe Harbor Certification Program ( **“the Program”** ). As a participating member in the Program, Woozworld (owned and operated by Woozworld Inc.) adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children’s personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Woozworld (owned and operated by Woozworld Inc.) has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (514) 281 8999 or [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 [](http://privo.com/privo-site-validation/?company=333)
 
@@ -32,17 +32,17 @@ When an account is created, the user’s ****_date of birth_**** , ****_gender_*
 
 The age and gender are used as aggregate statistical data to gain insight within the Website’s audience. The age is also used, as explained above, to determine if a user is under the age of 13 in order to get also the Parent’s email.
 
-Your email can be used to identify your account if you contact Woozworld for any questions or assistance. The child’s email address will never be publicly visible in the advanced features and the Parent’s email address is never visible anywhere. Within the scope of the advanced features, Woozworld will send directly to you communications such as updates, notifications, promotional invitations and news concerning the Website, which can be sent, without limitation, through the games messaging system or through emails. If you no longer wish to participate in such communications you can (i) click the unsubscribe link at the end of each email received, (ii) sign-in to your account and change your communication preferences in the account settings or (iii) send an email to [customerservice@woozworld.com](mailto:customerservice@woozworld.com).
+Your email can be used to identify your account if you contact Woozworld for any questions or assistance. The child’s email address will never be publicly visible in the advanced features and the Parent’s email address is never visible anywhere. Within the scope of the advanced features, Woozworld will send you communications such as updates, notifications, promotional invitations and news concerning the Website, through the games messaging system.
 
-The text entered in the WoozIn, as well as in-game chat and in private messages is filtered through [CommunitySift](http://communitysift.com/) smart filtering system, which aims to prevent, amongst other things, the user from exchanging PII such as phone numbers or email addresses with other users.
+The text entered in the WoozIn, as well as in-game chat and in private messages is filtered through [CommunitySift](http://communitysift.com/) smart filtering system and monitored by [Netino](http://netino.com/legal-mentions/), which aim to prevent, amongst other things, the user from exchanging PII such as phone numbers or email addresses with other users. Neither CommunitySift nor Netino share our user’s information with any other third parties.
 
-Depending on the user’s method of payment in our online stores, some additional PII will be requested as described below. We use Secure Sockets Layer technology to protect credit card data during transmission and our transaction operators adopt strict internal procedures to safeguard this information in their system. Our payment solution providers are also under contract to safeguard your PII and not to share it under any circumstances.
+Depending on the user’s method of payment in our online stores (and if they are over 13 years old,  located in the United States), some additional PII will be requested as described below. We use Secure Sockets Layer technology to protect credit card data during transmission and our transaction operators adopt strict internal procedures to safeguard this information in their system. Our payment solution providers are also under contract to safeguard your PII and not to share it under any circumstances.
 
 ## **4.**   **Advanced Features**
 
 **Communications**
 
-As explained above, Woozworld may send you updates, notifications, promotional invitations or news concerning the Website. If the user did not validate his email address upon registration, Woozworld will not send to the user any communication.
+As explained above, Woozworld may send you updates, notifications, promotional invitations or news concerning the Website through the games messaging system.
 
 **Contests and surveys**
 
@@ -61,7 +61,7 @@ For purchases made by credit card or through a PayPal account, the purchaser mus
 
 **Upcoming developments**
 
-We are always working on new ideas to make the Website even more fun. If the user’s email address was validated upon the creation of the account, notifications may be sent to promote challenges, contests, leaderboard updates, new games and weekly digests.
+We are always working on new ideas to make the Website even more fun. We may send notification through the games messaging system to promote challenges, contests, leaderboard updates, new games and weekly digests.
 
 ## **5.** **Cookies, IP Addresses and Clear GIFs**
 
@@ -81,11 +81,11 @@ The only other situations where we may disclose PII to third parties would be to
 
 Please take note that the Website may contain links to third party sites (“ ** **Linked Sites**** ”) and any activities you engage in connection with a Linked Site are subject to the privacy policy and terms of use as defined by the operator of the Linked Site. Please read Website’s [Terms of Use](http://www.woozworld.com/community/terms-of-use/) for further details. ****WOOZWORLD DISCLAIMS ANY AND ALL LIABILITY EXPRESS OR IMPLIED IN CONNECTION WITH ANY LINKED SITES.****
 
-Woozworld may also share your email address with its affiliated companies so that they can let you know about products that might be of interest to you.  However, your consent will always be asked prior to sharing such information. If you would like to stop receiving such product information, you can (i) click the unsubscribe link at the end of each email received, (ii) sign-in to your account and change your communication preferences in the account settings or (iii) send an email to [customerservice@woozworld.com](mailto:customerservice@woozworld.com).
-
 ## **7.**   **Customer Service**
 
 If you contact customer service by email, we will ask for your email address and name of Woozen. If you contact customer service by telephone, you may be asked for your email and/or phone number. The PII provided within a customer service request will not be used for any other reason than to respond to your specific request and the telephone number of a user under the age of 13 will not be stored in the system.
+
+Woozworld works with third party Netino to manage customer support. Netino does not share user information with any other third parties. To find out more about Netino please email us at privacypolicy@woozworld.com or view the [Netino Legal Notice](http://netino.com/legal-mentions/).
 
 ## **8.**   **Communications within Website**
 
@@ -93,7 +93,7 @@ Woozworld may, at its sole discretion, record or store communications submitted 
 
 ## **9.**   **No Other Information**
 
-You will never be asked for any additional PII while using the Website.  We provide as many privacy protection measures as reasonably possible to insure that no other additional PII is communicated or exchanged within the Website. Woozworld employees and on-line moderators (known as Woozband avatars) will never ask you for additional PII.  NEVER GIVE YOUR PASSWORD UNDER ANY CIRCUMSTANCES. Please be vigilant and report any user attempting to obtain PII or your password by contacting us at [customerservice@woozworld.com](mailto:customerservice@woozworld.com).
+You will never be asked for any additional PII while using the Website.  We provide as many privacy protection measures as reasonably possible to insure that no other additional PII is communicated or exchanged within the Website. Woozworld employees and on-line moderators (known as Woozband avatars) will never ask you for additional PII.  NEVER GIVE YOUR PASSWORD UNDER ANY CIRCUMSTANCES. Please be vigilant and report any user attempting to obtain PII or your password by contacting us at [our Help page](http://www.woozworld.com/community/help/).
 
 ## **10.**   **Modifications**
 
@@ -101,13 +101,11 @@ We reserve the right, at our sole discretion, to change this Policy to accommoda
 
 ## **11.**   **Reviewing PII**
 
-Upon proper identification, you may review your PII, request change or deletion or refuse to allow further collection or use of the information by contacting us by email at [customerservice@woozworld.com](mailto:customerservice@woozworld.com) or by telephone at + (514) 281-8999. However, if you ask us to delete any required PII for certain advanced features, your access to those features will not be possible in the future.
+Upon proper identification, you or your parents may review your PII, request change or deletion or refuse to allow further collection or use of the information by contacting us at [our Help page](http://www.woozworld.com/community/help/) or by telephone at +1 (514) 281-8999. However, if you or your parents ask us to delete any required PII for certain advanced features, your access to those features will not be possible in the future.
 
 ## **12.**   **Contacting Us**
 
-You can contact us with any concerns with respect to this Policy at:
-
-[privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com)
+You can contact us with any concerns with respect to this Policy at: [privacypolicy@woozworld.com](mailto:privacypolicy@woozworld.com)
 
 Woozworld Inc.
 
