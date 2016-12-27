@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the vivamachete.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606004953id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivamachete.com privacy policy that was archived on 2016-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227154638id_/http%3A//www.foxmovies.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<meta charset="utf-8"><script type="text/javascript" async="" src="//apis.google.com/js/platform.js"></script><script async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KCFKVZ"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcOUF9bDhABUllRBgAEVw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+		<meta charset="utf-8"><script type="text/javascript" async="" src="//apis.google.com/js/platform.js"></script><script async="" src="//connect.facebook.net/en_US/all.js"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KCFKVZ"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
 		<title>Privacy Policy | 20th Century Fox</title>
@@ -47,8 +47,7 @@
 		<![endif]-->
 
 		
-		
-	</head>
+			</head>
 	<body id="front_privacy_policy_page">
 		<!-- Google Tag Manager -->
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KCFKVZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -65,7 +64,7 @@
 		<!-- End Google Tag Manager -->
 
 		
-					<header id="header" class="show">
+					<header id="header">
 									<a href="http://www.foxmovies.com" id="logo"></a>
 					
 				<div id="header_top">
@@ -76,21 +75,60 @@
     							<div id="main_menu_item_box_in_theaters" class="main-menu-item-box">
     								<div class="main-menu-movies-container clearfix">
     <div class="big-mode">
-                    <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/x-men-apocalypse" id="poster-x-men-apocalypse" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/108/images/posters/461-film-page-thumbnail.jpg" alt=""></a>
+                    <div class="main-menu-movie">
+                <a href="http://www.foxmovies.com/movies/why-him" id="poster-why-him" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/128/images/posters/498-film-page-thumbnail.jpg" alt=""></a>
                 <span class="movie-release-date">Now Playing</span>
-                <a href="http://www.foxmovies.com/movies/x-men-apocalypse" id="text-link-x-men-apocalypse" class="movie-title subnav">X-Men: Apocalypse</a>
+                <a href="http://www.foxmovies.com/movies/why-him" id="text-link-why-him" class="movie-title subnav copa-age-gate-link">Why Him?</a>
+            </div>
+                    <div class="main-menu-movie">
+                <a href="http://www.foxmovies.com/movies/assassins-creed" id="poster-assassins-creed" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/507-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">Now Playing</span>
+                <a href="http://www.foxmovies.com/movies/assassins-creed" id="text-link-assassins-creed" class="movie-title subnav copa-age-gate-link">Assassin's Creed</a>
+            </div>
+                    <div class="main-menu-movie">
+                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="poster-rules-dont-apply" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/124/images/posters/510-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">Now Playing</span>
+                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="text-link-rules-dont-apply" class="movie-title subnav copa-age-gate-link">Rules Don't Apply</a>
+            </div>
+                    <div class="main-menu-movie last">
+                <a href="http://www.foxmovies.com/movies/trolls" id="poster-trolls" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/119/images/posters/497-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">Now Playing</span>
+                <a href="http://www.foxmovies.com/movies/trolls" id="text-link-trolls" class="movie-title subnav">Trolls</a>
             </div>
         
             </div>
 
     <div class="small-mode">
                     <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/x-men-apocalypse" id="poster-collapsed--x-men-apocalypse" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/108/images/posters/461-film-page-thumbnail.jpg" alt="X-Men: Apocalypse"></a>
+                <a href="http://www.foxmovies.com/movies/why-him" id="poster-collapsed--why-him" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/128/images/posters/498-film-page-thumbnail.jpg" alt="Why Him?"></a>
 
                 <div class="movie-info">
                     <span class="movie-release-date">Now Playing</span>
-                    <a href="http://www.foxmovies.com/movies/x-men-apocalypse" id="text-link-collapsed-x-men-apocalypse" class="movie-title subnav">X-Men: Apocalypse</a>
+                    <a href="http://www.foxmovies.com/movies/why-him" id="text-link-collapsed-why-him" class="movie-title subnav copa-age-gate-link">Why Him?</a>
+                </div>
+            </div>
+                                            <div class="main-menu-movie">
+                <a href="http://www.foxmovies.com/movies/assassins-creed" id="poster-collapsed--assassins-creed" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/507-film-page-thumbnail.jpg" alt="Assassin's Creed"></a>
+
+                <div class="movie-info">
+                    <span class="movie-release-date">Now Playing</span>
+                    <a href="http://www.foxmovies.com/movies/assassins-creed" id="text-link-collapsed-assassins-creed" class="movie-title subnav copa-age-gate-link">Assassin's Creed</a>
+                </div>
+            </div>
+                                            <div class="main-menu-movie last">
+                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="poster-collapsed--rules-dont-apply" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/124/images/posters/510-film-page-thumbnail.jpg" alt="Rules Don't Apply"></a>
+
+                <div class="movie-info">
+                    <span class="movie-release-date">Now Playing</span>
+                    <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="text-link-collapsed-rules-dont-apply" class="movie-title subnav copa-age-gate-link">Rules Don't Apply</a>
+                </div>
+            </div>
+            </div>                    <div class="movie-row clearfix">            <div class="main-menu-movie">
+                <a href="http://www.foxmovies.com/movies/trolls" id="poster-collapsed--trolls" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/119/images/posters/497-film-page-thumbnail.jpg" alt="Trolls"></a>
+
+                <div class="movie-info">
+                    <span class="movie-release-date">Now Playing</span>
+                    <a href="http://www.foxmovies.com/movies/trolls" id="text-link-collapsed-trolls" class="movie-title subnav">Trolls</a>
                 </div>
             </div>
             </div>        
@@ -111,124 +149,111 @@
     								<div class="main-menu-movies-container clearfix">
     <div class="big-mode">
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="poster-independence-day-resurgence" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">June 24, 2016</span>
-                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="text-link-independence-day-resurgence" class="movie-title subnav">Independence Day: Resurgence</a>
+                <a href="http://www.foxmovies.com/movies/hidden-figures" id="poster-hidden-figures" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/123/images/posters/505-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">January 6, 2017</span>
+                <a href="http://www.foxmovies.com/movies/hidden-figures" id="text-link-hidden-figures" class="movie-title subnav">Hidden Figures</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="poster-mike-and-dave-need-wedding-dates" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">July 8, 2016</span>
-                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="text-link-mike-and-dave-need-wedding-dates" class="movie-title subnav copa-age-gate-link">Mike and Dave Need Wedding Dates</a>
+                <a href="http://www.foxmovies.com/movies/a-cure-for-wellness" id="poster-a-cure-for-wellness" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/131/images/posters/508-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">February 17, 2017</span>
+                <a href="http://www.foxmovies.com/movies/a-cure-for-wellness" id="text-link-a-cure-for-wellness" class="movie-title subnav copa-age-gate-link">A Cure for Wellness</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/ice-age-collision-course" id="poster-ice-age-collision-course" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/463-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">July 22, 2016</span>
-                <a href="http://www.foxmovies.com/movies/ice-age-collision-course" id="text-link-ice-age-collision-course" class="movie-title subnav">Ice Age: Collision Course</a>
+                <a href="http://www.foxmovies.com/movies/logan" id="poster-logan" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/132/images/posters/509-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">March 3, 2017</span>
+                <a href="http://www.foxmovies.com/movies/logan" id="text-link-logan" class="movie-title subnav copa-age-gate-link">Logan</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/morgan" id="poster-morgan" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/126/images/posters/485-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">September 2, 2016</span>
-                <a href="http://www.foxmovies.com/movies/morgan" id="text-link-morgan" class="movie-title subnav copa-age-gate-link">Morgan</a>
+                <a href="http://www.foxmovies.com/movies/the-boss-baby" id="poster-the-boss-baby" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/130/images/posters/506-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">March 31, 2017</span>
+                <a href="http://www.foxmovies.com/movies/the-boss-baby" id="text-link-the-boss-baby" class="movie-title subnav">The Boss Baby</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="poster-miss-peregrines-home-for-peculiar-children" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/102/images/posters/476-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">September 30, 2016</span>
-                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="text-link-miss-peregrines-home-for-peculiar-children" class="movie-title subnav">Miss Peregrine’s Home For Peculiar Children</a>
+                <a href="http://www.foxmovies.com/movies/snatched" id="poster-snatched" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/134/images/posters/516-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">May 12, 2017</span>
+                <a href="http://www.foxmovies.com/movies/snatched" id="text-link-snatched" class="movie-title subnav copa-age-gate-link">Snatched</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/trolls" id="poster-trolls" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/119/images/posters/475-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">November 4, 2016, in 3D</span>
-                <a href="http://www.foxmovies.com/movies/trolls" id="text-link-trolls" class="movie-title subnav">Trolls</a>
+                <a href="http://www.foxmovies.com/movies/diary-of-a-wimpy-kid-the-long-haul" id="poster-diary-of-a-wimpy-kid-the-long-haul" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/133/images/posters/512-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">May 19, 2017</span>
+                <a href="http://www.foxmovies.com/movies/diary-of-a-wimpy-kid-the-long-haul" id="text-link-diary-of-a-wimpy-kid-the-long-haul" class="movie-title subnav copa-age-gate-link">Diary of a Wimpy Kid: The Long Haul</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="poster-rules-dont-apply" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/124/images/posters/483-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">November 11, 2016</span>
-                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="text-link-rules-dont-apply" class="movie-title subnav copa-age-gate-link">Rules Don't Apply</a>
-            </div>
-                    <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/assassins-creed" id="poster-assassins-creed" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/484-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">December 21, 2016</span>
-                <a href="http://www.foxmovies.com/movies/assassins-creed" id="text-link-assassins-creed" class="movie-title subnav copa-age-gate-link">Assassin's Creed</a>
+                <a href="http://www.foxmovies.com/movies/alien-covenant" id="poster-alien-covenant" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/135/images/posters/517-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">May 19, 2017</span>
+                <a href="http://www.foxmovies.com/movies/alien-covenant" id="text-link-alien-covenant" class="movie-title subnav copa-age-gate-link">Alien: Covenant</a>
             </div>
                     <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/why-him" id="poster-why-him" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/122/images/posters/477-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">December 25, 2016</span>
-                <a href="http://www.foxmovies.com/movies/why-him" id="text-link-why-him" class="movie-title subnav copa-age-gate-link">Why Him?</a>
+                <a href="http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes" id="poster-war-for-the-planet-of-the-apes" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/113/images/posters/515-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">July 14, 2017</span>
+                <a href="http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes" id="text-link-war-for-the-planet-of-the-apes" class="movie-title subnav copa-age-gate-link">War for the Planet of the Apes</a>
             </div>
         
             </div>
 
     <div class="small-mode">
                     <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="poster-collapsed--independence-day-resurgence" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt="Independence Day: Resurgence"></a>
+                <a href="http://www.foxmovies.com/movies/hidden-figures" id="poster-collapsed--hidden-figures" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/123/images/posters/505-film-page-thumbnail.jpg" alt="Hidden Figures"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">June 24, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="text-link-collapsed-independence-day-resurgence" class="movie-title subnav">Independence Day: Resurgence</a>
+                    <span class="movie-release-date">January 6, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/hidden-figures" id="text-link-collapsed-hidden-figures" class="movie-title subnav">Hidden Figures</a>
                 </div>
             </div>
                                             <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="poster-collapsed--mike-and-dave-need-wedding-dates" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt="Mike and Dave Need Wedding Dates"></a>
+                <a href="http://www.foxmovies.com/movies/a-cure-for-wellness" id="poster-collapsed--a-cure-for-wellness" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/131/images/posters/508-film-page-thumbnail.jpg" alt="A Cure for Wellness"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">July 8, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="text-link-collapsed-mike-and-dave-need-wedding-dates" class="movie-title subnav copa-age-gate-link">Mike and Dave Need Wedding Dates</a>
+                    <span class="movie-release-date">February 17, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/a-cure-for-wellness" id="text-link-collapsed-a-cure-for-wellness" class="movie-title subnav copa-age-gate-link">A Cure for Wellness</a>
                 </div>
             </div>
                                             <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/ice-age-collision-course" id="poster-collapsed--ice-age-collision-course" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/463-film-page-thumbnail.jpg" alt="Ice Age: Collision Course"></a>
+                <a href="http://www.foxmovies.com/movies/logan" id="poster-collapsed--logan" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/132/images/posters/509-film-page-thumbnail.jpg" alt="Logan"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">July 22, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/ice-age-collision-course" id="text-link-collapsed-ice-age-collision-course" class="movie-title subnav">Ice Age: Collision Course</a>
+                    <span class="movie-release-date">March 3, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/logan" id="text-link-collapsed-logan" class="movie-title subnav copa-age-gate-link">Logan</a>
                 </div>
             </div>
             </div>                    <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/morgan" id="poster-collapsed--morgan" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/126/images/posters/485-film-page-thumbnail.jpg" alt="Morgan"></a>
+                <a href="http://www.foxmovies.com/movies/the-boss-baby" id="poster-collapsed--the-boss-baby" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/130/images/posters/506-film-page-thumbnail.jpg" alt="The Boss Baby"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">September 2, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/morgan" id="text-link-collapsed-morgan" class="movie-title subnav copa-age-gate-link">Morgan</a>
+                    <span class="movie-release-date">March 31, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/the-boss-baby" id="text-link-collapsed-the-boss-baby" class="movie-title subnav">The Boss Baby</a>
                 </div>
             </div>
                                             <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="poster-collapsed--miss-peregrines-home-for-peculiar-children" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/102/images/posters/476-film-page-thumbnail.jpg" alt="Miss Peregrine’s Home For Peculiar Children"></a>
+                <a href="http://www.foxmovies.com/movies/snatched" id="poster-collapsed--snatched" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/134/images/posters/516-film-page-thumbnail.jpg" alt="Snatched"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">September 30, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="text-link-collapsed-miss-peregrines-home-for-peculiar-children" class="movie-title subnav">Miss Peregrine’s Home For Peculiar Children</a>
+                    <span class="movie-release-date">May 12, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/snatched" id="text-link-collapsed-snatched" class="movie-title subnav copa-age-gate-link">Snatched</a>
                 </div>
             </div>
                                             <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/trolls" id="poster-collapsed--trolls" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/119/images/posters/475-film-page-thumbnail.jpg" alt="Trolls"></a>
+                <a href="http://www.foxmovies.com/movies/diary-of-a-wimpy-kid-the-long-haul" id="poster-collapsed--diary-of-a-wimpy-kid-the-long-haul" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/133/images/posters/512-film-page-thumbnail.jpg" alt="Diary of a Wimpy Kid: The Long Haul"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">November 4, 2016, in 3D</span>
-                    <a href="http://www.foxmovies.com/movies/trolls" id="text-link-collapsed-trolls" class="movie-title subnav">Trolls</a>
+                    <span class="movie-release-date">May 19, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/diary-of-a-wimpy-kid-the-long-haul" id="text-link-collapsed-diary-of-a-wimpy-kid-the-long-haul" class="movie-title subnav copa-age-gate-link">Diary of a Wimpy Kid: The Long Haul</a>
                 </div>
             </div>
             </div>                    <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="poster-collapsed--rules-dont-apply" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/124/images/posters/483-film-page-thumbnail.jpg" alt="Rules Don't Apply"></a>
+                <a href="http://www.foxmovies.com/movies/alien-covenant" id="poster-collapsed--alien-covenant" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/135/images/posters/517-film-page-thumbnail.jpg" alt="Alien: Covenant"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">November 11, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/rules-dont-apply" id="text-link-collapsed-rules-dont-apply" class="movie-title subnav copa-age-gate-link">Rules Don't Apply</a>
+                    <span class="movie-release-date">May 19, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/alien-covenant" id="text-link-collapsed-alien-covenant" class="movie-title subnav copa-age-gate-link">Alien: Covenant</a>
                 </div>
             </div>
                                             <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/assassins-creed" id="poster-collapsed--assassins-creed" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/484-film-page-thumbnail.jpg" alt="Assassin's Creed"></a>
+                <a href="http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes" id="poster-collapsed--war-for-the-planet-of-the-apes" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/113/images/posters/515-film-page-thumbnail.jpg" alt="War for the Planet of the Apes"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">December 21, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/assassins-creed" id="text-link-collapsed-assassins-creed" class="movie-title subnav copa-age-gate-link">Assassin's Creed</a>
-                </div>
-            </div>
-                                            <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/why-him" id="poster-collapsed--why-him" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/122/images/posters/477-film-page-thumbnail.jpg" alt="Why Him?"></a>
-
-                <div class="movie-info">
-                    <span class="movie-release-date">December 25, 2016</span>
-                    <a href="http://www.foxmovies.com/movies/why-him" id="text-link-collapsed-why-him" class="movie-title subnav copa-age-gate-link">Why Him?</a>
+                    <span class="movie-release-date">July 14, 2017</span>
+                    <a href="http://www.foxmovies.com/movies/war-for-the-planet-of-the-apes" id="text-link-collapsed-war-for-the-planet-of-the-apes" class="movie-title subnav copa-age-gate-link">War for the Planet of the Apes</a>
                 </div>
             </div>
             </div>        
@@ -254,34 +279,19 @@
     								<div class="main-menu-movies-container clearfix">
     <div class="big-mode">
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/eddie-the-eagle" id="poster-eddie-the-eagle" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/117/images/posters/470-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">NOW ON DIGITAL HD</span>
-                <a href="http://www.foxmovies.com/movies/eddie-the-eagle" id="text-link-eddie-the-eagle" class="movie-title subnav copa-age-gate-link">Eddie The Eagle</a>
+                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="poster-miss-peregrines-home-for-peculiar-children" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/102/images/posters/492-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">NOW ON BLU-RAY™ AND DIGITAL HD</span>
+                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="text-link-miss-peregrines-home-for-peculiar-children" class="movie-title subnav">Miss Peregrine’s Home For Peculiar Children</a>
             </div>
                     <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/deadpool" id="poster-deadpool" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/103/images/posters/464-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                <a href="http://www.foxmovies.com/movies/deadpool" id="text-link-deadpool" class="movie-title subnav copa-age-gate-link">Deadpool</a>
-            </div>
-                    <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/kung-fu-panda-3" id="poster-kung-fu-panda-3" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/106/images/posters/457-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">January 2016</span>
-                <a href="http://www.foxmovies.com/movies/kung-fu-panda-3" id="text-link-kung-fu-panda-3" class="movie-title subnav">Kung Fu Panda 3</a>
-            </div>
-                    <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/the-revenant" id="poster-the-revenant" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/96/images/posters/455-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">Now on Blu-Ray™ &amp; Digital HD</span>
-                <a href="http://www.foxmovies.com/movies/the-revenant" id="text-link-the-revenant" class="movie-title subnav copa-age-gate-link">The Revenant</a>
-            </div>
-                    <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/joy" id="poster-joy" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/109/images/posters/432-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                <a href="http://www.foxmovies.com/movies/joy" id="text-link-joy" class="movie-title subnav copa-age-gate-link">Joy</a>
+                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="poster-mike-and-dave-need-wedding-dates" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">Now on Blu-Ray™ and Digital HD</span>
+                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="text-link-mike-and-dave-need-wedding-dates" class="movie-title subnav copa-age-gate-link">Mike and Dave Need Wedding Dates</a>
             </div>
                     <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/alvin-and-the-chipmunks-the-road-chip" id="poster-alvin-and-the-chipmunks-the-road-chip" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/105/images/posters/437-film-page-thumbnail.jpg" alt=""></a>
-                <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                <a href="http://www.foxmovies.com/movies/alvin-and-the-chipmunks-the-road-chip" id="text-link-alvin-and-the-chipmunks-the-road-chip" class="movie-title subnav">Alvin and the Chipmunks: The Road Chip</a>
+                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="poster-independence-day-resurgence" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt=""></a>
+                <span class="movie-release-date">NOW ON BLU-RAY™ AND DIGITAL HD</span>
+                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="text-link-independence-day-resurgence" class="movie-title subnav">Independence Day: Resurgence</a>
             </div>
         
                                     <div class="clearfix"></div>
@@ -292,51 +302,27 @@
 
     <div class="small-mode">
                     <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/eddie-the-eagle" id="poster-collapsed--eddie-the-eagle" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/117/images/posters/470-film-page-thumbnail.jpg" alt="Eddie The Eagle"></a>
+                <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="poster-collapsed--miss-peregrines-home-for-peculiar-children" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/102/images/posters/492-film-page-thumbnail.jpg" alt="Miss Peregrine’s Home For Peculiar Children"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">NOW ON DIGITAL HD</span>
-                    <a href="http://www.foxmovies.com/movies/eddie-the-eagle" id="text-link-collapsed-eddie-the-eagle" class="movie-title subnav copa-age-gate-link">Eddie The Eagle</a>
+                    <span class="movie-release-date">NOW ON BLU-RAY™ AND DIGITAL HD</span>
+                    <a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" id="text-link-collapsed-miss-peregrines-home-for-peculiar-children" class="movie-title subnav">Miss Peregrine’s Home For Peculiar Children</a>
                 </div>
             </div>
                                             <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/deadpool" id="poster-collapsed--deadpool" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/103/images/posters/464-film-page-thumbnail.jpg" alt="Deadpool"></a>
+                <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="poster-collapsed--mike-and-dave-need-wedding-dates" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt="Mike and Dave Need Wedding Dates"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                    <a href="http://www.foxmovies.com/movies/deadpool" id="text-link-collapsed-deadpool" class="movie-title subnav copa-age-gate-link">Deadpool</a>
+                    <span class="movie-release-date">Now on Blu-Ray™ and Digital HD</span>
+                    <a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" id="text-link-collapsed-mike-and-dave-need-wedding-dates" class="movie-title subnav copa-age-gate-link">Mike and Dave Need Wedding Dates</a>
                 </div>
             </div>
                                             <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/kung-fu-panda-3" id="poster-collapsed--kung-fu-panda-3" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/106/images/posters/457-film-page-thumbnail.jpg" alt="Kung Fu Panda 3"></a>
+                <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="poster-collapsed--independence-day-resurgence" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt="Independence Day: Resurgence"></a>
 
                 <div class="movie-info">
-                    <span class="movie-release-date">January 2016</span>
-                    <a href="http://www.foxmovies.com/movies/kung-fu-panda-3" id="text-link-collapsed-kung-fu-panda-3" class="movie-title subnav">Kung Fu Panda 3</a>
-                </div>
-            </div>
-            </div>                    <div class="movie-row clearfix">            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/the-revenant" id="poster-collapsed--the-revenant" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/96/images/posters/455-film-page-thumbnail.jpg" alt="The Revenant"></a>
-
-                <div class="movie-info">
-                    <span class="movie-release-date">Now on Blu-Ray™ &amp; Digital HD</span>
-                    <a href="http://www.foxmovies.com/movies/the-revenant" id="text-link-collapsed-the-revenant" class="movie-title subnav copa-age-gate-link">The Revenant</a>
-                </div>
-            </div>
-                                            <div class="main-menu-movie">
-                <a href="http://www.foxmovies.com/movies/joy" id="poster-collapsed--joy" class="movie-poster subnav copa-age-gate-link"><img src="http://s3.foxmovies.com/foxmovies/production/films/109/images/posters/432-film-page-thumbnail.jpg" alt="Joy"></a>
-
-                <div class="movie-info">
-                    <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                    <a href="http://www.foxmovies.com/movies/joy" id="text-link-collapsed-joy" class="movie-title subnav copa-age-gate-link">Joy</a>
-                </div>
-            </div>
-                                            <div class="main-menu-movie last">
-                <a href="http://www.foxmovies.com/movies/alvin-and-the-chipmunks-the-road-chip" id="poster-collapsed--alvin-and-the-chipmunks-the-road-chip" class="movie-poster subnav"><img src="http://s3.foxmovies.com/foxmovies/production/films/105/images/posters/437-film-page-thumbnail.jpg" alt="Alvin and the Chipmunks: The Road Chip"></a>
-
-                <div class="movie-info">
-                    <span class="movie-release-date">Now on Blu-ray™ &amp; Digital HD</span>
-                    <a href="http://www.foxmovies.com/movies/alvin-and-the-chipmunks-the-road-chip" id="text-link-collapsed-alvin-and-the-chipmunks-the-road-chip" class="movie-title subnav">Alvin and the Chipmunks: The Road Chip</a>
+                    <span class="movie-release-date">NOW ON BLU-RAY™ AND DIGITAL HD</span>
+                    <a href="http://www.foxmovies.com/movies/independence-day-resurgence" id="text-link-collapsed-independence-day-resurgence" class="movie-title subnav">Independence Day: Resurgence</a>
                 </div>
             </div>
             </div>        
@@ -363,12 +349,28 @@
     											<span class="main-menu-heading"><span class="main-menu-heading-title">In Theaters</span> | <a href="http://www.foxmovies.com/in-theaters" class="main-menu-heading-view-all-link">View All</a></span>
     										</div>
 
-    										    											<div class="main-menu-movie last">
-    												<a href="http://www.foxmovies.com/movies/x-men-apocalypse" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/108/images/posters/461-film-page-thumbnail.jpg" alt=""></a>
+    										    											<div class="main-menu-movie">
+    												<a href="http://www.foxmovies.com/movies/why-him" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/128/images/posters/498-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
     													<span class="movie-release-date">Now Playing</span>
-    													<a href="http://www.foxmovies.com/movies/x-men-apocalypse" class="movie-title">X-Men: Apocalypse</a>
+    													<a href="http://www.foxmovies.com/movies/why-him" class="movie-title">Why Him?</a>
+    												</div>
+    											</div>
+    										    											<div class="main-menu-movie">
+    												<a href="http://www.foxmovies.com/movies/assassins-creed" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/111/images/posters/507-film-page-thumbnail.jpg" alt=""></a>
+
+    												<div class="movie-info">
+    													<span class="movie-release-date">Now Playing</span>
+    													<a href="http://www.foxmovies.com/movies/assassins-creed" class="movie-title">Assassin's Creed</a>
+    												</div>
+    											</div>
+    										    											<div class="main-menu-movie last">
+    												<a href="http://www.foxmovies.com/movies/rules-dont-apply" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/124/images/posters/510-film-page-thumbnail.jpg" alt=""></a>
+
+    												<div class="movie-info">
+    													<span class="movie-release-date">Now Playing</span>
+    													<a href="http://www.foxmovies.com/movies/rules-dont-apply" class="movie-title">Rules Don't Apply</a>
     												</div>
     											</div>
     										    									</div>
@@ -379,27 +381,27 @@
     										</div>
 
     										    											<div class="main-menu-movie">
-    												<a href="http://www.foxmovies.com/movies/independence-day-resurgence" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/hidden-figures" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/123/images/posters/505-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">June 24, 2016</span>
-    													<a href="http://www.foxmovies.com/movies/independence-day-resurgence" class="movie-title">Independence Day: Resurgence</a>
+    													<span class="movie-release-date">January 6, 2017</span>
+    													<a href="http://www.foxmovies.com/movies/hidden-figures" class="movie-title">Hidden Figures</a>
     												</div>
     											</div>
     										    											<div class="main-menu-movie">
-    												<a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/a-cure-for-wellness" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/131/images/posters/508-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">July 8, 2016</span>
-    													<a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" class="movie-title">Mike and Dave Need Wedding Dates</a>
+    													<span class="movie-release-date">February 17, 2017</span>
+    													<a href="http://www.foxmovies.com/movies/a-cure-for-wellness" class="movie-title">A Cure for Wellness</a>
     												</div>
     											</div>
     										    											<div class="main-menu-movie last">
-    												<a href="http://www.foxmovies.com/movies/ice-age-collision-course" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/116/images/posters/463-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/logan" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/132/images/posters/509-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">July 22, 2016</span>
-    													<a href="http://www.foxmovies.com/movies/ice-age-collision-course" class="movie-title">Ice Age: Collision Course</a>
+    													<span class="movie-release-date">March 3, 2017</span>
+    													<a href="http://www.foxmovies.com/movies/logan" class="movie-title">Logan</a>
     												</div>
     											</div>
     										    									</div>
@@ -410,27 +412,27 @@
     										</div>
 
     										    											<div class="main-menu-movie">
-    												<a href="http://www.foxmovies.com/movies/eddie-the-eagle" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/117/images/posters/470-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/102/images/posters/492-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">February 2016</span>
-    													<a href="http://www.foxmovies.com/movies/eddie-the-eagle" class="movie-title">Eddie The Eagle</a>
+    													<span class="movie-release-date">September 2016</span>
+    													<a href="http://www.foxmovies.com/movies/miss-peregrines-home-for-peculiar-children" class="movie-title">Miss Peregrine’s Home For Peculiar Children</a>
     												</div>
     											</div>
     										    											<div class="main-menu-movie">
-    												<a href="http://www.foxmovies.com/movies/deadpool" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/103/images/posters/464-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/120/images/posters/468-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">February 2016</span>
-    													<a href="http://www.foxmovies.com/movies/deadpool" class="movie-title">Deadpool</a>
+    													<span class="movie-release-date">July 2016</span>
+    													<a href="http://www.foxmovies.com/movies/mike-and-dave-need-wedding-dates" class="movie-title">Mike and Dave Need Wedding Dates</a>
     												</div>
     											</div>
     										    											<div class="main-menu-movie last">
-    												<a href="http://www.foxmovies.com/movies/kung-fu-panda-3" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/106/images/posters/457-film-page-thumbnail.jpg" alt=""></a>
+    												<a href="http://www.foxmovies.com/movies/independence-day-resurgence" class="movie-poster"><img src="http://s3.foxmovies.com/foxmovies/production/films/107/images/posters/469-film-page-thumbnail.jpg" alt=""></a>
 
     												<div class="movie-info">
-    													<span class="movie-release-date">January 2016</span>
-    													<a href="http://www.foxmovies.com/movies/kung-fu-panda-3" class="movie-title">Kung Fu Panda 3</a>
+    													<span class="movie-release-date">June 2016</span>
+    													<a href="http://www.foxmovies.com/movies/independence-day-resurgence" class="movie-title">Independence Day: Resurgence</a>
     												</div>
     											</div>
     										    									</div>
@@ -509,8 +511,8 @@
 			
 							<h2><a href="javascript:" name="section1">INTRODUCTION</a></h2>
 
-				<p>
-	</p><p>	
+				
+	<p>	
 	Fox Filmed Entertainment Group (“Fox FE” or “we”), which includes Twentieth Century Fox Film Corporation, Fox Searchlight Pictures, Inc. and Twentieth Century Fox Home Entertainment LLC, wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Fox FE Services”). By using Fox FE Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Company Affiliates”) is available at 
 	<a href="http://www.21cf.com/">www.21cf.com</a>.
 	</p>
@@ -522,15 +524,14 @@
 	</p>
 
 	<p>
-	This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with [or subscribed to] a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage).   
+	This Privacy Policy applies to all users, including both those who use the Fox FE Services without being registered with or subscribing to a Fox FE Service and those who have registered with or subscribed to a Fox FE Service. This Privacy Policy applies to Fox FE’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Fox FE’s practices for handling non-personal information (for example, interests, demographics and services usage).   
 	</p>
 
-    <p></p>
-							<h2><a href="javascript:" name="section2">COLLECTION OF INFORMATION </a></h2>
+    							<h2><a href="javascript:" name="section2">COLLECTION OF INFORMATION </a></h2>
 
-				<p>
+				
 
-	</p><p>
+	<p>
 	Fox FE and our service providers collect the following information from and about you:  
 	</p>
 	<p>
@@ -591,11 +592,10 @@ Please note that by blocking any or all cookies you may not have access to certa
 	</p>
 	
 
-    <p></p>
-							<h2><a href="javascript:" name="section3">USE AND DISCLOSURE</a></h2>
+    							<h2><a href="javascript:" name="section3">USE AND DISCLOSURE</a></h2>
 
-				<p>
-    </p><p>
+				
+    <p>
 	We use the information we collect from and about you to provide the Fox FE Services and features to you, including: to measure and improve those Fox FE Services and features; to improve your experience with both online and off-line Fox FE Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties. 
 	</p>
 	<p>
@@ -670,18 +670,16 @@ Please note that by blocking any or all cookies you may not have access to certa
 	</p>
 
 
-    <p></p>
-							<h2><a href="javascript:" name="section4">SECURITY</a></h2>
+    							<h2><a href="javascript:" name="section4">SECURITY</a></h2>
 
-				<p>
-    </p><p>
+				
+    <p>
 	Fox FE uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.   	
 	</p>
-    <p></p>
-							<h2><a href="javascript:" name="section5">USER ACCESS AND CONTROL </a></h2>
+    							<h2><a href="javascript:" name="section5">USER ACCESS AND CONTROL </a></h2>
 
-				<p>
-	</p><p>
+				
+	<p>
 	If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in Section 7. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. 
 	</p>
 	<p>
@@ -697,12 +695,11 @@ Please note that by blocking any or all cookies you may not have access to certa
 	Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user. 
 	</p>
 
-    <p></p>
-							<h2><a href="javascript:" name="section6">OTHER IMPORTANT INFORMATION </a></h2>
+    							<h2><a href="javascript:" name="section6">OTHER IMPORTANT INFORMATION </a></h2>
 
-				<p>
+				
 
-	</p><p>
+	<p>
 	<strong>
 	Updates to Privacy Policy.
 	</strong>
@@ -750,11 +747,10 @@ Please note that by blocking any or all cookies you may not have access to certa
 	</p>
 
 	
-    <p></p>
-							<h2><a href="javascript:" name="section7">CONTACT US </a></h2>
+    							<h2><a href="javascript:" name="section7">CONTACT US </a></h2>
 
-				<p>
-    </p><p>If you have questions about this Privacy Policy, please contact us at: 
+				
+    <p>If you have questions about this Privacy Policy, please contact us at: 
 	</p>
     <p>Email: <a href="mailto:privacypolicy@foxhome.com">privacypolicy@foxhome.com</a>
 	</p>
@@ -767,10 +763,10 @@ Please note that by blocking any or all cookies you may not have access to certa
 
 
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"21de4c302c","applicationID":"16831188","transactionName":"M1xaMRdXWhdTU0NYXgoWbRcMGUEXHUBFWEcFWkFLDUJZCA==","queueTime":0,"applicationTime":0,"atts":"HxtZR19NSRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-<p></p>
 					</div>
 	</section>
-</div>		</div>
+</div>
+		</div>
 
 		<footer id="footer" class="blur">
 			<div id="footer_links" class="container divide-6">
@@ -793,7 +789,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 									</ul>
 
 									<div id="terms" class="col-3">
-																								</div>
+													™ and © 2016 Twentieth Century Fox Film Corporation. All rights reserved. Property of Fox. Use of this website (including any and all parts and components) constitutes your acceptance of these <a href="http://www.foxmovies.com/terms-and-conditions">Terms and Conditions</a> and <a href="http://www.foxmovies.com/privacy-policy">Privacy Policy</a>. <a href="http://www.foxmovies.com/ad-choices">Ad Choices</a>. The materials on this website are not to be sold, traded or given away. Any copying, manipulation, publishing, or other transfer of these materials, except as specifically provided in the terms and conditions of use, is strictly prohibited. <a href="http://www.foxmovies.com/smoking-policy">Smoking Policy</a>											</div>
 				
 									<ul class="social-icons col-1">
 
@@ -830,7 +826,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 
 				<!-- This action is for U.S. ONLY -->
 				<form action="https://foxus.rsys2.net/pub/rf" method="post" id="header-form">
-					<input name="_token" type="hidden" value="NAFpPcD6wlatWtf0YShhbVfqyCr09IEaOofZgl3z">					<div class="form-text">
+					<input name="_token" type="hidden" value="YtwKlJClbEdc0uspEccZwZEYtAinFUiaFJEaUgrS">					<div class="form-text">
 						<h3>Straight from the source. Direct to your newsfeed.</h3>
 
 						<h4>Be the first to get exclusive updates.</h4>
@@ -868,8 +864,8 @@ Please note that by blocking any or all cookies you may not have access to certa
 		</div>
 	</div>
 </section>		
-		<div id="copa-age-gate" class="copa-age-gate show">
-			<div class="age-gate" data-token="NAFpPcD6wlatWtf0YShhbVfqyCr09IEaOofZgl3z">
+		<div id="copa-age-gate" class="copa-age-gate">
+			<div class="age-gate" data-token="YtwKlJClbEdc0uspEccZwZEYtAinFUiaFJEaUgrS">
     <a href="javascript:" id="age_gate_close_button"></a>
 
     <h3>Please enter your date of birth to proceed</h3>
@@ -1088,7 +1084,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 		</div>
 
 		<div id="copa-age-gate-warning" class="copa-age-gate">
-			<div class="age-gate" data-token="NAFpPcD6wlatWtf0YShhbVfqyCr09IEaOofZgl3z">
+			<div class="age-gate" data-token="YtwKlJClbEdc0uspEccZwZEYtAinFUiaFJEaUgrS">
 				<a href="javascript:" id="age_gate_warning_close_button"></a>
 
 				<h3>Sorry, you are not able to continue</h3>
@@ -1106,7 +1102,7 @@ Please note that by blocking any or all cookies you may not have access to certa
         </div>
 
 		<script>
-		var current_controller='front';var current_action='privacy-policy';var current_page='front/privacy-policy';var BASE_URL='http://www.foxmovies.com';var DEBUG=false;var copa_age_gate_type='prompt';var initially_show_age_gate=true;var initially_show_age_gate_warning=false;var copa_age_gate_film_url='http://www.foxmovies.com/movies/ice-age-collision-course';var updates_images=["http:\/\/www.foxmovies.com\/images\/updates\/assasins.png","http:\/\/www.foxmovies.com\/images\/updates\/deadpool.png","http:\/\/www.foxmovies.com\/images\/updates\/jennifer.png","http:\/\/www.foxmovies.com\/images\/updates\/the-martian.png","http:\/\/www.foxmovies.com\/images\/updates\/x-men-angel.png","http:\/\/www.foxmovies.com\/images\/updates\/x-men.png","http:\/\/www.foxmovies.com\/images\/updates\/xavier.png"];var facebook_app_id=1437422416525408;var responsys_ri='X0Gzc2X%3DWQpglLjHJlTQGrGIIwUiGBcnIh2lDhzdrcv9L6nVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlTQGsrzaNizbJPtIaBRuRK0riwSDtDO';	</script>
+		var current_controller='front';var current_action='privacy-policy';var current_page='front/privacy-policy';var BASE_URL='http://www.foxmovies.com';var DEBUG=false;var copa_age_gate_type='';var initially_show_age_gate=false;var initially_show_age_gate_warning=false;var copa_age_gate_film_url='';var updates_images=["http:\/\/www.foxmovies.com\/images\/updates\/assasins.png","http:\/\/www.foxmovies.com\/images\/updates\/deadpool.png","http:\/\/www.foxmovies.com\/images\/updates\/jennifer.png","http:\/\/www.foxmovies.com\/images\/updates\/the-martian.png","http:\/\/www.foxmovies.com\/images\/updates\/x-men-angel.png","http:\/\/www.foxmovies.com\/images\/updates\/x-men.png","http:\/\/www.foxmovies.com\/images\/updates\/xavier.png"];var facebook_app_id=1437422416525408;var responsys_ri='X0Gzc2X%3DWQpglLjHJlTQGrGIIwUiGBcnIh2lDhzdrcv9L6nVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlTQGsrzaNizbJPtIaBRuRK0riwSDtDO';	</script>
 
 		<!--[if lt IE 9]>
 			<script src="http://www.foxmovies.com/libs/jquery/jquery.old.min.js" type="text/javascript"></script>
@@ -1211,6 +1207,7 @@ Please note that by blocking any or all cookies you may not have access to certa
 		</script>
         
 		
-			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"21de4c302c","applicationID":"16831131","transactionName":"M1xaMRdXWhdTU0NYXgoWeQYRX1sKHUBFWEcFWkFIFVlYDVFJ","queueTime":0,"applicationTime":449,"atts":"HxtZR19NSRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+        
+			<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"21de4c302c","applicationID":"33387953","transactionName":"M1xaMRdXWhdTU0NYXgoWeQYRX1sKHUBFWEcFWkFIFVlYDVFJ","queueTime":0,"applicationTime":833,"atts":"HxtZR19NSRk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
