@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617205725id_/https%3A//cnsnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227014550id_/http%3A//cnsnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CNS News
+# Privacy Policy
 
-Effective Date: January 1, 2013.
+Effective Date: August 15, 2016.
 
 CNSNEWS.com  PRIVACY POLICY
 
@@ -95,9 +95,9 @@ THE MRC and our third party service providers collect information automatically 
 
  **Local Storage Objects** – We and our third party service providers may use Flash Local Storage Objects (“Flash LSOs”) to store your Website and Application preferences, to personalize your visit or to display content based upon what you view on our Website and Application. Flash LSOs are different from browser cookies because of the amount and type of data stored. In addition, you cannot control, delete or disable the acceptance of Flash LSOs through your browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash cookies, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions. To see the Flash LSOs currently on your computer, choose “Website Storage Settings Panel” and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
 
- **Analytics**. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application.
+ **Analytics**. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application. Our primary service provider for web analytics is Google Analytics. The MRC does not respond to "do not track" signals or other mechanisms that provide consumers with the ability to exercise choice regarding the collection of personally identifiable information and about the individuals consumer's on-line activities over time. 
 
- **II. HOW DO WE USE YOUR INFORMATION?**
+**II. HOW DO WE USE YOUR INFORMATION?**
 
 We use your information, including the personally identifiable information that we collect about you (collectively, “information”), for various reasons, including:
 
@@ -162,10 +162,10 @@ Material – that is, really important – changes to the way we use or disclose
 
  **X. SPECIAL NOTICE TO CALIFORNIA CONSUMERS**
 
-California residents may request a list of all third parties to which The MRC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: administrator @mrc.org or Privacy Request, The Media Research Center, 325 South Patrick Street, Alexandria, Virginia 22314.
+California residents may request a list of all third parties to which The MRC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: administrator @mrc.org or Privacy Request, The Media Research Center, 1900 Campus Commons Drive, Reston, Virginia 20191.
 
  **XI. HOW TO CONTACT US**
 
 Questions and comments regarding this Privacy Policy, or to review and/or correct your personal information gathered by MRC, or to inform MRC that you do not want your information shared, should be directed to [administrator@mrc.org](mailto:administrator@mrc.org).
 
-Copyright (c) 2013, The Media Research Center
+Copyright (c) 2016, The Media Research Center
