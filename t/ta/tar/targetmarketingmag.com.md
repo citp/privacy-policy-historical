@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617224602id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetmarketingmag.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227065019id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-Effective Date: May 16, 2016
+## Privacy Policy
 
-  1. **You and Us**
+## North American Publishing Co. d/b/a NAPCO Media
+
+Effective Date: July 15, 2016
+
+  1. ### **You and Us**
+
 
 
 
@@ -52,6 +57,9 @@ When using our Services you consent to the collection, transfer, manipulation, s
   * **  Emails. **We collect and may save private emails sent to us by users, and we may share your emails with any third parties or other users. Any public posts on the NAPCO Media Services may be viewed by any user and is public to anyone who visits the Services. You may elect to disclose certain personal information and information that is not personal information (“non-personal information”). The information you submit in any public forums, including in providing content for use as part of the Services is not confidential or private, and NAPCO Media does not protect it. All information you choose to provide publicly, including information that identifies you or others, can be read, collected, or used by other users and by other third parties, and could be used to send you unsolicited messages and for other purposes.
 
 
+  * **Third Party Data**. We may supplement information you give us with information from other sources, such as information to validate or update your address, credit-card or other demographic and lifestyle information. We use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products and services that may be of interest, and for internal business analysis or other business purposes.
+
+
   * **Social Media.** In addition to media that we control, such as the NAPCO Sites, the Publications, the NAPCO Apps, and the Resources, you may post comments, photographs, drawings and other content on third party social media, such as Facebook, Instagram and Twitter, each of which enforces its own terms of use and privacy policy for its service. This is also true for the NAPCO Media pages on Social Media Sites. As noted in the Terms of Use, we may use and copy the content you post. More to the point, your content may contain personal information about you and other people in the form of names, email addresses and location information. You should also be aware that a photograph or drawing of a person may be personal information to the extent the person may be recognized in and identified by the photograph or drawing. We may collect and use content and the personal information contained in the content to market our Services.
 
 
@@ -88,7 +96,7 @@ When using our Services you consent to the collection, transfer, manipulation, s
 
 We share and use your personal information in the following circumstances:
 
-  * **With Your Consent.** We will share personal information with companies, organizations or individuals outside of NAPCO Media when we have your consent to do so.
+  * **With Your Consent.** We will share personal information with companies, organizations or individuals outside of NAPCO Media when we have your consent to do so. All data and metadata collected during the registration for assets may be shared with the sponsors of those assets in order to contact you regarding their products and services in their normal course of business.
 
 
   * **Affiliates of NAPCO Media.** We may share your personal information with our NAPCO Media affiliates (meaning entities controlled by, controlling or under common control with NAPCO Media) as necessary to provide the Services.
@@ -166,7 +174,7 @@ If you are a California resident under the age of 18, and a Subscriber, Provider
 
 
 
-We collect the email addresses of those who voluntarily provide them to us, including users, Providers and Subscribers. You may receive subscription, editorial and other messages and emails from any of the NAPCO Media Services. If you do not want to receive email from us in the future, please let us know at [http://remove.napco.com](http://remove.napco.com/) or customerservice@napco.com.
+We collect the email addresses of those who voluntarily provide them to us, including users, Providers and Subscribers. You may receive relevant email and postal offers for publications, web seminars, white papers, events, and other services.  You may receceive subscription, editorial and other messages and emails from any of the NAPCO Media Services. If you do not want to receive messages from us in the future, please let us know at [http://remove.napco.com](http://remove.napco.com/) or customerservice@napco.com.
 
 The email addresses we collect may also be made available to third-parties who offer business-related products or services. We use an external vendor for processing these email messages, and they will not be allowed to keep your email address for their future use.
 
