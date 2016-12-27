@@ -1,31 +1,98 @@
-> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514221448id_/http%3A//chrissmoove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrissmoove.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227182416id_/http%3A//shop.chrissmoove.com/privacy) for the most accurate reproduction.*
 
-# Chris Smoove » Youtube Gaming Personality » Privacy Policy
+# Chris Smoove Merch - Privacy Policy
 
-**Privacy Policy for www.chrissmoove.com**
+[](http://shop.chrissmoove.com/)
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at business@chrissmoove.com.
+#### Privacy Policy
 
-At www.chrissmoove.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.chrissmoove.com and how it is used.
+#### Who is collecting your information? 
 
-**Log Files**  
-Like many other Web sites, www.chrissmoove.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+This website is owned and operated by DISTRICT LINES, INC. ("District Lines"). District Lines is a subsidiary of AKT ENTERPRISES GROUP INC ("AKT") (http://www.aktenterprises.com/privacy_policy). This Privacy Policy applies to all District Lines' websites and subsidiaries.
 
-**Cookies and Web Beacons**  
-www.chrissmoove.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+#### What information do we collect?
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.chrissmoove.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.chrissmoove.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.chrissmoove.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+#### What do we use your information for?
 
-www.chrissmoove.com has no access to or control over these cookies that are used by third-party advertisers.
+Any of the information we collect from you may be used in one of the following ways:
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.chrissmoove.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  1. To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  2. To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  3. To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  4. To process transactions  
+Your information, whether public or private, will never be sold to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  5. To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. Any District Lines vendor mailing lists you may elect to sign up for are not operated by District Lines.
+  6. To provide Merchant's with sale data  
+AKT and District Lines will provide basic customer information to their merchants for statistical, promotional and other use. Merchant's are the individual store owners. Customer Information that is provided are; first and last name, address, city, state, zip, email address and products ordered. This information is gathered during checkout on DistrictLines.com or it's children websites. The information is only provided to the Merchant's of the products purchased by the customer. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+
+#### Opt-in/Choice
+
+This Site may provide you with the opportunity to opt-in to receive marketing communications from District Lines. If you do not opt-in, District Lines will not send you its promotional offers. You may also opt-out of marketing communications at any time by clicking the "unsubscribe" link in the body of the communication. However, regardless of your opt-in preferences, District Lines may still at times need to send program e-mails for order information.
+
+District Lines also gives you convenient methods for removing your information from our database so as not to receive future communications. You may:
+
+  * If a profile was created, you may opt-out on the account profile page;
+  * use the Contact Us form on the website
+
+
+
+This Site gives you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided. You may:
+
+  * make changes and updates on the account profile page;
+  * use the Contact Us form on the website
+
+
+
+Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for record-keeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
+
+#### How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+#### Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+#### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+#### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+#### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'My Account' page.
+
+#### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+#### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 11/15/2016
+
+#### How to Contact Us?
