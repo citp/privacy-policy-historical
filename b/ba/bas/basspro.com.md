@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318235607id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5261) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basspro.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227131228id_/http%3A//www.basspro.com/webapp/wcs/stores/servlet/CFPageC%3FstoreId%3D10151%26catalogId%3D10051%26langId%3D-1%26pageID%3D5261) for the most accurate reproduction.*
 
 # Privacy Policy Summary - from Bass Pro Shops
 
@@ -140,4 +140,4 @@ These Sites are operated in the United States. Please be aware that any informat
 
 We may change this policy from time to time to reflect changes in our business practices and service offerings. The most recent version of the Privacy Statement will be posted. If we change this how we use your Personal Information or the purposes or entities for and to which we disclose your Personal Information, we will update the "Effective Date." We will also post the policy change notification on our web site.
 
-Effective Date: January 28, 2014. [Tell me more](https://web.archive.org/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&pageID=5262#updates)
+Effective Date: July 15, 2016. [Tell me more](https://web.archive.org/webapp/wcs/stores/servlet/CFPageC?storeId=10151&catalogId=10051&langId=-1&pageID=5262#updates)
