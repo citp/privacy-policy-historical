@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527011834id_/https%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227103508id_/https%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.*
 
 # LiveAuctioneers Privacy Policy - Live Auctioneers
 
