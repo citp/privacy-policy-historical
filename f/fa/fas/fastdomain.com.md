@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastdomain.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326094416id_/http%3A//www.fastdomain.com/cgi/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastdomain.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228001125id_/http%3A//www.fastdomain.com/cgi/info/privacy_policy) for the most accurate reproduction.*
 
 # FastDomain - Privacy Policy | FastDomain
 
-> On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
+> On December 21, 2016 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
 
 This Privacy Policy describes the commitment at Fastdomain Inc. ("FastDomain") to the privacy of visitors to the FastDomain website located at www.FastDomain.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, FastDomain will take commercially reasonable steps to ensure your right to privacy. FastDomain is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
 
@@ -158,6 +158,6 @@ FastDomain retains personal data it processes on behalf of FastDomain's Reseller
 
 
 
-This file was last modified: July 28, 2014.
+This file was last modified: December 21, 2016.
 
 [Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Civil Subpoena Policy](https://web.archive.org/civil-subpoena-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
