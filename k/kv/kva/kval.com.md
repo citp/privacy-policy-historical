@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630185811id_/http%3A//kval.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kval.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227054832id_/http%3A//kval.com/station/privacy) for the most accurate reproduction.*
 
 # Eugene Privacy | News, Weather, Sports, Breaking News | KVAL
 
