@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514034426id_/http%3A//www.asdk12.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227055903id_/http%3A//www.asdk12.org/privacy) for the most accurate reproduction.*
 
-# Privacy & Terms of Use - ASD Online - The website of the Anchorage School District
-
-## Educating All Students for Success in Life
-
-[](https://web.archive.org/)
-
-  * [Home](https://web.archive.org/)
-  
-  * [Site index](https://web.archive.org/siteindex/)
-  
-  * [myASD](http://www.asdk12.org/myasd/login.asp)
-
-
-
-  * [schools](https://web.archive.org/aboutschools/)
-  * [departments](https://web.archive.org/depts/)
-  * [school board](https://web.archive.org/school_board/)
-  * [zangle](https://web.archive.org/zangle/)
-  * [parents](https://web.archive.org/parents/)
-  * [students](https://web.archive.org/students/)
-  * [employees](https://web.archive.org/employees/)
-
-
+# Privacy & Terms of Use| Anchorage School District
 
 ## Website Privacy Statement and Terms of Use
 
