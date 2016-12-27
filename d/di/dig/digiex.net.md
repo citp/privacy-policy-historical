@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the digiex.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612204352id_/http%3A//digiex.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiex.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227212759id_/http%3A//digiex.net/privacy) for the most accurate reproduction.*
 
 # Digiex - Privacy Policy
-
-  * [](http://digiex.net/index.php)
-
-  * Privacy Policy
-
-
-
-
-* * *
 
 Last modified: 15th February 2013
 
