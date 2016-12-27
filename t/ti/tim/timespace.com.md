@@ -1,13 +1,23 @@
-> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611230524id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timespace.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227204525id_/http%3A//www.timespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Time+Space | Virtual Instruments, VST Plug-ins, Effects Plug-ins and Samples for Music Production
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.   
+We are committed to safeguarding the privacy of our website visitors;  
+this policy sets out how we will treat your personal information.   
 
+
+(1) What information do we collect?
+
+We may collect, store and use the following kinds of personal data:
+
+(a) information about your visits to and use of this website;
 
 (b) information about any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
 
 (c) information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications;
+
+  
+(2) Information about website visits
 
 We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website´s usability, and for marketing purposes.
 
@@ -72,7 +82,7 @@ The website contains links to other websites. We are not responsible for the pri
 
 (10) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to websales@Time+Space.com or by post to:
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to websales@timespace.com or by post to:
 
 Time+Space Distribution  
 Unit 7A-B, Cranmere Road  
