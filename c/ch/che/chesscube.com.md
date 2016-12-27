@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401221126id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesscube.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227071331id_/http%3A//www.chesscube.com/about/privacy) for the most accurate reproduction.*
 
 # CHESSCUBE Privacy Policy - ChessCube ChessCube
 
