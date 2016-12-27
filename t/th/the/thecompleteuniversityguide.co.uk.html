@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608012736id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecompleteuniversityguide.co.uk privacy policy that was archived on 2016-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227042613id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -7,8 +7,10 @@
 
 
     
+
+
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700,700italic,400italic&amp;subset=latin,latin-ext">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>
         Privacy and Cookie Policy - Complete
@@ -30,7 +32,7 @@
     <link rel="stylesheet" media="print" href="/css/print.css?v=jgn32x" type="text/css">
     <link rel="stylesheet" media="screen and (max-width: 480px)" href="/css/mobile.css?v=4vb2kg" type="text/css">
 
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.4"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="google-analytics-js" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.4"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="google-analytics-js" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
     <script src="/scripts/jquery.tools.min.js"></script>
     <script src="/scripts/jquery.tinysort.min.js" type="text/javascript"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-placeholder/2.3.1/jquery.placeholder.min.js"></script>
@@ -40,6 +42,81 @@
     <script src="/scripts/modernizr-mq.js"></script>
     <script src="/scripts/jquery.mobile.orientation.min.js"></script>
 
+    <script>
+        var cug = {
+            openTooltip: undefined,
+            onMediaSizeChange: [],
+            registerMediaSizeFunction: function(f) { cug.onMediaSizeChange.push(f); f(cug.currentMediaSize); },
+            mediaSizes: [{ name: "narrow", query: "(max-width: 480px)"}, { name: "wide", query: "all" }],
+            currentMediaSize: undefined,
+            updateMediaSize:
+                function () {
+                    var newSize;
+
+                    for (var i = 0; i < cug.mediaSizes.length; i++) {
+                        if (Modernizr.mq(cug.mediaSizes[i].query)) { newSize = cug.mediaSizes[i].name; break; }
+                    }
+
+                    if (newSize != cug.currentMediaSize) {
+                        var oldSize = cug.currentMediaSize;
+                        cug.currentMediaSize = newSize;
+
+                        $("html")
+                            .removeClass("media-" + oldSize)
+                            .addClass("media-" + newSize);
+
+                        for(var i = 0; i < cug.onMediaSizeChange.length; i++) {
+                            cug.onMediaSizeChange[i](newSize, oldSize);
+                        }
+                    }
+
+                    return cug.currentMediaSize;
+                },
+
+            stickyHeaderMediaSize: undefined,
+            stickyHeaderConfig: undefined, 
+
+            checkStickyHeader: function(force) {
+                if(!cug.stickyHeaderConfig) return;
+
+                var currentConfig = cug.stickyHeaderConfig[cug.currentMediaSize];
+                if (cug.stickyHeaderMediaSize && (cug.stickyHeaderMediaSize !== cug.currentMediaSize || force)) {
+                    cug.stickyHeaderConfig[cug.stickyHeaderMediaSize].unstick();
+                    cug.stickyHeaderMediaSize = undefined;
+                }
+
+                var shouldBeSticky = $(window).scrollTop() > currentConfig.stickyPos();
+
+                if (shouldBeSticky && !cug.stickyHeaderMediaSize) {
+                    currentConfig.stick();
+                    cug.stickyHeaderMediaSize = cug.currentMediaSize;
+                } else if (cug.stickyHeaderMediaSize && !shouldBeSticky) {
+                    currentConfig.unstick();
+                    cug.stickyHeaderMediaSize = undefined;
+                }
+            }
+        }
+
+        $(window).on("resize orientationchange", cug.updateMediaSize);
+        cug.updateMediaSize();
+
+        $(window).on("scroll", function () { cug.checkStickyHeader(); });
+        $(window).on("resize", function () { cug.checkStickyHeader(true); });
+        cug.registerMediaSizeFunction(cug.checkStickyHeader);
+        
+        $(document).on("click", function() {
+            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
+            cug.openTooltip = undefined;
+        });
+
+        $(document).on("click", ".tooltip-link", function (e) {
+            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
+            $(this).addClass("open");
+            cug.openTooltip = $(this);
+            e.stopImmediatePropagation();
+        })
+
+    </script>
 
     <script>
         window.cookieconsent_options = {
@@ -76,42 +153,71 @@
         
             googletag.defineSlot('/4857591/New_Leaderboard', [728, 90], 'div-gpt-ad-New_Leaderboard').addService(googletag.pubads());
         
-            googletag.defineSlot('/4857591/New_Books', [300, 250], 'div-gpt-ad-New_Books').addService(googletag.pubads());
-        
-            googletag.defineSlot('/4857591/New_Sponsorship', [[300, 250], [300, 600]], 'div-gpt-ad-New_Sponsorship').addService(googletag.pubads());
-            googletag.defineSlot('/4857591/New_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-New_MPU').addService(googletag.pubads());
-            googletag.defineSlot('/4857591/New_BelowFollow', [300, 100], 'div-gpt-ad-New_BelowFollow').addService(googletag.pubads());
-            googletag.defineSlot('/4857591/New_Button1', [120, 60], 'div-gpt-ad-New_Button1').addService(googletag.pubads());
-            googletag.defineSlot('/4857591/New_Button2', [120, 60], 'div-gpt-ad-New_Button2').addService(googletag.pubads());
-        
+                    googletag.defineSlot('/4857591/New_Sponsorship', [[300, 250], [300, 600]], 'div-gpt-ad-New_Sponsorship').addService(googletag.pubads());
+            
+                    googletag.defineSlot('/4857591/New_MPU', [[300, 250], [300, 600]], 'div-gpt-ad-New_MPU').addService(googletag.pubads());
+            
+                    googletag.defineSlot('/4857591/New_BelowFollow', [300, 100], 'div-gpt-ad-New_BelowFollow').addService(googletag.pubads());
+            
+
 
             googletag.pubads().addEventListener("slotRenderEnded", function (event) {
+                function resizeIframeHeightToContent($frame, expandOnly, setEvents)
+                {
+                    function doResize() {
+                        if (!expandOnly) $frame.height(0);
+                        var measuredHeight = $frame[0].contentDocument.body.scrollHeight;
+                        if (!expandOnly || $frame.height() < measuredHeight) $frame.height(measuredHeight);
+
+                    }
+
+                    function onEventFunction() {
+                        doResize();
+                        window.setTimeout(doResize, 1000);
+                    }
+
+                    doResize();
+
+                    if (setEvents) {
+                        $(onEventFunction);
+                        $frame.load(onEventFunction);
+                    }
+                }
+
                 if (!event.isEmpty) {
                     var adUnitPath = event.slot.getAdUnitPath();
 
                     if (adUnitPath.startsWith('/4857591/New_Button')) {
-                        $('.box.buttons').reoveClass("hidden");
+                        $('.box.buttons').removeClass("hidden");
                     }
-                    else if (adUnitPath.startsWith('/4857591/New_Leaderboard')) {
+                    else if (adUnitPath == '/4857591/New_Leaderboard') {
                         $('.advert-leaderboard').removeClass("hidden");
                     }
-                    else if (adUnitPath.startsWith('/4857591/New_MPU')
-                            || adUnitPath.startsWith('/4857591/New_Sponsorship')) {
-                        var frame = $(document.getElementById(event.slot.getSlotElementId())).find('iframe').eq(0);
-                        var innerDoc = frame.get(0).contentDocument;
-                        frame.load(function () {
-                            if (innerDoc.body.scrollHeight > frame.height())
-                                frame.height(innerDoc.body.scrollHeight + 'px');
-
-                            if (innerDoc.body.scrollWidth > frame.width())
-                                frame.width(innerDoc.body.scrollWidth + 'px');
-                        });
+                    else if (adUnitPath == '/4857591/Clearing_Featured_Provider') {
+                        $('#' + event.slot.getSlotElementId())
+                            .closest(".advert").removeClass("hidden")
+                            .closest(".advert-container").removeClass("hidden");
+                    }
+                    else if (adUnitPath == '/4857591/New_MPU'
+                            || adUnitPath == '/4857591/New_Sponsorship') {
+                        var $frame = $(document.getElementById(event.slot.getSlotElementId())).find('iframe');
+                        resizeIframeHeightToContent($frame, true, true);
+                    }
+                    else if (adUnitPath == '/4857591/ESOL_Text') {
+                        var $frame = $(document.getElementById(event.slot.getSlotElementId())).find('iframe');
+                        resizeIframeHeightToContent($frame, false, true);
+                        $(window).resize(function () { resizeIframeHeightToContent($frame); });
+                    }
+                    else if (adUnitPath.startsWith("/4857591/Mid_League_Table")) {
+                        $('#' + event.slot.getSlotElementId())
+                            .closest(".advert").removeClass("hidden");
                     }
                 }
             });
 
         
-
+                googletag.pubads().setTargeting("pageType", "umbraco_article");
+        
             googletag.pubads().enableSingleRequest();
             googletag.pubads().collapseEmptyDivs(true);
             googletag.enableServices();
@@ -164,63 +270,6 @@
         } (document, "script", "facebook-jssdk"));
     </script>
 
-<!-- START GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
-<!-- START QUANTCAST AD TAG -->
-<script type="text/javascript">
-    var quantSegs = "";
-    var quant_segs_beg = document.cookie.indexOf('quant_segs');
-    if (quant_segs_beg >= 0) {
-        quant_segs_beg = document.cookie.indexOf('=', quant_segs_beg) + 1;
-        if (quant_segs_beg > 0) {
-            var quant_segs_end = document.cookie.indexOf(';', quant_segs_beg);
-            if (quant_segs_end == -1) quant_segs_end = document.cookie.length;
-            quantSegs = unescape(document.cookie.substring(quant_segs_beg, quant_segs_end));
-        }
-    }
-
-    function qc_results(result) {
-        var qc = "";
-        for (var i = 0; i < result.segments.length; i++) {
-            qc += "qc=" + result.segments[i].id + "&"; //customizable per your ad server
-        }
-
-        document.cookie = "quant_segs=" + escape(qc);
-    }
-
-</script>
-<!-- END QUANTCAST AD TAG -->
-<!-- AUDIENCESCIENCE AD TAG CODE -->
-<script type="text/javascript">
-<!--
-    var rsi_segs = [];
-    var segs_beg = document.cookie.indexOf('rsi_segs=');
-    if (segs_beg >= 0) {
-        segs_beg = document.cookie.indexOf('=', segs_beg) + 1;
-        if (segs_beg > 0) {
-            var segs_end = document.cookie.indexOf(';', segs_beg);
-            if (segs_end == -1) segs_end = document.cookie.length;
-            rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
-
-        }
-    }
-    var segLen = 100;
-    segQS = "";
-    if (rsi_segs.length < segLen) { segLen = rsi_segs.length }
-    for (var i = 0; i < segLen; i++) {
-        segQS += ("a" + "=" + rsi_segs[i])
-    }
-//-->
-</script>
-
-<script type="text/javascript">
-
-    var gsegQS = "";
-    gsegQS = segQS.replace(/E0/g, '&a=E0').replace("a=&", "") + '&';
-
-</script>
-<!-- END AUDIENCESCIENCE AD TAG CODE -->
-<!-- END GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
-
     <link href="https://plus.google.com/110571300599640891316" rel="publisher">
     <script type="text/javascript">
         window.___gcfg = { lang: 'en' };
@@ -240,57 +289,45 @@
     <meta property="og:url" content="http://www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy/">
     
     <meta property="og:image" content="http://www.thecompleteuniversityguide.co.uk/images/cug-logo-150.gif">
-    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-52581773-4', 'thecompleteuniversityguide.co.uk', 'insights');
+    ga('insights.set', {
+                                                                                
+        dimension1: "article detail",
+        dimension2: "completeuniversityguide"
+    });
+
+    ga('insights.set', 'contentGroup1', 'completeuniversityguide');
+    ga('insights.send', 'pageview');
+
+    function cugInsightsLog(pagename) {
+        ga('insights.send', 'pageview', { dimension1: pagename });
+    }
+</script>
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=6103,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=6103&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161227042613id_%2Fhttp%3A%2F%2Fwww.thecompleteuniversityguide.co.uk%2Fterms-and-conditions%2Fprivacy-and-cookie-policy%2F&amp;r=0.36530349271885876" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
     
 
 
 
 </head>
 <body id="top">
-    <script>
-        var cug = {
-            openTooltip: undefined,
-            onMediaSizeChange: [],
-            mediaSizes: [{ name: "narrow", query: "(max-width: 480px)"}, { name: "wide", query: "all" }],
-            currentMediaSize: undefined,
-
-            updateMediaSize:
-                function () {
-                    var newSize;
-
-                    for (var i = 0; i < cug.mediaSizes.length; i++) {
-                        if (Modernizr.mq(cug.mediaSizes[i].query)) { newSize = cug.mediaSizes[i].name; break; }
-                    }
-
-                    if (newSize != cug.currentMediaSize) {
-                        var oldSize = cug.currentMediaSize;
-                        cug.currentMediaSize = newSize;
-
-                        $("html")
-                            .removeClass("media-" + oldSize)
-                            .addClass("media-" + newSize);
-
-                        for(var i = 0; i < cug.onMediaSizeChange.length; i++) {
-                            cug.onMediaSizeChange[i](newSize, oldSize);
-                        }
-                    }
-                }
-        };
-        
-        $(window).on("resize orientationchange", cug.updateMediaSize);
-        $(document).on("click", function() {
-            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
-            cug.openTooltip = undefined;
-        });
-        $(document).on("click", ".tooltip-link", function (e) {
-            if (cug.openTooltip) { cug.openTooltip.removeClass("open"); }
-            $(this).addClass("open");
-            cug.openTooltip = $(this);
-            e.stopImmediatePropagation();
-        })
-        cug.updateMediaSize();
-    </script>
-
+    
     <!-- Begin comScore Tag -->
     <script>
         var _comscore = _comscore || [];
@@ -316,7 +353,7 @@
                         <ul class="header-social">
                             <li><a href="http://www.facebook.com/TheCompleteUniversityGuide" title="Facebook"><span class="fa fa-facebook-square"></span></a></li>
                             <li><a href="http://twitter.com/compuniguide" title="Twitter"><span class="fa fa-twitter-square"></span></a></li>
-                            <li><a href="https:/www.instagram.com/compuniguide" title="Instagram"><span class="fa fa-instagram"></span></a></li>
+                            <li><a href="https://www.instagram.com/compuniguide" title="Instagram"><span class="fa fa-instagram"></span></a></li>
                             <li><a href="http://www.linkedin.com/company/the-complete-university-guide/" title="LinkedIn"><span class="fa fa-linkedin-square"></span></a></li>
                         </ul>
                         <form class="header-search" action="/search/" method="get">
@@ -337,7 +374,7 @@
         </div>
         <script>
             $(".header-search-toggle").click(function () { $(".header-container").toggleClass("search-active"); $(".header-search-text").focus() });
-            cug.onMediaSizeChange.push(function () { $(".header-container").removeClass("search-active"); });
+            cug.registerMediaSizeFunction(function () { $(".header-container").removeClass("search-active"); });
             $('#q').placeholder();
         </script>
         
@@ -377,21 +414,25 @@
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/league-tables/rankings">League Tables</a>
+                                                    <a class="main-menu-item-link" href="/league-tables/rankings">University League Tables</a>
 
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/league-tables/rankings#allSubjects">Subject Tables</a>
 
                                         </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="/league-tables/rankings?s=Arts%2fMusic+Institutions">Arts, Drama &amp; Music Table</a>
+
+                                        </li>
                                 </ul>
                         </li>
                         <li class="main-menu-list">
-                                    <span class="main-menu-list-link">How It Works</span>
+                                    <span class="main-menu-list-link">What You Need to Know</span>
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/league-tables/how-to-use-the-tables/">How to use the Tables</a>
+                                                    <a class="main-menu-item-link" href="http://www.thecompleteuniversityguide.co.uk/universities/choosing-the-right-university/how-to-interpret-the-league-tables/">How to use the League Tables</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -416,10 +457,6 @@
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/colleges/">College Profiles</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/cities/">Student Towns and Cities</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -454,6 +491,10 @@
                                         </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/preparing-to-go/advice-for-parents/">Advice for Parents</a>
+
+                                        </li>
+                                        <li class="main-menu-item">
+                                                    <a class="main-menu-item-link" href="http://www.thecompleteuniversityguide.co.uk/universities/applying-to-university-as-a-care-leaver/">Advice for Care Leavers</a>
 
                                         </li>
                                 </ul>
@@ -555,7 +596,7 @@
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/preparing-to-go/gap-years/">Gap Years</a>
+                                                    <a class="main-menu-item-link" href="http://www.thecompleteuniversityguide.co.uk/preparing-to-go/gap-years/">Gap Years</a>
 
                                         </li>
                                 </ul>
@@ -589,11 +630,11 @@
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/careers/what-do-graduates-do/what-do-graduates-earn/">What Do Graduates Earn?</a>
+                                                    <a class="main-menu-item-link" href="http://www.thecompleteuniversityguide.co.uk/careers/what-do-graduates-do-and-earn/">What Do Graduates Do and Earn?</a>
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/careers/graduate-salaries-and-the-professional-premium/">The Professional Premium</a>
+                                                    <a class="main-menu-item-link" href="http://www.thecompleteuniversityguide.co.uk/careers/what-do-graduates-do-and-earn/does-a-degree-help-you-earn-more-money/">The Professional Premium</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -614,10 +655,6 @@
                                     <span class="main-menu-list-link">Advice</span>
 
                                 <ul class="main-menu-items">
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/careers/what-do-graduates-do/graduate-prospects/">Graduate Prospects</a>
-
-                                        </li>
                                         <li class="main-menu-item">
                                                     <a class="main-menu-item-link" href="/careers/internships/">Internships</a>
 
@@ -647,7 +684,7 @@
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/postgraduate/what-do-postgraduate-students-do/what-do-postgraduate-students-earn/">What Will You Earn?</a>
+                                                    <a class="main-menu-item-link" href="/postgraduate/postgraduate-education/what-do-postgraduate-students-earn/">What Will You Earn?</a>
 
                                         </li>
                                         <li class="main-menu-item">
@@ -661,15 +698,7 @@
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/postgraduate/top-10-postgraduate-subjects-for-starting-salaries/">Top Subjects for Starting Salaries</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/postgraduate/top-10-postgraduate-subjects-for-employability/">Top Subjects for Employability</a>
-
-                                        </li>
-                                        <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/routes-into-teaching/">Routes Into Teaching</a>
+                                                    <a class="main-menu-item-link" href="/how-to-get-into-teaching/">How To Get Into Teaching</a>
 
                                         </li>
                                 </ul>
@@ -781,11 +810,11 @@
 
                                 <ul class="main-menu-items">
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/courses/university-entry-requirements/">Entry Requirements</a>
+                                                    <a class="main-menu-item-link" href="/universities/applying-to-university-and-ucas-deadlines/requirements-and-qualifications/">Entry Requirements</a>
 
                                         </li>
                                         <li class="main-menu-item">
-                                                    <a class="main-menu-item-link" href="/courses/university-entry-requirements/about-ucas-points/">UCAS Points Tariff</a>
+                                                    <a class="main-menu-item-link" href="/universities/applying-to-university-and-ucas-deadlines/requirements-and-qualifications/about-ucas-points/">UCAS Points Tariff</a>
 
                                         </li>
                                 </ul>
@@ -837,7 +866,7 @@
             }
         })
 
-        cug.onMediaSizeChange.push(closeMenu);
+        cug.registerMediaSizeFunction(closeMenu);
     })();
 </script>
 
@@ -846,17 +875,6 @@
     
             <div class="survey-box-container">
                 
-
-    <div class="survey-box noPrint">
-        How much is student life costing you? Win an iPad! <a href="/money-saving-student" onclick="hideSurvey();_gat._getTrackerByName()._trackEvent('Survey opened', 'Cost of Living Prizedraw', '')">Complete the survey</a>&nbsp;|&nbsp;<a href="#" onclick="hideSurvey(); return false;">No thanks</a>
-    </div>
-    <script>
-        function hideSurvey() {
-            $('.survey-box').slideUp();
-            document.cookie = "noSurvey13579=1;expires=Thu, 8 Sep 2016 00:00:00 UTC; path=/";
-        }
-    </script>
-
             </div>
     
             <div class="breadcrumbs"><!--
@@ -914,7 +932,7 @@
 <p>We will not sell, rent, trade, share, reveal or disclose any of your personal information, unless:</p>
 <ul>
 <li>you have specifically requested that we do so;</li>
-<li>we deem it necessary to provide you with services you have requested;</li>
+<li>we deem it necessary to provide you with services you have requested (f<span><span>or example, we share your personal information when you make an enquiry to a course provider through our website – we pass on your contact details to the course provider so that they can contact you directly);</span></span></li>
 <li>we are required to do so by a Court of competent jurisdiction or by a governmental order, decree, regulation or rule of any regulatory agency;</li>
 <li>our <a href="/terms-and-conditions/" title="Terms and Conditions">Terms and Conditions</a> state that we will;</li>
 <li>we reasonably believe that use of disclosure is necessary to prevent or lessen a serious and imminent threat to an individual's life, health or safety or a serious threat to public health or safety; or</li>
@@ -924,6 +942,10 @@
 <p>Some of our products are hosted by third parties but we agree with those third parties that they will keep your information secure and not use it for other purposes.</p>
 <p>If you sign up for services that are managed or offered by other organizations, they will obtain your information.</p>
 <p>A number of other people's web sites have links on our site. If you link to their sites, they may collect information. Such sites are not within our control and are not covered by this privacy statement.</p>
+<h3 dir="ltr"><span>Disclosure of personal information</span></h3>
+<p dir="ltr"><span>In many circumstances we will not disclose personal data without your consent unless required by law. </span></p>
+<p dir="ltr"><span>Complete University Guide is owned by Hotcourses Limited. Hotcourses Limited is the principal company and the Data Controller in the Hotcourses Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide). We may share your personal information with organisations that are part of the same group as the data controller as those companies may provide services to you over our websites.). To ensure your details are protected to the same level as in United Kingdom, we have put agreements in place to ensure these companies comply with the Hotcourses Privacy Policy and the Data Protection Act 1998. </span></p>
+<p dir="ltr"><span>Another instance when we may share your personal information is when you make an enquiry to a course provider though our website – we pass on your contact details to the course provider so that they can contact you directly.</span></p>
 <h3><a name="cookies"></a>IP Addresses and Cookies</h3>
 <p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
 <p>For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.</p>
@@ -963,7 +985,8 @@
 <h4>Contact</h4>
 <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:admin@thecompleteuniversityguide.co.uk" target="_blank">admin@thecompleteuniversityguide.co.uk</a><a href="/contact/" target="_blank"></a><a href="mailto:nova@thecompleteuniversityguide.co.uk" target="_blank"></a>.</p>
 <div align="center"><hr></div>
-<p>The Complete University Guide Ltd, 1st Floor, Bedford House, 69–79 Fulham High Street, London SW6 3JW. Registered no. 06644543.&nbsp;</p>
+<p>The Data Controller<br>The Complete University Guide Ltd<br>1st Floor, Bedford House<br>69–79 Fulham High Street<br>London SW6 3JW</p>
+<p>Registered no. 06644543</p>
 
 
 
@@ -997,37 +1020,19 @@
 
 
             
-                    <div class="col first half">
-                        
-<div class="box box-next-steps"><div class="box-heading"><h3>Next Steps</h3></div><div class="box-content"><ul>
+<div class="columns"><div class="column half"><div class="box box-next-steps"><div class="box-heading"><h3>Next Steps</h3></div><div class="box-content"><ul>
 <li><a href="/league-tables/rankings">University League Tables</a></li>
 <li><a href="/universities/" title="Universities">University Profiles</a></li>
 <li><a href="/universities/choosing-the-right-university/" title="Choosing the Right University">Choosing a University</a></li>
 <li><a href="/courses/" title="Courses">Choosing a University Course</a></li>
 <li><a href="/universities/applying-to-university-and-ucas-deadlines/" title="Applying to University">Your University Application</a></li>
 <li><a href="/universities/applying-to-university-and-ucas-deadlines/guide-to-applying-to-oxford-and-cambridge/" title="Insider's guide to applying to Oxford and Cambridge">Applying to Oxford and Cambridge</a></li>
-</ul></div></div><div class="box box-preparing-to-go"><div class="box-heading"><h3>Preparing To Go</h3></div><div class="box-content"><ul>
+</ul></div></div></div><div class="column half"><div class="box box-preparing-to-go"><div class="box-heading"><h3>Preparing To Go</h3></div><div class="box-content"><ul>
 <li><a href="/preparing-to-go/insurance/">Insure your possessions</a></li>
-<li><a href="/preparing-to-go/student-how-to-books/cooking/" title="Cooking">Learn to cook&nbsp;curry, cheap takeaway and more</a></li>
-</ul></div></div>
+</ul></div></div></div></div>
 
-                                <div class="clear"></div>
-                        
-                    </div>
-                    <div class="col half">
-                        
-                                <div class="advert advert-mpu">
-                                    <div id="div-gpt-ad-New_Books">
-                                        <script type="text/javascript">
-                                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_Books'); });
-                                        </script>
-                                    </div>
-                                </div>
-                        
-                    </div>
-                    <div class="clear"></div>
             
-            </div>
+        </div>
 
         
                 <div class="content-sidebar">
@@ -1036,16 +1041,15 @@
     <div class="box"><div class="box-heading"><h3><a href="/terms-and-conditions/">Terms and Conditions</a></h3></div><div class="box-content"><ul><li><b>Privacy and Cookie Policy</b></li><li><a href="/terms-and-conditions/acceptable-use-policy/">Acceptable Use Policy</a></li><li><a href="/terms-and-conditions/ask-policy/">ASK Policy</a></li></ul></div></div>
 
 
-                
-                    <div class="advert advert-mpu">
-                        <div id="div-gpt-ad-New_Sponsorship">
-                            <script type="text/javascript">
-                                googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_Sponsorship'); });
-                            </script>
-                        </div>
-                    </div>
-                    <div class="clear"></div>
-
+                    
+                            <div class="advert advert-mpu">
+                                <div id="div-gpt-ad-New_Sponsorship">
+                                    <script type="text/javascript">
+                                        googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_Sponsorship'); });
+                                    </script>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
                     
 
 
@@ -1071,8 +1075,7 @@
                         </div>
                         <div class="box-content">
                             <ul>
-<li><a href="/league-tables/how-to-use-the-tables">How to use the League Tables</a></li>
-<li><a href="/ask">Ask Us a Question</a></li>
+<li><a href="/ask">Ask us a Question</a></li>
 <li><a href="/universities/" title="Universities">UK Universities</a></li>
 <li><a href="/international/" title="International">International Universities</a></li>
 <li><a href="/university-tuition-fees/" title="University Tuition Fees">Tuition Fees and Finance</a></li>
@@ -1083,13 +1086,15 @@
                         </div>
                     </div>
 
-                    <div class="advert advert-mpu">
-                        <div id="div-gpt-ad-New_MPU">
-                            <script type="text/javascript">
-                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-New_MPU'); });
-                            </script>
-                        </div>
-                    </div>
+                    
+                            <div class="advert advert-mpu">
+                                <div id="div-gpt-ad-New_MPU">
+                                    <script type="text/javascript">
+                                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-New_MPU'); });
+                                    </script>
+                                </div>
+                            </div>
+                    
 
                     <div class="box">
                         <div class="box-heading">
@@ -1109,36 +1114,26 @@
                         </div>
                     </div>
 
-                    <div class="mpu ad">
-                        <div id="div-gpt-ad-New_BelowFollow">
-                            <script type="text/javascript">
-                                googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_BelowFollow'); });
-                            </script>
+                    <div class="box">
+                        <div class="box-heading">
+                            <h3><a href="https://www.instagram.com/compuniguide/">CompUniGuide</a> on Instagram</h3>
+                        </div>
+                        <div class="box-content">
+                            <script src="//lightwidget.com/widgets/lightwidget.js"></script>
+                            <iframe src="//lightwidget.com/widgets/0bd53568c4cb553099e3f25955b2ccfb.html" id="lightwidget_0bd53568c4" name="lightwidget_0bd53568c4" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
                         </div>
                     </div>
 
-                    <div class="box box-advert-buttons hidden">
-                        <div class="box-heading">
-                        <h3>Advertisements</h3>
-                        </div>
-                        <div class="box-content">
-                            <span class="advert advert-button">
-                                <div id="div-gpt-ad-New_Button1">
+                    
+                            <div class="mpu ad">
+                                <div id="div-gpt-ad-New_BelowFollow">
                                     <script type="text/javascript">
-                                        googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_Button1'); });
+                                        googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_BelowFollow'); });
                                     </script>
                                 </div>
-                            </span>
-                            <span class="advert advert-button">
-                                <div id="div-gpt-ad-New_Button2">
-                                    <script type="text/javascript">
-                                        googletag.cmd.push(function () { googletag.display('div-gpt-ad-New_Button2'); });
-                                    </script>
-                                </div>
-                            </span>
-                        </div>
-                    </div>
-                </div>
+                            </div>
+                    
+               </div>
         
 
     </div>
@@ -1155,11 +1150,10 @@
 <li><a href="/advertise-with-us/" title="Advertise With Us">Advertise with Us</a></li>
 <li><a href="/higher-and-further-education-staff/" title="Higher and Further Education Staff">Higher and Further Education Staff</a></li>
 <li><a href="/guardian-league-tables/" title="Guardian League Tables">University League Table Guide</a></li>
-<li><a href="/ucas-clearing/" title="UCAS Clearing">UCAS Clearing</a></li>
+<li><a href="/clearing/" title="UCAS Clearing">UCAS Clearing</a></li>
 </ul></div>
       <div class="footer-section">
-        <h4>Use of the Site</h4><p><a href="/terms-and-conditions/#ipr" title="Copyright">Copyright </a><a href="/terms-and-conditions/#ipr" title="Copyright">© T</a><a href="/terms-and-conditions/#ipr" title="Copyright">he Complete University Guide 2016</a></p>
-<ul>
+        <h4>Use of the Site</h4><ul>
 <li><a href="/terms-and-conditions/" title="Terms and Conditions">Terms and Conditions</a></li>
 <li><a href="/terms-and-conditions/privacy-and-cookie-policy/" title="Privacy Policy">Privacy</a></li>
 <li><a href="/terms-and-conditions/privacy-and-cookie-policy/#cookies" title="Cookie Policy">Cookies</a></li>
@@ -1167,28 +1161,19 @@
 <li><a href="/terms-and-conditions/ask-policy/" title="ASK Policy">ASK Policy</a></li>
 </ul></div>
     </div>
-    <div class="footer-copyright">
-      The Complete University Guide © 2016</div>
+    <div class="footer-copyright"><a href="/terms-and-conditions/#ipr">
+        The Complete University Guide © 2016</a></div>
   </div>
 </div>
     
 
-
-    <div id="printFooter">
-    <div class="clear"></div>
-
-    <div>The most comprehensive, definitive and complete university guide</div>
-    <div><img src="/media/46402/twitter.png" style="vertical-align:middle">  @compuniguide</div>
-    <div><img src="/media/46397/facebook.png" style="vertical-align:middle">  on.fb.me/compuniguide</div>
-    
-    </div>
 
  <!-- Link tracking -->
 <script type="text/javascript">
     $(function () {
         $('a[href^=http]').click(
         function () {
-            if (!$(this).attr('onclick') && $(this).attr('href').indexOf("thecompleteuniversityguide.co.uk") < 0) {
+            if (!$(this).attr('onclick') && $(this).attr('href').indexOf("thecompleteuniversityguide.co.uk") < 0 && $(this).closest(".no-track").length == 0) {
                 var url = $(this).attr('href').replace(/https?:\/\//, '');
                 _gat._getTrackerByName()._trackEvent('Link', 'External Click', url);
                 $(this).attr('target', '_blank');
@@ -1226,41 +1211,6 @@
 
     });
 </script>
-
-
-<!-- START GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
-<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-73ktnlRTKQPTw&amp;callback=qc_results"></script>
-
-<script src="http://js.revsci.net/gateway/gw.js?csid=e05516&amp;auto=t"></script>
-
-<!-- Quantcast Measurement --> 
-<script type="text/javascript">
-    var _qevents = _qevents || [];
-
-    (function () {
-        var elem = document.createElement('script');
-
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem, scpt);
-    })();
-</script><script type="text/javascript">
-             _qevents.push({
-                 qacct: "p-73ktnlRTKQPTw",
-                 labels: "select-diversity"
-             }); 
-</script> 
-
-<noscript> 
-<div style="display:none;"> 
-<img src="//pixel.quantserve.com/pixel/p-73ktnlRTKQPTw.gif?labels=select-diversity" border="0" height="1" width="1" alt="Quantcast"/> 
-</div> 
-</noscript> 
-<!-- End Quantcast Measurement -->
-<!-- END GUARDIAN ONLINE BEHAVIOURAL TARGETING CODE --> 
-
 
 
 </body></html>
