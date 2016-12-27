@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winshosting.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611184756id_/http%3A//www.winshosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winshosting.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227141008id_/http%3A//www.winshosting.com/privacy-policy.html) for the most accurate reproduction.*
 
-# domain privacy | hide whois information | web hosting Pakistan - WinsHosting
+# domain hosting privacy - hide whois information - WinsHosting
 
 The main goal of any Web Hosting and Web designing company is to secure the personal information and personal data of any customer and client. WinsHosting is providing the best privacy structure for their customers and clients and also try its best to secure your personal data from outer world. Every company’s privacy policies are different from each so our policy is also different from all other companies who deal in Web Hosting, Web Designing or Development and Domain registration. Privacy and Policy may also be change time to time according to the latest condition and environment of that product. To connect with us or to better understanding of our service in the field of Website Development, Web Hosting and others, you must have to review our privacy and policy one time.
 
@@ -19,19 +19,3 @@ You have to be aware of that all companies have authority to change their Privac
 ## Sharing of Information
 
 WinsHosting have rights to share your personal information to any person in case of any law order or breaking the rule and regulations of any state or country. We just provide your information after the confirmation of your involvement in the crime or other. We just share your information to only registered and approved government agencies in case of any unlawful orders we received relevant to your website. If you are running a fraud type website on our servers and we get any complaint or any notice from any government agency then WinsHostng have rights to suspend your website and provide your personal information to government agencies. Otherwise we keep your data and personal information save and secure, no one can steal it from us.
-
-  
-
-
-## Privacy & Policy contact information
-
-If you have any question in your mind relevant to our privacy & Policy or want to get more information about of privacy & Policy then you can contact us by using the given information below:
-
-### WinsHosting.com  
-
-
-**Office # PL-20 Play Land (PL) Floor Siddique Trade Center  
-Main Boulevard Gulberg, Lahore, Pakistan  
-Email: info@WinsHosting.com  
-Tel: +92 42 35781666 & +92 42 35781667  
-Cell: +92 312 4188424 & +92 336 4475528**
