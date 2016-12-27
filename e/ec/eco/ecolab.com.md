@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605180656id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227061329id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
 
 # Ecolab Privacy Policy | Ecolab
 
@@ -20,19 +20,19 @@ Ecolab is committed to the goal of adhering to these Privacy Principles in all p
 
 **Onward Transfer (Transfer to Third Parties):** The Notice and Choice Principles defined in these principles shall be applied to all onward transfers of personal data. Ecolab will not transfer Personal Data to a Third Party without notice unless one of the following applies:
 
-  * Ecolab can ensure the Third Party is in compliance with EU Safe Harbor Principles; 
+  * Ecolab can ensure the Third Party is in compliance with the Privacy Shield Principles; 
   * The Third Party is subject to the EU Data Protection Directive; 
-  * The Third Party has certified via agreement that it provides a level of protection equivalent to the Safe Harbor Principles. 
+  * The Third Party has certified via agreement that it provides a level of protection equivalent to the Privacy Shield Principles. 
 
 
 
-**Access:** Ecolab provides Data Subjects access to their Personal Data and opportunity to correct, amend, or delete that Personal Data when inaccurate, except in certain circumstances allowed in EU Safe Harbor Principals.
+**Access:** Ecolab provides Data Subjects access to their Personal Data and opportunity to correct, amend, or delete that Personal Data when inaccurate, except in certain circumstances allowed in the Privacy Shield Principles.
 
 **Security:** Ecolab takes reasonable precautions to protect Personal Data from loss, misuse, and unauthorized access, disclosure, alternation, and destruction.
 
 **Data Integrity:** Ecolab only holds information relevant for the purpose for which it is to be used, as described in this Statement. Ecolab takes reasonable steps to ensure that information is reliable for its intended use, accurate, complete, or current.
 
-**Enforcement:** Ecolab provides recourse mechanisms to resolve individual concerns or disputes regarding Personal Data. Ecolab provides the procedures as outlined in this Statement for providing verification to individuals that Safe Harbor Principles have been implemented. Ecolab is committed to providing a prompt remedy for any failure to comply with the EU Safe Harbor Principles, the laws or regulations of other jurisdictions, and/or its own privacy policies and procedures.
+**Enforcement:** Ecolab provides recourse mechanisms to resolve individual concerns or disputes regarding Personal Data. Ecolab provides the procedures as outlined in this Statement for providing verification to individuals that Privacy Shield Principles have been implemented. Ecolab is committed to providing a prompt remedy for any failure to comply with the Privacy Shield Principles, the laws or regulations of other jurisdictions, and/or its own privacy policies and procedures.
 
 ## C. Personal Data
 
@@ -40,7 +40,7 @@ Ecolab is committed to maintaining all reasonable precautions to assure the priv
 
 ## D. Use of Personal Data
 
-Ecolab’s website is intended to be used by Ecolab customers, commercial visitors, business associates, investors, and other interested parties for business purposes. Personal Data collected by Ecolab through its website or by other means is used in support of our commercial relationship with you, including, but not limited to, the processing of customer orders, managing accounts, learning about customers’ needs, responding to inquiries, and providing access to information. Also, in compliance with the laws and regulations of the relevant jurisdiction to support our relationship with you:
+Ecolab’s website is intended to be used by Ecolab customers, commercial visitors, business associates, investors, and other interested parties for business purposes. Personal Data collected by Ecolab through its website or by other means is used in support of our commercial relationship with you, including, but not limited to, the processing of customer orders, orders from vendors, managing accounts, learning about customers’ needs, responding to inquiries, and providing access to information. Also, in compliance with the laws and regulations of the relevant jurisdiction to support our relationship with you:
 
   * we may share Personal Data with our worldwide affiliates to better understand your business needs and how we can improve our products and services; 
   * we may use third party service providers to assist us in collecting, assembling or processing Personal Data in connection with services related to our business relationship; 
@@ -53,7 +53,7 @@ If you choose not to have your Personal Data used to support our customer relati
 
 ## E. Third Party Service Providers
 
-Ecolab is the commercial operator of its website and uses service providers to assist in hosting, and providing software and content for our sites and providing other services. Ecolab may disclose Personal Data supplied by you to these Third Parties who provide such services under contract to protect your Personal Data. In addition, where consistent with the laws and regulations of the relevant jurisdiction, Ecolab may disclose Personal Data if such disclosure:
+Ecolab is the commercial operator of its website and uses service providers to assist in hosting or otherwise acting as data processors, to provide software and content for our sites and to provide other services. Ecolab may disclose Personal Data supplied by you to these Third Parties who provide such services under contract to protect your Personal Data. In addition, where consistent with the laws and regulations of the relevant jurisdiction, Ecolab may disclose Personal Data if such disclosure:
 
   * is a use of the Personal Data for an additional purpose that is directly related to the original purpose for which the Personal Data was collected; 
   * is necessary to prepare, negotiate and perform a contract with you; 
@@ -100,33 +100,40 @@ Upon request, Ecolab will grant individuals reasonable access to Personal Data t
 
 **PHONE:**  +1-844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
 
-## N. U.S. – EU and U.S – Switzerland Safe Harbor Participation
+## N. EU – U.S. Privacy Shield 
 
-Personal Data collected in the European Union (“EU”) is subject to the European Data Protection Directive (95/46/EC) and similarly Switzerland has adopted a data protection law (together the “Data Privacy Laws”). The U.S. Department of Commerce has agreed separately with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland upon similar sets of data protection principles (“Safe Harbor Privacy Principles”) and frequently asked questions (the “U.S.-EU Safe Harbor Framework” and the “U.S.-Swiss Safe Harbor Framework”) to enable U.S. companies to satisfy the requirement under the Data Privacy Laws that adequate protection be given to personal information transferred from the EU or Switzerland to the United States. 
+Ecolab complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Ecolab has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
-Ecolab complies with the U.S.-EU Safe Harbor Framework and the U.S-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Ecolab has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, access, security, data integrity, and enforcement.
+## O. U.S. – Switzerland Safe Harbor Framework
 
-More information about Safe Harbor program and Ecolab’s certification can be found at the U.S. Department website http://www.export.gov/safeharbor/. Individuals in the EU and Switzerland may contact the Ecolab Safe Harbor Privacy Contact identified below to review the Personal Data that Ecolab holds about them. If an individual in the EU or Switzerland cannot resolve an issue concerning his/her Personal Data, such individual can contact the local data protection authority for assistance.
+Ecolab complies with the U.S-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the Switzerland to the United States. Ecolab has certified to the Department of Commerce that it adheres to the Safe Harbor Principles. If there is any conflict between the terms in this privacy policy and the Safe Harbor Principles, the Safe Harbor Principles shall govern. 
 
-If you have any questions about our Safe Harbor participation or this Statement as it relates to any jurisdiction or country, or if you have any concerns regarding your Personal Data, please contact:
+To learn more about the Safe Harbor Framework, and to view our certification, please visit <http://www.export.gov/safeharbor/>
 
-**PHONE:**  +1-844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
+## P. Privacy Shield Dispute Resolution and Arbitration 
 
-You may also seek independent recourse outside of Ecolab through the following means:
+The Federal Trade Commission has jurisdiction regarding investigation and enforcement of Ecolab’s compliance with the Privacy Shield.
 
-**The EU Data Protection Authorities**
+In compliance with the Privacy Shield and Safe Harbor Principles, Ecolab commits to resolve complaints about our collection or use of your personal information. Data Subjects in the EU or EEA with inquiries or complaints regarding Ecolab’s privacy policy and compliance with Privacy Shield should first contact Ecolab’s general data privacy contact at: 
 
-[ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm  
-](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
+**PHONE:** 844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
 
-## O. Changes to this Statement
+In addition, personal data subjects may submit a complaint to an independent recourse mechanism. Ecolab commits to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with the advice given by the panel with regard to personal data transferred from the EU. The following link may assist you in finding the appropriate DPA: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>
+
+Individuals located in the EU or EEA have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. Information regarding arbitration can be found here: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+## Q. Changes to this Statement
 
 Ecolab reserves the right to modify this Statement from time to time in order that it accurately reflects the regulatory environment and our data collection principles. When material changes are made to this Statement, Ecolab will post the revised Statement on our website.
 
-## P. Ecolab Employee Data Privacy Compliance Manual
+## R. Liability 
+
+If a third party service provider providing services on Ecolab’s behalf processes personal data from the EU or EEA in a manner inconsistent with the Privacy Shield Principles, unless Ecolab can prove that we are not responsible for an event giving rise to damages claimed by any claimant or regulatory body, Ecolab will be liable to such claimant or regulatory body for such damages. 
+
+## S. Ecolab Employee Data Privacy Compliance Manual
 
 More information on the Ecolab Employee Data Privacy Policy can be found here: <http://www.ecolab.com/epp>.
 
-## Q. Questions and Comments
+## T. Questions and Comments
 
 If you have any questions or comments about this Statement (e.g. to review and update, or remove your Personal Data from our database) please contact +1-844-880-8355 or [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com) 
