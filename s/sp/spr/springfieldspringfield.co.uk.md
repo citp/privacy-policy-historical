@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426052658id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springfieldspringfield.co.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227191648id_/http%3A//www.springfieldspringfield.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Springfield! Springfield!
 
 PLEASE NOTE: OUR SERVER FAILED AND WE HAVE LOST A LOT OF DATA.  
 PLEASE BEAR WITH US WHILE WE TRY TO RECOVER AS MUCH AS POSSIBLE. THANK YOU.
-
-Have a website? Want more visitors? Want more sales? Check out [Ranking Rabbit](http://jvz5.com/c/351723/167249/?tid=ss), the ultimate SEO training course for ranking websites.
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -20,7 +18,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-[ ](https://web.archive.org/go/movie-and-tv-collectibles)
-
-[](https://web.archive.org/go/movie-and-tv-store)
