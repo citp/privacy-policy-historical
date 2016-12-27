@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625011808id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayiq.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227143146id_/http%3A//www.holidayiq.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HolidayIQ.com
 
@@ -42,6 +42,20 @@ Usage by our partners
 We may from time to time engage external agencies to provide certain services on our behalf. These services may range from sending dispatches by mail, co-ordination of feedback, delivery of prizes (if any) etc. These external agencies are obligated to us in terms of confidentiality agreements and will be provided the personal information strictly on a need to know basis. 
 
 Collection of information by third parties
+
+We may disclose to third party services certain personally identifiable information listed below:
+
+  * information you provide us such as name, email, mobile phone number
+  * information we collect as you access and use our service, including device information, location and network carrier
+
+
+
+This information is shared with third party service providers so that we can:
+
+  * personalize the app for you 
+  * perform behavioral analytics 
+
+
 
 HIQ and Leisure and Lifestyle Information Services Private Limited may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain information that you voluntarily submit to participate in the activity. We have no control over these third parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices. 
 
