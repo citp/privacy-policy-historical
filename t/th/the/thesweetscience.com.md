@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083522id_/http%3A//www.thesweetscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweetscience.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227073357id_/http%3A//www.thesweetscience.com/feature-articles/18210-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - The Sweet Science
 
-BY **The Sweet Science** ON March 20, 2014
-
-[](http://www.thesweetscience.com/privacy-policy?format=pdf "PDF")[](http://www.thesweetscience.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://www.thesweetscience.com/component/mailto/?tmpl=component&link=ba6e38d00ea1a702e817432f6e6d35f0e8e02f8c "E-mail")
-
-This Privacy Policy governs the manner in which The Sweet Science collects, uses, maintains and discloses information collected from users (each, a "User") of the [TheSweetScience.com](http://www.thesweetscience.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by The Sweet Science. 
+This Privacy Policy governs the manner in which The Sweet Science collects, uses, maintains and discloses information collected from users (each, a “User”) of the [TheSweetScience.com](http://www.thesweetscience.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Sweet Science. 
 
 **Personal identification information**
 
@@ -18,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+Our Site may use “cookies” to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
 **How we use collected information**
 
@@ -63,32 +59,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Rio Segundo, Alajuela, Costa Rica.   
 1800-269-4267   
-[info@thesweetscience.com](mailto:info@thesweetscience.com)
+info@thesweetscience.com 
 
 This document was last updated on March 20, 2014
-
-### Latest Articles
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22368-canastota-greets-the-boxing-world)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22367-looking-back-and-looking-forward-from-the-stubhub-center-to-madison-square-garden)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22366-deontay-wilders-next-title-defense-will-be-against-chris-arreola)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22365-is-chris-eubank-jr-up-next-for-ggg)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22364-muhammad-ali-and-those-days-in-la)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22363-enzo-maccarinelli-is-still-a-factor-in-the-well-stocked-cruiserweight-division)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22361-muhammad-ali-paying-homage-to-an-iconic-icon)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22360-canastota-new-yorks-big-boxing-weekend-is-here)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22359-beterbiev-looks-poised-to-make-noise-at-light-heavyweight)
-
-[](http://www.thesweetscience.com/news/articles-frontpage/22358-28-years-after-his-greatest-moment-of-glory-iran-qthe-bladeq-barkley-still-gets-his-props)
-
-#### Latest Videos on [BoxingChannel.tv](http://www.boxingchannel.tv/)
-
-Would You pay to see Floyd Mayweather Jr box against Conor McGregor?
