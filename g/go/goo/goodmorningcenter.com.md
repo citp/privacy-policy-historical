@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmorningcenter.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630233040id_/http%3A//goodmorningcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmorningcenter.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227060718id_/http%3A//www.goodmorningcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Morning Center
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Good Morning Center may collect and use Users personal information for the following purposes:
 
-  * _– To run a promotion, contest, survey or other Site feature_  
+  * _\-- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_  
+  * _\-- To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
