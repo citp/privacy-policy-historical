@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326033232id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227135442id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy for WWW.USG.EDU - Site Information - University System of Georgia
+# University System of Georgia | University System of Georgia
 
 This Privacy Policy sets forth the University System of Georgia’s (“USG”) policy with respect to the gathering and dissemination of information we obtain from you on the web site for the University System of Georgia located at www.usg.edu (“Site”).
 
