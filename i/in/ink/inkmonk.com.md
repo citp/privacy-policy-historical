@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkmonk.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502174207id_/https%3A//inkmonk.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkmonk.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228192932id_/https%3A//inkmonk.com/pages/privacy) for the most accurate reproduction.*
 
-# Online Printing - Find Wholesale Printers for Tshirts, Business Cards, Marketing goodies and more - Inkmonk The Print Marketplace
+# Online Printing - Find Retail and Wholesale Printers for T-Shirts, Business Cards, Marketing goodies and more - Inkmonk The Print Marketplace
 
 **We Take Your Privacy Seriously**
 
