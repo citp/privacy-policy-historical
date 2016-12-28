@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fmsinc.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611223622id_/http%3A//www.fmsinc.com/toplevel/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fmsinc.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228140717id_/http%3A//fmsinc.com/toplevel/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "../corpstyle/masterAbout.dwt" --><head>
 <!-- #BeginEditable "doctitle" -->
@@ -14,7 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="../corpstyle/master.css">
 <!-- #BeginEditable "head" -->
 <!-- #EndEditable -->
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 <div id="Root">
 
@@ -151,8 +151,10 @@
 	-->
 	
 	<!-- #BeginEditable "SocialMedia" -->
-	<!-- Go to www.addthis.com/dashboard to customize your tools -->
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=010655733323242151163:_8ghwppnmu8"></script><script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4d948a05438978da" async="async"></script>
+	<!-- Go to www.addthis.com/dashboard to customize your tools; exclude for IE8 or earlier -->
+	<!--[if gt IE 8]-->
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=010655733323242151163:_8ghwppnmu8"></script><script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4d948a05438978da" async="async"></script>
+	<!--[endif]-->
 	
 	<div id="MainMenuSocialMedia">
 	  	<a href="http://blog.fmsinc.com" target="_blank">           
@@ -162,16 +164,6 @@
 		<a href="http://www.twitter.com/fmsinc" target="_blank">
 		  <img alt="FMS Twitter" height="24" src="/social_media/twitter.gif" width="24"></a>
 	</div>
-
-<!--
-	<div id="MainMenuAddThis" class="addthis_toolbox addthis_default_style">
-		<a class="addthis_button_facebook_like"></a>
-		<a class="addthis_button_tweet"></a>
-		<a class="addthis_counter addthis_pill_style"></a>
-	</div>
-	<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d948a05438978da"></script>
--->
 	<!-- #EndEditable -->
 
 	<div id="MainMenuSearch">
@@ -535,15 +527,34 @@
 </div>
 
 <script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	adroll_adv_id = "7VXQV52XXRH63PY65WSQOX";
+	adroll_pix_id = "XU4LPSHKJJGUZDP67SUK22";
+	/* OPTIONAL: provide email to improve user identification */
+	/* adroll_email = "username@example.com"; */
+	(function () {
+	    var _onload = function(){
+	        if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+	        if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+	        var scr = document.createElement("script");
+	        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	        scr.setAttribute('async', 'true');
+	        scr.type = "text/javascript";
+	        scr.src = host + "/j/roundtrip.js";
+	        ((document.getElementsByTagName('head') || [null])[0] ||
+	            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	    };
+	    if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+	    else {window.attachEvent('onload', _onload)}
+	}());
 
-  ga('create', 'UA-296103-1', 'auto');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-296103-1', 'auto');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
 </script>
 
 
