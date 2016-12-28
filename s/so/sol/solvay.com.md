@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615013207id_/http%3A//www.solvay.com/en/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228041710id_/http%3A//www.solvay.com/en/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Application Statement Solvay | Solvay
 
@@ -30,8 +30,42 @@ We take appropriate measures to maintain the confidentiality of your personal de
 
 ##  How do we use cookies? 
 
-Cookies are small files that Web sites save to your hard disk or to your browser's memory. Session cookies are used to make the site more user-friendly and to facilitate the navigation. They allow you to avoid, for example, the need to enter your user ID and your password on every page of the site. You may choose to accept or reject cookies by modifying your browser settings. You may also be warned when cookies are blocked. However, please note that cookies may be necessary to provide you with certain features (e.g. customized delivery of information) available on our sites. These cookies are deleted when you close the browser.   
-The other cookies and web beacons may be used to count the number of visitors to the site, to determine the most viewed pages or to analyze user behavior (e.g. visit duration, consulted pages, referring pages). This data is used to calculate statistics and are never connected with personal information. Thanks to these statistics, we know how to improve our website and how to provide you with better services. 
+**1.  **Our sites use cookies technology. Cookies are small data files that Web sites save to your hard disk or to your browser's memory. If you visit our sites without changing your cookies settings as explained hereafter, the cookies will be sent to your device.  
+
+**2.  **We use cookies to improve your browsing experience as they enable us to improve the performance of our site, collect statistics and optimize site functionality.  
+
+In particular, we and/or our service providers, use the following categories of cookies on our sites:
+
+  * Technical Cookies: These cookies are essential in order to enable you to use our sites’ functionalities. They are used to make the sites more user-friendly and to facilitate the navigation. Such cookies are for example cookies which enable to manage the load-balancing of our sites, session and/or authentication cookies that identify you.   
+  * Analytics cookies: Our sites use analytics cookies such as Google analytics cookies which help us collect information on how users use our site. We use the information we get from such cookies to improve our sites and services. These cookies may be used to count the number of visitors to the sites, to determine the most viewed pages or to analyze user behavior (e.g. visit duration, consulted pages, referring pages). These data are used to calculate statistics and are never connected with your personal information. Thanks to these statistics, we know how to improve our sites and how to provide you with better services.
+  * Social Media Cookies: Our sites use social media cookies such as Facebook or Twitter social media cookies. These cookies allow you to share what you’ve been doing on our sites on social media such as Facebook and Twitter. Please note that these cookies are controlled by the relevant social media and are subject to their respective privacy policies.  
+
+
+
+**3.  **Browsers are usually set to accept cookies. However, you may choose to accept or reject cookies by modifying your browser settings as follows:  
+
+  * Internet Explorer 
+    * "Tools"
+    * "Internet Options"
+    * Privacy
+  * Chrome 
+    * "Settings"
+    * "Advanced settings"
+    * "Privacy"
+    * "Content settings"
+    * "Cookies"
+  * Mozilla Firefox 
+    * "Tools"
+    * "Options"
+    * "Privacy"
+  * Safari 
+    * "Safari"
+    * "Preferences"
+    * "Privacy" 
+
+
+
+**4.  **Please note that cookies may be necessary to provide you with certain features (e.g. customized delivery of information) available on our sites and that the blocking of certain cookies may limit your use of our sites. 
 
 ##  Who do we disclose your data to? 
 
