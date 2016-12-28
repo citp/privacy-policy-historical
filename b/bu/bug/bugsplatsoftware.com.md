@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415090643id_/http%3A//www.bugsplatsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228141901id_/http%3A//www.bugsplat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BugSplat Software
 
@@ -73,7 +73,7 @@ In order to customize the online user experience, improve the Services generally
 
 **How can Developers change or delete information?**
 
-You may review, update, correct or delete the personally identifiable information in your BugSplat account where it is inaccurate by contacting us. If you would like us to delete your BugSplat account in our system, please contact us at support@bugsplatsoftware.com with a request that we delete your personally identifiable information from our database. We will use commercially reasonable efforts to honor your request. If you request that your personally identifiable information be deleted from our records, there may be a brief delay in our processing that request, while we verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the Services, as we may need such information to provide the Services to you. We may retain an archived copy of your records as required by law or for legitimate business purposes. If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information. 
+You may review, update, correct or delete the personally identifiable information in your BugSplat account where it is inaccurate by contacting us. If you would like us to delete your BugSplat account in our system, please contact us at support@bugsplat.com with a request that we delete your personally identifiable information from our database. We will use commercially reasonable efforts to honor your request. If you request that your personally identifiable information be deleted from our records, there may be a brief delay in our processing that request, while we verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the Services, as we may need such information to provide the Services to you. We may retain an archived copy of your records as required by law or for legitimate business purposes. If your personally identifiable information changes, you may contact us to correct, update or delete and deactivate our record of your personally identifiable information. 
 
 #### **SECTION 3: GENERAL INFORMATION**
 
@@ -96,7 +96,7 @@ Except for the provision of End User information relating to a specific Develope
 
 **Does BugSplat collect any information from children?**
 
-Our websites and the Services are not directed to children and BugSplat does not knowingly collect any personally identifiable information from children under 13 years of age. If you learn that BugSplat has collected any personally identifiable information from children under 13 years of age, please contact us at support@bugsplatsoftware.com.
+Our websites and the Services are not directed to children and BugSplat does not knowingly collect any personally identifiable information from children under 13 years of age. If you learn that BugSplat has collected any personally identifiable information from children under 13 years of age, please contact us at support@bugsplat.com.
 
 **Does BugSplat collect information when I visit the BugSplat websites?**
 
@@ -114,8 +114,8 @@ No. Please be advised that we do not control and are not responsible for the pri
 
 **Can this Privacy Policy change?**
 
-We may amend this Privacy Policy from time to time. If we make a change to this policy that, in our sole discretion, is material, we will notify you by posting notice of the change on www.BugSplatSoftware.com and in this Privacy Policy.
+We may amend this Privacy Policy from time to time. If we make a change to this policy that, in our sole discretion, is material, we will notify you by posting notice of the change on www.BugSplat.com and in this Privacy Policy.
 
 **Who can I contact if I have questions about this Privacy Policy?**
 
-If you have any questions about our Privacy Policy or any other questions about the BugSplat websites or the Services, please contact us at support@bugsplatsoftware.com. We will make every effort to resolve your concerns.
+If you have any questions about our Privacy Policy or any other questions about the BugSplat websites or the Services, please contact us at support@bugsplat.com. We will make every effort to resolve your concerns.
