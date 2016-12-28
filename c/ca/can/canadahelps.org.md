@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617120616id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228130336id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
@@ -90,8 +90,7 @@ CANADAHELPS takes reasonable effort to keep personal information accurate, compl
 
     * CANADAHELPS makes commercially reasonable efforts to protect personal information from loss, theft, unauthorized access, copying, use, modification, disclosure and destruction by establishing and maintaining appropriate security safeguards appropriate to the sensitivity level of the information.
     * All CANADAHELPS staff members are made aware of the need to maintain strict confidentiality of all personal information.
-    * With respect to the handling of credit card information, CANADAHELPS adheres to Payment Card Industry Data Security Standards (PCI DSS) and uses the facilities of a PCI DSS compliant payment processor to securely store your payment card details. [**Click here**](https://www.canadahelps.org/media/PCI_compliance_certificate.pdf) to download CANADAHELPS’ compliance certificate.
-    * CANADAHELPS uses Secure Sockets Layer (SSL) technology to help ensure the safety and security of online donations. SSL technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions.
+    * CANADAHELPS uses Transport Layer Security (TLS) technology to help ensure the safety and security of online donations. TLS technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions.
     * CANADAHELPS has thorough security standards to protect our systems and your personal information against unauthorized access and use. This includes the security protections required by PCI compliance as well as specific procedures to keep your donation information secure, private and in Canada.
   8. ### Openness
 
