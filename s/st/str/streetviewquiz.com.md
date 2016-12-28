@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetviewquiz.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403115754id_/http%3A//streetviewquiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetviewquiz.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228011227id_/http%3A//streetviewquiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Street View Quiz Privacy policy | Street View Quiz
 
