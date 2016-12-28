@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfishy.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419044509id_/http%3A//www.techfishy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfishy.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228050035id_/http%3A//www.techfishy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech Fishy
 
@@ -51,8 +51,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.techfishy.com
-
+http://www.techfishy.com  
 Coimbatore, TamilNadu.  
 India  
 rajeshsundu@gmail.com
