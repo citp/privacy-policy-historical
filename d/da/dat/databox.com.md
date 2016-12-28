@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527021515id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228021153id_/https%3A//databox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Databox
 
-**Updated: May 1, 2015**
+**Updated: May 1, 2016**
 
 We are committed to protecting our visitors’ and members’ privacy. This Privacy Policy explains what information of yours will be collected by Databox, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-This document is for your information only. The “Company”, “Databox”, “us”, “we” or “our” refers to Zepppelin Inc., the owner of Databox, a company incorporated in the State of California, USA.
+This document is for your information only. The “Company”, “Databox”, “us”, “we” or “our” refers to Databox Inc., the owner of Databox, a company incorporated in the State of California, USA.
 
 BY USING OUR WEBSITE / WEB APLICATION, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY.
 
