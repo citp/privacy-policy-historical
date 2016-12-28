@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611123105id_/http%3A//www.komu.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komu.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228100456id_/http%3A//www.komu.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
