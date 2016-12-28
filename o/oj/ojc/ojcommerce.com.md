@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602014105id_/http%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojcommerce.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228080658id_/http%3A//www.ojcommerce.com/help/privacy) for the most accurate reproduction.*
 
-# Sport supplies, medical supplies, furniture, toys, baby gear - OJCommerce.com
+# OJCommerce
 
 **Privacy Policy**
 
@@ -53,7 +53,7 @@ Also, our Website is not directed at collecting Personal Information from childr
 
 **What does the OJCommerce Privacy Policy cover?**
 
-This privacy policy outlines OJCommerce practices regarding information collected online at www.OJCommerce and any other websites operated by the Company. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on January 24, 2010. By visiting the Sites or otherwise interacting with the Company, you are accepting the practices described in this Privacy Policy.
+This privacy policy outlines OJCommerce practices regarding information collected online at www.OJCommerce and any other websites operated by the Company. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on January 24, 2010. By visiting the Sites or otherwise interacting with the Company, you are accepting the practices described in this Privacy Policy. 
 
 **What do we do with the information do we collect?**
 
@@ -79,7 +79,7 @@ At OJCommerce, we always want to provide you with the easiest and best possible 
 
 
 
-We collect personally identifiable information (such as first and last name, credit card number, home address, e-mail address and telephone number) that you provide when you make a purchase; create or edit shopping lists; participate in a contest, sweepstakes or other promotion; fill out a survey or questionnaire; sign up for a program or club; contact the Company (by e-mail or otherwise); contact the Company's customer service representative; or otherwise interact with the Company. The information you provide to us may also be combined with demographic and other information that is available in order to allow us to better communicate with you and enhance your shopping experience. For purposes of this policy, information regarding your children that you (the parent) provide to the Company is treated in the same manner as information collected about you.
+We collect personally identifiable information (such as first and last name, credit card number, home address, e-mail address and telephone number) that you provide when you make a purchase; create or edit shopping lists; participate in a contest, sweepstakes or other promotion; fill out a survey or questionnaire; sign up for a program or club; contact the Company (by e-mail or otherwise); contact the Company's customer service representative; or otherwise interact with the Company. The information you provide to us may also be combined with demographic and other information that is available in order to allow us to better communicate with you and enhance your shopping experience. For purposes of this policy, information regarding your children that you (the parent) provide to the Company is treated in the same manner as information collected about you. 
 
 **How do we use and share personal information?**
 
