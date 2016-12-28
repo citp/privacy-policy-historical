@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617011115id_/http%3A//www.chronogram.com/hudsonvalley/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228053024id_/http%3A//www.chronogram.com/hudsonvalley/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | Hudson Valley; Chronogram
 
