@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sephora.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622072419id_/http%3A//www.sephora.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sephora.com.au privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228063915id_/http%3A//www.sephora.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - How we store and protect your data - Sephora
+# Buy Makeup, Cosmetics and Skincare | Sephora Australia
 
 #### Sephora Australia Pty Ltd ABN 3716903073
 
@@ -116,4 +116,4 @@ APPENDIX A
 
 COUNTRIES IN WHICH OVERSEAS RECIPIENTS ARE LIKELY TO BE LOCATED
 
-Aruba ; Austria ; Bahrain ; Barbados ; Belgium ; Bermuda ; Brazil ; Canada ; Chile ; China ; Colombia ; Czech Republic ; Denmark ; Dominican Republic ; Finland ; France ; Germany ; Greece ; Guam ; Hong Kong ; Hungary ; India ; Indonesia ; Ireland ; Israel ; Italy ; Japan ; Kazakhstan ; Kuwait ; Lebanon ; Luxembourg ; Macau ; Malaysia ; Mexico ; Mongolia ; Morocco ; Netherlands ; New Zealand ; Norway ; Panama ; Philippines ; Poland ; Portugal ; Qatar, Romania ; Russian Federation ; Saipan ; Saudi Arabia ; Singapore ; South Africa ; South Korea ; Spain ; Sweden ; Switzerland ; Taiwan ; Thailand ; Turkey ; Ukraine ; United Arab Emirates ; United Kingdom ; Uruguay ; United States of America ; Vietnam.
+Aruba ; Australia ; Austria ; Bahrain ; Barbados ; Belgium ; Bermuda ; Brazil ; Canada ; Chile ; China ; Colombia ; Czech Republic ; Denmark ; Dominican Republic ; Finland ; France ; Germany ; Greece ; Guam ; Hong Kong ; Hungary ; India ; Indonesia ; Ireland ; Israel ; Italy ; Japan ; Kazakhstan ; Kuwait ; Lebanon ; Luxembourg ; Macau ; Malaysia ; Mexico ; Mongolia ; Morocco ; Netherlands ; New Zealand ; Norway ; Panama ; Philippines ; Poland ; Portugal ; Qatar, Romania ; Russian Federation ; Saipan ; Saudi Arabia ; Singapore ; South Africa ; South Korea ; Spain ; Sweden ; Switzerland ; Taiwan ; Thailand ; Turkey ; Ukraine ; United Arab Emirates ; United Kingdom ; Uruguay ; United States of America ; Vietnam.
