@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629191647id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbsradio.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228071424id_/http%3A//policies.cbslocal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Principles
 
 #### Transparency
 
-CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20160629191647id_/http%3A//policies.cbslocal.com/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
+CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") provides clear notice of its privacy practices through a single [Privacy Policy](https://web.archive.org/web/20161228071424id_/http://policies.cbslocal.com/privacy/current.html) that is readily accessible across all CBS Local Web Sites. CBS Local also provides clear information about its [online advertising](http://policies.cbslocal.com/privacy/current.html#ad) practices. 
 
 #### Choice
 
@@ -28,7 +28,7 @@ CBS Local has adopted commercially reasonable information security policies and 
 
 CBS Local responds to user inquiries, participates in industry programs, and has adopted privacy practices that are consistent with applicable country, state, and local data protection laws. 
 
-If you have any questions about these principles or CBS Local's Privacy Policy, please [contact us](mailto:localcontactus@cbs.com). 
+If you have any questions about these principles or CBS Local's Privacy Policy, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html). 
 
 #### Scope of Privacy Policy
 
@@ -98,5 +98,5 @@ CBS Local owns, operates, or provides access to, several interactive web sites a
 
 #### How to Contact Us
 
-If you have questions regarding CBS Local's Privacy Policy, please [contact us](mailto:localcontactus@cbs.com)   
+If you have questions regarding CBS Local's Privacy Policy, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html)   
 
