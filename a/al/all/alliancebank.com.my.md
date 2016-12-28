@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002740id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228173752id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
 
 # About the Website - Privacy Policy | Alliance Bank Malaysia Berhad
 
