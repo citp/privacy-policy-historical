@@ -1,235 +1,338 @@
-> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507050136id_/http%3A//thetradedesk.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228234720id_/http%3A//thetradedesk.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Trade Desk
 
-[](https://privacy.truste.com/privacy-seal/The-Trade-Desk/validation?rid=037934ab-408e-4efd-bf40-46383f4daab7 "TRUSTe European Safe Harbor certification")[](https://privacy.truste.com/privacy-seal/The-Trade-Desk/validation?rid=b52be287-70a1-4e14-bade-07cc627ececd "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=4e6d9dbc-513e-44e3-a303-1fc8bbdebc67)
 
-The Trade Desk is committed to protecting consumer privacy and respecting your right to choice as it relates to advertising and the data used to help serve ads relevant to those consumers. The Trade Desk is a technology company which helps advertisers connect with consumers who are interested or could benefit from the advertisers’ products. Protecting consumer privacy is of the utmost priority to The Trade Desk. See below for our complete Privacy Policy or to opt out of receiving relevant ads served by us. 
+The Trade Desk is committed to protecting consumer privacy and respecting your right to choice as it relates to advertising and the data used to help serve ads relevant to those consumers. The Trade Desk is a technology company that helps advertisers connect with consumers who are interested in, or could benefit from, the advertisers’ products. Protecting consumer privacy is a top priority to The Trade Desk. See below for our complete Privacy Policy. You can go directly to the section of the Privacy Policy that you want to read: 
 
-If you would prefer not to have The Trade Desk serve you relevant ads, you may opt-out here: [**Opt Out of Relevant Advertising**](http://www.adsrvr.org/) **.** If you do so, you will continue to see ads, but they will not be targeted based on your online activity. 
+· The Trade Desk Services Privacy Practices 
 
-The Trade Desk is committed to following the OBA Principles, and as a member of the [Digital Advertising Alliance](http://www.aboutads.info/) as well as the [Network Advertising Initiative: NAI](https://www.networkadvertising.org/choices/), is in compliance with the industry’s Self-Regulatory Code. Click [here if you would like further information regarding the DAA principles](http://www.aboutads.info/principles/) and [here if you would like information about the NAI principles](http://www.networkadvertising.org/2013_Principles.pdf). Consistent with these principles, the [](http://www.thetradedesk.com/wp-content/uploads/2014/07/HealthSegments.pdf)[health/fitness related segments available in The Trade Desk for OBA can be viewed here](https://web.archive.org/assets/general/HealthSegments_TTD-Website.pdf). 
+· Privacy Practices for Our Website 
+
+**Consumer Opt-Out Choices**
+
+_The_ _Trade Desk Services:_ **** If you would prefer not to have The Trade Desk serve you relevant ads, you may go to our opt-out page to learn more: [Opt Out of Relevant Advertising](http://www.adsrvr.org/) **.** If you opt out through this page, you may continue to see ads from The Trade Desk, but these ads will not be targeted based on your online activity history. For more information on The Trade Desk services and our practices, please see below. 
+
+_Third Parties on The Trade Desk Website:_ **** We may allow certain third parties to collect data about your web viewing behavior on The Trade Desk website and combine this data with information collected from other websites over time for purposes that include interest-based advertising. If you would like to learn more about this type of advertising, or would prefer to opt-out of interest-based advertising, U.S. residents may visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.networkadverising.org/choices](http://www.networkadverising.org/choices), European residents may visit [www.youronlinechoices.com](http://www.youronlinechoices.com/), and Canadian residents may visit <http://youradchoices.ca/choices/>. For more information on The Trade Desk website practices, please see below. 
+
+_Commitment to Industry Self-Regulation:_ **** The Trade Desk follows the [Digital Advertising Alliance](http://www.aboutads.info/) (“DAA”) Self-Regulatory Principles and adheres to the [Network Advertising Initiative ( _“_ NAI](https://www.networkadvertising.org/choices/)”) Code of Conduct as a member of NAI. Click [here if you would like further information regarding the DAA principles](http://www.aboutads.info/principles/) and [here if you would like information about the NAI Code](http://www.networkadvertising.org/2013_Principles.pdf) of Conduct. Consistent with these principles, the [health/fitness related segments available in The Trade Desk for behavioral advertising can be viewed here](http://www.thetradedesk.com/assets/general/HealthSegments_TTD-Website.pdf). 
 
 The Trade Desk also adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. [You can learn more and opt out of behavioral advertising here.](http://www.youronlinechoices.eu/)
 
-Further, The Trade Desk adheres to the Canadian Self-Regulatory Principles for Online Behavioural Advertising’s (“DAAC”) principles. [You can learn more and opt out of behavioral advertising here.](http://youradchoices.ca/choices) Please contact [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) for any questions about The Trade Desk privacy, security, and data practices. Please see below for our complete Privacy Policy. 
+Further, The Trade Desk follows the Canadian Self-Regulatory Principles for Online Behavioural Advertising’s (“DAAC”) principles. [You can learn more and opt out of behavioral advertising here.](http://youradchoices.ca/choices) Please contact [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) for any questions about The Trade Desk privacy, security, and data practices. Please see below for our complete Privacy Policy. 
 
-**PRIVACY POLICY** **Effective: June 12, 2015**
+**The Trade Desk** **Services** **Privacy Practices**
 
-**Background Regarding The Trade Desk’s Technology and Services** The Trade Desk (“we”, “us”, or “our”) is an online advertising and technology platform headquartered in the United States. We provide this privacy policy to inform you about how our technology platform (“Technology”) processes information on behalf of online advertisers, website owners, data providers and other businesses that use our services (collectively, our “Clients”). This policy also outlines our privacy practices for our corporate website, which is located at [www.thetradedesk.com](http://thetradedesk.com/) (the “Website”). If you have any questions about this privacy policy, please feel free to contact us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com). The Trade Desk runs a buying platform for media and data. The Trade Desk Technology allows our Clients to buy ad space on websites for online advertising and allows for the use of proprietary and third party data in the purchase of that media. When ad space on or within a website or mobile application is bought or sold (usually to an advertiser or ad agency by a web publisher) the Technology, fulfills the transaction by delivering the ad to Internet and mobile users who visit that site or use that application. Generally, an Internet user’s computer, browser or device comes into contact with The Trade Desk when a user views an ad, or visits a website (or uses an app), delivered or serviced by or with our Technology. Serving users relevant advertising is sometimes referred to as interest based advertising or online behavioral advertising (“[OBA](http://www.aboutads.info/consumers/#oba)”). 
+Posted: September 30th, 2016, Effective Date: September 30th, 2016. 
 
-**_PRIVACY PRACTICES FOR OUR TECHNOLOGY_**
+For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](http://www.thetradedesk.com/general/privacy-policy-aug-24-2016). 
 
-**Information Our Technology Collects** We believe that consumers prefer more (rather than less) relevant ads, tailored to their interests. To do this, we collect a variety of data from Clients and across platforms, to help optimize ads and increase the likelihood that a particular unique, but anonymous users will be interested in (rather than potentially annoyed by) an ad they see. For more information on the technology used to collect the below information, please refer to the below section titled “Cookies, Web Beacons and Mobile SDKs.” 
+### Contents
 
-  * Our Technology collects Non-Personally Identifiable Information (“Non-PII”) that may include, but is not limited to, your IP host address, the date and time of the ad request, pages viewed, browser type, the referring URL, Internet Service Provider, and your computer’s operating system, as well as how you interact with a web page or ad. We may also collect Non-PII such as age, gender, income, education, interests, and usage activity from Clients or other third parties. We also may collect analogous Non-PII from mobile platforms, which may include information about your interactions with those applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with).
-  * Sometimes, we obtain the above information from other ad platforms, application platforms or providers, customers or websites and services (including our Clients). We may work with Clients to synchronize or “sync” unique, anonymous identifiers to match our Clients’ non-PII data or identifiers to our own, in order to , enhance data points about a particular unique browser or device, and thus, and thus enable or send ads that are more relevant, match consumers to their likely product interests, or better synchronize, cap, or otherwise optimize advertising.
+BACKGROUND REGARDING OUR TECHNOLOGY AND SERVICES
 
+PRIVACY PRACTICES FOR OUR TECHNOLOGY
 
+How We Use Information Our Technology Collects 
 
-**How We Use Information Our Technology Collects**
+Cookies, Web Beacons and Mobile SDKs 
 
-The Trade Desk uses Non-PII to target and serve relevant advertising to consumers and to perform attribution analysis or other analytics regarding advertising audiences, as well as to compile, match and link audiences on behalf of Clients. For instance, we may use this non-PII, generally on behalf of Client, to:
+Information Sharing 
 
-  * Determine what ad to show a consumer, and customize ads to particular types of audiences;
-  * Customize ads to the type of web page users are viewing;
-  * Limit the number of times a consumer sees an ad or a type of ad;
-  * Perform analysis of how effective the ads are;
-  * Help advertisers learn more about their own consumers.
+Interest-Based Advertising and Opting Out 
 
+Opting Out on iOS Devices Such as iPhones, iPads or iPods 
 
+Opting Out on Android Devices 
 
-Sometimes we may use or make available to Clients the non-PII we collect or receive (such as IP Address) to recognize users or try to resolve a commonality of users (or households) across platforms or across devices, such as smartphones, computers, tablets or related browsers. For instance, we might infer that a common IP address seen across different devices represents a common user (or a related or similar user), and use that inference in tailoring ads. Occasionally, we receive anonymized data sets (which may constitute hashed or obfuscated personally identifiable information (“PII”)), in order to promote, test or validate the accuracy of such inferences.
+Data Storage and Security  
 
-**Cookies, Web Beacons and Mobile SDKs**
 
-In order to help make the online advertisements more relevant to users, our Technology uses the standard “cookies” feature of major browser applications that allows us to store a small piece of data on users’ computers about users’ visits to certain websites. We also use cookies to understand users’ browsing and buying activities so that we can measure the success of online advertising campaigns we run.
+Changes To Our Policy 
 
-Cookies are small text files that web servers typically send to users’ computer when they visit a website. Cookies are stored as text files on users’ hard drive, and can be accessed by web servers when the user visits a website or views an advertisement. Cookies are used by companies to collect and send information about a user’s website visits – for example, number of visits, average time spent, pages viewed, navigation history through the website, and other statistics. This information helps companies improve a user’s online experience in many ways: for example, by allowing companies to monitor website performance, making the website easier to use, measuring the effectiveness of their promotional placements, and tailoring their website (including the ads and offers they receive) to better match a user’s interests and preferences. _._ Users who prefer not to accept cookies can set their Internet browser to notify them when they receive a cookie or to prevent cookies from being placed on their hard drive.
+International Transfers and Safe Harbor 
 
-The Trade Desk cookie is set to expire after one year; our opt-out cookie lasts longer. Our cookie expiration may reset upon further interaction between ourselves (or as applicable a Client) and a browser or device.
+Contacting Us 
 
-The Trade Desk also uses web beacons (also known as 1×1 gifs), along with cookies, to determine if a user has visited a particular website. These beacons aid in providing more relevant advertising to the user, as well measuring the success of an advertising campaign, but provide no personally identifiable information.
+PRIVACY PRACTICES FOR OUR WEBSITE 
 
-**_HTML5 and Locally Stored Objects._** Similar to cookies are “locally stored objects,” which we may also use for storing non-PII. Locally stored objects, such as HTML5 Web Storage, are used for similar purposes as cookies but typically may contain a greater amount and different types of data than browser cookies. Most current versions of common web browsers clear this locally stored data when you delete or clear your cookie cache. To confirm whether this is the case for the browser you are using, or to learn more about how to precisely control this data storage, please consult the Help function of your browser.
+Information We Collect On Our Website 
 
-**Mobile Device Identifiers and SDKs.** We may sometimes work with Clients that use mobile SDKs to collect information. A mobile SDK is the mobile app version of a pixel tag or beacon (see those descriptions, above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. We may use this technology, or work with others who use this technology, to deliver certain advertising through mobile applications and browsers based on information associated with mobile devices. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “Choices” section below.
+Communications From The Site 
 
-**Information Sharing**
+Who We Share PII With 
 
-The Trade Desk may share the non-PII that we collect and receive in various ways.
+Third Party Websites 
 
-  * Primarily, we may work with Clients and other third parties to help optimize ads and make them more likely to be relevant to consumers, by comparing, syncing and sharing the non-PII described above. For instance, we may disclose to other ad platforms, customers or websites and services (including our Clients), non-PII we have collected (generally, unique, anonymous identifiers representing consumers’ browsers), to match their unique identifiers to our own, so that we can “sync” identifiers in order to help them show more relevant ads, match consumers to their likely interests, or better synchronize, cap, or otherwise optimize advertising.
+Updating / Deleting your PII 
 
+Data Retention 
 
-  * Further, the non-PII we collect and receive may be processed on our behalf by third-party service providers that assist us in running our business, including providers of data storage and processing facilities.
+Security 
 
+Automatic Data Collection 
 
-  * We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual activities that may harm any person, our company, the Technology, or otherwise violate any law.
+Testimonials 
 
+Changes To This Privacy Policy 
 
-  * Also, in the event The Trade Desk is merged into another company, or another company acquires all or substantially all of The Trade Desk’s assets, including, without limitation, in the event of bankruptcy, all data compiled or owned by The Trade Desk may be among the items transferred in that transaction.
+Contact Us 
 
+**BACKGROUND REGARDING OUR TECHNOLOGY AND SERVICES** **.**  
 
-  * Finally, we may share aggregated, non-personal information with Clients in connection with reporting and accounting needs as well as with other unaffiliated third parties for various purposes such as statistical or educational analysis (such as the creation of predictive models).
 
+The Trade Desk, Inc. (“we”, “us”, or “our”) provides an online advertising and technology platform and we are headquartered in the United States. We provide this privacy policy to inform you about how we collect and use data on our corporate website, which is located at [www.thetradedesk.com](http://thetradedesk.com/) (the “Website”), and how our technology platform and related technology, such as pixels` (“Technology”) processes information on behalf of online advertisers, website owners, data providers and other businesses that use our services (those online advertisers and their agencies who use our technology are defined as our “Clients”). If you have any questions about this privacy policy, please feel free to contact us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com). The Trade Desk runs a buying platform for media and data. The Trade Desk Technology allows our Clients to buy ad space on websites, in apps, and on other digital platforms, and allows for the use of proprietary and third party data in the purchase of that ad space. When ad space is bought or sold digitally (usually to an advertiser or ad agency by a publisher or other content provider) the Technology, fulfills the transaction by delivering the ad to internet and mobile users who visit that site, use that application, or watch certain videos (for example). Generally, an Internet user’s computer, browser or device comes into contact with The Trade Desk when a user views an ad delivered or serviced by or with our Technology. Serving users relevant advertising is sometimes referred to as interest based advertising or online behavioral advertising (“[OBA](http://www.aboutads.info/consumers/#oba)”). 
 
+**PRIVACY PRACTICES FOR OUR TECHNOLOGY**
 
-**Your Opt-Out Choices**
+**Information Our Technology Collects**. We believe that consumers prefer more (rather than less) relevant ads, tailored to their interests. To do this, we collect a variety of data from Clients, from data suppliers, and across platforms, to help optimize ads and increase the likelihood that a particular unique, but pseudonymous, user will be interested in (rather than potentially annoyed by) an ad shown. For more information on the technology used to collect the below information, please refer to the below section titled “Cookies, Web Beacons and Mobile SDKs.” 
 
-If you’d like to opt-out from having The Trade Desk use your Non-PII in connection with ad targeting based on your behavioral activity, please click [here](http://www.adsrvr.org/). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertising campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser or update or re-install your current browser, you may need to renew your opt-out choice. Please also note that if you choose to disable this function, your online experience may be diminished and some features may not work as they were intended.
+• Our Technology collects information generally known as non-personally identifiable information (“Non-PII”) that may include, but is not limited to, your IP host address, the date and time of the ad request, specific location information of your device (which may be derived from, for example, your device’s GPS, Bluetooth, or WiFi signals), pages viewed, browser type, the referring URL, Internet Service Provider, and your computer’s operating system, as well as how you interact with a web page or ad. We may also collect Non-PII such as age, gender, income, education, interests, and usage activity from Clients or other third parties. We also may collect analogous Non-PII from mobile platforms, which may include information about your interactions with those applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with). 
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data and advertising partners. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [http://www.aboutads.info](http://www.aboutads.info/) and at <http://www.networkadvertising.org/choices/>. If you are located in the EU you can access this information at [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+• Sometimes, we obtain the above information from other ad platforms, application platforms or providers, customers or websites and services (including our Clients). We may work with Clients or other third parties to synchronize or “sync” unique, pseudonymous identifiers to match our Clients’ Non-PII data or identifiers to our own, in order to enhance data points about a particular unique browser or device, and thus enable or send ads that are more relevant, match consumers to their likely product interests, or better synchronize, cap, or otherwise optimize advertising. 
 
-You may also opt out of ad tracking on devices such as iPhones, iPads, or iPods, or Android Devices. For the most effective and up to date methods of doing so, you should consult your device settings, and instructions provided by those device manufacturers. However, we provide the following exemplary information solely for informational purposes, and we disclaim any warranty or representation that the below opt out methods will work in all cases, or that they are most current.
+### How We Use Information Our Technology Collects
 
-**Opting Out on iOS Devices Such as iPhones, iPads or iPods**
+The Trade Desk uses Non-PII to target and serve or to help our Clients to target and serve relevant advertising to consumers and to perform attribution analysis or other analytics regarding advertising audiences, as well as to compile, match and link audiences on behalf of Clients. For instance, we may, or help our Clients to, use this Non-PII to: 
 
-If you have an Apple device, you can opt out of our behaviorally targeted advertising services by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to ‘ON’. You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’. Our systems are designed to respect your choice and not use information to provide interest-based advertising when this setting is ON. Again, you should consult Apple’s support web pages and instructions for the most current applicable settings.
+• Determine what ad to show a consumer, and customize ads to particular types of audiences; 
 
-**Opting Out on Android Devices**
+• Customize ads to the type of web page users are viewing; 
 
-#### If you have an Android device and would like to opt out of our behaviorally targeted advertising services, you may do this as follows:
+• Limit the number of times a consumer sees an ad or a type of ad; 
 
-  1. Open the Google Settings app on your device
-  2. Select Ads
-  3. Either “Reset advertising ID” or
-  4. Opt out of interest-based ads
+• Perform analysis of how effective the ads are; 
 
+• Help advertisers learn more about their own consumers; 
 
+• Troubleshooting; and  
 
-Our systems are likewise designed to respect these choices transmitted by your Android device. Again, however, please consult Google’s settings and instructions for the most current settings information.
 
-**Data Storage and Security**
+• Fraud detection  
 
-We retain the non-Personally Identifiable Information collected via our Technology for up to eighteen months. After 18 months (or sooner) the data is stored in aggregate for up to three years.
 
-The security of your information is important to us. The Trade Desk has implemented security measures to prevent the loss, misuse, and alteration of the information that our Technology collects, but we make no assurances about our ability to prevent such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+Sometimes we may use or make available to Clients products or services from third parties that utilize their data and the Non-PII we collect or receive (such as IP Address) to recognize users or try to resolve a commonality of users (or households) across platforms or across devices, such as smartphones, computers, tablets or related browsers or to connect app usage to browser usage on the same device. For instance, we might infer that a common IP address seen across different devices represents a common user (or a related or similar user), and use that inference in tailoring ads. Occasionally, we receive data sets (which may constitute hashed or obfuscated personally identifiable information (“PII”)), in order to promote, test or validate the accuracy of such inferences. 
 
-**Changes To Our Policy**
+We do not knowingly collect or obtain from third parties, any personal data, including any “sensitive personal data,” for OBA purposes, as defined under Directive 95/46/EC, and we contractually prohibit third parties from putting this data in our platform. 
 
-We may revise this policy at any time. Any changes and/or updates to the policy will be updated directly on this page. We encourage you to visit this page periodically to review our current privacy policy so that you will always know what information we gather and how we may use that information.
+In adherence to EDAA requirements, we do not create segments for OBA purposes that are specifically designed to target children (age 12 and under). While this does not mean that ad delivery will not occur, it means that we will not specifically target ads to children ages 12 and under. 
 
-**International Transfers and Safe Harbor**
+### Cookies, Web Beacons and Mobile SDKs
 
-The Trade Desk operates the Technology from servers located in the United States of America and the information it collects through Clients is processed in the United States of America. Laws governing the collection and use of data in the United States may not be equivalent to those in the country where you reside, but The Trade Desk will at all times protect your data in accordance with this Policy.
+In order to help make the online advertisements more relevant to users, our Technology uses the standard “cookies” feature of major browser applications that allows us to store a small piece of data on users’ computers about users’ visits to certain websites. We also use cookies to understand users’ browsing and buying activities so that we can measure the success of online advertising campaigns we run. 
 
-To the extent they are applicable, The Trade Desk, Inc. complies with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from the relevant European countries. To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact The Trade Desk, Inc. as described in the next section of this privacy policy, and our business customers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through TRUSTe. To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>. You can search for and review our Safe Harbor certification at <https://safeharbor.export.gov/list.aspx>.
+Cookies are small text files that web servers typically send to users’ computer when they visit a website. Cookies are stored as text files on users’ hard drive, and can be accessed by web servers when the user visits a website or views an advertisement. Cookies are used by companies to collect and send information about a user’s website visits – for example, number of visits, average time spent, pages viewed, navigation history through the website, and other statistics. This information helps companies improve a user’s online experience in many ways: for example, by allowing companies to monitor website performance, making the website easier to use, measuring the effectiveness of their promotional placements, and tailoring their website (including the ads and offers they receive) to better match a user’s interests and preferences _._ Users who prefer not to accept cookies can set their Internet browser to block cookies. 
 
-**Contacting Us**
+The Trade Desk cookie is set to expire after one year; our opt-out cookie lasts longer. Our cookie expiration may reset upon further interaction between ourselves (or as applicable a Client) and a browser or device. 
 
-Should you have any questions in regards to this policy or The Trade Desk’s privacy practices, please contact our representatives at the following email and they will be more than happy to clarify and assist you in any way possible: [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com), or by mail at:
+The Trade Desk also uses web beacons (also known as 1×1 gifs), along with cookies, to determine if a user has visited a particular website. These beacons aid in providing more relevant advertising to the user, as well measuring the success of an advertising campaign, but provide no personally identifiable information. 
 
-Privacy
+**HTML5 and Locally Stored Objects.** Similar to cookies are pieces of code known as “locally stored objects,” which we may also use for storing Non-PII. Locally stored objects, such as HTML5 Web Storage, are used for similar purposes as cookies but typically contain a greater amount and different types of data than browser cookies. Most current versions of common web browsers clear this locally stored data when you delete or clear your cookie cache. To confirm whether this is the case for the browser you are using, or to learn more about how to precisely control this data storage, please consult the Help function of your browser. 
 
-The Trade Desk, Inc.
+**Mobile Device Identifiers and SDKs.** We may sometimes work with Clients that use mobile SDKs to collect information. A mobile SDK is the mobile app version of a pixel tag or beacon (see those descriptions, above). The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented. We may use this technology, or work with others who use this technology, to deliver certain advertising through mobile applications and browsers based on information associated with mobile devices. If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “[Choices](http://www.thetradedesk.com/general/privacy-policy#Choices)” section below. 
 
-505 Poli Street, 5th Floor
+### Information Sharing
 
-Ventura, CA 93001
+The Trade Desk may share the Non-PII that we collect and receive in various ways. 
 
-  
-[**PRIVACY PRACTICES FOR OUR WEBSITE**](http://www.thetradedesk.com/privacy-policy/#website)
+• Primarily, we work with Clients and other third parties to help optimize ads and make them more likely to be relevant to consumers, by comparing, syncing and sharing the Non-PII described above. For instance, we may share to other ad platforms, customers or websites and services (including our Clients) Non-PII we have collected (generally, unique, pseudonymous identifiers representing consumers’ browsers), in order for these third parties to match their unique identifiers to our own, so that we can “sync” identifiers in order to help them show more relevant ads, match consumers to their likely interests, or better synchronize, cap, or otherwise optimize advertising. 
 
-Effective Date: 06/04/2014
+• Further, the Non-PII we collect and receive may be processed on our behalf by third-party service providers that assist us in running our business, including providers of data storage and processing facilities. 
 
-This privacy policy describes how The Trade Desk collects and uses the personal information you provide on our Web site: www.thetradedesk.com. It also describes the choices available to you regarding our use of your personally identifiable information (“PII”) and how you can access and update this information.
+• We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual activities that may harm any person, our company, the Technology, or otherwise violate any law. 
 
-The Trade Desk has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers personal information collected through this site: www.thetradedesk.com.
+• Also, in the event The Trade Desk is merged into another company, or another company acquires all or substantially all of The Trade Desk’s assets, including, without limitation, in the event of bankruptcy, all data compiled or owned by The Trade Desk may be among the items transferred in that transaction. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+• We may share non-personal information with Clients, both in an aggregated and non-aggregated form, in connection with reporting and accounting needs as well as with other unaffiliated third parties for various purposes such as statistical or educational analysis (such as the creation of predictive models).  
 
-To the extent they are applicable, The Trade Desk, Inc. complies with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from the relevant European countries. To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact The Trade Desk, Inc. as described at the end of this privacy policy, and our business customers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (http://go.adr.org/safeharbor). To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>. You can search for and review our Safe Harbor certification at <https://safeharbor.export.gov/list.aspx>.
 
-**Information We Collect On Our Website**
+• Finally, disclosure of information may be required in response to lawful requests by public authorities, for example to meet national security or law enforcement requirements. 
 
-We collect PII such as name, email address and phone number when you contact us with questions regarding our service or to request a demonstration of our product.
+### Interest-Based Advertising and Opting Out
 
-We may also collect Non-PII from visitors to this Website for a variety of reasons including to streamline website usability.
+The Trade Desk uses cookies, Web beacons, pixels and other technologies to collect web viewing data across non-affiliated sites over time. In addition, The Trade Desk collects app usage data across non-affiliated apps over time. We may also collect such Web viewing and app usage data from other ad platforms, application platforms or providers, customers or websites and services (including our Clients) and we may combine this information with any information that we have collected about you. We use this data to infer your interests and to provide more relevant advertising to you. This is known as Interest-Based Advertising (“IBA”). 
+
+We may also facilitate our Clients’ efforts to place a cookie or other tracking technology on a website with which our Client has a relationship, and we may allow our Clients to collect information about your web viewing behavior on our website. This information may be combined with other data collected from other websites over time for IBA purposes. 
+
+The Trade Desk follows the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles and the Network Advertising Initiative (“NAI”) Code of Conduct. 
+
+**_Opting Out for Web-based IBA:_** If you’d like to opt-out from having The Trade Desk use your Web viewing data and other Non-PII for web-based IBA purposes, please click [here](http://www.adsrvr.org/) for more information on IBA and the choices that The Trade Desk offers with respect to IBA. The DAA and NAI also provide websites where you can learn more about IBA and opt out of receiving targeted ads from our advertising partners who participate in the DAA or NAI programs. You can access these websites at [](http://www.aboutads.info/)[www.aboutads.info/choices](http://www.aboutads.info/choices) and at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Residents of the EEA and Switzerland may visit [](http://www.youronlinechoices.com/)[www.youronlinechoices.com](http://www.youronlinechoices.com/).If you are located in Canada, you can access this information at [](http://youradchoices.ca/choices/)<http://youradchoices.ca/choices/>. 
+
+**_Opting Out for App-based IBA:_** If you are using a mobile device, you may be able to opt out of receiving IBA by The Trade Desk based on app usage data, through your device settings as described below. We provide the following descriptions solely for informational purposes. For additional information and up to date methods of opting out, you should consult your device settings, and instructions provided by device manufacturers. Additional information can be found at https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options. 
+
+### Opting Out on iOS Devices Such as iPhones, iPads or iPods
+
+If you have an Apple device, you can opt out of our IBA services by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to ‘ON’. You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’. Our systems are designed to respect your choice and not use information to provide IBA when this setting is ON. Again, you should consult Apple’s support web pages and instructions for the most current applicable settings. 
+
+### Opting Out on Android Devices
+
+ **If you have an Android device and would like to opt out of our IBA services, you may do this as follows:**  
+
+
+1\. Open the Google Settings app on your device 
+
+2\. Select Personal info & privacy à Ads settings à Manage Ad Settings 
+
+3\. Turn to “off” the “Ads based on your interests” option. 
+
+Our systems are likewise designed to respect these choices transmitted by your Android device. Again, however, please consult Google’s settings and instructions for the most current settings information. 
+
+Please note that these settings do not block ads, but rather will not base ads on your interests. 
+
+### Data Storage and Security
+
+We retain the Non-PII collected via our Technology for up to eighteen months. After 18 months (or sooner) the data is stored in aggregate for up to three years. 
+
+The security of your information is important to us. The Trade Desk has implemented security measures, including physical, electronic and administrative safeguards, to prevent the loss, misuse, and alteration of the information that our Technology collects, but we make no assurances about our ability to prevent such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
+
+### Changes To Our Policy
+
+We may revise this policy at any time. Any changes and/or updates to the policy will be updated directly on this page. We encourage you to visit this page periodically to review our current privacy policy so that you will always know what information we gather and how we may use that information. 
+
+### International Transfers, Safe Harbor and Privacy Shield
+
+The Trade Desk operates the Technology from servers located in the United States of America and the information it collects through Clients is processed in the United States of America. Laws governing the collection and use of data in the United States may not be equivalent to those in the country where you reside, but The Trade Desk will at all times protect your data in accordance with this Policy. 
+
+To the extent they are applicable, The Trade Desk, Inc. complies with the principles of U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from Switzerland. To exercise their rights or file a complaint, residents of Switzerland may contact The Trade Desk, Inc. as described in the “Contact Us” section of this privacy policy, and our business customers can log into their accounts to directly access and correct certain information they have submitted. To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>. You can search for and review our Safe Harbor certification at <https://safeharbor.export.gov/list.aspx>.   
+
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+In connection with The Trade Desk, Inc.’s (“Company”) processing of personal data it receives from the EU (“EU Data”), Company adheres to the EU-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”). For more information about the Principles, please visit the Department of Commerce’s Privacy Shield website, and for a list of participating companies, please visit the [Department of Commerce's Privacy Shield List](http://www.privacyshield.gov/list). Please be aware that in disclosure of information may be required in response to lawful requests by public authorities, for example to meet national security or law enforcement requirements. 
+
+Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Contact Us” section below. If Company does not resolve your complaint, you may submit your complaint free of charge at <https://feedback-form.truste.com/watchdog/request>, Company’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint, please [click here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) for more information or to submit a compliant.Company is subject to the investigatory and enforcement powers of the FTC. If Company shares EU Data with a third-party service provider that processes the data solely on Company’s behalf, then Company will be liable for that third party’s processing of EU Data in violation of the Principles, unless Company can prove that it is not responsible for the event giving rise to the damage. 
+
+## Contacting Us
+
+Should you have any questions in regards to this policy or The Trade Desk’s privacy practices, please contact our representatives at the following email and they will be more than happy to clarify and assist you in any way possible: [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com), or by mail at: 
+
+Privacy 
+
+The Trade Desk, Inc. 
+
+42 N. Chestnut Street 
+
+Ventura, CA 93001 
+
+[](http://www.thetradedesk.com/privacy-policy/#website)PRIVACY PRACTICES FOR OUR WEBSITE
+
+Posted: September 30th, 2016, Effective Date: September 30th, 2016. For the prior versions of the privacy policy, please [click here](http://thetradedesk.com/general/privacy-policy-sept-30th) and [here](http://www.thetradedesk.com/general/privacy-policy-aug-24-2016). 
+
+This privacy policy describes how The Trade Desk collects and uses the personal informat ion you provide on our Web site, [www.thetradedesk.com](http://www.thetradedesk.com/) or otherwise to The Trade Desk through your contact with us, our employees and our contractors . It also describes the choices available to you regarding our use of your personally identifiable information (“PII”) and how you can access and update this information. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.   
+
+
+To the extent they are applicable, The Trade Desk, Inc. complies with the principles of the U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information it receives in the U.S. from Switzerland. To exercise their rights or file a complaint, residents of Switzerland may contact The Trade Desk, Inc. as described at the end of this privacy policy, and our business customers can log into their accounts to directly access and correct certain information they have submitted. In the event we are unable to resolve a disagreement with a covered European resident regarding the handling of his or her personal information under Safe Harbor, we agree to resolve the matter through the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Dispute Resolution Program (http://go.adr.org/safeharbor). To learn more about the Safe Harbor Frameworks, please visit [](http://www.export.gov/safeharbor)<http://www.export.gov/safeharbor>. You can search for and review our Safe Harbor certification at [](https://safeharbor.export.gov/list.aspx)<https://safeharbor.export.gov/list.aspx>. 
+
+In connection with Company processing of personal data it receives from the EU (“EU Data”), Company adheres to the EU-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”). For more information about the Principles, please visit the Department of Commerce’s Privacy Shield website, and for a list of participating companies, please visit the [Department of Commerce's Privacy Shield List](http://www.privacyshield.gov/list).Please be aware that in disclosure of information may be required in response to lawful requests by public authorities, for example to meet national security or law enforcement requirements. 
+
+Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Contact Us” section below. If Company does not resolve your complaint, you may submit your complaint free of charge at <https://feedback-form.truste.com/watchdog/request>, Company’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint, please [click here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) for more information or to submit a compliant. Company is subject to the investigatory and enforcement powers of the FTC. If Company shares EU Data with a third-party service provider that processes the data solely on Company’s behalf, then Company will be liable for that third party’s processing of EU Data in violation of the Principles, unless Company can prove that it is not responsible for the event giving rise to the damage.  
+
+
+**Information We Collect On Our Website or from Other  
+Contact **
+
+We collect PII such as name, email address and phone number when you contact us with questions regarding our service or to request a demonstration of our product. You may also provide PII when you request a whitepaper, enter a contest or sweepstakes run by us, provide our employees with your business card, or provide information for billing and other business purposes. 
+
+We and/or our selected third-party partners may also collect data about visitors’ activities on this Website and across the Internet over time for non-advertising purposes, including to conduct analytics, measure trends, and streamline website usability. Please see the section below on “Automatic Data Collection” for more information. 
 
 **How We Use Information We Collect On Our Website**
 
-On this Website, PII is only collected on the Contact Us, Request a Demo, Get More Info, or Newsletter Signup sections.
+PII on this website is only collected on the Contact Us, Request a Demo, Get More Info, or Newsletter Signup sections. Information collected from whitepaper or contest submissions, or that you provide to an employee of TD, shall be used for the purposes disclosed at the time of collection, and may be used for marketing purposes relating to our products or services. Information collected for billing and related purposes shall be used for the purposes disclosed at the time of collection, as well as credit checks, invoicing, collection, troubleshooting, account maintenance, and other related business purposes. 
 
-**Communications From The Site**
+### Communications From The Site
 
-**_Newsletters_**
+ **Newsletters**
 
-If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. If you no longer wish to receive these email communications you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at privacy@thetradedesk.com.
+If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. If you no longer wish to receive these email communications you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at privacy@thetradedesk.com. 
 
-**_Service-related Announcements_**
+**Service-related Announcements**
 
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
-**Who We Share PII With**
+### Who We Share PII With
 
-  * We will share your personal information with third parties only in the ways that are described in this privacy statement.
-  * We may provide your personal information to companies that provide services to help us with our business activities such as sending email communications on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us
-  * We may also disclose your personal information:
-  * As required by law, such as to comply with a subpoena, or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * If The Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+We will share your personal information with third parties only in the ways that are described in this privacy statement.  
 
 
+• We may provide your personal information to companies that provide services to help us with our business activities such as sending email communications on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-**Third Party Websites**
+• We may also disclose your personal information: 
 
-The Trade Desk Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. While we endeavor to associate only with reputable entities, The Trade Desk is not responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit.
+o As required by law, such as to comply with a subpoena, or similar legal process, 
 
-**Updating / Deleting your PII**
+o When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
 
-If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please resubmit your contact information on the Contact Us page or send your request to us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) and we will process your request within 30 days of receiving it.
+o If The Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, or 
 
-**Data Retention**
+o any other third party with your prior consent to do so. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+### Third Party Websites
 
-**Security**
+The Trade Desk Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. While we endeavor to associate only with reputable entities, The Trade Desk is not responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit. 
 
-The security of your personal information is important to us. The Trade Desk has implemented security measures to prevent the loss, misuse, and alteration of the information that our Technology collects, but we make no assurances about our ability to prevent such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+### Updating / Deleting your PII
 
-**Third Party Advertisers**
+If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please resubmit your contact information on the Contact Us page or send your request to us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) and we will process your request within 30 days of receiving it. 
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking.[[DD1]](http://www.thetradedesk.com/privacy-policy/#_msocom_1) Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+### Data Retention
 
-**Tracking Technologies**
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-_Log Files_
+### Security
 
-As is true of most Web sites, we and our third party tracking-utility partner to gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+The security of your personal information is important to us. The Trade Desk has implemented security measures to prevent the loss, misuse, and alteration of the information that our Technology collects, but we make no assurances about our ability to prevent such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+### Third Party Advertisers 
 
-_Cookies_
+The Trade Desk follows the Digital Advertising Alliance Self-Regulatory Principles and the Network Advertising Initiative Code of Conduct. We may allow certain third parties to collect data about your web viewing behavior on The Trade Desk website and combine this data with information collected from other websites over time for purposes that include interest-based advertising. If you would like to learn more about this type of advertising, or would prefer to opt-out of interest-based advertising, U.S. residents may visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.networkadverising.org/choices](http://www.networkadverising.org/choices), European residents may visit [www.youronlinechoices.com](http://www.youronlinechoices.com/), and Canadian residents may visit <http://youradchoices.ca/choices/>. These websites allow you to opt-out of interest-based advertising by companies participating in these self-regulatory programs. To learn more about how to opt-out of interest-based advertising by The Trade Desk, please visit our [Opt-Out Page](http://www.adsrvr.org/). 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+## Automatic Data Collection
 
-You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+We and/or our selected third-party partners may also collect data about visitors’ activities on this Website and across the Internet over time for non-advertising purposes, including to conduct analytics, measure trends, and streamline website usability. The technologies used for this purpose may include log files, cookies, web beacons, and social media plug-ins as described below. One of the service providers we may use is Google Analytics. To learn more about how Google Analytics collects and processes data and the choices you may have to control these activities, you may visit <http://www.google/com/intl/en/policies/privacy/partners/>. 
 
-The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies.
+**Log Files**
+
+As is true of most Web sites, we and our third party tracking-utility partner(s) may gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+
+**Cookies**
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
+
+You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited. 
+
+The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. 
 
 **Clear Gifs**
 
-Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
+Our third party partners or service providers may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
 
-Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+**Social Media**
 
-**Testimonials**
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. Please see above for more information on third-party advertising activities on our Site. 
 
-We post customer testimonials on our web site which may contain personally identifiable information. We obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@thetradedesk.com.
+**California Do Not Track Disclosure**
 
-**Changes To This Privacy Policy**
+Please note that The Trade Desk does not currently honor browsers’ DNT (do not track) settings. 
 
-We may update this privacy policy to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices.
+### Testimonials
 
-**Contact Us**
+We post customer testimonials on our web site which may contain personally identifiable information. We obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@thetradedesk.com. 
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 505 Poli St., Ventura, CA 93001 or via email at privacy@thetradedesk.com.
+### Changes To This Privacy Policy
 
-  * [FOLLOW ON TWITTER](http://twitter.com/TheTradeDeskInc)
+We may update this privacy policy to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
+### Contact Us
 
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 42 N. Chestnut Street, Ventura, CA 93001 or via email at privacy@thetradedesk.com. 
+
+• [FOLLOW ON TWITTER](http://twitter.com/TheTradeDeskInc)
