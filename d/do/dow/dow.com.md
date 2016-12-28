@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235135id_/http%3A//www.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228043541id_/http%3A//www.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dow
-
-## Dow Values Privacy
 
 Your privacy is important to us. Together with our global Data Protection/Privacy Policy, this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
 
@@ -24,7 +22,7 @@ Your Choices
 Access, Update or Correct Your Personal Information  
 Contact Dow
 
-## What Information We Collect
+### What Information We Collect
 
 If permitted by applicable law, we may collect the following information:
 
@@ -42,7 +40,7 @@ _Google AdWords_. This website uses the Google AdWords remarketing service and p
 
 You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](https://tools.google.com/dlpage/gaoptout).
 
-## How We May Use andShare Your Personal Information
+### How We May Use andShare Your Personal Information
 
 If permitted by applicable law, we may use the personal informationwe collect through our website:
 
@@ -67,21 +65,21 @@ If permitted by applicable law, we may share yourinformation as described below:
 
 We will not use your personal information to send product or promotional advertising unless you have agreed to receive product or promotional advertising. Other than the purposes described above, Dow does not provide or sell your personal information to third-parties.
 
-## Location of Information
+### Location of Information
 
 Dow is a global organization with its corporate headquarters in the United States. Our servers, databases, and service providers are located in the United States and in other countries. Different countries have different privacy laws and requirements, and some, including the United States, may provide less legal protection for your personal information than others. By using this site, you are consenting to the collection, use and transfer of your personal information in or to the United States or other countries for the purposes describedin this Online Privacy Policy.
 
-## Use of Special Features or Areas of Our Website
+### Use of Special Features or Areas of Our Website
 
 Some of our websites include special features, such as surveys, licensed content; or an online store; or password protected areas, such as a customers-only area or a careers area. This Online Privacy Policy may be supplemented or amended from time to time by privacy statements that are specific to and appear on individual Dow websites, including but not limited to our investor and career sites. Generally, these statements provide details about the personal information we collect or do not collect on particular pages or areas of a website, why we need that information, and choices you may have about the use of that information.
 
 When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of a click-through agreement or another agreement between you and Dow are different than the terms of this Online Privacy Policy, the terms of that agreement will govern over this Online Privacy Policy.
 
-## Children's Privacy
+### Children's Privacy
 
 We do not knowingly collect information from children to sell or promote our products or services. We host educational programs in science for students and teachers in our communities, but we do not invite minors to contact us or manually provide personal information. Visitors must be 18 years of age or older to submit registration or survey information. Parents or legal guardians may register to obtain information or participate in a survey on behalf of their children. If you believe a child under the age of eighteen has sent personal contact information to Dow, please [contact us](https://web.archive.org/en-us/contact-us) immediately at the address listed below and we will use reasonable efforts to promptly remove thatinformation from our databases.
 
-## Security
+### Security
 
 We take commercially reasonable precautions to protect the confidentiality, integrity and security of your personal information. We urge users to be careful with personal information while using the Internet.
 
@@ -89,25 +87,25 @@ _SSL Protection_. Some password-protected areas of our website, require that a s
 
 _Password Protection_. You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing one of our websites using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing our website using a password assigned to you, even if the individual is not, in fact authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on the site.
 
-## External Links
+### External Links
 
 Some of our websites may contain links to other websites on the Internet that are not under the control of or maintained by Dow. This icon indicates a link to an external web site that is not hosted by The Dow Chemical Company or a Dow subsidiary. Such links do not constitute an endorsement by Dow of those websites, the content displayed, or the persons or entities associated with them. By visiting a linked website from a Dow website, you acknowledge that Dow is providing these links to you only as a convenience and you agree that Dow is not responsible for the content of such websites. External sites are governed by their own terms and policies and are not governed by Dow's Online Privacy Policy, Terms of Use, Accessibility Statement, or other terms and policies.
 
-## Changes to This Online Privacy Policy
+### Changes to This Online Privacy Policy
 
 We reserve the right to modify this Online Privacy Policy and related business practices at any time by posting updated text on this site and updated effective date at the bottom of this page. As we add new features and functionality to our websites or Dow policies or applicable laws evolve, we may need to update or revise this Online Privacy Policy. We reserve the right to do so, at any time and without prior notice, by posting a revised version on our website. These changes will be effective as of the date we post a revised version on our website. Your use of one of our websites following any such change constitutes your consent to the terms of the revised Online Privacy Policy. For this reason, it is important for you to review this Online Privacy Policy regularly.
 
-## Your Choices
+### Your Choices
 
 We respect your right to make choices about the ways we collect, use and disclose your personal information. In some cases, we will ask you to indicate your choices at the time we collect your personal information. If you receive email or marketing communications, you may "opt-out" of receiving e-mail and other communications from us at any time by using the unsubscribe feature included in the e-mails we send. If you are a customer of Dow products, we reserve the right to contact you with information regarding health and safety, applicable regulations,or stewardship of our product.
 
-## Access, Update or Correct Your Personal Information
+### Access, Update or Correct Your Personal Information
 
 If you have created an account or a personal profile on one of our websites, you may be able to access and update some or all of your personal information on your account settings or profile page. If you wish to access, update or correct other personal information, please contact us. We will contact you and may ask you for additional information to verify your identity. In most cases, we will update information as requested. In some cases, however, we may limit or deny your request if permitted or required by law or if we areunable to verify your identity.
 
-## Contact Dow
+### Contact Dow
 
-If you have any questions about this Online Privacy Policy or our privacy practices, please contact us via phone at the numbers listed at <http://www.dow.com/assistance/dowcig.htm>. You may also contact us via online form at <http://www.dow.com/assistance/thoughts.htm> or via our email address at [dowcig@dow.com](mailto:dowcig@dow.com). You may also send postal correspondence to:
+If you have any questions about this Online Privacy Policy or our privacy practices, please contact us via phone at the numbers listed at [http://www.dow.com/assistance/dowcig.htm](https://web.archive.org/contact-us). You may also contact us via online form at [http://www.dow.com/assistance/thoughts.htm](https://web.archive.org/contact-us) or via our email address at [dowcig@dow.com](mailto:dowcig@dow.com). You may also send postal correspondence to:
 
 **In the United States:**
 
@@ -122,13 +120,13 @@ U.S.A.
 
 Dow Chemical Canada ULC.  
 Privacy Officer  
-2100- 450 1 ST SW Calgary AB T2P 5H1  
+2400- 215 2 ST SW Calgary AB T2P 1M4  
 403-267-3527  
 [burt@dow.com](mailto:burt@dow.com)
 
-DowAgroSciencesCanada Inc.  
+Dow AgroSciences Canada Inc.  
 Privacy Officer  
-2100- 450 1 ST SW Calgary AB T2P 5H1  
+2400- 215 2 ST SW Calgary AB T2P 1M4  
 403-735-8861  
 [saudette@dow.com](mailto:saudette@dow.com)
 
