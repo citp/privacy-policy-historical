@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jobsonline.com privacy policy that was archived on 2016-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160430184026id_/http%3A//www.jobsonline.com/misc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsonline.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228040150id_/http%3A//www.jobsonline.com/misc/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -13,7 +13,7 @@
 <script type="text/javascript">
 <!--
 
-var sid = "95a3b03e2505f698dd62139b3e178177";
+var sid = "991236dbdd3f166e286db6777d0812b4";
 // -->
 var siteUrl = "http://www.jobsonline.com";
 var adLocationId = 0;
@@ -62,6 +62,7 @@ var adLocationId = 0;
 
 
 
+
 <ul id="what-where">
 	<li>
 		<label for="input-search">Job <span style="font-size: 9px; line-height: 9px; font-weight: normal">you're looking for?</span></label>
@@ -71,7 +72,7 @@ var adLocationId = 0;
 	<li>
 		<label for="input-location">Zip <span style="font-size: 9px; line-height: 9px; font-weight: normal">where you live?</span></label>
 		<input name="location" id="input-location" class="text" type="text">
-		<span class="help">zip code</span>
+		<span class="help" id="input-location-help">zip code</span>
 	</li>
 	<li>
 		<label for="input-submit">&nbsp;</label>
@@ -99,7 +100,7 @@ var adLocationId = 0;
 <div id="content">
 
 <p>
-This privacy policy is effective as of January 3, 2014. JobsOnline
+This privacy policy is effective as of June 2, 2016. JobsOnline
 respects the privacy of consumers. JobsOnline will not knowingly
 disclose personally identifiable information about its consumers to
 any third party advertiser other than as set forth in this privacy
@@ -144,9 +145,14 @@ pages and to deliver special services.
 We may share information with third parties, and allow third parties to use 
 cookies or web beacons to collect information about you, in connection with 
 providing you information about products and services that might be of interest 
-to you.  These authorized third parties may link your name, address and e-mail 
-address to other information which they collect, such as past online/offline 
-purchase information and Web usage from other sites. </p>
+to you.  These authorized third parties may link your name, address, e-mail 
+address, IP address, browser or operating system type and version, and demographic or 
+inferred-interest information to other information which they collect, such as past online/offline 
+purchase information and Web usage from other sites. These authorized third parties 
+may use such information to identify specific individuals on unaffiliated websites, 
+apps, or online services for advertising, analytics, attribution, and reporting purposes, 
+including to send marketing emails based on the fact that a consumer visited a particular website.
+</p>
 
 <p>
 Cookies are text files that are placed on a Web site's visitor browser. We and 
@@ -363,7 +369,18 @@ pageTracker._trackPageview();
 </script>
 
 
+<iframe id="session-keepalive" width="1" height="1" style="border: none"></iframe>
+<script>
+function keep_alive() {
+    http_request = new XMLHttpRequest();
+    http_request.open('GET', "/session_keepalive.html");
+    http_request.send(null);
+};
+setInterval(keep_alive,570000); // ping every 9.5 minutes
+</script>
 
 
-
-<!-- web2 --></body></html>
+<!--
+web4
+-->
+</body></html>
