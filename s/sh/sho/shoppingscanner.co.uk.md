@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppingscanner.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509073205id_/http%3A//www.shoppingscanner.co.uk/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingscanner.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228113333id_/http%3A//www.shoppingscanner.co.uk/policy/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use - Shoppingscanner
+# Privacy Policy & Terms of Use | Shoppingscanner
 
 Welcome to the shoppingscanner.co.uk website. This Privacy Policy is meant to help you understand what data we collect from our users and how we share this information. We care about your privacy. Please do take the time to get to know our practices.   
 Using shoppingscanner.com the user automatically accepts this privacy policy. 
