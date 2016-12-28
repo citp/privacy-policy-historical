@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621090414id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glispa.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228092658id_/http%3A//www.glispa.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - glispa is a global mobile marketing company that guarantees results glispa is a global mobile marketing company that guarantees results
+# Privacy Policy - glispa is a global mobile ad tech company that guarantees results glispa is a global mobile ad tech company that guarantees results
 
-Welcome to the website of glispa (“Site”). We are owned and operated by glispa GmbH (“glispa”). We can be reached via email at privacy@glispamedia.com.
+Welcome to the website of glispa (“Site”). We are owned and operated by glispa GmbH (“glispa”). We can be reached via email at privacy@glispamedia.com. 
 
-When you visit our Site, glispa collects and stores only the following personal information about you: the name of the domain from which you access the Internet, the date and time you access the Site, and the Internet address of the website from which you linked directly to the Site. glispa uses this information for internal purposes only, including to measure the number of visitors to the different sections of the Site, and to help make the Site more useful to visitors.
+When you visit our Site, glispa collects and stores only the following personal information about you: the name of the domain from which you access the Internet, the date and time you access the Site, and the Internet address of the website from which you linked directly to the Site. glispa uses this information for internal purposes only, including to measure the number of visitors to the different sections of the Site, and to help make the Site more useful to visitors. 
 
-If you identify yourself by sending an email to glispa, glispa may collect and store your email address and any other information provided by you in your email. glispa may also contact you and/or send you information via your email address. If you provide glispa with your telephone number, glispa may contact you by telephone. You may ask glispa to delete any information about you and/or cease further contact at any time by sending an email to [privacy@glispamedia.com](https://web.archive.org/web/20160621090414id_/http%3A//www.glispa.com/privacy@glispamedia.com).
+If you identify yourself by sending an email to glispa, glispa may collect and store your email address and any other information provided by you in your email. glispa may also contact you and/or send you information via your email address. If you provide glispa with your telephone number, glispa may contact you by telephone. You may ask glispa to delete any information about you and/or cease further contact at any time by sending an email to [privacy@glispamedia.com](https://web.archive.org/web/20161228092658id_/http%3A//www.glispa.com/privacy@glispamedia.com). 
 
-When you visit our Site as well as certain third-party web sites on which ad units placed through us may be visualized, so-called “cookies”, i.e. small text files are stored on your computer, featuring the words “glispa” or “glispamedia” in the file name. Cookies allow us to analyse the way our Site, or, as the may be, third-party web sites are being used by you. The information generated through the cookie may be transmitted to servers located in the U.S. and stored on such servers. The information will be used upon our request to evalute the way you use our web site and/or the ad units placed through us, to compile reports on web site activities, and to provide further services in connection with the usage of web sites and the Internet. Your abridged IP address will also be used to identify the geographic country or region from which you are accessing our Site or third-party sites that feature ad units placed through us.
+When you visit our Site as well as certain third-party web sites on which ad units placed through us may be visualized, so-called “cookies”, i.e. small text files are stored on your computer, featuring the words “glispa” or “glispamedia” in the file name. Cookies allow us to analyse the way our Site, or, as the may be, third-party web sites are being used by you. The information generated through the cookie may be transmitted to servers located in the U.S. and stored on such servers. The information will be used upon our request to evalute the way you use our web site and/or the ad units placed through us, to compile reports on web site activities, and to provide further services in connection with the usage of web sites and the Internet. Your abridged IP address will also be used to identify the geographic country or region from which you are accessing our Site or third-party sites that feature ad units placed through us. 
 
-You may prevent your browser from saving Cookies by adjusting the corresponding settings in your browser software. However, please be advised that in such case, you may not be able to use all functions on Site and/or on third-party sites to their full extent.
+You may prevent your browser from saving Cookies by adjusting the corresponding settings in your browser software. However, please be advised that in such case, you may not be able to use all functions on Site and/or on third-party sites to their full extent. 
 
-When you use certain mobile devices, your resettable mobile device ID may be recorded by us. You may reset this ID in the following manner:
+When you use certain mobile devices, your resettable mobile device ID may be recorded by us. You may reset this ID in the following manner: 
 
 **Device Software Version iOS 7**
 
@@ -40,3 +40,8 @@ See the following guide recommended by Google: <http://www.tomsguide.com/faq/id-
 **Right to information**
 
 Upon your request, we will gladly inform you free of charges whether and, as the case may be, which personal data are stored in respect of you. Incorrect data will be rectified by ourselves upon notification.
+
+  
+**Involvement of third party companies**
+
+glispa may hire third party companies to perform certain business related functions such as processing payments on its behalf. These third party companies may request that you provide certain personal data for the purpose of making payments through its financial institutions and complying with any applicable laws and regulations.
