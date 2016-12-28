@@ -1,104 +1,104 @@
-> *The following text is extracted and transformed from the skyslope.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130141047id_/http%3A//www.skyslope.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyslope.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228020102id_/https%3A//www.skyslope.com/privacy-policy) for the most accurate reproduction.*
 
-# SkySlope
+# SkySlope Privacy Policy - SkySlope
 
-|   
----  
-  
-**Last Updated: May 27, 2010**  
-  
-Thank you for visiting the [www.skyslope.com](http://www.skyslope.com/) website. Your privacy and the integrity of any information you provide are important to us at **SkySlope™** , the owner and operator of this website.
+**Updated** **: August 25 th, 2015**
 
-  
-We have developed the following Privacy Policy for your protection.
+SkySlope, Inc. (“SkySlope”) knows that you care about how your personal information is used and shared - and we take your privacy seriously.  This privacy policy (“Privacy Policy”) covers SkySlope’s treatment of personally identifiable information (“Personal Information”) and enterprise information (such as: Agency Contracts, Sale Contracts, Property Disclosures, Escrow and Title paperwork, etc.) (“Enterprise Information”) that you submit, or SkySlope otherwise gathers, when you access or use the Service. Together, Personal Information and Enterprise Information will be referred to as “Information”.
 
-  
-This website is connected by "hyperlinks" to other third party sites. We are not responsible in any way for the privacy practices on other third party sites and suggest that you review the privacy policies on those linked sites before using them.
+**By using the www.SkySlope.com website (“Site”) or any of our applications (together with the Site, the “Service”) you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you consent that we will collect, use, and share your information as set forth below.  **
 
-  
-We are accountable for our Privacy Policy and our practices on our website, including the Privacy Policy as set out below. If you have any questions or concerns regarding this Privacy Policy, please address them via e-mail to us via our “Contact Us” page.  
-  
-   
-What is Personal Information?   
-  
-Personal information is any piece of information about an identifiable individual. Personal information does include the name, title, business address, or business telephone number of an employee of an organization (“Personal Information”).
+### What Information does SkySlope collect?
 
-  
-The terms “we”, “us” and “our” means [ www.skyslope.com](http://www.skyslope.com/) and its owner as designated herein.  “You” and “your” means the individual who is a customer (by virtue of viewing our materials or using our online services), employee or independent contractor of the company who owns and operates this web site.  
-  
-   
-**What Information is Collected?**  
-  
-We collect three kinds of information from our website:  
-(1) your voluntarily provided Personal Information;   
-(2) anonymous information about your visit; and,   
-(3) "cookie" based information to help us track which pages on our websites you're most interested in.  
-  
-   
-  
-**(1) Your Personal Information:**  
-During normal website usage, you can visit our site without communicating any personal information. However, to make use of certain features on our site, such as purchasing products, advertisements, promotions, personalized services, paid subscriptions or newsletters, users may be asked to register with us.
+_**Information You Provide:**_
 
-  
-As part of this voluntary registration, we may request contact information (such as name, mailing address, email address, etc.) and other data required for operating these services. We may only collect personal information from you if you voluntarily provide it. By voluntarily providing this personal information to us, by sending us a comment or suggestion, by entering a chatroom, blog  or bulletin board, or by entering a contest or promotion that is posted on our site, you will be consenting to the collection, use and distribution of your personal information by us for the purposes set out herein. You are under no obligation to provide us with personal information, and may access and enjoy many parts of our website without providing us any personal information.  
-  
-  
-Among other things, the following is a representative list of reasons we may ask for your personal information:  
-  
-   
-  
-  * To run promotions;
-  * To respond to your questions or the comments that you email to us;
-  * To provide you with newsletters or other subscription information;
-  * To distribute to sponsors and advertisers who run the promotions and /or for purposes of marketing by our sponsors and advertisers;
-  * To run chatrooms, blogs, discussion groups and bulletin boards;
-  * To gather aggregate information on website use and to provide services to the public of a general or specific nature, paid or unpaid.
+By downloading and enabling the Service, you are authorizing SkySlope to access and store all of the foregoing types of Information:
 
-  
-   
-  
-**(2) Anonymous Information About Your Visit:**  
-When you visit our site, information about your visit (e.g. how you navigate the site) may be collected and stored. This information may include the length of your visit, the date and time of your visit, the pages you look at and the sites you visit before and after leaving our site. It does not include personally identifiable information such as your name, mailing or email address or telephone number. We use this non-identifiable and aggregate information to better design our website. We also may share this information with our affiliates, suppliers, sponsors and advertisers. We collect the following non-identifiable information when you visit our website:  
-  
-   
-  
-  * Your IP address
-  * Your Internet Service Provider (ISP)
-  * Your Web Browser
+  * Information you elect to submit as part of the registration process such as your name, email address and credit card number.
+  * Information you elect to submit (including, without limitation, any text, documents, images or other content or materials) to any areas of the Service that are accessible by your organization’s primary Admin user and broker (“User Submissions”).
+  * Payment related Information, such as your credit card number and expiration date.  Such information will be used only for the purposes of processing payments to SkySlope for the Services.
 
-  
-   
-  
-**(3) "Cookie"-Based Information:**  
-To tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry-in text file, called a "cookie", on your hard drive. A cookie is transferred to your browser by a web server and can only be read by the server that gave it to you. Cookies do not reveal personal information. The only personal information a cookie can contain is information you supply yourself such as passwords, purchases and preferences. Cookies cannot read data from your hard drive. 
 
-  
-You may visit the site with your cookies turned off. However, you may not be able to access some of the areas of our site, which require cookies for customization and personalization. 
 
-**How does the Privacy Policy deal with Children?**
+You acknowledge and agree that you will not (i) provide us with any information that you do not have the right to provide, or (ii) share, via the Service, any information you do not have the right to share (such as information that is confidential to any third party and that you are not authorized to share with your intended recipients).
 
-  
-Children should always get permission from their parents before sending information about themselves (such as their names, email addresses, and phone numbers) over the Internet. We will not knowingly encourage any minor to register with our site or to access those features which require registration. If a child has provided us with personal information, we ask that any concerned parent or guardian of the child contact us. 
+_**Information You Authorize Us to Collect:** _ Certain features of the Service may allow you to import information from third party services (such as Salesforce) (“Third Party Services”). By requesting that SkySlope import such information – you authorize SkySlope to use your Third Party Service username and password to access the applicable Third Party Service Account. This authentication process is managed by the applicable Third Party Service provider. SkySlope will not use your Third Party Service account credentials for any other purpose.
 
-**What if I do not agree with our Privacy Policy?**
+_**Cookies:**_ Whenever you interact with our Service, we may automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, “cookie” information, the type of browser and/or device you’re using to access our Service, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Service are visited and by how many people.  You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.  When we collect the usage information described in this paragraph, we only use this data in aggregate form, and not in a manner that would identify you personally.  For example, this aggregate data can tell us how often users use a particular feature of the Service, and we can use that knowledge to make the Service interesting to as many users as possible.  
 
-  
-By visiting our website and voluntarily providing personal information to the website, you agree to the terms of the online Terms of Use Agreement and this Privacy Policy. However, we welcome your comments and/or suggestions on improving our website and policies. If you do not agree to these terms, or wish to limit the use of any of your personal information that we may have, you may contact us via email at our “Contact Us” page. In the case of promotions, we will occasionally ask if you consent to the forwarding of Personal Information to our promotional and advertising partners. You may confirm or decline your consent.
+_**Automatically Collected Information:**_ We may automatically receive and store certain, anonymous types of information whenever you interact with the Service.  Such information may include the your IP address, domain server, and type of Internet browser.  This information helps us, among other things, analyze trends and administer the Service.  This information is anonymous and contains no personally identifiable data.
 
-  
-As a function of our fulfilling certain legal requirements, we may disclose Personal Information without consent.
+### How does SkySlope use the information it collects?
 
-  
-We will retain Personal Information only as long as is required for the purposes we describe and as is required under law. Once Personal Information is no longer required (or if you have opted-out or withdrawn your consent), it is our practice that it is destroyed, deleted or made anonymous.
+SkySlope uses your Information **only** as follows:
 
-  
-All decisions we make involving Personal Information are based on accurate, complete and up-to-date information. We rely on you, however, to disclose all material information and to inform us of any relevant changes or corrections as they may relate to you. We encourage you to contact us as soon as possible, and we will make the appropriate reasonable corrections or amendments, upon receipt of appropriate evidence.
+  * To operate and maintain the Service (such as, for the purposes of fixing malfunctions, testing our security systems, etc.).
+  * To provide you with the features, functions and benefits of the Service.
+  * To enhance, improve and further develop the Service (such as, creating new features or functions, refining the user experience, increasing Service technical performance, etc.).
+  * We will use your contact information to provide you with notices related to your use of the Service.
+  * To help personalize the Service experience for you (such as, remembering your information so you will not have to enter it each time you use the Service).
+  * And for the other purposes referenced in the “Will SkySlope Share Any of the Information it Receives” section below (such as, for the purposes of legal compliance).
 
-  
-We will protect Personal Information with appropriate safeguards and security measures. We utilize a combination of physical, administrative and electronic measures to ensure Personal Information is adequately protected on a day-to-day basis, for storage and disposal.
 
-  
-If you send us an email message that includes Personal Information, we will use that information to respond to your inquiry. Please note that email is not necessarily secure against interception.
 
-  
-We reserve the right to add, modify or otherwise update this Privacy Policy at any time and in our sole discretion.
+### Will SkySlope Share Any of the Information it Receives?
+
+To the limited extent we collect Information – we neither rent nor sell your Information to anyone.  We share your Information **only** as described below.
+
+_**Within Your Organization:**_ As mentioned above - certain of your User Submissions may be shared internally with your organization’s primary Admin user and broker. 
+
+_**Agents:**_  We employ other companies and people to perform tasks on our behalf. Your information may be accessed by these partners/employees, in the event that we need to share your Information with them to provide our services or customer support to you. Unless we tell you differently, SkySlope’s agents do not have any right to use Information we share with them beyond what is necessary to assist us.
+
+_**Business Transfers:**_   If SkySlope undergoes a merger or is acquired, then all or substantially all of its assets may be transferred to the acquirer (and information covered by this policy is such an asset). Please note, information will remain protected by this policy in accordance with its terms.
+
+_**Protection of SkySlope and Others:** _ We may release Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of SkySlope, our employees, our users, or others.
+
+_**With Your Consent:** _ Except as set forth above, you will be notified when your Information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+### What You can Do to Your Personal Information.
+
+_**Editing your profile:**_
+
+If you are a registered user of the Service, we provide you with tools to access or modify your Information and other profile information.  These tools are accessible from the Personal Information tab of the MySkySlope portal while logged in to your SkySlope account.  
+
+_**Deleting your account:**_
+
+You can delete your account by contacting your assigned SkySlope account manager..  Subject to the “Limitations on Deletion” section below, when you request us to delete your account for the Service, your data will be permanently deleted from our servers and access to your account will be disabled.  
+
+_**Limitations on Deletion:**_
+
+Even after you remove information from your profile or delete your account, your Information may be retained by us on back-up servers indefinitely.   We keep such servers to help protect the stability and availability of the Service (such as protecting it from viruses and malfunctions).  
+
+In addition, copies of your information may remain viewable elsewhere to the extent it has been publicly published by you or otherwise shared by you with others (such as your User Submissions).  
+
+We may also retain certain information to prevent identity theft and other misconduct even if deletion has been requested.  
+
+We may also indefinitely retain and use any aggregated data derived from or incorporating your Information after you update or delete it, **but not in a manner that would identify you personally**.
+
+_**Laws and Regulations:**_
+
+We may also retain your Information to the extent required to comply with (or we deem it reasonable in light of) any laws or regulations.
+
+_**California Residents:**_
+
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.  If you are a California resident and would like a copy of this notice, please mail a written request to the SkySlope (contact info below).
+
+### How We Protect Your Information
+
+SkySlope takes certain precautions to protect your Information and to limit the risk that it will be accessed without authorization, including use of certain industry standard technologies and practices.  That said, we cannot guarantee the security of such Information.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.  No security system is perfect.  
+
+If we learn of a security systems breach, then we may attempt to notify you via email, phone, physical mail, or by a posting on your Service account page - so that you can take appropriate protective steps.  Pursuant to our Terms of Service you have consented to receive such notice by electronic means (provided that such consent is void where prohibited by applicable law).  
+
+To receive a free written notice of a security breach, or if you have any questions about the security of the Service, please contact us at support@skyslope.com.
+
+In addition to the security measures referenced above, your Service account is protected by a password for your privacy and security.  You must prevent unauthorized access to your account and information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.  
+
+**Changes to this Privacy Policy**
+
+This Privacy Policy was last changed on the date set forth at the top of the policy.  We’re constantly trying to improve the Service, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on www.skyslope.com, by sending you an email and/or providing a notification through your Service account.  In addition, we will also edit the date at the top of this policy to reflect the date of the changes.  Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Service, and you are still responsible for reading and understanding them.  If you use the Service after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.  
+
+Use of information we collect now is subject to the Privacy Policy in effect at the time such information is provided to, or collected by, us.
+
+**Contacting Us**
+
+If you have any questions or concerns regarding our privacy practices, please send us a detailed message to support@skyslope, or: SkySlope, Inc. (Attn: Privacy Officer) 1210 G Street, Sacramento, CA 95814.
