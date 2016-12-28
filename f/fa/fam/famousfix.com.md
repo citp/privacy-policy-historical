@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the famousfix.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609110118id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfix.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228013449id_/http%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## 1\. General
 
-Lucy Media Pty Ltd ("Lucy Media") welcomes you. This Privacy Policy applies to web sites and interactive services owned or operated by Lucy Media and its subsidiaries which include, but are not limited to, FamousFix.com, WhosDatedWho.com, FanPix.net, AllStarPics.net, LucyWho.com, LucyLooks.com, LucyMe.com, BDBPhotos.com, LucyPhotos.com and TheBaseballWebsite.com (individually the "Service"; together the "Services").
+Lucy Media welcomes you. This Privacy Policy applies to web sites and interactive services owned or operated by Lucy Media and its subsidiaries which include, but are not limited to, FamousFix.com, WhosDatedWho.com, FanPix.net, AllStarPics.net, LucyWho.com, LucyLooks.com, LucyMe.com, BDBPhotos.com, LucyPhotos.com and TheBaseballWebsite.com (individually the "Service"; together the "Services").
 
 Lucy Media is committed to protecting your privacy when you visit or use the Services as further outlined in this policy. As a condition of using the Services, you agree to provide Lucy Media with certain personal information. This information includes, but not limited to: your email address as well as your demographic information (e.g., hometown, gender, and age). Please note that nowhere on the Services do we knowingly collect contact information from children under the age of 14. Please review this privacy policy periodically as we may update it from time to time. Each time you visit or use the Services, or provide us with information, you are accepting the practices described in this privacy policy at that time. You agree that by using the Services you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this privacy policy.
 
