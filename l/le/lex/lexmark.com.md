@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625011646id_/http%3A//www.lexmark.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228172250id_/http%3A//www.lexmark.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Security | Lexmark United States
 
 Lexmark is committed to appropriately protecting and managing any personal information you share with us on this site. We provide this Privacy Statement to describe our online information practices and the choices you can make about the way your information is collected and used.
 
-Personal information collected on Lexmark sites and services may be stored and processed in the United States or any other county in which Lexmark or its affiliates, subsidiaries, or agents maintain facilities. By using a Lexmark site or service you consent to any such transfer of information outside you country. Lexmark complies with the U.S. Commerce Department's U.S.-EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework regarding personal information from European Union member countries and Switzerland and certifies its adherence to the Safe Harbor Privacy Principles. More information about the Safe Harbor Program can be found at: <http://export.gov/safeharbor>.
+Personal information collected on Lexmark sites and services may be stored and processed in the United States or any other country in which Lexmark or its affiliates, subsidiaries, or agents maintain facilities. By using a Lexmark site or service you consent to any such transfer of information outside your country. Lexmark complies with the U.S. Commerce Department's U.S.-EU Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework regarding personal information from European Union member countries and Switzerland and certifies its adherence to the Safe Harbor Privacy Principles. More information about the Safe Harbor Program can be found at: <http://export.gov/safeharbor>.
 
 ### Sites Covered by this Privacy Statement
 
@@ -12,7 +12,7 @@ This Privacy Statement applies to the Lexmark.com website in the United States. 
 
 ### What Information We Collect
 
-This Privacy Statement applies to all personal information collected by or submitted to Lexmark (or carefully selected third parties acting on Lexmark's behalf)."Personal information" is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information simply to browse our site.
+This Privacy Statement applies to all personal information collected by or submitted to Lexmark (or carefully selected third parties acting on Lexmark's behalf). "Personal information" is data that reasonably can be used to identify or describe an individual. You do not need to provide us personal information simply to browse our site.
 
 Lexmark collects personal information when:
 
