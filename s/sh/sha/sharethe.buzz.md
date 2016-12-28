@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharethe.buzz privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127091529id_/http%3A//sharethe.buzz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethe.buzz privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228090648id_/http%3A//sharethe.buzz/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Share The Buzz
 
-We at File Creator LTD. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at Bullseye Ventures LTD(“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://sharethe.buzz/terms-use.html "Terms").
 
@@ -146,5 +146,3 @@ Until the new policy takes effect, you can choose not to accept it and terminate
 This policy is an integral part of the Service [Terms of Use](http://sharethe.buzz/terms-use.html "Terms").
 
 **Last updated: 15th of February 2015**
-
-Nov 25, 2013
