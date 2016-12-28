@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613170510id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228013152id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -8,7 +8,7 @@ Zamzar is registered in England as a limited company (number 6463494).
 
 **This policy is effective from 1st September 2006**
 
-**This policy was last modified on 8th September 2014**
+**This policy was last modified on 1st September 2016**
 
    
 
@@ -77,7 +77,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 Your files and the content of those files belong to you, so it is important to know that as part of our commitment to privacy we will not share, sell or pass on your files to any third parties. The only time any of our team members will handle your files is in the event of a support enquiry, or if a conversion fails and requires further investigation or in the circumstances outlined above in the "Certain Exceptional Disclosures" section. 
 
   
-When users upload files to be converted Zamzar stores those files on its servers until such time as those files have been converted to the new file format. As soon as this has been done Zamzar removes the original user files from its servers. The converted files remain in place on the servers for users to download, until such time as they expire, at which point they are deleted, or in the case of a subscribed user until such time as that user deletes those files. Files stored for download are only accessible by Zamzar and through the clickable link generated for download. 
+When users upload files to be converted Zamzar stores those files on its servers until such time as those files have been converted to the new file format. As soon as this has been done Zamzar removes the original user files from its servers. The converted files remain in place on the servers for users to download, until such time as they expire (currently 24 hours for the free version of the service), at which point they are deleted, or in the case of a subscribed user until such time as that user deletes those files. Files stored for download are only accessible by Zamzar and through the clickable link generated for download. 
 
   
 In the course of providing the Services data is transferred to and from servers located in the United States. By agreeing to Zamzar's Terms of Service you accept the transfer of such data as is necessary to provide the Services. In the case of those customers paying for Services those customers also agree to the transfer of such data as is necessary to process payment with third party payment providers such as PayPal. PayPal has access to the personal data they require to perform their functions but may not use personal data for any other purposes and they must process personal data in accordance with the Data Protection Act 1998. PayPal offers a secure environment for online card payments. In addition, your card details may be shared with any third parties as is necessary to process your transaction, for example, financial institutions necessary to authorise and clear your card payment. 
