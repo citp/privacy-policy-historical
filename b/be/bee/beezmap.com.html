@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beezmap.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608205246id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beezmap.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228233221id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns:og="http://ogp.me/ns#"><head>
         
@@ -53,7 +53,7 @@
     </head>
 
     <body>
-        <div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+        <div id="fb-root"></div>
         <script>(function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
@@ -74,7 +74,7 @@
           <li class="login"><a href="/user/loginalerts">Login</a></li>
           <li> or </li>
                 <li class="signup"><a href="/user/signup">Sign Up</a></li>
-        <li>|</li>
+        <!--<li>|</li>-->
     <li>
         <!-- AddThis Button BEGIN -->
 		
@@ -103,7 +103,7 @@
         <li><a href="/user/manageprofile"><span>&nbsp;</span> Profile  List</a></li>
                     <li><a href="/user/storymaplist"><span></span> Collages</a></li>
         <li><a href="/user/newslist"><span></span> News <span></span></a></li>
-                    <li><a href="/user/newslist/mode/MKfffofR5JhQZv4="><span></span> Notification <span></span></a></li>
+                    <li><a href="/user/newslist/mode/0UB+KDbjRR8="><span></span> Notification <span></span></a></li>
          
     </ul>
 </div>
@@ -117,35 +117,41 @@
 
 
  <div id="fb-root"></div>
-
-
 <script type="text/javascript">
-    window.fbAsyncInit = function() {
-        FB.init({ appId: '303329649800838',
-            status: false,
-            cookie: true,
-            xfbml : true,
-            oauth : true 
-        });
-    };
-    (function() {
-        var e = document.createElement('script');
-        e.type = 'text/javascript';
-        e.src = document.location.protocol +
-        '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-    } ());
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '1155932904494712',
+    cookie     : true,  // enable cookies to allow the server to access 
+                        // the session
+    xfbml      : true,  // parse social plugins on this page
+    version    : 'v2.8' // use graph api version 2.8
+  });
+  };
+ // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 
 </script>
 <script>
-    function fBlogout(siteUrl){
-        //alert(siteUrl);
-        FB.logout(function(siteUrl){
-            window.location.href = siteUrl;
-        });
-        window.location.href = siteUrl;
-    } 
+function fBlogout(siteUrl){
+    
+    if(typeof FB.logout == 'function'){
+        
+        if (FB.getAuthResponse()) {
+            
+         FB.logout(function(response) { window.location.href = siteUrl; }); 
+         return;
+        }  
+    };
+
+    window.location.href = siteUrl;
+    return;  
+}
 </script> <div class="body-container index_page_body">
 
 <div class="main-contents content-full user-loginalerts">
