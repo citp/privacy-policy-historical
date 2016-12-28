@@ -1,73 +1,91 @@
-> *The following text is extracted and transformed from the tubecamgirl.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605033501id_/http%3A//tubecamgirl.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubecamgirl.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228012859id_/http%3A//www.imcbill.com/privacy) for the most accurate reproduction.*
 
-# TubeCamGirl - Free Tube Webcam Girls Live
+# Privacy Policy
 
-Last revision: Mar 16, 2011 
+**Privacy Policy**
 
-TUBECAMGIRL Privacy Policy 
+**IMC-Bill operates the following websites:**  
+clubseventeen.com  
+seventeenlive.com  
+clubsweethearts.com  
+youngbusty.com  
+mysexykittens.com  
+packofporn.com (network)  
+elegantraw.com  
+beautyandthesenior.com  
+groupsexgames.com  
+jimslip.com  
+larasplayground.com  
+redlightsextrips.com  
+rodox.com  
+retroraw.com  
+vintageclassicporn.com  
+livetopcams.com  
+fapplr.com  
+stockerz.com  
+passie.nl  
+sinfulxxx.com  
+bbvideo.com  
+secretfriends.com  
+clubbangboys.com  
+teensfromtokyo.com  
+whyfap.com  
+submissed.com  
+plumperd.com  
+bbwsandwich.com  
+bbwfightclub.com  
+fatsitting.com  
+teenrs.com  
+18dom.com  
+cfnm18.com  
+drfeelgood.com  
+spicyroulette.com  
+chatgf.com  
+tubecamgirl.com  
+interraced.com  
+amsterdamsextrips.com  
+gojimslip.com  
+screampies.com  
+ganzgeil.com  
+granddadz.com
 
-IMPORTANT NOTICE: In addition to the capitalised terms defined elsewhere in this Privacy Policy, all other capitalised definitions used herein are defined in the [TOS](http://www.tubecamgirl.com/terms-condition.php).  
-The use of the live video web site TUBECAMGIRL.com and/or Video Chat(s) or The Service provided by TUBECAMGIRL (hereinafter also referred to as “we” or “us”) is subject to the provisions of this Privacy Policy, including any amendments or updates hereto. This Privacy Policy is incorporated into and is subject to the TOS of TUBECAMGIRL. If you do not agree to this Privacy Policy, please do not use The Service.   
-TUBECAMGIRL takes your privacy seriously and is committed to ensure the protection of your privacy, according to the rules of the Dutch Personal Data Protection Act (“Wet bescherming persoonsgegevens”, Stb. 2000, 302). We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.   
-BY USING OR ACCESSING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET FORTH HEREUNDER. TUBECAMGIRL reserves the right to amend this Privacy Policy at any time and without notice, and it is your responsibility to review this Privacy Policy for any changes. Your use of The Service following any amendment of this Privacy Policy will signify your assent to and acceptance of its revised terms. 
+**1.** IMC-BILL (the "website") applies the following Privacy Policy in order to protect your privacy. We understand your privacy is crucial to you.
 
-Please note that any video, image, or other content posted by you at the direction of Users onto The Service becomes published content and is not considered personally identifiable information subject to this Privacy Policy. 
+**2.** We will let you know what information we may use and in what way we will be using it. The privacy policy applies to online activities done by you in IMC-BILL.
 
-1\. AUTOMATICALLY COLLECTED INFORMATION 
+**3.** Changes: This policy may change from time to time. Please review the privacy policy periodically.
 
-The automatically collected information is (a) your web browser language; and (b) your IP (Internet) address, required to technically deliver service, as every web site must do. 
+**4.** Information we may collect from you  
+\- Personal information  
+IMC-BILL may collect personal information in order to operate the website. this information may include, but is not limited to, email address, username, age, registration, purchase information, browsing history, search history,  
+browser type, operating system, communication with other members within IMC-BILL, gender, zip code, postal code, city and country. Purchase details, browser type, operating system, browsing history and  
+communications in the website are not disclosed anywhere. Other details may be disclosed on the website and reachable to other members in order to operate the website. Please note that we do not collect knowingly any  
+personal information from users that are under the age of 18, as we require that all users represent upon registration that they are at least 18 years old.  
+\- Cookies  
+Cookies are small piece of data sent from a website and stored in a user's web browser while a user is browsing a website IMC-BILL may use cookies to keep track of your activity in the website. Cookies help us improve your  
+experience on the website and give you the most optimized options, while protecting your account. Please note that if you choose to disable cookies tracking by changing the settings of your browser, this may restrict you from  
+using some sections of the website.  
+\- IP Address  
+It is very common to collect IP address on e-commerce sites. This is done automatically each time you use IMC-BILL. In addition we collect the website you previously came from IMC-BILL. This is used to present you with the right  
+options on the website. This information helps us to identify and optimize the service you are using.  
+\- Information gathered by third parties  
+Third party advertisers or partners on the IMC-BILL may also read cookies through their advertising or link placement. Please note that IMC-BILL does not control third party advertisers or links  
+and their business practices and or privacy policies. 
 
-2\. COLLECTION OF USER SUBMITTED INFORMATION 
+**5.** Using the information we collect  
+Your personal information is not shared with any third parties and is used mainly to communicate with you and provide you an optimized service. We mainly use this information to improve the services provided to you and present  
+you with the correct options on the website. Also this information is used to deliver you, mainly through email and through your online account information and communication from other members or users. These  
+communications are known as "Operational Communications." You can change your email preferences through your account and limit those emails. By creating a profile on the website you positively opt-in to receive  
+messages from members and user in the website As well this information may be used to help you use the site, answer inquiries, solve problems and provide technical assistance.
 
-When you submit personally identifiable information to us through the use of The Service, viewing or uploading video content or participating in a discussion or making inquires on this web site, you may be asked to provide your first and last name, (email) address, username and a password, banking and payment information. We use this information for the following purposes: 
+**5.1** We may be required to share your information in order to operate the service successfully. Sharing may be required with our representatives and service providers so they can operate their service such as payment  
+services, email services, customer service and promotional services. We request that those representatives and service providers do not to share or use your information for anything other than providing their service to the  
+website.
 
-1) to fulfil your requests for viewing video content, attending Video Chats, and the rendering and billing of our services;   
-2) to operate and improve the features offerings and The Service presented to you by TUBECAMGIRL;   
-3) to communicate with you and respond to your inquiries;   
-4) to conduct research about your use of The Service;   
-5) to help offer you other products, programs, or services that may be of interest;   
-6) providing information on services offered by us; in case you do not wish to receive this information, you can contact us;   
-7) providing of data to third parties if required to do so by law or respond to a court order. 
+**5.2** We may also use this information to present third parties with statistical information but this will not identify you personally.
 
-Please note that TUBECAMGIRL may use your personally identifiable information to present offers to you (via web banners, not SPAM) on behalf of business partners and advertisers. However, while TUBECAMGIRL business partners and advertisers may receive aggregate data about our Users, any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. Apart from this, we may ask you to provide information on your profession, position, age and personal interests. We use these data to gain a better insight into our Users and in order to further develop our services and adapt it to your personal preferences. Finally, we record information (including the IP-address used) for the purpose of collecting and analysing user statistics and for the protection of our web site. 
+**5.3** We may disclose your information if we are required to do so by a law enforcement agency or in case we need to use this information in order to enforce intellectual rights or resolve trademark issues.
 
-When accessed without a log-in, TUBECAMGIRL does not request you to supply primary personal data such as name and email address, or identifiers such as credit card number and web site password. The above data is required and stored only if you voluntarily create a Member account.   
-If you do not want your personal identifying information collected by us, please do not submit it to TUBECAMGIRL. If you have already submitted this information and would like for us to remove it from our records, please contact us.   
-TUBECAMGIRL makes Video Chats available to its Users. Please remember that any information that is disclosed in these Video Chats becomes public to who is attending and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk. 
-
-3\. INFORMATION USE AND SHARING 
-
-TUBECAMGIRL is the sole owner of the information collected on its web site and will not sell, share, or rent this information to third parties in ways different from what is disclosed in this policy. TUBECAMGIRL shall release data when required by law, to enforce its agreements or the contract rights of its clients. TUBECAMGIRL uses the data it collects for the technical administration of the web site, research and development, and fraud deterrence.   
-TUBECAMGIRL does not access, use or disclose the contents of your communications outside the list of your intended Video Chat recipient(s) without first receiving your consent, except in limited circumstances, when it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process; (2) as answer to your violation or breach of agreement with us; (3) to protect the rights or property of TUBECAMGIRL; or (4) in emergencies when TUBECAMGIRL believes that safety is at risk. 
-
-4\. COOKIES 
-
-On our web site, we may use so-called “cookies” that are saved by your browser on your computer. Cookies can be used to save information (such as the configurations of your pc and preferences indicated by you) so as to facilitate the next visit to our web site. These data do not contain any information on your name, address or other personal data, such as credit card information that you may have provided. You can configure your browser in such a way that you do not receive cookies during your visit to our web site. If cookies are disabled, however, you may not be able to use all the features of The Services, or may be denied access to parts of the web site. 
-
-5\. TRANSFER OF THE COMPANY 
-
-In case of the further growth and development of TUBECAMGIRL, it is possible that one or more divisions or assets of the company are transferred to a third party. In such a case, the data of our Users will also be transferred, in which case the information could become subject to a different privacy policy. 
-
-6\. TRANSFER TO COUNTRIES OUTSIDE THE EU 
-
-For technical and operational reasons, it may be necessary to transfer your data to (servers of) affiliated companies in the United States or other countries outside Europe, in which the regulations on privacy protection may not offer the same measure of protection as the existing regulations in the European Union. We will, however, always take appropriate measures in order to guarantee proper protection of your personal data. 
-
-7\. THIRD PARTY AD SERVERS 
-
-TUBECAMGIRL or its advertisers may use other companies known as third party ad servers to help present advertisements online in connection with the Service. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the effectiveness of advertisements. The use of these technologies by these third party ad servers is subject to their own privacy policies, not our one. 
-
-8\. MINORS 
-
-TUBECAMGIRL does not request, or knowingly collect, personal data from anyone under the age of 18. Furthermore, TUBECAMGIRL does not knowingly give children the ability to post messages or otherwise distribute information about themselves on our web site. 
-
-9\. SECURITY 
-
-TUBECAMGIRL does everything to protect your information. TUBECAMGIRL has implemented security policies, rules and technical measures to protect and safeguard the personally identifiable information under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our staff is obliged to respect the confidentiality of the User data. 
-
-10\. ACCESSING AND UPDATING YOUR DATA 
-
-In case you want to know which data we have recorded of which you are the subject, or if you want to change your data, please contact our customer service. Please note that deletion of your personally identifiable information from the database of TUBECAMGIRL will not prevent TUBECAMGIRL from using gathered anonymous information. 
-
-11\. QUESTIONS 
-
-TUBECAMGIRL may email surveys and questions to you for the purpose of improving The Service. In case you have any further questions on this Privacy Policy, please send an email to our customer service:  . 
+**6.** Changing the information stored by our website  
+You can modify your email preferences and opt-out from certain communications or change your personal information by updating your profile here. Please note that due to server synchronization updates, changes may take a few  
+hours to appear on the website. You can also contact our customer service by clicking here or delete your account. The data will be saved by us but your profile will not be visible anymore.
