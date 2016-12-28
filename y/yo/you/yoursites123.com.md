@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursites123.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230134625id_/http%3A//yoursites123.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursites123.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228082945id_/http%3A//www.yoursites123.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ The information we collect is used by us to improve our products, offer you more
 
 ### Information Use.
 
-The information we collect is used by us to improve our products, offer you more relevant search results and ads, protect our users and products, and identify and block malicious uses of our products. If you contact Yoursearching.com, we may keep a record of that correspondence and we may collect your e-mail address.
+The information we collect is used by us to improve our products, offer you more relevant search results and ads, protect our users and products, and identify and block malicious uses of our products. If you contact Yoursites123.com, we may keep a record of that correspondence and we may collect your e-mail address.
 
 ### IP Addresses
 
