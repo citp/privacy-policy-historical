@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyhooligans.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000523id_/http%3A//happyhooligans.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyhooligans.ca privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228170826id_/http%3A//happyhooligans.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Happy Hooligans
 
