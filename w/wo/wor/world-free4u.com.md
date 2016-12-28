@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the world-free4u.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602010732id_/http%3A//www.world-free4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-free4u.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228213004id_/http%3A//www.world-free4u.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – World Free 4 u – Free 300MB Dual Audio Movies Download
+# Privacy Policy - World Free 4 u - Free 300MB Dual Audio Movies Download
 
 This Privacy Policy governs the manner in which World Free 4 u collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.world-free4u.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by World Free 4 u.
 
