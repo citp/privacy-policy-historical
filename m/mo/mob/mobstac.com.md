@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630102322id_/http%3A//www.beaconstac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobstac.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228100007id_/http%3A//www.beaconstac.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Beaconstac
 
