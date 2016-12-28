@@ -1,20 +1,30 @@
-> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405051304id_/https%3A//learn.indiegogo.com/privacy-policy-other) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228205615id_/https%3A//learn.indiegogo.com/privacy-policy-other) for the most accurate reproduction.*
 
 # Privacy Policy - Indiegogo
 
 ## Indiegogo, Inc.
 
-This Privacy Policy was last modified on and is effective as of February 19, 2016.
+This Privacy Policy was last modified on and is effective as of October 4, 2016.
 
-Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “) knows that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
+Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “, “ **our** “) knows that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
 
-This Privacy Policy explains what Personal Information will be collected by Indiegogo when you use our Website: [https://www.indiegogo.com/](https://web.archive.org/) (the “ **Service** “), how Personal Information will be used, and how you can control the collection, correction and/or deletion of Personal Information.
+This Privacy Policy explains what Personal Information will be collected by Indiegogo when you use our Website: [https://www.indiegogo.com/](https://web.archive.org/) and related services (the “ **Service** “), how Personal Information will be used, and how you can control the collection, correction and/or deletion of Personal Information.
 
 This Privacy Policy should be read along with our Terms of Use posted at: <https://www.indiegogo.com/about/terms> (“ **Agreement** “), the Partner Terms posted at: <https://www.indiegogo.com/partners/terms>, and Indiegogo’s Cookie Policy posted at: [https://www.indiegogo.com/about/cookies](https://learn.indiegogo.com/cookie-policy/) and all other operating rules, policies and procedures and additional terms and conditions published on our Website (all of which are incorporated by reference) which governs your use of our Website and Service. Capitalized terms, if not defined in this Privacy Policy, are defined in the Agreement.
 
-### E.U. Safe Harbor
+### EU-US Privacy-Shield
 
-Indiegogo, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Indiegogo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Indiegogo, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+Indiegogo, Inc. complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Indiegogo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Indiegogo, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+Indiegogo, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
+
+We are responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ### Mobile Privacy
 
@@ -71,7 +81,7 @@ You can sign up for or sign in to your Indiegogo account using Facebook Connect.
 
 Any Personal Information you Post as User Content is available to the public without any expectation of privacy or confidentiality. Copies may remain viewable in cached and archived pages or if other Users have copied or stored your User Content even if you remove the User Content. Your name and location are publicly displayed in your profile page. To request removal of your personal information from these areas of the site, contact us using the information below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. The profile you create on our site will be publically visible. You may change the visibility settings of your Contributions, and the types of information it may disclose, on the “My Contributions” page, and/or when you take specific actions on the site that provide you the option of anonymity.
 
-We display personal testimonials of satisfied users on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below.
+We display personal testimonials of satisfied users on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us using the information below. We collect your location based information for the purpose of tailoring search to reflect results in your area. We will only share this information with our mapping provider for the sole purpose of providing you with this service.
 
 When you use our mobile site, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device’s setting’s menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or the manufacturer of your particular device.
 
@@ -97,6 +107,7 @@ We may share your Personal information:
 
   * As required by law, such as to comply with reporting requirements, a subpoena, or similar legal process.
   * In connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity or as we believe reasonably necessary to protect or enforce our rights, protect your safety or the safety of others.
+  * In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
   * With any other user, contributor, campaign owner or third party with your prior consent to do so as described in this Policy.
 
 
@@ -125,7 +136,7 @@ We will promptly notify those persons whose Personal Information is compromised.
 
 You may, of course, decline to submit Personal Information to us; in which case, you may not be able to become a User or use certain Services.
 
-If your Personal Information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account “Settings” page, by contacting the email address listed below. If you no longer desire our service, you may deactivate/delete your account entirely from the account “Settings” page, or contact us directly. We will respond to your request within 30 days.
+If your Personal Information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account “Settings” page, by contacting the email address listed below. Upon request we will provide you with information about whether we hold, any of your personal information. If you no longer desire our service, you may deactivate/delete your account entirely from the account “Settings” page, or contact us directly. We will respond to your request within 30 days.
 
 We will retain your Personal Information for as long as your account is active or as needed to provide you services. We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -163,4 +174,4 @@ If we make a material change to our privacy policies and procedures as to the co
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Website, please contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at 965 Mission Street, 6th Floor, San Francisco, CA 94103.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Website, please contact us at [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at 965 Mission Street, San Francisco, CA 94103.
