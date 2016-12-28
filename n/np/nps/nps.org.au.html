@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2016-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160510055903id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228143537id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" vocab="http://schema.org/" typeof="WebPage"><!--<![endif]--><head>
   <!-- Social media image links -->
@@ -133,7 +133,7 @@ $(document).ready(function() {
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 09 May 2016 17:11:58
+  Page generated: 28 December 2016 08:09:07
 -->
 
 
@@ -204,7 +204,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <fieldset>
 
           <input type="hidden" name="collection" value="nps">          
-          <input type="hidden" name="form" value="newsimple">          
+          <input type="hidden" name="form" value="newsimple">         
           <input type="hidden" name="profile" value="_default_preview">          
           <input type="search" name="query" title="Search our website" placeholder="Search our website" class="search-input" id="global_search">
 
@@ -706,6 +706,7 @@ $( "#site-tools" ).css("display","block");
                                   <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/radiation">Imaging &amp; radiation</a></li>
                                   <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/imaging-and-children">Imaging &amp; children</a></li>
                                   <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/abdominal-imaging">Abdominal imaging</a></li>
+                                  <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-health-professionals/ankle-and-knee-imaging">Ankle &amp; knee imaging</a></li>
                                   <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/talking-to-your-health-professional">Talking to your health professional about imaging</a></li>
                                   <li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/resources">Useful links</a></li> 
                                  </ul>
@@ -1166,6 +1167,7 @@ try{
 
 $("document").ready(function(){
   $.get("http://www.nps.org.au/mrec-ads/client-side-ip-lookup-and-print/_nocache?adCode=143624", function(data){
+    console.log(data);
     if (data.indexOf("__data") >= 0) { 
       if ('TRUE' == 'TRUE') {
         adText = "<p class='disclaimer'>An NPS MedicineWise product</p>";
