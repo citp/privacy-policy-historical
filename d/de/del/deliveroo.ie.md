@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604133103id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228012210id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
 
-# Deliveroo | Privacy
+# Privacy - Deliveroo
 
 Deliveroo Ireland Limited ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website deliveroo.ie (and all pages attaching to and including this domain name) and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
 
