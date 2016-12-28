@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223346id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228102333id_/https%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Website Policies - Data.gov
 
@@ -99,7 +99,7 @@ Top
 
 ## Browser Information Collected on the Website
 
-Ratings of datasets are collected to track the usefulness of certain datasets and improve the value of Data.gov. Data.gov does not gather, request, record, require, collect or track any Internet users’ personal information through these processes.  
+Ratings of datasets may be collected to track the usefulness of certain datasets and improve the value of Data.gov. Data.gov does not gather, request, record, require, collect or track any Internet users’ personal information through these processes.  
 Top
 
 ## Site Security
@@ -115,7 +115,7 @@ Top
 
 ## External Links
 
-Data.gov may contain links to websites created and maintained by other public and/or private organizations. Data.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Data.gov linking policy is the same as the [USA.gov Linking Policy](http://www.usa.gov/About/Linking_Policy.shtml).  
+Data.gov may contain links to websites created and maintained by other public and/or private organizations. Data.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Data.gov linking policy is the same as the [USA.gov Linking Policy](https://www.usa.gov/linking-policy).  
 Top
 
 ## Children’s Privacy
@@ -159,7 +159,7 @@ Top
 
 [](https://web.archive.org/app/uploads/2015/08/cl03j7swsaazth3.png)
 
-  * Placement of the Data.gov logo is to be used only as a marker to the home page and not as a form of endorsement or approval from Data.gov, the Office of Citizen Services and Innovative Technologies, the U.S. General Services Administration, or the U.S. Government.
+  * Placement of the Data.gov logo is to be used only as a marker to the home page and not as a form of endorsement or approval from Data.gov, the Technology Transformation Service, the U.S. General Services Administration, or the U.S. Government.
 
 
 
