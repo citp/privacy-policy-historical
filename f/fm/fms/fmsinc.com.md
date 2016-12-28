@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmsinc.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223622id_/http%3A//www.fmsinc.com/toplevel/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmsinc.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228140717id_/http%3A//fmsinc.com/toplevel/privacy.asp) for the most accurate reproduction.*
 
 # FMS Privacy Policy
 
@@ -6,7 +6,7 @@ FMS Resources
 
 "Thanks! FMS products are extremely powerful, unbelievably stable, great timesavers, easy to learn, and an absolute pleasure to work with!"
 
-[](https://web.archive.org/web/20160611223622id_/http%3A//www.fmsinc.com/script/feedback.asp)
+[](https://web.archive.org/web/20161228140717id_/http%3A//fmsinc.com/script/feedback.asp)
 
 At FMS, we firmly believe in your right to privacy. This document describes our Corporate Privacy Policy. 
 
