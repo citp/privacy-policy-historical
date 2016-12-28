@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406033017id_/http%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228110833id_/http%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
 
 # Legal & Privacy
 
@@ -53,7 +53,7 @@ You give your consent that GM may store your personal information and use it for
 
 
 
-GM may also disclose this information within its international group (the General Motors group), its subsidiaries, retailers and agents for the above purpose. You give your consent that the data so provided by you may be transferred to, stored and processed by staff working for GM or one of its suppliers at a destination outside India.  
+GM may also disclose this information within its international group (the General Motors group), its subsidiaries, retailers/dealers and their agents for the above purpose, who could be outside India as well and might contact you. You give your consent that the data so provided by you may be transferred to, stored and processed by staff working for GM (including its international group) or one of its suppliers at a destination outside India.  
 You make the personal information / any material available knowing that GM may publish/use for commercial, research or other related purpose. You warrant that such information/material is fit for use/publication by GM.
 
 By providing information/material you grant to GM an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute this information or material and you also agree that GM is free to use any ideas, concepts, know-how or techniques that you send us for any purpose.
