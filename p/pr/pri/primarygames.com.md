@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624214434id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228042354id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - PrimaryGames - Play Free Kids Games Online
+# Privacy Policy - PrimaryGames - Play Free Online Games
 
 **Privacy Policy**
 
