@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instavisits.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524072710id_/http%3A//instavisits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instavisits.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228043056id_/http%3A//instavisits.com/privacy) for the most accurate reproduction.*
 
 # InstaVisits - Privacy
 
