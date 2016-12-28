@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prisma-ai.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630094141id_/http%3A//prisma-ai.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prisma-ai.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228110109id_/http%3A//prisma-ai.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ When you use our Service, our servers automatically record certain log file info
 
 Device identifiers:
 
-When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Instagram.
+When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Prisma.
 
 A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
@@ -97,11 +97,11 @@ Your information collected through the Service may be stored and processed in th
 
 Prisma, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
-By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Instagram, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Prisma, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Instagram cannot ensure the security of any information you transmit to Instagram or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
+We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Prisma cannot ensure the security of any information you transmit to Prisma or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
 
-Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Prisma, at all times. Your privacy settings may also be affected by changes the social media services you connect to Instagram make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
+Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Prisma, at all times. Your privacy settings may also be affected by changes the social media services you connect to Prisma make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
 
 ### 5\. CHILDREN’S PRIVACY
 
@@ -115,6 +115,6 @@ We are not responsible for the practices employed by any websites or services li
 
 If you have any questions about this Privacy Policy or the Service, please contact us through the email privacy@prisma-ai.com.
 
-### 9\. CHANGES TO OUR PRIVACY POLICY
+### 8\. CHANGES TO OUR PRIVACY POLICY
 
 Prisma may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Prisma or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
