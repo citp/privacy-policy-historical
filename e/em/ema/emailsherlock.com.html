@@ -1,273 +1,204 @@
-<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2016-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528140425id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emailsherlock.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228190140id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <base href="http://www.emailsherlock.com/">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <title>EmailSherlock.com Privacy Policy</title>
         <meta name="description" content="">
         <meta name="keywords" content="">
-        <link href="templates/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-        <link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css">
-        <link href="templates/styles/style.css" rel="stylesheet" type="text/css">
-        <link href="templates/styles/colorbox.css" rel="stylesheet" type="text/css">
-
-        <link rel="stylesheet" type="text/css" href="socialshare/css/custom_social.css" media="all">
-        <meta name="google-site-verification" content="Df-qAilVAP_cLwvsaHR_FzePRA4PJRsu18zG3HRGnXI">
-        <!-- Clear Input Value -->
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-            function doClear(theText) {
-                if (theText.value == theText.defaultValue) {
-                    theText.value = ""
-                }
-            }
-            function doDefault(theText) {
-                if (theText.value == "") {
-                    theText.value = theText.defaultValue
-                }
-            }
-        </script>
-        <meta property="fb:app_id" content="538642846200264">  
+		<link href="/templates/July2016/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css">
+		<link href="/templates/July2016/styles/style.css" rel="stylesheet" type="text/css">
+		<link href="/templates/July2016/styles/responsive.css" rel="stylesheet" type="text/css">
+		<meta name="google-site-verification" content="Df-qAilVAP_cLwvsaHR_FzePRA4PJRsu18zG3HRGnXI">
+		<meta property="fb:app_id" content="538642846200264">
         <meta property="fb:admins" content="701705330">
-        <script type="text/javascript" src="javascripts/jquery.js"></script>
-        <script type="text/javascript" src="javascripts/jquery.tipsy.js"></script>
-        <script type="text/javascript" src="socialshare/inc/js/jquery.plugins.js"></script>
-        <script type="text/javascript" src="socialshare/inc/js/jquery.site.js"></script>
-        <script type="text/javascript" src="socialshare/js/jquery.social.share.2.1.min.js"></script>
-        <script type="text/javascript" src="javascripts/jquery.colorbox-min.js"></script>
-        <script type="text/javascript" src="javascripts/lightbox.js"></script>
-
-        <script type="text/javascript" src="javascripts/jquery-ui-1.8.13.custom.min.js"></script>
-        <script type="text/javascript" src="javascripts/jquery.multi-open-accordion-1.5.3.min.js"></script>
-        <script type="text/javascript">
-            $(function() {
-                $('#acc1, #acc2, #acc3, #acc4, #acc5, #acc6').multiOpenAccordion({
-                    active: [0],
-                    click: function(event, ui) {
-                        //console.log('clicked')
-                    },
-                    init: function(event, ui) {
-                        //console.log('whoooooha')
-                    },
-                    tabShown: function(event, ui) {
-                        //console.log('shown')
-                    },
-                    tabHidden: function(event, ui) {
-                        //console.log('hidden')
-                    }
-                });
-                $('#acc1, #acc2, #acc3, #acc4, #acc5, #acc6').multiOpenAccordion("option", "active", [9999999]);
-            });
-        </script>
-
-
-        <script language="javascript">
-
-            $("#morelocations").live("click", function() {
-                $.ajax({
-                    type: "POST",
-                    url: "http://www.emailsherlock.com/moreLocations.php",
-                    data: "searchemail=",
-                    success: function(msg) {
-                        $(".searchresults:last").after(msg);
-                        $("#morelocations").hide();
-                    }
-                });
-                return false;
-            });
-
-
-            function getResults(query) {
-                if (query == undefined) {
-                    query = '';
-                }
-                var email = '';
-                var getResults = '';
-                var dataString = 'email=' + email + query;
-                dataString += "&6bf60cb2f6c2048dbab0b59948d05551e16b19f9";
-                if (getResults == 1) {
-                    $("body").css('cursor', 'wait');
-                    $("#results").html('<img src=\'templates/images/ajaxloader.gif\' />');
-                    $.ajax({
-                        type: "GET",
-                        url: "dataSearch.php",
-                        data: dataString,
-                        cache: false,
-                        success: function(html) {
-                            $("#results").html(html);
-                            $("body").css('cursor', 'default');
-                            $('html,body').animate({scrollTop: $(".results").offset().top}, 'slow');
-                            $('.friendslist a img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
-                            addResults(email);
-                            
-                            showLightbox(email);
-                        }
-                    });
-                }
-            
-                return false;
-            }
-
-
-            $(document).ready(function() {
-
-                getResults();
-
-                // social share code
-
-                $('#social-share').dcSocialShare({
-                 size: 'horizontal',
-                 location: 'top',
-                 offsetAlign: 0,
-                 offsetLocation: 0,
-                 buttons: 'twitter,facebook,digg,stumbleupon,delicious,pinterest,buffer,print,email,linkedin',
-                 floater: false,
-                 loadOpen: true
-                 });
-
-
-                // social share code ends here
-
-
-            });
-
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
+        <script type="text/javascript" src="/javascripts/jquery.tipsy.js"></script>
+        <script type="text/javascript" src="/socialshare/inc/js/jquery.plugins.js"></script>
+        <script type="text/javascript" src="/socialshare/inc/js/jquery.site.js"></script>
+        <script type="text/javascript" src="/javascripts/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="/javascripts/lightbox.js"></script>
+        <script type="text/javascript" src="/javascripts/jquery-ui-1.8.13.custom.min.js"></script>
+		<script type="text/javascript" src="/javascripts/custom.js?a=fornocache"></script>
+		<!-- Clear Input Value -->
+		<script type="text/javascript">
+			
+					function doClear(theText) {
+						if (theText.value == theText.defaultValue) {
+							theText.value = ""
+						}
+					}
+			function doDefault(theText) {
+				if (theText.value == "") {
+					theText.value = theText.defaultValue
+				}
+			}
+			function getResults(query) {
+				if (query == undefined) {
+					query = '';
+				}
+				var email = '';
+				var getResults = '';
+				var dataString = 'email=' + email + query;
+				dataString += "&6bf60cb2f6c2048dbab0b59948d05551e16b19f9";
+				if (getResults == 1) {
+					$("body").css('cursor', 'wait');
+					$("#results").html('<img class="ajaxloader" src=\'/templates/July2016/images/ajaxloader.gif\' />');
+					$.ajax({
+						type: "GET",
+						url: "/dataSearch.php",
+						data: dataString,
+						cache: false,
+						success: function (html) {
+							$("#results").html(html);
+							$("body").css('cursor', 'default');
+							$('.friendslist a img').tipsy({title: 'alt', fade: true, html: true, gravity: 's'});
+							addResults(email);
+						}
+					});
+				}
+				return false;
+			}
+			$(document).ready(function () {
+				getResults();
+				$("#morelocations").live("click", function () {
+					$.ajax({
+						type: "POST",
+						url: "http://www.emailsherlock.com/moreLocations.php?",
+						data: "searchemail=",
+						success: function (msg) {
+							$(".searchresults:last").after(msg);
+							$("#morelocations").hide();
+						}
+					});
+					return false;
+				});
+			});
         </script>
 
         <script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-32348948-1']);
+			_gaq.push(['_setDomainName', 'emailsherlock.com']);
+			_gaq.push(['_trackPageview']);
 
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-32348948-1']);
-            _gaq.push(['_setDomainName', 'emailsherlock.com']);
-            _gaq.push(['_trackPageview']);
-
-            (function() {
-                var ga = document.createElement('script');
-                ga.type = 'text/javascript';
-                ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(ga, s);
-            })();
-
+			(function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
         </script>
+	</head>
+	<body>
 
-        <script language="javascript" src="javascripts/custom.js?a=fornocache"></script>
+		<header>
+			<div id="header">
+				<div class="wrapper cf">
+					<h1 class="site-logo"><a href="/">EmailSherlock.com</a></h1>
+					<div class="apps">
+						<ul>
+							<li><a class="app-ip" target="_blank" href="https://itunes.apple.com/us/app/emailsherlock.com/id582983221?mt=8">Available<i> for iPhone</i></a></li>
+							<li><a class="app-ad" target="_blank" href="https://play.google.com/store/apps/details?id=com.app.emailsherlock">Available<i> for Android</i></a></li>
+							<li><a class="app-cr" target="_blank" href="https://chrome.google.com/webstore/detail/emailsherlock/aaeehecohidegfhiichbebpognijlmjn">Available<i> for Chrome</i></a></li>
+							<li><a class="app-ms" target="_blank" href="https://www.mashape.com/infopay/email-search-by-emailsherlock">Available<i> for MaShape</i></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="counter"><i>44,978,125</i> searches so far</div>
+			</div>
+		</header>
 
-    </head>
-    <body>
-
-        <div id="bg-sky"><div id="bg-clouds"><div id="bg-city">
-
-                    <div id="wrapper">
-                        <div id="header"><h1><a href="/">EmailSherlock.com</a></h1></div>
-                        <img src="http://www.emailsherlock.com/templates/images/header_logo.png" style="position:absolute; left:-1000px;">
-                        <div id="content">
-
-                            <div class="counter"><span>40,590,535</span> searches so far</div>
-                            
-                            
-
-	<div class="search">
-		<form action="search.php" method="post">
-			<input type="text" value="Enter email address" name="email" onblur="doDefault(this)" onfocus="doClear(this)">
-			<input type="submit" name="search" value="go">
-		</form>
-	</div>
-	<div class="recentsearches">
-		<strong>Recent searches:</strong>
-		<a href="emailsearch/rayray.hotgirl@gmail.com/">rayray.hotgirl@gmail.com</a> <a href="emailsearch/rory.chalmers@gmail.com/">rory.chalmers@gmail.com</a> <a href="emailsearch/jzhara@gmail.com/">jzhara@gmail.com</a> <a href="emailsearch/johnny.papas@hotmail.com/">johnny.papas@hotmail.com</a> <a href="emailsearch/lopenn@gmail.com/">lopenn@gmail.com</a> 
-	</div>
-	<br><br>
-
-<p>
-	<strong>Privacy Policy</strong>
-	<br><br>
-	This Privacy Policy is provided to inform you about the types of information gathered by EmailSherlock.com (hereafter referred to as “we” or “us”) when you use EmailSherlock.com (the “Website”), how this information is used by us, and at what level you may control the sharing or maintenance of this information.
-	<br><br>
-	<strong>Information Collection</strong>
-	<br><br>
-	<strong>Searches By You</strong>
-	<br><br>
-	When you conduct a search in the Website, we will not collect any personally identifiable information about you unless you choose to provide such information to us.
-	<br><br>
-	<strong>Searches For You</strong>
-	<br><br>
-	When someone conducts a search based on your email address, we do not collect that email address for any purpose other than to present the results of that search, and to cache the results of that search for indexing by search engines. To prevent these search results from being cached for indexing, please remove your profiles public information from the social network from which there is a result. Once done, click the Update Now button on your results page. If your data is removed from the social networks, it will be removed from our cache also.	
-	<br><br>
-	<strong>Log Files </strong>
-	<br><br>
-	Information about your use of the Website is gathered automatically using third-party tracking applications such as Google Analytics. We then store this information in log files. The type of information we gather and store may include IP addresses, browser type, Internet service provider (ISP) information, operating system, date and time stamps and pages used to navigate to and from the Website. This information does not contain any personally identifying information and is only used to analyse trends, gather details about our user base and determining how best to improve the quality of EmailSherlock.com. We value your privacy and do not link this information to your personal identifying information.
-	<br><br>
-	<strong>Cookies </strong>
-	<br><br>
-	“Cookies” are known as small text files that are stored on a user’s computer. We use two different types of cookies: session and tracking cookies. Session cookies allow you to navigate the Website more easily, and are eliminated when you close your browser. Tracking cookies allow us to determine how you use the Site, and are typically stored on your computer’s hard drive for an extended period of time. ClickBank, our third-party payment vendor, may also use cookies to determine how you were referred to the Site.
-	<br><br>
-	Users have the option to decline cookies, but this may cause certain features of the Website to be inaccessible. You can change your cookie preferences in the “Help” menu of your browser tool bar. Your personally identifying information is not linked in any way to these cookies.
-	<br><br>
-	<strong>Web Beacons </strong>
-	<br><br>
-	It is possible you may receive emails from us or a third-party partner that will contain what are known as “Web beacons.” These identifiers simply gather details about how the emails are received, meaning we can determine whether they are opened and if any links contained in them are clicked through. Web beacons provide information that is only used to improve the quality of the messages we send to you. If you prefer us not to have access to this information, you must avoid downloading or accessing HTML emails, which can be done by changing your preferences through your email provider. We do not link the information collected via Web beacons to any personally identifiable information.
-	<br><br>
-	<strong>Information Use and Disclosure</strong>
-	<br><br>
-	<strong>Notifications &amp; Opt-Out </strong>
-	<br><br>
-	To opt out from receiving emails from EmailSherlock.com please click on the unsubscribe link available in every email sent by us, or contact us at the address listed in the email.
-	<br><br>
-	<strong>Disclosure</strong>
-	<br><br>
-	We understand how highly our users value the privacy and security of their personally identifiable information. We will disclose information collected from and about you to the following entities for the following purposes: (1) to our related companies, service providers and suppliers, to enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our Terms of Service or of our rights or the rights of any third party; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
-	<br><br>
-	<strong>Business Transitions </strong>
-	<br><br>
-	In the event EmailSherlock.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this Privacy Policy or any subsequent updated versions.
-	<br><br>
-	<strong>Information Security </strong>
-	<br><br>
-	We employ methods such as encryption to protect against potential loss or misuse of all the information we have control over. If you provide any sensitive information to us or one of our partners, it is protected via reasonable measures. These can include establishing a secure connection with your browser and using a secure-socket-layer (SSL) to protect your sensitive information during transfer.
-	<br><br>
-	We make every reasonable effort to ensure that our network is secure, though we cannot guarantee any unauthorized access (hacking), loss of data or other breaches. This means that you assume all risk in transmitting your sensitive information to us.
-	<br><br>
-	<strong>Children </strong>
-	<br><br>
-	The Website is not directed to children under the age of thirteen (13), and we do not collect the personal information of children in this age group.
-	<br><br>
-	<strong>Third-Party Websites </strong>
-	<br><br>
-	The Website may contain links to third-party sites. These third-party sites may govern their business using their own privacy policies, and we are not responsible for their practices. If you access any of these sites, we suggest that you closely examine any privacy policy posted.
-	<br><br>
-	<strong>Changes to Privacy Policy </strong>
-	<br><br>
-	We may update this privacy policy periodically, and we will post notice of such changes on the Website.
-	<br><br>
-	<strong>Contact Us </strong>
-	<br><br>
-	If you have any questions or concerns regarding this Privacy Policy or the Website, please contact one of our Support Agents.
-	<br><br>
-	Effective Date: June 19, 2012
-	</p>
+		<div id="main">
+			
+		
+		<div class="section section-search2">
+			<div class="wrapper cf">
+				<div class="sbox2 cf">
+					<form action="/search.php" method="post">
+						<div class="cell input"><input type="text" name="email" value="" placeholder="Enter Email Address..." onblur="doDefault(this)" onfocus="doClear(this)"></div>
+						<div class="cell btn"><input type="submit" name="search" value="Search"></div>
+					</form>
+				</div>
+			</div>
+		</div>
 	
-                        </div>
-                    </div>
+		<div class="section terms">
+			<div class="wrapper cf">
+				<h2>Privacy Policy</h2>
+				<p>This Privacy Policy is provided to inform you about the types of information gathered by EmailSherlock.com (hereafter referred to as “we” or “us”) when you use EmailSherlock.com (the “Website”), how this information is used by us, and at what level you may control the sharing or maintenance of this information.</p>
+				<h4>Information Collection</h4>
+				<h4>Searches By You</h4>
+				<p>When you conduct a search in the Website, we will not collect any personally identifiable information about you unless you choose to provide such information to us.</p>
+				<h4>Searches For You</h4>
+				<p>When someone conducts a search based on your email address, we do not collect that email address for any purpose other than to present the results of that search, and to cache the results of that search for indexing by search engines. To prevent these search results from being cached for indexing, please remove your profiles public information from the social network from which there is a result. Once done, click the Update Now button on your results page. If your data is removed from the social networks, it will be removed from our cache also.</p>
+				<h4>Log Files</h4>
+				<p>Information about your use of the Website is gathered automatically using third-party tracking applications such as Google Analytics. We then store this information in log files. The type of information we gather and store may include IP addresses, browser type, Internet service provider (ISP) information, operating system, date and time stamps and pages used to navigate to and from the Website. This information does not contain any personally identifying information and is only used to analyse trends, gather details about our user base and determining how best to improve the quality of EmailSherlock.com. We value your privacy and do not link this information to your personal identifying information.</p>
+				<h4>Cookies</h4>
+				<p>“Cookies” are known as small text files that are stored on a user’s computer. We use two different types of cookies: session and tracking cookies. Session cookies allow you to navigate the Website more easily, and are eliminated when you close your browser. Tracking cookies allow us to determine how you use the Site, and are typically stored on your computer’s hard drive for an extended period of time. ClickBank, our third-party payment vendor, may also use cookies to determine how you were referred to the Site.</p>
+				<p>Users have the option to decline cookies, but this may cause certain features of the Website to be inaccessible. You can change your cookie preferences in the “Help” menu of your browser tool bar. Your personally identifying information is not linked in any way to these cookies.</p>
+				<h4>Web Beacons</h4>
+				<p>It is possible you may receive emails from us or a third-party partner that will contain what are known as “Web beacons.” These identifiers simply gather details about how the emails are received, meaning we can determine whether they are opened and if any links contained in them are clicked through. Web beacons provide information that is only used to improve the quality of the messages we send to you. If you prefer us not to have access to this information, you must avoid downloading or accessing HTML emails, which can be done by changing your preferences through your email provider. We do not link the information collected via Web beacons to any personally identifiable information.</p>
+				<h4>Information Use and Disclosure</h4>
+				<h4>Notifications &amp; Opt-Out</h4>
+				<p>To opt out from receiving emails from EmailSherlock.com please click on the unsubscribe link available in every email sent by us, or contact us at the address listed in the email.</p>
+				<h4>Disclosure</h4>
+				<p>We understand how highly our users value the privacy and security of their personally identifiable information. We will disclose information collected from and about you to the following entities for the following purposes: (1) to our related companies, service providers and suppliers, to enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of our Terms of Service or of our rights or the rights of any third party; and (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.</p>
+				<h4>Business Transitions</h4>
+				<p>In the event EmailSherlock.com goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this Privacy Policy or any subsequent updated versions.</p>
+				<h4>Information Security</h4>
+				<p>We employ methods such as encryption to protect against potential loss or misuse of all the information we have control over. If you provide any sensitive information to us or one of our partners, it is protected via reasonable measures. These can include establishing a secure connection with your browser and using a secure-socket-layer (SSL) to protect your sensitive information during transfer.</p>
+				<p>We make every reasonable effort to ensure that our network is secure, though we cannot guarantee any unauthorized access (hacking), loss of data or other breaches. This means that you assume all risk in transmitting your sensitive information to us.</p>
+				<h4>Children</h4>
+				<p>The Website is not directed to children under the age of thirteen (13), and we do not collect the personal information of children in this age group.</p>
+				<h4>Third-Party Websites</h4>
+				<p>The Website may contain links to third-party sites. These third-party sites may govern their business using their own privacy policies, and we are not responsible for their practices. If you access any of these sites, we suggest that you closely examine any privacy policy posted.</p>
+				<h4>Changes to Privacy Policy</h4>
+				<p>We may update this privacy policy periodically, and we will post notice of such changes on the Website.</p>
+				<h4>Contact Us</h4>
+				<p>If you have any questions or concerns regarding this Privacy Policy or the Website, please contact one of our Support Agents.</p>
+				<p>Effective Date: June 19, 2012</p>
+			</div>
+		</div>
+	
+		</div>
 
-                </div></div></div>
+		<footer>
+			<div id="footer">
+				<div class="wrapper cf">
 
-        <div id="footer">
-            <div class="mobile-apps clearfix">
-                <a class="app-store" href="https://itunes.apple.com/us/app/emailsherlock.com/id582983221?mt=8" target="_blank">Available on the App Store</a>
-                <a class="android-market" href="https://play.google.com/store/apps/details?id=com.app.emailsherlock" target="_blank">Available on the Android Market</a>
-                <a class="chrome-store" href="https://chrome.google.com/webstore/detail/emailsherlock/aaeehecohidegfhiichbebpognijlmjn" target="_blank">Available on the Chrome Store</a>
-                <a class="mashape" href="https://www.mashape.com/infopay/email-search-by-emailsherlock" target="_blank">mashape</a>
-            </div><br><br>
-            <div class="nav"><a href="/">Email Search</a> | <a href="/email-statistics.html">Email Statistics</a> | <a href="api.html">API</a> | <a href="/terms.html">Terms of Service</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/contact.html">Contact Us</a></div>
-            <div class="copy">© EmailSherlock.com </div>
+					<div class="mobile-apps">
+						<a class="app-store" href="https://itunes.apple.com/us/app/emailsherlock.com/id582983221?mt=8" target="_blank">Available on the App Store</a>
+						<a class="android-market" href="https://play.google.com/store/apps/details?id=com.app.emailsherlock" target="_blank">Available on the Android Market</a>
+						<a class="chrome-store" href="https://chrome.google.com/webstore/detail/emailsherlock/aaeehecohidegfhiichbebpognijlmjn" target="_blank">Available on the Chrome Store</a>
+						<a class="mashape" href="https://www.mashape.com/infopay/email-search-by-emailsherlock" target="_blank">mashape</a>
+					</div>
 
-        </div>
+					<div class="fnav cf">
+						<ul>
+							<li><a href="/">Email Search</a></li>
+							<li><a href="/email-statistics.html">Email Statistics</a></li>
+							<li><a href="/api.html">API</a></li>
+							<li><a href="/terms.html">Terms of Service</a></li>
+							<li><a href="/privacy.html">Privacy Policy</a></li>
+							<li><a href="/contact.html">Contact Us</a></li>
+						</ul>
+					</div>
+					<div class="fcopy">© 2015 EmailSherlock.com. All rights reserved.</div>
+					<div class="fsocial cf">
+						<ul>
+							<li><a class="social-fb" href="#">Facebook</a></li>
+							<li><a class="social-tw" href="#">Twitter</a></li>
+							<li><a class="social-gp" href="#">Google+</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
 
-
-        <!-- social share code -->
-
-        <div id="social-share"></div>
-
-    
-</body></html>
+	
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
