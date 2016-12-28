@@ -1,0 +1,426 @@
+<!--The following is the downloaded HTML source of the ttrockstars.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228115158id_/https%3A//ttrockstars.com/page/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+		<meta name="google-site-verification" content="cSl9Djvx3fcXqO2hqB6kThtWGXgu9NUzufTad_8y7h4">
+		<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" src="/js/json2.js"></script>
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/sprintf.js"></script>
+<title>Times Table Rockstars - Page Site</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+				<link href="https://fonts.googleapis.com/css?family=Norican" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Englebert" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+		<link rel="icon" href="/favicon.png" type="image/x-icon">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/x-icon">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+		<!-- Start of Woopra Code -->
+		<!--
+		<script>
+		(function(){
+			var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/w.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)
+		})("woopra");
+
+		woopra.config({
+			domain: 'ttrockstars.com'
+		});
+		woopra.track();
+		</script>
+		-->
+		<!-- End of Woopra Code -->
+		<!--
+		<script>
+			function BlockMove(event) {
+				// Tell Safari not to move the window.
+				event.preventDefault() ;
+			}
+		</script>
+		-->
+		<script>
+   function getParameterByName(name) {
+        var url;
+        url = window.location;
+        if (!url) {
+            url = window.location.href;
+        }
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) {
+            return null;
+        };
+        if (!results[2]) {
+            return '';
+        }
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    function replaceUrlParam(url, paramName, paramValue) {
+        if (paramValue == null) {
+            paramValue = '';
+        }
+        var pattern = new RegExp('\\b(' + paramName + '=).*?(&|$)');
+        if (url.search(pattern) >= 0) {
+            return url.replace(pattern, '$1' + paramValue + '$2');
+        }
+        return url + (url.indexOf('?') > 0 ? '&' : '?') + paramName + '=' + paramValue;
+    }
+
+    function inIframe () {
+        try {
+            return window.self !== window.top;
+        } catch (e) {
+            return true;
+        }
+    }
+
+    if(inIframe() && !getParameterByName('ng')){
+        var ngUrl = replaceUrlParam(window.location.href, 'ng', '8769');
+        window.location.replace(ngUrl);
+    }
+</script>
+
+		<script>
+			$(function() {
+				$('.navbar .nav').find('a').each(function() {
+					if (this.href == location.href) {
+						$(this).parents('li').addClass('active');
+					}
+				});
+			});
+			var i = setInterval(function(){
+				$('.alert').slideUp();
+				clearInterval(i);
+			}, 15000);
+
+                var time = new Date();
+          time = time.getTimezoneOffset();
+          $.ajax({
+            type: "post",
+    	      dataType: "json",
+            url: "/member/site/settime",
+            data: {time:time},
+            "success":function(){
+              console.log("Timezone Set");
+            },
+            "error":function(){
+              console.log("Timezone Fail");
+            }
+          });
+       		</script>
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+		<meta name="google-site-verification" content="GC0dyCpaL5jmKTj7XTSnWvQmD_I9vycQeDT4ZVrMxhA">
+
+    <script>  <!-- Pingdom -->
+      var _prum = [['id', '56c49209abe53d486b29d2ab'],
+                   ['mark', 'firstbyte', (new Date()).getTime()]];
+      (function() {
+          var s = document.getElementsByTagName('script')[0]
+            , p = document.createElement('script');
+          p.async = 'async';
+          p.src = '//rum-static.pingdom.net/prum.min.js';
+          s.parentNode.insertBefore(p, s);
+      })();
+    </script>
+
+	</head>
+	<body style=""><!-- <body ontouchmove="BlockMove(event);"> -->
+		<div class="container">
+			<div id="brand">
+				<div id="logo">Times Table Rockstars</div>
+								<!--
+									<div id="header-login" class="span6">
+						<form action="/login" method="post">							<div class="header-login-row">
+								<fieldset class="span2">
+									<label for="username_or_email">Username or Email</label>
+									<input type="text" name="LoginForm[username_or_email]" id="username_or_email" size="30" class="span2">
+								</fieldset>
+								<fieldset class="span2">
+									<label for="password">Password</label>
+									<input type="password" name="LoginForm[password]" id="password" size="30" class="span2">
+								</fieldset>
+								<fieldset class="span1">
+									<input class="btn btn-primary" type="submit" name="yt0" value="Sign In" />								</fieldset>
+							</div>
+							<div>
+								<div class="span5">
+									Forgotten your password? <a href="/reset">Set yourself a new one</a>
+								</div>
+							</div>
+						</form>					</div>
+								-->
+			</div>
+		</div>
+		<div class="container">
+			<div class="panel">
+				<div class="masthead">
+					<div class="navbar">
+						<div class="navbar-inner">
+							<div class="container">
+								<ul id="accessible_nav">
+									<li><a href="#main">Main content</a></li>
+								</ul>
+								<ul class="nav mainmenu" id="yw0">
+<li><a href="/home">Home</a></li>
+<li><a href="/register">Register</a></li>
+<li><a href="/login">Login</a></li>
+<li><a href="/site/playlist">Playlist</a></li>
+<li><span><a href="/page/features">Benefits</a>
+</span></li><li><span>
+</span></li><li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="/site/#">Guides <b class="caret"></b></a>
+	<ul class="dropdown-menu">
+		<li><a href="/page/gettingstartedteachers">Getting Started</a></li>
+		<li><a href="/page/newyear">*New School Year Guide*</a></li>
+	</ul>
+</li>
+<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="/site/#">Events<b class="caret"></b></a>
+	<ul class="dropdown-menu">
+		<li><a href="/page/artcompetition">**Art Competition 2016**</a></li>
+		<li><a href="/page/wrangle2016">Rock Wrangles 2016</a></li>
+		<li><a href="/page/red_carpet_week">Red Carpet Week 2016</a></li>
+		<li><a href="/page/numberday2016">Number Day 2016</a></li>														
+		<li><a href="/page/londonwrangle2015">London Rock Wrangle 2015</a></li>
+		<li><a href="/page/numberday2014">Number Day 2014</a></li>
+	</ul>
+</li>
+<li><span>
+<a href="/page/about">About</a>
+</span></li><li><span>
+<a href="/page/contact">Contact Us</a></span></li>
+<li class="dropdown lang-menu"><a class="dropdown-toggle" data-toggle="dropdown" href="/site/#"><div class="lang-en">English<b class="caret"></b></div></a>
+<ul class="dropdown-menu">
+<li><a href="/lang?l=en"><div class="lang-en">English</div></a></li>
+<li><a href="/lang?l=cy"><div class="lang-cy">Cymraeg</div></a></li>
+</ul>
+</li>
+</ul>								<!--
+																-->
+							</div>
+						</div>
+	
+											</div>
+				</div>
+				<div class="row">
+															<div class="span12">
+<h1>Privacy Policy</h1>
+
+
+<p>Maths Circle Ltd (Company Number: 09861676) ("<strong>We</strong>") are committed to protecting and respecting your privacy. </p>
+<p>This policy (together with our terms of use [<a href="https://ttrockstars.com/page/Terms_And_Conditions">ttrockstars.com/page/Terms_And_Conditions</a>] and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be held and processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting https://ttrockstars.com/, and using the site, you are accepting and consenting to the practices described in this policy. If you do not agree to the terms of this Privacy Policy, please do not use the site. </p>
+<p>For the purpose of the Data Protection Act 1998 (the <strong>Act</strong>), the data controller is Maths Circle Ltd (Company Number: 09861676) of The Ossory Offices, Hazelwood Lane, Ampthill, Bedford, England, MK45 2HF. </p>
+<p><strong>INFORMATION WE MAY COLLECT FROM YOU</strong></p>
+<p>We may collect and process the following data about you: </p>
+<ul>
+<li><strong>Information you give us. </strong> You may give us information about you by filling in forms on our site https://ttrockstars.com/ (<strong>our site</strong>) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, enter a competition or survey, and when you report a problem with our site. 
+<ul>
+<li>Teachers registering (including on a trial basis) for their class or school must give their consent at the time of registration to provide us with their own name, class name, school name, email address, phone number, names of pupil(s), billing address, and financial/credit card information.</li>
+<li>Pupils (under the age of 18 years) cannot register to use the site themselves. A teacher, parent or guardian must register for them and give their consent on behalf of the pupil (including on a trial basis) to provide us with the name of the pupil, together with their own name, email address, phone number, billing address, and financial/credit card information. </li>
+<li>Registrants who do not give this consent and provide us with the above personal information cannot use the site.</li>
+<li>Please note that by registering with the site and providing the requested personal information, whether on a trial or ongoing basis, your consent is deemed to be given.</li>
+<li>This information is required in order to correctly identify each registrant as a site user, manage their account and for other purposes identified below.</li>
+<li>For the benefit of impact reporting, you may also opt to provide further pupil details, to include; pupil’s date of birth, pupil’s gender, pupil’s Special Education Needs (SEN) status, pupil’s ethnicity, pupil’s Free School Meal (FSM) status, and details of any languages spoken at the pupil’s home. </li>
+</ul>
+</li>
+<li><strong>Information we collect about you. </strong> With regard to each of your visits to our site we may automatically collect the following information: 
+<ul>
+<li>technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; </li>
+<li>information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number; </li>
+<li>the answers all users provide to the times table questions and the length of time taken to respond in each case; </li>
+</ul>
+</li>
+<li><strong>Information we receive from other sources. </strong> We may receive information about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data that it may be shared internally and combined with data collected on this site. We are also working closely with third parties (including, for example, business partners, affiliates, sub-contractors in technical, payment and delivery services, analytics providers, search information providers) and may receive information about you from them.</li>
+</ul>
+<p><strong>Cookies</strong></p>
+<p>Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them please see relevant paragraph below.</p>
+<p><strong>USES MADE OF THE INFORMATION</strong></p>
+<p>We use information held about you in the following ways:</p>
+<ul>
+<li><strong>Information you give to us. </strong> We will use this information:
+<ul>
+<li>to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;</li>
+<li>to provide you with tips on how to use parts of the service, information about new features on our site and information about third party services that we feel may be of interest to you. If you do not want us to receive these updates, please untick the 'Receive Email Newsletter' box on the My Details page of our site;</li>
+<li>to notify you about changes, improvements, and upgrades to our service;</li>
+<li>to ensure that content from our site is presented in the most effective manner for you and for your computer; </li>
+<li>where applicable, to allow you to see how different groups of learners in your school - for example, boys/girls, FSM/non-FSM, SEN/non-SEN, etc. – are performing.</li>
+</ul>
+</li>
+<li><strong>Information we collect about you. </strong> We will use this information:
+<ul>
+<li>to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;</li>
+<li>to improve our site to ensure that content is presented in the most effective manner for you and for your computer and to enhance the site generally; </li>
+<li>to calculate your times tables recall speed and those of your pupil(s);</li>
+<li>for the preparation of statistical reports and data analysis to assist us in enhancing the learning from our site;</li>
+<li>as part of our efforts to keep our site safe and secure.</li>
+</ul>
+</li>
+<li><strong>Information we receive from other sources. </strong> We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).</li>
+</ul>
+<p><strong>DISCLOSURE OF YOUR INFORMATION</strong></p>
+<p>We do not sell your personal information to third parties.</p>
+<p>We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+<p>We may share your information with selected third parties including:</p>
+<ul>
+<li>Business partners, licensors, agents, suppliers and sub-contractors (including for example those that assist us in making the site) for the performance of any contract we enter into with them or you.</li>
+<li>Analytics and search engine providers that assist us in the improvement and optimisation of our site. </li>
+<li>Government education departments, universities, bodies managing or representing schools, or schools themselves.</li>
+</ul>
+<p>We reserve the right to use the information for our own purposes enhance the learning from our site including the preparation of statistical reports and data analysis; </p>
+<p>We may disclose your personal information to third parties: </p>
+<ul>
+<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+<li>If Maths Circle Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [<a href="https://ttrockstars.com/page/Terms_And_Conditions">ttrockstars.com/page/Terms_And_Conditions</a>] and other agreements; or to protect the rights, property, or safety of Maths Circle Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+</ul>
+<p><strong>WHERE WE STORE YOUR PERSONAL DATA</strong></p>
+<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the maintenance of the website, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+<p>All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you or your pupil(s) (or where you or your pupil(s) have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+<p><strong>YOUR RIGHTS</strong></p>
+<p>You have the right to ask us not to process your personal data for marketing purposes. You can exercise your right to prevent such processing by contacting us at bruno@ttrockstars.com.</p>
+<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
+<p><strong>ACCESS TO INFORMATION</strong></p>
+<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you and/or your pupil(s).</p>
+<p><strong>CHANGES TO OUR PRIVACY POLICY</strong></p>
+<p>We reserve the right to make changes to, modify, or revise this Privacy Policy at any time. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have consented to such variations or changes by your continued use of the site following any such changes being made.</p>
+<p><strong>COOKIE POLICY</strong></p>
+<p>A cookie is a little piece of information handed to a web browser from a web server that contains information that can be retrieved from the server later. When you visit the site the server may attach a cookie to your computer’s memory. We use cookies only to remember what language is set, which school last logged into the machine and the session cookie for knowing who is logged in. You should be able to configure your browser so that it disables cookies.</p>
+
+<p>To help us better understand your needs, we also use analytical software. This software will save a cookie to your computer’s hard drive in order to track and monitor your engagement and usage of the site, but will not store, save or collect personal information. You can read Google’s privacy policy here (<a href="https://support.google.com/analytics/answer/6004245?hl=en" target="_blank">https://support.google.com/analytics/answer/6004245?hl=en</a>) for further information.</p>
+
+<p><strong>DISCLAIMER OF LIABILITY</strong></p>
+
+<p>Under no circumstances shall Maths Circle Ltd be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the site, or the information or materials posted to or collected as a result of the pupil’s accessing the site, or use of the service provided by Maths Circle Ltd, even if Maths Circle Ltd has been advised of the possibility of such damages.</p>
+
+<p><strong>CONTACT</strong></p>
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to bruno@ttrockstars.com.<p></p>
+
+<a href="https://s3-eu-west-1.amazonaws.com/ttrockstars/data/file_c60f54bd1f8df8bb1a8a01d8eedf9995.pdf" target="_blank">Download this policy as a pdf.</a>
+</div>
+				</div>
+
+
+        <!-- This is content is displayed on every page if the user isn't logged in -->
+
+
+<style>
+	#footerwrapper {
+		margin:40px 0 -18px 0;
+		background: #1D1D1D;
+		padding: 20px 0;
+		overflow:auto;
+	}
+
+	#leftfootercolumn, #middlefootercolumn {
+		/*border:1px solid yellow;*/
+		color:white;
+	}
+
+	#rightfootercolumn {
+		/*border:1px solid #290627;*/
+	}
+
+
+</style>
+
+
+
+<div class="container">
+	<div class="row">
+		<div id="footerwrapper">
+
+			<div id="leftfootercolumn" class="span4">
+				<strong>Address</strong><br>
+				Maths Circle Ltd<br>
+				Ossory Offices<br>
+				Hazelwood Lane<br>
+				Ampthill<br>
+				MK45 2HF<br>
+				United Kingdom<br><br>
+				<strong>Company Details</strong><br>
+				VAT: 246401820<br>
+				Co. Reg: 09861676<br><br>
+
+				<strong>Contact</strong><br>
+				support@ttrockstars.com<br>
+				+44 1908 888 917
+			</div>
+
+			<div id="middlefootercolumn" class="span4">
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-page" data-width="200" data-href="//plus.google.com/u/0/111272500810279241936" data-theme="dark" data-rel="publisher"></div>
+
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+	
+			</div> 
+
+			<div id="rightfootercolumn" class="span4">
+				            <h3>Policies</h3>
+				            <p><a href="https://ttrockstars.com/page/Terms_and_Conditions">Terms and Conditions</a></p>
+				            <p><a href="https://ttrockstars.com/page/privacy">Privacy Policy</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+				<div id="footer" class="row">
+					<div class="span12">
+						<p><span id="designed_by_allrollover">Designed by <a href="http://www.allrollover.co.uk">Allrollover</a>.</span></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-19388797-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+
+		<script>window.twttr = (function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0],
+				t = window.twttr || {};
+			  if (d.getElementById(id)) return t;
+			  js = d.createElement(s);
+			  js.id = id;
+			  js.src = "https://platform.twitter.com/widgets.js";
+			  fjs.parentNode.insertBefore(js, fjs);
+
+			  t._e = [];
+			  t.ready = function(f) {
+				t._e.push(f);
+			  };
+
+			  return t;
+			}(document, "script", "twitter-wjs"));
+		</script>
+
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ed4c854660","applicationID":"16352411","transactionName":"MQFRYRBXXREEBxJZWghLclYWX1wMSjcPRFAlC11BEFlfDgAWSUBUAQE=","queueTime":0,"applicationTime":103,"atts":"HUZSF1hNTh8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
