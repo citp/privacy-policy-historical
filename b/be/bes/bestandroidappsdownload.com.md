@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestandroidappsdownload.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507001251id_/http%3A//bestandroidappsdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestandroidappsdownload.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228195917id_/http%3A//bestandroidappsdownload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Android Apps Download
 
@@ -137,3 +137,5 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
 and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the [contact page](https://web.archive.org/contact-us)
