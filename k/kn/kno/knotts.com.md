@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knotts.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320223842id_/https%3A//www.knotts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knotts.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228223710id_/https%3A//www.knotts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Knott's Berry Farm, Buena Park, CA
+# Privacy Policy | Knott's Berry Farm
 
 **Updated July 11, 2013**
 
