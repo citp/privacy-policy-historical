@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anything.lk privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510203816id_/http%3A//www.wow.lk/mall/company/privacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anything.lk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228040650id_/http%3A//www.wow.lk/mall/company/privacyStatement.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Online Shopping Mall - wow.lk - Sri Lanka
 
