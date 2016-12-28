@@ -1,30 +1,14 @@
-> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327153302id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228100226id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
 
 # DropTask - Privacy Policy
 
-### Privacy Policy
-
 #### About this policy
 
-This is the privacy policy of Think Productivity Limited (hereinafter referred to as “Think Productivity”). At Think Productivity, your privacy is important to us and Think Productivity does not sell, publish or share any information about our customers unless given express permission to do so.
-
-The privacy policy applies only to personal data as defined in s.1 of the 1998 Data Protection Act (“personal information” or “information”) and not other types of business or general information. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for and how we keep it secure.
-
-Please read the policy carefully.
-
-Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [ico.org.uk](https://ico.org.uk/).
+This is the privacy policy of Think Productivity Limited (hereinafter referred to as “Think Productivity”). At Think Productivity, your privacy is important to us and Think Productivity does not sell, publish or share any information about our customers unless given express permission to do so. The privacy policy applies only to personal data as defined in s.1 of the 1998 Data Protection Act (“personal information” or “information”) and not other types of business or general information. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for and how we keep it secure. Please read the policy carefully. Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [ico.org.uk](https://ico.org.uk/).
 
 #### Who we are
 
-We are Think Productivity Limited, a company registered in England and Wales – No. 7851136. Our registered office is at:
-
-Think Productivity Ltd  
-Tec Marina  
-Terra Nova Way  
-Penarth  
-United Kingdom  
-CF64 1SA  
-E-mail: [info@thinkproductivity.com](mailto:%20info@thinkproductivity.com)
+We are Think Productivity Limited, a company registered in England and Wales – No. 7851136. Our registered office is at: Think Productivity Ltd Tec Marina Terra Nova Way Penarth United Kingdom CF64 1SA E-mail: [info@thinkproductivity.com](mailto:%20info@thinkproductivity.com)
 
 #### Communications
 
@@ -34,11 +18,7 @@ To opt-out of any communications we send, you can either click the ‘unsubscrib
 
 #### Cookies
 
-A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are.
-
-Cookies are used for authentication, tracking, and maintaining user-specific information (preferences, shopping cart, etc.) and often contain a unique and anonymous identifier.
-
-Browsers only allow web sites to interact with their own cookies, not those from other web sites. The settings in your browser allow you to accept or decline cookies depending upon your preferences.
+A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are. Cookies are used for authentication, tracking, and maintaining user-specific information (preferences, shopping cart, etc.) and often contain a unique and anonymous identifier. Browsers only allow web sites to interact with their own cookies, not those from other web sites. The settings in your browser allow you to accept or decline cookies depending upon your preferences.
 
 #### Web Beacons
 
@@ -54,13 +34,7 @@ Websites offered by Think Productivity may include social media features, such a
 
 #### How we collect further information
 
-We collect information about you that you provide when you register to use the online resources or software through completion of online forms. We collect information about you if you complete any of the various forms on our site to contact us, make enquiries, order products and services, apply to us and give us feedback.
-
-We need you to give us certain information, which will be indicated on the form you are required to complete in order to place an order. It would help us if you give us any other information that you think will be relevant but you are under no obligation to do so.
-
-We may also collect information when you contact us by other methods other than the website. The website provides various telephone and fax numbers and email addresses for you to contact us. We may collect information from you that you provide through any of these methods.
-
-We may also collect other information you supply to us after your initial contact with us.
+We collect information about you that you provide when you register to use the online resources or software through completion of online forms. We collect information about you if you complete any of the various forms on our site to contact us, make enquiries, order products and services, apply to us and give us feedback. We need you to give us certain information, which will be indicated on the form you are required to complete in order to place an order. It would help us if you give us any other information that you think will be relevant but you are under no obligation to do so. We may also collect information when you contact us by other methods other than the website. The website provides various telephone and fax numbers and email addresses for you to contact us. We may collect information from you that you provide through any of these methods. We may also collect other information you supply to us after your initial contact with us.
 
 #### How we keep your information secure
 
@@ -68,13 +42,7 @@ We will keep your information secure by taking appropriate technical and organis
 
 #### What your information is used for
 
-If you register for a DropTask account, we will use your information to provide this service to you.
-
-When you register with us or buy from us, we will also use your information for marketing purposes. For example, you may receive email newsletters. There is an option to unsubscribe from these.
-
-If you do not object, we may use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website.
-
-We may use aggregated data about users of our site, sales patterns and other statistical data to improve our site, but it will not be possible to identify individuals from that aggregated data.
+If you register for a DropTask account, we will use your information to provide this service to you. When you register with us or buy from us, we will also use your information for marketing purposes. For example, you may receive email newsletters. There is an option to unsubscribe from these. If you do not object, we may use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website. We may use aggregated data about users of our site, sales patterns and other statistical data to improve our site, but it will not be possible to identify individuals from that aggregated data.
 
 #### To access the information stored about you
 
