@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506150527id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228063102id_/http%3A//www.oodle.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Oodle Classifieds - Privacy Policy
 
@@ -100,7 +100,7 @@ The Sites are hosted in the United States. If you use the Sites from outside of 
 Oodle complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Oodle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>  
 
 
-Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at [abuse@oodle.com](http://www.oodle.co.uk/info/help/?&node_id=2&mode=contact). Oodle has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Oodle, you may contact the BBB EU SAFE HARBOR program at: <http://www.bbb.org/us/safe-harbor-complaints>  
+Privacy Complaints from European Union Citizens; in compliance with the Safe Harbor Principles, Oodle commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Oodle at [abuse@oodle.com](http://www.oodle.co.uk/info/help/?&node_id=2&mode=contact).  
 
 
 ### More Questions?
