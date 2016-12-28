@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aso.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021337id_/http%3A//aso.com/Learn/AboutASO/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aso.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228112952id_/http%3A//www.aso.com/Learn/AboutASO/Privacy.aspx) for the most accurate reproduction.*
 
-# Airplanes and Aircraft for Sale | Buy and Sell | ASO
+# ASO Privacy Policy: ASO.com
 
 At Aircraft Shopper Online (“ASO”), we believe that a person's privacy is very important. We are very respectful of your privacy and are providing this information to demonstrate how seriously we take protection of your personal information. This Privacy Policy governs how ASO collects, protects, stores, transfers, and uses the personally identifiable information (“PII”) that we collect. 
 
