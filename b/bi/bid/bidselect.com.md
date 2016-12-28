@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidselect.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006134820id_/https%3A//www.bidselect.com/Privacy%3FBDSOWASP_CSRFTKN%3DA1b3QlsbmOEt10NhSsOIZWUjms4KU7ItL2K5F7f5tw4s) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidselect.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228122912id_/https%3A//www.bidselect.com/Privacy%3FBDSOWASP_CSRFTKN%3DaHntZXrUQoTeD3Q2IK80sWT7c5L1zUFnvSDtsU9irLUs) for the most accurate reproduction.*
 
 # Privacy Policy - BidSelect
 
