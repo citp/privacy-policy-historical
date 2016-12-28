@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043335id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arris.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228141041id_/http%3A//www.arris.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ARRIS
 
@@ -50,7 +50,7 @@ Information entered on this site is used solely for ARRIS's order fulfillment, s
 
 **SITE ACCOUNT**
 
-By registering and/or logging in to use this site, you are accepting responsiblity for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
+By registering and/or logging in to use this site, you are accepting responsibility for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.
 
 **SALES TAX**
 
