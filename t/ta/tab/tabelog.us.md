@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609073203id_/http%3A//www.tabelog.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228134728id_/http%3A//www.tabelog.us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tabelog
 
@@ -154,7 +154,7 @@ California Civil Code Section § 1798.83 permits users of our Website that are C
 
 or write us at:
 
-Tabélog, Inc.
+Tabelog, Inc.
 
 Attn: Privacy Officer  
 401 Park South 9th Floor  
@@ -180,7 +180,7 @@ Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-Tabélog, Inc.
+Tabelog, Inc.
 
 Attn: Privacy Officer  
 401 Park South 9th Floor  
