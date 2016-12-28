@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the heatst.com privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625235034id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heatst.com privacy policy that was archived on 2016-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228204300id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OV1daGwoAVVdVAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
     <meta property="og:title" content="Dow Jones">
     <meta property="og:description" content="Dow Jones">
     <meta property="og:url" content="http://www.dowjones.com">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
-    <title>Privacy Policy - Dow JonesDow Jones</title>
+    <title>Privacy Policy - Dow Jones</title>
     
     <link rel="apple-touch-icon" sizes="57x57" href="http://www.dowjones.com/wp-content/themes/dow-jones/assets/img/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="http://www.dowjones.com/wp-content/themes/dow-jones/assets/img/apple-touch-icon-60x60.png">
@@ -35,7 +35,7 @@
     <link rel="shortcut icon" href="http://www.dowjones.com/wp-content/themes/dow-jones/assets/img/favicon.ico" type="image/x-icon">
     <link rel="dns-prefetch" href="//tags.tiqcdn.com">
 
-<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.7.0 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.dowjones.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -44,12 +44,11 @@
 <meta property="og:site_name" content="Dow Jones">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Privacy Policy - Dow Jones">
-<meta name="twitter:domain" content="Dow Jones">
 <!-- / Yoast SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="Dow Jones » Feed" href="http://www.dowjones.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dow Jones » Comments Feed" href="http://www.dowjones.com/comments/feed/">
-<script src="//tags.tiqcdn.com/utag/wsjdn/dowjonescom/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
+<script type="text/javascript">
 var utag_data = {
     "site_name": "Dow Jones",
     "site_description": "Dow Jones",
@@ -70,10 +69,6 @@ var utag_data = {
         "none"
     ],
     "yoast_wpseo_sitemap-include": [
-        "-",
-        "-"
-    ],
-    "yoast_wpseo_sitemap-prio": [
         "-",
         "-"
     ],
@@ -158,8 +153,32 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 		}
 		var qs_link= getParameterByName("link");
 	</script>
+    <!-- The Data Object code -->
+    <script type="text/javascript"> 
+
+    var utag_data = {
+        // Data Object variables here
+        'channel':  'Dow Jones',    //(hardcoded, same on all pages)
+        'user_type':        'nonsubscriber',   //(leave like this, or if you have subscribers, make the value dynamic)
+        'page_region':       'global',           //(hardcoded, same on all pages)
+        'page_site':         'Dow Jones',     //(hardcoded, same on all pages)
+        'page_site_product':     'DJ',      //(hardcoded, same on all pages)
+        'page_content_type': 'Customer Resources',     //(hardcoded, same on all pages)
+        'page_content_source':   'Dowjones.com',        //(hardcoded, same on all pages)
+        'page_id' : '7096',      //(dynamic ,  unique Id of the page)
+        'page_section':         'Privacy Policy',      //(this value is dynamic , "Home" or "Products"  or "Scoops" ,... based on the document)
+        'page_subsection':         '',      //(needs to be set only on sub-sections, value is dynamic, "Risk and Compliance" or ""Integrated Solutions",...  based on document)
+        'page_title' : 'Privacy Policy',      //(this value is dynamic , "Factiva" or "Risk & Compliance" ,... based on the document)
+        'access_type' : 'free',      //(hardcoded, same on all pages, if all pages are 'free")
+        'language': 'EN'
+     }; 
+
+ </script>
+<!-- The next line has to be added through the CMS -> Settings -> Tealium -> Advanced Tag Code -->
+<!-- <script src="https://tags.tiqcdn.com/utag/wsjdn/dowjones​com​/dev/utag.js" type="text/javascript" async="true"></script> -->
 </head>
 <body class="page page-id-7096 page-parent page-template page-template-page-auxiliary page-template-page-auxiliary-php">
+
 
 <div class="nav-wrapper hidden">
     <nav class="main-menu">
@@ -174,7 +193,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 <li id="menu-item-7762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7762"><a href="http://www.dowjones.com/about/">About</a></li>
 <li id="menu-item-7904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7904"><a href="http://www.dowjones.com/careers/">Careers</a></li>
 <li id="menu-item-8602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8602"><a href="http://www.dowjones.com/contact/">Contact</a></li>
-</ul>        <ul id="menu-secondary-navigation" class="main-menu-additional"><li id="menu-item-8202" class="menu-item menu-item-type-post_type menu-item-object-eloqua_form menu-item-8202"><a href="http://www.dowjones.com/eloqua_form/dowjones-com-sales-inquiry-form/">REQUEST A SALES CALL<span class="ico-arrow-right-big"></span></a></li>
+</ul>        <ul id="menu-secondary-navigation" class="main-menu-additional"><li id="menu-item-11500" class="menu-item-object-eloqua_form menu-item menu-item-type-custom menu-item-object-custom menu-item-11500"><a href="http://www.dowjones.com/eloqua_form/dowjones-com-sales-inquiry-form-new/">CONTACT SALES<span class="ico-arrow-right-big"></span></a></li>
 <li id="menu-item-8001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8001"><a href="https://buy.wsj.com/offers/pages/OfferMulti1a?trackCode=aaqa209l">SUBSCRIBE TO THE WALL STREET JOURNAL<span class="ico-arrow-right-big"></span></a></li>
 <li id="menu-item-8000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8000"><a href="http://buy.barrons.com/offers/html/offerBrn.html?trackCode=aap9t0sp">SUBSCRIBE TO BARRON’S<span class="ico-arrow-right-big"></span></a></li>
 </ul>    </div><!-- .main-menu-wrapper END -->
@@ -182,10 +201,10 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 <div class="page-wrapper">
     <header class="page-header dropdown-submenu-opened">
         <div class="wrapper">
-            <div class="logo"><a href="http://www.dowjones.com" title="Go to homepage"><img src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/img/logo-dow-jones.png" alt="Dow Jones"></a></div>
+            <div class="logo"><a href="http://www.dowjones.com" title="Go to homepage  "><img src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/img/logo-dow-jones.png" alt="Dow Jones"></a></div>
             <ul class="breadcrumb desktop-all-hide"><li><span class="ico-arrow-right-big"></span><a href="http://www.dowjones.com" title="Dow Jones"><strong>Dow Jones</strong></a></li></ul><ul class="breadcrumb mobile-hide"><li><span class="ico-arrow-right-big"></span><a href="javascript:void(0);" title="Privacy Policy" class="inactive">Privacy Policy</a></li></ul>            <div class="header-right">
                                 <div class="submenu-wrap">
-                    <a class="dropdown-submenu-toggle" href="javascript:;">Log in<span class="ico-arrow-down"></span></a>
+                    <a class="dropdown-submenu-toggle" href="javascript:;">Log in  <span class="ico-arrow-down"></span></a>
                     <div class="dropdown-submenu">
     <div class="wrapper">
                     <ul class="dropdown-submenu-list">
@@ -198,7 +217,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
                                     <li>
                         <div class="submenu-table">
                             <div class="submenu-table-cell">
-                                                                    <h3><a href="https://djlogin.dowjones.com/login.asp?productname=rnc">Risk and Compliance</a></h3>
+                                                                    <h3><a href="https://djlogin.dowjones.com/login.asp?productname=rnc">Risk &amp; Compliance</a></h3>
                                                             </div>
                         </div>
                     </li>
@@ -212,7 +231,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
                                     <li>
                         <div class="submenu-table">
                             <div class="submenu-table-cell">
-                                                                    <h3><a href="https://id.wsj.com/access/pages/wsj/us/signin.html?mg=inert-wsj&amp;mg=id-wsj">The Wall Street Journal</a></h3>
+                                                                    <h3><a href="https://buy.wsj.com/wsjfallelect2/?inttrackingCode=aaql7ufx&amp;icid=WSJ_ON_NA_ACQ_NA">The Wall Street Journal</a></h3>
                                                             </div>
                         </div>
                     </li>
@@ -234,7 +253,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 
     <section class="mobile-header-btn">
         <div class="wrapper">
-	                </div>
+	                            </div>
     </section>
 
 
@@ -354,7 +373,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
                     <a href="javascript:;" class="fancybox-close-custom visible"><span class="ico-close"></span></a>
                 </div>
                 <div class="wrapper">
-                    <h2>Search</h2>
+                    <h2>Search  </h2>
                 </div>
                 <div class="wrapper search-wrap">
                     <form role="search" method="get" class="search-form" action="http://www.dowjones.com/">
@@ -369,13 +388,13 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 
                     <aside class="sidebar" style="display: none">
                         <div class="aside-pane generic-shadow m-top">
-                            <h3>Jobs</h3>
+                            <h3>Jobs  </h3>
                             <ul class="search-aside" id="search-results-jobs"></ul>
                         </div><!-- .aside-pane END -->
                     </aside><!-- .sidebar END -->
 
                     <div class="wrapper view-full-results" style="display: none;">
-                        <a href="http://www.dowjones.com/search/" class="search-full-results btn-simple">View full result set<span class="ico-arrow-right-big"></span></a>
+                        <a href="http://www.dowjones.com/search/" class="search-full-results btn-simple">View full result set  <span class="ico-arrow-right-big"></span></a>
                     </div>
                 </div>
             </div><!-- .search-pop-up END -->
@@ -383,7 +402,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
     </div><!-- .wrapper END -->
 </section><!-- section END -->
 
-<script id="template-search-result-item" type="text/template">
+<script id="template-search-result-item" data-localized-pr="Press Room  " data-localized="Scoops  " data-localized-i="Insights  " type="text/template">
         <div class="search-item-inner">
             <div class="pane">
                 <div class="pane-info"><a href="{#url#}">{#title#}</a></div>
@@ -391,7 +410,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
         </div><!-- .pane END -->
 </script>
 
-<script id="template-search-result-item-product" type="text/template">
+<script id="template-search-result-item-product" data-localized="Products  " type="text/template">
 	<div class="search-item-inner">
 		<div class="pane">
 			<h3><a href="{#url#}">{#title#}</a></h3>
@@ -400,7 +419,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 	</div>
 </script>
 
-<script id="template-search-result-item-page" type="text/template">
+<script id="template-search-result-item-page" data-localized="Pages  " type="text/template">
     <div class="search-item-inner">
         <div class="pane">
             <ul class="breadcrumb mobile-hide">
@@ -412,12 +431,12 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
     </div>
 </script>
 
-<script id="template-search-result-item-job" type="text/template">
+<script id="template-search-result-item-job" data-localized="Jobs  " type="text/template">
     <li>
         <a href="{#url#}" target="_blank">
             <div class="caption">
                 <h4>{#title#}</h4>
-                <span class="location"><span>Location: </span>{#location#}</span>
+                <span class="location"><span>Location  : </span>{#location#}</span>
             </div>
         </a>
     </li>
@@ -426,7 +445,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 <script id="template-search-result-item-no-match" type="text/template">
     <div class="search-item-inner">
         <div class="pane">
-            <div class="pane-info no-result">No {#section#} with "{#term#}"</div>
+            <div class="pane-info no-result">No   {#section#} with   "{#term#}"</div>
         </div><!-- .pane END -->
     </div>
 </script>
@@ -440,7 +459,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 <li id="menu-item-8166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8166"><a href="http://www.dowjones.com/code-conduct/">Code of Conduct</a></li>
 <li id="menu-item-7908" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7096 current_page_item menu-item-7908"><a href="http://www.dowjones.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-8176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8176"><a href="http://www.dowjones.com/cookies-policy/">Cookie Policy</a></li>
-	        <li><a href="javascript:;" class="sitemap-toggle">Sitemap <span class="ico-arrow-down"></span></a></li>
+	        <li><a href="javascript:;" class="sitemap-toggle">Sitemap   <span class="ico-arrow-down"></span></a></li>
         </ul>
             <div class="sitemap"><ul id="menu-sitemap" class="menu"><li id="menu-item-9034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9034"><a href="/product-category/all/">Products</a>
 <ul class="sub-menu">
@@ -450,7 +469,11 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 	<li id="menu-item-9039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9039"><a href="/product-category/risk-and-compliance/">Risk and Compliance</a></li>
 </ul>
 </li>
-<li id="menu-item-9042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9042"><a href="http://www.dowjones.com/scoops/">Scoops</a></li>
+<li id="menu-item-9042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9042"><a href="http://www.dowjones.com/scoops/">Scoops</a>
+<ul class="sub-menu">
+	<li id="menu-item-10975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10975"><a href="http://www.dowjones.com/scoops/">Scoops Archive</a></li>
+</ul>
+</li>
 <li id="menu-item-8989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8989"><a href="http://www.dowjones.com/about/">About</a>
 <ul class="sub-menu">
 	<li id="menu-item-9065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9065"><a href="/about/#what-we-do">What We Do</a></li>
@@ -459,7 +482,11 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 	<li id="menu-item-9073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9073"><a href="/about/#environmental-policy">Our Environmental Policy</a></li>
 </ul>
 </li>
-<li id="menu-item-9101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9101"><a href="http://www.dowjones.com/contact/">Contact</a></li>
+<li id="menu-item-9101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9101"><a href="http://www.dowjones.com/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-10976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10976"><a href="http://www.dowjones.com/contact/">Get In Touch</a></li>
+</ul>
+</li>
 <li id="menu-item-9043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9043"><a href="http://www.dowjones.com/careers/">Careers</a>
 <ul class="sub-menu">
 	<li id="menu-item-9074" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9074"><a href="/careers/#benefits">Benefits</a></li>
@@ -473,7 +500,7 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
     <div class="copyright">
         <div class="wrapper">
             <div class="copyright-content">
-                <em>© Dow Jones 2016</em>
+                <em>© Dow Jones   2016</em>
 	                                <a href="http://www.facebook.com/dowjones" title="Visit us on Facebook" target="_blank"><span class="ico-facebook"></span></a>
 	            	                                <a href="http://www.twitter.com/dowjones" title="Visit us on Twitter" target="_blank"><span class="ico-twitter"></span></a>
 	                        </div>
@@ -497,13 +524,13 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
         <div role="form" dir="ltr" lang="en-US">
             <form action="http://www.dowjones.com/wp-admin/admin-ajax.php" method="post" class="form-subscribe" novalidate="novalidate">
                 <p>
-                    <label for="email" class="required text">Email<sup><span class="required">*</span></sup></label>
+                    <label for="email" class="required text">Email  <sup><span class="required">*</span></sup></label>
                     <span class="email subscribe-field-wrapper">
                         <input name="email" value="" size="40" class="text" id="email" type="email">
-                        <span role="alert">Please fill in the required field.</span>
+                        <span role="alert">Please fill in the required field.  </span>
                     </span>
-                    <span class="agreement">By clicking submit, I agree to the <a href="http://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a> and <a href="http://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a> and I understand I will receive marketing communications from Dow Jones professional information products from which I may unsubscribe using the links provided.</span>
-                    <input value="Submit" class="submit" type="submit">
+                    <span class="agreement">By clicking submit, I agree to the   <a href="http://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy  </a> and   <a href="http://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy  </a> and I understand I will receive marketing communications from Dow Jones professional information products from which I may unsubscribe using the links provided.  </span>
+                    <input value="Submit  " class="submit" type="submit">
                     <input name="action" value="subscribes_to_dj" type="hidden">
                 </p>
             </form>
@@ -511,12 +538,12 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
     </div>
     <div class="thank-you-wrap invisible">
         <header>
-            <h2>Thank you</h2>
+            <h2>Thank you  </h2>
             <a class="js-fancybox-close-custom fancybox-close-custom visible" href="javascript:;"><span class="ico-close"></span></a>
         </header>
-        <div class="thank-you-msg">Thank you for subscribing, your information has been submitted successfully.</div>
+        <div class="thank-you-msg">Thank you for subscribing, your information has been submitted successfully.  </div>
         <div class="btns">
-            <a class="btn-simple js-fancybox-close-custom" href="javascript:;">Close</a>
+            <a class="btn-simple js-fancybox-close-custom" href="javascript:;">Close  </a>
         </div>
     </div>
 </div>
@@ -526,13 +553,13 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
     <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/matchMedia.js"></script>
     <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/matchMedia.addListener.js"></script>
 <![endif]-->
-    <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=product"></script>
+    <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/render_posts.js?ver=4.3"></script>
+<script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=product"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=scoop"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=insight"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=press-room"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=page"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/get_cache.php?section=job"></script>
-<script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/render_posts.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/search.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/jquery-ui.min.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/velocity.min.js?ver=4.3"></script>
@@ -543,17 +570,12 @@ var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activ
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/jquery.fancybox.pack.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/iscroll-mod.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/select2.min.js?ver=4.3"></script>
-<script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/clamp.min.js?ver=4.3"></script>
+<script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/truncate.min.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/subscribe.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/modernizr.custom.44806.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/vendor/fastclick.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/forms.js?ver=4.3"></script>
 <script type="text/javascript" src="http://www.dowjones.com/wp-content/themes/dow-jones/assets/js/init.js?ver=4.3"></script>
-<script type="text/javascript">
-    (function(a,b,c,d){
-    a='//tags.tiqcdn.com/utag/wsjdn/dowjonescom/prod/utag.js';
-    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
-    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-    })();
-</script>
+<script src="//tags.tiqcdn.com/utag/wsjdn/dowjonesglobal/dev/utag.js" type="text/javascript" async="true"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"91bea003a8","applicationID":"9016758","transactionName":"Ml1TMhFWWEUHVxJdVwsXcAUXXllYSUQHU11IWUQeCltfVxRN","queueTime":0,"applicationTime":776,"atts":"HhpQRFlMS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
