@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebriplanet.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619042527id_/http%3A//www.celebriplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebriplanet.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228091723id_/http%3A//www.celebriplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CelebriPlanet
 
