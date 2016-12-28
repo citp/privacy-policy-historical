@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the title-generator.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204023527id_/http%3A//www.title-generator.com/index.php/12-privacy-policy/19-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the title-generator.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228010528id_/http%3A//www.title-generator.com/index.php/12-blog/22-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 
     1. INTRODUCTION
@@ -66,7 +66,21 @@
     Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn [how to opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
     
     
-    6.2. UPDATES AND CHANGES
+    6.3 Google Analytics Advertising Features
+    
+    This website collect data about your traffic via Google advertising cookies and identifiers, in addition to data collected through a standard Google Analytics implementation. 
+    
+    This website and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as Google advertising cookies) or other third-party identifiers together in order to display and retarget ads based on your visits on this website and/or other websites.
+    
+    If you would like to opt out of the above advertising features, we encourage you to opt-out of the Google Analytics Advertising Features you use, including through Ads Settings, Ad Settings for mobile apps, or any other available means (for example, the NAI's consumer opt-out).
+    
+    Please visit the below links for more information:
+    [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/)
+    [NAI's consumer opt-out](http://www.networkadvertising.org/choices/)
+    
+    
+    
+    6.4 UPDATES AND CHANGES
     
     We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
     
