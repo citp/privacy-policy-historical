@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325143531id_/http%3A//www.museumstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228231710id_/http%3A//www.museumstuff.com/privacy.html) for the most accurate reproduction.*
 
 # museumstuff.com | Privacy Policy
 
