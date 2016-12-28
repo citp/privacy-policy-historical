@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the appappeal.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619134550id_/http%3A//www.appappeal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appappeal.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228073106id_/http%3A//www.appappeal.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - About - AppAppeal
-
-Could not find a web page at the requested url: http://www.appappeal.com/1255036/AppAppeal_Header
 
 Nubera eBusiness S.L. ( **“Nubera eBusiness”** ,  **“we”**  or  **“us”** ), the company that manages the websites www.getapp.com, www.appstorm.net, www.appappeal.com, and www.cloudwork.com and its associated blogs (together, the  **“Sites”**  and each a  **“Site”** ) is committed to protecting the privacy of all the users of the Sites ( **“you”**  or  **“User”** ). The Sites are intended for use for professional purposes only. By using the Sites, and in particular by providing your personal or company information on registration, filling a contact form, or submitting a review, you explicitly accept this Privacy Policy and provide full consent to the collection, storage and processing of your personal data by Nubera eBusiness, and to the use and disclosure to certain third parties of your personal data, in accordance with the terms set out in this policy. Please note that any information you provide to other Site users or to third parties you may contact through the Sites will be collected and used by those parties according to their own terms and privacy policies. Nubera eBusiness cannot guarantee that these parties comply with the requirements set forth in data protection legislation. 
 
