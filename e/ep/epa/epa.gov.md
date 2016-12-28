@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626225643id_/https%3A//www.epa.gov/home/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228191715id_/https%3A//www.epa.gov/home/privacy-and-security-notice) for the most accurate reproduction.*
 
-# Privacy and Security Notice | EPA Home | US EPA
+# Privacy and Security Notice | U.S. Environmental Protection Agency | US EPA
 
 This page explains how we will handle information we learn about you from your visit to our site, and tells you that EPA monitors network traffic to ensure website security.
 
@@ -59,23 +59,21 @@ The information above is also collected by Google Analytics on behalf of EPA. Go
 
 Traffic statistics for EPA's website are only reported to us anonymously and in the aggregate, and no information provided by Google Analytics is traceable to any specific individual. We use the information that we automatically collect to measure the number of visitors to the different areas of our sites, and to help us make our pages more useful to visitors. This includes analyzing Web traffic to determine the types of devices and browsers that view EPA Web pages most often and the level of demand for specific pages and topics of interest.
 
-You can opt-out by changing the cookie settings in your browser. [See instructions on how to disable cookies in some of the most popular Web browsers](http://www.usa.gov/optout_instructions.shtml). [Google also provides an Opt-Out Browser Add-on for newer browsers](http://tools.google.com/dlpage/gaoptout). Opting-out will still allow you to obtain comparable information from EPA websites.
+You can opt-out by changing the cookie settings in your browser. [See instructions on how to disable cookies in some of the most popular Web browsers](http://www.usa.gov/optout_instructions.shtml). [Google also provides an Opt-Out Browser Add-on for newer browsers](http://tools.google.com/dlpage/gaoptout). Opting-out will not prevent you from obtaining information from EPA websites.
 
-For more information about the federal government's use of persistent cookies, please refer to the Office of Management and Budget's (OMB) Memo Guidance for the Online Use of Web Measurement and Customization Technologies.
+For more information about the federal government's use of persistent cookies, please refer to the [Office of Management and Budget's (OMB) Memo Guidance for the Online Use of Web Measurement and Customization Technologies (PDF)](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).
 
 Top of Page
 
-**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](https://web.archive.org/records/policy/schedule/sched/0095.htm).
+**How Long is the Information Retained** : The logs for each day, with no personal information, are maintained in accordance with [Records Schedule 095](https://web.archive.org/records/epa-records-schedules-detailed-information).
 
 Top of Page
 
 **Cookies** : Cookies are small files that Web servers place on a user's hard drive. They can serve several functions, depending upon how they are designed:
 
   * they allow the website to identify you as a previous visitor each time you access a site;
-  * they track what information you view at a site (important to commercial sites trying to determine your buying preferences);
-  * in the more advanced cases they track your movements through many websites but not the whole Web;
-  * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
-  * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many websites; and
+  * they track what information you view at a site (important to us for trying to determine your information needs);
+  * in the more advanced cases they track your movements through many websites but not the whole Web; and
   * they can be used to help a website tailor screens for each customer's preference.
 
 
