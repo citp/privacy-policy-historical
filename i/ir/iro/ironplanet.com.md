@@ -1,26 +1,35 @@
-> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606151605id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironplanet.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228170225id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # IronPlanet - Terms and Conditions
 
 | 
 
-| **Site Usage  
+  * **Site Usage  
 Terms and  
-Conditions** | **Buyer  
+Conditions**
+  * **Buyer  
 Terms and  
-Conditions** | **Seller  
+Conditions**
+  * **Seller  
 Terms and  
-Conditions** | **Surplus  
+Conditions**
+  * **Surplus  
 Terms and  
-Conditions** | **Privacy  
+Conditions**
+  * **Privacy  
 Statement  
- ** | **Abandonment  
+ **
+  * **Abandonment  
 Policy  
- ** | **IronClad  
+ **
+  * **IronClad  
 Assurance  
-Policy** |    
----|---|---|---|---|---|---|---  
-  
+Policy**
+
+
+
+**
+
 Revised June 1, 2015
 
 ## IronPlanet Privacy Statement
@@ -81,7 +90,7 @@ Specific uses of personal information that vary from this Privacy Statement (if 
 **3.   Information Sharing: How and With Whom We Share the Information**
 
   * **Sharing With Affiliates.**  We may share any of the Information with affiliated companies under common ownership or control, such as companies that are part of the IronPlanet family of companies. Click [here](http://www.ironplanet.com/jsp/s/howto/howtoBuy.html?title=Our+Family+of+Brands) for a list of those affiliates. We share information with our affiliates so that they may provide you with information regarding products and services that may be of use to you, and for any other use set forth in this Privacy Statement. If we choose to share Information in this fashion, we will require our affiliates to honor this Privacy Statement.
-  * **Sharing With Nonaffiliated Third Parties and Partners.**  We may share any of the Information with our partners, such as dealers or original equipment manufacturers, with whom we offer co-branded, joint, or customized products or services, or other parties whose offers of services or products we believe you may wish to receive. This information may include, for instance, your contact information and information about your purchases or likely interests. To learn more about how data may be shared with Nonaffiliated Third Parties and Partners, including how to opt out, please click [here](https://www.ironplanet.com/jsp/acct/editProfile.jsp#opt-out).
+  * **Sharing With Nonaffiliated Third Parties and Partners.**  We may share any of the Information with our partners, such as dealers or original equipment manufacturers, with whom we offer co-branded, joint, or customized products or services, or other parties whose offers of services or products we believe you may wish to receive. This information may include, for instance, your contact information and information about your purchases or likely interests. To learn more about how data may be shared with Nonaffiliated Third Parties and Partners, including how to opt out, please click [here](https://web.archive.org/jsp/acct/editProfile.jsp?oout=y).
   * **Sharing With Service Providers.**  We share personal information we collect on our Sites with our service providers. These may include, for instance, third parties that provide services to us regarding email marketing, market research, data analytics and data enhancement, customer service, site operations and hosting, systems management, accounting, auditing, billing, reconciliation, and collection activities.
   * **Sharing of Aggregated or Anonymized Data.**  We may share aggregated, anonymized or de-identified personal information with any third party, without any restriction, including through the use of cookies and other automated technologies. We may share personal information at your request.
   * **Sharing As Required by Law and at Our Discretion.**  Subject to applicable law, we may disclose information about you: (i) if we are required to do so by law, regulation or legal process, such as a subpoena; (ii) when we believe disclosure would be appropriate in response to requests by government entities, such as law enforcement authorities; (iii) when we believe disclosure is necessary or appropriate to prevent physical, financial or other harm, injury or loss to ourselves or any person (including regarding any potential violation of the law or our terms or policies); (iv) in connection with an investigation of suspected or actual unlawful activity; or (v) for fraud detection and prevention.
@@ -120,5 +129,8 @@ By using the IronPlanet Sites and services, you signify your acceptance of this 
 
 If you have questions or concerns about this Privacy Statement, please send an e-mail to [Privacy@ironplanet.com](mailto:Privacy@ironplanet.com). 
 
-  
+**
 
+**  
+**  
+---|---
