@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404141509id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229003618id_/https%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com Privacy Policy
 
