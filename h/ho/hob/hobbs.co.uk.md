@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610063511id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228121406id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
