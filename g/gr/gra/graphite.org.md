@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628172500id_/https%3A//www.graphite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228154124id_/https%3A//www.commonsense.org/education/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Your California Privacy Rights | graphite
+# Privacy Policy/Your California Privacy Rights | Common Sense Education
 
-At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full [Common Sense Media Privacy Policy](https://web.archive.org/#privacy-policy).
+At Common Sense Media, we value your privacy. And since privacy policies can be very long, here's a summary of the key concepts of the full [Common Sense Media Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#privacy-policy).
 
 **What do you do with the information I give you when I register?**
 
@@ -22,12 +22,12 @@ We have strict limitations about what personal information can be collected and 
 
 We are not in the business of renting or selling your personal data. We do not share or disclose your personal data without your prior written consent, except as follows:
 
-  * to [screen postings](https://web.archive.org/#mollom) to ensure they aren't spam;
+  * to [screen postings](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#mollom) to ensure they aren't spam;
   * to provide to our [third-party vendors](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#third-party-service-providers) who assist us with operating, maintaining, and improving our services by providing us with services, such as donation processing, email delivery, information technology services, marketing Common Sense content, features, and products, and other similar services, and who receive your data for the limited purposes of providing us with such services;
-  * to enable [social login](https://web.archive.org/#social-login) (for adults);
-  * to provide credit for [Digital Literacy Citizenship Training](https://web.archive.org/#digital-literacy) (for educators);
+  * to enable [social login](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#social-login) (for adults);
+  * to provide credit for [Digital Literacy Citizenship Training](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#digital-literacy) (for educators);
   * to fulfill a request you have made (such as entering a promotion);
-  * and to [comply](https://web.archive.org/#law-enforcement) with the law, legal process, respond to an emergency, or [protect](https://web.archive.org/#law-enforcement) our rights.
+  * and to [comply](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#law-enforcement) with the law, legal process, respond to an emergency, or [protect](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#law-enforcement) our rights.
 
 
 
@@ -41,7 +41,7 @@ You can unsubscribe from our email newsletters by updating your subscription sel
 
 **Other information**
 
-For more information on our privacy practices, please go to the full [Privacy Policy](https://web.archive.org/#privacy-policy).
+For more information on our privacy practices, please go to the full [Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy#privacy-policy).
 
 **Contact us**
 
@@ -49,21 +49,21 @@ You can contact us at: Common Sense Media, 650 Townsend Street, Suite 435, San F
 
 **COMMON SENSE MEDIA PRIVACY POLICY**
 
-Effective Date of Policy: April 21, 2016
+Effective Date of Policy: July 14, 2016
 
 Welcome! Below you will find the privacy policy for Common Sense Media, Inc. (" **we** " or " **us** "). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the " **Policy** " or the " **Privacy Policy** ") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, [www.commonsensemedia.org](http://www.commonsensemedia.org/) (the " **Site** "), other Common Sense Media websites, the Common Sense Media mobile application and other applications (" **apps** ") that we operate and that link to this Privacy Policy (collectively, the " **Services** "). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
 
-Please see our separate [Terms of Use](https://www.commonsensemedia.org/about-us/our-mission/site-terms-use), which governs the use of the Services. **We encourage you to read this Policy before using the Services, and not to use the Services if you disagree with any part of this Policy. By using the Services or by clicking a box that states that you accept or agree to this Policy, you signify your agreement to the terms and conditions of this Policy.**
+Please see our separate [Terms of Use](https://www.commonsense.org/education/about-us/our-mission/site-terms-use), which governs the use of the Services. **We encourage you to read this Policy before using the Services, and not to use the Services if you disagree with any part of this Policy. By using the Services or by clicking a box that states that you accept or agree to this Policy, you signify your agreement to the terms and conditions of this Policy.**
 
 The Services are controlled and operated by Common Sense Media, a nonprofit organization in the United States, and are not intended to subject Common Sense Media or any affiliated entity to the laws or jurisdiction of any state, country or territory other than that of the United States. We may limit the availability of the Services, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time in our sole discretion.
 
 **I. INFORMATION THAT WE COLLECT ON OR THROUGH THE SERVICES**
 
-Through the Services, you can be a part of an active and vibrant community of families and educators interested in the impact of media on their children and students. Visitors who complete the membership process through our Services may become registered members (" **Members** "). Members can engage in a full range of activities on our Services, such as posting comments on articles, creating user reviews on media products, participating in surveys and polls, and saving favorites to a personal page. Educator members, in addition to creating user reviews, can participate in educator forums. If you are not currently a Member, you may [click here](https://www.commonsensemedia.org/user/register) to register, or [here](https://www.graphite.org/user/register) if you are an educator, and become eligible for our Services' features.
+Through the Services, you can be a part of an active and vibrant community of families and educators interested in the impact of media on their children and students. Visitors who complete the membership process through our Services may become registered members (" **Members** "). Members can engage in a full range of activities on our Services, such as posting comments on articles, creating user reviews on media products, participating in surveys and polls, and saving favorites to a personal page. Educator members, in addition to creating user reviews, can participate in educator forums. If you are not currently a Member, you may [click here](https://www.commonsense.org/education/user/register) to register, or [here](https://www.graphite.org/user/register) if you are an educator, and become eligible for our Services' features.
 
 **A. Personal Information**
 
-In this Policy, when we use the term " **Personal Information** ", we mean any information that can be used to identify or contact a specific individual, such as the individual's name, postal address, email address and telephone number. We collect different types of Personal Information depending on whether you are a Non-Member or a Member, and what type of Member you are, as explained below. Personal Information does not include screen names (also known as member names, usernames or other online aliases) provided by our adult users in the course of registering with or using the Services. For information on the collection, use and disclosure of children's personal information, please see our [Children's Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy).
+In this Policy, when we use the term " **Personal Information** ", we mean any information that can be used to identify or contact a specific individual, such as the individual's name, postal address, email address and telephone number. We collect different types of Personal Information depending on whether you are a Non-Member or a Member, and what type of Member you are, as explained below. Personal Information does not include screen names (also known as member names, usernames or other online aliases) provided by our adult users in the course of registering with or using the Services. For information on the collection, use and disclosure of children's personal information, please see our [Children's Privacy Policy](https://www.commonsense.org/education/about-us/our-mission/childrens-privacy-policy).
 
 Visitors to the Services may register and opt-in to receive Common Sense Media email newsletters by providing their email address and zip code (child members under 13 cannot opt-in for this email newsletter). We also may collect Personal Information through surveys or questionnaires. Your participation in surveys and questionnaires is entirely voluntary.
 
@@ -71,7 +71,7 @@ If you wish to become a Member, you must provide us with certain Personal Inform
 
 If you wish to become a Member, you may optionally choose to provide us with certain additional information, such as country of residence. If you are a parent or adult Member, you may also optionally choose to provide us with information about your children such as their ages so we can personalize your experience on the Services and within our email newsletters.
 
-In order to simplify our registration and login process, we provide you with the option to register or login and link your Member account on the Site with a third-party social networking service, such as Facebook, Google, and Twitter (each a " ** _Social Networking Service_** "). These services will authenticate your identity, will allow you to log into the Services using the single social login buttons, and will share certain personal information that you allow us to collect, as discussed [below](https://web.archive.org/#social-login).
+In order to simplify our registration and login process, we provide you with the option to register or login and link your Member account on the Site with a third-party social networking service, such as Facebook, Google, and Twitter (each a " ** _Social Networking Service_** "). These services will authenticate your identity, will allow you to log into the Services using the single social login buttons, and will share certain personal information that you allow us to collect, as discussed below.
 
 If you wish to become an Educator Member on the Site, you must provide us with your school name or select that you're not an Educator in a school and select your Educator type.
 
@@ -110,34 +110,7 @@ Our Common Sense Media App will collect precise information about the location o
 
 We and third parties who provide services to us may also collect certain information automatically when you visit the Services, including through the use of cookies and web beacons, such as the browser you are using (e.g., Safari, Internet Explorer, Chrome, Mozilla Firefox, etc.), the internet address from which you linked to the Services, the operating system of your computer (e.g., Microsoft Windows, iOS, Android, etc.), the unique IP address of the computer you used to access our Services and usage and browsing habits. We use this information to administer and improve your experience on our Services, to help diagnose and troubleshoot potential server malfunctions, and to gather use and demographic information. Some of these third parties may use this information for other purposes.
 
-The following is our list of third-party service providers who may use cookies and other technologies:
-
-  * Google Analytics 
-    * Contact [<http://www.google.com/intl/af/contact>]
-    * Privacy Policy [<https://www.google.com/policies/privacy>]
-    * Opt-Out [<https://tools.google.com/dlpage/gaoptout>] (will opt your device out of Google Analytics on all websites)
-  * Optimizely 
-    * Contact [<https://www.optimizely.com/privacy#how-to-contact-us>]
-    * Privacy Policy [<https://www.optimizely.com/privacy>]
-    * Opt-Out [<https://www.optimizely.com/opt_out>] (will opt your device out of Optimizely analytics only on the Common Sense Media site)
-  * Mollom 
-    * Contact [<https://mollom.com/contact>]
-    * Privacy Policy [<https://mollom.com/web-service-privacy-policy>]
-  * Qualaroo 
-    * Contact [<https://qualaroo.com/contact-us/>]
-    * Privacy Policy [<https://qualaroo.com/privacy-policy/>]
-  * Crazy Egg 
-    * Contact [<http://support.crazyegg.com/contact>]
-    * Privacy Policy [<https://www.crazyegg.com/privacy>]
-    * Opt-Out [<https://www.crazyegg.com/opt-out>] (will opt your device out of any tracking by Crazy Egg)
-  * Vimeo 
-    * Contact [<https://vimeo.com/privacy#how-to-contact-us>]
-    * Privacy Policy [<https://vimeo.com/privacy>]
-  * TED 
-    * Contact [<https://www.ted.com/about/our-organization/contact-us>]
-    * Privacy Policy [<https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy>]
-
-
+The following [page](https://www.commonsense.org/education/about-us/our-mission/privacy-policy/third-party-service-providers) lists our third-party service providers who may use cookies and other technologies.
 
 To help make sure you receive information that is relevant to you, our Services use "cookies," which are small data files stored on your computer and identify you as a previous visitor to the Services and help us to personalize your experience when you arrive. Most web browsers are set to accept cookies. You can instruct your browser not to accept cookies. However, if you disable this function, you will not be able to use some of the features on our Services.
 
@@ -153,13 +126,13 @@ Additionally, we may aggregate Personal Information in such a manner that the en
 
 **A. How We Use Personal Information**
 
-We use Personal Information to process requests made through our Services, such as requests to receive our e-newsletters, requests for membership and questions or comments submitted through our Services. You may opt-out of receiving our e-newsletters at any time by updating your subscription selection in the "My Profile" section of your account, clicking the "unsubscribe" link located at the bottom of all newsletters, or by visiting commonsense.org/contact and sending a request using our online form.
+We use Personal Information to process requests made through our Services, such as requests to receive our e-newsletters, requests for membership and questions or comments submitted through our Services. You may opt-out of receiving our e-newsletters at any time by updating your subscription selection in the "My Profile" section of your account, clicking the "unsubscribe" link located at the bottom of all newsletters, or by visiting [commonsense.org/contact](https://www.commonsensemedia.org/contact) and sending a request using our online form.
 
 _Fulfillment of Requests._ We may use Personal Information about you to fulfill the purpose for which such information was provided (e.g., to send newsletters to you or respond to your requests or inquiries and provide related customer service).
 
 _Additional Communications._ If you register to become a Member of our community or sign up to receive one of our e-newsletters, we may use the Personal Information submitted in connection with your application to contact you with surveys or important communications regarding Common Sense Media. We may additionally use Personal Information to contact you about Common Sense content, features, opportunities, and products that may be of interest to you.
 
-_Membership._ If you become a Member, we may use your Personal Information to maintain and update your Profile and postings in our online reviews, surveys and polls. All content that you submit to the Services is governed by our [Terms of Use](https://www.commonsensemedia.org/about-us/our-mission/site-terms-use). We may also use Personal Information to send updates and communications to our Members, such as our e-newsletters, surveys and other important Common Sense Media communications such as information regarding the Services or changes to our terms, conditions and policies.
+_Membership._ If you become a Member, we may use your Personal Information to maintain and update your Profile and postings in our online reviews, surveys and polls. All content that you submit to the Services is governed by our [Terms of Use](https://www.commonsense.org/education/about-us/our-mission/site-terms-use). We may also use Personal Information to send updates and communications to our Members, such as our e-newsletters, surveys and other important Common Sense Media communications such as information regarding the Services or changes to our terms, conditions and policies.
 
 _Internal Operations and Analysis._ We may also use Personal Information about you for our internal business purposes, such as data analysis, audits, enhancing or modifying our products and services, and so forth.
 
@@ -209,9 +182,9 @@ Please note that the privacy policies and terms of use of linked Social Networki
 
 _Law Enforcement; Emergencies; Compliance_. Notwithstanding any other provision of this Policy to the contrary, we reserve the right to use your Personal Information, and to disclose it to others, as we believe to be necessary or appropriate: (a) under a requirement of applicable law, (b) to comply with legal process, (c) to respond to governmental requests, (d) to enforce our Terms of Service, (e) to protect our operations, (f) for assistance in fraud detection and prevention; (g) to protect the rights, privacy, safety or property of Common Sense Media, you or others, (h) to permit us to pursue available remedies or limit the damages that we may sustain, and (i) in connection with a disposition of all or a substantial portion of our business, assets or stock, such as the sale of the Site or Services, a merger, consolidation, reorganization, joint venture, assignment, or bankruptcy or similar proceedings.
 
-**IV.[CHILDREN'S PRIVACY](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy)**
+**IV.[CHILDREN'S PRIVACY](https://www.commonsense.org/education/about-us/our-mission/childrens-privacy-policy)**
 
-To learn about our practices regarding children's personal information, please read our [Children's Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy). When we intend to collect children's personal information, we take additional steps to protect children's privacy, including:
+To learn about our practices regarding children's personal information, please read our [Children's Privacy Policy](https://www.commonsense.org/education/about-us/our-mission/childrens-privacy-policy). When we intend to collect children's personal information, we take additional steps to protect children's privacy, including:
 
   * Notifying parents about our information practices with regard to children;
   * Limiting our collection of children's personal information to no more than is reasonably necessary to participate in an online activity; and
