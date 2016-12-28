@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403111247id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229002111id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pathfinder SoftwarePathfinder Software - Medical Software Development
 
