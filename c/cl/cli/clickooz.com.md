@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickooz.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405052713id_/http%3A//clickooz.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickooz.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025830id_/http%3A//clickooz.com/privacy-p24) for the most accurate reproduction.*
 
-# Privacy - Clickooz India
+# Privacy - Clickooz Classifieds India, Online Indian Free Local Classified Ads Websites
 
 **PRIVACY POLICY**
 
