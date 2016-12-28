@@ -1,17 +1,13 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623001220id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228203335id_/http%3A//www1.cbn.com/privacy-notice) for the most accurate reproduction.*
 
-# CBN.com Privacy Notice
-
-  
-|    
-
+# CBN.com Privacy Notice | CBN.com
 
 CBN.com realizes you are concerned about how information you give us is used and shared. This notice describes our privacy policy. By visiting CBN.com, you are accepting the practices described in this Privacy Notice.
 
 **What Personal Information About Customers Does CBN.com Gather?**  
 The information we gather from customers helps us personalize and improve your experience at CBN.com. Here are the types of information we obtain.
 
-**Information You Give Us:**   
+**Information You Give Us:**  
 We receive and store any information you enter on our Web site or give us in any other way. You may choose not to provide certain information, but then you may not be able to take advantage of many of our features. We use the information you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, matching your partner information with your community profile, and communicating with you.
 
 **What About Cookies?**  
@@ -21,8 +17,8 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries CBN.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
   * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Promotional Offers:** Sometimes we send offers to selected groups of CBN.com users. 
-  * **Protection of CBN.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of CBN.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * **Promotional Offers:** Sometimes we send offers to selected groups of CBN.com users.
+  * **Protection of CBN.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of CBN.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
 
 
@@ -47,15 +43,15 @@ CBN.com gives you access to a broad range of information about your account and 
 **Children**  
 CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 13, you may use CBN.com only with the involvement of a parent or guardian.
 
-**Advertising  
-**We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+**Advertising**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 Some browsers incorporate a “Do Not Track” (DNT) feature that, when activated, signals to websites that you do not want to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them.
 
 CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20160623001220id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www1.cbn.com/terms-of-use), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -66,26 +62,7 @@ You provide most such information when you register, buy, post, participate in a
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 **Information You Can Access**  
-Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters.
+Examples of information you can access easily at CBN.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password); payment settings (including credit card information); e-mail notification settings including Alerts and newsletters. 
 
-**Push Notifications  
-**We send push notifications, the delivery of information from a software application to your mobile device through services such as Apple's Push Notification Service for iOS devices and Google's CD2M and Cloud Messaging for Android devices. Both services are standard features of these mobile device operating systems. CBN manages access, use and disclosure of your personal data that results from your use of these services.
-
-  
-
-
-* * *
-
-**CBN IS HERE FOR YOU!**  
-**Are you seeking answers in life? Are you hurting?  
-Are you facing a difficult situation?**
-
-  * [Find your way to peace with God](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0003)
-  * [Send us your prayer request online](https://web.archive.org/SpiritualLife/prayerandcounseling/)
-  * [Call The 700 Club Prayer Center](https://web.archive.org/spirituallife/PrayerAndCounseling/PCC/index.aspx) at **1  (800) 823-6053**, 24 hours a day. 
-
-
-
-A caring friend will be there to pray with you in your time of need.
-
-| 
+**Push Notifications**  
+We send push notifications, the delivery of information from a software application to your mobile device through services such as Apple's Push Notification Service for iOS devices and Google's CD2M and Cloud Messaging for Android devices. Both services are standard features of these mobile device operating systems. CBN manages access, use and disclosure of your personal data that results from your use of these services.
