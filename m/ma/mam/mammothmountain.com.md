@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625052246id_/http%3A//www.mammothresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229005007id_/http%3A//www.mammothresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # About | Mammoth Resorts
 
-##  
-
 **Terms and Conditions**
 
-Welcome to the websites of Mammoth Resorts (including, without limitation, mammothmountain.com, snowsummit.com, bearmountain.com, junemountain.com, cali4niapass.com). Mammoth Mountain Ski Area, LLC, Snow Summit, LLC, and their affiliates ("Mammoth Resorts", "we", "us", or "our") provide these websites to you (collectively, the “Sites”), subject to the following Terms of Use ("Terms of Use"), which  govern your use of any of our websites containing a link to these Terms of Use, and subject to our Privacy Policy, which is incorporated into these Terms of Use by this reference.  Please read these Terms of Use and the Privacy Policy carefully before using our Sites. By using any of our Sites, you agree to these Terms of Use and the Privacy Policy. If you do not agree to these Terms of Use and the Privacy Policy, you should not use our Sites or the services we provide on them.
+Welcome to the websites of Mammoth Resorts (including, without limitation, mammothmountain.com, snowsummit.com, bearmountain.com, bigbearmountainresort.com, junemountain.com, cali4niapass.com). Mammoth Mountain Ski Area, LLC, Snow Summit, LLC, and their affiliates ("Mammoth Resorts", "we", "us", or "our") provide these websites to you (collectively, the “Sites”), subject to the following Terms of Use ("Terms of Use"), which  govern your use of any of our websites containing a link to these Terms of Use, and subject to our Privacy Policy, which is incorporated into these Terms of Use by this reference.  Please read these Terms of Use and the Privacy Policy carefully before using our Sites. By using any of our Sites, you agree to these Terms of Use and the Privacy Policy. If you do not agree to these Terms of Use and the Privacy Policy, you should not use our Sites or the services we provide on them.
 
 Privacy Policy
 
@@ -82,7 +80,7 @@ PO Box 24
 
 Mammoth Lakes, California 93546
 
-E-mail: 800Mammoth@mammoth-mtn.com  (please include “attn: General Counsel” in the subject line)
+E-mail: [800Mammoth@mammothresorts.com](mailto:800Mammoth@mammothresorts.com)  (please include “attn: General Counsel” in the subject line)
 
 Mammoth Resorts may terminate use of our Sites by repeat infringers in appropriate circumstances pursuant to the DMCA. 
 
@@ -236,7 +234,7 @@ From time to time, we may use technology that provides us with information about
 
 Children’s Privacy
 
-We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [800Mammoth@mammoth-mtn.com](mailto:800Mammoth@mammoth-mtn.com)
+We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [800Mammoth@mammothresorts.com](mailto:800Mammoth@mammothresorts.com)
 
 You may not register on our Sites or open an account if you are under the age of 13. The Sites are not directed to individuals under the age of 13, nor do they contain information which would be potentially harmful to minors in any way.  However, we advise all visitors to the Sites under the age of 13 not to disclose or provide any Personally Identifiable Information. In the event that Mammoth Resorts discovers that a child under the age of 13 has provided Personally Identifiable Information to us, we will delete the child's Personally Identifiable Information in accordance with the Children's Online Privacy Protection Act of 1998.
 
@@ -252,7 +250,7 @@ Our Sites give you the option of not receiving future communications from us by 
 
 _Review and Update Your Information_
 
-You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing 800mammoth@mammoth-mtn.com
+You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing [800Mammoth@mammothresorts.com](mailto:800Mammoth@mammothresorts.com)
 
 How We Protect Your Information
 
@@ -288,7 +286,7 @@ Mammoth Lakes, CA 93546
 
 1-800-626-6684
 
-800Mammoth@mammoth-mtn.com
+[800Mammoth@mammothresorts.com](mailto:800Mammoth@mammothresorts.com)
 
 Effective Date of this Privacy Policy
 
