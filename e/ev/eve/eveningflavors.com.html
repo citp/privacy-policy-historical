@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621172912id_/https%3A//eveningflavors.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eveningflavors.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229005513id_/https%3A//www.eveningflavors.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>  Privacy Policy - Online Bangalore Restaurants, Pubs, Parties Guide from eveningflavors.com  </title>
   
-<link rel="shortcut icon" href="https://s3.amazonaws.com/images-ef/EvfImages/ICON/favicon.ico">
+<link rel="shortcut icon" href="https://img-cdn.eveningflavors.com/EvfImages/ICON/favicon.ico">
 
 
 
@@ -53,99 +53,79 @@
 
 <!-- <link type="text/css" rel="stylesheet" href="/login/login.css" /> -->
 <link type="text/css" rel="stylesheet" href="/js/BookingConfirm.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://embed.tawk.to/5572b8d1b9e802843c991d37/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/login/popup.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/login/popup.js"></script> 
+<script type="text/javascript" language="javascript" src="/js/registration_validate.js"> </script>
 <script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
     	<div id="fb-root"></div>
+	    	<script>
+	      		// initialize the library with the API key
 
-	    <script>
-	      // initialize the library with the API key
-
-		      	//FB.init({
-		          //appId  : '113481685380788',
-		         // status : true,
-		          //cookie : true,
-		          //xfbml  : true
-		       // });
-
-		  FB.init({ appId: '131650560248572' });
-
-	      // fetch the status on load
-	      FB.getLoginStatus(handleSessionResponse);
-		 	/* $(document).ready(function() {
-			      $('#login').bind('click', function() {  	  
-					var baseURL ;
-					 var page = $("#page").val();
-					 var restaurantid = $(".restaurantid").val();
-					 var userType = $(".userLoginType").val();
-			        FB.login(function(login_response){
-				        // if we have a session, query for the user's profile picture and name
-				        FB.api(
-				          {
-				            method: 'fql.query',
-				            query: 'SELECT first_name, last_name, sex, pic_square, birthday, email ,uid FROM user WHERE uid = me()'
-				          },
-				          function(response){
-				            var user = response[0];
-                          var  profileImgSrc=user.pic_square;
-                           var index=profileImgSrc.indexOf(".jpg");
-			               profileImgSrc= profileImgSrc.substring(0,index-1)+"n.jpg";
-							baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&fb_uid='+user.uid;
-							top.location.href = baseURL ;
-							return true;
-				          }
-				        );
-			        }, {scope:'publish_stream,email,user_birthday'});
-			      });
-		 	}); */
+		      		FB.init({
+		          		appId  : '131650560248572',
+		          		status : true,
+		         		cookie : true,
+		          		xfbml  : true
+		       		});
+	      		
+		      		// fetch the status on load
+		      		
+		      		FB.getLoginStatus(handleSessionResponse);
+		      	
+		      		function loginFacebook(pageFromReq,wishTypeReq,restNameFromReq,cityFromReq,restIdFromReq,userTypeFromReq,loginIdRedirectFromReq,pax123,date123,time123,slot123) {
+		      			var baseURL ;
+						var page = pageFromReq;
+						//alert("page"+page);
+						var restaurantid = restIdFromReq;
+						//alert("rest id:"+restaurantid);
+						var wishType = wishTypeReq;
+						var restName = restNameFromReq;
+						var cityName = cityFromReq;
+						var userType = userTypeFromReq;
+						var loginIdRedirect = loginIdRedirectFromReq;
+						var pax = pax123;
+						var date = date123;
+						var time = time123;
+						var slot = slot123;
+						
+						
+				        FB.login(function(response){
+				        	 var imageURLnew;
+				        	 var token =   response.authResponse.accessToken;
+				        	 
+				        	 FB.api('/me', 'get', { access_token: token, fields: 'first_name,last_name,gender,birthday,email,id' }, function(response) {
+				        		    console.log("data"+response.data);
+				        		   var first_name=response.first_name;
+				        		   //alert(first_name);
+				        		   var last_name=response.last_name;
+				        		   //alert(last_name);
+				        		   var gender=response.gender;
+				        		  // alert(gender);
+				        		   var birthday=response.birthday;
+				        		 // alert(response.birthday);
+				        		   var email=response.email;
+				        		  //alert(response.email);
+				        		   var id=response.id;
+				        		   //alert(response.id);
+				        		   console.log(id);
+				        		   
+				        		   var imageUrl="http://graph.facebook.com/" + response.id + "/picture?width=200&height=200";
+				        		   console.log("Image Url: "+imageUrl);
+				        		   baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+email+'&userFirstName='+first_name+'&userLastName='+last_name+'&BirthDay='+birthday+'&userGenderType='+gender+'&restaurantId='+restaurantid+'&restName='+restName+'&cityName='+cityName+'&page='+page+'&fb_uid='+id+'&profileImgSrc'+imageUrl;
+									//alert("URL:"+baseURL);
+									console.log("URL:"+baseURL);
+				        		   top.location.href = baseURL ;
+									return true;    	
+				        		  
+      	
+				        	 });
+				        },{scope: 'public_profile,email,user_birthday'});
+				      }
+		      	
+		 
 		 	
-		 	function loginFacebook(pageFromReq,wishTypeReq,restNameFromReq,cityFromReq,restIdFromReq,userTypeFromReq,loginIdRedirectFromReq,pax123,date123,time123,slot123) {  	  
-				var baseURL ;
-				 var page = pageFromReq;
-				 var restaurantid = restIdFromReq;
-				 var wishType = wishTypeReq;
-				   var restName = restNameFromReq;
-				   var cityName = cityFromReq;
-				 var userType = userTypeFromReq;
-				 var loginIdRedirect = loginIdRedirectFromReq;
-				 var pax=pax123;
-				 var date=date123;
-				 var time=time123;
-				 var slot=slot123;
-		        FB.login(function(login_response){
-			        // if we have a session, query for the user's profile picture and name
-			        FB.api(
-			          {
-			            method: 'fql.query',
-			            query: 'SELECT first_name, last_name, sex, pic_square, birthday, email ,uid FROM user WHERE uid = me()'
-			          },
-			          function(response){
-			            var user = response[0];
-                      var  profileImgSrc=user.pic_square;
-                       var index=profileImgSrc.indexOf(".jpg");
-                       var userEmail = user.email;
-		               profileImgSrc= profileImgSrc.substring(0,index-1)+"n.jpg";
-						baseURL='/loginOpenId/faceBookLoginVerify.jsp?userType='+userType+'&userFaceBookLoginId='+user.email+'&userFirstName='+user.first_name+'&userLastName='+user.last_name+'&BirthDay='+user.birthday+'&userGenderType='+user.sex+'&profileImgSrc='+profileImgSrc+'&restaurantid='+restaurantid+'&page='+page+'&loginIdRedirect='+loginIdRedirect+'&fb_uid='+user.uid+"&resId="+restaurantid+"&wishtype="+wishType+"&restName="+restName+"&cityName="+cityName+"&pax="+pax+"&date="+date+"&time="+time+"&pickedslot123="+slot;
-						
-						if(userEmail != null && userEmail != '' && userEmail != 'null'){
-						 	document.getElementById("wrongmessage").hidden=true;
-						 	console.log('User Email FB Login: '+userEmail);
-						 	top.location.href = baseURL ;
-						 	return true;
-			            }
-					    else{
-						    document.getElementById("wrongmessage").hidden=false;
-						    console.log('User Email FB Login: '+userEmail);
-			            	document.getElementById("wrongmessage").innerHTML="Your Email Id is not verified at Facebook. Please verify and re-login using this Email Id.";
-			            	return false;
-			            }
-						
-						
-			          }
-			        );
-		        }, {scope:'publish_stream,email,user_birthday'});
-		      }
+			
 
 	      $('#logout').bind('click', function() {
 	        FB.logout(handleSessionResponse);
@@ -175,11 +155,20 @@
 	    </script>
 
 <style type="text/css">
-	.inActiveLink {
-	   pointer-events: none;
-	   cursor: default;
-	}
-	@keyframes blink {
+
+#newYearEvents:hover{
+background-color: #525252;
+}
+#m4 {
+	margin-top:5px;
+	margin-left:3px;	
+}
+
+.inActiveLink {
+   pointer-events: none;
+   cursor: default;
+}
+@keyframes blink {
   from { opacity: 1; }
   to   { opacity: 0; }
 }
@@ -216,7 +205,14 @@ blink {
 					$("#openPop").show();
 				}
 				function callCity(city){
-					window.location = "/"+city;
+					/*  modified by vipul*/
+					var path=window.location.pathname;
+					var isthere=path.search("Restaurant");
+					//alert(isthere);
+					if(isthere==1)
+						window.location = "/Restaurant/"+city;
+					else
+						window.location = "/"+city;
 				}
 				
 				function changeDownIcon()
@@ -288,8 +284,11 @@ blink {
 			
 			<script type="text/javascript">
 			  	$(top.document).ready(function() {
-			 	   	$("#clickPopUp").attr('href', '/login/login.jsp?userType=1&page=Signup');
-					
+ 			 	   //	$("#clickPopUp").attr('href', '/login/login.jsp?userType=1&page=Signup');
+		 	   // added by vipul to redirect to same page from where we are clicking to login button
+		 	   		var pathname = window.location.pathname; // Returns path
+ 					$("#clickPopUp").attr('href', '/login/login.jsp?userType=1&page='+pathname);
+
 			 	});
 			  </script>
 
@@ -316,6 +315,9 @@ src="https://www.facebook.com/tr?id=1523928071267477&ev=PageView&noscript=1"
 				
 		</div>
 		<div id="CityAndSearch" style="float:right;">
+<!-- 			<div id="applinktemp" style="float: left; margin-left: 150px; margin-top: 33px; border-bottom-style: inset;"> -->
+<!-- 				<a href="https://play.google.com/store/apps/details?id=com.App.Eveningflavors" style="text-decoration: blink; font-size: 13px;">Download App, get upto 20% cashback  </a> -->
+<!-- 			</div> -->
 			<div id="CityBox" style="float:left;">
 				<div style="float:left;display:block;color:#777777;font-family:open sans;font-size:13px;">
 				Your City
@@ -685,6 +687,9 @@ src="https://www.facebook.com/tr?id=1523928071267477&ev=PageView&noscript=1"
 	<input type="text" id="HomeSearchKeywordInput" class="" name="inputForQuickSearch" maxlength="40" placeholder=" Restaurants,Area,Cuisine,Ambience" onfocus="doClearText(this)" onkeydown="navigateListGlobal(event)" onkeyup="loadDataGlobal(this,event)" autocomplete="off">
 </div>
 <script>
+// 	$( "#SearchBoxIcon" ).click(function() {
+// 	  $( "#applinktemp" ).toggle();
+// 	});
 	$('#SearchBoxIcon').click(function(){
 		$('#SearchBoxControl').toggle("slow");
 	});
@@ -896,35 +901,39 @@ src="https://www.facebook.com/tr?id=1523928071267477&ev=PageView&noscript=1"
 			
 		
 			
-			<li id="Offers"><a href="/deals/bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;"><blink> Deals</blink></a> </li>
+			<li id="Offers"><a href="/Deals/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;"><blink> Deals</blink></a> </li>
 			
 			
+			<li id="newYearEvents"><a href="/new-year-parties/Bangalore/" style="margin-top: 6px;color:#ffffff;margin-left:5px;">
+				New Year</a> </li>
 			
-			
+						
 			<li id="Blogs"><a href="http://blog.eveningflavors.com/" style="margin-top: 6px;color:#ffffff;">&nbsp;&nbsp;Blogs</a></li>
 			
 			
 			
-			
 			<div id="LoginBox">
-				<a id="clickPopUp" title="" class="thickbox1" style="text-decoration: none;margin-left:4em;" href="/login/login.jsp?userType=1&amp;page=Signup"><font color="white"><center>LOGIN</center></font></a>
+				<a id="clickPopUp" title="" class="thickbox1" style="text-decoration: none;margin-left:4em;" href="/login/login.jsp?userType=1&amp;page=/web/20161229005513id_/https://www.eveningflavors.com/Privacy/"><font color="white"><center>LOGIN</center></font></a>
 			</div>
 			
 			 </div>
 			 
 		</ul>
 
-		<div id="dropdown" style="display:none;position:absolute;">
+		<div id="dropdown" style="display:none;">
 			<a href="/RightNavigationCrudResponse.jsp?myAccount=Details" style="text-decoration:none;">
-				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">
+				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'" style="width:130px;">
 					My Profile
 				</div>
 			</a>
+			
+			
 			<a href="/Logout.jsp?submit=OK" style="text-decoration:none;">
-				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'">
+				<div id="spanid" onmouseover="this.style.color='#3f3f3f'" onmouseout="this.style.color='#ffffff'" style="width:130px;">
 					Sign Out
 				</div>
 			</a>
+			
 		</div>
 
 
@@ -949,7 +958,7 @@ src="https://www.facebook.com/tr?id=1523928071267477&ev=PageView&noscript=1"
 		
 		<div id="CityMbl">
 			
-			<a href="/login/login.jsp?userType=1&amp;page=UserSignup" id="pop" onclick="javascript:pop()" title="" class="inActiveLink thickbox1" style="pointer-events: auto; cursor: auto;"><img src="/EVFNewImages/Mobile/User.png" height="30" width="22" id="m4" style="margin-top:5px;margin-left:3px;"></a>
+			<a href="/login/login.jsp?userType=1&amp;page=UserSignup" id="pop" onclick="javascript:pop()" title="" class="inActiveLink thickbox1" style="pointer-events: auto; cursor: auto;"><img src="/EVFNewImages/Mobile/User.png" height="30" width="22" id="m4"></a>
 			
 		
 		</div>
@@ -1162,8 +1171,13 @@ src="https://www.facebook.com/tr?id=1523928071267477&ev=PageView&noscript=1"
 		</div></a>
 		
 		
-		<a href="http://blog.eveningflavors.com/" style="color:#ffffff;text-decoration:none;" onmouseover="this.style.color='#525252'"><div id="MblTab" style="padding-bottom: 3px;padding-top: 3px;">
-			BLOGS
+			<a href="/new-year-parties/Bangalore/" style="color:#ffffff;text-decoration:none;"><div id="MblTab" style="padding-bottom: 3px;padding-top: 3px;">
+			NEW YEAR
+		</div></a>		
+		
+		
+		<a href="/christmas-parties-2016/bangalore/" style="color:#ffffff;text-decoration:none;" onmouseover="this.style.color='#525252'"><div id="MblTab" style="padding-bottom: 3px;padding-top: 3px;">
+			X-MAS
 		</div></a>
 		
 		
@@ -1614,25 +1628,42 @@ var check=false;
 			})
 	/* For Mobile Resolution */
    
-      $('#profile_setting').click(function(){
+    $('#profile_setting').click(function(){
         click_is_inside1=true;
        }, function(){
         click_is_inside1=false;
-       });
+       }); 
 	   
 	    $('#pop').click(function(){
 			$("#MblMenuTab").hide();
 			$('#MblCityTab').hide();
 		});
 
-  $('body').click(function(){
+ /*  $('body').click(function(){
         if(!click_is_inside1) $('#dropdown').hide();
 		click_is_inside1=false;
 		  check=false;
+		  showDiv1();
              });
-           });
+           */
 		   
+
+	$("body").click(function(){
+        if($('#dropdown').css("display")=="block")
+       	 	$('#dropdown').show();
+        else
+			$('#dropdown').hide();
+		
+       	});
+	$('#showDiv').click(function(){
+        if($('#dropdown').css("display")=="none")
+			$('#dropdown').show();
+		else
+			$('#dropdown').hide();
+		});
 	
+   }); 
+     
 	/* For Mobile Resolution */
 	$("#m1" ).click(function() {
 		$('#MblMenuTab').slideToggle();
@@ -1652,7 +1683,7 @@ var check=false;
 
 
 
-function showDiv1(){
+/* function showDiv1(){
 	var div1=document.getElementById("dropdown");
 	 var div2=document.getElementById("picName");
      var attr=div1.getAttribute("style");
@@ -1670,7 +1701,7 @@ function showDiv1(){
 	div2.setAttribute("style", "background-color: none");
 	check=true;
 	}
-}
+} */
 </script>
 <script type="text/javascript">
 		function getSearchDetails(){
@@ -1782,18 +1813,96 @@ function showDiv1(){
 
 
 
-	
+
 	<style type="text/css">
-	#foo {
-	    position: fixed;
-	    bottom: 0;
-	    right: 20px;
-	    color: #fff;
-	    border-top-left-radius:10px;
-	    border-top-right-radius:10px;
-	    background-color: #0e374B;
-	  }
-	</style>
+#foo {
+	position: fixed;
+	bottom: 0;
+	right: 20px;
+	color: #fff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	background-color: #0e374B;
+}
+
+/* Added by Manjunatha  */
+.appLink {
+	border: 1px solid #a6a6a6;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	width: 300px;
+	height: 40px;
+	margin-left: -50px;
+}
+
+#playStoreDiv {
+	cursor: pointer;
+	margin-top: 9px;
+	margin-left: -43px;
+}
+
+#downloadText {
+	float: left;
+	margin-left: 35px;
+	margin-top: 9px;
+}
+
+#downloadImage {
+	float: left;
+	margin-left: 7px;
+	margin-top: 6px;
+}
+
+#mobile_footer_app_link {
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height : 15%;
+	background: url('/EVFNewImages/Mobile/BG_install_60.png');
+	z-index: 9999;
+	color: #fff;
+	padding-bottom : 1%;
+	text-align: center;
+	font-family: open sans;
+	text-transform: uppercase;
+}
+@media (min-width: 320px) and (max-width: 640px) and (orientation:portrait){
+#mobile_footer_app_link {
+height : 12%;
+}
+@media (min-width: 320px) and (max-width: 640px) and (orientation:landscape){
+#mobile_footer_app_link {
+height : 14%;
+}
+</style>
+	<script type="text/javascript">
+	/* Added by Manjunatha */
+	
+	/* $(document).ready(function(){
+    $("#playStore").click(function(){
+        window.open("https://bit.do/EvF",'_blank');
+    });
+}); */
+	
+	function playStoreRedirect() {
+		window.open("https://bit.do/EvF",'_blank');	
+	}
+$(document).ready(function(){
+	var $w = $(window).scroll(function(){
+   	 if ( $w.scrollTop() > 0 ) {
+    	    $('#mobile_footer_app_link').css({"top":"0"});
+    	    $('#mobile_footer_app_link').css({"bottom":""});
+   	 }
+   	 else {
+   		$('#mobile_footer_app_link').css({"top":""});
+	    $('#mobile_footer_app_link').css({"bottom":"0"});
+   	 }
+   	
+	});
+});
+
+	</script>
 
 	<!-- ADDED BY BHARATH ASHOK FOR DYANAMIC CITY NO FOR FOOTER -->
 	 
@@ -1822,6 +1931,11 @@ function showDiv1(){
 					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;"> OUR FEEDS</font>
 				</p>
 			</div>
+			<div id="FooterTopLeft">
+				<p class="footerLink" style="line-height: 18px; margin-top: 10pt; margin-bottom: 0pt; margin-left: 0px;">
+					<font face="open sans" color="white" style="font-size: 11pt;text-decoration:underline;"> EVENTS</font>
+				</p>
+			</div>
 			
 			
 				
@@ -1830,12 +1944,29 @@ function showDiv1(){
 			
 			
 			
-			<div style="border:0px solid white;float:left;width:200px;height:150px;text-align: center;">
-				<img src="/EVFNewImages/HomePageImages/Call.png" width="45" height="47" style="margin-left:0em;margin-top:0.5em;"><br>
+			<div style="border:0px solid white;float:left;width:200px;height:150px;text-align: center;margin-top:inherit;margin-left: 2%">
+				<!-- <img src="/EVFNewImages/HomePageImages/Call.png" width="45" height="47" style="margin-left:0em;margin-top:0.5em;"/><br/> -->
 				<font size="4" face="open sans">CUSTOMER SUPPORT</font><br>
-				<font size="4" face="open sans">+918039511628</font>
+				<img src="/EVFNewImages/Footer/phone.png" height="15px">
+				<font size="4" face="open sans">080 39511628</font>
+				<!-- Commented By Manjunatha-->
+						
+				<!-- Added by Manjunatha for Adding App Link at the Footer  -->
+				
+				 <a href="javascript:playStoreRedirect()" style="color:white;">
+					<div class="appLink" id="playStoreDiv">
+						<div id="downloadText">
+							<font size="2">Download our App on</font>
+						</div> 
+						<div id="downloadImage">
+							<img src="/EVFNewImages/Footer/Google_Play_Store.png" align="middle" width="85" height="18">
+						</div>
+					</div>
+				</a> 
+				
+				
+				
 			</div>
-			
 
 		</div>
 
@@ -1854,7 +1985,6 @@ function showDiv1(){
 			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
 				<a href="/AboutUs/careers/"><font face="open sans" color="white" style="font-size: 9pt;"> CAREERS</font></a><br>
 			</p>
-			
 
 			<!--<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0px;">
 				<a href="/sitemap/"><font face="open sans" color="white" style="font-size: 9pt;">SITE MAP</font></a><br>
@@ -1899,7 +2029,16 @@ function showDiv1(){
 				<a href="/FAQ/EVF_FAQ.jsp"><font face="open sans" color="white" style="font-size: 9pt;">FAQ</font></a>
 			</p>
 		</div>
-		
+		<div id="FooterLeft">
+			<p class="footerLink" style="line-height: 22px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 6px;">
+				<a href="/new-year-parties/Bangalore/"><font face="open sans" color="white" style="font-size: 9pt;"> NEW YEAR BANGALORE</font></a><br>
+				<a href="/new-year-parties/Mumbai/"><font face="open sans" color="white" style="font-size: 9pt;"> NEW YEAR MUMBAI</font></a><br>
+				<a href="/new-year-parties/Pune/"><font face="open sans" color="white" style="font-size: 9pt;">NEW YEAR PUNE</font></a><br>
+				<a href="/new-year-parties/Delhi/"><font face="open sans" color="white" style="font-size: 9pt;">NEW YEAR DELHI</font></a><br>
+				<a href="/new-year-parties/Hyderabad/"><font face="open sans" color="white" style="font-size: 9pt;">NEW YEAR HYDERABAD</font></a><br>
+
+			</p>
+		</div>
 			
 				
 					
@@ -1911,15 +2050,15 @@ function showDiv1(){
 				<table cellspacing="0" cellpadding="0" width="100%" border="0">
 				<tbody><tr>
 				<td align="right">
-				<a href="/AboutUs/ourstory/" style="color:#ffffff;text-decoration:none;font-size:12px;"><div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:70px;">
+				<a href="/AboutUs/ourstory/" style="color:#ffffff;text-decoration:none;font-size:12px;"><div style="margin-right: 20px;border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:70px;">
 					ABOUT US
 				</div></a>
 				</td>
-				<td align="center">
+				<!-- <td align="center">
 				<div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:100px;font-size:12px;color:#ffffff">
 					ADVERTISE
 				</div>
-				</td>
+				</td> -->
 				<td align="left">
 				<a href="http://blog.eveningflavors.com/" style="color:#ffffff;text-decoration:none;font-size:12px;"><div style="border:1px solid white;text-align:center;border-radius:5px;line-height:22px;font-family:open sans;width:70px;">
 					BLOGS
@@ -1958,7 +2097,33 @@ function showDiv1(){
 		</div>
 </div>
 </div>
+<!-- ADED BY KRISHNA FOR NEW YEAR POP UP  && BILLUPLOAD POPUP -->
 
+ 
+			<div class="dealPopUpFixed" style="position: fixed;bottom:-4px;left: 10px;display: inline-flex;">
+				<a href="https://www.eveningflavors.com/Restaurant/Bangalore/" title="GET 15% CASHBACK ON BILLUPLOAD ONLY">
+					<img src="https://img-cdn.eveningflavors.com/EvfImages/HomePageAds/BillUploadBanner.png" style="width: 273px;height: 217px;">
+					</a><a href="javascript:closePopup();"><img src="/EVFNewImages/Login/closethick.png" style="height: 16px;width: 14px;right: 0px;padding-bottom: 207px;margin: -8px;"></a>
+				
+			</div>
+		
+	
+
+ 
+ <!-- ADED BY KRISHNA FOR Bombay Barbeque POP UP -->
+ 
+
+
+<!-- ADED BY BIBEK FOR Chug Bar POP UP -->
+
+
+<!-- ADDED BY BIBEK FOR NAVARATRI POP UP -->
+
+
+<!--  -->
+
+<!-- Pop up for Sunnny Leone Show -->
+ 
 <!-- Added by Rahul For New Year POPUP-->
 
 
@@ -2004,7 +2169,7 @@ function showDiv1(){
 			<!--Start of Tawk.to Script-->
 			<script type="text/javascript">
 			var a=$("#NTU").val();
-			var city = 'Bangalore';
+			var city = 'Bangalore/';
 			
 			 if((city=='Bangalore' || city=='Pune' || city=='Mumbai' || city=='Delhi') && (a==undefined || a=='TiedUp')){
 				var $_Tawk_API={},$_Tawk_LoadStart=new Date();
