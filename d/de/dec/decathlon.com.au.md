@@ -1,133 +1,174 @@
-> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029155257id_/https%3A//www.decathlon.com.au/content/2_legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228092552id_/http%3A//www.decathlon.com.au/c/45-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Decathlon Australia
+# Privacy policy - Decathlon
 
-**I.                ****LEGAL INFORMATION**
+## DECATHLON – Privacy Policy
 
- **Website**
+## INTRODUCTION
 
-This website (the “ **Website** ”), and all personal information collected from users of this Website, are owned solely by Decathlon Online South East Asia Pte. Ltd. (Company Registration No.: 201225519M), a company incorporated in the Republic of Singapore and having its registered office at Decathlon Singapore Pte Ltd 58 Kim Yam Rd #01-01 Sg 239359 (“ **Decathlon** ”), with the email support-singapore@decathlon.com, contact number 6221-4739 and/or its associated companies (collectively, the “ **Oxylane Network** ”). 
+## Last updated: February 26, 2016
 
-By visiting or using any of the pages available on the Website on which this Privacy Policy or a link to this Privacy Policy appears, you are deemed to agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully prior to visiting or using any such pages or otherwise providing any personal data.
+##  
 
-If you wish to opt-out of this Privacy Policy, amend or remove any of your personal data in our possession, please refer to clause IV for the required procedure.
+This is the privacy policy for http://www.decathlon.com.au/ ( **Site** ) and applies in accordance with the _Privacy Act 1988_ ( **Privacy Act** ). The Site is operated by DECATHLON (AUSTRALIA) PTY LTD (ACN 608 596 069) trading as Decathlon ( **Decathlon** , **we** ,  **us**  and  **our** ). 
 
- **II.               ****COLLECTION OF PERSONAL DATA**
+We are committed to protecting your privacy online. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
-Personal data refers to data about an individual who can be identified from either that particular data, or from that data and other information which Decathlon has or is likely to have access to. Commonly collected personal data of our customers typically include, amongst other things, names, addresses, telephone (landline and mobile) numbers, e-mail addresses, identification numbers, nationalities, dates of birth and credit card information.
+## ACCEPTANCE
 
- **Collection of personal data**
+Please read this privacy policy carefully before using the Site and/or our services.  By accessing or using the Site and/or our services or by otherwise providing us with your personal information, you acknowledge that you have read, understand and consent to the collection, use and disclosure of information in accordance with this privacy policy.   If you do not agree with the terms of this privacy policy, please do not use the Site, our services or otherwise provide us with your personal information. 
 
-Wherever possible, we only collect personal data directly from you. Without limitation, this can occur during or before you: - 
+Changes to this Privacy Policy
 
-(1)        sign up to receive information;
+We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on February 26, 2016.  If we change our privacy policy, we will notify you by publishing the updated privacy policy on our Site at <http://www.decathlon.com.au/c/3-terms-and-conditions-of-use> and the date of the last revision will appear at the top of this page.  We encourage you to check our privacy policy regularly for updates and changes.  By continuing to use our Site and/or services or by continuing to provide us with your personal information after these changes have been published on our Site, you confirm your acceptance of these changes to the privacy policy.  
 
-(2)        set up an account on the Website;
+## INFORMATION WE MAY COLLECT FROM YOU
 
-(3)        place an order for Products through the Website;
+The information we may collect and process about you includes (but is not limited to) :
 
-(4)        provide any feedback or complaints with regards to our Products or services through the Website;
+  *         information (such as your name, email address, delivery address, shipping address, date of birth and telephone number) that you provide by completing forms on the Site, including when you register as a user of the Site, subscribe to any service, upload or submit any material (for example, photos, and videos) via the Site, request any information, or enter into any competition or promotion we may sponsor;
+  *         your reviews and pictures of our products and reviews of our stores which you submit to the Site;
+  *         in connection with an account sign-in facility, your log-in and password details;
+  *         details of any transactions or purchases made by you through the Site or in store;
+  *         financial information (including credit/debit card details or bank account details) in order to process any orders or purchases you make through the Site or in store;
+  *         communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content;
+  *         information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them;
+  *         employment details if you send us a CV, resumé or other details of your employment history in connection with an advertised job vacancy or a general enquiry regarding employment opportunities with us.
 
-(5)        participate in any social media offerings (such as signing up through our Facebook page); and/or
 
-(6)        participate in any marketing activity held by us.
 
-In addition to personal data provided to us, certain information related to you that is not considered personal data may also be collected. We collect this information to improve our Website and other online services. Such non-personal data may include information such as your IP address, the internet browser you use, details of your interaction with our Website, shopping habits, preferences and information about your lifestyle or preferences such as your hobbies and interestsand other types of non-personal data. 
+You are under no obligation to provide any such information and may deal with us or visit the Site anonymously or by pseudonym. However, if you should choose to withhold certain requested information, we may not be able to provide you with certain services.  For example, we may not be able to process a purchase order you have made on the Site or we may be unable to assist you in setting up an account on the Site. 
 
-We may also receive personal information about you from other sources if you have given permission for that information to be shared. This may include information from commercially available sources, such as public databases and data aggregators, and information from third parties. 
+We may, from time to time, run referral programmes or similar initiatives, such as a "Tell a Friend" programme, that invite you to provide us with the contact details of someone who is known to you who may find our products or services to be of interest. We will only use those contact details for the purpose of the relevant initiative (and not for general marketing purposes). By providing us with their details, you confirm that you have their permission to do so and must not provide us with the details of anyone from whom you do not have such permission. We reserve the right to identify you as the person who has made the referral in the message that is sent to them.
 
-**Use of cookies**
+When you visit the Site, we may automatically collect additional non-personal information about you, such as the type of internet browser you use, any website from which you have come to the Site, details of your usage of our Site and your IP address (the unique address which identifies your device on the internet) which is automatically recognised by our web server. You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site, monitoring and analysing website traffic on our Site, improving the functionality and features of our Site and to collect broad demographic information for aggregate use.
 
-We may use data collection devices such as “cookies” on certain pages of the Website to personalise your online experience, help analyze our Website flow and measure promotional effectiveness. “Cookies” are small files placed on your hard drive that assist us in providing our services. We may offer features that are only available through the use of a “cookie”. We also use cookies to reduce the number of times you need to enter your password. Cookies may also help us provide to you information targeted in accordance to your interests. Most browsers automatically accept cookies but you can modify your browser to decline cookies (if your browser permits you to do so), although in such a case you may not be able to access certain features on our Website or some interactive features offered on our Website may be restricted or rendered inoperable. 
+We may collect this non-personal information through the use of cookies or other similar technologies.  A cookie is a piece of data that is stored on your computer.  When you visit our Site, your web browser may store cookies on your computer, which will be retrieved when you next visit the Site in order to store your preferences and provide you with a better and personalised experience in using our Site.  These cookies do not contain or collect personal information but allows us to analyse your preferences on our Site such as how often you visit the Site and your preferred webpages on our Site, in order for us to enhance your customer experience of the Site.  You may delete or prevent cookies from being saved on your computer by changing your internet browser settings to prevent the use of, or remove, cookies.  You may still use the Site even if you choose to reject or delete cookies.  However, please be aware that if you reject or delete the cookies you may not be able to take full advantage of certain features on our Site.   
 
-Our Website may allow third parties (for example, analytics firms and business partners) to download cookies to your device. These third parties may use cookies and other technologies to collect non-personal data about your online activities while you are using our Website. We have no access to, or control over these cookies, or other features these third parties use, and the information practices of these third parties are not covered by this Privacy Policy. 
+## USES MADE OF YOUR INFORMATION
 
-**Collection of personal data by other websites**
+We will use the information you provide to:
 
-This Website uses plug-ins from the social network Facebook, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. If you access a page on our Website that contains a plug-in, your browser will establish a direct link to Facebook’s servers. The plug-in content will then be sent directly to your browser by Facebook and included on the relevant web page. Facebook will be notified that your browser has accessed the corresponding page of our Website, even if you do not have a Facebook account or if you are not logged on to your Facebook account. You IP address will be sent directly by your browser to a Facebook server in the USA and registered on that server.
+  *         enable us to process your orders and to provide you with the services, products and information offered through the Site and which you request;
+  *         register and administer your account with us and manage your loyalty program;
+  *         verify, process and carry out financial transactions in relation to payments you make online;
+  *         to contact you or to process and respond to your queries, requests or feedback;
+  *         for our internal business purposes, such as business management or accounting/auditing purposes;
+  *         audit the downloading of data from the Site;
+  *         improve the layout and/or content of the pages of the Site and customise them for users;
+  *         identify visitors to the Site; and
+  *         to monitor, track and conduct analysis on our Site’s usage and website traffic and carry out research on our users' demographics and tracking of sales data.
 
-If you are logged on to Facebook when you browse our Website, Facebook may directly link your visit to our Website, to your Facebook account. If, for example, you click on ‘Like’ or leave a comment on Facebook in relation to our Website while using a plug-in, the corresponding information will be transmitted to and registered on a Facebook server and published on your Facebook account. Facebook may use such information for advertising and market research purposes, and may adapt its pages accordingly. Facebook may therefore create user profiles including information about users’ interests and relationships, to determine how users react after having seen an advertisement on Facebook, inform other Facebook users about the activity of our Website and offer other services linked to Facebook.
 
-If you do not wish Facebook to link information collected via our website to your Facebook account, you should log out of Facebook before visiting our Website.
 
- **III.             ****USE OF PERSONAL DATA**
+From time to time, we may use your personal information to send you information we think you may find useful or which you have requested from us, including newsletters and information about our products and services, promotions, offers or competitions that we may be conducting and the other Decathlon brands (for a list of our brands please visit [http://corporate.decathlon.com/en/our-brands/passion-brands/](http://corporate.decathlon.com/en/our-brands/passion-brands)), provided you have indicated that you do not object to being contacted for these purposes. Any such communications you receive will be sent by us. In determining what we think may be of interest to you, we will consider all such information which you provide to us. This will include content submitted to the Sites such as reviews. This helps us ensure that the content we send you is modified for your interests so that you receive relevant communications. Information collected from you will also influence which adverts you see when you are browsing on the Site.
 
- **Using your personal data**
+If you do not wish to receive these marketing communications, you can tell us not to contact you with information regarding our products and services:
 
-We collect personal data from our existing and prospective customers and employees for various reasons. Without limitation, these purposes include:-
+(a)    at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box); or, 
 
-(1)        improving our products and your experience on our Website;
+(b)    where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you; or
 
-(2)        analyzing the effectiveness of our advertisements, competitions and promotions;
+(c)     you can also exercise the right at any time by contacting us using the “Contacting Us” details at the end of this privacy policy.
 
-(3)     customising your Website experience, as well as evaluating statistics on website activity, such as what time you visited it, whether you have visited it before and what site referred you to it;
+## INFORMATION SHARING
 
-(4)       making the Website easier to use and tailoring the Website and products to your interests and needs;
+We may disclose the personal information we collect about you to third parties which may include (but is not limited to):
 
-(5)    marketing and communicating with you in relation to products and services offered by us, our dealers and relevant service partners;
+  *         our related entities, affiliates or business partners such as our parent company, Decathlon SA located in France;
+  *         third party service providers, agents, contractors, suppliers, vendors and other parties who we may engage to assist us in the management and conduct of our business, in providing the services we offer through the Site, processing transactions (for example, payment processors), fulfilling requests for information, receiving and sending communications, distributing marketing materials and updating marketing lists (for example, mailing houses), couriers analysing data, providing support services or in other tasks (for example, website hosting services, third party information storage and database management services), from time to time. Our agents and contractors will only use your information to the extent necessary to perform their functions;
+  *         government or regulatory bodies and agencies, law enforcement bodies (such as the police), courts of law, if required or authorised to do so by law or if we believe that such action is necessary to prevent fraud or cyber-crime or to protect the Site or the rights, property, or personal safety of any person.  For example, we may be required to disclose your personal information to a court of law in response to a subpoena or legal order or to exercise legal rights or defend against claims such as intellectual property infringement; 
+  *         third parties in the event of any reorganisation, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of our business or operations (including without limitation in connection with bankruptcy or similar proceedings); or
+  *         as otherwise permitted or required by law.
 
-(6)        processing orders and administering accounts in relation to your use of our products and services;
 
-(7)        sending you information, products or samples you have requested;
 
-(8)        responding to your comments or queries;
+We may disclose aggregate statistics about visitors to the Site, customers and sales in order to describe our services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
 
-(9)        improving the quality of our services with market research and surveys;
+##  
 
-(10)     supplying you with information that is relevant to your existing relationship with us;
+## DISCLOSURE OF INFORMATION OVERSEAS  
 
-(11)     suggesting products or services which we think may interest you; or
 
-(12)     offering you the opportunity to take part in competitions and promotions.
+We may also disclose your personal information to overseas recipients for the purposes of conducting our business.  For example, we may share the information collected from you with our parent company, Decathlon France SA, registered in France, Lille, RCS 306 138 900 and our other related companies or affiliates. Decathlon France SA and its subsidiaries own a number of brands, and your personal information may be shared or accessed via Decathlon SA, with these brands.  A full list of Decathlon France SA’s brands can be seen here: [http://corporate.decathlon.com/en/our-brands/passion-brands](http://corporate.decathlon.com/en/our-brands/passion-brands). 
 
-Where we collect personal data for a specific purpose, we will not keep it for longer than is necessary to fulfil that purpose, unless we have to keep it for legitimate business or legal reasons. 
+We may also transfer your personal information to overseas recipients who may assist us in the processing, storage or analysis of your information (for example third party cloud storage service providers), processing of credit card payments or provide technical or website support to us.  For example, your personal information may be sent to and stored on secure servers which are necessary to process the information, located in China, France, or Ireland. See Storage of Your Information below.
 
-**Sharing your personal data**
+Countries outside of Australia may not always have the same or similar privacy and data protection laws as Australia and, in some cases, foreign law may require us to disclose your personal information overseas, for example to an overseas law enforcement authority. Please be aware that you may not be able to seek redress for a breach of privacy in a country outside of Australia.  However, where we do provide your personal information to third parties, Decathlon will take such steps as reasonable to ensure your information is used in accordance with this policy.
 
-As a general rule, we do not share your personal information with anyone outside the Oxylane Network. For more information about the Oxylane Network, please visit www.oxylane.com. You may also consult our Data Protection Policy by clicking **[here](http://www.oxylane.com/en/personal-data/)**.
+ **Important Notice**
 
-However, we may share your personal information with trusted third parties. Such parties may either be in Singapore or abroad and may include: 
+In the event that the processing of your personal information involves the disclosure of any information outside Australia, you acknowledge that, by providing us with your personal information, you consent to such overseas disclosure. By consenting to such disclosure, you acknowledge that:
 
-(1)    our advertising, marketing and promotional agencies to help us deliver and analyze the effectiveness of our advertising campaigns and promotions;
+  1. Decathlon will not be accountable under the _Privacy Act 1988_ (Cth) for any breach of your privacy by the overseas recipient, and 
+  2. You will not be able to seek redress under the _Privacy Act 1988_ (Cth) against Decathlon for any breach of your privacy by an overseas recipient.
 
-(2)       third parties required to deliver a product or service to you, such as a delivery or postal service delivering a product that you have ordered through our Website;
 
-(3)      law enforcement or government authorities where they have followed due legal process to request us to disclose the information;
 
-(4)      third parties who wish to send you information about their products and services, but only if you have given us your consent to do so;
+## STORAGE OF YOUR INFORMATION
 
-(5)      third party providers of services, such as data processing; or
+Information that you submit via the Site will only be stored for as long as we legitimately need it or as required by the law. This information is sent to and stored on secure servers which are necessary in order to process the information. These are located within China, France, and Ireland. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information Sharing), which may be situated outside Australia and may be processed by staff operating outside Australia. The countries concerned may not have similar data protection laws to the Privacy Act 1988 and the Australian Privacy Principles. For example, your personal information may be disclosed in China or in the European Economic Area.  Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected.
 
-(6)      web analytics tool providers, such as Google. 
+## CHILD SAFETY
 
-We may share your personal data for the following reasons: - 
+Protecting the safety of children when they use the Internet is very important to us. We recommend that children receive permission from their parent or guardian before gaining access to the Site or sending personal information to us or anyone else online.
 
-(1)      reasons provided under ‘using your personal data’;
+## EXTERNAL LINKS
 
-(2)      verification of your identity;
+The Site may, from time to time, contain links to, or from, external sites. These third party websites are not subject to this privacy policy or our privacy practices and procedures and we are not responsible for the privacy policies or the content of such sites.  This privacy policy applies solely to the management of personal information collected through the Site and services.  We strongly encourage you to read the privacy policies of these third party websites for further information about their privacy practices and procedures.
 
-(3)      processing purchase/credit transactions for the purchase of products through our Website;
+## SOCIAL MEDIA
 
-(4)      to enforce applicable terms of use of the Website;
+If you chose to you can use social plug-ins from various social media platforms to share your interest in our products or content you view on the Site and the servers of the relevant social media platform will connect to the Site. Your browser will recognise that you are visiting the Site and if you are a registered user of these the relevant social media platforms, and you are logged in to these accounts while accessing our Sites, information will be shared with your personal account on the social media platform. For example, you could 'Like' or 'Tweet' a product or certain content through your Facebook or Twitter account. For more information, you should visit the privacy policy of the relevant social media platform.
 
-(5)      conduct investigations into possible breaches of applicable laws;
+## PAYMENT PROCESSING
 
-(6)      to comply with a court order or other legal or regulatory requirements in the jurisdictions we operate; 
+Payment details you provide will be encrypted (using secure sockets layer (SSL) technology) before they are submitted to us over the internet. Payments made on the Sites are made through our payment gateway provider, Adyen. You will be providing credit or debit card information directly to Adyen which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to Adyen is not within our control and is subject to Adyen's own privacy policy and terms and conditions.
 
-In situations where a third party under contract with Decathlon collects personal data about you, we will require the third party to exercise reasonable care in protecting your information. ****
+## SECURITY
 
- **IV.             ****AMENDMENTS TO PERSONAL DATA / OPT OUT**
+We place great importance on the security of all personally identifiable information associated with our users. 
 
- **You have a right to access, change and remove the personal data held by Decathlon. If you wish to do so, please refer to '** **[Contact Us](https://www.decathlon.sg/contact-us) '.** **** **You may also access, change and remove your personal details by clicking on '[My Account](https://www.decathlon.sg/my-account)'. You may also decline to receive e-mails by clicking on ‘unsubscribe’ in any marketing e-mail you receive.**
+We have security measures in place to attempt to protect against the loss, misuse, interference, and unauthorised access, alteration or disclosure of personal information under our control.
 
- **If you do not want your personal data to be shared among affiliates, business partners or unrelated third parties, you may opt-out of such information sharing by sending us the appropriate withdrawal of consent form. For details on how to obtain such a form, please refer to** ** **'** **[Contact Us](https://www.decathlon.sg/contact-us) '.**﻿** ****
+For example, our security and privacy policies are periodically reviewed and enhanced as necessary and access to your personal information is provided only to authorised personnel who require such access for the purposes of completing their jobs.
 
- **V.              ****SECURITY**
+You should bear in mind that submission of information over the internet is never entirely secure and whilst we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use all reasonable efforts and take such steps as are reasonable in the circumstances to prevent it.   We cannot guarantee the security of information you submit via the Sites whilst it is in transit over the internet and any such submission is at your own risk.
 
-Decathlon uses reasonable measures to protect your personal data and to store it securely. Where personal information is entered on our Website, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) technology. However, no method of transmission over the Internet or method of electronic storage is 100% secure. While security cannot be guaranteed, we strive to protect your personal data and are constantly reviewing and enhancing our security protocols to ensure that your personal data is not subject to unnecessary risks. 
+It is advisable to close your browser when you have finished your user session to help ensure others do not access your personal information if you use a shared computer or a computer in a public place.
 
-**VI.             ****RIGHTS TO AMEND THIS PRIVACY POLICY**
+## YOUR RIGHTS
 
-We reserve the right to amend this Privacy Policy at any time. If material changes are made to this Privacy Policy, they will be posted on this page and date stamped. We encourage you to review this page periodically in order for you to stay notified of any changes.
+Decathlon takes such steps as are reasonable to ensure that the personal information that we collect and hold about you is accurate, up-to-date and complete.  However, we rely on the accuracy of the personal information you provide to us. 
 
-Your continued use of this Website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes, to the extent such consent is not otherwise provided.
+You have a legal right under the Privacy Act to request access to, or obtain a copy of, all the personal information about you held by us. You also have a right to correct any errors in that information. 
+
+You may make a request for access to your personal information or the correction of your personal information by:
+
+-Logging into your account on the Site and accessing your profile page to view or correct the personal information recorded on our Site; or
+
+-Contact us using the details listed below under “Contacting Us”, and providing us with the details of your request for access and/or correction.
+
+Once we receive your request, we will endeavour to respond within a reasonable period after your request is made.  There are some exceptions, specified by law or regulation, where we may refuse your request.  If one of these circumstances applies, we will provide you with a written explanation of the reasons for the refusal, unless it would be unreasonable to do so. 
+
+Please note that Decathlon reserves the right to charge a reasonable fee for granting your access to the personal information. 
+
+As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
+
+## COMPLAINTS AND CONCERNS
+
+If you have any concerns or complaints about the handling or treatment of your personal information or if you believe that your privacy has been breached, please contact us by sending us an email at **contact.australia@decathlon.com**  We will then investigate your complaint and endeavour to provide you with our response within a reasonable period of receiving your complaint.  If after receiving our response, you still consider that your privacy complaint has not been resolved, you may refer your complaint to the Australian Privacy Commissioner at [http://www.oaic.gov.au/](http://www.oaic.gov.au/).
+
+## CONTACTING US
+
+Please submit any questions you have about the terms and conditions set out in this privacy policy.
+
+ You can write to us using the following mailing address and/or email address:
+
+ **Mail** :
+
+4/37 Union street, Pyrmont, Nsw 2009, Australia
+
+ **Email** :
+
+contact.australia@decathlon.com
