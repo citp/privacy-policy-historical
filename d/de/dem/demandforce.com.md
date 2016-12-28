@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526193509id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228121003id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
 
-# Automated Marketing Solution - Online Reputation Management & Appointment Scheduling by Demandforce
+# Privacy Policy - Demandforce
 
 Demandforce is committed to protecting your privacy.
 
