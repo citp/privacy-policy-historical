@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616115338id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228053143id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
@@ -23,9 +23,9 @@ If you supply us with contact information (email address, postal address, teleph
 
 ## Advertisements
 
-We do enable third-party vendors to place ads in various areas of our website. These vendors use cookies to serve relevant ads based on a user's previous visits to our website and other websites on the internet. Third-party advertisers, such as Google AdSense, have separate and independent privacy policies, and we have no responsibility or liability for the content or activities of these sites.
+We enable third-party vendors to place ads in various areas of our website. These vendors may use non-personally identifiable information to serve relevant ads based on a user's previous visits to our website and other websites on the internet. To learn more about this practice or to opt-out of this method of advertising, please visit <http://www.networkadvertising.org/>.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change in the future, we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Changes will also be posted to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
+Third-party advertisers, such as Google AdSense, have separate and independent privacy policies, and we have no responsibility or liability for the content or activities of these sites.
 
 ## Stored Information
 
@@ -34,6 +34,10 @@ Upon request we provide site visitors with access to all information that we mai
 ## Security
 
 We always use industry-standard encryption technologies when transferring data to and from our website. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server that uses an SSL certificate. We have appropriate security measures in place to protect against the loss, misuse, or alteration of information that we have collected from you at our website.
+
+## Updates to Our Privacy Policy
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change in the future, we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Changes will also be posted to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
 
 ## Conclusion
 
