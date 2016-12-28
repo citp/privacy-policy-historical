@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315053758id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228203341id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - British Gas
 
@@ -42,7 +42,7 @@ If you’re thinking about changing suppliers, we’ll pass your information on 
 
 These organisations may then pass this information on to local authorities to meet building regulations. Or they might contact you to inspect your appliances or systems, recall faulty products, carry out audits or for health and safety reasons. Wherever it’s appropriate, we’ll give you or the property owner (or both) a certificate to show that your appliances and systems meet building regulations.
 
-3.7 We’ll check your details with credit reference and fraud prevention agencies to help us make decisions about whether or not you’re eligible to make payments on our goods and services. There’s a brief guide below on how we’ll use your information with these agencies – but you can find the full version in our terms and conditions. Or phone us on [0800 048 0202](tel:08000480202) and we’ll send you a leaflet all about it.
+3.7 We’ll check your details with credit reference and fraud prevention agencies to help us make decisions about whether or not you’re eligible to make payments on our goods and services. There’s a brief guide below on how we’ll use your information with these agencies – but you can find the full version in [our terms and conditions](https://web.archive.org/terms-and-conditions.html). Or phone us on [0800 048 0202](tel:08000480202) and we’ll send you a leaflet all about it.
 
 a. We’ll search credit reference and fraud prevention agencies for information about you or the people you’re applying for an account with. (So if you’re filling out a joint application with someone else, make sure they know and agree that we’ll use their information to do this.) If you use information that’s false or wrong, we might suspect fraud. In that case, we’ll pass your details on to credit reference and fraud prevention agencies. Law enforcement agencies (like the police and HM Revenue & Customers) can see and use this information too.
 
