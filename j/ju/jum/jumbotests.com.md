@@ -1,90 +1,62 @@
-> *The following text is extracted and transformed from the jumbotests.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209054532id_/http%3A//jumbotests.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumbotests.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228154019id_/http%3A//www.jumbotests.com/privacy.htm) for the most accurate reproduction.*
 
-# JumboPass Privacy Policy
+# TestDEN Privacy Policy
 
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.
+TestDEN is committed to protecting your privacy when you visit our Website, so we want you to know what information we collect, how we use that information, and how you can update it. 
 
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information.
+**Information That We Collect**  
+We collect various types of information from our visitors so we can adjust the website to meet our users' needs and expectations. Some of this information is collected automatically through cookies. Other information is collected when you register for any TestDEN online services or when you request information from one of our partners. 
 
-By accepting the Privacy Policy and Terms of Use in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the JumboTests Terms of Use.
+**Information Collected Automatically**  
+The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes: 
 
-## Overview
+  * Your browser.
+  * Your computer's operating system.
+  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave.
+  * Your IP address.
 
-**A Special Note About Children**
+This and other information lets us see how users are finding TestDEN, and it tells us which pages are visited the most often so we can make our website more useful. 
 
-Persons under the age of 18 may use this Site and submit personal information to us only in conjunction with and under the supervision of their parents or guardians. The use of this Site by a person under the age of 18 constitutes the consent of the parent or guardian to our use and disclosure of the users' personal information in accordance with this Privacy Policy.
+**Information You Provide to TestDEN**  
+In addition to the information automatically collected by your browser, we also collect information that you provide to us when you register for a TestDEN online service or course, or request information about a particular school or educational program. Our website provides users with online practice tests, test preparation courses, and accent training materials. These online services require users to provide TestDEN with contact information (name, address, phone number, e-mail address, credit card number). We collect this information in order to validate user purchases and process payment for TestDEN online services. 
 
-## Information We Collect
+Our website also provides users with information about various education opportunities and to request information from schools. These information request forms require users to provide TestDEN with contact information (name, address, phone number, e-mail address, and other details) as well as information about their interest in one of our educational partners (universities, colleges, and language schools). We collect this information that you provide, and forward to our educational partners that you requested information from. 
 
-Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
+**How We Use This Information**  
+We use the information we automatically collect to help us better plan our website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses) about our customer base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our customers. All third parties are bound by the federal CAN-SPAM Act and required to follow all consumer opt out rules and regulations. 
 
-In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our Site, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature.
+**Your Rights and Our Obligations**  
+TestDEN respects the privacy of users visiting our site and will abide by all applicable laws concerning the release of personal information. We may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: comment@testden.com. 
 
-We use your credit card information to verify the accuracy of your name, address, and other information, as well as to bill you for your use of our services. In addition, under some circumstances, we may ask you for your credit card information or other additional financial information to validate your identity. We do not store credit card information.
+**Third Party Cookies**  
+TestDEN.com uses the following third-party cookies: 
 
-We automatically track certain information about you based upon your behavior on our Site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address.
+_Google Analytics_ \- This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is depersonalised and is displayed as numbers, meaning it cannot be tracked back to individuals. Using Google Analytics, we can see what content is useful and popular on our website which helps us to provide better content and tools for our visitors. _Google Adwords_ \- Using Google AdWords code we are able to see which pages led to TestDEN.com test prep service sign-ups. This allows us to make better use of our online advertising budget. _Remarketing Advertising We Use_ \- We use Google Remarketing tags to advertise trigger across the Internet. Google remarketing will display relevant ads tailored to you based on what parts of the TriggerApp website you have viewed by placing a pixel tag on your machine. THIS COOKIE DOES NOT IN ANYWAY IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. The cookie is used to say "This person visited this page, so show them ads relating to that page." Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you. _Social Sharing Cookies_ \- TestDEN.com uses social sharing buttons for services including, but not limited to, Twitter, Google+ and Facebook. These allow you to share pages with your friends via those networks. While you will be asked to login to use these services, this process is handled directly with the social sharing providers and their databases and servers. These sites may also monitor your usage of these buttons, through the use of external tracking codes that are required to run the buttons on TestDEN.com. _Email Tracking Codes_ \- TestDEN.com email communications with you may include tracking codes that help us understand who, as well as how many people have opened or clicked on each email. This data helps us to create better emails in the future, and provide you with a better service. This data is stored on the servers of our email partners and covered under their security measures. 
 
-"Cookies" are small files placed on your hard drive that assist us in providing our services. At present we only use cookies to allow you to enter your password less frequently during a session, but in the future we may also use data collection devices, including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests.
+**Legal Protections and Law Enforcement**  
+We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the website and applicable laws; or to protect the legal rights, interests, or safety of the website, our users or others. We may also use device identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you. 
 
-You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Site and you may be required to re-enter your password more frequently during a session.
+**Security Measures**  
+Our website has reasonable security measures in place to help protect personal information under our control. 
 
-If you choose to buy on the Site, we collect information about your buying behaviour.
+**Why We Use Cookies**  
+When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. In addition, some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by us and does not cover the use of cookies by any advertisers. You can generally opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. However, please be aware that some areas of our website may not provide you with an acceptable user experience if you have disabled the use of cookies. 
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+**Log Files**   
+TestDEN web servers retains information about our users through log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-## Our Use of Your Information
+**Clear GIFs**  
+We and our third party advertising companies may employ a software technology called clear GIFs that help us better manage content on our site by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to monitor the online movements of users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to users' personally identifiable information. Clear GIFs can work with existing cookies on a computer if they are both from the same site or advertising company. That means, for example, that if a person visited "www.companyA.com", which uses an advertising company's clear GIF, the website or advertising company would match the clear GIF's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or site. 
 
-We use your personal information to facilitate the services you request. We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; bill any amounts due from you; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our Terms of Use; and as otherwise described to you at the time of collection, use or disclosure. At times we look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User ID's or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
+**Links From Our Site To Other Sites**  
+Some of our sites may contain links to other sites external to our sites. When you access these external websites, the providers of the sites will have access to certain information about you. TestDEN is not responsible for the privacy practices or the content of any websites which we do not directly control. 
 
-We may use personal information about you to improve our marketing and promotional efforts, to analyze Site usage, to improve our content and product offerings, and to customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
+**Contact TestDEN**  
+We invite you to contact us if you have questions about our privacy policy. You may contact us by mail at the following address: 
 
-You agree that we may also use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications by clicking the unsubscribe link found in emails sent to you.
+TestDEN.com (a division of ACT360 Media Ltd.)  
+Suite 1116, 207 W. Hastings St.  
+Vancouver, BC  
+CANADA V6B 1H7
 
-## Our Disclosure of Your Information
-
-As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services.
-
-Advertisers. We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, and financial information are not disclosed to these third parties in a personally identifiable manner without your explicit consent.
-
-Educational Institutions. We periodically operate programs to collect and provide to educational institutions personally identifiable information about our members and other visitors to this Site who opt-in to this service. Where we do so, this purpose is described on the page of this Site where that information is collected, this information is only collected from persons who have opted-in to the collection, and we identify the educational institutions to which the information may be provided. We generally have agreements with the educational institutions to which we provide the collected information under which they agree to use it only for the purpose of soliciting new applicants to their institutions and only in compliance with laws applicable to them, and to maintain the confidentiality of this information and disclose it only in accordance with their privacy policies generally applicable to their own applicants, but we cannot control and are not responsible for their actions. For more information about the privacy policies of these educational institutions, please visit their websites.
-
-## Legal Requests
-
-JumboTests cooperates with law enforcement inquires, as well as other third parties, to enforce laws such as intellectual property laws, fraud and other laws, and to help protect you and the JumboTests community from others. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, province, telephone number, email address, UserID history, fraud complaints, and bidding and listing history without a subpoena. However, in an effort to balance your right to privacy and the ability to keep our community functioning properly, we will not disclose additional information to law enforcement or other government officials without a subpoena, court order or similar legal procedure, except when the additional disclosure of information is necessary to prevent imminent physical harm or financial loss.
-
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
-
-## Control of Your Password
-
-You are responsible for all actions take with your User ID and password, including fees incurred by your account. Therefore, we do not recommend that you disclose your JumboTests password to any third parties. If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions take with your account and therefore you should review that third party's privacy policy before doing so. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by going to your account page.
-
-Reviewing and Changing Your Personally Identifiable Information
-
-Following registration, you can review and change the information you submitted during registration including:
-
-  * Your email address. If you change your email address we keep track of your old email address(es) and your new email address.
-  * Your name, city, province, country, gender, interests, work history, education history, your picture, and your password.
-
-
-
-You must promptly update your information if it changes. Once posted, you cannot change or remove any public comments made on lessons, discussions, debates or other reviews of course and tutor offerings.
-
-Upon your request, we will deactivate your account and contact information from our active databases. To make this request, please send us an email at support@ JumboTests.com. Such information will be deactivated as soon as reasonably possible based upon your account activity and in accordance with our deactivation policy and applicable law.
-
-We will retain in our files some personal information you have requested to remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and member viewing and will only be available to select JumboTests personnel.
-
-## Other Information Collectors
-
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are teachers or students on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. Since JumboTests does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
-
-## Security
-
-Your information is stored and processed on computers located in the United States. JumboTests uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet.
-
-## Privacy Tools
-
-It is our goal to make our privacy practices easy to understand. If you have questions or if you would like more detailed information, please email us at support@jumbotests.com.
-
-## Notice
-
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your Notification Preferences and the Terms of Use.
+E-mail us at [comment@testden.com](mailto:comment@testden.com) or call (604) 638-1553. 
