@@ -1,84 +1,132 @@
-> *The following text is extracted and transformed from the valvoline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190328id_/http%3A//www.valvoline.com/pages/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valvoline.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228030802id_/http%3A//www.valvoline.com/privacy-policy) for the most accurate reproduction.*
 
-# Valvoline.com - Legal
+# Privacy Policy - Valvoline®
 
-[](https://web.archive.org/)
+Thank you for your trust in Valvoline and for taking the time to read our Privacy Policy. This Privacy Policy tells you how we protect the privacy of your personal information that you may provide to us.
 
-[](http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash)
+We have organized our web sites so that you will not be required to identify yourself or reveal any personal Information in order to view our web sites. At times, we may ask you to provide information about yourself or your company in order to better serve you. If you choose to provide this personally identifiable information, we will use it in accordance with this Privacy Statement. By entering this web site, you are consenting to the terms of this Privacy Statement. This Privacy Statement only applies to data collected on the Valvoline web site (www.valvoline.com). Other individual web sites of Valvoline may have privacy statements tailored specifically for activity on those web sites and the terms of those privacy statements may differ from this Privacy Statement.
 
-|  |  | [](https://web.archive.org/pages/products/) | [](https://web.archive.org/pages/carcare/) | [](https://web.archive.org/pages/racing/) | [](https://web.archive.org/pages/prizezone/) | [](http://store.valvoline.com/) |  |   
----|---|---|---|---|---|---  
-[](https://web.archive.org/pages/ase_certified.html)  
-  
-Privacy Policy |   
----|---  
-  
-**Copyright rules**
+**Purpose of Privacy Policy**
 
-The Valvoline Company, a division of [**Ashland Inc.**](http://www.ashland.com/), maintains this Internet site as a service to the Internet community. The content (images and text) placed by Valvoline at www.valvoline.com is copyrighted. You may download the content only for your personal, non-commercial use. The content may not be otherwise copied and may not be modified.
+The purpose of this Privacy Policy is to answer some of the questions that you may have about what we do with the personally identifiable information that we may collect from our web site. We want you to know that your personally identifiable information will be protected, who we may share it with, and for what purposes.
 
-**Accuracy of information**
+**Changes to this Privacy Statement**
 
-Valvoline will use reasonable efforts to include accurate and up-to-date information but makes no warranties or representations as to its accuracy or completeness; therefore, you should assume that information is current only as of the date it is posted to the site. Valvoline shall not be liable for damages of any kind arising out of your access or inability to access www.valvoline.com or your reliance on the information in www.valvoline.com.
+We reserve the right to update this Privacy Statement at any time without notice to you. The most current version of the Privacy Statement can be reviewed by clicking on the "Privacy Policy" hypertext link located at the bottom of the web pages on this web site. Your use of this web site may also be subject to additional terms as outlined in the Terms of Use and elsewhere on this web site.
 
-**Information Collection and Use**
+**What Information Do We Collect and How Do We Use It**
 
-Valvoline takes care to respect the privacy of its online visitors and is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways different from what is disclosed in this statement.
+We understand that you expect to learn about our company when you visit this web site. Similarly, we hope to learn about your needs as a current or potential customer or shareholder through your visits to this web site. On some of our web pages, you may be able to ask questions, register to receive information, enter sweepstakes or enter information about your vehicle.
 
-Information that can identify an online visitor is collected at www.valvoline.com only when voluntarily offered by the visitor. Information may be shared among Valvoline Inc. (and all its subsidiary companies and brands) as it is our goal to make your visits to our sites easy and enjoyable. Valvoline Inc. may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Valvoline Inc. rights or property, other site users, or anyone else that could be harmed by such activities. Valvoline may disclose user information when we believe in good faith that the law requires it.
+**Collection of Personal Information**
 
-Our Internet web site does collect nonpersonal information from online visitors in order to track the total number of visitors to the site in aggregate form and identify the type of Internet browser and operating system.
+Many of our web pages do not require any form of registration or identification. However, on some of our web pages you may be able to ask questions and register to receive information or offers. On these pages we will ask you for the personal information necessary for us to respond to you, such as your name, mailing address, electronic mail address, and telephone number. If you opt to not provide us with personal information you can still access our web sites; however, you may be unable to participate in certain promotions, receive product information offered through Valvoline’s web sites, responses to requests for materials or information, or interactive advertisements.
 
-**Order**
+**Data Integrity**
 
-We request information from the user on our order forms for Valvoline Inc. merchandise. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Contact information may also be used for marketing and promotional purposes and is subject to the opt-in/out processes described on or linked to each form.
+We take reasonable steps to ensure that personally identifiable data collected is reliable for its intended use, accurate, complete and current. We limit the collection and processing of the personally identifiable information which you provide to us to only what is necessary to fulfill the purpose.
 
-**Cookies**
+**Consent to Provide Your Information**
 
-What are cookies? Cookies are pieces of data that a web site transfers to a user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. If a user rejects the cookie, they may still use our site.
+We request your permission to collect your personally identifiable information when you seek to register for any of our programs or services. In doing so, we also explain the purpose for the collection of your personal information and how we plan to use it. We also offer you the option to discontinue your consent ("opting out" or "unsubscribing") if you later decide that you no longer want to participate in a program or service. If we wish to use this information for purposes that differ from those for which the data was initially collected, we will first request your permission to do so.
 
-**Log Files**
+**Aggregate and Statistical Data**
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+When you visit our web sites we do not collect any personally identifiable information about you without your express permission. However, we may collect certain aggregate data called web log information (such as your web browser, operating system, pages visited, etc.) and use cookies when you visit many of our web pages. For instance, when you visit one of our web sites, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Chrome, Internet Explorer, Safari), the type of operating system you are using (e.g., Windows 8 or Mac OS), the type of device you are using (e.g., Computer, Smartphone, Tablet) and the domain name and address of your Internet service provider (e.g., AOL, Time Warner Cable). This type of information allows us to evaluate customer interest in our web sites and perform other market research activities, such as surveying browsing habits on our sites. It also allows us to monitor traffic to our web sites.
 
-**Sharing**
+We also contract with third parties to serve ads on our behalf across the Internet by utilizing cookies, pixel tags, or the Google Display Network which can include the use of remarketing data collected in Google Analytics™. These ads are served by collecting anonymous information about your visits to our website. The third parties may use this information to deliver you content while visiting other websites to encourage you to revisit our website. The data collected is anonymous, and no personally-identifiable information will be stored or shared. To opt-out of this form of advertising please click [here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgn91c3egibiLjseVvqk2mibjHsKW-Pco3Pu_qsKaHNEhaHj71flSAmP2AJxbCelp2hKyqmakg8rUjC1hDZ-wz1GKlmCrJUTZhfI_BELfeZokMC_qTuiVAuDVUnEnG8CqmzDsYOsnEkZfVIwB6ul6dD655q26W0S3bw2NV0qSh6ShdKVLcnWzwXZjH67AU-spo-wzPnAzdq5cxohvtG25NKgKD1uilYa9Qku8cKWULwcx%E2%80%94BzUHJ_dyiR6bs2qt5uGkepqR) to manage your Google ad settings and [here](https://tools.google.com/dlpage/gaoptout/) to manage the data that can be collected in Google Analytics.
 
-We will share aggregated demographic information with our partners. This is not linked to any personal information that can identify any individual person. We sometimes use an outside shipping company to ship orders and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+Neither our cookies nor web beacons nor web log information collects any personal information, such as your name, email address, or any other personally identifiable information.
 
-We partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+In some cases we may also collect information about you that you voluntarily submit, such as general statistical information like age, gender, household size, zip/postal code, preferences and interests, which, when submitted individually, is not personally identifiable.
 
-**Links**
+**Cookies and Web Beacons**
 
-Clicking on certain images, or links, within www.valvoline.com will take you into other web sites owned by third parties, the content and privacy practices for which Valvoline Inc. will take no responsibility. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+When you view one of our web sites or interactive advertisements, we may collect some non-personal information about you. The collection of this non personal information is done either through the "cookie" technology or with "web beacons" (also called "single-pixel gif" or "web pings"). Neither our cookies nor web beacons nor web log information collects any personal information.
 
-**Contests**
+  1. **Cookies**
 
-From time to time our site requests information from users via contests. Participation in these contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as ZIP Code, age level). Contact information will be used to notify the winners and award prizes. Contact information may also be used for marketing and promotional purposes and is subject to the opt-in/out processes described on or linked to each form.
+When you view one of our web sites or interactive advertisements, we may store some information on your computer. This information will be in the form of a small text file, also called a "cookie". Cookies help us in many ways to make your visit to our website more enjoyable and meaningful to you. For example, cookies avoid you having to log in every time you come back to one of our websites. They also allow us to tailor a web site or advertisement to better match your interests and preferences. Most browsers can be configured not to accept cookies or to indicate when a cookie is being sent. Valvoline does not collect personal information automatically, but we may combine non-personal information collected automatically (e.g., through cookies) with your previously submitted personal information. When this non-personal information is collected and combined with your submitted information we will treat the combined information as personal information. Our cookies cannot read data off of your hard drive, cannot read cookie files created by other web sites and cannot track any personal information about you. If you erase or reject a cookie, you may still use this web site.
 
-**Share This Page/Refer a Friend**
+  2. **Web Beacons**
 
-If a user elects to use our referral service for informing a friend about pages of our site or promotions, we ask them for the friend's name and e-mail address. Valvoline will automatically send the friend a one-time e-mail inviting them to visit the site. Valvoline stores this information for the sole purpose of sending this one-time e-mail. The friend may contact Valvoline to request the removal of this information from the database.
+Web beacons are site instrumentation that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon.
 
-**A special note to parents and caregivers**
 
-Children 18 years of age or under visiting www.valvoline.com should ask their parent's or guardian's permission before sending any personal information, such as their names, home addresses or e-mail addresses.
 
-Valvoline does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever, unless required by law.
 
-Parents should become knowledgeable about software and other tools so they can assure that children's use of the Internet reflects parental preferences and requirements. We also allow parents to request at any time that information collected about their child be removed from our database. If you would like to deactivate your child's account, please send an e-mail message to fill out our [**form**](https://web.archive.org/pages/contact.asp) with your child's information requesting that their account be cancelled.
+If you would like more information about web beacons and cookies associated with on-line advertising or how to opt out of third party collection of information, please visit the Network Advertising Initiative web site, an independent web site not sponsored by or affiliated with Valvoline LLC.
 
-**Security**
+**What Do We Do With Your Information**
 
-This web site takes every precaution to protect our users' information. When users submit sensitive information via the web site, their information is protected both online and off-line. When our order forms asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing." While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
+We will use the information that you provide us to better understand your needs and to provide you with better products and services. At the most basic level, we will use information you provide to communicate with you, to update you on our products and services, provide special offers, and to personalize our web sites for you. Web logs may be used if necessary to help identify any person attempting to break into or damage our web site. We may share web log information as well as any associated personally identifiable information with law enforcement agencies if we believe that we have evidence of a violation of computer security or related laws.
 
-**Choice/Opt-out/Opt-in**
+Periodically, we may survey you about your use of products for other market research or to provide you with marketing information we think will be useful to you. Of course, it is not required that you participate in these surveys or accept this marketing information to continue to use our web sites or continue to receive communications from us.
 
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can choose not to have their e-mail address included on our lists.
+**Will My Information Be Sold to Third Parties**
 
-Users who no longer wish to receive our e-mails or promotional materials may opt-out of receiving these communications by clicking on the "unsubscribe" link located at the bottom of the communication or by visiting our [**eNewsletter Subscription**](http://www.valvoline.com/pages/newsletters.asp) page and editing their preferences.
+No. Except as specifically provided for in this policy, we will not sell or share the personal information which you give to us to unaffiliated third parties, such as marketers, for their own separate use unless we have obtained your explicit opt-in consent to do so. We may make your provided personal information (such as name, mailing addresses and email addresses) accessible to our business partners, vendors, contractors or partners in connection with services that these individuals or entities perform for or with Valvoline, such as companies we retain to fulfill requests for information or provide assistance to us on specific programs or projects; and non-personal information (such as vehicle information) with vendors, contractors, and other third parties. These vendors, contractors or partners are restricted by law and/or contract from using this data in any way other than to provide services for Valvoline, and they may not share or resell this data. The services they provide for Valvoline include, among other things, mailing product samples, or contacting the winners of Valvoline contests.
 
-On occasion, Valvoline Inc. will provide opt-in opportunities to our users in order to receive product updates, promotional opportunities, and other information from Valvoline Inc. or other parties. At the point of signing up, it is clearly disclosed to users of our site when their information is being used or collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that involve an outside party or not.
+There may also be instances where we may be required to share your information with third-parties who have not been retained by us (directly or indirectly) and Valvoline reserves the right to share the information to respond to duly authorized information requests of governmental authorities or where required by law. For example, we may be required to do so because of an applicable law, court order or governmental regulation, or if such disclosure is otherwise necessary in support of any criminal or other legal investigation or proceeding in the United States or abroad. Many entities receiving personally identifiable information under these conditions have privacy requirements that apply to their handling of your information.
 
-**Changes to this Policy**
+Personal information collected from you may also be transferred to a third party in the event that the business of this site or a part of it and the customer data connected with it is sold, assigned or transferred, in which case we would require the buyer, assignee or transferee to treat your information in accordance with this Privacy Statement.
 
-Valvoline reserves the right to change, modify, add or remove portions of the Guidelines at any time. If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. By accessing www.valvoline.com, you agree to the contents of these Guidelines.
+**Links to Other Sites**
+
+This Privacy Statement applies only to this web site and not to other Valvoline web sites or third party web sites. We may provide links to other web sites which we believe may be of interest to our visitors. We aim to ensure that such web sites are of a high standard. However, due to the nature of the Internet, we cannot guarantee the privacy standards of web sites to which we link or be responsible for the contents of sites other than this one. This Privacy Statement is not intended to be applicable to any linked, non-Valvoline site(s). We encourage you to read the privacy statements for all linked websites.
+
+**Privacy and Protection of Children**
+
+This web site is not designed for, or directed to, children under the age of 13. We will not knowingly collect, use or disclose personally identifiable information from a minor under the age of 13. Should a child whom we know to be under 13 provide personally identifiable information to us we will immediately remove that child and delete all personal information provided by the child from our records. We encourage parents to take an active role in their children’s online activities and to talk with their children about disclosing personally identifiable information to web sites.
+
+**Data Security**
+
+Valvoline is committed to keeping the data you provide us secure and will take reasonable precautions to protect your personal information from loss, misuse or alteration. We use appropriate technical, administrative and physical safeguards to protect data that pertains to you. Of course, no organization can guarantee the absolute security of personal information. You should keep in mind that Internet transmissions, particularly email transmissions, are never 100% secure or error-free. Accordingly, we caution you to guard your own computer and password against unauthorized access by others. Vendors, contractors, or partners of Valvoline who have access to your personal information in connection with providing services for Valvoline are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing for Valvoline. No one at Valvoline, or its various business units, has access to your password or credit card information at any point as we use secure connections to fully encrypt this data on our web sites to protect it during its transmission. 
+
+**Referrals**
+
+Occasionally, visitors will have the opportunity to forward product sampling opportunities or other information on the web site to friends/relatives or to send messages from our web sites or interactive advertisements to friends/relatives. The personal referral information you provide to facilitate this communication is used on a one-time basis and is not further used by Valvoline to re-contact referred individuals, except in circumstances where we obtain consent from the people you have referred to receive communications from us. We may also retain such information for analysis to better serve our customers.
+
+**Photo Policy**
+
+We appreciate your participation in Valvoline’s social media channels (e.g. Facebook, Youtube, Twitter, etc). Please be aware of the following policies and guidelines:
+
+  * All content (such as photos, text, images, videos) submitted or linked on this site or through social media is the sole responsibility of the person from which the content originated.
+  * Valvoline reserves the right to remove any content that is deemed inappropriate, obscene, slanderous or malicious and may block users that contribute such content.
+
+
+
+Remember that Valvoline’s website and social media channels are public forums. Any information you share may be viewed by others. By posting content to Valvoline’s website or social media, you grant Valvoline permission to display, modify, reproduce and distribute this content without compensation.
+
+By participating in Valvoline’s social media channels, you release Valvoline from any liability associated therewith, and agree to recompense Valvoline against any damages, losses, liabilities, judgments, costs or expenses arising out of a claim by a third party relating to any posts you have made.
+
+**Updating Your Information**
+
+We encourage you to update the information that you provide to us, such as providing us with a new mailing or email address. This will help us continue to provide information to you that best meets your needs.
+
+In addition, we comply with laws and regulations applicable to the right to amend your data in our files. These rights are limited in some ways. In addition, in order to protect your data from unauthorized access or alteration by third parties, all requests to update or access your information will be subject to verification of the identity of the requesting individual.
+
+**Accessing Your Information and Contacting Valvoline**
+
+If you have any questions about this Privacy Statement, or if you have submitted or another person has submitted personally identifiable information about you through this web site, and you would like to have that information changed or deleted, please contact:
+
+Valvoline Communications and Corporate Affairs  
+3499 Blazer Parkway.  
+Lexington, KY 40509 USA  
+
+
+**Voluntary Participation**
+
+Our sites allow you to choose to receive or stop receiving communications from us. To request removal from a mailing list, please visit the Contact Us page and send a message with your request.
+
+**Your Acceptance of Our Privacy Practices**
+
+By using this web site or any other Valvoline web site or interactive banner ads, you signify your acceptance of this privacy statement, and you adhere to the terms and conditions posted on the web site.
+
+If you do not agree with any of these terms in this privacy statement, please do not use this site or submit any personal information.
+
+Please check back for updates to this privacy statement.
+
+**Updated Privacy Statement**
+
+This Privacy Statement becomes effective October, 2016. Valvoline may update this Privacy Statement from time to time. We encourage you to review our Privacy Policy periodically.
