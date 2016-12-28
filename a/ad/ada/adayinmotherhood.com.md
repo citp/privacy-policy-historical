@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171150id_/http%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adayinmotherhood.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228162026id_/http%3A//www.adayinmotherhood.com/anti-spam_policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Disclaimer - A Day in Motherhood
 
@@ -36,11 +36,11 @@ lomargie@rfehosting.com
 
 **Giveaway/ Review Disclaimer**
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ADayinMotherhood.com’s](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed. **_
+_**[ADayinMotherhood.com](https://web.archive.org/web/20161228162026id_/http://www.adayinmotherhood.com/2011/) is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ADayinMotherhood.com’s](https://web.archive.org/web/20161228162026id_/http://www.adayinmotherhood.com/2011/) and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed. **_
 
-_**[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company. **_
+_**[ADayinMotherhood.com](https://web.archive.org/web/20161228162026id_/http://www.adayinmotherhood.com/2011/) is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company. **_
 
-_**Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry.**_ _ **By entering this giveaway, you understand and agree that[ADayinMotherhood.com](https://web.archive.org/web/20160616171150id_/http://www.adayinmotherhood.com/2011/) is is no way responsible for the production, delivery, or quality of the received product.**_
+_**Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry.**_ _ **By entering this giveaway, you understand and agree that[ADayinMotherhood.com](https://web.archive.org/web/20161228162026id_/http://www.adayinmotherhood.com/2011/) is is no way responsible for the production, delivery, or quality of the received product.**_
 
 **Privacy Policy**
 
@@ -97,5 +97,3 @@ lomargie@rfehosting.com
 **Links Disclaimer**
 
 The A Day in Motherhood web site may contain links to many other web sites. A Day in Motherhood cannot guarantee the accuracy of information found at any linked site. Links to or from external web sites sites not owned or controlled by A Day in Motherhood does not constitute an endorsement by A Day in Motherhood or any of its employees of the sponsors of these sites or the products or information presented there.
-
-[](http://www.feedblitz.com/f/?sub=799850)
