@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heatst.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625235034id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatst.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228204300id_/http%3A//www.dowjones.com/privacy-policy/%3Fmod%3Dheatstreet) for the most accurate reproduction.*
 
-# Privacy Policy - Dow JonesDow Jones
+# Privacy Policy - Dow Jones
 
 **THE DOW JONES PRIVACY POLICY**
 
