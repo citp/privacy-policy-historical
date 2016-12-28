@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617175959id_/http%3A//www.uts.edu.au/about/utsweb-statements/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uts.edu.au privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228061329id_/http%3A//www.uts.edu.au/about/utsweb-statements/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | University of Technology Sydney
 
@@ -29,7 +29,7 @@ Examples of the type of information that might be collected by UTS through cooki
 
   * the date, time and duration of each interaction on our website(s), using, for instance, a numbered key (a unique server-generated number used to identify the current session)
 
-  * the pages you view, the online tools you use and the documents you download, and
+  * the pages you view, the campaign sites you interact with, the online tools you use and the documents you download, and
 
   * the previous site visited and the type of browser used.
 
@@ -38,13 +38,19 @@ Examples of the type of information that might be collected by UTS through cooki
 
 Unique identifiers are also used to store information about users’ preferences and enable the dynamic display of the site according to your preferences when you return.
 
-### 3\. Online request forms
+### 3\. Google Display Advertising
+
+UTS is remarketing with Google Analytics to advertise University related products across the internet. The University may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and display advertisements based on a user's visit to the website.
+
+To opt-out of this tracking service please go to [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+
+### 4\. Online request forms
 
 Where the UTS Web provides electronic forms that allow you to request particular information from the university, personal information is only requested in order for UTS to respond to your inquiry.
 
 Where your contact details are being specifically collected for marketing purposes and to recruit students, see the [student marketing and recruitment privacy notice](https://web.archive.org/about/utsweb-statements/privacy-statement/student-marketing-and-recruitment-privacy-notice).
 
-### 4\. Accessing IT systems, portals, and online forms
+### 5\. Accessing IT systems, portals, and online forms
 
 Any interaction you have through the UTS Web, through the use of IT systems, portals or online forms, will also be covered by a separate privacy notice dealing with the particular activity (eg enrolment or marketing).
 
