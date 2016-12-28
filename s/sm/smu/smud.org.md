@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080852id_/https%3A//www.smud.org/en/about-smud/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228074615id_/https%3A//www.smud.org/en/about-this-site) for the most accurate reproduction.*
 
-# smud.org
+# SMUD's Privacy Policy | SMUD.org
+
+__**NOTICE:** SMUD offices will be closed Monday, January 2, in observance of New Year's Day.   [Learn more.](https://web.archive.org/en/about-smud/news-media/news-releases/2016/2016-12-20-holiday-hours.htm)
 
 Your privacy is fundamental to SMUD. In this policy, we'll discuss how we collect, use, disclose, transfer, and store your information and other topics affecting your information. Please take some time to read about our privacy practices and [let us know](https://web.archive.org/en/about-smud/contact-us/) if you have any questions.
 
@@ -15,7 +17,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 "Personal information" is any record that identifies an individual person. Examples are social security numbers, address, name, phone numbers, birth dates, and billing, credit, and energy use data specific to you.
 
-To ensure your privacy, SMUD's Board of Directors adopted this "[Information Management and Security Policy](https://web.archive.org/en/about-smud/company-information/board-of-directors/documents/SD-16.pdf)." In brief, we do not release to a third party any of your information that is proprietary or private without your written consent. The only exception is for information that's reasonably required to meet SMUD's business needs, for example: 
+To ensure your privacy, SMUD's Board of Directors adopted this "[Information Management and Security Policy](https://web.archive.org/assets/documents/pdf/SD-16.pdf)." In brief, we do not release to a third party any of your information that is proprietary or private without your written consent. The only exception is for information that's reasonably required to meet SMUD's business needs, for example: 
 
   * To provide or bill for electrical power.
   * To maintain or operate SMUD's electric system or grid.
@@ -82,6 +84,10 @@ You can request access, correction, or deletion by emailing us at [webstaff@smud
 
 We'll keep your personal information for the time necessary to fulfill the purposes we've outlined in "How we collect and use customers' personal information" of this Privacy Policy, unless a longer retention period is required or permitted by law.
 
+**Service providers**
+
+SMUD shares personal information with companies that provide services, such as information processing, rebate programs, credit reporting, managing and enhancing customer data, customer service, assessing interest in our services, and conducting customer research or satisfaction surveys. These companies are obligated by contract with SMUD to protect your information.
+
 **Children's privacy**
 
 We like to share energy and safety information with students. For example, we give free classroom materials to teachers on energy awareness and safety, and areas of our website that share information about energy and safety are intended for children.
@@ -117,6 +123,10 @@ In some of our email messages, we use a "click-through URL" linked to content on
 
 Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
 
+## Google analytics
+
+Google cookies may be used to collect information about the use of our site and services and to provide that information to Google Analytics. This cookie tracks web site usage information such as how often users visit this site, what pages they visit, and what other sites they visited prior to coming to this site (similar to the cookies described above). SMUD uses the information we get from Google Analytics only to improve SMUD's web-based service offerings. Google Analytics collects your device's IP address, rather than your name or other identifying information, and SMUD does not combine the information collected through the use of Google Analytics with any other information you may have provided to us. Learn more about how SMUD and Google use this information at <http://www.google.com/policies/privacy/partners/>. Although it may result in a less desirable experience, you can prevent Google Analytics from recognizing you on subsequent visits to SMUD sites by disabling cookies in your browser.
+
 ## Disclosing information to third parties
 
 At times SMUD may make some personal information available to strategic partners that work with SMUD to provide services. Personal information will be shared only to provide or improve services and advertising; it will not be shared with third parties for their marketing purposes.
@@ -135,17 +145,14 @@ We may also disclose information about you if we see that disclosure is reasonab
 
 While browsing smud.org, you may encounter hypertext links to other websites. These third-party websites may send their own cookies to you, log your IP address, and otherwise collect data or solicit personal information. SMUD does not control and is not responsible for what third parties do for their websites, or how they handle your personal information. Please be cautious and consult the privacy policies posted on each third-party website for further information.
 
-## Questions
-
-If you have any questions or concerns about SMUD's Privacy Policy or data processing, please [contact us](mailto:webstaff@smud.org).
-
 * * *
 
-  
-
+**Questions**  
+If you have any questions or concerns about SMUD's Privacy Policy or data processing, please [contact us](mailto:webstaff@smud.org).
 
 SMUD may update its Privacy Policy from time to time. When we change the policy in a material way, we'll post a notice on our website along with the updated Privacy Policy.
 
-Last updated: March 5, 2013
+Last updated: June 22, 2016  
+[View previous versions](https://web.archive.org/en/about-this-site/privacy-archive.htm)
 
 SMUD 6201 S Street, Sacramento, California, USA, 95817
