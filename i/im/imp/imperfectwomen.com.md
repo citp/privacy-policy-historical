@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104139id_/http%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228071407id_/http%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Imperfect Women
 
 **What information do we collect?**
 
