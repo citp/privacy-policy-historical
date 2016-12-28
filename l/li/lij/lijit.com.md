@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315204912id_/http%3A//www.sovrn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228043239id_/http%3A//www.sovrn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - sovrn
-
-    [we are sovrn](https://web.archive.org/company/)
-    [leadership](https://web.archive.org/company/management/)
-    [press room](https://web.archive.org/company/press-room/)
-    [careers](https://web.archive.org/company/careers/)
 
 **Lijit, Inc. Privacy Policy**
 
