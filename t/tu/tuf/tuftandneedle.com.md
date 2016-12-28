@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tuftandneedle.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531140853id_/https%3A//www.tuftandneedle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuftandneedle.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025202id_/https%3A//www.tuftandneedle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tuft & Needle
+
+### Currently displaying Privacy Policy for:
 
 Current policy effective as of March 21, 2016
 
@@ -80,7 +82,7 @@ As noted above, you may block, delete, or pre-approve use of cookies on your com
 
 We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Site. Please be advised that such parties may gather information about your visit to the Site or other sites (such as through cookies, web beacons, and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/). PLEASE NOTE THAT THIS PRIVACY POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES.
 
-To facilitate the delivery of relevant content, some cookies we use are for ‘Google Analytics’. Those are used to identify how users engage with our Site and to provide us with interest and demographic information regarding Site visitors. We may also use this information to optimize marketing and refine advertising and/or programming strategies. For a complete privacy policy and instructions to ““opt out” of Google Analytics’ data aggregation and usage, please see [here](https://www.google.com/policies/privacy/).
+To facilitate the delivery of relevant content, some cookies we use are for ‘Google Analytics’. Those are used to identify how users engage with our Site and to provide us with interest and demographic information regarding Site visitors. We may also use this information to optimize marketing and refine advertising and/or programming strategies. For a complete privacy policy and instructions to ““opt out” of Google Analytics’ data aggregation and usage, please see [here](https://tools.google.com/dlpage/gaoptout).
 
 Please note that we do not respond to or honor “do not track” (a/k/a/ DNT) signals or similar mechanisms transmitted by web browsers.
 
