@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630032529id_/http%3A//dealsea.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228071149id_/http%3A//dealsea.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy - dealsea.com
 
@@ -35,7 +35,7 @@ Your Personal Information may be shared as required or permitted by law as descr
     * We also use third party services, such as Google Analytics, to help us understand how visitors interact with our website and to help improve our user experience.
   6. ### Management of Your Personal Information
 
-    * You can access, update your Contact Information and the other information you provided us to use in your profile by logging into dealsea.com through http://dealsea.com/profile/login and click on your user name. Please contact us if you want your account to be removed.
+    * You can access, update your Contact Information and the other information you provided us to use in your profile by logging into dealsea.com through https://dealsea.com/profile/login and click on your user name. Please contact us if you want your account to be removed.
     * You can manage your alert subscriptions by following subscription instructions that we send you. You can follow the opt-out instructions in the emails that we send you.
     * Cookies: You may manage how your browser handles cookies by adjusting its privacy and security settings. Refer your browser's help page to find out how to adjust. You can opt-out of being targeted by certain third party advertising companies online at www.networkadvertising.org/consumer/opt_out.asp.
   7. ### Children's Privacy
