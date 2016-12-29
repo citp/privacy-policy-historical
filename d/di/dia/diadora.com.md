@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630041742id_/http%3A//www.diadora.com/en/%23modal_privacies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050100id_/http%3A//www.diadora.com/en%23modal_privacies) for the most accurate reproduction.*
 
 # Diadora: Trainers and Sportswear | Diadora UK
+
+__FREE SHIPPING OVER 49£ __
+
+ __Orders placed between 24th December and 2nd of January might have longer shipping times. __
+
+  1.   2.   3.   4. 
+
+
+B.ELITE WNT BRIGHT
+
+Extreme protection
+
+[BUY NOW](http://www.diadora.com/en/shoes/sportswear/belite-wnt-bright)
+
+B.ELITE SUEDE
+
+The most loved court model in sneakers history
+
+[BUY NOW](http://www.diadora.com/en/shoes/sportswear/belite-suede)
+
+RUNNING
+
+Diadora Running world has always been characterized by constant innovation and research for performance
+
+[SHOP NOW](https://web.archive.org/en/running)
 
 **PRIVACY POLICY**
 
