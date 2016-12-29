@@ -1,7 +1,218 @@
-<!--The following is the downloaded HTML source of the imgsin.com privacy policy that was archived on 2014-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141125023614id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imgsin.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229045423id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<!--Start Popunder-->
+<script type="text/javascript" async="" id="pr204604d7" src="//prscripts.com/pub.js"></script><script>
+var puShown = false;
+var PopWidth = 1370;
+var PopHeight = 800;
+var PopFocus = 0;
+var _Top = null;
+ 
+ 
+function GetWindowHeight() {
+var myHeight = 0;
+if( typeof( _Top.window.innerHeight ) == 'number' ) {
+myHeight = _Top.window.innerHeight;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientHeight ) {
+myHeight = _Top.document.documentElement.clientHeight;
+} else if( _Top.document.body && _Top.document.body.clientHeight ) {
+myHeight = _Top.document.body.clientHeight;
+}
+return myHeight;
+}
+ 
+ 
+function GetWindowWidth() {
+var myWidth = 0;
+if( typeof( _Top.window.innerWidth ) == 'number' ) {
+myWidth = _Top.window.innerWidth;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientWidth ) {
+myWidth = _Top.document.documentElement.clientWidth;
+} else if( _Top.document.body && _Top.document.body.clientWidth ) {
+myWidth = _Top.document.body.clientWidth;
+}
+return myWidth;
+}
+ 
+ 
+function GetWindowTop() {
+return (_Top.window.screenTop != undefined) ? _Top.window.screenTop : _Top.window.screenY;
+}
+ 
+ 
+function GetWindowLeft() {
+return (_Top.window.screenLeft != undefined) ? _Top.window.screenLeft : _Top.window.screenX;
+}
+ 
+ 
+function doOpen(url)
+{
+var popURL = "about:blank"
+var popID = "ad_" + Math.floor(89999999*Math.random()+10000000);
+var pxLeft = 0;
+var pxTop = 0;
+pxLeft = (GetWindowLeft() + (GetWindowWidth() / 2) - (PopWidth / 2));
+pxTop = (GetWindowTop() + (GetWindowHeight() / 2) - (PopHeight / 2));
+ 
+ 
+if ( puShown == true )
+{
+return true;
+}
+ 
+ 
+var PopWin=_Top.window.open(popURL,popID,'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,top=' + pxTop + ',left=' + pxLeft + ',width=' + PopWidth + ',height=' + PopHeight);
+ 
+ 
+if (PopWin)
+{
+puShown = true;
+ 
+ 
+if (PopFocus == 0)
+{
+PopWin.blur();
+ 
+ 
+if (navigator.userAgent.toLowerCase().indexOf("applewebkit") > -1)
+{
+_Top.window.blur();
+_Top.window.focus();
+}
+}
+ 
+ 
+PopWin.Init = function(e) {
+ 
+ 
+with (e) {
+ 
+ 
+Params = e.Params;
+Main = function(){
+ 
+ 
+if (typeof window.mozPaintCount != "undefined") {
+var x = window.open("about:blank");
+x.close();
+ 
+ 
+}
+ 
+ 
+var popURL = Params.PopURL;
+ 
+ 
+try { opener.window.focus(); }
+catch (err) { }
+ 
+ 
+window.location = popURL;
+}
+ 
+ 
+Main();
+}
+};
+ 
+ 
+PopWin.Params = {
+PopURL: url
+}
+ 
+ 
+PopWin.Init(PopWin);
+}
+ 
+ 
+return PopWin;
+}
+ 
+ 
+function setCookie(name, value, time)
+{
+var expires = new Date();
+ 
+ 
+expires.setTime( expires.getTime() + time );
+ 
+ 
+document.cookie = name + '=' + value + '; path=/;' + '; expires=' + expires.toGMTString() ;
+}
+ 
+ 
+function getCookie(name) {
+var cookies = document.cookie.toString().split('; ');
+var cookie, c_name, c_value;
+ 
+ 
+for (var n=0; n<cookies.length; n++) {
+cookie  = cookies[n].split('=');
+c_name  = cookie[0];
+c_value = cookie[1];
+ 
+ 
+if ( c_name == name ) {
+return c_value;
+}
+}
+ 
+ 
+return null;
+}
+ 
+ 
+function initPu()
+{
+ 
+ 
+_Top = self;
+ 
+ 
+if (top != self)
+{
+try
+{
+if (top.document.location.toString())
+_Top = top;
+}
+catch(err) { }
+}
+ 
+ 
+if ( document.attachEvent )
+{
+document.attachEvent( 'onclick', checkTarget );
+}
+else if ( document.addEventListener )
+{
+document.addEventListener( 'click', checkTarget, false );
+}
+}
+ 
+ 
+function checkTarget(e)
+{
+if ( !getCookie('popundr6') ) {
+var e = e || window.event;
+var win = doOpen('https://href.li/?http://popcash.net/world/go/57212/105034/');
+ 
+ 
+setCookie('popundr6', 1, 24*60*60*1000);
+}
+}
+ 
+ 
+initPu();
+</script>
+<!--End Popunder-->
+
+
+
+
 
       <title>Sinfully Good</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -36,34 +247,46 @@
         </div></div>
        <div class="page_body">
 
+<script type="text/javascript">
+	var _prvar=_prvar||new Object();
+	(function(pa,s){if(document.getElementById('pr204604d7'))return false;
+	pa=document.createElement('script');pa.type='text/javascript';pa.async=true;pa.id='pr204604d7';pa.src='//prscripts.com/pub.js';
+	s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(pa,s);})();
+</script>
+
 <center>
 
 
-<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?cat=139&amp;idsite=183343&amp;idzone=480669&amp;login=carn87&amp;type=1"></script>
 
-
+<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=480675&amp;type=1"></script>
 
 <br>
 
 <table>
 <tbody><tr>
 <td>
-<!-- BEGIN Ad Tag -->
-<script type="text/javascript" src="http://syndication.exoclick.com/ads.php?type=300x250&amp;login=carn87&amp;cat=104&amp;search=&amp;ad_title_color=0000cc&amp;bgcolor=FFFFFF&amp;border=0&amp;border_color=000000&amp;font=&amp;block_keywords=&amp;ad_text_color=000000&amp;ad_durl_color=008000&amp;adult=0&amp;sub=&amp;text_only=0&amp;show_thumb=&amp;idzone=760437&amp;idsite=183343"></script>
-<noscript>Your browser does not support JavaScript. Update it for a better user experience.</noscript>
-<!-- END Ad Tag -->
+<!-- BEGIN EroAdvertising ADSPACE CODE -->
+<script type="text/javascript" language="javascript" charset="utf-8" src="//adspaces.ero-advertising.com/adspace/2070575.js"></script>
+<!-- END EroAdvertising ADSPACE CODE -->
 
-</td>
-<td>
-<iframe allowtransparency="1" frameborder="0" height="274" id="plwpr41965221451e5ce348.83702656" scrolling="no" src="http://widget.plugrush.com/imgsin.com/3tvz" width="312"></iframe>
 
 </td>
 <td>
 
-<!-- BEGIN Ad Tag -->
-<script type="text/javascript" src="http://syndication.exoclick.com/ads.php?type=300x250&amp;login=carn87&amp;cat=139&amp;search=&amp;ad_title_color=0000cc&amp;bgcolor=FFFFFF&amp;border=0&amp;border_color=000000&amp;font=&amp;block_keywords=&amp;ad_text_color=000000&amp;ad_durl_color=008000&amp;adult=0&amp;sub=&amp;text_only=0&amp;show_thumb=&amp;idzone=760439&amp;idsite=183343"></script>
-<noscript>Your browser does not support JavaScript. Update it for a better user experience.</noscript>
-<!-- END Ad Tag -->
+<div class="pr-widget" id="pr-d8d5" style="height:250px;width:300px;"></div>
+
+</td>
+<td>
+
+
+<script type="text/javascript">
+var ad_idzone = "760437",
+	 ad_width = "300",
+	 ad_height = "250";
+</script>
+<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
+<noscript><a href="http://main.exoclick.com/img-click.php?idzone=760437" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=760437&output=img&type=300x250" width="300" height="250"></a></noscript>
+
 
 
 </td>
@@ -72,6 +295,7 @@
 
 
 <br>
+
 
 
 
@@ -85,17 +309,44 @@ Image Sin policy is to respect and protect the privacy of our users. Image Sin w
       <div class="fade_rev">&nbsp;</div>
 <center>
 
-<iframe allowtransparency="1" frameborder="0" height="852" id="plwpr44646533277ade25bb0.32751172" scrolling="no" src="http://widget.plugrush.com/imgsin.com/5s25" width="996"></iframe>
+<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=560603&amp;type=3"></script>
+<br>
 
 
-	
+<table>
+<tbody><tr>
+<td>
+<script type="text/javascript">
+var ad_idzone = "760437",
+	 ad_width = "300",
+	 ad_height = "250";
+</script>
+<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
+<noscript><a href="http://main.exoclick.com/img-click.php?idzone=760437" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=760437&output=img&type=300x250" width="300" height="250"></a></noscript>
+
+</td>
+<td>
+<!-- BEGIN EroAdvertising ADSPACE CODE -->
+<script type="text/javascript" language="javascript" charset="utf-8" src="//adspaces.ero-advertising.com/adspace/2070575.js"></script>
+<!-- END EroAdvertising ADSPACE CODE -->
+
+</td>
+<td>
+
+<div class="pr-widget" id="pr-d8d5" style="height:250px;width:300px;"></div>
+
+
+</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=481309&amp;type=4"></script>
 
 <br>
 
-<script type="text/javascript">juicy_code='84c4z2u2t484q2t2q2';</script>
-<script type="text/javascript" src="http://ads.juicyads.com/jsclients/jac.js" charset="utf-8"></script>
+<iframe allowtransparency="1" frameborder="0" height="852" id="plwpr44646533277ade25bb0.32751172" scrolling="no" src="http://widget.plugrush.com/imgsin.com/5s25" width="996"></iframe>
 
-
+<br>
 
 
 <iframe allowtransparency="1" frameborder="0" height="156" id="plwpr59103510b71917c4847.29740403" scrolling="no" src="http://widget.plugrush.com/imgsin.com/21ap" width="1000"></iframe>  <iframe allowtransparency="1" frameborder="0" height="156" id="plwpr59103510b71917c4847.29740403" scrolling="no" src="http://widget.plugrush.com/imgsin.com/21ap" width="1000"></iframe>
