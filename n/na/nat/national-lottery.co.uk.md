@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054217id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national-lottery.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060711id_/https%3A//www.national-lottery.co.uk/privacy-policy%3Ficid%3Dbsp%3Ana%3Atx) for the most accurate reproduction.*
 
 # Privacy Policy | The National Lottery
 
@@ -8,7 +8,7 @@ Before you use our website, the Apps or buy National Lottery games, we ask that 
 
 You acknowledge that you have read and accept the terms of this Privacy Policy and consent to the use of your personal information as set out in this Privacy Policy.
 
-We’ll collect your information when you open an online account, download any App, register with us via our Customer Care Team, or play our games including via any App for example. If you buy National Lottery games using Pingit, you agree to Barclays providing us with information about you in line with the Barclays Pingit Terms and Conditions you have accepted. The information can include your name, date of birth, username and password, answers to security questions, bank account, debit card, driving licence and contact details, together with details about your playing behaviour and transaction and game history relating to playing of lottery games. Not all of this information is mandatory.
+We’ll collect your information when you open an online account, download any App, register with us via our Customer Care Team, or play our games including via any App for example. If you buy National Lottery games using Pingit, you agree to Barclays providing us with information about you in line with the Barclays Pingit Terms and Conditions you have accepted. The information can include your name, date of birth, username and password, answers to security questions, bank account, debit card, driving licence and contact details, together with details about your playing behaviour and transaction/game history relating to your playing of lottery games, and any information you send us via the website feedback function. Not all of this information is mandatory.
 
 In addition, we may collect the number given to your computer or device on the internet, known as an Internet Protocol address, when sending HTML emails to you or when you visit our website. We may also automatically collect your Device’s advertising identifier when you use any Apps.
 
