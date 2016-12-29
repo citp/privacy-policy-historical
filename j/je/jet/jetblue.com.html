@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617233802id_/http%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229032934id_/http%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent notouchonly" lang="en"><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
-	<title>JetBlue | Privacy Policy</title>
-<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width; initial-scale=1; minimum-scale=.2; maximum-scale=2; user-scalable=yes"><link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/css/global.css?v=3.0">
-    <link rel="stylesheet" href="/css/Background.css?v=3.0">
+  <title>JetBlue | Privacy Policy</title>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width; minimum-scale=.2; maximum-scale=2; user-scalable=yes"><link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="/css/global.css?v=12.13">
+    <link rel="stylesheet" href="/css/Background.css?v=12.13">
     <style>
         #bgHolder .background {
-            background: #FFF url(/img/bg-jetblue-body-logoonly.jpg) no-repeat center top;
+            background: #FFF url(/img/holiday-header-2016.gif?v3) no-repeat center top;
         }
     </style>
 
@@ -29,9 +30,7 @@
     <script src="/js/vendor/angularjs/1.2.28/angular.min.js"></script>    
     <script src="/js/vendor/angularjs/1.2.28/angular-route.min.js"></script>
     <script src="/js/vendor/angularjs/1.2.28/angular-resource.min.js"></script>
-    <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="0e629c80fc467cff3548b689d8fcb466"></script>
-
-    
+    <script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="0e629c80fc467cff3548b689d8fcb466"></script>    
    
 
     <script src="/js/vendor/jquery/1.6.2/jquery.min.js"></script>
@@ -67,21 +66,31 @@
     </script>
 
     
-	<link rel="stylesheet" href="/css/jetblue-help.css">
+  <link rel="stylesheet" href="/css/jetblue-help.css">
     <style>
-	.legal {padding:30px 0px;}
-	.page ul.sq-bull li {
-background: url(/img/sq-bull.gif) no-repeat 0 4px;
+  .legal {padding:30px 0px;}
+  .page ul.sq-bull li {
+/*background: url(/img/sq-bull.gif) no-repeat 0 4px;*/
 line-height: 1em;
-margin-left: 0;
+margin-left: 13px;
 padding-left: 20px;
+
 }
-	</style>
-<title>
-	JetBlue
-</title></head>
+ul.sq-bull li {
+    /*line-height: 1.8em;*/
+    background: none;
+    margin-left: 13px;
+    padding-left: 20px;
+    list-style-image: url('/img/sq-bull.gif') !important;
+    background: none;
+}
+h2{
+  font-size:2.4rem;
+}
+  </style>
+</head>
 <body id="bodyTag">
-    
+    <script>try {document.getElementsByTagName("title")[1].remove();}catch(err){}</script>
     <script type="text/javascript">
         // longitude and latitude from akamai header:
         
@@ -109,8 +118,15 @@ padding-left: 20px;
         var travelModeValue = "";
 
         for (var i = 0; i < cookies.length; i++) {
-            if (jQuery.trim(cookies[i].substr(0, cookies[i].indexOf("="))) == "base_airport")
+            if (jQuery.trim(cookies[i].substr(0, cookies[i].indexOf("="))) == "base_airport"){
                 baseAirportCookie = cookies[i].substr(cookies[i].indexOf("=") + 1);
+            }
+                
+            if (jQuery.trim(cookies[i].substr(0, cookies[i].indexOf("="))) == "recentSearchesFlight") {
+                var value = unescape(cookies[i].substr(cookies[i].indexOf("=") + 1));
+                document.cookie="base_airport=" + JSON.parse(value)[0].fromCode;
+            }
+
         }
         if (typeof (sUserState) != "undefined") {
             switch (sUserState) {
@@ -153,21 +169,50 @@ padding-left: 20px;
                                 
               
               
-                    <a href="/?intcmp=hd_home" class="jbLogo logo"><img src="/img/jetblue-white-reg.png " alt="JetBlue"></a>
+                    <a href="/?intcmp=hd_home" class="jbLogo logo"><img src="/img/jetblue-white-reg-blueforholiday-2016.png " alt="JetBlue"></a>
               
                         
             
             <div class="global-nav">
                 <div align="right">
-                    <iframe role="presentation" src="/JetblueAlerts/MainTitle.aspx" width="500" height="38" marginwidth="0" marginheight="0" align="top" scrolling="no" frameborder="0" id="hdalert" name="hdalert" title="Flight Alerts">
-                    </iframe>
-                </div>                
+                    <div id="travelalertNew" class="travel-alerts">
+                        
+
+
+
+	<style type="text/css">
+		.travel-alerts {width: 500px;padding: 7px 0 0;color: #f90;text-align: right;font-size: 1.2rem !important;line-height: 21px;height: 31px;overflow:hidden;}
+		.travel-alerts img {padding: 0 0 4px;}
+		
+		.rgt-arrow {display: inline-block; width: 6px;	height: 9px; margin-left: 4px; position:relative; overflow: hidden;}
+		.rgt-arrow img { left:0;top:1px; position: absolute; }
+		/*
+		.rgt-arrow {display: inline-block; background: transparent url(https://www.jetblue.com/img/rgt-arrow.png) 0 0 no-repeat !important; width: 6px;	height: 9px; margin-left: 4px;}*/
+		#Title{color:#306FAA !important}
+		.travelAlertsTitle { max-width:340px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;position:relative;display:inline-block;vertical-align:middle;padding: 0 0 3px; }
+		#travelalertNew{
+		    padding: 0px 0 7px !important;
+		}
+	</style>
+	<div id="travelalerts" class="travel-alerts">
+		<img src="//www2.jetblue.com/img/icon-travel-alert.png" alt="" width="21" height="20"> 
+		<a target="_top" href="//www2.jetblue.com/JetblueAlerts/WeatherUpdate.aspx?intcmp=global_travelalert">
+			<span id="Title">
+				<strong>TRAVEL ALERT: </strong>Click Here
+			</span>
+			<span class="rgt-arrow"><img src="//www2.jetblue.com/img/rgt-arrow.png"></span>
+		</a>
+	</div>
+    
+
+                    </div>
+                </div>                  
                 <ul class="login-utility">
                     <li><a lang="es" class="espanol jb-primary-link" mporgnav="" href="http://hola.jetblue.com/" onclick="return switchLanguage('es');
                         function switchLanguage(lang) {
                             MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
-	                        MP.switchLanguage(MP.UrlLang==lang?'en':lang);
-	                        return false;}">Español</a>
+                            MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+                            return false;}">Español</a>
                     </li>
                     <li>
                         <a class="help jb-primary-link" href="/help/">
@@ -179,6 +224,11 @@ padding-left: 20px;
                         Contact us
                         </a>
                     </li>
+                    <li>
+                       <a class="blog jb-primary-link" target="_blank" href="http://blog.jetblue.com/">
+                       Blog<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+                       </a>
+                    </li>
                     <li class="soflyHeaderMaster">
                         <a class="jb-primary-link" href="/SoFly/">
                         SoFly<!--<span class="jbSocialBlueTMMasterHeader">™</span>-->
@@ -187,7 +237,7 @@ padding-left: 20px;
                     
                             <li>
                                 <a href="https://trueblue.jetblue.com" class="trueblue-sprite">
-                                    <img src="/img/bg-true-blue-label.jpg" alt="TrueBlue Login" class="trueblue-sprite-login">
+                                    <img src="/img/bg-true-blue-label.png" alt="TrueBlue Login" class="trueblue-sprite-login">
                                 </a>
                             </li>
                             <li class="true-blue-sign-in">
@@ -231,7 +281,7 @@ padding-left: 20px;
                 <span class="foreground-sprite">
                     <img src="/img/bg_main_nav_secondary_icons_trans.png" alt="">
                 </span>
-                <span class="secondary-link-name">Getaways</span>
+                <span class="secondary-link-name">Vacations</span>
                 </a>
                 </li>
                 <li class="hotels">
@@ -252,7 +302,7 @@ padding-left: 20px;
                 </a>
                 </li>
                 <li class="cruises">
-                <a class="jb-secondary-link" href="/cruises/" target="_blank">
+                <a class="jb-secondary-link" href="//cruises.jetblue.com/?cm_mmc=partner_site-_-jb-hp_top_nav-_-20160901-_-hp_cruise&amp;utm_medium=partner_site&amp;utm_source=jb-hp_top_nav&amp;utm_campaign=20160901&amp;utm_content=hp_cruise" target="_blank">
                     <span class="foreground-sprite">
                         <img src="/img/bg_main_nav_secondary_icons_trans.png" alt="">
                     </span>
@@ -271,9 +321,10 @@ padding-left: 20px;
                 <li class="additional-jb-link">
                 <ul>
                     <li class="additional-plan-a-trip-links">
-                        <a class="jb-secondary-link" href="/timetable/">Timetables</a> 
+                        <a class="jb-secondary-link" href="//b6.innosked.com/" target="_blank">Timetables<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window"></a> 
                         <a href="/email/" class="jb-secondary-link">Fare alerts</a>
                         <a class="jb-secondary-link" id="FClink" href="/bestfarefinder/">Best Fare Finder</a>
+						<a class="jb-secondary-link" id="FClink" href="//ground.jetblue.com?clientId=725868" target="_blank">Ground transfer<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window"></a>
                     </li>
                 </ul>
                 </li>                                    
@@ -339,13 +390,13 @@ padding-left: 20px;
                         <span class="foreground-sprite">
                             <img src="/img/bg_main_nav_secondary_icons_trans.png" alt="">
                         </span>
-                        <span class="secondary-link-name">Mint</span>
+                        <span class="secondary-link-name">Mint®</span>
                     </a>
                 </li>
                 <li class="additional-jb-link">
                 <ul>
                     <li class="additional-flying-on-jetblue-links-1">
-                        <a class="jb-secondary-link" href="/flying-on-jetblue/mint/">Mint</a>
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/mint/">Mint®</a>
                         <a class="jb-secondary-link" href="/flying-on-jetblue/directv/">DIRECTV®</a> 
                         <a class="jb-secondary-link" href="/flying-on-jetblue/snacks-and-drinks/">Snacks &amp; drinks</a> 
                         <a class="jb-secondary-link" href="/flying-on-jetblue/radio/">SiriusXM Radio®</a> 
@@ -468,16 +519,16 @@ padding-left: 20px;
             document.getElementById("jb-header").style.display = "block";  // show the header since it is hidden by default to not show logged out users their name & points on cached pages.
     </script>
     
-    
-    <div id="sticky-nav">
+   
+     <div id="sticky-nav">
     <div class="sticky-nav-wrapper">
 
         <div class="page-title">
                 
-            <h3>JetBlue Airways Privacy Policy</h3>
+            <h1>JetBlue Airways Privacy Policy</h1>
         
             <a id="back-to-top" href="#jb-header">Back to top</a></div> 
-        <!-- /.page-title -->				
+        <!-- /.page-title -->       
 
     </div> <!-- /.sticky-nav-wrapper -->
 </div> <!-- /#sticky-nav -->
@@ -493,52 +544,51 @@ padding-left: 20px;
                       <ul class="sq-bull">
                         <li><a href="#p1">What information do we collect?</a></li>
                         <li><a href="#p2">How do we use the information we collect?</a></li>
-						<li><a href="#p2a">Could anyone other than JetBlue be collecting and using my information?</a></li>
+            <li><a href="#p2a">Could anyone other than JetBlue be collecting and using my information?</a></li>
                         <li><a href="#p3">What information is collected from children?</a></li>
                         <li><a href="#p4">How is the information collected online protected?</a></li>
                         <li><a href="#p5">How can you access your information?</a></li>
                         <li><a href="#p6">How can you opt out of e-mail and text message marketing communications from us?</a></li>
                         <li><a href="#p7">Does this policy cover third party services linked from the JetBlue Online Services?</a></li>
                         <li><a href="#p11">Why am I asked to provide certain information for TSA Watchlist Screening and how is this data used?</a></li>
-						<li><a href="#p7b">In the event of a corporate change in control, what happens?</a> </li>
+            <li><a href="#p7b">In the event of a corporate change in control, what happens?</a> </li>
                         <li><a href="#p8">What about changes to the Privacy Policy?</a></li>
                         <li><a href="#p9">What if I have questions or concerns?</a></li>
                         <li><a href="#p10">Note to users in European Union and other countries with Data Protection Laws</a></li>
                         
                       </ul>
                       <p>
-                      <a name="p1"></a>
-					  <strong>What information do we collect?</strong><br>When you use the JetBlue Online Services, your information and activity data is collected in several ways.</p>
+                      </p><h2 tabindex="0" name="p1" id="p1">What information do we collect?</h2><br><p class="">When you use the JetBlue Online Services, your information and activity data is collected in several ways.</p>
                       <p>First, when you engage with certain JetBlue Online Services, you will be asked to affirmatively provide some information about yourself. For example (and this is not an exhaustive list), you may be asked to provide certain personally identifiable information, such as your name, home address, e-mail address, and/or telephone number(s), when you register with TrueBlue; book a flight, Getaways vacation package or make another travel booking; purchase merchandise; or sign up for a sweepstakes or other promotion. You also may be asked to provide information about where you like to travel or other information about your preferences and behavior. If you make a purchase of any kind, you may be asked to provide your credit card number, billing information and/or other payment information.</p>
-                      <p>Second, when you use the JetBlue Online Services, some information about your online activity may be automatically collected through the use of servers and other technologies. For example, JetBlue may use "cookies," which are small pieces of information that the JetBlue Online Services transfer to the hard drive of a visitor's (your) computer for record-keeping and tracking purposes. Through servers and other technology, JetBlue may collect and track the following information: the domain name of the site providing you with internet access, the internet protocol (IP) address used to connect your computer to the internet, your browser type and version, operating system and platform, mobile-device type, wireless carrier, the average time you spent engaging with a JetBlue Online Service, pages viewed, information searched for, access times, geo-location information, and/or other information and relevant statistics. These tracking technologies also allow us to determine unique preferences and trends based on a visitor’s use of the JetBlue Online Services, as well as that visitor’s use of third party online services participating in the same advertising network as JetBlue. For example, cookies and other tracking technologies may be used by JetBlue and its third-party ad management companies to learn things like which advertisements, emails, websites or other online content brings users to our JetBlue Online Services and to advertise JetBlue products and services to you while you are on other websites based on your browsing or other online activities. For information about removing yourself from these tracking and reporting functions, please first visit the Adobe opt-out page at <a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank" alt="Link will open a new window" alt-modified="true">http://www.adobe.com/privacy/opt-out.html#4</a>. You should also visit these links to prevent any information from being recorded in a session on the JetBlue Online Services: <a href="http://omnistats.jetblue.com/optout.html?popup=1" target="_blank" alt="Link will open a new window" alt-modified="true">http://omnistats.jetblue.com/locale=en</a> (English) or <a href="http://omnistats.jetblue.com/optout.html?locale=es_ES&amp;popup=1" target="_blank" alt="Link will open a new window" alt-modified="true">http://omnistats.jetblue.com/locale=es</a> (Spanish).</p>
-					  <p>Please also note that most browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent, but setting a browser to reject cookies will limit the range of features available to the visitor on our JetBlue Online Services, and rejecting or disabling cookies will not necessarily limit all forms of the JetBlue Online Services tracking technologies and methodologies.</p>
-					  <p>By connecting to the JetBlue Online Services with a third-party platform (e.g., Facebook), you give us permission to access and use information, content and/or material you have supplied to that platform as permitted by the platform, and to store your log-in credentials for the platform.</p>
-                      <p> <a name="p2"></a>
-                      <strong>How do we use the information we collect?</strong><br>We do not sell your personal information to third parties, and we use it only in accordance with this policy.</p>
-                      <p> We use the information we collect about you (described above) to complete transactions, respond to your requests, verify if a visitor meets any criteria in order to process a request, advertise, maintain and optimize the JetBlue Online Services, and notify you of promotions, updates or special offers, including JetBlue affiliate (like TrueBlue partner) offers, that we think may interest you. We also use your information to provide you with a more effective and personalized customer experience across all of our JetBlue Online Services and to serve you with advertisements and other information appropriate to you and your interests. We may also use your information off line to provide you services as well, including without limitation, customer service, in flight services, and booking services. For example, some of your information is collected so that when you visit a particular JetBlue Online Service more than once, the JetBlue Online Service will recognize you.  JetBlue and our ad management companies will use your information, such as browsing and other online activities, to target advertising to you while you are using JetBlue Online Services or other websites that we think will be of interest to you.  Some of this advertising may be designed to bring you back to our JetBlue Online Services. For more information about your ad choices associated with this type of advertising and options to opt out, please visit this website from the Digital Advertising Alliance: <a href="http://www.aboutads.info/choices/" target="_blank" alt="Link will open a new window" alt-modified="true">http://www.aboutads.info/choices/</a>.</p>
+                      <p>Second, when you use the JetBlue Online Services, some information about your online activity may be automatically collected through the use of servers and other technologies. For example, JetBlue may use "cookies," which are small pieces of information that the JetBlue Online Services transfer to the hard drive of a visitor's (your) computer for record-keeping and tracking purposes. Through servers and other technology, JetBlue may collect and track the following information: the domain name of the site providing you with internet access, the internet protocol (IP) address used to connect your computer to the internet, your browser type and version, operating system and platform, mobile-device type, wireless carrier, the average time you spent engaging with a JetBlue Online Service, pages viewed, information searched for, access times, geo-location information, and/or other information and relevant statistics. These tracking technologies also allow us to determine unique preferences and trends based on a visitor’s use of the JetBlue Online Services, as well as that visitor’s use of third party online services participating in the same advertising network as JetBlue. For example, cookies and other tracking technologies may be used by JetBlue and its third-party ad management companies to learn things like which advertisements, emails, websites or other online content brings users to our JetBlue Online Services and to advertise JetBlue products and services to you while you are on other websites based on your browsing or other online activities. For information about removing yourself from these tracking and reporting functions, please first visit the Adobe opt-out page at <a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank">http://www.adobe.com/privacy/opt-out.html#4<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></a>. You should also visit                                                                                                                                                                                                                                                                                                                                  these links to prevent any information from being recorded in a session on the JetBlue Online Services: <a href="http://omnistats.jetblue.com/optout.html?popup=1" target="_blank">http://omnistats.jetblue.com/locale=en<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></a> (English) or <a href="http://omnistats.jetblue.com/optout.html?locale=es_ES&amp;popup=1" target="_blank">http://omnistats.jetblue.com/locale=es<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></a> (Spanish).</p>
+            <p>Please also note that most browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent, but setting a browser to reject cookies will limit the range of features available to the visitor on our JetBlue Online Services, and rejecting or disabling cookies will not necessarily limit all forms of the JetBlue Online Services tracking technologies and methodologies.</p>
+            <p>By connecting to the JetBlue Online Services with a third-party platform (e.g., Facebook), you give us permission to access and use information, content and/or material you have supplied to that platform as permitted by the platform, and to store your log-in credentials for the platform.</p>
+                       <h2 name="p2" id="p2" tabindex="0">How do we use the information we collect?</h2> <br><p>
+                       We do not sell your personal information to third parties, and we use it only in accordance with this policy
+                       We use the information we collect about you (described above) to complete transactions, respond to your requests, verify if a visitor meets any criteria in order to process a request, advertise, maintain and optimize the JetBlue Online Services, and notify you of promotions, updates or special offers, including JetBlue affiliate (like TrueBlue partner) offers, that we think may interest you. We also use your information to provide you with a more effective and personalized customer experience across all of our JetBlue Online Services and to serve you with advertisements and other information appropriate to you and your interests. We may also use your information off line to provide you services as well, including without limitation, customer service, in flight services, and booking services. For example, some of your information is collected so that when you visit a particular JetBlue Online Service more than once, the JetBlue Online Service will recognize you.  JetBlue and our ad management companies will use your information, such as browsing and other online activities, to target advertising to you while you are using JetBlue Online Services or other websites that we think will be of interest to you.  Some of this advertising may be designed to bring you back to our JetBlue Online Services. For more information about your ad choices associated with this type of advertising and options to opt out, please visit this website from the Digital Advertising Alliance: <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></a>.</p>
                       <p>In order to accomplish all of those things, we may process your information or combine it with other information that we have about you or that is publicly available, and we also may share your information with other companies that are carefully selected by JetBlue to assist in these uses. Please see <a href="#p2a"><em>Could anyone other than JetBlue be collecting and using my information?</em></a> below for information on how these other companies may collect and use your information.</p>
                       <p>To the extent permitted or required by applicable law, we may disclose personally identifiable information to US or non-US government authorities or agencies or other third parties pursuant to a law, rule or regulation, legal request, subpoena, or other legal process or requirement.</p>
-					  <p>We may also use or disclose your information (including to third party companies) to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of JetBlue, our customers, our third-party service providers, our affiliate companies, our JetBlue Online Services or its users.</p>
-					  <p>If you would like your personal information removed from the JetBlue Online Services, please contact us at the email below, and we will make reasonable efforts to accommodate your request by removing your information from our marketing databases.</p>
-					  <blockquote>
-					   <!-- mp_trans_disable_start -->
-					    Email:<br><a href="mailto:privacy@jetblue.com">privacy@jetblue.com</a><br><br>
-						Address:<br>
+            <p>We may also use or disclose your information (including to third party companies) to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of JetBlue, our customers, our third-party service providers, our affiliate companies, our JetBlue Online Services or its users.</p>
+            <p>If you would like your personal information removed from the JetBlue Online Services, please contact us at the email below, and we will make reasonable efforts to accommodate your request by removing your information from our marketing databases.</p>
+            <blockquote>
+             <!-- mp_trans_disable_start -->
+              Email:<br><a href="mailto:privacy@jetblue.com">privacy@jetblue.com</a><br><br>
+            Address:<br>
                         JetBlue Airways Corporation<br>
                         Att'n: Customer Relations<br>
                         P.O. Box 17435<br>
                         Salt Lake City, UT  84117-0435<br><br>
-						Phone:<br>1-801-365-2470
+            Phone:<br>1-801-365-2470
                         <!-- mp_trans_disable_end -->
-					  </blockquote>
-					  <p>Please be aware that if you use the JetBlue Online Services after we make reasonable efforts to remove any of your personal information, JetBlue may again collect information about you and use it in the accordance with this policy.</p>
-					  <p>JetBlue also may be required by law, rule, regulation or other legal process to retain certain information from users about their use of the JetBlue Online Services and/or flight information. JetBlue will retain all such information, and any user request for information removal shall not affect information retained for legal compliance.</p>
-                      <p><a name="p2a" style="color:#000000;"></a>
-					  <strong>Could anyone other than JetBlue be collecting and using my information?</strong><br>There are certain aspects or features of the JetBlue Online Services that may operate with the help of a third party hired by JetBlue. For example, when you purchase a ticket using the JetBlue Online Services, the information described above may be collected and processed by our ticketing agent, Sabre Inc. When you engage with certain JetBlue Online Services related to JetBlue Getaways, the information described above may be collected and processed by Switchfly Software, Inc., a company which helps JetBlue process Getaways bookings.  When you purchase TrueBlue Points, your information may be collected and processed by Points.com, the company that administers point transactions. JetBlue also may hire a third party company to assist it in using your information as permitted by this policy. For example, JetBlue may hire a third party company to process your information for purposes of sending you TrueBlue partner offers we think you may be interested in.</p>
-					  <p>Unless a privacy policy other than this one is posted on a particular JetBlue Online Service, this privacy policy will apply. JetBlue will only authorize third-party companies to collect, use and store your personal information for the limited purpose of providing the applicable JetBlue Online Service or to assist JetBlue in its permitted use of your information. JetBlue may allow these third-party companies to aggregate JetBlue customer data on a de-identified basis for purposes like analyzing and improving their own products and services. JetBlue will require that these companies agree to appropriate confidentiality and security measures.</p>
-					  <p>In the event you leave a JetBlue Online Service (for example, by clicking a link on a JetBlue Online Service) and are using a webpage or other online service where the privacy policy of another entity is posted, that privacy policy will apply. JetBlue is not responsible for the privacy policies or practices of third parties. Please see the section <a href="#p7"><em>Does this policy cover third party services linked from the JetBlue Online Services?</em></a> below for more information.</p>
-					  <p><a name="p3" style="color:#000000;"></a>
-                      <strong>What information is collected from children?</strong><br>JetBlue’s Online Services are targeted to a general audience. JetBlue does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever. If a child provides us with personally identifiable information, a parent or legal guardian of that child may contact us to obtain that information and/or delete it from our records by sending an e-mail to privacy@jetblue.com, calling 1-801-365-2470 or by writing to:</p>
+            </blockquote>
+            <p>Please be aware that if you use the JetBlue Online Services after we make reasonable efforts to remove any of your personal information, JetBlue may again collect information about you and use it in the accordance with this policy.</p>
+            <p>JetBlue also may be required by law, rule, regulation or other legal process to retain certain information from users about their use of the JetBlue Online Services and/or flight information. JetBlue will retain all such information, and any user request for information removal shall not affect information retained for legal compliance.</p>
+                      
+            <h2 name="p2a" id="p2a" tabindex="0">There are certain aspects or features of the JetBlue Online Services that may operate with the help of a third party hired by JetBlue.</h2><br><p class="alpha"> For example, when you purchase a ticket using the JetBlue Online Services, the information described above may be collected and processed by our ticketing agent, Sabre Inc. When you engage with certain JetBlue Online Services related to JetBlue Getaways, the information described above may be collected and processed by Switchfly Software, Inc., a company which helps JetBlue process Getaways bookings.  When you purchase TrueBlue Points, your information may be collected and processed by Points.com, the company that administers point transactions. JetBlue also may hire a third party company to assist it in using your information as permitted by this policy. For example, JetBlue may hire a third party company to process your information for purposes of sending you TrueBlue partner offers we think you may be interested in.</p>
+            <p>Unless a privacy policy other than this one is posted on a particular JetBlue Online Service, this privacy policy will apply. JetBlue will only authorize third-party companies to collect, use and store your personal information for the limited purpose of providing the applicable JetBlue Online Service or to assist JetBlue in its permitted use of your information. JetBlue may allow these third-party companies to aggregate JetBlue customer data on a de-identified basis for purposes like analyzing and improving their own products and services. JetBlue will require that these companies agree to appropriate confidentiality and security measures.</p>
+            <p>In the event you leave a JetBlue Online Service (for example, by clicking a link on a JetBlue Online Service) and are using a webpage or other online service where the privacy policy of another entity is posted, that privacy policy will apply. JetBlue is not responsible for the privacy policies or practices of third parties. Please see the section <a href="#p7"><em>Does this policy cover third party services linked from the JetBlue Online Services?</em></a> below for more information.</p>
+            <h2 name="p3" tabindex="0" id="p3">What information is collected from children?</h2><br>
+                    <p class="alpha">JetBlue’s Online Services are targeted to a general audience. JetBlue does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever. If a child provides us with personally identifiable information, a parent or legal guardian of that child may contact us to obtain that information and/or delete it from our records by sending an e-mail to privacy@jetblue.com, calling 1-801-365-2470 or by writing to:</p>
                       <blockquote>
                         <!-- mp_trans_disable_start -->
                         JetBlue Airways Corporation<br>
@@ -547,10 +597,10 @@ padding-left: 20px;
                         Salt Lake City, UT  84117-0435
                         <!-- mp_trans_disable_end -->
                       </blockquote>
-                      <p> <a name="p4" style="color:#000000;"></a>
-                      <strong>How is the information collected online protected?</strong><br>We take reasonable precautions to keep all information obtained in connection with the JetBlue Online Services secure against unauthorized access and use, and we periodically review our security measures. When you affirmatively provide us with information such as your name, address, phone number, credit card information, travel details, etc. while registering with TrueBlue or making a reservation or engaging with a feature of the JetBlue Online Services, your information is encrypted and transferred over a secure connection, available on most internet browsers. You can tell if you are accessing a secure server when the padlock icon found in most browsers appears locked and the first characters of the JetBlue Online Service address change from "http" to "https." Please note that if you provide information outside of a secure server, JetBlue cannot guarantee that information is protected with appropriate safeguards. For example, do not use e-mail to send us credit card, billing or other personally identifiable information, as e-mail travels unencrypted and can be read by anyone who receives or intercepts it. Once your information reaches us, we store it behind a firewall, which is a security feature that is designed to block access to the information from outside of our network. Only JetBlue-authorized individuals and our approved third-party companies described in this policy are allowed to access your information.</p>
-                      <p> <a name="p5" style="color:#000000;"></a>
-                      <strong>How can you access your information?</strong><br> You can access and edit certain personally identifiable information you've provided to us by logging in to your TrueBlue Account and clicking on "Contact Information" or "Log In Information." All other requests for access to your personally identifiable information may be made by calling 1-801-365-2470 or writing to:</p>
+                     <h2 name="p4" taindex="0" id="p4">How is the information collected online protected?</h2>
+                     <p class="alpha">We take reasonable precautions to keep all information obtained in connection with the JetBlue Online Services secure against unauthorized access and use, and we periodically review our security measures. When you affirmatively provide us with information such as your name, address, phone number, credit card information, travel details, etc. while registering with TrueBlue or making a reservation or engaging with a feature of the JetBlue Online Services, your information is encrypted and transferred over a secure connection, available on most internet browsers. You can tell if you are accessing a secure server when the padlock icon found in most browsers appears locked and the first characters of the JetBlue Online Service address change from "http" to "https." Please note that if you provide information outside of a secure server, JetBlue cannot guarantee that information is protected with appropriate safeguards. For example, do not use e-mail to send us credit card, billing or other personally identifiable information, as e-mail travels unencrypted and can be read by anyone who receives or intercepts it. Once your information reaches us, we store it behind a firewall, which is a security feature that is designed to block access to the information from outside of our network. Only JetBlue-authorized individuals and our approved third-party companies described in this policy are allowed to access your information.</p>
+                      <h2 name="p5" id="p5" tabindex="0">How can you access your information?</h2>
+                      <p>You can access and edit certain personally identifiable information you've provided to us by logging in to your TrueBlue Account and clicking on "Contact Information" or "Log In Information." All other requests for access to your personally identifiable information may be made by calling 1-801-365-2470 or writing to:</p>
                       <blockquote>
                         <!-- mp_trans_disable_start -->
                         JetBlue Airways Corporation<br>
@@ -559,20 +609,16 @@ padding-left: 20px;
                         Salt Lake City, UT  84117-0435
                         <!-- mp_trans_disable_end -->
                       </blockquote>
-                      <p> <a name="p6" style="color:#000000;"></a>
-                      <strong>How can you opt out of e-mail and text message marketing communications from us?</strong><br>We respect your right to control what kinds of emails show up in your inbox. If you do not wish to receive e-mail communications about special offers or programs or other information we think you may be interested in, you can opt out by emailing us at privacy@jetblue.com or by clicking on a link provided at the bottom of the e-mail communication. You can opt-out of any SMS messages by texting STOP in response to our message.</p>
-                      <p> <a name="p7" style="color:#000000;"></a>
-                      <strong>Does this policy cover third party services linked from the JetBlue Online Services?</strong><br>In order to assist you and provide you as much information as possible, the JetBlue Online Services contain links to other services, including those that offer ancillary travel services, map functionality, and branded or co-branded JetBlue merchandise and offers. This policy applies only to JetBlue Online Services that have a link to this policy, including jetblue.com. Sites and services that are not owned, operated and/or controlled by JetBlue are not covered by this privacy policy, and we are not responsible for the privacy practices or privacy policies of these other sites or services.</p>
-                      <p> <a name="p11" style="color:#000000;"></a>
-                      <strong>Why am I asked to provide certain information for TSA watchlist screening, and how is this data used?</strong><br>The Transportation Security Administration (TSA) screens all commercial airline customers and baggage.  As part of TSA’s mission to secure airports in the United States, TSA requires you to provide certain information, such as your full name, date of birth, and gender, for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, gender or any other information required by TSA may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at <a href="http://www.tsa.gov" target="_blank" alt="Link will open a new window" alt-modified="true">www.tsa.gov</a>.</p>
-                      <p> <a name="p7b" style="color:#000000;"></a>
-                      <strong>In the event of a corporate change in control, what happens?</strong><br>Should there be a corporate change in control, through merger, acquisition or bankruptcy, we reserve the right to transfer any information collected from you to the new party in control of JetBlue.</p>
-                      <p> <a name="p8" style="color:#000000;"></a>
-                      <strong>What about changes to the privacy policy?</strong><br>By using the JetBlue Online Services, you consent to the collection, storage and use of your information as described in this policy. We reserve the right to modify this privacy policy in our sole discretion, at any time, in whole or in part, and related business practices at any time, without notice or liability to you, by posting updated text on this site. Please review these terms and conditions periodically to ensure you are aware of any changes and are familiar with the most current version of these terms.</p>
-                      <p> <a name="p9" style="color:#000000;"></a>
-                      <strong>What if I have questions or concerns?</strong><br>If you have any questions about this privacy policy or JetBlue's privacy practices, please contact us at privacy@jetblue.com.</p>
-                      <p> <a name="p10" style="color:#000000;"></a>
-                      <strong>Note to users in European Union and other countries with data protection laws:</strong><br>JetBlue is committed to protecting personal data to the fullest extent of its Privacy Policy. Because JetBlue is based in the U.S. with many flights in or to the U.S., this policy is consistent with U.S. law and practice. You hereby consent to your information being collected and used consistent with this policy. You understand your information will be stored and processed in the US.</p>
+                      <h2 name="p6" id="p6" tabindex="0">How can you opt out of e-mail and text message marketing communications from us?</h2>
+                      <p class="alpha">We respect your right to control what kinds of emails show up in your inbox. If you do not wish to receive e-mail communications about special offers or programs or other information we think you may be interested in, you can opt out by emailing us at privacy@jetblue.com or by clicking on a link provided at the bottom of the e-mail communication. You can opt-out of any SMS messages by texting STOP in response to our message.</p>
+                     <h2 name="p7" id="p7" tabindex="0">Does this policy cover third party services linked from the JetBlue Online Services?</h2>
+                     <p class="alpha">In order to assist you and provide you as much information as possible, the JetBlue Online Services contain links to other services, including those that offer ancillary travel services, map functionality, and branded or co-branded JetBlue merchandise and offers. This policy applies only to JetBlue Online Services that have a link to this policy, including jetblue.com. Sites and services that are not owned, operated and/or controlled by JetBlue are not covered by this privacy policy, and we are not responsible for the privacy practices or privacy policies of these other sites or services.</p>
+                     <h2 name="p11" id="p11" tabindex="0"> Why am I asked to provide certain information for TSA watchlist screening, and how is this data used?</h2><p class="alpha">The Transportation Security Administration (TSA) screens all commercial airline customers and baggage.  As part of TSA’s mission to secure airports in the United States, TSA requires you to provide certain information, such as your full name, date of birth, and gender, for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, gender or any other information required by TSA may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the <a href="http://www.tsa.gov" target="_blank">TSA web site at www.tsa.gov<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></a>.</p>
+                     <h2 name="p7b" id="p7b" tabindex="0">In the event of a corporate change in control, what happens?</h2>
+                     <p class="alpha"> Should there be a corporate change in control, through merger, acquisition or bankruptcy, we reserve the right to transfer any information collected from you to the new party in control of JetBlue.</p>
+                      <h2 name="p8" id="p8" tabindex="0">What about changes to the privacy policy?</h2><br><p class="alpha"> By using the JetBlue Online Services, you consent to the collection, storage and use of your information as described in this policy. We reserve the right to modify this privacy policy in our sole discretion, at any time, in whole or in part, and related business practices at any time, without notice or liability to you, by posting updated text on this site. Please review these terms and conditions periodically to ensure you are aware of any changes and are familiar with the most current version of these terms.</p>
+                       <h2 name="p9" id="p9" tabindex="0">What if I have questions or concerns?</h2><br><p class="alpha">If you have any questions about this privacy policy or JetBlue's privacy practices, please contact us at privacy@jetblue.com.</p>
+                      <h2 name="p10" id="p10" tabindex="0">Note to users in European Union and other countries with data protection laws:</h2><br><p class="alpha">JetBlue is committed to protecting personal data to the fullest extent of its Privacy Policy. Because JetBlue is based in the U.S. with many flights in or to the U.S., this policy is consistent with U.S. law and practice. You hereby consent to your information being collected and used consistent with this policy. You understand your information will be stored and processed in the US.</p>
                       <p><em>Last updated October 14, 2013<br>
                       Effective since January 28, 2004</em></p>
           
@@ -591,12 +637,13 @@ padding-left: 20px;
                     <div class="media">
                         <div class="app-wrap">
     <div class="media">
-        <div class="img"><a href="/mobile/iphone/appdownload/" target="_blank" alt="Link will open a new window" alt-modified="true"><img src="/img/jbapp-icon.png?v=1" title="JetBlue app icon" border="0"></a></div>
+        <div class="img"><a href="//www2.jetblue.com/mobile/iphone/appdownload/" target="_blank"><img src="//www2.jetblue.com/img/jbapp-icon.png?v=1" alt="" title="JetBlue app icon" border="0"></a></div>
         <div class="inner-media">
             <p class="hd"><strong>Same smart app. More smartphones.</strong><span class="fine-print"><a href="/mobile/">Download the JetBlue mobile app for iPhone and Android now!</a></span></p>
         </div>
     </div>
 </div>
+
                     </div>
                 </div>
                 <!-- /.app-wrap -->
@@ -618,20 +665,21 @@ padding-left: 20px;
         </div>
         <!-- /.header-wrap -->
         <div class="body-wrap clearfix">
-            <div class="social-wrap clearfix">
+            <!-- new social media footer aspx -->
+<div class="social-wrap clearfix">
                 <ul>
 					<li class="btblog">
                         <div class="inner-media">
                             <a href="http://blog.jetblue.com" target="_blank">
-                                <img src="/img/blogicon.png" alt="">Blog<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+                                <img src="//www2.jetblue.com/img/blogicon.png" alt="">Blog<img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt="opens in a new window">
                             </a>
                             <span>&nbsp;Your destination for JetBlue inspiration and beyond. <p>&nbsp;</p></span>
                         </div>
                     </li>
                     <li class="soflyFooter">
                         <div class="inner-media">
-							<a href="/Sofly/">
-                                <img src="/img/soflybubbleicon.png" alt=""><span>SoFly <span class="jbSocialBlueTMMasterFooter">™  </span></span>
+							<a href="//www.jetblue.com/sofly-photos/">
+                                <img src="//www2.jetblue.com/img/soflybubbleicon.png" alt=""><span>SoFly <span class="jbSocialBlueTMMasterFooter">™  </span></span>
                             </a>
 							<span>
                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View and share JetBlue pics and travel tricks&nbsp;								
@@ -642,38 +690,39 @@ padding-left: 20px;
                    
                     <li class="facebook">
                         <div class="inner-media">
-                            <a href="http://www.facebook.com/JetBlue" target="_blank">
-                                <img src="/img/facebookicon.png" alt="">Like us on Facebook<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+                            <a href="//www.facebook.com/JetBlue" target="_blank">
+                                <img src="//www2.jetblue.com/img/facebookicon.png" alt="">Like us on Facebook<img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt="opens in a new window">
                             </a>
-                            <span>&nbsp;1,160,221&nbsp;like this</span>
+                            <span>&nbsp;1,234,432&nbsp;like this</span>
                         </div>
                     </li>
                     <li class="twitter">
                         <div class="inner-media">
-                            <a href="http://twitter.com/jetblue" target="_blank">
-                                <img src="/img/twittericon.png" alt="">Follow us at @JetBlue<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+                            <a href="//twitter.com/jetblue" target="_blank">
+                                <img src="//www2.jetblue.com/img/twittericon.png" alt="">Follow us at @JetBlue<img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt="opens in a new window">
                             </a>
-                            <span>&nbsp;2,021,157&nbsp;followers</span>
+                            <span>&nbsp;2,064,742&nbsp;followers</span>
                         </div>
                     </li>
 					<li class="instagram">
 						<div class="inner-media">
-							<a href="http://www.instagram.com/jetblue" target="_blank">
-								<img src="/img/instagramicon.png" alt="">Follow us on Instagram<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+							<a href="//www.instagram.com/jetblue" target="_blank">
+								<img src="//www2.jetblue.com/img/InstagramIcon4.jpg" alt="">Follow us on Instagram<img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt="opens in a new window">
 							</a>
-                            <span>&nbsp;160,180&nbsp;followers</span>
+                            <span>&nbsp;206,680&nbsp;followers</span>
 						</div>
 					</li>
                     <li class="youtube">
                         <div class="inner-media">
-                            <a href="http://www.youtube.com/jetblue" target="_blank">
-                                <img src="/img/youtubeicon.png" alt="">Visit us on YouTube<img src="/img/new-window-icon.png" class="new-window" alt="opens in a new window">
+                            <a href="//www.youtube.com/user/jetblue" target="_blank">
+                                <img src="//www2.jetblue.com/img/youtubeicon.png" alt="">Visit us on YouTube<img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt="opens in a new window">
                             </a>
-                            <span>&nbsp;13,449,499&nbsp;total views</span>
+                            <span>&nbsp;15,050,185&nbsp;total views</span>
                         </div>
                     </li>
                 </ul>
-            </div><div class="sitemap-wrap">
+            </div>
+<div class="sitemap-wrap">
                 <ul>
                     <li class="list-head">Get to know us</li>
                     <li><a href="/about/">About us</a></li>
@@ -690,13 +739,15 @@ padding-left: 20px;
                 <ul>
                     <li class="list-head">Services</li>
                     <li><a href="/airline-partners/">Partner airlines</a></li>
-                    <li><a href="/vacations/">Getaways</a></li>
+                    <li><a href="/vacations/">JetBlue Vacations</a></li>
                     <li><a href="/corporate/">Corporate</a></li>
                     <li><a href="/travel-agents/">Travel agents</a></li>
-                    <li><a href="/travel/special-needs/">Special assistance</a></li>
+                    <li><a href="/travel/special-assistance/">Special assistance</a></li>
 					<li><a href="/travel-insurance/">Travel Insurance</a></li>
 					<li><a href="/traveldeals/veterans-discount/">Veterans Advantage</a></li>
 					<li><a href="/contact-us/receipt/">Request a receipt</a></li>
+					<li><a href="/travel/optiontown/">Flexibility reward option</a></li>
+
                 </ul>
                 <!-- /Services -->
                 <ul class="last">
@@ -712,10 +763,13 @@ padding-left: 20px;
 				</ul>
                 <!-- /Talk to us -->
             </div>
+
+            <p style="font-size:1.1rem;float:left;margin-top:30px;"><img src="//www2.jetblue.com/img/new-window-icon.png" class="new-window" alt=", link opens in a new window operated by external parties and may not conform to the same accessibility policies as JetBlue"> Indicates link opens an external site and may not conform to the same accessibility policies as JetBlue.</p>
             <!-- /.sitemap-wrap -->
             <div id="getaways-cities-list" class="hide-cities clearfix">
                 <div class="getaways-cities-wrap">
-                    <p><strong>Top JetBlue Getaways vacation packages:</strong> <a href="/vacations/aruba-vacations/?intcmp=jb_footer" data-city="AUA">Aruba</a> | <a href="/vacations/barbados-vacations/?intcmp=jb_footer" data-city="BGI">Barbados</a> | <a href="/vacations/bermuda-vacations/?intcmp=jb_footer" data-city="BDA">Bermuda</a> | <a href="/vacations/cancun-vacations/?intcmp=jb_footer" data-city="CUN">Cancun, Mexico</a> | <a href="/vacations/curacao-vacations/?intcmp=jb_footer" data-city="CUR">Curacao</a> | <a href="/vacations/dominican-republic-vacations/?intcmp=jb_footer">Dominican Republic</a> | <a href="/vacations/fort-lauderdale-vacations/?intcmp=jb_footer" data-city="FLL XFL">Fort Lauderdale</a> | <a href="/vacations/grand-cayman-vacations/?intcmp=jb_footer" data-city="GCM">Grand Cayman</a> | <a href="/vacations/jamaica-vacations/?intcmp=jb_footer" data-city="MBJ">Jamaica</a> | <a href="/vacations/liberia-costa-rica-vacations/?intcmp=jb_footer" data-city="LIR">Liberia, Costa Rica</a> | <a href="/vacations/miami-vacations/" data-city="FLL">Miami</a> | <a href="/vacations/bahamas-vacations/?intcmp=jb_footer" data-city="NAS">Nassau, Bahamas</a> | <a href="/vacations/new-york-city-vacations/?intcmp=jb_footer" data-city="JFK LGA EWR HPN SWF NYC">New York City</a> | <a href="/vacations/puerto-rico-vacations/?intcmp=jb_footer" data-city="SJU PSE BQN">Puerto Rico</a> | <a href="/vacations/st-lucia-vacations/?intcmp=jb_footer" data-city="UVF">St. Lucia</a> | <a href="/vacations/turks-caicos-vacations/?intcmp=jb_footer" data-city="PLS">Turks &amp; Caicos</a> | <a href="/vacations/walt-disney-world-vacations/?intcmp=jb_footer" data-city="MCO"><em>Walt Disney World®</em> Resort</a><span class="show-more"><a href="/vacations/aguadilla-vacations/?intcmp=jb_footer" data-city="BQN">Aguadilla, Puerto Rico</a> | <a href="/vacations/albuquerque-vacations/?intcmp=jb_footer" data-city="ABQ">Albuquerque</a> | <a href="/vacations/disneyland-vacations/?intcmp=jb_footer" data-city="LGB ZLA">Anaheim / Disneyland® Resort</a> | <a href="/vacations/bogota-colombia-vacations/?intcmp=jb_footer" data-city="BOG">Bogotá, Colombia</a> | <a href="/vacations/boston-vacations/?intcmp=jb_footer" data-city="BOS XBO">Boston</a> | <a href="/vacations/riviera-maya-vacations/?intcmp=jb_footer" data-city="CUN">Cancun Riviera Maya</a> | <a href="/vacations/cartagena-vacations/?intcmp=jb_footer" data-city="CTG">Cartagena, Colombia</a> | <a href="/vacations/charleston-vacations/?intcmp=jb_footer" data-city="CHS">Charleston</a> | <a href="/vacations/fort-myers-vacations/?intcmp=jb_footer" data-city="RSW">Fort Myers</a> | <a href="/vacations/grenada-vacations/?intcmp=jb_footer" data-city="GND">Grenada</a> | <a href="/vacations/hilton-head-vacations/?intcmp=jb_footer" data-city="SAV">Hilton Head, SC</a> |<a href="/vacations/los-angeles-vacations/?intcmp=jb_footer" data-city="LAX ZLA">LA / Hollywood</a> | <a href="/vacations/la-romana-vacations/?intcmp=jb_footer" data-city="LRM XDR">La Romana, Dominican Republic</a> | <a href="/vacations/las-vegas-vacations/?intcmp=jb_footer" data-city="LAS">Las Vegas</a> | <a href="/vacations/new-orleans-vacations/?intcmp=jb_footer" data-city="MSY">New Orleans</a> | <a href="/vacations/orlando-vacations/?intcmp=jb_footer" data-city="MCO">Orlando</a> | <a href="/vacations/phoenix-vacations/?intcmp=jb_footer" data-city="PHX">Phoenix</a> | <a href="/vacations/ponce-vacations/?intcmp=jb_footer" data-city="PSE">Poncé, Puerto Rico</a> | <a href="/vacations/puerto-plata-vacations/?intcmp=jb_footer" data-city="POP">Puerto Plata, Dominican Republic</a> | <a href="/vacations/punta-cana-vacations/?intcmp=jb_footer" data-city="PUJ">Punta Cana, Dominican Republic</a> | <a href="/vacations/reno-tahoe-vacations/?intcmp=jb_footer" data-city="RNO">Reno / Lake Tahoe</a> | <a href="/vacations/st-croix-vacations/?intcmp=jb_footer" data-city="STX">Saint Croix</a> | <a href="/vacations/st-maarten-vacations/?intcmp=jb_footer" data-city="SXM">Saint Martin</a> | <a href="/vacations/st-thomas-vacations/?intcmp=jb_footer" data-city="STT">St. Thomas / St. John</a> | <a href="/vacations/salt-lake-park-city-vacations/?intcmp=jb_footer" data-city="SLC">Salt Lake/Park City</a> | <a href="/vacations/san-diego-vacations/?intcmp=jb_footer" data-city="SAN">San Diego</a> | <a href="/vacations/san-francisco-vacations/?intcmp=jb_footer" data-city="SFO XSF">San Francisco</a> | <a href="/vacations/costa-rica-vacations/" data-city="SJO">San José, Costa Rica</a> | <a href="/vacations/san-juan-vacations/?intcmp=jb_footer" data-city="SJU">San Juan, Puerto Rico</a> | <a href="/vacations/santo-domingo-vacations/?intcmp=jb_footer" data-city="SDQ XDR">Santo Domingo, Dominican Republic</a> | <a href="/vacations/sarasota-vacations/?intcmp=jb_footer" data-city="SRQ">Sarasota</a> | <a href="/vacations/savannah-georgia-vacations/?intcmp=jb_footer" data-city="SAV">Savannah</a> | <a href="/vacations/st-pete-clearwater-vacations/?intcmp=jb_footer" data-city="TPA">St. Pete / Clearwater</a> | <a href="/vacations/west-palm-beach-vacations/?intcmp=jb_footer" data-city="PBI XFL">West Palm Beach</a><br><strong>Travel ideas:</strong> <a href="/vacations/adventure/?id=1&amp;intcmp=jb_footer">Adventure</a> | <a href="/vacations/all-inclusive/?id=2&amp;intcmp=jb_footer">All Inclusive</a> | <a href="/vacations/budget-travel/?id=3&amp;intcmp=jb_footer">Budget</a> | <a href="/vacations/family/?id=4&amp;intcmp=jb_footer">Family</a> | <a href="/vacations/girlfriend-getaways/?id=5&amp;intcmp=jb_footer">Girlfriend Getaways</a> | <a href="/vacations/golf/?id=6&amp;intcmp=jb_footer">Golf</a> | <a href="/vacations/Honeymoons-and-babymoons/?id=7&amp;intcmp=jb_footer">Honeymoon &amp; Babymoons</a> | <a href="/vacations/luxury/?id=8&amp;intcmp=jb_footer">Luxury</a> | <a href="/vacations/Romance/?id=9&amp;intcmp=jb_footer">Romance</a> | <a href="/vacations/Spa/?id=10&amp;intcmp=jb_footer">Spa</a></span></p>
+                    <!-- new vacations city aspx -->
+<p><strong>Top JetBlue Vacations packages:</strong> <a href="//www2.jetblue.com/vacations/aruba-vacations/?intcmp=jb_footer" data-city="AUA">Aruba</a> | <a href="//www2.jetblue.com/vacations/barbados-vacations/?intcmp=jb_footer" data-city="BGI">Barbados</a> | <a href="//www2.jetblue.com/vacations/bermuda-vacations/?intcmp=jb_footer" data-city="BDA">Bermuda</a> | <a href="//www2.jetblue.com/vacations/cancun-vacations/?intcmp=jb_footer" data-city="CUN">Cancun, Mexico</a> | <a href="//www2.jetblue.com/vacations/curacao-vacations/?intcmp=jb_footer" data-city="CUR">Curacao</a> | <a href="//www2.jetblue.com/vacations/dominican-republic-vacations/?intcmp=jb_footer">Dominican Republic</a> | <a href="//www2.jetblue.com/vacations/fort-lauderdale-vacations/?intcmp=jb_footer" data-city="FLL XFL">Fort Lauderdale</a> | <a href="//www2.jetblue.com/vacations/grand-cayman-vacations/?intcmp=jb_footer" data-city="GCM">Grand Cayman</a> | <a href="//www2.jetblue.com/vacations/jamaica-vacations/?intcmp=jb_footer" data-city="MBJ">Jamaica</a> | <a href="//www2.jetblue.com/vacations/liberia-costa-rica-vacations/?intcmp=jb_footer" data-city="LIR">Liberia, Costa Rica</a> | <a href="//www2.jetblue.com/vacations/miami-vacations/" data-city="FLL">Miami</a> | <a href="//www2.jetblue.com/vacations/bahamas-vacations/?intcmp=jb_footer" data-city="NAS">Nassau, Bahamas</a> | <a href="//www2.jetblue.com/vacations/new-york-city-vacations/?intcmp=jb_footer" data-city="JFK LGA EWR HPN SWF NYC">New York City</a> | <a href="//www2.jetblue.com/vacations/puerto-rico-vacations/?intcmp=jb_footer" data-city="SJU PSE BQN">Puerto Rico</a> | <a href="//www2.jetblue.com/vacations/st-lucia-vacations/?intcmp=jb_footer" data-city="UVF">St. Lucia</a> | <a href="//www2.jetblue.com/vacations/turks-caicos-vacations/?intcmp=jb_footer" data-city="PLS">Turks &amp; Caicos</a> | <a href="//www2.jetblue.com/vacations/walt-disney-world-vacations/?intcmp=jb_footer" data-city="MCO"><em>Walt Disney World®</em> Resort</a><span class="show-more"><a href="//www2.jetblue.com/vacations/aguadilla-vacations/?intcmp=jb_footer" data-city="BQN">Aguadilla, Puerto Rico</a> | <a href="//www2.jetblue.com/vacations/albuquerque-vacations/?intcmp=jb_footer" data-city="ABQ">Albuquerque</a> | <a href="//www2.jetblue.com/vacations/disneyland-vacations/?intcmp=jb_footer" data-city="LGB ZLA">Anaheim / Disneyland® Resort</a> | <a href="//www2.jetblue.com/vacations/bogota-colombia-vacations/?intcmp=jb_footer" data-city="BOG">Bogotá, Colombia</a> | <a href="//www2.jetblue.com/vacations/boston-vacations/?intcmp=jb_footer" data-city="BOS XBO">Boston</a> | <a href="//www2.jetblue.com/vacations/riviera-maya-vacations/?intcmp=jb_footer" data-city="CUN">Cancun Riviera Maya</a> | <a href="//www2.jetblue.com/vacations/cartagena-vacations/?intcmp=jb_footer" data-city="CTG">Cartagena, Colombia</a> | <a href="//www2.jetblue.com/vacations/charleston-vacations/?intcmp=jb_footer" data-city="CHS">Charleston</a> | <a href="//www2.jetblue.com/vacations/fort-myers-vacations/?intcmp=jb_footer" data-city="RSW">Fort Myers</a> | <a href="//www2.jetblue.com/vacations/grenada-vacations/?intcmp=jb_footer" data-city="GND">Grenada</a> | <a href="//www2.jetblue.com/vacations/hilton-head-vacations/?intcmp=jb_footer" data-city="SAV">Hilton Head, SC</a> |<a href="//www2.jetblue.com/vacations/los-angeles-vacations/?intcmp=jb_footer" data-city="LAX ZLA">LA / Hollywood</a> | <a href="//www2.jetblue.com/vacations/la-romana-vacations/?intcmp=jb_footer" data-city="LRM XDR">La Romana, Dominican Republic</a> | <a href="//www2.jetblue.com/vacations/las-vegas-vacations/?intcmp=jb_footer" data-city="LAS">Las Vegas</a> | <a href="//www2.jetblue.com/vacations/new-orleans-vacations/?intcmp=jb_footer" data-city="MSY">New Orleans</a> | <a href="//www2.jetblue.com/vacations/orlando-vacations/?intcmp=jb_footer" data-city="MCO">Orlando</a> | <a href="//www2.jetblue.com/vacations/phoenix-vacations/?intcmp=jb_footer" data-city="PHX">Phoenix</a> | <a href="//www2.jetblue.com/vacations/ponce-vacations/?intcmp=jb_footer" data-city="PSE">Poncé, Puerto Rico</a> | <a href="//www2.jetblue.com/vacations/puerto-plata-vacations/?intcmp=jb_footer" data-city="POP">Puerto Plata, Dominican Republic</a> | <a href="//www2.jetblue.com/vacations/punta-cana-vacations/?intcmp=jb_footer" data-city="PUJ">Punta Cana, Dominican Republic</a> | <a href="//www2.jetblue.com/vacations/reno-tahoe-vacations/?intcmp=jb_footer" data-city="RNO">Reno / Lake Tahoe</a> | <a href="//www2.jetblue.com/vacations/st-croix-vacations/?intcmp=jb_footer" data-city="STX">Saint Croix</a> | <a href="//www2.jetblue.com/vacations/st-maarten-vacations/?intcmp=jb_footer" data-city="SXM">Saint Martin</a> | <a href="//www2.jetblue.com/vacations/st-thomas-vacations/?intcmp=jb_footer" data-city="STT">St. Thomas / St. John</a> | <a href="//www2.jetblue.com/vacations/salt-lake-park-city-vacations/?intcmp=jb_footer" data-city="SLC">Salt Lake/Park City</a> | <a href="//www2.jetblue.com/vacations/san-diego-vacations/?intcmp=jb_footer" data-city="SAN">San Diego</a> | <a href="//www2.jetblue.com/vacations/san-francisco-vacations/?intcmp=jb_footer" data-city="SFO XSF">San Francisco</a> | <a href="//www2.jetblue.com/vacations/costa-rica-vacations/" data-city="SJO">San José, Costa Rica</a> | <a href="//www2.jetblue.com/vacations/san-juan-vacations/?intcmp=jb_footer" data-city="SJU">San Juan, Puerto Rico</a> | <a href="//www2.jetblue.com/vacations/santo-domingo-vacations/?intcmp=jb_footer" data-city="SDQ XDR">Santo Domingo, Dominican Republic</a> | <a href="//www2.jetblue.com/vacations/sarasota-vacations/?intcmp=jb_footer" data-city="SRQ">Sarasota</a> | <a href="//www2.jetblue.com/vacations/savannah-georgia-vacations/?intcmp=jb_footer" data-city="SAV">Savannah</a> | <a href="//www2.jetblue.com/vacations/st-pete-clearwater-vacations/?intcmp=jb_footer" data-city="TPA">St. Pete / Clearwater</a> | <a href="//www2.jetblue.com/vacations/west-palm-beach-vacations/?intcmp=jb_footer" data-city="PBI XFL">West Palm Beach</a><br><strong>Travel ideas:</strong> <a href="//www2.jetblue.com/vacations/adventure/?id=1&amp;intcmp=jb_footer">Adventure</a> | <a href="//www2.jetblue.com/vacations/all-inclusive/?id=2&amp;intcmp=jb_footer">All Inclusive</a> | <a href="//www2.jetblue.com/vacations/budget-travel/?id=3&amp;intcmp=jb_footer">Budget</a> | <a href="//www2.jetblue.com/vacations/family/?id=4&amp;intcmp=jb_footer">Family</a> | <a href="//www2.jetblue.com/vacations/girlfriend-getaways/?id=5&amp;intcmp=jb_footer">Girlfriend Getaways</a> | <a href="//www2.jetblue.com/vacations/golf/?id=6&amp;intcmp=jb_footer">Golf</a> | <a href="//www2.jetblue.com/vacations/Honeymoons-and-babymoons/?id=7&amp;intcmp=jb_footer">Honeymoon &amp; Babymoons</a> | <a href="//www2.jetblue.com/vacations/luxury/?id=8&amp;intcmp=jb_footer">Luxury</a> | <a href="//www2.jetblue.com/vacations/Romance/?id=9&amp;intcmp=jb_footer">Romance</a> | <a href="//www2.jetblue.com/vacations/Spa/?id=10&amp;intcmp=jb_footer">Spa</a><br><strong>Flights and travel information:</strong> <a href="/destinations/fort-lauderdale/?intcmp=jb_footer">Fort Lauderdale</a> | <a href="/destinations/orlando/?intcmp=jb_footer">Orlando</a></span></p>
                     <a id="city-expander" href="javascript:void(0);"><p class="expander">
                         <span>Show more cities</span> &nbsp;<img class="down-icon" src="/img/getaway-cities-list-arrow.jpg" alt="" width="7" height="8"><img class="up-icon" src="/img/getaway-cities-list-arrow-up.jpg" alt="" width="7" height="8"></p></a>
                 </div>
@@ -725,11 +779,11 @@ padding-left: 20px;
         <div class="footer-wrap">
             <span class="fine-print">
                 <script type="text/javascript">
-				<!--
+                <!--
                     var copyrightcurrentTime = new Date()
                     var copyrightyear = copyrightcurrentTime.getFullYear()
                     document.write("&copy;" + copyrightyear + " JetBlue Airways")
-				//-->
+                //-->
                 </script>©2020 JetBlue Airways
             </span>
         </div>
@@ -752,38 +806,38 @@ padding-left: 20px;
     <script src="/js/src/JB.Helper.js?v=1.4.6"></script>
     <script src="/js/src/JB.Model.js?v=1.0.0"></script>
     <script src="/js/vendor/jquery.cookie.js?v=1.0"></script>
-	
+    
     <script src="/js/geolocation/geoLocation_main.js" defer=""></script>
 
     <script src="/js/src/JB.Class.TrueBlue.js?v=1.0"></script>
 
     <!-- end scripts-->
     <!--
-	<script>
-		$(function() {
-			$('#calendar-wrap').datepicker({
-				numberOfMonths: 2,
-				dayNamesMin: ['S', 'M', 'T', 'W', 'T', 'F', 'S'],
-				minDate: new Date(),
-				maxDate: new Date(2012, 4 - 1, 30)
-			});
-		});
-	</script>
+    <script>
+        $(function() {
+            $('#calendar-wrap').datepicker({
+                numberOfMonths: 2,
+                dayNamesMin: ['S', 'M', 'T', 'W', 'T', 'F', 'S'],
+                minDate: new Date(),
+                maxDate: new Date(2012, 4 - 1, 30)
+            });
+        });
+    </script>
 -->
     <!--[if lt IE 7 ]>
-	<script src="/js/libs/dd_belatedpng.js"></script>
-	<script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
-	<![endif]-->
+    <script src="/js/libs/dd_belatedpng.js"></script>
+    <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
     <!--[if lt IE 7 ]>
-	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
-	<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
-	<![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+    <![endif]-->
     <!-- <script> // Change UA-XXXXX-X to be your site's ID
-		window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
-		Modernizr.load({
-		  load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
-		});
-	</script> -->
+        window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
+        Modernizr.load({
+          load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+        });
+    </script> -->
     <!-- OMNITURE TRAILER CODE STARTS HERE | OMNITURE TRAILER CODE STARTS HERE | OMNITURE TRAILER CODE STARTS HERE -->
     <script language="JavaScript">
         if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
@@ -804,12 +858,17 @@ padding-left: 20px;
   <!--Add content to the end of the footer-->
   <!--omniture tag--->
   <script language="JavaScript">
+  $('#skipToMainContentLink').keydown(function() {
+        $(".sticky-nav-wrapper").focus(); 
+  }
+
     <!--
     s.pageName="JetBlue:Legal:Passenger Service Plan"
     var s_code=s.t();
     if(s_code)document.write(s_code)//--></script>
   <!--/omniture tag--->
 
+    <script type="text/javascript" src="/includes/ieUpgrade/IE-overlay.js?2"></script>
     <script src="/js/src/JB.Global.js?v=1.5"></script>
     <script src="/js/src/JB.Subpages.js"></script>
     <script type="text/javascript" id="mpelid" src="//hola.jetblue.com/mpel/mpel.js"></script>
