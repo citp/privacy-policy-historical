@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051600id_/https%3A//www.newscientist.com/in9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042739id_/https%3A//www.newscientist.com/in9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | New Scientist
 
