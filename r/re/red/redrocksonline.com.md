@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223735id_/http%3A//redrocksonline.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrocksonline.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229174825id_/http%3A//redrocksonline.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Red Rocks Entertainment Concerts | Info | Privacy Policy
 
@@ -29,4 +29,4 @@ As a governmental agency, we are governed by open records laws. Any information 
 
 This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
-Visit the [Denvergov.org privacy policy.](http://www.denvergov.org/SitePolicies/tabid/367682/Default.aspx)
+Visit the [Denvergov.org privacy policy](https://www.denvergov.org/content/denvergov/en/city-of-denver-home/privacy-policy.html)[.](http://www.denvergov.org/SitePolicies/tabid/367682/Default.aspx)
