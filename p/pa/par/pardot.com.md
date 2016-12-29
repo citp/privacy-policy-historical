@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053550id_/http%3A//www.pardot.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardot.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050908id_/http%3A//www.pardot.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pardot
 
@@ -76,10 +76,12 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites.
 
-### (10) Safe Harbor
+### (10) Privacy Shield and Safe Harbor
 
-Pardot complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Pardot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Pardot’s certification, please visit http://www.export.gov/safeharbor/.
+​Pardot’s products are certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. To view a description of how Pardot complies with the Privacy Shield Principles, please visit <http://www.salesforce.com/assets/pdf/misc/privacy-shield-notice.pdf>. For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at <https://www.privacyshield.gov/welcome>.
+
+Pardot also abides by the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. Pardot has certified that it adheres to the Safe Harbor Principles. For more information on the U.S.-Swiss Safe Harbor Framework, including the Safe Harbor Principles, and to view the scope of Pardot’s certification, please visit <http://www.export.gov/safeharbor/>. As part of our participation in this Safe Harbor Framework, we have agreed to dispute resolution by TRUSTe for disputes relating to our compliance. If you have any questions or complaints regarding our compliance with the U.S.-SwissSafe Harbor Framework, [please contact us here](https://www.salesforce.com/form/contact/contact-privacy.jsp). If contacting us does not resolve the issue, you may raise the issue with TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ### (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to legal (at) pardot.com or by post to Pardot LLC, 950 East Paces Ferry Rd, Suite 3300, Atlanta, GA 30326.
+Questions about this privacy policy or the information practices of this website should be directed to salesforce.com Privacy by clicking [here](https://www.salesforce.com/form/contact/contact-privacy.jsp) or by mailing Pardot Privacy c/o salesforce.com, The Landmark @ One Market Street, Suite 300, San Francisco, CA 94105.
