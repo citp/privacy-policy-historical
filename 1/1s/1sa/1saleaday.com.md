@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054750id_/http%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045501id_/http%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
 
 # 1Sale: Online Coupon Codes, Daily Deals, Black Friday Deals, Coupons, Promo Codes, Discounts | Privacy Policy
 
@@ -10,7 +10,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ## Personal Information You Choose to Provide Registration Information.
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of 1Sale.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see 1Sale.com servicing your needs and interests.
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of 1Sale.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see 1Sale.com servicing your needs and interests. By entering your mobile phone number, you consent to receive promotional and informational text messages from 1Sale.com. You can unsubscribe to receiving text messages at any time.
 
 ## Email Information
 
