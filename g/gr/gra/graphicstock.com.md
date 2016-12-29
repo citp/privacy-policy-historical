@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406042303id_/https%3A//www.graphicstock.com/documents/GraphicStock/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045902id_/https%3A//www.graphicstock.com/documents/GraphicStock/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
