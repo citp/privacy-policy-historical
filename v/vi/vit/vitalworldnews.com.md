@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitalworldnews.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319052123id_/http%3A//vitalworldnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalworldnews.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229024807id_/http%3A//vitalworldnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Vital World News
 
 **Vitalworldnews**
 
