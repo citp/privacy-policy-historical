@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616180518id_/http%3A//www.eightforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042045id_/http%3A//www.eightforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Windows 8 Forums - Privacy Policy
 
@@ -172,4 +172,4 @@
 >   
 >  This website is owned and operated by Designer Media Ltd. 
 > 
-> If you have any questions about our cookies or this cookies policy, please [contact us.](http://www.eightforums.com/sendmessage.php)
+> If you have any questions about our cookies or this cookies policy, please [contact us.](https://www.eightforums.com/sendmessage.php)
