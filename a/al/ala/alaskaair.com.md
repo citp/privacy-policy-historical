@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052234id_/https%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051655id_/https%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3DTAfooter%3Aprivacynotice) for the most accurate reproduction.*
 
 # Online privacy notice - Alaska Airlines
+
+[View the privacy notice](https://web.archive.org/~/media/Files/PDF/privacy-policy-mx.pdf?lastupdate=20151209) that applies to our online and offline operations in Mexico.
+
+Updated: December 9, 2015
 
 Alaska Airlines respects your concerns about privacy. This privacy notice applies to personal information we collect on the websites and applications listed below (collectively, the "Sites"), as well as our fingerprint identity verification service.
 
@@ -10,7 +14,6 @@ Alaska Airlines respects your concerns about privacy. This privacy notice applie
   * facebook.com/alaskaairlines 
 
 
-
   * Alaska Airlines mobile apps for Android, iOS, and Windows
   * Alaska Airlines and Horizon Air Career websites
   * Trip and flight alerts
@@ -18,6 +21,21 @@ Alaska Airlines respects your concerns about privacy. This privacy notice applie
 
 
 This privacy notice describes the types of personal information we collect on the Sites and through the fingerprint identity verification service, how we may use that information and with whom we may share it. The privacy notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices.
+
+  * Information you provide directly to us
+  * Information we collect by automated means
+  * Advertising technology
+  * How we use the information we collect
+  * Information we share
+  * Your choices
+  * Notice to California residents
+  * How we protect personal information
+  * Links to other websites
+  * Children's privacy
+  * Updates to our privacy notice
+  * How to contact us
+
+
 
 ### Information we collect
 
@@ -51,15 +69,15 @@ Our web servers may log information such as your device and operating system typ
 
 To control which web servers collect information by automated means, we may place tags on our web pages called "web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our apps.
 
-We use third-party web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to or collected directly by these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics and how to opt out.](http://tools.google.com/dlpage/gaoptout)
+We use third-party web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to or collected directly by these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services "This indicates a link to an external site that may not meet accessibility guidelines." __](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites.[Learn about Google Analytics and how to opt out. "This indicates a link to an external site that may not meet accessibility guidelines." __](http://tools.google.com/dlpage/gaoptout)
 
 If your device configuration allows it, our apps may also automatically collect information about the location of your device, using technologies such as GPS, Wi-Fi, and Bluetooth signals. This data may be used for purposes such as providing location-based products, services, or offers, and as further described in the “How we use the information we collect” section below.
 
 #### Advertising technology
 
-We facilitate the collection of information by advertising services administered by third parties. The ad services may track individuals’ activities on our Sites over time by collecting information through cookies and other automated means described in the section above, and they may use this information to show individuals advertisements that are (i) tailored to their interests or characteristics, (ii) based on their prior visits to certain sites or apps, and/or (iii) based on other information we or the third parties may know, infer or have collected from the individuals. For example, we and the third-party vendors may use first-party cookies and third-party cookies together, as well as other automated means and other data (including the information described in this privacy notice) (i) to recognize users and their devices, (ii) to inform, optimize, and serve ads, and (iii) to report on our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services (including how they are related to visits to specific sites or apps). To learn more about interest-based advertising (one form of this advertising), including how to opt out from the targeting of interest-based ads by some of our current ad service partners, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices/). 
+We facilitate the collection of information by advertising services administered by third parties. The ad services may track individuals’ activities on our Sites over time by collecting information through cookies and other automated means described in the section above, and they may use this information to show individuals advertisements that are (i) tailored to their interests or characteristics, (ii) based on their prior visits to certain sites or apps, and/or (iii) based on other information we or the third parties may know, infer or have collected from the individuals. For example, we and the third-party vendors may use first-party cookies and third-party cookies together, as well as other automated means and other data (including the information described in this privacy notice) (i) to recognize users and their devices, (ii) to inform, optimize, and serve ads, and (iii) to report on our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services (including how they are related to visits to specific sites or apps). To learn more about interest-based advertising (one form of this advertising), including how to opt out from the targeting of interest-based ads by some of our current ad service partners, please visit [www.aboutads.info/choices "This indicates a link to an external site that may not meet accessibility guidelines." __](http://www.aboutads.info/choices/).
 
-Alaska Airlines uses Ghostery, Inc. to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA](http://www.aboutads.info/)). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control. 
+Alaska Airlines uses Ghostery, Inc. to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA) "This indicates a link to an external site that may not meet accessibility guidelines." __](http://www.aboutads.info/). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 ### How we use the information we collect
 
@@ -82,15 +100,13 @@ We also use information collected on our Sites, as well as fingerprint data (if 
 
 In connection with all of the activities described above, we may also use information collected from sources other than our Sites and fingerprint service.
 
-### Information we share
-
 We may also share personal information we collect on our Sites among our affiliates and joint marketing partners for the purposes described in this privacy notice, including for their marketing purposes. 
 
 We may also share personal information we collect on our Sites with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this privacy notice.
 
 Some third parties' embedded content or plugins on Sites, such as Facebook "Like" buttons on alaskaair.com, may allow their operators to learn that you have visited or interacted with our Sites, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
 
-As mandated by the U.S. government and governments outside the U.S., Alaska Airlines will provide to those governments specific passenger information collected on our Sites for travelers crossing international borders. For flights within the U.S., and pursuant to the Transportation Security Administration (TSA) Secure Flight Program, Alaska Airlines is required to collect and transmit the following passenger information: Name, Birth Date, Gender and Redress Number, if available, to the TSA. For information from the TSA about its privacy practices, please visit [www.tsa.gov](http://www.tsa.gov/). 
+As mandated by the U.S. government and governments outside the U.S., Alaska Airlines will provide to those governments specific passenger information collected on our Sites for travelers crossing international borders. For flights within the U.S., and pursuant to the Transportation Security Administration (TSA) Secure Flight Program, Alaska Airlines is required to collect and transmit the following passenger information: Name, Birth Date, Gender and Redress Number, if available, to the TSA. For information from the TSA about its privacy practices, please visit [www.tsa.gov "This indicates a link to an external site that may not meet accessibility guidelines." __](http://www.tsa.gov/).
 
 We may also disclose personal information about you (i) if we are required to do so by other laws or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
 
@@ -100,11 +116,11 @@ We also reserve the right to transfer personal information we have about you in 
 
 ### Your choices
 
-If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the "How to contact us" section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information, click on Manage email to update your communication preferences, or click on "Preferences and flight notifications" to manage flight notifications. To update your subscription preference for Alaska Airlines Vacations, please log in to your account at <https://res.asvacations.com/Account/Default.aspx>. You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in the relevant emails. You may choose to opt out of receiving prescreened offers of credit and insurance from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
+If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the "How to contact us" section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information, click on Manage email to update your communication preferences, or click on "Preferences and flight notifications" to manage flight notifications. To update your subscription preference for Alaska Airlines Vacations, please log in to your account at <https://res.asvacations.com/Account/Default.aspx>[ "This indicates a link to an external site that may not meet accessibility guidelines." __](https://res.asvacations.com/Account/Default.aspx). You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in the relevant emails. You may choose to opt out of receiving prescreened offers of credit and insurance from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
 
 To manage notifications and preferences relating to our apps, including certain options regarding the collection and use of location data, visit the Notifications section.
 
-To remove or delete our Facebook apps from your account, follow the instructions at <https://www.facebook.com/help/170585223002660>.
+To remove or delete our Facebook apps from your account, follow the instructions at <https://www.facebook.com/help/170585223002660>[ "This indicates a link to an external site that may not meet accessibility guidelines." __](https://www.facebook.com/help/170585223002660).
 
 If you have created an account on our careers pages, you can update the personal information in your account. To do this, login and go to the 'My profile' and 'My career tools' pages.
 
