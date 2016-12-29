@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618095714id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229135000id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whole Foods Market
-
-## PRIVACY POLICY
 
 Effective Date: December 17, 2015.
 
@@ -66,7 +64,7 @@ We may use information about you for various purposes, including to:
   * Manage your online account(s), including purchases, orders, payments, returns, exchanges, and forum and blog posts;
   * Respond to your comments, questions and requests and provide customer service;
   * Send you technical notices, updates, security alerts and support and administrative messages;
-  * Communicate with you about products, services, offers, promotions, coupons, newsletters, rewards and events and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the Your Choices section below).
+  * Communicate with you about products, services, offers, promotions, coupons, newsletters, rewards and events and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the [Your Choices](http://www.wholefoodsmarket.com/privacy-policy#yourchoices) section below).
   * Improve our Service or other Whole Foods websites, mobile applications, marketing efforts, products and services;
   * Personalize your online experience and provide advertisements, content or features that match your profile and interests;
   * Monitor and analyze trends, usage and activities;
@@ -87,7 +85,7 @@ Our agents, vendors, consultants and other service providers have access to Pers
 
 In addition, we may share information about you as follows:
 
-  * With our business partners, affiliates and other third parties for purposes of sending their own marketing unless you are a California customer and you opt out of this type of sharing by emailing us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com);  
+  * With our business partners, affiliates and other third parties for purposes of sending their own marketing unless you are a California customer and you opt out of this type of sharing by emailing us using the contact form below;  
   * To the maximum extent permitted by applicable law, in response to i) subpoenas or other legal process or if in our good faith opinion such disclosure is required or permitted by law; (ii) at the request of governmental authorities conducting an investigation;
   * To defend the Terms of Service or other policies applicable to our Service;
   * To protect the rights, property, life, health, security and safety of us or any third party; 
@@ -130,11 +128,11 @@ The Service contains hyperlinks to other websites or locations, including our Ca
 
 **Profile and Apps**
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Service may allow you to review, correct or update Personal Information you have provided through the Service’s registration or otherwise, and you may provide registration updates and changes by contacting us through account settings or [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).  If so, we will make good faith efforts to make requested changes in our then-active databases as soon as reasonably practicable (but we may retain prior information as business records).  With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application.  Also, you may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Service such as in forums or blogs, these communications cannot generally be removed, except California minors should see the Children section below.
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Service may allow you to review, correct or update Personal Information you have provided through the Service’s registration or otherwise, and you may provide registration updates and changes by contacting us through account settings or by using the contact form below.  If so, we will make good faith efforts to make requested changes in our then-active databases as soon as reasonably practicable (but we may retain prior information as business records).  With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application.  Also, you may at any time opt-out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Service such as in forums or blogs, these communications cannot generally be removed, except California minors should see the [Children section](http://www.wholefoodsmarket.com/privacy-policy#children) below.
 
 **Promotional Communications**
 
-You can opt out of receiving promotional email communications from us at any time by following the instructions provided in those communications or email us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).  You may also remove yourself from our email list by clicking on the unsubscribe link presented in all promotional emails, including newsletters, we send to our customers. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about our ongoing business relations.
+You can opt out of receiving promotional email communications from us at any time by following the instructions provided in those communications or email us by using the contact form below.  You may also remove yourself from our email list by clicking on the unsubscribe link presented in all promotional emails, including newsletters, we send to our customers. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about our ongoing business relations.
 
 Our mobile applications may send you notifications that may include alerts, sounds, and icon badges. These push notifications or in-app messages may include both operational messages and promotional messages regarding products, services and offers that may be of interest to you. These can be configured in Settings.  As with emails, even if you opt out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.  
 
@@ -150,9 +148,9 @@ We are based in the United States and the information we collect is governed by 
 
 Our Service is intended for a general audience and not directed to children under 13 years of age.  However, some portions of our Service may be intended as appropriate for all ages, or in other words a mixed audience of users under 13 years of age and users 13 and over, or for users under 13 years of age (e.g., a separate ‘Kids” section).  For further information on how we treat Children’s Personal Information in connection with any mixed-use portions of our Service (if any), please see our [Children’s Privacy Notice](http://www.wholefoodsmarket.com/childrens-privacy-notice), which will be deemed incorporated herein for purposes of that part of our Service.
 
-We do not intend to collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) (“Children’s Personal Information”) in a manner that is not permitted by COPPA, and for any children’s or mixed-use portions of our Service (if any) we will comply with COPPA.  If you are a parent or guardian and believe we have collected Children’s Personal Information in a manner not permitted by COPPA, please contact us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) and we will remove such data to the extent required by COPPA.  
+We do not intend to collect personal information as defined by the U.S. Children’s Privacy Protection Act (“COPPA”) (“Children’s Personal Information”) in a manner that is not permitted by COPPA, and for any children’s or mixed-use portions of our Service (if any) we will comply with COPPA.  If you are a parent or guardian and believe we have collected Children’s Personal Information in a manner not permitted by COPPA, please contact us by using the contact form below and we will remove such data to the extent required by COPPA.  
 
-Any California or UK residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request that such information be removed from the Service by contacting us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel) or Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel), stating that they personally posted such content or information and detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
+Any California or UK residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request that such information be removed from the Service by contacting us by using the contact form below or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel) or Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel), stating that they personally posted such content or information and detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third-parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
 
 Parents may want to consider commercially available parental control protections to limit what minors can access online and/or monitor their minor children’s online activities.  Examples include:  [www.netnanny.com](http://www.netnanny.com/); [www.webwatcher.com](http://www.webwatcher.com/) and [www.sentrypc.com](http://www.sentrypc.com/).  We do not endorse these or other services and are not responsible for them.
 
@@ -160,11 +158,11 @@ Parents may want to consider commercially available parental control protections
 
 California law permits customers in California to request certain details about how their information is shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes. Under the law, a business must either provide this information or permit California customers to opt in to, or opt out of, this type of sharing.  
 
-We may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes.  If you are a California resident, you may opt out of such future sharing and/or request information about our compliance with this law by contacting us at [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com) or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel).  Any such request must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code.  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address.
+We may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes.  If you are a California resident, you may opt out of such future sharing and/or request information about our compliance with this law by contacting us by using the contact form below or by sending a letter to Whole Foods Market Services, Inc., 550 Bowie Street, Austin, TX 78703-4644, United States (Attention: Legal Counsel).  Any such request must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code.  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address or mail address.
 
 ### Your UK Privacy Rights
 
-Users from the UK have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel) or [privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com).
+Users from the UK have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Fresh & Wild Limited, The Barkers Building, 63-97 Kensington High Street, London, W8 5SE, United Kingdom (Attention: Legal Counsel) or by using the contact form below.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -186,15 +184,13 @@ For U.S. users:
 Whole Foods Market Services, Inc.  
 550 Bowie Street  
 Austin, TX 78703-4644, United States  
-(Attention: Legal Counsel)  
-[privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com)
+(Attention: Legal Counsel)
 
 For U.K. users:  
 Fresh & Wild Limited  
 The Barkers Building  
 63-97 Kensington High Street  
 London, W8 5SE, United Kingdom  
-(Attention: Legal Counsel)  
-[privacyandterms@wholefoods.com](mailto:privacyandterms@wholefoods.com)
+(Attention: Legal Counsel)
 
 [The prior policy is available here](http://www.wholefoodsmarket.com/20131104privacy-policy-archived).
