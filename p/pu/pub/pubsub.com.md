@@ -1,126 +1,41 @@
-> *The following text is extracted and transformed from the pubsub.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625061428id_/http%3A//pubsub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubsub.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051938id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
 
-# PubSub.com: Privacy Policy
+# Privacy Policy - Imgur
 
-We at PubSub are committed to the following principles to protect your privacy: 
+Your Privacy Rights – Effective January 14, 2016
 
-  1. Your personal details (your e-mail address, username, password) are never given to a third party without your express and explicit permission.
-  2. Privacy FAQs and Other Questions
-    * What personal details does PubSub need to know?  
+**Our Privacy Policy has changed**
 
-    * When is my information given out?  
+## Information we collect; how we use it
 
-    * How are my personal details used?  
+Automatically collected technical information: Our servers log information about each computer connecting with our site such as IP address, dates and times of each login, device characteristics, operating system, browser type, type of connection, page and image viewing statistics, and incoming and outgoing links. We associate this information with comments you post or votes you enter. We also log the metadata associated with any images or videos you upload. None of this automatically collected technical information is associated with any identified person at the time it is collected, but it could be associated with you under two circumstances: First, if you choose to give us personal data about you as described below, the technical information we collect that would otherwise be anonymous could instead be logged as coming from you; and second, if we are required to disclose our server logs as a result of a subpoena or other legal process, some third party such as your internet provider could match our anonymous technical information with you, using information beyond what is found on our servers.
 
-    * Does PubSub sell my information to third parties?  
+We may use cookies, web beacons, or other anonymous tracking information to improve our server's interaction with your computer, and we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. Although our servers currently don't respond to "do-not-track" requests, you can block these cookies in other ways, for example by going to <http://www.privacychoice.org/choose>.
 
-    * Is your service secure?  
+Imgur participates in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
-    * Will I be added to any mailing texts?  
+We use third-party advertising companies to serve ads when you visit our website or use our apps. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <http://www.aboutads.info/choices/>.
 
-    * Do you send unsolicited emails?  
+We collect whatever personal data about you that you choose to give us, such as a contact email address and profile information. We do not require you to use an account to upload images, and if you open an account you do not have to use your real name – you may choose a username and email address that reveal nothing about your identity. If you give us an email address, we’ll probably send you promotional messages once in a while; we’ll try to make them fun and interesting but of course you’ll be able to opt out at any time.
 
-    * What do you use cookies for?  
+## Personal Data Protection
 
-    * How do you notify me of any changes?  
+**Because Imgur neither requires nor requests personally-identifiable information about you, if you choose to remain anonymous Imgur will not disclose to any third party any personally identifiable information about you.** The only exceptions are: (1) If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers. (2) if we receive a subpoena or other legal process requiring us to disclose whatever information we may have about you, we may have no choice but to do so.
 
-    * How do I cancel my account?  
+You may correct, amend, or delete inaccurate private data (if any) you have given us, although any credit card transactions that have already taken place will be unaffected. For legal reasons we may retain backup and/or archival copies of information prior to your corrections, amendments, or deletions. We take every reasonable precaution to protect your private data from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You are responsible for taking every reasonable precaution on your end to protect any unauthorized person from accessing your Imgur account.
 
-    * How do I contact you?  
+## Image and Album Privacy
 
+Every image uploaded to Imgur – whether uploaded directly without going through a user account, or uploaded via a user account – has its own URL, and no matter what your privacy settings are, every image can always be accessed and viewed by anyone who types in that exact URL. _No image uploaded to Imgur is ever completely hidden from public view_. This is mainly to ensure that Imgur, which allows anonymous postings, will not be used as a platform for illegality.
 
+That stated, we do offer two privacy settings if you upload images via your user account: Image privacy and album privacy.
 
+  * Image privacy: Individual images can be toggled between "private" and "public" through your personal settings menu, accessible by clicking your username after you've signed in. If you select "private," any images you upload via your user account will not appear on your public images page, will not appear in response to our image search function, and will not appear in the gallery (except to the extent that you submit them). If you select "public," all of your images will be displayed individually on your public images page (http://username.imgur.com). They still will not be searchable via our search function, and will not be displayed in the gallery (except to the extent you submit them).
+  * Album privacy: If you group your images into albums, each album can have one of three privacy settings that apply to the albums as such, and not to individual images: (1) "Public" albums are displayed on your public images page (http://username.imgur.com) and are searchable. If you submit them to the gallery they might appear there. (2) "Hidden" albums are not displayed on your public images page and are not searchable. (3) "Secret" albums likewise are not searchable, and can't be viewed by anyone other than the logged-in user who uploaded the album.
+  * Exception: If we notice that one of your images has gone viral (for example, if you posted a link to it elsewhere), we may treat it as public and it may be added to the Imgur community gallery.
 
-  
-**Your personal details are never given to a third party without your express and explicit permission.**
 
-  * We will never sell or give your email address to third parties unless you say so.  
 
-  * All functionality and services that use your information are fully "opt-in". You only receive information you explicitly ask for, from PubSub. This will not change unless you indicate otherwise.  
+If you have any questions about our use of your Private Data, please contact us at [privacy@imgur.com](mailto:privacy@imgur.com).
 
-  * We will not share your personal information with anyone, including another PubSub user, unless you ask for this to be done.  
-
-
-[return to top]  
-  
-**Privacy FAQs and Other Questions**  
-  
-What personal details does PubSub need to know?   
-
-
-  * The only information we need to know is your username, password and email address. This is collected so that we can validate that you are who you say you are.   
-
-
-[return to top]  
-  
-When is my information given out?  
-
-
-  * Your information is never given out, unless you explicitly ask for this to be done.  
-
-
-[return to top]  
-  
-How are my personal details used?
-
-  * Registration
-
-In order to use this service, you must first complete the registration process. During registration, you are required to give your email address, and choose a username and password. We use this information to verify you have entered your own email address by sending a confirmation email that activates the account. We will not share this information with third-parties without your permission.
-
-  * Analysis of aggregated information
-
-PubSub may analyze aggregated information in order to understand the volumes of usage over time and traffic patterns. The information analyzed is not personally identifiable. It helps us to judge what changes we need to make to the service to support it as it grows.
-
-  * Legal Disclaimer
-
-In exceptional circumstances, we may need to disclose personal information when required by law to comply with a current judicial proceeding, a court order or a legal process served on our Web site.
-
-
-
-  * No. We do not sell, give or exchange your information with anyone else unless you say we can. 
-
-
-  * PubSub uses a number of security features to ensure that malicious users are not able to gain access to your information. This includes encryption methods for sending information over the web, similar to that used by banks. Our servers are also locked within a secured building, giving access to only specific PubSub employees. 
-
-
-  * No. Again, PubSub will never divulge any information to mailing texts unless you ask us explicitly to do so. 
-
-
-  * You will receive emails from PubSub on very rare occasions. We send all new members a welcoming email to verify that they are who they say they are. 
-  * Service improvement information will be sent via email. We will not send any 3rd party marketing material to users in email, unless a user has requested such information. On rare occasions it is necessary to send out a service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email alert. We may from time to time alert users to new functionality available to them within the application. Other messages people may receive from time to time include: 
-
-\- Updates to software
-
-\- New services
-
-\- Messages people have requested to receive
-
-
-
-  * A cookie is a piece of data sent by us as part of responses to your browser's requests and may be stored on your computer by your browser. In order to enhance privacy and security we use cookies to ensure that other sites cannot see your information in referrer records. We store a cookie on your machine to identify you when you use PubSub services. This means you do not have to input your username and password every time you use PubSub.
-  * In order for us to measure volumes and usage of the system, we use two types of 'cookies'. These also enable us to make better estimations about the infrastructure required to support the service as it grows. Your cookie can be read only by servers in the domain from which the cookie was sent. We use both 'session' cookies and 'persistent' cookies. Session cookies are stored on your machine while you use the site in order to make it possible for you to use the service efficiently, and are deleted once you close your browser software. Persistent cookies stay on your machine and will contain information about when and how often the service is used. You will be able to access all services even if you choose to reject cookies by changing the settings in your browser. 
-
-Log Files 
-
-We will also use log files to record all activity on our servers. We do this to detect attempts to attack the system. We also do this so we can study the logs and understand usage of the system and to enhance service in the future. Technical data held in log files includes your IP address, browser type, Internet service provider ("ISP"), referring/exit Web pages, computer platform type, date/time stamp, and user activity. PubSub uses the log data to administer the Services and the Site and gather broad usage information for aggregate use. 
-
-
-
-  * If we decide to change our privacy policy, we will post those changes to this privacy statement on the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we may disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-
-  * You can cancel your membership by sending an email to [info@pubsub.com](mailto:cancel@PubSub.com). If a user deactivates their account, that user's information is deleted from our machines immediately. However, customer records may still exist on back-up tapes, but PubSub will never intentionally restore your data to an operational status once you have cancelled your account. 
-
-
-  * If you have any questions or suggestions regarding our privacy policy, please contact us at [info@pubsub.com](mailto:info@PubSub.com)
-
-For any other information, please send an email to [info@pubsub.com](mailto:info@PubSub.com)
-
-
-
-
-Best regards,
-
-The PubSub team
-
-[return to top]
+We may revise our privacy policy from time to time by posting the changes here.
