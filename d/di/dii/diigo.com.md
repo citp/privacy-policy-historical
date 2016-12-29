@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044634id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diigo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041925id_/https%3A//www.diigo.com/privacy) for the most accurate reproduction.*
 
 # Diigo.com Privacy Policy
 
-Dec 7, 2012
+Sep 7, 2016
 
 Diigo recognizes that privacy is extremely important. For example, we do not record users' browsing history, except for the pages you specifically bookmark to our servers, which are located in the United States of America.
 
 Further details of the Diigo's privacy policy are outlined below.
 
-### Privacy Policy for Apps On Windows 8
+### Children
 
-  * Currently, Quick Note and WorkPad on Windows 8 doesn't collect any personal data. All notes and workpads are stored in the local disk. Users own their notes and workpads.
-
-  * We may provide online sync feature in the future and it will require users to input their email to create an account. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously. 
+  * For children under 13, Diigo offers a limited feature set and website experience. We require consent from a teacher when children under the age of 13 want to register on Diigo, and offer a limited version of the website that removes certain social features, such as public profile. The only identifiable information we collect from children under 13 is an email address input teachers.
 
 
 
