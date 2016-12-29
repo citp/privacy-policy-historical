@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627135220id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051938id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Imgur
+
+Your Privacy Rights – Effective January 14, 2016
+
+**Our Privacy Policy has changed**
 
 ## Information we collect; how we use it
 
@@ -16,7 +20,7 @@ We collect whatever personal data about you that you choose to give us, such as 
 
 ## Personal Data Protection
 
-Because Imgur neither requires nor requests personally-identifiable information about you, Imgur does not disclose to any third party any personally identifiable information about you. The only exceptions are: (1) If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers. (2) if we receive a subpoena or other legal process requiring usto disclose whatever information we may have about you, we may have no choice but to do so.
+**Because Imgur neither requires nor requests personally-identifiable information about you, if you choose to remain anonymous Imgur will not disclose to any third party any personally identifiable information about you.** The only exceptions are: (1) If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers. (2) if we receive a subpoena or other legal process requiring us to disclose whatever information we may have about you, we may have no choice but to do so.
 
 You may correct, amend, or delete inaccurate private data (if any) you have given us, although any credit card transactions that have already taken place will be unaffected. For legal reasons we may retain backup and/or archival copies of information prior to your corrections, amendments, or deletions. We take every reasonable precaution to protect your private data from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You are responsible for taking every reasonable precaution on your end to protect any unauthorized person from accessing your Imgur account.
 
