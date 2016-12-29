@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002848id_/http%3A//www.6dollarshirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6dollarshirts.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229064829id_/http%3A//6dollarshirts.com/privacy) for the most accurate reproduction.*
 
 # 6 Dollar Shirts Privacy Policy | 6 Dollar Shirts
 
