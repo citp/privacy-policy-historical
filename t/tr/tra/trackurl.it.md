@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackurl.it privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051642id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackurl.it privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034551id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyLikes
 
@@ -61,4 +61,4 @@ MyLikes is not intended for use by children. Anyone under the age of 13 is not p
 
 MyLikes may update this policy to be consistent with industry best practices and to better serve our users and customers. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. We will post any privacy policy changes on this page and maintain a "last updated" date. 
 
-Last modified: April 02 2016. 
+Last modified: December 01 2016. 
