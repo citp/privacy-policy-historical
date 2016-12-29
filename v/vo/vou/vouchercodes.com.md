@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403130446id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042801id_/https%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
@@ -50,6 +50,12 @@ For the same reason, we may obtain information about your usage of the Website b
 
 You may refuse to accept cookies by activating the setting on your browser or your mobile device which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser or mobile device setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
 
+Advertising: The purpose of the Criteo cookies is to re/target users of our Website to display personalised advertisements in their future navigation. The Criteo cookie lasts for 13 months.
+
+To opt out of the Criteo service visit [Criteo opt-out solution](http://www.criteo.com/privacy/). You can also opt-out of being targeted by certain third party advertising companies by visiting the following [IAB opt-out platform](http://youronlinechoices.eu/), [Network Advertising Initiative opt-out platform](http://www.networkadvertising.org/managing/opt_out.asp), [Digital Advertising Alliance platform](http://www.aboutads.info/choices/).
+
+Please note that if you disable the display of personalised ads from Criteo and other advertising partners, you will continue to receive ads that are less relevant to your interests/browsing behaviour
+
 You can read more about our use of cookies [here](https://web.archive.org/about-cookies.html).
 
 * * *
@@ -70,7 +76,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 To ensure the adequate protection of your personal data, any transfer of your personal data outside the EEA will be pursuant to the Model Clauses approved by the European Commission.
 
-By submitting your personal data and thus agreeing to this privacy policy, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App. 
+By submitting your personal data and thus agreeing to this privacy policy, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App.
 
 All information you provide to us is stored on our (or our third party service providers’) secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -185,15 +191,15 @@ To unsubscribe from our newsletter please sign in to your account and update you
 
 Questions, comments and requests regarding this data protection and privacy policy are welcomed and should be addressed [here](https://web.archive.org/contact-us.html) with the words “FAO: the Legal Department” in the subject line.
 
- **Address**  
+**Address**  
 Legal Department, RetailMeNot UK Ltd  
 6th Floor  
 200 Grays Inn Road  
 London  
 WC1X 8XZ
 
- **Telephone**  
+**Telephone**  
 020 7566 9840
 
- **Email Address**  
+**Email Address**  
 [legal@vouchercodes.co.uk](mailto:legal@vouchercodes.co.uk)
