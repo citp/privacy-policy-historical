@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the humblebundle.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616052741id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the humblebundle.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229042932id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
   <title>Privacy Policy</title>
@@ -9,6 +9,7 @@
   <meta name="msapplication-TileColor" content="rgb(218,222,230)">
   <meta name="msapplication-TileImage" content="https://humblebundle-a.akamaihd.net/static/hashed/49bccd0f2050e5fcfc3c442b269d4ff47b038ed9.png">
   <meta name="medium" content="news">
+  <meta name="theme-color" content="rgb(73,79,92)">
   <meta property="og:site_name" content="Humble Bundle">
   <meta property="og:type" content="website">
   <meta property="fb:app_id" content="101146256651042">
@@ -126,6 +127,7 @@ header.constrain-width { width: 940px; margin: 0 auto; }
 .generic-popup.content .split-right { color: #666; display: inline-block; text-align: right; width: 180px; }
 
 .generic-popup input[type='text'], .generic-popup input[type='password'] { background: none; border: 1px solid #ccc; border-top: 1px solid #999; border-radius: 3px; box-shadow: 0 1px 2px #bbb inset; padding: 9px; font-size: 16px; color: #333; display: block; width: 342px; margin: 0; }
+.generic-popup input[type='text'].inline-input, .generic-popup input[type='password'].inline-input { width: 150px; }
 
 @-moz-document url-prefix() { .generic-popup input[type='text'], .generic-popup input[type='password'] { padding-top: 7px; } }
 .generic-popup form p { text-align: left; position: relative; }
@@ -358,8 +360,6 @@ input[type="number"].classy-input, input[type="password"].classy-input, input[ty
 
 #account-login-authy-token-holder { display: none; }
 
-#account-login-authy-token { width: 150px; }
-
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) { .generic-bbm-modal--open, .generic-bbm-modal--stacked, .generic-bbm-modal--stacked-reverse, .generic-bbm-modal--destroy { -webkit-animation: none !important; } }
   #flash {
     position:fixed;
@@ -483,7 +483,6 @@ var {
 .site-minisearch-view .searchbar { position: relative; /* So the inner button will position correctly. */ }
 .site-minisearch-view .searchbar input.site-search { color: #333; font-size: 14px; font-weight: normal; padding: 6px 6px 6px 26px; width: 242px; box-sizing: border-box; border-radius: 3px; border: none; box-shadow: none; }
 .site-minisearch-view .searchbar .clear-search-button { position: absolute; top: 6px; left: 6px; right: auto; margin: 0 !important; font-size: 14px !important; }
-.site-minisearch-view .searchbar .clear-search-button:before { content: "\f148"; }
 .site-minisearch-view .scrollable-wrapper { display: block; width: 560px; height: 62px; border: 1px solid rgba(0, 0, 0, 0.08); border-radius: 3px; padding-left: 62px; cursor: pointer; }
 .site-minisearch-view .scrollable-wrapper.empty-product { padding-left: 0; }
 .site-minisearch-view .scrollable-wrapper.empty-product h2 { color: black; display: block; font-weight: 400; text-align: center; margin: 0; }
@@ -493,7 +492,7 @@ var {
 .site-minisearch-view a.site-search-link { padding: 1.5em 0; display: block; background: #f7f7f7; color: #777; cursor: pointer; text-transform: uppercase; text-align: center; text-decoration: none; }
 .site-minisearch-view .products-loading, .site-minisearch-view .products-loading-failed { background: white; border: 1px solid rgba(0, 0, 0, 0.08); width: 100%; }
 
-.site-minisearch-view:focus, .searchbar input:focus { outline-color: transparent; outline-style: none; }
+.minisearch-view:focus, .site-minisearch-view:focus, .searchbar input:focus { outline-color: transparent; outline-style: none; }
 
 .site-search-list-product { display: block; position: relative; background-color: white; }
 .site-search-list-product .empty-product .product-title-and-description { padding-top: 21px; }
@@ -509,25 +508,10 @@ var {
 .site-search-list-product .platforms-wrapper, .storefront-list-product .platforms-wrapper { top: -3px; margin-left: 10px; position: relative; }
 .site-search-list-product .platforms-wrapper .platforms, .storefront-list-product .platforms-wrapper .platforms { margin-right: 10px; display: inline-block; }
 .site-search-list-product .platforms-wrapper .platforms li > i, .storefront-list-product .platforms-wrapper .platforms li > i { font-size: 14px; top: 0; color: black; opacity: .4; }
-.site-search-list-product .platforms-wrapper .platforms .hb-steam, .storefront-list-product .platforms-wrapper .platforms .hb-steam { font-size: 20px; }
 .site-search-list-product .platforms-wrapper .platforms li > i:hover, .storefront-list-product .platforms-wrapper .platforms li > i:hover { opacity: 1; }
 .site-search-list-product .buy-button, .storefront-list-product .buy-button { text-align: right; white-space: nowrap; float: right; margin: 19px 10px 18px 0; }
 .site-search-list-product .sale-price-button, .storefront-list-product .sale-price-button { position: relative; vertical-align: top; margin-top: 4px; margin-right: 5px; z-index: 20; float: none; }
 .site-search-list-product .empty-product .product-title-and-description, .storefront-list-product .empty-product .product-title-and-description { text-align: center; }
-
-.action-button { display: inline-block; }
-.storefront-grid-product .action-button { position: absolute; bottom: 9px; right: 9px; }
-.action-button .discount { color: #d0021b; font-weight: bold; margin-right: 5px; }
-.action-button .store-item-button { box-sizing: border-box; border-radius: 3px; padding: 5px 10px; height: 27px; min-width: 64px; display: inline-block; background: #dee1e7; border: 1px solid #a1a7b2; font-weight: bold; font-size: 12px; color: #494f5c; text-decoration: none; position: relative; z-index: 10; text-align: center; }
-.action-button .store-item-button .text.store-price { font-variant: small-caps; }
-.action-button .store-item-button.hidden { display: none; }
-.action-button .store-item-button.on-sale { border-color: #d0021b; color: #d0021b; }
-.action-button .store-item-button .fa-shopping-cart, .action-button .store-item-button .add-to-cart-text, .action-button .store-item-button .in-cart-text, .action-button .store-item-button .view-text { display: none; }
-.action-button .store-item-button:hover .text { display: none; }
-.action-button .store-item-button.in-cart:hover .in-cart-text { display: inline; }
-.action-button .store-item-button.has-cart:not(.in-cart):hover .add-to-cart-text { display: inline; }
-.action-button .store-item-button:not(.has-cart):not(.in-cart):hover .view-text { display: inline; }
-.action-button .store-item-button.has-cart:hover .fa-shopping-cart { display: inline-block; margin-right: 2px; margin-left: -2px; }
 
 .international .action-button .discount { display: none; }
 .international .sale-info { left: 9px; }
@@ -547,45 +531,64 @@ var {
 .cta-text.earlyaccess { color: #4a90e2; }
 .cta-text.dlc { color: #dd99ff; }
 .cta-text.onsale { color: #d0021b; }
-.tipsy { font-size: 10px; position: absolute; padding: 5px; z-index: 100000; }
-  .tipsy-inner { background-color: #000; color: #FFF; max-width: 200px; padding: 5px 8px 4px 8px; text-align: center; }
+/* AUTO-GENERATED */
+.action-button { display: inline-block; }
+.action-button .discount { color: #d0021b; font-weight: bold; margin-right: 5px; }
+.action-button .store-item-button { box-sizing: border-box; border-radius: 3px; padding: 5px 10px; height: 27px; min-width: 64px; display: inline-block; background: #dee1e7; border: 1px solid #a1a7b2; font-weight: bold; font-size: 12px; color: #494f5c; text-decoration: none; position: relative; z-index: 10; text-align: center; }
+.action-button .store-item-button .text.store-price { font-variant: small-caps; }
+.action-button .store-item-button.hidden { display: none; }
+.action-button .store-item-button.on-sale { border-color: #d0021b; color: #d0021b; }
+.action-button .store-item-button .hb-shopping-cart, .action-button .store-item-button .add-to-cart-text, .action-button .store-item-button .in-cart-text, .action-button .store-item-button .view-text { display: none; }
+.action-button .store-item-button:hover .text { display: none; }
+.action-button .store-item-button.in-cart:hover .in-cart-text { display: inline; }
+.action-button .store-item-button.has-cart:not(.in-cart):hover .add-to-cart-text { display: inline; }
+.action-button .store-item-button:not(.has-cart):not(.in-cart):hover .view-text { display: inline; }
+.action-button .store-item-button.has-cart:hover .hb-shopping-cart { display: inline-block; margin-right: 2px; margin-left: -2px; }
 
-  /* Rounded corners */
-  .tipsy-inner { border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
-  
-  /* Uncomment for shadow */
-  /*.tipsy-inner { box-shadow: 0 0 5px #000000; -webkit-box-shadow: 0 0 5px #000000; -moz-box-shadow: 0 0 5px #000000; }*/
-  
-  .tipsy-arrow { position: absolute; width: 0; height: 0; line-height: 0; border: 5px dashed #000; }
-  
-  /* Rules to colour arrows */
-  .tipsy-arrow-n { border-bottom-color: #000; }
-  .tipsy-arrow-s { border-top-color: #000; }
-  .tipsy-arrow-e { border-left-color: #000; }
-  .tipsy-arrow-w { border-right-color: #000; }
-  
-	.tipsy-n .tipsy-arrow { top: 0px; left: 50%; margin-left: -5px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent; }
-    .tipsy-nw .tipsy-arrow { top: 0; left: 10px; border-bottom-style: solid; border-top: none; border-left-color: transparent; border-right-color: transparent;}
-    .tipsy-ne .tipsy-arrow { top: 0; right: 10px; border-bottom-style: solid; border-top: none;  border-left-color: transparent; border-right-color: transparent;}
-  .tipsy-s .tipsy-arrow { bottom: 0; left: 50%; margin-left: -5px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
-    .tipsy-sw .tipsy-arrow { bottom: 0; left: 10px; border-top-style: solid; border-bottom: none;  border-left-color: transparent; border-right-color: transparent; }
-    .tipsy-se .tipsy-arrow { bottom: 0; right: 10px; border-top-style: solid; border-bottom: none; border-left-color: transparent; border-right-color: transparent; }
-  .tipsy-e .tipsy-arrow { right: 0; top: 50%; margin-top: -5px; border-left-style: solid; border-right: none; border-top-color: transparent; border-bottom-color: transparent; }
-  .tipsy-w .tipsy-arrow { left: 0; top: 50%; margin-top: -5px; border-right-style: solid; border-left: none; border-top-color: transparent; border-bottom-color: transparent; }
+.empty-list-product { width: 940px; cursor: default; background-color: transparent; }
+.empty-list-product .product-title-and-description { width: 100%; }
+
+.storefront-list-product .wishlist-holder, .storefront-grid-product .wishlist-holder { display: none; box-sizing: border-box; height: 26px; border-left: 1px solid; border-color: inherit; margin-left: 4px; width: 16px; vertical-align: top; margin-top: -5px; }
+
+.storefront-list-product { margin: 7px; width: calc(50% - 14px); display: inline-block; position: relative; background-color: rgba(212, 215, 224, 0.85); border-radius: 3px; }
+.storefront-list-product.empty-product { width: calc(100% - 14px); }
+.storefront-list-product.user-selected .product-list-wrapper { background-color: #c7cbd4; }
+
+.storefront-grid-product { text-align: left; font-size: 12px; display: inline-block; vertical-align: top; position: relative; width: 304px; height: 189px; background-color: rgba(194, 198, 208, 0.85); background-size: cover; margin: 0 14px 59px 0; border-radius: 0 0 3px 3px; }
+.storefront-grid-product.medium-grid-layout { width: 463px; height: 292px; }
+.storefront-grid-product.promoted { width: 622px; height: 437px; float: left; }
+.storefront-grid-product.promoted .promotional-message { display: block; position: absolute; left: 0; right: 0; bottom: 0; height: 45px; z-index: 1; }
+.storefront-grid-product.promoted .promotional-message h4 { color: #494f5c; font-weight: 200; font-size: 18px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin: 12px 0 0 9px; }
+.storefront-grid-product.promoted .product-details-link { cursor: pointer; display: block; }
+.storefront-grid-product .action-button { position: absolute; bottom: 9px; right: 9px; }
+.storefront-grid-product .promotional-message { display: none; }
+.storefront-grid-product .product-info-bar:after { content: ''; background: rgba(0, 0, 0, 0.7); position: absolute; left: 0; right: 0; top: 0; bottom: 0; opacity: 0; -moz-transition: opacity 0.1s; -webkit-transition: opacity 0.1s; -o-transition: opacity 0.1s; transition: opacity 0.1s; z-index: 5; }
+.storefront-grid-product .sale-desc { font-size: 14px; font-weight: bold; position: absolute; left: 15px; top: 15px; margin: 0; z-index: 10; opacity: 0; }
+.storefront-grid-product .product-details-preview { position: absolute; left: 0; right: 0; top: 0; bottom: 0; text-align: center; }
+.storefront-grid-product .product-details-preview .show-on-hover { position: absolute; z-index: 25; left: 0; right: 0; top: 50%; margin-top: -56px; opacity: 0; -moz-transition: opacity 0.1s; -webkit-transition: opacity 0.1s; -o-transition: opacity 0.1s; transition: opacity 0.1s; -webkit-backface-visibility: hidden; /* keeps platform icons from shifting 1px, wtf */ }
+.storefront-grid-product .product-details-preview .show-on-hover .game_name { font-size: 16px; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding: 0 14px; margin: 10px 0; }
+.storefront-grid-product .product-details-preview .show-on-hover .more-info { text-decoration: underline; margin: 10px 0; }
+.storefront-grid-product a.product-details-link:hover:after { opacity: 1; }
+.storefront-grid-product a.product-details-link:hover .product-details-preview .show-on-hover { opacity: 1.0; }
+.storefront-grid-product a.product-details-link:hover .product-info-bar:after { opacity: 1; }
+.storefront-grid-product a.product-details-link:hover .sale-desc { opacity: 1.0; }
+.storefront-grid-product .product-details-link { text-decoration: none; color: #fff; -webkit-font-smoothing: antialiased; position: absolute; top: 0; bottom: 0; left: 0; right: 0; }
+.storefront-grid-product .product-details-link:after { content: ''; background: rgba(0, 0, 0, 0.7); position: absolute; left: 0; right: 0; top: 0; bottom: 0; opacity: 0; -moz-transition: opacity 0.1s; -webkit-transition: opacity 0.1s; -o-transition: opacity 0.1s; transition: opacity 0.1s; z-index: 5; }
+.storefront-grid-product .product-image { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-size: cover; background-repeat: no-repeat; background-position: top left; }
+.storefront-grid-product .product-info-bar { position: absolute; bottom: -45px; right: 0; left: 0; height: 45px; background-color: rgba(212, 215, 224, 0.85); }
+.storefront-grid-product .product-info-bar .cta-badge { position: absolute; bottom: 9px; left: 9px; padding: 6px 10px; border-radius: 3px; font-size: 12px; font-weight: bold; z-index: 10; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); }
   </style>
   
   <style type="text/css">/* AUTO-GENERATED */
-@font-face { font-family: 'FontAwesome'; src: url("/static/hashed/3ef5b858563fb928cd121e0a00051396ff89241e.eot"); src: url("/static/hashed/3ef5b858563fb928cd121e0a00051396ff89241e.eot") format("embedded-opentype"), url("/static/hashed/2a6046738f2fe4daa458703744df47ef7796c04b.woff2") format("woff2"), url("/static/hashed/82d338cbba4ab26e144f358e88909a85a26be7bb.woff") format("woff"), url("/static/hashed/d2657f52e1e2c26a3e9321e7ec94e285a0234371.ttf") format("truetype"), url("/static/hashed/b3d477735083f36bd883b548642b8aadf4612ba4.svg") format("svg"); font-weight: normal; font-style: normal; }
-@font-face { font-family: "hb-icons"; src: url("/static/hashed/b375cc37f02cd12b87bb509ad5f2f6ca2acb00f2.eot"); src: url("/static/hashed/b375cc37f02cd12b87bb509ad5f2f6ca2acb00f2.eot") format("embedded-opentype"), url("/static/hashed/1b62a2b13199ec46af2754a5525c4c67f08670af.woff") format("woff"), url("/static/hashed/b1b4bc07e0f2120f1acf5a7887210f67500e2b04.ttf") format("truetype"), url("/static/hashed/a2e05a87108222f8596005507ca0fe0864782ec1.svg") format("svg"); font-weight: normal; font-style: normal; }
-@media screen and (-webkit-min-device-pixel-ratio: 0) { @font-face { font-family: "hb-icons"; src: url("/static/hashed/a2e05a87108222f8596005507ca0fe0864782ec1.svg") format("svg"); } }</style>
-  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/c8405b8d4d1ebef577cc1dc95e99d42f1545e545.css">
-  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/a8bcbfbc8cdedd2c86104aa74e6986c31bfb3f49.css">
+@font-face { font-family: 'hb-icons'; src: url("/static/hashed/409ba24ae5c2fca841c6f3ad5ef01ce9df807027.woff2") format("woff2"), url("/static/hashed/56274ec46a9ae7bb30d575374d2c634302e78e6b.woff") format("woff"), url("/static/hashed/542276c049d28582e5702fe6867782ecbd22fba2.ttf") format("truetype"), url("/static/hashed/1e07aab2fed8f0e2af56b015c959775130315e1a.otf") format("opentype"); font-weight: normal; font-style: normal; }</style>
+  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/fbe2b367c3877edeff2cb69d81e048745c35f2a4.css">
+  <link rel="stylesheet" href="https://humblebundle-a.akamaihd.net/static/hashed/7c4345f5b00a430511c129702cec39707327522d.css">
 <style></style>
 
-  <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
     
     window.app = window.app || {};
-    window.pageData = {atTime: 1466054861 };
+    window.pageData = {atTime: 1482985772 };
     window.models = window.models || {};
 
 window.models.product_json = {};
@@ -595,10 +598,10 @@ window.models.user_json = {};
 
 window.models.request = {
   country_code: "US",
-  humble_guard_enabled: null
-}
+  humble_guard_enabled: null,
+};
   </script>
-  <script id="main-js" data-dist_version="d59fb1ef3eb2da3ecfc95f1594f8402a089a8be8" src="https://humblebundle-a.akamaihd.net/d59fb1ef3eb2da3ecfc95f1594f8402a089a8be8/dist/main.min.js"></script>
+  <script id="main-js" data-dist_version="f893756f5d92749542d68d47322472ec4feb3071" src="https://humblebundle-a.akamaihd.net/f893756f5d92749542d68d47322472ec4feb3071/dist/main.min.js"></script>
   <script></script>
 <script type="application/ld+json">
   {
@@ -638,13 +641,14 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
 
     <li class="navbar-item-header">
       <a href="/">
-        <i class="navbar-item-header-icon hb-bundle"></i>
+        <i class="navbar-item-header-icon hb hb-bundle"></i>
   
-        Humble Bundle
+        <span class="logo-copy">Humble Bundle</span>
   
       </a>
     </li>
   
+
 
 <script type="text/template" id="site-search-list-product">
   <div data-product='<%- machine_name %>' class='site-search-list-product product-<%- machine_name %>'>
@@ -688,7 +692,7 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
       <% button_classes += ' js-show-product-details'; %>
   <% } %>
               <button class='store-item-button js-action-button <%= button_classes %>'>
-                <i class='fa fa-shopping-cart'></i>
+                <i class='hb hb-shopping-cart'></i>
                 <span class='<%- text_class %>'>
                   <%= button_text %>
                 </span>
@@ -701,7 +705,7 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
           </div>
           <div class='platforms-wrapper'>
 
-  <% if (cta_badge) { %>
+  <% if (cta_badge && cta_badge != 'n/a') { %>
           <%= render_platform_icons(icon_dict).trim() %><span class='cta-text <%= cta_badge %>'><%= cta_text %></span>
   <% } else { %>
           <%= render_platform_icons(icon_dict) %>
@@ -731,7 +735,7 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
       <span class="js-site-searchbar-holder site-searchbar-holder">
         <div class="searchbar">
           <input class="js-site-search site-search" placeholder="Search">
-          <i class="js-clear-site-search hb-search clear-search-button"></i>
+          <i class="js-clear-site-search hb hb-search clear-search-button"></i>
         </div>
       </span>
       <div class="js-site-search-results-holder site-search-results-holder">
@@ -748,57 +752,22 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
   
     <li class="navbar-item">
       <a href="https://support.humblebundle.com" target="_blank">
-        <i class="navbar-item-icon hb-support"></i>
+        <i class="navbar-item-icon hb hb-support"></i>
         Support
       </a>
     </li>
     <li class="navbar-item">
       <a href="http://blog.humblebundle.com/" target="_blank">
-        <i class="navbar-item-icon hb-file"></i>
+        <i class="navbar-item-icon hb hb-file"></i>
         Blog
       </a>
     </li>
   
-  
-  
-  
-  
-<li class="navbar-item quest-center hidden">
-  <a href="#" class="quest-center-toggle">
-    <span class="quest-center-item-count navbar-item-count tada"></span>
-    <i class="navbar-item-icon fa fa-trophy"></i>
-    Quests
-    <i class="fa fa-caret-down"></i>
-  </a>
-  <div class="quest-center-dropdown-backing hidden"></div>
-  <div class="quest-center-dropdown-wrapper">
-    <div class="quest-center-dropdown-container hidden">
-    
-      <div class="quest-center-body js-quest-center-body">
-      
-        <div class="js-quest-center-section js-quest-center-active-quests">
-          <span class="quest-center-title">Active Quests</span>
-          <div class="js-quest-card-container quest-card-container"></div>
-        </div>
-      
-      
-        <div class="js-quest-center-section js-quest-center-complete-quests">
-          <span class="quest-center-title">Complete Quests</span>
-          <div class="js-quest-card-container quest-card-container"></div>
-        </div>
-      
-      </div>
-    
-    </div>
-  </div>
-</li>
-  
-
       <li class="navbar-item navbar-user-item">
         
     
         <a href="#" class="account-login" data-target-popup="#account-login">
-          <i class="navbar-item-icon hb-user"></i>
+          <i class="navbar-item-icon hb hb-user"></i>
           Log in / Sign up
         </a>
     
@@ -807,11 +776,6 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
 
   </ul>
 </nav>
-
-  <div id="quest-root">
-  <div id="quest-calls-to-action"></div>
-</div>
-
 </div><div class="base-main-wrapper">
     <!--[if lte IE 9]><style>/* AUTO-GENERATED */
 .tabbar { display: inline-block; width: 100%; text-align: center; }
@@ -830,196 +794,398 @@ body { overflow-x: auto; }</style><div class="alertbar"><a class="alertbar-link"
 </div>
       <div class="inner-main-wrapper">
   <p>
-    Effective Date: April 20, 2016
+    Effective Date: October 18, 2016
   </p>
 
   <p>
-    Your privacy is important, so Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of <a href="/">humblebundle.com</a> or Humble Bundle’s mobile application (individually and collectively, the “Service”), know
+    Humble Bundle, Inc. ("Humble Bundle," "we," "us," or "our") has created the following Privacy Policy to let users of <a href="/">humblebundle.com</a> or Humble Bundle’s mobile application (individually and collectively, the “Service”), know
     what information we collect when you visit the Service, why we collect it, and how it is used. This Privacy Policy explains the data collection and use
     practices of the Service; it does not apply to other online or offline Humble Bundle sites, products or services. The terms "you," "your," and "yours"
-    refer to the customer/purchaser utilizing our Service. By using the Service, you consent to the data practices prescribed in this Privacy
-    Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy
-    and remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble
-    Bundle will post a notice on <a href="/">humblebundle.com</a>. Capitalized terms that are not defined in this Privacy Policy
-    have the meaning given them in our <a href="/terms">Terms and Conditions</a>.
+    refer to users of our Service. By using the Service, you consent to the data practices prescribed in this Privacy
+    Policy and agree to our <a href="/terms">Terms and Conditions</a>.
+  </p>
+  <p>
+    <strong>Changes to this Privacy Policy.</strong>
+  </p>
+  <p>
+    We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy and
+    remain informed about any changes to it, so we encourage you to visit this page often. If a material change is made to this Privacy Policy, then Humble
+    Bundle will post a notice on <a href="/">humblebundle.com</a>. Your continued use of the Service constitutes your agreement to this Privacy Policy and any
+    updates.
+  </p>
+  <p>
+    <strong>Privacy Shield.</strong>
+  </p>
+  <p>
+    Humble Bundle has applied to participate in the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection,
+    use, and retention of personal information from the European Union, European Economic Area, and Switzerland. Humble Bundle has certified or will certify to
+    the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity
+    and purpose limitation, access, and recourse, enforcement and liability. For purposes of this section, Humble Bundle refers to the following U.S. legal
+    entities: Humble Bundle, Inc.
+  </p>
+  <p>
+    In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission,
+    we hereby affirm our commitment to subject to the Privacy Shield Principles all personal information transferred from the European Union, European Economic
+    Area or Switzerland in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall
+    be liable to you for any third party agent to which we transfer your personal information and that processes such personal information in a manner that
+    violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages.
+  </p>
+  <p>
+    For inquiries or complaints regarding our compliance with Privacy Shield, please send us an email or letter at the Privacy Shield address specified in the
+    "Contacting Humble Bundle" section below. If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at
+    <a href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim" target="_blank">https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim</a>.
+    In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding
+    arbitration to be provided to you in accordance with the Privacy Shield Principles.
+  </p>
+  <p>
+    To learn more about the Privacy Shield Framework, please visit <a href="http://www.privacyshield.gov" target="_blank">http://www.privacyshield.gov</a>. A
+    list of companies certified under the Privacy Shield Framework is available at the following link:
+    <a href="https://www.privacyshield.gov/list" target="_blank">https://www.privacyshield.gov/list</a>.
   </p>
   <p>
     <strong>What Information Is Collected?</strong>
   </p>
   <p>
-    "<strong>Personal Information</strong>" means any information that may be used to identify an individual, including, but not limited to, a first and last
-    name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. Humble Bundle collects the
-    following Personally Identifiable Information from you when you use our Service: your email address, and payment information (credit card and address,
-    PayPal, or Amazon information). If you correspond with us by email or through the Service, we may retain the content of your messages, your email address
-    and our responses.
+    <strong>Information You Provide.</strong>
   </p>
   <p>
-    Humble Bundle also automatically receives and records information on our server logs from your browser, including your IP address, cookie information, and
-    the page you request. : Our Service uses Google Analytics to help us learn about who visits our site and what pages are being viewed. You can choose not to
-    provide us with certain information, but then you might not be able to take advantage of some of our features.
+    We may collect information you provide directly via the Service.  For example, we collect information when you register an account, sign-up for a monthly
+    subscription, choose how much to pay and where your money goes, make a purchase, or otherwise communicate or transact with us through the Service.
   </p>
   <p>
-    When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that
-    uniquely identifies your browser and lets Humble Bundle help you log in faster and enhance your navigation through the Service. A cookie may also convey
-    information about how you browse the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard
-    drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed
-    by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to
-    refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept
-    cookies is disabled.
+    The information we collect includes Personal Information. "Personal Information" means any information that may be used to identify an individual,
+    including a first and last name, home or other physical address, an email address, phone number, payment information (credit card and address), or other
+    contact information, whether at work or at home. You may choose to voluntarily submit certain other information to us through the Service, including
+    Personal Information, but you are solely responsible for your own Personal Information in instances where we have not requested that you submit such
+    information to us.
+  </p>
+  <p>
+    We may de-identify your Personal Information by removing characteristics (such as your name or email address) that make the information personally
+    identifiable. Personal Information once de-identified is not subject to this Privacy Policy and we may treat it as non-Personal Information and use it
+    without obligation to you except as prohibited by applicable law.
+  </p>
+  <p>
+    <strong>Information Collected Automatically.</strong>
+  </p>
+  <p>
+    Humble Bundle also automatically collects certain information about you when you access or use the Service ("Usage Information"). Usage Information may
+    include IP address, device identifier, browser type, operating system, data regarding network connected hardware, and information about your use of the
+    Service.  Except to the extent required by applicable law, Humble Bundle does not consider Usage Information to be Personal Information.  However, Usage
+    Information may be combined with your Personal Information.  To the extent that we combine Usage Information with your Personal Information, we will treat
+    the combined information as Personal Information under this Privacy Policy.
+  </p>
+  <p>
+    The methods that may be used on the Service to collect Usage Information include:
+  </p>
+  <ul>
+    <li>
+      Log Information: Log information is data about your use of the Service, such as IP address, browser type, internet service provider, referring/exit pages,
+      operating system, date/time stamps, and related data, which is stored in log files.
+    </li>
+    <li>
+      Information Collected by Tracking Technologies: Cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying
+      technologies, device fingerprinting, in-app tracking methods, and other tracking technologies now and hereafter developed may be used to collect
+      information about your interactions with the Service or e-mails, including information about your browsing and activity behavior.
+      <ul>
+        <li>
+          Cookies.
+          <br>
+          When you visit the Service, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your device
+          that uniquely identifies your browser and lets Humble Bundle help you log in faster and enhance your navigation through the Service. A cookie may also
+          convey information about how you browse the Service to us. A persistent cookie remains on your hard drive after you close your browser. Persistent
+          cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A
+          session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a
+          cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+        </li>
+        <li>
+          Web Beacons ("Tracking Pixels").
+          <br>
+          Web beacons are small graphic images, also known as "internet tags" or "clear gifs," embedded in web pages and e-mail messages. Web beacons may be
+          used to count the number of visitors to the Service, to monitor how users navigate the Service, and to count content views.
+        </li>
+        <li>
+          Embedded Scripts.
+          <br>
+          An embedded script is programming code designed to collect information about your interactions with the Service. It is temporarily downloaded onto your
+          device from our web server or a third party with whom we work, is active only while you are connected to the Service, and deleted or deactivated thereafter.
+        </li>
+        <li>
+          Location-identifying Technologies.
+          <br>
+          GPS (global positioning systems) software, geo-filtering, and other location-aware technologies locate (sometimes precisely) you for purposes such as
+          verifying your location and delivering or restricting relevant content based on your location.
+        </li>
+        <li>
+          Device Fingerprinting.
+          <br>
+          Device fingerprinting is the process of analyzing and combining sets of information elements from your device's browser, such as JavaScript objects and
+          installed fonts, in order to create a "fingerprint" of your device and uniquely identify your device and applications.
+        </li>
+        <li>
+          In-App Tracking Methods.
+          <br>
+          There are a variety of Tracking Technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be
+          controlled by browser settings.  Some use device identifier, or other identifiers such as "Ad IDs" to associate app user activity to a particular app and
+          to track user activity across apps. You can stop all collection of information via our mobile applications by uninstalling them. Also, you may be able to
+          exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device.
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <p>
+    For further information on tracking technologies and your choices regarding them, please see the "Analytics and Advertising Tracking Technologies" section below.
+  </p>
+  <p>
+    <strong>Information from Other Sources.</strong>
+  </p>
+  <p>
+    We may obtain information about you from other sources, including service providers and third party billing processors such as Amazon and PayPal, and combine
+    such information with information we have collected about you.   To the extent we combine such third party sourced information with Personal Information we have
+    collected about you on the Service, we will treat the combined information as Personal Information under this Privacy Policy.  We are not responsible for the
+    accuracy of any information provided by third parties or third party policies or practices.
   </p>
   <p>
     <strong>How Is Such Information Used?</strong>
   </p>
   <p>
-    We use your PersonalInformation to provide you the services offered on our Service. Humble Bundle may use your email address to email you a link to your
-    download page and to notify you of future Humble Bundle promotions if the "Notify me about future Humble Bundle promotions" checkbox is checked. Humble
-    Bundle may also use your Personal Information in order to contact you if you request customer or technical support.
+    We use information about you, including your Personal Information, for any purposes consistent with our statements under this Privacy Policy including to:
+  </p>
+  <ul>
+    <li>
+      Provide you the services offered on our Service.
+    </li>
+    <li>
+      Manage your registration, account, monthly subscription and purchases.
+    </li>
+    <li>
+      Contact you if you request customer or technical support, and provide you with customer service.
+    </li>
+    <li>
+      Send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages.
+    </li>
+    <li>
+      Prevent and address fraud, breach of policies or terms, and threats or harm.
+    </li>
+    <li>
+      Coordinate your payments and where your money goes.
+    </li>
+    <li>
+      Improve the Service or other Humble Bundle websites, applications, marketing efforts, products and services.
+    </li>
+    <li>
+      Analyze how the Service is used, diagnose service or technical problems, maintain security, and personalize content.
+    </li>
+    <li>
+      Send you advertisements and communicate with you regarding our and third party products, services, offers, promotions, rewards and events we think you
+      may be interested in (for information about how to manage these communications, see the "Analytics and Advertising Tracking Technologies" and
+      "Communications" sections below).
+    </li>
+    <li>
+      Fulfill any other purpose disclosed at the time you provide Personal Information.
+    </li>
+  </ul>
+  <p>
+    We may make any commercial use of de-identified information, including sharing the information with third parties.
   </p>
   <p>
-    Humble Bundle uses the data you enter on the Service, such as the price you enter and your slider positions, to make sure that your contributions go to the
-    right places. Humble Bundle uses browser data like which operating system you are using to improve the Service’s user experience by making your download
-    page default to the game builds corresponding to your current operating system.
+    <strong>How Is The Information Shared or Disclosed?</strong>
   </p>
   <p>
-    We use cookies to improve our Service and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same
-    information. Cookies from our Service cannot be read by other sites. Most browsers will accept cookies until you change your browser settings to refuse
-    them.
+    Our agents, vendors, consultants, and other service providers may receive, or be given access to your information, including Personal Information and Usage
+    Information, in connection with their work on our behalf.  These service providers are prohibited from using your Personal Information for any purpose other
+    than to provide this assistance, although we may permit them to use aggregate information which does not identify you or de-identified information for other
+    purposes.
   </p>
   <p>
-    We may use certain information about you internally or via third-party service providers for purposes such as analyzing how the Service is used, diagnosing
-    service or technical problems, maintaining security, and personalizing content.
+    We must disclose Personal Information about you in response to lawful requests by public authorities, including to meet national security or law enforcement
+    requirements.  We may also share information about you with third parties for any purposes consistent with our statements under this Privacy Policy,
+    including as follows:
   </p>
+  <ul>
+    <li>
+      To complete and support your purchases on the Service. For example, we may disclose information to third party payment processors and the charities you select.
+    </li>
+    <li>
+      To third party social networks at your direction, e.g. when you "tweet" or "like" something on the Service.
+    </li>
+    <li>
+      If required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process
+      served on Humble Bundle or the Service; (2) protect and defend the rights or property of Humble Bundle; or (3) act in urgent circumstances to protect the
+      personal safety of users of Humble Bundle, its web sites or the public.
+    </li>
+    <li>
+      If Humble Bundle or substantially all of its assets are acquired, or in the unlikely event that Humble Bundle goes out of business or enters bankruptcy, user
+      information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer
+      of Humble Bundle may continue to use your Personal Information as set forth in this policy.
+    </li>
+    <li>
+      With our affiliates for internal business purposes;
+    </li>
+    <li>
+      With our affiliates, business partners, and other third parties for their own business purposes, including direct marketing purposes (California residents
+      have certain rights set forth in "Your California Privacy Rights" below).
+    </li>
+    <li>
+      For purposes disclosed at the time you provide Personal Information.
+    </li>
+    <li>
+      With your consent or at your direction.
+    </li>
+  </ul>
   <p>
-    We may make your Personal Information non-personally identifiable by either combining it with information about other users (aggregating your Personal
-    Information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally
-    identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully
-    transferable right and license to use your Personal Information in connection with the creation and development of analytical and statistical analysis
-    tools relating to the use of the customer data we collect on the Site (the “Analytical Data”). We may make any commercial use of the Analytical Data,
-    including without limitation, sharing the Analytical Data with third parties.
-  </p>
-  <p>
-    <strong>Is The Information Shared or Disclosed?</strong>
-  </p>
-  <p>
-    Humble Bundle does not sell or share the information it collects through the Service except as described in this Privacy Policy. Information collected from
-    you is disclosed and used to complete and support your purchases from and use of the Humble Bundle Service and to comply with any requirements of law. For
-    example, we may disclose information to third party payment processors. We may also disclose information to third party social networks at your direction,
-    e.g. when you "tweet" or "like" something on the Service.
-  </p>
-  <p>
-    From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you
-    provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot
+    In addition, from time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner.
+    If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot
     control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to
     participate in these Events.
   </p>
   <p>
-    Humble Bundle may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to
-    the edicts of the law or comply with legal process served on Humble Bundle or the Service; (2) protect and defend the rights or property of Humble Bundle;
-    or (3) act in urgent circumstances to protect the personal safety of users of Humble Bundle, its web sites or the public. If Humble Bundle or substantially
-    all of its assets are acquired, or in the unlikely event that Humble Bundle goes out of business or enters bankruptcy, user information would be one of the
-    assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Humble Bundle may continue
-    to use your Personal Information as set forth in this policy.
+    <strong>Social Features and Links to Other Web Sites.</strong>
   </p>
   <p>
-    <strong>Choice.</strong>
+    Certain functionalities on the Service permit interactions that you initiate between the Service and certain third party services, such as third party social
+    networks ("Social Features"). Examples of Social Features include "liking" or "sharing" our content and otherwise connecting our Service to a third party service.
+    If you use Social Features, and potentially other third party services, information you post or provide access to may be publicly displayed on our Service or by
+    the third party service that you use. Similarly, if you post information on a third party service that references our Service (e.g., by using a hashtag associated
+    with Humble Bundle in a tweet or status update), your post may be used on or in connection with our Service.  Also, both Humble Bundle and the third party may have
+    access to certain information about you and your use of our Service and the third party service.
   </p>
   <p>
-    You can access and modify your information by visiting your unique download page and changing the settings. Please be aware that this Privacy Policy and
-    the choices you make on the Service will not necessarily apply to Personal Information you may have provided to Humble Bundle in the context of other,
-    separately operated, Humble Bundle products or services.
+    We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that
+    when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website,
+    including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+  </p>
+  <p>
+    <strong>Analytics and Advertising Tracking Technologies.</strong>
+  </p>
+  <p>
+    Our Service uses Google Analytics and other service providers to help us learn about who visits our Service and what pages are being viewed.  These analytics
+    services may use tracking technologies. Information generated by these services (e.g., your IP address and other Usage Information) may be transmitted to and
+    stored by these service providers on servers in the U.S. (or elsewhere) and these service providers may use this information for purposes such as evaluating your
+    use of the Service, compiling statistic reports on the Service's activity, and providing other services relating to Service activity and other internet usage.
+  </p>
+  <p>
+    We may also engage and work with third parties to serve advertisements on the Service and/or on third party services. These third parties may use tracking
+    technologies to tailor ads to your interests based on your browsing of the Service and elsewhere on the internet, sometimes referred to as "interest-based
+    advertising" and "online behavioral advertising, which may include sending you an ad on a third party service after you have left the Services (i.e.,
+    "retargeting").
+  </p>
+  <p>
+    You may exercise choices regarding the use of cookies from Google Analytics by going to
+    <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a> or downloading the Google Analytics Opt-out
+    Browser Add-on.
+  </p>
+  <p>
+    You may choose whether to receive interest-based advertising by submitting opt-outs.  Some of the advertisers and service providers that perform
+    advertising-related services for us and our partners may participate in the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online
+    Behavioral Advertising.  To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit
+    <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a>, and
+    <a href="http://www.aboutads.info/appchoices" target="_blank">http://www.aboutads.info/appchoices</a> for information on the DAA's opt-out program for
+    mobile apps.  Some of these companies may also be members of the Network Advertising Initiative ("NAI"). To learn more about the NAI and your opt-out
+    options for their members, see <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a>.  Please
+    be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads.  Opting out
+    only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any
+    targeted content and/or ads (e.g., from other ad networks).  Humble Bundle is not responsible for effectiveness of, or compliance with, any third-parties'
+    opt-out options or programs or the accuracy of their statements regarding their programs.
+  </p>
+  <p>
+    Our Service uses fraud prevention software developed by Sift Science, Inc. Sift Science’s anti-fraud services are designed to prevent your credit card and
+    other Personal Information from being used in a fraudulent purchase through the Service. Sift Science works by analyzing user behavior and detecting
+    patterns that indicate fraud. Sift Science may also track your activity over time and over a network of sites. We encourage you to learn more about Sift
+    Science and read their privacy policy on their website at <a href="https://siftscience.com">https://siftscience.com</a>.
   </p>
   <p>
     <strong>“Do Not Track”</strong>
   </p>
   <p>
-    In compliance with California legislation, AB370, effective January 1, 2014, Humble Bundle’s practices in responding to “do not track” signals and
-    collecting user information over time and across a network of websites when you visit the Site are described below.
+    Your browser settings may allow you to automatically transmit a "Do Not Track" signal to online services you visit.  Note, however, there is no industry
+    consensus as to what site and app operators should do with regard to these signals.  Accordingly, we do not monitor or take action with respect to
+    "Do Not Track" signals or other mechanisms.  For more information on "Do Not Track," visit
+    <a href="http://www.allaboutdnt.com" target="_blank">http://www.allaboutdnt.com</a>.
   </p>
   <p>
-    Our Site uses fraud prevention software developed by Sift Science, Inc. Sift Science’s anti-fraud services are designed to prevent your credit card and
-    other Personal Information from being used in a fraudulent purchase through the Service. Sift Science works by analyzing user behavior and detecting
-    patterns that indicate fraud. If the Service does not track user behavior, then Sift Science will not work. Thus, in an effort to protect you against
-    credit card fraud, the Service does not honor “do not track” signals sent by your browser when you use the Service. Sift Science may also track your
-  activity over time and over a network of sites. We encourage you to learn more about Sift Science and read their privacy policy on their website at  <a href="https://siftscience.com">https://siftscience.com</a>.
+    <strong>Accessing and Changing Your Information.</strong>
   </p>
   <p>
-    <strong>The Security of Your Information.</strong>
+    You have the right to access the Personal Information we have about you. You can access, modify, and remove your information by contacting us at
+    <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a>. We may require additional information from you to allow us to confirm your identity.
+    Please note that we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   </p>
   <p>
-    The Personal Information that you provide to us is stored on severs that are located in secured facilities and protected by protocols and procedures
-    designed to ensure the security of such information. In addition, Humble Bundle employees and agents who have access to your personal information are
-    trained in the maintenance and security of that information. However, no server, computer or communications network or system, or data transmission over
-    the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any
-    information you transmit to us or through the use of the Service and you acknowledge and agree that you provide such information and engage in such
-    transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+    <strong>Communications.</strong>
   </p>
   <p>
-    <strong>International Transfers</strong>
+    You can opt out of receiving certain promotional communications (e-mails and push notifications) from us at any time by (i) for e-mails, unchecking the
+    "Notify me about future Humble Bundle promotions" checkbox in your account settings, following the instructions as provided in e-mails to click on the
+    unsubscribe link, or contacting us at <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a> with the word UNSUBSCRIBE in the subject field
+    of the e-mail; and (ii) for push notifications or in-app messages, adjusting the permissions in your mobile device.  Please note that your opt-out is limited
+    to the e-mail address or device used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account,
+    transactions, servicing, or Humble Bundle's ongoing business relations.
   </p>
   <p>
-    Personal information collected on the Service may be stored and processed in the United States or any other country in which Humble Bundle or its
-    affiliates, subsidiaries or agents maintain facilities, and by using the Service, you consent to any such transfer of information outside of your country.
+    <strong>Your California Privacy Rights.</strong>
+  </p>
+  <p>
+    California's "Shine the Light" law permits customers in California to request certain details about how certain types of their information are shared with
+    third parties and, in some cases, affiliates, for those third parties' and affiliates' own direct marketing purposes. Under the law, a business should either
+    provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
+  </p>
+  <p>
+    Humble Bundle may share "personal information" as defined by California's "Shine the Light" law with third parties for such third parties own direct marketing
+    purposes.  California residents may obtain information about our compliance with this law by contacting us at
+    <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a> or by sending a letter to Humble Bundle, Inc., 201 Post St, Floor 11, San Francisco,
+    California 94108 (Attn: Legal Department). Requests must include "California Privacy Rights Request" in the first line of the description and include your name,
+    street address, city, state, and ZIP code.  Please note that Humble Bundle is not required to respond to requests made by means other than through the provided
+    e-mail address or mail address.
+  </p>
+  <p>
+    <strong>Your European Privacy Rights.</strong>
+  </p>
+  <p>
+    If you are a resident of Europe and would like us not to process your personal information (or not to provide it to third parties to process) for direct
+    marketing purposes, please send us an email or letter at the Privacy Shield address specified in the "Contacting Humble Bundle" section below. We will try to
+    make the requested changes in our active databases as soon as reasonably practical.
   </p>
   <p>
     <strong>Children.</strong>
   </p>
   <p>
-    Humble Bundle will not knowingly collect personally identifiable information from any person age 13 and under. Humble Bundle encourages parents to instruct
-    their children to never give out personal information when online. Parents who are concerned about the transfer of personal information from their children
-    may contact us at contact@humblebundle.com to obtain a record of any information held by Humble Bundle and have it removed at their request.
+    Humble Bundle does not knowingly collect personal information from children age 13 and under as defined by the U.S. Children's Privacy Protection Act ("COPPA").
+    Parents or legal guardians who believe Humble Bundle has collected such information in a manner not permitted by COPPA may contact us at
+    <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a>.
   </p>
   <p>
-    <strong>Links to Other Web Sites.</strong>
+    <strong>The Security of Your Information.</strong>
   </p>
   <p>
-    We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please
-    remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on
-    any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and
-    policies before proceeding.
-  </p>
-  <p>
-    <strong>Your Consent To This Privacy Policy.</strong>
-  </p>
-  <p>
-    By using this Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We
-    may change this Privacy Policy by posting a new version of this Privacy Policy on this Service which it is your responsibility to review, but we will
-    provide reasonable notice to you of material changes. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.
+    We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+    However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, we
+    cannot ensure or warrant the security of any information you transmit to us or through the use of the Service and you acknowledge and agree that you provide
+    such information and engage in such transmissions at your own risk.
   </p>
   <p>
     <strong>Contacting Humble Bundle.</strong>
   </p>
   <p>
-  If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please <a href="https://support.humblebundle.com">contact us</a>.
+    If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please contact us at:
+    <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a>.
   </p>
   <p>
-    <strong>Governing Law</strong>
+    Humble Bundle, Inc.<br>
+    Attn: Legal Department<br>
+    201 Post St, Floor 11<br>
+    San Francisco, CA<br>
+    94108
   </p>
   <p>
-    This Privacy Policy is governed by, and construed under, the laws of the United States of America and the law of the State of California, excluding its
-    choice of law provisions.
+    For any questions or complaints regarding our compliance with Privacy Shield, please contact us at:
+    <a href="mailto:contact@humblebundle.com">contact@humblebundle.com</a> .
   </p>
   <p>
-    <strong>Dispute Resolution Outside The European Union</strong>
-  </p>
-  <p>
-    If you are a resident of any country not a current member of the European Union, you agree that should any dispute or claim arise out of, or relate to,
-    this Policy (“Claim”), you will attempt in good faith to negotiate a written resolution of the Claim directly with us. You agree that if the matter remains
-    unresolved for thirty (30) days after one party has provided written notice of the Claim to the other party, all parties shall join in mediation services
-    in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any
-    administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover
-    attorneys’ fees, even if you would otherwise be entitled to them.
-  </p>
-  <p>
-    Humble Bundle will send its notice to the mailing or email address that we have on file. You will send your notice to Humble Bundle, 201 Post St., Floor
-    11, San Francisco, CA 94108, Attn: Legal Department. Please note that this informal resolution procedure does not suspend any statutory limitation periods
-    applicable to the bringing of a Claim.
-  </p>
-  <p>
-    <strong>Dispute Resolution for Residents of the European Union</strong>
-  </p>
-  <p>
-    If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may
-    report your claim to the European Union Data Protection Authorities located in your jurisdiction.
+    Humble Bundle, Inc.<br>
+    Attn: Privacy Shield<br>
+    201 Post St, Floor 11<br>
+    San Francisco, CA<br>
+    94108
   </p>
 </div>
     </div>
@@ -1045,7 +1211,7 @@ require(['account/accountModals'], function (accountModals) {
     base_url_secure: "https://www.humblebundle.com",
     goto: "",
     qs: "",
-    csrf_token_input: "<input type='hidden' class='csrftoken' name='_le_csrf_token' value='k7GhIUYwdhINWaE9-1-1466054657' />"
+    csrf_token_input: "<input type='hidden' class='csrftoken' name='_le_csrf_token' value='M6J1asT64hPysW2R-1-1482985685' />"
   };
   accountModals.bindCancelDialog();
   accountModals.bindAccountModalHandling({
@@ -1184,10 +1350,29 @@ if (typeof requirejs === 'function') {
 </script> 
 
 
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1658430177760250');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=1658430177760250&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
   <script async="" src="https://checkout.stripe.com/checkout.js"></script>
 
   <script>
-    var _user_id = "x5CbcjHaECcdVuw6h9PqHmp9p6jMyoeTPJtn9xPEJ09hUoltzVeDMwlzKdrVDFtEZR";
+    var _user_id = "0MRJOyl528oySG0aLZWSamEB3Y88NQm6v2JbHFIKIvgArX5PGqipsUYrt8jIflvNxF";
 
 var _sift = _sift || [];
 _sift.push(['_setAccount', 'fa5602386c']);
@@ -1214,7 +1399,8 @@ _sift.push(['_trackPageview']);
   <script></script>
 
   <script>
-    var runanalytics = function() {
+    
+var runanalytics = function() {
   var analyze = function(id) {
     if (!id) return;
     var storage = getLocalStorage();
@@ -1222,6 +1408,8 @@ _sift.push(['_trackPageview']);
     if (previds.match(id)) return;
 
     $.post('/analytics', {'id':id}, function(data) {
+      var gaData;
+
       if (data.complete) {
         storage.setItem('hbprevids', previds + ',' + id);
       }
@@ -1230,21 +1418,30 @@ _sift.push(['_trackPageview']);
         return;
       }
 
-      ga('ecommerce:addTransaction', {
+      gaData = {
         id: data.uid,
         revenue: data.amount
+      };
+      ga('ecommerce:addTransaction', gaData);
+      ga('send', {
+        hitType: 'event',
+        eventCategory: 'Purchase',
+        eventAction: data.category,
+        eventLabel: data.product,
+        eventValue: data.pennies
       });
-
       for (var i = 0; i < data.items.length; i++) {
         var item = data.items[i];
-        ga('ecommerce:addItem', {
+
+        gaData = {
           id: data.uid,
           name: item.kind,
-          sku: data.bundle,
+          sku: data.product,
           category: item.kind,
           price: item.amount,
           quantity: '1'
-        });
+        };
+        ga('ecommerce:addItem', gaData);
       }
 
       ga('ecommerce:send');
@@ -1254,8 +1451,13 @@ _sift.push(['_trackPageview']);
 
   analyze($.cookie('hbuid'));
 
+  var partnerId = $.cookie('partner_id');
+  if (partnerId) {
+    ga('set', 'dimension2', partnerId);
+  }
 };
 runanalytics();
+
 /*
  *	TypeWatch 2.0 - Original by Denny Ferrassoli / Refactored by Charles Christolini
  *
@@ -1455,7 +1657,7 @@ require([
     'pricing_constants': {
       'current_country': "US",
       'currencies': ["USD", "EUR", "GBP"],
-      'exchange_rates': {"USD": 1.0, "IDR": 13366.544968833481, "BGN": 1.7415850400712378, "ILS": 3.876313446126447, "GBP": 0.70487978628673198, "DKK": 6.6211932324131793, "CAD": 1.2856634016028494, "JPY": 106.22439893143365, "HUF": 279.4835262689225, "RON": 4.03900267141585, "MYR": 4.100979519145147, "SEK": 8.3294746215494211, "SGD": 1.3548530721282279, "HKD": 7.7615316117542301, "AUD": 1.3524487978628674, "CHF": 0.96322350845948357, "KRW": 1171.9323241317898, "CNY": 6.5810329474621545, "TRY": 2.9300979519145147, "HRK": 6.7032947462154944, "NZD": 1.4224398931433659, "THB": 35.264470169189671, "EUR": 0.89047195013357083, "NOK": 8.3183437221727523, "RUB": 65.662511130899375, "INR": 67.112199465716827, "MXN": 18.877382012466608, "CZK": 24.107747105966162, "BRL": 3.4679430097951913, "PLN": 3.9286731967943012, "PHP": 46.333036509349952, "ZAR": 15.228495102404274},
+      'exchange_rates': {"USD": 1.0, "IDR": 13442.495913854436, "BGN": 1.8803961157581002, "ILS": 3.8529949043361214, "GBP": 0.8184597634842804, "DKK": 7.1484472646860882, "CAD": 1.3574656283049706, "JPY": 117.67137775213922, "HUF": 297.11566195558117, "RON": 4.3664070762426688, "MYR": 4.4835112008460722, "SEK": 9.2090183636188829, "SGD": 1.45245649456783, "HKD": 7.758292471877704, "AUD": 1.3933275646572445, "CHF": 1.0300932602634363, "KRW": 1213.3160273050669, "CNY": 6.959330833573695, "TRY": 3.5460051918084798, "HRK": 7.2632439188539566, "NZD": 1.4469762522834342, "THB": 36.03018940486492, "EUR": 0.96144601480626868, "NOK": 8.7277184886068646, "RUB": 60.565137967503127, "INR": 68.232381501778676, "MXN": 20.738390539371213, "CZK": 25.999423132391115, "BRL": 3.2714162099798094, "PLN": 4.2330545139890399, "PHP": 49.846168637630996, "ZAR": 13.896259975002403},
       'euro_countries': ["BE", "FR", "BG", "DK", "HR", "DE", "HU", "FI", "BA", "NL", "PT", "NO", "LI", "LV", "LT", "LU", "RO", "PL", "VA", "CH", "GR", "EE", "IT", "AL", "CZ", "CY", "AT", "AD", "IE", "ES", "ME", "EUROPE_EURO", "MC", "RS", "MK", "SK", "MT", "SI", "SM", "SE"],
       'gbp_countries': ["GS", "GG", "SH", "IM", "GB", "UK", "JE", "EUROPE_GBP", "BQ"]
     },
@@ -1471,36 +1673,33 @@ require([
     }
   });
 });
-(function() {
+$(document).ready(function() {
   var Dropdown = (function() {
-    // Model: Setup
     function Dropdown(options) {
+      var that = this;
+      
       this.el = {
-        toggle: document.querySelector(options.toggleTag),
-        container: document.querySelector(options.containerTag)
+        $toggle: options.toggleEl,
+        $container: options.containerEl
       };
 
       this.events = {
-        toggleClick: (function(_this) {
-          return function(event) {
-            event.stopPropagation();
-            event.preventDefault();
-            _this.toggleState();
-            _this.render();
-            if (_this.visible) {
-              return _this.bindToDocument();
-            } else {
-              return _this.unbindToDocument();
-            }
-          };
-        })(this),
-        hide: (function(_this) {
-          return function(event) {
-            _this.visible = false;
-            _this.render();
-            return _this.unbindToDocument();
-          };
-        })(this)
+        toggleClick: function(event) {
+          event.stopPropagation();
+          event.preventDefault();
+          that.toggleState();
+          that.render();
+          if (that.visible) {
+            return that.bindToDocument();
+          } else {
+            return that.unbindToDocument();
+          }
+        },
+        hide: function() {
+          that.visible = false;
+          that.render();
+          return that.unbindToDocument();
+        }
       };
 
       if (_.has(options, 'visible')) {
@@ -1519,13 +1718,13 @@ require([
     Dropdown.prototype.validateOptions = function() {
       var messages;
       messages = {
-        toggleNotFound: "Toggle element not found",
-        containerNotFound: "Container element not found"
+        toggleNotFound: 'Toggle element not found',
+        containerNotFound: 'Container element not found'
       };
-      if (!this.el.toggle) {
+      if (!this.el.$toggle.length) {
         throw new Error(messages.toggleNotFound);
       }
-      if (!this.el.container) {
+      if (!this.el.$container.length) {
         throw new Error(messages.containerNotFound);
       }
       return this;
@@ -1541,22 +1740,22 @@ require([
 
     // Ctrl: Event handling
     Dropdown.prototype.bind = function() {
-      this.el.toggle.addEventListener('click', this.events.toggleClick);
+      this.el.$toggle.on('click', this.events.toggleClick);
       return this;
     };
 
     Dropdown.prototype.unbind = function() {
-      this.el.toggle.removeEventListener('click', this.events.toggleClick, false);
+      this.el.$toggle.off('click', this.events.toggleClick);
       return this;
     };
 
     Dropdown.prototype.bindToDocument = function() {
-      document.addEventListener('click', this.events.hide);
+      $(document).on('click', this.events.hide);
       return this;
     };
 
     Dropdown.prototype.unbindToDocument = function() {
-      document.removeEventListener('click', this.events.hide, false);
+      $(document).off('click', this.events.hide);
       return this;
     };
 
@@ -1578,15 +1777,15 @@ require([
     };
 
     Dropdown.prototype.$hide = function() {
-      if (!_.contains(this.el.container.classList, this.hiddenClass)) {
-        this.el.container.classList.add(this.hiddenClass);
+      if (!this.el.$container.hasClass(this.hiddenClass)) {
+        this.el.$container.addClass(this.hiddenClass);
       }
       return this;
     };
 
     Dropdown.prototype.$show = function() {
-      if (_.contains(this.el.container.classList, this.hiddenClass)) {
-        this.el.container.classList.remove(this.hiddenClass);
+      if (this.el.$container.hasClass(this.hiddenClass)) {
+        this.el.$container.removeClass(this.hiddenClass);
       }
       return this;
     };
@@ -1595,29 +1794,18 @@ require([
 
   })();
 
-  if (document.querySelector(".navbar-item-dropdown-toggle")) {
-    var d = new Dropdown({
-      toggleTag: ".navbar-item-dropdown-toggle",
-      containerTag: ".navbar-item-dropdown-container",
-      fadeTime: 200,
-      visible: false
-    });
+  $('.navbar-item-dropdown-toggle').each(function() {
+    var $toggle = $(this),
+        d = new Dropdown({
+          toggleEl: $toggle,
+          containerEl: $toggle.siblings('.navbar-item-dropdown-container'),
+          fadeTime: 200,
+          visible: false
+        })
+    ;
     d.render();
-  }
-
-}).call(this);
-if (typeof require !== 'undefined') {
-  require([
-    'quests/quest_center'
-  ], function(QuestCenter) {
-    var qc = new QuestCenter({
-      $el: $('.quest-center'),
-      debug_preamble: '',
-      channel: ''
-    });
-    return qc;
   });
-}
+});
 
 
 (function(){
