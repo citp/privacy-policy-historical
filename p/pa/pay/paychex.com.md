@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618202323id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paychex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043544id_/http%3A//www.paychex.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,11 +8,11 @@ This Privacy Statement describes how Paychex and our subsidiaries and affiliates
 
 ****At times, we will provide you with links to other websites. We encourage our users to be aware when they leave our site, and to read the privacy statements of every website that collects personally identifiable information.
 
-  * [Information Collection and Use](https://web.archive.org/corporate/privacy.aspx#information)
-  * [Parties with Whom Information May be Shared](https://web.archive.org/corporate/privacy.aspx#parties)
-  * [How to Access and Correct Your Information](https://web.archive.org/corporate/privacy.aspx#access)
-  * [Security](https://web.archive.org/corporate/privacy.aspx#security)
-  * [Changes to this Privacy Statement](https://web.archive.org/corporate/privacy.aspx#changes)
+  * Information Collection and Use
+  * Parties with Whom Information May be Shared
+  * How to Access and Correct Your Information
+  * Security Center Information
+  * Changes to this Privacy Statement
 
 
 
@@ -97,9 +97,9 @@ Information is shared to facilitate the Services needed in order to properly and
 
 Keeping your information accurate and up-to-date is very important. You can review or correct your account information by contacting a customer service representative. If you have an account at the Site, you can make changes to your account information after you login to the Site from your PC or wireless device and using the online tools. Note that some information changes may be done by or have to be done through your employer.
 
-## Security
+## Security Center
 
-For information about our commitment to protecting the security and integrity of our customers’ information, please refer to the [Security Center](http://www.paychex.com/corporate/security/).
+For information about our commitment to protecting the security and integrity of our customers’ information, please [refer to the Security Center](http://www.paychex.com/corporate/security/).
 
 ## Changes to This Privacy Statement
 
@@ -110,16 +110,16 @@ If you have any comments, concerns or questions about this Privacy Statement, pl
 Last revised date: April 1, 2016
 
   * [About Us](http://www.paychex.com/corporate/about-us.aspx)
-  * [Office Locations](http://locations.paychex.com/)
+  * [Office Locations](https://locations.paychex.com/)
   * [Paychex History](http://www.paychex.com/corporate/history.aspx)
   * [Privacy Statement](http://www.paychex.com/corporate/privacy.aspx)
   * [Security Center](http://www.paychex.com/corporate/security/)
-  * [Paychex Community Foundation](http://www.paychex.com/corporate/community-foundation.aspx)
+  * [Paychex Charitable Foundation](http://www.paychex.com/corporate/charitable-foundation.aspx)
   * [Paychex Golf](http://www.paychex.com/corporate/golf.aspx)
 
 
 
   * [](http://www.paychex.com/ "Home")
-  * [](http://www.paychex.com/login/ "Login")
+  * [](http://www.paychex.com/login/ "Link to Login")
 
 
