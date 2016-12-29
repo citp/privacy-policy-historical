@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612075257id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeshop18.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229115833id_/http%3A//www.homeshop18.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HomeShop18 : Privacy Policy
 
@@ -73,6 +73,8 @@ We will automatically receive and collect certain anonymous information in stand
   * We share your information with advertisers on an aggregate basis only.
 
 
+
+**HomeShop18** and its affiliates will share / sell / transfer some or all of your personal information with another business entity should HomeShop18 (or our business assets) be planned to merge with, or be acquired by another business entity, or on re-organization, amalgamation, restructuring of our business. Should such a transaction occur, the new / other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information. 
 
 **What choices are available to you regarding collection, use and distribution of your information?**
 
