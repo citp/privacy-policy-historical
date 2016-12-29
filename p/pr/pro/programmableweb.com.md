@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616064627id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the programmableweb.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229143629id_/http%3A//www.programmableweb.com/privacy) for the most accurate reproduction.*
 
 # ProgrammableWeb: Privacy Policy | ProgrammableWeb
 
@@ -24,7 +24,7 @@ The accuracy and security of User Information is important to us. Currently, you
 
 ## Usernames and Passwords
 
-Access to certain content on our Website may be allowed under a written agreement between you and us, and may require a username or password issued by us. In some cases, failure to provide personal information may prevent you from accessing certain web site(s) containing certain confidential information or Our Offerings. By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our [Terms of Service](http://www.programmableweb.com/terms).
+Access to certain content on our Website may be allowed under a written agreement between you and us, and may require a username or password issued by us. In some cases, failure to provide personal information may prevent you from accessing certain web site(s) containing certain confidential information or Our Offerings. By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our [Terms of Service](https://web.archive.org/terms).
 
 ## Cookies: We use “cookies”
 
