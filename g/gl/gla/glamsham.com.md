@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062240id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051717id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
 
-| 
+[ ](https://web.archive.org/)
 
-### What's Hot and Trending in Bollywood
+Bollywood Hindi Movie, Music - News, Review,   
+Interviews and Celebrity wallpapers
 
-|   
+[](https://web.archive.org/)
+
 |  |  |  |   
+---|---|---|---|---  
 |   
 
 
