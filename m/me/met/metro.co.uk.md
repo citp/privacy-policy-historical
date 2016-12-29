@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053310id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043201id_/http%3A//metro.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Metro News
 
@@ -200,6 +200,8 @@ We also use cookies in order to know how many advertisements we serve, how many 
 We also use cookies on our own and advertisers’ sites to understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is.
 
 In order to protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive & potentially brand-negative topics, before serving an ad there. This process is called “ad verification”. ** _ _**
+
+We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services.
 
 Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral.
 
