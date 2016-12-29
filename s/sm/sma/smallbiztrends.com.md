@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617104805id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053115id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
 
 # Small Business Trends | Privacy Policy
 
@@ -99,7 +99,7 @@ If you have any questions about this Privacy Statement, please email us at [admi
 
 SmallBizTrends.com  
 ATTN: Small Business Trends Privacy Statement  
-3593 Medina Rd. #160  
-Medina, OH 44256
+15275 Collier Blvd #201-367  
+Naples, FL 34119
 
 Privacy Statement updated March 24th, 2014. 
