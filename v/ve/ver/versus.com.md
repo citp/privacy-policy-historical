@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630064016id_/https%3A//versus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050407id_/https%3A//versus.com/privacypolicy) for the most accurate reproduction.*
 
 # Versus - Privacy Policy
 
-This Privacy Policy governs the manner in which URGE IO GmbH collects, uses, maintains and discloses information collected from users (each, a "User") of the http://versus.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by URGE IO GmbH.
+This Privacy Policy governs the manner in which URGE IO GmbH collects, uses, maintains and discloses information collected from users (each, a "User") of the https://versus.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by URGE IO GmbH.
 
 Personal identification information
 
@@ -46,7 +46,7 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 URGE IO GmbH  
-http://versus.com/  
+https://versus.com/  
 URGE IO GmbH  
 Anklamer 22  
 10115  
