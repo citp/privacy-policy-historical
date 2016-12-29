@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155329id_/http%3A//www.patriots.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229150926id_/http%3A//www.patriots.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New England Patriots
 
 ## New England Patriots Website Privacy Policy
 
-_Last modified: 10/29/2015_
+_Last modified: 11/11/2016_
 
   * Introduction 
   * Children Under the Age of 13 
@@ -25,10 +25,6 @@ _Last modified: 10/29/2015_
 
 
 * * *
-
-  * TRUSTe Privacy Program 
-
-
 
 ## Introduction
 
@@ -311,7 +307,7 @@ If you have any questions about the security of your personal information, you c
 
 It is our policy to post any changes we make to our Privacy Policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by email (sent to the e-mail address specified in your account) or through a notice on the Website home page prior to the change becoming effective. The date the Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this Privacy Policy to check for any changes.
 
-New England Patriots LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Services that link to this Privacy Policy. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
@@ -323,7 +319,3 @@ Foxboro, Massachusetts 02035, USA
 Attn: Website Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=a9e7f2ff-43c6-4318-bede-aa3a0cf32271 "TRUSTe European Safe Harbor certification")
-
-## TRUSTe Privacy Program
-
-New England Patriots LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Services that link to this Privacy Policy. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
