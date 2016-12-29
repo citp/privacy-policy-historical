@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idownloadblog.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626145033id_/http%3A//www.idownloadblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadblog.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052243id_/http%3A//www.idownloadblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ What follows is the Privacy Statement for iDownloadBlog.com. Please read this st
 
 **Email Addresses**
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share your email with any third party. As a matter of fact, we do not collect these email addresses to begin with.
+You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share your email with any third party.
 
 **Ownership of Information**
 
@@ -34,9 +34,9 @@ iDownloadBlog.com may use cookies, or similar technologies to manage users’ si
 
 **Third Party Cookies**
 
-iDownloadBlog.com and its advertisers may also use ad network providers and other service providers, such as Google.com and Kontera, to help present customized content and advertisements on iDownloadBlog.com. These providers may use cookies, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience.
+iDownloadBlog.com and its advertisers may also use ad network providers and other service providers to help present customized content and advertisements on the website. These providers may use cookies, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience.
 
-iDownloadBlog.com may share certain non-personally identifiable information about you as an iDownloadBlog.com user (such as user age and zip code) with certain ad network and service providers, including Google.com and Kontera, to help them deliver more relevant content and advertisements through their networks. The use of cookies, or similar technologies by Google.com, Kontera, and other ad network and content providers is subject to their own privacy policies, not that of iDownloadBlog.com.
+iDownloadBlog.com may share certain non-personally identifiable information about you as an iDownloadBlog.com user (such as user age and zip code) with certain ad network and service providers to help them deliver more relevant content and advertisements through their networks. The use of cookies, or similar technologies by ad networks and content providers is subject to their own privacy policies, not that of iDownloadBlog.com.
 
 **Traffic Reports**
 
@@ -50,12 +50,8 @@ We will make every effort to preserve user privacy but iDownloadBlog.com may nee
 
 iDownloadBlog.com frequently links to other websites. We are not responsible for the content or business practices of these websites. When you leave our website we encourage you to read the destination site’s privacy policy.
 
-**Notification of Changes**
-
-When iDownloadBlog.com makes changes to this privacy policy we will post those changes here.
-
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.idownloadblog.com/contact/).
 
-_Last Updated: 02/06/2014_
+_Last Updated:  09/04/2015_
