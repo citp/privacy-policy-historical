@@ -1,53 +1,113 @@
-> *The following text is extracted and transformed from the english-attack.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316164523id_/http%3A//www.english-attack.com/privacy-policy-en-ea) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-attack.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229160914id_/http%3A//www.english-attack.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | English Attack! – The new way to learn English
+# Privacy Policy | English Attack!
 
-## Privacy Policy 
+[ ](http://www.english-attack.com/)
 
-  1. Privacy Policy  
-We are sensitive to your privacy concerns and committed to maintaining high standards of personal data protection and safeguarding the privacy of your data. By accepting the Terms of Use, you are also confirming that you understand and consent to the information collection, use, and disclosure practices described in our Privacy Policy. Indicating your consent in the separate section of the Registration agreement marked “I accept to receive information and offers from English Attack!'s marketing partners” authorizes English Attack! to share your personal information with trusted third-party vendors working in partnership or association with English Attack! to provide goods and services consistent with the site’s mission and purpose of helping people to improve their English-language skills. If you do not agree with this Privacy Policy, you are requested to refrain from using the English Attack! website or related services. 
-  2. Personal Information  
-2.1. Personal Information includes all information that the user (a) voluntarily provides when he or she signs up for a user account on [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com") or which (b) are collected in the course of his or her use of the site, and which cannot be used to identify the user. 
-  3. Use of Personal Information  
-3.1. The English Attack! website collects, analyzes and stores users' Personal Information for the purpose of enhancing the users' site experience. The site's use of this information allows it to:  
-3.1.a. create personal user accounts for each user, allowing the user access to site functionalities like Community features and the scoring of points;  
-3.1.b. respond to user queries and comments via the Feedback form  
-3.1.c. inform users of new site content and functionality via an e-mail newsletter  
-3.1.d. measure site traffic (Google Analytics)
-  4. Destination of Personal Information  
-4.1. Personal Information collected during site registration is intended for exclusive use by English Attack! The user is notified however that Entertainment Learning may be required to divulge this information if required to do so by a law, industry regulation, or following the decision of a regulatory or judicial authority.  
-4.2. If, upon registration, a user has accepted to receive offers by our commercial partners, the Personal Information provided at registration may be shared with these partners. The user may, at any time, indicate that he or she no longer wants to receive these partner commercial offers, either via direct electronic communication with English Attack!, or by modifying his or her Profile and Account preferences at <http://www.english-attack.com/user/me/profile/profile>). 
-  5. Storage of Personal Information collected on the site  
-5.1. Once a user account has been de-activated, for whatever reason, the data associated with the use of that account (e.g. points scored, content contributed, etc.) are kept and rendered anonymous.  
-5.2. On the other hand, all Personal Information provided upon Site Registration and/or subsequently provided by the user to fill in the user's Public Personal Profile, will be deleted in the XX months following a user request for English Attack! to de-activate his or her account.  
-5.3. Any English Attack! account that has been inactive for over six months may be deleted by English Attack!. That user's personal information will in this case be deleted.  
-5.4. Concerning the storage of any user information collected by our traffic measurement service, Google Analytics, we invite users to consult Google Inc's Privacy Policy at <http://www.google.com/intl/en/privacy/>.  
-5.5 English Attack! is committed to protecting the privacy of the Personal Information stored on the site. The e-mail addresses and first names / last names of users are not visible to other users anywhere on the site, except if the user would like to sign his or her real name to a contribution to a Forum discussion, a posted comment, or if the user has chosen his or her real first and last name as a username or used it in chat forums and in other community features. 
-  6. Security and Technology  
-6.1 It is the responsibility of the User to maintain the confidentiality of his or her password provided during the registration process, and you are fully responsible for all activities that occur under your password or account as well as for the privacy of the information that you, as a User, choose to publish and make known via your Personal Profile Public View. It is not permitted that another person than the User logs in to the Site using the username and password of the User.  
-6.2 The User shall be solely liable for the use of his or her identification information by third parties or for the actions or statements made through the User’s account, whether these be fraudulent or not. The Member holds Entertainment Learning SAS harmless against all claims of this kind. In addition, as Entertainment Learning SAS does not have the obligation or the technical means to check the identity of every person registered with its Services, Entertainment Learning SAS is not liable in the event a User’s identity is used by someone else. If the User has reason to believe that a person is using his or her User identification information or account, including his or her password, he or she must inform English Attack! immediately.  
-6.3 Entertainment Learning SAS undertakes best efforts to protect user data from erroneous deletion, change, or abusive use. In case of damage or deletion of data through unknown viruses or other unforeseeable technical faults, Entertainment Learning SAS cannot be held responsible. Entertainment Learning SAS will prosecute any hacker attacks or the like to the fullest extent of law.
-  7. Cookies  
-7.1. Use of Cookies on Site  
-7.1.a. The user must accept cookies in order to have access to [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com")  
-7.1.b. The English Attack! registration process creates a cookie stored on the user's computer hard disk.  
-7.1.c. This allows the site to avoid, on subsequent visits by the user, having to ask the user to create a new account in order to benefit from the site's content and functionality.  
-7.1.d. These cookies are aggregated and anonymized; they are in no way designed to collect Personal Information on specific users.  
-7.2 Session Cookies used for statistical purposes  
-7.2.a. Due to the choice of technology by one of our suppliers, visiting the English Attack! website results, where possible, in the deployment of a "session cookie" for the purpose of measuring and analyzing the site's audience and statistical usage patterns. For further information, we direct users' attention to the Google Analytics Terms of Use and Privacy policies. 
-  8. Discussion Forums and Public Profile Information  
-8.1. The English Attack! site features discussion forums and areas for user comments. The comments contributed to these areas cannot be collected or used for any other purpose.  
-8.2. Moderators of the English Attack! site may access, modify, rectify, or delete any comment which is extraneous to the theme of the forum post or comment area; contrary to the community etiquette established by English Attack!, or any comments that are illegal.  
-8.3. Every user has access and can modify, rectify, or delete any Personal Information that concerns that user. The user can, at any time, request that his or her comments in a Forum or Comment area be deleted. 
-  9. Hyperlinks to 3rd Party Sites  
-9.1. English Attack! has no control over the content of external, 3rd party sites. The existence of a hyperlink between [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com") and a 3rd party site does not signify that English Attack! condones, supports, or assumes any responsibility whatsoever as to the content, security, or privacy guarantees of the 3rd party site.
-  10. Minors  
-10.1. English Attack! is not intended for users under the age of 13. For users under the age of 18, the user declares and assumes the responsibility that he or she has asked a parent or legal guardian for authorization to use the site. The parent or legal guardian assumes the responsibility for ensuring that the under-aged user respects the Terms & Conditions and Privacy Policy of the site.  
-10.2. The parent(s) or legal guardian also assume the responsability for ensuring that the under-aged user follow generally recommended online security guidelines for minors, such as never giving their real name, their address or telephone number to an online contact without the parents' or guardians' permission. 
-  11. Inappropriate or Illegal Content  
-11.1. Any user of English Attack! can, and is encouraged to, flag inappropriate or illegal content on the site or within the community / forum / comments areas of the site. Content considered as inappropriate or illegal on English Attack! includes hate speech and symbols; pornography; incitation to violence; and any form of racism. 
-  12. Queries or Complaints  
-12.1. In the case of queries or complaints concerning any aspect of our privacy policies or procedures, please inform us by email, providing a link to the offending item, at [contact@english-attack.com](mailto:contact@english-attack.com) You will receive a reply within four working days.  
+Introduction
+
+In the context of an accelerated development of new means of communication, protecting people’s privacy is more important than ever. We are consequently committed to respecting the confidentiality of the personal information we collect in connection with the operation of our service.
+
+Collection of personal data
+
+We collect the following data from our users:  
+\- username  
+\- e-mail address  
+\- last name  
+\- first name  
+\- birth date  
+\- gender  
+\- mother tongue  
+\- country of residence  
+\- profile picture
+
+Personal data includes all information that a user voluntarily provides when registering on the website [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com"), and which is collected in the context of his or her use of the site.  
+Under the descriptive term “data” are included both “registration data” and “usage data,” as described below:  
+Registration data refers to the information in the data fields that the user fills in when creating their English Attack! user account. The filling in of some of these data fields is mandatory in order to have access to all site features. Currently this includes information such as username, first and last name, birthdate, gender, e-mail address, mother tongue, and country of residence.  
+None of this information will be made public.
+
+The provision of a user’s first and last name is optional except if the user buys a subscription to the site (purchase of a Premium Pass). This full name information is considered private and cannot be accessed except by the user himself or herself when registered on English Attack! It is the responsibility of the user to ensure that the information allowing the site to identify and communicate with that user are accurate and up to date.
+
+Usage data is collected automatically when a user is logged on to English Attack! This data does not allow for the identification of the user, as it is anonymous.
+
+The personal data we collect is stored in a secure environment.
+
+Use of personal data collected on the site
+
+The [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com") website processes personal data in various ways in order to allow users to fully enjoy the services offered by the site and to help us continuously improve the user experience. The use of this data allows English Attack! to:
+
+  * Create user accounts on English Attack! in order to provide users with various type is of site functionality, such as the scoring of points
+  * respond to written requests sent to [contact@english-attack.com](mailto:contact@english-attack.com)
+  * send a newsletter
+  * measure the audience of the site (via Google Analytics)
 
 
 
+The collection, recording, processing and use of these data is implemented anonymously in order to generate service usage statistics that help us continuously improve the website. No individual user profile is generated.
+
+Destination of personal data collected on the site
+
+The data collected at registration is intended for English Attack! The user is however informed that data may be disclosed as required by a law, regulation or pursuant to the decision of a competent regulatory or judicial authority.
+
+If, at part of the registration process, the user has agreed to receive commercial offers from our partners electronically, his or her registration data can be transmitted to our partners.  
+The user can, at any time, inform us that he or she no longer wants to receive commercial offers from our partners electronically by changing the settings of his or her user account ([www.english-attack.com/optout](http://www.english-attack.com/optout "www.english-attack.com/optout")).
+
+Retention of data collected on the site
+
+In application of the “right to be forgotten” after a user account is disabled for any reason, the registration data associated with that account will be deleted within 12 months following the date of deactivation of the English Attack! account.
+
+All in all English Attack! accounts inactive for a period equal or greater to 6 months may be disabled, with all related registration information deleted.
+
+Concerning the storage of data collected by the Google Analytics audience measurement tool, we invite the user to consult the privacy policy of Google Inc.
+
+English Attack! guarantees the confidentiality of information stored on the site. The e-mail addresses and name data of registered users are not displayed on the site at any time.
+
+Your rights
+
+In accordance with French Law No. 78-17 "Informatique et Libertés" of 6 January 1978, personal data collected by English Attack! on its website has been declared to the CNIL, registered under file number 1456011
+
+In accordance with Articles 39 and following of French Law No. 78-17 of 6 January 1978, amended in 2004, relating to data, files and freedoms, any person may obtain and, if necessary, correct or delete information about himself or herself.  
+To exercise these rights, you can contact us by mail at:  
+\- Entertainment Learning SAS 75, RUE DE LOURMEL - PARIS 75015  
+\- Or by contacting us by e-mail: [contact@english-attack.com](mailto:contact@english-attack.com)  
+\- Or by changing online information associated with your profile via the "My Account" pages on [www.english-attack.com](http://www.english-attack.com/ "www.english-attack.com")
+
+We reserve the right however to take the precaution of checking the identity of people who contact us (via requesting proof of identity) before allowing them to access personal data or to implement their account corrections.
+
+Use of cookies on the site
+
+The process of registering usernames and passwords required to access English Attack! initiate the creation of a cookie stored on the hard disk of the user’s computer.  
+This cookie allows you to use the "automatic connection" feature, which saves the username and password locally on your computer in encrypted form.  
+This avoids the need, at the next visit, for the user to perform a new log-in in order to use the site services. These cookies constitute anonymous and aggregated data, and are in no way designed in such a way as to collect personal data.
+
+Session cookies used for statistical purposes
+
+For reasons related to the technology used by one of our providers, visiting our site will, where possible, involve the use of a session cookie for purposes of statistical analysis and site audience measurement.
+
+In accordance with Article 8.1 of the Terms and Conditions of the Google Analytics service, we draw the attention of our users on the following statement:  
+“This website uses Google Analytics, a web analytics service provided by Google Inc. ( "Google"). Google Analytics uses cookies, which are text files placed on your computer to help the website analyze site usage by its users. The data generated by the cookie about your use of the website (including your IP address) is transmitted and stored by Google on servers in the United States. Google will use this information to evaluate your use of the website, compiling reports on website activity addressed to its editor and providing other services relating to website activity and internet use. Google may also transfer this information to third parties where required by law or where such third parties process the information on Google's behalf, including in particular the editor of this site. Google will not associate your IP address with other Google data.
+
+You can disable the use of cookies by selecting the appropriate settings on your browser. However, this deactivation could prevent the use of some features of this website.
+
+Internet explorer:  
+<http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies>  
+Firefox:  
+[https://support.mozilla.org/fr/kb/activer-desactiver-cookies?esab=a&s=cookies&r=0&as=s](https://support.mozilla.org/fr/kb/activer-desactiver-cookies?esab=a&s=cookies&r=0&as=s "https://support.mozilla.org/fr/kb/activer-desactiver-cookies?esab=a&s=cookies&r=0&as=s")  
+Safari:  
+[https://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari](https://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari "https://support.apple.com/kb/index?page=search&fac=all&q=cookies%20safari")  
+chromium:  
+<https://support.google.com/chrome/answer/95647?hl=fr>
+
+Security
+
+The personal information we collect is kept in a secure environment.
+
+People who work for us are obliged to respect the confidentiality of your information.
+
+We are committed to maintaining a high degree of confidentiality by integrating the latest technological innovations to ensure the confidentiality of your transactions.
+
+However, as no mechanism offers maximum security, some risk is always present when using the internet to transmit personal information.
+
+Legislation
+
+We are committed to the respect of French legislation.
