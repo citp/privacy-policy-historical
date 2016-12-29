@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314025000id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donkeymails.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229030952id_/http%3A//www.donkeymails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # DonkeyMails.com: No Minimum Payout
 
@@ -24,9 +24,9 @@ We do not collect online contact information without prior parental consent or p
 
   
 **Choice/Opt-Out:  
-** DonkeyMails.com: No Minimum Payout provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. DonkeyMails.com: No Minimum Payout gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://www.donkeymails.com/pages/contact.php) and request your membership to be canceled at anytime.   
+** DonkeyMails.com: No Minimum Payout provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. DonkeyMails.com: No Minimum Payout gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "User Account Info." Link. At the bottom of the page you will find the option to "Cancel Account". You may also [Contact Us](http://donkeymails.com/pages/contact.php) and request your membership to be canceled at anytime.   
   
 **Correct/Update:  
 **
 
-DonkeyMails.com: No Minimum Payout gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with DonkeyMails.com: No Minimum Payout, you can [Contact Us](http://www.donkeymails.com/pages/contact.php). 
+DonkeyMails.com: No Minimum Payout gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with DonkeyMails.com: No Minimum Payout, you can [Contact Us](http://donkeymails.com/pages/contact.php). 
