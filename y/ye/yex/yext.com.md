@@ -1,30 +1,37 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623101946id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230001102id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yext
+# Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Yext-Inc/validation?rid=44c17d39-6603-4c0d-8082-1867846e7e3a)
+**Yext, Inc. Privacy Policy**  
+(Effective Date: November 18, 2016)
 
-(Last Updated: September 28, 2015)
+**[](http://privacy.truste.com/privacy-seal/validation?rid=f07a1080-0cdf-49cb-99b5-0baa1c15e196 "TRUSTe Privacy Certification")**
 
-This Privacy Policy (this "Privacy Policy") discloses the privacy practices for [www.yext.com](http://www.yext.com/) and all other internet properties (collectively, the 'Sites') belonging to Yext, Inc. or any of its subsidiaries ("Yext", "us" or "we"). For information about our privacy practices for Yext mobile applications, please visit the [Yext App Privacy Policy](http://www.yext.com/pdf/app_privacy_policy.pdf). For information about our privacy practices for our Xone service, please visit the [Xone Privacy Policy](http://www.yext.com/xone-privacy-policy/).
+Yext, Inc., 1 Madison Ave, 5th Fl New York, NY 10010 (“ **Yext** “, “ **us** ” or “ **we** “) has self-certified to the EU-U.S. Privacy Shield. Please click [here](http://www.yext.com/terms/yext_inc_privacy_shield_notice.pdf) to view our Privacy Shield Notice.
 
-We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information-gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a notice on the homepage and updating the effective date of this Privacy Policy.  If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the Sites prior to the change becoming effective. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
+This Privacy Policy (this “ **Privacy Policy** ”) discloses the privacy practices for  **www.yext.com**  and all other internet properties operated by Yext that link to this Privacy Policy (collectively, the “ **Sites** “). For information about our privacy practices for Yext mobile applications, please visit the [Yext Mobile App Privacy Policy](http://www.yext.com/terms/en-app-privacy-policy/).
 
-### This Privacy Policy addresses the following:
+We understand the importance that our customers place on privacy and have designed this Privacy Policy to describe our information-gathering and dissemination practices. You agree to this Privacy Policy when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. If you do not agree to this Privacy Policy, please do not use this Site.
+
+Please note that we reserve the right to review and update this Privacy Policy from time to time. If we make any material changes to the Privacy Policy, we will notify you by means of a general notice on the Sites prior to the change taking effect. If you use a Site after the updated Privacy Policy becomes effective, you will be deemed to have agreed to the amended Privacy Policy.
+
+**This Privacy Policy addresses the following:**
 
   1. Information that we collect about you.
   2. Cookies and other tracking technology that we use.
   3. What we do with the information that we collect.
   4. With whom we share the information we collect.
   5. Our opt-out policy.
-  6. Our policy on correcting and updating the personally identifiable information and deactivation of your account.
-  7. Miscellaneous
+  6. Our policy on correcting and updating Personal Information and deactivation of your account.
+  7. EU-U.S. Privacy Shield.
+  8. U.S.-Swiss Safe Harbor.
+  9. Miscellaneous.
 
 
 
-## Information that we collect about you
+**INFORMATION THAT WE COLLECT ABOUT YOU**
 
-Information Provided by You Upon Registration. Upon registration, you may be required to provide some or all of the following personally identifiable information ("PII"):
+**Information Provided by You Upon Registration and Making a Purchase.  **When you register for an account on a Site and/or purchase a product or service from us, we may collect the following information that allows us to identify you (“ **Personal Information** “):
 
   1. Name
   2. E-mail address
@@ -32,83 +39,112 @@ Information Provided by You Upon Registration. Upon registration, you may be req
   4. Home Phone
   5. Mobile Phone
   6. Credit Card Number
+  7. Billing Address
 
 
 
-Passively Collected Information. When you interact with us through a Site, we receive and store certain additional information.  Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you.  Examples include IP addresses, browser types, domain names, and other anonymous statistical data involving your use of a Site and/or our services.
+**Information Provided When You Contact Us.  **We may collect Personal Information that you voluntarily provide to us when you contact us with a question or comment about our products and services.  We generally collect one or more of the following types of Personal Information when you contact us with a question or comment or request information from us about our products and services:
 
-## Cookies and other tracking technologies
+  1. Name
+  2. E-mail address
+  3. Company Name
+  4. Phone Number
+  5. Information about your position
 
-Technologies such as: cookies, beacons, tags and scripts are used by us and our affiliates, marketing and advertising partners, and service providers.  These technologies are used in analyzing trends, administering the Sites, services and products, tracking users' movements around the Sites and to gather demographic information about our user base as a whole.  We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to remember users' settings, market products and services to users, and for authentication purposes. Users can control the use of cookies at the individual browser level.  If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited.
 
-Log Files. As is true of most websites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.  In some instances we may link this automatically collected data to other information we collect about you.  We do this to optimize our marketing efforts as well as to improve the functionality, stability, and availability of the services we offer.
+**Passively Collected Information**. When you access our Sites, we automatically collect your computer or device’s internet protocol (IP) address and other technical information about your computer or device and website usage, such as your browser type and version, time zone setting, and operating system and platform.  We also use cookies on our Sites; for more information, please see the “Cookies and Other Tracking Technologies” section below.
 
-LSOs (HTML 5). Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your web browsing activity use LSOs such as HTML 5.  Various browsers may offer their own management tools for removing HTML5 LSOs.
+**Information Collected From Our Partners**. We may partner with our third party resellers to receive information about you, such as name and contact information. This helps us to fulfill your service requests and/or to provide you with services that may be of interest to you.
 
-Behavioral Targeting / Re-Targeting. We partner with third parties to either display advertising on our Sites or to manage our advertising on other websites.  Our third party partners may use technologies such as cookies to gather information about your activities on the Sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/?pid=truste01&aid=preference_manager01&type=public) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)).  Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+**Information Collected From Your Reviewers.** If you use our services to solicit reviews from your customers via email, or other forms of communication, including, but not limited to text messages, we will collect, on your behalf, the Personal Information and any other information provided in such reviews from your customers (“Reviewers”).  We will use the information provided by Reviewers to provide services to you.  We have no direct relationship with Reviewers. You are responsible for ensuring that you have the appropriate consent for us to collect and process Reviewers’ information to provide our services. If you are a Reviewer and believe you have received an email from Yext on behalf of one of our customers, please contact that company directly with any questions.
 
-## What we do with the information we collect
+**COOKIES AND OTHER TRACKING TECHNOLOGIES THAT WE USE**
 
-Use of PII. If you provide PII for a certain reason, we will use the PII in connection with the reason for which it was provided.  For example, we will use the PII you input during the registration process to administer your access to a Site.  We may also use the registration data that you provide to personalize your experience with us and for verification purposes.  We also use contact information from your registration data to send you information about us and to keep you informed of our other products and services that may be of interest to you. Your contact information is also used to reach you, when necessary, regarding issues concerning the use of the Sites and/or our service.  We use PII collected through the Sites to help us improve the Sites and our products and services, and to better understand our users.  We may use your PII to create aggregate data. Aggregate data is data that describes the demographics, usage or other characteristics of a Site's users as a group without disclosing PII.  We reserve the right to transfer and/or sell aggregate or group data about a Site's users for lawful purposes.  We may also create internal reports on aggregated user demographics and traffic patterns and share these reports with our advertisers and partners.  This information allows our third-party advertisers and partners to deliver, and our users to receive, more relevant advertisements.  We use your IP address to help diagnose problems with our server, and to administer the Sites.  Your IP address is also used to gather broad and specific demographic information as well as for validation purposes.
+We and our service providers use cookies, beacons, embedded scripts and local shared objects in connection with the Sites.
 
-Use of Information that is NOT PII. We may pool information that is not PII with other information in order to track, for example, the total number of visitors to a Site, the number of visitors to each page of a Site, and the domain names of our users' Internet service providers. No PII is available or used in this process.
+  * **Cookies  **are small text files that are stored on your computer or device when you visit our websites. Cookies allow a website to recognize a particular device or browser. The use of cookies is a standard practice among websites to collect information about visitors’ activities while using the website.
+  * **Beacons  **are small graphical images (also known as “pixel tags” or “clear GIFs”) that may be included on our Sites and typically work in conjunction with cookies to identify our users and user behavior.
+  * An  **embedded script  **is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. The code is temporarily downloaded onto your computer or device from our web server or a third-party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
+  * **Local Shared Objects.  **Local shared objects (or Flash cookies) are pieces of data that websites which use Adobe Flash may store on a user’s computer or device. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your web browsing activity use local shared objects. Various browsers may offer their own management tools for removing local shared objects. In addition, you may manage Flash cookies by clicking here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-EU Residents - International Transfers of PII. The PII that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your PII, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-US Residents - Amended Telemarketing Sales Rule. For U.S. residents, with your consent, by submitting your e-mail address via a Site and/or obtaining services from us, you agree to receive e-mail marketing from us and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR 310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through a Site, such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR.
 
-## With whom we share the information we collect
+The above technologies are used in analyzing trends, administering the Sites, services and products, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We will share your PII with third parties only in the ways that are described in this privacy policy. We do not sell your PII to third parties.
+We use cookies to remember users’ settings, market products and services to users, and for authentication purposes. To manage the cookies that are placed on your computer, you may configure your internet browser to refuse, accept or delete cookies from our Sites at any time.  The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  Please note that if cookies are disabled or removed, not all features of our Sites will operate as intended.
 
-Service Providers. We, like many businesses, sometimes hire other companies ("Service Providers") to perform certain business-related functions.  Examples include mailing information, maintaining databases, and hosting services.  When we employ a Service Provider to perform a function of this nature, we provide it with the information that it needs to perform its specific function, which may include PII and other information that you provide to us via a Site.  These companies are authorized to use your PII only as necessary to provide these services to us.  All information that we provide to a Service Provider, as well as information that you share directly with a Service Provider, will be governed by such Service Provider's privacy policies.  When you call a Service Provider using a phone number available via a Site, we, or our third party service providers, may record these phone calls and share such recordings with the applicable Service Provider.  The recordings shall be maintained by the Service Providers in accordance with their privacy policies.
+**Third-Party Advertising Services:  **We partner with third parties that may use technologies such as cookies (and local stored objects as described above) to gather information about your activities on the Sites and elsewhere on the Internet in order to provide you with relevant advertising based upon your browsing activities and interests. This type of advertising is sometimes called interest-based advertising.  If you wish to not have this information collected and used for interest-based advertising, you may opt-out by clicking [here](http://preferences-mgr.truste.com/?pid=truste01&aid=preference_manager01&type=public) for partners that participate in the TRUSTe opt-out tool (or if located in the European Union click [here](http://www.youronlinechoices.eu/)).  If you wish to opt-out from this type of advertising for companies that participate in the Digital Advertising Alliance (“DAA”), you can do so [here](http://www.aboutads.info/choices).  Please note that this does not opt you out of being served ads. You will continue to receive generic ads.  Yext adheres to the DAA’s Self-Regulatory Principles.
 
-Legal Requirements. We may disclose PII if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a subpoena or similar legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of any Site or the public, (d) protect against legal liability, or (e) or as otherwise required or permitted by law. 
+**Third-Party Analytics:  **We may also use service providers, such as Google Analytics, that may use cookies or other technologies to collect information about your online activities across this and other sites over time for non-advertising purposes such as those described above.  To learn more about how Google Analytics collects and processes data and the choices Google may offer to control these activities, you may visit [http://www.google.com/intl/en/policies/privacy/partners/](https://www.google.com/intl/en/policies/privacy/partners/).
 
-Business Transfers. As we develop our business, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, PII may be part of the transferred assets.  You will be notified via e-mail and/or a prominent notice on our Sites of any change in ownership or uses of your PII, as well as any choices you may have regarding your PII.
+**WHAT WE DO WITH THE INFORMATION WE COLLECT**
 
-Frames. Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our Sites.  Please be aware that you are providing your PII to these third parties and not to [www.yext.com](http://www.yext.com/).
+As examples of how we may use Personal Information that we collect, we use Personal Information in the following ways:
 
-## Our opt-out policy
+  * **Information Provided by You Upon Registration and Making a Purchase.  **We may use this Personal Information to administer your access to a Site, verify your identity, and provide our products or services to you.
+  * **Information Provided When You Contact Us.  **We may use this Personal Information to understand and respond to your question or comment.
+  * **General Uses.  **We may also use your Personal Information to improve and personalize your experience with us, and, with your consent where necessary, send you information about us and keep you informed of our other products and services that may be of interest to you.
+  * **Passively Collected Information.  **We use passively collected information to monitor and maintain the performance of our Sites, analyze trends, usage and activities in connection with our services, validate users and ensure their technological compatibility with users, and optimize our marketing efforts.
+  * **Aggregate data.  **We may use your Personal Information to create aggregate data which does not include any Personal Information and which cannot be used to identify you. For example, aggregate data may include data that describes the general demographics, usage or other characteristics of a Site’s users. We reserve the right to transfer and/or sell aggregate or group data about a Site’s users for lawful purposes.
+  * **Information Collected from Reviewers.  **We may use or share aggregated or de-identified information collected from Reviewers in our discretion, such as to provide analytics and benchmarking. We reserve the right to transfer and/or sell aggregate or de-identified data about Reviewers for lawful purposes.   ** **
 
-To stop receiving newsletters or marketing communications from us or to opt out of having your PII shared with third parties, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com).
 
-Service Related Announcements. We will also send you service related e-mail announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an e-mail.  You do not have an option to opt out of these e-mails, which are not promotional in nature.  If you no longer wish to receive these e-mails, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com).
 
-## Our policy on correcting and updating PII and deactivating your account
+**EU Residents – International Transfers of  Personal Information.  **The Personal Information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“ **EEA** “) in reliance on a variety of compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your Personal Information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. ** **
 
-You may access, correct, update or delete your PII, or deactivate your account, by e-mailing our Customer Support at [service@yext.com](mailto:service@yext.com).  We will respond to your request to access your PII within 30 days. We may need to verify your identity before granting access to PII in our custody or control.
+**WITH WHOM WE SHARE THE INFORMATION WE COLLECT**
 
-Data Retention. We will retain personal data for as long as needed in order to provide our services and as required by law or to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We may share your Personal Information with third parties as described in this Privacy Policy or otherwise with your permission.  We reserve the right to transfer and/or sell other data, including aggregate or de-identified data derived from Personal Information, for lawful purposes in our discretion.
 
-## Miscellaneous
+  * We may share Personal Information with affiliated businesses.
+  * **Service Providers**. We, like many businesses, sometimes hire other companies (“ **Service Providers** “) to perform certain business-related functions. Examples include mailing information, maintaining databases, processing credit card transactions, and hosting services. When we employ a Service Provider to perform a function of this nature, we provide it with the information that it needs to perform its specific function, which may include Personal Information and other information that you provide to us via a Site. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
+  * **Third Parties for Marketing and Other Purposes.** We may share with selected third party partners, including for their direct marketing purposes (please see below for your choices related to this sharing).
+  * **Legal Requirements.  **We may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a subpoena or similar legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of any Site or the public, (d) protect against legal liability, or (e) or as otherwise required or permitted by law.
+  * **Business Transfers.  **As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, total or partial sale of assets in bankruptcy or similar event, Personal Information may be part of the transferred assets.
+  * Some of our pages utilize framing techniques to serve content to you from our partners while preserving the look and feel of our Sites. When you interact with content from our partners displayed on our Site, please be aware that you are providing your Personal Information to these third parties and it will be governed by their respective privacy policies.
 
-Other Websites. The Sites may contain links to third-party owned and/or operated websites.  We are not responsible for the privacy practices or the content of such websites.  We suggest that you contact these third parties directly for information regarding their privacy, security and data collection and distribution policies prior to providing them with any information.
 
-Blogs and Public Features of the Sites. Some of our Sites offer publicly accessible blogs or community forums.  You should be aware that any PII you submit there can be read and collected by other users of these forums and could be used to send you unsolicited messages and for other purposes.  Our blog is managed by a third party application that may require you to register to post a comment.  We do not have access or control of the information posted to the blog.  NONE OF THE INFORMATION THAT YOU PROVIDE USING THESE FEATURES IS PROTECTED BY THIS PRIVACY POLICY.  WE ARE NOT RESPONSIBLE FOR THE PII YOU CHOOSE TO SUBMIT IN THESE FORUMS OR THE USE THEREOF BY ANY THIRD PARTY.  You will need to contact or log into the third party application if you want the PII that was posted to the comments section removed.  To learn how the third party application uses your information, please review their privacy policy.
 
-Testimonials. We may post customer testimonials on the Sites which may contain PII such as the customer's name.  We obtain the customer's consent to post his/her PII along with the testimonial, prior to posting the testimonial.  If you want to remove your PII that is being displayed on a Site under public pages, please send your request to [service@yext.com](mailto:service@yext.com).
+**OUR OPT-OUT POLICY**
 
-Social Media Widgets. Our Sites may include social media features, such as the Facebook Like button and widgets such as the share this button or interactive mini-programs that run on our Sites. These features may collect your IP address, which pages you are visiting on our Sites, and may set a cookie to enable the feature to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Sites.  Your interactions with these features are governed by the privacy policy of the company providing them.
+**Sharing with Third Parties for Marketing.** As noted above, we may disclose your information to third parties for their direct marketing purposes.  If you would like to opt out of such disclosures, please contact us at service@yext.com.
 
-Single Sign-On. You can apply for an open position listed on our Careers page using sign-in services such as LinkedIn. This service will authenticate your identity and provide you the option to share certain PII with us such as your name and e-mail address to pre-populate our sign up form. Services like LinkedIn give you the option to post information about your activities on the Sites to your profile page to share with others within your network.
+**Email Marketing.**  To stop receiving newsletters or marketing communications from us or to opt out of having your email address shared with third parties, please use the “unsubscribe” mechanism provided in the communication or send an e-mail to [service@yext.com](mailto:service@yext.com) along with the information necessary for us to process your request.
 
-Security. We take commercially reasonable steps to protect PII from loss, misuse, unauthorized access, disclosure, alteration and destruction.  However, no Internet or e-mail transmission is ever fully secure or error free.  In particular, e-mail sent to or from a Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.  Please keep this in mind when disclosing any PII to us or to any other party via the Internet.  The security of your PII is important to us.  When you enter sensitive information (such as a credit card number) on our order forms or login credentials (such as username and password) on our platform login, we encrypt the transmission of that information using secure socket layer technology (SSL). Your PII will be stored in the United States and will be subject to laws applicable in that country.  If you have any questions about security on our Site, you can contact us at [service@yext.com](mailto:service@yext.com).
+**Service-Related Announcements.**  We will also send you service-related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
 
-Minors. Visitors under 18 years of age are not permitted to use and/or submit their PII at any Site.  We do not knowingly solicit or collect information from visitors under 18 years of age.  We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+OUR POLICY ON CORRECTING AND UPDATING PERSONAL INFORMATION AND DEACTIVATING YOUR ACCOUNT
 
-TRUSTe Web Privacy Seal Program. Yext Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+You may request to access, correct, update or delete your Personal Information, or deactivate your account, by emailing our Customer Support at [service@yext.com](mailto:service@yext.com) with information necessary for us to process your request. We will respond to your request to access your Personal Information within 30 days. We may need to verify your identity before granting access to Personal Information in our custody or control.  Please see below regarding our retention policy.
 
-[](https://privacy.truste.com/privacy-seal/Yext-Inc/validation?rid=44c17d39-6603-4c0d-8082-1867846e7e3a)
+EU-U.S. PRIVACY SHIELD
 
-The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site [www.yext.com](http://www.yext.com/) and the information that may be collected once you login.  If you have an unresolved privacy or data use concern that we have not satisfactorily addressed, please contact TRUSTe at: <https://feedback-form.truste.com/watchdog/request>.
+Yext participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework regarding the collection, use and onward transfer of personal data from the European Economic Area. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield website](http://www.privacyshield.gov/).  To learn more about Yext’s participation in the Privacy Shield Framework, please see [Yext’s Privacy Shield Notice](http://www.yext.com/pdf/yext_inc_privacy_shield_notice.pdf).
 
-E.U. and Swiss Safe Harbor. Yext, Inc. complies with the U.S. — E.U. Safe Harbor framework and the U.S. — Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Yext, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Yext, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>.
+U.S.-SWISS SAFE HARBOR ** **
 
-Contacting Us. Our "contact us" page contains e-mail links that allow you to contact us directly with any questions or comments that you may have.  If you have any questions about this Privacy Policy or our privacy practices, please feel free to contact us at [service@yext.com](mailto:service@yext.com) or at:
+Yext complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Yext has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Yext’s certification, please visit <http://www.export.gov/safeharbor>.
 
-Yext Inc.  
-1 Madison Ave. 5th Fl  
-New York, NY 10010 
+MISCELLANEOUS
+
+**Other Websites.**  The Sites may contain links to third party owned and/or operated websites. We are not responsible for the privacy practices or the content of such websites. We suggest that you contact these third parties directly for information regarding their privacy, security and data collection and distribution policies prior to providing them with any information.
+
+**Blogs and Public Features of the Sites.**  Some of our Sites offer publicly accessible blogs or community forums. You should be aware that any Personal Information you submit there can be read and collected by other users of these forums and could be used to send you unsolicited messages and for other purposes. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. NONE OF THE INFORMATION THAT YOU PROVIDE USING THESE FEATURES IS PROTECTED BY THIS PRIVACY POLICY. WE ARE NOT RESPONSIBLE FOR THE PERSONAL INFORMATION YOU CHOOSE TO SUBMIT IN THESE FORUMS OR THE USE THEREOF BY ANY THIRD PARTY. You will need to contact or log into the third party application if you want the Personal Information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+
+**Testimonials.**  We may post customer testimonials on the Sites which may contain Personal Information such as the customer’s name. We obtain the customer’s consent to post his/her Personal Information along with the testimonial, prior to posting the testimonial. If you want to remove your Personal Information that is being displayed on a Site under public pages, please send your request to [service@yext.com](mailto:service@yext.com). ** **
+
+**Social Media Widgets.**  Our Sites may include social media features, such as the Facebook Like button and widgets such as the share this button or interactive mini-programs that run on our Sites. These features may collect your IP address, which pages you are visiting on our Sites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing them.
+
+**Single Sign-On.  **You can apply for an open position listed on our Careers page using sign-in services such as LinkedIn. This service will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign up form.  Services like LinkedIn give you the option to post information about your activities on the Sites to your profile page to share with others within your network.
+
+**Security and Retention.**  We take commercially reasonable steps to help protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from a Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Information to us or to any other party via the Internet. The security of your Personal Information is important to us. When you enter sensitive information (such as a credit card number) on our order forms or login credentials (such as username and password) on our platform login, we encrypt the transmission of that information using secure socket layer technology (SSL). Your Personal Information will be stored in the United States and will be subject to laws applicable in that country.  If you have any questions about security on our Sites, you can contact us at [service@yext.com](mailto:service@yext.com) **.  **We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. ** **
+
+**Minors.**  Visitors under 18 years of age are not permitted to use and/or submit their Personal Information at any Site. We do not knowingly solicit or collect information from visitors under 18 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. ** **
+
+**Contacting Us**. Our “contact us” page contains e-mail links that allow you to contact us directly with any questions or comments that you may have. If you have any questions about this Privacy Policy or our privacy practices, please feel free to contact us at [privacy@yext.com](mailto:service@yext.com) or at:
+
+Yext, Inc.  
+1 Madison Ave, 5th Fl  
+New York, NY 10010  
+United States of America
