@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622154244id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041953id_/http%3A//www.jobdiagnosis.com/privacy-policy.php) for the most accurate reproduction.*
 
 # JobDiagnosis Privacy Policy
 
@@ -50,6 +50,9 @@ Job Diagnosis does not solicit or knowingly collect personally identifiable info
   
 
   * We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+  
+
+  * We may use third-party advertising companies to collect data and/or serve ads when you visit our website or application. These companies may use information about your visits to this and other websites or applications in order to provide advertisements about goods and services of interest to you. Please keep in mind that your browser settings may not permit you to control the technologies utilized by these third-party companies. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [http://parrable.com](http://parrable.com/) and search for information concerning the NAI opt-out tool.
   
 
   * **(d) Personally Identifiable Information.**    
