@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627171948id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053309id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - philly.com
 
