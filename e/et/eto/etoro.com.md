@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628021429id_/http%3A//www.etoro.com/en/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045238id_/http%3A//www.etoro.com/en/customer-service/privacy) for the most accurate reproduction.*
 
 # eToro Social Trading Privacy Policy | eToro
 
 This privacy policy explains the manner in which **eToro Group** Limited and its subsidiaries (“eToro Group”) we collect and maintain non-public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc., hence forth "Information"). Each member of the eToro Group is subject to the applicable privacy laws in its state of incorporation. This Privacy Policy Statement outlines how we manage and protect the personal information you give us and hold about our users and customers (The “ **Policy** "). 
 
-Downloading, installing and your access to and use of our websites, applications and trading platforms constitutes your acceptance of the Policy and any other legal notices and statements contained on this website, our platforms and/or our applications. Your use of the eToro websites, platforms and applications is governed by the version of the Policy in effect on the date each eToro website is accessed by You. Please feel free to contact our customer support team at <http://www.etoro.com/application/help/contact.aspx> for any clarifications before You continue to use our websites and platforms.
+Downloading, installing and your access to and use of our websites, applications and trading platforms constitutes your acceptance of the Policy and any other legal notices and statements contained on this website, our platforms and/or our applications. Your use of the eToro websites, platforms and applications is governed by the version of the Policy in effect on the date each eToro website is accessed by You. Please feel free to contact our customer support team at <https://www.etoro.com/support/> for any clarifications before You continue to use our websites and platforms.
 
   
 
@@ -70,7 +70,7 @@ eToro is a real-time social trading platform, which integrates rich community an
 
 Downloading, installing and your access to and use of our websites, applications and trading platforms constitutes your agreement and acknowledge that the following information and content shall be considered non-confidential and non-proprietary information (other than your personal data as described below, collectively, the "Content") and shall be publicly shown on eToro’s websites, platform and applications: your username, your picture/avatar (if provided), your state of residency, gender, networks, list of users who follow You, users who copies You etc., list of users You follow or copy, and any network status/posts/blogs and any other content options that enable our users to interact amongst themselves, including without limitation content and information You post on the eToro community, comments, feedback, postings, blogs and/or all Information that You provide to Us via our website and/or by email, fax or telephone and in addition if you have elected to use one of our social networks applications (such as Facebook, Tweeter, G+ etc.), our application will access to your social network account general information which includes your name and username in such social network, profile picture, gender, networks, user ID, list of friends, and any other information You have shared with “everyone” on such social network. Additional information may be collected in specific social networks campaigns as shall be specified in the terms and conditions applicable to such campaign. .
 
-Click [here](https://openbook.etoro.com/settings/ "OpenBook privacy settings") to change your privacy settings.
+Click [here](https://www.etoro.com/settings/general "OpenBook privacy settings") to change your privacy settings.
 
   
 
@@ -121,7 +121,7 @@ In the event that you believe our Information is in anyway inaccurate, please le
 
 ### Questions
 
-Should you have any questions regarding our privacy policy, please contact us at <https://www.etoro.com/application/help/contact.aspx>. Please include your name, mailing address, email and telephone number. 
+Should you have any questions regarding our privacy policy, please contact us at <https://www.etoro.com/support/>. Please include your name, mailing address, email and telephone number. 
 
   
 
