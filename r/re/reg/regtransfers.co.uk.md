@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218021524id_/http%3A//www.regtransfers.co.uk/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229012501id_/https%3A//www.regtransfers.co.uk/company/privacy) for the most accurate reproduction.*
 
-# Regtransfers.co.uk ::: Our Privacy Policy
+# Privacy Policy | Regtransfers.co.uk
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+Personalised Number Plates Search   
+For best matches please enter at least two or three letters 
+
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
 We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
 
-We will not e-mail you in the future unless specified otherwise. 
+We will not email you in the future unless specified otherwise. 
 
 We do not, under any circumstances supply your details to any third party. 
 
-The type of information we will collect about you includes: 
+The type of information we will collect about you includes:
 
   * your name 
   * address 
   * phone number 
   * email address 
-  * credit/debit card details
 
 
 
@@ -30,4 +32,4 @@ RegTransfers.co.uk uses cookies to enable us to provide an enhanced, personalise
 
 Internet browsers, such as Internet Explorer, have settings which allow the user to specify whether or not cookies are accepted. If you wish to alter your browser settings to prevent cookies being stored on your computer, please consult the help facility of your internet client program. Please be aware that disabling cookies may make some services on some websites unavailable.
 
-If you have any questions/comments about privacy, you should [email us](https://web.archive.org/main/email.asp?emailAddress=marketing&emailSubject=email%20from%20website%20privacy%20policy%20page)
+If you have any questions/comments about privacy, you should [email us](https://web.archive.org/web/20161229012501id_/https%3A//www.regtransfers.co.uk/company/email?emailaddress=marketing&emailSubject=email%20from%20website%20privacy%20policy%20page)
