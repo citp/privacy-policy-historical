@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ribblecycles.co.uk privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505161847id_/http%3A//www.ribblecycles.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribblecycles.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229105146id_/http%3A//www.ribblecycles.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ Bamber Bridge
 Preston  
 PR5 8AS
 
-Or call us on [01772 336 800](tel:+441772336800)
+Or call us on (+44) 01772 336 800
