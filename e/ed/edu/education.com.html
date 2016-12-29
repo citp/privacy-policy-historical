@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the education.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623045937id_/http%3A//www.education.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229072817id_/http%3A//www.education.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P22CW8"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQAVFRUABACVFJUAwMOXw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="publisher" href="https://plus.google.com/+educationcom/posts">
 	<meta name="google-signin-client_id" content="283427801117-gcsiu9p714dc31684r15mdoks9vupn6a.apps.googleusercontent.com">
@@ -23,20 +23,15 @@
 <link rel="icon" type="image/png" href="/i/logo/favicon-96x96.png" sizes="96x96">
 <link rel="icon" type="image/png" href="/i/logo/favicon-16x16.png" sizes="16x16">
 <link rel="icon" type="image/png" href="/i/logo/favicon-32x32.png" sizes="32x32">
-<meta name="msapplication-TileColor" content="#00aba9">
-<meta name="msapplication-TileImage" content="/i/logo/mstile-144x144.png">
-<meta name="application-name" content="education.com">
 <meta name="msapplication-config" content="/browserconfig.xml">
 <meta name="application-name" content="education.com">
 <meta name="msapplication-tooltip" content="Open education.com">
 <meta name="msapplication-window" content="width=1024;height=768">
 <meta name="msapplication-starturl" content="/?cid=01.01">
-<meta name="msapplication-task" content="name=Worksheets;action-uri=/worksheets/all/?cid=01.01;icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Activities;action-uri=/activities/all/?cid=01.01;icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Search;action-uri=/results/?cid=01.01;icon-uri=/favicon.ico">
-<meta name="msapplication-task" content="name=Answers;action-uri=/answers/?cid=01.01;icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=Search;action-uri=/resources/?cid=01.01;icon-uri=/favicon.ico">
 <meta name="msapplication-TileImage" content="/i/logo/logo-tile.png">
-<meta name="msapplication-TileColor" content="#006f1f"><script type="application/ld+json">
+<meta name="msapplication-TileColor" content="#359183">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P22CW8"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/eYQigHHFegBvBtMQufSSwCoK1PQWNmR1/analytics.min.js"></script><script type="application/ld+json">
 	{
 		"@context": "http://schema.org",
 		"@type": "Organization",
@@ -60,31 +55,47 @@
 		"url": "http://www.education.com",
 		"potentialAction": {
 			"@type": "SearchAction",
-			"target": "http://www.education.com/results/?q={searchterm}",
+			"target": "http://www.education.com/resources/?q={searchterm}",
 			"query-input": "required name=searchterm"
 		}
 	}
-</script><meta name="keywords" content="">
+</script>
+<meta name="keywords" content="">
 <meta name="description" content="">
 <link rel="canonical" href="http://www.education.com/privacy/">
 <link rel="image_src" href="/i/logo/logo-stacked.png">
-	<link rel="stylesheet" href="/themes/sky/css/responsive.css?m=1466461542" type="text/css">
+	<link rel="stylesheet" href="/themes/sky/css/responsive.css?m=1481922227" type="text/css">
 
 		
 	<!--[if lt IE 9]>
 	<script src="/js/jquery/html5Shiv.js"></script>
 	<![endif]-->
 			<script src="/js/jquery/jquery-1.11.2.min.js"></script>
-	<script src="/js/jquery/utilities.js?m=1461966099"></script>
+	<script src="/js/jquery/utilities.js?m=1479772478"></script>
 	
 	<meta name="robots" content="index,follow">
 <meta name="page_type" content="page">
-						<!-- Google Analytics -->
+					<script type="text/javascript">
+			// Segment.io
+			!function(){
+				var callback = function() {
+					
+					analytics.page();
+					
+									};
+
+									var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+					analytics.load("eYQigHHFegBvBtMQufSSwCoK1PQWNmR1");
+					callback();}
+							}();
+		</script>
+		
+			<!-- Google Analytics -->
 			<script>
 				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
 				(function() {
 					var ga_data = {};
@@ -95,7 +106,7 @@
 					// DC Integration
 					ga('require', 'displayfeatures');
 
-										ga('set',{"dimension1":"50.874","dimension2":"50.874","dimension4":"none","dimension5":"web10"});
+										ga('set',{"dimension1":"10.17","dimension2":"10.17","dimension4":"none","dimension5":"web09"});
 					
                     window.optimizely = window.optimizely || [];
                     window.optimizely.push(['activateUniversalAnalytics']);
@@ -116,16 +127,16 @@
         </script>
         <script>
                         (window.dataLayer || []).push({
-                'dimension1': '50.874'
+                'dimension1': '10.17'
             });
                         (window.dataLayer || []).push({
-                'dimension2': '50.874'
+                'dimension2': '10.17'
             });
                         (window.dataLayer || []).push({
                 'dimension4': 'none'
             });
                         (window.dataLayer || []).push({
-                'dimension5': 'web10'
+                'dimension5': 'web09'
             });
                     </script>
         <!-- Google Tag Manager -->
@@ -139,7 +150,9 @@
         <!-- End Google Tag Manager -->
         
 	
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+	 
+
+	</head>
 <body>
 <div id="fb-root"></div>
 
@@ -151,445 +164,85 @@
 	<script type="text/javascript">
 	window.Edu = window.Edu || {};
 	window.Edu.memberId = 0;
+	window.Edu.email = null;
+	window.Edu.accountType = "Anonymous";
 </script>
 
-<header class="neckup dropdowns">
-  <section class="overbar dropdowns">
-        
-    <a itemprop="url" class="logo" href="/">
-      <meta itemprop="logo" content="http://www.education.com/i/logo/EDU-Logo-new.png">
-      <img src="http://00.edu-cdn.com/i/logo/EDU-Logo-new.png" style="width:220px;">
+<header class="unified">
+  <div class="page-width">
+    <a class="logo-holder" href="/" title="Education.com Home Page">
       <i class="logo icon-edu-logo"></i>
+      <i class="logo-sm icon-edu-book"></i>
     </a>
-
-	<div class="searchContainer" itemscope="" itemtype="http://schema.org/WebSite">
-	  <meta itemprop="url" content="http://www.education.com/">
-	  <form class="search" method="get" action="/results/" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction">
-		  <meta itemprop="target" content="http://www.education.com/results/?q={q}">
-		  <label>
-			  <input itemprop="query-input" type="search" placeholder="search site" name="q" required="">
-			  <i class="icon-search"></i>
-		  </label>
-	  </form>
-	</div>
-	  <div class="sticker">
-		  	  </div>
-    <div class="top-drivers">
-              <div class="dropdown try-plus button-dropdown">
-			<a href="/education-plus/?cid=10.921" class="btn btn-blue">
-				Try Premium
-			</a>
-	        <div class="dropdown-content" style="width: 320px;">
-		        <div class="caret"></div>
-		        <div class="buffer"></div>
-		        <section>
-			        As a Plus or Pro member, get <em>unlimited</em> access to:
-		        </section>
-		        <section style="padding-bottom: 0;">
-			        <a href="/education-plus/?cid=10.921" style="background: url(/themes/sky/i/neckup/plus-sprite.png) no-repeat right -22px;min-height: 44px;padding: 9px 0;display: block;">
-				        Over<br>
-				        15,000<br>
-				        Worksheets
-			        </a>
-		        </section>
-		        <section style="padding-bottom: 0;">
-			        <a href="/education-plus/?cid=10.921" style="background: url(/themes/sky/i/neckup/plus-sprite.png) no-repeat right -160px;min-height: 45px;padding: 15px 0;display: block;">
-				        Over 300<br>
-				        Printable<br>
-				        Workbooks
-			        </a>
-		        </section>
-		        <section style="padding-bottom: 0;">
-			        <a href="/education-plus/?cid=10.921" style="background: url(/themes/sky/i/neckup/brainzy-sprite.png) no-repeat 123px -7px;min-height: 44px;padding: 15px 0;display: block;">
-				        Hundreds of<br> Fun Games and<br> Activities
-			        </a>
-		        </section>
-		        <section style="padding: 0;margin-top: 14px;text-align: center;">
-			        <a href="/education-plus/?cid=10.921">
-				        <div class="btn btn-blue">Get Started</div>
-			        </a>
-		        </section>
-	        </div>
-        </div>
-            	      <div class="dropdown sign-in button-dropdown">
-		      <a class="signin-link btn btn-blue">
-			      Sign In
-		      </a>
-		      <div class="dropdown-content" style="width: 250px;">
-			      <div class="caret"></div>
-			      <div class="buffer"></div>
-			      <section>
-				      Already a member? <a class="signin-link">Sign in</a>
-			      </section>
-			      <section>
-				      <a class="create-account-link">Become a free basic member:</a>
-				      <p>
-					      Get free worksheets plus activities, articles, and science projects.
-				      </p>
-				      <a class="btn btn-blue create-account-link">Sign Up</a>
-			      </section>
-		      </div>
+    <div class="right-side">
+              <div class="tabs"><!--
+      --><a href="/guided-lessons/browse/math/">Guided Lessons</a><!--
+      --><a href="/resources/">Learning Resources</a><!--
+      --><a href="/teaching-tools/">Teaching Tools</a>
+      </div>
+      <div class="account">
+		  <a class="btn btn-inverse signin signin-link">Log In</a>
+	  <a class="btn btn-inverse create-account create-account-link">Sign Up</a>
 	      </div>
-          </div>
-    
-        
-    <div class="clear"></div>
-  </section>
-  <section class="navbar dropdowns">
-    <a class="logo" href="/"><i class="logo icon-edu-logo"></i></a>
-
-    <nav class="nav">
-      <i class="menu icon-menu"></i>
-	          <ul class="navigation page-width " id="bar-inner"><li class="premium-driver">
-		      <p>
-			      Get unlimited access to all of our<br>
-		        learning resources.
-		      </p>
-	        <a href="/education-plus/?cid=10.921" class="btn btn-orange">Try Premium</a>
-	      </li>
-        <li class="menu-item add-hover left50 border-right" id="neckup-new-games" style="width:13%;">
-          <a class="nav-link" href="/games/">Games <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-games"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/games/preschool/">Preschool Games</a></li>
-                                <li><a href="/games/kindergarten/">Kindergarten Games</a></li>
-                                <li><a href="/games/first-grade/">1st Grade Games</a></li>
-                                <li><a href="/games/second-grade/">2nd Grade Games<span class="new-flag">new</span></a></li>
-                                <li><a href="/games/"><strong>All Games</strong></a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/games/math/">Math Games</a></li>
-                                <li><a href="/games/reading/">Reading Games</a></li>
-                                <li><a href="/games/stories/">Interactive Stories</a></li>
-                                <li><a href="/games/songs/">Educational Songs</a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">
-                        <div class="featured-title">Featured Games</div><a class="featured-item" href="/game/school-bus-spelling-game/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/game-images/school-bus-spelling-game-thumbnail.jpg" nopin="true">
-                            <div class="featured-item-title">School Bus Spelling Game</div>
-                            </a><a class="featured-item" href="/game/sight-words-sun-attack/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/game-images/sight-words-sun-attack-thumbnail.jpg" nopin="true">
-                            <div class="featured-item-title">Sight Words Sun Attack</div>
-                            </a>                    
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover border-right" id="neckup-new-worksheets" style="width:14%;">
-          <a class="nav-link" href="/worksheets/all/">Worksheets <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-worksheets"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <form action="/worksheets/all/" method="post" id="neckup-worksheets-search" class="search-form">
-                                                    <input type="hidden" name="__module" value="WorksheetSearchBar">
-                                                <div class="input-holder">
-                            <input type="search" placeholder="Search for worksheets..." name="q" required="">
-                        </div><input type="submit" class="btn btn-orange" value="Search">
-                        <div class="clear"></div>
-                        </form>
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/worksheets/preschool/">Preschool</a></li>
-                                <li><a href="/worksheets/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/worksheets/first-grade/">1st Grade</a></li>
-                                <li><a href="/worksheets/second-grade/">2nd Grade</a></li>
-                                <li><a href="/worksheets/third-grade/">3rd Grade</a></li>
-                                <li><a href="/worksheets/fourth-grade/">4th Grade</a></li>
-                                <li><a href="/worksheets/fifth-grade/">5th Grade</a></li>
-                                <li><a href="/worksheets/middle-school/">Middle School</a></li>
-                                <li><a href="/worksheets/high-school/">High School</a></li>
-                                <li><a href="/worksheets/all/"><strong>All Worksheets</strong></a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/worksheets/math/">Math</a></li>
-                                <li><a href="/worksheets/reading/">Reading</a></li>
-                                <li><a href="/worksheets/writing/">Writing</a></li>
-                                <li><a href="/worksheets/science/">Science</a></li>
-                                <li><a href="/worksheets/social-studies/">Social Studies</a></li>
-                                <li><a href="/worksheets/printable-board-games/">Printable Board Games</a></li>
-                                <li><a href="/worksheets/paper-projects/">Paper Projects</a></li>
-                                <li><a href="/worksheets/coloring/">Coloring Pages</a></li>
-                                <li><a href="/worksheet-generator/">Worksheet Generator<span class="new-flag">new</span></a></li>
-                                <li><a href="/common-core/">Common Core<span class="new-flag">new</span></a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">
-                        <div class="featured-title">Featured Worksheets</div><a class="featured-item" href="/worksheet/article/number-tracing-ten-kindergarten/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/worksheet-image/125540/s154x/tracing-numbers-counting-10-writing.png?compress" nopin="true">
-                            <div class="featured-item-title">Tracing Numbers &amp;<br>Counting: 10</div>
-                            </a><a class="featured-item" href="/worksheet/article/pre-kindergarten-sight-words-bingo/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/worksheet-image/229611/s154x/pre-kindergarten-sight-words-bingo.gif?compress" nopin="true">
-                            <div class="featured-item-title">Pre-Kindergarten<br>Sight Words Bingo</div>
-                            </a>                    
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover border-right" id="neckup-new-workbooks" style="width:14%;">
-          <a class="nav-link" href="/workbooks/">Workbooks <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-workbooks"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <form action="/workbooks/" method="post" id="neckup-workbooks-search" class="search-form">
-                                                    <input type="hidden" name="__module" value="WorkbookSearchBar">
-                                                <div class="input-holder">
-                            <input type="search" placeholder="Search for workbooks..." name="q" required="">
-                        </div><input type="submit" class="btn btn-orange" value="Search">
-                        <div class="clear"></div>
-                        </form>
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/workbooks/preschool/">Preschool</a></li>
-                                <li><a href="/workbooks/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/workbooks/first-grade/">1st Grade</a></li>
-                                <li><a href="/workbooks/second-grade/">2nd Grade</a></li>
-                                <li><a href="/workbooks/third-grade/">3rd Grade</a></li>
-                                <li><a href="/workbooks/fourth-grade/">4th Grade</a></li>
-                                <li><a href="/workbooks/fifth-grade/">5th Grade</a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/workbooks/reading/">Reading</a></li>
-                                <li><a href="/workbooks/writing/">Writing</a></li>
-                                <li><a href="/workbooks/math/">Math</a></li>
-                                <li><a href="/workbooks/science/">Science</a></li>
-                                <li><a href="/workbooks/social-studies/">Social Studies</a></li>
-                                <li><a href="/workbooks/coloring-pages/">Coloring</a></li>
-                                <li><a href="/workbooks/"><strong>All Workbooks</strong></a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">
-                        <div class="featured-title">Featured Workbooks</div><a class="featured-item" href="/workbook/grade-math-practice-workbook/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/workbooks/img/grade-math-practice-workbook-preview-0_180x240_entropy.png" nopin="true">
-                            <div class="featured-item-title">Second Grade Math<br>Practice</div>
-                            </a><a class="featured-item" href="/workbook/jack-beanstalk-fun-pack-workbook/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/workbooks/img/jack-beanstalk-fun-pack-workbook-preview-0_180x240_entropy.png" nopin="true">
-                            <div class="featured-item-title">Jack and the<br>Beanstalk Fun Pack</div>
-                            </a>                    
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover border-right" id="neckup-new-activities" style="width:14%;">
-          <a class="nav-link" href="/activity/all/">Activities <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-activities"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <form action="/activity/all/" method="post" id="neckup-activities-search" class="search-form">
-                                                    <input type="hidden" name="__module" value="ActivitySearchBar">
-                                                <div class="input-holder">
-                            <input type="search" placeholder="Search for activities..." name="q" required="">
-                        </div><input type="submit" class="btn btn-orange" value="Search">
-                        <div class="clear"></div>
-                        </form>
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/activity/preschool/">Preschool</a></li>
-                                <li><a href="/activity/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/activity/first-grade/">1st Grade</a></li>
-                                <li><a href="/activity/second-grade/">2nd Grade</a></li>
-                                <li><a href="/activity/third-grade/">3rd Grade</a></li>
-                                <li><a href="/activity/fourth-grade/">4th Grade</a></li>
-                                <li><a href="/activity/fifth-grade/">5th Grade</a></li>
-                                <li><a href="/activity/middle-school/">Middle School</a></li>
-                                <li><a href="/activity/high-school/">High School</a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/activity/arts-and-crafts/">Arts &amp; Crafts</a></li>
-                                <li><a href="/activity/games/">Games &amp; Puzzles</a></li>
-                                <li><a href="/activity/science/">Science Experiments</a></li>
-                                <li><a href="/activity/reading/">Phonics &amp; Reading</a></li>
-                                <li><a href="/activity/math/">Numbers &amp; Math</a></li>
-                                <li><a href="/activity/writing/">Letters &amp; Writing</a></li>
-                                <li><a href="/activity/outdoor/">Outdoor Games</a></li>
-                                <li><a href="/activity/all/"><strong>All Activities</strong></a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">
-                        <div class="featured-title">Featured Activites</div><a class="featured-item" href="/activity/article/playwithwords_kindergarten/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/718001_719000/718628/file_718628.jpg" nopin="true">
-                            <div class="featured-item-title">Play with Words:<br>A Pretend Bakery Game</div>
-                            </a><a class="featured-item" href="/activity/article/rock-alphabet/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/450601_450700/450694/rock-alphabet-350x440.jpg" nopin="true">
-                            <div class="featured-item-title">Rock the Alphabet</div>
-                            </a>                    
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover border-right" id="neckup-new-lesson-plans" style="width:16%;">
-          <a class="nav-link" href="/lesson-plans/">Lesson Plans <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-lesson-plans"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/lesson-plans/preschool/">Preschool</a></li>
-                                <li><a href="/lesson-plans/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/lesson-plans/first-grade/">1st Grade</a></li>
-                                <li><a href="/lesson-plans/second-grade/">2nd Grade</a></li>
-                                <li><a href="/lesson-plans/third-grade/">3rd Grade</a></li>
-                                <li><a href="/lesson-plans/fourth-grade/">4th Grade</a></li>
-                                <li><a href="/lesson-plans/fifth-grade/">5th Grade</a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/lesson-plans/math/">Math</a></li>
-                                <li><a href="/lesson-plans/reading/">Reading</a></li>
-                                <li><a href="/lesson-plans/science/">Science</a></li>
-                                <li><a href="/lesson-plans/writing/">Writing</a></li>
-                                <li><a href="/lesson-plans/social-studies/">Social Studies</a></li>
-                                <li><a href="/lesson-plans/esl/">ESL</a></li>
-                                <li><a href="/lesson-plans/"><strong>All Lesson Plans</strong></a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">                        <div class="featured-title">Featured Lesson Plans</div>
-                                                    <div class="lp-image">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/lesson-plans/icons/navbar/Reading-box.png" nopin="true">
-                            <ul>
-                                                                    <li><a href="/lesson-plan/three-little-pigs-and-the-5ws-questions/">Three Little Pigs: 5 W's Reading Comprehension</a></li>
-                                                                        <li><a href="/lesson-plan/abc-classroom-quilt/">ABC Classroom Quilt</a></li>
-                                                                </ul>
-                            </div>
-                                                    <div class="lp-image">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/lesson-plans/icons/navbar/Writing-box.png" nopin="true">
-                            <ul>
-                                                                    <li><a href="/lesson-plan/whose-side-of-the-story/">Whose Side of the Story</a></li>
-                                                                        <li><a href="/lesson-plan/goldilocks-and-the-three-bears-key-details/">Goldilocks and the Three Bears: Key Details</a></li>
-                                                                </ul>
-                            </div>
-                                                    <div class="lp-image">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/lesson-plans/icons/navbar/Math-box.png" nopin="true">
-                            <ul>
-                                                                    <li><a href="/lesson-plan/fraction-hunt/">Fraction Hunt</a></li>
-                                                                        <li><a href="/lesson-plan/multiplication-race/">Multiplication Race</a></li>
-                                                                </ul>
-                            </div>
-                                                    <div class="lp-image">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/static/lesson-plans/icons/navbar/Science-box.png" nopin="true">
-                            <ul>
-                                                                    <li><a href="/lesson-plan/the-language-of-landforms/">The Language of Landforms</a></li>
-                                                                        <li><a href="/lesson-plan/science-movement-simple-machines-wheel-and-axle/">Simple Machines: Wheel and Axle</a></li>
-                                                                </ul>
-                            </div>
-                                            
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover border-right" id="neckup-new-science-fair" style="width:16%;">
-          <a class="nav-link" href="/science-fair/">Science Projects <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-science-fair"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <form action="/science-fair/" method="post" id="neckup-science-fair-search" class="search-form">
-                                                    <input type="hidden" name="__module" value="ScienceFairSearchBar">
-                                                <div class="input-holder">
-                            <input type="search" placeholder="Search for projects..." name="q" required="">
-                        </div><input type="submit" class="btn btn-orange" value="Search">
-                        <div class="clear"></div>
-                        </form>
-                    <div class="tab-links"><ul class=" col1_2">
-                                <li class="col-heading">By Grade</li>
-                                <li><a href="/science-fair/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/science-fair/elementary-school/">Elementary School</a></li>
-                                <li><a href="/science-fair/middle-school/">Middle School</a></li>
-                                <li><a href="/science-fair/high-school/">High School</a></li>
-                                <li><a href="/science-fair/"><strong>All Project Ideas</strong></a></li>
-                            </ul><ul class=" col2_2">
-                                <li class="col-heading">By Subject</li>
-                                <li><a href="/science-fair/physical-science/">Physical Science</a></li>
-                                <li><a href="/science-fair/earth-space-science/">Earth and Space Science</a></li>
-                                <li><a href="/science-fair/life-science/">Life Science</a></li>
-                                <li><a href="/science-fair/applied-science/">Applied Science</a></li>
-                                <li><a href="/science-fair/behavioral-health-science/">Behavioral/Health Science</a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">
-                        <div class="featured-title">Featured Science Fair Projects</div><a class="featured-item" href="/science-fair/article/self-inflating-balloon/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/529001_530000/529646/self-inflating-balloon.jpg" nopin="true">
-                            <div class="featured-item-title">Self-Inflating Balloons</div>
-                            </a><a class="featured-item" href="/science-fair/article/water-electrolysis/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/585001_586000/585817/water-electrolysis.jpg" nopin="true">
-                            <div class="featured-item-title">Electrolysis of Water<br>Experiment</div>
-                            </a><a class="featured-item" href="/science-fair/article/no-frills-motor/">
-                            <img class="thumbnail" src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/files/623001_624000/623299/no-frills-motor.jpg" nopin="true">
-                            <div class="featured-item-title">How to Make a Simple<br>Electric Motor</div>
-                            </a>                    
-                </div>
-            </div></div>
-        </li>
-        <li class="menu-item add-hover left100" id="neckup-new-more" style="width:13%;">
-          <a class="nav-link" href="#">More <i class="caret icon-angle-right"></i></a>
-          <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-more"><div class="dropdown-content page-width center">
-                <div class="dropdown-left">
-                    
-                    <div class="tab-links"><ul class=" col1_5">
-                                <li class="col-heading">Products</li>
-                                <li><a href="/articles/">Articles</a></li>
-                                <li><a href="/worksheet-generator/">Worksheet Generator</a></li>
-                                <li><a href="/common-core/">Common Core Resources</a></li>
-                                <li><a href="/games/info/">Brainzy Math and Reading Program</a></li>
-                                <li><a href="/collections/">Collections</a></li>
-                                <li><a href="/school-accounts/">School Licenses</a></li>
-                            </ul><ul class=" col2_5">
-                                <li class="col-heading">Grades</li>
-                                <li><a href="/grade/preschool/">Preschool</a></li>
-                                <li><a href="/grade/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/grade/first-grade/">First Grade</a></li>
-                                <li><a href="/grade/second-grade/">Second Grade</a></li>
-                                <li><a href="/grade/third-grade/">Third Grade</a></li>
-                                <li><a href="/grade/fourth-grade/">Fourth Grade</a></li>
-                                <li><a href="/grade/fifth-grade/">Fifth Grade</a></li>
-                            </ul><ul class="hide-on-mobile col3_5">
-                                <li class="col-heading">Grade Readiness</li>
-                                <li><a href="/grade-readiness/preschool/">Preschool</a></li>
-                                <li><a href="/grade-readiness/kindergarten/">Kindergarten</a></li>
-                                <li><a href="/grade-readiness/first-grade/">First Grade</a></li>
-                                <li><a href="/grade-readiness/second-grade/">Second Grade</a></li>
-                                <li><a href="/grade-readiness/third-grade/">Third Grade</a></li>
-                                <li><a href="/grade-readiness/fourth-grade/">Fourth Grade</a></li>
-                                <li><a href="/grade-readiness/fifth-grade/">Fifth Grade</a></li>
-                            </ul><ul class=" col4_5">
-                                <li class="col-heading">Company</li>
-                                <li><a href="/about/us/">About Us</a></li>
-                                <li><a href="/about/careers/">Careers</a></li>
-                                <li><a href="/blog/">Blog</a></li>
-                                <li><a href="/privacy/">Privacy Policy</a></li>
-                                <li><a href="http://support.education.com" target="_blank">Support</a></li>
-                            </ul><ul class=" col5_5">
-                                <li class="col-heading">Social</li>
-                                <li><a href="http://www.facebook.com/Education.comFanPage" target="_blank">Facebook</a></li>
-                                <li><a href="http://twitter.com/education_com" target="_blank">Twitter</a></li>
-                                <li><a href="https://www.youtube.com/user/brainzyxeducationcom" target="_blank">Youtube</a></li>
-                                <li><a href="https://www.pinterest.com/education_com/" target="_blank">Pinterest</a></li>
-                            </ul>
-                        <div class="clear"></div>
-                    </div>
-                </div><div class="dropdown-right">                        <!--                        <img src="http://00.edu-cdn.com/themes/sky/i/blank.gif" data-lazyload-src="http://00.edu-cdn.com/i/logo/edu-logo-book-242x244.png" style="max-width: 100%;" nopin="true">-->
-                    
-                </div>
-            </div></div>
-        </li>
-      </ul>
-    </nav>
-	<div class="search">
-	  <i class="icon-search"></i>
-	  <form method="get" action="/results/">
-		  <input type="search" name="q" placeholder="Search..." required="">
-		  <input type="submit" class="btn btn-orange" value="Search">
-	  </form>
-	</div>
-	
-        <div class="settings login">
-              <i class="signin-link" style="font-style:normal;font-size:12px;font-weight:bold;cursor:pointer;display:inline-block;vertical-align:middle;">Log In</i>
-          </div>
-    
-  </section>
+    </div>
+  </div>
 </header>
+<script>
+// Top Nav click events
+(function($) {
+  if(!$) return;
+  var ham_open = false;
+  var account_open = false;
+
+  var ham = $('nav.unified-subnav .subnav-more');
+  var account = $('header.unified .account-dropdown');
+
+  // Hamburger menu
+  ham.on('click','.icon-menu',function(e) {
+    ham.toggleClass('open');
+    ham_open = ham.hasClass('open');
+  });
+
+  // Account menu
+  account.on('click','.account-tag',function(e) {
+    account.toggleClass('open');
+    account_open = true;
+  });
+
+  // Hamburger dropdown tabs
+  ham.on('click','.dropdown > ul > li > span',function(e) {
+    e.preventDefault();
+    var p = $(this).parent();
+    if(p.hasClass('open')) {
+      p.removeClass('open');
+    }
+    else {
+      $('nav.unified-subnav .subnav-more .dropdown > ul > li.open').removeClass('open');
+      p.addClass('open');
+    }
+  });
+
+  // Click on page outside of hamburger/account menu when open
+  $(document).on('click',function(e) {
+    if(!ham_open && !account_open) return;
+    var t = $(e.target);
+
+    if(ham_open) {
+      if(!t.hasClass('subnav-more') && !t.closest('.subnav-more').length) {
+        ham.removeClass('open');
+        ham_open = false;
+      }
+    }
+
+    if(account_open) {
+      if(!t.hasClass('account-dropdown') && !t.closest('.account-dropdown').length) {
+      	account.removeClass('open');
+      	account_open = false;
+      }
+    }
+  });
+})(window.jQuery);
+</script>
  
 
 	<div class="banner-notifications-container"></div> 
@@ -797,10 +450,10 @@ San Mateo, CA 94401<br></p>
         <div class="modal-content">
 	        <div class="overlay">Loading...</div>
 	        <img class="thumbnail">
-	        <div class="sign-in">
+	        <div class="sign-in" style="display: none;">
                 <div>
                     <h3>Sign In</h3>
-                    <p class="description" style="margin: 10px 0;"></p>
+                                        <p class="description" style="margin: 10px 0;"></p>
                 </div>
 		        <div class="clear"></div>
 		        <form class="form registration-form" novalidate="">
@@ -827,23 +480,34 @@ San Mateo, CA 94401<br></p>
                     <p class="subhead">Not an Education.com member yet? <a href="#" class="create-account-link">Create an Account</a></p>
 		        </form>
                 <div class="loginwith">                    <div class="or-area"><span>or</span></div>
+                    <div class="abcRioButton abcRioButtonLightBlue fb-btn-container">
+                        <div class="fb-login-button" data-max-rows="1" data-size="icon" data-show-faces="false" data-auto-logout-link="false"></div>
+                        <span style="font-size: 21px; line-height: 45px;">Sign in with Facebook</span>
+                    </div>
                     <div id="register-with-google" class="g-signin2" data-width="450" data-height="50" data-longtitle="true" data-scope="profile email" data-theme="light" data-onsuccess="googleSignIn" data-onfailure="googleError" data-type="login" style="margin-bottom: 15px">
                     </div>
-                                        <div class="abcRioButton abcRioButtonLightBlue">
-                        <a id="register-with-clever" href="https://clever.com/oauth/authorize?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.education.com%2F%3F__call%3DOAuthClever%26cid%3D30.418&amp;client_id=ce42912ce24f0a9d85e1&amp;state=%2Fprivacy%2F" style="display: block;width: 100%;height: 100%;">
-                            <span style="display: inline-block; width: 50px; vertical-align: middle"><img src="http://00.edu-cdn.com/themes/sky/i/page/clever-icon.png" width="25" height="25"></span>
-                            <span style="font-size: 21px; line-height: 45px;">Log in with Clever</span>
-                        </a>
-                    </div>
-                                    </div>
+                                            <div class="login-with-clever">
+                            <a id="register-with-clever" href="https://clever.com/oauth/authorize?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.education.com%2F%3F__call%3DOAuthClever%26cid%3D30.418&amp;client_id=ce42912ce24f0a9d85e1&amp;state=%2Fprivacy%2F" style="text-align: center; display: block;width: 100%;height: 100%;">
+                                <span style="font-size: ">Sign in with Clever</span>
+                            </a>
+                        </div>
+                                        <div id="status"></div>
+                </div>
 	        </div>
-	        <div class="create-account">
+	        <div class="create-account" style="display: block;">
 		        <div>
 			        <h3>Create Account</h3>
-			        <p class="description" style="margin: 10px 0;"></p>
+                    			        <p class="description" style="margin: 10px 0;"></p>
 		        </div>
 		        <div class="clear"></div>
 		        <form class="form registration-form" novalidate="">
+                    <div class="input-row first-name">
+                        <label>
+                            First name
+                            <input type="text" name="first-name" required="">
+                        </label>
+                        <div class="errormsg"></div>
+                    </div>
 			        <div class="input-row email-address">
 				        <label>
 					        Email address
@@ -857,26 +521,66 @@ San Mateo, CA 94401<br></p>
                           <input type="password" name="password" required="">
 				        </label>
 				        <div class="errormsg"></div>
-				        <a class="forgot-below forgot" href="http://www.education.com/resetpassword/" target="_blank">Forgot Password?</a>
+				        <a class="forgot-below forgot" href="http://www.education.com/resetpassword/" target="_blank" style="display: none;">Forgot Password?</a>
 			        </div>
 			        <div class="input-row iama">
 				        <label class="inline">I am a:</label>
 				        <div style="display: inline-block; vertical-align:middle;">
 					        <label class="checkbox">
-						        <input type="checkbox" value="parent">
+						        <input type="checkbox" value="parent" name="user-type" required="">
 						        <span>Parent</span>
 					        </label>
 					        <label class="checkbox">
-						        <input type="checkbox" value="teacher">
+						        <input type="checkbox" value="teacher" name="user-type" required="">
 						        <span>Teacher</span>
 					        </label>
 					        <label class="checkbox">
-						        <input type="checkbox" value="homeschooler">
+						        <input type="checkbox" value="homeschooler" name="user-type" required="">
 						        <span>Homeschooler</span>
 					        </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="other" name="user-type" required="">
+                                <span>Other</span>
+                            </label>
 				        </div>
-				        <div class="errormsg"></div>
+				        <div class="errormsg" style="display: block; margin-top: 5px;"></div>
 			        </div>
+                    <hr style="border-top: 1px solid #ccc; border-bottom: none; margin-bottom: 15px;">
+                    <div class="input-row grades">
+                        <label class="inline">Grades:</label>
+                        <div style="display: inline-block; vertical-align:middle;">
+                            <label class="checkbox">
+                                <input type="checkbox" value="Preschool" name="grades" required="">
+                                <span>Preschool</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="Kindergarten" name="grades" required="">
+                                <span>K</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="FirstGrade" name="grades" required="">
+                                <span>1st</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="SecondGrade" name="grades" required="">
+                                <span>2nd</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="ThirdGrade" name="grades" required="">
+                                <span>3rd</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="FourthGrade" name="grades" required="">
+                                <span>4th</span>
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" value="FifthGrade" name="grades" required="">
+                                <span>5th</span>
+                            </label>
+                        </div>
+                        <div class="errormsg" style="display: block; margin-top: 5px;"></div>
+                    </div>
+
 			        <button class="btn btn-blue btn-lg btn-block submit" type="submit">Create Account</button>
 			        <div class="input-row general">
 				        <div class="errormsg"></div>
@@ -884,14 +588,17 @@ San Mateo, CA 94401<br></p>
                     <p class="subhead">Already a member? <a href="#" class="signin-link">Sign In</a></p>
 
                     <div class="loginwith">                        <div class="or-area"><span>or</span></div>
+                        <div class="abcRioButton abcRioButtonLightBlue fb-btn-container">
+                            <div class="fb-login-button" data-max-rows="1" data-size="icon" data-show-faces="false" data-auto-logout-link="false"></div>
+                            <span style="font-size: 21px; line-height: 45px;">Sign in with Facebook</span>
+                        </div>
                         <div id="register-with-google" class="g-signin2" data-width="450" data-height="50" data-longtitle="true" data-scope="profile email" data-theme="light" data-onsuccess="googleSignIn" data-onfailure="googleError" data-type="signup" style="margin-bottom: 15px">
                         </div>
-                                                <div class="abcRioButton abcRioButtonLightBlue">
-                            <a id="register-with-clever" href="https://clever.com/oauth/authorize?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.education.com%2F%3F__call%3DOAuthClever%26cid%3D30.418&amp;client_id=ce42912ce24f0a9d85e1&amp;state=%2Fprivacy%2F" style="display: block;width: 100%;height: 100%;">
-                            <span style="display: inline-block; width: 50px; vertical-align: middle"><img src="http://00.edu-cdn.com/themes/sky/i/page/clever-icon.png" width="25" height="25"></span>
-                            <span style="font-size: 21px; line-height: 45px;">Log in with Clever</span>
-                            </a>
-                        </div>
+                                                    <div class="login-with-clever">
+                                <a id="register-with-clever" href="https://clever.com/oauth/authorize?response_type=code&amp;redirect_uri=https%3A%2F%2Fwww.education.com%2F%3F__call%3DOAuthClever%26cid%3D30.418&amp;client_id=ce42912ce24f0a9d85e1&amp;state=%2Fprivacy%2F" style="text-align: center; display: block;width: 100%;height: 100%;">
+                                    <span style="font-size: ">Sign in with Clever</span>
+                                </a>
+                            </div>
                                             </div>
 
 			        <div class="disclaimer">
@@ -901,7 +608,7 @@ San Mateo, CA 94401<br></p>
 		        </form>
 
 	        </div>
-	        <div class="forgot-password">
+	        <div class="forgot-password" style="display: none;">
 		        <div>
 			        <h3>Forgot Password</h3>
 			        <p class="subhead">We'll send you a link to a secure page where you can easily create your new password <a href="#" class="signin-link">Go back to sign in page</a></p>
@@ -925,24 +632,17 @@ San Mateo, CA 94401<br></p>
                     </div>
 		        </form>
 	        </div>
-            <div class="confirm-email">
+            <div class="confirm-email" style="display: none;">
                 <h3>Reset Password Email Sent</h3>
                 <p class="subhead">The email is on its way. Please allow a few minutes for it to arrive. Didn't receive the email? <a class="forgot" href="#">Go back and try again</a></p>
                 <p class="description" style="margin: 10px 0;"></p>
             </div>
-	        <div class="reset-password">
+	        <div class="reset-password" style="display: none;">
 		        <div>
 			        <h3>Reset Password</h3>
 		        </div>
 		        <div class="clear"></div>
 		        <form class="form registration-form">
-			        <div class="input-row email-address">
-				        <label>
-					        Email address
-					        <input type="email" required="" readonly="" style="display:none;">
-				        </label>
-				        <p class="current-email-address"></p>
-			        </div>
 			        <div class="input-row password">
 				        <label>
 					        New Password
@@ -959,6 +659,7 @@ San Mateo, CA 94401<br></p>
 			        </div>
 		        </form>
 	        </div>
+            <div class="error-message" style="display: none;"></div>
         </div>
     </div>
 <script>
@@ -966,6 +667,7 @@ San Mateo, CA 94401<br></p>
     (function ($) {
         var signup_modal = $("#signup-form").modal({
             analytics_name: "Responsive",
+            section_name: null,
             thumbnail: null,
             newsletters: {
                 worksheet: false,
@@ -978,6 +680,7 @@ San Mateo, CA 94401<br></p>
 	        forgot: false,
             confirm: false,
 	        reset: false,
+            redirectPathOnSuccess: window.location.href,
 	        setRegisterTitle: function (title) {
 		        $('.create-account h3', this.el).html(title);
 	        },
@@ -999,7 +702,6 @@ San Mateo, CA 94401<br></p>
             setRegisterButton: function(text) {
                 $(".create-account .submit",this.el).text(text);
             },
-
             init: function () {
                 // Default to create account
                 this.showCreateAccount();
@@ -1068,11 +770,17 @@ San Mateo, CA 94401<br></p>
             setAnalyticsName: function (name) {
                 this.analytics_name = name;
             },
+            setSectionName: function(name) {
+                this.section_name = name;
+            },
+            setRedirectOverride: function(path) {
+                this.redirectPathOnSuccess = path;
+            },
             onOpen: function () {
                 if (this.open_event_fired) return;
                 this.open_event_fired = true;
                 this.loadGooglePlatform();
-                this.trackGA('opened');
+                this.trackGA('opened','Viewed Registration Form');
                 this.trackDBM();
 	            (window.optimizely || []).push('trackEvent', 'registration-modal-open');
             },
@@ -1083,14 +791,16 @@ San Mateo, CA 94401<br></p>
                 document.getElementsByTagName('head')[0].appendChild(s);
 
             },
-            trackGA: function (event) {
-                (window.ga || function () {})('send', 'event', 'modal', this.analytics_name + ' registration modal: ' + event);
-                // using gtm
-                (window.dataLayer || []).push({
-                    'event': 'GAEvent',
-                    'eventCategory': 'modal',
-                    'eventAction': this.analytics_name + ' registration modal: ' + event
-                });
+            trackGA: function (event, name, method) {
+	            if(window.Edu && window.Edu.trackEvent) {
+	            	var data = {section: this.section_name || this.analytics_name};
+	            	if(method) data.method = method;
+
+		            window.Edu.trackEvent(name,data,{
+			            eventCategory: 'modal',
+			            eventAction: this.analytics_name + ' registration modal: ' + event
+		            });
+	            }
             },
             trackDBM: function() {
                 // dbm pixel tracking when the sign up modal is opened: kanbanize 1075
@@ -1118,6 +828,8 @@ San Mateo, CA 94401<br></p>
                 $(".forgot-password",this.el).hide();
                 $(".confirm-email", this.el).hide();
                 $(".reset-password",this.el).hide();
+                $('.loginwith #status', this.el).html('');
+                $('.error-message', this.el).hide();
                 this.clearAllErrors();
             },
             showCreateAccount: function () {
@@ -1166,11 +878,16 @@ San Mateo, CA 94401<br></p>
 	            }
                 $(".reset-password",this.el).show();
             },
-	        showResetPasswordFromEmailLink: function (email) {
-		        $('.forgot-password .input-row.email-address input', this.el).val(email);
+	        showResetPasswordFromEmailLink: function () {
 		        $('.reset-password .subhead', this.el).hide();
 		        this.showResetPassword(false);
 	        },
+            showErrorMessage: function (message) {
+                this.hideAll();
+                var errorTitle = $('<h3></h3>').text('Reset Password');
+                var errorMessage = $('<div></div>').text(message).css('margin-top', '10px');
+                $('.error-message', this.el).empty().append(errorTitle).append(errorMessage).show();
+            },
 	        populateInputFields: function () {
 		        var emailSelector;
 
@@ -1203,12 +920,20 @@ San Mateo, CA 94401<br></p>
                 if (this.register) {
                     ret = {
                         email: $('.create-account .input-row.email-address input',this.el).val(),
-                        password: $('.create-account .input-row.password input',this.el).val()
+                        password: $('.create-account .input-row.password input',this.el).val(),
+                        firstName: $('.create-account .input-row.first-name input',this.el).val()
                     };
                     ret.iama = [];
                     $('.create-account .input-row.iama input', this.el).each(function () {
                         var el = $(this);
                         if (el.val() && el.prop('checked')) ret.iama.push(el.val());
+                    });
+
+                    /** Getting grades checked */
+                    ret.grades = [];
+                    $('.create-account .input-row.grades input', this.el).each(function () {
+                        var el = $(this);
+                        if (el.val() && el.prop('checked')) ret.grades.push(el.val());
                     });
                 }
                 if (this.signin) {
@@ -1225,7 +950,6 @@ San Mateo, CA 94401<br></p>
 
                 if (this.reset) {
                     ret = {
-	                    email: $('.reset-password .input-row.email-address input',this.el).val(),
 	                    key: $('.reset-password .input-row.email-verification input',this.el).val(),
 	                    password: $('.reset-password .input-row.password input',this.el).val()
                     };
@@ -1238,21 +962,50 @@ San Mateo, CA 94401<br></p>
                 // event = this.ca_signin?'ca_si_'+event:(this.register?'ca_'+event:'si_'+event);
                 // window.Mongo && window.Mongo.Buyflow.track(event,data||null,immediate);
             },
-            validateEmail: function (email) {
-                if (!email.length) {
-                    this.addFieldError('email-address', 'Please enter your email address.');
-                    this.track('failure', {error: 'email'});
-                    return false;
+            validateFirstName: function (firstName) {
+                if (firstName.length > 0) {
+                    return true;
                 }
-                return true;
+
+                this.addFieldError('first-name', 'Please enter your first name.');
+                this.track('failure', {error: 'first-name'});
+                return false;
+            },
+            validateUserType: function (userType) {
+                if (userType.length > 0) {
+                    return true;
+                }
+
+                this.addFieldError('iama', 'Please select one.');
+                this.track('failure', {error: 'user-type'});
+                return false;
+            },
+            validateGradesSelected: function(grades) {
+                if (grades.length > 0) {
+                    return true;
+                }
+
+                this.addFieldError('grades', 'Please select one.');
+                this.track('failure', {error: 'grades'});
+                return false;
+            },
+            validateEmail: function (email) {
+                if (email.length > 0) {
+                    return true;
+                }
+
+                this.addFieldError('email-address', 'Please enter your email address.');
+                this.track('failure', {error: 'email'});
+                return false;
             },
             validatePasswordPresence: function (password) {
-                if (!password.length) {
-                    this.addFieldError('password', 'Please enter your password.');
-                    this.track('failure', {error: 'password'});
-                    return false;
+                if (password.length > 0) {
+                    return true;
                 }
-                return true;
+
+                this.addFieldError('password', 'Please enter your password.');
+                this.track('failure', {error: 'password'});
+                return false;
             },
             validatePasswordLength: function (password) {
                 if (password.length > 32) {
@@ -1274,9 +1027,19 @@ San Mateo, CA 94401<br></p>
                 this.clearAllErrors();
 
                 if (this.register) {
-                    emailValidation = this.validateEmail(data.email) ;
+                    emailValidation = this.validateEmail(data.email);
                     passwordValidation = this.validatePasswordPresence(data.password) && this.validatePasswordLength(data.password);
-                    valid = emailValidation && passwordValidation
+
+                    /** Validate the first name */
+                    firstNameValidation = this.validateFirstName(data.firstName);
+
+                    /** Validate that the user type is checked */
+                    userTypeValidation = this.validateUserType(data.iama);
+
+                    /** Validate that the grades are checked */
+                    gradesValidation = this.validateGradesSelected(data.grades);
+
+                    valid = emailValidation && passwordValidation && firstNameValidation && userTypeValidation && gradesValidation;
                 }
                 else if (this.signin) {
                     emailValidation = this.validateEmail(data.email) ;
@@ -1310,6 +1073,7 @@ San Mateo, CA 94401<br></p>
             },
             clearAllErrors: function () {
                 $('.input-row.has-error', this.el).removeClass('has-error');
+                $('.input-row div.errormsg', this.el).text('');
             },
             submitData: function () {
                 this.track('submit');
@@ -1334,7 +1098,7 @@ San Mateo, CA 94401<br></p>
                         }
 
                         window.setTimeout(function () {
-                            window.location.href = window.location.href;
+                            window.location.href = self.redirectPathOnSuccess;
                         }, 500);
                     }
                     // Failure
@@ -1394,7 +1158,7 @@ San Mateo, CA 94401<br></p>
                         //forgot error
                         else if (self.forgot) {
                             if (response.success) {
-                                self.trackGA('reset-password email sent');
+                                self.trackGA('reset-password email sent', 'Requested Password Reset');
 	                            $('.reset-password .input-row.email-verification input').val('');
                                 self.showEmailConfirmation();
 	                            self.hideOverlay();
@@ -1421,8 +1185,8 @@ San Mateo, CA 94401<br></p>
                         //reset error
                         else if (self.reset) {
                             if (response.success) {
-                                self.trackGA('reset-password successful');
-                                window.location.href = window.location.href;
+                                self.trackGA('reset-password successful','Reset Password');
+                                window.location.href = '/';
                                 return;
                             }
                             else if (response.error_type === 'key') {
@@ -1454,6 +1218,8 @@ San Mateo, CA 94401<br></p>
                             __json: 'Modal_Registration',
                             action: 'register',
                             emailaddress: data.email,
+                            firstname: data.firstName,
+                            "grades[]": data.grades,
                             password: data.password,
                             "type[]": data.iama,
                             jsfinished: 1
@@ -1464,7 +1230,7 @@ San Mateo, CA 94401<br></p>
                         if(self.newsletters.marketing) post.marketing = 1;
 
                         $.post('?', post, function (response) {
-                            if (response.status == 1) self.trackGA('signup success');
+                            if (response.status == 1) self.trackGA('signup success','Registered');
                             callback(response);
                         }).fail(function () {
                             callback({status: 0});
@@ -1484,7 +1250,7 @@ San Mateo, CA 94401<br></p>
                         // Successfully logged in
                         if (response.status == 1) {
                             self.ca_signin = true;
-                            self.trackGA('login success');
+                            self.trackGA('login success','Logged In');
                             callback(response);
                         }
                         else {
@@ -1526,7 +1292,7 @@ San Mateo, CA 94401<br></p>
                     }, function (response) {
                         // Successfully logged in
                         if (response.status == 1) {
-                            self.trackGA('login success');
+                            self.trackGA('login success','Logged In');
                             callback(response);
                         }
                         // Failed to log in
@@ -1585,12 +1351,9 @@ San Mateo, CA 94401<br></p>
                 }
                 // reset the password
                 else if (this.reset) {
-                    var host = window.location.host;
-                    var pathname = window.location.pathname;
-                    $.post('https://' + host + pathname, {
+                    $.post('https://' + window.location.host + window.location.pathname, {
                             __call: 'PasswordReset',
                             action: 'changepass',
-                            email: data.email,
                             key: window.Edu.queryString.key,
                             password: data.password
                         }, callback
@@ -1611,14 +1374,33 @@ San Mateo, CA 94401<br></p>
             return false;
         });
 
-	    if (window.Edu.queryString['reset-password'] && window.Edu.queryString.email
-		    && window.Edu.queryString.key) {
-		    signup_modal.modal('show');
-		    signup_modal.modal('showResetPasswordFromEmailLink', decodeURIComponent(window.Edu.queryString.email));
+	    if (window.Edu.queryString['reset-password'] && window.Edu.queryString.key) {
+            $.post('https://' + window.location.host + window.location.pathname, {
+                    __call: 'PasswordReset',
+                    action: 'checkKey',
+                    key: window.Edu.queryString.key
+                }, function (response) {
+                    if (response.success) {
+                        signup_modal.modal('show');
+                        signup_modal.modal('showResetPasswordFromEmailLink');
+                    }
+                    else {
+                        signup_modal.modal('show');
+                        signup_modal.modal('showErrorMessage', 'The key is invalid. Please reset the password again.');
+                    }
+                }
+            ).fail(function () {
+                    callback({status: 0});
+                });
 	    }
 
         if (window.Edu.queryString['signup']) {
             signup_modal.modal('show');
+        }
+
+        if (window.Edu.queryString['forgot-password']) {
+            signup_modal.modal('show');
+            signup_modal.modal('showForgotPassword');
         }
 
     })(jQuery);
@@ -1645,7 +1427,7 @@ San Mateo, CA 94401<br></p>
 
 		    if (response.status == 1) {
                 // track:
-                jQuery("#signup-form").modal('trackGA', gSignupState+' success google');
+                jQuery("#signup-form").modal('trackGA', gSignupState+' success google',(gSignupState=='login'?'Logged In':'Registered'),'google');
 
 			    window.setTimeout(function () {
 				    window.location.href = window.location.href;
@@ -1663,222 +1445,331 @@ San Mateo, CA 94401<br></p>
     };
 
     jQuery('.g-signin2').on('click', function () {
-        jQuery("#signup-form").modal('trackGA','google click');
+        jQuery("#signup-form").modal('trackGA','google click','Clicked Google Login Button');
 	    buttonClicked = true;
         gSignupState = jQuery(this).attr('data-type');
     });
 
     jQuery('#register-with-clever').on('click', function(){
-        jQuery("#signup-form").modal('trackGA','login with clever click');
+        jQuery("#signup-form").modal('trackGA','login with clever click','Clicked Clever Login Button');
     });
 </script>
+    <div class="modal" id="additional-info-request">
+        <i class="icon-cancel"></i>
+        <div class="modal-content">
+            <h3 style="text-align: center;">Tell us about yourself</h3>
+            <form class="form registration-form" novalidate="">
+                <div class="input-row iama">
+                    <h4>I am a (select all that apply):</h4>
+                    <div style="display: inline-block; vertical-align:middle;">
+                        <label class="checkbox" style="margin-left: 0px;">
+                            <input type="checkbox" value="parent" name="user-type" required="">
+                            <span>Parent</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="teacher" name="user-type" required="">
+                            <span>Teacher</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="homeschooler" name="user-type" required="">
+                            <span>Homeschooler</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="other" name="user-type" required="">
+                            <span>Other</span>
+                        </label>
+                    </div>
+                    <div class="errormsg" style="display: block; margin-top: 5px;"></div>
+                </div>
+                <hr style="border-top: 1px solid #ccc; border-bottom: none; margin-bottom: 15px;">
+                <div class="input-row grades">
+                    <h4>I'm interested in the following grades (select all that apply):</h4>
+                    <div style="display: inline-block; vertical-align:middle;">
+                        <label class="checkbox" style="margin-left: 0px;">
+                            <input type="checkbox" value="Preschool" name="grades" required="">
+                            <span>Preschool</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="Kindergarten" name="grades" required="">
+                            <span>K</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="FirstGrade" name="grades" required="">
+                            <span>1st</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="SecondGrade" name="grades" required="">
+                            <span>2nd</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="ThirdGrade" name="grades" required="">
+                            <span>3rd</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="FourthGrade" name="grades" required="">
+                            <span>4th</span>
+                        </label>
+                        <label class="checkbox">
+                            <input type="checkbox" value="FifthGrade" name="grades" required="">
+                            <span>5th</span>
+                        </label>
+                    </div>
+                    <div class="errormsg" style="display: block; margin-top: 5px;"></div>
+                </div>
+
+                <div class="btn-container">
+                    <a class="btn btn-orange" id="submit-additional-info" style="border-radius: 25px; width: 150px; line-height: 20px;">Continue</a>
+                    <a class="btn btn-outline btn-orange" id="skip-additional-info" style="border-radius: 25px; width: 150px; line-height: 20px;">Skip for now</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        (function ($) {
+            // Setup for the additional info request modal
+            var additional_info_modal = $("#additional-info-request").modal({
+                onClose: function() {
+                    window.location = window.location;
+                }
+            });
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId   : 116999881655243,
+                    cookie  : true,  // enable cookies to allow the server to access the session
+                    xfbml   : true,  // parse social plugins on this page
+                    version : 'v2.8'
+                });
+
+                // Event listener for when clicking on the "Log in with Facebook"
+                $('.modal#signup-form').on('click', '.fb-btn-container', function() {
+                    // Track in GA that the facebook login was clicked
+                    jQuery("#signup-form").modal('trackGA','login with Facebook click', 'Clicked Facebook Login Button');
+
+                    // Reset the status message
+                    // Clear out the status message
+                    $('.loginwith #status').html('');
+
+                    FB.login(function(response) {
+                        if (response.status === 'connected') {
+                            response.requestType = 'request_log_in';
+                            $.ajax({
+                                url: '?__call=FacebookSSO',
+                                type: 'post',
+                                data: response,
+                                success: function(results) {
+                                    if (results && results.status) {
+                                        if(results.newMember) {
+                                            jQuery("#signup-form").modal('trackGA', 'signup success facebook', 'Registered', 'facebook');
+                                        } else {
+                                            jQuery("#signup-form").modal('trackGA', 'login success facebook', 'Logged In', 'facebook');
+                                        }
+
+                                        if (results.newMember) {
+                                            additional_info_modal.modal('show');
+                                        } else {
+                                            // show loading...
+                                            jQuery("#signup-form").modal('showOverlay');
+                                            window.location = window.location;
+                                        }
+                                    } else {
+                                        if (results.message !== '') {
+                                            $('.loginwith #status').html(results.message);
+                                        } else {
+                                            $('.loginwith #status').html('Sorry, there was an error trying to log you in.');
+                                        }
+                                    }
+                                },
+                                error: function(e) {
+                                    $('.loginwith #status').html('Sorry, there was an error trying to log you in.');
+                                }
+                            });
+                        } else if (response.status === 'not_authorized') {
+                            $('.loginwith #status').html('Please authorize Education.com to log in.');
+                        } else {
+                            $('.loginwith #status').html('Sorry, there was an error trying to log you in.');
+                        }
+                    }, {
+                                                scope: 'public_profile,email',
+                                                auth_type: 'rerequest',
+                                                return_scopes: true
+                    });
+                });
+            };
+
+            /** Events for the additional info request modal */
+            $('.modal#additional-info-request').on('click', 'a#submit-additional-info', function() {
+                // show loading...
+                jQuery("#signup-form").modal('showOverlay');
+                $.ajax({
+                    url: '?__call=FacebookSSO',
+                    type: 'post',
+                    data: {
+                        requestType: 'additional_info',
+                        formData: JSON.stringify($(".modal#additional-info-request form").serializeArray())
+                    },
+                    complete: function () {
+                        window.location = window.location;
+                    }
+                });
+            });
+            $('.modal#additional-info-request').on('click', 'a#skip-additional-info', function() {
+                // show loading...
+                jQuery("#signup-form").modal('showOverlay');
+                window.location = window.location;
+            });
+
+            // Load the SDK asynchronously
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        })(jQuery);
+    </script>
  
 
-	
-<div style="display: none;" id="navbar-dropdown-contents">
-            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-games">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-worksheets">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-workbooks">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-activities">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-lesson-plans">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-science-fair">
-            
-            </div>            
-        <div class="dropdown-content-wrap tab-dropdown iefix" id="tab-dropdown-neckup-new-content-more">
-            
-            </div>    </div>
-<script>
-    // Move navbar dropdowns to right place
-    jQuery('.dropdown-content-wrap', jQuery("#navbar-dropdown-contents")).each(function () {
-        var id = jQuery(this).attr('id').replace('-content-', '-');
-        jQuery('#' + id).append(jQuery('.dropdown-content', jQuery(this)));
-    });
-    
-    // Nav bar events
-    (function ($) {
-
-        // Buttons and elements
-        var nav = $("header nav");
-        var search = $("header .navbar > .search");
-        var settings = $("header .navbar > .settings");
-        var menu_button = $("> .menu", nav);
-        var search_button = $("> i", search);
-        var settings_button = $("> i", settings);
-	
-	// Lazy load navbar dropdown images on first hover
-        var images_loaded = false;
-
-        // Hide all other tabs on mouseenter
-        $(".menu-item", nav).on('mouseenter mouseleave', function () {
-            if (!images_loaded) {
-                images_loaded = true;
-                nav.lazyload();
-            }
-            if (window.isTouch || menu_button.filter(':visible').length) return;
-
-            $(".menu-item.expanded", nav).removeClass('expanded');
-
-            // If an input field is focused, don't close
-            if ($("input:focus", $(this)).length) {
-                $(this).addClass('expanded');
-            }
-            // If an input field in another tab is focused, unfocus it
-            else if ($(".menu-item input:focus", nav).length) {
-                if (document.activeElement) document.activeElement.blur();
-            }
-        });
-	
-        // Hook up mobile menu button
-        menu_button.on('click', function (e) {
-            if (!images_loaded) {
-                images_loaded = true;
-                nav.lazyload();
-            }
-            if (nav.hasClass('expanded')) {
-                nav.removeClass('expanded');
-                $(".menu-item", nav).removeClass('expanded');
-            }
-            else {
-                nav.addClass('expanded');
-                search.removeClass('expanded');
-                settings.removeClass('expanded');
-                if (document.activeElement) document.activeElement.blur();
-            }
-	        e.preventDefault();
-        });
-
-        // Hook up mobile menu submenus
-        $(".menu-item > a", nav).on('click', function (e) {
-            // Only disable clicks when on a touch device or small screen
-            if (!window.isTouch && !menu_button.filter(':visible').length) return;
-            var li = $(this).parent();
-            if (!$(".dropdown-content", li).length) return;
-
-            var is_expanded = li.hasClass('expanded');
-
-            $(".menu-item.expanded", nav).removeClass('expanded');
-            $(".menu-item .nav-link .caret", nav).removeClass('icon-angle-down').addClass('icon-angle-right');
-            if (!is_expanded) {
-                li.addClass('expanded');
-                $('.nav-link .caret', li).removeClass('icon-angle-right').addClass('icon-angle-down');
-                nav.addClass('expanded');
-            }
-
-	        e.preventDefault();
-        });
-    })(window.jQuery);
-</script>
-
-<footer>
-    <p class="links">
-        <a href="/about/" rel="nofollow">About Us</a> |
-        <a href="/about/careers/" rel="nofollow">Careers</a> |
-        <a href="/blog/" rel="nofollow">Blog</a> |
-        <a href="/about/press/" rel="nofollow">Press</a> |
-        <a href="/about/media/" rel="nofollow">Media</a> |
-        <a href="/about/advertising/" rel="nofollow">Advertise</a> |
-        <a href="/privacy/" rel="nofollow">PRIVACY POLICY</a> |
-        <a href="/terms-of-use/" rel="nofollow">Terms of Use</a> |
-        <a href="/school-accounts/" rel="nofollow">Schools</a> |
-        <a href="/sitemap/">Sitemap</a> |
-        <a href="http://support.education.com" target="_blank" rel="nofollow">Support</a>
-    </p>
-        <p class="copyright">Copyright © 2006 - 2016 Education.com,&nbsp;Inc. All rights reserved.</p>
+	<footer class="unified">
+  <div class="page-width">
+    <div class="link-groups flex-container flex-wrap flex-left">
+      <div class="guided-lessons">
+        <a href="/guided-lessons/" class="header">Guided Lessons</a>
+        <ul>
+          <li><a href="/guided-lessons/browse/math/">Math Lessons</a></li>
+          <li><a href="/guided-lessons/browse/ela/">Reading &amp; Writing Lessons</a></li>
+          <li><a href="/games/home/">Progress Dashboard</a></li>
+          <li><a href="/guided-lessons/">Learn More</a></li>
+        </ul>
+      </div>
+      <div class="learning-resources">
+        <a href="/resources/" class="header">Learning Resources</a>
+        <ul>
+          <li><a href="/worksheets/">Worksheets</a></li>
+          <li><a href="/games/">Games</a></li>
+          <li><a href="/workbooks/">Workbooks</a></li>
+          <li><a href="/activity/">Activities</a></li>
+          <li><a href="/songs/">Songs</a></li>
+          <li><a href="/stories/">Stories</a></li>
+	      <li><a href="/exercises/">Exercises</a></li>
+        </ul>
+      </div>
+      <div class="teaching-tools">
+        <a href="/teaching-tools/" class="header">Teaching Tools</a>
+        <ul>
+          <li><a href="/lesson-plans/">Lesson Plans</a></li>
+          <li><a href="/worksheet-generator/">Worksheet Generator</a></li>
+          <li><a href="/common-core/">Common Core Resources</a></li>
+          <li><a href="/teaching-tools/">More Teaching Tools</a></li>
+        </ul>
+      </div>
+      <div class="support">
+        <a href="http://support.education.com" class="header">Support</a>
+        <ul>
+          <li><a href="/education-plus/">Pricing</a></li>
+          <li><a href="/school-accounts/">Schools</a></li>
+          <li><a href="http://support.education.com">FAQs</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/terms-of-use/">Terms of Service</a></li>
+        </ul>
+      </div>
+      <div class="about-us">
+        <a href="/about/" class="header">About Us</a>
+        <ul>
+          <li><a href="/about/advertising/">Advertise</a></li>
+          <li><a href="/about/">Company</a></li>
+          <li><a href="/about/careers/">Careers</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/about/press/">Press</a></li>
+          <li><a href="http://support.education.com">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="social-links">
+      <a href="http://www.facebook.com/Education.comFanPage" title="Facebook"><i class="icon-facebook"></i></a>
+      <a href="http://twitter.com/education_com" title="Twitter"><i class="icon-twitter"></i></a>
+      <a href="https://www.youtube.com/user/brainzyxeducationcom" title="YouTube"><i class="icon-youtube"></i></a>
+      <a href="https://www.pinterest.com/education_com/" title="Pinterest"><i class="icon-pinterest"></i></a>
+    </div>
+    <div class="copyright">
+        Copyright © 2006 - 2016 Education.com,&nbsp;Inc. All rights reserved.
+    </div>
+  </div>
 </footer>
 
+ 
+
+	<style>
+	.net-promoter-score{bottom: -180px;opaicty: 0;z-index: 999999;position: fixed;left: 0;right: 0;padding: 8px 5px 15px 5px;background: #f2f2f2;border-top: 1px solid #ccc;text-align: center;box-shadow: 0 0 5px 2px rgba(0,0,0,0.3);transition: bottom .4s, opacity .4s}.net-promoter-score.open{bottom: 0;opacity: 1}.net-promoter-score .dismiss{position: absolute;top: 2px;right: 2px;color: #999;cursor: pointer;font-size: 20px}.net-promoter-score .values{position: relative;display: inline-block;margin-bottom: 15px}.net-promoter-score .values .value{display: inline-block;width: 35px;height: 35px;background: #98c8c2;border-radius: 30px;cursor: pointer}@media (max-width: 479px){.net-promoter-score .values .value{width: 24px;height: 24px}}.net-promoter-score .values .value:hover{background: #359183}.net-promoter-score .values .label{font-size: 13px;position: absolute;bottom: -15px}.net-promoter-score .values .label.left{left: 0}.net-promoter-score .values .label.right{right: 0}
+@media print {
+  .net-promoter-score {
+    display: none !important;
+  }
+}
+</style>
+<div class="net-promoter-score">
+    <i class="icon-cancel dismiss"></i>
+    <p>How likely are you to recommend Education.com to your friends and colleagues?</p>
+    <div class="values">
+        <span class="value" data-value="0"></span>
+        <span class="value" data-value="1"></span>
+        <span class="value" data-value="2"></span>
+        <span class="value" data-value="3"></span>
+        <span class="value" data-value="4"></span>
+        <span class="value" data-value="5"></span>
+        <span class="value" data-value="6"></span>
+        <span class="value" data-value="7"></span>
+        <span class="value" data-value="8"></span>
+        <span class="value" data-value="9"></span>
+        <span class="value" data-value="10"></span>
+        <div class="label left">Not at all likely</div>
+        <div class="label right">Extremely likely</div>
+    </div>
+</div>
 <script>
-    // Nav bar events
-    (function ($) {
+	if(window.jQuery && window.Edu && window.Edu.email) {
+		jQuery(".net-promoter-score").on('click', function (e) {
+			var t = jQuery(e.target);
+                        var c = jQuery(this);
+			e.preventDefault();
+			if (t.hasClass('dismiss')) {
+				c.removeClass('open');
+				if (window.localStorage) window.localStorage.setItem('hideNetPromoter', true);
+			}
+			else if (t.hasClass('value')) {
+				// Show thank you message and hide bar
+				c.html('<p>Thanks for your feedback!</p>').delay(2000).queue(function (next) {
+					c.removeClass('open');
+				});
+				if (window.localStorage) window.localStorage.setItem('hideNetPromoter', true);
 
-        // Buttons and elements
-        var nav = $("header nav");
-        var search = $("header .navbar > .search, header .overbar > .search");
-        var settings = $("header .navbar > .settings, header .overbar > .settings");
-        var menu_button = $("> .menu", nav);
-        var search_button = $("> i", search);
-        var settings_button = $("> i", settings);
-	var hamburger = $(".hamburger-menu");
-
-	
-        // Hook up mobile search button
-        search_button.on('click', function (e) {
-            if (search.hasClass('expanded')) {
-                search.removeClass('expanded');
-                if (document.activeElement) document.activeElement.blur();
-            }
-            else {
-                search.addClass('expanded');
-                $('input[type="search"]', search).focus();
-                nav.removeClass('expanded');
-                settings.removeClass('expanded');
-		hamburger.removeClass('open');
-                $(".menu-item", nav).removeClass('expanded');
-            }
-
-	        e.preventDefault();
-        });
-
-        })(jQuery);
+				// Log score
+				jQuery.post('?__json=Segment', {
+					action: 'net-promoter',
+					score: t.attr('data-value'),
+					url: window.location.pathname
+				});
+				if (window.Edu && window.Edu.trackEvent) {
+					window.Edu.trackEvent('Completed Net Promoter Survey', {
+						score: t.attr('data-value') * 1
+					});
+				}
+			}
+		});
+		if (Math.random() < .01 && !window.location.pathname.match(/^education-plus|workbook\/buy|about|game\/|my/)) {
+			if (window.localStorage && !window.localStorage.getItem('hideNetPromoter')) {
+				window.setTimeout(function () {
+					jQuery(".net-promoter-score").addClass('open');
+				}, 5000);
+			}
+		}
+	}
 </script>
-
 		<div class="resp-js-zone zone">
      
 
 	 
-
-	<!-- Facebook Pixel Code -->
-<script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-        document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '1625274401061491');
-    fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1625274401061491&ev=PageView&noscript=1"/></noscript>
-<!-- End Facebook Pixel Code -->
-<script>
-if("jQuery" in window) {
-    jQuery(document).on('member_registration', function () {
-        (function () {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
-                var fbds = document.createElement('script');
-                fbds.async = true;
-                fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(fbds, s);
-                _fbq.loaded = true;
-            }
-        })();
-        window._fbq = window._fbq || [];
-        window._fbq.push(['track', '6027147330922', {'value': '0.00', 'currency': 'USD'}]);
-    });
-}
-</script>
- 
-
-	<script>try {
- if('jQuery' in window) {
-  jQuery(document).on('member_registration', function() {
-   var urlpath = window.location.pathname, axel = Math.random() + '', a = axel * 10000000000000, iframe = document.createElement('iframe');
-   iframe.style.width = '0px';   iframe.style.height = '0px';   document.body.appendChild(iframe);
-   if ('/worksheets/' === urlpath.substring(0, 12)) {      iframe.src = 'http://4852711.fls.doubleclick.net/activityi;src=4852711;type=invmedia;cat=yk8q1p6y;ord=' + a + '?';   } else if ('/games/plans/' === urlpath.substring(0, 13)) {     iframe.src = 'http://4852711.fls.doubleclick.net/activityi;src=4852711;type=invmedia;cat=da0rr275;ord=' + a + '?';   } else if ('/education-plus/' === urlpath.substring(0, 16)) {     iframe.src = 'http://4852711.fls.doubleclick.net/activityi;src=4852711;type=invmedia;cat=9j2xybh4;ord=' + a + '?';   } else {      iframe.src = 'http://4852711.fls.doubleclick.net/activityi;src=4852711;type=invmedia;cat=0hgxwldy;ord=' + a + '?';   }  }); }
-} catch(e) {}</script>
- 
 
 	 
 
@@ -1902,18 +1793,6 @@ if("jQuery" in window) {
 </div>
 </noscript>
 <!-- End Quantcast tag --> 
-
-	<script>
-    if("jQuery" in window) {
-        jQuery(document).on('member_registration', function () {
-            // load their code:
-            (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4078461"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
-            // fire the event:
-            window.uetq = window.uetq || []; window.uetq.push({ 'ec':'modal', 'ea':'signup sucess', 'el':'', 'ev':'' });
-        });
-    }
-</script>
-         
 
 	<!-- Google AdWords Conversion Code for User Registration -->
 <script>
@@ -1957,7 +1836,7 @@ var iframe = document.createElement('iframe');
 			(function(d){
 				var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
 				js = d.createElement('script'); js.id = id; js.async = true;
-				js.src = "//connect.facebook.net/en_US/all.js";
+				js.src = "https://connect.facebook.net/en_US/all.js";
 				d.getElementsByTagName('head')[0].appendChild(js);
 			}(document));
 		},1000);
@@ -1965,6 +1844,6 @@ var iframe = document.createElement('iframe');
 </script>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f14e632cc5","applicationID":"20364299,20362985","transactionName":"YgQDNksDC0ICB0NYDltOIhdKFgpcTAtDWQRH","queueTime":0,"applicationTime":101,"atts":"TkMAQAMZGEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</body></html>
+
+<div id="modal-overlay"></div></body></html>
