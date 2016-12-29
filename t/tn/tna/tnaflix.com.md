@@ -1,27 +1,21 @@
-> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201205127id_/https%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229090023id_/https%3A//www.tnaflix.com/privacy) for the most accurate reproduction.*
 
-# Free Porn | Sex | PornoTnaflix - Privacy Policy
-
-## TnaFlix Privacy Policy
+# TnaFlix Privacy Policy
 
 Tnaflix.com recognizes that its customers, visitors, users, and others who use Tnaflix value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Tnaflix web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
-Please note that any video, image, or other content posted at the direction of users onto the Tnaflix site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
+Please note that any video, image, or other content posted at the direction of users onto the Tnaflix site becomes published content and is not considered personally identifiable information subject to this privacy notice.
 
 **The Information Tnaflix Collects**
 
-User-provided information: You provide certain personally identifiable information (such as your name and email address) to Tnaflix when choosing to participate in various activities on the sites such as uploading videos or posting messages.
-
+  * User-provided information: You provide certain personally identifiable information (such as your name and email address) to Tnaflix when choosing to participate in various activities on the sites such as uploading videos or posting messages.
   * Cookies Information: When you visit the Tnaflix web site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Tnaflix uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Tnaflix web site may not function properly if the ability to accept cookies is disabled. 
   * Log File Information: When you use the Tnaflix web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
 
 
-**The Way Tnaflix Retains Information**
-
-  * To preserve the integrity of website databases, Tnaflix Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Tnaflix, you are consenting to store that information indefinitely. 
-
-
+**The Way Tnaflix Retains Information**  
+To preserve the integrity of website databases, Tnaflix Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Tnaflix, you are consenting to store that information indefinitely.
 
 **The Way Tnaflix Uses Information**
 
@@ -46,6 +40,5 @@ Protecting children from adult content is especially important. For that reason,
 **In the Event of Merger, Sale, or Bankruptcy**  
 In the event that Tnaflix is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-**Changes and updates to this Privacy Notice**
-
+**Changes and updates to this Privacy Notice**  
 This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Tnaflix web site constitutes your agreement to this privacy notice and any future revisions. 
