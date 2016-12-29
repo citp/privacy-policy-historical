@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060355id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webceo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050119id_/https%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
@@ -32,7 +32,7 @@ Any visitor can browse the Websites with cookies turned off, but if you are subs
 
 ### How We Share Your Information
 
-Privacy of our users is very important for WebCEO. We shall not disclose, sell or rent your Personal Information to any third party for marketing purposes. We shall share your Personal Information with the third parties only if you instruct us to and only if such information is required to provide you with specific services. We shall use a credit card processing company to bill our users for subscriptions and other fees. These third parties shall not retain, share or store any Personal Information except to provide these services and shall be bound by strict confidentiality agreements, which limit their use of such information.
+Privacy of our users is very important for WebCEO. We shall not disclose, sell or rent your Personal Information to any third party for marketing purposes. We shall share your Personal Information with the third parties only if you instruct us to and only if such information is required to provide you with specific services. We may share your Personal Information with a relevant Regional Exclusive Distributor for your area, who has signed a Nondisclosure Agreement, so your data is absolutely safe with us. We shall use a credit card processing company to bill our users for subscriptions and other fees. These third parties shall not retain, share or store any Personal Information except to provide these services and shall be bound by strict confidentiality agreements, which limit their use of such information.
 
 WebCEO may disclose Personal Information to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by WebCEO, whether or not a response is required by applicable law.
 
