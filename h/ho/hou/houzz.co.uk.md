@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houzz.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620195122id_/http%3A//www.houzz.co.uk/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229110358id_/http%3A//www.houzz.co.uk/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
