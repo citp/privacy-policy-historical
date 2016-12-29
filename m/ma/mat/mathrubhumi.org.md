@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mathrubhumi.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231173303id_/http%3A//www.mathrubhumi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathrubhumi.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229122649id_/http%3A//media.mathrubhumi.com/static/privacypolicy.html) for the most accurate reproduction.*
 
-# Mathrubhumi Online Privacy Policy
-
-PRIVACY POLICY
+# Mathrubhumi Privacy Policy
 
 We, Mathrubhumi Printing and Publishing Company Limitd (hereinafter “Mathrubhumi”), are committed to protecting and respecting your privacy as a browser to our website.
 
@@ -216,3 +214,5 @@ Buyer/Subscriber's arrangement with Issuing Bank:
 14.  In the event of non-receipt or damage of any issue/consignment, a substitute copy will be sent to the customer without any additional charge. No refund will be allowed to any already dispatched issue/consignments will be entertained. 
 
 15\. If frequent complaint regarding non receipt and improper delivery of publication has received from the addressee, the matter will be taken up with India Postal authorities in writing for immediate action for regularizing the delivery.
+
+© COPYRIGHT MATHRUBHUMI 2020. ALL RIGHTS RESERVED.
