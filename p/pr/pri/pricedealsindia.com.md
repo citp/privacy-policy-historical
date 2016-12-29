@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricedealsindia.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618084706id_/http%3A//www.pricedealsindia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricedealsindia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229233606id_/http%3A//www.pricedealsindia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Pricedealsindia.com
 
