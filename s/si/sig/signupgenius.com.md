@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618193848id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035839id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Last Updated: January 21, 2016
+###  Last Updated: January 21, 2016
 
 Let’s face it. You came to this page because you are concerned about your privacy. You don’t know us and honestly… you just don’t trust us. Am I right? That’s perfectly understandable. There are a lot of fraudulent sites on the internet.
 
@@ -169,4 +169,4 @@ Additionally, emails we send may contain a bit of code known as a "web beacon." 
 **California Do Not Track Disclosure**  
 At this time SignUpGenius does not respond to browser 'Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-Posted by [Dan Rutledge](https://web.archive.org/index.cfm?go=c.Help&mid=8)
+Posted by[ Dan Rutledge](https://web.archive.org/index.cfm?go=c.Help&mid=8)
