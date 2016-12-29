@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611224457id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendswap.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230002801id_/http%3A//www.blendswap.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blend Swap
 
@@ -70,6 +70,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on December 07, 2011
 
-* * * *
+* * *
 
 Last updated on April 24, 2015, @ 01:10 am (America/Chicago)
