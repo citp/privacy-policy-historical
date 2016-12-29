@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loft.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619113918id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loft.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054559id_/http%3A//www.loft.com/privacy) for the most accurate reproduction.*
 
 # Customer Service Privacy & Security | LOFT
 
