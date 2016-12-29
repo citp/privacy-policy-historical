@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503075705id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055038id_/https%3A//www.spreadshirt.com/privacy-policy-C3259) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -28,6 +28,10 @@ As far as is necessary, Spreadshirt collects and uses a personal data in order t
 
 Spreadshirt collects and uses data contained in log-files that the user’s internet browser transmits to us. The data we receive is the user’s browser type/version; operating system; referring URLs (the user’s previously visited site); hostname (IP address) of the accessing computer and the time of server inquiry. In order to ensure the safe communication of the Spreadshirt online service - it is not necessary for Spreadshirt to use the data collected in connection with the specific user. Therefore, after statistical evaluation the data will be deleted and not used in connection with the user. 
 
+Spreadshirt uses Google Maps auto-completion APIs to verify your delivery information and avoid delivery errors. When you add your delivery information, you agree with Google Maps' Terms of Service and Google's Privacy Policy. 
+
+Effective August 1 2016, we use [Google Customer Match](https://support.google.com/adwords/answer/6379332?hl=en), which helps businesses provide customers with more relevant advertising offers. We anonymize (hash) the email addresses we submit to Customer Match. We do not use all customer or user email addresses for the Customer Match service, so your email address may not be used at all. You may be able to opt-out of this use by [adjusting your Google ads settings](https://support.google.com/ads/answer/2662922?hl=en). Only Google receives the anonymized email addresses, and Google does not use them for any other purposes. 
+
 ## Usage of Cookies
 
 For the reason of improving Spreadshirt’s online service, the commonly-named system of ‘Cookies’ are used. Cookies are text files, which are stored on a users computer when they visit a website. Cookies are used either once or over a longer period of time to use a user’s recurring attitudes within the Spreadshirt site to their benefit – in terms of personalising the Spreadshirt online experience and its functions and tools towards individual user’s needs. The text files contain no address data (i.e. user’s names and E-Mail data) or other personal information. Spreadshirt will not link data found in these text files with other data sources. Cookies serve to further our analysis of web-page usage and enables us to make our service more user-friendly; more effective and safer. 
@@ -48,3 +52,5 @@ Users can set their web browser to halt the storage of the data files known as C
 ## User Rights to Access to Personal Information
 
 Visitors and users of Spreadshirt’s web page can request (free of charge) access to any information held about them and its origin; any recipients of their data and the reason for the storage of such data. 
+
+Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
