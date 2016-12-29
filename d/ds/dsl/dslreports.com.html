@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the dslreports.com privacy policy that was archived on 2015-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151230044823id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dslreports.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229052227id_/https%3A//www.dslreports.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html prefix="og: http://ogp.me/ns#"><head><meta http-equiv="X-UA-Compatible" content="IE=EDGE">
 <meta http-equiv="cache-control" content="no-cache">
 <link rel="canonical" href="http://www.dslreports.com/privacy">
-<title>our privacy policy | DSLReports, ISP Information</title><meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1">
+<title>our privacy policy | DSLReports, ISP Information</title><meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="our privacy policy, broadband news, information and community">
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png?1">
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png?1">
@@ -19,8 +19,8 @@
 <meta name="msapplication-config" content="/front/browserconfig.xml"><link rel="alternate" type="application/rss+xml" title="dslreports.com front page" href="http://feeds.feedburner.com/dslreports"><meta name="msapplication-tooltip" content="DSLReports"><meta name="msapplication-starturl" content="/"><meta name="msapplication-task" content="name=Forums;action-uri=http://www.dslreports.com/forums/all"><meta name="msapplication-task" content="name=News;action-uri=http://www.dslreports.com/news"><meta property="og:image" content="//i.dslr.net/logos/dslr-default-og.png">
 <meta property="og:site_name" content="DSL Reports">
 
-<!-- default dslr8.css.template  --><link rel="stylesheet" type="text/css" href="//i.dslr.net/css/cache/default.44017a6d998af436d49fc4aabb0e475d.css">
-<link rel="dns-prefetch" href="http://i.dslr.net/">
+<!-- default dslr8.css.template  --><link rel="stylesheet" type="text/css" href="//i.dslr.net/css/cache/default.5dcb449c840317ced017303e3a4a9635.css">
+<link rel="dns-prefetch" href="//i.dslr.net/">
 <link rel="stylesheet" href="//i.dslr.net/css/font-awesome/css/font-awesome.min.css">
 <!--[if IE 7]>
 <style type="text/css"> @import url(//i.dslr.net/css/aj6/ie7.css); </style>
@@ -31,7 +31,11 @@
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript">
 
 var deferredJSFiles;
-var _deferredJSFiles = ['//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js', '//i.dslr.net/css/resize_new/jquery.autosize-min.js', '//i.dslr.net/css/dslrjs_mini.js?1451191484', ''];
+var deferredJSProgressLength=0;
+var deferredJSProgress=0;
+var deferredJSFileDone = new Array();
+
+var _deferredJSFiles = ['//i.dslr.net/css/dslrjsbundle.js?1482919379', ''];
 
 
 function _downloadJSAtOnload() {
@@ -42,35 +46,53 @@ function _downloadJSAtOnload() {
         }
     }
     deferredJSFiles = _deferredJSFiles.slice();
+    deferredJSProgressLength = deferredJSFiles.length - 1;
     downloadJSAtOnload();
 }
 
 function downloadJSAtOnload() {
    try {
-  if (!deferredJSFiles.length)
-      return;
-  var deferredJSFile = deferredJSFiles.shift();
-  if (deferredJSFile.length) {
-      var e = document.createElement('script');
-      e.src = deferredJSFile;
-      
-      e.onload = e.onreadystatechange = function() {
-        if (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') {
+      if (!deferredJSFiles.length)
+          return;
+      var deferredJSFile = deferredJSFiles.shift();
+      if (deferredJSFile.length) {
+          if (!deferredJSFileDone[deferredJSFile]) {
+              var e = document.createElement('script');
+              e.src = deferredJSFile;
               
+              // onreadystatechange is for IE
+              e.onload = e.onreadystatechange = function() {
+                if (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') {
+                      
+                      deferredJSProgress++;
+                      var pc = (deferredJSProgress/deferredJSProgressLength) * 100;
+                      if (document.getElementById('jsprogress'))
+                          document.getElementById('jsprogress').value = pc;
+                      downloadJSAtOnload();
+                }
+              };
+              e.onerror = function() {
+                  if (window.console) 
+                     console.error("error loading "+e.src);
+                  downloadJSAtOnload();
+              };
+              document.body.appendChild(e);
+              deferredJSFileDone[deferredJSFile]=true;
+          } else {
               downloadJSAtOnload();
-        }
-      };
-      e.onerror = function() {
-          
-          downloadJSAtOnload();
-      };
-      document.body.appendChild(e);
-  } else {
-    
-    boot_site();
+          }
+      } else {
+        
+        if (document.getElementById('jsprogress'))
+           document.getElementById('jsprogress').style.display = 'none';
+        boot_site();
+      }
+  } catch (e) {
+      if (window.console) 
+        console.error("error "+e);
   }
-  } catch (e) { }
 }
+
 if (document.addEventListener)
     document.addEventListener( "DOMContentLoaded", _downloadJSAtOnload, false )
 else if (window.addEventListener)
@@ -98,7 +120,8 @@ ga('send', 'pageview');
                     border:0;
                     padding-left:1.0em;
                     padding-bottom:0.5em;
-                    /* margin-bottom:-30px; */"></a></td><td valign="BOTTOM" style="width:100%; background-color: #b8cfff"><table width="100%"><tbody><tr><td width="50%" align="LEFT" style="white-space:nowrap;"><!-- admin stuff --><div style="display:inline; "></div><div class="login main" style="padding: 0.5em 0em 0.5em 1em; margin-left:-6em"><a rel="nofollow" href="/login/64urlL3ByaXZhY3k?dom=dslreports.com">log in </a> · <a href="/prof/new">join</a></div></td><td width="50%" valign="TOP" style="white-space:nowrap; padding: 0em 0.5em 0.5em 0em"><div style="float:right"><!-- search box --><div class="hellosilicon"><a href="/abcdef/1451450903">food</a></div><form action="/nsearch"><input id="googlesearch" class="text" name="q" value="" accesskey="s" style="background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); background-position: 0% 50%; background-repeat: no-repeat no-repeat; " type="hidden"><input id="sitesearch" placeholder="site search" class="text" type="text" name="q" value="" accesskey="s" size="20"><input type="hidden" name="cx" value="partner-pub-5216754536572039:2114719307">
+                    /* margin-bottom:-30px; */"></a></td><td valign="BOTTOM" style="width:100%; background-color: #b8cfff">
+<div style="float:right; margin: 0em 1em 0 0;"><ul id="headernav"><li class="_sep"><a title="Switch Theme" href="#" onclick="createCookie('dslrtheme','dark',365); window.location.reload(false); return false"><i class="switcher-dark"></i><span>Theme</span></a></li></ul></div><table width="100%" style="height:48px"><tbody><tr><td width="50%" align="LEFT" style="white-space:nowrap;"><!-- admin stuff --><div style="display:inline; "></div><div class="login main" style="padding: 0.5em 0em 0.5em 1em; margin-left:-6em">Welcome · <a rel="nofollow" href="/login/64urlL3ByaXZhY3k?dom=dslreports.com">log in </a> · <a href="/prof/new">join</a></div></td><td width="50%" valign="TOP" style="white-space:nowrap; padding: 0.4em 0.5em 0.5em 0em"><div style="float:right"><!-- search box --><div class="hellosilicon"><a href="/abcdef/1482988947">food</a></div><form action="/nsearch"><input id="googlesearch" class="text" name="q" value="" accesskey="s" style="background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); background-position: 0% 50%; background-repeat: no-repeat no-repeat; " type="hidden"><input id="sitesearch" placeholder="site search" class="text" type="text" name="q" value="" accesskey="s" size="20"><input type="hidden" name="cx" value="partner-pub-5216754536572039:2114719307">
     <input type="hidden" name="sw" value="s1" id="sw">
     <input type="hidden" name="cof" value="FORID:10">
     <input type="hidden" name="ie" value="ISO-8859-1"><input type="submit" name="sa" value="Go"></form></div></td></tr><tr><td colspan="2" class="grey_horizon" width="100%" style="white-space:nowrap"><!-- login box --></td></tr></tbody></table></td></tr></tbody></table>
@@ -177,17 +200,20 @@ visitor page requests.</p>
             <div class="wiki"><h4>Ad serving</h4></div>
 
 <p>Ads are served by Google Adsense and by other third-party advertising networks at our discretion. With the exception of errors, we do not show display adverts from these networks to logged-in members of the site.</p>
-
+<br>
+            <div class="wiki"><h4>Third party revenue sources</h4></div>
+SKIM LINKS<br>
+<p>This site also earns revenue using Skimlinks and Amazon. In the interests of disclosure and ethics, we want to be open about how we make money from our site. Besides display advertising, we also may get paid a commission if you purchase a product or service via a link anywhere on our site. Skim Links is a 3rd party service that handles this for links that are not Amazon. For Amazon links we use our own referral code. We do not know what products you have purchased, and Skimlinks and Amazon do not know who you are on our site.</p>
 <br>
 
             <div class="wiki"><h4>Changes</h4></div>
 
-<p>We reserve the right to make changes to this policy at any time. If the
-change involves a <i>reduction</i> in privacy protection of any kind,
-a notice will be posted to our <a href="/forum/feedback">site feedback forum</a> explaining
-the change. Since the inception of DSLR and the first version of
-the privacy policy, one change has been made: In June 2015, we added the section "DSLR and Google Analytics".</p>
-<p>
+<p>We reserve the right to make changes to this policy at any time. If the change involves a <i>reduction</i> in privacy protection of any kind,
+a notice will be posted to our <a href="/forum/feedback">site feedback forum</a> explaining the change.<br>
+Change History:<br>
+June 2015 - "DSLR and Google Analytics"<br>
+October 2016 - "Third party Revenue Sources"<br>
+</p><p>
 </p></td></tr></tbody></table>
 </td></tr></tbody></table></div><!-- close content--></div><!-- close wrap --><div id="footer_wrap" style="height:22em"><div id="footer">
 
@@ -305,7 +331,7 @@ the privacy policy, one change has been made: In June 2015, we added the section
 
 <br>Est. 1999
 
-<br>Tuesday, 29-Dec 23:48:23 
+<br>Thursday, 29-Dec 00:22:27 
 
 </dd>
 
@@ -327,7 +353,7 @@ the privacy policy, one change has been made: In June 2015, we added the section
     function boot_site() {
 try {
 dslr.init({
-    "serverTime":1451450903,
+    "serverTime":1482988947,
     "styleCode":true, "isdark":0, "isdev":0,
     "ismob":0, "pinned":0, "topbar_sz":0,
     "fpops":1, "site":{},
@@ -388,4 +414,4 @@ try {
 }
 </script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script src="//i.dslr.net/css/resize_new/jquery.autosize-min.js"></script><script src="//i.dslr.net/css/dslrjs_mini.js?1451191484"></script></body></html>
+<script src="//i.dslr.net/css/dslrjsbundle.js?1482919379"></script></body></html>
