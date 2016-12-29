@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pussy.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063434id_/http%3A//pussy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pussy.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042821id_/http%3A//pussy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 Videos[Categories](https://web.archive.org/categories)
 
 
-[My uploads](https://web.archive.org/myuploads "Videos you have uploaded")[Upload](https://web.archive.org/upload "UPLOADS.UPLOAD_VIDEO")[Member](https://web.archive.org/member "Member area")[Live Sex]( "Live Sex")
+[Upload](https://web.archive.org/upload "UPLOADS.UPLOAD_VIDEO")[Member](https://web.archive.org/member "Member area")[Live Sex](http://fwbntw.com/show.php?sid=117&spid=161&scid=10&cgid=1 "Live Sex")Switch language
 
 respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website Pussy.com (“ **Website** ”) and our practices for collecting, using, keeping, protecting, and disclosing that information.
 
