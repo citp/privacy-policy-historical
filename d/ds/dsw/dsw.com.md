@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629225749id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsw.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045927id_/http%3A//www.dsw.com/dsw_shoes/customer_service/privacy_policy.jsp) for the most accurate reproduction.*
 
 # dsw.com Privacy Policy
 
@@ -31,7 +31,7 @@ Email addresses collected in stores or on this website will be shared with third
 
 In addition, DSW may participate with certain unrelated companies who will link you to our website, which may include recognition of purchases from dsw.com. dsw.com may share personally identifiable information we collect from you with the third party linking to our website. dsw.com is not responsible for the privacy practices of such third parties providing these links and we encourage you to review the privacy policy of each of these third parties.
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to enforce or apply our [Site Use Terms & Conditions of Use](https://web.archive.org/web/20160629225749id_/http%3A//www.dsw.com/dsw_shoes/customer_service/terms_and_conditions.jsp)[Site Use Terms & Conditions of Use](https://web.archive.org/web/20160629225749id_/http%3A//www.dsw.com/dsw_shoes/customer_service/terms), conform or comply with the law or is necessary to protect DSW, the users of our website or others.
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to enforce or apply our [Site Use Terms & Conditions of Use](https://web.archive.org/web/20161229045927id_/http%3A//www.dsw.com/dsw_shoes/customer_service/terms_and_conditions.jsp)[Site Use Terms & Conditions of Use](https://web.archive.org/web/20161229045927id_/http%3A//www.dsw.com/dsw_shoes/customer_service/terms), conform or comply with the law or is necessary to protect DSW, the users of our website or others.
 
 If DSW were ever merged with, acquired by or acquires another business entity, some or all of the personal information collected about you would be shared with this entity, as well as retained by DSW.
 
@@ -66,7 +66,7 @@ DSW Inc. collects various types of personal information about you both online (a
 
 DSW Inc. may permit third parties to track the individual visitors to its website and the activities of those visitors on the website over time. Currently, DSW Inc. does not offer the option for its website visitors to make a "Do Not Track" election and does not have the capability to respond to electronic "Do Not Track" signals. DSW Inc. reserves the right to add such capability to its website at any time in the future and will notify website visitors of this change in capability through an update to this Privacy Policy.
 
-DSW Inc. has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by completing our Third Party Direct Marketing Opt-Out Form. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please click on the following link: [California Rights Form](https://web.archive.org/web/20160629225749id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Formplease visit dsw.com on your desktop and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address:
+DSW Inc. has chosen to provide you with a cost-free means to opt-out of such sharing, which you can accomplish by completing our Third Party Direct Marketing Opt-Out Form. If you would like to instruct us to no longer share your personal information with third parties who will use it for direct marketing purposes, please click on the following link: [California Rights Form](https://web.archive.org/web/20161229045927id_/http%3A//www.dsw.com/dsw_shoes/customer_service/california_privacy.pdf), print and complete the Third Party Direct Marketing Opt-Out Formplease visit dsw.com on your desktop and complete the Third Party Direct Marketing Opt-Out Form and mail it to the following address:
 
 DSW Inc.
 
