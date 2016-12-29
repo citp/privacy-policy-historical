@@ -1,158 +1,164 @@
-> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609072120id_/http%3A//www.myplaydirect.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229112434id_/http%3A//www.cafepress.com/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | MyPlay Direct
+# CafePress.com : Customer Service : CafePress Privacy Statement
 
-Effective Date: April 9, 2013
+**Effective: May 2016**
 
-This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, and mobile applications ("Site" or "Sites"). MyPlay Direct, Inc. (operated by Sony DADC US Inc.) Information collected on the Sites. may be used in the manner described below by MyPlay Direct, our agents, subsidiaries, trusted partners and affiliates acting on our behalf (collectively, "MyPlay Direct"). When used herein, the terms "we", "us" and "our" refer to MyPlay Direct. This policy also covers data we process on behalf of our clients as a data processor. Notwithstanding the foregoing, all information and data submitted through any third party website will also be subject to such third party's privacy policy.
+CafePress values the trust you place in us when you use CafePress.com and our affiliated websites, applications or tools (collectively, our “Websites”).Your privacy and trust are important to us and who we are as a company.This Privacy Statement describes our collection, use, disclosure, retention, and protection of your information. This Privacy Statement applies to our Websites that link to it, regardless of how you access or use them, including through mobile devices. 
 
-MyPlayDirect has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.myplaydirect.com/customer-service/contact/new). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+BY USING OUR SERVICES AND/OR REGISTERING WITH US, YOU ARE ACCEPTING THE TERMS OF THIS PRIVACY STATEMENT AND OUR USER AGREEMENT, AND YOU ARE CONSENTING TO OUR COLLECTION, USE, DISCLOSURE, RETENTION, AND PROTECTION OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY STATEMENT. IF YOU DO NOT PROVIDE THE INFORMATION WE REQUIRE, WE MAY NOT BE ABLE TO PROVIDE ALL OF OUR SERVICES TO YOU. 
 
-The TRUSTe program covers the collection, use and disclosure of information we collect through our website, www.myplaydirect.com and the MyPlayDirect platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged MyPlayDirect.
+If you do not agree to the terms of this Privacy Statement, please do not use our Websites. We may make changes to this Privacy Statement from time to time. We will post any changes to our Websites. Your continued use of our Websites following the posting of any changes will mean you accept those changes. 
 
-MyPlayDirect complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. MyPlayDirect has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view MyPlayDirect's certification, please visit <http://www.export.gov/safeharbor/>.
+**Information We Collect About You**
 
-When this Privacy Policy uses the term "personal information," we mean information that identifies a particular individual, such as full name, street address, telephone number or email address.
+**How We Use Your Information**
 
-We encourage you to review the entire Privacy Policy.
+**How We Share Your Information With Others**
 
-**Collection and Use of Personal Information**
+**Tracking and Interest-Based Advertising**
 
-We may collect the following personal information from you:
+**How We Secure Your Information**
 
-  * Contact information such as name, email address, street address, and phone number
-  * Billing information such as credit card number and billing address
-  * Demographic information such as age, gender, interests, country and zip code
-  * Unique identifiers such as user name and password
-  * Preference and other information such as product wish lists, order history, marketing preferences and cell phone carrier
-  * Location information such as your actual or approximate location (IP Address Collection)
+**How to Access and Modify Your Information**
 
+**How to Limit the Use of Your Information**
 
+**Other Important Information**
 
-  
-We or one of our trusted partners may use this information to:
-
-  * Send you requested updates and newsletters about an artist, type of music or related special offers
-  * Send you requested product or service information
-  * Send a one-time email or e-card to your friends upon your request when you provide their email address
-  * Fulfill your order
-  * Send you an order confirmation
-  * Respond to customer service requests, questions and concerns
-  * Administer your account
-  * Process information submitted with a job application
-  * Send you marketing communications
-  * Administer promotions and sweepstakes you enter and notify you of the results
-  * Improve our marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your location and/or interests
-  * To provide location services such as "tagging" and "check-in"
-
-
+**Questions or Report a Problem**
 
   
-We also automatically collect information about your computer as you browse our Sites. Please see the Tracking Technologies section of this Privacy Policy. We will retain your information for as long as your account is active and as needed to provide you services. We will use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
-
-**Social Networks/Online Communities**
-
-We enable you to create a profile for accessing blogs or online communities for sharing information such as messages, photos and videos. Please note that we cannot control the actions of others with whom you may choose to share your pages and information. We may also enable you to post content from some of our Sites to your profile on other social networks. You can access these services from our Sites using Facebook Connect, Twitter, or other Open ID providers. These services will authenticate your identity and allow you to post and share certain personal or other information with that site. Please be aware that the privacy policy of that site will apply to any content you provide them in these instances. We do not allow these services to provide any personal information or content back to our Sites or your profile with us unless you agree. To request removal of your personal information from our blog or community forum, [contact us here](http://www.myplaydirect.com/customer-service/contact/new). If we are unable to remove your personal information, we will respond to your request with the applicable reasons. These services give you the option to post information about your activities on this Web site to your profile page to share with others within your network. Also, when using MyPlayDirect Facebook Applications, please be aware that Facebook is sharing information with us as detailed out when you add our application on Facebook.
-
-**Transactions**
-
-You may purchase music or merchandise from some of our Site(s). This Privacy Policy applies to any personal information you provide in connection with any such purchases. In some instances, you may be directed to a third party site to initiate your transaction. These third party sites will be clearly identified and link to their own privacy policies so you know which company is collecting your personal information. You should refer to those policies for any privacy-related concerns regarding your purchase with them.
-
-**Information Sharing**
-
-We will share your personal information with third parties in the ways that are described in this Privacy Policy. We may provide your personal information to companies that help us with our business activities (e.g. processing credit card transactions, shipping your order, assisting us in Site operations, providing customer service, delivering email newsletters, etc.) or that assist us in improving our products, content, services or advertising. These companies are authorized to use your personal information only as necessary to provide these services.
-
-We may also share your personal information:
-
-  * With MyPlay Direct affiliates and representatives
-  * With reputable third parties in whose products or services we think you may have an interest, with your prior consent to do so
-  * With representatives of recording artists, who will be advised in advance that your consent is required for continued use
-  * As required by law, such as to comply with a subpoena or similar legal process
-  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request
-  * In connection with a corporate change including a merger, acquisition or sale of assets To any other third party with your prior consent to do so
 
 
+### **Information We Collect About You**
 
-  
-**Choice/Opt-Out**
+We collect, process, and retain information from you and any devices (including mobile devices) you may use when you use our Websites or services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us. The specific information we collect depends upon your use of the Websites, as described below. 
 
-You may choose to stop receiving newsletters, updates or marketing emails by following the unsubscribe instructions included in these emails. Some Sites also allow you to change your email preferences within your online profile.
+**_Information You Give Us:_** We receive and store information you enter on our Websites or give us in any other way, including your name, physical address, phone number, email address, and payment information. 
 
-If you choose to join a mobile marketing list, please be aware that there are usually costs associated with receiving SMS (text) or MMS (multimedia) messages depending on your wireless carrier and plan. You should check with your mobile carrier to determine what charges apply before signing up to receive our updates via your mobile phone. If you would like to stop receiving messages from us on your mobile phone, please reply to the message with "STOP." You may also contact your wireless carrier for additional information on receiving or stopping mobile messages.
+**_Information About Your Interaction With Our Websites:_** We collect information about your interactions with our Websites, such as the purchases you make or the advertisements you view. 
 
-If you have previously enabled your computer or mobile device to send us location information, you may be able to opt-out from further allowing us to access such information by changing the settings on your computer or mobile device or by uninstalling the application.
+**_Information We Automatically Collect:_** We receive and store certain types of information whenever you interact with us or our Websites. Our Websites use “cookies,” tagging and other tracking technologies to help enable you to shop on our Websites, and enable us to enhance or personalize your online browsing and shopping experience. This information includes computer and connection information such as statistics on your page views, traffic to and from our Websites, referral URL, ad data, your IP address, and device identifiers; this information may also include your browsing history, transaction history, and your web log information. 
 
-**Tracking Technologies**
+**_Location Information:_** When you download or use **apps created by CafePress** or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. Geo-location information allows us to provide location-based services, such as advertising, search results, and other personalized content. 
 
-We and our third party partners may automatically collect information as you browse our Site(s) such as the domain name, Internet Service Provider, browser type and version, mobile device ID, operating system and device type, average time spent on our Site(s), pages viewed, information accessed, the Internet Protocol (IP) address you use to connect to the Internet and related geographical information about your computer or mobile device. Such information is sometimes referred to as web analytics and/or clickstream data.
+**_Information From Social Media and Other Sites:_** When you interact with our Websites or services on a social media platform, we may collect the personal information that you make available to us on that page, including your account ID or username and other information included in your posts. If you choose to log in to your CafePress account with or through a social networking service, CafePress and that service may share certain information about you and your activities. 
 
-We and our third party partners use cookies and other technologies such as web beacons to keep track of your visits, preferences and profile information. This information is used to make our Site(s) easier to use, improve our advertising, and to provide you with a more personal and convenient experience. For example, we may use this information to store some of your preferences or to provide you with tailored advertisements related to your specific interests. Additionally, should you choose to enroll, we and our third party partners may use this information to allow you to participate in one of our fan rewards programs. To learn more about the use of cookies in online advertising, including how to manage or delete them [click here](http://www.networkadvertising.org/managing/learn_more.asp).
+**_Information From Other Sources:_** We may supplement the personal information we collect with information from third parties and add it to your account information. Information from third parties may include, but is not limited to, demographic information that is publically available, additional contact information, group affiliations, occupational information, and educational background. 
 
-We and some of our third party partners use Flash cookies to store some of your preferences or personal information. For more information on Flash cookies and how to manage privacy and storage settings click here.
+### **How we Use your information**
 
-In some of our email messages, we use "click-through URLs" or pixel tags to determine whether the email has been opened and to measure the effectiveness of our customer communications. This data may also be used to gauge your interest in particular topics, so we can deliver a more relevant, personal and convenient user-experience.
+We use your information to help us personalize and continually improve your experience on the Websites, including fulfilling your orders and requests for information, analyzing and compiling trends and statistics, and communicating with you. For information about how to manage your information and the choices you have, see **how to limit the use of your information** below. 
 
-**Security**
+**_General Uses._**
 
-The security of your personal information is important to us. When you enter sensitive billing information on our order forms, we encrypt the transmission of that information (such as credit card information or login credentials) using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+We may use your information to: 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and after receipt. However, no method of transmission over the Internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
+  * Provide, maintain, and improve the Websites for internal or other business purposes;
+  * Fulfill requests for information;
+  * Provide, produce, and ship the products that you order or the services you request;
+  * Provide customer support;
+  * Track and evaluate the use of the Websites;
+  * Communicate with you about your Customer Account, Content Owner Account, profile or transactions with us, or changes to our policies or terms;
+  * Send you information about features and enhancements on or to our Websites;
+  * Send you newsletters or other materials;
+  * Send you offers or other communications about our products and services, such as special or promotional events, including services, products, or events for which we collaborate or co-offer with a third party;
+  * Administer contests, sweepstakes, promotions, and surveys;
+  * Detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal;
+  * Optimize or improve our products, services and operations; and
+  * Perform statistical, demographic, and marketing analyses of users of the Websites and their viewing patterns.
 
-**Updating Your Personal Information**
 
-Our Sites may offer different methods for updating your personal information. To review and update your personal information on artist marketing Sites, please log in to your profile/account on each Site where you have registered.
 
-To update your billing or shipping information for purchases, please follow the customer service instructions in your order confirmation email.
+We may use the information from one portion of the Websites on other portions of the Websites, and we may combine information gathered from multiple portions of the Websites into a single record. We may also use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. 
 
-If you wish to cancel or delete your account or request that we no longer use your information to provide you services contact us by [clicking here](http://www.myplaydirect.com/customer-service/contact/new). We will respond to your request within 30 business days.
+We do not share your personal information with third parties, except as set forth below. We may disclose information that does not specifically identify you, such as aggregate information, device identifiers or other unique identifiers to third parties in any manner we deem appropriate. For information about how to manage your information and the choices you have, see **how to limit the use of your information** below. 
 
-**Consent to Processing**
+**_Third-Party Service Providers:_** We have affiliates and service providers that perform functions on our behalf, including, but not limited to: hosting, content syndication, content management, technical integration, marketing, analytics, customer service, and fraud protection. For example, we use third parties to process payments made to us and assist with product fulfillment and other operations. These third parties may have access to your personal information when needed to perform their functions. If we share information with these third parties that personally identifies you, such as your name, address, or phone number, we will require the third parties to maintain the confidentiality and security of your personal information, and they will be restricted from using, selling, or distributing such personally identifiable information in any way other than to provide the requested services to the Websites. 
 
-Our Sites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using our Sites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+**_Business Partners:_** We may engage in activities that include sharing your personally identifying information with business partners who provide products and services that we think you may be interested in. 
 
-**Information Related to Data Collected through the MyPlayDirect Platform**
+**_Sale, Assignment or Change of Control:_** We may change our ownership or corporate organization while providing the Websites. We may transfer to another entity or its affiliates some or all information about you in connection with, or during negotiations of, any merger, acquisition, sale of assets or any business, other change of control transaction or financing. Under such circumstances, we would request the acquiring party to follow the practices described in this Privacy Statement. Nevertheless, we cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Privacy Statement. 
 
-In certain situations, MyPlayDirect collects and processes information under the direction of its Clients as defined in their service relationship.
+**_Law Enforcement, Legal Process, and Emergency Situations:_** We may also use or disclose your personal information if required to do so by law or on the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or our Websites; (b) protect and defend our rights or property, the Websites or our users, or (c) act to protect the personal safety of us, users of the Websites or the public. In particular, if you are a Content Owner (as defined by our **User Agreement** ), we may disclose your information to a third party that alleges that you have infringed their intellectual property rights through the products sold through our Websites. Similarly, if you allege that a Content Owner is infringing upon your intellectual property rights, we may disclose your information to that Content Owner. 
 
-We will retain personal information we process on behalf of our Clients for as long as needed to provide services to our Client. We will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our rights.
+### **Tracking and interest-based advertising**
 
-**Additional Information**
+Like many websites, we use tracking technologies such as cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Websites, and make it easier to use and more relevant. 
 
-Social Media (Features)/Widgets - Our Site(s) may include Social Media Features, such as the Facebook like button and Widgets, interactive mini-programs that provide specific services from another company (e.g., displaying digital news feeds, playing music, "liking" or sharing content, etc.), often referred to as widgets. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. You may have the opportunity to submit personal information, such as your email address, for collection through a widget. A widget may also use browser or Flash cookies and/or collect clickstream and usage data. Information collected by a widget is governed by the privacy policy of the company that created it.
+We partner with third party advertising companies who also use these tracking tools to provide advertisements on our Websites or other websites. These third parties may use these technologies to collect information about you when you use the Websites. They may collect information about your online activities over time and across different websites and other online services. They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Websites. They may use this information to provide you with interest-based advertising or other targeted content. While we do not knowingly provide these entities with information that personally identifies you such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us. To learn more about the third-party collection and use of your information, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Digital Advertising Alliance](http://www.aboutads.info/choices/). 
 
-**Promotions and Sweepstakes**
+Some content or applications, including advertisements, on the Websites may be served by unaffiliated third parties. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. We are not responsible for the content or privacy practices on any website not operated by CafePress to which our Websites link or that link to our Websites. 
 
-From time-to-time, we may provide you the opportunity to participate in promotions or sweepstakes (each, a "Promotion") on our site. Each Promotion may have additional terms and/or rules which will be posted or otherwise made available to you and, for purposes of each Promotion. If you participate in a Promotion, as part of the registration process, we may request certain additional personally identifiable information from you. Participation in any Promotion is completely voluntary and when you choose to participate in such a Promotion, you expressly consent to the use of any personal information you submit in accordance with this Privacy Policy and any additional terms applicable to such Promotion. Requested additional information may include contact information (such as name, e-mail address, telephone number and/or shipping address), and demographic information (such as zip code). We use this information to administer the Promotion, notify a winner and distribute any prizes.
+Your browser or device may include “Do Not Track” functionality. CafePress’ information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this Privacy Statement, whether or not a Do Not Track signal is received. 
 
-We may use a third party service provider to conduct these Promotions.
+### **How We Secure Your Information**
 
-**Links to Other Sites**
+We do our best to provide you with a safe and convenient shopping experience. Our Websites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including the use of encryption, firewalls, limited access and other controls where appropriate. **_While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline._**
 
-Our Sites includes links to other sites whose privacy practices may differ from those of MyPlay Direct. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
+You can help protect the privacy of your own information by using encryption and other techniques to prevent unauthorized interception of your personal information. You are responsible for the security of your information when using unencrypted, public or otherwise unsecured networks. 
 
-**Children** \- We do not attempt to collect any personal information from those under the age of 13. If you feel that we have unknowingly collected information from someone under the age of 13, please [contact us](http://www.myplaydirect.com/customer-service/contact/new) immediately and this information will be removed.
+### **How to Access and Modify your information**
 
-For more information on how to protect your children online:
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. This includes: 
 
-**Visit[www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/topics/social-networking-sites.aspx) and [youth](http://www.onguardonline.gov/topics/safety-tips-tweens-teens.aspx).**
+  1. Giving you the ability to see, review, and change your personal information by signing in to your account at **cafepress.com**. 
 
-**Changes To This Policy**
 
-By using our Site(s), you agree to the terms of this Privacy Policy. We may amend this Privacy Policy at any time and, as such, we encourage you to periodically review this page for the latest information on our privacy practices. If we make a material change to the way in which we collect, use, and/or share your personal information, we will send an email to users who have provided an email address or post a notice on our Site(s) prior to the change becoming effective. Your continued use of the Site(s) after a revised version of this Privacy Policy has been posted will signify your consent to the terms of such revised policy.
+  2. Honoring any statutory right you might have to access, modify or erase your personal information. To request access and to find out whether any fees may apply, if permitted by applicable state, federal, or national law (outside of the United States), please contact [**privacy@cafepress.com**](mailto:privacy@cafepress.com). 
 
-**Your California Privacy Rights**
 
-If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party's direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at the address below, or [submit your request here](http://www.myplaydirect.com/customer-service/contact/new). We will respond to these requests within thirty (30) days. Requests that come to us by other means may result in a delayed response.
 
-**Questions About This Privacy Policy**
+We may not be able to delete your personal information without also deleting your user account. You will not be permitted to examine the personal information of any other person or entity. In order to verify your identity, you may be required to provide us with personal information prior to accessing any records containing information about you. We may not accommodate a request to change or delete personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect. 
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact MyPlay Direct. You can contact us about this Privacy Policy as directed below.
+### **How to limit the use of your information**
 
-MyPlay Direct  
-Attn: Privacy  
-555 Madison Avenue  
-New York, NY 10022
+In many instances, you have choices about the information you provide and limiting how we use your information. These choices, and any related consequences, are described in detail below. 
 
-You can [click here](http://www.myplaydirect.com/customer-service/contact/new) to submit feedback online.
+**_Personal Information:_** You may choose not to provide your personal information, such as your name, address, phone number or payment information, but then you might not be able to take advantage of many of our site and/or checkout features. 
+
+**_Emails, Newsletters, and other Communications:_** When you create an account through our Websites, you are required to provide us with an accurate e-mail address through which we may contact you. Registration through our Websites or apps constitutes your express acknowledgment that CafePress may use your e-mail address to communicate with you about product offerings from CafePress, its affiliates, selected vendors, and/or partners. While you cannot opt-out of receiving notifications and other communications regarding your account or your transactions, you can opt-out of receiving newsletters and promotional emails and other marketing communications from us by: (1) using the “unsubscribe” feature in our marketing e-mails; (2) clicking **unsubscribe** here; or (3) contacting **Customer Service**. 
+
+**_Location Tracking:_** Most mobile devices allow you to control or disable the use of location services by any application on your mobile device through the device’s settings’ menu. 
+
+**_Online Tracking and Interest-Based Advertising:_** You also have choices to limit some tracking mechanisms that collect information when you use the Websites. Many web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. If you choose to decline cookies, certain features of our Websites, including the Websites themselves, may not function properly or remain accessible to you. In addition, you may also render some web beacons unusable by rejecting or removing their associated cookies. Note that if you choose to remove cookies, you may remove opt-out cookies that affect your advertising preferences. 
+
+You may opt out of tracking of analytics data by Google Analytics, one of our customer usage analytics providers, by clicking [here](http://www.google.com/intl/en/policies/privacy/). 
+
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/)and the [Digital Advertising Alliance](http://www.youradchoices.com/aboutus.aspx), as well as the webpages for [Facebook’s ad preferences tool](https://www.facebook.com/about/ads/) and [privacy policy](https://www.facebook.com/policy.php). 
+
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see: 
+
+Apple: <http://support.apple.com/kb/HT4228>
+
+Android: <http://www.google.com/policies/technologies/ads/>
+
+Windows: <http://choice.microsoft.com/en-US/opt-out>
+
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms. 
+
+### **Other Important Information**
+
+**_Users Under Thirteen:_** Our Services are intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. 
+
+**_Users Thirteen to Seventeen:_** Prospective users between the ages of 13 and 17 can only use our Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your personal information in our database and/or **opt-out** from receiving communications from us. If you wish to do so, please contact us at [**privacy@cafepress.com**](mailto:privacy@cafepress.com). 
+
+**_Users Outside of the United States:_** If you use our Websites outside of the United States, you understand and consent to the transfer of your personal information to, and the collection, processing, and storage of your personal information in, the United States and other countries. The laws in the U.S. regarding personal information may be different than the laws of your state or country. 
+
+**_Notice to California Residents:_** If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding the disclosure of your personal information by CafePress and its related companies to third parties for the third parties' direct marketing purposes. To make such a request, please send your request, by mail, to: 
+
+CafePress Inc.  
+Attn: Legal - CA Privacy  
+11909 Shelbyville Road  
+Louisville, KY 40243 
+
+### **Questions or Report a Problem**
+
+For questions about our Privacy Statement, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact CafePress Inc. by email, telephone or postal mail: 
+
+**CafePress Customer Service**  
+6901 A Riverport Drive  
+Louisville, KY 40258  
+(877) 809-1659  
+Email: [**Customer Service**](http://help.cafepress.com/hc/s-74058960/cmd/kbresource/kb-895837539590351752/escalate!PAGETYPE)
