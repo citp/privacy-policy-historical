@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakiisp.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616194119id_/http%3A//www.pakiisp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakiisp.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229150319id_/http%3A//www.pakiisp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PakiISP – Technology Blog
 
