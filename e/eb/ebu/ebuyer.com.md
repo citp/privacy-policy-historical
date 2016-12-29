@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627115731id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052503id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
 
