@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623034654id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041947id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thought Catalog
 
@@ -70,13 +70,11 @@ Our Site is not intended for persons under 18 and we do not knowingly collect pe
 
 Our business is located in the United States. Any information that you provide to us may be transferred to and processed in the United States. By using this Site, you consent to your information being collected, used, and transferred as disclosed herein.
 
-**TRUSTe**
-
-The Thought & Expression Company LLC has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with TRUSTe’s program requirements including transparency, accountability, and choice regarding the collection and use of personal information viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through [www.thoughtcatalog.com](http://www.thoughtcatalog.com/) and does not cover information that may be collected through our mobile app. If you have questions or comments about this policy, please contact us at [privacy@thoughtcatalog.com](mailto:privacy@thoughtcatalog.com). If you have any unresolved privacy or data use concerns that we have not addressed satisfactorily, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+**Revisions to this Privacy Policy**
 
 We may revise this privacy policy from time-to-time in our sole discretion. We will provide notice to you by posting a notice to this Site before we make any material changes to our privacy practices or to this policy. Please visit this Site and review our privacy policy periodically for changes. By continuing to access or use our Site after changes become effective, you agree to be bound by the terms of the revised privacy policy.
 
-**Effective: April  21, 2016           **
+**Effective: August 31, 2016           **
 
 The Thought & Expression Company
 
