@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theslap.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630203424id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theslap.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229222810id_/http%3A//www.nick.com/legal/nickelodeon-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## LAST UPDATED: 2/9/2016
+## LAST UPDATED: 10/13/2016
 
 (See [Summary of Most Significant Changes](http://legal.viacom.com/Changes/K+F) to learn more.)
 
-Welcome! This Privacy Policy governs the specific Internet website, application or other interactive service that includes an authorized link to this Privacy Policy and all other websites, applications and other interactive services you also use that are offered by the Nickelodeon Group for use on mobile devices, tablets, personal computers and other devices, which includes the websites and online services listed [here](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html), (collectively, the "Nickelodeon Sites" and, individually, "Site"). The Nickelodeon Group is a business unit of Viacom Media Networks, a division of Viacom International, Inc. By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
+Welcome! This Privacy Policy ("Privacy Policy") describes our privacy practices for the "Nickelodeon Sites" of the "Nickelodeon Group." The Nickelodeon Group is a business unit of Viacom Media Networks, a division of Viacom International, Inc. The Nickelodeon Sites (or, individually, "Site") are the Internet websites, applications and other interactive services that are offered by the Nickelodeon Group for use on mobile devices, tablets, personal computers and any other devices that connect to the Internet. Some of the Nickelodeon Sites are intended for children and some are intended for older audiences. By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
 
-Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Nickelodeon Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
+Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Nickelodeon Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application and we encourage families to discuss their household guidelines regarding the online sharing of personal information. For a list of websites to which this Privacy Policy applies that are directed to children under 13 years of age, please click [here](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html).
 
 ## SUMMARY
 
@@ -16,38 +16,42 @@ For your convenience, the following is a quick summary of our Privacy Policy. Pl
 
 WHAT INFORMATION WE COLLECT | 
 
-The Nickelodeon Sites collect only the information that is reasonably necessary for the activities available on the particular website. In general, we collect three types of information:
+In general, we collect three types of information:
 
   1. Information that you actively give to us (for example, during registration, sweepstakes, purchases or content submissions);
-  2. Information we automatically collect about your computer or wireless devices (such as your IP address, cookie ID, and other unique device identifiers); and
-  3. Information we collect from third parties, including through your registered third-party social media providers.
-  4. For more detailed information regarding the information we collect, please go here
+  2. Information we automatically collect about your computer or wireless devices (such as IP address, cookie ID, or other unique device identifiers); and
+  3. Information we collect from third parties, including through third-party social media providers with whom you have registered.
+  4. For more detailed information regarding the information we collect, please go here.
 
   
 ---|---  
 HOW WE STORE SUCH INFORMATION. | 
 
-We store your information using reasonable security precautions and for only as long as we think reasonably necessary. Despite such precautions, there is always a chance that someone may impermissibly access your information. If you think a third party has accessed your information, please contact us immediately as instructed below.
+We take reasonable precautions against the unauthorized access to or loss of your information, always with the goal of keeping our security up to date as cyber threats change. Despite such precautions, there is always a chance of unauthorized access to or loss of your information. If you think a third party has accessed your information, please contact us immediately as instructed below.
 
-For more detailed information regarding how we store information, please go here  
+For more detailed information regarding how we store information, please go here.  
   
 HOW WE USE SUCH INFORMATION. | 
 
-In general, the information we collect may be used to respond to your requests; enable you to take advantage of Nickelodeon Sites features and services; personalize your experience and the advertising you see; send you special offers and promotions from Nickelodeon, the Viacom family of companies, and on behalf of third-parties whose products or services might be of interest to you; measure analytics; and manage and improve the services available on the Nickelodeon Sites.
+In general, the information we collect may be used to respond to your requests; enable you to take advantage of Nickelodeon Sites features and services; personalize your experience and the advertising you see; send you special offers and promotions from Nickelodeon, the Viacom family of companies, and on behalf of third-parties whose products or services might be of interest to you; measure analytics; and manage and improve the services available on the Nickelodeon Sites. We may use your information in these ways when and where it is consistent with legal requirements to do so.
 
-For more detailed information regarding how we use such information, please go here  
+For more detailed information regarding how we use such information, please go here.  
   
 INFORMATION WE SHARE WITH THIRD PARTIES. | 
 
 Depending upon the circumstances, we may share collected information with (a) law enforcement or others as needed to protect or defend our rights and the rights of others; (b) third parties we hire to handle certain activities; (c) advertisers or third parties with whom we may partner to provide you additional content, products or services; (d) business partners who sponsor a sweepstakes or contest or who jointly offer a service or feature on the Nickelodeon Sites; (e) within the Viacom family of companies; (f) in the event of a corporate transaction; and (g) otherwise with your consent.
 
-For more detailed information regarding our information sharing practices, please go here  
+For more detailed information regarding our information sharing practices, please go here.  
   
 WHAT INFORMATION OTHERS MAY COLLECT. | 
 
-We may use a number of advertising networks, analytics service providers and other such companies to, for example, serve targeted advertisements or analyze the performance of the Nickelodeon Sites. These companies may use their own unique identifiers, and their use of these technologies is within their control and not ours. These companies may use the information they collect from you consistent with their own privacy policies, which we encourage you to review.
+Third parties may collect and disclose certain identifiers, like IP address or cookie information, solely for the support of the internal operations of the Nickelodeon Sites, such as providing content or allowing features to run on the Nickelodeon Sites, serving contextual advertising, and using analytics and other tools to improve the quality and performance of the Nickelodeon Sites.
 
-For more information about these third parties and how you might be able to control how they use your information, please go here  
+For more information about third party data collection, please go here.
+
+Some of these third parties, such as advertising networks that serve targeted advertising on websites and online services intended for older audiences, or analytics service providers that analyze the performance of the Nickelodeon Sites may use their own unique identifiers, and their use of these technologies is within their control and not ours. These companies may use the information they collect from you consistent with their own privacy policies, which we encourage you to review.
+
+For more information about these third parties and how you might be able to control how they use your information, please go here.  
   
 YOUR CONTROL OVER YOUR INFORMATION. | 
 
@@ -59,7 +63,7 @@ You may have choices about the use of your information by third parties wishing 
 
 Parents and guardians can review any personally identifiable information collected about their children and request that such information be deleted and/or that no further information be collected.
 
-For more detailed information regarding your control over your information, please go here and here  
+For more detailed information regarding your control over your information, please go here and here.  
   
 WHO WE ARE | 
 
@@ -69,7 +73,7 @@ Nick.com CA Privacy Coordinator, c/o Nickelodeon Online, 1515 Broadway, New York
 
 Other corporate affiliates may collect or maintain information through the Nickelodeon Sites.
 
-For more detailed information regarding who we are, please go here  
+For more detailed information regarding who we are, please go here.  
   
 ## QUICK LINKS
 
@@ -77,7 +81,7 @@ For more detailed information regarding who we are, please go here
 
 We may request or collect certain information when you visit the Nickelodeon Sites. However, visitors are required to share only the information that is reasonably necessary to participate in the particular activity.
 
-A. Registration Information: The information required to register varies by Site, but may include: (a) birth date; (b) gender; (c) country; (d) state; (e) zip code; (f) user name and password; (g) wireless telephone number; (h) email address; and (i) other profile information such as avatar preferences, communications preferences, and interests. If the Site either is directed to children under 13 or has actual knowledge that a user is under 13 years old, the child may be asked to provide his or her parent's or guardian's email address. For certain countries, visitors or their parents/guardians will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account; accounts not activated within that time period will be deleted.
+A. Registration Information: The information required to register varies by Site, but may include: (a) birth date; (b) gender; (c) country; (d) state; (e) zip code; (f) user name and password; (g) wireless telephone number; (h) email address; and (i) other profile information such as avatar preferences, communications preferences, and interests. If the Site either is directed to children under 13 or has actual knowledge that a user is under 13 years old, the child may be asked to provide his or her parent's or guardian's email address. For certain countries, child visitors or their parents/guardians will receive an activation email and must follow the procedures or otherwise agree to the terms within the activation email within a certain time period to activate the account; accounts not activated within that time period will be deleted.
 
 Registration information is used to enable visitors to log into their accounts across different devices and platforms; take advantage of site offerings; respond to visitor's requests for products, services, and information; send communications to users in connection with their account; manage games; serve appropriate material; customize the content you see when you visit the Nickelodeon Sites; and offer visitors special offers and promotions from Nickelodeon Sites and the "Viacom family of companies" (which comprises Viacom International Inc. and its subsidiaries and affiliates), as well as on behalf of selected third parties offering products, programs or services, that we believe may be of interest to you.
 
@@ -95,7 +99,7 @@ We may use Tracking Technologies to help tailor our content, allow users to move
 
 By visiting a Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to set and access Cookies on your device and track your activities and your use of a Site through these Tracking Technologies and Identifiers and that we may use Tracking Technologies in the emails we send to you.
 
-The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. [Click here](http://srp.mtvn.com/sitefaq.html) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
+The Nickelodeon Sites adhere to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](http://srp.mtvn.com/sitefaq.html) for more information about the Nickelodeon Sites and online behavioral advertising. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13.
 
 Our Third Party Advertising Service Providers (as defined in Section D) do not have access to Tracking Technologies set by the Nickelodeon Sites except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to other information about you.
 
@@ -123,11 +127,13 @@ You have a number of options with respect to the Tracking Technologies set by th
 
 
 
-Please note that deleting, rejecting, disabling or turning off Tracking Technologies through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [here](http://kb2.adobe.com/cps/526/52697ee8.html)
+Please note that deleting, rejecting, disabling or turning off Tracking Technologies through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please click [here](http://kb2.adobe.com/cps/526/52697ee8.html).
 
 Please be aware that certain areas and features of Nickelodeon Sites can only be accessed in conjunction with Tracking Technologies, and that disabling Tracking Technologies might prevent you from accessing such content.
 
-D. Computer Information Collected By Others: The Nickelodeon Group uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit Nickelodeon Sites. For a list of these third parties on Nickelodeon Sites that are directed to children under 13 or where Nickelodeon has actual knowledge that a user is under 13, please go [ here](http://www.nick.com/nick-assets/copy/third-parties.html). Nickelodeon Sites use a variety of third-party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers, and other third-party service providers (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Nickelodeon Sites, facilitate targeting of advertisements, and measure and analyze advertising effectiveness and/or traffic on the Nickelodeon Sites ("Targeting Services"). These Targeting Services enable us to display advertisements based on your visits to the Nickelodeon Sites and other websites you have visited and may include delivering advertisements or other content for products and services that may interest you. Targeting Services also help prevent you from seeing repeated advertisements and enable us to research the usefulness of certain advertisements. See here for more information on this Site's use of Nielsen's proprietary measurement software to collect and use video viewing metrics and other information. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13. 
+D. Computer Information Collected By Others: Third parties may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit Nickelodeon Sites for the purposes of supporting the internal operations of the Nickelodeon Sites, which can include, for example: 1) providing content or allowing features to run on the Sites; 2) serving contextual advertising; and 3) using analytics and other tools to improve the quality and performance of the Nickelodeon Sites. To the extent that third parties collect any personal information for any other purposes about users of the Nickelodeon Sites that are directed to children under 13 years of age, or where Nickelodeon has actual knowledge that a user is under 13 years of age, we will notify parents or guardians, including by listing those third parties [here](http://www.nick.com/nick-assets/copy/third-parties.html), and will request parental consent for the collection of that data.
+
+Among the service providers we engage, Nickelodeon Sites use a variety of third-party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers, and other third-party service providers (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Nickelodeon Sites, help prevent you from seeing repeated advertisements, and measure and analyze traffic on the Nickelodeon Sites. On websites directed to older audiences, Third Party Advertising Service Providers may also be used to facilitate targeting of advertisements and measure and analyze advertising effectiveness ("Targeting Services"). These Targeting Services enable us, for older audiences, to display advertisements based on your visits to the Nickelodeon Sites and other websites you have visited and may include delivering advertisements or other content for products and services that may interest you. Targeting Services also enable us to research the usefulness of certain advertisements. See here for more information on this Site's use of Nielsen's proprietary measurement software to collect and use video viewing metrics and other information. Nickelodeon does not behaviorally target advertising to children under 13 on sites that are directed to children or where Nickelodeon has actual knowledge that a user is under 13. 
 
 These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Nickelodeon Sites except to the extent necessary to provide services to the Nickelodeon Sites. The Third Party Advertising Service Providers, as well as advertisers, may themselves set and access their own Tracking Technologies on your device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to other information about you. In addition, Third Party Advertising Service Providers may collect aggregate log data separately and independently from what the Nickelodeon Sites collect.
 
@@ -172,7 +178,7 @@ With respect to the Tracking Technologies set by Third Party Advertising Service
 
 
 
-  * PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER. For more information about Flash cookies and how to remove them from your computer, please visit [here](http://kb2.adobe.com/cps/526/52697ee8.html)
+  * PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER. For more information about Flash cookies and how to remove them from your computer, please click [here](http://kb2.adobe.com/cps/526/52697ee8.html).
 
 
 
@@ -231,11 +237,11 @@ Information collected through the Nickelodeon Sites may be transferred, disclose
 
 C. Third Parties/Advertisers.
 
-The Nickelodeon Group uses the services of third parties who may collect, use or disclose cookie information, IP addresses or other identifiers from devices and/or browsers of users who visit Nickelodeon Sites. For a list of these third parties on Nickelodeon Sites that are directed to children under 13 or where Nickelodeon has actual knowledge that a user is under 13, please go [here](http://www.nick.com/nick-assets/copy/third-parties.html). Some Nickelodeon Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, mobile phone provider or cable television service provider to offer you electronic cards, games, social networking, text messaging services or customized video content. These partners operate websites and services that are separate and independent from the Nickelodeon Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Nickelodeon Sites permission to give your registration and other information, including e-mail address, to that third party.If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
+Some Nickelodeon Sites partner with outside third parties to provide you with additional content, products, or services that we believe may be of interest. For example, we may partner with a greeting card company, software manufacturer, social media plugin provider, mobile phone provider or cable television service provider to offer you electronic cards, games, social networking, text messaging services or customized video content. These partners operate websites and services that are separate and independent from the Nickelodeon Sites and, accordingly, may have their own privacy policies. If you consent or register with one of our partners, that means you grant the Nickelodeon Sites permission to give your registration and other information, including e-mail address, to that third party. If you have identified yourself as residing in the EU, we will not share your email address or other personally identifiable information with third parties for advertising purposes unless you have "opted-in."
 
 In addition, Third Party Advertising Service Providers may use their own Tracking Technologies to gather information about you. Please see Section I(D) above for more detailed information regarding such use of Tracking Technologies.
 
-For more information on our use of third party advertisers and the self-regulatory principles, please click [here](http://srp.mtvn.com/sitefaq.html)
+For more information on our use of third party advertisers and the self-regulatory principles, please click [here](http://srp.mtvn.com/sitefaq.html).
 
 D. Co-Branded Sites and Features
 
@@ -257,7 +263,7 @@ We may otherwise disclose your information pursuant to your consent.
 
 The Nickelodeon Sites are designed for and targeted to U.S. audiences and are governed by and operated in accordance with the laws of the U.S. While users from countries other than the U.S. may access certain of the Nickelodeon Sites, we make no representation that the Nickelodeon Sites are operated in accordance with the laws or regulations of, or governed by, other nations.
 
-If you are located in the European Economic Area ("EEA") and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our description of our practices at http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf and note that we may take additional measures to protect your personal data.
+If you are located in the European Economic Area ("EEA") or Switzerland, please click [here](http://www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf) to see our Privacy Shield Privacy Policy which includes detailed information on our privacy policy and practices with respect to personal information transferred to the U.S. and note that we may take additional measures to protect your personal data.
 
 If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any personal information and other information you provide to us or we obtain as a result of your use of this Site shall be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.
 
@@ -309,7 +315,7 @@ We reserve the right to revise this Privacy Policy at any time for any reason in
 
 ### X. CONTACT US
 
-If you have any other questions about our information handling practices, including our practices with respect to children's personal information, please contact us at:
+If you have any other questions about our information handling practices, including our practices with respect to children's personal information, or would like further information regarding the Nickelodeon Sites that are directed to children under 13 years of age, please contact us at:
 
 Nick.com CA Privacy Coordinator
 
@@ -326,5 +332,3 @@ Or call this number:
 212-846-2543
 
 Other corporate affiliates may collect or maintain information through the Nickelodeon Sites.
-
-A complete listing of The Nickelodeon Sites that this Privacy Policy applies to is [available here.](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html)
