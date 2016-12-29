@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matadornetwork.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231914id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matadornetwork.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053722id_/http%3A//matadornetwork.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Matador Network
 
-_Last Revised: 3.27.16_
+_Last Revised: 7.20.16_
 
 Matador Ventures, Inc. (“ **Matador** “, “ **we** ”, “ **us** ” and/or “ **our** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of any of our mobile applications (“ **Apps** ”) or our websites, including those located at: www.MatadorNetwork.com, www.MatadorU.com, matadormediahouse.com, www.glimpse.org, www.mindsummit.org, www.101places.com, www.luxduck.com and www.tripsnaps.com (the Apps and websites are collectively referred to as “ **Site(s)** “) and Services (as defined in the Matador Terms of Service). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Service located at [MatadorNetwork.com/content/tos](http://matadornetwork.com/content/tos/).
 
@@ -61,6 +61,8 @@ We may also collect Anonymous Information, including IP addresses, about your on
 As is true of most Apps and websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ **ISP** ”), referring/exit pages, operating system, date/time stamp, usage and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site and gather demographic information about our user base as a whole. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
 
 Most browsers are initially set to accept Cookies and most services that include similar devices are typically initially activated to collect data. You can set your browser to notify you when you receive a Cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, Cookies are not optional. Users choosing not to accept Cookies or similar devices will probably not be able to access those pages or the related services).
+
+We use the Google Places API(s) for location searches and as a result also use the Google Maps/Google Earth API(s). Use of this feature is also subject to the Google privacy policy, which can be found at <http://www.google.com/privacy.html>, and which policy is incorporated into this Privacy Policy by this reference.
 
 ### (c) Information Collected from You About Others.
 
