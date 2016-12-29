@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3s.in privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315001859id_/http%3A//www.w3s.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3s.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229012306id_/http%3A//www.w3s.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - W3S.in
 
