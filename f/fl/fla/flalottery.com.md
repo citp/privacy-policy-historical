@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091816id_/http%3A//flalottery.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032004id_/http%3A//flalottery.com/privacyPolicy) for the most accurate reproduction.*
 
 # Florida Lottery - Privacy Policy
 
