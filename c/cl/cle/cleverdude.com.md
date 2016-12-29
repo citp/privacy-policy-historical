@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529135615id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverdude.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045006id_/http%3A//www.cleverdude.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Clever Dude Personal Finance & Money
 
@@ -51,3 +51,5 @@ This Disclaimer is entirely written by Clever Dude, and is under all rights rese
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding this Disclaimer or Privacy Policy then please [contact us](http://www.cleverdude.com/contact/ "Contact").
+
+[](https://www.pinterest.com/pin/create/button/)
