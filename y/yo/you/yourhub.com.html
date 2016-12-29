@@ -1,881 +1,839 @@
-<!--The following is the downloaded HTML source of the yourhub.com privacy policy that was archived on 2005-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050404120614id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourhub.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229041417id_/http%3A//www.denverpost.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><!-- Sponsorship= --><head>
-		<title>Rocky Mountain News</title>
-		
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<meta http-equiv="Refresh" content="1800">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-		<link rel="stylesheet" href="/drmn/cda/styles/mainCSS">
-		<script language="JavaScript">
-
-function popup(url,w,h,menu) {
-	x = Math.floor((screen.width - w) / 2);
-	y = Math.floor((screen.height - h) / 2);        
-	now = new Date();
-	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
-
-	if (menu != null) {
-		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
-		features += ",menubar=yes,toolbar=yes";
-	} else {
-		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
-		features += ",menubar=no,toolbar=no"; 
-	}
-	window.open(url,"newwin",features);
-}
-
-
-function MM_reloadPage(init) {  
-  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {
-    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-     document.MM_pgW=innerWidth; 
-	 document.MM_pgH=innerHeight;
-	 onresize=MM_reloadPage; 
-    }
-  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
-    location.reload();
-}
-
-// for Netscape thisdomain = www.scripps.com
-// for other browser thisdomain = scripps.com
-
-thisdomain = document.location + "";
-thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
-thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
-thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
-
-
-
-function getCookieVal (offset) {
-	var endstr = document.cookie.indexOf(';',offset);
-	if (endstr == -1) {
-		endstr = document.cookie.length;
-	}
-	return unescape(document.cookie.substring(offset,endstr))
-}
-
-
-function SetCookie (name, value, expires, path, domain, secure) {
-	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
-} 
-
-
-function GetCookie (name) {
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-
-	while (i < clen) {
-		var j = i + alen;
-		if (document.cookie.substring(i,j) == arg) {
-			return getCookieVal(j);
-		}
-		i = document.cookie.indexOf(" ", i) + 1;
-		if (i==0) break;
-	}
-	return null;  
-}
-
-
-function DeleteCookie (name, path, domain) {
-   if (GetCookie(name)) {
-    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
-   }
-}
-
-
-function FixCookieDate (date) { 
-	var base = new Date(0); 
-	var skew = base.getTime();
-	if(skew > 0)
-		date.setTime (date.getTime() - skew);     
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function vod (url,streamtitle,customfeatures) {
-	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
-
-	//Browser Detection
-	var browser = "";
-	var browsername = navigator.appName;
-	var browserversion = parseInt(navigator.appVersion);
-	var browserplatform = navigator.userAgent;
-	if (browsername == "Netscape") {
-		browser = "ns" + browserversion;
-	} else {
-		if (browsername == "Microsoft Internet Explorer") {
-			if (browserversion >= 4) {
-				browser = "ie" + browserversion;
-			} else {
-				browser = "ie3";
-			}
-		}
-	}
-
-	if ((customfeatures) && customfeatures != '') {
-		windowFeatures = customfeatures;
-	}
-
-	if (url.indexOf(".rm",(url.length-10)) != -1) {
-		if (browser != 'ie3') {
-			hasplugin = 'false';
-			// Mac Browser (Not Netscape)
-			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
-				numPlugins = 0;
-				// Real Strange never goes into the followinf loop
-				// because numPlugins is 0
-				for (i = 0; i < numPlugins; i++) {
-					plugin = navigator.embeds[i];
-					if (plugin.name.substring(0,10)=="RealPlayer") {
-						hasplugin = 'true';
-					}
-				}
-			} else {
-				numPlugins = navigator.plugins.length;
-				for (i = 0; i < numPlugins; i++) {
-					plugin = navigator.plugins[i];
-					if (plugin.name.substring(0,10)=="RealPlayer") {
-						hasplugin = 'true';
-					}
-				}
-			}
-			if (browser.substring(0,2) == 'ie') {
-				hasplugin = 'true';
-			}
-			if (hasplugin == 'true') {
-				videoWin = window.open (url , 'video', windowFeatures);
-				if (streamtitle != '') {
-					videoWin.streamtitle=streamtitle;
-				}
-				videoWin.document.close();              
-			} else {
-				stream = url.substring(0,(url.length-5));
-				location.href=stream + '.ram';
-			}
-		} else {
-			videoWin = window.open (url , 'video', windowFeatures);
-			if (document.images) {
-				if (streamtitle != '') {
-					videoWin.streamtitle=streamtitle;
-				}
-			}
-			videoWin.document.close();                      
-		}               
-	} else {
-		videoWin = window.open (url , 'video', windowFeatures);
-		if (document.images) {
-			if (streamtitle != '') {
-				videoWin.streamtitle=streamtitle;
-			}
-		}
-		videoWin.document.close();
-	}
-}
+<!DOCTYPE html><html lang="en-US"><head>
+				<meta charset="UTF-8"><meta name="application-name" id="app-name" content="thedenverpost"><meta name="viewport" content="width=device-width, initial-scale=1">			<meta name="msvalidate.01" content="4B535F7EB2971D1FCBA5D1D3E3E292C3">
+			<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TLFP4R"></script><script src="//cdn.optimizely.com/js/6416370227.js"></script><title>Privacy Policy | The Denver Post</title>
+<script type="text/javascript">
+/* <![CDATA[ */
+var scriptHelpers = {"staticPath":"http:\/\/assets.digitalfirstmedia.com\/prod\/static"};
+/* ]]> */
 </script>
-
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.gravatar.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//assets.digitalfirstmedia.com">
+<link rel="dns-prefetch" href="//s.ntv.io">
+<link rel="dns-prefetch" href="//tags.crwdcntrl.net">
+<link rel="dns-prefetch" href="//script.crazyegg.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="The Denver Post » Feed" href="http://www.denverpost.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Denver Post » Comments Feed" href="http://www.denverpost.com/comments/feed/">
+<meta name="description" content="The Denver Post Corp. is committed to protecting the privacy of our customers.">
 		<script type="text/javascript">
-	if (name == "") {
-		name = 'rmnmainwindow';
-	}
-
-	//
-	// DART Ad code
-	//
-	var dartORD = (Math.random() * (new Date()).valueOf() * 100000).toString().substr(0,15);
-	var dartPURL = 'www.rmn.com';
-	var dartHost = 'http://ad.doubleclick.net';
-	function GetAd(TheTile, usePTile, ThePosition, TheWidth, TheHeight, ThePath, OtherParams)
-	{
-		ThePath = dartPURL + '/' + ThePath;
-		var adParams = ';pos=' + ThePosition + ';sz=' + TheWidth + 'x' + TheHeight + (usePTile?';ptile=':';tile=') + TheTile + OtherParams + ';ord=' + dartORD + '?';
-		document.write('<SCR' + 'IPT language="JavaScript1.1" SRC="' + dartHost + '/adj/' + ThePath + ';abr=!webtv' + adParams + '"></SCR' + 'IPT>');
-		if ((!document.images && navigator.userAgent.indexOf('Mozzilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV") >= 0)
-		{
-			document.write('<A HREF="' + dartHost + '/jump/' + ThePath + adParams + '">');
-			document.write('<IMG SRC="' + dartHost + '/ad/' + ThePath + adParams + '" border="0" height="' + TheHeight + '" width="' + TheWidth + '"></A>');
-		}
-	}
-
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.denverpost.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.denverpost.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="mason-fonts-css" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro%3A400%2C400italic%2C600%2C600italic%2C700%2C700italic%7CSource+Sans+Pro%3A400%2C400italic%2C600%2C600italic%2C700%2C400italic&amp;ver=4.7" type="text/css" media="all">
+<link rel="stylesheet" id="knowlton-styles-css" href="http://assets.digitalfirstmedia.com/prod/static/css/denverpost.587976a7ddd34089d4a3.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="all-css-4" href="http://www.denverpost.com/wp-content/mu-plugins/jetpack/css/jetpack.css?m=1481731292g" type="text/css" media="all">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var adLayersDFP = {"layerDebugLabel":"Current ad layer","consoleDebugLabel":"Switch to Google console","adUnitPrefix":"div-gpt-ad-"};
+/* ]]> */
 </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var adLayersAdServer = {"jsAPIClass":"AdLayersDFPAPI"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.denverpost.com/_static/??-eJzTLy/QTc7PK0nNK9EvyClNz8wr1k9M0c1JrEwtKtbPQuLopqQV6GUV6+gTrQOo2j7X1tDEzMTY0tjM0jwLAKxHJss="></script>
+<link rel="https://api.w.org/" href="https://www.denverpost.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.denverpost.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.denverpost.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.7">
+<link rel="shortlink" href="http://wp.me/P7yQli-56">
+<link rel="alternate" type="application/json+oembed" href="https://www.denverpost.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.denverpost.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.denverpost.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.denverpost.com%2Fprivacy-policy%2F&amp;format=xml">
 
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style><link rel="canonical" href="http://www.denverpost.com/privacy-policy/">
+<!-- Google Tag Manager Data Layer -->
+<script type="text/javascript">
+   analyticsEvent    = function() {};
+   analyticsSocial   = function() {};
+   analyticsVPV      = function() {};
+   analyticsClearVPV = function() {};
+   analyticsForm     = function() {};
+   window.dataLayer  = window.dataLayer || [];
+   dataLayer.push({
+      'ga_ua' : 'UA-61435456-7',
+      'quantcast' : 'p-4ctCQwtnNBNs2',
+      'quantcast label' : 'Denver',
+      'comscore' : '6035443',
+      'Publisher Domain' : 'denverpost.com',
+      'Publisher Product' : 'denverpost.com',
+      'kv' : 'page',
+      'Platform' : 'WP',
+      'Release Version' : '4.7',
+      'Digital Publisher' : '',
+      'Section' : 'Privacy Policy',
+      'Taxonomy1' : '',
+      'Taxonomy2' : '',
+      'Taxonomy3' : '',
+      'Taxonomy4' : '',
+      'Taxonomy5' : '',
+      'Publisher State' : 'COLORADO',
+      'Page Type' : 'page',
+      'User ID' : '',
+      'Behind Paywall' : '',
+      'Mobile Presentation' : 'no',
+      'Content ID' : '316',
+      'Publish Hour of Day' : '2016-04-06T15:26:14+00:00',
+      'Create Hour of Day' : '2016-04-06T15:26:14+00:00',
+      'Update Hour of Day' : '2016-12-20T16:38:35+00:00',
+      'Content Source' : '',
+      'Canonical URL' : 'http://www.denverpost.com/privacy-policy/',
+      'Slug' : 'privacy-policy',
+      'Byline' : 'The Denver Post',
+      'Content Title' : 'Privacy Policy',
+      'URL' : 'http://www.denverpost.com/privacy-policy/',
+      'Page Title' : 'Privacy Policy',
+      'Article Characters' : '7165',
+      'Article Words' : '1147',
+      'Dateline' : ''
+   });
+</script>
+<!-- End Google Tag Manager Data Layer -->
+<!-- Google Tag Manager -->
+<noscript>
+   <iframe src='https://www.googletagmanager.com/ns.html?id=GTM-TLFP4R' height='0' width='0' style='display:none;visibility:hidden'></iframe>
+</noscript>
+<script>
+(function(w,d,s,l,i) {
+   w[l]=w[l]||[];
+   w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+   var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+   j.async=true;
+   j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})
+(window,document,'script','dataLayer','GTM-TLFP4R');
+</script><!-- End Google Tag Manager -->
+<!-- DFM.API -->
+<script type="text/javascript" src="http://local.digitalfirstmedia.com/common/dfm/assets/js/dfm-core-level1.min.js"></script><script type="text/javascript">
+      dfm.api( "data", "siteId", "denverpost" );
+      dfm.api( "data", "siteName", "The Denver Post" );
+      dfm.api( "data", "siteDomain", "denverpost.com" );
+      dfm.api( "data", "actualDomain", "www.denverpost.com" );
+      dfm.api( "data", "networkId", "8013" );
+      dfm.api( "data", "siteDebug", "" );
+      dfm.api( "data", "localCommonURL", "" );
+      dfm.api( "data", "localAssetsURL", "" );
+      dfm.api( "data", "keywords", "" );
+      dfm.api( "data", "newsKeywords", "" );
+      dfm.api( "data", "kv", "page" );
+      dfm.api( "data", "pageType", "page" );
+      dfm.api( "data", "pageURL", "http://www.denverpost.com/privacy-policy/" );
+      dfm.api( "data", "pageVanityURL", "http://www.denverpost.com/privacy-policy/" );
+      dfm.api( "data", "canonicalURL", "http://www.denverpost.com/privacy-policy/" );
+      dfm.api( "data", "pageTitle", "Privacy Policy" );
+      dfm.api( "data", "articleTitle", "Privacy Policy" );
+      dfm.api( "data", "contentId", "316" );
+      dfm.api( "data", "pageId", "316" );
+      dfm.api( "data", "sectionName", "Privacy Policy" );
+      dfm.api( "data", "title", "Privacy Policy" );
+      dfm.api( "data", "abstract", "" );
+      dfm.api( "data", "slug", "privacy-policy" );
+      dfm.api( "data", "seoImage", "" );
+      dfm.api( "data", "byline", "The Denver Post" );
+      dfm.api( "data", "pubDate", "2016-04-06T15:26:14+00:00" );
+      dfm.api( "data", "startDate", "2016-04-06T15:26:14+00:00" );
+      dfm.api( "data", "modificationDate", "2016-12-20T16:38:35+00:00" );
+      dfm.api( "data", "sectionId", "316" );
+      dfm.api( "data", "Taxonomy1", "" );
+      dfm.api( "data", "Taxonomy2", "" );
+      dfm.api( "data", "Taxonomy3", "" );
+      dfm.api( "data", "Taxonomy4", "" );
+</script>
+<!-- End DFM.API -->
+<meta name="google-site-verification" content="2bKNvyyGh6DUlOvH1PYsmKN4KRlb-0ZI7TvFtuKLeAc">					<script type="text/javascript" src="//digitalfirst-d.openx.net/w/1.0/jstag?nc=8013-denverpost"></script>
+		<script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+		<script type="text/javascript">
+		var dfpAdUnits = {};
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		</script>			<script type="text/javascript">
+	var ranNum = Math.floor(Math.random()*101);
+	var ranRPN = ranNum.toString();
+	</script>			<script type="text/javascript">
+			var dfpBuiltMappings = {}, dfpAdUnits = {};
+			googletag.cmd.push(function() {
+				dfpBuiltMappings["top_leaderboard"] = googletag.sizeMapping().addSize([1000,200],[[728,90],[970,90],[970,250],[970,30]]).addSize([750,200],[[728,90]]).addSize([300,200],[[300,50],[320,50],[320,100]]).build();
+dfpBuiltMappings["bottom_leaderboard"] = googletag.sizeMapping().addSize([1000,200],[[728,90],[970,250],[970,90]]).addSize([750,200],[[728,90]]).addSize([300,200],[[320,100],[320,50]]).build();
+dfpBuiltMappings["interstitial"] = googletag.sizeMapping().addSize([1000,200],[[1,1]]).addSize([750,200],[[1,1]]).addSize([300,200],[[1,1]]).build();
+dfpAdUnits["top_leaderboard"] = googletag.defineSlot("\/8013\/denverpost.com\/jobs",[728,90],"div-gpt-ad-top_leaderboard").defineSizeMapping(dfpBuiltMappings["top_leaderboard"]).setTargeting("POS",["top_leaderboard"]).setTargeting("RPN", ranRPN).addService(googletag.pubads());
+dfpAdUnits["bottom_leaderboard"] = googletag.defineSlot("\/8013\/denverpost.com\/jobs",[728,90],"div-gpt-ad-bottom_leaderboard").defineSizeMapping(dfpBuiltMappings["bottom_leaderboard"]).setTargeting("POS",["bottom_leaderboard"]).setTargeting("RPN", ranRPN).addService(googletag.pubads());
+dfpAdUnits["interstitial"] = googletag.defineSlot("\/8013\/denverpost.com\/jobs",[1,1],"div-gpt-ad-interstitial").defineSizeMapping(dfpBuiltMappings["interstitial"]).setTargeting("POS",["interstitial"]).setTargeting("RPN", ranRPN).addService(googletag.pubads());
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+
+				if ( typeof AdLayersAPI === 'undefined' || ! AdLayersAPI.isDebug() ) {
+					googletag.enableServices();
+				}
+			});
+						var dfpSizeMapping = {"top_leaderboard":[[[1000,200],[[728,90],[970,90],[970,250],[970,30]]],[[750,200],[[728,90]]],[[300,200],[[300,50],[320,50],[320,100]]]],"bottom_leaderboard":[[[1000,200],[[728,90],[970,250],[970,90]]],[[750,200],[[728,90]]],[[300,200],[[320,100],[320,50]]]],"interstitial":[[[1000,200],[[1,1]]],[[750,200],[[1,1]]],[[300,200],[[1,1]]]]};
+			var dfpAdLayer = {"post_id":"2048983","title":"Pages"};
+			var dfpAdDetails = {"top_leaderboard":{"path":"\/8013\/denverpost.com\/jobs","sizes":[728,90],"targeting":{"POS":["top_leaderboard"]}},"bottom_leaderboard":{"path":"\/8013\/denverpost.com\/jobs","sizes":[728,90],"targeting":{"POS":["bottom_leaderboard"]}},"interstitial":{"path":"\/8013\/denverpost.com\/jobs","sizes":[1,1],"targeting":{"POS":["interstitial"]}}};
+			</script>
+			
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.denverpost.com/privacy-policy/">
+<meta property="og:description" content="Privacy Policy The Denver Post Corp. is committed to protecting the privacy of our customers. The following statement discloses our information gathering and dissemination practices for the denverp…">
+<meta property="article:published_time" content="2016-04-06T21:26:14+00:00">
+<meta property="article:modified_time" content="2016-12-20T23:38:35+00:00">
+<meta property="og:site_name" content="The Denver Post">
+<meta property="og:image" content="http://www.denverpost.com/wp-content/themes/denverpost/static/images/thedenverpost.png?w=1200&amp;h=630">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@denverpost">
+<meta name="twitter:image" content="http://www.denverpost.com/wp-content/themes/denverpost/static/images/thedenverpost.png">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="http://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=32" sizes="32x32">
+<link rel="icon" href="http://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=192" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=180">
+<meta name="msapplication-TileImage" content="http://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=270">
+			<script async="" type="text/javascript" src="//disqus.com/forums/dfm-denverpost/count.js"></script></head>
+	
+			<body class="page-template-default page page-id-316">
+	
+						<nav class="pushnav">
+				<ul id="pushnav" class="menu"><li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-342 menu-large"><a href="http://www.denverpost.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-5424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5424 menu-large"><a href="http://www.denverpost.com/news/">News</a></li>
+	<li id="menu-item-2064385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2064385 menu-large"><a href="http://www.denverpost.com/latest-news/">Latest News</a></li>
+	<li id="menu-item-5399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5399 menu-large"><a href="http://www.denverpost.com/news/colorado/">Colorado News</a></li>
+	<li id="menu-item-5406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5406 menu-large"><a href="http://www.denverpost.com/news/nation-world/">Nation / World</a></li>
+	<li id="menu-item-5488" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5488 menu-large"><a href="http://www.denverpost.com/news/obituaries/">Obituaries</a></li>
+	<li id="menu-item-5404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5404 menu-large"><a href="http://www.denverpost.com/news/marijuana/">Marijuana</a></li>
+	<li id="menu-item-5401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5401 menu-large"><a href="http://www.denverpost.com/news/education/">Education</a></li>
+	<li id="menu-item-5402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5402 menu-large"><a href="http://www.denverpost.com/news/environment/">Environment</a></li>
+	<li id="menu-item-5400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5400 menu-large"><a href="http://www.denverpost.com/news/crime-courts/">Crime &amp; Courts</a></li>
+	<li id="menu-item-1904786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904786 menu-large"><a href="http://www.denverpost.com/weather/">Colorado and Denver Weather forecasts</a></li>
+	<li id="menu-item-5489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5489 menu-large"><a href="http://www.denverpost.com/news/yourhub/">Your Hub</a></li>
+</ul>
+</li>
+<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-346 menu-large"><a href="http://www.denverpost.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-5423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5423 menu-large"><a href="http://www.denverpost.com/sports/">Sports</a></li>
+	<li id="menu-item-5413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5413 menu-large"><a href="http://www.denverpost.com/sports/colorado-preps/">Preps</a></li>
+	<li id="menu-item-5390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5390 menu-large"><a href="http://www.denverpost.com/sports/denver-broncos/">Denver Broncos</a></li>
+	<li id="menu-item-2145060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2145060 menu-large"><a href="http://preps.denverpost.com/">Preps Scoreboard</a></li>
+	<li id="menu-item-5395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5395 menu-large"><a href="http://www.denverpost.com/sports/colorado-avalanche/">Colorado Avalanche</a></li>
+	<li id="menu-item-2029547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029547 menu-large"><a href="http://www.denverpost.com/sports/outdoors/">Outdoors</a></li>
+	<li id="menu-item-5389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5389 menu-large"><a href="http://www.denverpost.com/sports/denver-nuggets/">Denver Nuggets</a></li>
+	<li id="menu-item-2029548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029548 menu-large"><a href="http://www.denverpost.com/sports/boxing-mma/">Boxing / MMA</a></li>
+	<li id="menu-item-5396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5396 menu-large"><a href="http://www.denverpost.com/sports/colorado-rockies/">Colorado Rockies</a></li>
+	<li id="menu-item-2145069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145069 menu-large"><a href="http://www.denverpost.com/sports/motorsports/">Motorsports</a></li>
+	<li id="menu-item-5397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5397 menu-large"><a href="http://www.denverpost.com/sports/colorado-rapids/">Colorado Rapids</a></li>
+	<li id="menu-item-2145079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145079 menu-large"><a href="http://www.denverpost.com/sports/golf/">Golf</a></li>
+	<li id="menu-item-2029528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029528 menu-large"><a href="http://www.denverpost.com/sports/college/">College Sports</a></li>
+	<li id="menu-item-2029587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2029587 menu-large"><a href="http://stats.denverpost.com">Scores and Standings</a></li>
+	<li id="menu-item-2007732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007732 menu-large"><a href="http://www.denverpost.com/sports/sports-columnists/">Sports Columnists</a></li>
+	<li id="menu-item-2029688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2029688 menu-large"><a href="http://www.denverpost.com/2016/05/23/sports-today-on-tv-and-radio/">Sports on TV/Radio</a></li>
+</ul>
+</li>
+<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-343 menu-large"><a href="http://www.denverpost.com/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-5427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5427 menu-large"><a href="http://www.denverpost.com/business/">Business</a></li>
+	<li id="menu-item-5416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5416 menu-large"><a href="http://www.denverpost.com/business/aerospace/">Aerospace</a></li>
+	<li id="menu-item-5414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5414 menu-large"><a href="http://www.denverpost.com/business/airlines/">Airlines</a></li>
+	<li id="menu-item-5417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5417 menu-large"><a href="http://www.denverpost.com/business/economy/">Economy</a></li>
+	<li id="menu-item-5418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5418 menu-large"><a href="http://www.denverpost.com/business/energy/">Energy</a></li>
+	<li id="menu-item-5415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5415 menu-large"><a href="http://www.denverpost.com/business/colorado-real-estate/">Real Estate</a></li>
+	<li id="menu-item-5419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5419 menu-large"><a href="http://www.denverpost.com/business/retail/">Retail</a></li>
+	<li id="menu-item-5420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5420 menu-large"><a href="http://www.denverpost.com/business/colorado-technology/">Technology</a></li>
+	<li id="menu-item-5421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5421 menu-large"><a href="http://www.denverpost.com/business/telecommunications/">Telecom</a></li>
+	<li id="menu-item-5422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5422 menu-large"><a href="http://www.denverpost.com/business/colorado-tourism/">Tourism</a></li>
+</ul>
+</li>
+<li id="menu-item-5428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5428 menu-large"><a href="http://www.denverpost.com/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2206939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206939 menu-large"><a href="http://theknow.denverpost.com/">Entertainment</a></li>
+	<li id="menu-item-5433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5433 menu-large"><a href="http://www.denverpost.com/arcade/">Arcade</a></li>
+	<li id="menu-item-598986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598986 menu-large"><a href="http://www.denverpost.com/games/">Games</a></li>
+	<li id="menu-item-5490" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5490 menu-large"><a href="http://www.denverpost.com/entertainment/arts/">Arts</a></li>
+	<li id="menu-item-5491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5491 menu-large"><a href="http://www.denverpost.com/entertainment/books/">Books</a></li>
+	<li id="menu-item-5511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5511 menu-large"><a href="http://calendar.denverpost.com/">Calendar</a></li>
+	<li id="menu-item-5434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5434 menu-large"><a href="http://www.denverpost.com/comics/">Comics</a></li>
+	<li id="menu-item-5493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5493 menu-large"><a href="http://www.denverpost.com/entertainment/movies/">Movies</a></li>
+	<li id="menu-item-2206938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206938 menu-large"><a href="http://theknow.denverpost.com/category/music/">Music</a></li>
+	<li id="menu-item-5496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5496 menu-large"><a href="http://www.denverpost.com/entertainment/theater/">Theater</a></li>
+	<li id="menu-item-5495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5495 menu-large"><a href="http://www.denverpost.com/entertainment/television/">Television</a></li>
+	<li id="menu-item-700286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700286 menu-large"><a href="http://www.denverpost.com/tv-listings/">Television Listings</a></li>
+	<li id="menu-item-5497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5497 menu-large"><a href="http://www.denverpost.com/travel/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-345 menu-large"><a href="http://www.denverpost.com/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li id="menu-item-5429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5429 menu-large"><a href="http://www.denverpost.com/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-5430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5430 menu-large"><a href="http://www.denverpost.com/ask-amy/">Ask Amy</a></li>
+	<li id="menu-item-5431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5431 menu-large"><a href="http://www.denverpost.com/lifestyle/fashion/">Fashion</a></li>
+	<li id="menu-item-5432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5432 menu-large"><a href="http://www.denverpost.com/lifestyle/food-drink/">Food &amp; Drink</a></li>
+	<li id="menu-item-2206936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206936 menu-large"><a href="http://theknow.denverpost.com/category/food/">Restaurants &amp; Dining</a></li>
+	<li id="menu-item-5498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5498 menu-large"><a href="http://www.denverpost.com/lifestyle/fitness/">Fitness</a></li>
+	<li id="menu-item-5500" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5500 menu-large"><a href="http://www.denverpost.com/lifestyle/home-garden/">Home &amp; Garden</a></li>
+	<li id="menu-item-5512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5512 menu-large"><a href="http://www.denverpost.com/horoscopes/">Horoscopes</a></li>
+</ul>
+</li>
+<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-347 menu-large"><a href="http://www.denverpost.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-5425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5425 menu-large"><a href="http://www.denverpost.com/opinion/">Opinion</a></li>
+	<li id="menu-item-5502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5502 menu-large"><a href="http://www.denverpost.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-5505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5505 menu-large"><a href="http://www.denverpost.com/opinion/opinion-columnists/">Columnists</a></li>
+	<li id="menu-item-5503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5503 menu-large"><a href="http://www.denverpost.com/opinion/letters/">Letters</a></li>
+	<li id="menu-item-5504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5504 menu-large"><a href="http://www.denverpost.com/opinion/perspective/">Perspective</a></li>
+	<li id="menu-item-2064390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2064390 menu-large"><a href="http://www.denverpost.com/opinion/cartoons/">Cartoons</a></li>
+</ul>
+</li>
+<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-348 menu-large"><a href="http://www.denverpost.com/politics/">Politics</a>
+<ul class="sub-menu">
+	<li id="menu-item-5426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5426 menu-large"><a href="http://www.denverpost.com/politics/">Politics</a></li>
+	<li id="menu-item-5506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5506 menu-large"><a href="http://www.denverpost.com/politics/election/">Election</a></li>
+	<li id="menu-item-5507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5507 menu-large"><a href="http://www.denverpost.com/politics/colorado-legislature/">Colorado Legislature</a></li>
+	<li id="menu-item-5508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5508 menu-large"><a href="http://www.denverpost.com/politics/denver/">Denver Politics</a></li>
+	<li id="menu-item-5509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5509 menu-large"><a href="http://www.denverpost.com/politics/local/">Local Politics</a></li>
+	<li id="menu-item-1245602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1245602 menu-large"><a href="http://www.denverpost.com/politics/national/">National Politics</a></li>
+</ul>
+</li>
+<li id="menu-item-1245581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245581 menu-large"><a href="http://thecannabist.co">Cannabist</a></li>
+<li id="menu-item-1245585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1245585 menu-large"><a href="http://www.denverpost.com/classifieds/">Classifieds</a>
+<ul class="sub-menu">
+	<li id="menu-item-1254226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254226 menu-large"><a href="http://www.denverpost.com/classifieds/">Classifieds</a></li>
+	<li id="menu-item-1245586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245586 menu-large"><a href="http://www.denverpost.com/classifieds/">Cars</a></li>
+	<li id="menu-item-1245600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245600 menu-large"><a href="http://www.dphomes.today/">Homes</a></li>
+	<li id="menu-item-1245583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245583 menu-large"><a href="http://www.denverpost.com/jobs/">Jobs</a></li>
+</ul>
+</li>
+<li id="menu-item-2105564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2105564 menu-large"><a href="http://video.denverpost.com/">DPTV</a></li>
+</ul>			</nav>
 				
-		
-		
-		
-		
-		<script type="text/javascript">
-		<!--
-		// Prevent others from including this site
-		var preview = 'no'
-		if (preview != 'yes') {
-			if (top != self) {
-				top.location = location;
-			}
-		}
-
-		MM_reloadPage(true);
-
-		if (GetCookie('cookieChk') == null) { 
-			var expdate = new Date ();
-
-			// Correct for Mac date bug - call only once for given Date object!
-			FixCookieDate (expdate); 
-
-			// expires 30 days from now
-			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
-			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
-		}
-		// -->
-		</script>
-		</head><body bgcolor="#FFFFFF" link="#666699" vlink="#666699" alink="#666699"><script language="JavaScript"><!-- /* You may give each page an identifying name, server, and channel on the next lines. */ 
-var s_account="mngirockymtnnews"
-var s_pageName=""
-var s_server="Vignette"
-var s_channel=""
-var s_pageType=""
-var s_prop1="HOME"
-var s_prop2=""
-var s_prop3=""
-var s_prop4=""
-var s_prop5=""
-/* E-commerce Variables */
-var s_campaign=""
-var s_events=""
-var s_eVar1=""
-var s_eVar2=""
-var s_eVar3=""
-var s_eVar4=""
-var s_eVar5=""
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-/********** DO NOT ALTER ANYTHING ELSE BELOW THIS LINE! *************/
-var s_code=' '//--></script>
-<script language="JavaScript" src="/drmn/s_code.js"></script>
-<script language="JavaScript"><!--
-var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(s_account);
-if(s_code)document.write(s_code)}else
-document.write('<a href=""/><img src="http://'+s_account+'.112.2O7.net/b/ss/'+s_account+'/1/G.7--FB/s'+s_tm.getTime()+'?[AQB]'+'&j=1.0&[AQE]" height="1" width="1" border="0" alt=""/></a><br>')
-//--></script><a href=""><img src="http://mngirockymtnnews.112.2O7.net/b/ss/mngirockymtnnews/1/G.7--FB/s1580383641089?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""></a><br><script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
-//--></script><noscript><img src="http://mngirockymtnnews.112.2O7.net/b/ss/mngirockymtnnews/1/G.7--NS/0"
-height="1" width="1" border="0" alt=""/></noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: G.7. --><!-- Content OID  -->
-<!-- Header OID DRMN 1 ARTICLE-DETAIL 485 HEADER no -->
-<!-- Footer OID DRMN 1 ARTICLE-DETAIL 486 FOOTER no -->
-<!-- AREA: -->
-<!-- LNBSpaceHolder: /drmn/images -->
-
-<div class="sitebucket">
-		
-		<!-- Vignette V6 Tue Dec 21 14:06:49 2004 -->
+			<div id="page" class="hfeed site">
+	
+						<div class="status-bar">
+				<div class="status-bar-wrapper">
+					<ul id="status-bar-menu" class="status-bar-menu"><li id="menu-item-42472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42472"><a href="http://www.denverpost.com/front-pages/">Today</a></li>
+<li id="menu-item-42551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42551"><a target="_blank" href="https://www.denverpostmemberservices.com/">Subscribe</a></li>
+<li id="menu-item-42481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42481"><a target="_blank" href="http://dpo.st/alerts">Newsletter</a></li>
+<li id="menu-item-2157824" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2157824"><a href="http://www.denverpost.com/news/obituaries/">Obituaries</a></li>
+</ul>				</div>
+			</div>
+			<div class="header-placeholder"></div><header class="site-header default headroom--top">
+<form class="search-form slide-search" method="GET" action="http://www.denverpost.com/">
 
 	
-		<!---------------------BEGIN TABLE FOR VERTICAL TABS------------------ --> 
-		<table width="600" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsmarketplace.com" class="navbartext">Classifieds</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsautos.com" class="navbartext">Autos</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsjobs.com" class="navbartext">Jobs</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.postnewsrealestate.com" class="navbartext">Homes</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.post-newsadsearch.com" class="navbartext">Ad&nbsp;Search</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.ypengine.com/yp.cfm?brd=2389" class="navbartext">Yellow Pages</a></td><td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider.gif" width="15" height="15" border="0"></td><td class="headerbgcolor2" height="15" rowspan="2"><span class="navbartext">&nbsp;&nbsp;</span><a href="http://www.rockymountainnews.com/drmn/recreation/0,1299,DRMN_7,00.html" class="navbartext">Travel Deals</a><!-- MaxSize (7) --></td>
-			<td class="headerbgcolor2" height="15" valign="top" rowspan="2"><img src="/drmn/images/nav/tab_divider_end.gif" width="16" height="15" border="0"></td>
-			<td width="20" height="14" bgcolor="#FFFFFF"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
-		</tr>
-		<tr>
-			<td width="20" height="1" class="headerbgcolor2"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
-		</tr>
-		</tbody></table>
-		<!-- ------------------END TABLE FOR VERTICAL TABS------------------ -->
-		<!-- ------------------ BEGIN TABLE FOR HEADER GRAPHIC AND SEARCH AREA ------------------ -->
-		<table width="600" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td class="framebgcolor" width="470" rowspan="3"><img border="0" src="/drmn/images/headers/masthead_main.gif" alt="ART"></td>
-			<td class="headgraphicupper" width=""><img src="/drmn/images/spacers/spacer.gif" width="" height="16"></td>
-		    <td class="framebgcolor" width="5" rowspan="3"><img src="/drmn/images/spacers/spacer.gif" width="1" height="1"></td>
-		</tr>
-		<tr>
-			<td class="headerbgcolor2" width="" height="56" valign="bottom">
-				<!-- -------------SITE SEARCH TABLE GOES HERE---------------- -->
-				
-			<table border="0" align="center" cellpadding="0" cellspacing="0">
-				
-				<tbody><tr class="navbartext">
-				
-				<form name="searchForm" action="http://websearch.insidedenver.com/drmn/web/searchResults" method="get"></form>
-					<td class="navbartext">
-						Search site for:
-						<input type="hidden" value="DRMN" name="site">
-						<input type="hidden" value="site" name="searchType">
-						<input size="10" name="searchString">
-						<input name="GoSearch" type="image" src="/drmn/images/nav/go_search.gif" alt="Go!" border="0">
-						
-					</td>
-				
-				
-				</tr>
-			</tbody></table>
-				<!-- -------------END SITE SEARCH TABLE ---------------- -->
-			</td>
-		</tr>
-		<tr>
-			<td class="headgraphiclower" width=""><img src="/drmn/images/spacers/spacer.gif" width="" height="20"></td>
-		</tr>
-		</tbody></table>
-		<!-- ------------------ END TABLE FOR HEADER GRAPHIC AND SEARCH AREA ------------------ -->
-		<!-- ------------------ BEGIN TABLE FOR HORIZONTAL SITE NAV ------------------ -->
-		<table width="600" border="0" cellspacing="0" cellpadding="0" height="18">
-		<tbody><tr>
-			<td class="framebgcolor"><!--Starting to stack--><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><!--Starting to stack--><a href="/drmn/home/0,1299,DRMN_1,00.html" class="navbartext">Home</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/news/0,1299,DRMN_3,00.html" class="navbartext">News</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/sports/0,1299,DRMN_2,00.html" class="navbartext">Sports</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/business/0,1299,DRMN_4,00.html" class="navbartext">Business</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/entertainment/0,1299,DRMN_6,00.html" class="navbartext">Entertainment</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/recreation/0,1299,DRMN_7,00.html" class="navbartext">Recreation</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/lifestyles/0,1299,DRMN_4336,00.html" class="navbartext">Lifestyles</a><span class="navbartext">&nbsp;</span><img src="/drmn/images/nav/white_bullet.gif" width="3" height="3" border="0" hspace="4" vspace="2"><a href="/drmn/opinion/0,1299,DRMN_38,00.html" class="navbartext">Opinion</a><!-- MaxSize (8) --></td>
-		</tr>
-		</tbody></table>
-		<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ --><!-- MaxSize (3) -->  <!-----------------------BEGIN TABLE FOR MAIN CONTENT AREA--------------------->
-    <table width="600" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-        <td width="5" class="framebgcolor">&nbsp;</td>
-					
-        <!-- BEGIN CELL FOR LEFT SIDE CONTENT-->
-    				
-        <td width="145" valign="top" class="lnbbgcolor"> 
-            <center>
-    		<img src="/drmn/images/spacers/spacer.gif" width="1" height="10"><br> <!-- Vignette V6 Mon Apr 04 05:17:02 2005 -->
-
-	<table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
-			<table width="130" border="0" cellspacing="2" cellpadding="0" align="center" bgcolor="">
-			<tbody><tr>
-				<td class="sectionheader"><a href="/drmn/news/0,1299,DRMN_3,00.html" class="sectionheader">NEWS</a><br></td>
-			</tr>
-			</tbody></table>
-			<!--DelvFrmt (LNB_SUBSECTIONS)-->
-			
-			
-			<!-- #Use section color as background-->
-			<table width="130" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="">
-		
-			<tbody><tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/local/0,1299,DRMN_15,00.html" class="subnavtext">Local</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/state/0,1299,DRMN_21,00.html" class="subnavtext">State</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="http://customwire.ap.org/dynamic/fronts/US?SITE=CODER&amp;SECTION=US&amp;TEMPLATE=DEFAULT" class="subnavtext">Nation</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="http://customwire.ap.org/dynamic/fronts/WORLD?SITE=CODER&amp;SECTION=INTERNATIONAL&amp;TEMPLATE=DEFAULT" class="subnavtext">World</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/election/0,1299,DRMN_36,00.html" class="subnavtext">Election</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/legislature/0,1299,DRMN_37,00.html" class="subnavtext">Legislature</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/education/0,1299,DRMN_957,00.html" class="subnavtext">Education</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/census/0,1299,DRMN_429,00.html" class="subnavtext">Census 2000</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/opinion/0,1299,DRMN_38,00.html" class="subnavtext">Opinion</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/news_columnists/0,1299,DRMN_86,00.html" class="subnavtext">Columnists</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="http://cfapp.rockymountainnews.com/lottery/" class="subnavtext">Lottery</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/commuting/0,1299,DRMN_255,00.html" class="subnavtext">Commuting</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/obituaries/0,1299,DRMN_45,00.html" class="subnavtext">Obituaries</a></td>
-			</tr>
-			
-			<tr>
-				<td width="5" valign="top"><img src="/drmn/images/nav/lnb_bullet.gif" width="3" height="3" vspace="8" border="0" hspace="3"></td>
-				<td width="125"><a href="/drmn/ap_wire/0,1299,DRMN_9196,00.html" class="subnavtext">AP wire</a></td>
-			</tr>
-			</tbody></table><hr size="1" width="130" noshade="" align="center"><table width="130" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td><table width="120" cellpadding="0" cellspacing="0" border="0">
-  <tbody><tr>
-    <td bgcolor="#e6e6e6" class="smalltext"><div class="bodytext2"><b>Top stories</b></div>
-Special reports and ongoing coverage from the Rocky Mountain News.<br>
-
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/archive/archive.cfm?section=news&amp;include=ward_churchill">Ward Churchill</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/archive/archive.cfm?section=news&amp;include=tina_north">The North Side</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://www.rockymountainnews.com/drmn/america_at_war/">Iraq war</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/bryant/">Kobe Bryant</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/cu/">CU recruiting</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://election.rockymountainnews.com">2004 election</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://www.rockymountainnews.com/drmn/columbine/">Columbine</a><br>
-<img src="/drmn/images/nav/bullet_sq.gif" width="3" height="3" vspace="2" hspace="0" border="0">&nbsp;<a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/westnile/">West Nile</a><br>
-</td></tr></tbody></table><p><table cellpadding="2" cellspacing="0" border="0"><tbody><tr><td bgcolor="#e6e6e6" class="smalltext">
-<div class="bodytext2">Special reports</div>
-In-depth and investigative reports from the pages of the Rocky Mountain News. <a href="http://denver.rockymountainnews.com/specialreports/" class="deeplinks"><b>Click here</b></a>.
-<p>
-</p><div class="bodytext2">Multimedia</div>
-Video, 360-degree photography and other multimedia news coverage.<br> <a href="http://denver.rockymountainnews.com/multimedia/" class="deeplinks">Click here</a>. 
-<p>
-<!--div class=bodytext2>Databases</div>
-Learn more about your neighborhood, city and schools with our searchable databases.<br>
-<IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/news/softmoney/">Soft money contributions</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a href="http://cfapp.rockymountainnews.com/deadlyforce" target="deadlyForce" onClick=" window.open(' ','deadlyForce','width=820,height=625,scrollbars=yes,resizable=no,toolbar=no');"' class="deeplinks">Police shootings</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a href="http://cfapp.rockymountainnews.com/inmemory" target="inmemory" onClick="window.open('','inmemory','width=485,height=650,scrollbars=yes,resizable=no,toolbar=no')" class="deeplinks">Terrorist victims</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://www.rockymountainnews.com/drmn/election/">Election 2003</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/census2000/main.cfm">2000 Census</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/csap/2003/index.cfm">CSAP results</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/t-rex/">T-Rex construction</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/census2000/compareHoods.cfm">Crime comparisons</a><br><IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/dpsEthnicity.cfm">DPS ethnicity</a><br>
-<IMG src='http://denver.rockymountainnews.com/art/vignette/bullet_sq.gif' width='3' height='3' border='0' vspace='2' hspace='3'><a class="deeplinks" href="http://cfapp.rockymountainnews.com/reportcards2002/indexNew.cfm">School report cards</a>
-
-<P-->
-</p><div class="bodytext2">Denver Square</div>
-<img src="http://denver.rockymountainnews.com/art/dsthm.gif" height="37" width="35" hspace="4" vspace="2" align="right">
-See Colorado life through the pen of <i>News</i> editorial cartoonist Ed Stein. <a href="http://cfapp.rockymountainnews.com/stein/ds.cfm" class="deeplinks">Click here</a>. Stein also draws "Stein's View" for the opinion page. <a href="http://cfapp.rockymountainnews.com/stein/index.cfm" class="deeplinks">Click here.</a> 
-
-<p>
-</p><div class="bodytext2">E-newsletters</div>
-<a class="deeplinks" href="http://cfapp.rockymountainnews.com/enews/"><img src="http://denver.rockymountainnews.com/art/icons/enews.gif" width="50" height="28" alt="" border="0" align="right" hspace="2"></a>
-
-Sign up for daily e-News updates and receive the latest local news. <br>
-<a class="deeplinks" href="http://cfapp.rockymountainnews.com/enews/"><b>Click here</b></a>.
-</td></tr></tbody></table><br>
-<!-- MaxSize (5) --></p></td></tr></tbody></table><!-- MaxSize (2) --></td></tr></tbody></table> </center>
-        </td>
-    	 <!-- ------------------------ END OF CELL FOR LEFT SIDE CONTENT------------------------------ -->
-
-			
-        <td width="5" class="framebgcolor" valign="top">&nbsp;</td>
-			
-        
-        <td width="440" valign="top" bgcolor="#FFFFF9"> 
-            <table width="440" border="0" cellspacing="0" cellpadding="10">
-            <tbody><tr valign="top"> 
-                <td class="bodytext">
-                						    
-                    <!-- Vignette V6 Fri Jun 11 11:26:50 2004 -->
+	<input type="text" placeholder="Search" name="s">
+	<input name="orderby" type="hidden" value="date">
+	<input name="order" type="hidden" value="desc">
+	<input type="submit" value="submit">
 
 	
-				<table width="420" border="0" cellspacing="0" cellpadding="0" align="center">	
-					<tbody><tr valign="top"> 
-						<td class="bodytext">
-			<table border="0" cellspacing="0" cellpadding="3">
-				<tbody><tr>
-					<td class="deeplinks">
-				<a href='javascript:popup("/drmn/cda/article_print/1,1983,DRMN_1_3162_ARTICLE-DETAIL-PRINT,00.html",700,500,1)' class="deeplinks" onmouseover="self.status=&quot;Print this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">PRINT THIS STORY</a> | 
-				<a href='javascript:popup("/cr/cda/email/article/1,1249,DRMN_1_3162,00.html",400,350)' class="deeplinks" onmouseover="self.status=&quot;E-mail this story&quot;;return true" onmouseout="self.status=&quot;&quot;;return true">E-MAIL THIS STORY</a>
-					</td>
-				</tr>
-			</tbody></table><br><span class="headline1">RockyMountainNews.com privacy policy</span><p><span class="smalltext"><b>January 10, 2001</b></span></p><p><span class="bodytext"><b>RockyMountainNews.com</b> is committed to protecting consumer privacy online.  We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities.  At <b>RockyMountainNews.com</b> we intend to give you as much control as possible over your personal information.
-
-</span></p><p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our sites, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
-
-</p><p>Our sites may contain links to other web sites, including web sites directed to children.  We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites.  You should check the applicable privacy policy of the web site sponsor when linking to other web sites.
-
-</p><p></p><center><b>I.	Information Which We Collect</b></center>
-<br>We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games.  If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information.
-
-<p>Like many other commercial sites, our sites may utilize a standard technology called a "cookie" to collect information about how our site is used.  Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site.  <b>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.</b>  Our web sites may use cookies to enhance your visit.  Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart."  Our cookies may collect your domain name and track your selections through our web pages.  We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.
-
-</p><p>We also use cookies in connection with our chat rooms in order to record your preferences.  These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms.  No additional identifying information is stored on these cookies.  You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site.
-
-</p><p>We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site.  For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features.  We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
-
-</p><p>In addition, users may complete a subscription form online in order to subscribe to the <b>Rocky Mountain News</b>.  To subscribe, users must submit personal information in order for us to send the newspaper to you.  
-
-</p><p></p><center><b>II.	Use of User Information</b></center>
-<br>We may perform statistical analyses of aggregate user behavior.  This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our sites, to customize the content and/or layout of our pages, and to provide the services required by an individual user.  We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested.  We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail.  There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent.
-
-<p></p><center><b>III.	Disclosure to Third Parties</b></center>
-<br>We do not share personal identifying information with any third party without your permission.  We disclose <i>only in aggregate form</i> our statistical analyses or demographics of users to third parties, such as advertisers or other business partners.  In some instances, we operate shared web sites with businesses affiliated with us.  Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
-
-<p></p><center><b>IV.	Accuracy of User Information</b></center>
-<br>In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time.  Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <b>talktous@RockyMountainNews.com</b>, or you can reach us by telephone at <b>1-303-892-2451</b>.  You can also write us at:
-<br><font size="+1"><b>RockyMountainNews.com
-<br>100 Gene Amole Way
-<br>Denver, CO 80204
-<br></b></font>
-
-<p>These privacy policies are effective as of August 5, 1998.  We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.
-
-</p><p></p><center><b>V.	Security of Information</b></center>
-<br>We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it.
-
-<p></p><center><b>VI.	Opting-out</b></center>
-<br>At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites).  For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. 
-
-<p></p><center><b>VII.	Use of Materials</b></center>
-<br>The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited.  Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at <b>talktous@RockyMountainNews.com</b>.  To link to the full Terms of Use Agreement pertaining to use of our <b>site(s)</b>, please <a href="/home/article/1,1299,DRMN_1_3088,00.html"><b>click here</b></a>.
-<br></td></tr></tbody></table>   </td>
-            </tr>
-            </tbody></table>
-			<!--  ----------------------- begin quigo adtag -------------------- -->
-			 <br><table width="350" border="0" cellpadding="3" cellspacing="0" bgcolor="#ffffff" bordercolor="093466">
-    <tbody><tr>
-      <td style="border-bottom:1px #093466 solid;" bgcolor="#ffffff" border="0" align="center" width="190">
-		<p align="left">
-		<img border="0" src="/drmn/images/ads/contentHeader_RMN.gif" width="144" height="16"></p></td>
-    </tr>
-    <tr><td>
-<script type="text/javascript">adsonar_pid=4902;adsonar_ps=5606;adsonar_zw=350;adsonar_zh=170;adsonar_jv='ads.adsonar.com';</script><script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script></td></tr>
-    <tr><td>
-		<a href="http://www.postnewsads.com/quigo/landingPage.asp"><img border="0" src="/drmn/images/ads/quigo_footer_rmn.gif" width="120" height="29" align="right"></a></td>
-    </tr>
-  </tbody></table> <!-- -------------------------end quigo ad tag ---------------------- -->	
-        </td>
-         <td width="5" class="framebgcolor" valign="top">&nbsp;</td>
-    </tr>
-    </tbody></table>
-    <!-- ---------------------------------- END OF TABLE FOR CONTENT AREA ------------------------------------ -->
-			     
-    	
-    <!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
-        <!-- Vignette V6 Wed Jan 12 13:18:20 2005 -->
-
-  
-			
-					<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
-					<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
-						<tbody><tr class="framebgcolor">
-							<td><img src="/drmn/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
-						</tr>
-					</tbody></table>
-					<!-- ------------------END SEPARATOR TABLE------------------------- -->
-			<!-- ----------------------BEGIN SITE FOOTER COPYRIGHT COMPONENT----------------------- -->
-<table width="600" border="0" cellspacing="0" cellpadding="5"><tbody><tr><td width="300" align="left" valign="bottom" class="framebgcolor"><span class="navbartext"><a href="http://denver.rockymountainnews.com/aboutus/" class="navbartext2">ABOUT US </a> <br><a href="http://cfapp.rockymountainnews.com/news/archive/" class="navbartext">ARCHIVES</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/faq.shtml" class="navbartext"><b>FAQ</b></a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://denver.rockymountainnews.com/aboutus/subscribe.shtml" class="navbartext">SUBSCRIBE</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://www.rockymountainnews.com/drmn/about_us/text/0,1299,DRMN_77_23888,00.html" class="navbartext"><b>TIP LINE</b></a><br><a href="http://www.rockymountainnews.com/drmn/site_map/0,1299,,00.html" class="navbartext">SITE MAP</a> <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1">  <a href="http://pictopia.com/perl/gal?provider_id=179&amp;process=deliver&amp;page=requests_xsl" class="navbartext">PHOTO REPRINTS</a>  <img src="/drmn/images/nav/white_bullet.gif" height="3" width="3" vspace="2" hspace="1"> <a href="http://cfapp.rockymountainnews.com/news/corrections/" class="navbartext">CORRECTIONS</a></span></td><td width="300" align="right" valign="bottom" class="framebgcolor"><span class="railtext">2005 © The E.W. Scripps Co.<br><b><a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3162,00.html" class="navbartext">Privacy Policy</a></b> and<b> <a href="http://www.rockymountainnews.com/drmn/home/article/1,1299,DRMN_1_3088,00.html" class="navbartext">User Agreement</a></b><br>Questions? Comments? <b><a href="http://www.rockymountainnews.com/drmn/about_us/text/0,1299,DRMN_77_23888,00.html" class="navbartext">Talk to Us</a></b>.</span></td><td width="45" class="framebgcolor"><a href="http://www.scripps.com/"><img src="/drmn/images/logos/lighthouse.gif" width="40" height="40" align="right" hspace="3" border="0" alt="E.W. Scripps Co."></a> </td></tr></tbody></table><!-- ----------------------END SITE FOOTER COPYRIGHT COMPONENT ----------------------- -->
-					<!-- ------------------BEGIN SEPARATOR TABLE------------------------- --> 
-					<table width="600" border="0" cellspacing="0" cellpadding="0" height="">
-						<tbody><tr class="framebgcolor">
-							<td><img src="/drmn/images/spacers/spacer.gif" width="1" height="1" border="0" alt=""></td>
-						</tr>
-					</tbody></table>
-					<!-- ------------------END SEPARATOR TABLE------------------------- -->
-			<table width="600" border="0" cellspacing="0" cellpadding="4" bgcolor="#000033" height="60" class="framebgcolor">
-			<tbody><tr><td valign="top" align="center">
-		    <!-- AdSpace adsize=468x60 pos.f1 -->
-			<script language="JavaScript">GetAd('51', false, 'f1', 468, 60, 'HOME_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/HOME_ARTICLE_DETAIL;abr=!webtv;pos=f1;sz=468x60;tile=51;ord=147282300989544?"></script>
-			<noscript>
-			<a href='http://ad.doubleclick.net/jump/www.rmn.com/HOME_ARTICLE_DETAIL;pos=f1;tile=51;sz=468x60;ord=123456789?' target='_blank'>
-			<img src='http://ad.doubleclick.net/ad/www.rmn.com/HOME_ARTICLE_DETAIL;pos=f1;tile=51;sz=468x60;ord=123456789?' width='468' height='60' border=0 alt=''></a>
-			</noscript>
-			<!-- /AdSpace --></td>
-			</tr>
-			</tbody></table><!-- MaxSize (2) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
-    </div>
-
-
-<!-- ----------------------BEGIN CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
-
-<div class="gutterbucket">
-    	
-        <img src="/drmn/images/spacers/spacer.gif" width="150" height="91" border="0">
-     <!-- --------------------BEGIN ADVERTISER INDEX--------------- -->					   
-	<!-- Vignette V6 Mon Mar 28 13:00:39 2005 -->
-
-   
-		<!-- DRMN,3,1705,GUTTER_AD,no -->
-		<!-- --------------------BEGIN ADVERTISER INDEX--------------- --> 
-		<table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/drmn/images/sidebar/extras_header.gif" border="0" alt="Site Extras"></td>
-		</tr>
-		</tbody></table>
-		
-		<table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td width="5" class="gutteradbg1"><img src="/drmn/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
-			<td width="140" class="gutteradbg2" valign="top">
-				<!-- TABLE FOR ADS AND CATEGORIES -->
-				<table width="120" border="0" cellspacing="4" cellpadding="0" align="center">
-				<!-- Begin Dynamic ads -->
-
-				
-				<tbody><tr>
-					<td vspace="6" align="center">
-					
-	                
-		    <!-- AdSpace adsize=120x90 pos.g1 -->
-			<script language="JavaScript">GetAd('41', false, 'g1', 120, 90, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g1;sz=120x90;tile=41;ord=147282300989544?"></script>
-			<noscript>
-			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g1;tile=41;sz=120x90;ord=123456789?' target='_blank'>
-			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g1;tile=41;sz=120x90;ord=123456789?' width='120' height='90' border=0 alt=''></a>
-			</noscript>
-			<!-- /AdSpace -->
-					</td>
-				</tr>
-				<tr>
-					<td vspace="6" align="center">
-					
-	                
-		    <!-- AdSpace adsize=120x90 pos.g2 -->
-			<script language="JavaScript">GetAd('42', false, 'g2', 120, 90, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g2;sz=120x90;tile=42;ord=147282300989544?"></script>
-			<noscript>
-			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g2;tile=42;sz=120x90;ord=123456789?' target='_blank'>
-			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g2;tile=42;sz=120x90;ord=123456789?' width='120' height='90' border=0 alt=''></a>
-			</noscript>
-			<!-- /AdSpace -->
-					</td>
-				</tr>
-
-				<!-- End Dynamic ads -->
-				</tbody></table>
-				<!-- END TABLE FOR ADS AND CATEGORIES -->
-			</td>
-		    <td width="5" class="gutteradbg1"><img src="/drmn/images/spacers/spacer.gif" border="0" height="1" width="1"></td>
-		</tr>
-		</tbody></table>
-		
-		<table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td><img src="/drmn/images/sidebar/extras_footer.gif"></td>
-		</tr>
-		</tbody></table><p><!-- NEWS -->
-			<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" valign="top">
-				
-				<tbody><tr>
-					<td vspace="6" align="center">
-					
-	                
-		    <!-- AdSpace adsize=120x600 pos.g3 -->
-			<script language="JavaScript">GetAd('43', true, 'g3', 120, 600, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g3;sz=120x600;ptile=43;ord=147282300989544?"></script>
-			<noscript>
-			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g3;ptile=43;sz=120x600;ord=123456789?' target='_blank'>
-			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g3;ptile=43;sz=120x600;ord=123456789?' width='120' height='600' border=0 alt=''></a>
-			</noscript>
-			<!-- /AdSpace -->
-					</td>
-				</tr><tr><td>&nbsp;</td></tr>
-				<tr>
-					<td vspace="6" align="center">
-					
-	                
-		    <!-- AdSpace adsize=120x1000 pos.g4 -->
-			<script language="JavaScript">GetAd('44', false, 'g4', 120, 1000, 'NEWS_ARTICLE_DETAIL', '');</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/www.rmn.com/NEWS_ARTICLE_DETAIL;abr=!webtv;pos=g4;sz=120x1000;tile=44;ord=147282300989544?"></script>
-			<noscript>
-			<a href='http://ad.doubleclick.net/jump/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g4;tile=44;sz=120x1000;ord=123456789?' target='_blank'>
-			<img src='http://ad.doubleclick.net/ad/www.rmn.com/NEWS_ARTICLE_DETAIL;pos=g4;tile=44;sz=120x1000;ord=123456789?' width='120' height='1000' border=0 alt=''></a>
-			</noscript>
-			<!-- /AdSpace -->
-					</td>
-				</tr>
-			</tbody></table></p><p>
-			<table width="150" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td>
-				<table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-		  <td class="framebgcolor">&nbsp;<span class="railtext"><b>Search the Web</b></span></td><td class="framebgcolor" align="right" valign="top"><img src="http://cfapp.rockymountainnews.com/vtemplate/tab_end_topright.gif" width="12" height="15" hspace="0"></td>
-		</tr>
-	  </tbody></table>
-	  <table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-		  <td width="5" class="framebgcolor">&nbsp;</td>
-		  <td width="140" class="gutterservicesbg2" valign="top"><!-- Search Google -->
-
-<center>
-
-<form method="get" action="http://www.google.com/custom" target="_top">
-
-<table bgcolor="#E6E6E6">
-
-<tbody><tr><td nowrap="nowrap" valign="top" align="left" height="32">
-
-<a href="http://www.google.com/">
-
-<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></a>
-
-<br>
-
-<input type="text" name="q" size="8" maxlength="255" value="">
-
-</td></tr>
-
-<tr><td valign="top" align="left">
-
-<input type="submit" name="sa" value="Search">
-
-<input type="hidden" name="client" value="pub-5728369001525233">
-
-<input type="hidden" name="forid" value="1">
-
-<input type="hidden" name="ie" value="ISO-8859-1">
-
-<input type="hidden" name="oe" value="ISO-8859-1">
-
-<input type="hidden" name="cof" value="GALT:#000000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:4B4B7F;LC:4B4B7F;T:000000;GFNT:688899;GIMP:688899;LH:78;LW:449;L:http://www.postnewsads.com/rmn/rmn.gif;S:http://www.rockymountainnews.com;FORID:1;">
-
-<input type="hidden" name="hl" value="en">
-
-</td></tr></tbody></table>
-
 </form>
 
-</center>
-<table width="120" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><center><!--Subscription button stays in top position always-->
-<hr size="1" noshade="" width="120">
+			<div class="nav-wrapper">
+	
+					
+				<div class="nav-primary">
 
-<script language="JavaScript">
-<!-- Start Hiding the Script
-function jumpTo(URL_List){
-   var URL = URL_List.options[URL_List.selectedIndex].value;
-   window.location.href = URL;
+					
+					<div class="navigation-inner">
+
+						<span class="icon-hamburger"></span><div class="logo"><a href="http://www.denverpost.com">The Denver Post</a></div>
+<form class="search-form header-search" method="GET" action="http://www.denverpost.com/">
+
+	
+	<input type="text" placeholder="Search" name="s">
+	<input name="orderby" type="hidden" value="date">
+	<input name="order" type="hidden" value="desc">
+	<input type="submit" value="submit">
+
+	
+</form>
+
+<span class="icon-search"></span><nav class="menu-main-navigation-container"><ul id="primary-menu" class="menu"><li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-342 menu-large"><a href="http://www.denverpost.com/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-5424" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5424 menu-large"><a href="http://www.denverpost.com/news/">News</a></li>
+	<li id="menu-item-2064385" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2064385 menu-large"><a href="http://www.denverpost.com/latest-news/">Latest News</a></li>
+	<li id="menu-item-5399" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5399 menu-large"><a href="http://www.denverpost.com/news/colorado/">Colorado News</a></li>
+	<li id="menu-item-5406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5406 menu-large"><a href="http://www.denverpost.com/news/nation-world/">Nation / World</a></li>
+	<li id="menu-item-5488" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5488 menu-large"><a href="http://www.denverpost.com/news/obituaries/">Obituaries</a></li>
+	<li id="menu-item-5404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5404 menu-large"><a href="http://www.denverpost.com/news/marijuana/">Marijuana</a></li>
+	<li id="menu-item-5401" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5401 menu-large"><a href="http://www.denverpost.com/news/education/">Education</a></li>
+	<li id="menu-item-5402" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5402 menu-large"><a href="http://www.denverpost.com/news/environment/">Environment</a></li>
+	<li id="menu-item-5400" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5400 menu-large"><a href="http://www.denverpost.com/news/crime-courts/">Crime &amp; Courts</a></li>
+	<li id="menu-item-1904786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904786 menu-large"><a href="http://www.denverpost.com/weather/">Colorado and Denver Weather forecasts</a></li>
+	<li id="menu-item-5489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5489 menu-large"><a href="http://www.denverpost.com/news/yourhub/">Your Hub</a></li>
+</ul>
+</li>
+<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-346 menu-large"><a href="http://www.denverpost.com/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-5423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5423 menu-large"><a href="http://www.denverpost.com/sports/">Sports</a></li>
+	<li id="menu-item-5413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5413 menu-large"><a href="http://www.denverpost.com/sports/colorado-preps/">Preps</a></li>
+	<li id="menu-item-5390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5390 menu-large"><a href="http://www.denverpost.com/sports/denver-broncos/">Denver Broncos</a></li>
+	<li id="menu-item-2145060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2145060 menu-large"><a href="http://preps.denverpost.com/">Preps Scoreboard</a></li>
+	<li id="menu-item-5395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5395 menu-large"><a href="http://www.denverpost.com/sports/colorado-avalanche/">Colorado Avalanche</a></li>
+	<li id="menu-item-2029547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029547 menu-large"><a href="http://www.denverpost.com/sports/outdoors/">Outdoors</a></li>
+	<li id="menu-item-5389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5389 menu-large"><a href="http://www.denverpost.com/sports/denver-nuggets/">Denver Nuggets</a></li>
+	<li id="menu-item-2029548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029548 menu-large"><a href="http://www.denverpost.com/sports/boxing-mma/">Boxing / MMA</a></li>
+	<li id="menu-item-5396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5396 menu-large"><a href="http://www.denverpost.com/sports/colorado-rockies/">Colorado Rockies</a></li>
+	<li id="menu-item-2145069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145069 menu-large"><a href="http://www.denverpost.com/sports/motorsports/">Motorsports</a></li>
+	<li id="menu-item-5397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5397 menu-large"><a href="http://www.denverpost.com/sports/colorado-rapids/">Colorado Rapids</a></li>
+	<li id="menu-item-2145079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2145079 menu-large"><a href="http://www.denverpost.com/sports/golf/">Golf</a></li>
+	<li id="menu-item-2029528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2029528 menu-large"><a href="http://www.denverpost.com/sports/college/">College Sports</a></li>
+	<li id="menu-item-2029587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2029587 menu-large"><a href="http://stats.denverpost.com">Scores and Standings</a></li>
+	<li id="menu-item-2007732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2007732 menu-large"><a href="http://www.denverpost.com/sports/sports-columnists/">Sports Columnists</a></li>
+	<li id="menu-item-2029688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2029688 menu-large"><a href="http://www.denverpost.com/2016/05/23/sports-today-on-tv-and-radio/">Sports on TV/Radio</a></li>
+</ul>
+</li>
+<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-343 menu-large"><a href="http://www.denverpost.com/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-5427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5427 menu-large"><a href="http://www.denverpost.com/business/">Business</a></li>
+	<li id="menu-item-5416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5416 menu-large"><a href="http://www.denverpost.com/business/aerospace/">Aerospace</a></li>
+	<li id="menu-item-5414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5414 menu-large"><a href="http://www.denverpost.com/business/airlines/">Airlines</a></li>
+	<li id="menu-item-5417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5417 menu-large"><a href="http://www.denverpost.com/business/economy/">Economy</a></li>
+	<li id="menu-item-5418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5418 menu-large"><a href="http://www.denverpost.com/business/energy/">Energy</a></li>
+	<li id="menu-item-5415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5415 menu-large"><a href="http://www.denverpost.com/business/colorado-real-estate/">Real Estate</a></li>
+	<li id="menu-item-5419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5419 menu-large"><a href="http://www.denverpost.com/business/retail/">Retail</a></li>
+	<li id="menu-item-5420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5420 menu-large"><a href="http://www.denverpost.com/business/colorado-technology/">Technology</a></li>
+	<li id="menu-item-5421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5421 menu-large"><a href="http://www.denverpost.com/business/telecommunications/">Telecom</a></li>
+	<li id="menu-item-5422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5422 menu-large"><a href="http://www.denverpost.com/business/colorado-tourism/">Tourism</a></li>
+</ul>
+</li>
+<li id="menu-item-5428" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-5428 menu-large"><a href="http://www.denverpost.com/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+	<li id="menu-item-2206939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206939 menu-large"><a href="http://theknow.denverpost.com/">Entertainment</a></li>
+	<li id="menu-item-5433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5433 menu-large"><a href="http://www.denverpost.com/arcade/">Arcade</a></li>
+	<li id="menu-item-598986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598986 menu-large"><a href="http://www.denverpost.com/games/">Games</a></li>
+	<li id="menu-item-5490" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5490 menu-large"><a href="http://www.denverpost.com/entertainment/arts/">Arts</a></li>
+	<li id="menu-item-5491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5491 menu-large"><a href="http://www.denverpost.com/entertainment/books/">Books</a></li>
+	<li id="menu-item-5511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5511 menu-large"><a href="http://calendar.denverpost.com/">Calendar</a></li>
+	<li id="menu-item-5434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5434 menu-large"><a href="http://www.denverpost.com/comics/">Comics</a></li>
+	<li id="menu-item-5493" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-5493 menu-large"><a href="http://www.denverpost.com/entertainment/movies/">Movies</a></li>
+	<li id="menu-item-2206938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206938 menu-large"><a href="http://theknow.denverpost.com/category/music/">Music</a></li>
+	<li id="menu-item-5496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5496 menu-large"><a href="http://www.denverpost.com/entertainment/theater/">Theater</a></li>
+	<li id="menu-item-5495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5495 menu-large"><a href="http://www.denverpost.com/entertainment/television/">Television</a></li>
+	<li id="menu-item-700286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700286 menu-large"><a href="http://www.denverpost.com/tv-listings/">Television Listings</a></li>
+	<li id="menu-item-5497" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5497 menu-large"><a href="http://www.denverpost.com/travel/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-345 menu-large"><a href="http://www.denverpost.com/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li id="menu-item-5429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5429 menu-large"><a href="http://www.denverpost.com/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-5430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5430 menu-large"><a href="http://www.denverpost.com/ask-amy/">Ask Amy</a></li>
+	<li id="menu-item-5431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5431 menu-large"><a href="http://www.denverpost.com/lifestyle/fashion/">Fashion</a></li>
+	<li id="menu-item-5432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5432 menu-large"><a href="http://www.denverpost.com/lifestyle/food-drink/">Food &amp; Drink</a></li>
+	<li id="menu-item-2206936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2206936 menu-large"><a href="http://theknow.denverpost.com/category/food/">Restaurants &amp; Dining</a></li>
+	<li id="menu-item-5498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5498 menu-large"><a href="http://www.denverpost.com/lifestyle/fitness/">Fitness</a></li>
+	<li id="menu-item-5500" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5500 menu-large"><a href="http://www.denverpost.com/lifestyle/home-garden/">Home &amp; Garden</a></li>
+	<li id="menu-item-5512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5512 menu-large"><a href="http://www.denverpost.com/horoscopes/">Horoscopes</a></li>
+</ul>
+</li>
+<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-347 menu-large"><a href="http://www.denverpost.com/opinion/">Opinion</a>
+<ul class="sub-menu">
+	<li id="menu-item-5425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5425 menu-large"><a href="http://www.denverpost.com/opinion/">Opinion</a></li>
+	<li id="menu-item-5502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5502 menu-large"><a href="http://www.denverpost.com/opinion/editorials/">Editorials</a></li>
+	<li id="menu-item-5505" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5505 menu-large"><a href="http://www.denverpost.com/opinion/opinion-columnists/">Columnists</a></li>
+	<li id="menu-item-5503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5503 menu-large"><a href="http://www.denverpost.com/opinion/letters/">Letters</a></li>
+	<li id="menu-item-5504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5504 menu-large"><a href="http://www.denverpost.com/opinion/perspective/">Perspective</a></li>
+	<li id="menu-item-2064390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2064390 menu-large"><a href="http://www.denverpost.com/opinion/cartoons/">Cartoons</a></li>
+</ul>
+</li>
+<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-348 menu-large"><a href="http://www.denverpost.com/politics/">Politics</a>
+<ul class="sub-menu">
+	<li id="menu-item-5426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5426 menu-large"><a href="http://www.denverpost.com/politics/">Politics</a></li>
+	<li id="menu-item-5506" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5506 menu-large"><a href="http://www.denverpost.com/politics/election/">Election</a></li>
+	<li id="menu-item-5507" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5507 menu-large"><a href="http://www.denverpost.com/politics/colorado-legislature/">Colorado Legislature</a></li>
+	<li id="menu-item-5508" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5508 menu-large"><a href="http://www.denverpost.com/politics/denver/">Denver Politics</a></li>
+	<li id="menu-item-5509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5509 menu-large"><a href="http://www.denverpost.com/politics/local/">Local Politics</a></li>
+	<li id="menu-item-1245602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1245602 menu-large"><a href="http://www.denverpost.com/politics/national/">National Politics</a></li>
+</ul>
+</li>
+<li id="menu-item-1245581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245581 menu-large"><a href="http://thecannabist.co">Cannabist</a></li>
+<li id="menu-item-1245585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1245585 menu-large"><a href="http://www.denverpost.com/classifieds/">Classifieds</a>
+<ul class="sub-menu">
+	<li id="menu-item-1254226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254226 menu-large"><a href="http://www.denverpost.com/classifieds/">Classifieds</a></li>
+	<li id="menu-item-1245586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245586 menu-large"><a href="http://www.denverpost.com/classifieds/">Cars</a></li>
+	<li id="menu-item-1245600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245600 menu-large"><a href="http://www.dphomes.today/">Homes</a></li>
+	<li id="menu-item-1245583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245583 menu-large"><a href="http://www.denverpost.com/jobs/">Jobs</a></li>
+</ul>
+</li>
+<li id="menu-item-2105564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2105564 menu-large"><a href="http://video.denverpost.com/">DPTV</a></li>
+</ul></nav>
+					</div>
+
+					
+				</div>
+
+				
+<div class="widget widget-trending-stories"><div class="trending-bar trending">
+	<div class="trending-bar-wrapper">
+		<p class="label">
+			Trending:		</p>
+		<nav>
+			<ul>
+				
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/27/aurora-mall-fight/" title="Aurora mall reopens Tuesday morning; 4 teen girls arrested after melee">
+	
+				<span class="dfm-title">
+			Aurora mall fight		</span>
+
+			</a>
+	
+	</li>
+
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/27/fire-highlands-ranch-chilis-university-boulevard/" title="Firefighters battle blaze at Chili’s in Highlands Ranch">
+	
+				<span class="dfm-title">
+			Highlands Ranch Chili’s fire		</span>
+
+			</a>
+	
+	</li>
+
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/27/i-76-fatal-crash/" title="One man dead after “aggressive” driver careens off I-76 onto York Street">
+	
+				<span class="dfm-title">
+			Man killed in truck crash		</span>
+
+			</a>
+	
+	</li>
+
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/27/christmas-boulder-cat-found-missing-50-days/" title="Home for Christmas: Boulder cat found after going missing for 50 days">
+	
+				<span class="dfm-title">
+			Missing cat returns after 50 days		</span>
+
+			</a>
+	
+	</li>
+
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/27/fans-honor-carrie-fisher-star-wars-denver-art-museum/" title="Denver museum goers pay homage to Carrie Fisher">
+	
+				<span class="dfm-title">
+			DAM pays homage to Fisher		</span>
+
+			</a>
+	
+	</li>
+
+
+	<li class="entry-title">
+
+			<a class="article-title" href="http://www.denverpost.com/2016/12/28/sunny-breezy-wednesday-denver/" title="Another sunny but breezy day expected Wednesday in Denver">
+	
+				<span class="dfm-title">
+			Denver weather		</span>
+
+			</a>
+	
+	</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+
+</div>
+			</div>
+			</header>	
+			<div id="content" class="site-content">
+	
+						<div class="header-banners">
+				<div id="div-gpt-ad-interstitial" class="dfp-ad dfp-interstitial" data-ad-unit="interstitial">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-interstitial"); } );
+						}
+					</script>
+				</div>				<div id="div-gpt-ad-top_leaderboard" class="dfp-ad dfp-top_leaderboard" data-ad-unit="top_leaderboard">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-top_leaderboard"); } );
+						}
+					</script>
+				</div>			</div>
+			
+	
+			<div id="primary" class="content-area"><main id="main" class="site-main" role="main">			<article id="page-316" class="post-316 page type-page status-publish hentry">
+			<div class="article-body">
+			<div class="body-copy">
+			<h1 style="margin-bottom:.5em">Privacy Policy</h1>
+<h4>The Denver Post Corp. is committed to protecting the privacy of our customers.</h4>
+<p>The following statement discloses our information gathering and dissemination practices for the <a href="http://www.denverpost.com">denverpost.com</a> Web site.</p>
+<h4>What personally identifiable information does DenverPost.com collect from me?</h4>
+<p><a href="http://www.denverpost.com">DenverPost.com</a> collects information in several ways. Some information is gathered through server log files and from code embedded in <a href="http://www.denverpost.com">DenverPost.com </a>pages that records the browser preferences and settings of readers’ computers. Various types of personal information are gathered when you enter a contest or promotion, sign up for a discussion group, request vacation delivery stop, or when you post an online ad. During these instances, <a href="http://www.denverpost.com">DenverPost.com</a> asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.</p>
+<h4>How is my information used?</h4>
+<p>Our primary goal in collecting personal information is to provide you with a customized experience. <a href="http://www.denverpost.com">DenverPost.com</a> uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. <a href="http://www.denverpost.com">DenverPost.com</a> also uses code included on every page on our site to track the traffic on pages and compile information about users, such as paths through the site, browsers used, time spent on site, frequency of return visits, etc. This system does not garner any personal information about our readers, such as names. <a href="http://www.denverpost.com">DenverPost.com</a> may share aggregated data with advertisers or business partners.</p>
+<p><a href="http://www.denverpost.com">DenverPost.com</a> also uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer’s hard drive. <a href="http://www.denverpost.com">DenverPost.com</a> uses cookies to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do, we will not be able to customize the DenverPost.com Web site’s features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media’s use of cookies, visit <a href="http://www.realmedia.com/privacy.html">www.realmedia.com/privacy.html</a>. For more information about DoubleClick’s use of cookies, visit <a href="http://www.privacychoices.org">www.privacychoices.org</a>.</p>
+<h4>With whom is my information shared?</h4>
+<p>When you are on an area of <a href="http://www.denverpost.com">DenverPost.com</a> and are asked for personal information, you are sharing that information with The Denver Post Corp. and its related companies. If data is being collected and/or maintained by any other company, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.</p>
+<p>Promotions and contests that run on <a href="http://www.denverpost.com">DenverPost.com</a> may be sponsored by companies other than <a href="http://www.denverpost.com">DenverPost.com</a> or may be co-sponsored by <a href="http://www.denverpost.com">DenverPost.com</a> and another company. Some or all data collected during a promotion or contest may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion or contest if you don’t want your data to be shared.</p>
+<p><a href="http://www.denverpost.com">DenverPost.com</a> makes chat rooms, forums, message boards, and/or news groups available to our users. Some of these forums require registration. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</p>
+<p>Aggregate information compiled by <a href="http://www.denverpost.com">DenverPost.com</a> may be shared with advertisers and business partners as well as used by The Denver Post Corp. and its related companies.</p>
+<p>We reserve the right to disclose information we maintain when required to do so by law or pursuant to a legal proceeding, including without limitation, in response to a court order or a subpoena.</p>
+<h4>Linked Sites</h4>
+<p>Please be aware that <a href="http://www.denverpost.com">DenverPost.com’s</a> promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through <a href="http://www.denverpost.com">DenverPost.com</a> may have their own privacy and data collection policies and practices. <a href="http://www.denverpost.com">DenverPost.com</a> is not responsible for any actions or policies of such third parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites.</p>
+<h4>Children’s Guidelines</h4>
+<p>The Newspaper in Education program is a free service for teachers that promotes the use of newspapers in the classroom. The Colorado Kids section is specifically directed at students in grades 6 to 12. Within the Colorado Kids section, the Help Wanted, Back Talk and Joke pages allow students to send questions, comments, stories, jokes, ideas and opinions to <a href="http://www.denverpost.com">DenverPost.com</a> via email. The information requested on these pages is used solely for participation in the particular activity, and is not stored or sold to third parties. If a question, comment, story, joke, idea or opinion is published, only the student’s first name, grade and state/country appear on the site. Students are advised to consult with their parents before giving personal information online.</p>
+<h4>Policy Changes and Questions</h4>
+<p>DenverPost.com reserves the right to change this policy at any time. Please check this page periodically for changes. (The most recent change was made on Aug. 7, 2009.)</p>
+<p><strong>For terms of use, please click <a href="http://www.denverpost.com/terms-of-use/">here</a>.</strong>&gt;</p>
+<p>If you have any questions about this privacy policy, you can contact us at:</p>
+<p><strong>DenverPost.com</strong><br>
+101 W. Colfax Ave.<br>
+Denver, Colorado 80202<br>
+(303) 820-1557<br>
+E-Mail: <a href="mailto:rrisch@denverpost.com">rrisch@denverpost.com</a></p>
+			</div>
+			</div>
+			</article><!-- #post-## -->
+			<div id="div-gpt-ad-bottom_leaderboard" class="dfp-ad dfp-bottom_leaderboard" data-ad-unit="bottom_leaderboard">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-bottom_leaderboard"); } );
+						}
+					</script>
+				</div></main></div>
+			
+			</div><!-- #content -->
+
+						<footer class="site-footer">
+
+							<header class="footer-header">
+
+				
+				<div class="footer-header-wrapper">
+
+					<ul id="footer-links-menu" class="footer-links"><li id="menu-item-351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-351"><a href="https://www.denverpostmemberservices.com/">Member Services</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="http://dpo.st/alerts">News Alerts</a></li>
+</ul>	<ul class="sharing">
+						<li>
+					<a href="https://facebook.com/denverpost" target="self" class="icon-facebook">
+						<span class="label">Facebook</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://twitter.com/denverpost" target="self" class="icon-twitter">
+						<span class="label">Twitter</span>
+					</a>
+				</li>
+								<li>
+					<a href="https://instagram.com/denverpost" target="self" class="icon-instagram">
+						<span class="label">Instagram</span>
+					</a>
+				</li>
+								<li>
+					<a href="http://www.denverpost.com/feed/" target="self" class="icon-feed">
+						<span class="label">RSS</span>
+					</a>
+				</li>
+					</ul>
+	
+				</div>
+
+				
+			</header>
+			<ul id="footer-menu" class="footer-menus"><li id="menu-item-28409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28409"><a target="_blank" href="https://www.denverpostmemberservices.com/">Subscribe</a><span class="expander"><a href="#" class="icon-plus"></a></span>
+
+<ul class="footer-menu">
+	<li id="menu-item-28410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28410"><a href="https://www.denverpostmemberservices.com/">Become a Member / Subscribe</a></li>
+	<li id="menu-item-5522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5522"><a target="_blank" href="https://www.denverpostmemberservices.com/login.aspx?ReturnUrl=%2fSecurePage%2fVacationStop.aspx">Place a Hold</a></li>
+	<li id="menu-item-5523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5523"><a target="_blank" href="http://www.denverpoststore.com/">Denver Post Store</a></li>
+	<li id="menu-item-2020994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2020994"><a href="https://www.denverpostmemberservices.com/access.aspx">Digital Replica Edition</a></li>
+</ul>
+</li>
+<li id="menu-item-5518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5518"><a href="http://www.denverpost.com/classifieds/">Classifieds</a><span class="expander"><a href="#" class="icon-plus"></a></span>
+
+<ul class="footer-menu">
+	<li id="menu-item-5524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5524"><a target="_blank" href="http://www.denverpost.com/classifieds/">Autos</a></li>
+	<li id="menu-item-5525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5525"><a target="_blank" href="http://www.dphomes.today/">Real Estate</a></li>
+	<li id="menu-item-28412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28412"><a href="http://www.denverpost.com/jobs/">Jobs</a></li>
+	<li id="menu-item-5527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5527"><a target="_blank" href="http://ads.denverpost.com/">Today’s Ads</a></li>
+	<li id="menu-item-28415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28415"><a href="http://www.denverpost.com/weekly-ads/">Weekly Ads</a></li>
+	<li id="menu-item-5529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5529"><a target="_blank" href="http://ads.denverpost.com/">Daily Ads</a></li>
+	<li id="menu-item-5530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5530"><a target="_blank" href="http://marketplaceshopping.denverpost.com/SS/Tiles.aspx?ex=specialfeatures&amp;source=SubNav_Special_Sections">Special Sections</a></li>
+</ul>
+</li>
+<li id="menu-item-5519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5519"><a href="http://www.denverpost.com/contact-us/">Contact Us</a><span class="expander"><a href="#" class="icon-plus"></a></span>
+
+<ul class="footer-menu">
+	<li id="menu-item-28418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28418"><a href="http://www.denverpost.com/news-tips/">Submit a News Tip</a></li>
+	<li id="menu-item-5534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5534"><a target="_blank" href="https://www.denverpostmemberservices.com/">Member Services</a></li>
+	<li id="menu-item-5535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5535"><a target="_blank" href="http://mediakit.denverpost.com/">Advertise With Us</a></li>
+	<li id="menu-item-5536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5536"><a target="_blank" href="http://www.digitalfirstmedia.com/careers">Careers</a></li>
+	<li id="menu-item-28449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28449"><a href="http://www.denverpost.com/how-to-place-obituary-denver-post/">Place an Obituary</a></li>
+</ul>
+</li>
+<li id="menu-item-29026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29026"><a href="http://www.denverpost.com/front-pages/">Today’s Front Page</a><span class="expander"><a href="#" class="icon-plus"></a></span>
+
+<ul class="footer-menu">
+	<li id="menu-item-29100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29100"><a href="http://www.denverpost.com/back-issues/">Back Issues</a></li>
+	<li id="menu-item-2021001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2021001"><a href="http://www.denverpost.com/archives/">Archives</a></li>
+	<li id="menu-item-5539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5539"><a target="_blank" href="http://extras.denverpost.com/mobile/index.html">Mobile Apps</a></li>
+</ul>
+</li>
+</ul>			<div class="colophon">
+
+				<ul id="footer-bottom-menu" class="menu"><li id="menu-item-101640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101640"><a href="http://digitalfirstmedia.com">Copyright © 2016 Digital First Media</a></li>
+<li id="menu-item-174580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174580"><a href="http://www.denverpost.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2299869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299869"><a href="http://www.denverpost.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-174622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174622"><a href="/sitemap.xml">Site Map</a></li>
+<li id="menu-item-174608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174608"><a href="http://www.denverpost.com/ethics-policy/">Ethics Policy</a></li>
+<li id="menu-item-101641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101641"><a href="https://vip.wordpress.com/">Powered by WordPress.com VIP</a></li>
+<li id="menu-item-2008971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2008971"><a href="http://local.digitalfirstmedia.com/common/dfm/arbitration.pdf">Arbitration</a></li>
+</ul>			</div>
+			
+			</footer><!-- .site-footer -->
+			
+			</div><!-- #page -->
+
+				<div id="sharing_email" style="display: none;">
+		<form action="/privacy-policy/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="">
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="">
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="">
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off">
+			<script>jQuery( document ).ready( function(){ document.getElementById('jetpack-source_f_name').value = '' });</script>
+			
+			<img style="float: right; display: none" class="loading" src="http://www.denverpost.com/wp-content/mu-plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16">
+			<input type="submit" value="Send Email" class="sharing_send">
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type="text/javascript" src="//launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+		<!-- /// LOAD CHARTBEAT /// -->
+		<script type="text/javascript">
+			var _sf_async_config={};
+			_sf_async_config.uid = 2671;
+			_sf_async_config.useCanonical = true;
+						_sf_async_config.domain = 'denverpost.com';
+			
+			(function(){
+				function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src',
+						(("https:" == document.location.protocol) ? "https://" : "http://") +
+						"static.chartbeat.com/js/chartbeat.js");
+					document.body.appendChild(e);
+				}
+				var oldonload = window.onload;
+				window.onload = (typeof window.onload != 'function') ?
+					loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+			})();
+		</script>
+			<script type="text/javascript">
+	// <![CDATA[
+		var disqus_shortname = "dfm-denverpost";
+		var disqus_domain = "disqus.com";
+		(function () {
+			var nodes = document.getElementsByTagName('span');
+			for (var i = 0, url; i < nodes.length; i++) {
+				if (nodes[i].className.indexOf('dsq-postid') != -1) {
+					nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+					url = nodes[i].parentNode.href.split('#', 1);
+					if (url.length == 1) url = url[0];
+					else url = url[1]
+					nodes[i].parentNode.href = url + '#disqus_thread';
+				}
+			}
+			var s = document.createElement('script'); s.async = true;
+			s.type = 'text/javascript';
+			s.src = '//' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	//]]>
+	</script>
+	<div style="display:none">
+	</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+if ( 'undefined' !== typeof _snaq ) {
+_snaq.push(['setAuthor', 'The Denver Post']);
+_snaq.push(['setArticlePublishTime','2016-04-06T15:26:14+00:00']);
+_snaq.push(['setSection', 'Privacy Policy']);
 }
-// Stop Hiding script --->
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.denverpost.com/_static/??-eJyNy8EOgjAMgOEXchSNohfjoxAcQ7p0XUM7CDy9IXr04PFP/g8WcT6zBTYQKi9kBeQhT8nN2IfsUmd+hKjAPbefo5XyJPRV1AP84DJmyzwg0c4EvZUp7Fkl5P8QdduquAX9kke6H8/XU93cmksd324KQ2c="></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Decaa"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.denverpost.com/wp-content/mu-plugins/jetpack/modules/wpgroho.js?m=1464233447g"></script>
+<script type="text/javascript" src="http://assets.digitalfirstmedia.com/prod/static/js/common.587976a7ddd34089d4a3.min.js?ver=1.0"></script>
+<!--[if lt IE 10]>
+<script type='text/javascript' src='http://assets.digitalfirstmedia.com/prod/static/js/polyfills.587976a7ddd34089d4a3.min.js?ver=1.0'></script>
+<![endif]-->
+<script type="text/javascript" src="http://assets.digitalfirstmedia.com/prod/static/js/denverpost.587976a7ddd34089d4a3.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.denverpost.com/wp-content/themes/wp-mason/static/js/global.min.js?m=1478073925g"></script>
+<script async="" type="text/javascript" src="https://s.ntv.io/serve/load.js"></script>
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/6634/cc_af.js"></script>
+<script async="" type="text/javascript" src="https://script.crazyegg.com/pages/scripts/0048/0536.js?411939"></script>
+<script type="text/javascript" src="http://www.denverpost.com/wp-includes/js/wp-embed.min.js?m=1481055524g"></script>
+		<script type="text/javascript" src="http://stats.wp.com/e-201652.js" async="" defer=""></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'111738712',post:'316',tz:'-7',srv:'www.denverpost.com'} ]);
+	_stq.push([ 'clickTrackerInit', '111738712', '316' ]);
 </script>
 
-	<style type="text/css">
-<!--
-.smallfont {
-	font-family: verdana, Arial, Helvetica, sans-serif;
-	font-size: 10px;
-	color: #000000;
-	
-}
-
-
--->
-</style>
-
-
-<table width="120" border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff"><tbody><tr><td colspan="2"><a href="https://www.post-newscustomercare.com/onlinedelivery/main.asp?pub=RM"><img src="http://www.postnewsads.com/customercare/banner/rmn2_logo.gif" width="120" height="79" alt="Subscribe!" border="0"></a></td></tr>
-	
-	<tr><td valign="top"><a href="https://www.post-newscustomercare.com/onlinedelivery/main.asp?pub=RM"><img src="http://www.postnewsads.com/customercare/banner/logon.gif" width="48" height="18" alt="" border="0"></a></td>
-		<td valign="top"><a href="https://www.post-newscustomercare.com/onlinedelivery/main.asp?pub=RM"><img src="http://www.postnewsads.com/customercare/banner/subscribe.gif" width="72" height="18" alt="" border="0"></a></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="http://www.postnewsads.com/customercare/banner/rmnbg.gif" width="120" height="8" alt=""></td>
-	</tr>
-	
-	
-	<tr><td colspan="2">
-	<table width="120" cellpadding="1" cellspacing="0" border="0" bgcolor="000000"><tbody><tr><td>
-
-<table cellpadding="0" cellspacing="0" border="0" bgcolor="ffffff"><tbody><tr><td>
-	
-	<a href="https://www.subscriber-services.com/dna/main.asp?bhcp=1"><img src="http://www.postnewsads.com/customercare/banner/cc2_logo.gif" width="118" height="28" alt="" border="0"></a></td>
-	</tr>
-	
-	<tr>
-		<td bgcolor="EDE8D9" align="center" height="24">
-			<form name="customercare" style="margin-bottom: 1px">
-			<select name="SelectResort" onchange="jumpTo(this);" class="smallfont" style="margin-bottom: 1px">
-			<option value="">Select one
-			</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Subscribe
-			</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Vacation hold
-</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Feedback
-</option><option value="https://www.subscriber-services.com/dna/main.asp?bhcp=1">Make payment</option></select></form></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- Rocky Mountain News Customer Care widget -->
-</center></td></tr></tbody></table><br></td>
-		  <td width="5" class="framebgcolor">&nbsp;</td>
-		</tr>
-	  </tbody></table>
-	  <table width="150" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr> 
-		  <td class="framebgcolor" align="right"><img src="http://cfapp.rockymountainnews.com/vtemplate/tab_end_bottomright.gif" width="12" height="15" align="right" hspace="0"></td>
-		</tr>
-	  </tbody></table>
-
-<!-- Shoshkeles code to be removed May 7, 2004 -->
-<!--[if gte IE 5]>
-<SCRIPT LANGUAGE="JScript">
-for (var shI=0;shI<document.links.length;shI++){
-	if (document.links[shI].href.toLowerCase()=='http://www.postnewsrealestate.com/'){
-		document.links[shI].href='http://www.postnewsrealestate.com/index.cfm?REF=UV';
-	}
-}
-</SCRIPT>
-<![endif]-->
-
-<!-- Shoshkeles code to be removed May 7, 2004 -->
-<p>
-<table class="lnbbgcolor" width="126" cellspacing="0" cellpadding="3" border="1" bordercolor="#cccccc">
-<tbody><tr>
-	<td class="framebgcolor"><a class="navbartext"><div align="center">Sponsored Links</div></a></td></tr>
-	<tr><td>
-
-
-
-<table width="120">
-<tbody><tr>
-<td class="deeplinks">
-Siebel <a href="http://www.siebel.com" target="_blank" class="deeplinks">CRM</a> Software
-<br>
-<a href="http://www.web677.info/" target="_blank" class="deeplinks">Classified Web Directory</a><br>
-
-<a href="http://www.internet-dial-up-access.com/" target="_blank" class="deeplinks">Internet Dial Up Access</a><br>
-
-
-<a href="http://www.platinumcashadvance.com/" target="_blank" class="deeplinks">Cash Advance</a><br>
-<a href="http://www.800insureme.com" class="deeplinks" target="_blank">Auto Insurance</a><br>
-<a href="http://www.alternative-health-supplements.com" class="deeplinks" target="_blank">Health &amp; Diet Supplements</a><br>
-<a href="http://www.insidepool.com" class="deeplinks" target="_blank">Pool Tables Billiard Cues</a><br>
-<a href="http://www.roses-nationwide.com/" class="deeplinks" target="_blank">Flower Delivery Nationwide</a><br>
-<a href="http://www.gmacinsurance.com/" class="deeplinks" target="_blank">Car Insurance Quotes</a><br>
-<a href="http://www.dreamtimebaby.com/dreambabstro11.html" target="_blank" class="deeplinks">Strollers</a><br>
-<a href="http://www.24-7vacations.com/" class="deeplinks" target="_blank">Free Travel Guides</a><br>
-<a href="http://www.makemoremoneyonline.net/" class="deeplinks" target="_blank">Work from Home</a><br>
-<a href="http://www.nationalmortgage.com" class="deeplinks" target="_blank">Home Mortgage Companies</a><br>
-<a href="http://www.finance-informant.com" class="deeplinks" target="_blank">Latest Financial News</a><br>
-<a href="http://www.phpdiscuss.com" class="deeplinks" target="_blank">PHP Programming News</a><br><a href="http://www.1kpayday.com/" class="deeplinks" target="_blank">Payday Loans - Cash Advance Loan</a><br>
-<a href="http://www.abcfundraising.com/" class="deeplinks" target="_blank">Fundraisers &amp; Fundraising Ideas</a><br>
-
-</td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table><!-- MaxSize (4) -->
-				</p></td>
-			</tr>
-			</tbody></table><!-- MaxSize (3) -->  <!-- --------------------END ADVERTISER INDEX--------------- -->
-
-<!-- ---------------------- END CELL THAT HOLDS RIGHT GUTTER INFO ----------------------- -->
-</p></div>
-<!-- ------------------END 800 PX TABLE TO HOLD CONTENT AND RIGHT RAIL ITEMS------------------ -->
-
-
-
-
-</body></html>
+			
+			
+			<script language="javascript" type="text/javascript" src="https://static.chartbeat.com/js/chartbeat.js"></script></body></html>
