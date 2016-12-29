@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621003348id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmail.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053459id_/http%3A//www.royalmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Mail Group Ltd
 
@@ -11,17 +11,19 @@ Royal Mail Group may collect personal information which we receive when:
     * you contact us or
     * you are a recipient of our services.
 
+   
 This may include information:
 
     * which you provide where you
 
-       o  complete one of our forms or receipts,  
-       o  contract with us.  
-       o  enter information on a Royal Mail Group website  
-       o  contact Royal Mail Group directly in writing or by phone or;
+o   complete one of our forms or receipts,  
+o   contract with us.  
+o   enter information on a Royal Mail Group website  
+o   contact Royal Mail Group directly in writing or by phone or;
 
-    * which is recorded on mail or parcels sent to you via Royal Mail Group.
+    * which is recorded on mail or parcels sent to you via Royal Mail Group. 
 
+   
 We may collect the following types of information:
 
     * your name, address, email address, telephone number(s) and other contact details
@@ -31,8 +33,7 @@ We may collect the following types of information:
     * information collected through your use of Royal Mail Group websites. Please see the Cookies Policy on each of websites for more information.
     * details of any enquiry or complaint you make to Royal Mail Group
     * information about the mail or parcels sent to you via Royal Mail Group services
-    * your information when signing for receipt of a parcel or letter.  
- 
+    * your information when signing for receipt of a parcel or letter.
 
   * ## Why Royal Mail Group collects personal information
 
@@ -44,9 +45,10 @@ Royal Mail Group collects your personal information to:
     * improve and develop its services
     * protect security e.g. to check your identity when you use our services
     * develop and provide products and services, on its own and with third parties, for the purposes of identity verification and fraud prevention. Such products may be used to prevent and detect fraud against you, Royal Mail Group and/or third parties
-    * meet its legal and regulatory obligations.
+    * meet its legal and regulatory obligations. 
 
-If you call any of our customer service telephone numbers, or use any of our 'Phone me' services, we may record your call. These recordings are used for training and quality control to ensure that we continuously monitor and improve our customer service standards.
+   
+If you call any of our customer service telephone numbers, or use any of our 'Phone me' services, we may record your call. These recordings are used for training and quality control to ensure that we continuously monitor and improve our customer service standards. 
 
   * ## How Royal Mail Group collects personal information
 
@@ -57,7 +59,7 @@ Royal Mail Group collects personal information:
     * **from other companies in Royal Mail Group** e.g. if a customer has indicated that they wish to receive information about the products and services of Royal Mail Group companies.
     * **from third parties** e.g. when we acquire third party marketing lists or information from the electoral roll; get authorisation for a payment you make or when undertaking an identity check.
     * **when products or services are provided together with a business partner** and the information is collected by the business partner in order for Royal Mail Group to provide you with the product or service.
-    * **when mail passes through our network** Royal Mail Group may collect information on the outside of letters, e.g. name and address information enables us to route items through our network for delivery to the addressee.
+    * **when mail passes through our network** Royal Mail Group may collect information on the outside of letters, e.g. name and address information enables us to route items through our network for delivery to the addressee. 
 
   * ## Who sees the personal information that Royal Mail Group holds
 
@@ -65,32 +67,50 @@ Customers’ personal information may be provided to:
 
     * **Royal Mail Group companies.**
 
-       o Details of our businesses can be found here: <http://www.royalmailgroup.com/our-businesses>  
- 
+o   Details of our businesses can be found here: [royalmailgroup.com/our-businesses](http://www.royalmailgroup.com/our-businesses)
 
     * **Selected third parties**
 
-       o  where customers have indicated they wish to receive information about products, services or promotions that may be of interest to them.
+o   where customers have indicated they wish to receive information about products, services or promotions that may be of interest to them.
 
-         o  where services are provided together with a business partner and it is necessary to disclose the information to them in order to provide the services
+o   where services are provided together with a business partner and it is necessary to disclose the information to them in order to provide the services
 
-         o  for the prevention of fraud against Royal Mail Group, third parties and customers
+o   for the prevention of fraud against Royal Mail Group, third parties and customers
 
-         o  for the purposes of identity verification
+o   for the purposes of identity verification
 
-         o  to prevent money laundering
+o   to prevent money laundering
 
-         o  where products and services are provided to third parties by Royal Mail Group e.g. for the purposes of identity verification and fraud prevention, and it is necessary to disclose information to them in order to provide the service,
+o   where products and services are provided to third parties by Royal Mail Group e.g. for the purposes of identity verification and fraud prevention, and it is necessary to disclose information to them in order to provide the service,
 
     * **Other third parties** (including the police, law enforcement agencies, credit reference and fraud prevention agencies and other bodies) to protect our or another person’s rights, property, or safety e.g.
 
-       o  to exchange information to protect against fraud and to reduce payment risks
+o   to exchange information to protect against fraud and to reduce payment risks
 
-         o  in connection with the prevention and detection of crime.
+o   in connection with the prevention and detection of crime.
 
   * ## Disclosures of personal information required by law
 
 Royal Mail Group may be required to disclose certain personal information because it is required by law or for the purposes of legal proceedings.
+
+  * ## Fraud prevention
+
+If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies.
+
+Law enforcement agencies may access and use this information.
+
+We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when:
+
+    * Checking details on applications for credit and credit related or other facilities
+    * Managing credit and credit related accounts or facilities
+    * Recovering debt
+    * Checking details on proposals and claims for all types of insurance
+    * Checking details of job applicants and employees  
+ 
+
+We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+
+Please see below for details of how to contact us if you wish to access your personal information or details of relevant fraud prevention agencies.
 
   * ## Transfers of personal information outside of the UK
 
@@ -112,21 +132,21 @@ Royal Mail Group will ensure that personal information is kept accurate and up t
 
 Royal Mail Group provides customers with access to their personal information and the opportunity to amend and update their details or preferences (including consent to receive marketing communications) in order to keep the information up-to-date and accurate.
 
-    * **Information provided through[www.royalmail.com](https://web.archive.org/)**
+    * **Information provided through[royalmail.com](http://www.royalmail.com/)**
 
-       o  You can see the information you have provided to us through the registration process by accessing the ‘My Account’ section of the Royal Mail website. You can also use this section to change or delete this information including any consent you have provided to receive marketing communications. To do so, click on ‘Change registration details’.
+o   You can see the information you have provided to us through the registration process by accessing the ‘My Account’ section of the Royal Mail website. You can also use this section to change or delete this information including any consent you have provided to receive marketing communications. To do so, click on ‘Change registration details’.
 
-         o  Please note that there are some consents on this website that are specific to individual services. These will be identified to you when you sign up to those services. These are independent of the registration process and currently cannot be changed through the ‘My Account’ page.
+o   Please note that there are some consents on this website that are specific to individual services. These will be identified to you when you sign up to those services. These are independent of the registration process and currently cannot be changed through the ‘My Account’ page.
 
-    * **Information provided through[www.parcelforce.com](http://www.parcelforce.com/)**
+    * **Information provided through[parcelforce.com](http://parcelforce.com/)**
 
-       o  Account customers can see the information they have provided to us through the registration process by accessing the ‘My Profile’ section of the Parcelforce website. You can also use this section to change this information including any consent you have provided to receive marketing communications.
+o   Account customers can see the information they have provided to us through the registration process by accessing the ‘My Profile’ section of the Parcelforce website. You can also use this section to change this information including any consent you have provided to receive marketing communications. 
 
     * **Requesting a copy of your information**
 
-       o  You can request details of personal information Royal Mail Group holds about you, including on our websites’ databases, by contacting our Information Rights Team **See ‘How to contact us’**.
+o   You can request details of personal information Royal Mail Group holds about you, including on our websites’ databases, by contacting our Information Rights Team. See ‘ **How to contact us** ’. 
 
-         o  Requests must be made in writing and there is a £10 fee for each request. Proof of identification is required in order to protect your information. We also require sufficient details to be able locate your information. For example, dates and details of the websites, products or services that you have used. An optional application form may be provided to assist us in locating the information you require.
+o   Requests must be made in writing and there is a £10 fee for each request. Proof of identification is required in order to protect your information. We also require sufficient details to be able locate your information. For example, dates and details of the websites, products or services that you have used. An optional application form may be provided to assist us in locating the information you require. 
 
   * ## Marketing
 
@@ -140,23 +160,23 @@ You agree to receive marketing information
     * from Royal Mail Group about its similar products and services where you provide your details in the course of purchase or negotiations for the purchase of a product or service.
     * from third parties about their products and services by choosing to opt-in on your registration form for a Royal Mail Group website or service.
 
-The marketing channels used will, unless specifically stated otherwise, include all means of communicating with you, e.g. email, post, phone, SMS text message and other electronic means.
+The marketing channels used will, unless specifically stated otherwise, include all means of communicating with you, e.g. email, post, phone, SMS text message and other electronic means. 
 
   * ## Changing your marketing preferences
 
 You can change marketing preferences at any time through our royalmail.com and parcelforce.com websites. However, if you have provided information to a Royal Mail Group company through another channel, the use of that information will not be affected by the opt-ins or opt-outs you select on one of our websites.
 
-    * **Marketing preferences provided through[www.royalmail.com](https://web.archive.org/)**
+    * **Marketing preferences provided through[royalmail.com](http://www.royalmail.com/)**
 
-       o  You can change your preferences for receiving marketing communications through the ‘My Account’ section of the Royal Mail website.
+o   You can change your preferences for receiving marketing communications through the ‘My Account’ section of the Royal Mail website.
 
-    * **Marketing preferences provided through[www.parcelforce.com](http://www.parcelforce.com/)**
+    * **Marketing preferences provided through[parcelforce.com](http://www.parcelforce.com/)**
 
-       o  Account customers can change their preferences through the ‘My Profile’ section of the Parcelforce website.
+o   Account customers can change their preferences through the ‘My Profile’ section of the Parcelforce website.
 
 If your information has been passed to third parties you may need to contact them if you change your mind in relation to their continued use of your information.
 
-You can request changes to other marketing consents provided to Royal Mail Group by writing to our Information Rights Team ( **see ‘How to contact us’** ).
+You can request changes to other marketing consents provided to Royal Mail Group by writing to our Information Rights Team (see ‘ **How to contact us** ’).  
 
   * ## Cookies
 
@@ -172,15 +192,17 @@ Royal Mail Group websites may include links to other sites. We will make every e
 
   * ## Changes to our privacy policy
 
-We will keep our privacy policy under regular review and will place any updates on this webpage. This privacy policy was last updated **October 2014**.
+We will keep our privacy policy under regular review and will place any updates on this webpage. This privacy policy was last updated **November 2016**.
 
   * ## How to contact us
 
-Customers with queries or complaints relating to products or services provided by Royal Mail can contact [Royal Mail Customer Services](http://www.royalmail.com/contactus) for assistance.
+Customers with queries or complaints relating to products or services provided by Royal Mail can contact Royal Mail Customer Services for assistance:
+
+[Royal Mail Customer Services](https://personal.help.royalmail.com/app/contact)
 
 Customers with queries or complaints relating to products or services provided by Parcelforce Worldwide can contact Parcelforce Worldwide Customer Services for assistance:
 
-<http://www.parcelforce.com/contact-us>
+[Parcelforce Worldwide Customer Services](http://www.parcelforce.com/contact-us)
 
 For requests, complaints or queries relating to the use of your personal information please contact our Information Rights Team. To contact the team please write to:
 
@@ -193,7 +215,7 @@ S98 6HR
 
 Email: [information.rights@royalmail.com](mailto:information.rights@royalmail.com)
 
-Telephone: 0114 241 4217
+Telephone: 0114 241 4217 
 
 
 
