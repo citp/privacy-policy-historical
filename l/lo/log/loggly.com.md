@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loggly.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611053531id_/https%3A//www.loggly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loggly.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031837id_/https%3A//www.loggly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy | Loggly
 
 Last Updated September 3, 2013
 
-Loggly, Inc. (“Loggly”, “we” or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of loggly.com (the “Site”). This Privacy Policy only applies the websites, services and applications included within “Services” and does not apply to any third-party websites, services, or applications, even if they are accessible through our Services.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meaning as in our [Terms of Use](http://www.loggly.com/terms/).  Please note that the term “you” also includes the company which is our customer and for which you are accepting these terms.
+Loggly, Inc. (“Loggly”, “we” or “us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of loggly.com (the “Site”). This Privacy Policy only applies the websites, services and applications included within “Services” and does not apply to any third-party websites, services, or applications, even if they are accessible through our Services.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meaning as in our [Terms of Use](https://www.loggly.com/terms/).  Please note that the term “you” also includes the company which is our customer and for which you are accepting these terms.
 
 **Information Collection and Use**  
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account if applicable) and to enable you to enjoy and easily navigate our Services.
