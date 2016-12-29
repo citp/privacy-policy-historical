@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620163447id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229094347id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheHill
 
