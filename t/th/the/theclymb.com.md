@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225201906id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229143734id_/http%3A//www.theclymb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | The Clymb
+
+  * __Categories __
+  * [__Gift Cards](https://web.archive.org/GiftCards.aspx)
+  * [__Invite Friends](https://web.archive.org/InviteFriends.aspx)
+  * __My Account __
+  * __FAQs & Terms of Service __
+  * [__Member Support](https://web.archive.org/ccare_main.aspx)
+  * [__About Us](https://web.archive.org/about.aspx)
+  * [__Stories](https://web.archive.org/stories/)
+  * [__Careers](https://web.archive.org/careers.aspx)
+  * [__Privacy Policy](https://web.archive.org/Privacy.aspx)
+  * [__Shipping Policy](https://web.archive.org/ccare_shipping.aspx)
+  * [__Return Policy](https://web.archive.org/ccare_returns.aspx)
+  * [__New iOS App](https://web.archive.org/Mobile.aspx)
+  *     * [Affliates](https://web.archive.org/affiliates.aspx)
+    * [Feedback](https://web.archive.org/ccare_main.aspx)
+
+
 
 > #### Last Updated: April 2nd, 2013
 > 
@@ -56,7 +74,7 @@ If The Clymb goes through a business transition (such as a reorganization, corpo
 
   3. **By Law or to Protect Rights**
 
-We may disclose information when we believe that disclosure is necessary to comply with the law, to enforce or apply our [Terms of Service](https://web.archive.org/tos), Adventures Terms and other agreements, or to protect the rights, property or safety of The Clymb, our employees, affiliates, users or others, and defend ourselves against third-party claims. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. We may also disclose information upon governmental request or in response to a court order.
+We may disclose information when we believe that disclosure is necessary to comply with the law, to enforce or apply our [Terms of Service](https://web.archive.org/terms_of_use.aspx), Adventures Terms and other agreements, or to protect the rights, property or safety of The Clymb, our employees, affiliates, users or others, and defend ourselves against third-party claims. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction. We may also disclose information upon governmental request or in response to a court order.
 
   4. **With Your Consent**  
 We may share information when you provide us with your consent to do so. This may occur either when you affirmatively consent to a request or you consent as provided in this policy. For instance, when you request goods, information or services from our affiliates, partners, service providers, travel operators, or other third parties through us, or when you post information to our website, you provide your consent for us to share that information with others. Please note that whenever you post public information on or through our website you are giving us your consent to share that information with third parties.
@@ -89,7 +107,7 @@ To modify or delete your personal information, please update your member account
 
 * * *
 
-We may use e-mail, phone or other contact methods to (1) notify you of special offers, newsletters, and product alerts or features in which we believe you may be interested, (2) request information regarding your account or payment, (3) disseminate passwords, validate requests and provide customer support and (4) provide you with information that you request. You consent to receipt of any such communication. To unsubscribe from certain communications, please change your member account communications settings or follow the instructions in the email or other communication you receive. There are some essential, administrative communications for which you cannot opt out. Regardless of the settings you select, we may still send you service-related communications. All changes may take a few days to become effective. For example, if you have unsubscribed from any of our communications, you may still receive communications already in production due to production schedules. h3 Third Party Sites p | We are not responsible for the content of any pages, websites, applications or other services linked to or from our website. Links appearing on our website are for convenience only and are not an endorsement by us or our affiliates or their partners of the referenced content, product, service or supplier. Your linking to or from any off-site pages or other websites is at your own risk. You should carefully review the terms and conditions and privacy policies of all other pages, websites, applications and other services that you visit and/or use.
+We may use e-mail, phone or other contact methods to (1) notify you of special offers, newsletters, and product alerts or features in which we believe you may be interested, (2) request information regarding your account or payment, (3) disseminate passwords, validate requests and provide customer support and (4) provide you with information that you request. You consent to receipt of any such communication. To unsubscribe from certain communications, please change your member account communications settings or follow the instructions in the email or other communication you receive. There are some essential, administrative communications for which you cannot opt out. Regardless of the settings you select, we may still send you service-related communications. All changes may take a few days to become effective. For example, if you have unsubscribed from any of our communications, you may still receive communications already in production due to production schedules.
 
 ### Third Party Sites
 
@@ -103,6 +121,11 @@ Our operations are conducted, in whole or in part, in the United States. Regardl
 
 ### Terms of Use and Adventures Terms
 
-This Privacy Policy is incorporated into, and is subject to, the [Terms of Service](https://web.archive.org/tos) and Adventures Terms. Your use of our website, products and services, and any disputes arising from them, is subject to this Privacy Policy, our [Terms of Service](https://web.archive.org/tos) and our Adventures Terms. Please visit our [Terms of Service](https://web.archive.org/tos) and our Adventures Terms for more information.
+This Privacy Policy is incorporated into, and is subject to, the [Terms of Service](https://web.archive.org/terms_of_use.aspx) and [Adventures Terms](https://web.archive.org/adventures_tos.aspx). Your use of our website, products and services, and any disputes arising from them, is subject to this Privacy Policy, our [Terms of Service](https://web.archive.org/terms_of_use.aspx) and our Adventures Terms. Please visit our [Terms of Service](https://web.archive.org/terms_of_use.aspx) and our Adventures Terms for more information.
 
 For questions or concerns, please contact us at [membersupport@theclymb.com](mailto:membersupport@theclymb.com).
+
+The Clymb  
+1150 Laurel Lane  
+Suite 190  
+San Luis Obispo, CA 93401 
