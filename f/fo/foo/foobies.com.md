@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005412id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033822id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
