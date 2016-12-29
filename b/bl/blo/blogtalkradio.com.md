@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053218id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtalkradio.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053041id_/http%3A//www.blogtalkradio.com/termsofuse.aspx) for the most accurate reproduction.*
 
 # Blogtalkradio Terms of Use and Privacy Policy
 
