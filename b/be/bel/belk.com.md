@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622102330id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belk.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229082419id_/http%3A//www.belk.com/AST/Misc/Belk_Stores/Customer_Service/Policies_Guidelines/Privacy.jsp) for the most accurate reproduction.*
 
-# Privacy - belk.com - Belk.com
+# Privacy - belk.com | Belk
 
 Belk.com is committed to ensuring your privacy is protected at all times during your use of our site or one of our other services such as Belk mobile, Belk apps, or a Belk social media application (i.e. Facebook) (hereafter referred to as 'Belk' or 'Belk.com'). Please take the time to read over our Privacy Policy carefully, so you have a complete understanding of how we collect, use and secure the personal information you provide to us. Belk.com will continue to grow and improve to better serve you; therefore, our Privacy Policy is subject to change and we encourage you to review our policy each time you visit belk.com. Please also understand that by using belk.com, you agree to the terms of our Privacy Policy in effect each time you visit, even if you do not return to this link. This Privacy Policy only applies to information collected online on belk.com. 
 
