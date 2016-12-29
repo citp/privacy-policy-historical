@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608052329id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertserve.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042430id_/http%3A//www.advertserve.com/privacy.html) for the most accurate reproduction.*
 
 # AdvertServe :: Privacy Policy
 
 Ad Serving Privacy Policy
 
 * * *
+
+Beacons
+
+Renegade Internet uses beacons, which are also commonly referred to as "impression beacons" or "tracking pixels", in combination with cookies to measure the effectiveness of advertising campaigns. Advertisers may place beacons on their contact form and/or order form "thank you" pages to identify leads and sales as resulting from an advertising campaign. The beacon does NOT collect your name, address, phone number, email address, or any other information that may personally identify you. 
 
 Cookies
 
@@ -20,9 +24,9 @@ Referrer URL
 
 Renegade Internet uses Referrer URLs to measure the effectiveness of advertising campaigns. By examining the Referrer URL, we are able to determine which web site is displaying one of our client's advertisements. We are NOT able to extract any information that may personally identify you from the Referrer URL. 
 
-Beacons
+Third-Party Data
 
-Renegade Internet uses beacons, which are also commonly referred to as "action tags" or "tracking pixels", in combination with cookies to measure the effectiveness of advertising campaigns. Advertisers may place beacons on their contact form and/or order form "thank you" pages to identify leads and sales as resulting from an advertising campaign. The beacon does NOT collect your name, address, phone number, email address, or any other information that may personally identify you. 
+We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Renegade Internet. 
 
 Guidelines
 
