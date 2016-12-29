@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052459id_/http%3A//www.thebump.com/a/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034859id_/http%3A//www.thebump.com/a/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Privacy Rights
 
@@ -142,3 +142,5 @@ We may change this Policy from time to time. When we do, we will let you know by
 If you have any questions or comments regarding our privacy practices, you should first contact The Bump Member Services by emailing [help@thebump.com](mailto:help@thebump.com) and writing "Privacy Policy" in the subject line. You may also write to The Bump Member Services at 195 Broadway, Floor 25, New York, NY 10007 or call (877) 843-5668.
 
 **Last Updated:  February 9, 2016**
+
+[ ](http://app.appsflyer.com/id568940747?pid=Internal&c=gif-bottom-article)
