@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertmedia.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629044656id_/http%3A//convertmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertmedia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229184459id_/http%3A//convertmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Platform & Services Privacy Policy | ConvertMedia
 
