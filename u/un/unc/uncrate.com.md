@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618130021id_/http%3A//uncrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncrate.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051823id_/https%3A//uncrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Uncrate
 
