@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618054336id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042715id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
 **Effective Date: August 16, 2001  
-Updated: August 6, 2014**  
+Updated: December 19, 2016**  
 
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=b8d8b33d-156e-4672-977b-96e6d27ebda7 "TRUSTe European Safe Harbor certification")
@@ -11,8 +11,6 @@ Updated: August 6, 2014**
 NFL Enterprises LLC, the National Football League, and the other members of the NFL Family (collectively, "NFL," "we," "our," "us") respect your privacy and value your trust and confidence. This privacy policy (the "Privacy Policy") applies to our websites, mobile applications, and other online and mobile services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.
 
 Please note that this Privacy Policy does not apply to NFL properties that do not link to this Privacy Policy (including [http://www.NFLShop.com](http://www.nflshop.com/) and [http://www.NFLRush.com](http://www.nflrush.com/)) or to information collected by the thirty-two individual NFL member clubs (the "Member Clubs"). In some instances, we may direct you to a site that is operated by a third party service provider. Even though the page where you provide information may have the look and feel of the Services, a different privacy policy may govern that information collection by our third party service provider.
-
-NFL Enterprises LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. The NFL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NFL Enterprises LLC's certification, please visit <http://www.export.gov/safeharbor/>.
 
 NFL Enterprises LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -44,7 +42,7 @@ You generally are not required to provide information about yourself when you vi
   * Unique identifiers, such as a user name or password;
   * Demographic information, such as gender;
   * Financial information, such as credit card or other payment information;
-  * Geolocation information;
+  * Real-time Geolocation information;
   * Communications preferences;
   * Search queries;
   * Comments and other information posted in our interactive online forums;
@@ -108,7 +106,7 @@ We are committed to maintaining your trust, and we want you to understand when a
 
   * **Aggregate Information** : We may share aggregate information, such as demographics and usage statistics, with advertisers, sponsors or other organizations.
 
-  * **Geolocation Information** : We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us. We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising. If you wish to stop the further collection of your geolocation information, please opt-out using your device settings.
+  * **Geolocation Information** : We may share your geolocation information with service providers that perform certain functions or services on our behalf. These companies are authorized to use precise geolocation information only as necessary to provide these services to us. We also may share your geolocation information with third parties so that they may provide you with geographically relevant advertising. If you wish to stop the further collection of your geolocation information, whether collected through location services, Bluetooth, or microphone access technology, please opt-out using your device settings.
 
 
 
@@ -119,16 +117,18 @@ We are committed to maintaining your trust, and we want you to understand when a
 
   * Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use certain features may be limited.
 
-  * The Services may use Local Storage Objects (LSOs) to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+  * The Services may use Local Storage Objects (LSOs) to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
 
   * We may use mobile analytics software to allow us to better understand the functionality of our Services. This software may record information such as how often you use an application, the events that occur within the application, aggregated usage, performance data, and where an application was downloaded from.
+
+  * We participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. Learn more ([https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/)) about how Adobe does this.
 
 
 
 
 **5\. Advertising**
 
-We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here [http://preferences-mgr.truste.com/.](http://preferences-mgr.truste.com/)
+We partner with third party advertisers to serve and display advertising on the Services. These partners may use cookies and Web beacons to collect information about your activities across different websites and services to provide you with relevant advertising. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. To serve and display advertising relevant to your location, the Services may also track your device's precise geolocation by responding to beacons or inaudible signals sent to your device's microphone. If you do not want the location of your device to be tracked by the Services, please opt-out using your device settings.
 
 **6\. Social Networking**
 
@@ -142,7 +142,7 @@ The Services may contain links to other websites or online services that are ope
 
 **8\. Security**
 
-We have adopted reasonable security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us. When you enter sensitive information (such as a credit card number) and geo-location, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We have adopted security procedures to help protect against loss, misuse, and unauthorized access to the information you provide to us. When you enter sensitive information (such as a credit card number) and geo-location, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 Please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to the Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
