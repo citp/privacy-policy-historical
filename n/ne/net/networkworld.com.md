@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the networkworld.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603012322id_/http%3A//www.networkworld.com/aboutus/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkworld.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063307id_/http%3A//www.networkworld.com/about/privacy.html) for the most accurate reproduction.*
 
-# Terms of Service - Network World
-
-### ONLINE PRIVACY POLICY
+# Privacy Policies | Network World
 
 This website ("Website") and associated websites are maintained by:
 
-  * Network World Inc.
+**Network World  
+492 Old Connecticut Path  
+P.O. Box 9208  
+Framingham, MA. 01701-9208  
+U.S.A.**
 
-  * 5 Speen Street
-
-  * Framingham, MA 01701-9192
-
-
-
+This website ("Website") and associated websites are maintained by:
 
 The publisher of this Website ("Publisher") collects personally identifying information and data about individuals, their company, and their company's demographics (personally identifying information and data) including (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, webcasts, White Papers, online seminars, conferences and other communications with the Publisher, (ii) when you register or sign up on one of our Websites, or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We reevaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
+Below is the current policy regarding the usage of personally identifying information and data collected by the Publisher. We reevaluate this policy on an ongoing basis based on feedback from readers. The Publisher reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our Website.
 
 The Publisher or one of our IDG affiliated companies, or third party partners or advertisers may place online tracking technology such as a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user. In addition, cookies placed in the browser files of a user's computer by a third party advertiser, may be used by the advertiser to collect web viewing data to serve further online interest-based advertising, also known as online behavioral advertising. 
 
@@ -29,18 +26,12 @@ Browsers or third-party software can allow you to block the use of cookies while
 
 The aggregated information we collect is used for a number of purposes including the following:
 
-  1. to improve the content and design of our Website 
-
+  1. to improve the content and design of our Website
   2. to enable our audit bureau to verify our claims of traffic to our Website
-
   3. to help advertisers, potential advertisers or marketers assess the suitability of our Website for their ad campaigns
-
   4. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFS let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit <http://www.google.com/doubleclick/>.
-
-  5. The Publisher has contracted with DoubleClick to serve all advertising on our Website itself and through its e-mail newsletters and other products. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on our Website aren't connected with personally identifiable information collected either on our Website or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <http://www.google.com/doubleclick/>. We use web metric vendors to gather information to help us understand how users utilize our Website and other electronic products. 
-
-  6. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of the Publisher, its sister IDG companies, or select organizations. 
-
+  5. The Publisher has contracted with DoubleClick to serve all advertising on our Website itself and through its e-mail newsletters and other products. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on our Website aren't connected with personally identifiable information collected either on our Website or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <http://www.google.com/doubleclick/>. We use web metric vendors to gather information to help us understand how users utilize our Website and other electronic products.
+  6. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of the Publisher, its sister IDG companies, or select organizations.
 
 
 
@@ -52,7 +43,7 @@ Mobile telephone numbers that are provided to the Publisher will be used to prov
 
 Fax numbers may be collected from our online users (and, as applicable, our print subscribers) and may be used by the Publisher to collect re-qualification data, and may be used for surveys for the Publisher and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-E-mail addresses may be collected from our online users (and as applicable, our print subscribers), and may be used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote the Publisher‘s and IDG products and services, and they may be rented to select outside firms* and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from outside firms, the Publisher and its sister IDG companies, and the IDG Network. With each e-mail use of the user's address you can individually opt-out of receiving further e-mail from outside firms, the Publisher, its sister IDG companies and the IDG Network. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
+E-mail addresses may be collected from our online users (and as applicable, our print subscribers), and may be used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote the Publisher's and IDG products and services, and they may be rented to select outside firms* and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from outside firms, the Publisher and its sister IDG companies, and the IDG Network. With each e-mail use of the user's address you can individually opt-out of receiving further e-mail from outside firms, the Publisher, its sister IDG companies and the IDG Network. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
 
 (*If, however, you are a registered user and have indicated, either in response to a question asked during the registration process in place prior to the date this policy was last updated (see the date posted at the end of the policy), or otherwise, that you do not wish to allow your email address to be rented and/or licensed for use by outside firms, your email address will not be rented and/or licensed for use.) 
 
@@ -61,6 +52,8 @@ Users who later decide they want to change any of their preferences may do so at
 (Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list). 
 
 Our Website makes available a large library of content provided to us from third parties. In return for access to this content, we may ask you to provide us with personally identifying information. Once you have submitted your information, you will have access to the full library of third party content and will not be asked to provide that information again (unless you disable or otherwise modify your cookies). When accessing content contributed by a third party, your personally identifying information may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ours. The Publisher, nor its parent company, or any of its subsidiaries or affiliates, does not bear any responsibility for any actions or policies of such third parties. If you do not wish to have your information shared with a third party, please do not access third party content on our site.
+
+Our Website, or portions of our Website, may be sponsored by third party sponsors. Any personally identifying information you share on our Website when registering to receive access to any offer, including but not limited to premium access or newsletter content, may be shared with such sponsors for marketing purposes.
 
 Our Website users should be aware that when they disclose personally identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. Neither the Publisher, nor its parent company or any of its subsidiaries or affiliates are responsible for any information that you provide in the above areas. 
 
@@ -77,17 +70,11 @@ Below is the current policy regarding the usage of personally identifying inform
 Subscribers and applicants for the Publisher's Print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:
 
   1. to improve the content of the Publisher's magazine(s) and other print product(s)
-
   2. to notify subscribers about re-qualification and renewal
-
   3. used by us for marketing the Publisher's products and services
-
   4. used by our audit bureau to verify cumulative demographic statistics
-
   5. used by the Publisher, IDG, its subsidiaries and its affiliates and IDC for research surveys
-
   6. used by Editorial for consultation with readers
-
 
 
 
@@ -109,16 +96,12 @@ We may use or disclose personally identifying information if we have a good-fait
 
 Print subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
 
-  * IDG Enterprise
-
-  * Circulation Department
-
-  * PO Box 9208
-
-  * Framingham, MA 01701 
-
-
-
+**IDG Communications  
+Customer Service, TSG Department  
+492 Old Connecticut Path  
+P.O. Box 9208  
+Framingham, MA 01701-9208  
+U.S.A.**
 
 (Print subscribers who are also online users should refer to the online section of this policy which contains information on changing your online preferences). 
 
@@ -138,13 +121,11 @@ The IDG Publishing Network is intended for individuals over the age of 13 years 
 
 If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at:
 
-  * IDG Communications, Inc.
+**IDG Communications  
+Customer Service, TSG Department  
+492 Old Connecticut Path  
+P.O. Box 9208  
+Framingham, MA 01701-9208  
+U.S.A.**
 
-  * Customer Service, TSG Department 
-
-  * 5 Speen St., Framingham MA 01701
-
-  * Last updated: January 11, 2011
-
-
-
+**Last updated:** May 13, 2015
