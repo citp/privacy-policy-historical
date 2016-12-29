@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620110602id_/http%3A//motor1.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051342id_/http%3A//www.motor1.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motor1.com
 
@@ -6,14 +6,14 @@
 
 Motor1.com produces and publishes the Motor1.com Website (this "Website"), downloadable mobile applications available from third party application storefronts ("Application(s)"). This Privacy Policy is applicable to this Website and the Application, both of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
-  1. Personal Information Collected Via Our Services
-  2. How We Use and Share Your Personal Information
-  3. Additional Information About Collection of Location Data
-  4. Additional Information About Our Access to Your Contact
-  5. Other Information Collected And Shared Within Our Services
-  6. Other Circumstances When Your Data May Be Shared
-  7. Managing Your Information
-  8. Other Information
+  1. [Personal Information Collected Via Our Services](http://www.motor1.com/info/privacy-policy/#section-1)
+  2. [How We Use and Share Your Personal Information](http://www.motor1.com/info/privacy-policy/#section-2)
+  3. [Additional Information About Collection of Location Data](http://www.motor1.com/info/privacy-policy/#section-3)
+  4. [Additional Information About Our Access to Your Contact](http://www.motor1.com/info/privacy-policy/#section-4)
+  5. [Other Information Collected And Shared Within Our Services](http://www.motor1.com/info/privacy-policy/#section-5)
+  6. [Other Circumstances When Your Data May Be Shared](http://www.motor1.com/info/privacy-policy/#section-6)
+  7. [Managing Your Information](http://www.motor1.com/info/privacy-policy/#section-7)
+  8. [Other Information](http://www.motor1.com/info/privacy-policy/#section-8)
 
 
 
@@ -107,7 +107,7 @@ We may be required to share your personal and non-personal information pursuant 
 
 ### 7\. Managing Your Information
 
-You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](https://web.archive.org/login) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
+You may choose and control what information you provide about yourself and certain information which is automatically collected via our Services. If you do not wish to provide certain information necessary for enhanced functionality or content on our Services, please do not use such functionality or content. If you have registered for an account through our Services, you may review and revise certain of your account information by [clicking here](http://www.motor1.com/login) to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the "Email Subscriptions" section within your Website account.
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows a user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.adobe.com/). If you set your browser or Adobe Flash options _not_ to accept cookies or local shared objects, you may not be able to take advantage of certain Services.
 
