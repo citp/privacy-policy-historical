@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044057id_/https%3A//www.airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdroid.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031140id_/http%3A//airdroid.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # AirDroid | Delight Your Multi-Screen Life
 
@@ -7,6 +7,14 @@
 We collect information from you when you register on our site or software, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site or software, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site or software anonymously.
+
+## What information can AirDroid access?
+
+Depending on the Android permissions you have granted to AirDroid, AirDroid may be able to access different types of personal information stored on your phone, including but not limited to apps installed and their notifications, SMS, photos, videos, files, etc., to provide your relevant features, like viewing mobile app notifications and managing photos on desktop computers. AirDroid doesn't store those information on its server without your explicit consent.
+
+## Why AirDroid installs Bonjour?
+
+Some AirDroid features, including Nearby, relies on Bonjour to function normally.
 
 ## What do we use your information for?
 
