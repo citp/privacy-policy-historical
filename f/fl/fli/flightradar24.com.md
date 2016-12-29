@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightradar24.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061815id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightradar24.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043856id_/https%3A//www.flightradar24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Flightradar24.com - Live flight tracker!
 
