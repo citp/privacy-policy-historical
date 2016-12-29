@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616183425id_/http%3A//www.officedepot.com/a/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officedepot.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050158id_/http%3A//www.officedepot.com/a/customerservice/privacy) for the most accurate reproduction.*
 
-# Customer Service at Office Depot
+# Office Supplies, Furniture, Technology at Office Depot
 
-Updated: August 14, 2014
+Updated: August 2015
 
 ### This Privacy Policy applies to information we collect from you
 
-This statement describes our privacy practices for the websites where it is posted. This includes mobile websites, text programs and applications. It also applies to information we collect in our stores or other places offline. To download a full copy of this Privacy Policy, [click here](http://static.www.odcdn.com/fm/files/od/w344/pdf/privacy1.pdf).
+This statement describes our privacy practices for the websites where it is posted. This includes mobile websites, text programs and applications. It also applies to information we collect in our stores or other places offline. 
 
 ### We collect information from you in many ways
 
@@ -42,7 +42,7 @@ Your information may be shared when legally permitted, including in the followin
 
 **With third parties who perform services on our behalf.** For example, we share information with vendors, or will authorize them to collect information on our behalf. Some vendors may be located outside of the United States. 
 
-**With our business partners.** To opt out of having your information shared, see Your Choices below. To stop receiving information from a business partner, follow their opt out instructions. 
+**With our business partners.** To opt out of having your information shared, see Your Choices below. To stop receiving information from a business partner, follow its opt out instructions. 
 
 **If we think we have to in order to comply with the law.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. We may also share information to protect us, our sites, or our users. We might share information with other companies for fraud and credit risk reduction. 
 
@@ -68,11 +68,13 @@ Information we maintain is stored in the United States. If you live outside of t
 
 ### Your choices about our marketing and tracking tools.
 
-**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please [email](mailto:mailoptout@officedepot.com) us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text **STOP** to 33768 (Depot), a confirmation text will be sent. Or you can email us at [stoptexts@officedepot.com](mailto:stoptexts@officedepot.com) (be sure to include your cell phone number in the email message). If you have an account on our website, you can manage your preferences [here](https://web.archive.org/account/editContactDisplay.do). 
+**You can opt out of marketing emails and texts.** To stop receiving our promotional emails, please [email](mailto:mailoptout@officedepot.com) us (mailoptout@officedepot.com) or call us at 1-800-915-4624. Please indicate whether you wish to continue to receive Office Depot's catalogs and other postal mailings. To stop receiving marketing text messages, text **STOP** to 33768 (Depot), a confirmation text will be sent. Or you can email us at [mailoptout@officedepot.com](mailto:mailoptout@officedepot.com) (be sure to include your cell phone number in the email message). If you have an account on our website, you can manage your preferences [here](https://web.archive.org/account/editContactDisplay.do). 
 
 **You can control if we share information with third parties for their marketing purposes.** To opt out of having us share your information with third parties for their promotional purposes, please [email](mailto:mailoptout@officedepot.com) us (mailoptout@officedepot.com) or call us at 1-800-915-4624. If you accept an offer from one of them after you opt out, we will share your information with that specific party. 
 
-**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/specialLinks.do?file=/customerservice/trackingtools.jsp&template=customerService). 
+**You can control cookies and tracking tools.** To learn how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/specialLinks.do?file=/customerservice/trackingtools.jsp&template=customerService). 
+
+**Our do not track policy:** Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals. 
 
 **You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an unsubscribe link. 
 
@@ -80,7 +82,7 @@ Information we maintain is stored in the United States. If you live outside of t
 
 ### Feel free to contact us if you have more questions.
 
-You can [email](mailto:legalgcsupport@officedepot.com) us (legalgcsupport@officedepot.com) or write to us at: 
+You can [email](mailto:privacysupport@officedepot.com) us or write to us at: 
 
 **Attn: Legal Department Privacy Team  
 Office Depot, Inc.  
