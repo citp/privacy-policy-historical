@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the autozone.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616051655id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autozone.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229051202id_/http%3A//www.autozone.com/termsandconditions/termsAndConditionsHome.jsp%3FleftNavPage%3DprivacyPolicy%26pageCategory%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><head>
  <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
 				AutoZone.com | Privacy Policy</title>
-				<link rel="stylesheet" href="/css-build-7.0.3/autozone.css" type="text/css">
-		<link rel="stylesheet" href="/css-build-7.0.3/contactus.css" type="text/css">
+				<link rel="stylesheet" href="/css-build-7.7.0/autozone.css" type="text/css">
+		<link rel="stylesheet" href="/css-build-7.7.0/contactus.css" type="text/css">
 		<!--[if IE 6]>
-	<link rel="stylesheet" href="/css-build-7.0.3/overrides_ie6.css" type="text/css" />
+	<link rel="stylesheet" href="/css-build-7.7.0/overrides_ie6.css" type="text/css" />
 	<![endif]-->
-	<link rel="stylesheet" href="/css-build-7.0.3/print.css" type="text/css" media="print">
-	<!--  <link rel="stylesheet" href="/css-build-7.0.3/shoprunner.css" type="text/css" /> -->
-	<link rel="stylesheet" href="/css-build-7.0.3/grid.css" type="text/css">
-	<link rel="stylesheet" href="/css-build-7.0.3/ymmeOverlay.css" type="text/css">
+	<link rel="stylesheet" href="/css-build-7.7.0/print.css" type="text/css" media="print">
+	<!--  <link rel="stylesheet" href="/css-build-7.7.0/shoprunner.css" type="text/css" /> -->
+	<link rel="stylesheet" href="/css-build-7.7.0/grid.css" type="text/css">
+	<link rel="stylesheet" href="/css-build-7.7.0/ymmeOverlay.css" type="text/css">
 
 	<style type="text/css">
 							/* Global CSS */
 .shelfGrid .shelfItem .shelfItemPreview img#mainimage { width:150px;}
 .topnav>ul>li .navBanner {display:none;}
-.topnav>ul>li:nth-of-type(1) .navBanner {display:block;}
+
+.topnav>ul>li:nth-of-type(1) .navBanner {display:block;} 
 .topnav>ul>li:nth-of-type(2) .navBanner {display:block;}
 .topnav>ul>li:nth-of-type(3) .navBanner {display:block;}
 .topnav>ul>li:nth-of-type(4) .navBanner {display:block;}
@@ -72,33 +73,201 @@
     width: 182px !important;
     float: none !important;}
 
-#ft a:visited, .ft a:visited {
-    color: #6c6f70;}
-
 body ._SRD .srd_logo, body ._SRD .srd_icon {
     background-image: url("http://content.shoprunner.com/assets/pik_images/v4/_sr_logo_19.png") !important;
 }
 .pcutBadge {
     top: 15px;
+}
+/*
+#checkFitStatus,
+.grid-10 #productImageContainer span {
+   display: none;
+}
+*/
+
+.dnf .vehicleSpecific {
+   color: #D52B1E;
+   border: 1px solid #D52B1E;
+}
+
+body > img {display:none;}
+
+/* IE Fix */
+#find-a-store-top legend {
+    white-space: normal;
+    display: table;
+}
+/*hide comments in community*/
+div.pluck-review-full-review-comment-wrap {display:none;}
+
+/* blocked reviews fix - ECBC-8037 */
+.pluck-review-isBlocked {
+	display: none;
+}
+.pluck-review-total-count {
+    display: none;
+}
+.rating-link{
+    display: none;
+}
+.ratingsReviews a {
+	display: none;
+}
+/* End ECBC-8037 */
+
+/* ---------- Rewards Integration quick fixes --------- */
+.form-label #Message {
+  	height: auto !important;
+  	resize: both !important;
+}
+#gc-form-container {
+	height: auto !important;
+}
+div.corporate-container.light div.gc-list ul {
+	max-height: none !important;
+  	margin: 1em 0 !important;
+}
+div.corporate-container.light div ul li {
+	float: none !important;
+  	width: auto !important;
+  	padding-bottom: .5em !important;
+}
+#site-gift-card-form-pages .gc-list ul:last-of-type {
+	margin-left: 30px !important;
+}
+#redeemEl {
+	display: none;
+}
+
+/* -- post DIY codeBlock -- */
+
+#post_diy-cb {
+    background: #fff;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: 1px 2px 3px 0px rgba(0,0,0,0.3) !important;
+    margin-top: -3px;
+}
+
+#post_diy-cb h5 {
+    line-height: 10px;
+    margin-bottom: 20px;
+}
+
+#post_diy-cb p, #post_diy-cb strong {
+    font-size: 13px;
+    margin: 5px 0;
+}
+
+#post_diy-cb .legal-copy {
+    margin-top: 5px;
+    font-size: 11px;
+    font-style: italic;
+}
+
+#post_diy-cb ul {
+    margin: 5px 0 0 15px;
+    list-style-type: square;
+    color: #f37f00;
+}
+
+#post_diy-cb li span {
+    color: #231f20;
+}
+
+#post_diy-cb li {
+    margin-top: 5px;
+}
+
+.fixfinder-learn a {
+    background: #fff;
+    top: 9px;
+    position: inherit;
+    padding: 0 25px 0 10px;
+}
+
+#post_diy-cb .fixfinder-learn {
+    border-bottom: 1px #e2e2e2 solid;
+}
+
+/* -- post DIY codeBlock -- */
+
+.adsbygoogle {
+position: absolute;
+top: 250px;
+left: -2000px;
+background: none;
+}
+
+#myZoneLogin .bcFloat {
+  display:none !important;}
+.fixfinder-learn a {
+    background: #fff;
+    top: 9px;
+    position: inherit;
+    padding: 0 25px 0 10px;
+}
+
+#post_diy-cb .fixfinder-learn {
+    border-bottom: 1px #e2e2e2 solid;
+}
+
+/* -- post DIY codeBlock -- */
+
+.adsbygoogle {
+position: absolute;
+top: 250px;
+left: -2000px;
+background: none;
+}#myZoneLogin .bcFloat {
+  display:none !important;}
+.fixfinder-learn a {
+    background: #fff;
+    top: 9px;
+    position: inherit;
+    padding: 0 25px 0 10px;
+}
+
+#post_diy-cb .fixfinder-learn {
+    border-bottom: 1px #e2e2e2 solid;
+}
+
+/* -- post DIY codeBlock -- */
+
+.adsbygoogle {
+position: absolute;
+top: 250px;
+left: -2000px;
+background: none;
+}
+
+#myZoneLogin .bcFloat {
+  display:none !important;
 }</style>
-					<script src="//tags.tiqcdn.com/utag/autozone/main/dev/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
+					<script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/433648989528448346/bc.vms4/vms.js"></script><script src="//tags.tiqcdn.com/utag/autozone/main/dev/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
 		var javaScriptCompressed = true;
 		</script>
 	<!--[if lt IE 9]>
-		<script src="/js-build-7.0.3/html5shiv.js"></script>
+		<script src="/js-build-7.7.0/html5shiv.js"></script>
 	<![endif]-->
-	<script type="text/javascript" src="/js-build-7.0.3/lib/jquery/jquery-1.7.1.js"></script>
+	<script type="text/javascript" src="/js-build-7.7.0/lib/jquery/jquery-1.7.1.js"></script>
 
-	<script type="text/javascript" src="/js-build-7.0.3/inline.jsp?devmode=&amp;noMonetate="></script>
+	<script type="text/javascript" src="/js-build-7.7.0/inline.jsp?devmode=&amp;noMonetate="></script>
 	<script type="text/javascript">
 		$(document).ready(function () {
 			require(['autozone.views.dropdown']);
+			$('#replacementCard').click(function(e){
+				e.preventDefault();
+				$('#replacementCard img').toggleClass('rotateIMG');
+				$('#shippingAddress').toggle()
+			});
 		});
 	</script>
 	<script type="text/javascript">
 		
-			var srMinDate = 'Jun  20',
-				srMaxDate = 'Jun  21';
+			var srMinDate = 'Jan  02',
+				srMaxDate = 'Jan  03';
 			var arrMin=[],arrMax=[],monthMin="",monthMax="",year="",srMinDateFormatted="",srMaxDateFormatted="",srMinNoYear="",srMaxNoYear="";srMinDate=srMinDate.split(" ");arrMin.push(srMinDate.shift());arrMin.push(srMinDate.join(""));srMaxDate=srMaxDate.split(" ");arrMax.push(srMaxDate.shift());arrMax.push(srMaxDate.join(""));monthMin=arrMin[0];monthMax=arrMax[0];"Jan"==monthMin&&(monthMin="01");"Feb"==monthMin&&(monthMin="02");"Mar"==monthMin&&(monthMin="03");"Apr"==monthMin&&(monthMin="04");
 "May"==monthMin&&(monthMin="05");"Jun"==monthMin&&(monthMin="06");"Jul"==monthMin&&(monthMin="07");"Aug"==monthMin&&(monthMin="08");"Sep"==monthMin&&(monthMin="09");"Oct"==monthMin&&(monthMin="10");"Nov"==monthMin&&(monthMin="11");"Dec"==monthMin&&(monthMin="12");"Jan"==monthMax&&(monthMax="01");"Feb"==monthMax&&(monthMax="02");"Mar"==monthMax&&(monthMax="03");"Apr"==monthMax&&(monthMax="04");"May"==monthMax&&(monthMax="05");"Jun"==monthMax&&(monthMax="06");"Jul"==monthMax&&(monthMax="07");
 "Aug"==monthMax&&(monthMax="08");"Sep"==monthMax&&(monthMax="09");"Oct"==monthMax&&(monthMax="10");"Nov"==monthMax&&(monthMax="11");"Dec"==monthMax&&(monthMax="12");"12"==monthMin&&"01"==monthMax?(year=(new Date).getFullYear(),year+=1):year=(new Date).getFullYear();var srMinNoYear=monthMin+"-"+arrMin[1],srMaxNoYear=monthMax+"-"+arrMax[1],srMinDateFormatted=year+"-"+srMinNoYear,srMaxDateFormatted=year+"-"+srMaxNoYear,_shoprunner_com={};
@@ -172,6 +341,13 @@ if (isDiagram && isDiagram.length) {
 if(window.location.pathname == "/parts") {
 $( "div#internalAd img" ).attr("src","/images/MEDIA_ProductCatalog/m3550001_parts_banner.jpg" );
 }
+/* Fix for ECBC-8037 */
+$('.rating-link').text('See Reviews');
+$('.rating-link').show();
+$('.pluck-review-rollup-review-meta-count').text('See Reviews');
+$('.ratingsReviews a').text('See Reviews');
+$('.ratingsReviews a').show();
+/* End for for ECBC-8037 */
 require(['autozone.components.Jspop'], function (Pop) {
 	$('.jspop-checkout,.jspop-warranty').each(function() {
 		new Pop({
@@ -273,16 +449,163 @@ $( document ).ready(function() {
 						}, 1000);
 					});
 				}
-			});
+				//Rewards temp fixes
+				$('#rewardsBoxCart').find('.rewardsLessPadTop').hide();
+				$('.rewards_redeem p:eq(0)').hide();
+				$('.rewards_redeem p:eq(2)').hide();
+				//hide rewards redeem temp fix - need to remove this when fixed.
+				if ($('#rewardsHead').length > 0){
+					var rewardsRedeemMsg = '<p id="redeemErrMsg" style="clear: both; padding: 15px 0 0 5px; margin-right: 0 !important;">We apologize. Currently, you are unable to redeem your Rewards balance.<br />We are working to restore this feature of the Rewards Program as quickly as possible.</p>';
+					$(rewardsRedeemMsg).appendTo('#rewardsHead');
+					$('#ospRewardsBalance').hide();
+				}
+				//Fulfillment center address fix
+				var contactUs = $('.contact-us-questions').text();
+				if($('.contact-us-questions').length > 0 && contactUs.indexOf('4440') > -1){
+					contactUs = contactUs.replace('4440','4400');
+					$('.contact-us-questions').text(contactUs);
+				}
+				//osp Fulfillment center address fix
+				var contactUsOSP = $('#contactUsZone p:eq(1)').html();
+				if($('#contactUsZone').length > 0 && contactUsOSP.indexOf('4440') > -1){
+					contactUsOSP = contactUsOSP.replace('4440','4400');
+					$('#contactUsZone p:eq(1)').html(contactUsOSP);
+				}
+				//error checking for password match on link account form (on change)
+				$('.passCheck').on('change', function(){
+					var password = $('.setPasswordBox').find('#password').val();
+					var passCheck = $('.setPasswordBox').find('#password_confirm').val();
+					$('.passCheck').parent().prevAll('.passMatchErr').hide();
+					$('.setPasswordBox').find('#password').css({"border":"1px solid #A2A4A3","background-color":"#FFF"});
+					$('.setPasswordBox').find('#password_confirm').css({"border":"1px solid #A2A4A3","background-color":"#FFF"});
+					if(password !== passCheck && (password.trim() !== "" && passCheck.trim() !== "")){
+						$('.setPasswordBox').find('#password').css({"border":"1px solid #F90000","background-color":"#FFCCCB"});
+						$('.setPasswordBox').find('#password_confirm').css({"border":"1px solid #F90000","background-color":"#FFCCCB"});
+						$('.passCheck').parent().prevAll('.passMatchErr').show();
+					}
+				});
+				//error checking for phone number length on link account form
+				if ($('#myZoneLoginForm #phone').length > 0){
+					var phoneLengthErr = '<label id="phoneLengthErr" class="errorText" style="display: none; color: #A40204; margin-left: 32%; text-align: left; width: auto; float: none; font-weight: normal;">Phone number must be 10 digits</label>';
+					$('#myZoneLoginForm #phone').on('change', function(){
+						var primaryPhone = $('#myZoneLoginForm #phone').val();
+						$('#phoneLengthErr').hide();
+						$('#myZoneLoginForm #phone').css({"border":"1px solid #A2A4A3","background-color":"#FFF"});
+						console.log(primaryPhone.length);
+						if (primaryPhone.length !== 10){
+							$(phoneLengthErr).prependTo('.reqPhone');
+							$('#myZoneLoginForm #phone').css({"border":"1px solid #F90000","background-color":"#FFCCCB"});
+							$('#phoneLengthErr').show();
+						}
+					});
+				}
 
-function sr_updateMessages() {}</script>
-	<meta name="msapplication-config" content="none">
- <link href="https://content.shoprunner.com/SecureAUZN.css" type="text/css" rel="stylesheet"><script src="https://content.shoprunner.com/AUZN.js" type="text/javascript"></script></head>
-		<body>
+$('#c2cOffer.c2cOffer').remove()
+});
+
+function sr_updateMessages() {}
+
+$(function() {
+	if(window.location.href.indexOf(".mx") > -1) {
+		if ($('#searchRecommendations a').length > 0) {
+			var srLink = $('#searchRecommendations a').attr('href');
+			srLink = srLink.replace('parts', 'refacciones');
+			$('#searchRecommendations a').attr('href', srLink);
+		}
+	}
+});
+function SubForm()
+{
+    var postData = $('#battSignup').serializeArray();
+    var formURL = $('#battSignup').attr("action");
+	$('#monetate_lightbox_content_container').replaceWith('<div id="monetate_lightbox_content_container" style="transform: translate3d(0px, 0px, 0px); height: 292px; left: 0px; margin: 0px auto; position: relative; right: 0px; top: 162px; width: 638px; opacity: 1; display: block;" class="battSignup"><div id="monetate_success_creative" style="position: relative;"><img src="http://b.monetate.net/img/1/362/769561.jpg" usemap="#monetate_success_creativeMap" style="border: none; outline: none;"><map id="monetate_success_creativeMap" name="monetate_success_creativeMap"><area shape="rect" coords="0,0,637,291" href="#close" onclick="$(\'#monetate_lightbox\').remove();" target="_self" style="outline: none; cursor: pointer;"></map></div></div>');
+
+    $.ajax(
+    {
+        url : formURL,
+        type: "POST",
+        data : postData,
+        success:function(data, textStatus, jqXHR) 
+        {
+          //data: return data from server
+        },
+        error: function(jqXHR, textStatus, errorThrown) 
+        {
+         //if fails      
+        }
+    });
+    e.preventDefault(); //STOP default action
+    e.unbind(); //unbind. to stop multiple form submit.
+	
+};
+
+
+</script>
+	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<link href="https://content.shoprunner.com/SecureAUZN.css" type="text/css" rel="stylesheet"><script src="https://content.shoprunner.com/AUZN.js" type="text/javascript"></script></head><body><ins class="adsbygoogle ad1" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
+<ins class="adsbygoogle ad2" style="width:160px; height:600px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
+<ins class="adsbygoogle ad3" style="width:728px; height:90px" data-ad-client="ca-pub-1121694687301938" data-ad-slot="3810397666"></ins>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	var url = window.location.href,
+		hname = window.location.hostname,
+		bcText = $('.breadcrumb li:nth-child(2)').text();
+	bcText = bcText.trim();
+	if (hname == 'www.autozone.com') {
+		if (url == 'http://www.autozone.com/') {
+			$('.ad1').css('height', '90px');
+			$('.ad1').css('width', '728px');
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			    $('.ad1').insertAfter('#buy-with-confidence');
+			    $('.ad1').css('top', '10px');
+			    $('.ad1').css('left', '130px');
+			    $('.ad1').css('position', 'relative');
+			    $('.ad1 ').css('display ', 'inline - block ');
+		} else if ((bcText == 'Tools and Equipment') || (bcText == 'Parts') || (bcText == 'Replacement Parts') || (bcText == 'Interior Accessories') || (bcText == 'Exterior Accessories') || (bcText == 'Truck And Towing') || (bcText == 'Chemicals And Fluids') || (bcText == 'Fluids And Chemicals') || (bcText == 'Performance')) {
+			// RIGHT SIDE AD
+			(adsbygoogle = window.adsbygoogle || []).push({});
+				var offset = $('#cont').offset();
+				var adleft = offset.left + 1005;
+				$('.ad1').css('left', adleft);
+				$('.ad1').css('position', 'absolute');
+				$('.ad1').css('display', 'inline-block');
+
+			// LEFT SIDE AD=
+			(adsbygoogle = window.adsbygoogle || []).push({});
+				var offset = $('#cont').offset();
+				var adleft = offset.left - 179;
+				$('.ad2').css('left', adleft);
+				$('.ad2').css('position', 'absolute');
+				$('.ad2').css('display', 'inline-block');
+
+			// BOTTOM AD
+			$('.ad3').css('height', '90px');
+			$('.ad3').css('width', '728px');
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			    $('.ad3').insertAfter('#buy-with-confidence');
+			    $('.ad3').css('top', '10px');
+			    $('.ad3').css('left', '130px');
+			    $('.ad3').css('position', 'relative');
+			    $('.ad3').css('display ', 'inline - block ');
+		} else if ((url.indexOf('/repairinfo/repairInfoLanding.jsp') > 0) || (url.indexOf('/myzone/profile/login.jsp') > 0) ) {
+			(adsbygoogle = window.adsbygoogle || []).push({});
+				var offset = $('#cont').offset();
+				var adleft = offset.left + 1005;
+				$('.ad1').css('left', adleft);
+				$('.ad1').css('position', 'absolute');
+				$('.ad1').css('display', 'inline-block');
+		}
+	}
+});
+</script><meta name="msapplication-config" content="none">
+ 
+		
 <script type="text/javascript">
 	var renderStart = new Date().getTime(),
 		t_env = 'dev',
-		jSessionId = '77583E718F9011102DA2CDC1A63DA2C5.diyprod6-b2c17';;
+		jSessionId = 'A4E561535653C8DCF3F6BF8EB8E51456.diyprod4-b2c14';;
 	if (window.location.hostname=="www.autozone.com" || window.location.hostname=="www.autozone.com.mx") {
 		t_env='prod';
 	} else if(window.location.hostname=="diyuat.autozone.com" || window.location.hostname=="diyuatmx1.autozone.com.mx") {
@@ -352,18 +675,19 @@ function sr_updateMessages() {}</script>
 		return {
   doubleClickCategory: getDoubleClickData().category,
 			doubleClickType: getDoubleClickData().type,
-			user_vehicle_count: '',
+			user_vehicle_count: '12',
 			authenticationStatus: false,
-			profile_id: '2776564576',
+			profile_id: '3116062748',
 			preferredStoreId: '1122',
 			preferredZipCode: '19139',
-			preferredVehicleName: '2000 Dodge/Ram Truck RAM 2500 3/4 ton 4WD 5.9L Turbo Diesel 6cyl',
-			preferredVehicleEngine: '5.9L Turbo Diesel 6cyl',
-			preferredVehicleId: '2573601',
-			preferredVehicleMake: 'Dodge/Ram Truck',
-			preferredVehicleModel: 'RAM 2500 3/4 ton 4WD',
-			preferredVehicleYear: '2000',
-			jSessionId: jSessionId
+			preferredVehicleName: '2012 Nissan/Datsun Truck Juke SV AWD 1.6L MFI Turbo DOHC 4cyl',
+			preferredVehicleEngine: '1.6L MFI Turbo DOHC 4cyl',
+			preferredVehicleId: '3845901',
+			preferredVehicleMake: 'Nissan/Datsun Truck',
+			preferredVehicleModel: 'Juke SV AWD',
+			preferredVehicleYear: '2012',
+			jSessionId: jSessionId,
+			rewardsId: ''
 		};
 	}
 
@@ -420,7 +744,7 @@ if (combinedOrderId.length) {
 			a.parentNode.insertBefore(d, a);
 		})();
 	</script>
-	<script type="text/javascript" src="/js-build-7.0.3/analytics.js"></script>
+	<script async="" type="text/javascript" src="/js-build-7.7.0/analytics.js"></script>
 <script type="text/javascript">
 	/* Global Analytics */
 	if (window.location.href.indexOf('loggingIn=true') !== -1) {
@@ -462,16 +786,6 @@ if (combinedOrderId.length) {
 			});
 		}
 
-		var breadcrumbs = $('#bct,.breadcrumb'),
-			crumbs = [];
-
-		crumbs = $.map(breadcrumbs.find('li'), function (val) {
-			var crumb = $(val).text().replace('/', '');
-			return $.trim(crumb);
-		});
-
-		js_track.s_setHierarchy(crumbs.join(' | '));
-
 		$('input[type=text],textarea,select').on('focus', function () {
 			var parent = $(this).parents('form:first'),
 				formName;
@@ -498,6 +812,14 @@ if (combinedOrderId.length) {
 	});
 	$(window).load(function () {
 		//js_track.s_loadTime(renderStart, new Date().getTime());
+		var breadcrumbs = $('#bct,.breadcrumb'),
+			crumbs = [];
+
+		crumbs = $.map(breadcrumbs.find('li'), function (val) {
+			var crumb = $(val).text().replace('/', '');
+			return $.trim(crumb);
+		});
+		js_track.s_setHierarchy(crumbs.join(' | '));
 	});
 </script>
 
@@ -545,15 +867,18 @@ if (combinedOrderId.length) {
 </a></li>
 			<li>
 				<a title="Free Shipping" href="/customerservice/freeShipping.jsp?leftNavPage=freeShipping&amp;pageCategory=freeShipping">Free Shipping
-</a></li></ul>
+</a></li><li>
+				<a title="SMS Terms and Conditions" href="/termsandconditions/termsAndConditionsHome.jsp?leftNavPage=smsTermsAndConditions&amp;pageCategory=smsTermsAndConditions">SMS Terms and Conditions
+</a></li>
+		</ul>
 </div>
 						</div>
 
 					<div id="rightcontent">
 		<div id="bct">
 		<ul>
-			<li class="toplevel"><a href="/;jsessionid=77583E718F9011102DA2CDC1A63DA2C5.diyprod6-b2c17">HOME</a>&nbsp;/</li>
-			<li><a href="/termsandconditions/termsAndConditionsHome.jsp;jsessionid=77583E718F9011102DA2CDC1A63DA2C5.diyprod6-b2c17">TERMS AND CONDITIONS</a>&nbsp;/</li>
+			<li class="toplevel"><a href="/;jsessionid=A4E561535653C8DCF3F6BF8EB8E51456.diyprod4-b2c14">HOME</a>&nbsp;/</li>
+			<li><a href="/termsandconditions/termsAndConditionsHome.jsp;jsessionid=A4E561535653C8DCF3F6BF8EB8E51456.diyprod4-b2c14">TERMS AND CONDITIONS</a>&nbsp;/</li>
 						<li>PRIVACY POLICY
 </li>
 					</ul>
@@ -634,7 +959,7 @@ June 13,2013
 				</div>
 					<header id="globalHeader">
 	<div id="freeShip" style="text-align: center; background-color: #fff; border-bottom: 2px solid #404042;">
-<div id="AutoZone-FREE-Shipping" style="text-align: center; max-width= 100%"><img alt="FREE GROUND SHIPPING - NO MINIMUM - In-Stock Items Only. Offer Ends June 18, 2016 11:59:59 PM CDT" src="/images/MEDIA_ProductCatalog/m5600003_FY16P11-Free-Shipping-june12-18_TopBar.png" title="FREE GROUND SHIPPING - NO MINIMUM - In-Stock Items Only. Offer Ends June 18, 2016 11:59:59 PM CDT"></div>
+<div id="AutoZone-FREE-Shipping" style="text-align: center; max-width= 100%"><img alt="Free Ground Shipping - No Minimum - Ending Soon -In-Stock Items And Ship-To-Home Only. Offer Ends December 31, 2016 11:59:59 PM Central Time" src="/images/MEDIA_ProductCatalog/m6620001_12.18-12.31-TopBar-FreeShipping.png" title="FREE GROUND SHIPPING - NO MINIMUM - Ending Soon -  In-Stock Items Only. Offer Ends December 31, 2016 11:59:59 PM Central Time"></div>
 </div><div id="toolbar">
 				<div class="inner clearfix">
 					<ul id="related_sites" class="no-bullet">
@@ -686,7 +1011,7 @@ June 13,2013
 		</div>
 		<div id="hd">
 					<div class="inner clearfix">
-						<div class="grid-9 flush-left">
+						<div class="grid-8 flush-left">
 							<div id="siteLogo"><a title="Home" href="/">AutoZone
 <span></span></a></div>
 		<form id="searchformlet" name="searchformlet" method="get" action="/searchresult" accept-charset="UTF-8">
@@ -723,7 +1048,7 @@ June 13,2013
 		    'Engine',
 		    'ADD VEHICLE',
 		    "Tell Us What You Drive and We'll Tell You if it Fits.",
-		    "Tell Us More About Your "
+		    "Tell Us More About Your"
 		]
 	}
 </script>
@@ -822,19 +1147,35 @@ var SetStoreByZipLanguage = {
 	<div id="dialog-ymme-vin" class="page-YMME vin">
 	</div>
 </div>
-						<div id="manage-vehicles" class="grid-5 header-block">
-		<h3 class="simple"><a href="/myzone/vehicles/manageMyVehicles.jsp" class="showDropDown">My Vehicles
+						<div id="manage-vehicles" class="grid-4 header-block">
+	<h3 class="simple"><a href="/myzone/vehicles/manageMyVehicles.jsp" class="showDropDown">My Vehicles
 </a></h3>
-				<p>2000 Dodge/Ram Truck RAM 2500 3/4 ton 4WD 5.9L Turbo Diesel 6cyl</p>
+				<p>2012 Nissan/Datsun Truck Juke SV AWD 1.6L MFI Turbo DOHC 4cyl</p>
 					<div class="dropDown">
 					<div class="close">CLOSE
 </div>
 					<div class="header">
 								<p><strong>Currently showing products for:
-</strong>2000 Dodge/Ram Truck RAM 2500 3/4 ton 4WD 5.9L Turbo Diesel 6cyl</p>
+</strong>2012 Nissan/Datsun Truck Juke SV AWD 1.6L MFI Turbo DOHC 4cyl</p>
 								</div>
 						<div class="body">
-							<a class="viewAllLink" href="#">Show products for all vehicles
+							<p><strong>Choose Another Vehicle:
+</strong></p>
+									<ul class="myVehicles">
+									<li><a href="#" data-endeca-id="31021901" id="vehicle-1119508903" class="setVehicleLink">1990 Oldsmobile 88 Custom Cruiser 5.0L 4BL OHV 8cy</a></li>
+													<li><a href="#" data-endeca-id="31012402" id="vehicle-1119508902" class="setVehicleLink">1990 Ford Truck Bronco 5.0L MFI OHV 8cyl</a></li>
+													<li><a href="#" data-endeca-id="31006201" id="vehicle-1119508901" class="setVehicleLink">1990 Chevrolet Truck V1500 1/2 ton Sub 4WD 5.7L TB</a></li>
+													<li><a href="#" data-endeca-id="31094903" id="vehicle-1119508910" class="setVehicleLink">1987 Chevrolet Truck V10 1/2 ton P/U 4WD 5.7L TBI </a></li>
+													<li><a href="#" data-endeca-id="31003202" id="vehicle-1119508900" class="setVehicleLink">1990 Cadillac Fleetwood Brougham 5.7L TBI OHV 8cyl</a></li>
+													<li><a href="#" data-endeca-id="31042803" id="vehicle-1119508907" class="setVehicleLink">1989 GMC Truck K1500 1/2 ton P/U 4WD 5.7L TBI OHV </a></li>
+													<li><a href="#" data-endeca-id="31041502" id="vehicle-1119508906" class="setVehicleLink">1989 Ford Truck F150 1/2 ton P/U 2WD 5.0L MFI OHV </a></li>
+													<li><a href="#" data-endeca-id="31040202" id="vehicle-1119508905" class="setVehicleLink">1989 Ford Escort 1.9L TBI SOHC 4cyl</a></li>
+													<li><a href="#" data-endeca-id="31032102" id="vehicle-1119508904" class="setVehicleLink">1989 Chevrolet Camaro 5.0L TBI OHV 8cyl</a></li>
+													<li><a href="#" data-endeca-id="31060001" id="vehicle-1119508909" class="setVehicleLink">1988 Buick Electra 3.8L FI OHV 6cyl</a></li>
+													<li><a href="#" data-endeca-id="31057501" id="vehicle-1119508908" class="setVehicleLink">1988 Acura Integra 1.6L MFI 4cyl</a></li>
+													</ul>
+								<strong class="centered margins">-or-
+</strong> <a class="viewAllLink" href="#">Show products for all vehicles
 </a></div>
 
 					<div class="footer">
@@ -849,7 +1190,7 @@ var SetStoreByZipLanguage = {
 					</div>
 					<div class="arrow"></div>
 				</div>
-				 
+
 				<script type="text/javascript">
 					var urlItems = 0;
 					if ($('.breadcrumb li').length == 6) {
@@ -865,16 +1206,17 @@ var SetStoreByZipLanguage = {
 					} else if ($('.breadcrumb li').length == 3) {
 						urlItems = 2;
 					} else if ($('.breadcrumb li').length == 2) {
-						urlItems = 2;
+						urlItems = 1;
 					}
 					require(['autozone.components.ManageCurrentVehicle'], function (ManageVehicle) {
 						new ManageVehicle({
-							userProfileId: "2776564576",
+							userProfileId: "3116062748",
 							setYmmeUrl: '/rest/bean/autozone/diy/commerce/vehicle/VehicleServices/updatePreferedVehicle?atg-rest-depth=2',
 							setLinks: $('.setVehicleLink'),
 							viewAllLinks: $('.viewAllLink'),
 							makeModel: false,
-							urlItems: urlItems
+							urlItems: urlItems,
+							fromHeader: true
 						});
 					});
 				</script>
@@ -887,7 +1229,7 @@ var SetStoreByZipLanguage = {
 		    'Engine',
 		    'ADD VEHICLE',
 		    "Tell Us What You Drive and We'll Tell You if it Fits.",
-		    "Tell Us More About Your "
+		    "Tell Us More About Your"
 		]
 	}
 </script>
@@ -937,7 +1279,7 @@ var SetStoreByZipLanguage = {
 					} else if ($('.breadcrumb li').length == 3) {
 						urlItems = 2;
 					} else if ($('.breadcrumb li').length == 2) {
-						urlItems = 2;
+						urlItems = 1;
 					}
 					require(['autozone.components.YmmeDialog'], function (YMME) {
 						new YMME({
@@ -946,7 +1288,7 @@ var SetStoreByZipLanguage = {
 							needsStore: !true,
 							makeModel: false,
 							urlItems: urlItems,
-							languageList :{ 
+							languageList :{
 								InlineYmme: InlineYmmeLanguage,
 								YmmeDialog: YmmeDialogLanguage,
 								SelectorYmme: SelectorYmmeLanguage,
@@ -955,14 +1297,16 @@ var SetStoreByZipLanguage = {
 					});
 				</script>
 			</div>
-<div id="myStore" class="grid-6 header-block">
-		<h3 class="simple"><a id="id1122" href="/storelocator/storeLocatorMain.jsp" class="showDropDown myStoreHours ">My Store
+<div id="myStore" class="grid-5 header-block flush">
+	<script>var storeNo = 1122</script>
+										 <h3 class="simple"><a id="id1122" href="/storelocator/storeLocatorMain.jsp" class="showDropDown myStoreHours ">My Store
 </a></h3>
-											<p>
-												<span id="mystoreaddress">5601 VINE ST</span><br>
-												(215) 474-3367<br>
+											<p style="width: 195px;">
+											<span id="mystoreaddress">5601 VINE ST</span><br>
+												<span id="mystoreCity">PHILADELPHIA, PA&nbsp;19139</span><br>
+											<span id="mystorePhone">(215) 474-3367</span><br>
 											</p>
-											<div class="currentStoreStatus">
+											<div class="currentStoreStatus" style="width: 195px;">
 											<span class="operatingHours">
 														<span class="openClose">CLOSED
 </span> Open
@@ -1016,6 +1360,7 @@ var StoreHoursLanguage = {
 	SATURDAY: 'Saturday',
 	HRS_24:'24 Hrs',
 	GET_DIRECTIONS : 'Get Directions',
+	STORE_CLOSED : 'CLOSED',
 	OPEN:'OPEN',
 	CLOSED:'CLOSED',
 	OPEN_AT:'Open at ',
@@ -1025,7 +1370,7 @@ var StoreHoursLanguage = {
 	AM : ' AM',
 	PM:' PM',
 	TODAY:'Today'
-	
+
 };
 
 </script><script type="text/javascript">
@@ -1043,7 +1388,8 @@ var MyStoreManagerLanguage = {
 		BACK_TO_RESULTS: 'Back to Results',
 		GET_DIRECTIONS : 'Get Directions',
 		CHANGE_STORE: 'Change Store',
-		MY_STORE:	'My Store'
+		MY_STORE:	'My Store',
+		STORE: 'STORE #'
 };
 
 </script><script type="text/javascript">
@@ -1057,27 +1403,66 @@ var MyStoreManagerLanguage = {
 					LocationList : LocationListLanguage,
 					StoreHours : StoreHoursLanguage,
 					ShowStore : ShowStoreLanguage,
-					MyStoreManager: MyStoreManagerLanguage					
+					MyStoreManager: MyStoreManagerLanguage
 				}
 			})
 		});
-		var maxaddresslen=25;
-		var mystoreaddressHTML = $("#myStore").find("#mystoreaddress") ? $("#mystoreaddress").text() : "" ;
-		var mystoreaddress1HTML = $("#myStore").find("#mystoreaddress1") ?  $("#mystoreaddress1").text() : "";
-		
-		if(mystoreaddressHTML.length > maxaddresslen){	
-			mystoreaddressHTML = mystoreaddressHTML.substring(0, maxaddresslen) + '<a href="#" class="showDropDown"><strong> &hellip;</strong></a>';
-			$("#mystoreaddress").html(mystoreaddressHTML)
-		}
-		if(mystoreaddress1HTML.length > maxaddresslen){	
-			mystoreaddress1HTML = mystoreaddress1HTML.substring(0, maxaddresslen) + '<a href="#" class="showDropDown"><strong> &hellip;</strong></a>';
-			$("#mystoreaddress1").html(mystoreaddress1HTML)
+		if (typeof storeNo !== 'undefined'){
+			$.ajax({
+				url: "/rest/bean/autozone/diy/storelocator/StoreLocatorTools/findStoreHours?atg-rest-depth=1",
+				type: "POST",
+				dataType : 'json',
+				data : {
+					arg1 : storeNo
+				},
+				success:function(data){
+					if (data.hasOwnProperty('address')){
+						$('#manage-rewards').css({"left":"-15px"});
+				 		var lowerAddy1 = data.address;
+						var lowerAddy2 = data.city + ', ' + data.state + ' ' + data.zipCode;
+						$('#mystoreaddress').text(lowerAddy1);
+						$('#mystoreCity').text(lowerAddy2);
+						var maxaddresslen=24;
+						var mystoreaddressHTML = $("#myStore").find("#mystoreaddress") ? $("#mystoreaddress").text() : "" ;
+						var mystoreaddress1HTML = $("#myStore").find("#mystoreaddress1") ?  $("#mystoreaddress1").text() : "";
+						var mystoreaddress2HTML = $("#myStore").find("#mystoreCity") ?  $("#mystoreCity").text() : "";
+						if(mystoreaddressHTML.length > maxaddresslen){
+							mystoreaddressHTML = mystoreaddressHTML.substring(0, maxaddresslen) + '<a href="#" class="showDropDown"><strong> &hellip;</strong></a>';
+							$("#mystoreaddress").html(mystoreaddressHTML);
+						}
+						if(mystoreaddress1HTML.length > maxaddresslen){
+							mystoreaddress1HTML = mystoreaddress1HTML.substring(0, maxaddresslen) + '<a href="#" class="showDropDown"><strong> &hellip;</strong></a>';
+							$("#mystoreaddress1").html(mystoreaddress1HTML);
+						}
+						if(mystoreaddress2HTML.length > maxaddresslen){
+							mystoreaddress2HTML = mystoreaddress2HTML.substring(0, maxaddresslen) + '<a href="#" class="showDropDown"><strong> &hellip;</strong></a>';
+							$("#mystoreCity").html(mystoreaddress2HTML);
+						}
+					}
+				}
+			});
 		}
 	</script>
 	</div>
+<div id="manage-rewards" class="grid-4 header-block flush-left">
+            <h3>AutoZone Rewards</h3>
+            <strong>
+                    <a id="topNavJoin" href="/myzone/profile/login.jsp">Join
+</a>or
+<a id="topNavregister" href="/myzone/profile/login.jsp">Register
+</a></strong>
+                </div>
+    <script>
+    	$('#topNavJoin').on('click', function(){
+    		js_track.s_top_nav_join_rewards();
+    	});
+    	$('#topNavregister').on('click', function(){
+    		js_track.s_top_nav_register_rewards();
+    	});
+    </script>
 <!--  Add additional empty check. -->
 
-	<div id="shopping-cart" class="grid-4 header-block flush-right">
+	<div id="shopping-cart" class="grid-3 header-block flush">
 		<div class="cart replaceThis">
 			<h3 class="simple"><a href="/cart/cart.jsp">My Cart
 </a></h3>
@@ -1094,9 +1479,10 @@ var MyStoreManagerLanguage = {
 	</script>
 </div>
 				</div>
+
 				<div class="topnav clearfix">
 				<ul id="mainNav" class="clearfix">
-					<li><a class="mainNavLink" href="/parts" data-path="/parts" data-category="parts" data-parent="">
+					<li><a class="mainNavLink" href="/parts" data-path="/parts" data-category="parts" data-parent="" data-vehicle="3845901">
 														Parts</a>
 												</li>
 									<li><a class="mainNavLink" href="/interior-accessories" data-path="/accessories" data-category="accessories" data-parent="/Interior-Accessories/_/N-27ds">
@@ -1105,11 +1491,11 @@ var MyStoreManagerLanguage = {
 									<li><a class="mainNavLink" href="/exterior-accessories" data-path="/accessories" data-category="accessories" data-parent="/Exterior-Accessories/_/N-25be">
 														Exterior Accessories</a>
 												</li>
-									<li><a class="mainNavLink" href="/truck-and-towing" data-path="/parts" data-category="parts" data-parent="/Truck-And-Towing/_/N-2i50zj">
+									<li><a class="mainNavLink" href="/truck-and-towing" data-path="/parts" data-category="parts" data-parent="/Truck-And-Towing/_/N-2i50zj" data-vehicle="3845901">
 														Truck And Towing</a>
 												</li>
-									<li><a class="mainNavLink" href="/tools-and-equipment" data-path="/accessories" data-category="accessories" data-parent="/Tools-And-Equipment/_/N-26ss">
-														Tools And Equipment</a>
+									<li><a class="mainNavLink" href="/tools-and-equipment" data-path="/accessories" data-category="accessories" data-parent="/Tools-and-Equipment/_/N-26ss">
+														Tools and Equipment</a>
 												</li>
 									<li><a class="mainNavLink" href="/fluids-and-chemicals" data-path="/accessories" data-category="accessories" data-parent="/Fluids-And-Chemicals/_/N-26rs">
 														Fluids And Chemicals</a>
@@ -1137,7 +1523,7 @@ var MyStoreManagerLanguage = {
 }
 
 .topnav > ul > li > a {
-	background: url('/images/MEDIA_ProductCatalog/m3851964_stacked_nav.png') top left no-repeat;
+	background: url('/images/MEDIA_ProductCatalog/m5690001_nav-sprite-double-stacked_hot.png') top left no-repeat;
 	height: 52px;
 	text-indent: -9999em;
 	display: block;
@@ -1267,6 +1653,9 @@ var MyStoreManagerLanguage = {
 											<a title="Vehicle Repair Guides" href="/myzone/profile/membershipBenefits.jsp">Vehicle Repair Guides</a>\
 										</li>\
 										<li>\
+										<a href="/landing/page.jsp?name=vehicle-warning-indicators">Check Engine Light Help</a>\
+										</li>\
+										<li>\
 											<a href="/video/video.jsp">Video Library</a>\
 										</li>\
 										<li>\
@@ -1303,6 +1692,9 @@ var MyStoreManagerLanguage = {
 	var loggedInLinkListLanguage = '<ul class="clearfix">\
 										<li>\
 											<a title="Vehicle Repair Guides" href="/repairinfo/repairguide/repairGuideMain.jsp">Vehicle Repair Guides</a>\
+										</li>\
+										<li>\
+										<a href="/landing/page.jsp?name=vehicle-warning-indicators">Check Engine Light Help</a>\
 										</li>\
 										<li>\
 											<a href="/video/video.jsp">Video Library</a>\
@@ -1377,8 +1769,8 @@ var MyStoreManagerLanguage = {
 									appendTo: t,
 									trigger: t,
 									index: i,
-									serviceEndpoint: '/rest/bean/autozone/diy/endeca/assembler/service/AssemblerContentService/getCategoryTopSubNavPage',
-									serviceHttpMethod: 'POST',
+									serviceEndpoint: '/rest/bean/autozone/diy/endeca/assembler/service/AssemblerContentService/categoryTopSubNavPage',
+									serviceHttpMethod: 'GET',
 									shown: function (objIndex) {
 										var iter,
 											len = navs.length;
@@ -1424,7 +1816,7 @@ var MyStoreManagerLanguage = {
 			<div id="headerPromoArea" class="clearfix">
 					<div class="grid-24 flush" style="margin-top: 10px;">
   <div class="grid-24" style="padding:10px 0;">
-<pencilad style="font-size: 22px;">SAVE 20% ON SHIP-TO-HOME ONLINE ORDERS OF $100 OR MORE.</pencilad><p>Use Code: <code style="font-size: 19px; padding:0;">DAD20</code></p><a href="/landing/page.jsp?name=autozone-savings&amp;intcmp=20160612_20160618_pencil_hp_top_DAD20">See Details</a>
+<pencilad style="font-size: 20px;">SAVE 20% FOR ONLINE SHIP-TO-HOME ORDERS OF $100 OR MORE.</pencilad><p>Use Code: <code style="font-size: 20px; padding:0;">HOLIDAY20</code></p><a href="/landing/page.jsp?name=autozone-savings&amp;intcmp=20161225_20161231_pencil_hp_top_HOLIDAY20">See Details</a>
   </div>
 </div></div>
 			</header>
@@ -1433,17 +1825,15 @@ var MyStoreManagerLanguage = {
 	</script>
 <div id="optIn" class="clearfix">
 		<div class="inner">
-		<img height="24" alt="label.common.footer.alt.autozoneLogo" width="163" class="left" src="/images/common/azLogo_color_sm.png"><form name="footerOptInForm" class="azForm noHelperText" method="POST" action="https://www.autozone.com:443/optIn/preferences.jsp">
-		<fieldset class="email required">
-			<label for="optInEmail">Sign Up to Get Special
+		<img height="24" alt="label.common.footer.alt.autozoneLogo" width="163" class="left" src="/images/common/azLogo_color_sm.png"><form id="footerOptInForm" name="footerOptInForm" action="https://www.autozone.com/optIn/preferenceConfirm.jsp?_DARGS=/common/footer/optInForm.jsp" class="azForm noHelperText" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-4871908313363655536" type="hidden"> </div><fieldset class="email required">
+				<legend>Sign Up to Get Special
 <br> <span>Offers &amp; Savings!
-</span></label>
-			<input type="text" name="optInEmail" value="" id="optInEmail" title="Enter Email Address for Special Offers
+</span></legend>
+				<input type="text" value="" id="optInEmail" title="Enter Email Address for Special Offers
 ">
-			<a id="optInEmailSignUpButton" class="button submitLink white" href="#"><span>Sign Up</span></a>
-		</fieldset>
-	</form>
-	<script type="text/javascript">
+				<button id="optInEmailSignUpButton" class="button white" style="padding: 5px 17px;"><span>Sign Up</span></button>
+			</fieldset>
+		</form><script type="text/javascript">
 
 var FieldsetLanguage = {
 	EMAIL_ERROR: 'Please enter a valid email address',
@@ -1451,7 +1841,11 @@ var FieldsetLanguage = {
 	NONUM_ERROR: 'No numbers allowed',
 	NUMONLY_ERROR: 'Only numbers allowed',
 	MINLENGTH_ERROR: ['This field must be at least ', ' characters long'],
-	COMPARE_FAILED: "Fields do not match"
+	COMPARE_FAILED: "Fields do not match",
+	ADDRESS_ERROR: "Please enter a valid street address",
+	CITY_ERROR: "Please enter a valid city",
+	ZIP_ERROR: "Please enter a valid zip code",
+	PHONE_ERROR: "Please enter a valid primary phone number"
 }
 </script><script type="text/javascript">
  var FormLanguage = {
@@ -1483,10 +1877,44 @@ var FooterOptInLanguage = {
  				}
  			});
  		});
-	$('#optIn form').submit(function() {
+	var subscribeURL = $('#footerOptInForm').prop('action');
+	$('#optIn form').on('submit', function(e) {
+		e.preventDefault();
+		$('#optInEmail').focus();
+		$('#optInEmail').blur();
 		var region = 'footer_widget',
-			email = $('#optInEmail').val();
+			email = $('#optInEmail').val(),
+			optinLocation = 'quickSignUp';
+		$('#optInErrMess').remove();
 		js_track.s_quickSubscribe(email, region);
+		console.log(email.trim());
+		if (email.trim() == "" || email == "Enter your email address" || $('#footerOptInForm').find('.errorText').is(":visible")){
+			$('#optInEmail').focus();
+			$('#optInEmail').blur();
+			return false;
+		}
+		else {
+			$.ajax({
+				type: "POST",
+				url: "/rest/bean/atg/userprofiling/ProfileServices/quickSubscribe",
+				data: {'arg1':email,'arg2':optinLocation},
+				error: function(err, err2, err3){
+					var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 300px;'>" + err3 + "</span>";
+					$(errorMessage).insertAfter($('#optInEmail').prev().prev());
+					$('#optInErrMess').fadeIn(400);
+				},
+				success: function(data){
+					if (data.atgResponse.STATUS_CODE === 200){
+						window.location = subscribeURL + "&ajax=true&optLoc=quickSignUp&subem="+encodeURIComponent(email);
+					}
+					else {
+						var errorMessage = "<span id='optInErrMess' class='errorText' style='display:none; width: 403px; margin-left: 13%;'>" + data.atgResponse.ERROR_MESSAGE + "</span>";
+						$(errorMessage).insertAfter($('#optInEmail').prev().prev());
+						$('#optInErrMess').fadeIn(400);
+					}
+				}
+			});
+		}
 	});
 	</script>
 </div>
@@ -1544,12 +1972,12 @@ var FooterOptInLanguage = {
 <ul class="unstyled">
 								<li id="payment-footer">
 									<div class="payment-methods-sprite">
-			<a href="/customerservice/payments.jsp?breadcrumb=payments"><ul class="footer">
-								<li class="default"></li>
-								<li class="paypal"></li>
-								<li class="giftMerch"></li>
-							</ul>
-						</a></div>
+			<ul class="footer">
+							<li class="default"><a href="/customerservice/payments.jsp?breadcrumb=payments"></a></li>
+							<li class="paypal"><a href="/customerservice/payments.jsp?breadcrumb=payments"></a></li>
+							<li class="giftMerch"><a href="/customerservice/payments.jsp?breadcrumb=payments"></a></li>
+						</ul>
+					</div>
 		</li>
 							</ul>
 							</li>
@@ -1580,7 +2008,7 @@ var FooterOptInLanguage = {
 									<script type="text/javascript">
 												//
 												function switchToMobile() {
-													document.cookie = 'sitePreference=mobile;domain=.autozone.com;path=/;expires=Sat, 16 Jul 2016 05:16:56 GMT';
+													document.cookie = 'sitePreference=mobile;domain=.autozone.com;path=/;expires=Sat, 28 Jan 2017 05:12:02 GMT';
 													var url = '';
 													if(url){
 														 window.location.href = 'http://m.autozone.com' + url;
@@ -1622,9 +2050,7 @@ var FooterOptInLanguage = {
 </li>
 							<li>AutoZone Websites
 <ul class="unstyled">
-	<li><a title="AutoZonePro" href="http://www.autozonepro.com">AutoZonePro
-</a></li>
-			<li><a title="AutoZone Rewards" href="https://www.autozonerewards.com">AutoZone Rewards
+		<li><a title="AutoZonePro" href="http://www.autozonepro.com">AutoZonePro
 </a></li>
 			<li><a title="Duralast Parts" href="http://www.duralastparts.com">Duralast
 </a></li>
@@ -1664,7 +2090,8 @@ var FooterOptInLanguage = {
 </li>
 							<li>REPAIR HELP
 <ul class="unstyled">
-	<li id="footerVideoLink"><a title="Video Library" href="/video/video.jsp">Video Library
+	<li id="checkEngineLink"><a title="Check Engine Light Help" href="/landing/page.jsp?name=vehicle-warning-indicators">Check Engine Light Help
+</a></li><li id="footerVideoLink"><a title="Video Library" href="/video/video.jsp">Video Library
 </a></li>
 	<li><a title="Repair Help" href="/repairinfo/repairInfoLanding.jsp">Repair Help
 </a></li>
@@ -1674,8 +2101,7 @@ var FooterOptInLanguage = {
 </a></li>
 		<li><a title="Loan-A-Tool" href="/landing/page.jsp?name=loan-a-tool">Loan-A-Tool
 <sup style="vertical-align: text-top;">®</sup></a></li>
-
-		<li><a title="Find a Repair Shop" href="/landing/page.jsp?name=find-a-repair-shop">Find a repair shop
+			<li><a title="Find a Repair Shop" href="/landing/page.jsp?name=find-a-repair-shop">Find a repair shop
 </a></li>
 			</ul>
 </li>
@@ -1685,11 +2111,11 @@ var FooterOptInLanguage = {
 						<ul class="unstyled">
 							<li>CONNECT WITH US:
 <ul class="socialMedia unstyled clearfix">
-										<li class="facebook"><a href="https://www.facebook.com/autozone">Facebook
+										<li class="facebook"><a href="https://www.facebook.com/autozone" target="_blank">Facebook
 </a></li>
-										<li class="youtube"><a href="http://www.youtube.com/user/AutoZone">YouTube
+										<li class="youtube"><a href="http://www.youtube.com/user/AutoZone" target="_blank">YouTube
 </a></li>
-										<li class="twitter"><a href="https://twitter.com/autozone">Twitter
+										<li class="twitter"><a href="https://twitter.com/autozone" target="_blank">Twitter
 </a></li>
 									</ul>
 								</li>
@@ -1719,8 +2145,8 @@ var FooterOptInLanguage = {
 </a></li>
 		<li><a title="Contact Us" href="/contactus/contactUs.jsp?breadcrumb=contactus">Contact Us
 </a></li>
-
-	</ul>
+		
+		</ul>
 
 </li>
 						</ul>
@@ -1765,7 +2191,7 @@ var FooterOptInLanguage = {
 					<!-- End DigiCert site seal JavaScript code -->
 				</div>
 			</div>
-	<script type="text/javascript">
+			<script type="text/javascript">
 					//
 					storeSREDID();
 					//
@@ -1793,35 +2219,83 @@ var FooterOptInLanguage = {
 					linkName = sectionName + ' ' + clickName;
 					js_track.s_trackFooterViewBySection(linkName);
 				});
-				if (utag_data._pathname1 == 'landing') {
-					js_track.s_seoPageName('landingPage:/' + '?name=' + '')
-				}
+				$(document).ready(function() {
+					if (utag_data._pathname1 == 'landing') {
+						js_track.s_seoPageName('landingPage:/' + '?name=' + '')
+					}
+				});
+				$('#azr-landing-register').on('click', function(){
+					js_track.s_register_card_rewards_landing();
+				});
+				$('#azr-landing-join').on('click', function(){
+					js_track.s_join_now_rewards_landing();
+				});
+				$('#azr-landing-register').on('click', function(){
+					js_track.s_register_card_rewards_landing();
+				});
+				$('#azr-landing-join').on('click', function(){
+					js_track.s_join_now_rewards_landing();
+				});
 			</script>
 			<script type="text/javascript">
-				//price cut badge
-				var pricecutHTML = '<div class="badgeoutter"><div class="pcutBadge"><img src="/images/common/pcut.png"></div></div>';
-				var detPricecutHTML = '<div class="badgeoutter"><div class="detPcutBadge"><img src="/images/common/pcut.png"></div></div>';
+					//price cut badge
+					var pricecutHTML = '<div class="badgeoutter"><div class="pcutBadge"><img src="/images/common/pcut.png" alt="Price Cut"></div></div>';
+					var detPricecutHTML = '<div class="badgeoutter"><div class="detPcutBadge"><img src="/images/common/pcut.png" alt="Price Cut"></div></div>';
 
-				var setbadges = function(){
-					if ($('#prices_wrapper').find('.deal').length > 0){
-						$(detPricecutHTML).insertBefore($('#enlargedImage'));
-					}
-				};
-				$(window).load(setbadges);
-			</script>
-		</div>
+					var setbadges = function(){
+						if ($('#prices_wrapper').find('.deal').length > 0){
+							$(detPricecutHTML).insertBefore($('#enlargedImage'));
+						}
+					};
+					$(window).load(setbadges);
+				</script>
+			</div>
 	</div>
 	<script type="text/javascript">
-		// log all JS errors to Omniture
-		window.onerror = function(msg, url, line, column, errorObj) {
-			js_track.s_javaScriptError(msg, url, line, column, errorObj);
-			if (console && console.log) {
-				console.log(msg, url, line, column, errorObj);
+		$(document).ready(function() {
+			// log all JS errors to Omniture
+			window.onerror = function(msg, url, line, column, errorObj) {
+				js_track.s_javaScriptError(msg, url, line, column, errorObj);
+				if (console && console.log) {
+					console.log(msg, url, line, column, errorObj);
+				}
+				return true;
 			}
-			return true;
-		}
+		});
 	</script>
-</div>
+<script>
+ var _bcvma = _bcvma || [];
+  _bcvma.push(["setAccountID", "433648989528448346"]);
+  _bcvma.push(["setParameter", "WebsiteDefID", "3441743072331158572"]);
+  _bcvma.push(["setParameter", "InvitationDefID", "293047375404732775"]);
+  _bcvma.push(["setParameter", "VisitName", ""]);
+  _bcvma.push(["setParameter", "VisitPhone", ""]);
+  _bcvma.push(["setParameter", "VisitEmail", ""]);
+  _bcvma.push(["setParameter", "VisitRef", ""]);
+  _bcvma.push(["setParameter", "VisitInfo", ""]);
+  _bcvma.push(["setParameter", "CustomUrl", ""]);
+  _bcvma.push(["setParameter", "WindowParameters", ""]);
+  _bcvma.push(["addFloat", {type: "chat", id: "206732315113366610"}]);
+  _bcvma.push(["pageViewed"]);
+  (function(){
+    var vms = document.createElement("script"); vms.type = "text/javascript"; vms.async = true;
+    vms.src = ('https:'==document.location.protocol?'https://':'http://') + "vmss.boldchat.com/aid/433648989528448346/bc.vms4/vms.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vms, s);
+  })();
+                $('body').click(function (e) {
+                        if ($(e.target).parents('.bcFloat').length || $(e.target).parents('.c2cOffer').length || $(e.target).parents('#c2cOffer').length) {
+                                var chatType = '';
+                                if ($(e.target).parents('.bcFloat').length) {
+                                        chatType = 'floating_banner'
+                                } else if ($(e.target).parents('.c2cOffer').length) {
+                                        chatType = 'live_help_link'
+                                } else if ($(e.target).parents('#c2cOffer').length) {
+                                        chatType = 'live_help_link'
+                                }
+                                js_track.s_chatClicked(chatType);
+                        }
+                });
+</script></div>
 		
 	
 </body></html>
