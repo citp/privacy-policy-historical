@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419203153id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229203819id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RUSI
 
