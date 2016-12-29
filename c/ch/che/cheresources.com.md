@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheresources.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402134238id_/http%3A//www.cheresources.com/invision/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheresources.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229082647id_/http%3A//www.cheresources.com/invision/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Cheresources.com Community
 
