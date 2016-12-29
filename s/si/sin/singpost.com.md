@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singpost.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602150322id_/http%3A//www.singpost.com/group-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055624id_/http%3A//www.singpost.com/privacy-policy) for the most accurate reproduction.*
 
-# SingPost - Group Privacy Policy
+# Privacy Policy | Singapore Post
 
 This is the Privacy Policy (" **Policy** ") of Singapore Post Limited (" **SingPost** ") and its subsidiaries (collectively the " **SingPost Group** ").
 
@@ -160,13 +160,13 @@ a) **Data collected directly from you.** This may be done through this website, 
 
 12.1 If you have any questions about the processing of your personal data or about our Policy, if you do not accept the amended Policy, if you wish to withdraw any consent you have given us at any time, or if you wish to update or have access to your personal data, you are welcome to contact us. The contact details are:
 
-Attention to                 : The SingPost Group Data Protection Officer
+Attention to                  : The SingPost Group Data Protection Officer
 
-Email                         : [GCDPO@singpost.com](mailto:GCDPO@singpost.com)
+Email                            : GCDPO@singpost.com
 
-Telephone number       : 62295995
+Telephone number       : 62295995
 
-Mail                           : 10 Eunos Road 8, Singapore Post Centre, Singapore 408600
+Mail                              : 10 Eunos Road 8, Singapore Post Centre, Singapore 408600
 
 12.2 All requests for correction or for access to your personal data must be in writing. We will endeavor to respond to your request within 30 days, and if that is not possible, we will inform you of the time by which we will respond to you.
 
@@ -180,24 +180,22 @@ Mail                           : 10 Eunos Road 8, Sing
 
 13.1 You may send complaints regarding our handling of personal data in the following ways:
 
-  * **in writing or by email.** Such complaints must:
-
 \- be addressed to the SingPost Group Data Protection Officer at:-
-
-    * Email:        [GCDPO@singpost.com](mailto:GCDPO@singpost.com)
-    * Address:    10 Eunos Road 8, Singapore Post Centre,  
-                  Singapore 408600
 
 \- provide the name, contact number and address of the person submitting the feedback
 
 \- provide the relevant details required such as the relevant time period, our employees or who involved, or copies of relevant documents.
 
+  * **in writing or by email.** Such complaints must: 
+    * Email:GCDPO@singpost.com
+    * Address:    10 Eunos Road 8, Singapore Post Centre,  
+                  Singapore 408600
 
 
-  * **by telephone.** Such complaints must:
 
 \- be made to the SingPost Group Data Protection Officer at _:-_
 
+  * **by telephone.** Such complaints must: 
     * Telephone: 62295995 __ (This is a recorded line. The caller is advised that their call is being recorded.)
 
 
