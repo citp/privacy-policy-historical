@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060430id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229094710id_/http%3A//undertone.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Undertone
 
-[Privacy](http://www.undertone.com/privacy/) | [Health and Data Segments](http://www.undertone.com/undertone-and-health-data-segments/)
+[Privacy](http://undertone.com/privacy/) | [Health and Data Segments](http://undertone.com/undertone-and-health-data-segments/)
 
 Undertone is a digital advertising company that may deliver advertisements to the websites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, when you visit our customer’s (referred to as “Advertisers”) websites and when we serve advertisements on our network of websites owned by third-party publishers (collectively, the “Undertone Site Network”), how such information is used, and how it is shared with third parties if shared at all.
 
@@ -80,9 +80,11 @@ Undertone may delete any or all of IBA or information regarding ad delivery that
 
 Undertone is committed to providing consumers notice and choice regarding IBA. Undertone offers an “opt-out cookie” for those that wish to opt-out of Undertone IBA activities. This cookie will honor your IBA preferences for a period of five (5) years. We may increase this period, which means your opt-out choice will continue for a longer period. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. Undertone may be unable to provide you with an opt-out cookie if your browser is set to block third-party cookies.
 
-To opt-out of IBA, please use our [opt-out tool](http://undertone.com/opt-out-tool).
+To opt-out of IBA, please use our [opt-out tool](http://undertone.com/opt-out-tool/).
 
 Please note that the above opt-out link is applicable to Undertone IBA activities conducted through “ads.undertone.com” as well as “legolas-media.com.” You may also opt-out of IBA conducted by Undertone and other member companies of the Network Advertising Initiative (NAI) by visiting the NAI website [here.](http://www.networkadvertising.org/managing/opt_out.asp) Or you may opt-out of IBA by Undertone and other member companies of the Digital Advertising Alliance (DAA) by visiting the DAA website [here](http://www.aboutads.info/choices/).
+
+For Canadian consumers, you may also access the opt-out tool on the Digital Advertising Alliance of Canada (DAAC) website [here](http://youradchoices.ca/) or the Ad Choices Canada website [here](http://youradchoices.ca/icon/index.html) ([en Français](http://youradchoices.ca/icon/fr/)).
 
 Please report any problems related to the opt-out process to [privacy@undertone.com](mailto:privacy@undertone.com).
 
@@ -104,7 +106,7 @@ If you believe your child has provided us with PII through the Undertone corpora
 
 ### User Choice and Privacy Generally
 
-Undertone is a member of the Network Advertising Initiative (“NAI”) and adheres to the NAI’s 2013 Code of Conduct. The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+Undertone is a member of the Network Advertising Initiative (“NAI”) and adheres to the NAI’s Code of Conduct. The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 AdChoices: Undertone supports deployment of AdChoices icon, in partnership with Ghostery Enterprise, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
