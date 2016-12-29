@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053947id_/https%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060550id_/https%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Smartsheet Privacy Policy | Smartsheet
 
-Updated policy: Effective on March 2, 2016
+Updated policy: Effective on November 28, 2016
 
 This Privacy Statement applies to www.smartsheet.com owned and operated by Smartsheet.com, Inc. (“Smartsheet”, “We”, “Us”, “Our”). This privacy statement describes how Smartsheet collects and uses the personal information you provide on the domain umbrella of www.smartsheet.com, our mobile sites and mobile applications, and any other application or access point we make available to you (collectively, our “Web Properties”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-The TRUSTe program covers only information that is collected through this Web site, www.smartsheet.com and does not cover information that may be collected through downloadable software and our mobile applications or mobile sites. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=fc25c0bf-a7a4-425b-a6c0-77cb0b376cf2 "TRUSTe Privacy Certification")
-
-If you have questions or concerns regarding this policy, please contact us [here](https://www.smartsheet.com/contact#other). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
 
 ## Collection and Use of Personal Information
 
@@ -65,7 +61,7 @@ We do not sell any of your personal information to third parties or allow third 
 
 We may share your information with third party vendors, consultants and other service providers who are working on our behalf and require access to your information to carry out that work, such as to process billing, provide customer support, etc. For example, we may use third party data centers to host our Web Properties or to store documents uploaded to our application. We obtain appropriate contractual and technical protections to limit these service providers’ use and disclosure of your personal information.
 
-We release personal information if we believe we must do so to comply with the law, to comply with a subpoena, bankruptcy proceedings, or similar legal process, to enforce our [User Agreement](https://www.smartsheet.com/user-agreement) (or other subscription agreement you entered into with us, if any), or to protect the rights and safety of Smartsheet, our customers, and our individual users.
+We release personal information if we believe we must do so to comply with the law, to comply with a subpoena, bankruptcy proceedings, or similar legal process, to enforce our [User Agreement](https://www.smartsheet.com/user-agreement) (or other subscription agreement you entered into with us, if any), or to protect the rights and safety of Smartsheet, our customers, our individual users and the general public.
 
 If Smartsheet is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a prominent notice on our Web site of any change in ownership that affects your personal information, as well as any choices you may have regarding your personal information.
 
