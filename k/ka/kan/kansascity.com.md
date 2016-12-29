@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618012856id_/http%3A//www.kansascity.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043833id_/http%3A//www.kansascity.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | KansasCity.com & The Kansas City Star
 
