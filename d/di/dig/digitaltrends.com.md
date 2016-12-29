@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaltrends.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053552id_/http%3A//www.digitaltrends.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaltrends.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044450id_/http%3A//www.digitaltrends.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Trends
 
