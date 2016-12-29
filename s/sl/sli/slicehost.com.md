@@ -1,71 +1,63 @@
-> *The following text is extracted and transformed from the slicehost.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028165858id_/http%3A//www.slicehost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicehost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050618id_/https%3A//www.rackspace.com/information/legal/privacycenter) for the most accurate reproduction.*
 
-# Slicehost Privacy Policy // Slicehost VPS Hosting is now Rackspace Cloud Servers hosting
+# Rackspace Privacy Center
 
-### Slicehost Privacy Policy
+[](https://privacy.truste.com/privacy-seal/validation?rid=9a8b0cb7-0643-49be-91aa-a60465a1ec83)
 
-Slicehost LLC has created a privacy policy to demonstrate our firm commitment to data privacy and protection. This policy sets forth our information gathering and utilization practices for the www.slicehost.com, manage.slicehost.com, and api.slicehost.com websites.
+###  Personal Information We Collect
 
-#### What We Collect and Where
+Our [Privacy Statement](https://web.archive.org/information/legal/privacystatement) and specific privacy notices describe how we handle the personal information we collect about you. Personal information could include, for example, your name and contact details that you provide when you:
 
-Our websites use several different forms that can be used to request information about or procurement of products, and services. From these forms, we collect the following information:
-
-  * Customer’s contact information
-  * Unique identifiers
-  * Financial information
-  * Live Chat Messages
+  * Purchase services from us
+  * Apply for a job
+  * Visit our websites
+  * Sign up for our events
 
 
 
-Slicehost does not intentionally gather personal data about visitors who are under the age of 13.
+###  Tracking Technologies
 
-Slicehost does not view the files that you upload, download or store using our service, and does not monitor or disclose any information regarding your specific files and data without your permission, unless required by law applicable to Slicehost, or in accordance with this policy and our terms of service.
+Rackspace and our service providers or third party advertisers may use cookies, web beacons, or other similar technologies when you visit or interact with us online. For more information about our use of Tracking Technologies, please visit our [Cookie Notice](https://www.rackspace.com/information/legal/privacystatement/cookies). If you wish to opt-out of interest-based advertising or other forms of “tracking” please refer to our cookie notice above.
 
-While Slicehost does not monitor, view or disclose the specific data stored using its service, it is necessary to track various aspects of your account to support features including, but not limited to, bandwidth monitoring, cpu and storage usage. In the course of technical troubleshooting, we may on occasion be required to mount and inspect your file system, monitor traffic to and from your slice and monitor CPU usage.
+###  Access
 
-####  How Secure is the Information We Collect? 
+If you would like to correct or update the information we hold about you, or revoke consent previously granted, please follow the instructions located in our Privacy Statement.
 
-Slicehost is committed to industry best practices approaches concerning security measures to prevent the loss, misuse and alteration of the information in our possession. Credit Card information is encrypted during transmission, and our company databases are accessible only by persons who have entered into and are bound by a confidentiality and nondisclosure agreement with Slicehost.
+###  Customers' Hosted Data
 
-To protect your account information and data, please keep your passwords and Application Programming Interface (API) key private. 
+To find out more about customers’ hosted data and privacy go to our [Customer Data Security and Privacy page](https://web.archive.org/information/legal/privacycenter/customer-data-security-and-privacy).
 
-#### Contact Information 
+If you receive hosting or other services from one of our customers and have privacy-related questions about those services, please contact our customer directly.
 
-We use customer information to send via email pertinent administrative communications regarding their accounts or our services. This information will not be used in a manner different than the purpose for which it was originally collected, unless Slicehost has first obtained your consent to do so.
+###  Disclosure of Personal Information
 
-A Customer may, at any time, choose to correct or update the information they have submitted to Slicehost by updating their account on our website. If you cancel your account, your personal data and other information may be retained in our archive or backup records; however, credit card numbers are not retained.
+When we need to provide your Personal Information to third parties, we will only share it to the extent reasonably necessary.  We may also share your Personal Information as required or permitted by law and as described in our Privacy Statement.
 
-####  Financial Information
+To view our previous notices, please click [here](https://www.rackspace.com/information/legal/legacyprivacystatement). To view a printer friendly version of our Privacy Statement, please click [here](https://www.rackspace.com/information/legal/privacystatement).  
+ 
 
-We may ask visitors to enter credit card or account information through manage.slicehost.com. Credit card information is encrypted for its protection prior to its transmission over the internet. We collect this information on a transaction-by-transaction basis. We will not authorize the release of the information with anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes in accordance with applicable regulatory requirements. 
+## Privacy Questions
 
-#### Cookies
+To view our previous notices, please click [here](https://www.rackspace.com/information/legal/legacyprivacystatement). To view a printer friendly version of our Privacy Statement, please click [here](http://c744563d32d0468a7cf1-2fe04d8054667ffada6c4002813eccf0.r76.cf1.rackcdn.com/downloads/pdfs/legal/privacy/RACKSPACE-39917-v1-2015_Global_Privacy_Statement_FINAL.pdf).
 
-We use cookies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of our service. Cookies are unique text files sent to your browser and stored on your computer. Disabling the use of cookies may affect your ability to use some features of our service.
+If you have questions or complaints about our privacy statement or practices, please contact us at [privacy@rackspace.com](mailto:privacy@rackspace.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Slicehost also collects general information about visits to our websites. This information includes parameters such as the number of visits and browser details. No personal details are present in this data and it is utilized for the sole purpose of better understanding website usage to improve user experiences
+###  Mobile apps
 
-#### Links to Third Party Sites
+This [privacy notice](https://web.archive.org/information/legal/privacystatement/mobileapps) explains our privacy practices when you use our mobile applications or interact with us through your mobile device.
 
-The Slicehost websites may contain links to other sites that are not under our control. These websites have their own policies regarding privacy, and you should review those policies prior to using the websites. Slicehost has no responsibility for linked websites and these links are provided solely for the convenience and information of users.
+###  Job candidates
 
-All information collected by Slicehost is used for purposes of facilitating our services, providing support to users, improving our services, and administration. We will not sell or market the email addresses or other collected personal information of our customers to any third parties not affiliated with us.
+This [privacy notice](https://web.archive.org/information/legal/privacystatement/jobcandidates) explains our privacy practices when you apply for a job with us.
 
-#### Contacting Slicehost
+###  Cookies
 
-If you have questions about this policy please contact Slicehost using one of the following options:
+This [privacy notice](https://web.archive.org/information/legal/privacystatement/cookies) provides details on the cookies, web beacons and similar technologies used when you interact with us online. We also explain your options regarding these technologies.
 
-Email:
+###  Privacy Shield and Safe Harbor
 
-privacy@slicehost.com
+This [privacy notice](https://web.archive.org/information/legal/privacystatement/safeharbor) explains the privacy practices of our US companies when they receive personal information from the European Union, EEA and Switzerland.
 
-Mail:
+If you have a privacy or data protection-related question about our services or the data that you host with us, please contact your Rackspace support team or service delivery manager.
 
-Attn: Privacy Policy  
-Slicehost LLC  
-112 Pecan Street  
-San Antonio, Texas 78205
-
-#### Revisions To The Privacy Statement
-
-Slicehost reserves the right in its sole discretion to revise, amend, or modify this policy and our other policies at any time and in any manner. Notice of any revision, amendment, or modification of this policy will be posted on the Slicehost websites, and a user’s continued use of the service and the websites will signify agreement to such changes.
+If your questions relate to our Privacy Statement, please email [email us.](mailto:privacy@rackspace.com)
