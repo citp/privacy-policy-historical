@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byinter.net privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426050331id_/http%3A//sitelutions.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byinter.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229154210id_/http%3A//sitelutions.com/info/privacy) for the most accurate reproduction.*
 
 # Sitelutions - Solutions for your site. All in one place.
 
