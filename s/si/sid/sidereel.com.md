@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617233358id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidereel.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032235id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SideReel
 
@@ -57,6 +57,8 @@ We may provide data about our users, traffic patterns, products, services and si
 
 **Tracking and Cookies**  
 When you visit 1R websites and other 1R Properties, we and our advertising associates may store and access information from your device, including "cookies", clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising associates do this for a variety of purposes. In the case of our advertising associates, this may include the personalisation of advertisements based on your visits to sites in that party's network. 
+
+1R websites do not respond to “Do Not Track” requests. In addition, we are not responsible, and shall not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’ tracking policies.
 
 **_Consent for the use of cookies_**  
 _Some countries require you to consent to our and our advertising associates' use of some cookies, including in Europe. Where such requirements may be applicable, 1R highlights its use of cookies to you when visit 1R Properties for the first time. If you continue to use this 1R Property, we will imply from this that you consent to our use of cookies._
