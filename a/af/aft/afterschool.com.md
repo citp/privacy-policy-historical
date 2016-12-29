@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afterschool.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323142756id_/https%3A//www.afterschool.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschool.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052500id_/https%3A//www.diapers.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Legal: AfterSchool.com
+# Legal: Diapers.com
 
 ## Last Updated: July 17, 2014
 
