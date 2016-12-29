@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623011559id_/http%3A//www.yatra.com/online/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatra.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054109id_/https%3A//www.yatra.com/online/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Yatra : Online Travel Services Company in India
 
@@ -50,7 +50,7 @@ We need your device permission to get information about your device, like OS (op
 To provide location specific functionality like airport near you or hotels near you or cabs available near your current location.
 
 **\- SMS:**  
-To auto-verify One-Time Password required for authentication during payments. Doing this helps you save time as you don’t need to go out of the app.
+We need send and receive SMS permission, so as to read your SMS and auto- populate One Time password received on your mobile number for authentication of payments while making a transaction.
 
 **-Calendar:**  
 This permission enables us to put your booking details in your calendar.
