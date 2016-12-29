@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12thblog.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611202737id_/http%3A//www.12thblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12thblog.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229221404id_/http%3A//www.12thblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 12thBlog
 
