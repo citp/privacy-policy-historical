@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.hk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630025005id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.hk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229075403id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
 # AOL Privacy
 
@@ -24,12 +24,12 @@ The information we collect and receive is used to provide our Services, to impro
 
 ### How to Contact Us
 
- **AOL Privacy**  
+**AOL Privacy**  
 22000 AOL Way  
 Dulles, VA 20166  
 privacyquestions@aol.com
 
-[](http://www.networkadvertising.org/managing/learn_more.asp)
+[](http://www.networkadvertising.org/understanding-digital-advertising)
 
 [](http://www.aboutads.info/)
 
