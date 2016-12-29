@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516213823id_/https%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadbolt.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042630id_/https%3A//www.leadbolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Leadbolt
 
@@ -12,7 +12,7 @@ By using or interacting with our Services, you are agreeing to the terms of this
 
 #### For Developers, Advertisers and Publishers
 
-If you are viewing any of our websites in-order to sign up as a developer, advertiser, or publisher (“Client”), on sign-up you will be requested to enter into an agreement with Leadbolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails. 
+If you are viewing any of our websites in-order to sign up as a developer, advertiser, or publisher (“Client”), on sign-up you will be requested to enter into an agreement with Leadbolt (Agreement). That Agreement may contain additional privacy disclosures and obligations. If there is any inconsistency between the Agreement and this Privacy Policy, the Agreement prevails.
 
 #### Information we collect from our Clients
 
@@ -22,7 +22,7 @@ We also use Cookies, Web Beacons and other technologies to store and retrieve in
 
 #### Information we collect from End Users
 
-As an End User of an App that utilizes Leadbolt’s Services, we may automatically collect or receive Anonymous Information via SDKs or other means in order to effectively run our services. 
+As an End User of an App that utilizes Leadbolt’s Services, we may automatically collect or receive Anonymous Information via SDKs or other means in order to effectively run our services.
 
 The type of information we collect may include: generic geographic location, anonymous device identifiers for advertising, operating system versions, mobile applications names, language settings, device type information, mobile network settings, IP addresses, internet browser types where used to access the Services, details of any interactions with our Service.
 
@@ -38,7 +38,7 @@ Leadbolt uses the information we collect about you to provide the Services and t
 
   * operate, manage and improve the Services
   * communicate with you to respond to your enquiries
-  * provide you with information about our Services 
+  * provide you with information about our Services
   * provide you with more relevant ads and limit the number of advertisements you see
   * do any other things that are related to your interactions with us and to facilitate our business operations.
 
@@ -65,7 +65,7 @@ Leadbolt takes reasonable steps to protect all information which we hold from mi
 
 #### Children’s Privacy
 
-We do not knowingly collect Personal Information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible. 
+We do not knowingly collect Personal Information from children under 13. If we learn that we have collected the personal information of a child under 13 we will take steps to delete the information as soon as possible.
 
 #### Opting Out
 
@@ -83,22 +83,22 @@ email: mobile.privacy@leadbolt.com
 
 #### Definitions
 
-**Anonymous Information** is information that does not identify a user. It is sometimes referred to as Non-Personally Identifiable Information.
+ **Anonymous Information** is information that does not identify a user. It is sometimes referred to as Non-Personally Identifiable Information.
 
-**App** or Application is a program downloaded onto a mobile device.
+ **App** or Application is a program downloaded onto a mobile device.
 
-**Clients** are developers, advertiser, publisher or other parties who have entered into an agreement with us to use the Services.
+ **Clients** are developers, advertiser, publisher or other parties who have entered into an agreement with us to use the Services.
 
-**Cookies** are small pieces of data sent from a website that are stored in a user’s web browser while the user is browsing that website. When a user revisits the website, the stored cookie data is available to the website. 
+ **Cookies** are small pieces of data sent from a website that are stored in a user’s web browser while the user is browsing that website. When a user revisits the website, the stored cookie data is available to the website.
 
-**End Users** are users who interact with an App that is utilising the Services.
+ **End Users** are users who interact with an App that is utilising the Services.
 
-**Interest Based Advertising** means the collection of data from apps owned or operated by different entities for the purpose of delivering advertising based on preferences or interests known or inferred from the data collected from those apps.
+ **Interest Based Advertising** means the collection of data from apps owned or operated by different entities for the purpose of delivering advertising based on preferences or interests known or inferred from the data collected from those apps.
 
-**Personal Information** (also referred to as Personally Identifiable Information) is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. It also includes information from which the person’s identity is reasonably ascertainable.
+ **Personal Information** (also referred to as Personally Identifiable Information) is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. It also includes information from which the person’s identity is reasonably ascertainable.
 
-**SDK** or Software Development Kit (iOS versi on 4.5 and above; Android version 6.3 and above) is software which our Clients integrate into their Apps and allows them, through a connection to the Services, to provide their End Users with advertising. By downloading and using the App, End Users grant the App developer with permission to collect and share with Leadbolt such information as detailed in this policy. Prior versions of the SDK are governed by the version of our Privacy Policy relevant to that SDK version. These are available upon request. 
+ **SDK** or Software Development Kit (iOS versi on 4.5 and above; Android version 6.3 and above) is software which our Clients integrate into their Apps and allows them, through a connection to the Services, to provide their End Users with advertising. By downloading and using the App, End Users grant the App developer with permission to collect and share with Leadbolt such information as detailed in this policy. Prior versions of the SDK are governed by the version of our Privacy Policy relevant to that SDK version. These are available upon request.
 
-**Services** includes our websites (www.leadbolt.com and related sites); the connection to our network of application publishers, developers and mobile advertisers; the ad serving platform and SDK and other online services. 
+ **Services** includes our websites (www.leadbolt.com and related sites); the connection to our network of application publishers, developers and mobile advertisers; the ad serving platform and SDK and other online services.
 
-**Web Beacons** are objects that are embedded in a web page and are usually invisible to the user and provides statistics around website usage.
+ **Web Beacons** are objects that are embedded in a web page and are usually invisible to the user and provides statistics around website usage.
