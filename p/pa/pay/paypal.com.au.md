@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323020538id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.com.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053720id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
 >> [View all legal agreements](https://www.paypal.com/au/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Effective Date: July 1, 2015
+Last Update: 19 October, 2016
 
 This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them.
 
@@ -134,8 +134,8 @@ Back to top
 
 We may share your personal information with:
 
-  * Members of or divisions within the PayPal corporate family, such as PayPal Credit. Venmo, or Braintree to provide joint content, products, and services (such as registration, transactions, and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services.
-  * Financial institutions that we partner with to jointly create and offer a product. These financial institutions may only use this information to market PayPal-related products, unless you have consented to other uses.
+  * Members of or divisions within the PayPal corporate family, such as PayPal Credit, Venmo, or Braintree to provide joint content, products, and services (such as registration, transactions, and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services, and communications. Members of our corporate family may use this information to send you marketing communications if you have opted in to receiving marketing communications from PayPal.
+  * Financial institutions with which we or members of our corporate family partner for the purpose of allowing us or the member of our corporate family, and/or the financial institution to create, offer and market a product to you.
   * Credit reporting and collection agencies to report account information, as permitted by law. To request a credit report or other information about you from a credit reporting agency, we will provide information to the credit reporting body that identifies you. PayPal discloses information to Veda Advantage, Dun and Bradstreet and Experian whose privacy policies and contact details are available on their respective websites.
   * Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having PayPal close your PayPal account due to your breach of the PayPal User Agreement).
   * Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information could be used contrary to this Privacy Policy, you will receive prior notice.)
