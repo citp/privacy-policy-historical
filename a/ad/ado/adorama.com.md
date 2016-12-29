@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319140401id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorama.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045048id_/http%3A//www.adorama.com/catalog.tpl%3Fop%3Dprivacy_policy_popup) for the most accurate reproduction.*
 
 # 
 
