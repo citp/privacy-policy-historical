@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgded.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193147id_/https%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgded.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042602id_/https%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
 
 # SiteGround Web Hosting - Privacy Policy
 
