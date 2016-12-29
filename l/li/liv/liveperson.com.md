@@ -1,99 +1,163 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083144id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229075021id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Live Chat for Website | LivePerson
 
-company
+Effective Date:  December 1, 2016
 
-Welcome to the Liveperson.com Privacy Policy. This Privacy Policy applies to you if you are a visitor of LivePerson’s corporate website at [www.liveperson.com ](http://www.liveperson.com/). This Privacy Policy also applies to you when you visit LivePerson’s social media web pages located on third-party social media websites (“LivePerson-branded social media pages”). Visitors to LivePerson’s Website and visitors to LivePerson-branded web pages on social media websites are referred to in this policy as “you” or a “LivePerson Visitor”. “You” and “LivePerson Visitor” also refers to users who communicate with LivePerson directly using LivePerson’s communication technology or other engagement technology or services (“LivePerson’s engagement technology”). This Privacy Policy applies regardless of whether you are using a computer, a mobile device or other device.
+LivePerson values your privacy.  This privacy policy explains what personal data we collect from you and how we use it.  This privacy policy applies if you visit LivePerson’s corporate websites or social media or other web pages located on third-party websites, use any mobile application(s) provided by LivePerson or register to attend any of LivePerson’s corporate events.  This privacy policy also applies if you use LivePerson’s websites, hosted services, products, applications and/or content (collectively, the “Services”) directly or through a LivePerson customer (for example, on a LivePerson customer’s website or mobile application).
 
-This Privacy Policy does not apply to visitors to the websites (or social media web pages) of LivePerson’s business customers. For privacy terms applicable to those visitors, please click [here](http://www.liveperson.com/policies/customer-website-privacy). This Privacy Policy also does not apply to users of LivePerson’s expert services platform offered by LivePerson and made available on www.liveperson.com/experts or on www.kasamba.com or on third party websites. For privacy terms related to LivePerson’s expert services platform, please click [here](http://www.liveperson.com/lp/privacy_policy).
+## What does LivePerson do?
 
-This Privacy Policy explains how LivePerson may collect, use, and disclose “Personal Information” and other information we obtain through LivePerson’s Website, through LivePerson-branded web pages located on third party social media sites and from communications between you and LivePerson.
+LivePerson provides mobile and online messaging technologies that enable digital communication between our business customers and consumers through chat, voice, messaging and other methods. 
 
-_Personal Information Defined_  . LivePerson considers “Personal Information” to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address or phone number. LivePerson does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+## What information do we collect from you?
 
-_Use and Acceptance_  . By using LivePerson’s Website or by using LivePerson-branded social media pages, you agree to this Privacy Policy. In addition, by using LivePerson’s engagement technology to communicate with or engage with LivePerson, you agree to this Privacy Policy. If you do not accept this Privacy Policy, you must not use LivePerson’s Website or LivePerson-branded social media pages, and you must not otherwise use LivePerson’s engagement technology to communicate with or engage with LivePerson.
+If you engage with a brand that uses our Services, we may collect:
 
-### What information do we collect from LivePerson Visitors and how do we collect such information?
-
-  * _Communication Products._  If you engage in a communication with a LivePerson agent using LivePerson’s chat, email, voice or other communication products or services, or if you engage in a pre- or post-interaction survey (“Survey”), you may voluntarily provide, or otherwise be asked to provide, Personal Information, such as your name, contact information and other information to facilitate service.  
-LivePerson maintains transcripts of chats, emails and other written communications that are conducted between you and LivePerson (collectively, “Transcripts”). LivePerson also maintains copies of Surveys and LivePerson may, in accordance with applicable law (including laws related to notice and/or consent), record and maintain recordings of voice communications (“Recordings”). By providing Personal Information and other information via LivePerson’s products or services, you consent to LivePerson collecting and processing such information for the purposes outlined in this Privacy Policy.
-  * _Requests for Information, News and other Content._  You may sign up to receive information, news and other content related to new and existing LivePerson products and services, LivePerson events and other information related to LivePerson that may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.
-  * _Participation in one or more Communities offered by LivePerson._  You may participate in one or more communities (e.g. the Labs Community, Developer Community, Partner Community, Customer Community) offered by LivePerson on LivePerson’s Website. You may be asked to provide Personal Information, such as contact details, and other information prior to becoming a member of any such community. We maintain all such information. In the event that you participate in any message board or blog on LivePerson’s Website, please see the terms below under the heading “LivePerson Community, Message Boards, Blogs”. Other terms may apply to your use of one or more of the LivePerson communities. Such terms are made available when you sign up to become a member of any community and, thereafter, in the member sections of LivePerson’s Website and/or in your member account.
-  * _Technical Support Requests._  . If you need technical support related to our services or LivePerson’s Website, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you are asked to provide Personal Information, including an email address, a URL of their website and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.
-  * _Promotions._  From time to time, we may offer promotions to LivePerson Visitors. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.
-  * _Recruitment and Job Applications._  Personal Information such as that contained on a resume or curriculum vitae may be submitted to LivePerson via LivePerson’s Website in connection with a job offered by LivePerson. Any information supplied by or on behalf of an applicant may be maintained by LivePerson as well as third parties performing recruitment and/or other employment-related services. Please note that LivePerson may have additional privacy terms that apply to job applicants. Such terms will be made available when an applicant applies for a job or, if applicable, when an applicant otherwise accesses his or her job account.
-  * _Browser Information and Usage Information._  We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from LivePerson’s Website and otherwise via LivePerson’s engagement technology. Such information may include page view tallies, time spent on each page, geographic location information, page browsing information and operating system information. If you are using a mobile or other device to visit LivePerson’s Website or otherwise communicate or engage with LivePerson via LivePerson’s engagement technology, we may collect hardware information related to the device used by you.  
-Your browser may be set to limit or prevent any of the browser information described above from being transmitted. If so, certain communication tools and other features and functions on LivePerson’s Website or offered in LivePerson’s engagement technology may not be available to you.  
-LivePerson may review and run reports related to the browsing, purchasing and online behavior and activities of visitors to LivePerson’s Website and visitors to LivePerson’s branded web pages on third party social media websites. LivePerson maintains records of such usage and reports.  
-Also, LivePerson may obtain from a third party data source commercially available information related to a LivePerson Visitor. LivePerson maintains copies of such information. As mentioned below, LivePerson is not responsible for the privacy practices of any third party.
-  * _Cookies._  LivePerson’s services use cookies and other technologies such as pixel tags to collect and store information that is generated automatically as you use the services, including your preferences and anonymous usage statistics.  
-Browsers are usually set to accept cookies. However, if you prefer not to receive cookies, you typically have the option of setting your browser to refuse cookies. If your browser is set to refuse cookies, it is possible that some of the functionality offered by LivePerson will not be available or will not work as effectively for you.
+  * Chat and messaging transcripts on behalf of the brand,
+  * Information on behalf of and/or requested by the brand, such as information related to your browsing, purchasing and online behavior and activities, and
+  * Automatic information, such as IP address, operating system and type of device used.
 
 
 
-By providing Personal Information and other information via LivePerson’s engagement technology and otherwise via LivePerson’s Website, you consent to LivePerson collecting and processing such information for the purposes outlined in this Privacy Policy.
+If you visit our websites or use our apps, we may also collect:
 
-### How does LivePerson use and disclose information it collects from LivePerson Visitors?
-
-  * _Transcripts, Surveys and Recordings._  LivePerson may use Transcripts, Surveys and Recordings for purposes of performing or delivering a service to you, providing maintenance or support services to you, for training and quality assurance purposes, for purposes of improving our services and for other lawful purposes. Third party service providers retained by LivePerson to perform agent or operator services or other services on behalf of LivePerson may also have access to Transcripts, Surveys and Recordings for purposes of performing or delivering a service to you, providing maintenance or support services to you, and/or for training and quality assurance purposes.
-  * _Browser Information and Cookies._  We use browser information, cookies and pixel tags to determine whether a chat, voice or email button or other communication service should be deployed on your browser (in order to allow LivePerson to offer assistance or offers to you or otherwise engage with you). We may also use browser information, cookies and pixel tags to help us adjust and improve our product and service offerings, to allow LivePerson to recognize whether you are a return visitor, for quality assurance and training purposes, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you and for other lawful purposes.
-  * _Aggregate Information._  We may aggregate information so that it is not Personal Information and we may use such aggregated information, and share such aggregated information with our customers and third party service providers, for training and quality assurance purposes, for purposes of delivering services to you and our other customers, for purposes of improving our services and for other lawful purposes.
-  * _Third Parties._  LivePerson does not sell, trade or rent Personal Information provided by you in any Transcript, Survey or Recording for direct marketing or any other purpose, except as provided in this Privacy Policy or with your permission. LivePerson does not divulge the content of Transcripts, Surveys or Recordings to third parties other than to service providers performing services on behalf of LivePerson, others as provided in this Privacy Policy or with your permission.  
-Certain third parties may provide services that connect to or leverage LivePerson’s services. As mentioned below, LivePerson is not responsible for the privacy practices of any third party.  
-LivePerson uses third party data facilities, web and data analytics providers, and other third party service providers (including credit card processors) to perform services related to our website and services that are routinely handled by such providers. Such providers may store and, if applicable, process Personal Information and other information in keeping with the service that they provide.
-  * _Technical Support Requests._  If you submit a technical support request, we may use and maintain such request in order to respond to the questions posed, improve our product and service offerings, for training and quality assurance purposes, for record keeping purposes and for other lawful purposes.
-  * _Offers._  We may use Personal Information provided by you and other information in order to keep you posted on product and service offerings, important announcements, updates to product offerings and events. We may also use such information for purposes of improving our product and service offerings, for training and quality assurance purposes, for record keeping purposes and for other lawful purposes.
-  * _Promotions._  From time to time, we may offer promotions on LivePerson’s Website or via LivePerson-branded social media pages or otherwise via LivePerson’s engagement technology. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We will use and maintain such information for purposes of delivering the promotion and for purposes of improving our product and service offerings, for record keeping purposes, for data analysis purposes and for other lawful purposes.
-  * _Job Applications._  If you submit a resume, curriculum vitae and/or job application via LivePerson’s Website or otherwise to LivePerson via LivePerson’s engagement technology, LivePerson and its third party service providers may contact you and distribute and use this information throughout LivePerson (subject to applicable law) for purposes of considering you for possible employment with LivePerson. We may also keep your information on file for future consideration.
-  * _Legal Requirement to Disclose/Discretion to Disclose._  LivePerson may disclose your information including Personal Information if LivePerson reasonably believes that disclosure: (i) is necessary in order to comply with a legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirement of any governmental authority, (ii) would potentially mitigate our liability in an actual or potential lawsuit, (iii) is necessary to enforce this Privacy Policy or our Terms of Use or any other agreement in place between you and LivePerson, (iv) is intended to investigate and prevent unauthorized transactions or other illegal activities, or (v) is otherwise necessary or appropriate to protect our rights or property (including our rights related to payment for services), or the rights or property of any person or entity.
+  * Information you provide to us, including: 
+    * Personal information, such as your name and contact information,
+    * Surveys, transcripts and recordings of your communications with us,
+    * Information you provide to our website communities (such as the Labs Community, Developer Community and Customer Community), message boards and blogs
+  * Automatic information, such as: 
+    * Web browser and usage information, including IP address, browser types, page view tallies, time spent on each page, page browsing information, operating system and type of device used.
 
 
 
-### Special Notice to LivePerson Visitors located in countries other than the United States
+## How does LivePerson collect information from you?
 
-Because LivePerson operates globally, we may transfer Personal Information about you within our global operations to fulfill LivePerson’s obligations to you, but always subject to the requirements of applicable data protection laws and this Privacy Policy. LivePerson entities located in countries other than the United States may have supplemental privacy policies that may apply in their countries of operation.
+We collect information when you engage with a brand that uses our Services, which may be enabled on the brand’s website or in its mobile applications, voice or SMS messaging capabilities, social media page/profile or other digital engagement solutions.
 
-If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more restrictive than U.S. law, please note that you are transferring your personal data to the United States to LivePerson. By providing your personal data you consent to that transfer.
+In addition, we may collect information through the following methods if you visit our websites or use our apps:
 
-### LivePerson Community, Message Boards, Blogs
-
-If you use any communities, groups or spaces on the LivePerson’s Website, you should be aware that any information you submit there may be read, collected, copied and used by other users, and could be used to send you unsolicited messages. LivePerson is not responsible for the information that you choose to submit or post on any of these areas of LivePerson’s Website or on third party websites and LivePerson is not responsible for how any such information may be used by others or responded to by others. LivePerson’s privacy obligations set forth in this Privacy Policy are not applicable to your use of any community, message board or blog on LivePerson’s Website or any third party website. Additional terms made available via any such community, message board and/or blog may apply to your use of any of the foregoing.
-
-### How does LivePerson protect your information?
-
-  * _Security._  Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the following.
-  * _Encryption and Firewalls._  Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. Transcripts are maintained and archived on secure servers. Access to such data is protected by multi-layered security controls including firewalls, role-based access controls and passwords. Data is backed up daily and archives are stored off-site in a secure location.
+  * Your communications with LivePerson,
+  * Your requests for information, news and other content,
+  * Your participation in one or more LivePerson communities, message boards or blogs,
+  * A technical support request you submit,
+  * Your participation in a LivePerson promotion, or
+  * Recruitment and job applications.
 
 
 
-### Additional terms that may apply to your information
+We may also collect information from our direct interactions with you (such as through your attendance at a trade show or through sales inquiries), publicly available data or data provided by third-party sources, such as marketing opt-in lists.
 
-  * _Safe Harbor._  LivePerson complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor/](http://export.gov/safeharbor/).
-  * _Third-Party Websites._  LivePerson is not responsible for and does not control the privacy practices of any business customer of LivePerson or any other third party. We encourage you to review the privacy practices of each third party.
-  * _Business Transfers._  In the event that all or substantially all of LivePerson’s assets have been acquired, or in the event of any merger, bankruptcy or reorganization involving LivePerson, all Transcripts, Recordings and Surveys, as well as all other information about you and your use of our services will likely be included in the acquired or merged assets.
-  * _Choice Regarding Personal Information._  If you elect to engage in any communication using our services, or submit any request or application to LivePerson via LivePerson’s Website, it is up to you to decide what, if any, information to provide. Depending on the circumstances it may not be possible to communicate with you or address all of your questions without providing some information. Nevertheless, if you do not wish to furnish certain information, then you should not do so.
-  * _Changes to your Personal Information._  If you receive marketing or advertising communications from LivePerson, you may, at anytime, opt out of receiving further marketing and advertising communications from LivePerson by clicking on a link on the bottom of the applicable marketing or advertising email. You may not be able to opt out of receiving important (non-advertising and non-marketing) announcements and notices from LivePerson.
-  * _New Uses of Information._  From time to time, LivePerson may use information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change regarding information previously collected, LivePerson will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+## How does LivePerson use the information it collects about me?
+
+We use the information we collect to provide and improve our services.
+
+If you engage with a brand that uses our Services, we use the information we collect on behalf of and as directed by the brand.  For example, we may use your information to determine whether to deploy a chat button to allow the brand to engage with you or to deploy content, such as a banner offering a coupon, on your browser.
+
+If you visit our websites or use our apps, we may also use your information for the following purposes:
+
+  * To deliver information requested by you, for example in response to technical support requests,
+  * To deliver marketing or other materials to you,
+  * For promotions you may enter into, or
+  * If you submit a resume or CV, to considering you for employment with LivePerson.
 
 
 
-### Contacting LivePerson
+## Does LivePerson use cookies?
 
-LivePerson welcomes your feedback on our Privacy Policy. Please send your comments to [privacy@liveperson.com](mailto:privacy@liveperson.com) or to: LivePerson, Inc., Attn: Legal Department – Privacy, 475 10th Avenue, 5th Floor, New York, NY 10018.
+We may use cookies and other identification technologies for record keeping purposes and to enhance your experience, if you choose to visit our websites 
 
-### Changes to this Privacy Policy
+**Cookies:**
 
-We recommend that you review this policy periodically, as we may update it from time to time. Your use of LivePerson’s Website, any service offered on the website or any of LivePerson’s engagement technology to communicate with LivePerson (whether on LivePerson’s Website or on a third party website) following a change to this Privacy Policy represents your consent to the new Privacy Policy to the fullest extent permitted by law.
+Cookies are small text files stored on a visitor’s web browser and applications. Cookies are often used to make web-browsing easier by performing functions such as saving passwords and maintaining lists of personal preferences regarding the use of the website.
 
-### Definitions
+Our websites, apps and Services may use the following types of cookies:
 
-**_Cookies_**  are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes by many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly.
+  * Strictly Necessary Cookies – these cookies are essential to enable you to browse our websites, apps and Services and use the available features.
+  * Performance Cookies – these cookies collect information about how you use our websites, apps and Services. For instance, these cookies track which pages you visit most. This data may be used to help optimize our websites, apps and Services and make it easier for you to navigate within them. These cookies do not collect information that identifies you; all information is aggregated and anonymous.
+  * Functionality Cookies – these cookies allow our websites, apps and Services to remember choices you make while browsing, such as geographic location and preferences such as text size and fonts. The information collected by these cookies will not personally identify you.
 
-**_Data masking  _**is the process of obscuring (masking) specific data elements within a communication or storage device. Once data is masked the masking cannot be reversed.
 
-**_Encryption_**  is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption.
 
-**_Pixel tags  _**are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied.
+**Other identification technologies that may be used by LivePerson websites, apps and Services:**
 
-**_Web browser  _**is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
+  * Pixel tags (also called beacons or pixels) – these are small blocks of code installed on (or called by) a webpage or application, which can retrieve certain information about your device and browser, including device type, operating system, browser type and version, website visited, time of visit, referring website, IP address and other similar information.
+  * Software Development Kits (also called SDKs) - function like pixels and cookies, but operate in the mobile application context where pixels and cookies cannot always function. The application developer can install pieces of code (the SDK) into the application to collect certain information about user interaction with the application and information about the user device and network information.
+
+
+
+**Third-party technologies:**
+
+LivePerson may use third-party service providers who are authorized to place cookies, pixel tags or similar technologies on our websites, apps and Services with our permission.  These technologies help us compile metrics and analytics (without collecting personally identifiable information) to help improve our websites, apps and Services.  Third-party cookies and technologies are covered by the third party’s privacy policy. 
+
+**Your choice:**
+
+Web browsers are usually set to accept cookies. However, if you prefer not to receive cookies, you typically have the option of setting your browser to refuse cookies. If your browser is set to refuse cookies, it is likely that some of the functionality offered by LivePerson will not be available or will not work as effectively for you. 
+
+For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+**Do Not Track**
+
+Various browsers, including Internet Explorer, Firefox and Safari, currently offer a “do not track” or “DNT” option that relies on a technology that sends a signal to websites a user visits about that user’s browser DNT preferences. While LivePerson attempts to honor the DNT instructions received from a user’s browser, LivePerson cannot guarantee that it will always respond to such signals because a common industry standard for DNT has not been adopted. LivePerson will continue to monitor developments around DNT browser technology.
+
+## Reasons we share personal data
+
+We may share your information if we reasonably believe that it:  (i) is necessary to comply with a legal process (such as a court order, subpoena, or search warrant) or other legal requirement of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is necessary to enforce this privacy policy or our Terms of Use at [www.liveperson.com/policies/terms-of-use](http://www.liveperson.com/policies/terms-of-use) or any other agreement in place between you and LivePerson; (iv) is necessary to investigate and prevent unauthorized transactions or other illegal activities; and/or (v) is otherwise necessary or appropriate to protect our rights or property or the rights or property of any person or entity.
+
+We may aggregate information so that it is not personally identifiable and use and share such aggregated information for training and quality assurance purposes and to deliver and improve our Services.
+
+LivePerson does not sell, trade or rent personal information provided by you in any transcript, survey or recording for direct marketing or any other purpose, except as provided in this privacy policy or with your permission.  LivePerson does not disclose the contents of transcripts, surveys or recordings other than to service providers performing services on behalf of LivePerson, other than as provided in this privacy policy or with your permission.  If you engage with a brand that uses our Services, we may also share your information with the brand and our third party service providers.
+
+## Access and changes to personal data
+
+If you elect to engage in any communication or engagement session with LivePerson or a customer that uses our Services, it is up to you to decide what, if any, information to provide during such session.  Depending on your request, it may not be possible for us or our customer to address all of your questions without further information from you.  Nevertheless, if you do not wish to provide certain information, then you should not do so. 
+
+## Third-party integrations
+
+From time to time, we may partner with other companies to allow LivePerson and its customers to offer integrations with our Services.  If you engage with a brand that uses one of these integrations, LivePerson may share your data with the third-party partner, receive data about you from the third-party partner, and/or combine third-party partner data about you with information about you that we collect.  We do not control how a third-party partner may use your data.   Use of your information by the third-party partner there is governed by its privacy policies.  If you do not wish for your information to be shared in this way, you may opt not to use such integrations.
+
+## How can I access or update my information with LivePerson?
+
+If you have signed up to receive LivePerson’s marketing or advertising communications, you may, at any time, opt out of receiving further communications by clicking on the opt-out link at the bottom of a marketing or advertising email you receive.  You may also contact us at [privacy@liveperson.com](mailto:privacy@liveperson.com) to opt out or to request changes to your personal information.
+
+I f you would like to correct or delete the personal data you provided to a brand with whom you engaged through the Services, you may either contact the brand directly, or contact us at [privacy@liveperson.com](mailto:privacy@liveperson.com), and we can help put you in touch with the brand.
+
+## How does LivePerson keep my information secure?
+
+We use security measures designed to protect against the loss, misuse and alteration of the information under our control.  For certain LivePerson Services, chat/messaging transcripts are encrypted during transmission.  In addition, transcripts that we store are maintained and archived on secure, hardened servers that are hosted on highly secure data centers.  Access to this data is protected by multiple layers of controls, including firewalls, role-based access controls, authentication mechanisms and monitoring.  Data is backed up, and archives are stored off-site in a secure location. We also offer additional encryption functionality and data masking to our customers. 
+
+If you are communicating with a brand that uses our Services, you should review the privacy practices of that brand to understand which security measures they use. 
+
+## Additional mobile considerations
+
+In addition to the other terms in this policy, if you use our mobile applications, access our mobile-optimized websites or have a conversation with a LivePerson customer that uses our Services in its mobile application, we may receive information about your mobile device, including a unique identifier for your device. 
+
+If you receive SMS messages from LivePerson, you may opt out by following the opt-out instructions that we provide or by contacting us at [privacy@liveperson.com](mailto:privacy@liveperson.com). 
+
+If you receive SMS messages from one of our customers, you may opt out by following the opt-out instructions provided by the brand you are communicating with or by contacting the brand.  You may also contact us at [privacy@liveperson.com](mailto:privacy@liveperson.com), and we can help put you in touch with the brand regarding your request.
+
+## LivePerson communities, message boards and blogs
+
+Information that you share on LivePerson communities, message boards or blogs becomes publicly available and therefore may be read, collected, copied and used by other users for any purposes at their discretion.  Because this information is publicly available, LivePerson’s privacy obligations outlined in this privacy policy do not apply to your use of any such communities, message boards or blogs.
+
+## International data transfers
+
+If you are located outside of the United States, please note that we may transfer your personal data outside your country of origin.  By providing or making available your personal data, you consent to that transfer.
+
+We adhere to the principles of the EU-US Privacy Shield Framework regarding the collection, use and retention of personal information transferred from the European Union to the United States and have certified our compliance with the U.S. Department of Commerce.  To learn more about the Privacy Shield Framework and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield website at www.privacyshield.gov.
+
+We use a limited number of third-party service providers to assist us in making our websites and Services available to visitors and users.  For example, we may share data with third parties who provide services to us, such as credit card processing services, analytics and data storage services.  These third parties may access, process or store personal data in the course of providing their services.  We currently maintain contracts with these third parties restricting their access, use and disclosure of personal data, and are in the process of updating these contracts in compliance with our Privacy Shield obligations.  LivePerson is responsible if these third parties process personal data in violation of the Privacy Shield principles (unless LivePerson can prove that it’s not responsible for the third party’s action that violated the Privacy Shield principles).
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, We are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+EU individuals have the right to access personal data about them, and to limit use and disclosure of their personal data.  With our Privacy Shield certification, LivePerson has committed to respect those rights.  Because our personnel has limited ability to access personal data our customers submit through our Services, if you wish to request access to or to limit use and/or disclosure of your personal data, please contact us with the name of the LivePerson customer through which you used our Services.  We will refer your request to that customer, and will support them as needed in responding to your request.
+
+Any inquiries or complaints regarding our Privacy Shield compliance may be directed to [privacy@liveperson.com](mailto:privacy@liveperson.com).  We will respond within 45 days and provide appropriate recourse at no cost to you.  If we fail to respond within that time, or if our response does not address your concern, you may contact JAMS at [www.jamsadr.com](http://www.jamsadr.com/), an independent third-party dispute resolution mechanism based in the United States.  If neither LivePerson nor JAMS resolves your complaint, the Privacy Shield Panel, a binding arbitration mechanism provided under the Privacy Shield program, may be available to you.
+
+## Miscellaneous
+
+We recommend that you review this privacy policy periodically, as we may update it from time to time.  Your use of our websites, apps and Services, as applicable, constitutes your consent to the new privacy policy to the fullest extent permitted by law. 
+
+We are not responsible for and do not control the privacy practices of any of our customers or any other third party.  We encourage you to review the privacy practices of each third party. 
+
+We welcome your feedback on our privacy policy.  Please send any comments or questions to [privacy@liveperson.com](mailto:privacy@liveperson.com) or to LivePerson, Inc., Attn: Legal Department – Privacy, 475 Tenth Ave., 5th Floor, New York, NY 10018. 
