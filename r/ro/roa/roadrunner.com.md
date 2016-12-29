@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605085200id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunner.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045957id_/http%3A//www.twcc.com/privacy/web_privacy_policy_bhn) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
 [« Back to Homepage](http://www.twcc.com/)
 
-**Welcome to Time Warner Cable's Privacy Policy for the TWC Central Website and the Road Runner Website**
+**Welcome to Spectrum's Privacy Policy for the Spectrum Website**
 
-The information Time Warner Cable collects about you at [http://www.twcc.com](http://www.twcc.com/) and at http://www.rr.com, and the subdomains thereof (the "Sites" or "Websites") is used to administer the Website and to provide information to Website visitors about TWC’s and the Site's various services and tools, and to provide general news, information and entertainment. Time Warner Cable and Time Warner Cable-affiliated cable operators are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
+The information collected about you at [http://www.twcc.com](http://www.twcc.com/) by Time Warner Cable’s parent Charter Communications Operating, LLC and its subsidiaries providing you the Services (“Spectrum”), and the subdomain thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about Spectrum’s and the Site's various services and tools, and to provide general news, information and entertainment. Spectrum and Spectrum -affiliated cable operators are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or " Spectrum.”
 
 **What Does This Privacy Policy Cover?**
 
-This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Time Warner Cable's treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Time Warner Cable. A privacy notice relating to such other services is located at <http://help.twcable.com/html/policies.html>.
+This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Spectrum's treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Spectrum. A privacy notice relating to such other services is located at <http://help.twcable.com/html/policies.html>.
 
-This Privacy Policy covers how Time Warner Cable treats information that Time Warner Cable collects and receives about you via this Website, including the personal information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
+This Privacy Policy covers how Spectrum treats information that Spectrum collects and receives about you via this Website, including the personal information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
-**How Does Time Warner Cable Collect and Use Information About You?**
+**How Does Spectrum Collect and Use Information About You?**
 
-Time Warner Cable will not share your personally identifiable information with third parties for their marketing purposes without your consent.
+Spectrum will not share your personally identifiable information with third parties for their marketing purposes without your consent.
 
-The information learned from this Website's users will help Time Warner Cable provide an enhanced online experience for its subscribers. Time Warner Cable tracks certain information about users (as further described below), including, but not limited to, the type of browser being used by the visitor (e.g., Firefox, Internet Explorer, etc.), the type of operating system (e.g., Apple Mac OS X, Windows XP, etc.) in use by the visitor and the domain name of the visitor's Internet service provider. By having this information, Web pages optimized for a particular visitor's preferences are automatically made available to that visitor. Other use of this information may include review of the number of visitors to this Site as well other internal and administrative purposes.
+The information learned from this Website's users will help Spectrum provide an enhanced online experience for its subscribers. Spectrum tracks certain information about users (as further described below), including, but not limited to, the type of browser being used by the visitor (e.g., Firefox, Internet Explorer, etc.), the type of operating system (e.g., Apple Mac OS X, Windows XP, etc.) in use by the visitor and the domain name of the visitor's Internet service provider. By having this information, Web pages optimized for a particular visitor's preferences are automatically made available to that visitor. Other use of this information may include review of the number of visitors to this Site as well other internal and administrative purposes.
 
-Personally identifiable data (as further described below) about visitors to this Site are collected by Time Warner Cable, for example, when users register or subscribe for newsletters, accounts or features on our Website, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, message board, blog, or other similar open forum on our Website, submit a comment or question to us using a "contact us" or similar feature on our Website, or send us an e-mail, or in any other way submit personal information to us via our Website.
+Personally identifiable data (as further described below) about visitors to this Site are collected by Spectrum, for example, when users register or subscribe for newsletters, accounts or features on our Website, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, message board, blog, or other similar open forum on our Website, submit a comment or question to us using a "contact us" or similar feature on our Website, or send us an e-mail, or in any other way submit personal information to us via our Website.
 
 **Ads and Content displayed to you on the Site and on other web sites may be customized to your interests and preferences, based on your personal information and web site usage information, including (but not limited to) non-personally identifying information, which may be obtained from you or from other sources.**
 
 We may use your personally identifiable information to send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. A
 
-Time Warner Cable sites (other than this Site), as well as any other third party sites linked to from this Site, may each have different privacy policies and practices. Time Warner Cable is not responsible for the information practices of non-Time Warner Cable sites, or channels or areas of this Site, that are operated by third parties. You should carefully review these other privacy policies in order to determine how each third party may use any personal information you provide.
+Spectrum sites (other than this Site), as well as any other third party sites linked to from this Site, may each have different privacy policies and practices. Spectrum is not responsible for the information practices of non-Spectrum sites, or channels or areas of this Site, that are operated by third parties. You should carefully review these other privacy policies in order to determine how each third party may use any personal information you provide
 
-**Here are the types of information Time Warner Cable gathers and how this information is used:**
+**Here are the types of information Spectrum gathers and how this information is used:**
 
 **Website Usage Information**  
-Time Warner Cable receives and stores certain types of website usage information whenever you interact with our Website. Here are the types of website usage information Time Warner Cable gathers and how it is used.
+Spectrum receives and stores certain types of website usage information whenever you interact with our Website. Here are the types of website usage information Spectrum gathers and how it is used.
 
 **Cookies**
 
@@ -55,7 +55,7 @@ Any or all of these activities with regard to web site usage Information may be 
 
 **Short Message Service**
 
-We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes from Time Warner Cable.
+We may make available a service through which you can receive messages on your wireless device via short message service ("SMS Service"). If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes from **Spectrum**.
 
 Your wireless carrier's standard rates apply to these messages, and you may change your mind at any time by following the instructions on the Site or in the message you receive. **Your opt-out will be effective once we send you a text confirmation of your opt-out.**  You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges. To use the SMS Service, you must be 18 years of age or older and reside in the United States. You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier). We may also obtain the date, time and content of your messages in the course of your use of the SMS Service. We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.
 
@@ -76,30 +76,30 @@ These companies may use information (generally not including your name, address 
 
 **Personal Information**
 
-Time Warner Cable also receives and stores information that may personally identify you. Visitors to the Website who decide to register or login to TWCC.com in order to request a more personalized Website experience, or accept any of the various promotions and other product or service offerings (i.e., security downloads) that may be made available on the Website from time to time, may be asked to enter certain types of personally identifiable information that will allow Time Warner Cable to provide those promotions and offerings to the visitor. The types of personally identifiable information that may be collected include: name, postal address, email address and phone number; short message service or text message address or other wireless device address; instant messaging address; credit card or other payment information; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.
+Spectrum also receives and stores information that may personally identify you. Visitors to the Website who decide to register or login to TWCC.com in order to request a more personalized Website experience, or accept any of the various promotions and other product or service offerings (i.e., security downloads) that may be made available on the Website from time to time, may be asked to enter certain types of personally identifiable information that will allow Spectrum to provide those promotions and offerings to the visitor. The types of personally identifiable information that may be collected include: name, postal address, email address and phone number; short message service or text message address or other wireless device address; instant messaging address; credit card or other payment information; demographic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.
 
 We may match information collected from you through different means or at different times, including both personal information and site usage information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information. 
 
-**Does Time Warner Cable Ever Share Information with Other Parties?**
+**Does Spectrum Ever Share Information with Other Parties?**
 
 Disclosure of Information to Outside Parties:
 
-Time Warner Cable will not disclose information about you to any other party except under the circumstances as described below, or as otherwise provided in this Privacy Policy or required or permitted by law:
+Spectrum will not disclose information about you to any other party except under the circumstances as described below, or as otherwise provided in this Privacy Policy or required or permitted by law:
 
   * If you give us your consent, we may share your personally identifiable information with third parties (such as co-sponsors of our sweepstakes, contests and other offerings) pursuant to the terms of your consent.
-  * Time Warner Cable may share your information with its affiliates, service providers and other third parties that help to operate our business and this Website and deliver the products and services available on or through the Website.
+  * Spectrum may share your information with its affiliates, service providers and other third parties that help to operate our business and this Website and deliver the products and services available on or through the Website.
   * When you contribute to a "public" area or feature of our Website, such as a chat room, bulletin board, blog or other open forum that we may make available on or through our Website, the information that you submit will be made available to other users. For this reason, we recommend that you not submit any sensitive information on these areas of the Site, including your full name, home address, phone number, financial information, or other information that would enable users to locate you.
-  * Time Warner Cable provides your information to trusted partners who work on behalf of or with Time Warner Cable and under confidentiality agreements. However, these companies do not have any independent right to share this information.
-  * When Time Warner Cable believes it should, it will respond to subpoenas, court orders, legal process, and to establish or exercise Time Warner Cable's legal rights or defend against legal claims.
-  * Time Warner Cable shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to Time Warner Cable's property or the physical safety of any person, violations of Time Warner Cable's terms of use or as otherwise allowed by law.
-  * In the event that Time Warner Cable, or any affiliated entity, or substantially all of its assets related to a particular business line or geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
+  * Spectrum provides your information to trusted partners who work on behalf of or with Spectrum and under confidentiality agreements. However, these companies do not have any independent right to share this information.
+  * When Spectrum believes it should, it will respond to subpoenas, court orders, legal process, and to establish or exercise Spectrum's legal rights or defend against legal claims.
+  * Spectrum shares information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to Spectrum's property or the physical safety of any person, violations of Spectrum's terms of use or as otherwise allowed by law.
+  * In the event that Spectrum, or any affiliated entity, or substantially all of its assets related to a particular business line or geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
   * In addition, we may share non-personally identifiable site usage information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.
 
 
 
 **Security**
 
-Time Warner Cable will take steps to protect the security and integrity of all sensitive information provided to this Site. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers.
+Spectrum will take steps to protect the security and integrity of all sensitive information provided to this Site. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers.
 
 You are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you.
 
@@ -107,10 +107,10 @@ In the event that we believe that the security of your Personal Information in o
 
 **Changes to This Privacy Policy:**
 
-Time Warner Cable will occasionally update this Privacy Policy at Time Warner Cable's sole discretion. Please check the Website frequently to see recent changes. Such changes and/or modifications shall become effective immediately upon posting thereof. Without limiting the foregoing, Time Warner Cable may occasionally notify you by email about changes to the Website and/or this Privacy Policy, or provide notices of such changes by displaying notices or links to notices to you generally on the Website.
+Spectrum will occasionally update this Privacy Policy at Spectrum's sole discretion. Please check the Website frequently to see recent changes. Such changes and/or modifications shall become effective immediately upon posting thereof. Without limiting the foregoing, Spectrum may occasionally notify you by email about changes to the Website and/or this Privacy Policy, or provide notices of such changes by displaying notices or links to notices to you generally on the Website.
 
 **Contacting Us:**
 
-If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Website, you may contact us at [TWC.privacy@twcable.com](mailto:TWC.privacy@twcable.com).
+If you have any questions regarding this Privacy Policy, or the privacy practices of Spectrum in connection with this Website, you may contact us at [TWC.privacy@twcable.com](mailto:TWC.privacy@twcable.com).
 
-July 2013
+December 2016
