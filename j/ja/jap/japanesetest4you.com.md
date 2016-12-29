@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519013931id_/http%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229175113id_/http%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | Japanesetest4you.com
+# Privacy Policies – Japanesetest4you.com
 
   
 **Japanesetest4you.com’s Privacy Policy**
