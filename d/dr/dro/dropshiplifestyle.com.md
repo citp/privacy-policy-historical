@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416141201id_/https%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229023917id_/https%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Drop Ship Lifestyle 4.0: How To Start a Drop Shipping / eCommerce Store
+# Privacy Policy | Drop Shipping Guides, Tools, and Suppliers
 
 Data Controller and Owner  
 Drop Ship Lifestyle,  
