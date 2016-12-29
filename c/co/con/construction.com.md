@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225308id_/https%3A//construction.com/privacy-notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229190535id_/http%3A//www.construction.com/privacy-notice.asp) for the most accurate reproduction.*
 
 # Privacy & Cookie Notice | Dodge Data & Analytics
 
@@ -32,7 +32,7 @@ In connection with these legitimate business purposes, your PII may potentially 
 
 **If you want to limit use or sharing of your PII for marketing purposes:**
 
-[Click here](http://construction.com/Privacy_opt-out/) or send an email to [Construction.Privacy.Policy@construction.com](mailto:Construction.Privacy.Policy@construction.com) or write Amy Sidelinger, Privacy Official, Dodge Data & Analytics, 148 Princeton-Hightstown Rd, East Windsor, NJ 08520 with the following instructions:
+[Click here](http://www.construction.com/Privacy_opt-out/) or send an email to [Construction.Privacy.Policy@construction.com](mailto:Construction.Privacy.Policy@construction.com) or write Privacy Officer, Dodge Data & Analytics, 300 American Metro Blvd, Suite 185, Hamilton, NJ 08619-2371 with the following instructions:
 
 ______I do not want to be contacted by Dodge Data & Analytics through any method for marketing purposes.
 
@@ -72,7 +72,7 @@ You can change your Web browser’s Internet preferences to disable or delete co
 
 [Internet Explorer](http://support.microsoft.com/kb/196955)
 
-[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+[ Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
 
 [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
@@ -92,6 +92,6 @@ Dodge Data & Analytics mobile apps obtain the information you provide when you d
 
 To review and confirm the accuracy of your PII or to contact us with concerns or questions, please write to: [Construction.Privacy.Policy@construction.com](mailto:Construction.Privacy.Policy@construction.com "Construction.Privacy.Policy@mhfi.com")
 
-[Click here](http://construction.com/privacy-policy.asp) for more information about the Dodge Data & Analytics Privacy Policy.
+[Click here](http://www.construction.com/privacy-policy.asp) for more information about the Dodge Data & Analytics Privacy Policy.
 
 **Last updated: January 30, 2015. Future revisions to this Privacy and Cookie Notice will be posted at this location.**
