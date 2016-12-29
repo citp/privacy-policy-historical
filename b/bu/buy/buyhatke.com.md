@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyhatke.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602070459id_/http%3A//compare.buyhatke.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhatke.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229095220id_/https%3A//compare.buyhatke.com/company/privacy.php) for the most accurate reproduction.*
 
 # Buyhatke | Privacy
 
@@ -114,6 +114,8 @@ Examples of information you can access easily at Services of Buyhatke includes
 
 
 **When information is accessed from mobile apps**
+
+We include some third party SDKs which might also collect some personally identifiable information (PII) about you. This may include but not restricted to your email id, phone number, IP address, android ID, IMEI etc.
 
 In case of the [mobile app](https://play.google.com/store/apps/details?id=com.app.buyhatke) we also work with mobile network operators and OEMs in order to ensure the best experience for the users. We run giveaways where we ensure a user can avail the offer based on terms and conditions.. For that : 
 
