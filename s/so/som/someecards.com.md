@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623071800id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the someecards.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061501id_/http%3A//www.someecards.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | someecards.com
 
@@ -133,8 +133,6 @@ someecards, inc. P.O. Box 695 New York, NY 10159
 
 ## When you care enough to hit send
 
-or
-
 Almost Done!
 
 Choose an available username to complete sign up
@@ -183,8 +181,6 @@ Email:
 To:
 
 Message (Optional):
-
-Delivery:
 
 To:
 
