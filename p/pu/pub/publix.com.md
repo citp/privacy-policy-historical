@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053008id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051508id_/https%3A//www.publix.com/publix-website-policies) for the most accurate reproduction.*
 
 # 
 
