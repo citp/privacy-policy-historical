@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609051601id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfl.gov.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043531id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - Transport for London
 
 We are committed to protecting your personal information when you use TfL services. In this section we explain how we ensure that your privacy is respected and protected. 
 
 We sometimes need to collect your personal information so that we can provide you with the full range of our services and carry out our statutory functions. Here, we outline our obligations and your rights under the Data Protection Act 1998, which regulates the use of personal information by all private and public sector organisations.
+
+## WiFi data collection pilot
+
+Between 21 November and 19 December 2016, TfL will be collecting WiFi connection data from mobile devices using the station WiFi at 54 Tube stations in central London. [Find out more about our WiFi data collection pilot](https://web.archive.org/corporate/privacy-and-cookies/wifi-data-collection-pilot).
 
 ## TfL website 
 
