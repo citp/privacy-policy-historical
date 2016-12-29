@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511152942id_/http%3A//www.mobizill.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizill.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229222755id_/http%3A//www.mobizill.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Free mobile wallpapers,latest news and the latest gallery
 
