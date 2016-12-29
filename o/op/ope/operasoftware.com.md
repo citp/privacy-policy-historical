@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617183341id_/https%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042640id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Opera
 
@@ -14,7 +14,7 @@ We'll always honor your decisions for how your data is used. We have safeguards 
 
 When we post changes to this privacy statement, we will include the date when the statement was last updated. If we significantly change this statement or how we use your personal information, we will notify you either by prominently posting a notice prior to implementing the change or by sending you a notification directly. We encourage you to respect review this statement periodically.
 
-### Why we collect data?
+### Why do we collect data?
 
 We only process your data for purposes that are objectively justified by our products and services. We process this data with respect to your fundamental right to privacy, including the need to protect personal integrity and private life and to ensure that your personal data is of adequate quality. Unless otherwise stated, we determine the purposes for and manners in which your data is collected (in legalese, we act as a "data controller" regarding personal data).
 
@@ -30,11 +30,11 @@ We collect data to:
 
 We may also use your data to send personalized information regarding updates, upgrades, enhancements, surveys, recommendations and/or advertisements, if we believe these are relevant for you.
 
-### What data we collect?
+### What data do we collect?
 
 The information we collect may include: personal data, for example your name, email, IP-address, location; and non-personal technical data, for example who manufactured your device, your screen's resolution, your mobile operator's region and code. A complete list of the data we collect and purpose of collection may vary between our products and services. You can find detailed descriptions in the product/service-related sections below.
 
-### How we collect data?
+### How do we collect data?
 
 Generally, we collect data:
 
@@ -54,7 +54,7 @@ Some third-party sites may monitor data traffic from our products and services, 
 
 This privacy statement does not cover third-party apps you access and use through our products and services, nor does it cover links to other websites. We do not control the privacy and security practices and policies of these third parties and their sites. We encourage you to read the privacy statements of the third-party apps and websites you use.
 
-### How we protect your data?
+### How do we protect your data?
 
 We treat your personal data as required by law. We are a Norwegian company and we follow Norwegian data-security laws as well as other national legislation, as needed. We require that our suppliers successfully pass security assessments and prove their compliance with applicable laws and industry standards.
 
@@ -62,7 +62,7 @@ Only a limited number of Opera employees have access to the data we collect. We 
 
 Our commitment to your privacy does not extend to third-party products and services you may access from Opera products and services. We encourage you to read the privacy statements of the third-party products and services you use.
 
-### How we share your data?
+### How do we share your data?
 
 We may share your data:
 
