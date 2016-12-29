@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618233811id_/https%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opposingviews.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042649id_/https%3A//www.opposingviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,11 +74,15 @@ We may allow third-party advertisers to post advertisements on the Sites. These 
 
 The Sites contain content from third parties and links to other third party web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.
 
-We also use third party advertising companies to serve ads and collect data on the Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to the Sites and other web sites in order to provide advertisements on this and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices for opting-out of this use of your information, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements and about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://networkadvertising.org/.
 
 ### 9\. Confidentiality And Security
 
 We use electronic, physical, and administrative safeguards, including firewalls and advanced password protection, to protect the security of your information. We limit access to your personal information to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information and private communications will always remain private.
+
+### 10\. How to Opt Out
+
+You can opt-out of targeted advertising delivered on Sites by visiting http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/ 
 
 You should take steps to protect yourself as well. For example:
 
@@ -93,4 +97,4 @@ We may change this Privacy Policy from time to time, and we will post the amende
 
 To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [admin@opposingviews.com](mailto:admin@opposingviews.com).
 
-Last updated July 6, 2015
+Last updated December 21, 2016
