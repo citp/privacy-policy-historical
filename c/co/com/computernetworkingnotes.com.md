@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004354id_/http%3A//computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033133id_/http%3A//www.computernetworkingnotes.com/computer-networking-notes/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us . To contact us use our contact forum.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us .
