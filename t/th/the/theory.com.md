@@ -1,55 +1,121 @@
-> *The following text is extracted and transformed from the theory.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201054034id_/http%3A//www.theory.com/privacy-policy/cs-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theory.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230005203id_/http%3A//www.theory.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Theory.com
+# Privacy Policy
 
-## Privacy Policy 
+PRIVACY POLICY
 
-Last Revised: [January 14, 2010]
+Last updated [June 23, 2016]
 
-Theory LLC (“Theory”, “we”, “us” or “our”) share your concern about the protection of your personal information online.   This privacy policy (“Policy”) is our policy that addresses how we maintain the privacy of personal information we collect online in connection with the Theory website located at www.theory.com (the “Site”).
+Introduction
 
-This Policy describes our privacy practices and sets out your obligations and ours with respect to your use of the Site. This Policy applies only to the Site and does not necessarily apply to our off-line collection of information. By visiting the Site, you agree to abide by the terms of this Policy and the [[terms of use](https://web.archive.org/web/20151201054034id_/http%3A//www.theory.com/privacy-policy/%3Ca%20href=%22http://www.theory.com/on/demandware.store/Sites-theory_US-Site/default/Page-Show?cid=terms-of-use%22%3ETerms%20Of%20Use%3C/a%3E)] (the “Terms of Use”).
+Theory LLC (together with its affiliates “Theory”) values its customers and respects their privacy. This Privacy Policy applies to personal information that we collect about you in the United States, including but not limited to data collected through our websites, mobile applications (collectively the "website") and in our stores. This information is used to improve your shopping experience and to communicate with you about our products, services and promotions. Neither your name nor any of your personal information is sold to any other non- affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with business partners that help this site function or assist us in fulfilling or servicing your order, as well otherwise detailed below. Personal information that we collect about you outside of the United States shall be governed by separate privacy policies. 
 
-We may need to change this Policy from time to time in order to address new issues and to reflect changes on the Site or in the law.  We reserve the right to revise or make any changes to this Policy, and your continual use of the Site subsequent to any changes to this Policy will mean that you accept such changes. Therefore, please bookmark this page and review it periodically to assure familiarity with the most current version of this Policy. We will post all changes to this Policy on the Site so that you will always know what information we gather, how we might use that information, and when and how we will disclose that information. You can tell that this Policy has been updated by checking the last revised date posted on the top of this page. If due to such changes, you decide that you want to remove any portion of your personal information from our database, please notify us at unsubscribe@theory.com.
+This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use certain information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears on this policy. We shall not apply changes in our policy retroactively to information collected from you under a prior policy if, in the reasonable exercise of our discretion, we determine that the changes substantively affect your rights, unless we have given you notice of the changes of the policy and an opportunity to opt out. We will provide this notice to you by email if we have a current email address for you and otherwise by posting notice of the change prominently on the home page of our website. 
 
-BY VISITING THE SITE, YOU CONSENT TO OUR USING ANY INFORMATION THAT YOU PROVIDE TO US OR THAT WE COLLECT, IN ACCORDANCE WITH THIS POLICY AND THE TERMS OF USE. IF YOU DO NOT AGREE TO THIS POLICY AND THE TERMS OF USE, DO NOT VISIT OR USE THE SITE.
+Information We Collect & How We Use It
 
-**Information We Collect and Track.**  Theory collects and retains two types of information about Site visitors: (i) personal information that individual visitors provide when interacting on the Site, or voluntarily provide on certain other occasions (such as via forms or in emails); and (ii) tracking data, which is automatically collected from every Site visitor and recorded on our log files, (collectively, “Information”). The Information that we gather may include your name, title and address, telephone number, email address, birth date and credit card number as well as other elements of personal information.
+We sometimes ask you for certain kinds of personal information to provide the services we offer. By providing your personal information as set forth herein, you are authorizing Theory to store and use your information accordingly. This information includes:
 
-In addition, if you contact us, we may keep a record of your correspondence, including any Information contained therein.
+•    Shopping: We may ask for information such as your name, billing and shipping address, telephone number, email address and payment card information in order to process your purchase, confirm your order and ship the items to you. If you elect to be added to the Theory marketing list, we may use your contact information to communicate with you about our products, services, surveys and promotions. 
 
-You may decline to provide any personal information, but please realize that you thereby may be unable to register on the Site or to participate in activities or services offered by Theory on the Site.
+•    My Account: You have the opportunity to create a personal shopping account with Theory, which allows you to shop faster and easier. Using a user name and a password of your choice, you may access your account online at any time to add, delete, or change information. In creating this account, you authorize Theory to store your name and email address. Should you elect to do so, you may also include in your “My Account” your telephone number, payment card information, and shipping and billing addresses. If you choose to include such additional information then you are also authorizing Theory to store such information accordingly. Each of these options is for your convenience only. If you ever use a public computer to visit the “My Account” section of our website we strongly encourage you to log out at the conclusion of your session. Through the “My Account” feature, you may create a Wish List of products you want and share the items on your list by copying and pasting the URL. When you create an account with Theory, you will be given the option to be added to the Theory marketing list. Whether or not you select this option, your personal information will never be sold to anyone and except as specifically provided herein, your personal information will not be shared. 
 
-The tracking data we record includes, without limitation, information regarding the number and frequency of visits to the Site, the items you viewed and/or purchased, the websites that you access before and after you visit the Site, the software used to access the Site, and your IP address and Internet service provider related information. The tracking data we record may include the location of your computer.
+•    Email List: You may also sign up on the website to receive promotional emails from Theory. To sign up we may ask for information such as your name, email address, mailing address, telephone number, gender, age, birthday and preferences. Subscriptions to the email list can be cancelled at any time. 
 
-**How We Use Your Information.**  The Information that we collect and that you provide to us is used for our business purposes and the purpose for which you provided it, including, without limitation, to respond to your requests or correspondence. Theory may also use the Information to contact you about the Site or to request your input regarding ways in which we might improve the Site. We may also use your Information to inform you about Theory’s activities, promotions, products, services and events in which Theory thinks you may be interested. The Information may also be analyzed so that we can provide you with useful information and can serve you in the best manner possible through enhanced features and functions on the Site.
+•    Removal from Lists: To be removed from our marketing list, please email us at inquiries@theory.com. You may also click the unsubscribe button found at the bottom of the emails in order to be removed from emails that we send you. Please allow us at least ten (10) business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. 
 
-We will not disclose any personal information to third parties, except (i) to parties who perform a service for us, such as sending you mail or email, web hosting, credit card processing and other similar services; (ii) when we believe that such disclosure is required by law; (iii) to enforce this Policy or the Terms of Use; (iv) to protect the rights, property, security or safety of Theory, Site users or the public; (v) to respond to an emergency; or (vi) as otherwise stated in this Policy.  In addition, we may disclose Information to certain third parties if you have requested or authorized the disclosure of such Information.
+•    Customer Care: If you call, email or chat with our Customer Care center, we may ask for information such as your name, email address, mailing address, telephone number and if you choose to make a purchase, your credit card information. We use this information to assist you and to process or review your transaction. When you place an order through Customer Care, you will be asked to provide your credit card information. Theory does not store your credit card information unless you choose to include it in your “My Account” (see above). 
 
-We provide certain Information to third party service providers who perform specific functions on our behalf. For example, we may share your mailing address and other contact information with our delivery partners, and certain of our service providers (i.e., web hosting, credit card processing, catalog management and others) may have access to all or parts of the Information we maintain. All such Information provided to third parties is limited to the Information needed to perform their functions. We seek to limit third-party use of Information; however, we are not responsible for such third-party use of Information that is not in compliance with this Policy.
+•    Surveys, Sweepstakes & Promotions: On this website, you may be able to participate in surveys, sweepstakes and promotions. If you choose to participate in these promotions, we may request information such as your name, age, email address, mailing address, telephone number, and interests or product preferences. This information is used to enter you into our contests, sweepstakes and other promotions. We may use this information to communicate with you about our products, services and promotions, but only if you have given us your consent to do so. 
 
-Theory may make certain Information, including, without limitation, your name address and email address, available to its affiliates and related companies. Our affiliates and related companies may contact you directly regarding certain promotions. This information is never sold, and if you would like to opt out of having Theory share your name, title address and email address with its affiliates and related companies, please contact our [Customer Service Department](https://web.archive.org/web/20151201054034id_/http%3A//www.theory.com/privacy-policy/%3Ca%20%20href=%22http://www.theory.com/email-us/cs-contact-us-form,default,pg.html%22%3ECustomer%20Service%3C/a%3E).
+•    Email to a Friend: You may be able to share certain content from this website with your friends. In order to do so, we may ask for information such as your name, email address, zip code and telephone number, as well as for your friends’ contact details, in order for Theory to fulfill your request, on your behalf and under your sole responsibility as regards to their consent to receive a message from you via this service. 
 
-Theory may use certain tracking data. Tracking data information may be used for a variety of purposes, including but without limitation, to compile statistical, demographic or aggregated information about visitors to the Site generally, or for load balancing metrics and also may be used to create reports on user demographics and the traffic patterns of the Site. The reports that are generated from tracking data are used for a variety of purposes, including, for example, to improve the Site and our services.
+Information We Collect By Automated Means
 
-**User Postings.  **You should be aware that any content posted by you to the Site may be read, collected or used by other Site visitors. Theory is not responsible for the third-party use of any Information provided in such manner. By participating in the use of Site, you consent to Theory’s use or disclosure of any content that you submit.
+Cookies
 
-**Use of Cookies.**  We use cookies to enhance your experience while using the Site. “Cookies” are small pieces of information that a website transfers to your computer’s hard drive for record-keeping purposes. The use of cookies makes web surfing easier by performing certain functions such as saving your passwords and your personal preferences in connection with your use of a particular website. Many consider the use of cookies to be an industry standard. Your browser is probably set to accept cookies, but you are always free to decline our cookies if your browser permits. If you choose to have your browser refuse cookies, it is possible that some of the Services provided on the Site will not function properly.
+We may collect information about your browser, including, where available, your IP address, operating system and browser type, for system administration. This is statistical data about how you browse our website. 
 
-**Transfer of Information to Third Parties Upon a Sale or Change of Control.**  We retain the right to transfer or assign all Information pursuant to a merger, sale, reorganization, purchase or other transaction relating to Theory, its related companies or their assets if the assignee or purchaser agrees to abide by the terms of this Policy.
+We may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your device. Cookies contain information that is transferred to your device’s hard drive. 
 
-**How Your Information Is Protected.**  We take reasonable precautions to protect your Information from loss, misuse or alteration. We maintain reasonable physical, electronic and procedural safeguards for your Information.  You should recognize, however, that there is no such thing as “perfect security” on the Internet, and we cannot guarantee the security of your Information. In addition, because Internet communication is unsecure, it is also possible that the information you supply to us or your access of any information via the Site will be intercepted during transmission. We are not liable for any breach of our systems or interception of our transmission, and we hereby disclaim, to the fullest extent provided under law, any liability associated with any claim relating to a breach of security, data or information.
+Cookies help us to improve our website and to deliver a better and more customized service. They enable us:
 
-**Other Communications.**  From time to time, we may email users of the Site information regarding marketing events or other developments at Theory. We may also email users on occasion regarding the Site. Such emails may be sent to users of the Site even if they have not requested to receive any communication from us.
+•    To estimate usage numbers and patterns
 
-**Referrals.**  If a user elects to use our referral service to inform another person about the Site or Site features, we may request the name and email address of such other person. Theory will automatically send a one-time email inviting such other person to visit the Site or to purchase items from Theory. Theory stores this information for the sole purpose of sending this one-time email.
+•    To store information about your preferences, and to allow us to customize our website according to your individual interests. 
 
-**Links to Third-Party Sites.**  The Site may contain links to websites owned and operated by other parties. We are not responsible for and have no control over the privacy policies of those sites. We encourage you to review the privacy policies of those sites prior to providing them with any information.
+•    To speed up your searches. 
 
-**Children Under the Age of 13**. Theory is concerned about the privacy protection of children who access the Internet, and we comply with the Children’s Online Privacy Protection Act (COPPA). Accordingly, the Site is not intended for use by anyone under the age of 13 without the supervision of a parent or guardian, and we do not knowingly collect Information from anyone under 13 years of age without the consent of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, you may rely on your parent or guardian to assist you.
+•    To recognize you when you return to our website. 
 
-**Compliance With Laws.**  We reserve the right to disclose any Information to comply with any law, regulation, decree, judgment, order, subpoena or any other governmental order (“Order”) without any obligation to contest or verify the accuracy of such Order.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the website or unable to avail yourself of some of our services. Unless you have adjusted your browser setting so that it will refuse cookies, our system may issue cookies when you log on to our website. Additionally, if a browser is set to issue a “do not track” signal, we do not place tracking cookies on this browser. 
 
-**Applicable Law.**  This Policy will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to any use of the Site will be filed only in the state or federal courts located in New York County, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action.
+Pixel Tags
 
-**How You Can Update or Correct Your Information and Contact the Site.**  Please contact us via our [Customer Service Department ](http://www.theory.com/email-us/cs-contact-us-form,default,pg.html) if you have any questions or concerns regarding the Site, this Policy or if you would like to update or correct you Information.
+We also use "pixel tags" (sometimes called “Internet tags”, "web beacons" or "clear GIFS"), which are tiny graphic images, on our website. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our website and our advertising. We work with service providers that help us track, collect, and analyze this information. 
+
+Pixel tags on our website may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the website. This information may include your device’s IP address, your browser type, your operating system, date and time information, and other technical information about your device. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites. 
+
+Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. 
+
+We also work with business partners that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to our website, and your interaction with our advertising and other communications. 
+
+We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our website, to personalize your online experience, to help us deliver information to you, to determine the effectiveness of our advertising, and for other internal business purposes. 
+
+Mobile Location Analytics Data
+
+We may use tracking technology to collect certain information about your Wi-Fi enabled mobile device, including the presence of the device in our stores, its signal strength, its manufacturer, and a unique identifier known as its Media Access Control (“MAC”) address (collectively, “Customer Mobile Device Data”). This Customer Mobile Device Data may be collected for the purpose of determining the amount, location and frequency of customer traffic into our stores. A mobile device’s MAC address identifies a specific device to the surrounding Wi-Fi networks. The MAC address does not disclose the identity or any other personal data of the mobile device user. 
+
+You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: https://optout.smart-places.org/
+
+To learn more about the use of Customer Mobile Device Data and your choices, please visit: www.smartstoreprivacy.com
+
+Use of Your Personal Information We use the information we collect from our customers for various purposes, including: 
+
+•    Process transactions upon their request. 
+
+•    Improve our stores, website, customers shopping experience and quality of service. 
+
+•    Determine the amount, location and frequency of customer traffic into our stores. 
+
+•    Send communications to you about our products, services surveys and promotions, as well as about the Theory Foundation. 
+
+•    Prevent and detect fraud and abuse. 
+
+•    Process information or claims in connection with incidents at our stores. 
+
+•    Enable our service providers to perform certain activities on our behalf. 
+
+•    Comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
+
+•    Combine information obtained in store and online for the purposes identified above. 
+
+Others with Whom We May Share Your Information
+
+Service Providers: We may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us data storage and analysis; (e) provide fraud prevention; (f) provide customer service by phone; and (g) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in the agreements and in a manner consistent with this Privacy Policy and our Terms of Use. 
+
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this website or the public. 
+
+Links to other sites
+
+While visiting our website, you may link to sites operated by our business partners or other third parties. This does not mean that we endorse these sites. We do not make any representations or warranties about any website you may access through the Theory website. They are independent from us, and we have no control over, or responsibility for, their information or activities. In addition, our privacy practices may differ from those of these other sites. If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Theory Privacy Policy. Please make sure you understand the other site's privacy policy before providing personal information. 
+
+Security
+
+Theory uses commercially reasonable measures to keep your financial information private and safe. We take appropriate physical, electronic and administrative steps to maintain the security and accuracy of personally identifiable information we collect, including limiting the number of people who have physical access to our database servers, as well as employing electronic security systems and password protections that guard against unauthorized access. In addition, it is our policy to never send your credit card number via email. Our customer service center and stores also operate over a private, secure network. Please note, however, that email is not encrypted and is not considered to be a secure means of transmitting credit card information. 
+
+We use what we consider to be industry standard security technology in transferring information to process your orders. All credit card transactions should take place in a protected area of our website, which is designed to reduce the risk of any loss, misuse or alteration of the information collected. When you have finished shopping and begin the checkout process, you should move into the protected area of our website. Once you've entered, the page address (URL) should change from http to https. Also, a key or a closed lock should appear in the lower right hand corner of your screen to notify you of this change. You should remain in this secure zone for the entire checkout process. Please check that you are still in this protected area when you type in your credit card details. 
+
+Unfortunately, despite our best efforts, the transmission of data over the Internet cannot be guaranteed to be 100% secure. While we will use commercially reasonable means to ensure the security of information you transmit to us, we cannot guarantee that such information will not be intercepted by third parties. We may, however, prosecute any unauthorized or fraudulent transactions to the fullest extent permitted by law. 
+
+“SPOOFING” AND “PHISHING” 
+
+“Spoofing” or “Phishing” are common Internet scams. These may occur when you receive an email from what appears to be a legitimate source requesting personal information from you. Please be aware that Theory will NEVER send you an email requesting you to verify credit card or bank information. If you ever receive an email that appears to be from us requesting such information from you, DO NOT respond to it, and DO NOT click on any links appearing in the email. Instead, please forward the email to us at inquiries@theory.com, as we will endeavor to investigate all instances of possible Internet fraud. 
+
+Children's Privacy
+
+Our website is not meant for children. We do not intentionally collect any personal information from children under the age of thirteen, and will dispose of any such information if we become aware that it has been provided to us. Our online contests or sweepstakes are restricted to entrants who are at least 18 years old or the age of majority in the jurisdiction where they are located, whichever is greater. 
+
+California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties’ or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Theory LLC, 38 Gansevoort St, New York, NY 10014, Attn: Customer Care or by email to inquiries@theory.com . Please allow 30 days for a response.
