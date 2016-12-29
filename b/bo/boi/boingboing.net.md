@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232418id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031041id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing Privacy Policy / Boing Boing
 
 _
 
-Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015)
+Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016)
 
 _
 
@@ -41,6 +41,10 @@ Our marketplace services are provided by Neatoshop.com. Their privacy policy can
 7\. We Collect Information When You Communicate With Us Directly
 
 If you email us or send other communications to us directly, we will retain your email or address and correspondence so that we may respond to your request. We retain this information indefinitely so that we have a history of our past communications.
+
+8\. We DO NOT Collect Information when You Use the Boing Boing Store
+
+[StackCommerce](https://www.stackcommerce.com/) is our partner for selling stuff via the Store (we know, we know, confusing vs the shop.) Here is StackCommerce's [privacy policy](https://www.stackcommerce.com/privacy/), they do collect information when you buy from the store. We do not have access to user account information or any data provided during the checkout process. We also lament the frequently cheesy copy in the advertisements.
 
 **WHO DO WE SHARE YOUR INFORMATION WITH?**
 
@@ -98,7 +102,7 @@ We host Mint Analytics on our servers to understand how our visitors interact wi
 
 3\. Social Media Widgets
 
-We display sharing buttons so you can use social networking to share items from our site. This includes the Add This cookie, which allows us to understand what content you thought was worth sharing. The [Add This Privacy Policy](http://www.addthis.com/privacy#.Ua-k92Sglk0) provides an opt-out of their analytics program.
+We display sharing buttons so you can use social networking to share items from our site. This includes [Rune](https://www.secretrune.com/privacy-policy), which allows us to understand what content you thought was worth sharing.
 
 It also includes the Facebook recommend button and other interactive mini-programs that run on our site that collect your IP address, which page you are visiting on our site, and sets a cookie to enable the widget to function properly. Your interactions with these Widgets are governed by the privacy policy of the company providing them, not by this Privacy Policy.
 
@@ -112,23 +116,11 @@ Not technically an analytics cookie, but you should know that we present links i
 
 **Advertising**
 
-1\. Google Ad Products
+1\. Digital Trends
 
-We use Google Ads products like remarketing, similar audiences and interest categories on our site. Google uses the DoubleClick cookie to serve ads based upon your visits to this website. They also present you with retargeting advertising on other sites based on your previous interaction on our website and other sites. You can adjust Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). You may [permanently opt-out of the Google DoubleClick cookie here](https://www.google.com/settings/u/0/ads/plugin?hl=en&sig=ACi0TCioEXDOsPa8IjFdovMgXR52Z5_ciapDi9aBWF0NP4jQPppY2BYJ0IF3-9zV8zkLxemICvwX7L3h5ApQjk02fG-GqJA3LBQ-u7bXYoVk29_PY_6RVccjpcEvV0INuRfbuOykw-5OSkZre8NH3RNGVMefp2YkLwnH0YhSrC9tqVGmtFxvDk0). 
+We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). DT's [privacy policy](http://www.digitaltrends.com/legal/privacy-policy/) and [terms of service](http://www.digitaltrends.com/legal/terms-of-use/) are available to review. 
 
-2\. Sharethrough
-
-We partner with Sharethrough to provide online video advertising. Sharethrough uses a cookie and tracking pixel to collect non-personally identifiable information about what ads you click, which they use to target the ads to your interests. [Their privacy policy](http://www.sharethrough.com/privacy-policy/) has a link to opt out of this program. 
-
-3\. Urban Daddy
-
-We partner with [Urban Daddy](http://www.urbandaddy.com/) to provide third-party advertising. Urban Daddy, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). 
-
-4\. Mediafed
-
-Our RSS feed is monetized by [feedsportal.com](http://feedsportal.com/), owned by Mediafed, which uses a cookie for analytics collection. They do not use their cookie to collect or track any personally identifiable information about you. Their privacy policy is here and it has [instructions for opting out of their cookie.](http://res3.feedsportal.com/docs/privacypolicy.html)
-
-5\. “Other”
+2\. “Other”
 
 We have vendors who we partner with directly to provide advertisements on our Site.  You can opt out of many third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and/or <http://www.aboutads.info/choices/>.
 
