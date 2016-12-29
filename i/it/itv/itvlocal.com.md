@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itvlocal.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124041id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itvlocal.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229113518id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy for ITV services – ITV
 
