@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 000webhost.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052055id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 000webhost.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042250id_/https%3A//www.000webhost.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy of web hosting services
 
@@ -29,6 +29,12 @@ Users' privacy is very important to 000webhost.Com. 000webhost.Com is committed 
 ### Maintenance of Information
 
 Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+
+### Recaptcha
+
+We use third party software called “Google Recaptcha” that collects information about users for security reasons.
+
+Information collected by reCAPTCHA is held in accordance with the Google Privacy Policy.
 
 ### Questions
 
