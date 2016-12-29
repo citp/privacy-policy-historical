@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617233929id_/http%3A//www.agame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034137id_/http%3A//www.agame.com/privacy-policy) for the most accurate reproduction.*
 
 # Free online games at Agame.com
 
