@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagemodo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616084618id_/http%3A//www.pagemodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagemodo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050125id_/http%3A//pagemodo.com/privacy) for the most accurate reproduction.*
 
 # Pagemodo.com - Privacy
 
