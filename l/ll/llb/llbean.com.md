@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055115id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229062409id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
 Your Privacy Rights
 
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on October 30, 2014, describes the information we collect and how we use it.
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on November 1, 2016, describes the information we collect and how we use it.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -22,9 +22,9 @@ Email: preferences@llbean.com
 
 We may collect information (including name, address, telephone number, email address, device location, transaction information, credit card information and date of birth) when you:
 
-  * Place an order from our catalogs or on our Web site
+  * Place an order from our catalogs or on our website
   * Make a purchase at one of our stores (we do not require personal information, such as zip, name, address or email, as a condition of accepting payment by credit or debit card)
-  * Checking and reserving store inventory on our Web site
+  * Checking and reserving store inventory on our website
   * Return an item or make an exchange
   * Inquire about our services
   * Request a catalog
@@ -41,7 +41,9 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources, including our credit card issuer, Barclays Bank Delaware, whose policies meet the Direct Marketing Association's privacy standards.
 
-We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See Cookies and Pixel Tags for further information.
+Our website also uses third-party analytics vendors such as Google Analytics. Please click here for more information about how data is collected and processed in connection with the Google Analytics service: [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). We and our third-party vendors or partners use analytics data for a variety of purposes such as to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
+
+We also gather information about how visitors navigate through our website by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See Cookies and Pixel Tags for further information.
 
  return to top
 
@@ -94,25 +96,25 @@ Many third-party services are available to help you opt out of catalog mailings.
  return to top
 
 **Cookies and Pixel Tags**  
-A cookie is a small data file stored by your Web browser on your computer. Cookies enable you to place an order on our Web site. They also allow us to enhance and personalize your online shopping experience, so the information you receive is more relevant to you.
+A cookie is a small data file stored by your Web browser on your computer. Cookies enable you to place an order on our website. They also allow us to enhance and personalize your online shopping experience, so the information you receive is more relevant to you.
 
 For example, we use cookies to:
 
   * Remember what items are in your Shopping Bag
-  * Recognize you when you return to our Web site
+  * Recognize you when you return to our website
   * Enables faster checkout, if you have created an account at llbean.com
-  * Study how our customers navigate through our Web site and which products they request in site searches
+  * Study how our customers navigate through our website and which products they request in site searches
   * Deliver personalized marketing from L.L.Bean
 
 
 
 If you set your browser to refuse cookies, please call us at 800-221-4221 to place your order.
 
-We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
+We also use pixel tags – tiny graphic images – to tell us what parts of our website you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.
 
 We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.
 
-We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our Web site and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. To opt-out of this type of messaging, please click here.
+We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our website and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major websites. No personally identifiable information is collected in this process. To opt-out of this type of messaging, please click here.
 
  return to top
 
@@ -124,7 +126,7 @@ We may also send promotional emails about products, special offers, services or 
  return to top
 
 **Direct to Business Preferences**  
-Please note that the [My Account](https://www.llbeanbusiness.com/llbean/login) section of our Direct to Business Web site, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
+Please note that the [My Account](https://www.llbeanbusiness.com/llbean/login) section of our Direct to Business website, located at llbeanbusiness.com, is not designed to change catalog mailing and email preferences. If you prefer not to receive Direct to Business catalogs or email updates please contact us at:
 
 L.L.Bean, Dept. CFM  
 Freeport, ME 04033  
@@ -134,7 +136,7 @@ Freeport, ME 04033
  return to top
 
 **Links to Other Sites**  
-Occasionally we provide links on our Web site to other sites to enhance the functionality and shopping experience. These sites operate independently of L.L.Bean and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.
+Occasionally we provide links on our website to other sites to enhance the functionality and shopping experience. These sites operate independently of L.L.Bean and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit.
 
  return to top
 
@@ -146,17 +148,17 @@ To update your customer information (name, address, telephone number and email a
 **Security**  
 It is our intent to protect against the loss, misuse or alteration of information that we have collected from you or received from a partner. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities. It is our practice to use encryption whenever we receive or transmit sensitive data.
 
-When you make a purchase, request a catalog or create an account on our Web site, your transactional information is transmitted in a safe, encrypted format. See [About Security](https://web.archive.org/customerService/security/index.html) for details.
+When you make a purchase, request a catalog or create an account on our website, your transactional information is transmitted in a safe, encrypted format. See [About Security](https://web.archive.org/customerService/security/index.html) for details.
 
  return to top
 
-**Privacy of Children on Our Web Site**  
-Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+**Privacy of Children on Our website**  
+Our website is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
  return to top
 
 **Policy Changes**  
-From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.
+From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our website. We encourage you to review our privacy policy periodically.
 
  return to top
 
