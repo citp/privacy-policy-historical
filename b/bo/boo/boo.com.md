@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610184516id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043502id_/http%3A//www.hostelworld.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Hostelworld.com Security & Privacy Policy
 
@@ -62,9 +62,9 @@ When you make a booking on the Hostelworld Sites an account will automatically b
 
 After making your first booking on the Hostelworld Sites you will receive details of your Hostelworld account username and password. You can change your username, password and personal details at any time by logging into your account. 
 
-Your profile settings in your Hostelworld account will automatically default to Private. You can modify this profile setting at any time by logging into your account. There are three types of profile settings available in connection with your Hostelworld account: Private Access (your profile cannot be viewed by anyone), Public Access (your profile can be viewed by everyone) or Buddy Access (your profile can only be viewed by your designated travel buddies). 
+Your review settings in your Hostelworld account will automatically default to showing your profile photo and username for your reviews. You can modify this profile setting at any time by logging into your account.
 
-Where you have applied "Public Access" or "Buddy Access" to your account, any reviews that you submit will show your username. Where you have applied "Private Access" settings to your account, any reviews that you submit will appear as anonymous.
+Where you have chosen not to show your profile photo and name with your reviews, any reviews that you submit will show your trip type only.
 
 ### REVIEWS
 
