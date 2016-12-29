@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the checkanyemail.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509105422id_/http%3A//checkanyemail.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkanyemail.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229203035id_/http%3A//checkanyemail.com/privacy.php) for the most accurate reproduction.*
 
 # CheckAnyEmail - Access All Your Emails Fast & Easy with One Click!
 
-[< Back To The App!](https://web.archive.org/web/20160509105422id_/http%3A//checkanyemail.com/index.php)
+[< Back To The App!](https://web.archive.org/web/20161229203035id_/http%3A//checkanyemail.com/index.php)
 
 **Effective January 1 2014**
 
