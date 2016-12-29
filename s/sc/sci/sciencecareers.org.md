@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184544id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencecareers.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229115953id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science | AAAS
 
@@ -34,9 +34,9 @@ The registration forms and other sections of the _Science_ Websites where we col
 
 **E-mail**
 
-AAAS members may opt in for third-party informational e-mails or opt out of all e-mail communication, with the exception of subscription renewal and association election information. Members can provide data privacy instructions at the members-only website, [membercentral.aaas.org](http://membercentral.aaas.org/). Or contact AAAS Member Services at [membership@aaas.org](mailto:membership@aaas.org).
+AAAS members may opt in for third-party informational e-mails or opt out of all e-mail communication, with the exception of subscription renewal and association election information. Members can provide data privacy instructions at the members-only website, [aaas.org/membercentral](http://www.aaas.org/membercentral). Or contact AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
 
-Paid subscribers to AAAS publications including _Science_ , _Science Signaling_ , and _Science Translational Medicine_ may also opt in for third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS Member Services at [membership@aaas.org](mailto:membership@aaas.org).
+Paid subscribers to AAAS publications including _Science_ , _Science Signaling_ , and _Science Translational Medicine_ may also opt in for third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
 
 Users of free online services provided by AAAS such as free partial access to _Science_ , _Science Signaling_ , or _Science Translational Medicine_ , access to News from  _Science_  or SAGE KE, e-mail alerting services or _Science_ Careers services are agreeing that AAAS may contact them by e-mail in exchange for these free services. Users can also opt in for third-party informational e-mails. Users who do not wish to receive e-mail may cancel their online services by following the unsubscribe instructions at the bottom of any e-mail message from AAAS.
 
@@ -94,7 +94,7 @@ Our web pages may contain electronic images known as web beacons (sometimes call
 
 It is important to us that we have your correct contact information so that you don't miss out on further correspondence or experience problems with the delivery of publications and products.
 
-Members can change their personal information or update their account information at any time by visiting the members-only website, [membercentral.aaas.org](http://membercentral.aaas.org/). Other registrants or users may also update their personal information at any time by sending e-mail to [membership@aaas.org](mailto:membership@aaas.org).
+Members can change their personal information or update their account information at any time by visiting the members-only website, [aaas.org/membercentral](http://www.aaas.org/membercentral). Other registrants or users may also update their personal information at any time by sending e-mail to [membership@aaas.org](mailto:membership@aaas.org).
 
 ### Security
 
@@ -112,7 +112,7 @@ Your use of the _Science_ Websites shall indicate your understanding and accepta
 
 ### Changes To Privacy Statement
 
-If we decide to change our Privacy Statement for the _Science_  Websites, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement, please feel free to e-mail us at [membership@aaas.org](mailto:membership@aaas.org) or call us at +1 202-326-6417 and speak to one of our representatives.
+If we decide to change our Privacy Statement for the _Science_  Websites, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about this Privacy Statement, please feel free to e-mail us at [membership@aaas.org](mailto:membership@aaas.org) or call us at +1 202-326-6417 and speak to one of our MemberCentral Support associates.
 
 We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this statement, please contact us by e-mailing us at [membership@aaas.org](mailto:membership@aaas.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. Thank you for using the _Science_ Websites.
 
