@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413064557id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050125id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
 
 # LMGTFY Privacy Policy
 
@@ -10,7 +10,7 @@ We collect aggregate information on what pages consumers access or visit.
 
 The information we collect is used for internal review to improve the content of our site. Anonymous search history is also published to [LMGTFY Live](http://live.lmgtfy.com/). Afterwards, all information is then discarded.
 
-With respect to cookies: We do not set any cookies.
+With respect to cookies: We do not set any personally identifiable information in cookies.
 
 With respect to Third party cookies: We use AlmondNet to collect non-personally identifiable information when you visit our Web page. AlmondNet may use information (not including your name, address, email address or telephone number) about your visits to our Web page in order to provide advertisements on our Web page, other web sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by AlmondNet, please [click here.](http://www.almondnet.com/privacy-center/technology-privacy-policy.aspx)
 
