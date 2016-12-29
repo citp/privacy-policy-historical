@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624110642id_/https%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensjournal.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229145406id_/https%3A//www.mensjournal.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Men's Journal: Men's Style, Travel, Fitness and Gear
+# Privacy Policy | Men's Journal: Men's Style, Travel, Fitness and Gear
 
 _Effective Date:_ March 19, 2015 
 
