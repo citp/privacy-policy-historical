@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609044740id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productreview.com.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045920id_/http%3A//www.productreview.com.au/i/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ProductReview.com.au
 
-20 May 2014
+12 December 2016
 
 ##### Protecting your privacy
 
@@ -68,10 +68,6 @@ Your profile and contributions on ProductReview will be publicly viewable and id
 
 We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally. 
 
-##### Trans-border transfer of your personal information
-
-ProductReview is an Australian entity however our servers, and some data we collect in the operation of this site, is currently hosted in the United States of America (USA). Any personal information you provide through your use of this Site will be transferred to our servers in the USA. By continuing to access and use this site, you consent to the application of Australian laws relating to the collection, use, and disclosure of your personal information and to the transfer of your personal information to the USA. 
-
 ##### Cookies
 
 ProductReview uses cookies to remember who you are when you log-in, to tracking your browsing patterns and to customise your user experience on our site. The type of information we collect depends on what information and services you access and use, but generally do not contain or are not tied to your personal information. We may also use cookies for anonymous profiling purposes to tailor advertising to your preferences. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them although this may prevent access to or limit some of the information and usability of our site. 
@@ -92,7 +88,7 @@ In most cases we will ask that you put your request in writing to us. We will in
 
 ##### Changes to our Privacy Policy
 
-We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in May 2014.
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in December 2016.
 
 ##### More Information
 
