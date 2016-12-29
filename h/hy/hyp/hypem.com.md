@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052249id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050533id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Hype Machine
+
+The best place to find new music on the web. Every day, thousands of people around the world write about music they love — and it all ends up here. 
 
 ## PRIVACY POLICY
 
