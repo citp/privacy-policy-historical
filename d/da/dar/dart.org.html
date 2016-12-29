@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dart.org privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611030844id_/http%3A//www.dart.org/about/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dart.org privacy policy that was archived on 2016-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230005624id_/http%3A//dart.org/about/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -34,22 +34,21 @@
 				$(this).addClass('fieldhint');
 			}
 		});
-		//-- TRIP PLANNER / GOOGLE TRANSIT FUNCTIONS
-		$('#googletransit').hide();
-		$('#tabtripplanner').addClass('on');
-		$('#tabtripplanner a').click(function() {
-			$('#tripplanner').slideDown('slow');
-			$('#googletransit').slideUp('slow');
-			$('#tabgoogletransit').removeClass('on');
-			$('#tabtripplanner').addClass('on');
-		});
+		//-- TRIP PLANNER / GOOGLE TRANSIT FUNCTIONS		$('#tripplanner').hide();
+		$('#tabgoogletransit').addClass('on');
 		$('#tabgoogletransit a').click(function() {
-			$('#tripplanner').slideUp('slow');
 			$('#googletransit').slideDown('slow');
+			$('#tripplanner').slideUp('slow');
 			$('#tabtripplanner').removeClass('on');
 			$('#tabgoogletransit').addClass('on');
 		});
-		//-- HIDE/SHOW BOTTOM DIV FUNCTIONS
+		$('#tabtripplanner a').click(function() {
+			$('#googletransit').slideUp('slow');
+			$('#tripplanner').slideDown('slow');
+			$('#tabgoogletransit').removeClass('on');
+			$('#tabtripplanner').addClass('on');
+		});
+//-- HIDE/SHOW BOTTOM DIV FUNCTIONS
 		$('#hideshowhide').click(function() {
 			$('#bottom .container').slideUp(400, function() {
 				$('#hideshowhide').addClass('hide');
@@ -136,7 +135,7 @@
 				<li><a href="/about/executivestaff/staffbios.asp">DART Executive Staff</a></li>
 				<li><a href="/about/dartfacts.asp">DART Facts</a>
 					<ul>
-						<li><a href="/about/dartreferencebookapr12.pdf" onclick="javascript: pageTracker._trackPageview ('/about/DARTReferenceBookPDF');">DART Reference Book (PDF file)</a></li>
+						<li><a href="/about/dartreferencebookmar16.pdf" onclick="ga('send', 'event', 'about', 'click', {'page': '/about/DARTReferenceBookPDF'});">DART Reference Book (PDF file)</a></li>
 						<li><a href="/about/economicimpact.asp">Economic Impact</a></li>
 						<li><a href="/about/history.asp">History</a></li>
 					</ul>
@@ -192,7 +191,7 @@
 					<ul>
 						<li><a href="/about/legalnotices.asp">Legal Notices</a></li>
 						<li class="on"><a href="/about/privacypolicy.asp">Privacy Policy</a></li>
-						<li><a href="/about/publicinformationact.asp">The Public Information Act</a></li>
+						<li><a href="/about/publicinformationact.asp">Open Records</a></li>
 						<li><a href="/about/legallandownersbillofrights.asp">Texas Landowner's Bill of Rights</a></li>
 						<li><a href="/about/dartpolice/dartpolicenotice.asp">Filing a Complaint with the DART Police Department</a></li>
 					</ul>
@@ -215,7 +214,9 @@
 			
 		</div><!-- /.box -->
 
-		<p class="promo"><a href="/riding/traveltoolsandapps.asp"><img src="/images/leftsidebar/on-the-go-in-the-know.jpg" alt="On the Go. In the Know.SM : Travel Tools &amp; Apps" border="0"></a></p>
+		<p class="promo"><a href="http://www.dart.org/dartable/default.asp?utm_source=dartorg&amp;utm_medium=leftsidenav&amp;utm_campaign=dartablejuly2015" target="_dartable" title="DARTable Gems  opens in a new window"><img src="/images/leftsidebar/dartablegems.jpg" alt="DARTable Gems opens in a new window" border="0"></a></p>
+		<p class="promo"><a href="http://www.gopass.biz" target="_gopass" title="GoPass.biz opens in a new window"><img src="/images/leftsidebar/gopass.jpg" alt="Download GoPass Mobile Ticketing App. GoPass.biz opens in a new window" border="0"></a></p>
+		<p class="promo"><a href="/riding/traveltoolsandapps.asp"><img src="/images/leftsidebar/on-the-go-in-the-know.jpg" alt="On the Go. In the Know. Travel Tools &amp; Apps" border="0"></a></p>
 		<p class="promo"><a href="/webapps/wmds/"><img src="/images/leftsidebar/wheres-my-dart-stop.jpg" alt="Where's My DART Stop? : DART Stop Locator" border="0"></a></p>
 		<p class="promo"><a href="/webapps/wmb/default.asp"><img src="/images/leftsidebar/wheres-my-bus.jpg" alt="Where's My Bus? : Next Bus at Specific Stop" border="0"></a></p>
 
@@ -328,7 +329,7 @@ Dallas Area Rapid Transit. All Rights Reserved.<br>
 				<li><a href="/about/contactdart.asp">Contact Us</a></li>
 				<li><a href="/rideralerts/fullra.asp">Rider Alerts</a></li>
 				<li><a href="/about/privacypolicy.asp">Privacy Policy</a></li>
-				<li><a href="/about/publicinformationact.asp">The Public Information Act</a></li>
+				<li><a href="/about/publicinformationact.asp">Open Records</a></li>
 				<li><a href="/sitemap.asp">Site Map</a></li>
 				<div class="hr"></div>
 				<li><a href="/espanol/defaultespanol.asp">Español</a></li>
@@ -347,7 +348,7 @@ Dallas Area Rapid Transit. All Rights Reserved.<br>
 				<li><a href="/about/deo/deo.asp">The Diversity Department</a></li>
 				<li><a href="/debtdocuments/investorinformation.asp">Financial Information</a></li>
 				<li><a href="/dartarra/default.asp">DART &amp; Recovery Act</a></li>
-				<li><a href="/about/2012stateperformanceaudit.pdf" target="_audit" title="PDF file opens in a new window" onclick="javascript: pageTracker._trackPageview ('/about/2012stateperformanceauditPDF');">State-Required Performance Audit</a></li>
+				<li><a href="/about/2016stateperformanceaudit.pdf" target="_audit" title="PDF file opens in a new window" onclick="javascript: pageTracker._trackPageview ('/about/2016stateperformanceauditPDF');">State-Required Performance Audit</a></li>
 			</ul><!-- /.nav -->
 		</div><!-- /.bottomcolumn -->
 
