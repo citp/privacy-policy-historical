@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501174955id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229102639id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
 
-# Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive
+# Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive | www.websitealive.com
 
 This Privacy Policy details how we use your personal information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics.
 
 By using our the tools and services we provide, and visiting our web site such activities become your express indication to us that you consent to our collection and use of your personal information as described herein.
 
-AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@websitealive.com](mailto:privacy@websitealive.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program does not cover information that may be collected through software downloaded from the site. The TRUSTe program covers only our collection, use and disclosure of information we collect through our website www.websitealive.com and our service AliveChat, AliveDial. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged AYU Technology Solutions LLC.
+This privacy policy applies to data collected at the corporate website and client log in section of [www.websitealive.com](https://www.websitealive.com/) as well as the data collected from our AliveChat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
 
-This privacy policy applies to data collected at the corporate website and client log in section of www.websitealive.com as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
+AYU Technology Solutions, LLC complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AYU Technology Solutions, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view AYU Technology Solutions, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
 
-AYU Technology Solutions, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AYU Technology Solutions, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AYU Technology Solutions, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+AYU Technology Solutions, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. AYU Technology Solutions, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+The Federal Trade Commission has jurisdiction over AYU Technology Solutions, LLC’s compliance with the Privacy Shield.
 
 ### I. Pertains to Data collection on www.websitealive.com
 
@@ -84,15 +86,17 @@ We use other third parties to provide services on our website such as for credit
 
 These third parties are prohibited from using your personal information for any other purpose.
 
-#### No Liability for Acts of Third Parties
+#### Liability for Acts of Third Parties
+
+WebsiteAlive is liable under Privacy Shield if determined it is responsible for a third party agent processing such personal information in a manner inconsistent with the principles of Privacy Shield.
 
 Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
 
-### II. Pertains to Active Chat application
+### II. Pertains to AliveChat Application
 
-Our clients implement our Active Chat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. We do not use this data for any other purposes than as defined in our relationship with our clients.
+Our clients implement our AliveChat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. We do not use this data for any other purposes than as defined in our relationship with our clients.
 
-We use other third parties to provide screen sharing and click to call services via our Active Chat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service. Transfers to subsequent third parties are covered by the service agreements with our Clients.
+We use other third parties to provide screen sharing and click to call services via our AliveChat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service. Transfers to subsequent third parties are covered by the service agreements with our clients.
 
 AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate information should direct his query to the AYU Technology Solutions, LLC’s client (the data controller). If requested to remove data we will respond within 30 days.
 
@@ -106,7 +110,7 @@ These third parties are prohibited from using your personal information for any 
 
 If you would like to inquire about personal information collected in a chat window on a separate site, please refer to the privacy policy on the site in question.
 
-### III. Pertains to www.websitealive.com and Active Chat application.
+### III. Pertains to [www.websitealive.com](https://www.websitealive.com/) and AliveChat application.
 
 #### General Information
 
@@ -138,15 +142,17 @@ Cookies may provide Recording Session information, show us visitor preferences r
 
 Other possible uses for the information that we collect includes internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base. Technical and business statistics are also collected via cookies: which allows us to tract the various paths users trace through web site as they move from one web page to another. Cookies also account for the number of users who visit our site and to calculate the visitor capacity and scalable architecture of our web site. We do not use cookie technology to gather personal information about you although such technology may allow us to serve up focused banner advertisements and other Internet published advertising content which appears on one or more pages of our web site.
 
-Cookies are used as an important element of our Alive Chat application to help us determine return users and to collect important user data and information which is useful to the user of the Alive Chat application.
+Cookies are used as an important element of our AliveChat application to help us determine return users and to collect important user data and information which is useful to the user of the AliveChat application.
 
 We use Google Analytics, a third-party tracking service, which uses cookies to track non-personal information about our visitors to our site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to or control over these cookies. This privacy policy covers the use of cookies by AYU Technology Solutions, LLC only and does not cover the use of cookies by any third-party.
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
 
-We employ and our third party partner AdRoll employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), tags and scripts that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
+We and some ofour third party partners (e.g. AdRoll) employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), tags and scripts that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information.
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 #### Exceptions to our Privacy Policy
 
@@ -163,14 +169,39 @@ Possible exceptions to our policy include the rare following circumstances which
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@websitealive.com](mailto:privacy@websitealive.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+#### Dispute Resolution
+
+In compliance with the Privacy Shield Principles, AYU Technology Solutions, LLC commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact AYU Technology Solutions, LLC at:
+
+**AYU Technology Solutions, LLC**  
+**ATTN: Legal Department**  
+2100 West Loop South, Suite 900  
+Houston, Texas 77027  
+Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)
+
+AYU Technology Solutions, LLC has further committed to refer unresolved Privacy Shield complaints to EU Data Protection Authoritiesan alternative dispute resolution provider located in the EU. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm> for more information or to file a complaint. The services of EU Data Protection Authorities are provided at no cost to you.
+
+You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance that are not resolved by the above mechanisms. For additional information please go to <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
+In compliance with the U.S. - Swiss SafeHarbor Principles, AYU Technology Solutions, LLC commits to resolve complaints about our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact AYU Technology Solutions, LLC at:
+
+**AYU Technology Solutions, LLC**  
+**ATTN: Legal Department**  
+2100 West Loop South, Suite 900  
+Houston, Texas 77027  
+Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)
+
+AYU Technology Solutions, LLC has further committed to refer unresolved U.S.-Swiss SafeHarbor complaints to JAMS located in the US. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you. 
+
 #### Notification of Privacy Policy Changes
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 #### Contacting Us
 
-AYU Technology Solutions, LLC ATTN: Legal Department  
+**AYU Technology Solutions, LLC**  
+**ATTN: Legal Department**  
 2100 West Loop South, Suite 900  
 Houston, Texas 77027  
 Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)  
-Effective Date: 11/15/2014
+Effective Date: 10/11/2016
