@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abplive.in privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052726id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abplive.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052130id_/http%3A//www.abplive.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -64,4 +64,4 @@ Off address: A-37, Sector 60, Noida, U.P. 201307
 
 E-mail :[ kishanr@abpnews.in](mailto:kishanr@abpnews.in)
 
-This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com*](https://web.archive.org/web/20160616052726id_/http%3A//www.abplive.in/www.nbanewdelhi.com)
+This e-mail address is being protected from spambots. You need JavaScript enabled to view it However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA [www.nbanewdelhi.com*](https://web.archive.org/web/20161229052130id_/http%3A//www.abplive.in/www.nbanewdelhi.com)
