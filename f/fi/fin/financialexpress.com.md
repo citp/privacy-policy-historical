@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616084212id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialexpress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044205id_/http%3A//www.financialexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# OUR ONLINE PRESENCE | The Financial Express
+# OUR ONLINE PRESENCE - The Financial Express
 
 Thank you for visiting Financialexpress.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
 
