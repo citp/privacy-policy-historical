@@ -1,156 +1,196 @@
-> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141438id_/http%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229101316id_/http%3A//www.costco.ca/privacy-policy.html) for the most accurate reproduction.*
 
-# Your Privacy Rights
+# Customer Privacy Policy
 
-###  (United States and Puerto Rico)  
-Last Updated December 31, 2013
+## JANUARY 1, 2016
 
-This privacy statement (also referred to as Costco's Privacy Policy) explains our privacy practices for our customers who: (1) shop in our United States and Puerto Rico warehouses or (2) use our website, [www.costco.com](https://www.costco.com/). 
+This Privacy Policy explains our privacy practices for customer information we collect, use or disclose, including at Costco warehouses and through our websites (including through Costco.ca and other Internet sites, mobile apps, and social media sites, which we will refer to collectively as “Sites”), as well as our customer service interactions with you. In this Privacy Policy, the terms “Costco,” “we” and “our” refer to Costco Wholesale Canada Ltd. and all of its subsidiaries with respect to its operations in Canada, unless otherwise indicated. Personal information and personal health information that you provide when you visit non-Canadian Costco websites or warehouses outside of Canada are governed by the privacy policies that are posted on those websites or that apply in those warehouses.
 
-## Costco's Commitment to Privacy
+This Privacy Policy is incorporated into the [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions-of-use.html) for our Sites and into the terms applicable to Costco members and persons applying for Costco membership. By using our Sites, by applying for membership, or by using a membership, you are consenting to this Privacy Policy.
 
-We respect your right to privacy. We do not sell, rent, share or disclose personal information to third parties without your prior consent, except in the circumstances described in this Privacy Statement. In addition, your ability to make informed choices about the uses of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of personal information. The links below provide detailed information about our privacy practices:
+### 1\. Costco’s Commitment to Privacy
 
-## A. What is Personal Information?
+Costco is committed to protecting the privacy of its customers. We have and will take measures that protect the privacy of personal information and personal health information held by us. This Privacy Policy provides you with details regarding: 
 
-Personal information is information that identifies an individual or that can be reasonably associated with a specific person or entity, such as a name, contact information, Internet (IP) address and information about an individual's purchases and online shopping. Personal information also includes medical information collected through our pharmacies, hearing aid centers and optical centers (see Health Care Centersbelow). As a convenience to our Members, we allow the primary cardholder to add his/her spouse or others to a membership account. 
+  * why we collect personal information and personal health information;
+  * what we do with that information;
+  * what steps we take to ensure that the information is secure;
+  * who you should contact if you have questions or concerns about our policies or practices.
 
-## B. Collection of Personal Information
 
-We collect the personal information that you provide us, such as when you:
 
-  * sign up for or renew your Costco membership;
-  * register to use costco.com or sign up for news or notifications of specials or other promotions on costco.com;
-  * place an order or purchase products or services, online or otherwise;
-  * contact us for any reason;
-  * participate in a survey or promotion; or
-  * sign up for or participate in our various Member Services (see Member Services below).
+Since we regularly review our policies and practices, your comments are always welcome. We reserve the right to change this Privacy Policy at any time; however, any changes or additions to Section 5 regarding the reasons we use personal information will not apply to you unless you consent to them. We will alert you that changes have been made by indicating at the top of the Privacy Policy the date that it was last updated. This Privacy Policy was last updated on January 1, 2016. The only other updates since this Privacy Policy came into effect on July 1, 2003 were posted on October 15, 2004, August 1, 2009, March 23, 2012, September 1, 2014 and January 1, 2015. We encourage you to review our Privacy Policy carefully to make sure that you understand how information that you provide will be used or disclosed.
 
+**Children:** We encourage parents to take an active interest in their children’s use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, please do not provide information on our Sites. 
 
+### 2\. What is personal information?
 
-We may automatically collect some information when you visit our website, such as your computer's IP address and operating system, the site from which you linked to us, your site activity, the time and date of your visit, and your purchases. This information may be collected through the use of "cookies" and web beacons (see Online Specifics below). We also receive information from third parties who help us correct our records, prevent fraud, and provide Member Services or special promotions or products (see Member Services below). We may combine any of this information with the other personal information we maintain about you. 
+In general terms, personal information means any information about an identifiable individual. For example, this includes your name, postal and email address, telephone number, credit card number, the photograph included on your Costco membership card, demographic information and purchasing history. A special category of personal information is “personal health information,” which we describe in Section 3 below.
 
-## C. Use of Personal Information by Costco
+Personal information does not include aggregate information, such as data about a group or category of products, services or customers, from which individual customer identities have been removed. For example, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others.
 
-The personal information we collect is generally used to process your requests or transactions, provide you with high-quality service, tell you about opportunities we think will be of interest and administer your account, including distribution of our own surveys and publications. For example, we may:
+We may also gather aggregate information about how Costco customers use our Sites. Aggregate information about product purchases helps us understand trends and customer needs, and assists us in product selection, product ordering and sizing, and the introduction of new products and services. It can also assist us in determining where it would be appropriate to build new warehouses by looking at the geographic location of members or to build new Site functions by looking at anonymized browsing activities.
 
-  * Alert you about product recalls or safety issues;
-  * Communicate membership opportunities and programs; and
-  * Provide you with promotional information, such as coupons, offers and product recommendations, or information about Member Services ("Promotional Information"). If you prefer not to receive Promotional Information from us, we make it easy for you to let us know. You may contact us at any time to decline Promotional Information (see Choice below).
+We may automatically collect some information when you visit our Sites, such as your computer’s network address and operating system, the site from which you linked to us, and the time and date of your visit and purchases. This information is not linked by us to personal information, but rather is only used to compile aggregate information. This information may be collected through the use of cookies (see our “Online privacy practices” in Section 12 below). 
 
+### 3\. What is personal health information?
 
+Personal health information means any information relating to your physical or mental health collected or generated in the course of our providing you with the health services you request, such as optical, pharmacy and hearing aid services, and prescription profiles for fulfillment of pharmacy orders. Examples of personal health information may include your medical history, drug prescription information, eyeglass prescription information, or health insurance information, which we may require in order to provide you with pharmacy, hearing aid, optical and other health-related services. It may also include information you provide to Costco health services personnel when receiving counselling or advice, or when contacting Costco with a comment, question or complaint about our health services. 
 
-## D. Sharing of Personal Information
+### 4\. When we collect personal information
 
-We share information in these circumstances:
+We only collect such personal information as is strictly necessary for the purposes outlined in Section 5. We collect personal information when you: 
 
-  1. **Order Fulfillment**  
-We may provide to a third party information as necessary to fulfill an order you have placed with us. For example, we may provide your address to a shipper, and if you pay by a credit or debit card, your card number and sales transaction information are passed to the card processor and/or issuer (including their service providers such as fraud verification services). However, we give suppliers, and others involved in the distribution chain only the information needed to provide you the products or services you order, and we require them to keep the information confidential and not to use it for other purposes. We are not responsible for any information you provide directly to these parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
-  2. **Member Services**  
-We offer special products and services to our members through third parties, such as rebates, financial, travel, insurance and other business and consumer services ("Member Services"). We may share your name, postal address, email address and membership status, number and type ("Member Information") with these third parties in order to notify you of their offerings, to determine whether, or at what level, you qualify for the products or services, and to evaluate new and existing products or services. If you prefer that we not share Member Information with third parties, you can contact us at any time (see Choice below). 
+  * apply for membership (including information about your credit history that may be collected, used, or disclosed if you choose to pay by cheque);
+  * apply for a Costco co-branded credit card;
+  * renew your membership;
+  * contact us with questions, inquiries, comments, complaints or requests;
+  * sign up for certain products and services (such as rebates, the Costco Services program and other business and consumer services, collectively known as the “Costco Services”);
+  * use our Sites;
+  * participate in any of our programs;
+  * place orders, make purchases, return or exchange items, or seek further information about our products and services;
+  * place orders or make purchases, return or exchange items, or seek further information through our affiliated companies, including Costco Wholesale Corporation (Costco and its affiliates are referred to collectively as the “Costco Affiliates”);
+  * enter into a contest or sweepstakes or respond to one of our surveys; and
+  * ask us to place you on a “Do Not Email” list so that we can ensure that your wishes are respected.
 
-However, if you apply for products or services, the information listed above, plus other relevant information you provide will be shared directly with the third parties who will be providing the requested products or services. If you apply with Citi for a Costco Anywhere VISA card we may also share the aggregate amount of your Costco expenditures.
 
-These third parties are required to use personal information we share only to provide the requested services. We are not responsible for any additional information you provide directly to these parties, and we encourage you to become familiar with their privacy practices and policies before disclosing information to them. Information you provide to third parties, may in turn be shared with us along with information about your use of the services. In some cases, these third parties may require as a condition of providing services to you that you authorize them to share information with us. If we terminate our relationship with a third party, information you provided to them may be returned to us, and we may provide that information to a new third party offering the same or similar services. 
 
-  3. **Our Contractors**  
-We may contract with others to perform services on our behalf. For example, we might retain a company to process credit card payments, ship merchandise, distribute emails, process rebates or analyze data. If any of these service providers need access to your personal information, we require them to use it only to perform the services for us. We also require that they maintain the confidentiality of the information and/or return the information to us when they no longer need it. 
+Please note that Costco Services may be provided by third-party suppliers. We collect from such third-party suppliers a list of our customers who have signed up for Costco Services and information about the use our customers make of such Costco Services (for example, frequency of use and customer feedback).
 
-  
+We may also take video footage on our properties to protect the rights, property or safety of Costco, its customers, employees, or the public. 
 
-  4. **Primary Account Holder**  
-Each membership account has an individual primary account holder who is authorized to designate and remove add-on members and make other account management decisions. We may disclose Personal Information that relates to activities occurring under the account to the primary account holder. 
+### 5\. How we use personal information
 
-  
+As part of our business operations, we hold and use certain personal information pertaining to you in order to process your requests, provide you with Costco Services, and to understand your needs so that we can serve you better.
 
-  5. **Tobacco Rebates for Business Members**  
-As a service to our Business Members who purchase tobacco products for resale, we provide information to the tobacco manufacturers' representative to process retail incentives. The information we provide is the business Member's name, address, the brand name, and the amount of tobacco products purchased. Pursuant to California law, if you are a Business Member in California and you do not want us to disclose this information on your behalf, you can notify us (see Choice below). 
+Specifically, we may use personal information for the following purposes: 
 
+  * Notifying you of recalls or safety issues;
+  * Approving you as a member when you apply for membership;
+  * Managing the provision of goods, services and privileges to you, including monitoring your membership, processing exchanges or returns, to conduct a credit check if you choose to pay by cheque, to determine your credit status and for fraud detection and identification purposes;
+  * Managing invoicing, accounting and information security services related to our transactions with you;
+  * Monitoring your satisfaction with our programs, including the Executive Membership program, the services offered by our suppliers of Costco Services and contacting you regarding the status of such programs and services (for example, to inform you of changes to or the termination of particular Costco Services);
+  * Protecting against harm to the rights, property or safety of Costco, its customers, employees, or the public;
+  * Internal management purposes, including planning, resource allocation, policy development, quality improvement, monitoring, audit, evaluation and reporting;
+  * As described in our “Online privacy practices” in Section 12 below;
+  * Managing our “Do Not Email” lists; and
+  * Using personal information to create aggregate information as described above in Section 2.
 
 
 
-## E. Other Uses and Disclosures
+If you ask us to, we will also tell you about news, promotions, special ofers and other information from Costco, regarding Costco, Costco Affiliates and selected partners, such as our promotional programs. You may unsubscribe from these kinds of messages at any time by visiting Costco.ca and setting your Communication Preferences. 
 
-In addition, we may use or disclose personal information in the good faith belief that we are lawfully authorized to do so, or that doing so is reasonably necessary to protect you, to comply with legal process or authorities, to respond to any claims, or to protect the rights, property or personal safety of Costco Wholesale, our Members, our employees or the public. If your membership was purchased for you as an employee benefit, we may share your name, address and membership level (Gold Star, Business or Executive), but no other personal information, with your employer. Information about our Members, including personal information, may be disclosed or transferred as part of, or during negotiations of, any merger or sale of company assets or acquisition. 
+### 6\. When we share personal information
 
-## F. Protection of Personal and Credit Card Information
+Personal information we collect in accordance with this Privacy Policy may be shared with the Costco Affiliates, for the purposes listed above, provided that such shared information is required for and is used and disclosed for such purposes only. Personal information may also be disclosed to unaffiliated third parties in connection with the sale, assignment or other transfer of our business, in which case we will require such third parties to adhere to the terms of this Privacy Policy. We will also disclose personal information in accordance with Section 12 below when the information is collected online at our Sites.
 
-We have physical, administrative and technical security measures in place to protect personal information from loss, misuse or alteration while it is under our control. We are required to collect, process and maintain payment card information in accordance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express. This means that we do not retain debit card PINs or credit card security codes, and that any time we maintain a credit card number, such as when you create an online account, we must limit access to it and use strong encryption to protect it. Further, when you enter personal information online, that information is encrypted prior to transmission using a security protocol called SSL (Secure Sockets Layer). We also use SSL to allow you to securely view your online account and registration information. 
+From time to time we engage unaffiliated third parties and their affiliates, agents and subcontractors (“Service Providers”) to perform certain technological or administrative services. For example, a Service Provider may be asked to perform credit card processing services, administer a contest or be asked to run a computer program that identifies which of our members purchased a particular product so we can notify those members of special programs regarding the same or similar products. We also may use a Service Provider to host and administer one or more of our Sites, process and store data, and fulfill similar technology-related functions on our behalf. In these circumstances, the personal information that the Service Provider receives is limited to only the personal information held by us that they need in order to render their service to us. The companies that are provided with the personal information are first required to sign an agreement that obligates them to keep the information confidential and secure and prohibits them from using it for unauthorized purposes. For clarity, the travel providers described in Section 13 below are not Service Providers, but will be collecting your personal information through Costco Canada Travel Inc. Accordingly, when you book travel through us, any personal information you provide will be subject to the privacy policies and the local laws of those travel providers.
 
-Online account information is accessible only by using a password. You must keep your password confidential. You are responsible for all uses of [www.costco.com](https://www.costco.com/) by anyone using your password. Please advise us immediately at [customerservice.costco.com](https://customerservice.costco.com/) if you believe your password has been misused. 
+We have engaged Service Providers to provide us with cloud computing services. Cloud computing is the provision of network-based services, located on remote computers, that allow individuals and businesses to use software and hardware operated by third parties. Examples of these services include online file storage, webmail and online business applications. Service Providers have policies and processes in place to ensure that the confidentiality of information in their care is properly safeguarded at all times. As of the date of this policy, our cloud computing Service Provider processes and stores information in the United States, the European Union, Taiwan, Singapore and Chile. This may change from time to time; for a current list of storage locations, visit: [//www.google.ca​/about/datacenters/inside/locations/](https://www.google.ca/about/datacenters/inside/locations/ "open in a new window")
 
-## G. Choice
+You acknowledge that if Service Providers provide services from other countries (such as the ones named above), your personal information may be processed and stored in these countries and the governments, courts or law enforcement or regulatory agencies of these jurisdictions may be able to obtain disclosure of your personal information through a lawful order.  
+As outlined above, Costco Services (such as rebates, the Executive Membership program, and other business and consumer services) may be provided by Service Providers. When you sign up for Costco Services, we will share your name, membership status, membership number and type and such other personal information as is necessary with the Service Provider so they can confirm your eligibility for the Costco Service you requested. Service Providers who are suppliers of Costco Services can only use the personal information that we share with them to provide the Costco Services or, if you have consented, to notify you of their offerings and to evaluate new and existing products, offerings or services. We are not responsible for any additional information you provide directly to these Service Providers, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them. There may be instances when we provide information relating to our business customers to various suppliers such as tobacco companies, so they can conduct market studies and other promotional activities. In the case of tobacco products, the information we provide is the business customer’s name, address, the brand name of the tobacco products purchased and the amount of tobacco products purchased.
 
-We give you choices related to your personal information, and numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse and any add-on members. 
+When you apply for a Costco co-branded credit card, we will share with our credit card partners (including the issuing institution, the payment processing network, and other organizations providing services relating to the Costco co-branded credit card) the information you provide on the application form. If the application is approved, we will share with these partners your Costco membership number(s) and start date(s), your Costco membership photograph(s) that will appear on the co-branded card, your company name and resale permit number (if applicable) and the type and status of your Costco membership. Our credit card partners also have privacy policies, which we encourage you to review carefully before applying for a co-branded credit card.
 
-  1. If you do not want us to share Member Information (see Member Services) with third parties, you can: (a) check the opt-out box on our membership applications; (b) follow the opt-out instructions on your renewal notices; (c) visit us at any Membership desk at any U.S. or Puerto Rico Costco warehouse location; (d) call our Membership Services representatives at 1-800-774-2678; (e) email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com); or (f) write us at:Customer Service, P. O. Box 34622, Seattle, WA 98124.
-  2. If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can: (a) visit us at any Membership desk at any U.S. or Puerto Rico Costco warehouse location; (b) call our Membership Services representatives at 1-800-774-2678; (c) email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com); or (d) write us at: Customer Service, P. O. Box 34622, Seattle, WA 98124.
-  3. If you are a Business Member in California and you do not want us to disclose information about your tobacco purchases, you can: (a) visit us at any Membership desk at any U.S. or Puerto Rico Costco warehouse location; (b) call our Membership Services representatives at 1-800-774-2678; (c) email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com) or (d) write us at: Customer Service, P. O. Box 34622, Seattle, WA 98124.
-  4. If you do not want to receive promotional emails, you can: (a) call our Membership Services representatives at 1-800-774-2678; (b) email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com); (c) write us at: Customer Service, P.O. Box 34622, Seattle, WA 98124; (d) click the provided "unsubscribe" link in any email to unsubscribe; or (e) access "My Account" if you are a registered user of costco.com, and check the opt-out box. If you have more than one email address, you will need to specifically opt-out for each email address. If you receive emails from the online Photo Center or one of our services providers (see Member Services) you will need to specifically opt out of these special purpose emails. There will be an opportunity to do this on the email itself, and you may opt out of Photo Center emails by logging into your Photo Center account.
-  5. If you do not want us to track your activity on Costco.com, you can access "My Account" if you are a registered user and check the opt-out box. If you have more than one email address, you will need to specifically opt-out for each email address.
+We may disclose personal information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so. We may also disclose personal information to protect the rights, property or personal safety of Costco, its customers, employees or other members of the public.
 
+Except as set out above, we do not sell, rent, share or disclose the personal information or personal health information we hold or make our membership list available to others for a fee without your consent.
 
+### 7\. When we collect, how we use and when we share personal health information
 
-## H. Health Care Centers
+In the course of providing you with pharmacy, hearing aid, optical and other health-related services and programs we introduce from time to time, we collect, use and disclose personal health information.
 
-  1. **Health Care Centers**  
-We appreciate the importance of safeguarding the privacy of your personal health information and consequently we have special procedures to protect this sensitive information provided to our pharmacies, and optical and hearing aid departments ("Health Care Centers"). Personal health information includes your prescription information, your Pharmacy Patient Profile and other related information. Review our [Notice of Privacy Practices: Pharmacies & Health Care Centers](https://web.archive.org/wcsstore/CostcoUSBCCatalogAssetStore/rx/pharmacy-privacy-practice.pdf). If you are an Executive Member, your purchase information from our Health Care Centers will be combined with your other personal information to calculate your Executive Member 2% Reward, subject to the terms and conditions of that program.
-  2. **Pharmacies**  
-This section explains our policy with respect to the uses of personal pharmacy information, whether you use our services online or in a warehouse pharmacy. Prescription information is stored in an electronic system separate from all other member stored personal information. To fill your prescriptions, we collect your name, address, telephone number, age, gender, allergies, and other prescription-related information. We are required by law to collect this type of information to identify potentially dangerous drug interactions or other health concerns. We use this information to process your order, contact you with any questions and provide you with the counseling you may require. Our pharmacist database is maintained separately from other Member databases. Only licensed pharmacists, specifically authorized staff, and others permitted by law to view this database, are allowed to do so. When you use our services, you consent to our use and disclosure of your personal health information for purposes of treatment, payment or health care operations. We do not otherwise sell, share, rent or disclose personal information collected from our pharmacy pages or maintained in pharmacist records unless you have authorized such disclosure, or such disclosure is permitted or required by law. Additional terms regarding the confidentiality of your prescription information are explained in our confidentiality of personal pharmacy information page located on our [Notice of Privacy Practices: Pharmacies & Health Care Centers](https://web.archive.org/wcsstore/CostcoUSBCCatalogAssetStore/rx/pharmacy-privacy-practice.pdf) and incorporated in this Privacy Policy by this reference. Please review these terms so that you understand how they affect your actions and information.
+Costco, Costco Affiliates and their Service Providers may collect, use or disclose your personal health information in connection with: 
 
+  * providing you with the health services you request;
+  * communicating with your health service providers;
+  * storing electronic health records within onsite or offsite servers;
+  * processing or obtaining payment for government-funded health services (for example, obtaining authorization from your insurer or provincial authorities for direct payment of pharmacy services);
+  * processing or obtaining payment from your health insurance provider;
+  * internal management purposes, including planning, resource allocation, policy development, quality improvement, monitoring, audit, evaluation and reporting;
+  * providing Costco with technological or administrative services as described in Section 6 above; or
+  * in connection with the sale, assignment or other transfer of our business, in which case we will require such third parties to adhere to the terms of this Privacy Policy.
 
 
-## I. Online Specifics
 
-  1. **Information Gathering and Use.  
-** We use cookies. Cookies are small files that are stored on your computer. They enable us to monitor online activity. We use this information to help optimize your shopping experience. For example, we may customize our home page for you, better display pages according to your browser type, and/or deliver customized product recommendations and email. To opt out of these features see Choices. Cookies are not spyware, and Costco does not collect multi-site data, share information with others that we gather through cookies or allow others to gather information on our site using cookies. Currently our site does not respond to “Do Not Track” features enabled through your browser.
+We may also disclose personal health information without your knowledge or consent if a law, regulation, search warrant, subpoena or court order legally authorizes us or requires us to do so or to protect the rights, property or personal safety of Costco, its customers, employees or other members of the public. We may also be required to disclose certain personal health information in order to maintain standing with professional health bodies, including those for pharmacists, audiologists and opticians.
 
-Like most web sites, our servers log your IP address, the URL from which you accessed our site, your browser type, and the date and time of your purchases and other activities. We use this information for system administration, troubleshooting, fraud investigation and communications from Costco (only).
+Personal health information may be stored by Costco or Costco Affiliates outside of Canada. Asnoted above, as an example, as of the date of this policy, our cloud computing Service Provider processes and stores information in the United States, the European Union, Taiwan, Singapore and Chile. This may change from time to time: for a current list of storage locations, visit: [//www.google.ca​/about/datacenters/inside/locations/](https://www.google.ca/about/datacenters/inside/locations/ "open in a new window"). You acknowledge that if Service Providers provide services from other countries (such as the ones named above), your personal health information may be processed and stored in these countries, and the governments, courts or law enforcement or regulatory agencies in these jurisdictions may be able to obtain disclosure of your personal health information through a lawful order. 
 
-Finally, we use web beacons to determine when and how many times a page has been viewed. Again, we use this information for our own marketing purposes.
+### 8\. How long do we hold personal information and personal health information?
 
-Your browser will accept cookies and allow automatic collection of information unless you change the browser default settings. If cookies are disabled the web site will not load properly.
+Personal information and personal health information is retained only for so long as is necessary for the purposes set out above. When no longer required, we will destroy, erase or de-personalize the personal information and personal health information. Legal requirements may necessitate our retaining some or all of the personal information and personal health information we hold for a period of time that is longer than we might otherwise hold it. However, Costco will restrict access to such information to prevent it from being used except for the fulfillment of these legal requirements. 
 
-  2. **Links to Other Sites**  
-From our web site you can link to websites of third parties who we allow to offer goods and services to our members or who provide functions and amenities to our site, such as product information and reviews. If it is not clear from the context that you are being directed to a third party site, we endeavor to notify you that you are visiting a site where a different privacy policy applies. In general, any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of websites to which we link. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
-  3. **Updating, Reviewing or Correcting Online Personal Information**  
-You may update, review or correct your online account information at any time by accessing your password-protected registration page via the "My Account" area of the Web site. You also may email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com) or call us at 800-774-2678. To update prescription-related information, access the patient profile page at our online pharmacy site. To update general membership information, such as a change of address, please see below.
+### 9\. Accuracy
 
+To ensure that the personal information and personal health information you provided is accurate, complete and up-to-date, we urge you to provide us with updates regarding such information and to inform us of any errors affecting the personal information and personal health information we hold. You may update, review or correct your Costco.ca online account information at any time by accessing your password-protected registration page via the “My Account” area of the Sites. To update any other information, please visit the Membership Counter in any of our warehouses with your membership card to confirm your identity. 
 
+### 10\. Security measures
 
-## J. Apps/Mobile Specifics
+We will continue to keep in place security measures in an effort to protect personal information and personal health information held by us from unauthorized use, access, disclosure, distribution, loss or alteration. We employ physical, administrative, contractual and technological safeguards to protect personal information, and insist that our Service Providers do the same. We will continue to keep in place security measures in an effort to protect personal information and personal health information held by us from unauthorized use, access, disclosure, distribution, loss or alteration. We employ physical, administrative, contractual and technological safeguards to protect personal information, and insist that our Service Providers do the same. Please be aware though that, despite these eforts, no security measures are perfect and no systems are impenetrable. Your privacy can be enhanced by taking care to use suitably strong passwords that others cannot guess, that are kept safe by you, and that are not re-used on other sites. Taking steps like avoiding dictionary words or proper names, and adding extra character and punctuation marks can also help protect you. If you believe your password has been compromised, you should change it immediately.
 
-  1. **SMS (Text) Messages  
-** We will send you SMS (text) communications only if you consent to receive them. We may send you information customized based on your area code, but we do not automatically collect any information that discloses your physical location. You may review our terms of SMS service [here](https://www.costco.com/wcsstore/CostcoUSBCCatalogAssetStore/Attachment/smsTextCostcoTermsService101810.pdf).
-  2. **The Costco App**  
-Before we collect or send location-specific information, we will ask for your consent. Your operating system may not allow you to install the app without giving us consent. You may withdraw your consent by disabling location features on your mobile device and the app will still work, although location features will not function.
+Access to personal information and personal health information will be restricted to authorized personnel who require the information in order to perform their duties properly. In addition, access will be limited to only that information that is strictly necessary for the performance of those duties. Please also see our “Online privacy practices” in Section 12 below.
 
-In general, you do not need to provide any personal information to use our app. If you wish to make a purchase through the app, however, you must create an account. Personal information you provide is subject to this Costco.com Privacy Statement. In addition, as with any online service, our app automatically collects information such as an IP address, the unique identifier of your mobile device and the URL from which you accessed our app (see Online Specifics). Neither your name nor telephone number are automatically collected. It is not possible to opt out of providing information automatically collected through our apps.
+We periodically update our policies regarding information security measures in an effort to protect the personal information and personal health information held by us in the most effective manner possible. 
 
-Providers who supply the technology necessary for us to create the app may share in the receipt of automatically collected information. We restrict their use of personal information to the purpose of providing services to Costco. In addition, you should review the privacy statements published by your mobile carrier and by your device manufacturer. Either or both of them may automatically collect information. Costco does not have access to information you provide to or that is automatically collected by these third parties.
+### 11\. Accessing personal information and personal health information
 
-Our apps may provide links to Costco service providers (see Member Services) and other third parties (see Links to Other Sites).
+Our customers are entitled to access the personal information and personal health information held by us concerning them. In recognition of the importance we attach to each customer’s personal information, you can only access personal information and personal health information we hold about you, but not personal information and personal health information about your spouse or others who may have been issued a membership card on your account. Under limited circumstances, we may give you access to personal information or personal health information that we hold about others, but only if required or permitted by law (for example, a parent or guardian may, in certain instances, be given access to the personal information or personal health information of a child or a person who requires a substitute decision maker).
 
-Except as described in this Privacy Statement, Costco does not sell or share with third parties any information you provide or information automatically collected through our app.
+You can access your personal information and personal health information by showing your membership card at the Membership Counter in each warehouse to confirm your identity and completing a written request for such information on a form we provide. We will generally respond to your request for information within thirty (30) days, unless, for reasons beyond our control, a longer response time is necessary, in which case you will be advised accordingly. While our response will generally be provided at no cost, you will be informed in advance of any charges that apply in connection with the information request. Charges may relate to the transcription, reproduction or transmission of personal information or personal health information held by us.
 
+In very limited circumstances, we may not be able to supply personal information and personal health information for reasons of a legal nature, including privileged communications between professional and client or a pending judicial proceeding. In each case, we will provide written reasons outlining why your request for access has not been granted. 
 
+### 12\. Online privacy practices
 
+**Collection:** We may collect personal information and personal health information online when you visit our Sites as described in Sections 4 and 7.
 
-## K. Use of the costco.com Web Site by Children
+In addition, we may collect cookie and Web beacon information when you browse the Sites. Cookies are small files that are stored on your computer, and Web beacons are electronic images that allow us to count visitors visiting certain Web pages, to access cookies, and to analyze whether advertising banners on our site or other sites were effective. At Costco.ca, we may use cookies and beacons to help optimize your shopping experience, to evaluate use of the Sites, and to support Site analytics and marketing campaigns. In doing so, we may collect technical information such as your IP address, your browser type, the addresses of referring Sites, and your path through the Sites.
 
-We encourage parents to take an active interest in their children's use of the Internet. We do not intend to collect information from children who are under 18 years of age. If you are under 18, you should not provide information on the costco.com website or app. In addition, individuals under the age of 18 may not fill, refill or transfer a prescription on costco.com. 
+Cookies help us to customize our home page for you and to better display pages according to your browser type. While cookies are optional for browsing Costco.ca, they are required for registering, logging on, purchasing or adding items to your cart. If you wish to purchase items or set up an account on Costco.ca, you will need to accept a Costco.ca cookie. (In order to control the ability of website providers to place cookies on your computer, you should consult your browser’s “Options” and “Help” pages to learn how to adjust your settings to suit your privacy preferences.)
 
-## L. Questions or Concerns
+**Use:** We use personal information and personal health information collected online as described in Sections 5 and 7 above. In addition, we use personal information and personal health information: 
 
-If you have any questions or concerns about this privacy statement or would like to contact us for any reason, you can do the following:
+  * to facilitate and monitor certain features of the Sites that you choose to interact with, such as online forums, feeds and chatrooms;
+  * to respond to your questions and concerns and to understand your needs and preferences;
+  * to conduct surveys and other research;
+  * to provide you with customized Site content and advertising;
+  * to fulfill your online orders for products and services and to facilitate product deliveries, pickups and returns;
+  * to detect, prevent, or otherwise address fraud, security or technical issues; or
+  * to protect against harm to the rights, property or safety of Costco, its users or the public as required or permitted by law.
 
-  1. Visit us at any Membership desk at any U.S. or Puerto Rico Costco warehouse location;
-  2. Call our Membership Service representatives at 1-800-774-2678;
-  3. Email us at [customerservice@contactcostco.com](mailto:customerservice@contactcostco.com); or
-  4. Write us at: Customer Service, P. O. Box 34622, Seattle, WA 98124.
 
 
+**Sharing:** We share personal information and personal health information collected online as described in Sections 6 and 7 above. In addition, we may provide Service Providers with certain information that is necessary to fulfill an order you have placed with us. For example, if you request shipment for a purchase, we may provide your address to the shipping carrier and customs Service Provider, and if you pay by credit or debit card, your card number and sales transaction information are passed to the card processor and/or issuer (including their service providers such as fraud verification services). We also may use Service Providers to host and administer the Sites, process and store data, and fulfill other technologyrelated functions on our behalf. However, we only give or permit access to vendors, suppliers and other Service Providers involved in Site administration and the commerce distribution chain the limited information needed to perform their duties and provide you with the products and services you order. We are not responsible for any additional information you provide directly to these parties.
 
-## M. Changes to this Statement
+**Protection:** Personal information and personal health information we collect on our Sites is stored electronically, and may be combined with other off-line information. Personal information and personal health information entered on our Sites is encrypted using a security protocol called SSL (Secure Sockets Layer). SSL encrypts information entered on our site before it is sent over the Internet. SSL also allows you to view securely your online account and registration information. Account information is accessible online only through the use of a password. To protect the confidentiality of personal information and personal health information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Sites by any person using your password. You are advised that, unlike communication within our Sites, we have no control over the privacy of your email communications with us while in transit. We recommend that you do not include confidential, proprietary, personal or personal health information in emails, including credit card numbers, passwords, prescriptions and other similar information. Also, if other people have access to your email account, they may be able to access your password and obtain personal information about you (such as your credit card information), or change information about your user profile. You should not use an email account operated by your employer because many employers have the legal right to access such email accounts. Please advise us immediately by email at webservice@contactcostco.ca or by dialing 1-888-426-7826 if you believe your password has been misused.
 
-We may change this privacy statement at any time, but will alert you that changes have been made by indicating at the top of the privacy statement the date it was last updated. We encourage you to review our privacy statement to make sure you understand how your Personal Information will be used. If we make a material change to how we use Personal Information and the new uses are unrelated to uses we disclose in this statement, we will communicate the changes in advance. 
+**Online links to other sites:** Through links provided on our Sites, you can link to other sites of third parties who have agreed to offer goods and services to our members. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third partys’ privacy policy. Except as described above, we are not responsible for the content or privacy and security practices and policies of sites to which we provide links. Links from our Sites to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
+
+### 13\. Costco Canada Travel
+
+Costco Canada Travel Inc. acts as an agent to help our members book flights, cruises, hotels, rental cars and other travel-related goods or services in Canada and throughout the world. Since, in this instance, we are acting as an agent connecting our members to various travel providers, any personal information you provide to us will be transferred to the travel providers and their agents, and will be subject to their privacy policies and their local laws. Your information may be accessible in Canada or in foreign jurisdictions to law enforcement and national security authorities. We are not responsible for the privacy and security practices or policies of these travel providers or their agents, and we encourage you to learn about their privacy and security practices and policies before booking travel through us.
+
+The personal information requested by travel providers may include, among other things, financial information, travel document details, trip details, citizenship, gender, date of birth, credit card information, special needs information, travel preferences, loyalty program details, and emergency contact details. This personal information is required for purposes including booking your trip, contacting you in association with your trip, providing mandatory information to government authorities, personalizing your travel experiences, and for other purposes identified by the travel providers in their privacy policies. We may retain some or all of this information in order to provide services to you in association with your bookings. The information held by us will be subject to our Privacy Policy.
+
+When you make a reservation for someone else through us, we will ask you for their personal information. You should ensure that you have the consent of other individuals before providing us with their information. By providing us with that information, we consider that you have these other individuals’ consent and authorization to provide us with their personal information and to make bookings on their behalf in accordance with our travel providers’ privacy policies.
+
+If another person who has your full name and booking reference numbers contacts us and seeks information on your booking or wishes to make changes to it, we will disclose that information and allow that other person to make changes to your booking, as we will assume that you have given that person the consent to do so. Likewise, if your bookings are made through or by third parties, such as employers, family members or others, we will consider those people to be authorized by you to provide your personal information in accordance with this Section, unless or until you tell us otherwise. 
+
+### 14\. Complaint process
+
+If you are not completely satisfied with or wish to submit comments concerning this Privacy Policy or its application by us, we invite you to convey your concerns or suggestions to Costco Wholesale Canada Ltd., 415 West Hunt Club Road, Ottawa, Ontario, Canada K2E 1C5 Attention: Privacy Officer. We will reply as quickly as possible and inform you of the steps, if any, that have been or will be taken in order to address the concern or implement the suggestion. You can also file a complaint with the Privacy Commissioner in the province in which you reside or with the Office of the Privacy Commissioner in Ottawa. 
+
+### 15\. Choice
+
+If you previously consented to the sharing of the personal information you provided or are a Business Member and you do not want us to disclose information about your tobacco purchases, you can change your mind by: 
+
+  1. Contacting us at any Membership Counter at any Canadian Costco warehouse location;
+  2. Calling our Member Service representatives at 1-800-463-3783;
+  3. Emailing Customer Service at service@contactcostco.ca with ATTENTION: PRIVACY OFFICER in the subject line;
+  4. Writing us at: Member Service, 415 West Hunt Club Road, Ottawa, Ontario K2E 1C5 Attention: Privacy Officer.
+
+
+
+If you wish to unsubscribe from electronic messages providing news, promotions, special offers and other information from Costco, regarding Costco, Costco Affiliates and selected partners, such as our promotional programs, you may do so at any time by visiting Costco.ca and setting your Communication Preferences. 
