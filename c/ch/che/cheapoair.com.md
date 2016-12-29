@@ -1,142 +1,198 @@
-> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619162050id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035934id_/https%3A//www.cheapoair.com/travel/travel_resources/privacy.asp) for the most accurate reproduction.*
 
 # CheapOair.com Privacy Policy
 
-|    Privacy Policy (Effective Date: November 13, 2013) | [](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.cheapoair.com&sealid=101)  
+|    Effective Date: 09/13/2016 |   
 ---|---  
-CheapOair.com is strongly committed to protecting your privacy.  
-  
-Cheapoair has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-Please read this privacy policy ("Privacy Policy") to learn about our information collection and dissemination practices in connection with the CheapOair.com website and mobile application (collectively, the "Site"). By visiting any section of the Sites you agree to the practices described herein. If you do not agree to this Privacy Policy, you should not use the Site.
-
-If you have questions or concerns regarding our privacy policy, you should first contact customer service at [Feedback@CheapOair.com ](mailto:Feedback@CheapOair.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [//watchdog.truste.com/](https://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-Cheapoair.com use of your private information.
-
-CheapOair is committed to providing fair information practices and adopts the highest degree of privacy policy in protecting customer's private and personal information submitted to CheapOair in connection with purchasing travel products from CheapOair.
-
-If you purchase a product or service from us or register for a competition or promotional offer on our website, we may request certain personally identifiable information from you. You must provide contact information such as first and last name, email, phone numbers, and shipping address , as well as financial information such as credit card number, card holders name and expiration date. Some information about you is required in order for you to register as a member, book travel itineraries, participate in a contest, ask us a question, or for other purposes in connection with your use of the website or our services.
-
-CheapOair uses and stores sensitive information such as credit card number, cardholder's name, postal and billing address, and expiration date provided to us through our website or in any other way for billing purposes, and to fulfill your orders. We collect, use and store your other personal information, including your e-mail address, for the following general purposes: to provide you with travel services or other product that you purchase from us, to send your itinerary confirmation, vouchers, or service related notifications, to communicate with you as our customer, to provide you with special offers regarding products or services that may be of interest to you from our CheapOair, service providers or marketing partners, to solicit information from you, to resolve any disputes, collect any due fees, to enforce our Terms and Conditions and to prevent or recover any potential or actual losses resulting from or related to any suspect criminal activity including but not limited to fraud or identity theft.
-
-CheapOair does not sell, trade, share or rent your personal information to third parties without your prior consent, unless otherwise herein described. 
-
-When you download and use our Services, we automatically collect information on the type of device you use, operating system version and device identifier. 
-
-We collect your location based information for the purpose of allowing you to book your hotels, flights and rental cars. We will not share this information with anyone. If you no longer wish to allow us to use your location based information, please do not use our service. You may alternatively, turn this off at the device level.
-
-E-mail communications and newsletters
-
-From time to time, we may notify you via email newsletter of any changes or additions to our site, and new offers and products from third parties that may be of interest to you. You may opt-out from our email newsletter by following the unsubscribe instructions in any email newsletter you receive from us.
-
-Other sites accessible through links on our Site have their own privacy policies and data collection practices. Please consult each site's Privacy Policy before providing your personal information. CheapOair is not responsible for the actions of websites whose links are accessible through our Site or any actions of third parties that are not under CheapOair's discounted control. 
-
-CheapOair will not share your private information with any third party, except for the following situations and as outlined in this privacy policy:
-
-We may share your information with our trusted parent company, corporate affiliates and subsidiaries, including but not limited to CheapOstay.com and HotelPricer.com. Our parent company, all of our affiliates and subsidiaries share our commitment to protect your private information and comply with a policy at least as restrictive as our Privacy Policy. They will also comply with all federal and state regulations regarding the use of your private information.
-
-Your information may be shared with suppliers such as airlines, hotels, car rental partners, and/or activity providers who are directly involved in providing you with services or other products you purchased from our website.
-
-Third parties who provide corporate services or functions on our behalf, including credit card processing financial analysis, customer service, call center services, marketing services, contest organization and administration, and fraud prevention may have access to your private information. Such third party vendors have access to and may collect your information only as needed to perform their functions and are not permitted to share, sell, trade or use the information for any other purpose. They are also required to follow data security practices at least as restrictive as ours.
-
-In response to subpoenas, court orders, or other legal process, to protect or enforce our rights, and to defend against claims of any nature.
-
-When we reasonably believe in good faith that it is appropriate to prevent, investigate or take any actions against illegal activities including but not limited to fraud and identity theft and to defend our rights, property of any kind and safety of our company, affiliates or subsidiaries.
-
-As a result of a corporate transaction resulting in merger, consolidation, asset sale or when legally required to.  
-Save for the above mentioned situations, you will be notified when your personal information will be shared with third parties and given an opportunity to choose not to share such information.
-
-Changing an updating your private information.
-
-You may access your private information through your account on our website, if you created one. You can close your account or change your personal information by sending us an e-mail at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com). We may retain some of your personal information for record keeping integrity or for statistical purposes.We may retain your personal information to comply with our legal obligations, resolve disputes, and enforce our agreements.   
-  
    
-| **AGENTS**  
----  
-Like many other sites, this Site uses cookies to personalize your experience by providing you with relevant information and advertising, and to speed up the member sign in process. Cookies are information sequences stored on your computer. Cookies are not used to track your movement or perform any function other than to enhance your use of our Site and are not linked to personal information. If your browser does not support cookies, or you have not enabled cookies in your browser, many of these time-saving features will not work properly. Also, you need to have cookies enabled in your browser if you want to enter the member's area.
-
-A cookie may be placed on your browser by our advertising server. These cookies are used only for purposes of tracking the effectiveness of advertising served by us on our Site.Â  No personal information about you is gathered by the use of these cookies.Â  Anonymous cookies may be placed on your browser by our third-party advertising companies who may use aggregated statistics about your visits to this and other web sites in order to provide advertisements about travel-related goods and services that you may be interested in.Â  The information collected does not include your personal information. We are not responsible for the cookies used by third parties whose link is provided on the Site, nor are we to be held liable in any way with regards to the information you share with third parties whose link is provided on our Site.
-
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please [click here](https://preferences.truste.com/truste/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
-  
-  
-**THIRD PARTY TRACKING TECHNOLOGIES**  
----  
-We use a third-party tracking service called Google Analytics that uses tracking technology to track non-personally identifiable information about visitors to our site in the aggregate.
-
-We use an outside shipping company to ship paper tickets, and a credit card processing company to bill you for travel products. These companies do not retain, share, store or use personally identifiable information for any other purposes.  
-  
-  
-**Clear Gifs (Web Beacons/Web Bugs)**  
----  
-Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a userâ€™s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customersâ€™ personally identifiable information.  
-  
-**Mobile Analytics**  
----  
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.  
-  
-**SECURITY**  
----  
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). [To learn more about SSL, follow this link [//www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html](https://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html)]  
-
-
-All of our secure servers use a high-grade encryption key (AES with 128 and 256 bit secret key) While secure mode provides SSL encryption, pages will take longer to download. Most users choose to sign up or sign in using standard mode to achieve quicker response time.
-
-If you receive browser warnings when going from secure mode pages to non-SSL pages, it is most likely a warning that you are switching servers. As long as your data is entered on a secure mode page, it will only be transmitted to a secure server.
-
-We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. No method of transmission over the Internet, or method of electronic storage is 100% secure. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
-
-If you have any questions about security on our Web site, you can send email us at [[Feedback@CheapOair.com](mailto:Feedback@CheapOair.com)]  
-  
-  
-**GOVERNMENT AND LEGAL**  
----  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.
-
-We may amend this Privacy Policy at any time. All amended terms automatically take effect as of the date this Privacy Policy is updated and published on the Site. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes. **If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective.**
-
-ll the terms used herein are to be interpreted as defined under our [Terms and Conditions](https://www.cheapoair.com/travel/travel_resources/terms.asp).  
-  
-  
-**ACCESS TO PERSONALLY IDENTIFIABLE INFORMATION**  
+| **Privacy Policy / Your Privacy Rights**  
 ---  
   
-If your personally identifiable information changes, or if you no longer wish to use our services, you may correct, update, delete or deactivate it by emailing our Customer Support at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.  
+CheapOair.com (Fareportal Inc.) and its related companies ("we," "us," or "our") value your trust and want you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the websites or mobile websites (the "Websites"), the software applications made available by us for use on mobile devices (the "Apps"), and our other online services, in all cases, from which you access this Privacy Policy (collectively, including the Websites and the Apps, the "Services"). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.  
   
-**PUBLIC FORUMS**  
+  
+**Personal Information**  
 ---  
-  
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [Feedback@CheapOair.com](mailto:Feedback@CheapOair.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.  
-  
-**Social Media (Features) and Widgets**  
----  
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.  
-  
-**CHILDREN'S PRIVACY PROTECTION**  
----  
-CheapOair understands the importance of protecting children's privacy in the interactive online world. The Site is not designed for, or intentionally targeted at, children 13 years of age or younger.Â  It is not our policy to intentionally collect or maintain information about anyone under the age of 13.  
-  
-**OPT-OUT**  
----  
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a travel product, but do not wish to receive any additional marketing material from us, you can indicate your preference in our order form. However, we will still use your personally identifiable information to provide you with the services and products you purchased through our Site, including but not limited to sending you reservation and confirmation communications or vouchers.
+**Personal Information We May Collect**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, or by contacting us at the address below, or by [UnSubscribe Here](https://www.cheapoair.com/travel/travel_resources/nl-unsubscribe.asp).
+"Personal Information" is information that identifies you as an individual or relates to an identifiable person, including, for example: 
 
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+  * Name
+  * Postal address(es)
+  * Telephone number
+  * Email address
+  * Credit and debit card number and related information
+  * Social media account ID
+  * Passport number
+  * Number assigned by a transportation agency, such as a Transportation Security Administration known traveler number
+  * Any other information you provide when you communicate or book travel with us (e.g., your dietary and other preferences or needs), as well as information about your bookings (e.g., points of departure and destinations) 
+
+
+
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
+
+**How We May Collect Personal Information**
+
+We and our service providers may collect Personal Information in a variety of ways, including: 
+
+  * **Through the Services** : We may collect Personal Information through the Services, such as when you make a booking or register for a promotion.
+  * **Offline** : We may collect Personal Information from you offline, such as when you contact customer service.
+  * **From Other Sources** : We may receive your Personal Information from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected), and other third parties, to the extent permitted by applicable law.
+
+**How We May Use Personal Information**
+
+We may use Personal Information:
+
+  * To complete and fulfill your booking or purchase, which includes processing your payment, communicate with you regarding your booking or purchase, and provide you with related customer service. We use passport information for the purpose of travel bookings.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * To send administrative information to you, such as information regarding the Services and changes to our terms, conditions, and policies.
+  * To send you marketing communications that we believe may be of interest to you, to the extent permitted by law.
+  * To personalize your experience on the Services by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests, and similar promotions and to administer these activities. Some of these activities have additional rules, which may contain additional information about how we use and disclose your Personal Information. We suggest that you read any such rules carefully, as you will be bound by them if you choose to participate.
+  * To facilitate social sharing functionality.
+  * To allow you to send messages to another person through the Services. By using this functionality, you are telling us that you are entitled to provide us with your friend's name and email address.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving, or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your state or country of residence; (b) to comply with legal process and to prevent, detect, or suppress abuse, fraud, or criminal activity; (c) to respond to requests from public and government authorities and self-regulatory organizations, including public and government authorities and self-regulatory organizations outside your state or country of residence; (d) to enforce our terms and conditions; (e) to protect our operations, assets, or interests or those of any of our affiliates; (f) to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
+
+**How Personal Information May Be Disclosed**
+
+Your Personal Information may be disclosed or transferred to the following entities. With the exception of our corporate affiliates and service providers, these entities are not controlled by us and Personal Information disclosed to them is subject to the applicable entity's privacy policy and security practices. Therefore, we encourage you to review the privacy policies of any entity whose products or services you purchase using the Services:
+
+  * To our corporate affiliates worldwide for the purposes described in this Privacy Policy. Fareportal Inc. is responsible for the management of the jointly-used Personal Information. 
+  * To our third party travel-related suppliers, such as airlines, hotels, and car rental companies, so that they may provide the products and services that you book or purchase using the Services.
+  * To other travel-related companies with whom we partner to provide a portion of the Services, such as airline consolidators or aggregators, other travel agencies providing access to their travel-related inventory via the Services, and travel insurance providers.
+  * To our business partners, whose products or services may be offered on the Services, who referred you to the Services from another website or online service, or to whose website or online service the Services link. We encourage you to review the privacy policy of each such website or online service.
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services. The information we provide to third parties service providers is subject to confidentiality obligations and is intended to be used solely for the purpose(s) permitted thereby.
+  * To third-party sponsors or operators of surveys, sweepstakes, contests, and similar promotions.
+  * To identify you to anyone to whom you send messages through the Services. You may also choose to disclose your Personal Information on message boards, chat, profile pages, blogs, and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public and may be available to other users and the general public. We urge you to be very careful when deciding to disclose any information on the Services.
+  * Subject to your social media account settings, to your friends associated with your social media account, to other website users, and to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Services account or log into your Services account from your social media account. By connecting your Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site's privacy policy. If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Services account, and do not participate in social sharing on the Services.
+  * To a third party, in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your state or country of residence; (b) to comply with legal process and to prevent, detect, or suppress abuse, fraud, or criminal activity; (c) to respond to requests from public and government authorities and self-regulatory organizations, including public and government authorities and self-regulatory organizations outside your state or country of residence; (d) to enforce our terms and conditions; (e) to protect our operations, assets, or interests or those of any of our affiliates; (f) to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
   
-**Customer Service,  
-CheapOair.com,  
-135 W 50th Street  
-Suite 500  
+[ Return to Top]()   
+**Other Information**  
+---  
+**Other Information We May Collect**
+
+"Other Information" is any information that does not directly reveal your specific identity or does not directly relate to an individual. If we are required to treat Other Information as Personal Information under applicable law, then we may use it only for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy.
+
+Other Information may, for example, be:
+
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags, and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
+
+**How We May Collect Other Information**
+
+We and our third party service providers may collect Other Information in a variety of ways, including:
+
+  * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+  * **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers, and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience while using the Services, and to recognize your computer in order to assist your use of the Services. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used, and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies to track responses to our online advertisements and to understand what site or advertisement brought you to our site. At this time, we do not respond to browser do-not-track signals. 
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer, and you may need to log in every time you visit. 
+
+  * **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns, and compile statistics about usage of the Services and response rates.
+  * **Analytics** : We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google's practices by going to [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * **Using Adobe Flash technology (including Flash Local Shared Objects ("Flash LSOs")) and other similar technologies** : We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the _Website Storage Settings Panel_. You can also control Flash LSOs by going to the _Global Storage Settings Panel_ and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Services. 
+  * **IP Address** : Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems, and administering the Services. We may also derive your approximate location from your IP address. 
+  * **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower, or WiFi signals. We may use your device's physical location to provide you with personalized location-based services and content. We may also share your device's physical location with our marketing partners, to enable them to provide you with geo-targeted advertising. You may be permitted to allow or deny such uses and/or sharing of your device's location, such as through your device settings. If you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content. 
+  * **From you** : Information such as your preferred means of communication and special travel requests (for example, in connection with a disability or dietary restriction) is collected when you voluntarily provide it. 
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+
+**How We May Use and Disclose Other Information**
+
+We may use and disclose Other Information for any purpose (except where we are required to do otherwise under applicable law), if it doesn't qualify as Personal Information under applicable law. In some instances, we may combine Other Information with Personal Information (such as combining your name with your location). If we do, we will treat the combined information as Personal Information as long as it is combined.  
+  
+[ Return to Top]()   
+**Third Party Services**  
+---  
+  
+This Privacy Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party supplier or intermediary, any third party operating any site or service to which the Services link or any third party that includes a widget on the Services (for example, the Facebook Like button or share buttons). The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates. 
+
+In addition, we are not responsible for the information collection, use, disclosure, or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps.  
+  
+[ Return to Top]()   
+**Third Party Advertisers**  
+---  
+  
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites, apps or online services, based on information relating to your access to and use of the Services and other websites, apps or online services on any of your devices. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). They may also use these technologies and other information that they and we collect about your online use to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn about your choices in connection with it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [ http://www.aboutads.info/choices](http://www.aboutads.info/choices). You may download the AppChoices app at [ www.aboutads.info/appchoices](https://www.aboutads.info/appchoices) to opt out in mobile apps.  
+  
+[ Return to Top]()   
+**Security**  
+---  
+  
+We seek to use reasonable organizational, technical, and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the "Contacting Us" section below.  
+  
+[ Return to Top]()   
+**Choices And Access**  
+---  
+**Your choices regarding our use of your Personal Information**
+
+You may opt out from receiving marketing-related emails from us on a going-forward basis by following the instructions contained in each such email or by contacting us in accordance with the "Contacting Us" section below. You may opt out of receiving push notifications from us through your device settings. 
+
+We will try to comply with your request as soon as reasonably practicable. Please note that if you opt out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, or delete Personal Information that you have previously provided to us, you may contact us in accordance with the "Contacting Us" section below. In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. 
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.   
+  
+[ Return to Top]()   
+**Your California And Canadian Privacy Rights**  
+---  
+  
+If you are a resident of California or Canada, you may request information regarding the disclosure of your Personal Information to our affiliates and to third parties for the recipients' own direct marketing purposes. To make such a request, please contact us in accordance with the "Contacting Us" section below.   
+  
+[ Return to Top]()   
+**Retention Period**  
+---  
+  
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.  
+  
+[ Return to Top]()   
+**Use Of The Services By Minors**  
+---  
+  
+The Services are not directed to individuals under the age of eighteen (18), and we request that they not provide Personal Information through the Services.   
+  
+[ Return to Top]()   
+**Cross-Border Transfer**  
+---  
+  
+Your Personal Information may be transferred, stored, accessed, and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country.  
+  
+[ Return to Top]()   
+**Sensitive Information**  
+---  
+  
+we ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Services or otherwise to us.   
+  
+[ Return to Top]()   
+**Updates To This Privacy Policy**  
+---  
+  
+We may change this Privacy Policy. The "Last Updated" legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.  
+  
+  
+**Contacting Us**  
+---  
+  
+If you have any questions about this Privacy Policy, please contact us via email at [ feedback@CheapOair.com](mailto:feedback@CheapOair.com) or write to us at: 
+
+CheapOair  
+c/o Fareportal Inc.  
+135 West 50th Street, Suite 500  
 New York, NY 10020  
-[Feedback@CheapOair.com](mailto:Feedback@CheapOair.com)**  
-  
+Attn: Customer Service/Privacy
+
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.  
   
    
-If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will serve as a liaison with us to resolve your concerns.  
-  
    
    
 |   
