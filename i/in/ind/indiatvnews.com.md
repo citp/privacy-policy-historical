@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623190409id_/http%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051834id_/http%3A//www.indiatvnews.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # IndiaTV news privacy policy
 
@@ -6,11 +6,19 @@ India TV Interactive Media Pvt. Ltd. (India TV) respects the privacy of it's use
 
 By using (India TV)’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
 
-**User Information** To avail certain sites / services on our websites, users may be required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
+**User Information** To avail certain sites / services on our websites, users may be required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code ,password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.
 
 All required information is service dependent and (India TV) may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
+
+We may disclose to third party services certain personally identifiable information listed below:  
+a) information you provide us such as name, email, mobile phone number  
+b) information we collect as you access and use our service, including device information, location and network carrier 
+
+This information is shared with third party service providers so that we can:  
+a) personalize the app for you  
+b) perform behavioral analytics 
 
 **Cookies** India TV includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
