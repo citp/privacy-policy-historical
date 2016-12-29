@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blogherads.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228160616id_/http%3A//www.sheknows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogherads.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044850id_/http%3A//www.sheknows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [www.AllParenting.com](http://www.allparenting.com/)
-
-[www.BeautyHigh.com](http://www.beautyhigh.com/)
 
 [www.BlogHer.com](http://www.blogher.com/)
 
@@ -14,13 +12,7 @@
 
 [www.FabulousFoods.com](http://www.fabulousfoods.com/)
 
-[www.FabulousLiving.com](http://www.fabulousliving.com/)
-
 [www.HarryPotterFans.com](http://www.harrypotterfans.com/)
-
-[www.LovingYou.com](http://www.lovingyou.com/)
-
-[www.MakeoverSolutions.com](http://www.makeoversolutions.com/)
 
 [www.PregnancyandBaby.com](http://www.pregnancyandbaby.com/)
 
@@ -36,7 +28,7 @@
 
 [www.StyleCaster.com](http://www.stylecaster.com/)
 
-[www.StyleCasterMediaGroup.com](http://www.stylecastermediagroup.com/)
+[www.SheKnowsMedia.com](http://www.sheknowsmedia.com/)
 
 (collectively, the "Website")
 
