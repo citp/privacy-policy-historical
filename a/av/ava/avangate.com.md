@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612140950id_/http%3A//www.avangate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045829id_/http%3A//www.avangate.com/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
@@ -67,6 +67,8 @@ Your Personal Information may be transferred to persons within the European Unio
 
 We participate in the United States - European Union Safe Harbor Framework and the United States - Switzerland Safe Harbor Framework. Please see Our "Safe Harbor Policy" at <http://www.avangate.com/safe-harbor-policy.php>. 
 
+We are also in a transit period from Safe Harbor to the new United States - European Union Privacy Shield Framework and the United States - Switzerland Privacy Shield Framework. Please see Our "Privacy Shield Policy" at <http://www.avangate.com/privacy-shield-policy.php>. 
+
 ###  IV. Your Rights 
 
 In accordance with the applicable law, Avangate will provide You with access to Your Personal Information and, as appropriate, the right to intervene in respect of Your Personal Information. You may also be entitled to object to the processing of Your Personal Information by Avangate or to request the deletion of Your Personal Information, in which case, if Avangate in its sole discretion deems such Personal Information as mandatory, Avangate may no longer permit You to engage in certain activities. For the purpose of exercising Your rights, You shall submit a written request to Avangate in accordance with the applicable law to the applicable Avangate office identified in the "Contact Us" section of the Website or via [Avangate myAccount](https://web.archive.org/login/). In addition, if You believe that Avangate has not complied with this Privacy Policy with respect to Your Personal Information, please submit a sufficiently detailed complaint to info@avangate.com, or by mail to the applicable Avangate office identified in the "Contact Us" section of the Website. We will promptly investigate Your complaint. Thereafter, We will take all measures We deem necessary to remedy the issues outlined in Your complaint that We, in Our sole discretion, view as justified. 
@@ -81,4 +83,4 @@ If You have any questions about this Privacy Policy, please send Your inquiry to
 
 Avangate reserves the right to change this Privacy Policy at any time by posting notice of the changes on the Website. For additional details concerning changes to this Privacy Policy, please see Section 18.3 of the Avangate Terms and Conditions. 
 
-_Last update: March 17, 2015_
+_Last update: July 28, 2016_
