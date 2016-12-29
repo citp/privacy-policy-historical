@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145509id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229190003id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
@@ -111,16 +111,16 @@ Contact Information
 
 To offer comments about Arizona State Parks, or about the information presented in this Privacy Policy, contact Arizona State Parks Research & Marketing: 
 
-By Email: aspbroc@azstateparks.gov 
+By Email: pio@azstateparks.gov 
 
 By Telephone: (602) 542-4174 
 
 By Fax: (602) 542-4180 
 
 By Mail: Arizona State Parks   
-Attn: Research and Marketing   
-1300 W. Washington   
-Phoenix, Arizona 85007 
+Attn: Marketing   
+23751 N 23rd Ave., #190   
+Phoenix, Arizona 85085 
 
 Email or other information requests sent to a state website may be saved and used to respond to the request, forward the request to the appropriate agency, communicate updates to the state site that may be of interest to citizens, or provide the agency with customer feedback to assist in improving the website.
 
@@ -129,7 +129,7 @@ If you choose to provide us with personal information — by submitting an onlin
 ##   
 Privacy Policy Statement Is Subject To Change 
 
-This Privacy Policy Statement is subject to change _._ Last updated December 2012.
+This Privacy Policy Statement is subject to change _._ Last updated June 2016.
 
 
 
