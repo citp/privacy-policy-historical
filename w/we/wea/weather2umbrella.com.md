@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231600id_/http%3A//www.weather2umbrella.com/sr/privatnost-podataka/eta2/9/314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather2umbrella.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061649id_/http%3A//www.weather2umbrella.com/en/privacy/eta2/9/314) for the most accurate reproduction.*
 
-# Vremenska prognoza 7 dana ..Weather2Umbrella ®..
+# Weather Forecast - Meteo | Vremenska Prognoza ..Weather2Umbrella ®..
 
 **  
 Online privacy statement**
