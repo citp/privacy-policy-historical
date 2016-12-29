@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icann.org privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229171014id_/https%3A//www.icann.org/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icann.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229190128id_/https%3A//www.icann.org/en/help/privacy) for the most accurate reproduction.*
 
-# Resources - ICANN
+# Privacy Policy - ICANN
 
 ## Last Updated: 11 Oct 2012
 
