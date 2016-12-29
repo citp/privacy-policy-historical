@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617035857id_/http%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229130943id_/http%3A//www.eurosport.co.uk/eurosport/eurosport-privacy-policy_sto4264003/story.shtml) for the most accurate reproduction.*
 
 # EUROSPORT PRIVACY POLICY - Eurosport - Eurosport UK
 
