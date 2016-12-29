@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055044id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055301id_/https%3A//www.namepros.com/pages/terms) for the most accurate reproduction.*
 
 # Terms and Policies - NamePros
-
-[ ](https://ad.doubleclick.net/ddm/jump/N9515.1917964NAMEPROS.COM/B9166586.124566472;sz=728x90;ord=756856?)
 
 Legal terms for use of NamePros
 
@@ -33,9 +31,11 @@ These terms may change without explicit notice. Each top-level section header ha
 [¶](https://web.archive.org/pages/terms/#tos)
 
 Last updated
-    May 15, 2016 EDT
+    Nov 28, 2016 EDT
 
 The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts ("Content"). Content submitted express the views of their author only.
+
+Content on NamePros is for educational purposes only and is not a substitute for individualized advice from a qualified legal practitioner. Communications on NamePros are not privileged communications and do not create an attorney-client relationship.
 
 You agree to take full responsibility for all Content you submit to the Service. You agree to assume any losses and/or liabilities that result from your Content.
 
@@ -305,6 +305,6 @@ We reserve the right to redistribute and/or publicize any communication regardin
 
 DMCA takedown requests should be sent to `dmca@namepros.com`. Requests sent elsewhere are still subject to the above terms.
 
-[ ](https://www.dn.com/)
+[ ](https://web.archive.org/login/)
   *[domain]: namepros.com
   *[ISPs]: Internet Service Providers
