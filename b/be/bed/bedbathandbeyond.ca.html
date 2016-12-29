@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the bedbathandbeyond.ca privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617205817id_/http%3A//www.bedbathandbeyond.ca/store/static/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bedbathandbeyond.ca privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229053620id_/https%3A//www.bedbathandbeyond.ca/store/static/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="bedBathCA not-ie no-js" lang="en" xmlns:fb="http://graph.facebook.com/schema/og" xml:lang="en"><!--<![endif]--><head>
+<!DOCTYPE html><html><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="msapplication-config" content="none">
 
 
 
@@ -26,6 +27,9 @@
 
 
  
+
+
+
 
 
 
@@ -41,6 +45,9 @@
 
 
 	
+ 
+ 
+ 
  
  
  
@@ -151,6 +158,9 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 
+   <meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="cache-control" content="no-cache">
+  
 
 
 
@@ -181,6 +191,9 @@
 
 
 
+
+
+
  
  
 
@@ -200,20 +213,83 @@
 
 
 
-<iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px;"></iframe><script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9411361/universal.js"></script><script type="text/javascript" async="" src="https://support.youramigo.com/yawa/73053126/yawa.min.js"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/bedbathbeyond/1.js"></script><script type="text/javascript">
 
 
-var SS_DC;
+
+ 
+
+	
+	
+	
+	
+	
+	
+ 
+<iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9411361/universal.js"></script><script type="text/javascript" async="" src="//d3oq49z2nwxwn1.cloudfront.net/yawa/73053127/yawa.min.js"></script><script async="" type="text/javascript" src="//sec.levexis.com/clients/bedbathbeyond/1.js"></script><script type="text/javascript">
+
+
+var SS_DC,
+	SS_EN;
 (function(){
     var dcPrefix = 'DC2'.toUpperCase().replace(/\s{0,}/g,'');
     if (dcPrefix !== '') {
         SS_DC = (dcPrefix === 'DC1' ? 'AN' : (dcPrefix === 'DC2' ? 'SD' : dcPrefix));
     }
+   		/* introduced for BBBI:3815 */
+    	SS_EN =  'En'; 
 }());
+
+//
+//Additional mPule Configuration
+//
+window.BOOMR_config = {
+    //Enable Javascript Error Support
+    Errors: {
+       enabled: true,
+       monitorTimeout: false
+    },
+    //Enable Big Beacon Third Party Analytics
+    TPAnalytics: {
+       enabled: true
+    }
+};
+
+
+
+//
+// Resource Timing - Set Count to 350
+//
+(function(w){
+    if (!w ||
+        !("performance" in w) ||
+        !w.performance ||
+        !w.performance.setResourceTimingBufferSize) {
+        return;
+    }
+
+    w.performance.setResourceTimingBufferSize(350);
+})(window);
+
+
+//
+//Clear Resource Timing Buffer
+//
+(function(w){
+    if (!w ||
+        !("performance" in w) ||
+        !w.performance ||
+        !w.performance.clearResourceTimings) {
+        return;
+    }
+
+    document.addEventListener("onBoomerangBeacon", w.performance.clearResourceTimings.bind(w.performance));
+})(window);
 
 
 (function(){
-	
+//
+//Critical for capturing page group - PLEASE CONFIRM THIS IS CORRECT
+//
 	SOASTA = {}; 
 	link = document.location.pathname.split('/')[2];
 	if (link === ""){
@@ -225,14 +301,25 @@ var SS_DC;
 	
 	if(typeof BOOMR !== "undefined") {
 	BOOMR.addVar("h.pg", SOASTA.pg);
+	}	
+
+	
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement("iframe"),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
 	}
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
 
-// PLEASE EDIT API KEY!!!!
-
-  var dom,doc,where,iframe = document.createElement('iframe');
-  iframe.src = "javascript:false";
-  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
-  where = document.getElementsByTagName('script')[0];
+  iframe.src = "javascript:void(0)";
+  iframe.title = ""; iframe.role = "presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName("script")[0];
   where.parentNode.insertBefore(iframe, where);
 
   try {
@@ -244,31 +331,28 @@ var SS_DC;
   }
   doc.open()._l = function() {
     var js = this.createElement("script");
-    if(dom) this.domain = dom;
+    if (dom) { this.domain = dom; }
     js.id = "boomr-if-as";
-    js.src = '//c.go-mpulse.net/boomerang/' +
-    'PY69M-XZSZ7-FE95U-M2CVZ-2XHRD';
+    js.src = '//c.go-mpulse.net/boomerang/' + 'PY69M-XZSZ7-FE95U-M2CVZ-2XHRD';
     BOOMR_lstart=new Date().getTime();
     this.body.appendChild(js);
   };
   doc.write('<body onload="document._l();">');
   doc.close();
-  })();
+})();
 </script>
 
 
 
-		<link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined.css?v=2.08.02.006">
+
+		<link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined.css?v=201612231055118d14e28DC2">
 		<!--[if lte IE 9]>
-            <link rel="stylesheet" type="text/css" href="/_assets/global/css/global.min.css?v=2.08.02.006" />
-            <link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined_IE.css?v=2.08.02.006" />
+            <link rel="stylesheet" type="text/css" href="/_assets/global/css/global.min.css?v=201612231055118d14e28DC2" />
+            <link rel="stylesheet" type="text/css" href="/_assets/global/css/bbb_combined_IE.css?v=201612231055118d14e28DC2" />
         <![endif]-->
-		<link rel="stylesheet" type="text/css" href="/_assets/global/css/print.min.css?v=2.08.02.006" media="print">
+		<link rel="stylesheet" type="text/css" href="/_assets/global/css/print.min.css?v=201612231055118d14e28DC2" media="print">
     
-    <link rel="stylesheet" type="text/css" href="/_assets/global/css/print.css?v=2.08.02.006" media="print">
-	
- 
-<link rel="stylesheet" type="text/css" href="/_assets/bbbeyond/css/theme.min.css?v=2.08.02.006">
+<link rel="stylesheet" type="text/css" href="/_assets/bbbeyond/css/theme.min.css?v=201612231055118d14e28DC2">
 
 
 
@@ -295,7 +379,7 @@ var SS_DC;
                 name: 'Canada'
             };
         
-    BBB.config.datePickerDateToday = new Date('06.17.2016'.replace(/\./g,'/'));
+    BBB.config.datePickerDateToday = new Date('12.29.2016'.replace(/\./g,'/'));
     BBB.config.datePickerMinDate = new Date(BBB.config.datePickerDateToday.getFullYear()-2, BBB.config.datePickerDateToday.getMonth(), BBB.config.datePickerDateToday.getDate());
     BBB.config.datePickerMaxDate = new Date(BBB.config.datePickerDateToday.getFullYear()+5, BBB.config.datePickerDateToday.getMonth(), BBB.config.datePickerDateToday.getDate());
     
@@ -565,803 +649,18 @@ var SS_DC;
 </script>
 
 
+<script type="text/javascript" src="/store/_includes/end_script.jsp">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-            <script type="text/javascript">
-                // Bed Bath & Beyond namespace as a global variable
-                var BBB = BBB || {};
-				BBB.katoriCodes = {"ET":{"singleCode":"P","description":"Personalization"},"ET-SU":{"singleCode":"P","description":"Personalization"},"MO":{"singleCode":"P","description":"Personalization"},"MO-SU":{"singleCode":"P","description":"Personalization"},"SU":{"singleCode":"P","description":"Personalization"}};	BBB.customVendors = {"katori":{"vendorJs":"//s3.amazonaws.com/katori/xk/katori.js","vendorMobileJs":"//s3.amazonaws.com/katori/xk/katori_mobile.js","apiURL":"https://api.bbby.katori.com/api/customizations","apiKey":"G2xDA23Dc9E8x0HH8AxuLtQbGbnGwanv","methodName":"katori","apiVersion":"1","clientId":"7e4f86677d070df2d7d5813e79cba3dde1743ed05877fb8e"},"DesignsDirect":{"vendorJs":"//bbb.snowmachine.me/skin/frontend/base/default/customizer/js/loadwidget.js","vendorMobileJs":"//bbb.snowmachine.me/skin/frontend/base/default/customizer/js/loadwidget.js","apiURL":"https://bbb.snowmachine.me/customizer/api","apiKey":"qXMYYbH1Ahqk6491I042erB9vgIE5Rg8","methodName":"DesignsDirect","apiVersion":"1","clientId":"0ebac18e68af02427ad254e89bf6b5c623087520"}};
-                /**
-                * Extending BBB Object with all the String messages which will be used to show messages through JS.
-                */
-                BBB.glblStringMsgs = {
-                    "txtCoRegTitle": "<h3>Co-Registrant Email Confirmation</h3>",
-                	"lblEditPersFor": "Edit personalization for ",
-                	"lblRemovePersFor": "Remove personalization for",
-                    "selected": "Selected",
-                    "applied": "Applied",
-                    "apply": "Apply",
-                    "applying": "Applying",
-                    "select": "Select",
-                    "selectSize": "Select a Size",
-                    "selectColor": "Select a Color",
-                    "selectFinish": "VALUE NOT FOUND FOR KEY lbl_pdp_select_finish",
-                    "readMore": "Read More",
-                    "readLess": "Read Less",
-                    "viewCartContents": "View Cart Contents",
-                    "hideCartContents": "Hide Cart Contents",
-                    "viewOrderContents": "View Order Contents",
-                    "hideOrderContents": "Hide Order Contents",
-                    "addBtn": "Add",
-                    "cancelBtn": "Cancel",
-                    "okBtn": "Ok",
-                    "saveChangesBtn": "Save Changes",
-                    "doneBtn": "Done",
-                    "closeBtn": "Close",
-                    "itemAdded": "Item has been added to Registry",
-                    "itemNotAdded": "Item couldn&#39;t be added to Registery",
-                    "enterNewShipAdd": "Please confirm your shipping and contact information",
-                    "enterNewBillAdd": "Enter a new billing address",
-                    "showBtn": "Show",
-                    "yesBtn": "Yes",
-                    "noBtn": "No",
-                    "msgSentTo": "Message sent to",
-                    "charsRemaining": "characters remaining",
-                    "loading": "Loading...",
-                    "goBtn": "Go",
-                    "college": "University",
-                    "state": "Select State",
-                    "province": "Select Province",
-                    "lblprovince": "Province",
-                    "zipCodeCanada": "Postal Code",
-                    "lblZip": "Zip",
-                    "lblstate": "State",
-                    "pwdReminderSent": "Password Reminder Sent",
-                    "emailAFriend": "Email a Friend",
-                    "findInStore": 'Find in Store',
-                    "findAStore": "Find a Store",
-                    "findStoreResults": 'Search Results',
-                    "rateAndReview": 'Rate & Review',
-                    "itemAddedToList": 'Item(s) has been added to Saved Items',
-                    "itemNotAddedToList": 'Item(s) couldn&#39;t be added to Saved Items',
-                    "fbConnectEnabled": 'Facebook Connect Enabled',
-                    "fbDisconnectText": '(You can disconnect from facebook in &#39;My Account Overview&#39;)',
-                    "pwdUpdated": 'Password Succesfully Updated',
-                    "s7messageTextDesktop": 'Hover to zoom &#124; Click to view larger',
-                    "s7messageTextTouch": 'Pinch to zoom &#124; Tap to view larger',
-                    "s7ZoomImageModalTip": 'Hover to zoom',
-                    "s7ZoomImageModalTipTouch": 'Pinch to zoom',
-                    "lblSKU": 'SKU #',
-                    "btnLBLFindAStore": 'Find a store',
-                    "btnLBLChangeStore": 'Change Store',
-                    "passwordRequirements": 'Password Requirements',
-                    "btnBackToQuickView": 'Back to Quick Info',
-                    "titleRegPageAddToCart": 'Your Item Was Successfully Added to Cart',
-                    "btnRegPageViewCart": 'View Cart & Checkout',
-                    "lblRegPageQuantity": 'Quantity',
-                    "quickViewContinueShopping": 'Continue Shopping',
-                    "shareOrderOn_facebook": 'Share this order on Facebook',
-                    "shareOrderOn_twitter": 'Share this order on Twitter',
-                    "shareOrderOn_pinterest": 'Share this order on Pinterest',
-                    "twitterHandle": '@bedbathbeyond',
-                    "twitterShareTextPrefix": 'Check out what I just ordered: \n',
-                    "twitterShareTextSuffix": '&nbsp;from&nbsp;',
-                    "twitterShareTweetSuffix": '&nbsp;via&nbsp;',
-                    "pinterestShareTextSuffix": "",
-                    "oldPriceTextWas": "Was",
-                    "intlShippingTitle": "Ship Internationally",
-                    "deliveryText": " + Delivery",
-                    "inviteSentTitle": "Invitation Sent!",
-                    "lblInviteFrndEmail":'Invite Friends & Family to Recommend Items',
-                    "lblFromText":'From',
-                    "lblViewMore":'View More',
-                    "lblViewLess":'View Less',
-                    "lblRegistryText":'Registry',
-                    "lblAddedTo":'Added to',
-                    "lbl_price_is_tbd":'Personalize to See Price',     
-                    "lblNotifyRegModalTitle" : 'This item has limited quantity remaining or has been discontinued. ',                  
-                    
-                    "QASAjaxFail": "We're sorry. A system error occurred. We were unable to validate your address. Continue with the address you entered, or Cancel to retry.",
-                    "s7ZoomErrorHTML": "Zoom feature is not available for this product.",
-                    "futureMonth": "Please enter a future month.",
-                    "somethingWentWrong": "We are sorry!  A system error occurred. Please try again or contact us.",
-                    "regSomethingWentWrong": "No value found for key :err_reg_something_wrong",
-                    "ajaxURLMissing": "We are sorry!  A system error occurred. Please try again or contact us.",
-                    "alphaNumericName": "No special chars",
-                    "noWhiteSpace": "Spaces are not permitted.  Please re-enter the value.",
-                    "phoneNumValid": "Please specify a valid phone number.",
-                    "passwordEqualTo": "Password must match the Confirm Password.",
-                    "emailEqualTo": "Email and Confirm Email do not match.",
-                    "numberOnly": "Please enter number only.",
-                    "alphaOnly": "Please enter letters only.",
-                    "requiredCommonCVV": "Please enter a CVV code.",
-                    "requiredCommonName": "Please enter required value.",
-                    "featuresLike": "Please enter less than 1000 characters.",
-                    "favoriteWeb": "Please enter less than 1000 characters.",
-                    "textArea1500": "Please enter a value less than 1000 characters.",
-                    "selectGrreting": "Please select a greeting.",
-                    // "errAlphaNumeric": "Please enter letters, numbers, spaces or underscore only.",
-                    "errRequiredCommon": "Please enter required value.",
-                    "errRequiredCommonSelect": "Please seelect a value.",
-                    "errCollectionItemNotSelected": "Please ensure that a quantity is entered. If available, please select size/color/finishing. ",
-                    "errDataIssue": "This product is currently unavailable.",
-                    "errSelectFinish": "Please select a finish",
-                    "errSelectColor": "Please select a color",
-                    "errSelectSize": "Please select a size",
-                    "errSelectQty": "Enter a quantity.",
-                    "errSelectQtyNotNumber": "Please enter a numeric value.",
-                    "errGeneric": "We&#39;re sorry!  A system error occurred. Please try again or contact us.",
-                    "errOutOfStock": "Product is out of stock.  Please check later or contact us about purchasing this item.",
-                    "errTitle": "Please try again or contact us at 1-800-GO-BEYOND to place your order.",
-                    "errSendingInfo": "We&#39;re sorry!  A system error occurred. Please try again or contact us.",
-                    "errEmailCart": "Error occoured while sending Email of the cart",
-                    "errFindRegMultiInput": "Please enter only one of the following: First & Last Name or Email or Registry Number.",
-                    "errFindRegMultiInput2": "Please enter only one of the following: First & Last Name or Registry Number.",
-                    "errSelectRegistry": "Letters or punctuation only please.",
-                    "errSubmissionUnavailable": "We&#39;re sorry!  A system error occurred. Please try again or contact us.",
-                    "errLettersWithBasicPunc": "Letters or punctuation only please.",
-                    "errAlphaNumeric": "Please enter letters, numbers, spaces or underscore only.",
-                    "errAlphaNumericSpace": "Letters, numbers, or spaces only please.",
-                    "errAlphaNumericBasicPunc": "Please enter letters, numbers, spaces or underscore only.",
-                    "errAlpha": "Do these show up right as you tab out?  After you press submit at the end of filling in several of them, when?",
-                    "errCannotStartWithNumber": "Can&#39;t start with number.",
-                    "errLettersOnly": "Please enter letters only.",
-                    "errNoWhitespace": "Spaces are not permitted.  Please re-enter the value.",
-                    "errZipRange": "Please enter a valid zip or postal code",
-                    "errInteger": "Please enter a positive or negative non-decimal number.",
-                    "errVinUS": "Please enter a valid VIN number.",
-                    "errDateITA": "Please enter value in standard date format: mm/dd/yyyy.",
-                    "errDateNL": "Please enter value in standard date format: mm/dd/yyyy.",
-                    "errTime": "Please enter a value time between 00:00 and 23:59. ?? - is this 24 hour format?",
-                    "errPhoneUS": "Please enter a valid phone number.",
-                    "errPhoneUK": "Please enter a valid phone number.",
-                    "errMobileUK": "Please sepcify a valid mobile number",
-                    "errCreditCardTypes": "Please enter a valid credit card number.",
-                    "errIPv4": "Please enter a valid IP v4 address.",
-                    "errIPv6": "Please enter a valid IP v6 address.",
-                    "errPasswordValid": "Password does not meet minimum requirements",
-                    "errPhoneNumValid": "Please enter a valid phone number.",
-                    "errEmailExtended": "Please enter a valid email address.",
-                    "errEmailExtendedMultiple": "Email address must be valid.  Please separate multiple email addresses with a semi-colon.",
-                    "errEmailExtendedMultipleComma":"Email Address must be valid. Please separate multiple email addresses with a commas.",
-                    "errMultiFieldUSPhone": "Please specify a valid phone number.",
-                    "errValidateCoRegistrant": "Please enter a valid phone number.",
-                    // "errZipUS": "Please enter a valid US zip code.",
-                    // "errZipCA": "Please enter a valid Canadian postal code.",
-                    "errNoResultsFound": "No Results Found",
-                    "errAddressAlphaNumericBasicPunc": "Address should not contain the following characters  ( ) ,\"",
-                    "errcannotStartWithSpecialChars": "Cannot start with special characters.        ",
-                    "errcannotStartWithWhiteSpace": "Cannot start with a space.      ",
-                    "errorderFormat": "Please enter a valid order number. Valid order numbers consist of 3 letters followed by 10 digits. ",
-                    "errDateFormatDDMMYYYY": "Please enter a valid date in the format of \"dd/mm/yyyy\".",
-                    "errDateFormatMMDDYYYY": "Please enter a valid date in the format of \"mm/dd/yyyy\".",
-                    "errAlphaBasicPunc": "Please enter letters, apostrophes, hyphens, and spaces only. ",
-                    "errAlphaBasicPuncWithComma": "Please enter letters, periods, apostrophes, hyphens, commas, and spaces only. ",
-                    "errZoomImageLoadFail": "Unable to load zoom image. Please try again later.",
-                    "errInvalidQtyNotNumber": "The item(s) with an invalid quantity has not been updated. Please enter a valid number.",
-                    "errNoDigits": "Cannot use numbers. ",
-                    "errInvalidGiftMessage": "Invalid message. These characters cannot be used ~ ` | &trade; &euro; &cent; &pound; &curren; &yen; &copy; &reg; &iquest;",
-                    "errHasDigits": "Must contain a digit.",
-                    "errHasLowercase": "Must contain a lowercase letter (a-z).  ",
-                    "errHasUppercase": "Must contain an uppercase letter (A-Z).   ",
-                    "errPOBoxAddNotAllowed": "We&apos;re sorry! We do not ship to P.O. Box addresses. ",
-                    "errEqualToIgnoreCase": "Please enter same value again.",
-                    "errorSummaryMsg": "There were 1 or more errors. Please correct these errors and try again.",
-                    "errNoFlashEnabled": "Flash is not supported on your browser, please copy the below URL. ",
-                    "errFBConnectFailed": "Failed to connect to Facebook. Please try again later.",
-                    "errFindInStorePDPCollection": "We&#39;re sorry, we failed to process your request. Please try again.<br/>Before you proceed, please make sure, that a valid value for quantity is entered and valid size / color / finishing choices &#40;if available&#41; are selected.",
-                    "errQtyExceedRegReqQty": "Please enter valid quantity. Quantity purchased exceeds quantity requested.",
-                    "errInvalidEscapeHTMLTag": "HTML tags are not allowed.",
-                    "msgTitle": "Warning",
-                    // "errPasswordChars": "Password does not meet minimum requirements",
-                    "errPasswordLength": "8-20 Characters",
-                    "errPasswordHasDigits": "Number",
-                    "errPasswordHasLowercase": "Lowercase Letter",
-                    "errPasswordHasUppercase": "Capital Letter",
-                    "errPasswordNoWhitespace": "No Space",
-                    "errPasswordNoFirstname": "Do not use your first name",
-                    "errPasswordNoLastname": "Do not use your last name",
-                    "errPasswordFirstName": "Password must not contain your first name",
-                    "errPasswordLastName": "Password must not contain your last name",
-                    "errGeoPermissionDenied": "Failed to retrieve location - Permission Denied",
-                    "errGeoLocationUnavailable": "Failed to retrieve location - Location Unvailable",
-                    "errGeoTimeoutExpired": "Failed to retrieve location - Timeout Expired",
-                    "errGeoNotSupported": "Failed to retrieve location - Geo location API is not supported by your device",
-                    "errGeoAPIFailure": "Failed to retrieve location - Geo location API failed to initialize",
-                    "errAlphaBasicPuncWithPeriod": "Please enter alphabets, period, apostrophe, hyphen and space only.",
-                    "errAlphaBasicPuncWithPeriodAndUnicodeChars": "Please do not include any special characters.",
-                    "errFriendEmail": "Please enter a valid email address for your friend.",
-                    "errFriendEmailMaxlimit": "Maximum 10 email addresses applicable.",
-                    "errYourEmail": "Please enter your valid email.",
-                    "errCaptchaAnswer": "Please enter correct Captcha Value.",
-                    "errTxtEmailMessage": "Please enter message to email.",
-                    "errSelectSubject": "Please select a category.",
-                    "errFirstName": "Please enter at least one letter of the first name.",
-                    "errLastName": "Please enter last name.",
-                    "errNameCard": "Please enter at least two letters of the last name.",
-                    "errAddress1": "Please enter address 1.",
-                    "errPassword": "Please enter valid password.",
-                    "errCardType": "Please select card type.",
-                    "errRegistryAnnouncement": "Please select the number of registry announcement cards.",
-                    "errCardNumber": "Please enter a valid card number.",
-                    "errRequiredCommonCVV": "Enter valid CVV number.",
-                    "errSecurityCode": "Enter valid security code.",
-                    "errMonth": "Please select valid month.",
-                    "errYear": "Please select valid year.",
-                    "errCity": "Please enter valid city.",
-                    "errState": "Please select a state.",
-                    "errStateCA": "Please select a province",
-                    "errStateText": "Please enter state name.",
-                    "errCountryName": "Please select country name.",
-                    "errZip": "Please enter valid zip code.",
-                    "errPostalCode": "Please enter valid Postal code.",
-                    "errZipCA": "Please enter valid Postal code.",
-                    "errZipUS": "Please enter valid zip code.",
-                    "errUnsubscribeMail": "Please select an option.",
-                    "errCurrentPassword": "Please enter valid current password.",
-                    "errCoupons": "Please enter valid offer number.",
-                    "errFullName": "Please enter full name.",
-                    "errRegistryType": "Please select registry type.",
-                    "errGiftCardNumber": "Please enter valid card number.",
-                    "errGiftCardPin": "Please enter valid card pin.",
-                    "errRegistryNumber": "Please enter valid registry number.",
-                    "errDirStartStreetName": "Please enter street name.",
-                    "errNumberOfBox": "Please enter number of box.",
-                    "errNumBoxes": "Please select number of boxes.",
-                    "errTimeZone": "Please select the time zone.",
-                    "errPasswordChars": "Password does not meet minimum requirements",
-                    "errPrefContactMethod": "Please choose a valid a contact method.",
-                    "errSelectService":"Please select a truck delivery option to add this item to your cart.",	
-                    "errSelectServiceWishList": "Please select a freight delivery option to save this item for later purchase.",
-					"errSelectServiceRegistry": "Please select a freight delivery option to add this item to your registry.",
-                    "cellNumValid": "Please enter 10 digit mobile number without punctuation.",
-                    "errAlphaNumericBasicPuncWithPeriod": "Please enter alphabets, digits, period, apostrophe, hyphen and space only.",
-                    "errIntlCountryDropDown": "Please select the Country",
-                    "errIntlCurrencyDropDown": "Please select the Currency",
-                    "errortxtAppointmentState": "Please select appointment type.",
-                    "errNoMatchesFound": "No matches found!",
-                    "errGetHTML": "Please try after some time",
-                    "intlContextModalBanner" : "<img width='552' height='288' data-original-url='' class='productImage noImageFound' src='/_assets/global/images/shipToInter.gif' alt='Would you like to ship internationally ?'/>",
-                    "lblRegistryNoShipAvailable" : "The product will not ship to the registrants. It will ship to the address you select in shipping.",
-                    "errFindStoreCurrentLocationException": "Please enable location service (Privacy > Location Services)",
-                    "errLoginPassword": "Please enter your password",
-                     "erraddLookup": 'Email Not Found.<br><a href="#" class="lnkwalletReg">Sign Up For My Offers</a> ',
-
-                    "savedPersonalizationMessage": 'Your personalization has been saved. Please add to cart or registry.',
-                    "customizationRequiredmessage":'Personalization is required to add item to cart or registry.',
-                    //****Mexico Registry Spanish Error labels****
-                    "errmxFirstName": "Por favor ingresa el nombre.",
-                    "errmxLastName": "Por favor ingresa el apellido.",
-                    "errmxAlphaBasicPunc": "Por favor cartas, ap&oacute;strofes, guiones y espacios solamente.",
-                    "errmxcannotStartWithSpecialChars": "No debe comenzar con caracteres especiales.",
-                    "errmxNameCard": "Por favor ingresa el nombre impreso en la tarjeta.",
-                    "errmxRegistryNumber": "No value found for key :err_mx_js_Registry_Number",
-                    "mxnumberOnly": "No value found for key :err_mx_js_number_only",
-                    "errmxEmailExtended": "Por favor ingresa tu direcci&#243;n de correo v&#225;lida.",
-                    "errmxYourEmail": "No value found for key :err_mx_js_Your_Email",
-                    "removePersonalization": '<p>Removing the personalization on this product will remove the item from the cart.</p> <a href="#" class="removeLink">remove</a>',
-                    "inProgressPersonalization": 'Your Personalization is in progress. Please return to the personalization modal to complete. <span class="eximInProgressLinks"><a href="#" class="lnkPersonalize bold">Personalize Now</a> or <a href="#" class="lnkSfl bold">Save for Later</a></span>',
-                    "lblPBFee" : 'No Fee Applied',
-                    "lblPYFee" : 'Fee will be applied',
-                    "lblCRFee" : 'Fee applied',
-                    "maxlengthcvv" : 'Please enter less than 4 characters.',
-                    "minlengthcvv" : 'Please enter at least {0} characters',
-                    "lblPriceChange" : '',
-                    "lblAddPriceText" : 'has been added to the item price.',
-                    "lblCVVMaxLenValidation" : 'Please enter less than 4 characters.',
-                    "lblCVVMinLenValidation" : 'Please enter at least {0} characters',
-                    "lblCVVAmexLenValidation" : 'VALUE NOT FOUND FOR KEY lbl_cvv_amex_len_validation',
-                    "lblDslModalHead" : 'For truck delivery items to be added to your registry, an alternate phone number must be provided.',
-                    "lblDslUpdatedSuccessfully" : 'The service level has been updated successfully.',
-                    "txtDslNotAvailable" : 'No delivery options are currently available for this item',
-                    "lblDslModalHeadCart" : 'Please enter information below to add this item to your cart',
-                    "lblDslModalHeadSFL" : 'Please enter information below to add this item to your wishlist',
-                    "lblBackToListLink" : '&lt; Back to List',
-                    "lblNearByStoreHeading" : 'Nearby Stores',
-					"lblCRAddPriceText" : 'includes your personalization service fees',
-					"errRegRequired": "please enter required field",
-					"errAddCartLimit": "Error occured while adding item(s) to the Cart",
-					"errSavedItemsLimit": "Error occured while adding item(s) to Saved Items",
-                    "errRegEmailRequired": "email address is required",
-					"lblforgotPassword":"Reset Your Password?",
-                    "lblforgotPasswordFromRegistry": "forgot your password",
-                    "facetedAccordionExpand": 'expand',
-                    "facetedAccordionCollapse": 'collapse',
-                    "lblRefineSearch": 'Please enter your zip code or city and state to find stores in your area.',
-                    "lblsearchForMoreListing": 'Search For more Listings',
-                    "errNumOfGuests":"Please enter a value greater than or equal to 1",
-                    "lblCoRegistrantEmailValidation": "You've entered your own email address.Please enter your co-registrant's email address."
-               	};
-
-                BBB.config = BBB.config || {};
-                BBB.config.envir = 'dev'; // string: 'ue' || 'dev'
-                BBB.config.ajaxTimeOut = 500; BBB.config.maxCharLimitTypeAhead = 1000;
-                BBB.config.keys = {
-                    "eximClientId": "7e4f86677d070df2d7d5813e79cba3dde1743ed05877fb8e",
-                    "eximApikey": "G2xDA23Dc9E8x0HH8AxuLtQbGbnGwanv",
-                    "eximApiVersion": "1",
-                    "eximCssURL": "http://www.verisans.com/css/custom.css",
-                    "googleAddressSwitch": "TRUE",
-                    "addressCountryCode": "ca",
-                    "primingKeyActive" : "false",
-                    "notifyRegistrantFlag" : "true",
-                    "enableLTLRegForSite" : "false"
-                };
-                BBB.config.url = {
-                    defaultPath: {
-                        dev: ''
-                    },
-                    '404': {
-                        dev: '/store/404.jsp'
-                    },
-                    '409': {
-                        dev: '/store/409.jsp'
-                    },
-                    '500': {
-                        dev: '/store/global/sessionExpired.jsp'
-                    },
-                    '503': {
-                        dev: '/store/global/sessionExpired.jsp'
-                    },
-                    'facebookPage': {
-                        dev: 'http://www.facebook.com/BedBathandBeyond'
-                    },
-                    'checkBalance': {
-                        dev: '/store/checkout/billing_payment.jsp'
-                    },
-                    'forgotPassword': {
-                        dev: '/_ajax/forgot_password.jsp'
-                    },
-                    'forgotPasswordSuccess': {
-                        dev: '/_includes/modals/forgot_password_registry_success.jsp'
-                    },
-                    'updateMiniCart': {
-                        dev: '/store/cart/mini_cart.jsp'
-                    },
-                    'updateMiniCartItemCount': {
-                        dev: '/store/cart/cart_item_count.jsp'
-                    },
-                    'getSKU': {
-                        dev: '/store/browse/SKU_rollup_details.jsp'
-                    },
-                    'getProductData': {
-                        dev: '/store/browse/rollup_details.jsp'
-                    },
-                    'addItemToRegisteryStatus': {
-                        dev: '/store/addgiftregistry/addItemToRegisteryStatus.jsp'
-                    },
-                    'openCreateRegistry': {
-                        dev: '/store/addgiftregistry/create_registry_popup.jsp'
-                    },
-                    'anncCardRequest': {
-                        dev: '/_includes/modals/annc_card_request.jsp'
-                    },
-                    'productDetailsEmailAFriend': {
-                        dev: '/store/browse/emailAFriend.jsp'
-                    },
-                    'productDetailsNotifyOOS': {
-                        dev: '/store/browse/gadgets/notifyMeRequest.jsp'
-                    },
-                    'announcementCards': {
-                        dev: '/store/bbregistry/announcement_cards.jsp'
-                    },
-                    'emailAFriend': {
-                        dev: '/store/_includes/modules/email_friend.jsp'
-                    },
-                    'mxEmailAFriend': {
-                        dev: '/store/mx/_includes/modules/email_friend.jsp'
-                    },
-                    'chkGiftCardBal': {
-                        dev: '/store/account/check_giftcard_balance.jsp'
-                    },
-                    'addToRegNoLogin': {
-                        dev: '/store/addgiftregistry/add_item_to_reg_no_login.jsp'
-                    },
-                    'clearSessionBean': {
-                        dev: '/store/giftregistry/clear_add_item_to_regb.jsp'
-                    },
-                    'openEmailCart': {
-                        dev: '/store/cart/email/email_cart.jsp'
-                    },
-                    'openEmailSavedItems': {
-                        dev: '/store/cart/email/email_saveditems.jsp'
-                    },
-                    'katoriprice': {
-                        dev: '/store/browse/katori_price.jsp'
-                    },
-					'openIntlShippingModal':{
-                        dev: '/store/_includes/modals/intlCountryCurrecyModal.jsp'
-					},
-                    'openIntlShippingModalCart':{
-                        dev: '/store/_includes/modals/intlCountryCurrecyModalCart.jsp'
-                    },
-                    'getDirectionsWithMap': {
-                        dev: '/store/selfservice/store/p2p_directions.jsp'
-                    },
-                    'legacyPwdPopup': {
-                        dev: '/store/account/incorrect_password.jsp'
-                    },
-                    'legacyPwdCheck': {
-                        dev: '/_ajax/legacy_password_check.jsp'
-                    },
-                    'findCollegeSelect': {
-                        dev: '/store/selfservice/frags/find_your_college_json.jsp'
-                    },
-                    'privacyPolicy': {
-                        dev: '/store/account/privacy_policy.jsp'
-                    },
-                    'getStoreData': {
-                        dev: '/store/selfservice/find_in_store_result.jsp'
-                    },
-                    'captchaImagePath': {
-                        dev: '/store/simpleCaptcha.png'
-                    },
-                    'getStoreDataFavorite': {
-                        dev: '/store/selfservice/store/store_info_frag.jsp'
-                    },
-                    'pathToZeroClipboard': {
-                        dev: '/_assets/global/flash_assets/ZeroClipboard10.swf'
-                    },
-                    'BVDoLogin': {
-                        dev: '/store/account/login.jsp'
-                    },
-                    'addItemToCart': {
-                        dev: '/store/browse/add_item_to_cart_pdp.jsp'
-                    },
-                    'addItemToListStatus': {
-                        dev: '/store/browse/add_item_to_list_pdp.jsp'
-                    },
-                    'addItemToListStatusPostLogin': {
-                        dev: '/store/browse/add_item_to_list_pdp_post_login.jsp'
-                    },
-                    'mapQuestStaticMapContentURL': {
-                        dev: '//www.mapquestapi.com/staticmap'
-                    },
-                    'preloaderImg': {
-                        dev: '/_assets/global/images/widgets/loader.gif'
-                    },
-                    'bridalShowData': {
-                        dev: '/store/cms/bridal_template.jsp'
-                    },
-                    'collegeEventsData': {
-                        dev: '/store/cms/college_events_template.jsp'
-                    },
-                    'fConnectImage': {
-                        dev: '/_assets/global/images/f_connect.png'
-                    },
-                    'fConnectImageNotAvailable': {
-                        dev: '/_assets/global/images/f_connect_na.png'
-                    },
-                    'validateFConnect': {
-                        dev: '/store/account/facebook_connect.jsp'
-                    },
-                    'fbLoaderImg': {
-                        dev: '/_assets/global/images/fb-loader.gif'
-                    },
-                    'addItemToCartFromReg': {
-                        dev: '/store/browse/add_item_to_cart_gift.jsp'
-                    },
-                    'emailAPageCMS': {
-                        dev: '/store/emailtemplates/emailapage/emailAPage_cms.jsp'
-                    },
-                    'mxEmailAPageCMS': {
-                        dev: '/store/emailtemplates/emailapage/emailAPage_cms.jsp'
-                    },
-                    'getStoreDataFavoriteRegistry': {
-                        dev: '/store/giftregistry/modals/store_info_no_stock_info.jsp'
-                    },
-                    'blankGIF': {
-                        dev: '/_assets/global/images/blank.gif'
-                    },
-                    'getStates': {
-                        dev: '/store/checkout/billing/states.jsp'
-                    },
-                    'noImageFound': {
-                        dev: '/_assets/global/images/no_image_available.jpg'
-                    },
-                    'migratedAccount': {
-                        dev: '/store/account/frags/changepasswordmodel.jsp'
-                    },
-                    'migratedAccountPwdCheck': {
-                        dev: '/store/account/frags/changepasswordmodel.jsp'
-                    },
-                    'validateResetPasswordFields': {
-                        dev: '/store/account/frags/validate_fields_on_reset_password.jsp'
-                    },
-                    'opencCLaunchPage': {
-                        dev: '/store/checkout/preview/cCLaunch.jsp'
-                    },
-                    'bbbLogoDialog': {
-                        
- 
- 
- 
- 
- 
- 
- 
- 
-                        dev: '/_assets/global/images/logo/logo_bbb_wide_ca.png'
-                    },
-                    's7URL': {
-                        dev: '//s7d9.scene7.com/is/image/BedBathandBeyond/'
-                    },
-                    's7MainURL': {
-                        dev: '//s7d9.scene7.com/is/image/'
-                    },
-                    'scene7DomainPath': {
-                        dev: '//s7dx.scene7.com/is/image/BedBathandBeyond'
-                    },
-                    'profileURL': {
-                        dev: '/store/giftregistry/droplet/profile_exist_droplet.jsp'
-                    },
-                    'wishlistMoveToCartError': {
-                        dev: '/store/wishlist/wishlist_move_to_cart_error.jsp'
-                    },
-                    'liveClickerBridalVideos': {
-                        
-                        dev: '//cdn.liveclicker.net/custom/64/search/wedding.html'
-                    },
-                    'mobileUrl': {
-                        
-                        dev: 'm.bedbathandbeyond.ca'
-                    },
-
-                    'smallLoader': {
-                        dev: '/_assets/global/images/widgets/small_loader.gif'
-                    },
-                    'smallLoader2': {
-                        
- 
-                        dev: '/_assets/global/images/widgets/small_loader_by.gif'
-                    },
-                    'regFlyout': {
-                        dev: '/store/giftregistry/reg_flyout.jsp'
-                    },
-                    'hideBopusSearchForm': {
-                        dev: '/store/selfservice/store/statusShowBopusForm.jsp'
-                    },
-                    'getFavStoreData': {
-                        dev: '/store/giftregistry/registry_fav_store.jsp'
-                    },
-                    'regHeader': {
-                        dev: '/store/_includes/header/subheader.jsp'
-                    },
-                    'hhPrefCenterURL': {
-                        dev: 'https://www.bbbprefcenter.com'
-                    },
-                    'mapQuestLibURL': {
-                        dev: '//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l'
-                    },
-                    'shippingRestrictionPopUp': {
-                        dev: '/store/_includes/modals/shipping_restrictions_checkout.jsp'
-                    },
-                    'cartAjaxSubmitURL': {
-                        dev: '/store/cart/ajax_handler_cart.jsp'
-                    },
-                    'sflAjaxSubmitURL': {
-                        dev: '/store/_includes/modules/cart_store_pickup_form.jsp'
-                    },
-                    'shareWithFacebook': {
-                        dev: 'http://www.facebook.com/share.php?'
-                    },
-                    'shareWithTwitter': {
-                        dev: 'http://twitter.com/intent/tweet?'
-                    },
-                    'shareWithPinterest': {
-                        dev: 'http://pinterest.com/pin/create/button/?'
-                    },
-                    'bitly': {
-                        dev: 'http://api.bitly.com/v3/shorten?callback=?'
-                    },
-                    'bitlyAPIKey': {
-                        dev: 'R_3628dc7572a56ea3d97f638ff1b45246'
-                    },
-                    'bitlyLoginID': {
-                        dev: 'o_4i5tdj1q5g'
-                    },
-                    'cookieSecureSIDAjaxed': {
-                        dev: '/store/account/cookieSecureSIDAjaxed.jsp'
-                    },
-                    'fromResetURL': {
-                        dev: '/store/account/frags/changePwdAfterResetmodel.jsp'
-                    },
-                    'migratedUserPopupURL': {
-                        dev: '/store/account/frags/migrated_user_popup.jsp'
-                    },
-                    'siteTourJSP': {
-                        dev: '/store/_includes/modals/siteTour.jsp'
-                    },
-                    'getMultiSKUCollection': {
-                        dev: '/store/browse/product_details_collection.jsp'
-                    },
-		    'addProductToCompareBox': {
-		    	dev: '/store/compare/addProduct_to_drawer.jsp'
-		    },
-		    'removeProductFromCompareBox': {
-		    	dev: '/store/compare/removeProduct_from_drawer.jsp'
-		    },
-		    'removeAllProductsFromCompareBox': {
-		    	dev: '/store/compare/remove_all_Product.jsp'
-		    },
-		    'getCompareAlert': {
-			dev: '/store/_includes/modules/compare_box_alert.jsp'
-		    },
-                    'invitationSentPopUp': {
-                        dev: '/store/_includes/modals/inviteFriendsRegistry.jsp'
-                    },
-		    'removeBucket': {
-		    	dev: '/store/_ajax/remove_from_bucket.jsp'
-		    },
-		    'addCompareItemToRegistryStatus': {
-		    	dev: '/store/addgiftregistry/addComparisonItemToRegistryStatus.jsp'
-		    },
-		    'getMultiSKUView': {
-	                dev: '/store/compare/compare_list_view.jsp'
-                    },
-		    'validateAddressURL': {
-		    	dev: '/store/paypal/validate.jsp'
-		    },
-		    'localStorePDP': {
-                dev: '/store/browse/local_store_pdp.jsp'
-            },
-                    'compareDrawer': {
-                       dev: '/store/browse/compare_drawer.jsp'
-                    },
-					'getCompareSameSkuAlert': {
-                        dev: '/store/_includes/modules/compare_sameSku_alert.jsp'
-                    },
-                    'topNavHeader': {
-                        dev: '/store/includes/dynamic_header.jsp'
-                    },
-                    'getRegistryFlyout': {
-                        dev: '/store/giftregistry/reg_flyout.jsp'
-                    },
-                    'getThirdParty': {
-                        dev: '/store/includes/dynamic_third_parties.jsp'
-                    },
-                    'recommendPopUp': {
-                        dev: '/store/_includes/modals/recommendPopUp.jsp'
-                    },
-		    'recognizedUserLogin': {
-                        dev: '/store/account/recognizedUserLogin.jsp'
-                    }, 
-                    'getIntlCust': {
-                        dev: '/store/static/IntlGiftRegistryRestriction'
-                    },
-                    'getIntlHeroRotator': {
-                        dev: '/store/browse/hero_rotator_intl.jsp'
-                    },
-                    'getScheAppointmentResultStoreData': {
-                        dev: '/store/scheduleappointment/find_in_store_result_appointment.jsp'
-                    },
-                    'getScheAppointmentStoreData': {
-                        dev: '/store/scheduleappointment/find_in_store_appointment.jsp'
-                    },
-                    'pendingRecommendation': {
-                        dev: '/store/giftregistry/frags/pending_recommendation_tab.jsp'
-                    },
-                    'acceptedRecommendation': {
-                        dev: '/store/giftregistry/frags/accepted_recommendation_tab.jsp'
-                    },
-                    'declinedRecommendation': {
-                        dev: '/store/giftregistry/frags/declined_recommendation_tab.jsp'
-                    },
-                    'getScheAppointmentStoreBtn': {
-                    	dev: '/store/scheduleappointment/scheduleAppointment.jsp'
-                  	},
-                    'recommendersRecommendation': {
-                        dev: '/store/giftregistry/frags/recommenders_recommendation_tab.jsp'
-                    },
-                    'buyOffAssociation': {
-                        dev: '/store/cart/associationBuyOff.jsp'
-                    },
-                    'savePersonalizationModal': {
-                        dev: '/store/_includes/modals/savePersonalizationModal.jsp'
-                    },
-                    'spcSitespectTest': {
-                        dev: '/store/checkout/singlePage/ajax/sitespectTest.jsp'
-                    },
-                   	'primeRegistry': {
-                   	    dev: '/store/browse/prime_gift_registry_data.jsp'
-                    },
-                    'dslAlternateModal': {
-                        dev: '/store/_includes/modals/dsl_alternate_modal.jsp'
-                    },
-					'challengeQuestionModal': {
-                    	dev: '/store/account/challengeQuestionModal.jsp'
-                    },
-					'poBoxModal': {
-						dev: '/store/_includes/modals/poBoxModal.jsp'
-					},
-                    'notifyRegModal': {
-                        dev: '/store/_includes/modals/notifyRegistrant.jsp'
-                    },
-                    'notifyRegStatus' : {
-                        dev :'/store/addgiftregistry/notifyRegistrantStatus.jsp'
-                    },
-                    'findStoreCollege' : {
-                    	dev :'/store/selfservice/store/find_store_pdp.jsp'
-                    },
-                    'loadEDWData' : {
-                    	dev :'/store/edw/edw_data.jsp'
-                    }
-                };
-            </script>
-
-            
- <style>
-.snowflake{width: 15px;float: left;margin: 4px 5px 5px 25px;}#headerWrapper #collegeBridalArea .shopNavHoverPanel .shopNavLinks>li.gifts>a {color: #00aef0;}#headerWrapper #collegeBridalArea .shopNavHoverPanel .shopNavLinks>li.holiday>a {color: #f00;}.iconGiftBG .icon-gift:before {color: #444!important;}.iconGiftBG .icon-gift{margin: 4px 4px 0 7px;}.iconGiftBG>a {color: #444!important;}.specialL1Node > a {color: #ff0000!important;padding-left: 45px!important;background-image: url('//s7d9.scene7.com/is/image/BedBathandBeyond/snow%5Fflake%2D1?$PNG$');background-repeat: no-repeat;background-size: 15px;background-position: 25px 4px;}.by .category #hero .heroImageContainer .heroImages {height: 575px!important;}</style>
- 
- 
-
-        <script type="text/javascript" src="/_assets/global/js/mobileRedirect.min.js?v=2.08.02.006"></script>
+</script>
+<style>
+.snowflake{width: 15px;float: left;margin: 4px 5px 5px 25px;}#headerWrapper #collegeBridalArea .shopNavHoverPanel .shopNavLinks>li.gifts>a {color: #00aef0;}#headerWrapper #collegeBridalArea .shopNavHoverPanel .shopNavLinks>li.holiday>a {color: #e90000;}.iconGiftBG .icon-gift:before {color: #2793cd!important;}.iconGiftBG .icon-gift{margin: 4px 4px 0 7px;}.iconGiftBG>a {color: #2793cd!important;}.specialL1Node > a {color: #e90000!important;padding-left: 45px!important;background-image: url('//s7d9.scene7.com/is/image/BedBathandBeyond/snow%5Fflake%5Fe90000?$PNG$');background-repeat: no-repeat;background-size: 15px;background-position: 25px 4px;}.by .category #hero .heroImageContainer .heroImages {height: 575px!important;}.by .category #hero, .by .category #hero .caroufredsel_wrapper {height: 325px !important;}.by .category #hero div.carousel div.carouselPages {top: -140px;}
+</style>
+        <script type="text/javascript" src="/_assets/global/js/mobileRedirect.min.js?v=201612231055118d14e28DC2"></script>
     
-            <script type="text/javascript" src="/_assets/global/js/thirdparty/tealeaf/tealeaf-w3c-prod-min.js?v=2.08.02.006"></script> 
+            <script type="text/javascript" src="/_assets/global/js/thirdparty/tealeaf/tealeaf-w3c-prod-min.js?v=201612231055118d14e28DC2"></script> 
 
 
-        <script type="text/javascript" src="/_assets/global/js/jquery-1.7.1.min.js?v=2.08.02.006"></script>
+        <script type="text/javascript" src="/_assets/global/js/jquery-1.7.1.min.js?v=201612231055118d14e28DC2"></script>
 
 
 
@@ -1386,6 +685,9 @@ var SS_DC;
 
 
  
+
+
+
 
 
 
@@ -1406,25 +708,25 @@ var SS_DC;
  
  
  
+ 
 	
  
  
  
-        <link rel="stylesheet" type="text/css" href="/_assets/global/css/cms.min.css?v=2.08.02.006">
-        <link rel="stylesheet" type="text/css" href="/_assets/bbbeyond/css/cms.min.css?v=2.08.02.006">
+        <link rel="stylesheet" type="text/css" href="/_assets/global/css/cms.min.css?v=201612231055118d14e28DC2">
+        <link rel="stylesheet" type="text/css" href="/_assets/bbbeyond/css/cms.min.css?v=201612231055118d14e28DC2">
     
  
  
  
  
  
- 
- 
+ <!--  --> 
 	
 	
  
  
-      <link href="/_assets/global/css/jquery.webui-popover.css?v=2.08.02.006" rel="stylesheet" type="text/css">
+      <!-- <link href="/_assets/global/css/jquery.webui-popover.css?v=201612231055118d14e28DC2" rel="stylesheet" type="text/css" /> -->
 
     
 	
@@ -1462,56 +764,53 @@ var SS_DC;
 
 
 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1522,10 +821,24 @@ var SS_DC;
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
  
 
 
 
+ 
  
  
  
@@ -1581,10 +894,13 @@ var SS_DC;
  
  
  
+ 
+ 
 	
 	<title>Privacy Policy</title>	
 	
-     
+ 
+       
  
  
    
@@ -1622,6 +938,9 @@ var SS_DC;
 
 
  
+
+
+
 
 
 
@@ -1687,7 +1006,7 @@ var SS_DC;
 	
  
  
-		 <link rel="canonical" href="http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy">
+		 <link rel="canonical" href="https://www.bedbathandbeyond.ca/store/static/PrivacyPolicy">
 			  
  
  
@@ -1715,8 +1034,8 @@ var SS_DC;
 	
 	
 	
-				<link rel="alternate" hreflang="x-default" href="http://www.bedbathandbeyond.com/store/static/PrivacyPolicy/">
-				<link rel="alternate" hreflang="en-ca" href="http://www.bedbathandbeyond.ca/static/PrivacyPolicy/">
+				<link rel="alternate" hreflang="x-default" href="https://www.bedbathandbeyond.com/store/static/PrivacyPolicy/">
+				<link rel="alternate" hreflang="en-ca" href="https://www.bedbathandbeyond.ca/static/PrivacyPolicy/">
 				
 				<link rel="alternate" media="only screen and (max-width:640px)" href="https://m.bedbathandbeyond.ca/m/static/PrivacyPolicy/">
 			
@@ -1734,10 +1053,10 @@ var SS_DC;
 
 	
         <meta property="og:title" content="">
-        <meta property="og:image" content="http://www.bedbathandbeyond.ca/_assets/global/images/logo/logo_bbb_ca.png">
+        <meta property="og:image" content="https://www.bedbathandbeyond.ca/_assets/global/images/logo/logo_bbb_ca.png">
 		
         <meta property="og:description" content="Bed Bath &amp; Beyond does not sell or rent our customers’ personal information to third parties. We do not share your Personal Information with any third party for their direct marketing purposes without first offering you the opportunity to opt-in or out.">
-    <meta property="og:url" content="http://www.bedbathandbeyond.ca/store/static/PrivacyPolicy">
+    <meta property="og:url" content="https://www.bedbathandbeyond.ca/store/static/PrivacyPolicy">
     <meta property="fb:app_id" content="490619150993245">
     <meta property="og:type" content="website">
 
@@ -1777,8 +1096,6 @@ var SS_DC;
 
 
 
- 
- 
 
 
 
@@ -1787,6 +1104,11 @@ var SS_DC;
 
 
 
+ 
+ 
+
+
+
 
 
 
@@ -1809,6 +1131,9 @@ var SS_DC;
 
 
  
+
+
+
 
 
 
@@ -1862,7 +1187,7 @@ var SS_DC;
 	<script type="text/javascript">
 		window.tmParam = {site_id:'BedBathCanada'};			
 		window.tmParam.customer_email = '';	
-		window.tmParam.profile_id = 'DC23383795896';
+		window.tmParam.profile_id = 'DC24226746890';
 		window.tmParam.GAAccount = 'GAAccountId';
 		window.tmParam.trackPageview = '_trackPageview';
 		window.tmParam.customer_country = 'CA';
@@ -1892,6 +1217,9 @@ var SS_DC;
 
 
  
+
+
+
 
 
 
@@ -1946,6 +1274,9 @@ var SS_DC;
 
 
 
+
+
+
  
  
 
@@ -1973,24 +1304,20 @@ var SS_DC;
 	
 	
 
-		<script type="text/javascript">
-		//<![CDATA[
-		var yawa_baseUrl = "http://analytics.youramigo.com/yawa";
-		var yawa_baseSecUrl = "https://support.youramigo.com/yawa";
-		var yawa_cmds = yawa_cmds || [];
-		var yourAmigoSiteId = 73053126;
-		(function() {
-		var _yawa = document.createElement("script"); _yawa.type ="text/javascript";
-		_yawa.async = true;
-		yawa_baseUrl = ("https:" == document.location.protocol ?
-		yawa_baseSecUrl : yawa_baseUrl );
-		_yawa.src = yawa_baseUrl + "/"+ yourAmigoSiteId +"/yawa.min.js";
-		var _yawa_s = document.getElementsByTagName("script")[0];
-		_yawa_s.parentNode.insertBefore(_yawa, _yawa_s);
-		}());
-		//]]>
-		</script>
-	
+        <script type="text/javascript">
+        //<![CDATA[
+        var yawa_cmds = yawa_cmds || [];
+        var yourAmigoSiteId = 73053127;
+        (function() {
+        var _yawa = document.createElement("script"); _yawa.type ="text/javascript";
+        _yawa.async = true;     
+        _yawa.src = "//d3oq49z2nwxwn1.cloudfront.net/yawa/"+ yourAmigoSiteId +"/yawa.min.js";
+        var _yawa_s = document.getElementsByTagName("script")[0];
+        _yawa_s.parentNode.insertBefore(_yawa, _yawa_s);
+        }());
+        //]]>
+        </script>
+    
  </head> 
   <body id="themeWrapper" class="by"> 
         <a class="skip" href="#hero">Skip to Primary Content </a>
@@ -2010,16 +1337,19 @@ var SS_DC;
 		<!-- 
         <div id="userNetworkInfo" class="hidden"> 
 		<ul> 
-			<li id="session_id">z3RgF1eswoqfNNbl5hwkXDe7RdlXf1NlZovu6S0wCfH6GXVH57BY!1474607536!1466195990444</li> 
-			<li id="jvm_name">DC2-bbby-app-70</li>
-			<li id="time">Fri Jun 17 04:58:17 EDT 2016</li>	</ul>	</div> --> 
+			<li id="session_id">af9JCzbP560_kVG577vHE6A2lHeGpgtmZ1uD5m4esfVZEn_75NmX!1568563238!1482989188815</li> 
+			<li id="jvm_name">DC2-bbby-app-220</li>
+			<li id="time">Thu Dec 29 12:36:21 EST 2016</li>	</ul>	</div> --> 
 	<!--googleon: all--> 
 <input type="hidden" id="hiddenCssPath" value="">
 
+<!-- Code is for getting exact browser url from request Starts-->
 
+<input type="hidden" id="latestUrl" value="https://www.bedbathandbeyond.ca/store/static/PrivacyPolicy">
+<!-- Code is for getting exact browser url from request Ends-->
 <script type="text/javascript">
 var isTransient = 'true';
-var maxRetryEDWRepo = 'false';
+var maxRetryEDWRepo = '';
 var isDynUserCookieExists = 'false';
 </script>
 
@@ -2063,6 +1393,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -2087,7 +1420,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
- 
+	
 	
 	<input type="hidden" name="isInternationalCustomer" value="false">
 	
@@ -2095,6 +1428,11 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+	
+	
+	 	
 	
 	
 	
@@ -2116,14 +1454,11 @@ var isDynUserCookieExists = 'false';
 				
 	 <div id="headerWrapper" role="navigation">
         <div id="topNavHeader">
-        
- 
- 
        	 		<div class="container_12 posRel clearfix">
 	                <div class="grid_9 topNapWrap omega">
 	                    <div id="topNavMenu">
 	                        <ul class="clearfix">
-	                        
+		                        
  
  
  
@@ -2131,7 +1466,8 @@ var isDynUserCookieExists = 'false';
  
  
  
-	<li><a href="/store/static/coupons">Sign Up For Offers</a></li>
+	<li><a href="http://app.bedbathandbeyond.ca/prefsca/dual/pref.cfm">Sign Up For Offers</a></li>
+
 	
 	                            <li><a href="/store/static/GiftCardHomePage">Gift Cards</a></li> <li>	
 	
@@ -2152,70 +1488,20 @@ var isDynUserCookieExists = 'false';
 	                            
  
  
+						        	 <li class="last posRel clearfix">						        	 	
+						        	 </li>
+						       	
+	
+ 
+ </ul> </div> </div> 
+ 
+			        	  <div id="shoppingCartTrigger" class="grid_3 alpha">
+			        	 	<div class="textCenter"><img width="20" height="20" class="loadingTopNav" alt="loading" src="/_assets/global/images/widgets/small_loader.gif"></div>
+			        	 </div>
+			       	 
  
  
- 
- 
- 
-	                                    <li class="last"><a href="/store/account/Login">Log In</a></li> 
- 
- 
-	                        </ul>
-	                    </div>
-	                </div>
-	                <div id="shoppingCartTrigger" class="grid_3 alpha">
-	                    <div id="shoppingCartMenu">
-	                        <div id="shoppingCartLinks">
-	                            <div id="shoppingCartItems">
-	                                <a rel="nofollow" href="/store/cart/cart.jsp">                                
-	                                    <span id="cartItems">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-0</span> item(s)
- </a>
-	                            </div>
-	                            <div id="shoppingCartCheckout">
-	                                <a rel="nofollow" href="/store/cart/cart.jsp">Cart</a>
-	                            </div>
-	                        </div>
-	                    </div>
-	                    <div id="shoppingCartArrow"></div>
-	                </div>                
-	            </div>
-       	 
- 	 </div>	
+ </div> </div>	
 		
         <div class="clear"></div>
         
@@ -2253,6 +1539,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -2268,21 +1557,8 @@ var isDynUserCookieExists = 'false';
 		
 		
 	<div class="container_12 clearfix personalStore">
-	
-		<div class="grid_5 marTop_5 personalStoreFlyout">
-		<a href="javascript:void(0);" class="close"></a>
-			<div class="grid_2_3 alpha">
-				<div id="personalStoreImage"><img height="310" width="160" alt="personal store image" src="//s7d9.scene7.com/is/image/BedBathandBeyond/bbb%5Fpersonalpage%5Fcrop%2Dsharp?$other$"></div>
-			   
-			</div>
-			<div class="grid_2_3 omega">
-				<h3 class="psFlyoutIntro">My Bed Bath</h3>
-				<div class="psFlyoutText"><p>We're featuring shopping recommendations just for you!</p>
+	</div>
 
-<p>You'll find trending products our customers are excited about, and suggestions based on items you've recently viewed and purchased.</p>
-
- </div>
-				<div class="psFlyoutBackLink"><a href="/store/personalstore">Start Exploring</a></div>	</div>	</div>	</div>
 
 			</div>
             <div class="container_12 clearfix">
@@ -2317,7 +1593,7 @@ var isDynUserCookieExists = 'false';
                                           	
                                             
  
-                                            	<a href="http://www.buybuybaby.ca" title="Buy Buy Baby" class="logoBabyCA">
+                                            	<a href="//www.bedbathandbeyond.ca/store/category/baby-kids/22904/?babyCA=true" title="Buy Buy Baby" class="logoBabyCA">
                                                 	<img src="/_assets/global/images/logo/logo_baby_ca.png" height="50" width="121" alt="Buy Buy Baby">
                                             	</a>
                                             
@@ -2330,8 +1606,8 @@ var isDynUserCookieExists = 'false';
  </div> </div> 
  
  
-                    
-                   <div class="grid_3 alpha omega">
+                    <input type="hidden" name="akamaiCachingOn" class="akamaiCachingOn" value="TRUE">
+                   <div class="grid_3 alpha omega intlFreeShip hidden">
                    		<div id="promoArea" class="promoExtraMargin">	  
                             <div class="clear"></div>
                             
@@ -2339,26 +1615,26 @@ var isDynUserCookieExists = 'false';
 	<style>
 #headerWrapper #promoArea a {float: left; width: auto; margin-top: 5px;}
 #headerWrapper #promoArea.promoExtraMargin {margin: 9px 0 0 0!important;}
-.ropis {width: 410px; font-family: 'FuturaStdMedium'; font-size: 18px; color: #000; text-align: left; line-height: 16px; font-weight: normal; -webkit-font-smoothing: antialiased; padding: 12px 0 0 8px; text-transform: uppercase;}
+.ropis {width: 470px; font-family: 'FuturaStdMedium'; font-size: 18px; color: #000; text-align: left; line-height: 16px; font-weight: normal; -webkit-font-smoothing: antialiased; padding: 12px 0 0 8px; text-transform: uppercase;}
 .ropis:hover {text-decoration: none;}
 .getDetails {color: #273691; font-size: 11px; text-transform: none; -webkit-font-smoothing: subpixel-antialiased; line-height: 13px; display: inline; margin-left: 8px; font-family: 'FuturaStdMedium';}
 .freeShip:hover .getDetails, .ropis:hover .getDetails {text-decoration: underline;}
- .FuturaStdHeavy {font-family: 'FuturaStdHeavy';}
- .ropis .headerRed {color: #c31700;}
- .ropis .fontSizeSmaller {font-size: 15px;}
- #headerWrapper #promoArea #secHeadMsg .ropis {padding-top: 3px;}
+.FuturaStdHeavy {font-family: 'FuturaStdHeavy';}
+.ropis .headerRed {color: #c31700;}
+.ropis .fontSizeSmaller {font-size: 15px;}
+#headerWrapper #promoArea #secHeadMsg .ropis {padding-top: 3px;}
 </style>
-
 <a href="/store/static/ShippingPolicies/?icid=Home_Nav_promo" id="firstHeadMsg">
     <div class="fl ropis">
-            <span class="FuturaStdHeavy headerRed">FREE SHIPPING</span> ON ORDERS OVER <sup>$</sup>99<span class="getDetails">details</span> 
+        <span class="FuturaStdHeavy headerRed">FREE SHIPPING</span> ON ORDERS OVER $99<span class="getDetails">details</span> 
     </div>
 </a>
-<a href="/store/static/BopusInfo" id="secHeadMsg" class="newOrPopup">
+<a href="/store/static/reserveonline?icid=Home_Nav_promo" id="secHeadMsg" target="_blank">
     <div class="fl ropis">
-            <span class="FuturaStdHeavy">In-Store Pickup</span> <span class="fontSizeSmaller">Reserve Online, Pay In Store</span><span class="getDetails">details</span> 
+        <span class="FuturaStdHeavy">In-store Pickup:</span> <span class="fontSizeSmaller">Reserve Online Pay in Store</span><span class="getDetails">details</span> 
     </div>
 </a>
+
  
  
  
@@ -2369,10 +1645,12 @@ var isDynUserCookieExists = 'false';
 	                    	<a id="department-navigationCA" name="content"></a>
 	                    	<div class="collegeBridalAreaCA" id="collegeBridalArea">
 	                    
+	
  
  
 							<div class="shopLink">
-                        	<a href="#" title="shop products">SHOP PRODUCTS</a> 
+                        	<a href="#" title="shop products">PRODUCTS<span class="visuallyhidden">Opens a flyout</span></a>
+            
                             <div class="shopNavHoverPanel">
                                 <ul class="shopNavLinks">
                                 
@@ -2409,6 +1687,9 @@ var isDynUserCookieExists = 'false';
 
 
  
+
+
+
 
 
 
@@ -2457,6 +1738,57 @@ var isDynUserCookieExists = 'false';
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  		 
+							            <li class="specialL1Node " data-clicked="false" data-panel="shopLinkPanelCat_22760">
+										
+	
+	
+	
+													<a href="/store/category/holiday/22760/" data-contentid="tabData_22760" class=""> Holiday</a>	
+	
+ </li> 
  
  
  
@@ -3048,8 +2380,9 @@ var isDynUserCookieExists = 'false';
  
  
                           <div id="shopForCollegeLink" class="shopForCollegeLinkCA"> <a href="/store/page/College">
-                            Shop for University
- </a> 
+                            Shop for University<span class="visuallyhidden">Opens a flyout</span>
+                            </a>
+                            
  
  
                                 <div id="shopForCollegelFlyout">
@@ -3085,6 +2418,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -3094,7 +2430,9 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+ 
 	
+ 
 	<div class="grid_3 alpha">
 	
 	
@@ -3104,14 +2442,14 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<form action="https://www.bedbathandbeyond.ca/store/giftregistry/simpleReg_creation_form.jsp?_DARGS=/store/bbcollege/shop_for_college.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="978143787703075696" type="hidden"> </div>
+	<form action="https://www.bedbathandbeyond.ca/store/giftregistry/simpleReg_creation_form.jsp?_DARGS=/store/bbcollege/shop_for_college.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="-7534121437548545310" type="hidden"> </div>
 	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" value="COL" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" value=" " type="hidden">
-	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value="/store/giftregistry/simpleReg_creation_form.jsp" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value=" " type="hidden">
+	
+	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.fromPage" value="registryTypes" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.fromPage" value=" " type="hidden">
  
  
  
- 
- <input id="registrySubmit" aria-labelledby="registrySubmit" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" aria-pressed="false" value="" role="button" class="hidden" type="submit"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value=" " type="hidden">
+ <input id="registrySubmit" aria-labelledby="registrySubmit" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" aria-pressed="false" value="" class="hidden" type="submit"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value=" " type="hidden">
 	<div style="display:none"><input name="_DARGS" value="/store/bbcollege/shop_for_college.jsp" type="hidden"> </div></form>
 	
 	<style>
@@ -3217,7 +2555,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/bedding/20620/?fromCollege=true">
+	<a class="icon" href="/store/category/university/bedding/20620/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3255,7 +2593,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/kitchen-dining/20621/?fromCollege=true">
+	<a class="icon" href="/store/category/university/kitchen-dining/20621/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3293,7 +2631,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/bath/20622/?fromCollege=true">
+	<a class="icon" href="/store/category/university/bath/20622/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3335,7 +2673,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/furniture/20623/?fromCollege=true">
+	<a class="icon" href="/store/category/university/furniture/20623/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3373,7 +2711,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/storage-organization/20624/?fromCollege=true">
+	<a class="icon" href="/store/category/university/storage-organization/20624/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3411,7 +2749,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/decor/20625/?fromCollege=true">
+	<a class="icon" href="/store/category/university/decor/20625/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3453,7 +2791,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/electronics/23188/?fromCollege=true">
+	<a class="icon" href="/store/category/university/electronics/23188/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3491,7 +2829,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/laundry-cleaning/23183/?fromCollege=true">
+	<a class="icon" href="/store/category/university/laundry-cleaning/23183/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -3547,6 +2885,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -3556,7 +2897,7 @@ var isDynUserCookieExists = 'false';
  
    
    <div class="collegeFlyout omega"> 
-	<form name="frmFindCollege" method="post" id="frmFindCollegeFly" class="frmFindCollege frmFindCollegeFly" action="">
+	<form name="frmFindCollege" method="post" id="frmFindCollegeFly" class="frmFindCollege frmFindCollegeFly" action="#">
 			<fieldset>
 				<h3 class="findCollegeHead">Find Your School's Info &amp; Nearest Stores</h3>
                <div class="findColgBox">
@@ -3744,678 +3085,12 @@ var isDynUserCookieExists = 'false';
  
  
                                         <div id="bridalGiftRegistryLink" class="bridalGiftRegistryLinkCA">
-                                            <a id="bridalGiftRegistryAnchor" href="/store/page/Registry">Wedding &amp; Baby Registry</a>
+                                            <a id="bridalGiftRegistryAnchor" href="/store/page/Registry">Wedding &amp; Baby Registry<span class="visuallyhidden">Opens a flyout</span></a>
                                             <div id="bridalGiftRegistryFlyout">
                             
  
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
- 
- 
-   
-	  
- 
- 
-	
-	
-	
-	
-	<input type="hidden" id="regBABYCA" value="">
-
-
- 
-
-
- 
- 
- 
- 
-	
- 
- 
- 
- 
-	
- 
- 
-	  
-   
- 
-	
- 
- 
-	
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
- 
-	
-	
-	<div class="purple-arrow"></div>
-<div class="notLoggedIn">
-	<div id="findARegistryInfo" class="grid_3 alpha omega">
-	    <p></p> <h2>Create a Registry</h2>
-	    <div id="findARegistrySelectType">
-	    	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-
-<form action="/store/giftregistry/simpleReg_creation_form.jsp"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="978143787703075696" type="hidden"> </div>
-	
- 
- 
-	
-
-<label id="selectRegistryFlyout">Select the type of registry you would like to create</label>
-   <div class="createRegistry selectTypeFOR">
-		
-		<input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" value=" " type="hidden"><select aria-labelledby="selectRegistryFlyout" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" aria-hidden="false" class="selector_primary triggerSubmit" data-submit-button="submitClick" aria-required="false" aria-label="select the registry you would like to create. You will be redirected to the begin the creation process">	 
- 
-			
-	
-	
-	
-	
-	
-	
-	<option value="">Select Type</option>
-	
-	
-	
-	
-	
-	
-			
-	
-	<option value="BRD">
-	Wedding
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="COM">
-	Commitment Ceremony
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="BA1">
-	Baby
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="HSW">
-	Housewarming
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="ANN">
-	Anniversary
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="COL">
-	University
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="BIR">
-	Birthday
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="RET">
-	Retirement
-	</option>
-	
-	
-	
-	
-			
-	
-	<option value="OTH">
-	Other
-	</option>
-	
-	
-	
-	
-	
-	</select>
-	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.ErrorURL" value="/store/giftregistry/registry_type_select.jsp" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.ErrorURL" value=" " type="hidden">
-	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value="/store/giftregistry/simpleReg_creation_form.jsp" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value=" " type="hidden">
-	<input id="submitClick" style="display:none;" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value="" type="submit"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value=" " type="hidden">
- </div>
-<div style="display:none"><input name="_DARGS" value="/store/giftregistry/registry_type_select.jsp" type="hidden"> </div></form>
-
-
-	    </div>
-	    <div class="clear"></div>
-	    
- <h2>manage registry</h2> 
-	    <p>
-	        <a href="/store/giftregistry/my_registries.jsp"><span class="highlightTxt">Log-in</span> to view &amp; manage your registry</a>
-	    </p>
-	</div>
-	<div id="findARegistryForm" class="grid_6 alpha omega">
-	    <div id="findARegistryFormTitle">
-	        <p></p> 
-	    </div>
-	    <div id="findARegistryFormForm">
-	            
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
- 
- 
- 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-<form id="bridalFlyOut" action="/store/addgiftregistry/?_DARGS=/store/addgiftregistry/find_registry_widget.jsp#" class="clearfix frmFindARegistry" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="978143787703075696" type="hidden"> </div>
-	
-	
-	
-			<div class="input textBox grid_2">
-				
-				<div class="text">
-					<label id="lblfirstNameReg_0" class="txtOffScreen" for="firstNameReg_0">Enter</label>
-					
- 
-	
- 
- 
- <input id="firstNameReg_0" aria-labelledby="errorfirstNameReg_0" maxlength="30" placeholder="First Name*" name="firstNameReg" value="" class="required cannotStartWithSpecialChars alphabasicpunc" type="text" autocomplete="off" aria-required="true"><input name="_D:firstNameReg" value=" " type="hidden">
-				</div>
-				<div class="error"></div>
-			</div>
-			<div class="input textBox grid_2 noMarBot">
-				
-				<div class="text">
-					<label id="lbllastNameReg_0" class="txtOffScreen" for="lastNameReg_0">Enter</label>
-					
- 
-	
- 
- 
- <input id="lastNameReg_0" aria-labelledby="errorlastNameReg_0" maxlength="30" placeholder="Last Name*" name="lastNameReg" value="" class="required cannotStartWithSpecialChars alphabasicpunc" type="text" autocomplete="off" aria-required="true"><input name="_D:lastNameReg" value=" " type="hidden">
-				</div>
-				<div class="error"></div>
-			</div>
-			<div class="input selectBox grid_1 noMarBot">				
-				<div class="select">
-					<label id="lblstateReg_0" class="txtOffScreen" for="stateReg_0">State</label>	<input name="_D:stateReg" value=" " type="hidden"><select id="stateReg_0" aria-labelledby="lblstateName errorstateName" name="stateReg" aria-hidden="false" class="uniform" aria-required="true">
- 
- 
-	
-	
- 
-	
-	<option value="">
-	
-	
-	Province		
-	
- 
-	</option>
-	
- 
-	
-	
- 
-	
-	
-	
-	<option value="AB">
-	Alberta
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="BC">
-	British Columbia
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="MB">
-	Manitoba
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="NB">
-	New Brunswick
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="NL">
-	Newfoundland and Labrador
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="NT">
-	Northwest Territories
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="NS">
-	Nova Scotia
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="NU">
-	Nunavut
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="ON">
-	Ontario
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="PE">
-	Prince Edward Island
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="SK">
-	Saskatchewan
-	</option>
-	
-	
- 
-	
-	
-	
-	<option value="YT">
-	Yukon
-	</option>
-	
-	
-	
-	
-	
-	
- 
-	</select>
-					
-				</div>
-				<div class="error"></div>
-			</div>
-		
-	
-	
-	<div class="formButtons">
-	
-		
-	
-	
-	
-	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.hidden" value="1" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.hidden" value=" " type="hidden">
-	
-	
-	
-				<div class="button button_secondary button_active">
-					
- 
- 
- <input id="btnFindRegistry_0" aria-labelledby="btnFindRegistry_0" name="btnFindRegistry_0" value="Search" role="button" onclick="_gaq.push(['_trackEvent', 'bridal', 'click go', 'find']);" type="submit"><input name="_D:btnFindRegistry_0" value=" " type="hidden">
-	</div>	
-	
-	</div>
-<div style="display:none"><input name="_DARGS" value="/store/addgiftregistry/find_registry_widget.jsp" type="hidden"> </div></form>
-
-		        <div class="clear"></div>
-		        <div id="findARegistryFormMessage">
-		            
-		        </div>
-	    </div>
-	</div>
-	<div class="clear"></div>
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-	
-	
-	 	
-
-
-
-
- <style type="text/css">
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks {
-    border-top: 1px solid #e8e8e8;
-    margin-top: 25px;   
-    padding-left: 20px;
-    padding-right: 20px;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks ul {
-    margin: 0;
-    padding-top: 15px;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks li {
-    float: left;
-    padding: 0 30px;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks li.first {
-    padding-left: 0;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks li.last {
-    padding-right: 0;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks a {
-    color: #43165e;
-    font-size: 12px;
-    font-family: Arial,Helvetica,sans-serif;
-    font-weight: bold;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks .icon {
-    background-repeat: no-repeat;
-    background-position: left center;
-    display: block;
-    padding: 10px 5px 0 40px;
-    height: 35px;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks .checklist {
-    background: url("//s7d9.scene7.com/is/image/BedBathandBeyond/images/registry/icon_20121220_bridalchecklist.jpg") 10px 10px no-repeat;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks .tips {
-    background: url("//s7d9.scene7.com/is/image/BedBathandBeyond/images/registry/icon_20121220_bridalguides.jpg") 10px 10px no-repeat;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks .book {
-    background: url("//s7d9.scene7.com/is/image/BedBathandBeyond/images/registry/icon_20121220_bridalbook.jpg") 3px 10px no-repeat;
-}
-#headerWrapper #bridalGiftRegistryFlyout #findARegistryLinks .cards {
-    background: url("//s7d9.scene7.com/is/image/BedBathandBeyond/images/registry/icon_20121220_bridalannouncements.jpg") 3px 10px no-repeat;
-}
-</style>
-<div id="findARegistryLinks">
-    <ul class="clearfix">
-        <li><a class="icon checklist" href="/store/registry/RegistryChecklist" title="Registry Checklist">Registry <br>Checklist</a></li>
-        <li><a class="icon tips" href="/store/registry/GuidesAndAdviceLandingPage" title="Guides &amp; Advice">Guides <br>&amp; Advice</a></li>
-        <li><a class="icon book" href="/store/bbregistry/BridalBook" title="Wedding Registry Book">Wedding <br>Registry Book</a></li>
-       <li class="last"><a class="icon cards" href="/store/registry/RegistryAnnouncementCards" title="announcement cards">Announcement <br>Cards</a></li> 
-    </ul>
-    <div class="clear"></div>
-</div>
-
-
-
-
-</div>
-	   
-     
-  	  
-
-
-
+                                      <div class="clearfix loader textCenter"><img width="20" height="20" alt="small loader" src="/_assets/global/images/widgets/small_loader.gif"></div>
+                                 
  
  
                               </div>
@@ -4454,6 +3129,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -4463,7 +3141,9 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+ 
 	
+ 
 	<div class="grid_3 alpha">
 	
 	
@@ -4473,14 +3153,14 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<form action="https://www.bedbathandbeyond.ca/store/giftregistry/simpleReg_creation_form.jsp?_DARGS=/store/bbcollege/shop_for_college.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="978143787703075696" type="hidden"> </div>
+	<form action="https://www.bedbathandbeyond.ca/store/giftregistry/simpleReg_creation_form.jsp?_DARGS=/store/bbcollege/shop_for_college.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="-7534121437548545310" type="hidden"> </div>
 	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" value="COL" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryEventType" value=" " type="hidden">
-	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value="/store/giftregistry/simpleReg_creation_form.jsp" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.SuccessURL" value=" " type="hidden">
+	
+	<input name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.fromPage" value="registryTypes" type="hidden"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.fromPage" value=" " type="hidden">
  
  
  
- 
- <input id="registrySubmit" aria-labelledby="registrySubmit" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" aria-pressed="false" value="" role="button" class="hidden" type="submit"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value=" " type="hidden">
+ <input id="registrySubmit" aria-labelledby="registrySubmit" name="/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" aria-pressed="false" value="" class="hidden" type="submit"><input name="_D:/com/bbb/commerce/giftregistry/formhandler/GiftRegistryFormHandler.registryTypes" value=" " type="hidden">
 	<div style="display:none"><input name="_DARGS" value="/store/bbcollege/shop_for_college.jsp" type="hidden"> </div></form>
 	
 	<style>
@@ -4586,7 +3266,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/bedding/20620/?fromCollege=true">
+	<a class="icon" href="/store/category/university/bedding/20620/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4624,7 +3304,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/kitchen-dining/20621/?fromCollege=true">
+	<a class="icon" href="/store/category/university/kitchen-dining/20621/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4662,7 +3342,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/bath/20622/?fromCollege=true">
+	<a class="icon" href="/store/category/university/bath/20622/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4704,7 +3384,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/furniture/20623/?fromCollege=true">
+	<a class="icon" href="/store/category/university/furniture/20623/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4742,7 +3422,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/storage-organization/20624/?fromCollege=true">
+	<a class="icon" href="/store/category/university/storage-organization/20624/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4780,7 +3460,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/decor/20625/?fromCollege=true">
+	<a class="icon" href="/store/category/university/decor/20625/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4822,7 +3502,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/electronics/23188/?fromCollege=true">
+	<a class="icon" href="/store/category/university/electronics/23188/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4860,7 +3540,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	<a class="icon" href="/store/category/college/laundry-cleaning/23183/?fromCollege=true">
+	<a class="icon" href="/store/category/university/laundry-cleaning/23183/?fromCollege=true">
 									<span class="img">
 									   
 	
@@ -4916,6 +3596,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -4925,7 +3608,7 @@ var isDynUserCookieExists = 'false';
  
    
    <div class="collegeFlyout omega"> 
-	<form name="frmFindCollege" method="post" id="frmFindCollegeFly" class="frmFindCollege frmFindCollegeFly" action="">
+	<form name="frmFindCollege" method="post" id="frmFindCollegeFly" class="frmFindCollege frmFindCollegeFly" action="#">
 			<fieldset>
 				<h3 class="findCollegeHead">Find Your School's Info &amp; Nearest Stores</h3>
                <div class="findColgBox">
@@ -5104,8 +3787,8 @@ var isDynUserCookieExists = 'false';
 	
 
 
- </div> 
- 
+ </div>	
+	
                        
                         
                     </div><!--#collegeBridalArea-->
@@ -5149,7 +3832,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 											<span id="defaultAllValue" class="hidden">All</span>
-											<span id="lblsearchByDept" class="visuallyhidden" for="searchByDept">Search by Department dropdown</span>
+											<span id="lblsearchByDept" class="visuallyhidden" aria-hidden="false">Search by Department dropdown</span>
 											<select id="searchByDept" class="hidden">
 											
 	
@@ -5161,6 +3844,12 @@ var isDynUserCookieExists = 'false';
 	
 	
 													<option value="0">All Departments</option>	
+												<option value="22760">Holiday</option>	
+	
+	
+	
+	
+	
 												<option value="23566">Gifts</option>	
 	
 	
@@ -5256,27 +3945,25 @@ var isDynUserCookieExists = 'false';
                                 
                                 <div class="searchDD">All</div> 
                                 <input type="hidden" name="searchURL" value="/store/s/">
-
+                                <input type="hidden" name="vendorParam" value="">
            
-                                <div class="searchFormInputWrapper">
+                                <div class="searchFormInputWrapper">	
                                     <label id="lblsearchFormInput" class="txtOffScreen" for="searchFormInput">Search Products</label>
-                                	<input id="searchFormInput" aria-labelledby="lblsearchFormInput" type="text" value="" title="Search Products" name="searchBox" placeholder="What can we help you find?" autocomplete="off" role="textbox" aria-haspopup="true" aria-autocomplete="list">
+                                	<input id="searchFormInput" aria-labelledby="lblsearchFormInput" type="text" value="" title="Search Products" name="searchBox" placeholder="What can we help you find?" autocomplete="off" aria-haspopup="true" aria-autocomplete="list">
                                 </div>
-								<div class="searchFormButtonWrapper fr" style="
-    margin-top: -40px;">
-                                	  	<button type="submit" class="searchFormButton" value="submit your search" name="submit your search" role="button" aria-hidden="" title="Search" style="padding:8px">
-  	<span class="icon icon-search block" aria-hidden="true"></span> 
-
-									<span class="icon-text">submit your search</span>
-                                </button> 
+								<div class="searchFormButtonWrapper fr">
+                                	<button type="submit" class="searchFormButton" value="submit your search" name="submit your search" role="button" title="Search" style="padding:8px">
+  										<span class="icon icon-search block" aria-hidden="true"></span> 
+										<span class="icon-text">submit your search</span>
+									</button> 
                                 </div>
 							</form>
 							<style>
-							#headerWrapper .searchFormButton:focus
-{
-  border:white dotted thin !important;
-}
-</style>
+								#headerWrapper .searchFormButton:focus
+								{
+  									border:white dotted thin !important;
+								}
+							</style>
 							<form method="post" action="#" id="hiddenForm">
 								<input type="hidden" name="origSearchTerm" value="">
 								<input type="hidden" name="deptValue" value="">
@@ -5358,11 +4045,15 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
 
 
+	
 	
 	
 			
@@ -5379,8 +4070,23 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
  
-   
+ 
+			<input type="hidden" name="interactiveCheckListFlag" value="true">
+			<div id="loaderChecklistInt" class="hidden">
+			   <div class="loading-checklist">CHECKLIST LOADING</div>
+                              <img alt="Loader Image" src="/_assets/global/images/widgets/small_loader.gif" class="loading-image">
+			</div>
+		
+              
  
 	
 	
@@ -5391,13 +4097,17 @@ var isDynUserCookieExists = 'false';
 	
 	
 
-
- </div> </div>
+ </div> </div> 
+ 
+ 
+ 
+ 
 
 
  
 	
 	
+			
 	
 						<script type="text/javascript">
 							var sa_page= "7";
@@ -5447,6 +4157,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -5459,20 +4172,27 @@ var isDynUserCookieExists = 'false';
 
 
 
-<div id="content" class="container_12 clearfix">
-	<div id="cmsBreadCrumbs" class="breadcrumbs grid_12 marTop_10 noMarBot">
-		<a href="http://www.bedbathandbeyond.ca" title="Home">Home</a>
-		<span class="rightCarrot">&gt;</span>
-		
-	
-	
-	
-	
-		<span class="bold">Privacy Policy</span>
-	</div>
 
-	<div id="cmsPageHead" class="grid_12 clearfix">
-		<h1>Privacy Policy</h1>	
+
+	
+	
+		<div id="content" class="container_12 clearfix">
+			<div id="cmsBreadCrumbs" class="breadcrumbs grid_12 marTop_10 noMarBot">
+				<a href="https://www.bedbathandbeyond.ca" title="Home">Home</a> <span class="rightCarrot">&gt;</span>
+				
+	
+	
+	
+	
+				<span class="bold">Privacy Policy</span>
+			</div>
+
+
+
+			<div id="cmsPageHead" class="grid_12 clearfix">
+				<h1>
+					Privacy Policy
+	</h1>	
 	</div>	
 	
 	
@@ -5597,8 +4317,11 @@ var isDynUserCookieExists = 'false';
 <h3 class="subHeading">Interpretation of this Privacy Policy</h3>
 
 <p>Any interpretation associated with this Privacy Policy will be made by our Privacy Officer. This Privacy Policy does not create or confer upon any individual any rights, or impose upon Bed Bath &amp; Beyond any rights or obligations in addition to any rights or obligations imposed by Canada's applicable federal and provincial privacy laws. Should there be any inconsistency between this Privacy Policy and the applicable federal and provincial privacy laws, this Privacy Policy will be interpreted so as to give effect to, and comply with, those privacy laws which are applicable.</p>
-				</div></div> 	
+				</div></div>
 	
+	
+	
+
 </div>
 	
 	
@@ -5638,6 +4361,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -5652,6 +4378,9 @@ var isDynUserCookieExists = 'false';
  
  
  
+ 
+ 
+	
 	
 	
 		 
@@ -5663,9 +4392,9 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-	   	
+	  	
     <div class="clear"></div>
-	<div id="box"><img style="padding:6px;" src="//s7d9.scene7.com/is/image/BedBathandBeyond/arrow_up?$PNG$&amp;fmt=png-alpha" width="13" height="8"></div> 
+	<div id="box"><img style="padding:6px;" alt="up-arrow" src="//s7d9.scene7.com/is/image/BedBathandBeyond/arrow_up?$PNG$&amp;fmt=png-alpha" width="13" height="8"></div>
     <div id="footer" class="clearfix  " role="contentinfo">
         
  <div class="dslToolTip" id="dslToolTipInfo">
@@ -5675,9 +4404,11 @@ var isDynUserCookieExists = 'false';
 <span>The cost of item assembly. Assembly may not be available for all items.</span>
 </div>
         <div class="topBorder"></div>
+        <div class="hidden"><a href="/store/_includes/modals/sameDayDeliveryModal.jsp" id="sddModal">Same Day Delivery</a><a href="/store/_includes/modals/sameDayDeliveryCongratulationsModal.jsp" id="sddCongratModal">Congrat Modal</a></div> 
         <div class="container_12 padBottom_20 clearfix">
             <div class="fl borderRight divSignupSpecialEmail">
                 <div class="box grid_2 alpha clearfix">
+	
                	
  <h3>Sign Up for Info &amp; Offers</h3>
 	
@@ -5707,18 +4438,18 @@ var isDynUserCookieExists = 'false';
 							
                             <div class="input noMar clearfix">
                                 <div class="button button_prodLight ">
-                                    <input type="submit" value="Submit" id="Submit" onclick="javascript:omnitureExternalLinks('Email Sign Up: submit a Email Sign Up Special Offer button');" name="submit" role="button" aria-pressed="false" aria-labelledby="Submit">
+                                    <input type="submit" value="Submit" id="Submit" onclick="javascript:omnitureExternalLinks('Email Sign Up: submit a Email Sign Up Special Offer button');" name="submit" aria-pressed="false" aria-labelledby="Submit">
                                 </div>
                             </div>
                             <div class="clear"></div>
                         </form>
                     </div>
-                    
+                                   
                 <p class="footeroffers"></p>
                     <div class="smallText">
                         
  <p><a href="/store/static/PrivacyPolicy" title="Privacy Policy">Privacy Policy - Your Privacy Rights</a></p>
-                    </div>
+                    </div>                    
                 </div>
             </div>
             <div class="fl borderRight">
@@ -5736,7 +4467,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="/store/selfservice/ContactUs" title="Contact Us">Contact Us / Feedback</a></p> 
+     <p><a href="/store/selfservice/ContactUs" title="Contact Us">Contact Us / Feedback</a></p> 
  
  
 		 
@@ -5745,7 +4476,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="/store/static/EasyReturns" title="Easy Returns">Easy Returns</a></p> 
+     <p><a href="/store/static/EasyReturns" title="Easy Returns">Easy Returns</a></p> 
  
  
 		 
@@ -5754,7 +4485,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="/store/static/pricematch" title="Price Match Guarantee">Price Match Guarantee</a></p> 
+     <p><a href="/store/static/pricematch" title="Price Match Guarantee">Price Match Guarantee</a></p> 
  
  
 		 
@@ -5763,7 +4494,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="/store/static/ShippingPolicies" title="Shipping Info">Shipping Info</a></p> 
+     <p><a href="/store/static/ShippingPolicies" title="Shipping Info">Shipping Info</a></p> 
  
  
 		 
@@ -5772,7 +4503,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a class="popup" href="/store/static/BopusInfo" target="_blank">Order Online - Pick up in store</a></p> 
+     <p><a class="popup" href="/store/static/BopusInfo" target="_blank">Order Online - Pick up in store</a></p> 
  
  
 		 
@@ -5781,7 +4512,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a class="popup" href="/store/static/GiftPackagingPopUp" title="Gift Packaging">Gift Packaging</a></p> 
+     <p><a class="popup" href="/store/static/GiftPackagingPopUp" title="Gift Packaging">Gift Packaging</a></p> 
  
  
 		 
@@ -5790,7 +4521,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="http://bedbathandbeyondca.custhelp.com/" target="_blank" title="FAQ">FAQs</a></p> 
+     <p><a href="http://bedbathandbeyondca.custhelp.com/" target="_blank" title="FAQ">FAQs<span class="icon-text">Opens a new window</span></a></p> 
  
  
 		 
@@ -5799,7 +4530,7 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a target="_blank" onclick="window.open('https://eqa.www.itestbbby.ca/store/account/check_balance.jsp','gc', 'scrollbars=no,top=500,left=500,width=415,height=175,menubar=no');return false" href="">Check Gift Card Balance</a></p> 
+     <p><a href="/store/giftregistry/simpleReg_creation_form.jsp?regType=BRD" title="Registry">Create a Registry</a></p> 
  
  
 		 
@@ -5808,18 +4539,46 @@ var isDynUserCookieExists = 'false';
  
  
  
-   <p><a href="/store/static/SafetyAndRecalls" title="Safety &amp; Recalls">Safety &amp; Recalls</a></p> 
+     <p><a href="/store/page/Registry" title="Registry">Find a Registry</a></p> 
  
  
 		 
  
+ 
+ 
+ 
+ 
+     <p><a onclick="window.open('https://www.bedbathandbeyond.ca/store/account/check_balance.jsp','gc', 'scrollbars=no,top=500,left=500,width=415,height=175,menubar=no');return false" href="">Gift Card Balance<span class="icon-text">Opens a new window</span></a></p> 
+ 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+     <p><a href="/store/static/SafetyAndRecalls" title="Product Recall Information">Product Recall Information</a></p> 
+ 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+     <p><a href="/store/static/accessibility" title="Accessibility">Accessibility</a></p> 
+ 
+ 
+		 
+ 
+
                 </div>
             </div>
             <div class="fl borderRight">
                 <div class="box grid_2 clearfix">
                  <h3>Shopping Tools</h3> 
 	<p><a title="Product Guides" href="/store/static/GuidesPage">Guides</a></p> 
-	<p><a title="Videos" target="_blank" href="http://video.bedbathandbeyond.ca/">Videos</a></p> 
+	<p><a title="Videos" target="_blank" href="http://video.bedbathandbeyond.ca/">Videos<span class="icon-text">Opens a new window</span></a></p> 
 	<p><a title="Glossary" href="/store/static/GlossaryPage">Glossary</a></p> 
 	<p><a title="Shop Gift Cards" href="/store/static/GiftCardHomePage">Shop Gift Cards</a></p> 
 	<p><a title="Clearance" href="/store/category/Clearance/20009/">Shop all Clearance</a></p> 
@@ -5834,7 +4593,7 @@ var isDynUserCookieExists = 'false';
 	<p><a title="Media Relations" href="/store/static/MediaRelations">Media Relations</a></p>	
  
 	
-	<p><a title="Investor Relations" href="http://phx.corporate-ir.net/phoenix.zhtml?c=97860&amp;p=irol-irhome">Investor Relations</a></p>	
+	<p><a title="Investor Relations" href="http://phx.corporate-ir.net/phoenix.zhtml?c=97860&amp;p=irol-irhome">Investor Relations<span class="icon-text">Opens a new window</span></a></p>	
  
 	
 	<p><a href="/store/static/Careers" title="Careers">Careers</a></p>	
@@ -5862,11 +4621,7 @@ var isDynUserCookieExists = 'false';
             <div class="container_12 clearfix">
                 <div id="otherSites" class="grid_12">
                     <div class="otherSitesWrapper">   
-                        <div class="fl" id="otherSitesTitle"><p>Visit our other sites:</p></div>
-<div class="fl" id="logoBy2"><a href="http://www.bedbathandbeyond.com" target="_blank" title="Bed Bath &amp; Beyond">Bed Bath &amp; Beyond</a></div>
-<div class="fl" id="logoHarmon"><a href="http://www.harmondiscount.com" target="blank" title="Harmon Face Values">Harmon Face Values</a></div>
-<div class="fl" id="logoCpwm"><a href="http://www.worldmarket.com/" target="blank" title="Cost Plus World Market">Cost Plus World Market</a></div>
-<div class="fl" id="logoBb2"><a href="/store/registry/PersonalizedInvitations" target="_blank" title="buybuy BABY">buybuy BABY</a></div>
+                        
                         <div class="clear"></div>
                     </div>
                     <div class="clear"></div>
@@ -5877,13 +4632,61 @@ var isDynUserCookieExists = 'false';
         
         
  
-	
+	<div class="clearfix" id="bbb-ya-footer">
+	<div class="container_12 clearfix">
+		<div class="grid_12 clearfix">
+
+			<div id="ya-footer">
+				<div>
+					<span>Popular searches:</span>
+					<a href="//www.bedbathandbeyond.ca/1/4/index1.html">title</a>,
+					<a href="//www.bedbathandbeyond.ca/1/4/indexb1.html">popularity</a>,
+					<a href="//www.bedbathandbeyond.ca/1/4/indexc1.html">seasonality</a>,
+					<a href="//www.bedbathandbeyond.ca/1/4/indexd1.html">our choices</a>,
+					<a href="//www.bedbathandbeyond.ca/1/4/indexe1.html">best sellers</a>,
+					<a href="//www.bedbathandbeyond.ca/1/4/indexf1.html">recent</a>
+					
+			   </div>
+				<div>
+					<span>Topsellers by:</span>
+					<a href="//www.bedbathandbeyond.ca/1/2/index1.html">title</a>,
+					<a href="//www.bedbathandbeyond.ca/1/2/indexb1.html">brand</a>,
+					<a href="//www.bedbathandbeyond.ca/1/2/indexc1.html">price</a>,
+					<a href="//www.bedbathandbeyond.ca/1/2/indexd1.html">popularity</a>,
+					<a href="//www.bedbathandbeyond.ca/1/2/indexe1.html">favorites</a>,
+					<a href="//www.bedbathandbeyond.ca/1/2/indexf1.html">recent</a>
+					
+				</div>
+				<div>
+					<span>Popular by:</span>
+					<a href="//www.bedbathandbeyond.ca/1/3/index1.html">popularity</a>,
+					<a href="//www.bedbathandbeyond.ca/1/3/indexb1.html">our choices</a>,
+					<a href="//www.bedbathandbeyond.ca/1/3/indexc1.html">all-round favorites</a>,
+					<a href="//www.bedbathandbeyond.ca/1/3/indexd1.html">title</a>,
+					<a href="//www.bedbathandbeyond.ca/1/3/indexe1.html">recent</a>
+					
+				</div>
+				<div>
+					<span>Products by:</span>
+					<a href="//www.bedbathandbeyond.ca/1/1/index1.html">title</a>,
+					<a href="//www.bedbathandbeyond.ca/1/1/indexb1.html">brand</a>,
+					<a href="//www.bedbathandbeyond.ca/1/1/indexc1.html">price</a>,
+					<a href="//www.bedbathandbeyond.ca/1/1/indexd1.html">popularity</a>,
+					<a href="//www.bedbathandbeyond.ca/1/1/indexe1.html">favorites</a>,
+					<a href="//www.bedbathandbeyond.ca/1/1/indexf1.html">recent</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 	
  
         <div class="clear"></div>
     </div>
+
    	<div class="clear"></div>
-   	
+   	   
+
     <div id="footerPs">
     	
 	
@@ -5928,6 +4731,9 @@ var isDynUserCookieExists = 'false';
 
 
 
+
+
+
  
  
 
@@ -5940,16 +4746,17 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
-		<span class="hidden">| Build : 2.08.19.005 | Build From :  | Build Created On : </span>			
+		<span class="hidden">| Build : 2.09.14.002 | Build From : 201612231055118d14e28 | Build Created On : GIT Build Date is Fri Dec 23 10:55:11 EST 2016</span>			
 
             </p>
             <div class="clear"></div>
         </div>
         <div class="clear"></div>
-    </div>
+    </div>  
     <div class="clear"></div>
     
  
+
     <script type="text/javascript">
         (function ($, window, document, undefined) {
             $(function () {
@@ -5976,6 +4783,12 @@ var isDynUserCookieExists = 'false';
  
  
 	
+		 
+			<input id="showSDD" type="hidden" value="false">
+	 
+     		 
+             
+	
 	
 	
 	
@@ -5990,6 +4803,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+ 
  
 	
 	
@@ -6011,6 +4825,7 @@ var isDynUserCookieExists = 'false';
 	
 	
 	
+	
 
 
 
@@ -6041,34 +4856,43 @@ var isDynUserCookieExists = 'false';
 
 
 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
  
+ 
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
 
 
@@ -6128,35 +4952,16 @@ var isDynUserCookieExists = 'false';
 
 
 
- 
- 
-
-
-
-
-
-
-
 
 
 
  
  
 
- 
- 
- 
- 
 
 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
 
 
 
@@ -6164,23 +4969,53 @@ var isDynUserCookieExists = 'false';
 
 
  
-        <script type="text/javascript" src="/_assets/global/js/bbb_combined_bottom.js?v=2.08.02.006"></script>
-        <script type="text/javascript" src="/_assets/global/js/plugins/jquery.webui-popover.js?v=2.08.02.006">
-        </script>
+ 
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+ 
+        <script type="text/javascript" src="/_assets/global/js/bbb_combined_bottom.js?v=201612231055118d14e28DC2"></script>
     
  
 
 
+	
 
 
 
-
-
-
-
-<script src="https://www.google.com/recaptcha/api.js"></script>
-
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;key=AIzaSyB1ciwCZIBNxUDzibMu5iKAbOMrIPTjNtM"></script>
 
 <script type="text/javascript">
 	var _enableLog = false,
@@ -6202,9 +5037,10 @@ var isDynUserCookieExists = 'false';
 
 
 
- 
- 
- 
+
+
+
+
 
 
 
@@ -6231,17 +5067,18 @@ var isDynUserCookieExists = 'false';
  
  
 
- 
- 
+
+
 
 	
 	
 	
-	 	
+	
+	
 
 
 
-    <script type="text/javascript"> 
+    <script type="text/javascript">
         function mapQuestStoreLocatorInitialize() {
             if($("#pageWrapper").hasClass("college")) {
                  var options = {
@@ -6274,15 +5111,15 @@ var isDynUserCookieExists = 'false';
                  if($("#pageWrapper").hasClass("findAStorePage")) {
                     $('#FindStoreBTN').removeClass('disabled').addClass('button_active').find('input').removeAttr('disabled');
                  }
-            } else if ($("#pageWrapper").hasClass("productDetails")) {
+            } else if ($("#pageWrapper").hasClass("productDetails") || $("#pageWrapper").hasClass("subCategory") || $("#pageWrapper").hasClass("searchResults")) {
                    var options = {
                         radius:'25',
                         //,favoriteStoreID : ''
                         conceptID: 'BedBathCanada',
-                        enableFavoriteStores : false, 
+                        enableFavoriteStores : false,
                         debug: false,
                         usePrintPage: true
-                    };  
+                    };
                         BBB.BBBStoreLocator.init(options);
                         //BBB.BBBStoreLocator.initMap(); //loads the maps from MQ, but keeps them hidden
                     var GetDirectionsV2Dialog = $("#GetDirectionsV2Wrapper").removeClass('hidden').dialog({
@@ -6293,9 +5130,9 @@ var isDynUserCookieExists = 'false';
                         width: 856,
                         show: {effect: 'fade', duration: 250},
                         hide: {effect: 'fade', duration: 250},
-                        //buttons: btnsObj,            
+                        //buttons: btnsObj,
                         //dialogClass: settings.dialogClass,
-                        open: function () {             
+                        open: function () {
                             if( $('#changeStoreDialogWrapper' ).dialog( "isOpen" ) === true)
                             {
                                 //$(this).data('changeStoreWasOpen',true);
@@ -6303,8 +5140,8 @@ var isDynUserCookieExists = 'false';
                                 //$('#changeStoreDialogWrapper').dialog('close');
                             }
                         },
-                        close: function () {                
-                            if($('#changeStoreDialogWrapper' ).dialog( "isOpen" ))              
+                        close: function () {
+                            if($('#changeStoreDialogWrapper' ).dialog( "isOpen" ))
                             {
                                 $('.changeStoreDialog.ui-dialog').fadeIn(250);//.removeClass('hidden');
                                 //$(this).data('changeStoreWasOpen',false);
@@ -6324,24 +5161,24 @@ var isDynUserCookieExists = 'false';
                     //runSearchOnLoad: true
                     //imgBasePath: '/images/icons/',
                     usePrintPage:true
-                    //printPage: 'map_print.html' 
-                    };   
+                    //printPage: 'map_print.html'
+                    };
                     BBB.BBBStoreLocator.init(options);
-                    BBB.BBBStoreLocator.initMap(); //loads the maps from MQ, but keeps them hidden  
+                    BBB.BBBStoreLocator.initMap(); //loads the maps from MQ, but keeps them hidden
             } else if ($("#pageWrapper").hasClass("noStoreLocatorCss")) {
                 var origin, destination, options;
                     origin = decodeURIComponent($.urlParam('origin'));
-                    destination = decodeURIComponent($.urlParam('destination'));        
-                    
+                    destination = decodeURIComponent($.urlParam('destination'));
+
                     options = {
                             conceptID: 'BedBathCanada',
-                            debug:false    
+                            debug:false
                     };
-                        
+
                     BBB.BBBStoreLocator.init(options);
                     BBB.BBBStoreLocator.initMap(); //loads the maps from MQ, but keeps them hidden
                     BBB.BBBStoreLocator.loadMapDirections(origin, destination,{});
-                    
+
                     //only load static map and open the print dialog after the map directions have finished loading
                 $('body').on('storeLocator.directionsLoaded', function() {
                                 $('#storeLocatorMapResults').hide();
@@ -6353,7 +5190,7 @@ var isDynUserCookieExists = 'false';
                         radius: '25',
                         //favoriteStoreID : '1230',
                         conceptID: 'BedBathCanada',
-                        enableFavoriteStores : false, 
+                        enableFavoriteStores : false,
                         debug: false,
                         usePrintPage: true
                     };
@@ -6403,12 +5240,12 @@ var isDynUserCookieExists = 'false';
                 $('.viewMapModal, .viewDirectionsNew, .viewMap').hide();
             }
         };
-			BBB.fn.initMQ();			
+			BBB.fn.initMQ();
         }
-        bbbLazyLoader.js('//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l', function() {
-            bbbLazyLoader.js('/_assets/global/js/extensions/store_locator_v2.min.js?v=2.08.02.006', function() {
+        /*bbbLazyLoader.js('//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l', function() {
+            bbbLazyLoader.js('/_assets/global/js/extensions/store_locator_v2.min.js?v=201612231055118d14e28DC2', function() {
                 if($('html').hasClass('bedBathCA')) {
-                    bbbLazyLoader.js('/_assets/global/js/extensions/store_locator.js?v=2.08.02.006', function() {
+                    bbbLazyLoader.js('/_assets/global/js/extensions/store_locator.js?v=201612231055118d14e28DC2', function() {
                         mapQuestStoreLocatorInitialize();
                     });
                 } else{
@@ -6421,7 +5258,46 @@ var isDynUserCookieExists = 'false';
                 }
                 }
             });
-        });
+        });*/
+        BBB.fn.loadStoreLocatorLibrary = function () {
+            var mapQuestUSUrl = '/_assets/global/js/extensions/store_locator_v2.min.js?v=201612231055118d14e28DC2',
+                mapQuestCAUrl = '/_assets/global/js/extensions/store_locator.js?v=201612231055118d14e28DC2',
+                mapQuestThirdPartyUrl = '//www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Gmjtd%7Clu6120u8nh%2C2w%3Do5-lwt2l';
+
+            bbbLazyLoader.js(mapQuestThirdPartyUrl, function() {
+                bbbLazyLoader.js(mapQuestUSUrl, function() {
+                    if($('html').hasClass('bedBathCA')) {
+                        bbbLazyLoader.js(mapQuestCAUrl, function() {
+                            mapQuestStoreLocatorInitialize();
+                        });
+                    } else{
+                        if ($('html').hasClass('ie')) {
+                            setTimeout( function(){
+                                mapQuestStoreLocatorInitialize();
+                            },6000);
+                        } else {
+                            mapQuestStoreLocatorInitialize();
+                    	}
+                    }
+                });
+            });
+        };
+
+        var loadStoreLocatorFlag = false;
+        if($("#pageWrapper").hasClass("college")
+            || $("#pageWrapper").hasClass("findAStorePage")
+            || $("#pageWrapper").hasClass("productDetails")
+            || $("#pageWrapper").hasClass("subCategory")
+            || $("#pageWrapper").hasClass("searchResults")
+            || $("#pageWrapper").hasClass("estorePage")
+            || $("#pageWrapper").hasClass("noStoreLocatorCss")
+            || $("#pageWrapper").hasClass("useStoreLocator")) {
+            loadStoreLocatorFlag = true;
+        }
+
+        if (loadStoreLocatorFlag) {
+            BBB.fn.loadStoreLocatorLibrary();
+        }
     </script>
 
 
@@ -6442,7 +5318,7 @@ var isDynUserCookieExists = 'false';
             c_start = document.cookie.indexOf(c_name + "=");
 
             if (c_start != -1) {
-                c_start = c_start + c_name.length + 1; 
+                c_start = c_start + c_name.length + 1;
                 c_end = document.cookie.indexOf(";", c_start);
 
                 if (c_end == -1) {
@@ -6450,7 +5326,7 @@ var isDynUserCookieExists = 'false';
                 }
 
                 ret = unescape(document.cookie.substring(c_start, c_end));
-            } 
+            }
         }
 
         return ret;
@@ -6483,7 +5359,7 @@ var isDynUserCookieExists = 'false';
  
  
             <script type="text/javascript">
-                bbbLazyLoader.js('http://www.google-analytics.com/ga.js', function(){
+                bbbLazyLoader.js('https://ssl.google-analytics.com/ga.js', function(){
                     if (typeof _gat !== 'undefined') {
                         var pageTracker = _gat._getTracker("UA-4040192-1");
                         pageTracker._initData();
@@ -6610,10 +5486,10 @@ var isDynUserCookieExists = 'false';
  
  
  
-                    <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/bbbca_s_code.js?v=2.08.02.006"></script>
+                    <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/bbbca_s_code.js?v=201612231055118d14e28DC2"></script>
                 
  
-            <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/omniture_tracking.min.js?v=2.08.02.006"></script>
+            <script type="text/javascript" src="/_assets/global/js/thirdparty/omniture/omniture_tracking.min.js?v=201612231055118d14e28DC2"></script>
             
  
  
@@ -6621,12 +5497,12 @@ var isDynUserCookieExists = 'false';
 
  
  
-    <script type="text/javascript" src="/_assets/global/js/thirdparty/rkg/rkg_tracking.js?v=2.08.02.006"></script>
+    <script type="text/javascript" src="/_assets/global/js/thirdparty/rkg/rkg_tracking.js?v=201612231055118d14e28DC2"></script>
     <script type="text/javascript">
         try {
             rkg_track_sid('bedbathcanada');
         } catch (e) { }
-    </script> 
+    </script>
 
 
 
@@ -6635,7 +5511,7 @@ var isDynUserCookieExists = 'false';
 </script>
 
 
-<input type="hidden" id="profileId" value="DC23383795896">
+<input type="hidden" id="profileId" value="DC24226746890">
 
 
 	<input type="hidden" id="profileType" value="non registered user">
@@ -6663,22 +5539,44 @@ var isDynUserCookieExists = 'false';
  
 
 
-<script type="text/javascript">
-  
-    BBB.userCouponCount = '0';
 
-    
+<input type="hidden" id="address2ForQAS" value="">
+<script type="text/javascript">
+    BBB.userCouponCount = '0';
 </script>
 
+
+
+
+
+
+
+
+<script>
+	(function() {
+		var isHelixChatOn = 'true' === 'true' || document.body.className.indexOf('helixChatOn') > -1;
+		if (isHelixChatOn) {
+			bbbLazyLoader.js('//static.atgsvcs.com/js/atgsvcs.js', function() {
+				ATGSvcs.setEEID('200106308157');
+				bbbLazyLoader.js('//bedbathandbeyond.custhelp.com/rnt/rnw/javascript/vs/1/vsapi.js', '//bedbathandbeyond.custhelp.com/vs/1/vsopts.js', function() {
+					bbbLazyLoader.js('https://b4efb31dd5035fdb45ad-ccea74058a1f1b46af18742c23fc9ba3.ssl.cf2.rackcdn.com/llscripts//launcher.js', function() {
+						console.log('Helix Chat loaded.');			
+					});
+				});
+			});
+		}
+	}());
+</script>
  
 
 
 
 
- 
- 
- 
-
+	
+	
+	
+	
+		
 
 
 
