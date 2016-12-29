@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619060616id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050201id_/https%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResellerClub
-
-We take your Privacy seriously. Read our Privacy Policy to learn more. 
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, ResellerClub may become privy to the personal information of its clients including information that is of a confidential nature.
 
@@ -11,9 +9,6 @@ ResellerClub is strongly committed to protecting the privacy of its clients and 
 As a client we would also urge you to cooperate with ResellerClub in order to ensure the security of your confidential information, and it is recommended that each client necessarily choose their passwords carefully such that no unauthorized access is made by a third party. To make the password complex and difficult for others to guess, the customers should use combination of alphabets, numbers and special characters (like !, @, #, $ etc.). Each client should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it.
 
 ResellerClub undertakes not to disclose the information provided by the clients to any person, unless such action is necessary to:
-
-  
-
 
   * Conform to legal requirements or comply with legal process
   * Protect and defend ResellerClub's or its Affiliates' rights, interests or property
