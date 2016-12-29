@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144710id_/http%3A//www.ots.org.pk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229131903id_/http%3A//www.ots.org.pk/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | OTS
 
