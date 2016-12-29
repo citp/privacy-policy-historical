@@ -1,16 +1,34 @@
-> *The following text is extracted and transformed from the freeavg.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022939id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeavg.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193347id_/http%3A//www.avg.com/ww-en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | We are serious about your privacy | AVG
 
+### Our Privacy Policy has been recently updated
+
+## Why do you collect   
+my data?
+
+We use data to improve our products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings with non-personal data. More
+
+## How do you collect   
+my data?
+
+When you provide it to us directly, use our products or website, and through cookies and tracking beacons. More
+
+## What do you collect that   
+can identify me?
+
+We may collect your name, address, email, phone and SIM number, IP address, Device ID, location, and if you buy our products, payment information. More
+
 ## Our Privacy Policy
 
-We (AVG Technologies NV and our affiliates) last changed our privacy policy on October 15th, 2015. If you’re interested to see what changed, please click here
+  
+We (AVG Technologies NV and our affiliates) last changed our privacy policy on October 15th, 2015. If you’re interested to see what changed, please click here.
 
 ## Why do you collect my data?
 
-It’s simple. We provide products and services to help you secure your data, devices, and personal privacy. We use data to improve those products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings so that we can continue to offer them for free. 
+It’s simple. We provide products and services to help you secure your data, devices, and personal privacy. We use data to improve those products and services; provide support; send notifications, offers, and promotions; and to make money from our free offerings so that we can continue to offer them for free.
 
-We use data that can identify you, called personal data, to: 
+We use data that can identify you, called personal data, to:
 
   * Enable you to purchase and download products, obtain access to services and engage in offered activities;
   * Provide you information about virus alerts, new and upgraded products and services, and other information you have requested;
@@ -21,15 +39,16 @@ We use data that can identify you, called personal data, to:
 
 
 
-We use data that does not identify you, called non-personal data, for lots of purposes, including to improve our products and services and to help keep our free offerings free. In particular, we may use non-personal data to build anonymous data profiles and provide segmented marketing, generate aggregate statistical information, and to improve and administer our current products and create new products. 
+We use data that does not identify you, called non-personal data, for lots of purposes, including to improve our products and services and to help keep our free offerings free. In particular, we may use non-personal data to build anonymous data profiles and provide segmented marketing, generate aggregate statistical information, and to improve and administer our current products and create new products.
 
-You can be assured that we protect the information we collect. By using our products or services, you agree to the collection, use and sharing of your data in accordance with this Privacy Policy. Unless the specific product states otherwise, all AVG products and services are included under this Privacy Policy. 
+You can be assured that we protect the information we collect. By using our products or services, you agree to the collection, use and sharing of your data in accordance with this Privacy Policy. Unless the specific product states otherwise, all AVG products and services are included under this Privacy Policy.
 
-If you are really interested in this privacy stuff, we’ve put together [a few videos](http://www.youtube.com/officialavg) and to help explain what we do, why we do it, and how. 
+If you are really interested in this privacy stuff, we’ve put together [a few videos](http://www.youtube.com/officialavg) and to help explain what we do, why we do it, and how.
 
 ## How do you collect my data?
 
-We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking services here. Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats. 
+  
+We collect information in three ways: when you provide us information, automatically, when you use our website or products, and when provided to us by third parties. Much of our automatic collection is done through the use of things like cookies and tracking beacons. If you are curious what is meant by a cookie or a tracking beacon, please [click here](http://www.allaboutcookies.org/web-beacons/). You can find comprehensive information on how we use cookies and third-party tracking and analytics services [here](https://web.archive.org/ww-en/cookies). Additionally, if you have the option enabled, we may scan web traffic (including encrypted traffic) for known virus threats.
 
 ## What do you collect that can identify me?
 
@@ -121,15 +140,15 @@ If we are legally compelled to disclose your personal data to a third party, we 
 
 ## What rights do I have over my data?
 
-You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with. 
+You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with.
 
-You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). 
+You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time. Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected).
 
-You have the right to opt out of the use or collection of certain data, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/us-en/privacy-preferences). 
+You have the right to opt out of the use or collection of certain data by us or by third parties, including personal data and non-personal data, by following the instructions [here](https://web.archive.org/ww-en/privacy-preferences).
 
-You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/us-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts. 
+You have the right to opt-out of receiving our email newsletters, bulletins, or other information at any time by following the instructions [here](https://web.archive.org/ww-en/privacy-preferences) or the relevant unsubscribe process outlined in the applicable email or newsletter. Please be aware that our emails may include important or useful information about your AVG Products, including information about your license number or the status of your orders or accounts.
 
-You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular: 
+You have the right to expect us to protect your personal data and keep it safe. We work hard to protect AVG and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of the information we hold. In particular:
 
   * We abide by this Privacy Policy at all times with respect to all data that we collect from you;
   * We limit the use and disclosure of your personal data, and work to ensure that anyone with whom we share such information treats that information with the privacy and security it deserves; and
@@ -147,7 +166,7 @@ Changes to our privacy policy since the latest version include:
 
 
 
-Follow [this link](https://web.archive.org/us-en/privacy-archive) to download the current privacy policy or access previous versions of the AVG Privacy Policy. 
+Follow [this link](https://web.archive.org/ww-en/privacy-archive) to download the current privacy policy or access previous versions of the AVG Privacy Policy. 
 
 ## How can I contact you?
 
@@ -163,3 +182,5 @@ The Netherlands
 Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites. 
 
 We may also link to co-branded websites or products that are maintained by AVG Technologies and one or more of our business partners. Please note that these co-branded websites and products may have their own privacy policy, which we encourage you to read and understand.  
+
+Skip to content Skip to menu
