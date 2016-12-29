@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063404id_/http%3A//www.cheathappens.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042915id_/http%3A//www.cheathappens.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Cheat Happens
 
-This privacy policy discloses the privacy practices for Cheat Happens (http://www.cheathappens.com). If you have any question regarding this privacy policy, please contact Chris O'Rorke (see: [About Us](https://web.archive.org/web/20160616063404id_/http%3A//www.cheathappens.com/aboutus.asp)).
+This privacy policy discloses the privacy practices for Cheat Happens (http://www.cheathappens.com). If you have any question regarding this privacy policy, please contact Chris O'Rorke (see: [About Us](https://web.archive.org/web/20161229042915id_/http%3A//www.cheathappens.com/aboutus.asp)).
 
 Cheat Happens is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Cheat Happens collects information from our users at several different points on our website.
 
