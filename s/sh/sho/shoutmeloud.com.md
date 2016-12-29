@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630204016id_/http%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmeloud.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052624id_/http%3A//www.shoutmeloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.shoutmeloud.com](http://www.shoutmeloud.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.shoutmeloud.com](https://www.shoutmeloud.com/)
 
 **Your Consent**
 
@@ -57,5 +57,7 @@ This policy was last modified on 08/03/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.shoutmeloud.com  
+> [Home](https://www.shoutmeloud.com/)
+
+  
 admin@shoutmeloud.com
