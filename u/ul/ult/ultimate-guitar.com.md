@@ -1,101 +1,63 @@
-> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617185000id_/https%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-guitar.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044709id_/https%3A//www.ultimate-guitar.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Statement
 
-## Effective as of May 17, 2013
+For More Information, see our full [Privacy Policy](https://web.archive.org/about/privacy-full.htm)
 
-We at Ultimate-Guitar.com respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you set up an account, register for a contest or sign up for a specific online transaction). 
+## Privacy Statement
 
-## Information We Gather Automatically
+We are big on respecting your privacy, so we want to lay down this Privacy Statement to explain (1) what info we get from you when you use our website or apps, (2) how we may use your information, (3) your choices concerning how we may use your information and (4) the security measures we take to protect your information. 
 
-When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer's Internet Protocol ("IP") address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. If you access our site from a mobile or other device, we may collect information for that device (including operating system, browser, type of device) is gathered in order to facilitate our mobile operations and to assure an efficient mobile experience for you. We may use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
+## Automatically Collected Non-Personal Info
 
-Among the purposes for which we may use such generally non-personally identifying information is for identification purposes in the event of an emergency threatening life or property, or where proper legal process allows using such information. For instance, we may use your IP address or other automatically recorded information, in cooperation with your Internet provider, to attempt to identify you if it is necessary to contact you or to bring legal action against you because you are violating the Terms of Service for use for this site, may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, or may be adversely affecting other users of this site or anyone else who could be harmed by your activities.
+When you visit Ultimate Guitar, certain non-personally identifying information is recorded automatically by the standard operation of our servers in order to make things work and to create a cool online experience for you. 
 
-## Personal Information You Provide To Us
+## Personal Information You Provide To Ultimate Guitar 
 
-We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you: (1) complete an online registration form (e.g., registering for an account, various sign-up forms for receiving email newsletters, registering for special offers, entering a contest/sweepstakes or responding to a survey); (2) fill out an order form to request information; (3) register to participate in message boards and chat rooms (if any) and other community features; or (4) purchase any products or services from us or another Ultimate-Guitar.com business.
+For example, you may provide info to us if you: (1) complete an online registration form, (2) contact our customer support team, (3) fill out an order form to request information; (4) register to participate in message boards and chat rooms (if any) and other community features; or (5) purchase any products or services from us. 
 
-In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, phone number, and, where appropriate, a valid credit card number with expiration date (collectively, "Personal Information"). In addition, we may collect other non-personally identifying information such as your date of birth, gender, country of residence, language preference, hobbies and other information regarding your interaction with our site such as your viewing and listening habits, preferences and other customized activities in which you participate. Of course, you never have to answer any of the questions we ask you (nor choose to view or listen to any multimedia content or otherwise interact with our site), but refusal to do so may limit the products or services we can offer or provide to you.
+## How Can Your Personal Information Be Used? 
 
-When you provide Personal Information to us, we may use that data to create a " **My Profile** " page for you, which will be held in a database using reasonable security measures to protect the data from unauthorized access. Others outside Ultimate-Guitar.com will not be allowed to see the data on your **My Profile Page** except with your consent (see below). If you register to set up an account, you will be able to access your **My Profile** page at any time in order to update your individual Personal Information listed therein (see below under "How Can You Correct or Review Your Personal Information?" for more details).
+When you purchase products or services from Ultimate Guitar, we will use your personal info to fulfill your order and for customer service. We will not share your credit card information with a third party. We do not rent, sell or share credit card information with promotional partners or other third parties. 
 
-## How Can Your Personal Information Be Used?
+Ultimate Guitar keeps track of the pages you visit, what features and content you use and how frequently. This information may be used by Ultimate Guitar to improve your user experience; to generate and provide statistics regarding your use of the Ultimate Guitar; to deliver customized content and advertising within the Ultimate Guitar, and to develop new products and services. 
 
-Within Ultimate-Guitar.com
+When you give personal info to Ultimate Guitar in connection with a contest, we may share that info with the contest sponsor in order to deliver a prize that you won. 
 
-When you purchase products or services from Ultimate-Guitar.com we will use your Personal Information to fulfill your order and for customer service. Many online customers are particularly concerned about their credit card information, which we will share only as required by companies involved in your transaction (e.g., fulfillment, billing, mailing, storage or delivery services). We will not share your credit card information with any other Ultimate-Guitar.com company or third party unless that company needs the number for the fulfillment or delivery of your order. We do not rent, sell or share credit card information with promotional partners or other third parties.
+When you give personal info to Ultimate Guitar, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. **You can always choose not to allow** us to share your personal info with any other companies outside Ultimate Guitar. 
 
-We may have links to third party-operated sites that sell or license certain music, videos, or other goods mentioned, provided, or promoted on Ultimate-Guitar.com. Unless a site is within the Ultimate-Guitar.com domain (as generally indicated by a web address beginning with www.Ultimate-Guitar.com), it is not operated or controlled by Ultimate-Guitar.com, and any transactions that you may enter into with such sites will be subject to the privacy and security practices of the merchant with which you are transacting. Ultimate-Guitar.com and Ultimate Guitar are not responsible for the privacy and security practices of sites not in our immediate control.
+We may hire third party companies to provide services like analytics to improve Ultimate Guitar’s features. These third parties may have access to your personal information to the extent required to perform these tasks on our behalf and but are not allowed to disclose or use it for any other purpose. 
 
-We may use your Personal Information and other non-personally identifying information we collect to update you about our products or services or to contact you about exciting offers of new products or services that we believe may be of interest to you. You always have the option to receive fewer or no communications in the future from us by opting out. You may opt out by following the instructions included in the specific communication you no longer wish to receive or by sending an email [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com) to and explaining how you would like to modify your preferences.
+We may have links to third party-operated sites. Ultimate Guitar is not responsible for the privacy and security practices of sites not in our immediate control. 
 
-With Other Ultimate-Guitar.com-Related Companies
+## How Can You Correct or Review Your Personal Information? 
 
-When you give Personal Information to Ultimate-Guitar.com, we may share that data (together with non-personally identifying information you may provide) with other Ultimate-Guitar.com related companies. As a result of this sharing, you may receive communications from other Ultimate-Guitar.com related companies that include offers of products or services tailored to your interests. These communications might include, for example, emails or mailed literature about new products or services, promotions, discounts, sales, openings of new facilities or websites or other similar information.
-
-You have the option to receive fewer or no communications in the future from other Ultimate-Guitar.com-related companies that we may provide your information to by following the instructions included in the specific communication you no longer wish to receive, or by sending an email to [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com) and explaining how you would like to modify your preferences.
-
-Finally, without any specific approval from you, we may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about our user community that is partly based on information about you and your transactions with Ultimate-Guitar.com. For example, hypothetically, you might be one of 1,000,000 customers between the ages of 25 and 35. We may share such aggregate statistics with other Ultimate-Guitar.com-related companies without your consent.
-
-Contest Sponsors
-
-When you give Personal Information to Ultimate-Guitar.com in connection with a contest, we may share that data (together with non-personally identifying information you may provide) with the sponsor or sponsors of such contest. By entering a contest, you are allowing such sponsor or sponsors to use such Personal Information and to contact you in connection with the contest and in accordance with their own privacy policies.
-
-Outside Ultimate-Guitar.com
-
-When you give Personal Information to Ultimate-Guitar.com, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. In such instances, our general practice is to ask you to "opt-in" to share such data and information on, for example, a specific promotion, registration page or sweepstakes. However, in some instances, we may ask you to "opt-out" from sharing such data and information with a given promotional partner or third party advertiser in connection with a specific promotion, registration page or sweepstakes. If you prefer, you may give us blanket permission to share your Personal Information with all of our promotional partners and third-party advertisers. Conversely, you may also choose not to allow us to share your Personal Information with any other companies outside Ultimate-Guitar.com.
-
-If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by contacting [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com) and explaining how you would like to modify your preferences. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you.
-
-Without any specific approval from you, Ultimate-Guitar.com may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent.
-
-Finally, we may use your Personal Information in connection with third-party advertisers who serve ads to you while visiting an Ultimate-Guitar.com site. These third-party advertisers may use your Personal Information (not including any personally identifying information you may provide) in order to generate advertisements about goods and services that may be of interest to you. If you would like to know more about this practice and to obtain information about how third-party advertisers use your Personal Information to select advertisements please click [here](http://www.networkadvertising.org/).
-
-For Legal Enforcement Purposes
-
-We reserve the right to disclose your Personal Information, including credit card information, as required by law or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against you if you are violating the Terms of Service for this site or may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, other users of this site or anyone else who could be harmed by your activities. In such circumstances, we will, where possible, require such third parties to maintain the confidentiality of any Personal Information so disclosed.
-
-As an Asset of Ultimate-Guitar.com
-
-We thank you for entrusting us with your Personal Information, and also should inform you that for business purposes, the information that you provide and that we collect through your usage of the service is also an asset of Ultimate-Guitar.com and will become part of our normal business records. If Ultimate-Guitar.com or a substantial part of our business is sold or otherwise transferred to a third party, such as a legal successor in interest, your Personal Information may be transferred to that third party.
-
-## How Can You Correct or Review Your Personal Information?
-
-You can access, review, update and correct Personal Information you have provided us by clicking on the My Profile tab at the top of this page. If you prefer, you can also contact us by sending an email to [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com) and explaining how you would like to modify your preferences.
+You can access, review, update and correct personal info by clicking on the My Profile tab at the top of this page. If you prefer, you can also contact us by sending an email to [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com)
 
 ## Safeguarding Your Personal Information
 
-Ultimate-Guitar.com cares about the security of your Personal Information. We follow generally accepted industry security standards to safeguard and help prevent unauthorized access, maintain data security and correctly use such Personal Information. When you provide credit card information, we use secure socket layer (SSL) encryption for that data. 
+Ultimate Guitar cares about the security of your Personal Information. We follow generally accepted industry security standards to safeguard and help prevent unauthorized access, maintain data security and correctly use such personal info. However, we cannot guarantee the absolute security of that information during its transmission or its storage in our systems. 
 
-Despite many advances in information security technology and procedures, however, no commercially deployed method of information transfer over the Internet or electronic data storage is known to be 100% secure. As a result, while we do strive to use modern and commercially reasonable means to protect your Personal Information, we cannot guarantee the absolute security of that information during its transmission or its storage in our systems.
+## This is Not a Service for Kids
 
-## For Parents Concerning the Privacy of Information on Their Children
+We are a general audience Service that does not knowingly collect data or accept registrations from children under 13 years of age. 
 
-We are a general audience site that does not knowingly collect data or accept registrations from children under 13 years of age. Currently, we do not collect any age-specific data on our site. If, in the future, we decide to collect any age-specific data on our site, we will, at a minimum, take reasonable steps to ensure that any users who may be under 13 years of age (and who attempt to complete the registration process on our site) are directed to another site within the Ultimate-Guitar.com family which specifically complies with the requirements of the Children's Online Privacy Protection Act, or COPPA.
+## International Operations and Transfers Out of Switzerland and the EEA
+
+We may store information about users and visitors on servers located in the United States, and we may also store this information on servers and equipment in other countries. Personal Information collected within Switzerland and the European Economic Area (“EEA”) may be transferred to, and stored at, a destination outside of Switzerland and the EEA. 
 
 ## Cookies
 
-A "cookie" is a small text file that an Internet site can place on your computer's hard drive for record-keeping purposes. Cookies make using this site easier by, among other things, saving your passwords and preferences for you, keeping track of your shopping cart when you visit an online store or other similar purposes, and to help identify you whenever you return to our site, so you do not need to reenter your identification information. Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser's "Help" area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, some parts of this site will not function properly or may perform considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty downloading tablatures, watching videos or utilizing the Community Forums. Some of our web pages may contain electronic images (called "Clear GIFs", "Single-Pixel GIFs", or "Web Beacons") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a Clear GIF. Typically, though, Clear GIFs are very small (1-by-1 pixel size) files. They are often invisible on a web page, but their presence can be detected within many Internet browsers by setting your browser to view web page "sources". Clear GIFs are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We may also include Clear GIFs in our email products in order to determine information about the opening and reading of such emails. In addition, some advertising networks that serve ads on our web site may occasionally use Clear GIFs within banner advertisements. Clear GIFs set by Ultimate-Guitar.com generally are not used to collect, gather, monitor, or share personal information about our users, though they can be used in conjunction with cookies to record particular actions. We use Clear GIFs primarily to compile aggregated, anonymous statistics about web site or email product usage.
+We use “cookies” for things like saving your passwords and preferences for you, keeping track of your transactions, and to help identify you whenever you return. You can reset your browser to refuse all cookies or to alert you when a cookie is being sent. However, this may affect your user experience. 
 
-Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+## How to Contact Us 
 
-## Message Boards, Chat Rooms and Instant Messaging
+If you have any questions or complaints about your privacy, you can contact our customer service department at [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com). 
 
-If you visit a message board, chat room or utilize an instant messaging service on this site, if any, you are solely responsible for the content of messages you post there. You should be aware that when you voluntarily disclose Personal Information (for example, your name, street address, email address, or telephone number) on message boards, chat rooms or instant messaging services, that information can be read, collected and used by other users of these services and may result in unsolicited messages, both commercial and otherwise. You agree that by participating in such online public forums, you will not use such forums for any purpose that is unlawful or prohibited by the Ultimate-Guitar.com community guidelines that may be in effect from time to time in connection with such service. We reserve the right to terminate your access to this site or to take other protective steps if you violate those terms.
+## Changes in This Privacy Policy 
 
-## Links to Other Sites
+We reserve the right to modify, alter or otherwise update our privacy rules at any time. 
 
-We do not endorse and are not responsible for the content or practices of web sites operated by companies outside of Ultimate-Guitar.com that may be linked to this site. You should not assume that their privacy policies or practices are the same as those followed by our company or by other Ultimate-Guitar.com companies. Visitors to any such web sites should refer to their respective privacy policies and practices. 
+##  For More Information, see our full [ Privacy Policy](https://web.archive.org/about/privacy-full.htm)
 
-## How to Contact Us
-
-If you have any questions or complaints about our Privacy Policy, you can contact our customer service department at [webmaster@ultimate-guitar.com](mailto:webmaster@ultimate-guitar.com). When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response. 
-
-## Changes in This Privacy Policy
-
-We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes that we consider material in our privacy practices, we will notify you in this space. We may also attempt to notify you of any such material changes to our privacy practices via email or by placing a notice on our home page.
-
-## Acceptance of This Privacy Policy
-
-By using this site, you consent to the collection and use of your Personal Information by Ultimate-Guitar.com in accordance with this Privacy Policy.
+This Privacy Statement was last updated on September 8, 2016.
