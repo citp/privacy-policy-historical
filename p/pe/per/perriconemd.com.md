@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528063841id_/http%3A//www.perriconemd.com/brand/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229204830id_/http%3A//www.perriconemd.com/brand/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Perricone MD
+# Privacy Policy
 
 We collect personally identifiable information from our users at several different points on the Site to process your Products order, fulfill your customer service needs and otherwise, as applicable. In order to purchase Products, utilize the Interactive Forums and/or access certain other Perricone MD® Offerings, you may be required to open an Account, or register to make a comment, by submitting a registration form or other data submit form (collectively, "Form"). The information that you must supply on the Form may include, without limitation: (a) your name; (b) your mailing address (and billing address where purchasing Products, Gift Cards or other Perricone MD® Offerings); (c) your e-mail address; (d) your daytime and evening telephone numbers; (e) your credit/debit card information (where purchasing Products, Gift Cards or other Perricone MD® Offerings with a credit/debit card); (f) your password; and/or (g) any other information requested by us on the Form. 
 
