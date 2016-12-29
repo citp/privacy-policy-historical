@@ -1,69 +1,69 @@
-> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210110727id_/http%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-junkie.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034220id_/https%3A//www.theme-junkie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Theme Junkie
+# Privacy Policy - Theme Junkie
 
-Theme Junkie is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, [www.theme-junkie.com](http://www.theme-junkie.com/) on the World Wide Web (the “Site”), as well as for Theme Junkie services that may be accessed through the normal use of our products (the “Services”). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete Theme Junkie Privacy Policy.
+## What Do We Do With Your Information?
 
-  * General Information
-  * Information Collection and Use
-  * If You Opt to Receive Communications, How We Will Contact You
-  * Site Functionality
-  * Security of Your Information
-  * Correcting/Updating Personal Information
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-### 1\. General Information
+## Consent
 
-Theme Junkie may periodically update this Privacy Policy. If so, Theme Junkie will post the updated Privacy Policy on this Site. Theme Junkie encourages you to review this Privacy Policy from time to time for any changes.
+How do you get my consent?
 
-By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY THEME JUNKIE AT THIS SITE.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-Please note that the Theme Junkie Users Forum (coming soon) is covered by its own privacy policy, which is available for review at any time.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-### 2\. Information Collection and Use
+### How do I withdraw my consent?
 
-You may decide whether to proceed with any activity that requests personally identifiable information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction. We do not collect information from individuals under the age of 13. If you are under the age of 13, we ask that you do not submit any personal information through the Site. If we have specific knowledge that an individual under the age of 13 has submitted personally identifiable information to the Site, we will delete such information permanently and without notice.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@theme-junkie.com.
 
-Except as described below, Theme Junkie will only disclose your personally identifiable information to third parties if acting under a good faith belief that such action is necessary (1) to conform to legal requirements; (2) to protect and defend the rights or property of Theme Junkie; (3) to enforce the Theme Junkie Terms of Conditions; or (4) in the event of a merger, acquisition or sale of all or substantially all Theme Junkie assets relating to the business in connection with which the information was collected. Theme Junkie collects personally identifiable information that can be divided into the following categories:
+## Disclosure
 
-**Theme Junkie Product Registration Information:**  Some Theme Junkie products ask you for certain personally identifiable information as part of the installation/registration process (including but not limited to your name, email address, credit card information and connection type and number of computers). Certain of this information is necessary in order to conclude the transaction, and for applicable products, to be eligible to receive technical support. If you provide us with personally identifiable information, and select the “Inform me about important updates and news” option on the purchase confirmation page or in the in the “Registration Information” section located in the “Configuration Panel” of the “Control Panel” in the Theme Junkie product, we use this information to send you communications, including informative emails/newsletters about Theme Junkie product upgrades, product updates, new products, and services, and to provide you with special offers that may be of interest to you, including paid advertisements from third parties. In the event you no longer wish to receive such information, you may choose to opt out of receiving further communications by complying with the procedures listed in the “Updating/Unsubscribing Your Email Address” section of this Privacy Policy. Except in the case of Partner Products (see below), Theme Junkie keeps personally identifiable information collected in the course of installation/registration of Theme Junkie products confidential and does not sell, trade, or exchange mailing lists with any organization.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-**Credit Card Information** : If you use a credit card to purchase products via this Site, your name as it appears on the credit card, the credit card number, expiration date and billing address will be encrypted as it passes over the Internet. Theme Junkie does not record or keep your credit card information for online credit-card transactions; rather such information is simply passed through to our contracted payment processing vendor. Theme Junkie may access such information through the payment processing company, but does not do so except to process refunds or adjustments and to the extent necessary in the event of nonpayment or disputed payments, or as may be necessary for Theme Junkie compliance, in Theme Junkie discretion, with applicable law.
+Payment:
 
-**Technical Support** : If you request technical support online, we will ask you for information necessary to complete the transaction such as your name, email address and information about your computer hardware, software, and the nature of the problem you are experiencing. In the course of providing support, your data may be transmitted to service providers that are under contract to Theme Junkie and have agreed to abide by the provisions of this privacy policy. Such transmissions of your data are encrypted and secure.
+If you choose a direct payment gateway to complete your purchase, then that processor stores your credit card data. Theme Junkie does not directly hold any credit card information.
 
-**Partner Application** : If you request participation in the partner program online, we will ask you for information necessary to complete the transaction such as company name, email address, and company profile.
+## Third-Party Services
 
-### 3\. If You Opt to Receive Communications, How We Will Contact You
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-**Email** : With your permission, Theme Junkie will send you communications, including informative emails/newsletters about product upgrades, product updates, new products, and services. These communications provide you with special offers that may be of interest to you. Theme Junkie uses a third-party program of outbound email technology to send email from our servers and does not collect information about you but does collect requests to unsubscribe.
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-### 4\. Site Functionality
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-**Cookies** : A “cookie” is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. Once you close your browser, the cookie simply terminates. For instance, by setting a cookie on our Site, you would not have to log in a password more than once, thereby saving time while on our Site. You may still use our Site if you reject the cookie. The only drawback to this is that you will be limited in some areas of our Site. For example, you will not be able to use certain features of our forum or other parts of the Site that offer customized settings.
+In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-**Log Files** : We (Theme Junkie and/or our contracted web analytics provider(s)) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results ofour marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users’ movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-**Links** : This Site contains links to other sites. Please be aware that we Theme Junkie are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site.
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
-**Newsletter** : If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
+### Links
 
-### 5\. Security of Your Information
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All Theme Junkie employees, and all external service providers who may process and/or store customer data, are briefed about the company’s privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom Theme Junkie contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
+## Security
 
-If you have any questions about the security at our Site, you can send an email to [support@theme-junkie.com](mailto:support@theme-junkie.com).
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-Please note that this email address will reject messages with attachments of any kind.
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-### 6\. Correcting/Updating Personal Information
+## Age of Consent
 
-You are free to update your information at any time directly through our Site. At your request, Theme Junkie will change your information; we may request evidence of your identity before doing so. Inasmuch as your information will never be used without your explicit consent, we are not able to update the email address to which you subscribe to Theme Junkie communications on your behalf. Should you wish to update the email address at which you receive communications from us, please see the next section (“Updating/Unsubscribing Your Email Address”) below.
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-To change your information, or request that your information be changed, please use one of the following options:
+## Changes to This Privacy Policy
 
-  * Log in at http://www.theme-junkie.com and click on “Your Account” link
-  * Send email to us at [support@theme-junkie.com](mailto:support@theme-junkie.com). Please note that this email address will reject messages with attachments of any kind.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
+## Questions and Contact Information
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@theme-junkie.com.
