@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614220900id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229085739id_/https%3A//www.hsn.com/article/privacy-policy/2578) for the most accurate reproduction.*
 
-# Privacy Policy at HSN.com
+# HSN
 
 HSN, Inc. Privacy Policy 
 
 Last updated: April 30, 2014 
 
-HSNi, LLC and HSN Interactive LLC (collectively, "HSN") are part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN TV and HSN2), catalogues (Cornerstone Brands), ecommerce (HSN.com and catalogue websites), and brick & mortar retail (Frontgate and Ballard Designs). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/). 
+HSNi, LLC and HSN Interactive LLC (collectively, "HSN") are part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN TV and HSN2), catalogues (Cornerstone Brands), ecommerce (HSN.com and catalogue websites), and brick & mortar retail (Frontgate and Ballard Designs). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/ "opens new window"). 
 
 At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. This Privacy Policy is intended to describe for you, as an individual who uses one or more of our websites, views our television programming, uses our mobile applications, places orders by phone, uses our other services, or who otherwise provides us with information through various means ("Services"), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We summarize below the basic information policies and practices in place for all HSNi Services. To read the entire Privacy Policy of HSN ("HSN Privacy Policy"), please [click here](https://web.archive.org/article/privacy-policy/4542). We encourage you to read the HSN Privacy Policy carefully when using our Services or transacting business with us. By using our Services or otherwise doing business with us, you are accepting the practices described in the HSN Privacy Policy. 
 
@@ -17,8 +17,8 @@ We may collect information that can identify you ("personal information"), such 
 We also may collect other types of information in the following ways when you use our online Services: 
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us to track users' movements around our online Services and to understand trends. 
-  * We may assign your computer or device one or more [cookies](http://www.hsn.com/cs/privacy_policy/default.aspx?o=%21BNPR0&cm_sp=Global-_-BN-_-Privacy#Cookies) which may collect information to facilitate access to our online Services and to personalize your online experience. 
-  * We may use standard Internet tools, such as [web beacons](http://www.hsn.com/cs/privacy_policy/default.aspx?o=%21BNPR0&cm_sp=Global-_-BN-_-Privacy#Web_Beacons), which collect information that tracks your use of our online Services and enables us to customize our online Services and advertisements. 
+  * We may assign your computer or device one or more cookies which may collect information to facilitate access to our online Services and to personalize your online experience. 
+  * We may use standard Internet tools, such as web beacons, which collect information that tracks your use of our online Services and enables us to customize our online Services and advertisements. 
 
 
 
@@ -30,7 +30,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
   * We do not provide any personal information to these companies. 
   * These companies may use tracking tools, such as cookies, to collect information about computers and/or devices used to view or interact with their advertisements. 
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
+  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/ "opens new window"), which offers consumers the ability to opt out of ad targeting by all member companies. 
 
 
 
@@ -69,10 +69,11 @@ Your choices [[read more](https://web.archive.org/article/privacy-policy/4542)]
 You may choose: 
 
   * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our Services; 
-  * To stop receiving promotional e-mails or newsletters from us by modifying your e-mail subscription settings [here](http://www.hsn.com/cust/emailalerts/default.aspx); 
-  * To delete or decline [cookies](http://www.hsn.com/cs/privacy_policy/default.aspx?o=%21BNPR0&cm_sp=Global-_-BN-_-Privacy#Cookies) by changing your browser settings, although if you do so, some of the features or services of our online Services may not function properly; 
+  * To stop receiving promotional e-mails or newsletters from us by modifying your e-mail subscription settings [here](https://web.archive.org/myaccount/communicationpreferences); 
+  * To stop receiving text messages by texting STOP to 69476 to be unsubscribed from HSN Customer Service Alerts or texting STOP to 47688 to be unsubscribed from Today's Special messages and HSN Alerts. If you text STOP to a Today's Special or HSN Alert, you will be unsubscribed from both. Consent to receiving text messages is not a condition of purchase.
+  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our online Services may not function properly; 
   * To review and update your personal information by contacting us at the e-mail address below or, if you have an online account for our Services, by logging into that account. 
-  * To learn about additional choices, [click here](https://web.archive.org/article/privacy-policy/4542). 
+  * To learn about additional choices, [click here](https://web.archive.org/article/privacy-policy/4542 "opens new window"). 
 
 
 
@@ -96,7 +97,7 @@ St. Petersburg, Florida 33729
 
 Your California Privacy Rights
 
-_California Residents_ : 
+**California Residents** : 
 
   * If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
 
@@ -126,7 +127,7 @@ We may allow our authorized service providers to serve cookies from our online S
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our online Services may not function properly. 
 
-We may allow third parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our Services. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our Services do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer or device, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
+We may allow third parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our Services. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our Services do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer or device, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/ "opens new window")). 
 
 Web Beacons : 
 
