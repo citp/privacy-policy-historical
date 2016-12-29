@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314091151id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033215id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
 
@@ -14,7 +14,7 @@ telephone provider's access charge
 
 You can track your order, update your details and claim your cashback all in your account. No need to call us
 
-[My Account](https://www.secure-mobiles.com/customer_login/login?wlcode=mobiles&abTest=mobilesc)
+[My Account](https://www.secure-mobiles.com/customer_login/login?wlcode=mobiles)
 
 ### Phone Selector
 
@@ -83,6 +83,8 @@ Tip - these cookies remember choices you have made to improve your website exper
 These cookies are used to deliver adverts more relevant to you, and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited Mobiles.co.uk, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from Mobiles.co.uk, once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you browsed a specific smartphone handset and then see deals for that handset) then this is enabled by targeting cookies.
 
 Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you.
+
+SaleCycle - SaleCycle collect information to enable us to send bespoke service emails to customer that cannot complete thier checkout jounrey. To opt out of SaleCycle tracking please visit: [SaleCycle Privacy Policy](http://www.salecycle.com/privacy-policy "SaleCycle") This will drop a presistent cookie on your machine, blocking the use of SaleCycle tracking. If you delete this cookie, the trakcing will resume. 
 
 By using this site, you agree to our use of cookies in the manner outlined above. If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies. Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site. To learn more about cookies [click here](http://www.allaboutcookies.org/ "About Cookies"), or to disable them [click here](http://info.evidon.com/companies?cc=gb&external_opt_out=true&opt_out=true&opt_out_only=true "Disable cookies").
 
