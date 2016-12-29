@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liberalamerica.org privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208113531id_/http%3A//www.liberalamerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberalamerica.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229190207id_/http%3A//www.liberalamerica.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - LiberalAmerica.org
+# Privacy Policy - portal.liberalamerica.org
 
 Privacy Policy for www.liberalamerica.org
 
