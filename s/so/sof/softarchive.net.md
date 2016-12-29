@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420044122id_/http%3A//sanet.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050228id_/https%3A//softarchive.la/privacy) for the most accurate reproduction.*
 
 # Privacy policy - SoftArchive
 
