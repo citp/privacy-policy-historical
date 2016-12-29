@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618004150id_/http%3A//www.stuff.co.nz/about-stuff/10648385/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035632id_/http%3A//www.stuff.co.nz/about-stuff/10648385/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - about-stuff | Stuff.co.nz
 
@@ -112,7 +112,7 @@ In addition, at any time, you may opt-out of receiving marketing communications 
 
 If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us using the details provided below. 
 
-**HOW CAN I ACCESS AND CORRECT MY PERSONAL INFORMATION?** ****
+**HOW CAN I ACCESS AND CORRECT MY PERSONAL INFORMATION?**
 
 You may request access to any personal information we hold about you at any time by contacting us (details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you. 
 
@@ -218,7 +218,7 @@ We will retain your information for the period necessary to fulfil the purposes 
 Opting-out means that the display advertising you see on our network may not be tailored to your interests or preferences on the web browser you are using. Anonymous usage data may, however, continue to be collected by us for other purposes (including those outlined above). 
 
 You can also manage cookies in your web browser privacy settings.   
-See Your Online Choices for more information. 
+See [Your Online Choices](http://www.youronlinechoices.com.au/opt-out/) for more information. 
 
 For more information regarding how we treat personal information and, in some cases, non-personal information, please refer to our Privacy Policy. 
 
