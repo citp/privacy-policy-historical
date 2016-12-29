@@ -1,40 +1,33 @@
-> *The following text is extracted and transformed from the sg-host.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141923id_/http%3A//www.hostsg.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sg-host.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042602id_/https%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
 
-# Singapore Web Hosting FAQ
+# SiteGround Web Hosting - Privacy Policy
 
-Privacy Policy   
+## SiteGround Privacy Policy
 
+The Privacy policy below describes how SiteGround collects and uses information about its customers and website visitors (You or The Users).
 
-When you register for a HostSG account or reseller program, HostSG obtains contact information, such as your name, email and postal address, and phone number, as well as payment information, such as your credit card number. When you use HostSG's service, our systems record information about your session, such as the dates and times of use, and the specific Internet address assigned to you. To do this we may use standard web server log files as well as session or persistent based cookies. HostSG also tracks requests you make for information on HostSG's products and services, and responses you provide to HostSG surveys. Finally, HostSG keeps records of your payment history and communications you have with HostSG's support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), HostSG does not keep track of what sites you visit when you are using the service as an identifiable individual.
+### What information does SiteGround collect from its Users?
 
-**What Information Does HostSG Gather?**
+SiteGround collects different types of personally identifiable information in order to be able to provide its services to You. Such information may include but is not limited to name, mailing address, telephone numbers, email addresses, credit card information and other. Users provide all such information voluntarily through various order forms, email messages sent to SiteGround, LiveChat, telephone, etc.
 
-When you register for a HostSG account, HostSG obtains contact information, such as your name, address, and phone number, as well as payment information, such as your credit card number. When you use HostSG's service, our systems record information about your session, such as the dates and times of use, and the specific Internet address assigned to you. HostSG also tracks requests you make for information on HostSG's products and services, and responses you provide to HostSG surveys. Finally, HostSG keeps records of your payment history and communications you have with HostSG's support team. Except in extraordinary circumstances (when we receive a court order, to protect the company's rights or property, or in emergencies where someone's safety is at risk), HostSG does not keep track of what sites you visit when you are using the service.
+SiteGround also collects different types of non-personally identifiable information that may include referral URL's, Users' IP addresses, Users' use of website, information about the browsers used by the User, etc. Some of this information is collected through Cookies, which are small pieces of data that are sent to your browser from a web server and are stored on your computer's hard drive and help SiteGround identify you as the User. You have the choice to modify your browser and thus to reject the Company's cookies.
 
-**What Does HostSG Do With This Information?**
+### How does SiteGround use the information it collects?
 
-HostSG uses the information it gathers in order to provide you with the best online experience possible. As you might expect, contact information is used to contact you concerning your account and our company. Payment information is used to validate your identity and to bill you for the services and products you order. Information on your online sessions is used to allocate system resources and to ensure compliance with HostSG's Service Level Agreements (SLAs). Information on your communications with HostSG's support team is used to address the issues raised by your communications. In addition, HostSG regularly sends out mailings regarding the operation of its service and other goods and services that it believes may be of interest to you. You may request that HostSG not send you mailings relating to other goods and services at the URLs listed in this section or send an e-mail to support@HostSG. HostSG reserves the right, however, to send bulletins and other important information regarding the service at its discretion.
+SiteGround uses all collected information primarily for provisioning the services you have ordered and providing you with ongoing User support. We may also use your information for sending periodic emails announcing important service changes, new features, technical issues updates and news, promotional activities, etc. You can decide NOT to receive such emails by replying to any of them with "Unsubscribe" in the subject. We may also use your information to send you SMS notifications in case of issues which may lead to service interruption of your account(s). User information is also used for improving SiteGround's business processes to make your overall user experience more rewarding. Your information can also be used for resolving ownership and other disputes and enforcing agreements between you and SiteGround.
 
-**Does HostSG Share Subscriber Information With Third Parties?**
+### Does SiteGround disclose Users' information to third parties?
 
-HostSG will not share or disclose information regarding its subscribers except (i) when we receive legal process such as a court order or are required to disclose the information by law ; (ii) when reasonably necessary to protect the company's rights or property; (iii) in emergencies where someone's safety is at risk; (iv) or as required for domain name registration (e.g.whoislookup).
+All personal information collected by SiteGround is treated as strictly confidential. We may disclose User's personal information if required by law. We may disclose part of Users' personal information to our business partners, independent contractors or other third parties when this is required in order to provide the services you have ordered. For example: your Credit card information may be provided for payment confirmation and verification to the partnering entity involved in processing your payment; the personal information of anyone who uses SiteGround's domain name registration services is available in the public WHOIS searches as required by the domain name registration regulations; your personal and business related information may be provide to the SSL certificate provider with whom SiteGround cooperates for providing you with the SSL certificate service, etc. The use of any data provided by SiteGround to these partnering service providers is governed by their own Privacy Policies and is beyond SiteGround's control.
 
-You should be aware, however, that any information that you disclose in a public space such as a bulletin board, or personal Web site, HostSG's DNR domain registration is freely available to anyone else visiting that space. HostSG cannot safeguard any personally identifiable information you disclose in these locations, nor can it ensure that information you voluntarily supply to third parties remains private. Please review the privacy policies of third party sites you frequent to ensure that your privacy preferences are respected.
+SiteGround may transfer Users' personal information on the occasion of a sale of the company's business.
 
-**Security**
+### What does SiteGround do to prevent loss, misuse or alteration of Users information?
 
-The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+We guarantee that we strictly apply all industry standard security measures to protect your personal information. Such measures include without limitation: data encryption, password protected access to Users' personal information, limited access to the sensitive data, encrypted transfer of sensitive data submitted by the User through SiteGround's order forms, login forms etc. There may be security and privacy limitations, which are beyond SiteGround's control. By choosing to provide personal information to SiteGround you understand and agree that the security, integrity and privacy of your information cannot be 100% guaranteed.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security
+SiteGround reserves the right to change this Privacy Policy at any time. Such changes will become effective and binding after their posting on the SiteGround.com website. You agree to regularly review this Privacy Policy for revisions and updates. By continuing to use SiteGround's services and website after any posted revision, you agree to those changes.
 
-**How Can I Correct or Update the Information?**
+To report an incident of abuse, please email [abuse@siteground.com](mailto:abuse@siteground.com).
 
-You may correct that information by updating us with your new information to support@HostSG. Please keep in mind that under HostSG's Service Level Agreements (SLAs), subscribers are required to provide HostSG with current contact and billing information. HostSG may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account. 
-
-**What Happens to the Information if I Leave HostSG?**
-
-If you ever leave HostSG, HostSG will normally delete your personally identifiable account information twelve months after the account is cancelled, unless we are under a legal obligation to retain it. We preserve account information for this short period of time in the event you wish to reactivate your account and retain your previous e-mail address. However, in the event of any accounting irregularities, HostSG reserves the right to retain your contact and billing information as necessary to resolve the matter. 
-
-**Changes to This Policy and Questions About Privacy**
-
-HostSG reserves the right to make changes to this policy. Minor changes will become effective immediately upon posting them to this privacy statement. However, those changes that are material will become effective 30 days after notice of them is posted here, on the site or emailed or emailed with an appropriate effective time frame. If you have any questions about this privacy policy, please send them via e-mail to support@HostSG.
+Last update: 15 October 2012
