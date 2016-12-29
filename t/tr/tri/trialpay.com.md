@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630075735id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042114id_/http%3A//www.trialpay.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrialPay
 
 ## TrialPay Privacy Policy
 
-Last modified: June 1, 2015
+Last modified: July 15, 2016
+
+Note: If you are a resident of Canada, please also see Canadian-specific privacy policy terms further below.
 
 We at TrialPay, Inc. and the subsidiaries we own or control (collectively, "TrialPay") respect your privacy. We are publishing this version of the TrialPay Privacy Policy (the "Policy") to clearly disclose our practices and approach to data privacy and data protection.
 
@@ -240,9 +242,17 @@ Please note that this Policy may change from time to time. We will post any Poli
 
 We are committed to privacy and are involved in current industry initiatives to promote privacy and protect personal information. Our privacy practices will evolve to meet new requirements, standards, technologies, and customer preferences. We welcome your opinions and insights on this evolution.
 
-  
-V6.0  
-June 1, 2015
+**Canadian Residents: Additional Privacy Policy Terms (as of July 13, 2016)**
+
+Other than for the specific purposes set forth herein, we will not disclose your personal information to any third parties without your prior express consent or unless we are legally required to. We will not contact you without your express permission except as outlined above or in connection with fulfilling a promotional offer for which you have specifically enrolled.
+
+We will not send you commercial electronic messages without your prior express consent. And, if you consent to receive such messages, you may unsubscribe at any time using the unsubscribe mechanism provided in our commercial electronic messages. Such unsubscribe mechanism shall be fulfilled within 10 business days.
+
+Personal Information may be processed and stored in other countries. While we use contractual and other measures to ensure protection of personal information, governments, courts, law enforcement or regulatory agencies in these other countries may be able to obtain disclosure of personal information through the laws of these countries.
+
+If you have any questions, comments or concerns about these Canadian- specific terms and/or the way they impact you, please feel free to email us at askvisacanada@visa.com.
+
+_Version 6.0 (July 15, 2016)_
 
   * [View V5.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/9-26-2014)
   * [View V4.0 of Privacy Policy](http://www.trialpay.com/legal/privacy-policy/archive/1-13-2014)
