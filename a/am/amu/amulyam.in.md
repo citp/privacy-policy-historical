@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amulyam.in privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619114125id_/http%3A//www.amulyam.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amulyam.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051308id_/http%3A//www.amulyam.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Amulyam Privacy Policy
 
-Amulyam.in, is committed to protecting your privacy. This Privacy Policy applies to Amulyam.in and governs data collection and usage including Amulyam website and email services. This Privacy Policy is effective upon acceptance in registration for new registering members. 
+Amulyam.in, is committed to protecting your privacy. This Privacy Policy applies to Amulyam.in and governs data collection and usage including Amulyam website, amulyam android app and email services. This Privacy Policy is effective upon acceptance in registration for new registering members. 
 
 We firmly believe that both our Members and our clients benefit because we market only to people who have given us express permission to do so. 
 
@@ -58,6 +58,18 @@ Many of Amulyam advertisers, shopping affiliates and merchants also utilize thir
 We and our advertisers currently use third-party cookies and clear pixel GIFs (also referred to as "web beacons") to measure page views on both Amulyam and advertisers' web sites and email responses. These devices allow us to identify unique visitors to Amulyam' site, member visits to advertisers' sites, and act as a counter for ongoing monitoring of site, email and corresponding future transaction activity related to a specific offer for both Amulyam.in and its advertisers. These commonly used counters collect absolutely no personal information and, as always, this technology is only used to enhance the program and make it more relevant to your personal interests. 
 
 Third-party cookies are also used to count unique page views, email responses and future transaction activity corresponding to specific offers. Amulyam will also capture and store your transaction details, which may include the items and quantities purchased, purchase price, date and time of purchase. This information is used to credit Incentive Money for free mobile recharge and movie tickets and to adjust your account balance in the event of returns and exchanges. This information is also used by the Member Services department while assisting you in resolving account inquiries. We may also use your transaction information to provide you more timely relevant offers, products and services. 
+
+#### Information collected from android app
+
+Amulyam android app requires your permission to collect following information. This information will be used to provide customised service to our users and to prevent un-authorised use of our services.
+
+1\. Identity - Details about unique identifiers of your device is collected to prevent fraud in using our services and to provide better signup process on amulyam.
+
+2\. Contacts - Email accounts on your device are required to provide better registration process on amulyam. And, your email may be used to reach you again in case you uninstall amulyam app.
+
+3\. Location - Location of your device is required to provide customised experience when you are about to browse any partner websites which require your location.
+
+4\. SMS - Access to read SMS is required to automatically verify your mobile number without entering OTP during registration or forgot password process in amulyam.
 
 #### Information Collected Via Online Surveys, Sweepstakes and Other Promotions
 
