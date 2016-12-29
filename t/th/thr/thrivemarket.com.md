@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411112123id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063926id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrive Market
-
-Privacy Policy
 
 Effective date: October 21st, 2015
 
