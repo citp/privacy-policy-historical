@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the struq.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616053734id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the struq.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229060434id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
@@ -25,14 +25,18 @@
 <meta property="og:description" content="Learn about the Quantcast Privacy Policy and our commitment to protecting your data, brand safety and brand safe advertising.">
 <meta property="og:url" content="https://www.quantcast.com/privacy/">
 <meta property="og:site_name" content="Quantcast">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Learn about the Quantcast Privacy Policy and our commitment to protecting your data, brand safety and brand safe advertising.">
+<meta name="twitter:title" content="Quantcast Privacy Policy | Quantcast">
+<meta name="twitter:site" content="@Quantcast">
+<meta name="twitter:domain" content="Quantcast">
+<meta name="twitter:creator" content="@Quantcast">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="Quantcast » Privacy Policy Comments Feed" href="https://www.quantcast.com/privacy/feed/">
 <link rel="stylesheet" id="yarppWidgetCss-css" href="https://www.quantcast.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="application-css" href="https://www.quantcast.com/wp-content/themes/quantcast/assets/css/application.css?ver=a061822c2a4f52a68391ac12d7d3ff73" type="text/css" media="all">
+<link rel="stylesheet" id="application-css" href="https://www.quantcast.com/wp-content/themes/quantcast/assets/css/application.css?ver=02026f68a1714cbbf08185e343d0b0e4" type="text/css" media="all">
 <script type="text/javascript" src="https://www.quantcast.com/wp-content/themes/quantcast/assets/js/libs/modernizr.js?ver=e73e2a3e0657cbe23be8ffb986e30177"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.quantcast.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.quantcast.com/wp-includes/wlwmanifest.xml"> 
+<script type="text/javascript" src="https://www.quantcast.com/wp-content/themes/quantcast/assets/js/sha3.min.js?ver=4.2.2"></script>
 <meta name="generator" content="WordPress 4.2.2">
 <link rel="shortlink" href="https://www.quantcast.com/?p=275">
 <!--
@@ -43,12 +47,11 @@
     });
 </script>
 -->
-<meta name="generator" content="WPML ver:3.1.9.7 stt:1,4,3,27,66,65,52;0">
+<meta name="generator" content="WPML ver:3.1.9.7 stt:1,4,3,27,65,52;0">
 <link rel="alternate" hreflang="en-US" href="https://www.quantcast.com/privacy/">
 <link rel="alternate" hreflang="de-DE" href="https://www.quantcast.de/datenschutz/">
 <link rel="alternate" hreflang="fr-FR" href="https://www.quantcast.fr/politique-de-confidentialite/">
-<link rel="alternate" hreflang="it-IT" href="https://www.quantcast.it/informativa-sulla-privacy/">
-<link rel="alternate" hreflang="en-AU" href="https://www.quantcast.com.au.au/privacy-policy/">
+<link rel="alternate" hreflang="it-IT" href="https://www.quantcast.it/privacy/">
 <link rel="alternate" hreflang="en-GB" href="https://www.quantcast.co.uk/privacy-policy/">
 <link rel="alternate" hreflang="sv-SE" href="https://www.quantcast.se/integritetspolicy/">
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
@@ -57,11 +60,11 @@
 
 
 
-
 </head>
 
 
 <body class="page page-id-275 page-template-default">
+
 
 <header class="page-header" data-behavior="sticky_header header_layout">
 	<div class="logo"><a href="https://www.quantcast.com" id="Nav_Logo">Quantcast</a></div>
@@ -79,7 +82,7 @@
 									<a href="#" id="Nav_Login" data-trigger="login">Login</a>
 
 					<section class="flyout-box">
-						<form action="https://www.quantcast.com/user/login?jump=loginy" method="post" commandname="signupLogin" name="userlogin">
+						<form action="https://www.quantcast.com/user/login?forward=/measure/home" method="post" data-behavior="login" name="userlogin">
 							<div class="form-row">
 								<div class="control control--full">
 									<input type="email" id="wpUsername" name="wpUsername" placeholder="Email">
@@ -94,9 +97,17 @@
 
 							<div class="form-row">
 								<div class="control control--full">
-									<input type="submit" value="Log In" onclick="trackEvent('Header MiniLogin','Log In')" class="btn--fill-blue">
+									<input type="submit" id="loginSubmit" value="Log In" onclick="trackEvent('Header MiniLogin','Log In')" class="btn--fill-blue">
+									<img id="loginSpinner" style="padding-top:8px;margin-left:auto;margin-right:auto;display:block;" src="/wp-content/themes/quantcast/assets/images/loader.svg" alt="loading..">
 								</div>
 							</div>
+
+
+							<input type="password" id="hashPassword" name="hashPassword" style="display:none;">
+							<input type="password" id="rawPassword" name="rawPassword" style="display:none;">
+							<input type="hidden" id="email" name="email" style="display:none;">
+							<input type="hidden" id="grant_type" name="grant_type" style="display:none;" value="password">
+							<input type="hidden" id="pageId" name="pageId" style="display:none;">
 						</form>
 
 						<footer class="flyout-box__footer">
@@ -228,8 +239,8 @@
 <h3>Other Websites and Apps</h3>
 <p>We contractually require our Quantcast Partners to ensure that their sites and apps containing Quantcast Tags post adequate privacy policies and otherwise protect the privacy rights of their visitors. &nbsp;However, the fact that we link to a particular site or app or receive data from a site or app, does not mean that we endorse that site or app, nor its privacy practices.&nbsp; These other websites have their own terms of use and privacy policies, and we would encourage you to read those terms and policies when you visit those websites.</p>
 <h3>Quantcast Data Control</h3>
-<p>The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 201 3rd Street #2, San Francisco, CA 94103.&nbsp; Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.</p>
-<p>The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at Glandore Business Centre, Fitzwilliam Hall, Fitzwilliam Place, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.</p>
+<p>The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 795 Folsom Street, San Francisco, CA 94107. Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.</p>
+<p>The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at 10-12 Hogan Place, Grand Canal St, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.</p>
 <h3>Our Memberships and Affiliations</h3>
 <p>Quantcast is a member of the Network Advertising Initiative (NAI) and is in compliance with the NAI’s <a href="http://www.networkadvertising.org/2013_Principles.pdf">2013 Code of Conduct</a>.&nbsp; Quantcast is also a member of the Digital Advertising Alliance (“DAA”) and is in compliance with the DAA’s <a href="http://www.aboutads.info/obaprinciples">Self-Regulatory Principles</a> for Online Behavioral Advertising. Quantcast is also a member of the European Digital Advertising Alliance (“EDAA”) and is in compliance the <a href="http://www.edaa.eu/european-principles/">EDAA’s Self-Regulatory Principles</a>. Please see the “Opt Out” section of this Privacy Policy for more information about the NAI’s, DAA’s, and EDAA’s opt-out pages.</p>
 <p>Quantcast is also a member of TRUSTe’s Data Collection Program, which means that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with&nbsp;<a href="http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/">TRUSTe’s program requirements</a> including transparency, accountability, and choice regarding the collection and use of information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us through one of the methods listed here. If you are not satisfied with our response you can contact&nbsp;TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint">here</a>. The TRUSTe program only covers the collection and use practices for data that we obtain through our Measure and Advertise products.</p>
@@ -239,8 +250,8 @@
 <p>If you have any questions about this Privacy Policy, please let us know.</p>
 <p>Persons in the United States, please contact:</p>
 <p>Quantcast Corp.<br>
-201 Third Street, 2nd Floor<br>
-San Francisco, CA 94103<br>
+795 Folsom Street<br>
+San Francisco, CA 94107<br>
 Attn: Legal Department<br>
 Email:&nbsp;<a href="mailto:privacy@quantcast.com">privacy@quantcast.com</a></p>
 <p>Persons outside of the United States, please contact:</p>
@@ -290,7 +301,7 @@ Email: <a href="mailto:privacy.qil@quantcast.com">privacy.qil@quantcast.com</a><
 <li id="menu-item-19700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19700"><a href="https://www.quantcast.com/html-sitemap/" id="Footer_SiteMap">Site Map</a></li>
 
           <li class="language-switcher">
-        				<a href="#footer_language_list" id="Footer_International" data-behavior="popover">International</a><div id="footer_language_list" class="popover"><ul><li><a href="https://www.quantcast.se/integritetspolicy/" id="Footer_International_Svenska">Swedish - Svenska</a></li><li><a href="https://www.quantcast.it/informativa-sulla-privacy/" id="Footer_International_Italiano">Italian - Italiano</a></li><li><a href="https://www.quantcast.co.uk/privacy-policy/" id="Footer_International_English UK">English UK</a></li><li><a href="https://www.quantcast.fr/politique-de-confidentialite/" id="Footer_International_Français">French - Français</a></li><li>Worldwide - English</li><li><a href="https://www.quantcast.de/datenschutz/" id="Footer_International_Deutsch">German - Deutsch</a></li><li><a href="https://www.quantcast.com.au.au/privacy-policy/" id="Footer_International_Australian">English AU - Australian</a></li></ul></div></li>
+        				<a href="#footer_language_list" id="Footer_International" data-behavior="popover">International</a><div id="footer_language_list" class="popover"><ul><li><a href="https://www.quantcast.se/integritetspolicy/" id="Footer_International_Svenska">Swedish - Svenska</a></li><li><a href="https://www.quantcast.it/privacy/" id="Footer_International_Italiano">Italian - Italiano</a></li><li><a href="https://www.quantcast.co.uk/privacy-policy/" id="Footer_International_English UK">English UK</a></li><li><a href="https://www.quantcast.fr/politique-de-confidentialite/" id="Footer_International_Français">French - Français</a></li><li>Worldwide - English</li><li><a href="https://www.quantcast.de/datenschutz/" id="Footer_International_Deutsch">German - Deutsch</a></li></ul></div></li>
           
         </ul>
       </nav>
@@ -319,7 +330,7 @@ var ellipsis = {"read_more":"Read more"};
 var qc_locale = {"validations":{"en":{"required":"This value is required","conditionalrequired":"This value should be a multiple of %s","type":{"email":"This value should be a valid email.","url":"This value should be a valid url."}}},"contact_success_msg":"Thanks[Name]. We'll be in touch soon.","careers":"careers"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.quantcast.com/wp-content/themes/quantcast/assets/js/application.min.js?ver=426ee9b36e33dd8d44caa0c2f9b338f9"></script>
+<script type="text/javascript" src="https://www.quantcast.com/wp-content/themes/quantcast/assets/js/application.min.js?ver=d65378bfc042ec743d62ca135aeeb817"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.quantcast.com\/"};
@@ -332,6 +343,6 @@ var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.quantcast.com\
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 236/582 queries in 0.556 seconds using disk
+Database Caching 571/594 queries in 0.183 seconds using disk
 
- Served from: localhost @ 2016-06-15 22:37:38 by W3 Total Cache --></body></html>
+ Served from: localhost @ 2016-12-28 22:04:36 by W3 Total Cache --></body></html>
