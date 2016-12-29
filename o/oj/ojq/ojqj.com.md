@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207051341id_/http%3A//www.ojqj.com/%3Fpage_id%3D1641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040649id_/http%3A//ojqj.com/%3Fpage_id%3D562) for the most accurate reproduction.*
 
-# Home Improvement and Living Tips » Privacy Policy
+# privacy policy – Green health Fitness
 
-When you visit our Site you may provide us with two types of information: personal information you knowingly choose to disclose and Site use information collected on an aggregate basis using server logs, “cookies” and other technologies as you and other browsers search our Site. HSS does not use the information provided by a visitor for any purpose other than to provide answers and service to visitors who contact HSS. The information you provide in the ordering process will be used to fill your order and to understand your needs so that we may serve you better. Except as set forth in this statement, HSS will not disclose any personal information to third party companies unless we receive your prior permission. In the following limited circumstances we will consider, and may release personal information to third parties: (1) to fulfill your order; (2) to comply with valid legal requirements such as law, regulation, search warrant, subpoena or court order; or (3) in special cases, such as protecting the rights, property or safety of HSS’ staff.
+**Terms and Conditions**  
+**Legal Disclaimer**  
+Our website provides this site on an ‘as is’ basis and makes no representations or warranties of any kind with respect to this site or its contents and disclaims all such representations and warranties.
 
-Similar to other commercial Sites, our Site may use standard technologies such as “cookies” and web server logs to collect information about how our Site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and after our Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+**Accuracy**  
+While every effort is made to ensure that the information contained in this site is correct, Our website makes no warranty express or implied as to the nature or accuracy of any such material to the extent permitted by applicable law. Our website may make changes to any content and information contained on this site, at any time without notice.
 
-Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a Site. They are small pieces of data that are stored by a user’s web browser on the user’s hard drive. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that Site by the same user or to use the information to streamline the user’s transactions on related web pages. This makes it easier for a user to move from web page to web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+**Copyright**  
+The legal ownership and any copyright or other intellectual property rights in the site and its design, text, graphics, software and all other material on the site belong to us at all times, unless otherwise stated. You may only download content or view and/or print hard copies for private or non commercial use and no part of the site or its material shall otherwise be produced, transmitted or made available on a network without the prior written permission of us.
 
-We collect the personal information that you provide us, such as when you; purchase services online or by telephone, or contact us through our website or by telephone through our Customer Care Center. We do not sell, rent, share or disclose personal information to third parties without your prior consent, except in the limited circumstances described below:
+**Framing**  
+Any framing of this site is prohibited without the prior written permission of us.
 
-**Order Fulfillment**  
-We may provide to a third party information that is necessary to fulfill an order you have placed with us, for example; providing a shipping carrier your address and if you pay by a credit or debit card, your card number and sales transaction information are passed on to the card processor and/or issuer (including their service providers such as fraud verification services).
+**Privacy Policy**  
+We committed to ensuring that your privacy is protected. This policy explains how us uses any information collected about you.
 
-**Affiliated Contractors**  
-We may contract or refers others to perform tasks or services. If any of our contractors need access to your personal information, we require that they promise to use the information only to perform the tasks we have engaged them to perform. We also require that they maintain the confidentiality of the information and/or return the information to us when they no longer need it.
+What information is collected and why?  
+When you make an enquiry or join our mailing list you provide your name and contact details. This allows us to fulfil the request and make a follow up telephone call or email. The information also allows us to answer your enquiry or keep you up to date with market or product developments.
 
-Personal information we collect is stored electronically. When you enter personal information online, that information is encrypted using a security protocol called SSL (Secure Sockets Layer), which encrypts all information prior to transmitting it over the Internet. We also use SSL to allow you to securely view your online account and registration information. We collect, process and maintain payment information, including credit card information, in compliance with the data security rules adopted by credit card companies such as Visa, MasterCard and American Express.
-
-Although we have taken technical, administrative and physical measures to protect your information from loss, misuse, or alteration by third parties, there is always some risk involved in transmitting information over the Internet. We take strides to protect all our information, but no protection regime is perfect, and information may be lost or stolen in extreme circumstances. You can always contact us in order to correct your personal information in our systems, update any other information that you have provided to us, or to request that promotional materials not be sent to you.
-
-HSS may change this Privacy Statement at any time by posting revisions to our Site. Your use of the Site constitutes acceptance of the provisions of this Privacy Statement and your continued usage after such changes are posted constitutes acceptance of each revised Privacy Statement. If you do not agree to the terms of this Privacy Statement or any revised policy, please exit the Site immediately.
-
-**Cookies & 3rd Party Advertisements**
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+Is the information transferred to a third party?  
+No. Our website does not sell, trade or rent your information to others.
