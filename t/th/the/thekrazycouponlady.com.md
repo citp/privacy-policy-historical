@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625092128id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekrazycouponlady.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032819id_/http%3A//thekrazycouponlady.com/krazy-coupon-lady-privacy-policy) for the most accurate reproduction.*
 
 # The Krazy Coupon Lady Privacy Policy - The Krazy Coupon Lady
 
@@ -29,15 +29,15 @@ Employee Access, Training and Expectations. Our ethical standards and employee p
 
 **Do we use cookies?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables sites or service provider’s systems to recognize your browser, and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables sites or service provider's systems to recognize your browser, and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools to you in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf, except to help us conduct and improve our business.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DoubleClick cookie enables it to serve ads to you based on your internet browsing history. You may opt out of the use of the DoubleClick cookie by visiting [Ad Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChMxcc5beDZXXi1AUmcT7HMsfRuXbvS0TkOoYRaC51pV-WpiKTOhl30xoOIOXWVkAIo6817Jlrz1vjJKc30z2kP7VWrTnrjJ77vvtHunTn_UONJHw5JTTdBLfPd0uk4keLxhUG5SB4PnaVp2DaqMjh4tp3wzqS-vf6YnII-FVxxPg_N7io) at Google.
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DoubleClick cookie enables it to serve ads to you based on your internet browsing history. You may opt out of the use of the DoubleClick cookie by visiting [Ad Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChMxcc5beDZXXi1AUmcT7HMsfRuXbvS0TkOoYRaC51pV-WpiKTOhl30xoOIOXWVkAIo6817Jlrz1vjJKc30z2kP7VWrTnrjJ77vvtHunTn_UONJHw5JTTdBLfPd0uk4keLxhUG5SB4PnaVp2DaqMjh4tp3wzqS-vf6YnII-FVxxPg_N7io) at Google. You may opt out of advertising from any or all Network Advertising Initiative (NAI) members at <http://www.networkadvertising.org/choices/>.
 
 **Do we disclose any information to outside parties?**
 
-We do not sell or trade your Personally Identifiable Information (PII) without providing you advance notice. We may share your PII data with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe that release is appropriate to comply with the law, enforce our site policies, or protect ours or other’s rights, property, or safety. Non-PII visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell or trade your Personally Identifiable Information (PII) without providing you advance notice. We may share your PII data with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe that release is appropriate to comply with the law, enforce our site policies, or protect ours or other's rights, property, or safety. Non-PII visitor information may be provided to other parties for marketing, advertising, or other uses. In some cases, we may share hashed or obfuscated email addresses to better augment what data is shown to you based on geographical information and other preference patterns. Your email address or any other PII is never shared in its raw form.
 
 **Third party links**
 
@@ -49,11 +49,11 @@ We also may be compensated in exchange for featured placement of certain sponso
 
 Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act (OPPA). We therefore will not distribute your personal information to outside parties without your consent.
 
-As parties protected by the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the ‘Profile’ page.
+As parties protected by the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the ‘Profile' page.
 
-**Children’s Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Online Privacy Policy Only**
 
