@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rccbc.org privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318045720id_/http%3A//www.rccbc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rccbc.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051116id_/http%3A//www.rccbc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RCCBC
 
