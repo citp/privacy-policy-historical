@@ -1,61 +1,67 @@
-> *The following text is extracted and transformed from the rudespace.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007072817id_/http%3A//www.rudespace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D144%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudespace.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051218id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# RudeSpace.com - Privacy Policy
+# Privacy Policy - NameJet Domain Name Services
 
-The RudeSpace Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by RudeSpace anytime you interact with us, such as when you visit our website, when you purchase our products and services, or when you call our sales or support associates.
+NameJet knows that you care about how personal information about you is used and shared and we appreciate your trust that we will do so carefully and sensibly. This notice describes our Privacy Policy. By visiting NameJet , you are accepting the practices described in this Privacy Policy. For questions regarding this Privacy Policy please contact NameJet using our [contact form](https://web.archive.org/Pages/Contact.aspx).
 
-Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at RudeSpace, and we go to great lengths to protect it.
+###  What Personal Information About Users Does NameJet Gather?
 
-## Why we collect personal information
+Information You Give Us:
+     We collect and store personal information you enter on our Web site or give us in any other way. We use the information that you provide us for such purposes as enhancing the experience of users in our network, responding to your requests, providing our services (e.g., domain Backorder requests, auctions, and purchases), and communicating with you about offers that may be of interest to you.
+Automatic Information:
+     Our Web site has features that collect information from users to assist us in creating Web sites that honor our users' preferences and serve their interests and needs.
 
-We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest announcements, special offers, and events that you might like to hear about.
+Our Web site places cookies, which are small data files on the user's hard drive when you visit our Web site. A cookie cannot read data off your hard drive. You may refuse cookies by turning them off in your browser; however, if you reject the placement of cookies, you may be limited in using some areas of our Web site. Some cookies are used to improve your user experience by making login to our Web site easier, such as by remembering usernames and passwords. Cookies can also enable us to monitor users' movements through our Web site so that we may target user interests to enhance their experience at our Web site. We may also collect click stream data such as the full Uniform Resource Locators (URL) and assign unique identifiers to our users for the purpose of tracking user behaviors. Information obtained with these technologies may be associated with the personal information you have provided us. Besides using the information as described above, NameJet may utilize cookies to control operations such as the flow of the ordering processes related to your online transactions.
 
-## What information we collect and how we may use it
+We, or our third-party advertising partners, may also place cookies to provide advertisements about goods or services that may be of interest to you. Since our advertisers and other third parties whose products or services are promoted on our Web site may also use cookies or other technology, we advise you to check the advertisers' privacy policies for information about their privacy practices.
 
-There are a number of situations in which your personal information may help us give you better products. For example:
+We may also gather general information such as the date, time, browser type, operating system, platform, navigation history, and IP address of all users to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our users. We may also associate this general information with your personal information. By visiting our site, you affirmatively consent to our collection, use, and distribution of your general and personal information and other related data to our partners and advertisers. If you do not want us to share information about you with our partners or advertisers, you may opt-out of receiving information by doing the following:
 
-  * We may ask for your personal information when you’re requesting support or service over the phone or purchasing a product.
-  * When you interact with RudeSpace, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences.
-  * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve RudeSpace services.
+  1. Login to "My Account".
+  2. Click on "Edit my Account Settings".
+  3. Select the "My Preferences" tab.
+  4. Choose your email settings under "Email Preferences"
+  5. Select the option not to receive advertisements.
 
 
 
-## Publicly displayed information is public
+###  Does NameJet Share the Information It Receives?
 
-If you use support forum or community site provided by RudeSpace then you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. RudeSpace is not responsible for the personally identifiable information you choose to submit in these forums.
+Yes, we do share information with at least the entities listed below:
 
-For example, if you choose to make information, which was previously non-public, available by enabling certain user features, RudeSpace will collect that information from your interaction and the information will become publicly available.
+WHOIS:
+     We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Policy we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+Advertisers:
+     We will share aggregated demographic information with our partners and advertisers.
+Partners:
+     We partner with other third party providers of specific services. When the user signs up for these services, we will share names, e-mail addresses, or other contact information that is necessary for the third party to provide these services.
+Agents:
+     We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to user information needed to perform their functions for the benefit of the user. These companies may, or may not, retain, share, store or use personally identifiable information that you provide to NameJet for any secondary purposes.
+Service Providers:
+     We engage other companies and individuals to perform enhanced services on our behalf. For example, we my engage another service provider to provide free electronic mail services to our domain name registrants. Many of our service providers have access to personal information needed to perform these kinds of services.
+Business Transfer:
+     As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if NameJet , or substantially all of its assets, were ever to be acquired, customer information will of course be one of the transferred assets.
+Compliance:
+     We release account and other personal information when we believe release is required to comply with federal or state law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of NameJet , our users, or others. This includes at least exchanging information with other companies, organizations and members of law enforcement to protect against fraud or other criminal activity.
 
-## When we disclose your information
+###  How Secure Is Information About Me?
 
-RudeSpace takes your privacy very seriously. RudeSpace does not sell or rent your contact information to other marketers.
+The information we receive from or about you is stored on systems designed to prevent the loss, disclosure, or destruction of that information. We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents. NameJet has gone to great lengths to ensure your information is securely obtained. For example, we encrypt your credit card number before it is stored in our database. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-### Within our company - Rude Media
+###  What Information Can I Access?
 
-To help us provide superior service, your personal information may be shared with legal entities within our company globally who will take steps to safeguard it in accordance with RudeSpace’s privacy policy.
+NameJet gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
 
-### With our service providers, vendors, and strategic partners.
+###  Links
 
-There are also times when it may be advantageous for RudeSpace to make certain personal information about you available to companies that RudeSpace has a strategic relationship with or that perform work for RudeSpace to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with RudeSpace’s policies, except if we inform you otherwise at the time of collection.
+Sites provided by NameJet contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other Web sites. We encourage our users to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
+###  Children
 
-## How we protect your personal information
+NameJet does not sell services for purchase by children under the age of 18. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-RudeSpace takes precautions - including administrative, technical, and physical measures - to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+###  Conditions of Use, Notices, and Revisions
 
-You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers.
+If you choose to visit NameJet 's Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at NameJet , please send us your concern using our [contact form](https://web.archive.org/Pages/Contact.aspx), and we will address it. Our business changes constantly. This Privacy Policy and the Terms of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our policy and conditions but you should check this Privacy Policy posted on our Web site frequently to see recent changes.
 
-### Cookies and other technologies
-
-As is standard practice on many websites, RudeSpace.com uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
-
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
-
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. RudeSpace will not use the information collected to market directly to that person.
-
-In some of our email messages we use a "click-through URL" linked to content on the RudeSpace website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-trhough data to help us determine interest in particular topics and measure the effectiveness of our custoemr communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
-
-### Our commitment to your privacy
-
-To make sure your personal information is secure, we communicate these guidelines to RudeSpace employees and strictly enforce privacy safeguards within our company. In addition, RudeSpace supports industry initiatives to preserve privacy rights on the Internet and in all aspects of electronic commerce.
+If you feel that NameJet , or any of its agents, representatives, or employees are violating this Privacy Policy, please contact us via e-mail using the [contact form](https://web.archive.org/Pages/Contact.aspx) or by telephone at 1-425-974-4687.
