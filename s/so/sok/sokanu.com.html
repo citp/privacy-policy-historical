@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2016-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160317062437id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229124117id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
+<!DOCTYPE html><html lang="en-us"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# sokanufb: http://ogp.me/ns/fb/sokanufb#">
         <title>Privacy</title>
-
-        <meta http-equiv="content-language" content="en-us">
 
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="https://d2imr2faqwhte6.cloudfront.net/compiled/images/favicon.ico">
@@ -15,23 +13,152 @@
 
         <link rel="stylesheet" href="https://d2imr2faqwhte6.cloudfront.net/compiled/styles/global.css">
 
-        <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/eja1dls.js"></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js" async=""></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js" async=""></script><script src="https://cdn.ravenjs.com/2.1.0/raven.min.js"></script>
-        <script>
-            Raven.config('https://220a43f9525e40eb94bc3bc4192add4e@app.getsentry.com/7493').install()
-        </script>
+        
 
-        <script>
-    (function (w) {
-        var doc = w.document;
-        var ref = doc.getElementsByTagName('script')[0];
-        window.load = function (src, type, callback) {
-            var el;
-            var ls = false;
-            try {
-                ls = w.localStorage;
-            } catch (e) {
-                // Some browsers have local storage disabled for security (e.name == 'SecurityError'). This isn't crucial.
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script src="https://d2imr2faqwhte6.cloudfront.net/lib/raven.js"></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js"></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js"></script><script>
+window.STATIC_URL = "https://d2imr2faqwhte6.cloudfront.net/";
+window.SKNLDR_THROW_ERRORS = false;
+window.SKNLDR_RAVEN_TRACKER_USER_EMAIL = undefined;
+
+(function (w) {
+    var doc = w.document;
+    var ref = doc.getElementsByTagName('script')[0];
+
+    var sknldr = window.sknldr = {
+
+        // track <script> or <link> `el`, callback list for each `nickname` that is initialized
+        assets: {},
+
+        // throws errors that are encountered in callbacks rather than capturing them in Raven
+        throwErrors: window.SKNLDR_THROW_ERRORS || false,
+
+        // provides an optional email address that is passed when logging errors to Raven
+        ravenTrackerUserEmail: window.SKNLDR_RAVEN_TRACKER_USER_EMAIL || undefined,
+
+        load: function(assets, callback) {
+            /* takes an `assets` object, which can be a dictionary, array, or string. The loader will behave differently based on what is passed in:
+
+               - Dictionary: takes an `assets` dictionary, which should contain all the items to be loaded indexed by their 'nickname' key. Loads each item
+                             in the dictionary asynchronously (at the same time)
+                             
+                             e.g. sknldr.load({'jquery': path-to-jquery, 'underscore': path-to-underscore});
+
+               - Array:      takes an array of `assets`, which can either be dictionaries, strings, or even (if you want to be crazy) another array
+                             loads each item in the array  sequentially, waiting until each asset is initialized before loading the next. 
+
+                             e.g. sknldr.load([{'jquery': path-to-jquery, 'underscore': path-to-underscore}, path-to-jquery-dependent-library]);
+
+               - String:     takes a URL to the corresponding asset path
+                             
+                             e.g. sknldr.load('http://jquerycdn.com/jquery.min.js');
+
+
+                The optional `callback` method is run when all assets are loaded
+            */
+            if((typeof assets == 'object') && Array.isArray(assets)) {
+                return sknldr.loadSequence(assets, callback);
+            } else if(typeof assets == 'object') {
+                return sknldr.loadDictionary(assets, callback);
+            } else if(typeof assets == 'string') {
+                return sknldr.loadIndividual(assets, assets, callback);
+            } else {
+                throw Error('sknldr.load cannot parse asset', assets);
             }
+        },
+
+        done: function (nickname, callback) {
+            /* takes a `nickname` and triggers the `callback` method when the asset with the corresponding `nickname` is loaded. Multiple callback events
+               can be bound on an individual asset. The callback method will be called instantly if the corresponding `nickname` asset has already been
+               loaded at the time that this method is triggered
+            */
+            if (!sknldr.assets[nickname]) { initializeAsset(nickname); }
+            var asset = sknldr.assets[nickname];
+
+            if (asset.loaded) {
+                try { callback(); }
+                catch (e) { sknldr.trackError(e, nickname); }
+            } else {
+                asset.callbacks.push(callback);
+            }
+        },
+
+        loadSequence: function(assets, callback) {
+            /* takes an array of `assets`, which can either be dictionaries, strings, or even (if you want to be crazy) another array
+               calls sknldr.load sequentially, waiting for each item to be loaded in DOM before moving on to the next. When all items in the sequence have been
+               loaded, calls the optional `callback` 
+               Should not be called directly, as the `sknldr.load` method will determine take the same arguments and run the correct loader
+               e.g. sknldr.load([{'jquery': path-to-jquery, 'underscore': path-to-underscore}, path-to-jquery-dependent-library]);
+            */
+            var sequenceStep = 0;
+            var stepsInSequence = assets.length;
+
+            var sequenceLoadedCallback = function() {
+                sequenceStep++;
+                // console.log('---- sequence', sequenceStep, 'of', stepsInSequence, 'completed! ------');
+                if(sequenceStep == stepsInSequence) {
+                    if(callback) { callback(); }
+                } else {
+                    sknldr.load(assets[sequenceStep], sequenceLoadedCallback);
+                }
+            }
+            sknldr.load(assets[sequenceStep], sequenceLoadedCallback);
+        },
+
+        loadDictionary: function(assets, callback) {
+            /* takes an `assets` dictionary, which should contain all the items to be loaded indexed by their 'nickname' key. Loads each item
+               in the dictionary asynchronously (at the same time) and triggers the optional `callback` when all items are loaded
+               Should not be called directly, as the `sknldr.load` method will determine take the same arguments and run the correct loader
+               e.g. sknldr.load({'jquery': path-to-jquery, 'underscore': path-to-underscore});
+            */
+            var assetsLoaded = 0;
+            var totalAssets = Object.keys(assets).length;
+
+            for(var key in assets) {
+                var asset = assets[key];
+                sknldr.loadIndividual(key, asset, function(key, asset) {
+                    assetsLoaded++;
+                    // console.log('loaded asset', assetsLoaded, 'of', totalAssets, ':', key, 'for', assets);
+                    if(assetsLoaded == totalAssets) {
+                        // console.log('all assets loaded for', assets);
+                        if(callback) { callback(); }
+                    }
+                }.bind(this, key, asset));
+            }
+        },
+
+        loadIndividual: function (nickname, src, callback) {
+            /* takes a `nickname` and a `src` path and loads the asset. Runs the optional `callback` method on load. */
+            // set up the callback if one is provided
+            if(callback) {
+                sknldr.done(nickname, callback);
+            }
+
+            // add the static url if a relative path is passed
+            var is_absolute = /^(?:[a-z]+:)?\/\//i.test(src);
+            var has_static_path = (src.indexOf(window.STATIC_URL) == 0);
+            if(!is_absolute && !has_static_path) {
+                src = window.STATIC_URL + src;
+            }
+
+            // don't call load if an element with the same nickname has already been initialized in DOM
+            if (sknldr.assets[nickname] && sknldr.assets[nickname]['el']) return false;
+
+            var el;
+            var asset;
+            var type = (src.split('.').pop() == 'css') ? 'stylesheet' : 'script';
+
+            // initialize local storage
+            var ls = false;
+            try { ls = w.localStorage; }
+            catch (e) { /* Some browsers have local storage disabled for security (e.name == 'SecurityError'). This isn't crucial. */ }
+
+            // store source string in local strage to indicate that it is stored locally; this will cause it to be loaded in blocking manner
+            if (ls && !ls[src]) {
+                try { ls[src] = 'true'; }
+                catch (e) {}
+            }
+
+            // initialize <script> or <link> `el`
             if (type == 'script') {
                 el = doc.createElement('script');
                 el.src = src;
@@ -43,113 +170,154 @@
                 el.rel = 'stylesheet';
                 if (!ls || !ls[src]) {
                     el.media = 'only foo';
+                    setTimeout(function () { el.media = 'all'; });
                 }
                 el.href = src;
             }
 
-            if (ls && !ls[src]) {
-                try {
-                    ls[src] = 'true';
-                } catch (e) {}
+            // store reference to <link> or <script> element in assets dictionary
+            if (!sknldr.assets[nickname]) {
+                initializeAsset(nickname);
             }
+            asset = sknldr.assets[nickname];
+            asset.el = el;
 
-            if (el.media) {
-                setTimeout(function () { el.media = 'all'; });
-            }
-
-            var done = false;
+            // handle callbacks
             el.onload = el.onReadyStateChange = function () {
-                var readyState = this.readyState;
-                if (done || readyState && readyState != 'complete' && readyState != 'loaded') return;
-                done = true;
-                if (callback) callback();
+                // console.log('individual asset loaded', nickname);
+                if (this.readyState && this.readyState != 'complete' && this.readyState != 'loaded') return;
+                asset.loaded = true;
+                for (var i = 0; i < asset.callbacks.length; i++) {
+                    try { asset.callbacks[i](); }
+                    catch (e) { sknldr.trackError(e, nickname); }
+                }
             };
 
-            ref.parentNode.insertBefore(el, ref);
+            // everything that tests timeouts
+            var timeOut = setTimeout(function () {
+                sknldr.trackError('Asset Timed Out', nickname);
+            }, 15000);
 
-        };
-    })(this);
+            // unshift to ensure that timeout is called first
+            asset.callbacks.unshift(function () { clearTimeout(timeOut); });
+
+            // finally, add the element into the DOM
+            ref.parentNode.insertBefore(el, ref);
+        },
+
+        trackError: function(e, assetName) {
+            // make sure errors are instances of Error class
+            if(typeof e == 'string') {
+                e = new Error(e);
+            }
+            if(sknldr.throwErrors) {
+                throw e;
+            }
+            if((typeof window.mixpanel == 'undefined') || (typeof Raven == 'undefined')) {
+                return setTimeout(function () { sknldr.trackError(e, assetName) }, 250);
+            }
+
+            // track in mixpanel
+            mixpanel.track('Script Load Fail', {
+                'Asset Name': assetName,
+                'Error': e
+            });
+
+            // track in raven
+            if(sknldr.ravenTrackerUserEmail) {
+                Raven.setUserContext({email: sknldr.ravenTrackerUserEmail})
+            }
+            Raven.captureException(e, {
+                extra: {
+                    'Asset Name': assetName
+                }
+            });
+        }
+    };
+
+    function initializeAsset (nickname) {
+        sknldr.assets[nickname] = {'el': undefined, 'callbacks': [], loaded: false};
+    }
+
+
+})(this);
 </script>
 
 
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"><\/script>');</script><script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"></script>
+
+
+
         <script>
-            // Passing important vars from Django to JS.
-            var STATIC_URL = window.STATIC_URL = 'https://d2imr2faqwhte6.cloudfront.net/',
-                DEBUG = window.DEBUG = false,
-                FACEBOOK_APP_ID = window.FACEBOOK_APP_ID = '263514677100821';
+            function initHasJS () {
+                var body = document.querySelector('body');
+                body.classList = body.className.replace('nojs', '');
+            }
 
-            // Non-blocking Typekit
-            load('//use.typekit.net/eja1dls.js', 'script', function () {
-                Typekit.load({
-                    active: function () {
-                        
+            function preloadSplashPhotos () {
+                try {
+                    var pageHeaderPhoto = document.querySelector('.page-header-photo');
+                    if (pageHeaderPhoto) {
+                        var pageHeaderPhotoPreloader = new Image();
+                        pageHeaderPhotoPreloader.onload = setTimeout(function () {
+                            // This timeout is needed to make IE work.
+                            pageHeaderPhoto.className = pageHeaderPhoto.className.replace('preload', '');
+                        }.bind(this), 100);
+                        pageHeaderPhotoPreloader.src = pageHeaderPhoto.style.backgroundImage.split('("')[1].split('")')[0];
                     }
-                });
-            });
-
-            // Google Analytics
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            
-                ga('create', 'UA-29974300-1', 'auto');
-            
-            
-            ga('send', 'pageview');
+                } catch (e) {}
+            }
         </script>
 
-        
-            <script src="https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/modernizr.js"></script>
         
 
         
     </head>
-    <body class="s-logged-out ">
+    <body class="s-logged-out  ">
+        <script>initHasJS();</script>
         <div id="fb-root"></div> <!-- required for any facebook UI interaction -->
 
         
+
+        
         
 
 
 
-<nav class="top-bar logged-in-False" role="navigation" data-options="is_hover: false" data-topbar="">
+<nav class="top-bar logged-in-False " role="navigation" data-options="is_hover: false" data-topbar="">
 
     <ul class="title-area">
         <li class="name clearfix">
-            <a class="logo" href="/" track="mixpanel" data-target="Home" data-link-type="Logo">sokanu</a>
+            <a class="logo" href="/" data-track="mixpanel" data-target="Home" data-link-type="Logo">sokanu</a>
         </li>
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
     </ul>
 
     
-<section class="top-bar-section">
+<section class="top-bar-section" id="navbar-content" role="banner">
 
     <!-- global navigation -->
     <ul class="left">
 
         
             <li class="">
-                  <a href="/career-test/" track="mixpanel" data-target="Career Test" data-link-type="Header">Career Test</a>
+                <a href="/career-test/" data-track="mixpanel" data-target="Career Test" data-link-type="Header">Career Test</a>
             </li>
         
 
         <li class="">
-            <a href="/careers/" track="mixpanel" data-target="Careers" data-link-type="Header">Careers</a>
+            <a href="/careers/" data-track="mixpanel" data-target="Careers" data-link-type="Header">Careers</a>
         </li>
 
         <li class="">
-            <a href="/jobs/" track="mixpanel" data-target="Jobs" data-link-type="Header">Jobs</a>
+            <a href="/jobs/" data-track="mixpanel" data-target="Jobs" data-link-type="Header">Jobs</a>
         </li>
 
         <li class="">
-            <a href="/degrees/" track="mixpanel" data-target="Degrees" data-link-type="Header">Degrees</a>
-        </li>
-
-        
-
-        <li class="">
-            <a href="/members/profile/" track="mixpanel" data-target="Profile" data-link-type="Header">Profile</a>
+            <a href="/degrees/" data-track="mixpanel" data-target="Degrees" data-link-type="Header">Degrees</a>
         </li>
 
         
@@ -158,39 +326,41 @@
 
         
             <li class="">
-                <a href="#" data-reveal-id="sign-up" data-target="Sign Up" track="mixpanel-modal" data-link-type="Header">Sign Up</a>
+                <a href="#" data-reveal-id="sign-up" data-target="Sign Up" data-track="mixpanel-modal" data-link-type="Header">Sign Up</a>
             </li>
             <li class="">
-                <a href="#" data-reveal-id="login" track="mixpanel-modal" data-target="Login" data-link-type="Header">Log In</a>
+                <a href="#" data-reveal-id="login" data-track="mixpanel-modal" data-target="Login" data-link-type="Header">Log In</a>
             </li>
         
 
         <li class="">
-            <a href="/blog/" track="mixpanel" data-target="Blog" data-link-type="Header">Blog</a>
+            <a href="/blog/" data-track="mixpanel" data-target="Blog" data-link-type="Header">Blog</a>
         </li>
 
     </ul>
     <!-- end global navigation -->
 
-    
-        
-            <div class="right hide-for-small-only hide-for-medium-only" style="line-height: 1;">
-                <a class="button primary space-right-1" href="http://employers.sokanu.com" target="_blank" track="mixpanel" data-target="Post A Job" style="font-size: .875rem; text-transform: uppercase;">Post A Job</a>
-            </div>
-        
-    
+    <!-- help icon -->
+    <div class="right">
+        <a href="/faqs/" class="faq-anchor" title="Get Help" aria-label="Get Help">?</a>
+    </div>
+    <!-- end help icon -->
+
+    <!-- account dropdown -->
+    <ul class="right navbar-sokanu-account">
+            
 
     <!-- autocompleting search for careers -->
-    <form class="right site-search " role="search" action="/search/">
+    <form class="right site-search " role="search" aria-autocomplete="both" aria-haspopup="true" action="/search/">
         <div class="js-site-search" data-value="" name="q"></div>
-        <button type="submit" class="site-search-button js-button"><span style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Search</span>
-            <img class="icon search" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/search.svg">
-            <img class="icon close" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/close.svg">
-            <img class="icon check" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/check.svg">
+        <button type="submit" class="site-search-button js-button" aria-label="Clear search query"><span style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Search</span>
+            <img class="icon search" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/search.svg" alt="Search">
+            <img class="icon close" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/close.svg" alt="Clear search box">
+            <img class="icon check" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/check.svg" alt="Search pending">
         </button>
     </form>
     <!-- end search -->
-</section>
+</ul></section>
 
 
     <div class="global-progress">
@@ -201,155 +371,156 @@
 </nav>
 
 
-
         
-<header class="page-header tiny">
-    <div class="row">
-        <div class="column">
-            <h1>Privacy</h1>
+<div role="main">
+    <header class="page-header tiny">
+        <div class="row">
+            <div class="column">
+                <h1>Privacy</h1>
+            </div>
         </div>
-    </div>
-</header>
-<div class="row folding-nav">
-    <a href="#" class="folding-nav-close"></a>
-    <div class="column large-3 folding-nav-menu fixedsticky">
-        <a href="#" class="folding-nav-toggle"><span class="hamburger"></span></a>
-        <ul class="side-nav">
-            <li><a href="#introduction">Introduction</a></li>
-            <li><a href="#information-collection">Information Collection and Use</a></li>
-            <li><a href="#information-sharing">Information Sharing and Disclosure</a></li>
-            <li><a href="#third-parties">Third Party Sites and Services</a></li>
-            <li><a href="#children">Children</a></li>
-            <li><a href="#changes">Changes to this Privacy Policy</a></li>
-            <li><a href="#contact">Contacting Us</a></li>
-        </ul>
-    </div>
-    <div class="column large-9 folding-nav-content">
-        <section class="page-section" id="introduction">
-            <h2>Introduction</h2>
-            <p> The Privacy Policy describes Sokanu's policies and procedures regarding
-            the personal information and other data collected through the Sokanu
-            Site. By using the Sokanu Site, you consent to the terms of this
-            Privacy Policy.</p>
-        </section>
+    </header>
+    <div class="row folding-nav">
+        <a href="#" class="folding-nav-close"></a>
+        <div class="column large-3 folding-nav-menu fixedsticky">
+            <a href="#" class="folding-nav-toggle"><span class="hamburger"></span></a>
+            <ul class="side-nav">
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#information-collection">Information Collection and Use</a></li>
+                <li><a href="#information-sharing">Information Sharing and Disclosure</a></li>
+                <li><a href="#third-parties">Third Party Sites and Services</a></li>
+                <li><a href="#children">Children</a></li>
+                <li><a href="#changes">Changes to this Privacy Policy</a></li>
+                <li><a href="#contact">Contacting Us</a></li>
+            </ul>
+        </div>
+        <div class="column large-9 folding-nav-content">
+            <section class="page-section" id="introduction">
+                <h2>Introduction</h2>
+                <p> The Privacy Policy describes Sokanu's policies and procedures regarding
+                the personal information and other data collected through the Sokanu
+                Site. By using the Sokanu Site, you consent to the terms of this
+                Privacy Policy.</p>
+            </section>
 
-        <section class="page-section" id="information-collection">
-            <h2>Information Collection and Use</h2>
+            <section class="page-section" id="information-collection">
+                <h2>Information Collection and Use</h2>
 
-            <p> When you create a Sokanu account, you will be asked to provide
-            some personal information, such as your name, username, password
-            and email address. Some of this information you provide during
-            the registration process (such as your name, gender and the
-            careers that you follow) will be listed on the Sokanu Site
-            and accessible by the public.</p>
+                <p> When you create a Sokanu account, you will be asked to provide
+                some personal information, such as your name, username, password
+                and email address. Some of this information you provide during
+                the registration process (such as your name, gender and the
+                careers that you follow) will be listed on the Sokanu Site
+                and accessible by the public.</p>
 
-            <p> The Sokanu Site is designed to connect individuals to careers and
-            help them find their passion in life. Except as otherwise
-            specifically stated in this Privacy Policy, the information you
-            provide to us via the Sokanu Site will be made publicly available
-            on the Sokanu Site. Sokanu will store metadata associated with the
-            use of the Sokanu Site and may share this information with various
-            third parties, such as the career contributors you follow and the
-            Content with which you interact.</p>
+                <p> The Sokanu Site is designed to connect individuals to careers and
+                help them find their passion in life. Except as otherwise
+                specifically stated in this Privacy Policy, the information you
+                provide to us via the Sokanu Site will be made publicly available
+                on the Sokanu Site. Sokanu will store metadata associated with the
+                use of the Sokanu Site and may share this information with various
+                third parties, such as the career contributors you follow and the
+                Content with which you interact.</p>
 
-            <p> To better improve our Content and the Sokanu Site, we track some
-            of the actions you take on the Sokanu Site, such as "following" a
-            career portal or "commenting on" a post.</p>
+                <p> To better improve our Content and the Sokanu Site, we track some
+                of the actions you take on the Sokanu Site, such as "following" a
+                career portal or "commenting on" a post.</p>
 
-            <p> We use "cookie" technology to collect additional website usage
-            data and to improve the Sokanu Site. A cookie is a small data
-            file that is transferred to your computer's hard disk. Sokanu
-            may use cookies to better understand how you interact with our
-            Content and improve the Sokanu Site.</p>
+                <p> We use "cookie" technology to collect additional website usage
+                data and to improve the Sokanu Site. A cookie is a small data
+                file that is transferred to your computer's hard disk. Sokanu
+                may use cookies to better understand how you interact with our
+                Content and improve the Sokanu Site.</p>
 
-            <p> Sokanu uses a variety of services hosted by third parties to help
-            provide the Sokanu Site and to better understand the use of the
-            Sokanu Site. These services may collect information sent to
-            your browser as part of a web page requeust, such as cookies or
-            your IP request. </p>
+                <p> Sokanu uses a variety of services hosted by third parties to help
+                provide the Sokanu Site and to better understand the use of the
+                Sokanu Site. These services may collect information sent to
+                your browser as part of a web page requeust, such as cookies or
+                your IP request. </p>
 
-            <p> Sokanu uses certain third party social media web sites and
-            services such as Facebook, on the Sokanu Site. Sokanu may collect
-            information you have made available on these sites. In accessing
-            these services through Sokanu, you are sharing information with
-            those sites, and the information you share will be governed by
-            their privacy policies. You may be able to modify your privacy
-            settings with these third party social media web sites.</p>
-        </section>
+                <p> Sokanu uses certain third party social media web sites and
+                services such as Facebook, on the Sokanu Site. Sokanu may collect
+                information you have made available on these sites. In accessing
+                these services through Sokanu, you are sharing information with
+                those sites, and the information you share will be governed by
+                their privacy policies. You may be able to modify your privacy
+                settings with these third party social media web sites.</p>
+            </section>
 
-        <section class="page-section" id="information-sharing">
-            <h2>Information Sharing and Disclosure</h2>
+            <section class="page-section" id="information-sharing">
+                <h2>Information Sharing and Disclosure</h2>
 
-            <p> We use the information we collect to make the Sokanu Site
-            available to our users, to measure the use of the Sokanu Site,
-            to improve the Sokanu Site, and to provide you with customer
-            support. We may share or disclose information for these
-            purposes without prior consent.</p>
+                <p> We use the information we collect to make the Sokanu Site
+                available to our users, to measure the use of the Sokanu Site,
+                to improve the Sokanu Site, and to provide you with customer
+                support. We may share or disclose information for these
+                purposes without prior consent.</p>
 
-            <p> We may share or disclose your non-private, aggregated or
-            otherwise non-personal information, such as your public posts
-            or the number of users who clicked on a particular piece of
-            Content.</p>
+                <p> We may share or disclose your non-private, aggregated or
+                otherwise non-personal information, such as your public posts
+                or the number of users who clicked on a particular piece of
+                Content.</p>
 
-            <p> We may share transaction information with the trusted third
-            parties responsible for such transactions, including donations
-            made through Network for Good. The beneficiaries of said
-            donations will be notified of your donation transaction.</p>
+                <p> We may share transaction information with the trusted third
+                parties responsible for such transactions, including donations
+                made through Network for Good. The beneficiaries of said
+                donations will be notified of your donation transaction.</p>
 
-            <p> We may disclose your information if we believe that it is
-            reasonable necessary to comply with a law, regulation or legal
-            request; to protect the safety of any person; to address
-            fraud, security or technical issues; or to protect Sokanu’s
-            rights or property.</p>
+                <p> We may disclose your information if we believe that it is
+                reasonable necessary to comply with a law, regulation or legal
+                request; to protect the safety of any person; to address
+                fraud, security or technical issues; or to protect Sokanu’s
+                rights or property.</p>
 
-            <p> Registered users are encouraged to keep their information
-            current and up to date. The Sokanu Site provides users with the
-            tools to access or modify personal information provided to
-            Sokanu via the Sokanu Site.</p>
-        </section>
+                <p> Registered users are encouraged to keep their information
+                current and up to date. The Sokanu Site provides users with the
+                tools to access or modify personal information provided to
+                Sokanu via the Sokanu Site.</p>
+            </section>
 
-        <section class="page-section" id="third-parties">
-            <h2>Third Party Sites and Services</h2>
+            <section class="page-section" id="third-parties">
+                <h2>Third Party Sites and Services</h2>
 
-            <p> The terms of this Privacy Policy apply only to information
-            that is collected through the Sokanu Site. The Sokanu Site may
-            contain links to third party sites and/or services, some of
-            which may collect personal data and/or other information from
-            users. Sokanu is not in control of or responsible for the
-            privacy practices of those third party sites and/or services.
-            Users are advised to contact the third parties directly for
-            information about their privacy policies. </p>
-        </section>
+                <p> The terms of this Privacy Policy apply only to information
+                that is collected through the Sokanu Site. The Sokanu Site may
+                contain links to third party sites and/or services, some of
+                which may collect personal data and/or other information from
+                users. Sokanu is not in control of or responsible for the
+                privacy practices of those third party sites and/or services.
+                Users are advised to contact the third parties directly for
+                information about their privacy policies. </p>
+            </section>
 
-        <section class="page-section" id="children">
-            <h2>Children</h2>
+            <section class="page-section" id="children">
+                <h2>Children</h2>
 
-            <p> The Sokanu Site is intended for users who are at least 13 years of age.
-            Users who are under the age of 13 are not permitted to use the Sokanu
-            Site or provide information to the Sokanu Site.</p>
-        </section>
+                <p> The Sokanu Site is intended for users who are at least 13 years of age.
+                Users who are under the age of 13 are not permitted to use the Sokanu
+                Site or provide information to the Sokanu Site.</p>
+            </section>
 
-        <section class="page-section" id="changes">
-            <h2>Changes to this Privacy Policy</h2>
+            <section class="page-section" id="changes">
+                <h2>Changes to this Privacy Policy</h2>
 
-            <p> The Sokanu Site may change from time to time. As a result, Sokanu
-            may need to make changes to this Privacy Policy.</p>
+                <p> The Sokanu Site may change from time to time. As a result, Sokanu
+                may need to make changes to this Privacy Policy.</p>
 
-            <p> Sokanu reserves the right to update or modify this Privacy
-            Policy without prior notice. Your continued use of the Site
-            after any changes or revisions to this Privacy Policy indicate
-            your agreement with the terms. This Privacy Policy was last
-            updated as of the date indicated above. Please check back and
-            review this Privacy each time before you provide information
-            to the Sokanu Site.</p>
-        </section>
+                <p> Sokanu reserves the right to update or modify this Privacy
+                Policy without prior notice. Your continued use of the Site
+                after any changes or revisions to this Privacy Policy indicate
+                your agreement with the terms. This Privacy Policy was last
+                updated as of the date indicated above. Please check back and
+                review this Privacy each time before you provide information
+                to the Sokanu Site.</p>
+            </section>
 
-        <section class="page-section" id="contact">
-            <h2>Contacting Us</h2>
-            <p> If you have any questions or concerns about the online privacy
-            statement for this site or its implementation you may contact
-            us <a href="mailto:contact@sokanu.com">here</a>.</p>
-        </section>
+            <section class="page-section" id="contact">
+                <h2>Contacting Us</h2>
+                <p> If you have any questions or concerns about the online privacy
+                statement for this site or its implementation you may contact
+                us <a href="mailto:contact@sokanu.com">here</a>.</p>
+            </section>
+        </div>
     </div>
 </div>
 
@@ -358,44 +529,44 @@
         <div class="site-footer-container">
             <div class="container">
                 
+                
+                
 
-<footer class="site-footer">
+<footer class="site-footer" role="contentinfo">
     <div class="row">
         <div class="columns medium-3">
-            <h6 class="underline">For Individuals</h6>
-            <ul class="no-bullet">
+            <h6 class="underline" id="for-individuals">For Individuals</h6>
+            <ul class="no-bullet" role="navigation" aria-labelledby="for-individuals">
                 
                 <li><a href="#" data-reveal-id="login" class="small">Login to Your Account</a></li>
                 <li><a href="#" data-reveal-id="sign-up" class="small">Create a New Account</a></li>
                 
-                <li><a href="/career-test/" track="mixpanel" data-link-type="Footer" data-target="Career Test" class="small">The Sokanu Career Test</a></li>
-                <li><a href="/careers/collections/" track="mixpanel" data-link-type="Footer" data-target="Collections">Career Collections</a></li>
-                <li><a href="/faqs/" track="mixpanel" data-link-type="Footer" data-target="FAQ">FAQ Knowledge Base</a></li>
+                <li><a href="/career-test/" data-track="mixpanel" data-link-type="Footer" data-target="Career Test" class="small">The Sokanu Career Test</a></li>
+                <li><a href="/careers/collections/" data-track="mixpanel" data-link-type="Footer" data-target="Collections">Career Collections</a></li>
+                <li><a href="/faqs/" data-track="mixpanel" data-link-type="Footer" data-target="FAQ">FAQ Knowledge Base</a></li>
             </ul>
         </div>
         <div class="columns medium-3">
-            <h6 class="underline">For Organizations</h6>
-            <ul class="no-bullet">
-                <li><a href="http://employers.sokanu.com" track="mixpanel" data-link-type="Footer" data-target="Employers Site" class="small">Employers</a></li>
-                <li><a href="/edu/" track="mixpanel" data-link-type="Footer" data-target="Edu Site" class="small">Sokanu Edu</a></li>
-                <li><a href="/science/" track="mixpanel" data-link-type="Footer" data-target="Technical Manual" class="small">Technical Manual</a></li>
+            <h6 class="underline" id="for-organizations">For Organizations</h6>
+            <ul class="no-bullet" role="navigation" aria-labelledby="for-organizations">
+                <li><a href="/edu/" data-track="mixpanel" data-link-type="Footer" data-target="Edu Site" class="small">Sokanu Edu</a></li>
+                <li><a href="/science/" data-track="mixpanel" data-link-type="Footer" data-target="Technical Manual" class="small">Technical Manual</a></li>
             </ul>
         </div>
         <div class="columns medium-6">
             <h6 class="underline">© Sokanu 2016 <span class="light hide-for-small" style="display: inline !important;">- Made in Vancouver, Canada</span></h6>
             <div class="row">
                 <div class="columns medium-6">
-                    <ul class="no-bullet">
-                        <li><a href="/about/" track="mixpanel" data-link-type="Footer" data-target="About Sokanu">About Sokanu</a></li>
-                        <li><a href="/contact/" track="mixpanel" data-link-type="Footer" data-target="Contact">Contact</a></li>
-                        <li><a href="/work/" track="mixpanel" data-link-type="Footer" data-target="Work at Sokanu">Work at sokanu</a></li>
+                    <ul class="no-bullet" role="navigation">
+                        <li><a href="/about/" data-track="mixpanel" data-link-type="Footer" data-target="About Sokanu">About Sokanu</a></li>
+                        <li><a href="/contact/" data-track="mixpanel" data-link-type="Footer" data-target="Contact">Contact</a></li>
+                        <li><a href="/work/" data-track="mixpanel" data-link-type="Footer" data-target="Work at Sokanu">Work at Sokanu</a></li>
                     </ul>
                 </div>
                 <div class="columns medium-6">
-                    <ul class="no-bullet">
-                        <li><a href="/partnership/" track="mixpanel" data-link-type="Footer" data-target="Partnership">Partnership</a></li>
-                        <li><a href="/terms/" track="mixpanel" data-link-type="Footer" data-target="Terms &amp; Conditions">Terms &amp; conditions</a></li>
-                        <li><a href="/privacy/" track="mixpanel" data-link-type="Footer" data-target="Privacy">Privacy</a></li>
+                    <ul class="no-bullet" role="navigation">
+                        <li><a href="/terms/" data-track="mixpanel" data-link-type="Footer" data-target="Terms &amp; Conditions">Terms &amp; conditions</a></li>
+                        <li><a href="/privacy/" data-track="mixpanel" data-link-type="Footer" data-target="Privacy">Privacy</a></li>
                         <!-- <li><a href="#">Sitemap</a></li> -->
                     </ul>
                 </div>
@@ -406,127 +577,271 @@
     
         <div class="row secondary-links">
             <div class="columns medium-6">
-                <h6>Popular careers</h6>
-                <p class="description small">
-                    Dive in and expose yourself to a vast expanse of knowledge covering more than 500 careers.
+                <h6 id="popular-careers-footer">Popular careers</h6>
+                <p class="description small" id="popular-careers-footer-def">
+                    Dive in and expose yourself to a vast expanse of knowledge covering over 700 careers.
                     Here are some of the questions people often ask.
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/careers/accountant/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does an accountant do?</a></li>
-                    <li><a href="/careers/neurologist/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a neurologist do?</a></li>
-                    <li><a href="/careers/chiropractor/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does an chiropractor do?</a></li>
-                    <li><a href="/careers/social-worker/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a social worker do?</a></li>
-                    <li><a href="/careers/paralegal/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a paralegal do?</a></li>
-                    <li><a href="/careers/mechanical-engineer/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a mechanical engineer do?</a></li>
-                    <li><a href="/careers/psychologist/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a psychologist do?</a></li>
-                    <li><a href="/careers/medical-assistant/" track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a medical assistant do?</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="popular-careers-footer" aria-describedby="popular-careers-footer-def">
+                    <li><a href="/careers/accountant/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does an accountant do?</a></li>
+                    <li><a href="/careers/neurologist/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a neurologist do?</a></li>
+                    <li><a href="/careers/chiropractor/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does an chiropractor do?</a></li>
+                    <li><a href="/careers/social-worker/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a social worker do?</a></li>
+                    <li><a href="/careers/paralegal/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a paralegal do?</a></li>
+                    <li><a href="/careers/mechanical-engineer/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a mechanical engineer do?</a></li>
+                    <li><a href="/careers/psychologist/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a psychologist do?</a></li>
+                    <li><a href="/careers/medical-assistant/" data-track="mixpanel" data-link-type="Footer" data-target="Career" class="small">What does a medical assistant do?</a></li>
                 </ul>
             </div>
             <div class="columns medium-6">
-                <h6>Salary information</h6>
-                <p class="description small">
+                <h6 id="salary-information-footer">Salary information</h6>
+                <p class="description small" id="salary-information-footer-def">
                     How important is money? Whatever your answer is, sokanu has great information for you.
                     See career salary ranges based on location, experience and more.
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/careers/physical-therapist/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Physical therapist salary</a></li>
-                    <li><a href="/careers/pharmacist/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Pharmacist salary</a></li>
-                    <li><a href="/careers/medical-assistant/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Medical assistant salary</a></li>
-                    <li><a href="/careers/anesthesiologist/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Anesthesiologist salary</a></li>
-                    <li><a href="/careers/flight-attendant/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Flight attendant salary</a></li>
-                    <li><a href="/careers/dentist/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Dentist salary</a></li>
-                    <li><a href="/careers/radiologist/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Radiologist salary</a></li>
-                    <li><a href="/careers/paralegal/salary/" track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Paralegal salary</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="salary-information-footer" aria-describedby="salary-information-footer-def">
+                    <li><a href="/careers/physical-therapist/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Physical therapist salary</a></li>
+                    <li><a href="/careers/pharmacist/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Pharmacist salary</a></li>
+                    <li><a href="/careers/medical-assistant/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Medical assistant salary</a></li>
+                    <li><a href="/careers/anesthesiologist/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Anesthesiologist salary</a></li>
+                    <li><a href="/careers/flight-attendant/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Flight attendant salary</a></li>
+                    <li><a href="/careers/dentist/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Dentist salary</a></li>
+                    <li><a href="/careers/radiologist/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Radiologist salary</a></li>
+                    <li><a href="/careers/paralegal/salary/" data-track="mixpanel" data-link-type="Footer" data-target="Career Salary" class="small">Paralegal salary</a></li>
                 </ul>
             </div>
         </div>
         <div class="row secondary-links">
             <div class="columns medium-6">
-                <h6>Job listings</h6>
-                <p class="description small">
+                <h6 id="job-listings-footer">Job listings</h6>
+                <p class="description small" id="job-listings-footer-def">
                     Find your perfect career then find real job positions to really kick things off.
                     We provide job listings for most careers through our partners.
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/jobs/?careers=102" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Flight attendant jobs</a></li>
-                    <li><a href="/jobs/?careers=345" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Receptionist jobs</a></li>
-                    <li><a href="/jobs/?careers=291" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Medical assistant jobs</a></li>
-                    <li><a href="/jobs/?careers=487" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Nanny jobs</a></li>
-                    <li><a href="/jobs/?careers=11" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Firefighter jobs</a></li>
-                    <li><a href="/jobs/?careers=100" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Pilot jobs</a></li>
-                    <li><a href="/jobs/?careers=382" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Dental assistant jobs</a></li>
-                    <li><a href="/jobs/?careers=311" track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Paralegal jobs</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="job-listings-footer" aria-describedby="job-listings-footer-def">
+                    <li><a href="/jobs/?careers=102" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Flight attendant jobs</a></li>
+                    <li><a href="/jobs/?careers=345" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Receptionist jobs</a></li>
+                    <li><a href="/jobs/?careers=291" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Medical assistant jobs</a></li>
+                    <li><a href="/jobs/?careers=487" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Nanny jobs</a></li>
+                    <li><a href="/jobs/?careers=11" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Firefighter jobs</a></li>
+                    <li><a href="/jobs/?careers=100" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Pilot jobs</a></li>
+                    <li><a href="/jobs/?careers=382" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Dental assistant jobs</a></li>
+                    <li><a href="/jobs/?careers=311" data-track="mixpanel" data-link-type="Footer" data-target="Jobs" class="small">Paralegal jobs</a></li>
                 </ul>
-                <p class="description small">
-                    <a href="http://employers.sokanu.com" track="mixpanel" data-link-type="Footer" data-target="employers.sokanu.com" class="small" style="width: 100% !important;">Interested in posting a job? Use Sokanu's psychometrics to find the right candidate for your company.</a>
-                </p>
             </div>
             <div class="columns medium-6">
-                <h6>Career collections</h6>
-                <p class="description small">
+                <h6 id="career-collections-footer">Career collections</h6>
+                <p class="description small" id="career-collections-footer-def">
                     <em>Lists of careers</em> that help you see careers in a new light.
-                    Which are the <a href="/careers/collections/best-careers-2015/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for 2016</a>?
-                    Which careers offer the <a href="/careers/collections/highest-paying-jobs/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">highest paying jobs</a>?
-                    What are the <a href="/careers/collections/careers-for-introverts/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for introverts</a>?
+                    Which are the <a href="/careers/collections/best-careers-2015/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for 2016</a>?
+                    Which careers offer the <a href="/careers/collections/highest-paying-jobs/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">highest paying jobs</a>?
+                    What are the <a href="/careers/collections/careers-for-introverts/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="plain">best careers for introverts</a>?
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/careers/collections/creative-careers/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Creative Careers</a></li>
-                    <li><a href="/careers/collections/best-careers-2015/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Best Careers for 2015</a></li>
-                    <li><a href="/careers/collections/highest-paying-jobs/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Highest Paying Jobs</a></li>
-                    <li><a href="/careers/collections/intj-careers/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">INTJ Careers</a></li>
-                    <li><a href="/careers/collections/outdoor-careers/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Outdoor Careers</a></li>
-                    <li><a href="/careers/collections/careers-for-introverts/" track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Careers for Introverts</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="career-collections-footer" aria-describedby="career-collections-footer-def">
+                    <li><a href="/careers/collections/creative-careers/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Creative Careers</a></li>
+                    <li><a href="/careers/collections/best-careers-2015/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Best Careers for 2015</a></li>
+                    <li><a href="/careers/collections/highest-paying-jobs/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Highest Paying Jobs</a></li>
+                    <li><a href="/careers/collections/intj-careers/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">INTJ Careers</a></li>
+                    <li><a href="/careers/collections/outdoor-careers/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Outdoor Careers</a></li>
+                    <li><a href="/careers/collections/careers-for-introverts/" data-track="mixpanel" data-link-type="Footer" data-target="Collection" class="small">Careers for Introverts</a></li>
                 </ul>
             </div>
         </div>
         <div class="row secondary-links">
             <div class="columns medium-6">
-                <h6>What can I do with my degree?</h6>
-                <p class="description small">
+                <h6 id="what-can-i-do-footer">What can I do with my degree?</h6>
+                <p class="description small" id="what-can-i-do-footer-def">
                     Sometimes it's obvious what you can do with a degree. Sometimes it's not. Our degree pages let you explore career options for your degree.
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/degrees/psychology/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a psychology degree?</a></li>
-                    <li><a href="/degrees/environmental-science/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a environmental science degree?</a></li>
-                    <li><a href="/degrees/nursing/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a nursing degree?</a></li>
-                    <li><a href="/degrees/social-work/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a social work degree?</a></li>
-                    <li><a href="/degrees/sociology/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with an sociology degree?</a></li>
-                    <li><a href="/degrees/economics/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with an economics degree?</a></li>
-                    <li><a href="/degrees/history/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a history degree?</a></li>
-                    <li><a href="/degrees/communications/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a communications degree?</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="what-can-i-do-footer" aria-describedby="what-can-i-do-footer-def">
+                    <li><a href="/degrees/psychology/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a psychology degree?</a></li>
+                    <li><a href="/degrees/environmental-science/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a environmental science degree?</a></li>
+                    <li><a href="/degrees/nursing/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a nursing degree?</a></li>
+                    <li><a href="/degrees/social-work/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a social work degree?</a></li>
+                    <li><a href="/degrees/sociology/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with an sociology degree?</a></li>
+                    <li><a href="/degrees/economics/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with an economics degree?</a></li>
+                    <li><a href="/degrees/history/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a history degree?</a></li>
+                    <li><a href="/degrees/communications/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">What can I do with a communications degree?</a></li>
                 </ul>
             </div>
             <div class="columns medium-6">
-                <h6>Popular Degrees</h6>
-                <p class="description small">
+                <h6 id="popular-degrees-footer">Popular Degrees</h6>
+                <p class="description small" id="popular-degrees-footer-def">
                     Explore some of our more popular degrees. Learn how popular a degree is, how much graduates earn, and what the job market looks like for over 200 degrees.
                 </p>
-                <ul class="no-bullet">
-                    <li><a href="/degrees/photography/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Photography Degree</a></li>
-                    <li><a href="/degrees/graphic-design/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Graphic Design Degree</a></li>
-                    <li><a href="/degrees/computer-forensics/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Computer Forensics Degree</a></li>
-                    <li><a href="/degrees/cosmetology/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Cosmetology Degree</a></li>
-                    <li><a href="/degrees/geography/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Geography Degree</a></li>
-                    <li><a href="/degrees/petroleum-engineering/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Petroleum Engineering Degree</a></li>
-                    <li><a href="/degrees/botany/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Botany Degree</a></li>
-                    <li><a href="/degrees/physiology/" track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Physiology Degree</a></li>
+                <ul class="no-bullet" role="navigation" aria-labelledby="popular-degrees-footer" aria-describedby="popular-degrees-footer-def">
+                    <li><a href="/degrees/photography/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Photography Degree</a></li>
+                    <li><a href="/degrees/graphic-design/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Graphic Design Degree</a></li>
+                    <li><a href="/degrees/computer-forensics/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Computer Forensics Degree</a></li>
+                    <li><a href="/degrees/cosmetology/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Cosmetology Degree</a></li>
+                    <li><a href="/degrees/geography/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Geography Degree</a></li>
+                    <li><a href="/degrees/petroleum-engineering/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Petroleum Engineering Degree</a></li>
+                    <li><a href="/degrees/botany/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Botany Degree</a></li>
+                    <li><a href="/degrees/physiology/" data-track="mixpanel" data-link-type="Footer" data-target="Degree" class="small">Physiology Degree</a></li>
                 </ul>
             </div>
         </div>
     
 </footer>
 
+                
             </div>
         </div>
         
 
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-        <script>
-            window.jQuery || document.write('<script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"><\/script>');
-        </script><script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"></script>
-
+        <script type="text/javascript">
+            window.mixpanel_track_links_source = 'Undefined'
+        </script>
         
-<input type="hidden" name="csrfmiddlewaretoken" value="r6C3Y52nh8HznAuNKAqknLS7ms1rvPK7">
+
+<input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
+
+
+    
+    <!--[if !(IE 8)]><!-->
+    <script>
+        // Ignore list based off: https://gist.github.com/1878283
+        var ravenOptions = {
+            // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
+            // See: https://github.com/getsentry/raven-js/issues/73
+            whitelistUrls: [
+                /https?:\/\/(www\.?)sokanu\.com/,
+                /https?:\/\/sokanu-staging\.heroku-app\.com/,
+                /https?:\/\/localhost:8000/,
+                /https?:\/\/.*cloudfront\.net/,
+                'https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js',
+                '//cdn.ravenjs.com/1.1.19/backbone,jquery,native/raven.min.js',
+                'https://js.stripe.com/v2/',
+                'https://gdc.indeed.com/ads/apiresults.js',
+                'https://www.google.com/jsapi'
+            ],
+            ignoreErrors: [
+                // Random plugins/extensions
+                'top.GLOBALS',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+                // Facebook borked
+                'fb_xd_fragment',
+                // ISP "optimizing" proxy `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+                // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                'conduitPage'
+            ],
+            ignoreUrls: [
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+            ]
+        };
+        sknldr.load('https://d2imr2faqwhte6.cloudfront.net/lib/raven.js', function() { Raven.config('https://ca13334bd5204bf68f27a3d45d877a9f@app.getsentry.com/70825', ravenOptions).install(); });
+    </script>
+    <!--<![endif]-->
+
+
+<!-- mixpanel initialization -->
+
+
+
+
+
+<script>
+
+    // Load mixpanel tracker
+    (function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+    for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+    mixpanel.init("7d3d3d7f76b416df31df49815b670e19", {
+        'loaded': window.mixpanelLoadedCallback
+    });
+
+    // Link events to member
+    
+
+    // Track member registration
+    
+
+
+    
+
+    // Register site-wide mixpanel superproperties
+    mixpanel.register({
+        'Authenticated': false,
+        'From Email': false,
+        'Is Schools Member': false,
+        'Experiment: Career Report No Hover CTA': false,
+        'Experiment: Career Report Hover CTA': "Want to see how you compare?",
+        'Experiment: Career Header CTA': 'Red Arpeggio Ratings',
+        'Experimental Core': false,
+        'GA Full-Page Experiment': true,
+        
+        
+    });
+
+    
+
+    // Patch the a `track` method on the mixpanel library
+    // This method is identical to `mixpanel.track`, but it executes the callback if mixpanel has not returned within 350ms
+    // Addresses an issue in the mixpanel library where the library has not been loaded (becuase of a timeout or blocked by library),
+    // and the initialized version is used instead. When this occurs, callbacks are never triggered
+    var unpatchedMixpanelTrack = mixpanel.track;
+    mixpanel.track = function(event_name, properties, callback) {
+        if(!callback) {
+            return unpatchedMixpanelTrack(event_name, properties);
+        } else {
+            // make it 50ms over mixpanel's default 300ms callback timeout
+            var callbackSafetyTimeout = setTimeout(function() { callback(); }, 350);
+            unpatchedMixpanelTrack(event_name, properties, function() {
+                clearTimeout(callbackSafetyTimeout);
+                callback();
+            });
+        }
+    };
+</script>
+
+<!-- end mixpanel initialization -->
+
+<script>
+    // Passing important vars from Django to JS.
+    var STATIC_URL = window.STATIC_URL = 'https://d2imr2faqwhte6.cloudfront.net/',
+        DEBUG = window.DEBUG = false,
+        FACEBOOK_APP_ID = window.FACEBOOK_APP_ID = '263514677100821';
+    // Google Analytics
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    if(window.ga) {
+        
+            ga('create', 'UA-29974300-1', 'auto');
+        
+        
+        ga('send', 'pageview');
+    }
+</script>
+
+
+
 
 <script>
     function csrfSafeMethod(method) {
@@ -584,125 +899,101 @@
     });
 </script>
 
-        
-
-
-
 
 <script>
-    (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-    mixpanel.init("7d3d3d7f76b416df31df49815b670e19");
+    $(function () {
 
-
-</script>
-
-
-
-
-
-
-
-
-<script>
-    
-
-    mixpanel.register({
-        'Authenticated': false,
-        'Premium': false,
-        'From Email': false,
-        'CE Widget': false
+        var sessionSchoolSlug = window.sessionSchoolSlug = false;
+        // Hijack the sign up modal for schools users
+        $('[data-reveal-id="sign-up"]').click(function (e) {
+            if (window.sessionSchoolSlug) {
+                e.preventDefault();
+                e.stopPropagation();
+                mixpanel.track('Schools Modal Hijacked', {}, function () {
+                    window.location = '/edu/' + window.sessionSchoolSlug + '/register/';
+                });
+            }
+        });
+        // Mixpanel link tracking
+        mixpanel.track_links('a[data-track="mixpanel"]', 'Link Clicked', function (el) {
+            return $.extend({}, {
+                'Source': window.mixpanel_track_links_source,
+                'Target': $(el).data('target'),
+                'Link Type': $(el).data('linkType')
+            }, window.mixpanel_track_links_json);
+        });
         
-    });
 
-    
-</script>
-
-
-        <script>
-            $(function () {
-
-                var sessionSchoolSlug = window.sessionSchoolSlug = false;
-
-                // Hijack the sign up modal for schools users
-                $('[data-reveal-id="sign-up"]').click(function (e) {
-                    if (window.sessionSchoolSlug) {
-                        e.preventDefault();
-                        e.stopPropagation();
-                        mixpanel.track('Schools Modal Hijacked', {}, function () {
-                            window.location = '/edu/' + window.sessionSchoolSlug + '/register/';
-                        });
-                    }
-                });
-
-                // Mixpanel link tracking
-                var mixpanel_track_links_json = window.mixpanel_track_links_json = {},
-                    mixpanel_track_links_source = window.mixpanel_track_links_source = 'Undefined';
-
-                mixpanel.track_links('a[track="mixpanel"]', 'Link Clicked', function (el) {
-                    return $.extend({}, {
-                        'Source': window.mixpanel_track_links_source,
-                        'Target': $(el).data('target'),
-                        'Link Type': $(el).data('linkType')
-                    }, mixpanel_track_links_json);
-                });
-
-                
-                var trackModalLinkClicks = window.trackModalLinkClicks = function () {
-                    var modalLinks = $('a[track="mixpanel-modal"]');
-                    modalLinks.off('click.modal');
-                    modalLinks.on('click.modal', function (e) {
-                        var event_properties = $.extend({}, {
-                            'Source': mixpanel_track_links_source,
-                            'Target': $(this).data('target'),
-                            'Link Type': $(this).data('linkType')
-                        }, mixpanel_track_links_json);
-                        mixpanel.track('Link Clicked', event_properties);
-                        e.preventDefault();
-                    });
-                }
-                trackModalLinkClicks();
-
-                mixpanel.track_forms('.js-track-form', 'Form Submitted', function (el) {
-                    return $.extend({}, {
-                        action: $(el).data('action'),
-                        'Target': $(el).data('target'),
-                        'Source': window.mixpanel_track_links_source
-                    }, mixpanel_track_links_json);
-                });
-
-                load('https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/fastclick.js', 'script');
-
-                
-                    $(function () {
-                        load('https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/foundation.min.js', 'script', function () {
-                            $(document).foundation({
-                                reveal: {
-                                    animation: 'fade'
-                                }
-                            });
-                            
-                        });
-                    });
-                
-
-                load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/react-instrumented.js', 'script', function () {
-                    
-
-                    load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/typeahead-bundle.js', 'script', function () {
-                        
-
-                        load('https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/scripts/search.js', 'script');
-                    });
-                });
-
-                
-                // Non-blocking Facebook authentication
-                load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/facebook/login.js', 'script', function () {
-                    $('.js-fb-auth').facebook_login();
-                });
-                
+        var trackModalLinkClicks = window.trackModalLinkClicks = function () {
+            var modalLinks = $('a[data-track="mixpanel-modal"]');
+            modalLinks.off('click.modal');
+            modalLinks.on('click.modal', function (e) {
+                var event_properties = $.extend({}, {
+                    'Source': window.mixpanel_track_links_source,
+                    'Target': $(this).data('target'),
+                    'Link Type': $(this).data('linkType')
+                }, window.mixpanel_track_links_json);
+                mixpanel.track('Link Clicked', event_properties);
+                e.preventDefault();
             });
-        </script>
+        }
+
+        trackModalLinkClicks();
+
+        mixpanel.track_forms('.js-track-form', 'Form Submitted', function (el) {
+            return $.extend({}, {
+                action: $(el).data('action'),
+                'Target': $(el).data('target'),
+                'Source': window.mixpanel_track_links_source
+            }, window.mixpanel_track_links_json);
+        });
+
+        sknldr.load('https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/fastclick.js');
+
+        // load foundation
+        sknldr.load([{'modernizr': 'https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/modernizr.js'}, {'foundation': 'https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/foundation.min.js'}]);
+        sknldr.done('foundation', function() {
+            $(document).foundation({ reveal: { animation: 'fade' } });
+            $(document).on('opened.fndtn.reveal', '[data-reveal]', function () {
+                if($(this).find("input:not([type=hidden])")[0]){
+                    $(this).find("input:not([type=hidden])")[0].focus();
+                }
+                else if($(this).first("h1, h2, h3, h4, h5, h6")){
+                    $(this).first("h1, h2, h3, h4, h5, h6").focus();
+                }
+            });
+        });
+
+        // load react, typeahead, and serach libraries
+        sknldr.load([
+            {'react': 'https://d2imr2faqwhte6.cloudfront.net/lib/react.js'},
+            {'typeahead': 'https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/typeahead-bundle.js'},
+            {'search': 'https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/scripts/search.js'}
+        ]);
+
+        // test that react initialized properly
+        sknldr.done('react', function() {
+            if(typeof React == 'undefined') {
+                sknldr.trackError('Asset Test Failed', 'react');
+            }
+        });
+
+        
+        // Non-blocking Facebook authentication
+        sknldr.load({'fb_login': 'https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/facebook/login.js'}, function() { $('.js-fb-auth').facebook_login(); });
+        
+
+        // Non-blocking Typekit
+        sknldr.load({'typekit': '//use.typekit.net/eja1dls.js'}, function() {
+            Typekit.load({
+                active: function () { if(window.typekit_loaded) { window.typekit_loaded(); } },
+                inactive: function() { if(window.typekit_loaded) { window.typekit_loaded(); } }
+            });
+        });
+
+    });
+</script>
+
 
         
     
@@ -712,10 +1003,10 @@
             'Page': 'Privacy'
         });
 
-        load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js', 'script', function () {
+        sknldr.load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js', function () {
             $('.folding-nav').foldingNav();
         });
-        load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js', 'script', function () {
+        sknldr.load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js', function () {
             $('.fixedsticky').fixedsticky();
         });
     </script>
@@ -724,63 +1015,75 @@
         
             
             
-                
-                
-<div id="sign-up" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
+<div id="sign-up" class="reveal-modal sign-up-email-only" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
     <form method="POST" action="/members/register/?next=" id="deferred-user-email-form">
         <input type="hidden" name="registration_form" value="email_only">
-        <input type="hidden" name="csrfmiddlewaretoken" value="r6C3Y52nh8HznAuNKAqknLS7ms1rvPK7">
+        <input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
 
-        <a class="close-reveal-modal" aria-label="Close">×</a>
+        <a href="#" class="close-reveal-modal" aria-label="Close" tabindex="4">×</a>
         <div class="registration-container clearfix">
-            <h3 class="modal-title" id="myModalLabel">Create an Account</h3>
-            <br>
-            <p style="margin-bottom:5px;">Enter your email and we will send you a temporary password. We don't spam.</p>
-            <input class="rounded" type="email" name="email" placeholder="Your Email Address">
-
-            <input type="hidden" name="newsletter" value="true">
-
-            <p class="help-text">
-                <strong>Are you a student?</strong> Sign up with a .edu email and get 50% off premium.
-            </p>
-            <input type="submit" class="round button primary right" value="Create Account">
+            <div class="registration-container-up">
+                <h3 class="modal-title" id="myModalLabel">Find your perfect career, for free.</h3>
+                <p>Sokanu is a 30 minute free career test that measures your fit against 700+ careers.</p>
+                <div class="row">
+                    <div class="column medium-7">
+                        <input class="sign-up-email-input" type="email" name="email" placeholder="email address" tabindex="1" aria-label="Email address">
+                        <input type="submit" class="button sign-up-email-submit right" value="Start" tabindex="2">
+                        <input type="hidden" name="newsletter" value="true">
+                        <p class="sign-up-email-description">We’ll email you a password so you can come back and finish the test at anytime. We never spam or sell email addresses.</p>
+                    </div>
+                    <div class="column medium-1 sign-up-option-separator">or</div>
+                    <div class="column medium-4">
+                        <a href="#" class="button block facebook-blue js-fb-auth js-track-link sign-up-facebook" data-fail-uri="/members/register/?next=" data-success-uri="/facebook/login_success/?next=" data-link="sign up with facebook #3" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);" tabindex="3"><span>Sign up with facebook</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="registration-container-down">
+                <div class="row">
+                    <div class="column medium-4">
+                        <h3>Accurate</h3>
+                        <p>Sokanu is the most advanced career test ever built. Our career test matches you to careers based on your interests, preferred work environment, personality, skills, and values.</p>
+                    </div>
+                    <div class="column medium-4">
+                        <h3>Modern</h3>
+                        <p>Careers change every year. So does Sokanu. We regularly add modern careers like social media manager and biomedical engineer to our catalog of careers.</p>
+                    </div>
+                    <div class="column medium-4">
+                        <h3>Smart</h3>
+                        <p>Our matching technology relies on our career genome project, a painstakingly detailed catalog of career data that we continuously refine to ensure the greatest predictive ability.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </form>
-    <div class="facebook-registration-container clearfix">
-        <span style="color:#999; font-size:16px;">Or sign up with Facebook</span>
-        <a href="#" class="button right facebook-blue js-fb-auth js-track-link" data-fail-uri="/members/register/?next=" data-success-uri="/facebook/login_success/?next=" data-link="sign up with facebook #3" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);">Sign up with facebook</a>
-    </div>
 </div>
 
 
 <script>
-    window.addEventListener('load', function() {
+    $(document).ready(function () {
+        // prevent double form submissions
         $('#sign-up form').on('submit', function() {
             $(this).find('input:submit').attr('disabled', true);
         });
     });
 </script>
 
-            
-
-            <!-- THIS ISN'T PROPERLY STYLED YET -- JUST WANTED TO MAKE IT WORK WITH HOMEPAGE -->
-
-<div id="login" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
+            <div id="login" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
     <form method="POST" action="/members/login/?next=/privacy/" class="modal-dialog js-track-form" data-action="email login">
-        <input type="hidden" name="csrfmiddlewaretoken" value="r6C3Y52nh8HznAuNKAqknLS7ms1rvPK7">
+        <input type="hidden" name="csrfmiddlewaretoken" value="pLhnZl6JvGB9G3czdtenZZlR7SlJUYMA">
 
-        <a class="close-reveal-modal" aria-label="Close">×</a>
+        <a href="#" class="close-reveal-modal" aria-label="Close" tabindex="5">×</a>
 
         <div class="registration-container clearfix">
             <h3 class="modal-title">Login with email or Facebook</h3>
             <br>
             <label for="id_email" style="display:none;">Email</label>
-            <input type="email" class="form-input" id="id_email" name="email" placeholder="Email">
+            <input type="email" class="form-input" id="id_email" name="email" placeholder="Email" tabindex="1">
             <label for="id_password" style="display:none;">Password</label>
-            <input type="password" class="form-input" id="id_password" name="password" placeholder="Password">
-            <a href="/forgot-password/" class="js-track-link" data-link="forgot password">Forgot Password</a>
+            <input type="password" class="form-input" id="id_password" name="password" placeholder="Password" tabindex="2">
+            <a href="/forgot-password/" class="js-track-link" data-link="forgot password" tabindex="4">Forgot Password</a>
 
-            <input type="submit" class="round button right primary" value="Login">
+            <input type="submit" class="round button right primary" value="Login" tabindex="3">
         </div>
         <div class="facebook-registration-container clearfix">
             <span style="color:#999; font-size:16px; ">Or log in with Facebook</span>
@@ -788,8 +1091,6 @@
         </div>
     </form>
 </div>
-
-        
 
         
     
