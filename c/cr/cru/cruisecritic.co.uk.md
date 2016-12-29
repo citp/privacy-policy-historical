@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629221024id_/http%3A//www.cruisecritic.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229070348id_/http%3A//www.cruisecritic.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # CruiseCritic - Privacy Policy
 
