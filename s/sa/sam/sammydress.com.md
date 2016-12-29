@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052244id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051418id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
@@ -17,13 +17,13 @@ Alert you to new information, products, and services that we offer.
 
 After registering, you will receive our newsletters with information about sales, coupons, and special promotions. You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in. 
 
-##### Registration and Ordering:
-
-During registration, you will be prompted to provide us your name, shipping and billing address, phone number, email address and credit card number. In addition, we may also ask you for your country so that we can comply with applicable laws and regulations, and we might also ask for your gender. These types of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.
-
-##### Email Addresses:
-
-You register for placing an order and receiving free promotional notices; we notify you when we receive a new brand, or new product style; to get there great offers, you simply sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. 
+> #### Registration and Ordering:
+> 
+> During registration, you will be prompted to provide us your name, shipping and billing address, phone number, email address and credit card number. In addition, we may also ask you for your country so that we can comply with applicable laws and regulations, and we might also ask for your gender. These types of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.
+> 
+> #### Email Addresses:
+> 
+> You register for placing an order and receiving free promotional notices; we notify you when we receive a new brand, or new product style; to get there great offers, you simply sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. 
 
 #### 3\. Privacy Security
 
@@ -37,3 +37,5 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 #### How do I unsubscribe?
 
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
+
+The purpose of Criteo Dynamic Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails.Criteo uses cookies to single out users and then personalize ads based on their browsing experience.To learn more or opt out of Criteo Dynamic Email [click here](http://edm.sammydress.com/?email={$email}). 
