@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314030321id_/https%3A//www.tsa.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229194826id_/https%3A//www.tsa.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transportation Security Administration
 
-TSA is committed to protecting privacy and securing personal information made available when accessing this website. This page provides information on what is collected on this website, how the information is used and retained. As a general rule, TSA does not collect personal information when you are browsing tsa.gov. Personal information is collected only when it is voluntarily provided to us. You do not have to provide personal information in order to visit this website. The information you provide is shared with another government agency if your inquiry relates to that agency, or is otherwise required by law.
+TSA is committed to protecting privacy and securing personal information made available when accessing this website. This page provides information on what is collected on this website, how the information is used and retained. As a general rule, TSA does not collect personal information when you are browsing tsa.gov. Personal information is collected only when it is voluntarily provided to us. You do not have to provide personal information in order to visit this website. The information you provide is shared with another government agency if your inquiry relates to that agency, or is otherwise required by law.
 
-TSA will collect and protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacy-act-1974), [E-Government Act of 2002](https://it.ojp.gov/default.aspx?area=privacy&page=1287) and [Federal Records Act](http://www.archives.gov/records-mgmt/laws/). Learn about the [privacy impact assesments](http://www.dhs.gov/privacy-documents-transportation-security-administration-tsa), also known as PIA.
+TSA will collect and protect your information consistent with the principles of the [Privacy Act of 1974](http://www.justice.gov/opcl/privacy-act-1974), [E-Government Act of 2002](https://it.ojp.gov/default.aspx?area=privacy&page=1287) and [Federal Records Act](http://www.archives.gov/records-mgmt/laws/). Learn about the [privacy impact assesments](http://www.dhs.gov/privacy-documents-transportation-security-administration-tsa), also known as PIA.
 
 ## Information Collected Automatically
 
@@ -38,9 +38,9 @@ Persistent Cookies: TSA uses persistent cookies to differentiate between new and
 
 3rd party software, modules, or add-ins being leveraged on TSA website may or may not use persistent cookies or similar technology; however, no data collected in this manner is accessible, viewable, or retained by the federal government.
 
-If you do not wish to have session or persistent cookies stored on your machine, you can opt out or disable cookies in your browser. You will still have access to all information and resources on the TSA website. However, turning off cookies may affect the functioning of some of the TSA website. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
+If you do not wish to have session or persistent cookies stored on your machine, you can opt out or disable cookies in your browser. You will still have access to all information and resources on the TSA website. However, turning off cookies may affect the functioning of some of the TSA website. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
 
-TSA currently uses Google Analytics to perform web measurements and analytics. Google Analytics sets a single session cookie and three persistent cookies that expire up to two years after they are set.
+TSA currently uses Google Analytics to perform web measurements and analytics. Google Analytics sets a single session cookie and three persistent cookies that expire up to two years after they are set.
 
 ## Email
 
@@ -66,11 +66,11 @@ Information presented on the website is considered public information and may be
 
 ## Social Media Comment Policy
 
-TSA encourages the public to share thoughts as they relate to the topics being discussed on official social media accounts.
+TSA encourages the public to share thoughts as they relate to the topics being discussed on official social media accounts.
 
-TSA uses the official social media accounts to engage with and provide information to the public. TSA cannot guarantee a response to all comments and questions due to volume. If you have a travel related issue or question that requires immediate assistance, you can contact TSA.
+TSA uses the official social media accounts to engage with and provide information to the public. TSA cannot guarantee a response to all comments and questions due to volume. If you have a travel related issue or question that requires immediate assistance, you can contact TSA.
 
-Comments and responses posted to any official TSA social media accounts are subject to the usage policies of the respective websites.
+Comments and responses posted to any official TSA social media accounts are subject to the usage policies of the respective websites.
 
 The views expressed in visitor comments reflect those of the comment’s author and do not necessarily reflect the official views of TSA or the federal government.
 
@@ -78,19 +78,23 @@ TSA does not guarantee or warrant that any information posted by individuals is 
 
 TSA does not moderate comments prior to posting, but reserves the right to delete comments that contain:
 
-  * Obscene or threatening language or discrimination targeting individuals or groups.
-  * Threats or defamatory statements.
+  * Threats to individuals or groups.
+  * Obscene, harassing or defamatory language. 
+  * Discrimination targeting individuals or groups.
+  * Unsolicited bulk messages and posts that contain harmful links, also known as "spam."
   * Promotion of services or products (not including non-commercial links that are relevant to the topic).
   * Suggestions or encouragement of illegal activity.
   * Personal or sensitive information (phone numbers, email or postal addresses).
 
 
 
+Repeated violations of this policy may result in the user being removed from the TSA social media channels.
+
 Complaints about abusive comments and removal requests should be sent to [socialmedia@tsa.dhs.gov](mailto:socialmedia@tsa.dhs.gov).
 
 Do not use TSA social media accounts to report criminal activity. If you have information for law enforcement, please contact your local police agency.
 
-TSA social media accounts may not be used for the submission of any claim, demand, informal or formal complaint, or any other form of legal and/or administrative notice or process, or for the exhaustion of any legal and/or administrative remedy.
+TSA social media accounts may not be used for the submission of any claim, demand, informal or formal complaint, or any other form of legal and/or administrative notice or process, or for the exhaustion of any legal and/or administrative remedy.
 
 Thank you for taking the time to read this comment policy. We encourage your participation in our discussion and look forward to an active exchange of ideas.
 
