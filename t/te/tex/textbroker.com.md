@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616101816id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbroker.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041815id_/https%3A//www.textbroker.com/data-protection) for the most accurate reproduction.*
 
 # Privacy policy | Textbroker
 
@@ -51,5 +51,5 @@ If you have questions or comments about our privacy practices, please feel free 
 
 Our postal address is:  
 Textbroker International LLC  
-9484 West Flamingo Road, Suite 270  
-Las Vegas, Nevada 89147 
+8076 West Sahara Avenue  
+Las Vegas, Nevada 89117 
