@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617205028id_/https%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045514id_/https%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
 
 # Mozilla Privacy
 
