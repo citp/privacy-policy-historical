@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621121021id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050912id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
@@ -29,10 +29,10 @@ We will never share personal information with any third parties without your con
 
 ## Our privacy policy 
 
-The Health and Social Care Information Centre is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
+NHS Digital is the Data Controller for NHS Choices under the Data Protection Act 1998. We will process your data in accordance with the Data Protection Act. The purpose of the privacy policy is to inform you as a user of NHS Choices about what information we collect when you visit the service, how we use the information, whether the information is disclosed and the ways in which we protect users' privacy.
 
 We want you to feel secure when using the website and associated services. We are committed to respecting your privacy. Below we give an overview of how we do that.
 
 Page last reviewed: 15/03/2016
 
-Next review due: 15/03/2018
+Next review due: 31/12/2017
