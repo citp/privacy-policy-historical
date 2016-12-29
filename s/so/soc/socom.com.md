@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socom.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125207id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socom.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193116id_/http%3A//www.playstation.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Support - PlayStation.com
 
@@ -6,9 +6,9 @@
 
 Sony Interactive Entertainment America LLC ("SIEA") is committed to respecting the privacy rights of all visitors to our websites. This privacy policy is intended to provide you with information on how we collect, use and store the information that you provide to us through our websites so that you can make appropriate choices for sharing information with us. If you have any questions, complaints or comments regarding our online or offline privacy policies, please contact SIEA's Consumer Services Hotline at 1-800-345-7669.
 
-PlayStation.com/network and other PlayStation® Network branded websites and services, the Sony Entertainment Network, and hardware and software that utilizes Sony Entertainment Network for data collection and refers to this Privacy Policy, are operated by Sony Interactive Entertainment Network America LLC or its affiliates and are governed by the [PlayStation Network Privacy Policy](http://www.sonyentertainmentnetwork.com/privacy-policy/).
+PlayStation.com/network and other PlayStation® Network branded websites and services, the Sony Entertainment Network, and hardware and software that utilizes Sony Entertainment Network for data collection and refers to this Privacy Policy, are operated by Sony Interactive Entertainment Network America LLC or its affiliates and are governed by the [PlayStation Network Privacy Policy](https://www.sonyentertainmentnetwork.com/privacy-policy/).
 
-[](http://www.esrb.org/confirm/scea-confirmation.jsp)This Privacy Statement and the certification seal located to your right confirms that SIEA is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy to the maximum extent possible, we have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. 
+[](https://www.esrb.org/confirm/scea-confirmation.jsp)This Privacy Statement and the certification seal located to your right confirms that SIEA is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy to the maximum extent possible, we have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. 
 
 ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information collection practices that include requirements of full disclosure, notice and informed consent.
 
@@ -26,7 +26,7 @@ Whenever you visit a website that displays the ESRB Privacy Online certification
 
 **THIS POLICY APPLIES TO:**
 
-This policy applies to the websites [us.playstation.com](http://www.us.playstation.com/) and [naughtydog.com](http://www.naughtydog.com/). In addition, we own several other domain names that point to [us.playstation.com](http://us.playstation.com/). From time to time, we may add new websites not listed above, and will provide a link to this policy or the applicable privacy policy. Finally, we collect information via dynamic in-game advertising that is served to some online PlayStation®3 games. By use of our websites and games that have dynamic in-game advertising, you signify your assent to SIEA's privacy policy. If you do not agree to this policy, please do not use our websites or games with dynamic in-game advertising.
+This policy applies to the websites [us.playstation.com](https://www.us.playstation.com/) and [naughtydog.com](http://www.naughtydog.com/). In addition, we own several other domain names that point to [us.playstation.com](https://us.playstation.com/). From time to time, we may add new websites not listed above, and will provide a link to this policy or the applicable privacy policy. Finally, we collect information via dynamic in-game advertising that is served to some online PlayStation®3 games. By use of our websites and games that have dynamic in-game advertising, you signify your assent to SIEA's privacy policy. If you do not agree to this policy, please do not use our websites or games with dynamic in-game advertising.
 
 **THIS POLICY DOES NOT APPLY TO:**
 
@@ -111,7 +111,7 @@ Data logged via PS3 dynamic in-game advertising or some portion of it will be sh
 We do not control our affiliates’ or third parties’ use of your information after we share it, but we use reasonable efforts to obtain our affiliates’ and third parties’ agreement to protect the confidentiality, security, and integrity of any personal information we share with them or that we permit them to collect directly. If consumers do not want their personal information made available to others in these ways, they should not provide their personal information to us.
 
 **California Privacy Rights**  
-Beginning on January 1, 2005, California Civil Code section 1798.83 permits SIEA customers who are California residents to request certain information regarding SIEA’s disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties for their direct marketing purposes. To make such a request, contact our consumer services department through the following link: [http://us.playstation.com/corporate/contactus](http://us.playstation.com/corporate/contactus/) or via telephone at 1-800-345-7669. If you would like to change your current account preferences, go to the account management section of your Sony Online Services account.
+Beginning on January 1, 2005, California Civil Code section 1798.83 permits SIEA customers who are California residents to request certain information regarding SIEA’s disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties for their direct marketing purposes. To make such a request, contact our consumer services department through the following link: [https://us.playstation.com/corporate/contactus](http://us.playstation.com/corporate/contactus/) or via telephone at 1-800-345-7669. If you would like to change your current account preferences, go to the account management section of your Sony Online Services account.
 
 **Policies for Children**  
 SIEA does not knowingly collect personally identifying information from children under 13 years of age via our websites.
@@ -122,7 +122,7 @@ Data from Sony Online Services accounts is transferred from SIENA to SIEA for co
 Our PlayStation website message boards are a place where users can go to freely share their thoughts and ideas about the PlayStation brand. A Sony Entertainment Network account is required to contribute to these message boards. We prohibit message board participants from disclosing their own personally identifying information other than their own Online IDs. We ask our users to respect the privacy of others. Disclosure of phone numbers, addresses, age or other personally identifying information that may violate someone else's privacy is prohibited. Encouraging or asking users to disclose publicly their personally identifying information is also prohibited.
 
 **Business Contacts**  
-Through our job page at [http://us.playstation.com/corporate/about/careers](http://us.playstation.com/corporate/about/careers/), SIEA allows job seekers to inquire about jobs and submit personally identifying information in connection with applying for employment. If a job seeker creates a job profile, he or she will be asked to provide an email address and create a password. He or she can use that email address and password to access his or her account, review the information in his or her profile, edit or delete his or her profile at any time.
+Through our job page at [https://us.playstation.com/corporate/about/careers](https://us.playstation.com/corporate/about/careers/), SIEA allows job seekers to inquire about jobs and submit personally identifying information in connection with applying for employment. If a job seeker creates a job profile, he or she will be asked to provide an email address and create a password. He or she can use that email address and password to access his or her account, review the information in his or her profile, edit or delete his or her profile at any time.
 
 We treat personally identifying information submitted to us for business purposes differently from information we receive in a non-business capacity. We may share resumes or potential developer contact information submitted to us, for example, with other Sony companies or third parties, depending on the nature of the inquiry.
 
@@ -139,7 +139,7 @@ In the event that SIEA sells or transfers its business or its business is acquir
 We will retain personally identifying information about you for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law or regulations.
 
 **Changes to Our Privacy Policy**    
-**We reserve the right to make changes to this privacy policy at any time. If we make a material change to this privacy policy, we will notify you by posting notice of the change on  [www.us.playstation.com](http://us.playstation.com/) or on our other websites. We will post the changes in the privacy policy and, if necessary, give you additional choices regarding changes. Please check this privacy policy from time to time to ensure that you are aware of these changes. Your continued use of our websites or other SIEA online portals subject to this privacy policy will signify your acceptance of privacy policy changes.**
+**We reserve the right to make changes to this privacy policy at any time. If we make a material change to this privacy policy, we will notify you by posting notice of the change on  [www.us.playstation.com](https://us.playstation.com/) or on our other websites. We will post the changes in the privacy policy and, if necessary, give you additional choices regarding changes. Please check this privacy policy from time to time to ensure that you are aware of these changes. Your continued use of our websites or other SIEA online portals subject to this privacy policy will signify your acceptance of privacy policy changes.**
 
 **Contact Us**    
 For further information on our privacy policy, or for questions on information that we may have collected from you, please contact us by either of the following methods and we will be happy to review, update, or change your record status as appropriate:
@@ -149,11 +149,11 @@ Consumer Services Department 
 P.O. Box 5888  
 San Mateo, California, 94402-0888  
 United States of America  
-On the web: [http://us.playstation.com/corporate/contactus](http://us.playstation.com/corporate/contactus/)  
+On the web: [https://us.playstation.com/corporate/contactus](https://us.playstation.com/corporate/contactus/)  
 By Phone: 1-800-345-7669
 
 **ESRB**  
-SIEA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>   
+SIEA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [http://www.esrb.org/privacy/contact.jsp](https://www.esrb.org/privacy/contact.jsp)   
 ESRB   
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
