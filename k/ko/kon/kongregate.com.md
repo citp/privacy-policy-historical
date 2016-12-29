@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623053146id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050211id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
-If you’re reading this, it’s because you want to know: (1) what information we, Kongregate, Inc., are collecting on www.kongregate.com, from Kongregate mobile games, or through social media sites such as Facebook; (2) what we’re doing with the information we collect; and (3) what your options are related to the information we collect. If you have any questions or concerns after reading this, please email us at [support@kongregate.com](mailto:support@kongregate.com).
+If you’re reading this, it’s because you want to know: (1) what information we, Kongregate, Inc., are collecting on www.kongregate.com, from Kongregate mobile games, or through social media sites such as Facebook; (2) what we’re doing with the information we collect; and (3) what your options are related to the information we collect. If you have any questions or concerns after reading this, please email us at support@kongregate.com.
 
 This Privacy Policy applies to the Kongregate website located at www.kongregate.com (“Site”), all mobile games published by Kongregate (“Mobile Applications”), and Kongregate games that can played through social media sites such as Facebook (“SM Games”). It also applies to information we collect about you offline, such as in telephone calls or through email correspondence.
 
@@ -52,27 +52,27 @@ From time to time we may include on the Site, Mobile Applications and/or SM Game
 
 We sometimes work with third parties to add features, advertisements, or offers to our Site, Mobile Applications, or SM Games. These third parties may place cookies on your browser when you visit certain pages, or collect cookies that they have previously placed, along with the URL of the page you visited. We may have to pass these providers a non-personally identifiable user number specific to your Mobile Application to properly credit your account. Additionally, the Site, Mobile Applications, and/or SM Games may utilize third party tracking services to anonymously analyze your usage activity, which will be used to improve the Site, Mobile Application, and SM Games experiences. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This Privacy Policy does not cover those third parties’ use of data.
 
-To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our [FAQ](https://kong.zendesk.com/?external-link=true).
+To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our FAQ.
 
 ## Security
 
-We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at [www.onguardonline.gov](http://www.onguardonline.gov/?external-link=true).
+We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government’s website at www.onguardonline.gov.
 
 ## Children’s Privacy
 
-The Site, Mobile Applications, and SM Games are designed for and directed at people 18 years of age or older. We do not knowingly collect information from children under 13. If Kongregate learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at [support@kongregate.com](mailto:support@kongregate.com).
+The Site, Mobile Applications, and SM Games are designed for and directed at people 18 years of age or older. We do not knowingly collect information from children under 13. If Kongregate learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at support@kongregate.com.
 
 For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:
 
-  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html?external-link=true)
-  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm?external-link=true)
-  * [www.onguardonline.gov/features/feature-0002-featured-info-parents](http://www.onguardonline.gov/features/feature-0002-featured-info-parents?external-link=true)
+  * www.ftc.gov/privacy/privacyinitiatives/childrens.html
+  * www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm
+  * www.onguardonline.gov/features/feature-0002-featured-info-parents
 
 
 
 ## Right to Remove Posted Information — California Minors
 
-If you are under 18 years of age, reside in California, and have a registered account on the Site, Mobile Applications, or through the SM Games, you have the right to request removal of unwanted information that you publicly post on the Site, Mobile Applications, or through the SM Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at [support@kongregate.com](mailto:support@kongregate.com) stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site, Mobile Applications, or through our SM Games, but the information may not be completely or comprehensively removed from all Kongregate systems. Please note that any removal of content by Kongregate does not ensure or guarantee complete or comprehensive removal of the content in all places. The content may have been shared or reposted by other parties, or federal or state law may require maintenance of the content or information. There may be places, especially if the content is posted on a social media site, that Kongregate has no control over and therefore cannot remove the content.
+If you are under 18 years of age, reside in California, and have a registered account on the Site, Mobile Applications, or through the SM Games, you have the right to request removal of unwanted information that you publicly post on the Site, Mobile Applications, or through the SM Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at support@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site, Mobile Applications, or through our SM Games, but the information may not be completely or comprehensively removed from all Kongregate systems. Please note that any removal of content by Kongregate does not ensure or guarantee complete or comprehensive removal of the content in all places. The content may have been shared or reposted by other parties, or federal or state law may require maintenance of the content or information. There may be places, especially if the content is posted on a social media site, that Kongregate has no control over and therefore cannot remove the content.
 
 ## Your Options
 
@@ -84,7 +84,7 @@ If you wish to edit or manage the information Kongregate receives from social me
 
 If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Site, Mobile Applications, and/or SM Games, which could include simply not providing us with personal information. While this will limit the services that our Site, Mobile Applications, and/or SM Games are able to provide (chat, friends lists, challenges, etc.), most of the games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account.
 
-For questions or concerns regarding the use of personal information you submit to us, please contact us at [support@kongregate.com](mailto:support@kongregate.com).
+For questions or concerns regarding the use of personal information you submit to us, please contact us at support@kongregate.com.
 
 Kongregate   
 450 Sansome Street  
