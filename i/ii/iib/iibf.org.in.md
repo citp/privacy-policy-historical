@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628085348id_/http%3A//www.iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibf.org.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229172539id_/http%3A//www.iibf.org.in/privacypolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Indian Institute of Banking & Finance
 
