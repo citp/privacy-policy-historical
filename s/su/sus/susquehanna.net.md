@@ -1,31 +1,37 @@
-> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000027id_/https%3A//susquehanna.net/misc/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susquehanna.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060618id_/https%3A//www.bbt.com/privacy-and-security/default.page) for the most accurate reproduction.*
 
-# Susquehanna Bank Privacy
+# Privacy & Security | BB&T Bank
 
-This customer privacy notice explains the type of customer information we gather and maintain in order to provide you with valuable financial products and services. We value the trust you have placed in us, so one of our top priorities is to protect the privacy and confidentiality of your personal information. 
+AT BB&T, we work to ensure your personal information is protected. Your security is our highest priority. Our privacy and security information will help you understand the policies that protect you. Learn how to minimize your risk and protect yourself online.
 
-Susquehanna respects the privacy of its online banking customers and is committed to protecting their information on our Web site. Whether you are a current customer or just visiting online, we safeguard the information you provide to us. We only collect non-identifying information about our visitors such as date and time our site was accessed, what pages were visited, what servers were used, and the city, state and country of the visitor as identified by the server address. Susquehanna collects this information to create summary statistics and determine the level of interest in our information made available on our Web site that helps us to establish products and services to best meet our customers' needs. 
+## Relax and Bank with Confidence
 
-Visitors may elect to submit personal information via email, by submitting an application, or by requesting information. This information may be used internally by Susquehanna, as appropriate, to handle the sender's request. It is not disseminated or sold to other organizations. 
+Get the answers you need to make smart online banking decisions.
 
-We reserve the right to introduce new services or practices that may require a change to the provisions of this notice. We are committed to updating our Internet Privacy Notice promptly to keep you informed on how we use information you give us. 
+### [Privacy](https://web.archive.org/privacy-and-security/privacy/default.page)
 
-Please read the [Privacy Notice](https://web.archive.org/pdf/SusquehannaPrivacyPolicy.pdf) before completing the following. 
+Protect your personal information
 
-By checking the box the following will apply to your customer record only. 
+### [Security](https://web.archive.org/privacy-and-security/security/default.page)
 
-|  Any information about your creditworthiness will not be shared with Susquehanna's affiliates for their everyday business purposes.   
----|---  
-  |  Your personal information will not be used by Susquehanna's affiliates to market to you.   
-  |  Your personal information will not be used by Susquehanna's non-affiliates to market their products and services to you. Due to the timing of marketing projects already in process, customers could still be contacted until current projects are complete.   
-  
-Personal Information   
----  
-|  First Name: |  |  **MI**      
----|---|---  
-**Last Name:** |  |   
-  
-Last 4 digits of SSN:
+Guarantee your accounts are secure
 
-|   *  
-  
+**Privacy & Security Frequently Asked Questions**
+
+##  What are some of the advantages of information sharing?
+
+Advantages include: our ability to share information among the companies in our Corporate Family enables us to offer you a wide variety of financial products and services, such as credit cards, investment products, certificates of deposit, home equity loans and checking accounts, and to send you special offers on our products. This sharing could save you time and provide convenience for you. Also, we have carefully chosen some companies in order to jointly offer other beneficial financial products, such as mortgage and credit life insurance.
+
+##  Do you collect information through cookies?
+
+Yes, we may collect information necessary to manage your online session with us. For more information, please visit the Online Information Practices section of the website.
+
+## Contact Us
+
+__
+
+### By Phone
+
+Call us at **800-BANK-BBT (800-226-5228)**.
+
+__
