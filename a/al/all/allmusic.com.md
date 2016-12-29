@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617195245id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060612id_/http%3A//www.allmusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllMusic
 
@@ -62,15 +62,15 @@ BACK TO TOP
 
 ## Tracking and Cookies
 
-When you visit 1R websites and other 1R Properties, we and our advertising partners may store and access information from your device, including “cookies”, clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising partners do this for a variety of purposes. In the case of our advertising partners, this may include the personalisation of advertisements based on your visits to sites in that partner's network. 
+When you visit 1R websites and other 1R Properties, we and our advertising associates may store and access information from your device, including "cookies", clear GIFs (which are also sometimes called web bugs or web beacons) and browser details. We may collect information such as your browser type, the type of operating system you use, the domain name of your Internet service provider, IP address, pages visited on the site, services used and how you have used them. We and our advertising associates do this for a variety of purposes. In the case of our advertising associates, this may include the personalisation of advertisements based on your visits to sites in that party's network. 
 
-We may provide data about our users, traffic patterns, products, services and site information to third-parties (such as vendors, advertisers and our business partners) (‘Partners'), but we will use reasonable efforts to provide it in a form that does not directly identify you. 
+1R websites do not respond to “Do Not Track” requests. In addition, we are not responsible, and shall not be liable, for the acts of third parties, such as ad networks, with respect to such third parties’ tracking policies. 
 
 BACK TO TOP
 
 ## Consent for use of cookies
 
-Some countries require you to consent to our and our advertising partner's use of some cookies, including in Europe. Where such requirements may be applicable, 1R highlights its use of cookies to you when visit 1R Properties for the first time. If you continue to use this 1R Property, we will imply from this that you consent to our use of cookies. 
+Some countries require you to consent to our and our advertising associates' use of some cookies, including in Europe. Where such requirements may be applicable, 1R highlights its use of cookies to you when visit 1R Properties for the first time. If you continue to use this 1R Property, we will imply from this that you consent to our use of cookies. 
 
 Information about our use of cookies is contained in our ["Cookie Information"](https://web.archive.org/cookies). 
 
