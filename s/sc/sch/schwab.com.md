@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618002103id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055340id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
-Rev. July 2015
+Rev. July 2016
 
 FACTS | **WHAT DOES THE CHARLES SCHWAB CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -31,7 +31,7 @@ Reasons we can share your personal information | Does The Charles Schwab Corpora
 **If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-**Questions?** | Call **877-812-1817** or **800-435-4000** or go to [www.schwab.com/privacy](http://www.schwab.com/public/schwab/nn/legal_compliance/privacy)  
+**Questions?** | Call **877-812-1817** or **800-435-4000** or go to [www.schwab.com/privacy](http://www.schwab.com/public/schwab/nn/legal_compliance/privacy).  
 **Who we are**  
 ---  
 **Who is providing this notice?** | The Charles Schwab Corporation (also "Schwab") and its affiliates. See list of affiliates below.  
@@ -58,7 +58,7 @@ State laws and individual companies may give you additional rights to limit shar
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.   
 
 
-  * _Our affiliates include companies with a Charles Schwab name; financial companies such as Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management, Inc., Schwab Wealth Investment Advisory, Inc.; and nonfinancial companies such as Schwab Performance Technologies and Schwab Compliance Technologies, Inc._
+  * _Our affiliates include companies with a Charles Schwab name; financial companies such as Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc., Windhaven Investment Management, Inc., Schwab Wealth Investment Advisory, Inc., and Charles Schwab Trust Company; and nonfinancial companies such as Schwab Performance Technologies and Schwab Compliance Technologies, Inc._
 
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies. _
@@ -85,6 +85,6 @@ Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charl
 
 To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](http://www.schwab.com/privacy).
 
-©2015 The Charles Schwab Corporation. All rights reserved. CC001457 REG60835FM-05 (07/15)  
+©2016 The Charles Schwab Corporation. All rights reserved. CC0494006 REG60835FM-06 (07/16)  
   
 
