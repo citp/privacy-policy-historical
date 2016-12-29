@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184251id_/http%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031159id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statemant - UsingEnglish.com
 
@@ -215,7 +215,7 @@ We may charge a small administration fee (not exceeding the maximum permitted by
 
 **Unsubscribing from emails**
 
-If you wish to unsubscribe from newsletters from usingenglish.com, please click on the unsubscribe link in your email or amend your email preferences [here](http://www.usingenglish.com/members/settings.php "here"). Other parts of the site may send you emails including notifications and reminders which you can control by modifying your user options from within your profile control panel [here](http://www.usingenglish.com/forum/profile.php?do=editoptions).
+If you wish to unsubscribe from newsletters from usingenglish.com, please click on the unsubscribe link in your email or amend your email preferences [here](https://www.usingenglish.com/members/settings.php "here"). Other parts of the site may send you emails including notifications and reminders which you can control by modifying your user options from within your profile control panel [here](https://www.usingenglish.com/forum/profile.php?do=editoptions).
 
 **Changes to this Privacy Policy**
 
