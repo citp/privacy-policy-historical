@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617232418id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boingboing.net privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229031041id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/prebid.js"></script>
+<!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>Boing Boing Privacy Policy / Boing Boing</title>
@@ -13,7 +13,7 @@
 
 <link rel="apple-touch-icon" href="http://media.boingboing.net/wp-content/themes/bng/i/apple-touch-icon.png">     
 
-<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 <script>
   WebFont.load({
     google: {
@@ -22,7 +22,6 @@
   });
 </script>
 
-<script src="//assets.vidora.com/js/boingboing.59286bf730e44172.js"></script>
 
 <link rel="stylesheet" href="http://media.boingboing.net/wp-content/themes/bng/style.css?=v1" type="text/css" media="all">
 
@@ -30,673 +29,24 @@
 	<meta property="og:image" content="http://media.boingboing.net/wp-content/themes/bng/i/placeholder.png">
 	<meta property="og:type" content="blog">
 		
-<!-- NEW AD HEADER CODE BEGINS HERE-->
+<!-- AD CODE -->
+
+
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
 
 <script>
-var DFPGPTPassback = (function() {
-  var slots = {};
-  return {
-    slots: slots,
-    init: function() {
-      var proxied = googletag.defineSlot;
-      googletag.defineSlot = function() {
-        var slot = proxied.apply(this, arguments);
-        slots[slot.getSlotElementId()] = slot;
-        return slot;
-      };
-    },
-    passback: function(iframeName, passback) {
-      var container = document.getElementById(iframeName + '__container__');
-        var iframeParent = container.parentNode;
-        var slotId = iframeParent.id;
-        if( ! slots.hasOwnProperty(slotId) ) {
-          slots[slotId] = {};
-        }
-        var slot = slots[slotId];
-        if( ! slot.hasOwnProperty('passbacks') ) {
-          slot.passbacks = [];
-        }
-        slot.passbacks.push(passback);
-        slot.setTargeting('passback', slot.passbacks);
-        googletag.pubads().refresh([slot]);
-    }
-  };
-})();
 
-var PREBID_TIMEOUT = 1000;
+	var pageType = 'Blog'; // 'Feature' or 'Homepage' or 'Blog'
 
-var googletag = googletag || {};
+window.googletag = window.googletag || {};
 googletag.cmd = googletag.cmd || [];
 
-function initAdserver() {
-    if (pbjs.initAdserverSet) return;
-    (function() {
-        var gads = document.createElement('script');
-        gads.async = true;
-        gads.type = 'text/javascript';
-        var useSSL = 'https:' == document.location.protocol;
-        gads.src = (useSSL ? 'https:' : 'http:') +
-        '//www.googletagservices.com/tag/js/gpt.js';
-        var node = document.getElementsByTagName('script')[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
-    pbjs.initAdserverSet = true;
-};
-setTimeout(initAdserver, PREBID_TIMEOUT);
-
-var pbjs = pbjs || {};
-pbjs.que = pbjs.que || [];
-(function() {
-    var pbjsEl = document.createElement("script");
-    pbjsEl.type = "text/javascript";
-    pbjsEl.async = true;
-    pbjsEl.src = "/prebid.js";
-    var pbjsTargetEl = document.getElementsByTagName("head")[0];
-    pbjsTargetEl.insertBefore(pbjsEl, pbjsTargetEl.firstChild);
-})();
-
-function ybWidth() {
-    var w = window,
-            d = document,
-            e = d.documentElement,
-            x = Math.max(e.scrollWidth,e.offsetWidth,e.clientWidth);
-    return x;
-}
-
-// TODO
-// use Wordpress/PHP to pick "Homepage", Blog" or "Features" here
-// 
-
-
-
-	var dfpPageType = 'Blog'; // 'Features' or 'Homepage' or 'Blog'
-
-	
-// This selection is used in the javascript below to decide which ad units
-// to load for each different page type
-// 
-
-pbjs.que.push(function() {
-
-    var idsForBids = {
-        'appNexus':{
-            '728x90':'8489907',
-            '300x250':'8494054',
-            '300x600':'8493902',
-            '320x50':'8494209'
-        },
-        'aol':{
-            '728x90':'4118625',
-            '300x250':'4117784',
-            '300x600':'4117782',
-            '320x50':'4117780'
-        },
-        'aolSizeID':{
-            '728x90':'225',
-            '300x250':'170',
-            '300x600':'529',
-            '320x50':'3055'
-        }
-    };
-
-
-    var prebid_Homepage_300x250_125x125_125x275 = {
-        code: 'div-gpt-ad-Homepage_300x250_125x125_125x275',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'rec' }
-            }]
-    };
-
-    var prebid_Homepage_300x250_300x600_1_1 = {
-        code: 'div-gpt-ad-Homepage_300x250_300x600_1',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB' }
-            }]
-    };
-
-    var prebid_Homepage_300x250_300x600_1_2 = {
-        code: 'div-gpt-ad-Homepage_300x250_300x600_1',
-        sizes: [[300, 600]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x600'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x600'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x600'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB2' }
-            }]
-    };
-
-    var prebid_Homepage_300x250_300x600_2_1 = {
-        code: 'div-gpt-ad-Homepage_300x250_300x600_2',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB' }
-            }]
-    };
-
-    var prebid_Homepage_300x250_300x600_2_2 = {
-        code: 'div-gpt-ad-Homepage_300x250_300x600_2',
-        sizes: [[300, 600]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x600'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x600'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x600'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB2' }
-            }]
-    };
-
-    var prebid_Homepage_Leaderboard_1 = {
-        code: 'div-gpt-ad-Homepage_Leaderboard',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'MLB' }
-            }]
-    };
-
-    var prebid_Homepage_Leaderboard_2 = {
-        code: 'div-gpt-ad-Homepage_Leaderboard',
-        sizes: [[728, 90]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['728x90'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['728x90'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['728x90'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'leaderboard' }
-            }]
-    };
-
-    var prebid_Homepage_Mobile_1_1 = {
-        code: 'div-gpt-ad-Homepage_Mobile_1',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            }]
-    };
-    var prebid_Homepage_Mobile_1_2 = {
-        code: 'div-gpt-ad-Homepage_Mobile_1',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'mobrec' }
-            }]
-    };
-
-
-    var prebid_Homepage_Mobile_2_1 = {
-        code: 'div-gpt-ad-Homepage_Mobile_2',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            }]
-    };
-    var prebid_Homepage_Mobile_2_2 = {
-        code: 'div-gpt-ad-Homepage_Mobile_2',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            }]
-    };
-
-    var prebid_Blog_300x250_125x125_125x275 = {
-        code: 'div-gpt-ad-Blog_300x250_125x125_125x275',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'rec' }
-            }]
-    };
-
-    var prebid_Blog_300x250_300x600_1_1 = {
-        code: 'div-gpt-ad-Blog_300x250_300x600_1',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB' }
-            }]
-    };
-
-    var prebid_Blog_300x250_300x600_1_2 = {
-        code: 'div-gpt-ad-Blog_300x250_300x600_1',
-        sizes: [[300, 600]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x600'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x600'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x600'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB2' }
-            }]
-    };
-
-    var prebid_Blog_300x250_300x600_2_1 = {
-        code: 'div-gpt-ad-Blog_300x250_300x600_2',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB' }
-            }]
-    };
-
-    var prebid_Blog_300x250_300x600_2_2 = {
-        code: 'div-gpt-ad-Blog_300x250_300x600_2',
-        sizes: [[300, 600]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x600'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x600'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x600'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB2' }
-            }]
-    };
-
-    var prebid_Blog_Leaderboard_1 = {
-        code: 'div-gpt-ad-Blog_Leaderboard',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'MLB' }
-            }]
-    };
-
-    var prebid_Blog_Leaderboard_2 = {
-        code: 'div-gpt-ad-Blog_Leaderboard',
-        sizes: [[728, 90]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['728x90'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['728x90'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['728x90'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'leaderboard' }
-            }]
-    };
-
-    var prebid_Blog_Mobile_1_1 = {
-        code: 'div-gpt-ad-Blog_Mobile_1',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            }]
-    };
-    var prebid_Blog_Mobile_1_2 = {
-        code: 'div-gpt-ad-Blog_Mobile_1',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'mobrec' }
-            }]
-    };
-
-    var prebid_Blog_Mobile_2_1 = {
-        code: 'div-gpt-ad-Blog_Mobile_2',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            }]
-    };
-    var prebid_Blog_Mobile_2_2 = {
-        code: 'div-gpt-ad-Blog_Mobile_2',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            }]
-    };
-
-    var prebid_Feature_300x250_300x600_1 = {
-        code: 'div-gpt-ad-Feature_300x250_300x600',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB' }
-            }]
-    };
-
-    var prebid_Feature_300x250_300x600_2 = {
-        code: 'div-gpt-ad-Feature_300x250_300x600',
-        sizes: [[300, 600]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x600'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x600'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x600'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'SB2' }
-            }]
-    };
-
-    var prebid_Feature_300x250_125x125_125x275 = {
-        code: 'div-gpt-ad-Feature_300x250_125x125_125x275',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'rec' }
-            }]
-    };
-
-    var prebid_Feature_300x250_728x90_970x90_970x250_1 = {
-        code: 'div-gpt-ad-Feature_300x250_728x90_970x90_970x250',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            }]
-    };
-    var prebid_Feature_300x250_728x90_970x90_970x250_2 = {
-        code: 'div-gpt-ad-Feature_300x250_728x90_970x90_970x250',
-        sizes: [[728, 90]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['728x90'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['728x90'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['728x90'] }
-            }]
-    };
-
-
-    var prebid_Feature_Mobile_1_1 = {
-        code: 'div-gpt-ad-Feature_Mobile_1',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'mobrec' }
-            }]
-    };
-    var prebid_Feature_Mobile_1_2 = {
-        code: 'div-gpt-ad-Feature_Mobile_1',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            }]
-    };
-
-
-    var prebid_Feature_Mobile_2_1 = {
-        code: 'div-gpt-ad-Feature_Mobile_2',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            }]
-    };
-    var prebid_Feature_Mobile_2_2 = {
-        code: 'div-gpt-ad-Feature_Mobile_2',
-        sizes: [[300, 250]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['300x250'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['300x250'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['300x250'] }
-            }]
-    };
-
-    var prebid_Feature_Leaderboard_1 = {
-        code: 'div-gpt-ad-Feature_Leaderboard',
-        sizes: [[320, 50]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['320x50'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['320x50'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['320x50'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '5051', slot: 'MLB' }
-            }]
-    };
-
-    var prebid_Feature_Leaderboard_2 = {
-        code: 'div-gpt-ad-Feature_Leaderboard',
-        sizes: [[728, 90]],
-        bids: [{
-                bidder: 'appnexus',
-                params: { placementId: idsForBids['appNexus']['728x90'] }
-            },{
-                bidder: 'aol',
-                params: { placement: idsForBids['aol']['728x90'], 'network': '9965.1', 'sizeId': idsForBids['aolSizeID']['728x90'] }
-            },{
-                bidder: 'yieldbot',
-                params: { psn: '7882', slot: 'leaderboard' }
-            }]
-    };
-
-    var adUnits_Homepage_Desktop = [
-        prebid_Homepage_300x250_125x125_125x275,
-        prebid_Homepage_300x250_300x600_1_1,
-        prebid_Homepage_300x250_300x600_1_2,
-        prebid_Homepage_300x250_300x600_2_1,
-        prebid_Homepage_300x250_300x600_2_2,
-        prebid_Homepage_Leaderboard_2
-    ];
-
-    var adUnits_Homepage_Mobile = [
-        prebid_Homepage_Leaderboard_1,
-        prebid_Homepage_Mobile_1_1,
-        prebid_Homepage_Mobile_1_2,
-        prebid_Homepage_Mobile_2_1,
-        prebid_Homepage_Mobile_2_2
-    ];
-
-    var adUnits_Blog_Desktop = [
-        prebid_Blog_300x250_125x125_125x275,
-        prebid_Blog_300x250_300x600_1_1,
-        prebid_Blog_300x250_300x600_1_2,
-        prebid_Blog_300x250_300x600_2_1,
-        prebid_Blog_300x250_300x600_2_2,
-        prebid_Blog_Leaderboard_2
-    ];
-
-    var adUnits_Blog_Mobile = [
-        prebid_Blog_Leaderboard_1,
-        prebid_Blog_Mobile_1_1,
-        prebid_Blog_Mobile_1_2,
-        prebid_Blog_Mobile_2_1,
-        prebid_Blog_Mobile_2_2
-    ];
-
-    var adUnits_Feature_Desktop = [
-        prebid_Feature_300x250_300x600_1,
-        prebid_Feature_300x250_300x600_2,
-        prebid_Feature_300x250_125x125_125x275,
-        prebid_Feature_300x250_728x90_970x90_970x250_2,
-        prebid_Feature_Leaderboard_1
-    ];
-
-    var adUnits_Feature_Mobile = [
-        prebid_Feature_300x250_728x90_970x90_970x250_1,
-        prebid_Feature_Mobile_1_1,
-        prebid_Feature_Mobile_1_2,
-        prebid_Feature_Mobile_2_1,
-        prebid_Feature_Mobile_2_2,
-        prebid_Feature_Leaderboard_1
-    ];
-
-
-    if(dfpPageType == 'Homepage') {
-        adUnitsDesktop = adUnits_Homepage_Desktop;
-        adUnitsMobile = adUnits_Homepage_Mobile;
-    } else if(dfpPageType == 'Blog') {
-        adUnitsDesktop = adUnits_Blog_Desktop;
-        adUnitsMobile = adUnits_Blog_Mobile;
-    } else {
-        adUnitsDesktop = adUnits_Feature_Desktop;
-        adUnitsMobile = adUnits_Feature_Mobile;
-    }
-
-    var adUnits = adUnitsDesktop;
-    if(ybWidth() < 600) {
-        adUnits = adUnitsMobile;
-    }
-
-    pbjs.addAdUnits(adUnits);
-    pbjs.bidderSettings = {
-      standard: {
-          alwaysUseBid: false,
-          adserverTargeting: [{
-              key: "hb_bidder",
-              val: function(bidResponse) {
-                  return bidResponse.bidder;
-              }
-          }, {
-              key: "hb_adid",
-              val: function(bidResponse) {
-                  return bidResponse.adId;
-              }
-          }, {
-              key: "hb_pb",
-              val: function(bidResponse) {
-                  return bidResponse.pbHg;
-              }
-          }]
-      }
-  };
-  pbjs.requestBids({
-      bidsBackHandler: function(bidResponses) {
-          initAdserver();
-      }
-  });
-});
-
 googletag.cmd.push(function() {
-    DFPGPTPassback.init();
 
     var mapLeaderboard = googletag.sizeMapping()
         .addSize([970, 0], [[728, 90], [970, 90], [970, 250]])
@@ -729,62 +79,64 @@ googletag.cmd.push(function() {
         .addSize([0, 0], [[320, 50], [300, 250]])
         .build();
 
-
-
-    if(dfpPageType == 'Homepage')
+    if(pageType == 'Homepage')
     {
-        googletag.defineSlot('/6203160/Homepage_300x250_125x125_125x275', [[125, 125], [125, 275], [300, 250]], 'Homepage_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Homepage_300x250_300x600_1', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Homepage_300x250_300x600_2', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Homepage_Leaderboard', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Homepage_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Homepage_Mobile_1', [[300, 250], [320, 50]], 'Homepage_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Homepage_Mobile_2', [[300, 250], [320, 50]], 'Homepage_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());    
+        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Homepage_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Homepage_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Homepage_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[320, 50]], 'Homepage_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Homepage_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());    
     }
-    else if(dfpPageType == 'Blog')
+    else if(pageType == 'Blog')
     {
-        googletag.defineSlot('/6203160/Blog_300x250_125x125_125x275', [[125, 125], [125, 275], [300, 250]], 'Blog_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Blog_300x250_300x600_1', [[300, 600], [300, 250]], 'Blog_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Blog_300x250_300x600_2', [[300, 600], [300, 250]], 'Blog_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Blog_Leaderboard', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Blog_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Blog_Mobile_1', [[300, 250], [320, 50]], 'Blog_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Blog_Mobile_2', [[300, 250], [320, 50]], 'Blog_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Blog_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Blog_300x250_300x600_1').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Blog_300x250_300x600_2').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Blog_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Blog_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Blog_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
     }
     else
     {
-        googletag.defineSlot('/6203160/Feature_300x250_300x600', [[300, 600], [300, 250]], 'Feature_300x250_300x600').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Feature_300x250_125x125_125x275', [[125, 125], [125, 275], [300, 250]], 'Feature_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Feature_300x250_728x90_970x90_970x250', [[970, 90], [970, 250], [300, 250], [728, 90]], 'Feature_300x250_728x90_970x90_970x250').defineSizeMapping(mapLeaderboardSquare).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Feature_Mobile_1', [[300, 250], [320, 50]], 'Feature_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Feature_Mobile_2', [[300, 250], [320, 50]], 'Feature_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
-        googletag.defineSlot('/6203160/Feature_Leaderboard', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Feature_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 600], [300, 250]], 'Feature_300x250_300x600').defineSizeMapping(mapDesktopSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[125, 125], [125, 275], [300, 250]], 'Feature_300x250_125x125_125x275').defineSizeMapping(mapDesktopSquare1).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[970, 90], [970, 250], [300, 250], [728, 90]], 'Feature_300x250_728x90_970x90_970x250').defineSizeMapping(mapLeaderboardSquare).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Feature_Mobile_1').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[300, 250], [320, 50]], 'Feature_Mobile_2').defineSizeMapping(mapMobileSidebar).addService(googletag.pubads());
+        googletag.defineSlot('/5611/boinboing', [[320, 100], [320, 50], [970, 90], [970, 250], [728, 90], [300, 50]], 'Feature_Leaderboard').defineSizeMapping(mapLeaderboard).addService(googletag.pubads());
     }
 
-    googletag.defineSlot('/6203160/300x300_ad_squares', [[300, 300], [300, 445]], '300x300_ad_squares').defineSizeMapping(mapDesktopSquare3).addService(googletag.pubads());
-
-    googletag.pubads().setTargeting('is_home', 'no');
-googletag.pubads().setTargeting('is_testing', 'no');
-
+		googletag.defineSlot('/5611/boinboing', [[300, 300], [300, 445]], '300x300_ad_squares').defineSizeMapping(mapDesktopSquare3).addService(googletag.pubads());
+	
+		
+ 
+ 	googletag.pubads().setTargeting('is_home', 'no');
+	googletag.pubads().setTargeting('is_testing', 'no'); // staging server? 
     googletag.pubads().setCentering(true);
     googletag.pubads().collapseEmptyDivs();
-
-    pbjs.que.push(function() {
-        pbjs.setTargetingForGPTAsync();
-    });
+   
+	googletag.pubads().enableSingleRequest(); //  Added per DT framework
+	
     googletag.enableServices();
 });
 </script>
 
+<!-- UnrulyX tag -->
+<script>var unruly=window.unruly || {};unruly.native=unruly.native || {};unruly.native.siteId=1021419;</script>
+<script src="//video.unrulymedia.com/native/native-loader.js"></script>
 
-<!-- NEW AD HEADER CODE ENDS HERE-->
+<!-- END OF AD CODE -->
 
 
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Boing Boing » Feed" href="http://boingboing.net/feed">
 <link rel="alternate" type="application/rss+xml" title="Boing Boing » Comments Feed" href="http://boingboing.net/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Boing Boing » Boing Boing Privacy Policy Comments Feed" href="http://boingboing.net/privacy/feed">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://boingboing.net/wp-includes/js/wp-emoji-release.min.js?ver=4.5.2" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boingboing.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://boingboing.net/wp-includes/js/wp-emoji-release.min.js?ver=4.7" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -799,11 +151,11 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="jetpack_css-css" href="http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://media.boingboing.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2" type="text/css" media="all">
 <link rel="https://api.w.org/" href="http://boingboing.net/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://boingboing.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://media.boingboing.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.2">
+<meta name="generator" content="WordPress 4.7">
 <link rel="canonical" href="http://boingboing.net/privacy">
 <link rel="shortlink" href="http://boingboing.net/?p=238808">
 <link rel="alternate" type="application/json+oembed" href="http://boingboing.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboingboing.net%2Fprivacy">
@@ -818,16 +170,20 @@ img.emoji {
 <meta property="og:type" content="article">
 <meta property="og:title" content="Boing Boing Privacy Policy">
 <meta property="og:url" content="http://boingboing.net/privacy">
-<meta property="og:description" content="Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015) Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboing.net (“Boing …">
+<meta property="og:description" content="Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016) Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboi…">
 <meta property="article:published_time" content="2013-06-27T16:16:11+00:00">
-<meta property="article:modified_time" content="2016-02-20T00:29:18+00:00">
+<meta property="article:modified_time" content="2016-12-20T19:16:49+00:00">
 <meta property="og:site_name" content="Boing Boing">
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@boingboing">
+
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+<meta http-equiv="X-UA-Compatible" content="IE=10">
+
 </head>
-<body class="page page-id-238808 page-template-default">
+<body class="page-template-default page page-id-238808">
     <!-- Header -->
    
          
@@ -839,7 +195,7 @@ img.emoji {
 	
 	<div id="post-238808" class="post">
 	
-		<em><p>Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015)</p>
+		<em><p>Effective: Jun. 27, 2013 (updated: Jan. 1, 2015; Feb. 17, 2015, Dec. 20, 2016)</p>
 </em>
 <p>Welcome to Boing Boing, a Website created by Happy Mutants, LLC, (“Happy Mutants,” “We,” “Us”) which lives at boingboing.net (“Boing Boing,” “Website,” “Site”). This Privacy Policy applies to any information that is collected while you are on the Site and our hosted discussion forum at bbs.boingboing.net. Our goal with this policy is to be transparent about the information we collect, how we use it, and how it is shared.</p>
 
@@ -851,7 +207,7 @@ img.emoji {
 <p>When you visit the Site we collect log data, for example: the type of browser and operating system you are using, the address of the external or internal page that referred you, your IP address and pages on the site that you visit in association with your IP address. This information is recorded even if you do not have a Discussion Forum account, or even when you are logged out of your account. We mostly use this information to diagnose issues with the site. We only retain it for three days.</p>
 
 <p>2. We Collect Information Using Cookies</p>
-<p>Advertising pays our bills so we use a lot of cookies. You should know how <a href="http://en.wikipedia.org/wiki/HTTP_cookie">cookies</a> work. You should know what <a href="http://boingboing.net/privacy#cookiepolicy">cookies</a> we use. You should support <a href="http://donottrack.us/">cookie reform efforts</a> if you choose.</p>
+<p>Advertising pays our bills so we use a lot of cookies. You should know how <a href="http://en.wikipedia.org/wiki/HTTP_cookie">cookies</a> work. You should know what <a href="http://boingboing.net/privacy#cookiepolicy">cookies</a> we use. You should support <a href="http://donottrack.us/">cookie reform efforts</a> if you choose.</p> 
 
 <p>3. We collect information when you use our Discussion Forum</p>
 <p>We partner with Civilized Discourse Construction Kit, Inc., (“CDCK”) to provide and host a Discourse.org Discussion Forum. They allow you to create an account that can be used on all their hosted forums. This policy controls how we use the data we are able to access about your account and your use of the Forum. However CDCK also has access to and is able to share all information associated with your Discussion Forum account and your posts on our Forum. Our agreement with them requires that they only use this data to run this forum and for no other purposes. However if you are going to create an account and use the forum, we strongly urge you to read the CDCK Privacy Policy <a href="http://www.discourse.org/hosted-forum-privacy-policy/">here</a>. You should also remember that anything you post on the forum is public and therefore is not covered by this privacy policy-- it is viewable by everyone on the Internet.</p>
@@ -867,6 +223,9 @@ img.emoji {
 
 <p>7. We Collect Information When You Communicate With Us Directly</p>
 <p>If you email us or send other communications to us directly, we will retain your email or address and correspondence so that we may respond to your request. We retain this information indefinitely so that we have a history of our past communications.</p>
+
+<p>8. We DO NOT Collect Information when You Use the Boing Boing Store</p>
+<p><a href="https://www.stackcommerce.com">StackCommerce</a> is our partner for selling stuff via the Store (we know, we know, confusing vs the shop.) Here is StackCommerce's <a href="https://www.stackcommerce.com/privacy/">privacy policy</a>, they do collect information when you buy from the store. We do not have access to user account information or any data provided during the checkout process. We also lament the frequently cheesy copy in the advertisements.</p>
 
 <p><b>WHO DO WE SHARE YOUR INFORMATION WITH?</b></p>
 <p>It is generally our policy not to share or sell your personally identifiable information with any third party. We may, however, share information under the following circumstances:</p>
@@ -910,7 +269,7 @@ img.emoji {
 <p>We host Mint Analytics on our servers to understand how our visitors interact with our site. Our reports aggregate user activity anonymously and do not identify you individually.</p>
 
 <p>3. Social Media Widgets</p>
-<p>We display sharing buttons so you can use social networking to share items from our site. This includes the Add This cookie, which allows us to understand what content you thought was worth sharing. The <a href="http://www.addthis.com/privacy#.Ua-k92Sglk0">Add This Privacy Policy</a> provides an opt-out of their analytics program.</p>
+<p>We display sharing buttons so you can use social networking to share items from our site. This includes <a href="https://www.secretrune.com/privacy-policy">Rune</a>, which allows us to understand what content you thought was worth sharing.</p>
 
 <p>It also includes the Facebook recommend button and other interactive mini-programs that run on our site that collect your IP address, which page you are visiting on our site, and sets a cookie to enable the widget to function properly. Your interactions with these Widgets are governed by the privacy policy of the company providing them, not by this Privacy Policy.</p>
 
@@ -924,21 +283,11 @@ enables us to track when links are followed. Specifically,
 when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/legal/privacy/">privacy policy</a>) (Etsy uses Tiddly, a URL shortener) or Thinkgeek.com (<a href="http://www.thinkgeek.com/help/privacy.shtml">privacy policy</a>) after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.</p>
 
 <p><b>Advertising</b></p>
-<p>1. Google Ad Products</p>
-<p>We use Google Ads products like remarketing, similar audiences and interest categories on our site. Google uses the DoubleClick cookie to serve ads based upon your visits to this website. They also present you with retargeting advertising&nbsp;on other sites based on your previous interaction on our website and other sites. You can adjust Google's use of cookies by visiting Google's <a href="http://www.google.com/settings/ads">Ads Settings</a>. You may <a href="https://www.google.com/settings/u/0/ads/plugin?hl=en&amp;sig=ACi0TCioEXDOsPa8IjFdovMgXR52Z5_ciapDi9aBWF0NP4jQPppY2BYJ0IF3-9zV8zkLxemICvwX7L3h5ApQjk02fG-GqJA3LBQ-u7bXYoVk29_PY_6RVccjpcEvV0INuRfbuOykw-5OSkZre8NH3RNGVMefp2YkLwnH0YhSrC9tqVGmtFxvDk0">permanently opt-out of the Google DoubleClick cookie here</a>.
 
-</p><p>2. Sharethrough</p>
-<p>We partner with Sharethrough to provide online video advertising. Sharethrough uses a cookie and tracking pixel to collect non-personally identifiable information about what ads you click, which they use to target the ads to your interests. <a href="http://www.sharethrough.com/privacy-policy/">Their privacy policy</a> has a link to opt out of this program. 
+<p>1. Digital Trends</p>
+<p>We partner with <a href="http://www.digitaltrends.com">Digital Trends</a> to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). DT's <a href="http://www.digitaltrends.com/legal/privacy-policy/">privacy policy</a> and <a href="http://www.digitaltrends.com/legal/terms-of-use/">terms of service</a> are available to review.
 
-
-
-</p><p>3. Urban Daddy</p>
-<p>We partner with <a href="http://www.urbandaddy.com/">Urban Daddy</a> to provide third-party advertising. Urban Daddy, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address).
-
-</p><p>4. Mediafed</p>
-<p>Our RSS feed is monetized by <a href="http://feedsportal.com/">feedsportal.com</a>, owned by Mediafed, which uses a cookie for analytics collection. They do not use their cookie to collect or track any personally identifiable information about you. Their privacy policy is here and it has <a href="http://res3.feedsportal.com/docs/privacypolicy.html">instructions for opting out of their cookie.</a>
-
-</p><p>5. “Other”</p>
+</p><p>2. “Other”</p>
 <p>We have vendors who we partner with directly to provide advertisements on our Site. &nbsp;You can opt out of many third-party vendor's use of cookies by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative opt-out page</a> and/or <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>.</p>
 
 <p><b>More Advertising Disclosures</b></p>
@@ -962,6 +311,9 @@ when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/
 
 
 <p>
+
+
+
 
 </p><div id="footer">
      
@@ -1005,32 +357,35 @@ when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/
 
 </div>
 
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script>
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
-<link rel="stylesheet" id="custom-style-css" href="http://media.boingboing.net/wp-content/plugins/stackcommerce-deal-feed/wp/includes//css/custom_script.css?ver=4.5.2" type="text/css" media="all">
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/comment-reply.min.js?ver=4.7"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/wp-embed.min.js?ver=4.7"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://media.boingboing.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="stylesheet" id="custom-style-css" href="http://media.boingboing.net/wp-content/plugins/stackcommerce-deal-feed/wp/includes/css/custom_script.css?ver=4.7" type="text/css" media="all">
 <style id="custom-style-inline-css" type="text/css">
 
                 .stackCommerceWidgetSidebar .singlestackCommerceItem .stackCommerceItemPrice{
-                        background: ;
-                        color: ;
+                        background: #e2e2e2;
+                        color: #ffffff;
                 }
                 .stackCommerceWidgetSidebar .singlestackCommerceItem {
-                    background: ;
+                    background: #ffffff;
                 }
                 .stackCommerceWidgetSidebar .singlestackCommerceItem .singlestackCommerceItemDiscount {
-                    background: ;
-                    color: ;
+                    background: #eeee22;
+                    color: #dd3333;
                     display: block;
                 }
                 .stackCommerceSeeAllDeals {
                     display: block;
                 }
                 .stackCommerceInlineDisplayHeader .stackCommerceInlineHeaderText {
-                    font-size: px;
+                    font-size: 40px;
                 }
-                                       .stackCommerceWidgetSidebar {
+                .singlestackCommerceItem {
+                    background: #ffffff;
+                }
+                                                                                                                                                                                                                                                                                                                                                                                       .stackCommerceWidgetSidebar {
 
     background-color: white;margin-bottom:1em; }
                                                                                      .stackCommerceWidgetSidebar .singlestackCommerceItem .stackCommerceItemTitle a {
@@ -1042,28 +397,23 @@ when you make a purchase on Amazon.com, Etsy.com (<a href="https://www.etsy.com/
     color: blue;
     font-weight: bold;
     margin: 10px;
-}                                                
+}              
+
+.page { 
+width: 100%; float: left;
+}                                       
+
+
+.stackCommerceItemImage img {
+margin:0 !important;
+}                                                                                                                                                            
 </style>
 <script type="text/javascript" src="http://media.boingboing.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="https://widgets.stackcommerce.com/deal-feed/stackCommerceWidget.js"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201624"></script>
-    <script>
-    jQuery(document).ready(function() {
-      jQuery('.lazyYT').each(function() {
-        var id = jQuery(this).data('youtube-id'),
-            url = 'https://www.youtube.com/watch?v=' + id;
-        jQuery(this).replaceWith('<a href="' + url + '">' + url + '</a>');
-      });
-      jQuery('a.mention').each(function() {
-                var discourse_url = 'https://bbs.boingboing.net';
-        jQuery(this).attr('href', discourse_url + jQuery(this).attr('href'));
-      });
-    });
-    </script>
-  <script type="text/javascript" src="http://stats.wp.com/e-201624.js" async="" defer=""></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201652"></script>
+<script type="text/javascript" src="http://stats.wp.com/e-201652.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.0.2',blog:'87954168',post:'238808',tz:'-7',srv:'boingboing.net'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'87954168',post:'238808',tz:'-8',srv:'boingboing.net'} ]);
 	_stq.push([ 'clickTrackerInit', '87954168', '238808' ]);
 </script>
 
@@ -1179,43 +529,9 @@ function clickTrack(url, action, label){
 
 </script>
 
-<script>
-var MeasureAdblock = (function() {
-  var init = function() {
-    document.write('<div id="adsense" style="visibility:hidden;">adsense ad</div>');
-    var detect = function() {
-      setTimeout(function() {
-        var detected = 'No';
-        var elt = document.getElementById('adsense');
-        if( ! elt || elt.innerHTML.length === 0 || elt.clientHeight === 0 ) {
-          detected = 'Yes';
-        }
-        elt.style.display = 'none';
-        if(typeof ga === "function") {
-          ga('send', 'event', 'AdBlock', detected);
-        }
-        else if(typeof _gaq != "undefined") {
-          _gaq.push(['_trackEvent', 'AdBlock', detected]);
-        }
-      }, 2000);
-    };
-    if(window.addEventListener) {
-        window.addEventListener('load', detect, false);
-    } else {
-        window.attachEvent('onload', detect);
-    }
-  };
-  return {
-    init: init
-  };
-})();
-
-// init() can optionally be split into a separate <script> tag
-MeasureAdblock.init();
-</script><div id="adsense" style="visibility:hidden;">adsense ad</div>
-
+<!-- Secret Rune tag follows -->
+<script type="text/javascript" src="//cdn.secretrune.com/rune.min.js" async=""></script>
 
 <script src="http://tags.crwdcntrl.net/c/8753/cc_af.js"></script> 
-
 
 </body></html>
