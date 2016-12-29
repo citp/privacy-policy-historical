@@ -1,26 +1,51 @@
-> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326104218id_/http%3A//marketplace.asiajam.com/content_pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiajam.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229102529id_/http%3A//www.asiajam.com/wp-content/uploads/2016/09/070920162.pdf) for the most accurate reproduction.*
 
-# AsiaJam Marketplace
+# I.
 
-We believe your business is no one else's. Your privacy is important to you�and to us. So we'll protect the information you share with us. To protect your privacy, PHP Pro Bid follows different principles in accordance with world-wide practices for customer privacy and data protection. 
+Terms and Privacy Policy
+We respect your privacy and are committed to protecting it, this page hereby stipulates how
+we meet this commitment.
+Our Terms
+I.      Affiliated Links
+Due to this Website’s affiliations with numerous companies, which it had a prior agreement to
+place their ads and web links, hereby reserves its rights when these ad server affiliations gather
+certain information deemed necessary as a consequence of your visit to this Website.
+Nevertheless, kindly take caution every time you click on these ads or web links since you will
+be redirected to a new website. Therefore, we advise that you always take time to read
+carefully and fully understand these new websites’ privacy policies as well as their site’s user
+terms to prevent yourself from unanticipated issues.
+II.     Purchases
+In case you make a purchase or purchases from any of the company sites that our Website
+represents, said company site thereby collects personal information from you such as your full
+name, valid email address, contact number, shipping and/or billing address, and such other
+payment information like your credit card number, credit account name, credit card security
+code and card’s expiration date. Our Website or its staff has no obligation to any of your actions
+and the other company site’s terms and privacy policies. Therefore, it is important that you
+read their terms and privacy policies before filling up their purchase form.
 
-  * We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. 
-  * We'll use the latest security measures to protect your information from unauthorized users. 
 
-
-
-NOTICE 
-
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:
-
-  * To process and activate your order   
-
-  * To identify you 
-  * To help us support you and/or your Business. 
-  * To alert you to product upgrades, special offers, updated information and other new services from PHP Pro Bid. 
-
-
-
-ACCESS
-
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can view and edit personal information you have already given us. 
+Privacy Policy
+I.       Personal Data Protection
+     1. The User warrants that it has the legal right to disclose all Personal Data that it does in
+         fact disclose to us, and that the processing of that Personal Data (by us) for the
+         purposes of responding to your query will not breach any applicable laws.
+     2. We warrant that:
+             (a) information collected will only be used to respond to your requests for our
+                 services;
+             (b) it will act only on instructions from the User in relation to the processing of any
+                 Personal Data that we collect; and
+             (c) appropriate security measures (both technical and organizational) against
+                 unlawful or unauthorized processing of Personal Data are in place.
+II.      Non-Personal Identifiable Information
+Third party companies may set cookies for web analytics purposes, this can track traffic and
+traffic sources and monitor their activities.
+Our website primarily uses activity log files in obtaining user’s IP address, ISP, browser type exit
+logs, date and time logs and other session information necessary to evaluate user’s website
+activity, manage significance of content, and diagnose and resolve service or technical issues.
+III.     Information Disclosure
+We reserve the right to disclose personal information when it believes it is appropriate to
+comply with the law, or in response to a subpoena or a court order. This may include
+exchanging information with other companies for protection against fraud.
+Changes to this Policy
+We reserve the right to modify these Terms and Privacy Policy from time to time as we may
+deem necessary or as may be required by the law.
