@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203074922id_/http%3A//www.daveramsey.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044127id_/http%3A//www.daveramsey.com/company/privacy-policy/%3Fsnid%3Dfooter.company.privacy) for the most accurate reproduction.*
 
 # Real Debt Help - Get out of debt with Dave Ramsey's Total Money Makeover Plan - daveramsey.com
 
