@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625195409id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmove.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229160840id_/http%3A//www.whitehouse.gov/privacy) for the most accurate reproduction.*
 
 # White House Online Privacy Policy | The White House
 
@@ -6,7 +6,7 @@
 
 You do not have to provide the White House with any personal information or create a user account to access information on WhiteHouse.gov. However, for some services, we may need some personal information from you such as your name, address, telephone number, and email address. For example:
 
-  * The [“Contact the White House” form](http://www.whitehouse.gov/contact/submit-questions-and-comments) asks for basic contact information so we can respond to your request;
+  * The [“Contact the White House” form](https://web.archive.org/contact/submit-questions-and-comments) asks for basic contact information so we can respond to your request;
   * When we ask users to share their story or how a policy decision will impact them, we generally ask for their name, zip code, and email address;
   * Creating a user account for our online petitions platform [“We the People”](http://petitions.whitehouse.gov/) requires a valid email address and a first and last name; and
   * We may ask for personal information from people applying to, registering for, or participating in a White House event or competition.
@@ -32,7 +32,7 @@ The White House also uses web measurement and customization technologies (such a
 
 ####  Using the WhiteHouse.gov Mobile Application
 
-When you use the WhiteHouse.gov [Mobile Application](http://www.whitehouse.gov/mobile) (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
+When you use the WhiteHouse.gov [Mobile Application](https://web.archive.org/mobile) (“App”), the App pulls content from the White House website, generating the same basic information as when you visit WhiteHouse.gov (see Visits to WhiteHouse.gov). The WhiteHouse.gov Mobile App does not collect geolocation information or use location services.
 
 You may sign up to receive “push notification” messages via a third party provider (currently Urban Airship). To make sure messages reach the correct devices, our third party provider relies on a device token unique to your mobile device. While we may be able to access a list of the tokens, the App and tokens do not reveal your identity, unique device ID, or contact information to us. If, at any time, you wish to stop receiving push notifications, simply adjust your phone settings or remove the App.
 
@@ -55,7 +55,7 @@ If, at any time, you wish to stop receiving our messages, simply click on the �
 
 ####  Third-Party Websites
 
-The White House maintains official pages or accounts on third-party websites in order to better engage with the American public ([a current list is here](https://www.whitehouse.gov/privacy/current-third-party-pages)). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
+The White House maintains official pages or accounts on third-party websites in order to better engage with the American public ([a current list is here](https://web.archive.org/privacy/current-third-party-pages)). Your activity on those sites is governed by the third-party website’s security and privacy policies. Users of third-party sites often share information with the general public, user community, and/or the third-party operating the site. Consequently, you should review the privacy policies of third-party sites before using them and ensure that you understand how your information may be shared and used. You should also adjust privacy settings on your account on any third-party site to match your preferences.
 
 For the sole purpose of complying with the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html), the White House archives some information that users submit or publish when engaging with the White House through official White House pages or accounts on third-party websites (e.g., by sending a message, posting a comment, “following,” “friending,” or taking similar actions). This information may contain personal information, such as an individual’s username and other public account information, when such information is available based on the user’s privacy settings and the terms of the site. For example:
 
