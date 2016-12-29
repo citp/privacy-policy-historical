@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeupalley.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051443id_/http%3A//www.makeupalley.com/content/content.asp/s%3D0/c%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupalley.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042806id_/https%3A//www.makeupalley.com/content/content.asp/s%3D0/c%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# MakeupAlley Privacy Policy
+# Privacy Policy - MakeupAlley
 
 MakeupAlley is committed to protecting the privacy of our users. We sometimes collect personal information from our users. MakeupAlley maintains the confidentiality, security and integrity of personal information that we obtain from our users. We do not disclose personal information to any outside party. 
 
