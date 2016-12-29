@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624133938id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055635id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Designmodo
 
 Last updated: February 11, 2015
 
-Designmodo Inc. (“us”, “we”, or “our”) operates the http://designmodo.com website (the “Service”).
+Designmodo Inc. (“us”, “we”, or “our”) operates the https://designmodo.com website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://designmodo.com.
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://designmodo.com.
 
 **Information Collection And Use**
 
@@ -86,14 +86,14 @@ We also use social media buttons and/or plugins on this site that allow you to c
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) web page.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
 **Behavioral Remarketing**
 
 Designmodo Inc. uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
 
-  * Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page.Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/) web page.
-  * AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false) web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy) web page.
+  * Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads "Google Ads Settings") page.Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout "Google Analytics Opt-out Browser Add-on") for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the [Google Privacy & Terms](http://www.google.com/intl/en/policies/privacy/ "Google Privacy & Terms") web page.
+  * AdRoll remarketing service is provided by Semantic Sugar, Inc.You can opt-out of AdRoll remarketing by visiting this [AdRoll Advertising Preferences](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false "AdRoll Advertising Preferences") web page.For more information on the privacy practices of AdRoll, please visit the [AdRoll Privacy Policy](http://www.adroll.com/about/privacy "AdRoll Privacy Policy") web page.
 
 
 
