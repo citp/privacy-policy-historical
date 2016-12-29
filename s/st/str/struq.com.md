@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053734id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229060434id_/https%3A//www.quantcast.com/privacy) for the most accurate reproduction.*
 
 # Quantcast Privacy Policy | Quantcast
 
@@ -128,9 +128,9 @@ We contractually require our Quantcast Partners to ensure that their sites and a
 
 ### Quantcast Data Control
 
-The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 201 3rd Street #2, San Francisco, CA 94103.  Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.
+The Quantcast.com Site and Services are made available and provided to persons residing within the United States by Quantcast Corporation, located at 795 Folsom Street, San Francisco, CA 94107. Information or data relating to persons within the United States provided to or gathered by the Quantcast.com Site or Services are controlled by Quantcast Corporation.
 
-The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at Glandore Business Centre, Fitzwilliam Hall, Fitzwilliam Place, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
+The Quantcast.com Site and Services are made available to persons resident outside the United States by Quantcast International Limited, located at 10-12 Hogan Place, Grand Canal St, Dublin 2, Ireland. Information or data relating to persons resident outside the United States provided to or gathered by the Quantcast.com Site or Services is controlled by Quantcast International Limited.
 
 ### Our Memberships and Affiliations
 
@@ -149,8 +149,8 @@ If you have any questions about this Privacy Policy, please let us know.
 Persons in the United States, please contact:
 
 Quantcast Corp.  
-201 Third Street, 2nd Floor  
-San Francisco, CA 94103  
+795 Folsom Street  
+San Francisco, CA 94107  
 Attn: Legal Department  
 Email: [privacy@quantcast.com](mailto:privacy@quantcast.com)
 
