@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gls-group.eu privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051603id_/https%3A//gls-group.eu/EU/en/privacy-policy-group) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gls-group.eu privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045833id_/https%3A//gls-group.eu/EU/en/privacy-policy-group) for the most accurate reproduction.*
 
 # Privacy policy | GLS Parcel Service
 
