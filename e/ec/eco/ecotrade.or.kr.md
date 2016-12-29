@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504020026id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035423id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
@@ -39,8 +39,8 @@ performing research or statistical analysis in order to improve our service, pro
 **2\. Collection of Information**
 
 Your information including, but not limited to, User ID, User Full Name and etc("Registration Information") may be collected at the time of user registration on the Sites.  
-\- Mandatory Information : Business Registration Number, User ID, Password, E-mail, Confirmation Code, User Full Name, Company Name, Street Address, Ku/Kun/City, City/Province, Zip/Postal Code, Phone, Brief Company Description, Main Product / Services Name, Keywords, Category  
-\- Optional Information : Department, Job Title, Fax, Export Amount  
+\- Mandatory Information : User ID, Password, E-mail, User Full Name, Company Name, Company Address, Company Phone  
+\- Optional Information : none  
 
 
 **3\. Retention**
@@ -137,9 +137,9 @@ The Ecotrade handles the users’ privacy with technological and systematic appr
 | Department | Name or Position | Contact Information  
 ---|---|---|---  
 Responsible person | KONETIC | Head of KONETIC | E-mail : junho@keiti.re.kr  
-Senior responsible person | KONETIC | Lee, Young-jun | E-mail : yjlee@keiti.re.kr  
-Handler | KONETIC | Kwon, Beanhary | Tel : 02-380-0559   
-E-mail : bkwon@keiti.re.kr  
+Senior responsible person | KONETIC | Choi, Byeong-Gwon | E-mail : root@keiti.re.kr  
+Handler | KONETIC | Hong, Joon Suk | Tel : 02-380-0568   
+E-mail : thankyou@keiti.re.kr  
   
 ② Users(information provider) can contact the security department when there is any problem in relation to the protection of private policy, complaints, and consequent damage. KEITI will respond to your queries without delay.
 
