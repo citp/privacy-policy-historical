@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410184840id_/http%3A//bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193210id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
@@ -14,19 +14,23 @@ The logs may be preserved indefinitely, and they may be used to prevent security
 
 BEA uses “persistent cookies” on our Web site to gather information on Web site usage. BEA uses the Google Analytics service for trending our users’ activities online. This service does not collect any personally identifiable information, though it may use IP addresses to track what sites and search queries refer visitors to [www.bea.gov](http://www.bea.gov/). Traffic statistics are reported to us  _anonymously and in the aggregate_ , and no information provided by Webtrends is traceable to any specific individual.
 
-BEA also uses “session cookies” for some interactive features on our site (for example, the [balance of payments](http://www.bea.gov/international/bp_web/) interactive feature and the ongoing ACSI surveys) that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends. The survey uses a session cookie to track how many pages a particular visitor has clicked on. This ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and to prevent an individual from getting a survey multiple times in a single session. 
+BEA uses features on our site to enable sharing of content. BEA uses the AddThis sharing component to enable sharing to multiple social media platforms. AddThis collects non-personally identifiable information from many of the web sites that it is enabled. AddThis uses this information to deliver targeted advertising and personalized content on other web sites you may visit. If you prefer that AddThis not collect non-personally identifiable information, you may opt out by clicking visiting their “[opt-out](https://www.addthis.com/privacy/opt-out)” web page.
+
+BEA also uses “session cookies” for some interactive features on our site (for example, the [balance of payments](https://web.archive.org/international/bp_web/) interactive feature and the ongoing ACSI surveys) that identify the visitor for the duration of a browsing session. Session cookies are deleted from our Web servers when your session ends. The survey uses a session cookie to track how many pages a particular visitor has clicked on. This ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and to prevent an individual from getting a survey multiple times in a single session. 
 
 ## Purchasers of BEA Products
 
 Any information that we collect for the purpose of purchasing products will be handled in accordance with the requirements of the Privacy Act and the Freedom of Information Act.  The BEA collects customer information (name, address, phone number, and email address) to process orders for data products.  Any information that would permit identification of individual customers is used only for this purpose and not shared with other agencies or organizations, or with other areas in the Bureau.
 
-If users choose not to enter an e-mail address, they cannot complete a Regional Input-Output Multipliers (RIMS II) order online.  However, they can call our RIMS II staff at (202) 606-5343 and place an order without providing an e-mail address.  
+If users choose not to enter an e-mail address, they cannot complete a Regional Input-Output Multipliers (RIMS II) order online. However, they can call our RIMS II staff at (301) 278-9313 and place an order without providing an e-mail address.  
 
 The BEA does not capture credit card numbers on our servers; credit card, debit card, and check transactions are processed through to the U.S. Government's [PAY.GOV](https://www.pay.gov/paygov/ "https://www.pay.gov/paygov/") system. 
 
 ## Session cookies and BEA's Web satisfaction survey 
 
 BEA is currently conducting a survey to measure customer satisfaction with this Web site. This survey uses a session cookie to track how many pages a particular visitor has clicked on. This ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and to prevent an individual from getting a survey multiple times in a single session. Session cookies are automatically deleted at the end of a session.
+
+If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.
 
 ## Information you provide voluntarily
 
@@ -44,9 +48,3 @@ You have rights under the Privacy Act and the Freedom of Information Act. The Le
 
 
 Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
-
-| 
-
-[Sign up](https://web.archive.org/_subscribe/ "This link will take you to another Web site.") for e-mail notifications.
-
-[Download](https://web.archive.org/exit_site.asp?link=/exit_site.asp?link=http://get.adobe.com/reader/ "This link will take you to another Web site.") the Acrobat Reader.
