@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616100138id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229072523id_/https%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
 # Gigaom | Privacy Policy
 
