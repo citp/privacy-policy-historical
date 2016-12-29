@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628112311id_/http%3A//www.esc4.net/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229163526id_/http%3A//www.esc4.net/terms-privacy) for the most accurate reproduction.*
 
 # 
 
@@ -15,6 +15,7 @@ Region 4 Education Service Center makes no representations about the suitability
 For security purposes, and to maintain service for all users, Region 4’s network system may use software programs to identify attempts to gain unauthorized access or to damage or misuse the systems of the Center’s web site. In the event that a potential security threat is recognized, identifying information about the user and the questionable computer actively may be retained and reviewed for security and other law-enforcement-related purposes.   
   
 ---  
+   
    
   
 **Privacy Policy**  
