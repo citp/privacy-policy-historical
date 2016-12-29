@@ -1,53 +1,94 @@
-> *The following text is extracted and transformed from the disqus.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227062241id_/http%3A//disqus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disqus.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229082058id_/https%3A//help.disqus.com/customer/portal/articles/466259-privacy-policy) for the most accurate reproduction.*
 
-# DISQUS | Terms of Service
+# Privacy Policy | DISQUS
 
-## Privacy Policy
+Use: We use Personally Identifiable Information for the following purposes: (i) internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems or maintaining security, (ii) to operate, maintain, and provide to you the features and functionality of the Service, (iii) to fulfill requests you may make to us, (iv) to personalize your experience and (v) to provide you with information and offers that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. Following termination or deactivation of your Disqus account, Disqus may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Disqus may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Disqus account. Disqus reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Service, or to protect or defend our rights or property or those of any third party. Disqus also reserves the right to remove information upon the request of any third party.
 
-Disqus.com ("Site") provides this Privacy Policy to inform you of our policies and procedures regarding the collection and use of personal information we receive from users who visit the Site and that we receive from users of third party sites which use the Disqus service ("Partner Sites").
+Sharing: We will not rent or sell your Personally Identifiable Information to third parties outside Disqus and its controlled subsidiaries and affiliates without your consent, except as noted below:
 
-### Information Collection on the Site
+  * Who we may share your Personally Identifiable Information with: We may share your Personally Identifiable Information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to the Personally Identifiable Information that is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
 
-In the course of using this Site, you may choose to provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you (“Personal Information”). Personal Information that we collect from Site users may include, but is not limited to, your name, phone number, email address and home and business postal addresses. Personal Information may also include information you supply concerning your preferences and interests expressed in the course of use of our Site if such information is tied to data that identifies you as an individual. When you visit the Site, our servers automatically record non-personal information based upon your usage of the Site. This information may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to our Site and information you search for or use on our Site. Like many websites, we also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your registration ID and login password for future logins to the Site; and we use “session ID cookies” to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our services.
+  * Who you may choose to share your User Content with: Any Personally Identifiable Information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please [change your profile setting](https://help.disqus.com/customer/portal/articles/1197204-making-your-activity-private). If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-### Information Collection on Partner Sites
+  * What happens in the event of a change of control: We may buy or sell/divest the company, or any combination of its products, services, assets and/or businesses. Personally Identifiable Information such as customer names and email addresses, User Content and other user information related to the Service will likely be among the items transferred in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions or similar transactions or proceedings.
 
-Disqus.com may collect information from Partner Sites about you and your usage of the Disqus service on their sites. Such information will not specifically identify you as an individual, but may be used to report anonymous information about your usage of the Partner Site and the Disqus service on that site.
 
-### How We Use Personal Information
 
-Personal Information is only used as described in this Privacy Policy, unless you have consented to another use of your Personal Information. We use Personal Information for the following purposes: (i) internally to provide and improve our Site, services, features and content, (ii) to fulfill requests you may make to us, (iii) to personalize your experience and (iv) to provide you with information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. We may permit our vendors to access your Personal Information, but only in connection with services that they perform for us and not to use for their own purposes. We may share or transfer your Personal Information in connection with a merger, sale or reorganization of all or a part of our business. Lastly, we may disclosure your Personal Information if required to do so by process of law, or if necessary in order to investigate fraud, a violation of the Site Terms of Use or in connection with any harm being caused to a third party or their rights.
 
-### How We Use Non-Personal Information
+Instances where we are required to share your Personally Identifiable Information: Disqus will disclose Personally Identifiable Information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Service](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Disqus, our Users or others.
 
-We may use and disclose non-personal information for any number of reasons and with any number of third parties, including in order to monitor and analyze use of the Site and our services and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, to better tailor it to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors to the Site meet the criteria required to process their requests.
+Disqus recognizes the following guiding principles for any required sharing of information to third parties: a) freedom of expression and identity choice are core to the Disqus platform and should be respected as such, b) law enforcement requests must comply with all laws, particularly those protecting user information, and must clearly establish the legal need for disclosure, c) law enforcement requests must be related to specific investigations and specific accounts implicated in those investigations, d) whenever legally permitted, and barring exceptional circumstances where safety or other factors are deemed a reasonable counteracting concern, Users should receive notice that their specific information is being requested with opportunity to inquire further or contest such requests.
 
-### Information posted in Public Forums
+  * Submitting law enforcement requests: Disqus, Inc. is located in San Francisco, California and will only respond to valid legal process in compliance with U.S. law. All subpoenas must be validly issued through a California or federal court. When requesting user information, official law enforcement authorities should submit the following information by mail to Disqus, Inc., Law Enforcement Requests, 301 Howard St., Suite 300, San Francisco, CA 94105:
 
-You should be aware that Personal Information which you voluntarily include and transmit online in a publicly assessable blog or otherwise online may be viewed and used by others. We are unable to control such uses of your Personal Information, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties.
+    * The display name of the user profile in question.
 
-### Changing or Deleting Your Information
+    * At least one permalink of a comment left by the user profile in question (these permalinks will appear in your browser address bar after clicking on the comment timestamp of any comment on Disqus).
 
-All registered users may review, update or correct the Personal Information provided in their registration or account profile by changing their “user preferences” in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at help@disqus.com. However, we are not able to remove your Personal Information from the records of any third party who has been provided with your information in compliance with this policy.
+    * Details about what specific information is requested and its relationship to your investigation. We cannot process overly broad or vague requests.
 
-### Security
+    * A valid email address so we may get back in touch with you upon receipt of your legal process.
 
-Disqus is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access. However, there are inherent risks in using the Internet, and we cannot guaranty that your information will be 100% secure.
 
-### Policy Toward Children
 
-This Site is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@Disqus.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-### Changes to Privacy Policy
+Non-U.S. law enforcement requests: U.S. law authorizes Disqus to respond to requests for user information from foreign law enforcement agencies that are issued via U.S. court either by way of a mutual legal assistance treaty or a letter rogatory. Disqus will respond to such U.S. court ordered requests when properly served.
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that materially differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+How We Use and Share Non-Personally Identifiable Information
 
-### United States of America:
+Use: We may use and disclose non-personally identifiable information for any number of reasons and with any number of third parties, including in order to monitor and analyze use of the Site and our services and for the Site’s technical administration, to diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses, to increase our Site’s functionality and user-friendliness, to better tailor it to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, to verify that visitors to the Site meet the criteria required to process their requests, and to automatically update the Disqus application on your system and related devices.
 
-Our Site is maintained in the United States of America. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this policy.
+Sharing: We may share Non-Personally Identifiable Information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) in any manner permitted for Personally Identifiable Information; (ii) with our third-party business partners for use in anonymous advertising targeting; (iii) for the purposes described in the section above. We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
 
-### Contact
+Ads on Disqus
 
-If you have any questions about this Privacy Policy, please contact us at biz@disqus.com
+We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Service with our business partners to deliver advertisements (“ads”) that may be of interest to you. Disqus may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Service, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Service, and to measure the effectiveness of their ads and to personalize the advertising content.
 
-This Privacy Policy was last updated on May 11, 2009
+Please note that an advertiser may ask Disqus to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Disqus determines the target audience and Disqus serves the advertising to that audience and only provides anonymous aggregated data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
+
+The Disqus Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
+
+Information posted in Public Forums
+
+The Service provides a commenting platform and you should be aware that any information which you voluntarily include and transmit online in a publicly accessible blog or otherwise online may be viewed and used by others. We are unable to control such uses of your information, and by using such services you assume the risk that the information provided by you may be viewed and used by third parties.
+
+Changing or Deleting Your Information & Targeting Opt-Out  
+ 
+
+All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their “user preferences” in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please follow [these steps](https://help.disqus.com/customer/portal/articles/472013-deleting-your-account). However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+
+For all users, we believe more relevant advertising generally improves user experience, however we recognize and support the preference to opt out of collecting Non-Personally Identifiable Information about your website visits for the purpose of delivering targeted advertising. Users can do so at our [opt out page](https://help.disqus.com/customer/portal/articles/1657951). When you opt out, we will place an opt-out cookie on your computer. Please note that if you block cookies, our opt-out process may not function properly. Please also note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice. Website owners using Disqus may also opt out of Disqus using Non-Personally Identifiable Information from pages using Disqus for the purpose of targeted advertising at <https://disqus.com/admin/settings/advanced/>.
+
+Disqus is very concerned with safeguarding your information. Disqus uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Disqus, at all times. Notwithstanding the foregoing measures, Disqus cannot ensure or warrant the security of any information you transmit to Disqus or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of Disqus’ distributors, such as social networks. Disqus is not responsible for the functionality or security measures of any third party.
+
+Policy Toward Children
+
+This Site is not directed to children under 13. We do not knowingly collect or solicit personal information from children under 13 or knowingly allow such persons to register for an account. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Disqus. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@Disqus.com.
+
+Links to Other Web Sites
+
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+
+Safe Harbor
+
+Disqus complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Disqus has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Disqus’ certification, please visit [//www.export.gov/safeharbor/](https://export.gov/safeharbor/)
+
+As part of our participation in safe harbor, we have [agreed](https://safeharbor.export.gov/list.aspx) to the [TRUSTe Dispute Resolution Requirements](https://www.truste.com/products-and-services/dispute-resolution-services/) for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have complaints regarding our compliance with Safe Harbor email us at privacy@disqus.com. If contacting us does not resolve your complaint you may raise your complaint using [TRUSTe's Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request), by fax at 415-520-3420, or by mailing:
+
+Watchdog Complaints, TRUSTe
+
+55 2nd Street, 2nd Floor
+
+San Francisco, CA, USA 94105
+
+For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit the [TRUSTe website](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+Contact
+
+If you have any questions about this Privacy Policy, please email us at privacy@disqus.com.
+
+Changes to Privacy Policy
+
+Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
+
+This Privacy Policy was first published and made effective on June 5, 2012.
