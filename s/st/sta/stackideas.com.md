@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051400id_/http%3A//stackideas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045730id_/https%3A//stackideas.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - StackIdeas
 
 This privacy policy sets out how Stack Ideas Private Limited uses and protects any information that you have given to us when you use this website.
 
