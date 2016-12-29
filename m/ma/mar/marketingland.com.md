@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627211054id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044538id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,4 +71,4 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 ### Policy Changes, Questions & Comments
 
-We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/feedback.shtml) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
