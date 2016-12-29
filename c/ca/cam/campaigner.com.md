@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629234001id_/http%3A//www.campaigner.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaigner.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053805id_/http%3A//www.campaigner.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Campaigner
 
-  
 j2 Global Canada ("j2 Global") is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained by j2 Global, including but not limited to [http://www.myfax.com](http://www.myfax.com/), [http://www.my1voice.com](http://www.my1voice.com/), [www.campaigner.com](http://www.campaigner.com/) and [http://www.jblast.com](http://www.jblast.com/). Because j2 Global wants to demonstrate its commitment to our users' privacy, we are disclosing:
 
 If users have questions or concerns regarding this statement, they should contact j2 Global Customer Support by email at [cpo@j2global.com](mailto:cpo@j2global.com). 
