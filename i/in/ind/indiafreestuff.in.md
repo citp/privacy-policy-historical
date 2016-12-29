@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202843id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229130124id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Shopping deals, Coupons, Free Samples, Contests, Freebies, Recharge offers and online tips for Free - IndiaFreeStuff
 
@@ -60,3 +60,23 @@ What kind of infomation does  Indiafreestuff.in collect from you?
 
 
 By registering you allow us to send you newsletter email, You can disable from your profile If you don’t want to receive such newsletter.
+
+### Ratings 
+
+Current Average Ratings
+
+Customer service
+
+Avg: 0/5
+
+Returns and Replacement
+
+Avg: 0/5
+
+Website\'s Ease of Use
+
+Avg: 0/5
+
+Total Avg Rating:  0.00 out of 5 with  based on **0** rating(s) 
+
+[Rating System by Codeboxr](http://indiafreestuff.in/?rto=http%3A%2F%2Fcodeboxr.com%3Futm_source%3Dcbratingsystem%26utm_medium%3Dclientsite%26utm_campaign%3Dcbratingsystem)
