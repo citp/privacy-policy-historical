@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617183612id_/http%3A//www.woot.com/privacy%3Fref%3Dw_ft_wiw_pp%23ref%3Dwww.woot.com/footer/link%404.4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woot.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042903id_/http%3A//www.woot.com/privacy%3Fref%3Dw_ft_wiw_pp%23ref%3Dwww.woot.com/footer/link%404.4) for the most accurate reproduction.*
 
 # Privacy Policy - Woot
 
 The privacy policy explains how, why and what we do with the data we collect from you. If you have any questions about the policy, you're always welcome to email [privacy@woot.com](mailto:privacy@woot.com) and ask. We're here for you, dear customer. We're here for you.
 
-**Last updated: December 15, 2015**
+**Last updated: October 31, 2016**
 
 Woot knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Woot.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -45,7 +45,7 @@ The information we learn from customers helps us personalize and continually imp
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
   * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, these businesses might sell offerings to you directly through Woot.com, such as the wineries who sell on Wine.Woot. In other cases, we might sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * **Promotional Offers:** Sometimes we send offers to selected groups of our customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Email Preferences](https://account.woot.com/subscriptions).
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Woot, Inc., or substantially all of its assets, are acquired, customer information will of course be one of the transferred assets.
   * **Protection of Woot and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms and Conditions of Use and other agreements; or protect the rights, property, or safety of Woot, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
@@ -56,7 +56,7 @@ Information about our customers is an important part of our business, and we are
 ### How Secure Is Information About Me?
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * We reveal only the last four digits of your payment instrument numbers when confirming an order. Of course, we transmit the entire payment instrument number to the appropriate payment company during order processing.
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
 
@@ -115,7 +115,7 @@ Examples of information we receive from other sources include updated delivery a
 
 **Information You Can Access**
 
-Examples of information you can access easily at Woot.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, e-mail preferences); payment settings (including credit card information); e-mail notification settings; and your avatar image and community forum signature.
+Examples of information you can access easily at Woot.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, e-mail preferences); payment settings (including payment information); e-mail notification settings; and your avatar image and community forum signature.
 
 * * *
 
