@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vconnect.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070543id_/http%3A//www.vconnect.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vconnect.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051933id_/http%3A//www.vconnect.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy| VConnect™
 
 ### Privacy Policy
 
-VConnect Global Services Limited ("VConnect", the "Company", "we" or "us") a company registered under the laws of the Federal Republic of Nigeria and having its registered office at 44 Eric Moore Street Surulere, Lagos, Nigeria, is committed to protecting the privacy and security of any identifiable business information  you provide us. Business Information includes information that can be linked to a specific individual or entity, such as a postal address, phone number or email address. 
+VConnect Global Services Limited ("VConnect", the "Company", "we" or "us") a company registered under the laws of the Federal Republic of Nigeria and having its registered office at 60, Marine View Plaza, 7TH FLOOR, Apongbon,Lagos, is committed to protecting the privacy and security of any identifiable business information  you provide us. Business Information includes information that can be linked to a specific individual or entity, such as a postal address, phone number or email address. 
 
 This Privacy Policy is in accordance with commonly accepted privacy principles and best practices among global regulatory bodies. This Privacy Policy should be read in conjunction with VConnect's Terms and Conditions of Use which can be found here. 
 
