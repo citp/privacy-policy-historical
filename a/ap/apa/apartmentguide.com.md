@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629022242id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053928id_/http%3A//www.apartmentguide.com/legal/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
 
@@ -8,7 +8,7 @@ ApartmentGuide.com is a technology platform owned and operated by Consumer Sourc
 
 ###  1\. Scope. 
 
-This Privacy Policy describes how we handle your personal information on the Apartment Guide.com website (the "Website"), the Apartment Guide mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use when you submit a property contact form on ApartmentGudie.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities. 
+This Privacy Policy describes how we handle your personal information on the Apartment Guide.com website (the "Website"), the Apartment Guide mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Service when you submit a property contact form on ApartmentGudie.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities. 
 
 ###  2\. Collection. 
 
@@ -55,7 +55,7 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 We reserve the right to use and disclose in any manner, any non-personal, non-identifiable information including in the form of aggregated data that we collect by use of cookies and traffic data, or that you share with us through the guest card or Renter Card. However, we will not sell or rent your personal information to any third parties. We may share some or all of your personal information with: 
 
-  * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public. 
+  * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Service or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public. 
   * Other third parties whose services you agree to use (e.g., online rent payment services), with regard to whom you have expressed interest or initiated communication through Property Contact Forms (See Section 5 Communications and Communications Tools), and with whom you have authorized us to share your personal information. (The information we disclose in this way will be subject to those third parties' privacy policies.) 
   * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, telecommunication and call monitoring services, rewards programs, co-branded credit cards, etc.). 
   * Another business entity should we plan to merge with, or sell substantially all our assets to that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
@@ -84,7 +84,7 @@ Except as otherwise expressly included herein, this Privacy Policy addresses onl
 
 ###  8\. Accessing, Reviewing and Changing Your Personal Information. 
 
-You can see, review and change most of your personal information by logging into ApartmentGuide.com and editing your account. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees wed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and for purposes otherwise permitted by law. 
+You can see, review and change most of your personal information by logging into ApartmentGuide.com and editing your account. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees wed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and for purposes otherwise permitted by law. 
 
 ###  9\. Account Protection. 
 
