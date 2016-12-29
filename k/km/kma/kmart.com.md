@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617201402id_/http%3A//www.kmart.com/csprivacy/nb-100000000000006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042436id_/http%3A//kmart.com/csprivacy/nb-100000000000006) for the most accurate reproduction.*
 
 # Privacy Policy - Kmart
 
@@ -6,7 +6,7 @@
 
 This website or mobile application ("Site") is owned and operated by a Sears Holdings Corporation entity or licensee (which does not include Sears Hometown and Outlet Stores, Inc.). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place designed to protect it. This Privacy Policy applies to information collected through this Site.
 
-**Please note that on April 7, 2014 Sears Holdings completed a spinoff of our subsidiary Lands' End, which maintains its own privacy policy. You may view Lands' End's privacy policy by clicking here:  **<http://www.landsend.com/customerservice/services_policies/PS_privacy.html>.
+**Please note that on April 7, 2014 Sears Holdings completed a spinoff of our subsidiary Lands' End, which maintains its own privacy policy. You may view Lands' End's privacy policy by clicking here:  **<http://www.landsend.com/customerservice/legal_policies/privacy/>.
 
 Sears Holdings may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. If we make any changes, the updated policy will be posted to this Site with a revised “last updated” date. We encourage you to periodically review this page for the latest information on our privacy practices.
 
