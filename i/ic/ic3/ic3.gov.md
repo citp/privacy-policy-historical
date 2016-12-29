@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201306id_/http%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ic3.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229213134id_/https%3A//www.ic3.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Crime Complaint Center (IC3) | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The IC3 uses the data collected at this website to process complaint information and to collect and store certain information. When you visit our site, we may automatically collect and store the following information whether or not you file a complaint:
 
-  * Your domain name (for example, "xyz123abc-company.com" if you use a private Internet account, or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number automatically assigned to your computer when you go online) from which you access our website.
+  * Your domain name (for example, "xyz123abc-company.com" if you use a private Internet account, or "yourschool.edu" if you are connecting from a university's domain).
   * The IP address, a number automatically assigned to your computer when you go online, from which you access our website.
   * The type of browser and operating system used to access our site.
   * The date and time you access our site.
@@ -15,7 +15,7 @@ The IC3 uses the data collected at this website to process complaint information
 
 
 
-We use this information to measure the number of visitors to the different sections of our site, and to help make our site more useful to future visitors. We do not sell or transfer to third parties any of this information that we automatically collect from every visitor unless it relates to a site security matter as discussed below.
+We use this information to measure the number of visitors to the different sections of our site, and to help make our site more useful to future visitors. We do not sell or transfer to third parties any of this information that we automatically collect from every visitor unless it relates to a site security matter as discussed below. 
 
 ##  Information Collected from Emails and Web Forms
 
@@ -27,11 +27,19 @@ You may volunteer to provide us personal identifying information, for example yo
 
 ##  Security and Consent to Monitor
 
-For site security purposes, and to ensure that this service remains available to all users, all network traffic is monitored in order to identify unauthorized attempts to upload or change information, or otherwise cause damage or conduct criminal activity. To protect the system from unauthorized use and to ensure that the system is functioning properly, individuals using this computer system are subject to having all of their activities monitored and recorded by authorized personnel and such monitoring and recording will be conducted. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, system personnel may provide the results of such monitoring to appropriate officials. Unauthorized attempts to upload or change information, or otherwise cause damage to this service, are strictly prohibited and may be punishable under applicable federal law. Except for complainants who voluntarily provide us with personally identifying information, and except for authorized systems security purposes or enforcement investigations such as discussed herein, no attempts are made to identify individual users or their usage habits.
+For site security purposes, and to ensure that this service remains available to all users, all network traffic is monitored in order to identify unauthorized attempts to upload or change information, or otherwise cause damage or conduct criminal activity. 
 
 Site information may be distributed or copied, subject to Sections 701 and 709 of Title 18, U.S. Code. Unauthorized use of the FBI seal, the words "Federal Bureau of Investigation," the initials "FBI," or any imitation "in a manner reasonably calculated to convey the impression that such [activity]...is approved, endorsed, or authorized by the Federal Bureau of Investigation" is prohibited.
 
-When you file a complaint, we use secure socket layer (SSL) encryption to protect the information you submit. The information you provide is securely stored offline.
+When you file a complaint, we use secure socket layer (SSL) encryption to protect the information you submit. The information you provide is securely stored.
+
+##  Privacy Act Statement 
+
+The collection of information on this form is authorized by one or more of the following statutes: 18 U.S.C. § 1028 (false documents and identity theft); 1028A (aggravated identity theft); 18 U.S.C. § 1029 (credit card fraud); 18 U.S.C. § 1030 (computer fraud); 18 U.S.C. § 1343 (wire fraud); 18 U.S.C 2318B (counterfeit and illicit labels); 18 U.S.C. § 2319 (violation of intellectual property rights); 28 U.S.C. § 533 (FBI authorized to investigate violations of federal law for which it has primary investigative jurisdiction); and 28 U.S.C. § 534 (FBI authorized to collect and maintain identification, criminal information, crime, and other records).
+
+The collection of this information is relevant and necessary to document and investigate complaints of Internet-related crime. Submission of the information requested is voluntary; however, your failure to supply requested information may impede or preclude the investigation of your complaint by law enforcement agencies.
+
+The information collected is maintained in one or more of the following Privacy Act Systems of Records: the FBI Central Records System, Justice/FBI-002, notice of which was published in the Federal Register at 63 Fed. Reg. 8671 (Feb. 20, 1998); the FBI Data Warehouse System, DOJ/FBI-022, notice of which was published in the Federal Register at 77 Fed. Reg. 40631 (July 10, 2012). Descriptions of these systems may also be found at [www.justice.gov/opcl/doj-systems-records#FBI](https://web.archive.org/egress.aspx?u=http%3a%2f%2fwww.justice.gov%2fopcl%2fdoj-systems-records%23FBI&h=BF81033CF149F01376A1100C3E37D37EDF6D1167F75BFCA8E925E383ACC0989A). The information collected may be disclosed in accordance with the routine uses referenced in those notices or as otherwise permitted by law. In accordance with those routine uses, the FBI may disclose information from my complaint to appropriate federal, state, local, tribal or international law enforcement and regulatory agencies. 
 
 ##  Cookies
 
