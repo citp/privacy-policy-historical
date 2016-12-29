@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506024631id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229120718id_/http%3A//www.newlook.com/secure/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
 
 # Help Centre | New Look
 
@@ -269,4 +269,4 @@ Close
 
 
 
-Still not found what you were looking for? [Contact Us](https://web.archive.org/furniture/contact_us.jsp "Contact Us")
+Still not found what you were looking for? [Contact Us](https://web.archive.org/secure/furniture/contact_us.jsp "Contact Us")
