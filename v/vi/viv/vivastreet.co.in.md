@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivastreet.co.in privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505031650id_/http%3A//www.vivastreet.co.in/policy-s00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivastreet.co.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229103347id_/http%3A//www.vivastreet.co.in/s/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,9 +36,9 @@ For example, we use cookies to store your login details so that it's easier for 
 \- You can remove or block cookies using the settings in your browser, but in some cases, this may impact your ability to use Vivastreet.  
 \- You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)
 
-[Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.in/cookies-s00).
+[Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.in/s/cookies).
 
-To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20160505031650id_/http%3A//www.vivastreet.co.in/www.allaboutcookies.org)
+To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20161229103347id_/http%3A//www.vivastreet.co.in/s/www.allaboutcookies.org)
 
 **Consent**
 
