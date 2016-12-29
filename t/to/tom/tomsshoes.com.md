@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tomsshoes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062821id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomsshoes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042704id_/http%3A//www.toms.com/privacy-policy) for the most accurate reproduction.*
 
-# TOMS : One for One
+# Privacy Policy | TOMS
 
-## Updated: January 7, 2016
+## Updated: August 22, 2016
 
 Welcome to the website of TOMS Shoes, LLC (together with any of its subsidiaries or corporate affiliates, "TOMS," "we," "us" or “our”)! At TOMS®, our goal is to protect the privacy and security of your personal information.
 
@@ -10,7 +10,7 @@ To achieve that goal, this Privacy Policy describes the types of information we 
 
 This Privacy Policy governs your experience in our stores located in the United States (the “Stores”) and on this website (and any associated webpages, including use of any of our services through a mobile device, mobile application or otherwise) (the "Website") unless otherwise indicated.
 
-In conjunction with this Privacy Policy, you should also review our [Terms of Use](https://web.archive.org/terms-of-use "Go to Terms of Use page") for a more complete understanding of the rules governing our Website, products and services.
+In conjunction with this Privacy Policy, you should also review our [Terms of Use & Terms of Sale](https://web.archive.org/terms-of-use-terms-of-sale "Go to Terms of Use & Terms of Sale page") for a more complete understanding of the rules governing our Website, products and services.
 
 ## INFORMATION COLLECTION
 
@@ -71,11 +71,11 @@ We do not share, sell, lease or rent information about our customers to unaffili
   3. We also may share your email address with a third-party, such as a media agency, to send email and other communications, including interest-based advertising to you on our behalf. We may also share aggregated or de-identified information about you, including based on your email address, with our advertising and marketing partners, and third-party media properties, including social media sites, to allow them to send targeted advertising messages on our behalf. If you wish to stop receiving promotional communications from these third parties, please email us at [unsubscribe@TOMS.com](mailto:unsubscribe@toms.com?subject=Opt%20Out&body=Please%20fill%20out%20the%20below%20fields%20to%20request%20that%20TOMS%20not%20share%20your%20information%20with%20third%20parties%20and%20to%20stop%20receiving%20catalogs%20from%20TOMS:%0D%0A%0D%0AFIRST%20NAME:%0D%0ALAST%20NAME:%0D%0AADDRESS%201:%0D%0AADDRESS%202:%0D%0ACITY:%0D%0ASTATE:%0D%0AZIP%20CODE:%0D%0AEMAIL: "Email us at unsubscribe@TOMS.com") with “Opt Out” in the subject line along with your full name, address and email address in the body of the email. In addition, you may be able to opt out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
   4. We may share information with companies that provide support services to us, such as a printer, mailing house, fulfillment company, credit card processor, email service provider or web host, amongst others. These parties may need personal information about you in order to perform their functions. However, these parties may not use any personal information we share with them about you for any other purpose other than in connection with performing supporting functions for us.
   5. We may publicly disclose the name, city, and state of the winner of any sweepstakes and contests.
-  6. We may be required to disclose such information in order to comply with legal requests and processes, enforce our [Terms of Use](https://web.archive.org/terms-of-use "Go to Terms of Use page"), otherwise protect or assert the rights, property, interests or personal safety of TOMS® (including its employees, directors, suppliers, distributors, service providers, users of the Website or others), or if we are otherwise required to disclose such information by law. Any such release decisions may be made by us in our sole discretion.
+  6. We may be required to disclose such information in order to comply with legal requests and processes, enforce our [Terms of Use & Terms of Sale](https://web.archive.org/terms-of-use-terms-of-sale "Go to Terms of Use & Terms of Sale page"), otherwise protect or assert the rights, property, interests or personal safety of TOMS® (including its employees, directors, suppliers, distributors, service providers, users of the Website or others), or if we are otherwise required to disclose such information by law. Any such release decisions may be made by us in our sole discretion.
   7. We may need to keep records of certain personal information you have provided to us or which we have obtained from you in accordance with this Privacy Policy and applicable law for business or legal purposes.
   8. As with any business, it is possible that as our business develops, we might sell or buy businesses or assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Policy.
   9. We may use your written and/or video reviews on our Website, in Stores and/or within TOMS® for product improvement, product development, customer experience improvement, and possible communication/PR purposes.
-  10. From time to time, we may enable you to send emails, comments and other types of messages to us and to participate in forums, blogs, interactive areas, social media website(s) operated by TOMS® or a partner, in which case your name or other personal information you provide in connection with the communication may be available to the public (please see our [Terms of Use](https://web.archive.org/terms-of-use "Go to Terms of Use page") for more details on this, including our ownership of your messages, Comments, etc.).
+  10. From time to time, we may enable you to send emails, comments and other types of messages to us and to participate in forums, blogs, interactive areas, social media website(s) operated by TOMS® or a partner, in which case your name or other personal information you provide in connection with the communication may be available to the public (please see our [Terms of Use & Terms of Sale](https://web.archive.org/terms-of-use-terms-of-sale "Go to Terms of Use & Terms of Sale page") for more details on this, including our ownership of your messages, Comments, etc.).
 
 
 
@@ -120,6 +120,6 @@ Attn: Legal Department
 
 ## TERMS AND CONDITIONS
 
-Please also visit our [Terms of Use](https://web.archive.org/terms-of-use "Go to Terms of Use page") that explains other terms and conditions governing your use of this Website and our Stores.
+Please also visit our [Terms of Use & Terms of Sale](https://web.archive.org/terms-of-use-terms-of-sale "Go to Terms of Use & Terms of Sale page") that explains other terms and conditions governing your use of this Website and our Stores.
 
 © TOMS Shoes, LLC. 2006-2016, all rights reserved.
