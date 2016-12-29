@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617184302id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229032722id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" ng-app="main" xmlns:ipp=""><head>
 <title>vCita - Privacy Policy</title>
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,700,600" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700|Open+Sans:300italic,400italic,600italic,700italic,300,400,700,600" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=fonts.googleapis.com/css?family=Caudex|Overlock|Patrick+Hand|Jockey+One|Sarina|Niconne|Fredericka+the+Great|Corben|Kelly+Slab|Marck+Script|Mr+De+Haviland|Lobster|Anton|Josefin+Slab|EB+Garamond|Basic|Chelsea+Market|Enriqueta|Forum|Jura|Noticia+Text|Open+Sans|Play|Signika|Spinnaker" rel="stylesheet" type="text/css">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="riRhre0fedu1jKo+6hhCidovHWXVsrV4XRVOrmyYcy4=" name="csrf-token">
-<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
+<meta content="3Fpy4CTmhbKV8W1pPdGJE/prZtszYwx9d9WG6iBhy6E=" name="csrf-token">
+<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
   //<![CDATA[
     window.FRONTAGE_IFRAME = false;
     
     function frontageIframe() {
-      var css = '.frontage-iframe { display: none !important; } .frontage-iframe-container { margin-top: 22px !important; margin-left: 22px !important; margin-right: 0px !important; padding: 0 !important; } .frontage-iframe-container.i18n-rtl { margin-left: 0px !important; margin-right: 22px !important; }',
+      var css = '.frontage-iframe { display: none !important; } .frontage-iframe-container { margin-top: 22px !important; margin-left: 22px !important; margin-right: 0px !important; padding: 0 !important; } .frontage-iframe-container.i18n-rtl { margin-left: 0px !important; margin-right: 22px !important; } .my-widgets .frontage-iframe-container{margin: 0!important;}',
         head = document.head || document.getElementsByTagName('head')[0],
         style = document.createElement('style');
     
@@ -38,6 +38,52 @@
         window.FRONTAGE_IFRAME = true;
         frontageIframe();
       }
+    }
+    
+    
+    var state_shortcodes = {
+      "account":"my_account",
+      "settings/business": "business_info",
+      "settings/staff": "staff",
+      "settings/services": "my_services",
+      "settings/scheduling_options": "scheduling_options",
+      "settings/calendar": "calendar",
+      "settings/payments": "payments",
+      "settings/messages": "messages",
+      "settings/emails": "email_templates",
+      "settings/tracking": "conversion_tracking",
+      "settings/client_card_fields": "client_card_fields",
+      "settings/wl_main": "whitelabel",
+      "settings/branding": "branding"
+    }
+    function linkToFrontage(link, prefix) {
+      var redirect_link = link.attributes['href'].value;
+    
+      if (redirect_link[0] == '/')
+        redirect_link = redirect_link.substr(1)
+    
+      redirect_link = redirect_link.replace("?frontage_iframe=true&", "?");
+      redirect_link = redirect_link.replace("?frontage_iframe=true", "");
+    
+      /*
+      redirect_link = encodeURIComponent(encodeURIComponent(redirect_link))
+    
+      if (prefix)
+        redirect_link = prefix + redirect_link
+    
+      frontageUrlRedirect(redirect_link)*/
+      
+      if (state_shortcodes[redirect_link])
+        redirect_link = state_shortcodes[redirect_link]
+    
+      redirect_link = redirect_link.replace(/\//ig, '__');
+      
+      if (prefix)
+        frontageRedirect('app.settings_page', {page:redirect_link})
+      else
+        frontageUrlRedirect(redirect_link)
+    
+      return false;
     }
     
     function frontageRefresh() {
@@ -95,20 +141,22 @@
       frontageIframe();
     
       if (target && typeof target != 'undefined') {
-        target.postMessage({event: 'frontageIframeAnnounce', title: window.FRONTAGE_TITLE}, '*');
+        if (window.FRONTAGE_TITLE)
+          target.postMessage({event: 'frontageIframeAnnounce', title: window.FRONTAGE_TITLE}, '*');
       }
     } else {
       if (target && typeof target != 'undefined') {
-        target.postMessage({event: 'frontageIframeRequest', title: window.FRONTAGE_TITLE}, '*');
+        if (window.FRONTAGE_TITLE)
+          target.postMessage({event: 'frontageIframeRequest', title: window.FRONTAGE_TITLE}, '*');
       }
     }
   //]]>
 </script>
 
-<link href="/assets/application-3a820324725a46633db3c4f704f4f89e.css" media="all" rel="stylesheet" type="text/css">
+<link href="/assets/application-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css">
 <!--[if lte IE 9]>
-<link href="/assets/application_split2-3a820324725a46633db3c4f704f4f89e.css" media="all" rel="stylesheet" type="text/css" />
-<link href="/assets/application_split3-3a820324725a46633db3c4f704f4f89e.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/application_split2-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/application_split3-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 
@@ -125,13 +173,8 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/assets/application-559ce5bb47ab225e84cfce1f17122622.js" type="text/javascript"></script>
-<script src="/assets/angular-985c911ebf44e4df78917fb7c8532b50.js" type="text/javascript"></script>
-<script src="/assets/angular-resource-3c30c2729acf7af24159f8a443758b39.js" type="text/javascript"></script>
-<script src="/assets/angular-route-8868321fbe1fad4e7a1f62849ffc4181.js" type="text/javascript"></script>
-<script src="/assets/angular-ui-bootstrap-tpls-66184155f7971f77fbfb507f8c241408.js" type="text/javascript"></script>
-<script src="/assets/angular/angular-i18n-54d6497c104e8f84486c726e2b723e3e.js" type="text/javascript"></script>
-<script src="/assets/angular/angular-file-upload.min-27f9bfd6984cfcc30c1d05db452cef59.js" type="text/javascript"></script>
+<script src="/assets/application-3814e59bdb22fd7da024322b3ebdcf96.js" type="text/javascript"></script>
+<script src="/assets/angular-pack-72b4a29ea42bb78ab8b03a01105d4b74.js" type="text/javascript"></script>
 <!-- / frontage show in popup handling -->
 <script>
   //<![CDATA[
@@ -144,11 +187,7 @@
   //]]>
 </script>
 
-<script src="/assets/locales-edbb3823ecea5b5a31ffa60b991d5466.js" type="text/javascript"></script>
-<script src="/assets/shared/shared-4c8f6ecd3a37682ffdb238eb6e4d8b9d.js" type="text/javascript"></script>
-<script src="/assets/angular/general-directives-7283f732a6d70f1a6892107dd04f15ef.js" type="text/javascript"></script>
-<script src="/assets/controllers/main/app-fe2730da05c30f4842b018fb26f51d97.js" type="text/javascript"></script>
-<script src="/assets/controllers/main/pivot_controller-95c15ed8ff5fab9a178cfd7beed1662c.js" type="text/javascript"></script>
+<script src="/assets/angular-pack-2-0f51b56f37b5fde9fdf3714316a3517c.js" type="text/javascript"></script>
 <link href="/assets/fav.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
 
@@ -169,21 +208,19 @@
     if ( self !== top ) {
       var style = document.createElement('style');
       style.type = 'text/css';
-      style.innerHTML = "iframe[name='stripe_checkout_app'] { height: 710px !important; }";
+      style.innerHTML = "body:not(.vitrage-iframe) iframe[name='stripe_checkout_app'] { height: 710px !important; }";
       document.getElementsByTagName('head')[0].appendChild(style);
     }
   //]]>
 </script>
 </head>
-<body class="abouts abouts-privacy_policy">
+<body class="abouts abouts-privacy_policy ">
 <div id="root">
 <div id="root_content" vc-report-height="">
 <div class="frontage-iframe" id="header">
 <div class="page">
+<img alt="Logo-1" class="site-logo" src="/assets/Logo-1-b086635ff63adb36d167903cdd8e081f.png">
 <ul id="nav">
-<li class="item">
-<a class="site-logo " href="/">vCita</a>
-</li>
 <li class="item">
 <a href="/">Home</a>
 </li>
@@ -191,18 +228,17 @@
 <a href="/partners?o=SG9tZXBhZ2UgdG9wIG5hdmlnYXRpb24gLSBCZWNvbWUgYSBQYXJ0bmVy">Become a Partner</a>
 </li>
 <li class="item">
-<a href="http://blog.vcita.com/?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog" target="_blank ">Blog</a>
+<a href="https://support.vcita.com">Help</a>
+</li>
+<li class="item">
+<a href="https://www.vcita.com/signup">Get started</a>
+</li>
+<li class="item">
+<a href="https://www.vcita.com/login" class="new-site-green-btn">Login</a>
 </li>
 </ul>
-<div class="user">
-<a class="blue-chubby-button login-button" href="/login" id="login_button">
-<span></span>
-LOGIN
-</a>
-</div>
 <div class="clear"></div>
 </div>
-<div class="shadow"></div>
 </div>
 
 <div id="main">
@@ -339,71 +375,71 @@ LOGIN
 <div class="page">
 <ul>
 <li>
-<b><a href="http://www.vcita.com/home">Home</a></b>
+<b><a href="https://www.vcita.com/home">Home</a></b>
 </li>
-<li><a href="http://www.vcita.com/about/company">Company</a></li>
+<li><a href="https://www.vcita.com/about/company">Company</a></li>
 <li><a href="http://blog.vcita.com/search/label/Press%20Releases?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">News</a></li>
 <li><a href="http://blog.vcita.com/p/reviews.html?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Reviews</a></li>
 <li><a href="http://blog.vcita.com/search/label/Case%20Studies?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Case Studies</a></li>
 <li><a href="http://blog.vcita.com/p/testimonials.html?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Testimonials</a></li>
-<li><a href="http://www.vcita.com/pricing">Pricing</a></li>
-<li><a href="http://www.vcita.com/about/contact_us">Contact Us</a></li>
+<li><a href="https://www.vcita.com/pricing">Pricing</a></li>
+<li><a href="https://www.vcita.com/about/contact_us">Contact Us</a></li>
 <li><a href="http://blog.vcita.com/?utm_source=vCita&amp;utm_medium=vCita&amp;utm_campaign=vCita_to_Blog">Blog</a></li>
 <li><a href="https://plus.google.com/114945563608298833194" rel="publisher">Google+</a></li>
 </ul>
 <ul>
 <li>
-<b><a href="http://www.vcita.com/home">Product</a></b>
+<b><a href="https://www.vcita.com/home">Product</a></b>
 </li>
-<li><a href="http://www.vcita.com/software/online_scheduling">Online Scheduling Software</a></li>
-<li><a href="http://www.vcita.com/online_calendar">Online Calendar</a></li>
-<li><a href="http://www.vcita.com/appointment-booking">Scheduling Showcase</a></li>
-<li><a href="http://www.vcita.com/software/crm_contact_management">Contact Management Software</a></li>
-<li><a href="http://www.vcita.com/software/event_registration">Event Registration</a></li>
-<li><a href="http://www.vcita.com/crm_software">CRM Software</a></li>
-<li><a href="http://www.vcita.com/online_payments">Online Payments and Invoicing</a></li>
-<li><a href="http://www.vcita.com/invoice_template">Invoice Template</a></li>
-<li><a href="http://www.vcita.com/online_file_sharing">Online File Sharing</a></li>
-<li><a href="http://www.vcita.com/contact_form">Contact Form</a></li>
-<li><a href="http://www.vcita.com/software/wordpress_contact_form">WordPress Contact Form</a></li>
-<li><a href="http://www.vcita.com/software/online_scheduling_drupal_plugin">Drupal Plugin</a></li>
-<li><a href="http://www.vcita.com/software/email_campaigns">Email Marketing</a></li>
-<li><a href="http://www.vcita.com/click_to_call">Click to Call</a></li>
+<li><a href="https://www.vcita.com/software/online_scheduling">Online Scheduling Software</a></li>
+<li><a href="https://www.vcita.com/online_calendar">Online Calendar</a></li>
+<li><a href="https://www.vcita.com/appointment-booking">Scheduling Showcase</a></li>
+<li><a href="https://www.vcita.com/software/crm_contact_management">Contact Management Software</a></li>
+<li><a href="https://www.vcita.com/software/event_registration">Event Registration</a></li>
+<li><a href="https://www.vcita.com/crm_software">CRM Software</a></li>
+<li><a href="https://www.vcita.com/online_payments">Online Payments and Invoicing</a></li>
+<li><a href="https://www.vcita.com/invoice_template">Invoice Template</a></li>
+<li><a href="https://www.vcita.com/online_file_sharing">Online File Sharing</a></li>
+<li><a href="https://www.vcita.com/contact_form">Contact Form</a></li>
+<li><a href="https://www.vcita.com/software/wordpress_contact_form">WordPress Contact Form</a></li>
+<li><a href="https://www.vcita.com/software/online_scheduling_drupal_plugin">Drupal Plugin</a></li>
+<li><a href="https://www.vcita.com/software/email_campaigns">Email Marketing</a></li>
+<li><a href="https://www.vcita.com/click_to_call">Click to Call</a></li>
 <li><a href="https://www.vcita.com/medical-practice-management/doctor-dentist-nutritionist-physical-therapist/">Medical Practice Management</a></li>
 </ul>
 <ul>
 <li>
-<b><a href="http://www.vcita.com/partners">Partners</a></b>
+<b><a href="https://www.vcita.com/partners">Partners</a></b>
 </li>
-<li><a href="http://www.vcita.com/partners">Partnerships</a></li>
-<li><a href="http://www.vcita.com/partners/reseller">Reseller</a></li>
-<li><a href="http://www.vcita.com/partners/solution-provider">Solution Provider</a></li>
-<li><a href="http://www.vcita.com/partners/white_label">White Label</a></li>
+<li><a href="https://www.vcita.com/partners">Partnerships</a></li>
+<li><a href="https://www.vcita.com/partners/reseller">Reseller</a></li>
+<li><a href="https://www.vcita.com/partners/solution-provider">Solution Provider</a></li>
+<li><a href="https://www.vcita.com/partners/white_label">White Label</a></li>
 <li><a href="http://developers.vcita.com/">Developers</a></li>
 </ul>
 <ul>
 <li>
-<b><a href="http://www.vcita.com/about/terms_of_service">Support &amp; Legal</a></b>
+<b><a href="https://www.vcita.com/about/terms_of_service">Support &amp; Legal</a></b>
 </li>
-<li><a href="http://support.vcita.com/categories/20062431-FAQs-and-Guides" class="link-to-faq" target="_blank">FAQ</a></li>
-<li><a href="http://www.vcita.com/education_center">Video Tutorials</a></li>
-<li><a href="http://www.vcita.com/about/terms_of_service">Terms of Service</a></li>
-<li><a href="http://www.vcita.com/about/privacy_policy">Privacy Policy</a></li>
+<li><a href="https://support.vcita.com" class="link-to-faq" target="_blank">Help center</a></li>
+<li><a href="https://www.vcita.com/education_center">Video Tutorials</a></li>
+<li><a href="https://www.vcita.com/about/terms_of_service">Terms of Service</a></li>
+<li><a href="https://www.vcita.com/about/privacy_policy">Privacy Policy</a></li>
 <li><a href="/about/partner_terms_of_service">Partnerships Agreement</a></li>
-<li><a href="http://www.vcita.com/about/abuse">Report Abuse</a></li>
+<li><a href="https://www.vcita.com/about/abuse">Report Abuse</a></li>
 </ul>
 <ul class="last">
 <li>
-<b><a href="http://www.vcita.com/appointment-booking">Scheduling Showcase</a></b>
+<b><a href="https://www.vcita.com/appointment-booking">Scheduling Showcase</a></b>
 </li>
-<li><a href="http://www.vcita.com/appointment-booking/lawyer-cpa-realtor">Lawyers, CPAs, Realtors</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/web-designer">Web Designers</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/beauty-spa-therapist">Beauty &amp; Spas</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/home-services">Home Services</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/coach-consultant-marketing">Coaches, Consultants</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/doctor-dentist-nutritionist">Doctors, Dentists</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/photographer-eventplanner">Photographers</a></li>
-<li><a href="http://www.vcita.com/appointment-booking/trainer-tutor-recruiter">Trainers, Tutors</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/lawyer-cpa-realtor">Lawyers, CPAs, Realtors</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/web-designer">Web Designers</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/beauty-spa-therapist">Beauty &amp; Spas</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/home-services">Home Services</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/coach-consultant-marketing">Coaches, Consultants</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/doctor-dentist-nutritionist">Doctors, Dentists</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/photographer-eventplanner">Photographers</a></li>
+<li><a href="https://www.vcita.com/appointment-booking/trainer-tutor-recruiter">Trainers, Tutors</a></li>
 </ul>
 <div class="follow-us">
 <div class="g-plusone" size="medium" data-annotation="none" data-href="http://www.vcita.com"></div>
@@ -426,7 +462,7 @@ LOGIN
       var twitterScriptTag = document.createElement('script');
       twitterScriptTag.type = 'text/javascript';
       twitterScriptTag.async = true;
-      twitterScriptTag.src = "http://platform.twitter.com/widgets.js";
+      twitterScriptTag.src = "https://platform.twitter.com/widgets.js";
       var s = document.getElementsByTagName('script')[0];
       s.parentNode.insertBefore(twitterScriptTag, s);
     })();
