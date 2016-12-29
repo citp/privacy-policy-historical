@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bp8.hk privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324151336id_/https%3A//bp8.hk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp8.hk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229124342id_/https%3A//bp8.hk/page/privacy) for the most accurate reproduction.*
 
 # Privacy | BP8
 
