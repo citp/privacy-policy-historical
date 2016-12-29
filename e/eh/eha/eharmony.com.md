@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030622id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045713id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
 
-*Based on a 1-month basic subscription plan of $59.95.
-
-eHarmony has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com, our mobile site m.eharmony.com and our eharmony mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+No Credit Card Required. Does not include photos. Promotion ends on January 3, 2017 at 11:59PM PT.
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
@@ -102,6 +100,10 @@ eHarmony provides users the following options for changing and modifying informa
 
 Because many users tend to use our service at different points of their relationship-seeking life, we retain your personal information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain personal information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our Terms and Conditions of Service or other agreements, or for any other legally permissible purpose.
 
+## Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
 ## Acceptance of Privacy Statement
 
 Your use of our website(s), including any dispute concerning privacy, is subject to this privacy statement and the applicable Terms and Conditions of Service. **BY USING OUR WEBSITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY STATEMENT AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
@@ -112,6 +114,6 @@ Your continued use of any portion of our website following posting of the update
 
 ## Effective Date
 
-This privacy statement was last revised on May 12, 2016.
+This privacy statement was last revised on December 7, 2016.
 
 Copyright © 2000-2016 eHarmony, Inc. All Rights Reserved. EHARMONY, COMPATIBILITY PROFILE, COMPATIBILITY MATCHING SYSTEM, 29 DIMENSIONS, EHARMONY LABS, SECURE CALL, PROFILE ADVISOR and several other marks, colors, and images are registered and common law trademarks of eHarmony, Inc. Other trademarks and brands are the property of their respective owners.
