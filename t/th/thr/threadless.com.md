@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053601id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229040358id_/https%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
 # Shop Threadless tees and other products
 
@@ -32,7 +32,7 @@ Registration
 
 Orders
 
-  * If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number, expiration date and the 3 digit security code). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+  * If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number, expiration date and the 3 digit security code). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Additionally, If you purchase a product or service from an Artist Shop, your contact information may be shared with the registered shop owner for targeted online and offline marketing purposes.
 
 
 
@@ -60,7 +60,7 @@ Children Under 13
 ### 2\. Information Sharing and Disclosure
 
   * Threadless.com does not rent, trade, or share Personal Information with third parties except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We use other third parties such as a shipping company to fulfill orders, a credit card processing company to bill you for goods sold on our website, and an email service provider to send out emails on our behalf. When you make a purchase on our website or sign up for our email list, we will share the necessary amount of personally identifiable information as necessary for the third party to provide that service, including your name, address, credit card information and email address. These third parties are prohibited from using your personally identifiable information for promotional purposes.
+    * We use other third parties such as a shipping company to fulfill orders, a credit card processing company to bill you for goods sold on our website, and an email service provider to send out emails on our behalf. When you make a purchase on our website or sign up for our email list, we will share the necessary amount of personally identifiable information as necessary for the third party to provide that service, including your name, address, credit card information and email address. These third parties are prohibited from using your personally identifiable information for promotional purposes.When you make a purchase from an Artist Shop, your contact information may be shared with the registered shop owner for targeted online and offline marketing purposes.
     * We provide Non-Personal Information to interested third-parties for purposes of understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website.
     * We use both your Personal Information and certain Non-Personal Information to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
     * We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, or legal process served on our Website.
@@ -116,7 +116,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### 8\. Effective Date
 
-This Privacy Policy was last modified February 18, 2014.
+This Privacy Policy was last modified December 2016.
 
 ### 9\. Contact Information
 
@@ -125,6 +125,6 @@ If you have any questions or comments about this Privacy Policy, you can contact
 Privacy Policy
 
 Threadless.com  
-1260 W. Madison St.  
-Chicago, IL 60607  
+406 N Sangamon, 3rd Floor  
+Chicago, IL 60642  
 privacypolicy@threadless.com
