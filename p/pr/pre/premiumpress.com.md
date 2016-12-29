@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053413id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052940id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » PremiumPress Themes
+
+[ ](http://www.premiumpress.com/)
 
 * * *
 
@@ -24,7 +26,7 @@ PremiumPress will not share or disclose information regarding its subscribers ex
 
 To request a copy of the contact PremiumPress has on your account, send an e-mail request to mark [AT] markfail.com. You may correct that information as appropriate by returning a message to the same address. Please keep in mind that under PremiumPress Service Level Agreements (SLA), subscribers are required to provide PremiumPress with current contact and billing information. PremiumPress may require a copy of a government issued form of identification before disclosing billing information or before making changes to the billing or contact information on an account.
 
-  * #### What happens to the information if I leave PremiumPress? 
+  * #### What happens to the information if I leave PremiumPress?
 
 If you ever leave PremiumPress, PremiumPress will normally delete your personally identifiable account information twelve months after the account is cancelled, unless we are under a legal obligation to retain it. We preserve account information for this short period of time in the event you wish to reactivate your account and retain your previous e-mail address. However, in the event of any accounting irregularities, PremiumPress reserves the right to retain your contact and billing information as necessary to resolve the matter.
 
