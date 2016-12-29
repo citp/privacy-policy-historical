@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624002925id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tested.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229024245id_/http%3A//www.tested.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tested
 
 Effective Date: January 11, 2016 
 
-This Privacy Policy ("Policy") describes the privacy practices for [www.Tested.com](https://web.archive.org/web/20160624002925id_/http%3A//www.tested.com/www.Tested.com) website (the "Site"), which is owned and operated by Web Property #5, LLC ("Company" or "We"). This Policy applies only to information we collect on the Site. This Policy does not apply to information that we collect offline or on any other Company websites or apps, including websites you may access through this Site or you provide to or is collected by any third party. Our websites and apps and these third parties may have their own privacy policies, which we encourage you to read before providing information on or through them.
+This Privacy Policy ("Policy") describes the privacy practices for [www.Tested.com](https://www.tested.com/) website (the "Site"), which is owned and operated by Web Property #5, LLC ("Company" or "We"). This Policy applies only to information we collect on the Site. This Policy does not apply to information that we collect offline or on any other Company websites or apps, including websites you may access through this Site or you provide to or is collected by any third party. Our websites and apps and these third parties may have their own privacy policies, which we encourage you to read before providing information on or through them.
 
 Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, do not use the Site. By using the Site, you agree to this Policy. This Policy may change from time to time. Your continued use of the Site after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates. 
 
