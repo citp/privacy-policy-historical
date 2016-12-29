@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624033522id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045327id_/https%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
@@ -6,7 +6,7 @@ TripleClicks holds the privacy and security of our site visitors in the highest 
 
 #####  **What's collected and what's not?**
 
-You can visit our site without telling us who you are or revealing any personal information. While IP addresses (the Internet address of a computer) are logged to track a user's session, the user remains anonymous. Tracking IP addresses gives us an idea of the areas on our site users are visiting and how long they spend there. We do not link IP addresses to anything personally identifiable. Again, this means that a user's session is tracked, but the user is anonymous. The user's browser also lets us know the type of computer and operating system being used.
+You can visit our site without telling us who you are or revealing any personal information. While IP addresses (the Internet address of a computer) are logged to track a user's session, the user remains anonymous. Tracking IP addresses gives us an idea of the areas on our site users are visiting and how long they spend there. We do not link IP addresses to anything personally identifiable. Again, this means that a user's session is tracked, but the user is anonymous. The user's browser also lets us know the type of computer and operating system being used. IP addresses are used in conjunction with completed orders to track and prevent fraudulent transactions.
 
 E-mail addresses are gathered from only those who have purchased products from us and those who sign up for one or more of our mailing lists.
 
