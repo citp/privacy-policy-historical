@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621135457id_/http%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051929id_/http%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -106,7 +106,7 @@ Harbor Freight may update or supplement Personal Information collected directly 
 
 **D. Privacy Preferences/Opt Out**
 
-If at anytime you would like to be removed from any/all Harbor Freight marketing lists, newsletters, distribution lists, or the like, you may do so by contacting us in any of the ways identified in Section H. Please remember to include your email address, name, mailing address and telephone number in any request. The best way to opt-out is to use the link at the bottom of email messages you receive. That tool provides a one-click confirmation opt-out. If you choose not to use that link, you may also send an email request to [_mktdelano@harborfreight22.com_](mailto:mktdelano@harborfreight22.com) with the word “REMOVE” in the subject line and your email address in the body. This secondary method may take up to 30 days to remove your address from the file.
+If at anytime you would like to be removed from any/all Harbor Freight marketing lists, newsletters, distribution lists, or the like, you may do so by contacting us in any of the ways identified in Section H. Please remember to include your email address, name, mailing address and telephone number in any request. The best way to opt-out is to use the link at the bottom of email messages you receive. That tool provides a one-click confirmation opt-out. If you choose not to use that link, you may also send an email request to [_hft@harborfreightemail.com_](https://web.archive.org/web/20161229051929id_/http%3A//www.harborfreight.com/hft@harborfreightemail.com) with the word “REMOVE” in the subject line and your email address in the body. This secondary method may take up to 30 days to remove your address from the file.
 
 **E. California Privacy Rights**
 
