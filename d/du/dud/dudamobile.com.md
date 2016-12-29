@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091249id_/https%3A//www.dudamobile.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031202id_/https%3A//www.dudamobile.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -6,7 +6,7 @@
 
 We at Duda, Inc. (“ **Duda** ”, “ **we** ”, “ **our** ”, or “ **us** ”) very much respect your privacy, are committed to protecting it and want you to be informed about the ways we protect, use and share the information that we collect.
 
-This Privacy Policy (“Policy”) serves to inform you of our policies and procedures regarding the collection, use and disclosure of the information we receive when you visit [www.dudaone.com](http://www.dudaone.com/) or [www.dudamobile.com](http://www.dudamobile.com/) (together, our “Site”) and when you use any part of our service available through the Site or other related websites, toolbars, conversion technology, widgets, applications or distribution channels we may operate from (the “Service”). This Policy applies to information that you provide to us through the Site or the Service, when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service.  
+This Privacy Policy (“Policy”) serves to inform you of our policies and procedures regarding the collection, use and disclosure of the information we receive when you visit [www.dudamobile.com](http://www.dudamobile.com/) (together, our “Site”) and when you use any part of our service available through the Site or other related websites, toolbars, conversion technology, widgets, applications or distribution channels we may operate from (the “Service”). This Policy applies to information that you provide to us through the Site or the Service, when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service.  
 This Policy is an integral part of our [Terms of Service](https://web.archive.org/terms) (the “ **Terms of Service** ”). 
 
 ##### Changes to this Policy.
@@ -23,9 +23,9 @@ Personal Information is information that specifically identifies you as an indiv
 
 We also collect information about the use of our Service and the characteristics and activities of users of the Service, from which any personal information has been removed (“ **Non-Personal Information** ”). When you access the Site or use the Service, we may collect the following Non-Personal Information:
 
-  * Information regarding your use of the Service, including, activity and visit behavior on your DudaOne or DudaMobile website;
-  * Information that your browser sends whenever you visit a website or online service (“ **Log Data** ”). This Log Data may include, but is not limited to: your computer's Internet Protocol (IP) address, device type, browser type, operating system and version, the web page you were visiting before you came to the Site, information you search for on the Site, locale preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata concerning your files, and other interactions with the Service;
-  * Your website alias, DudaOne or DudaMobile website URL, and website URL; and
+  * Information regarding your use of the Service, including, activity and visit behavior on your responsive website or mobile website;
+  * Information that your browser sends whenever you visit a website or online service (“Log Data”). This Log Data may include, but is not limited to: your computer's Internet Protocol (IP) address, device type, browser type, operating system and version, the web page you were visiting before you came to the Site, information you search for on the Site, locale preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, metadata concerning your files, and other interactions with the Service;
+  * Your website alias, responsive website or mobile website URL, and website URL; and
   * If you make or a enable a transaction such as a purchase directly from our Site, we will collect billing and financial information as necessary to process your charges, which may include your postal and e-mail addresses.
 
 
@@ -74,7 +74,7 @@ We may provide Your Information to our affiliates or partners, if (i) you have a
 
 ##### Non-Personal Information and Aggregate Information.
 
-We may, from time to time, share Non-Personal Information and/or aggregated information. The Non-Personal Information that we share may include, but not be limited to: original website URL, DudaOne or DudaMobile website URL, percentage of active redirects, date of DudaOne or DudaMobile site built, site category type, user category type, performance data, reports generated as a result of your use of the Service that includes non-identifying information, and other Log Data. This shared information may be used for industry analysis, demographic profiling, other commercial purposes and to deliver targeted advertising about other products and services. Any information shared in these contexts will not contain your Personal Information.
+We may, from time to time, share Non-Personal Information and/or aggregated information. The Non-Personal Information that we share may include, but not be limited to: original website URL, Responsive Website Builder or Mobile Website Builder URL, percentage of active redirects, date of responsive website or Mobile website built, site category type, user category type, performance data, reports generated as a result of your use of the Service that includes non-identifying information, and other Log Data. This shared information may be used for industry analysis, demographic profiling, other commercial purposes and to deliver targeted advertising about other products and services. Any information shared in these contexts will **not** contain your Personal Information.
 
 ##### Combined Information.
 
@@ -82,17 +82,23 @@ We may combine certain Personal Information with Non-Personal Information in ord
 
 ##### Compliance with Laws and Law Enforcement.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect our or a third party's property and rights, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
 ##### Business Transfers.
 
 We may sell, transfer or otherwise share some or all of our assets, including among others your Personal Information, Non-Personal Information and Log Data, in connection with a merger, acquisition, reorganization or sale of all or substantially all of our shares or assets, or in the event of our bankruptcy.
+
+If we ever were to engage in any onward transfers of your data with third parties for a purpose other than which it was originally collected or subsequently authorized, we would provide you with an opt-out choice to limit the use and disclosure of your personal data.
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Duda is potentially liable.
 
 **We encourage you to consider carefully what information to share as part of your Account profile and elsewhere in the Service, and we recommend that you guard your anonymity and sensitive information and not use your real name as your username, as that may allow other users of the Service to identify you. Any information you choose to share should reflect how much you want other users of the Service to know about you. You can review and revise your Account profile information at any time.**
 
 #### 5\. Changing or Deleting Your Information
 
 You may review, update, correct or delete Your Information, if not required to be retained by law or for legitimate business reasons. If you completely delete all such information, your account may be deactivated. In addition, we may delete any information provided by you or related to you, pursuant to our policies as then in effect.
+
+Duda acknowledges that EU individuals have the right to access the personal information/data that we maintain about them. An EU individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to legal@dudamobile.com. If requested to remove or amend data, we will respond within a reasonable timeframe.
 
 #### 6\. Our Policy Toward Children
 
@@ -107,6 +113,35 @@ If you receive an e-mail asking you to update your Personal Information, do not 
 #### 8\. International Processing or Transfer
 
 By visiting our Site, using our Service and/or providing us with data, you acknowledge and agree that some of Your Information may be transmitted outside your resident jurisdiction and that Your Information may be processed, maintained or transferred outside of your state, where the privacy laws may not be as protective as those in your jurisdiction.
+
+##### Privacy Shield.
+
+Duda Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Duda Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+In compliance with the EU-US Privacy Shield Principles, Duda Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Duda Inc. at: 
+
+Duda Legal Department  
+577 College Avenue, Palo Alto, CA 94306  
+legal@dudamobile.com  
++1.866.776.1550 
+
+Duda Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20161229031202id_/https%3A//www.dudamobile.com/legal/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
+
+##### US-Swiss Safe Harbor
+
+Duda Inc. complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Duda Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>
+
+In compliance with the US-Swiss Safe Harbor Principles, Duda Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Duda Inc. at: 
+
+Duda Legal Department  
+577 College Avenue, Palo Alto, CA 94306  
+legal@dudamobile.com  
++1.866.776.1550  
+
+
+COMPANY Inc. has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 #### 9\. Contacting Us
 
