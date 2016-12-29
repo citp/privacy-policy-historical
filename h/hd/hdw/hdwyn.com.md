@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwyn.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509233930id_/http%3A//hdwyn.com/privacy_policy_hd-wallpapers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwyn.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229113016id_/http%3A//walls.host/privacy_policy_hd-wallpapers) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpaper
 
@@ -11,21 +11,21 @@ We use third-party advertising companies to serve ads when you visit our web sit
 **Personally Identified Information**  
 During your visit, we do not collect any personal information about you such as name, address, phone number, or e-mail address. However, 
 
-_hdwyn.com_
+_walls.host_
 
 obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh, Linux, Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website. 
 
 **Image copyright**
 
- _hdwyn.com_
+ _walls.host_
 
 is a free wallpaper website, daily updated and dedicated to people of all ages. All images displayed on the site are provided only for personal use as wallpaper on computers, cell phones and other personal electronic devices. All wallpapers displayed on 
 
-_hdwyn.com_
+_walls.host_
 
 have been collected from a wide range public internet resources and remain copyrighted their respective owners. If you are the rightful owner of any wallpaper posted here, and object to them being displayed - please contact us and it will be removed immediately. We do not intend to display any copyright protected images, so please do not ask for permissions to use these images in your projects, as we do not own their copyrights. Most of the links of wallpapers sources becoming dead after some time, therefore we do not give dead links to our visitors, so please dont ask for source links, because we dont store them. 
 
-_hdwyn.com_
+_walls.host_
 
 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
@@ -33,15 +33,15 @@ This policy is effective from October 10th of 2014.
 
 By visiting this website (collectively, including all Content available through the 
 
-_hdwyn.com_
+_walls.host_
 
 domain name, the "
 
- _hdwyn.com_
+ _walls.host_
 
 ", or "Website"), You signify Your assent to these policy rules. If you do not agree to any of these policy rules, then please do not use the 
 
-_hdwyn.com_
+_walls.host_
 
 website. 
 
