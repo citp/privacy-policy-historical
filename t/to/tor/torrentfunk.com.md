@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentfunk.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610084631id_/http%3A//www.torrentfunk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentfunk.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054819id_/https%3A//www.torrentfunk.com/privacy.html) for the most accurate reproduction.*
 
 # TorrentFunk - Privacy Policy
 
