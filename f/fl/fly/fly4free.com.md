@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fly4free.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516121541id_/http%3A//www.fly4free.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly4free.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229091335id_/http%3A//www.fly4free.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and cookie policy travel deals - Fly4free.com – daily tips for cheap flights, air tickets and other travel deals
+# Privacy and cookie policy flight deals | Fly4free
 
 Your privacy is important to us and to inform you of how your privacy is protected, we provide this notice.
 
