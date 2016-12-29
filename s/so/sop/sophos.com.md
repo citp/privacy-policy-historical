@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403014319id_/https%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045748id_/https%3A//www.sophos.com/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sophos Group Privacy Policy - Legal
 
-This document was last updated on 25 November 2015.
+This document was last updated on 25 April 2016.
 
 ### General
 
@@ -80,13 +80,12 @@ A unique device identifier is also generated locally on each mobile device durin
 
 You acknowledge and agree that the Sophos Firewall and Firewall Manager Products may provide us with the below information, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection. 
 
-    (a). Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model, hardware version, vendor, firmware version, and country; (ii) aggregated product usage information, such as product features in use (on/off, count), amount of configured objects, policies, managed devices, groups, templates (iii) CPU, memory, and disk usage information; (iv) product errors; and 
-
-    (b). Application Usage and Threat Data, including without limitation (i) IPS alerts; (ii) virus detected and the URL where the virus was found; (iii) spam; (iv) ATP threats; and (v) applications used and unclassified applications.
-
+  1. Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model, hardware version, vendor, firmware version, and country; (ii) aggregated product usage information, such as product features in use (on/off, count), amount of configured objects, policies, managed devices, groups, templates (iii) CPU, memory, and disk usage information; (iv) product errors; and 
+  2. Application Usage and Threat Data, including without limitation (i) IPS alerts; (ii) virus detected and the URL where the virus was found; (iii) spam; (iv) ATP threats; and (v) applications used and unclassified applications.  
 Information about unclassified applications is used to improve and enlarge network visibility and the application control library. 
+  3. Monitoring Threshold Data, includes (i) monitoring threshold values per model; and (ii) alert threshold criteria and values per model.
 
-    (c). Monitoring Threshold Data, includes (i) monitoring threshold values per model; and (ii) alert threshold criteria and values per model.
+
 
 Monitoring Threshold data is used to improve the default threshold settings and alert criteria included within the product across models.
 
@@ -108,13 +107,28 @@ Certain Cloud products may also (at your sole option) enable you to configure th
 
 You warrant that you have obtained all necessary permissions and provided the necessary notifications to share the above information with us for the purposes described. You also acknowledge and agree that it may be necessary under applicable law to inform and/or obtain consent from individuals before you intercept, access, monitor, log, store, transfer, export, block access to, and/or delete their communications. You are solely responsible for compliance with such laws.
 
-### Sophos Cloud Portal
+### Sophos Central
 
-If you select “Enable Partner Access” in the Settings tab of your Sophos Cloud portal, your designated third party partner or service provider will be able to access and administer your Sophos Cloud services on your behalf. If you do not enable such access, your designated third party partner or service provider will only see high-level reporting information such as Sophos Cloud services purchased and current usage information. You may revoke such access at any time by changing the permissions in the Settings tab.
+If you select “Enable Partner Access” in the Settings tab of Sophos Central, your designated third party partner or service provider will be able to access and administer your Sophos services on your behalf. If you do not enable such access, your designated third party partner or service provider will only see high-level reporting information such as Sophos services purchased and current usage information. You may revoke such access at any time by changing the permissions in the Settings tab.
+
+### Sophos Anti-Virus for Mac
+
+You acknowledge and agree that the Sophos Anti-Virus for Mac Products may provide us with Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model and hardware version (ii) CPU, memory, and disk usage information; and (iv) product errors, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection.
+
+### Sophos Anti-Virus for Linux Products (Sophos Anti-Virus for Linux, Sophos Anti-Virus for UNIX and Sophos Linux Security)
+
+You acknowledge and agree that the Sophos Anti-Virus for Linux Products may provide us with the below information, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection.
+
+  1. Configuration and Usage Data, including without limitation (i) device model, and license information, such as OS name, vendor, kernel version, architecture, VM type, root file system type, and time zone; (ii) aggregated product usage information, such as product features in use (true/false, count), amount of configured objects, product/engine/data versions, and management type; (iii) memory, and uptime; (iv) update status.
+  2. Application Usage and Threat Data, including without limitation (i) MTD alerts; and (ii) applications used.
+
+
+
+Configuration and Usage Data and Application Usage and Threat Data does not include user-specific information or personal data and cannot be disabled.
 
 ### Market research
 
-If you participate in surveys, we may use your personal data to carry out market research. This research is conducted for our internal business and training purposes and will improve our understanding of our users’ demographics, interests and behaviour. This research is compiled and analysed on an aggregated basis and therefore does not individually identify any user.
+If you participate in surveys, we may use your personal data to carry out market research. This research is conducted for our internal business and training purposes and will improve our understanding of our users’ demographics, interests and behaviour. This research is compiled and analyzed on an aggregated basis and therefore does not individually identify any user.
 
 ### Marketing and promotions
 
@@ -152,7 +166,7 @@ As a global company, we have international sites and users all over the world. W
 
 We may also pass your personal data to suppliers, service providers, subcontractors, agents, distributors, resellers and other partners, some of whom may be located outside the EEA, in order to provide you with the information, products and services that you requested or otherwise for the purposes described in this privacy policy.
 
-In the event that we receive requests from government departments, agencies or other official bodies, we will only disclose your information if and to the extent that we believe we are legally required to do so (for example upon receipt of a court order, warrant, subpoena or equivalent).
+In the event that we receive requests from government departments, agencies or other official bodies, we will only disclose your information if and to the extent that we believe we are legally required to do so (for example, but without limitation, upon receipt of a court order, warrant, subpoena or equivalent).
 
 Except as set out above, we will not disclose your personal data save where we need to do so in order to enforce our rights.
 
