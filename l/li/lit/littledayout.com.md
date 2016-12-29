@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the littledayout.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406012402id_/http%3A//www.littledayout.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littledayout.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053614id_/http%3A//www.littledayout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Little Day Out
 
 Little Day Out is a digital media publisher, owned by Big Little Company Pte. Ltd., that provides customers with news and resources about places, events and activities for children, posting opinions of children-related matters, engaging in related interactive forums and discussions. We have a legal obligation to comply with the Personal Data Protection Act 2012 (PDPA) in relation to personal data which we hold about you and we take our responsibilities under the PDPA seriously. We recognise the importance of safeguarding the personal data you have provided us and it is our responsibility to properly manage, protect and process your personal data.
 
-  
-Before submitting your personal information to our Website, please read this Privacy Policy carefully to learn about our privacy practices.
+Before submitting your personal information to our Website, please read this Privacy Policy carefully to learn about our privacy practices. ** **
 
 **What We Collect From You**
 
-We receive and store the information you enter on our Website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password. We may also request information about your personal profile. You can choose not to provide information to us, but in general, some information about you is required in order for you to enjoy the benefits of being a registered member. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our Website.
+We receive and store the information you enter on our Website or give us in any other way. This includes information that can identify you (“personal information”), including your first and last name, telephone number, postal and e-mail addresses, user name and password. We may also request information about your personal profile. You can choose not to provide information to us, but in general, some information about you is required in order for you to enjoy the benefits of being a registered member. In addition, some information is also required in order for you to ask us a question or initiate other transactions on our Website.
 
 **Cookies and Other Web Technologies**
 
 Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). Little Day Out may use cookies for the following general purposes:
 
-(a) To help us recognise your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled "Keep me signed in on this computer unless I sign out.”
+(a) To help us recognise your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit. We also may record your password in a cookie, if you checked the box entitled “Keep me signed in on this computer unless I sign out.”
 
 (b) To help measure and research the effectiveness of website features and offerings, advertisements, and email communications (by determining which e-mails you open and act upon).
 
@@ -53,9 +52,9 @@ We respect the confidentiality of the personal data you have provided to us. In 
 
 However, please note that we may share your personal data to the following entities without first obtaining your consent in certain situations, including, without limitation, the following:
 
-(a) _Third-party vendors_ who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorise third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
+(a)  _Third-party vendors_  who provide services or functions on our behalf, including business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. We may also authorise third-party vendors to collect information on our behalf, including as necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests. Third-party vendors have access to and may collect information only as needed to perform their functions and are not permitted to share or use the information for any other purpose.
 
-(b) _Business partners_ with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
+(b)  _Business partners_  with whom we may offer products or services in conjunction. You can tell when a third party is involved in a product or service you have requested because their name will appear either with ours or separately. If you choose to access these optional services, we may share information about you, including your personal information, with those partners. Please note that we do not control the privacy practices of these third-party business partners.
 
 We also may share your information in response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us.
 
@@ -63,7 +62,7 @@ We also may share you information when we believe it is necessary to investigate
 
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our Web site receives. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
 
-The instances listed above are not intended to be exhaustive. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at [http://statutes.agc.gov.sg](http://statutes.agc.gov.sg/).
+The instances listed above are not intended to be exhaustive. For more information on the exceptions, you are encouraged to peruse the Second, Third and Fourth Schedules of the PDPA which is publicly available at [http://statutes.agc.gov.sg](http://statutes.agc.gov.sg/).
 
 Where we disclose your personal data to third parties without your consent, we will employ our best efforts to require such third parties to protect your personal data.
 
@@ -73,9 +72,9 @@ You may request to access a copy of the data which we hold about you and to have
 
 We endeavor to ensure that your information is relevant to its intended use, accurate, and complete. You can access and update your contact information by visiting your subscriptions page on the Little Day Out Website. You can close your Little Day Out account by contacting us at the email address listed below. We will send you an e-mail to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account in our archives, including for recordkeeping integrity.
 
-As discussed above, you can choose not to provide us with any information, although it may be needed to take advantage of certain features offered on Little Day Out. 
+As discussed above, you can choose not to provide us with any information, although it may be needed to take advantage of certain features offered on Little Day Out.
 
-If you do not wish to receive marketing materials from us, please write to us at the email address below or email [hello@littledayout.com](mailto:hello@littledayout.com). Unless you tell us otherwise, we may contact you by telephone, mail, SMS and/or email.
+If you do not wish to receive marketing materials from us, please write to us at the email address below or email [hello@littledayout.com](mailto:hello@littledayout.com). Unless you tell us otherwise, we may contact you by telephone, mail, SMS and/or email.
 
 **External Links**
 
@@ -94,6 +93,6 @@ Big Little Company Pte. Ltd.
 Singapore 069113  
 [hello@littledayout.com](mailto:hello@littledayout.com)
 
-If you wish to contact us about a Data Protection concern, please write to The Data Privacy Officer at the address shown above or email to [dataprivacy@littledayout.com](mailto:dataprivacy@littledayout.com). We will certainly strive to deal with your concern, or any complaint or grievance that you may have speedily and fairly.
+If you wish to contact us about a Data Protection concern, please write to The Data Privacy Officer at the address shown above or email to [dataprivacy@littledayout.com](mailto:dataprivacy@littledayout.com). We will certainly strive to deal with your concern, or any complaint or grievance that you may have speedily and fairly.
 
 _Last updated: June 2014_
