@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623094419id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229055611id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -78,13 +78,13 @@ No. This site is not directed to children under the age of 13. nixCraft does not
 
 ### How do you verify parental consent for information about their children?
 
-We don’t.
+We donâ€™t.
 
 ### How do you use information collected from “Google Analytics” and log files?
 
 nixCraft may use the anonymous data or information to improve this site, including, but not limited to:
 
-  * To understand a user’s needs and create content that is relevant to the user;
+  * To understand a userâ€™s needs and create content that is relevant to the user;
   * To generate statistical studies;
   * To communicate back to the user;
   * To personalize a Site for the user;
