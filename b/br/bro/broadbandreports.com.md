@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandreports.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230044823id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandreports.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052227id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
 
 # our privacy policy | DSLReports, ISP Information
 
@@ -36,6 +36,16 @@ DSLR uses a cookie to associate your browser with your registration details, and
 
 Ads are served by Google Adsense and by other third-party advertising networks at our discretion. With the exception of errors, we do not show display adverts from these networks to logged-in members of the site.
 
+#### Third party revenue sources
+
+SKIM LINKS 
+
+This site also earns revenue using Skimlinks and Amazon. In the interests of disclosure and ethics, we want to be open about how we make money from our site. Besides display advertising, we also may get paid a commission if you purchase a product or service via a link anywhere on our site. Skim Links is a 3rd party service that handles this for links that are not Amazon. For Amazon links we use our own referral code. We do not know what products you have purchased, and Skimlinks and Amazon do not know who you are on our site.
+
 #### Changes
 
-We reserve the right to make changes to this policy at any time. If the change involves a _reduction_ in privacy protection of any kind, a notice will be posted to our [site feedback forum](https://web.archive.org/forum/feedback) explaining the change. Since the inception of DSLR and the first version of the privacy policy, one change has been made: In June 2015, we added the section "DSLR and Google Analytics".
+We reserve the right to make changes to this policy at any time. If the change involves a _reduction_ in privacy protection of any kind, a notice will be posted to our [site feedback forum](https://web.archive.org/forum/feedback) explaining the change.  
+Change History:  
+June 2015 - "DSLR and Google Analytics"  
+October 2016 - "Third party Revenue Sources"  
+
