@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053421id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053425id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guardian Liberty Voice
+# Privacy Policy · Guardian Liberty Voice
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
 
@@ -81,10 +81,12 @@ This policy was last modified on 09/19/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://guardianlv.com/contact-us/  
+> [Contact Us](http://guardianlv.com/contact-us/)
+
+  
 1516 E. Tropicana ave  
 Las Vegas, Nevada 89119  
 United States  
 donahue@guardianexpress.net
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
+This policy is powered by Free Privacy Policy and Rhino Support help desk software. 
