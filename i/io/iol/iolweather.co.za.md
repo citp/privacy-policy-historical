@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolweather.co.za privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624064445id_/http%3A//www.iol.co.za/our-privacy-policy-1.599) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolweather.co.za privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053349id_/http%3A//www.iol.co.za/our-privacy-policy-1.599) for the most accurate reproduction.*
 
 # Privacy policy
 
