@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616050737id_/http%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allposters.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041900id_/http%3A//www.allposters.com/help/guarantee.html%23privacy) for the most accurate reproduction.*
 
 # AllPosters.com - The World's Largest Poster and Print Store!
 
