@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051253id_/https%3A//www.radioshack.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshack.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050729id_/https%3A//www.radioshack.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RadioShack
 
 ### Overview and Scope
 
 General Wireless Operations Inc. (d/b/a RadioShack) and its corporate affiliates (“RadioShack”, “we, “us” or “our”) value our relationship with you, our customer, and your privacy. This RadioShack Website Privacy Notice explains how and why we collect, use, protect, and share information about you, including both Personal Information and Non-Personal information, through websites or applications where this Privacy Notice is posted.
-
-To read the full RadioShack Privacy Notice click here.
 
 ### Information We Collect
 
@@ -19,8 +17,6 @@ We collect information about you from a variety of sources, including:
 
 
 Please note that we may combine information from all of the above sources. If you do not provide information to us, we may not be able to provide our products or services to you.
-
-Learn more.
 
 ### Use of Information
 
@@ -35,8 +31,6 @@ We use your information for a variety of purposes, including:
   * **Protection of us and others,** such as investigating a possible crime or enforcing a contract.
 
 
-
-Learn more.
 
 ### Sharing of Information
 
@@ -53,17 +47,15 @@ We share your information as follows:
 
 
 
-Learn more.
-
 ### Other Important Privacy Information
 
-  * **Cookies and tracking.** Our Site uses cookies to improve it and to display a more personalized and relevant shopping experience. Learn more.
-  * **Third-party links.** Our Site may contain links to third-party websites and applications; such third-party websites and applications are not governed by this Privacy Notice. Learn more.
-  * **International transfers of information.** If you are located anywhere outside of the United States, please be aware that information we collect about you will be transferred to, processed, and stored in the United States. Learn more.
-  * **Children.** Our Site is intended for general audiences and is not targeted to children. Learn more.
-  * **Security.** We have taken steps to help protect the information we collect about you from loss, misuse, unauthorized access, disclosure, alteration, and destruction. Learn more.
-  * **Your California privacy rights.** Learn more.
-  * **Changes to this Privacy Notice.** We will post changes to this Privacy Notice on our Site. Learn more.
+  * **Cookies and tracking.** Our Site uses cookies to improve it and to display a more personalized and relevant shopping experience.
+  * **Third-party links.** Our Site may contain links to third-party websites and applications; such third-party websites and applications are not governed by this Privacy Notice.
+  * **International transfers of information.** If you are located anywhere outside of the United States, please be aware that information we collect about you will be transferred to, processed, and stored in the United States. 
+  * **Children.** Our Site is intended for general audiences and is not targeted to children. 
+  * **Security.** We have taken steps to help protect the information we collect about you from loss, misuse, unauthorized access, disclosure, alteration, and destruction. 
+  * **Your California privacy rights.**  
+  * **Changes to this Privacy Notice.** We will post changes to this Privacy Notice on our Site. 
 
 
 
@@ -79,7 +71,7 @@ Each time that you access or use a RadioShack Site, you acknowledge that you hav
 
 ### Information We Collect
 
-The information we collect about you may include both Personal Information and Non-Personal Information. “Personal Information” is information that can identify you as an individual, such as your name, home address, contact information, and financial payment nformation. “Non-Personal Information” is information that does not reveal your individual identity, such aggregate statistics or general demographic information like gender.
+The information we collect about you may include both Personal Information and Non-Personal Information. “Personal Information” is information that can identify you as an individual, such as your name, home address, contact information, and financial payment information. “Non-Personal Information” is information that does not reveal your individual identity, such aggregate statistics or general demographic information like gender.
 
 We collect information about you from a variety of sources, including:
 
