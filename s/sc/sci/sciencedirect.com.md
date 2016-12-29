@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608083713id_/http%3A//www.elsevier.com/privacypolicy%3Futm_source%3Dsciencedirect%26utm_medium%3Dlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042729id_/http%3A//www.elsevier.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We may share your personal information with:
 
   * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
   * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
-  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about/at-a-glance](https://web.archive.org/web/20160603165926id_/https://www.elsevier.com/legal/?a=60530 "Elsevier at a glance")),
+  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about](https://www.elsevier.com/about "About Elsevier")),
 
 
 
