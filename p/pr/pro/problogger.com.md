@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the problogger.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607220649id_/http%3A//problogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogger.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034328id_/http%3A//www.problogger.net/privacy-policy) for the most accurate reproduction.*
 
-# ProBlogger Community
+# Privacy Policy
 
-Problogger is operated  Problogger Pty Ltd ABN 90 561 136 245 (“Problogger”). As such, it is run under Problogger’s general privacy Policy
-
-Problogger understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded.
+Problogger is operated  Problogger Pty Ltd ABN 90 561 136 245 (“Problogger”). As such, it is run under Problogger’s general privacy Problogger understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded.
 
 #### What type of personal information we collect
 
