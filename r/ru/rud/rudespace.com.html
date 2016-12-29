@@ -1,476 +1,579 @@
-<!--The following is the downloaded HTML source of the rudespace.com privacy policy that was archived on 2010-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101007072817id_/http%3A//www.rudespace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D144%26Itemid%3D125) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rudespace.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229051218id_/http%3A//www.namejet.com/Pages/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
-<!-- SIMGallery MooTools Switch -->
+<!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
+	Privacy Policy - NameJet Domain Name Services
+</title>
+
+                            <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5THBLS"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+
+                                function RemoveThisItem(domainName) {
+                                    var chk = $(".chk");
+                                    chk.each(function () {
+                                        if ($(this).attr("title").toString().toLowerCase() == domainName.toLowerCase()) {
+                                            $(this).children().attr('checked', true);
+                                            var hDiv = $(this).parent();
+
+                                            $(this).parent().parent().parent().parent().parent().remove();
+                                            $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val($("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val() + "," + domainName);
+
+                                            var pd = false;
+                                            var pa = false;
+                                            var pr = false;
+                                            var wl = false;
+                                            var d = $(".hDiv");
+                                            d.each(function () {
+                                                if ($(this).attr("title") == "Pending Deletion")
+                                                    pd = true;
+                                                if ($(this).attr("title") == "Public Auctions")
+                                                    pa = true;
+
+                                                if ($(this).attr("title") == "Pre Release")
+                                                    pr = true;
+
+                                                if ($(this).attr("title") == "Wish List")
+                                                    wl = true;
+                                            });
+
+                                            if (!wl)
+                                                $("#wlAuctions").html("<div class='sNoResults'>No wish list auctions found!</div>");
+                                            if (!pd)
+                                                $("#pdAuctions").html("<div class='sNoResults'>No pending delete domains found!</div>");
+                                            if (!pa)
+                                                $("#pAuctions").html("<div class='sNoResults'>No public auctions found!</div>");
+                                            if (!pr)
+                                                $("#prAuctions").html("<div class='sNoResults'>No pre release auctions found!</div>");
+                                        }
+                                    });
+                                }
 
 
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="robots" content="index, follow">
-  <meta name="keywords" content="adult, social, network, networking, free, photos, videos, chat, gallery, profile, sex, sexy, porn, xxx, fuck buddy, fuck buddies">
-  <meta name="title" content="Privacy Policy">
-  <meta name="author" content="">
-  <meta name="description" content="RudeSpace is the biggest free adult social network on the web. Make friends and find sexual partners on the friendliest and most genuine network!">
-  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>RudeSpace.com - Privacy Policy</title>
-  <link href="/templates/rudespacev15/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="/templates/rudespacev15/css/template.css" type="text/css">
-  <link rel="stylesheet" href="/templates/rudespacev15/css/variations/black.css" type="text/css">
-  <link rel="stylesheet" href="/templates/rudespacev15/css/custom.css" type="text/css">
-  <link rel="stylesheet" href="http://rudespace.com/modules/mod_social/styles/social.css" type="text/css">
-  <link rel="stylesheet" href="http://rudespace.com/modules/mod_yoo_search/mod_yoo_search.css.php" type="text/css">
-  <link rel="stylesheet" href="http://rudespace.com/modules/mod_yoo_login/mod_yoo_login.css.php" type="text/css">
-  <style type="text/css">
-    <!--
-.wrapper { width: 950px; }
-#menu .dropdown { width: 250px; }
-#menu .columns2 { width: 500px; }
-#menu .columns3 { width: 750px; }
-#menu .columns4 { width: 1000px; }
+     </script>
+                <script type="text/javascript">
+                    function RemoveHiddenDomains() {
+                        var rDomains = $("#ctl00_ContentPlaceHolder1_BrowseDomainListPage_RemovedDomains").val();
 
-    -->
-  </style>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/mootools.js"></script>
-  <script type="text/javascript" src="/media/system/js/caption.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-  <script type="text/javascript" src="http://rudespace.com/plugins/system/scjquery/noconflict.js"></script>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/addons/base.js"></script>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/addons/accordionmenu.js"></script>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/addons/fancymenu.js"></script>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/addons/dropdownmenu.js"></script>
-  <script type="text/javascript" src="/templates/rudespacev15/lib/js/template.js"></script>
-  <script type="text/javascript" src="/media/system/js/thickbox.js"></script>
-  <script type="text/javascript" src="http://rudespace.com/modules/mod_yoo_search/mod_yoo_search.js"></script>
-  <script type="text/javascript">
-var YtSettings = { tplurl: '/templates/rudespacev15', color: 'black' };
-  </script>
-  <script type="text/javascript">
-/*<![CDATA[*/
-	var jax_live_site = 'http://rudespace.com/index.php';
-	var jax_site_type = '1.5';
-/*]]>*/
-</script><script type="text/javascript" src="http://rudespace.com/plugins/system/pc_includes/ajax_1.3.js"></script>
-  <link rel="stylesheet" type="text/css" href="http://rudespace.com/components/com_jomcomment/style.css">
-<link rel="stylesheet" type="text/css" href="http://rudespace.com/components/com_jomcomment/templates/pastel/comment_style.css">
+                        if (rDomains != "" && rDomains != null) {
+                            var arr = rDomains.split(",");
+                            for (var g = 0; g < arr.length; g++) {
+
+
+                                RemoveThisItem(arr[g]);
+                            }
+                        }
+                    }
+    </script>    
+
+	    
+	<meta name="keywords" content="NameJet Privacy Policy, NameJet Policy">
+
+	<meta name="description" content="NameJet Privacy Policy - NameJet provides domain auction services and backorder domain registration.">
+<link rel="shortcut icon" href="/_images/global/favicon.ico"><link rel="stylesheet" media="all" href="/_css/global.css?20150803">
+        
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript" src="/_js/global.js"></script>
+	<script src="/_js/vendor/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(function () {
+			$('.carousel').carousel();
+		})
+	</script>
+        
+    <link rel="stylesheet" media="all" href="/_css/responsive.css"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"></head>
+    <body id="ctl00_MasterBody">
+        <!--[if lt IE 7 ]><div class="ie6"><![endif]-->
+<!--[if IE 7 ]><div class="ie7"><![endif]-->
+<!--[if IE 8 ]><div class="ie8"><![endif]-->
+<!--[if IE 9 ]><div class="ie9"><![endif]-->
+
+        <!-- SJL0VWNAMEJET03 -->
+        
+        
+	    <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyNzk3NTcyOA9kFgJmD2QWAgIDD2QWAgIBD2QWBgICDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cubmFtZWpldC5jb21kZAIID2QWAmYPZBYGAgEPZBYCAgEPDxYCHgRUZXh0ZWRkAgMPZBYCAgEPDxYCHwFlZGQCCQ9kFgICAQ8PFgIfAWVkZAISDw8WAh4HVmlzaWJsZWhkFgQCAQ88KwARAgEQFgAWABYADBQrAABkAgMPPCsAEQIBEBYAFgAWAAwUKwAAZBgCBRZjdGwwMCRHcmlkVmlld0RlYnVnUHJjD2dkBRtjdGwwMCRHcmlkVmlld0RlYnVnQXBpTGlua3MPZ2T9WqPaHL7+vJ1hW9te58ozJlZ02A==">
+</div>
 
 <script type="text/javascript">
-/*<![CDATA[*/
-var jc_option           = "";
-var jc_autoUpdate       = "0";
-var jc_update_period    = 0*1000;
-var jc_orderBy          = "0";
-var jc_livesite_busyImg = "http://rudespace.com/components/com_jomcomment/busy.gif";
-var jc_username         = "";
-var jc_email            = "";
-var jc_commentForm;
-/*]]>*/
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
 
 
-<!-- JS Removal for All -->
+<script src="/WebResource.axd?d=hYUe6bQljX4qTr6WqidE3678iWty2-wEfJG1o-hTt5zhd3nM1i2arRE7l8unBdcv7SQgX_s2BaiaGvXRSUc3SL64iXA1&amp;t=636160556560000000" type="text/javascript"></script>
 
-<script type="text/javascript" src="/components/com_agora/js/slimbox.js"></script>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<script src="/ScriptResource.axd?d=QHpwminn2u_NZ1qiy_f378GroH6NWx8_xmv8TbQdgzDXuOJ8JTYjV2mqw9-rcr_xU0FZMcC1pHWml3a9SDQyhjqW6C6MOU0FykLF1hGD9c1_b66N41r-CiPqoIBgZa08EJumDXJdvUqTN8m2xTsu_4TCFJE1&amp;t=2a48f442" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=D_zRKFqv5XyFWxQvMt2f2MDxYh2K1f9hJwRFjMdiaQ84IebS3d6DJ2G28OFbvXvWGXul0FStj4iSLTXWd_ecmDYhYQ1rFmpO0k1n0zm5SA2P3uSS8C5n001mxRb_Uj84BDSyukpAe_TTaacJ3uCcuDFeWZf4hKIaRu12qWUR59a4qony0&amp;t=2a48f442" type="text/javascript"></script>
+<script src="/Script/ajax_error_override.js" type="text/javascript"></script>
+<script src="/Script/SafariAjaxFix.js" type="text/javascript"></script>
+<div>
 
-<body id="page" class="yoopage   ">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7558CF4A">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW0ADveDhvI/4bpv3JhcRuIcGFkvIpl/077I1BA1REzyyXtNVOi2r2f18ZSxPhMFRBjCLvIvNIw+1OlnOJtWXXrZu5x1d6Uv0to/9msEL+c43/uWblGKTr6wRlqXqnx80yTjkZu">
+</div>	        
 
-	
-	<div id="page-header">
-		<div class="page-header-1">
-			<div class="page-header-2">
-				<div class="page-header-3">
-					<div class="wrapper">
 
-						<div id="header">
-			
-							<div id="toolbar">
-							
-															
-																<div class="left">
-									<div class="module mod-blank   first last">
-
-	
-		
-	<ul class="menu"><li class="level1 item1 first active current"><a href="/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" class="level1 item1 first active current"><span class="bg ">Privacy Policy</span></a></li><li class="level1 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=145&amp;Itemid=181" class="level1 item2"><span class="bg ">Terms of Use</span></a></li><li class="level1 item3 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=146&amp;Itemid=182" class="level1 item3 last"><span class="bg ">2257 Compliance</span></a></li></ul>		
-</div>
-								</div>
-																
-																<div class="right">
-									<div class="module mod-blank   first last">
-
-	
-		
-	<a class="twitter" href="http://twitter.com/rudespace" target="_blank" title="Follow us on Twitter"><img class="correct-png" src="images/yootheme/toolbar_twitter.png" border="0" alt="Follow us on Twitter" width="25" height="25"></a><a class="rss" href="index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=38&amp;Itemid=134&amp;format=feed&amp;type=rss" target="_blank" title="Subscribe to our RSS feed"><img class="correct-png" src="images/yootheme/toolbar_feed.png" border="0" alt="Subscribe to our RSS feed" width="25" height="25" style="width: 25px; height: 25px;"></a>		
-</div>
-								</div>
-																
-							</div>
-							
-							<div id="headerbar">
-							
-																
-																<div class="right">
-									<div class="module mod-blank   first last">
-
-	
-		
-	<div class="bannergroup">
-
-<div class="banneritem"><iframe name="Frame1" src="http://seekbang.com/cs/ads/iframe559.html" width="600" height="80" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe><div class="clr"></div>
-	</div>
-
-</div>		
-</div>
-								</div>
-																
-							</div>
-			
-									
-							<div id="logo">
-								<p><a class="logo-icon correct-png" href="index.php" title="Home"></a></p>
-							</div>
-										
-														<div id="menu">
-								<ul class="menu menu-dropdown" id="rsmenu"><li class="level1 item1 first"><a href="/index.php?option=com_community&amp;view=frontpage&amp;Itemid=236" class="level1 item1 first"><span class="bg ">Home</span></a></li><li class="level1 item2"><a href="/index.php?option=com_simgallery&amp;view=latestalbums&amp;Itemid=248" class="level1 item2"><span class="bg ">Photos</span></a></li><li class="level1 item3"><a href="/index.php?option=com_hwdvideoshare&amp;Itemid=249" class="level1 item3"><span class="bg ">Videos</span></a></li><li class="level1 item4"><a href="/index.php?option=com_kunena&amp;Itemid=243" class="level1 item4"><span class="bg ">Forum</span></a></li><li class="level1 item5"><a href="/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=38&amp;Itemid=235" class="level1 item5"><span class="bg ">News</span></a></li><li class="level1 item6 last"><a href="/index.php?option=com_community&amp;view=register&amp;Itemid=276" class="level1 item6 last"><span class="bg ">FREE Membership</span></a></li></ul><ul class="menu menu-dropdown mod-dropdown">
-	<li class="level1 parent separator">
-		<span class="level1 parent separator">
-			<span class="bg">Login</span>
-		</span>
-		<div class="dropdown columns1" style="width: 180px;">
-			
-			
-			
-		<div style="width: 180px;"><div class="dropdown-t1">
-				<div class="dropdown-t2">
-					<div class="dropdown-t3"></div>
-				</div>
-			</div><div class="dropdown-1">
-				<div class="dropdown-2">
-					<div class="dropdown-3">
-						<ul class="col1 level2 first last">
-							<li class="level2 item1 first last">
-								<div class="group-box1">
-									<div class="group-box2">
-										<div class="group-box3">
-											<div class="group-box4">
-												<div class="group-box5">
-													<div class="hover-box1">
-														<div class="hover-box2">
-															<div class="hover-box3">
-																<div class="hover-box4">
-																	<div class="module">
-<form action="/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" method="post" name="login">
-
-<span class="niftydefault" style="display: block;">
-	<span class="yoo-login">
-	
-				<span class="login">
-		
-						
-			<span class="username">
-			
-								<input type="text" name="username" size="18" alt="Username" value="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';">
-								
-			</span>
-			
-			<span class="password">
-			
-								<input type="password" name="passwd" size="10" alt="Password" value="Password" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
-								
-			</span>
-
-									<input type="hidden" name="remember" value="yes">
-									
-			<span class="login-button-container">
-				<span class="login-button-text">
-					<button value="Login" name="Submit" type="submit" title="Login">Login</button>
-				</span>
-			</span>
-			
-						<span class="lostpassword">
-				<a href="/index.php?option=com_user&amp;view=reset">Forgot your password?</a>
-			</span>
-						
-						<span class="lostusername">
-				<a href="/index.php?option=com_user&amp;view=remind">Forgot your username?</a>
-			</span>
-						
-						<span class="registration">
-				<a href="/index.php?option=com_user&amp;view=register">Create an account</a>
-			</span>
-						
-						
-			<input type="hidden" name="option" value="com_user">
-			<input type="hidden" name="task" value="login">
-			<input type="hidden" name="return" value="L2luZGV4LnBocD9vcHRpb249Y29tX2NvbW11bml0eSZ2aWV3PXByb2ZpbGUmSXRlbWlkPTIxNA==">
-			<input type="hidden" name="891a431bf785aead70f66d0573b4d0c8" value="1">
-		</span>
-		
-				
-	</span>
-</span>
-</form></div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div><div class="dropdown-b1">
-				<div class="dropdown-b2">
-					<div class="dropdown-b3"></div>
-				</div>
-			</div></div></div>
-	</li>
-</ul>
-
-							<div class="fancy bg1"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg2"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg3"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg4"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg5"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg6"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div><div class="fancy bg7"><div class="fancy-1"><div class="fancy-2"><div class="fancy-3"></div></div></div></div></div>
-										
-														<div id="search">
-								<div class="default">
-	<div id="yoo-search-1" class="yoo-search">
-	
-		<form action="index.php" method="post">
-			<div class="searchbox">
-				<button class="search-magnifier" type="submit" value="Search"></button>
-				<input class="searchfield" type="text" onfocus="if(this.value=='search...') this.value='';" onblur="if(this.value=='') this.value='search...';" value="search..." size="20" alt="search..." maxlength="20" name="searchword">
-				<button class="search-close" type="reset" value="Reset"></button>
-			</div>	
-			<input type="hidden" name="task" value="search">
-			<input type="hidden" name="option" value="com_search">
-		</form>		
-
-		<div class="resultbox" style="width: 400px;"></div>
-
-	</div>
-</div><script type="text/javascript">
-// <!--
-window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': 'http://rudespace.com/index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all&Itemid=125', 'fieldText': 'search...', 'msgResults': 'Search results', 'msgCategories': 'Search categories', 'msgNoResults': 'No results found', 'msgMoreResults': 'More results' }); });
-// -->
+	        
+	            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$cphScriptManager$ScriptManager', 'aspnetForm', ['tctl00$udpBulkSubmit',''], [], [], 90, 'ctl00');
+//]]>
 </script>
 
-							</div>
-											
-										
-						</div>
-						<!-- header end -->
+            
 
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	        <!--[if lt IE 8]>
+		        <div class="sIEfix">
+                    <div class="sub">
+			            <div>
+                            <strong>You are using an outdated browser.</strong>
+                            <span>For a better experience using this site, please upgrade to a modern web browser.</span>
+                        </div>
+                        <ul>
+                            <li class="icon chrome"><a href='http://www.google.com/chrome' target='_blank'>Chrome</a></li>
+                            <li class="icon firefox"><a href='http://www.firefox.com' target='_blank'>Firefox</a></li>
+                            <li class="icon safari"><a href='http://www.apple.com/safari/download/' target='_blank'>Safari</a></li>
+                            <li class="icon ie-latest"><a href='http://windows.microsoft.com/en-us/internet-explorer/products/ie/home' target='_blank'>IE9+</a></li>
+                        </ul>
+			        </div>
+		        </div>
+            <![endif]-->
 
+		    <div class="sWrp">
+            <div class="sWrp2">
+		       
+                <div class="sSliver">
+                    <em class="sNote">The Premier Domain Name Aftermarket Service</em>
+	            </div>
+          
+			    <a name="top"></a>
+                <!-- <div id="ctl00_pnlS2N" class="sS2N">
+	<a href="#nav">Skip to Nav</a>
+</div> -->
+                
+                <div id="divMobileApp">   
+                    <!-- <a href="https://itunes.apple.com/us/app/namejet/id875473995" target="_blank">
+                       <img src="/Images/iphone-banner-v3.png" alt="iPhone NameJet Mobile App" />                    
+                    </a> -->
+                    <a href="http://www.namejet.com/featuredauctions/llldotnet" target="_blank">
+                       <img src="../../Banners/NameJet-full-site-banner-banner-hoger-v016.png" alt="LLL.NETs">                                        
+                    </a>
+                </div>
+
+			    <div class="sHdr">
+				    <div class="logo">
+				        <a id="ctl00_lnkHome" href="http://www.namejet.com">
+                            <span>NameJet</span>
+                        </a>
+                    </div>
+			    </div>
+
+			    <a name="nav"></a>
+
+                <div id="ctl00_mainNav" class="sNv1">
 	
-	<div id="page-middle">
-		<div class="page-middle-1">
-			<div class="page-middle-2">
-				<div class="wrapper">
-
-					<div id="middle">
-						<div id="middle-expand">
-						
-							<div id="main">
-								<div id="main-shift">
-								
-									<div class="main-wrapper-t1">
-										<div class="main-wrapper-t2">
-											<div class="main-wrapper-t3"></div>
-										</div>
-									</div>
-								
-									<div class="main-wrapper-1 " style="min-height: 1728px;">
-								
-																		
-										
-										<div id="mainmiddle">
-											<div id="mainmiddle-expand">
-											
-												<div id="content">
-													<div id="content-shift">
-													
-															
-														<div class="floatbox">
-															
-															
-<div class="joomla ">
-	
-	<div class="article">
-	
-				
-				<div class="headline">
-		
-						<h1 class="title">
-									Privacy Policy							</h1>
-						
-						
-								
-								<div class="icons">
-				
-										<div class="icon email">
-						<a href="/index.php?option=com_mailto&amp;tmpl=component&amp;link=aHR0cDovL3J1ZGVzcGFjZS5jb20vaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTQ0OnByaXZhY3ktcG9saWN5JmNhdGlkPTQxOnNpdGUtY29udGVudCZJdGVtaWQ9MTI1" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/rudespacev15/images/emailButton.png" alt="E-mail"></a>					</div>
-									
-										<div class="icon print">
-						<a href="/index.php?view=article&amp;catid=41%3Asite-content&amp;id=144%3Aprivacy-policy&amp;tmpl=component&amp;print=1&amp;layout=default&amp;page=&amp;option=com_content&amp;Itemid=125" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/rudespacev15/images/printButton.png" alt="Print"></a>					</div>
-									
-										<div class="icon pdf">
-						<a href="/index.php?view=article&amp;catid=41%3Asite-content&amp;id=144%3Aprivacy-policy&amp;format=pdf&amp;option=com_content&amp;Itemid=125" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/rudespacev15/images/pdf_button.png" alt="PDF"></a>					</div>
-										
-				</div>
-							
-						
-		</div>
-			
-				
-			
-				
-				
-		<p>The RudeSpace Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by RudeSpace anytime you interact with us, such as when you visit our website, when you purchase our products and services, or when you call our sales or support associates.</p><p>Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at RudeSpace, and we go to great lengths to protect it.</p><h2>Why we collect personal information</h2><p>We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest announcements, special offers, and events that you might like to hear about.</p><h2>What information we collect and how we may use it</h2><p>There are a number of situations in which your personal information may help us give you better products. For example:</p><ul>    <li>We may ask for your personal information when you’re requesting support or service over the phone or purchasing a product.</li>    <li>When you interact with RudeSpace, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences.</li>    <li>We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve RudeSpace services.</li></ul><h2>Publicly displayed information is public</h2><p>If you use support forum or community site provided by RudeSpace  then you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. RudeSpace  is not responsible for the personally identifiable information you choose to submit in these forums.</p><p>For example, if you choose to make information, which was previously non-public, available by enabling certain user features, RudeSpace will collect that information from your interaction and the information will become publicly available.</p><h2>When we disclose your information</h2><p>RudeSpace  takes your privacy very seriously. RudeSpace  does not sell or rent your contact information to other marketers.</p><h3>Within our company - Rude Media</h3><p>To help us provide superior service, your personal information may be shared with legal entities within our company globally who will take steps to safeguard it in accordance with RudeSpace’s privacy policy.</p><h3>With our service providers, vendors, and strategic partners.</h3><p>There are also times when it may be advantageous for RudeSpace  to make certain personal information about you available to companies that RudeSpace  has a strategic relationship with or that perform work for RudeSpace  to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with RudeSpace’s policies, except if we inform you otherwise at the time of collection.</p><p>At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.</p><h2>How we protect your personal information</h2><p>RudeSpace  takes precautions - including administrative, technical, and physical measures -  to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.</p><p>You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers.</p><h3>Cookies and other technologies</h3><p>As is standard practice on many  websites, RudeSpace.com uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.</p><p>As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p><p>We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. RudeSpace  will not use the information collected to market directly to that person.</p><p>In some of our email messages we use a "click-through URL" linked to content on the RudeSpace  website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-trhough data to help us determine interest in particular topics and measure the effectiveness of our custoemr communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.</p><h3>Our commitment to your privacy</h3><p>To make sure your personal information is secure, we communicate these guidelines to RudeSpace employees and strictly enforce privacy safeguards within our company. In addition, RudeSpace supports industry initiatives to preserve privacy rights on the Internet and in all aspects of electronic commerce.</p>
-
-		
-		
-	</div>
-	
-</div>
-														</div>
-							
-																											
-													</div>
-												</div>
-												<!-- content end -->
-												
-																								
-																								
-											</div>
-										</div>
-										<!-- mainmiddle end -->
-
-																		
-									</div>
-								
-									<div class="main-wrapper-b1">
-										<div class="main-wrapper-b2">
-											<div class="main-wrapper-b3"></div>
-										</div>
-									</div>
-								
-								</div>
-							</div>
-							
-														
-														
-						</div>
-					</div>
-		
-					
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="page-footer">
-		<div class="wrapper">
-
-			<div id="footer">
-				<a class="anchor" href="#page"></a>
-				<div class="bannergroup">
-
-<div class="banneritem"><iframe name="Frame1" src="http://seekbang.com/cs/ads/iframe558.html" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe>
-<p></p><div class="clr"></div>
-	</div>
-
-</div><ul class="menu"><li class="level1 item1 first active current"><a href="/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" class="level1 item1 first active current"><span class="bg ">Privacy Policy</span></a></li><li class="level1 item2"><a href="/index.php?option=com_content&amp;view=article&amp;id=145&amp;Itemid=181" class="level1 item2"><span class="bg ">Terms of Use</span></a></li><li class="level1 item3 last"><a href="/index.php?option=com_content&amp;view=article&amp;id=146&amp;Itemid=182" class="level1 item3 last"><span class="bg ">2257 Compliance</span></a></li></ul>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-			
-			<script type="text/javascript">
-			  var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-17217711-1']);
-			  _gaq.push(['_trackPageview']);
-
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-			  })();
-
-			</script>
-			
-
-<div id="social">
-	<ul><li style="list-style: none;">
-				<a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/google.gif" width="16" height="16" border="0" hspace="0" alt="Google Bookmarks" title="Google Bookmarks" align="left"></a>
-				</li><li style="list-style: none;">
-					<a href="http://twitter.com/home?status=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" target="_blank" rel="nofollow" title="Twitter"><img src="modules/mod_social/twitter.gif" width="16" height="16" border="0" hspace="0" alt="Twitter"></a>
-				</li><li style="list-style: none;">
-					<a href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy&amp;top=1" target="_blank" rel="nofollow"><img src="modules/mod_social/windows.gif" alt="Windows Live" title="Windows Live" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://de.facebook.com/sharer.php?u=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;t=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/facebook.gif" alt="Facebook" title="Facebook" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;u=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;t=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/myspace.gif" alt="MySpace" title="MySpace" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://del.icio.us/post?url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/delicious.gif" alt="deli.cio.us" title="deli.cio.us" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/digg.gif" width="16" height="16" border="0" hspace="0" alt="Digg" title="Digg" align="left"></a>
-				</li><li style="list-style: none;">
-					<a href="http://www.folkd.com/submit/http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" target="_blank" rel="nofollow"><img src="modules/mod_social/folkd.gif" alt="Folkd" title="Folkd" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://linkarena.com/bookmarks/addlink/?url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/linkarena.gif" alt="Linkarena" title="Linkarena" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://www.mister-wong.de/index.php?action=addurl&amp;bm_url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;bm_description=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/misterwong.gif" alt="Mister Wong" title="Mister Wong" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-				<a href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;h=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/newsvine.gif" width="16" height="16" border="0" hspace="0" alt="Newsvine" title="Newsvine" align="left"></a>
-				</li><li style="list-style: none;">
-				<a href="http://reddit.com/submit?url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/reddit.gif" width="16" height="16" border="0" hspace="0" alt="reddit" title="reddit" align="left"></a>
-				</li><li style="list-style: none;">
-					<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;title=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/stumbleupon.gif" width="16" height="16" border="0" hspace="0" alt="StumbleUpon" title="StumbleUpon" align="left"></a>
-				</li><li style="list-style: none;">
-					<a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?t=RudeSpace.com+-+Privacy+Policy&amp;d=&amp;tag=&amp;u=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125" target="_blank" rel="nofollow"><img src="modules/mod_social/yahoo.gif" alt="Yahoo! Bookmarks" title="Yahoo! Bookmarks" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li><li style="list-style: none;">
-					<a href="http://www.yigg.de/neu?exturl=http%3A%2F%2Frudespace.com/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=125&amp;exttitle=RudeSpace.com+-+Privacy+Policy" target="_blank" rel="nofollow"><img src="modules/mod_social/yigg.gif" alt="Yigg" title="Yigg" align="left" border="0" height="16" hspace="0" width="16"></a>
-				</li>
-			</ul>
+                    <div>
+					    <ul>                            
+                            <li class="sNv1-0"><a href="/featuredauctions/liveauction">NamesCon Auction</a></li>
+						    <li class="sNv1-1"><a href="/Pages/Auctions/BrowseDomains.aspx">Search</a></li>                            
+                            <li class="sNv1-3"><a href="/Pages/Auctions/featuredauctions.aspx">Featured</a></li>
+                            <li class="sNv1-2"><a href="/Pages/Downloads.aspx">Downloads</a></li>
+                            <li class="sNv1-4"><a href="/Pages/support.aspx">Help Center</a></li>
+						    <li class="sNv1-5"><a href="/Pages/MyAccount/Dashboard.aspx"><span class="sHDm">My</span> Account</a></li>
+					    </ul>
+                    </div>
+                
 </div>
 
+                <div id="ctl00_pnlAccountStatus" class="aSt sAtten1">
+	<span id="ctl00_AccountStatusLabel"></span>
+</div>			
 
+                <div id="ctl00_pnlSearchBox" class="sNv2s" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ImageButtonSearch')">
+	
+			        <div class="search">
+                        <div>
+    			            <input name="ctl00$TextBoxSearch" type="text" value="Search Domains" id="ctl00_TextBoxSearch" class="text" placeholder="Search Domains" onfocus="javascript:if (this.defaultValue==this.value) this.value = '';this.style.color = 'black';" defaultbutton="ImageButtonSearch">
+				            <input type="submit" name="ctl00$ImageButtonSearch" value="Search" id="ctl00_ImageButtonSearch" class="button sRCLx">
+                        </div>
+                    </div>			        
+                
+</div>
 
-<p>Copyright © 2009 <a href="http://www.rudemedia.com" target="_blank" title="Rude Media">Rude Media</a>. All rights reserved.</p>
+                <div id="ctl00_pnlLogin" class="sNv2">
+	
+                    <ul>
+                        
+                        <li id="createAcct"><a id="ctl00_plCreate" href="/Pages/Login.aspx">Create an Account</a></li>
+					    <li id="login"><a id="ctl00_plLogin" href="/Pages/Login.aspx">Log In</a></li>
+					</ul>
+                    <!-- // REVIEW THIS <span id="help"><a id="ctl00_lnkHelp" href="javascript:__doPostBack(&#39;ctl00$lnkHelp&#39;,&#39;&#39;)">Help</a></span> -->			
 				
-			</div>
-			<!-- footer end -->
+</div>
+				
 
-		</div>
-	</div>
-<!--
-<script type="text/javascript" src="/media/system/js/jquery.min.js"></script>
-<script type="text/javascript" src="/media/system/js/thickbox.js"></script>
-<script type="text/javascript">jQuery.noConflict();</script>
--->
-<!-- Start of StatCounter Code 
-<script type="text/javascript">
-var sc_project=5316762; 
-var sc_invisible=1; 
-var sc_partition=59; 
-var sc_click_stat=1; 
-var sc_security="f029d071"; 
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="joomla 1.5 statistics"
-href="http://www.statcounter.com/joomla/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/5316762/0/f029d071/1/"
-alt="joomla 1.5 statistics" ></a></div></noscript>
-End of StatCounter Code -->
+                <div class="sCnt">
+			        <div id="ctl00_udpBulkSubmit">
+	
 
+			                
+        			    
+			                
+
+			                
+        			    
+			                
+        			    			    
+			                
+        			    
+			                <div id="AjaxError" class="sError" style="display:none">
+	                            <div id="Notice6">
+                                    <a onclick="javascript:document.getElementById('Notice6').style.visibility='hidden';" class="sFR">close</a>
+	                                <span id="ctl00_ajaxLabel"></span>
+                                </div>
+	                        </div>	
+
+			            
+</div>
+
+				    
+
+    <h1 class="sMTx sMBsm">NameJet Privacy Policy</h1>
+	
+
+
+	<p>
+		NameJet
+		knows that you care about how personal information about you is used and shared
+		and we appreciate your trust that we will do so carefully and sensibly. This notice
+		describes our Privacy Policy. By visiting
+		NameJet
+		, you are accepting the practices described in this Privacy Policy. For questions
+		regarding this Privacy Policy please contact
+		NameJet
+		using our <a href="/Pages/Contact.aspx">contact form</a>.</p>
+	<h3>
+		What Personal Information About Users Does
+		NameJet
+		Gather?</h3>
+	<dl>
+		<dt>Information You Give Us:</dt>
+		<dd>
+			We collect and store personal information you enter on our Web site or give us in
+			any other way. We use the information that you provide us for such purposes as enhancing
+			the experience of users in our network, responding to your requests, providing our
+			services (e.g., domain Backorder requests, auctions, and purchases), and communicating
+			with you about offers that may be of interest to you.</dd>
+		<dt>Automatic Information:</dt>
+		<dd>
+			Our Web site has features that collect information from users to assist us in creating
+			Web sites that honor our users' preferences and serve their interests and needs.</dd>
+	</dl>
+	<p>
+		Our Web site places cookies, which are small data files on the user's hard drive
+		when you visit our Web site. A cookie cannot read data off your hard drive. You
+		may refuse cookies by turning them off in your browser; however, if you reject the
+		placement of cookies, you may be limited in using some areas of our Web site. Some
+		cookies are used to improve your user experience by making login to our Web site
+		easier, such as by remembering usernames and passwords. Cookies can also enable
+		us to monitor users' movements through our Web site so that we may target user interests
+		to enhance their experience at our Web site. We may also collect click stream data
+		such as the full Uniform Resource Locators (URL) and assign unique identifiers to
+		our users for the purpose of tracking user behaviors. Information obtained with
+		these technologies may be associated with the personal information you have provided
+		us. Besides using the information as described above,
+		NameJet
+		may utilize cookies to control operations such as the flow of the ordering processes
+		related to your online transactions.</p>
+	<p>
+		We, or our third-party advertising partners, may also place cookies to provide advertisements
+		about goods or services that may be of interest to you. Since our advertisers and
+		other third parties whose products or services are promoted on our Web site may
+		also use cookies or other technology, we advise you to check the advertisers' privacy
+		policies for information about their privacy practices.</p>
+	<p>
+		We may also gather general information such as the date, time, browser type, operating
+		system, platform, navigation history, and IP address of all users to our site(s).
+		We use this information for our internal security audit log, trend analysis, and
+		system administration, and to gather broad demographic information about our users.
+		We may also associate this general information with your personal information. By
+		visiting our site, you affirmatively consent to our collection, use, and distribution
+		of your general and personal information and other related data to our partners
+		and advertisers. If you do not want us to share information about you with our partners
+		or advertisers, you may opt-out of receiving information by doing the following:</p>
+	<ol class="sOL">
+		<li>Login to "My Account".</li>
+		<li>Click on "Edit my Account Settings".</li>
+		<li>Select the "My Preferences" tab.</li>
+		<li>Choose your email settings under "Email Preferences"</li>
+		<li>Select the option not to receive advertisements.</li>
+	</ol>
+	<h3>
+		Does
+		NameJet
+		Share the Information It Receives?</h3>
+	<p>
+		Yes, we do share information with at least the entities listed below:</p>
+	<dl>
+		<dt>WHOIS:</dt>
+		<dd>
+			We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"),
+			the organization that assumes responsibility for domain name allocation, to collect
+			information about you during the domain name registration process. This information
+			includes your full name, mailing address, phone number, email address, and, where
+			provided, your facsimile number. ICANN then requires all registrars to make your
+			full name, mailing address, phone number, email address, and, where provided, your
+			facsimile number, as well as the creation and expiration dates of your domain name
+			registration and the name server information associated with your domain name, to
+			the public via an interactive Web page and a "port 43" WHOIS service. For the purposes
+			of this Privacy Policy we will refer to this information as your "WHOIS Information."
+			Please note that we may not be able to control how members of the public may use
+			the WHOIS Information.</dd>
+		<dt>Advertisers:</dt>
+		<dd>
+			We will share aggregated demographic information with our partners and advertisers.</dd>
+		<dt>Partners:</dt>
+		<dd>
+			We partner with other third party providers of specific services. When the user
+			signs up for these services, we will share names, e-mail addresses, or other contact
+			information that is necessary for the third party to provide these services.</dd>
+		<dt>Agents:</dt>
+		<dd>
+			We engage other companies and individuals to perform functions on our behalf. Examples
+			include processing credit card payments, providing marketing assistance, providing
+			customer services, sending postal mail and email to you, removing repetitive information
+			from customer lists, and analyzing data. These persons have access to user information
+			needed to perform their functions for the benefit of the user. These companies may,
+			or may not, retain, share, store or use personally identifiable information that
+			you provide to
+			NameJet
+			for any secondary purposes.</dd>
+		<dt>Service Providers:</dt>
+		<dd>
+			We engage other companies and individuals to perform enhanced services on our behalf.
+			For example, we my engage another service provider to provide free electronic mail
+			services to our domain name registrants. Many of our service providers have access
+			to personal information needed to perform these kinds of services.</dd>
+		<dt>Business Transfer:</dt>
+		<dd>
+			As we continue to develop our business, we might sell or buy businesses or their
+			assets. In such transactions, customer information generally is one of the transferred
+			business assets. Also, if
+			NameJet
+			, or substantially all of its assets, were ever to be acquired, customer information
+			will of course be one of the transferred assets.</dd>
+		<dt>Compliance:</dt>
+		<dd>
+			We release account and other personal information when we believe release is required
+			to comply with federal or state law; enforce or apply our Terms of Use and other
+			agreements; or protect the rights, property, or safety of
+			NameJet
+			, our users, or others. This includes at least exchanging information with other
+			companies, organizations and members of law enforcement to protect against fraud
+			or other criminal activity.</dd>
+	</dl>
+	<h3>
+		How Secure Is Information About Me?</h3>
+	<p>
+		The information we receive from or about you is stored on systems designed to prevent
+		the loss, disclosure, or destruction of that information. We protect the security
+		of your information during transmission by using Secure Sockets Layer (SSL) software,
+		which encrypts information you input and the information we may send to our agents.
+		NameJet
+		has gone to great lengths to ensure your information is securely obtained. For example,
+		we encrypt your credit card number before it is stored in our database. It is important
+		for you to protect against unauthorized access to your password and to your computer.
+		Be sure to sign off when finished using a shared computer.</p>
+	<h3>
+		What Information Can I Access?</h3>
+	<p>
+		NameJet
+		gives you access to certain information about you for the limited purpose of viewing
+		and, in certain cases, updating that information. To view or change this information,
+		log-in to your account. When you update information, we usually keep a copy of the
+		prior version for our records.</p>
+	<h3>
+		Links</h3>
+	<p>
+		Sites provided by
+		NameJet
+		contain links to other Web sites. Please be aware that we are not responsible for
+		the privacy practices of such other Web sites. We encourage our users to be aware
+		when they leave our Web site and to read the privacy statements of each and every
+		Web site that collects personally identifiable information. This privacy statement
+		applies solely to information collected by this Web site.</p>
+	<h3>
+		Children</h3>
+	<p>
+		NameJet
+		does not sell services for purchase by children under the age of 18. If you are
+		under 18, you may use our services only with involvement of a parent or guardian.</p>
+	<h3>
+		Conditions of Use, Notices, and Revisions</h3>
+	<p>
+		If you choose to visit
+		NameJet
+		's Web site, your visit and any dispute over privacy is subject to this Privacy
+		Policy and our Terms of Use, including limitations on damages, arbitration of disputes,
+		and application of the law of the Commonwealth of Virginia. If you have any concern
+		about privacy at
+		NameJet
+		, please send us your concern using our <a href="/Pages/Contact.aspx">contact form</a>,
+		and we will address it. Our business changes constantly. This Privacy Policy and
+		the Terms of Use will change also, and use of information that we gather now is
+		subject to the Privacy Policy in effect at the time of use. We may e-mail periodic
+		reminders of our policy and conditions but you should check this Privacy Policy
+		posted on our Web site frequently to see recent changes.</p>
+	<p>
+		If you feel that
+		NameJet
+		, or any of its agents, representatives, or employees are violating this Privacy
+		Policy, please contact us via e-mail using the <a href="/Pages/Contact.aspx">contact
+			form</a> or by telephone at 1-425-974-4687.</p>
+
+
+
+
+			    </div>
+                
+                <div id="ctl00_pnlB2T2" class="sB2T sHDd">
+	<a href="#" onclick="window.scrollTo(0,0); return false">Back To Top</a>
+</div>
+                
+                <div class="sFtr sCF">
+
+                    <div id="ctl00_pnlFooterNav" class="sNv3 sFR">
+	
+				        <ul>
+					        <li><a id="ctl00_lnkHome2" href="../Default.aspx">Home</a></li>
+                            <li><a id="ctl00_lnkPress" href="press-releases/default.aspx">Press Releases</a></li>
+					        <li><a id="ctl00_lnkAbout" href="About.aspx">About Us</a></li>
+					        <li><a id="ctl00_lnkContact" href="Contact.aspx">Contact Us</a></li>
+					        <li class="sHDm"><a id="ctl00_lnkSupport2" href="Support.aspx">Help</a></li>
+					        
+                            <li><a id="ctl00_lnkSiteMap" href="SiteMap.aspx">Site Map</a></li>
+                       </ul>
+                    
+</div>
+
+                    <div class="sNote sFL">
+                        © 2016 NameJet, All rights reserved.
+                        <span id="ctl00_lblLegalNav"><a id="ctl00_lnkTerms" href="Terms.aspx">Terms</a> |
+					        <a id="ctl00_lnkPrivacy" href="Privacy.aspx">Privacy</a></span>
+                    </div>
+
+
+			    </div>
+
+                <div class="sFtr2 sCF sMBsm">
+
+                    <div class="sFR contact">
+                        <span class="sub1"><strong>Questions? Call Us At</strong></span>
+                        <span class="sub2">1.425.974.4687</span>
+                        <span class="sub3 sHDm">Visit our <a href="/Pages/Support.aspx">Help Center</a> for simple and quick support.</span>
+                    </div>
+
+                    <div class="sFL badges sCF">
+                        <span class="sFL" style="margin-right:15px;margin-top:-20px;display:inline-block">
+                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.namejet.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+                        </span>
+                        <span class="sFL" style="margin-right:15px;display:inline-block">
+                            <script type="text/javascript">                                var bbbprotocol = (("https:" == document.location.protocol) ? "https://" : "http://"); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fnamejet-22427364.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/namejet-22427364.js" type="text/javascript"></script>
+                            <a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/western-washington/business-reviews/internet-web-hosting/namejet-in-bellevue-wa-22427364#bbblogo" title="NameJet LLC, Internet - Aftermarket Domains, Kirkland, WA"><img style="border:none;" id="bbblinkimg" src="//seal-alaskaoregonwesternwashington.bbb.org/logo/ruhzbus/namejet-22427364.png" width="200" height="45" alt="NameJet LLC, Internet - Aftermareket Domains, Kirkland, WA"></a>
+                        </span>
+                        <span class="sFL" style="display:inline-block">
+                            <a target="_blank" href="http://www.domaining.com" class="sHDm"><img src="/_images/global/badge-domaining.gif" alt=" "></a> 
+                        </span>
+                    </div>
+
+                 </div>
+
+                <div id="ctl00_pnlSocialNav" class="sNv5">
+	                    
+                    <ul>
+                        <li class="sNv5-0">User Guide: </li>                                 
+					    <li class="sNv5-1"><a href="/Pages/UserGuide.aspx">English User Guide</a></li>
+                        <li class="sNv5-2"><a href="/Pages/UserGuide.aspx?l=cn">Chinese User Guide</a></li>
+                        <li class="sNv5-3"><a href="/Pages/Support.aspx">Visit our help center</a></li>
+                    </ul>
+                
+</div>
+
+		        <input type="hidden" name="ctl00$HiddenFieldFristNav" id="ctl00_HiddenFieldFristNav">
+		    </div>
+
+            <div class="sAC sMTsm sSm sMsBtn">
+                <a id="ctl00_HyperLink1" href="../Default.aspx?DisableMobile=1">Disable Mobile Scaling</a>
+                
+            </div>
+
+            </div>
+
+	        
+	        
+	        
+	    </form>
+        <!--[if (lte IE 8)]> 
+            <script type="text/javascript">
+                function BindControlEventsIE() {
+                    //jQuery is wrapped in BindEvents function so it can be re-bound after each callback.
+                    $('TABLE.sTbl TBODY TR:odd').addClass('alt-row'); //Alternating Rows Fix         
+                }
+
+                //Initial bind
+                $(document).ready(function () {
+                    BindControlEventsIE();
+                });
+
+                //Re-bind for callbacks
+                var prm = Sys.WebForms.PageRequestManager.getInstance();
+                prm.add_endRequest(function() { 
+                    BindControlEventsIE();
+                });
+		    </script>
+        <![endif]--> 
+        
+        <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-2685714-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5THBLS"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5THBLS');</script>
+        <!-- End Google Tag Manager -->
+
+        <!--[if lt IE 7 ]></div><![endif]-->
+        <!--[if IE 7 ]></div><![endif]-->
+        <!--[if IE 8 ]></div><![endif]-->
+        <!--[if IE 9 ]></div><![endif]-->
+
+    
 </body></html>
