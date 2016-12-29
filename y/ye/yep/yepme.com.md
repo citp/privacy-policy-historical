@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614032252id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052015id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YepMe.com
 
