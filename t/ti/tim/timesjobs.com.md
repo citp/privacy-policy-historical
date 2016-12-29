@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618064422id_/http%3A//www.timesjobs.com/candidate/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044757id_/http%3A//www.timesjobs.com/candidate/privacyPolicy.html) for the most accurate reproduction.*
 
-# Jobs in India | Recruitment | Employment | Job Vacancies & Openings
+# Jobs Search | Recruitment | Employment | Job Vacancies | TimesJobs
 
 Times Business Solutions (a Division of Times Internet Ltd.) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the online properties- www.timesjobs.com, www.magicbricks.com, www.simplymarry.com, www.ads2book.com, www.peerpower.com and www.yolist.com. 
 
