@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083218id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbicard.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063508id_/https%3A//www.sbicard.com/en/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Policy | SBI Card
 
@@ -37,6 +37,7 @@ One Signature. Many Privileges
 
   * [Offers](https://www.sbicard.com/en/personal/offers.page)
   * [Rewards](https://www.sbicard.com/en/personal/rewards.page)
+  * [Apply](https://www.sbicard.com/en/eapply.page)
   * 
 
 
