@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salenearn.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404061727id_/http%3A//www.salenearn.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salenearn.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052809id_/http%3A//www.salenearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SaleNearn
 
