@@ -1,30 +1,132 @@
-> *The following text is extracted and transformed from the caloriesperhour.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511210700id_/http%3A//www.caloriesperhour.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caloriesperhour.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043857id_/https%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Information Security Policy | CaloriesPerHour.com
+# LEAF GROUP PRIVACY POLICY | LIVESTRONG.COM
 
-## Calories Per Hour
+Last Updated: November 9, 2016
 
-**Effective Date: December 10, 2007**
+By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service:, collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.
 
-This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information ("PII") that we collect about you when you use our website http://www.Caloriesperhour.com (the “Site”) and the software, games and other services we provide on or through the Site (together with the Site, the “Service”). 
+Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission (“FTC”).
 
-**Who We Are. We are Demand Media, Inc. ("CaloriesPerHour," "Caloriesperhour.com," "Site,""Service,” "we," "us," or "our").** Caloriesperhour.com is a popular place to access information and peer support for healthy and sustainable weight loss. In conducting our business, as further described below, we collect information, including PII, about the individuals who use the Service.
+## I. Data Collection and Use.
 
-This Policy and the Terms of Use. This Policy is part of and incorporated into the Caloriesperhour.com Terms of Use (collectively, the “Terms”). 
+> a. _Information You Directly and Voluntarily Provide to Us._ We may collect and store some or all of the following information you make available to us:
+> 
+>   * i. If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, telephone number, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service. If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private. If you are a registered user you may also be able to adjust your account settings through your user account. We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.
+>   * ii. Information you provide when you contact us for technical or customer support or with questions about your use of the Service.
+> 
 
-**BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING OUR SERVICE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
+> 
+> b. _Information Automatically Collected from You._ We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information such as your actual first and last name, gender, and zip code. In addition, you will have the opportunity to submit information about your personal medical and health condition to us through, for example, the ovulation calculator, symptom checker, BMI calculator, weight tracking and other tools available on the Site. That information may be associated with your profile and therefore become Personally Identifiable Information. You may access and update your personal information or account settings by logging onto your your profile tab on the Site and changing the information online.
+> 
+>   * i. Device registration data (e.g., the type of mobile device you use, your mobile device’s unique device or advertising ID, IP address, operating system and browser type)
+>   * ii. Device settings (e.g., language preference)
+>   * iii. Mobile carrier
+>   * iv. Information about how you use the Service (for example, how many times you use the Service each day)
+>   * v. Requested and referring URLs
+>   * vi. Location data collected through your device (including, for example, precise location data such as GPS and WiFi information)
+> 
 
-  1. INFORMATION YOU GIVE US 
-    1. The Types of Information Caloriesperhour.com Collects. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our Account registration process requires that you provide us with your user name, birthday and e-mail address, and that you create and provide us with a password. We may also request other information, such as your actual first and last name, gender, and zip code.
-    2. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for PII you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site’s home page.
-  2. AUTOMATIC INFORMATION COLLECTION 
-    1. Cookies. Like many Web sites, we use "cookies". Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn of, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as: 
-      1. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-      2. the date and time you access the Site and pages you visit;
-      3. your computer's IP address and information about its operating system, platform and the Web browser type and version you use;
-      4. demographic and other non-personally identifiable profile information about you; and
-      5. information to combat fraud or misuse.
-    2. Pixel Tags. In our e-mails to you, we use "pixel tags" to determine if your email software or service can display html-formatted e-mail (this helps us optimize the size of our e-mail messages and conserve bandwidth).
-    3. Collection of Information by Third Parties. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third-party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third-party cookies on your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt
+> 
+> c. _Information You Publicly Post through the Service._ If you post information on public areas of the Service, such as reviews, comments or forums, that information may be collected and used by Leaf Group, other users of the Service, and the public generally. We strongly recommend that you do not post any information through the Service that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
+> 
+> d. _How We Use the Information We Collect from You._ We and our service providers may use the information you provide or that is collected through the Service to operate and improve the Service, our other sites, applications, products and services, or to contact you from time to time to provide you with important information, notices and marketing promotions relating to the Service. If you wish to opt-out of receiving marketing communications from us by email, please follow the instructions contained in each email you receive from us describing how you can opt-out of receiving further marketing communications from us. If you are a registered user you may also be able to adjust your email settings by logging in to your account and adjusting your account settings.
 
+## II. Collection of Information by Third Parties.
+
+> a. _Advertising and Analytics._
+> 
+>   * The Service may be supported through advertising, and we may work with third-party advertisers and advertising networks to provide advertising through the Service. We may provide these third-party advertisers and advertising networks with the ability to collect information about how you interact with the Service and, if applicable, your mobile device. This information may include the unique device or advertising identifier associated with your device and your precise location information, in order to help analyze and serve targeted advertising on the Service and elsewhere (including third-party sites and applications).
+>   * We may also work with third party analytics companies to help us understand how the Service is being used, such as data collection, reporting, ad response measurement, and website and mobile application analytics, as well as to assist with delivery of relevant marketing messages and advertisements. We may use Google Analytics, an analytics service provided by Google, Inc., or other third party analytics services providers (“Analytics Services”) to collect information about your use of the Service. These Analytics Services may collect information about the content you view and your system information and geographic information. The information generated by the Analytics Services about your use of the Service will be transmitted to and stored by the Analytics Services. The information collected by the Analytics Services allows us to analyze your use of the Service.
+>   * We encourage you to review your device and Service settings to ensure they are consistent with your preferences, including with respect to the collection and use of information. You may be able to stop further collection of certain information by the Service by updating your applicable device settings, or you may uninstall the Service. In addition, you may choose not to share your location details by adjusting your mobile device’s location services settings. For instructions on changing the relevant settings, please contact your service provider/carrier or device manufacturer.
+> 
+
+> 
+> b. _Third Party Links and Content._ In addition, the Service may include third-party advertising, links to third-party websites, and other content from third-party businesses. These third parties may use cookies, pixels and web beacons to track the actions of users online over time and across different websites or platforms in order to deliver targeted electronic advertisements to an individual user. For information about how tracking works for online advertising purposes you can visit <http://www.aboutads.info/choices> or [http:///www.aboutads.info/appchoices](http://www.aboutads.info/appchoices). We do not have access to or control over cookies, pixels or web beacons that third-party websites or partners may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites that you visit. In addition, some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at: <http://www.networkadvertising.org/managing/opt_out.asp>.
+> 
+> c. _Do Not Track Requests._ If you access the Service through a browser, your browser may allow you to adjust your browser settings so that “do not track” requests are sent to the websites that you visit. However, we will not disable tracking technology that may be active on the Service in response to any “do not track” requests that we receive from your browser. You can change your privacy preferences regarding the use of cookies and other similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require our consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered through the Service.
+> 
+> d. _Payment Processors._ If you make a purchase through the Service, you may be able to pay using a third-party payment service, such as Stripe, PayPal, Apple Pay, Amazon Pay or other third-party payment services. All information collected by these third-party payment services for purposes of processing your payments is not available to us, unless you have otherwise provided this information to us in connection with your use of the Service. Information collected from you by these third-party payment services is governed by the applicable third-party payment service’s privacy policy. You should review the applicable privacy policy prior to submitting any information to the applicable third-party payment service.
+> 
+> e. _Promotions, Sweepstakes, and Contests._ From time to time, we may host a promotion, sweepstakes, or content on the Service. You may be asked to provide personal information or permit the transfer of your personal information to a third party in connection with such promotion, sweepstakes or content. The parties who privacy policy applies will be disclosed at point of collection or transfer and you will have a choice of whether or not you wish to permit such transfer or collection of information to a third party.
+
+## III. Social Media Services.
+
+>   * The Service may use social networking or “share functionality” or may contain links to third-party social media sites or applications that are not owned or controlled by Leaf Group. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature. Leaf Group has no control over, and assumes no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. You are subject to the policies of those third parties when and where applicable. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Service. Please review your privacy settings for your applicable social media site or application account, as those settings determine what information may be made available to us when you access the Service through the applicable social media site or application.
+>   * We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+> 
+
+
+## IV. Children Under Age 13.
+
+>   * The Service is not intended for children under age 13. We do not knowingly collect or distribute personal information from or about children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+> 
+
+
+## V. How We Share Your Information.
+
+>   * We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:
+> 
+
+> 
+> a. _Advertisers._ We may share your information with advertisers, third-party advertising networks and analytics companies as described above in Section II(a) who may use it to deliver targeted advertisements to you on the Service or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired. We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.
+> 
+> b. _Corporate Affiliates._ We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with our Services, products and other services.
+> 
+> c. _Partner Programs._ If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Service utilized.
+> 
+> d. _Marketing Campaigns._ From time to time we may disclose certain information (name, mailing address and non-sensitive transactional information such as your purchase history, amounts paid and products ordered) to marketing companies for trade or rental purposes. If you prefer to opt-out of the use of your personal information by marketing companies for trade or rental purposes, please let us know at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+> 
+> e. _Servcie Providers._ We may share your information with our service providers who work on our behalf. For example, these service providers may handle payment or credit card processing, data management, customer data pooling or aggregating, feature administration, email distribution, market research, information analysis, and promotions management. These service providers will only have access to the information needed to perform these limited functions on our behalf.
+> 
+> f. _Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies._ To the extent permitted by law, we will disclose your information to government authorities or third parties, including national security or law enforcement agencies, if: (i) required to do so by law, or if requested in response to a subpoena or court order; (ii) we believe in our sole and absolute discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large; or (iii) we believe that you have abused the Service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws or in violation of our Terms of Use. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+> 
+> g. _Business Transfers; Bankruptcy._ In the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets or any business, any user information owned or controlled by us may be one of the assets transferred to third parties in such transaction or event. We reserve the right, as part of this type of transaction or event, to transfer or assign your information and other information we have collected from users of the Service to third parties. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred user information will be subject to this Privacy Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity or acquirer, as applicable.
+
+## VI. Managing Your Information.
+
+>   * We acknowledge the right of individuals to access their personal data. You may send an e-mail to [legal@leafgroup.com](mailto:legal@leafgroup.com) or a letter to Leaf Group Ltd., Attn: Legal Department; 1655 26th Street, Santa Monica, CA 90404 requesting access to or correction of your personal information. Please include your registration information you provided through the Service. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account. If you’d like us to delete information that you have provided through the Service, please contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com) and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Service to function properly or may be automatically retained in backup storage or records retention archival storage.
+>   * In addition, if you are a California resident under the age of 18 and are a registered user of the Service, you may request that we remove content or information about you that you posted on the Service by (A) submitting a request in writing to [legal@leafgroup.com](mailto:legal@leafgroup.com) (B) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed. However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content. Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.
+> 
+
+
+## VII. Use of Information Outside Your Country of Residence.
+
+>   * The Service is directed to users located in the United States. If you are located outside of the United States and you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States. Your use of the Service represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained in the United States, you should not use the Service.
+> 
+
+
+## VIII. EU-US Privacy Shield.
+
+>   * Leaf Group complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+>   * In compliance with the EU-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+>   * We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+>   * Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+> 
+
+
+## IX. US-Swiss Safe Harbor.
+
+>   * Leaf Group complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles will govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+>   * In compliance with the US-Swiss Safe Harbor Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. Swiss citizens individuals with inquiries or complaints regarding this policy should first contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com).
+>   * We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+> 
+
+
+## X. Security.
+
+>   * We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.
+> 
+
+
+## XI. Updates to this Privacy Policy.
+
+>   * We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes. If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
+> 
+
+
+## XII. Contact Information.
+
+>   * If you have questions about this Privacy Policy, you may contact us at [legal@leafgroup.com](mailto:legal@leafgroup.com). We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.
+> 
 
