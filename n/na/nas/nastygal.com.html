@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nastygal.com privacy policy that was archived on 2016-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160623140534id_/http%3A//www.nastygal.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nastygal.com privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229095756id_/http%3A//www.nastygal.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
-<script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(h,o,t,j,a,r){
     h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
     h._hjSettings={hjid:10933, hjsv:2};
@@ -15,8 +15,6 @@
 
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"47a68da3eb","applicationID":"3474324","transactionName":"J1gITRFdWV8DQBY1WQpWEksCHWZaElcDXHEUR0l+JmYVQxRbTwdTHRoVTQJGUF4DXE0=","queueTime":0,"applicationTime":148,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAEUVZbGwAEU1VRBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,-1!==o.indexOf("dev")&&(c.dev=!0),-1!==o.indexOf("nr_dev")&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{l?l-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,l=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(d){"stack"in d&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(l+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&l>0&&(l-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,l],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",l="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(l+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",l="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+l),a.inPlace(window,[s],s+l),a.inPlace(window,[f,"clearImmediate"],f+l),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){l.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),l.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),l=t(14)(u),d=NREUM.o,p=d.XHR,h=d.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,l.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],l=u.length,d=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;l>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(12),a=t(13);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var c=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],f="api-";i(c,function(t,e){newrelic[e]=r(f+e,"api")}),i(s,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){l([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw f(e+"err",[r,a,d],c),d}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){l([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=d(n),c=a.length,s=0;c>s;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function l(t,e){m[t]=d(t).concat(e)}function d(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:l,emit:n,get:p,listeners:d,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},l=e.exports=o();l.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=w.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;w.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=w.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,l="addEventListener",d="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},y=p&&h&&h[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[l]?(u[l]("DOMContentLoaded",i,!1),f[l]("load",r,!1)):(u[d]("onreadystatechange",o),f[d]("onload",r)),c("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,7]);</script>
 <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
 <meta content="yes" name="apple-mobile-web-app-capable">
 <meta content="black" name="apple-mobile-web-app-status-bar-style">
@@ -40,14 +38,14 @@
 <link href="//assets.nastygal.com/assets/current/images/favicon/favicon.ico" rel="icon">
 <meta content="#FFFFFF" name="msapplication-TileColor">
 <meta content="//assets.nastygal.com/assets/current/images/favicon/mstile-144x144.png" name="msapplication-TileImage">
-<link href="//assets.nastygal.com/assets/3969e6c25ee3048161a24fc1afc325c7cfc188b0/site-global.min.css" media="all" rel="stylesheet" type="text/css">
+<link href="//assets.nastygal.com/assets/5eb3b0928f509d4e329b822d46f6a410a2fa0c5b/site-global.min.css" media="all" rel="stylesheet" type="text/css">
 <script src="//assets.nastygal.com/assets/current/js/vendor/modernizr-2.7.1.custom.min.js" type="text/javascript"></script>
 </head>
 <body class="architecture2 new page-static_content subpage-privacy country-US " data-action="privacy" data-controller="static_content" data-currency="$">
 <div class="page">
 <header class="site-header">
 <nav class="site-nav">
-<a class="logo" href="/">
+<a class="logo" data-analytics-event="main-nav" href="/">
 <div class="sprite sprite-logo-black">Nasty Gal</div>
 </a>
 <a class="nav-toggle" href="javascript:;">
@@ -55,44 +53,50 @@
 </a>
 <div class="nav-primary">
 <div class="nav-item-logo hidden-desktop">
-<a class="logo" href="/">
+<a class="logo" data-analytics-event="main-nav" href="/">
 <div class="sprite sprite-logo-black">Nasty Gal</div>
 </a>
 </div>
 <ul>
 <li class="nav-item nav-item-new">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/whats-new">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/whats-new">
 <span>New</span>
 </a>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="/whats-new">
+<a data-analytics-event="main-nav" href="/whats-new">
 <span>New Arrivals</span>
 </a>
 </li>
 
 <li>
-<a href="/whats-new_clothes">
+<a data-analytics-event="main-nav" href="/whats-new_clothes">
 <span>Clothes</span>
 </a>
 </li>
 
 <li>
-<a href="/whats-new_shoes">
+<a data-analytics-event="main-nav" href="/whats-new_shoes">
 <span>Shoes</span>
 </a>
 </li>
 
 <li>
-<a href="/whats-new_accessories">
+<a data-analytics-event="main-nav" href="/whats-new_accessories">
 <span>Accessories</span>
 </a>
 </li>
 
 <li>
-<a href="/vintage">
+<a data-analytics-event="main-nav" href="/whats-new-gifts">
+<span>Gifts</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/vintage">
 <span>Vintage</span>
 </a>
 </li>
@@ -101,46 +105,46 @@
 <ul>
 <li class="menu-subhead">Featured</li>
 <li>
-<a href="/trends-summer-shop">
-<span>Summer Shop</span>
+<a data-analytics-event="main-nav" href="/gift-card">
+<span>Gift Cards</span>
 </a>
 </li>
 
 <li>
-<a href="/festival-shop">
-<span>Festival Shop</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-essentials">
-<span>Pieces De Resistance</span>
-</a>
-</li>
-
-<li>
-<a href="/best-sellers">
+<a data-analytics-event="main-nav" href="/best-sellers">
 <span>Best Sellers</span>
 </a>
 </li>
 
 <li>
-<a href="/trending-crushes">
+<a data-analytics-event="main-nav" href="/trends-need-it-now">
+<span>Need it Now</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/clothes_last-chance">
+<span>Last Chance</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/trending-crushes">
 <span>Trending Crushes</span>
 </a>
 </li>
 
 <li class="hidden-desktop">
-<a href="/book">
-<span>Pre-Order Nasty Galaxy</span>
+<a data-analytics-event="main-nav" href="/trends-the-party-shop">
+<span>The Party Shop</span>
 </a>
 </li>
 </ul>
 <div class="featured-item visible-desktop">
-<a href="/book">
+<a data-analytics-event="main-nav" href="/trends-the-party-shop">
 <script class="featured-item-template" type="text/template">
-<img src='//images.contentful.com/xrqt4fyyv2yx/7jr2mj5WY8cIqmKmIg4s6E/6d6693c0f1501ff53e48ce67fc923fa7/160602_NastyGalaxyCover_DD_714x500.jpg?h=500&amp;q=30'>
-<div class='featured-item-caption'>Pre-Order Nasty Galaxy</div>
+<img src='//images.contentful.com/xrqt4fyyv2yx/25s1ulxJAEQWu0ICOYwwOu/00ae1b9b3aa89172c91b8775d8a6d187/161227_JadedLondon_DD_714x500.jpg?h=500&amp;q=30'>
+<div class='featured-item-caption'>The Party Shop</div>
 </script>
 </a>
 </div>
@@ -149,68 +153,68 @@
 </li>
 <li class="nav-item nav-item-clothes">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/clothes">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/clothes">
 <span>Clothes</span>
 </a>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="/clothes">
+<a data-analytics-event="main-nav" href="/clothes">
 <span>All Clothes</span>
 </a>
 </li>
 
 <li>
-<a href="/clothes-dresses">
+<a data-analytics-event="main-nav" href="/clothes-dresses">
 <span>Dresses</span>
 </a>
 </li>
 
 <li>
-<a href="/clothes-rompers-jumpsuits">
-<span>Rompers + Jumpsuits</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-tops">
+<a data-analytics-event="main-nav" href="/clothes-tops">
 <span>Tops + Bodysuits</span>
 </a>
 </li>
 
 <li>
-<a href="/clothes-bottoms-denim">
-<span>Denim</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-swimwear">
-<span>Swimwear</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-bottoms">
-<span>Bottoms</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-jackets-coats">
+<a data-analytics-event="main-nav" href="/clothes-jackets-coats">
 <span>Jackets + Coats</span>
 </a>
 </li>
 
 <li>
-<a href="/clothes-sweaters">
+<a data-analytics-event="main-nav" href="/clothes-sweaters">
 <span>Sweaters</span>
 </a>
 </li>
 
 <li>
-<a href="/clothes-lingerie">
-<span>Lingerie</span>
+<a data-analytics-event="main-nav" href="/clothes-rompers-jumpsuits">
+<span>Rompers + Jumpsuits</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/denim-all">
+<span>Denim</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/clothes-bottoms">
+<span>Bottoms</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/clothes-lingerie">
+<span>Lingerie + Lounge</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/clothes-swimwear">
+<span>Swimwear</span>
 </a>
 </li>
 
@@ -218,40 +222,46 @@
 <ul>
 <li class="menu-subhead">Featured</li>
 <li>
-<a href="/by-nasty-gal">
+<a data-analytics-event="main-nav" href="/trends-velvet">
+<span>Velvet</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/by-nasty-gal">
 <span>Nasty Gal</span>
 </a>
 </li>
 
 <li>
-<a href="/vintage-after-party">
-<span>After Party</span>
-</a>
-</li>
-
-<li>
-<a href="/clothes-back-in-stock">
+<a data-analytics-event="main-nav" href="/clothes-back-in-stock">
 <span>Back in Stock</span>
 </a>
 </li>
 
 <li>
-<a href="/vintage">
+<a data-analytics-event="main-nav" href="/vintage-after-party">
+<span>After Party</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/vintage">
 <span>Vintage</span>
 </a>
 </li>
 
 <li class="hidden-desktop">
-<a href="/trends-swimwear-shop">
-<span>Swim Shop</span>
+<a data-analytics-event="main-nav" href="/clothes-dresses">
+<span>Dresses</span>
 </a>
 </li>
 </ul>
 <div class="featured-item visible-desktop">
-<a href="/trends-swimwear-shop">
+<a data-analytics-event="main-nav" href="/clothes-dresses">
 <script class="featured-item-template" type="text/template">
-<img src='//images.contentful.com/xrqt4fyyv2yx/4nBzSCeIpGQY4QGYsakAoO/1a7069e021294427dd00dae5319bcbb3/160520_Lee_Lani_DD_714x500.jpg?h=500&amp;q=30'>
-<div class='featured-item-caption'>Swim Shop</div>
+<img src='//images.contentful.com/xrqt4fyyv2yx/3NfpAk4QVag4SWIGYyCSGK/ffe59be9627cff02f7f5bda9e21340a4/161227_Zhivago_DD_714x500.jpg?h=500&amp;q=30'>
+<div class='featured-item-caption'>Dresses</div>
 </script>
 </a>
 </div>
@@ -260,50 +270,50 @@
 </li>
 <li class="nav-item nav-item-shoes">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/shoes">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/shoes">
 <span>Shoes</span>
 </a>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="/shoes">
+<a data-analytics-event="main-nav" href="/shoes">
 <span>All Shoes</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes_sandals">
-<span>Sandals</span>
-</a>
-</li>
-
-<li>
-<a href="/shoes-boots">
+<a data-analytics-event="main-nav" href="/shoes-boots">
 <span>Boots + Booties</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes-heels">
-<span>Heels</span>
-</a>
-</li>
-
-<li>
-<a href="/shoes-platforms">
-<span>Platforms</span>
-</a>
-</li>
-
-<li>
-<a href="/shoes_sneakers">
+<a data-analytics-event="main-nav" href="/shoes_sneakers">
 <span>Sneakers</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes_flats">
+<a data-analytics-event="main-nav" href="/shoes-heels">
+<span>Heels</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/shoes-platforms">
+<span>Platforms</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/shoes_flats">
 <span>Flats</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/shoes_sandals">
+<span>Sandals</span>
 </a>
 </li>
 
@@ -311,46 +321,40 @@
 <ul>
 <li class="menu-subhead">Featured</li>
 <li>
-<a href="/by-nasty-gal-shoes">
+<a data-analytics-event="main-nav" href="/by-nasty-gal-shoes">
 <span>Nasty Gal</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AShoes%3AShoeStyle%3AOver+the+Knee">
-<span>OTK Boots</span>
-</a>
-</li>
-
-<li>
-<a href="/shoes-brands-jeffrey-campbell">
+<a data-analytics-event="main-nav" href="/shoes-brands-jeffrey-campbell">
 <span>Jeffrey Campbell</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AShoes%3ABrand%3ASam+Edelman">
-<span>Sam Edelman</span>
+<a data-analytics-event="main-nav" href="brands-converse">
+<span>Converse</span>
 </a>
 </li>
 
 <li>
-<a href="/shoes_back-in-stock">
+<a data-analytics-event="main-nav" href="/shoes_back-in-stock">
 <span>Back In Stock</span>
 </a>
 </li>
 
 <li class="hidden-desktop">
-<a href="/shoes_sandals?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AShoes_Sandals%3AShoeStyle%3AGladiator&amp;seg=1">
-<span>Gladiators</span>
+<a data-analytics-event="main-nav" href="/shoes-heels">
+<span>Party Shoes</span>
 </a>
 </li>
 </ul>
 <div class="featured-item visible-desktop">
-<a href="/shoes_sandals?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AShoes_Sandals%3AShoeStyle%3AGladiator&amp;seg=1">
+<a data-analytics-event="main-nav" href="/shoes-heels">
 <script class="featured-item-template" type="text/template">
-<img src='//images.contentful.com/xrqt4fyyv2yx/2TgujnRw9Ws4WmcaKIcO4g/d761a4fe03b99158427ae5d83011fcac/160520_Heels_Veritcal__DD_333x500.jpg?h=500&amp;q=30'>
-<div class='featured-item-caption'>Gladiators</div>
+<img src='//images.contentful.com/xrqt4fyyv2yx/p4gbcG134yGG2Uy8u0yeK/6d8f5b783574fb68a0b496eb0323256f/161227_PearlShoes_Veritcal__DD_333x500.jpg?h=500&amp;q=30'>
+<div class='featured-item-caption'>Party Shoes</div>
 </script>
 </a>
 </div>
@@ -359,68 +363,62 @@
 </li>
 <li class="nav-item nav-item-accessories">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/accessories">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/accessories">
 <span>Accessories</span>
 </a>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="/accessories">
+<a data-analytics-event="main-nav" href="/accessories">
 <span>All Accessories</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-eyewear">
-<span>Sunglasses</span>
-</a>
-</li>
-
-<li>
-<a href="/accessories-jewelry">
+<a data-analytics-event="main-nav" href="/accessories-jewelry">
 <span>Jewelry</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-bags-backpacks">
+<a data-analytics-event="main-nav" href="/accessories-eyewear">
+<span>Sunglasses</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/accessories-bags-backpacks">
 <span>Bags + Backpacks</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-hair-hats">
+<a data-analytics-event="main-nav" href="/accessories-hair-hats">
 <span>Hair + Hats</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-socks-legwear">
-<span>Socks + Legwear</span>
-</a>
-</li>
-
-<li>
-<a href="/accessories-scarves-gloves">
-<span>Scarves + Gloves</span>
-</a>
-</li>
-
-<li>
-<a href="/accessories-beauty">
-<span>Beauty</span>
-</a>
-</li>
-
-<li>
-<a href="/accessories-belts">
+<a data-analytics-event="main-nav" href="/accessories-belts">
 <span>Belts</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-tech">
+<a data-analytics-event="main-nav" href="/accessories-tech">
 <span>Tech</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/accessories-scarves-gloves">
+<span>Scarves + Gloves</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/accessories-socks-legwear">
+<span>Socks + Legwear</span>
 </a>
 </li>
 
@@ -428,46 +426,46 @@
 <ul>
 <li class="menu-subhead">Featured</li>
 <li>
-<a href="/accessories-jewelry-necklaces?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AAccessories_Jewelry_Necklaces%3AJewelryTrend%3AChoker">
+<a data-analytics-event="main-nav" href="/gift-shop">
+<span>The Gift Shop</span>
+</a>
+</li>
+
+<li>
+<a data-analytics-event="main-nav" href="/accessories-jewelry-necklaces?f=%3Aordinal-asc%3Actg%3A1%3Acategory%3AAccessories_Jewelry_Necklaces%3AJewelryTrend%3AChoker">
 <span>Chokers</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories-beach">
-<span>Beach</span>
+<a data-analytics-event="main-nav" href="/accessories-jewelry-body-chains">
+<span>Body Jewelry</span>
 </a>
 </li>
 
 <li>
-<a href="/accessories_back-in-stock">
+<a data-analytics-event="main-nav" href="/accessories_back-in-stock">
 <span>Back In Stock</span>
 </a>
 </li>
 
 <li>
-<a href="/gift-card">
-<span>Gift Cards</span>
-</a>
-</li>
-
-<li>
-<a href="/vintage-accessories">
+<a data-analytics-event="main-nav" href="/vintage-accessories">
 <span>Vintage</span>
 </a>
 </li>
 
 <li class="hidden-desktop">
-<a href="/accessories-pins-patches">
-<span>Pins and Patches</span>
+<a data-analytics-event="main-nav" href="/by-nasty-gal-bags">
+<span>Nasty Gal Bags</span>
 </a>
 </li>
 </ul>
 <div class="featured-item visible-desktop">
-<a href="/accessories-pins-patches">
+<a data-analytics-event="main-nav" href="/by-nasty-gal-bags">
 <script class="featured-item-template" type="text/template">
-<img src='//images.contentful.com/xrqt4fyyv2yx/4RtFUX8kxyUUSSWWoukIow/93eb71ab54396100c40c8f6400583f10/160610_PinsHats_Veritcal__DD_333x500.jpg?h=500&amp;q=30'>
-<div class='featured-item-caption'>Pins and Patches</div>
+<img src='//images.contentful.com/xrqt4fyyv2yx/6CDX3SmNBCC0y2YSWUQYOm/d80cfd25ea989332f9106c37e389667e/161212_NGBags_Veritcal__DD_333x500.jpg?h=500&amp;q=30'>
+<div class='featured-item-caption'>Nasty Gal Bags</div>
 </script>
 </a>
 </div>
@@ -476,53 +474,53 @@
 </li>
 <li class="nav-item nav-item-sale">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/sale">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/sale">
 <span>Sale</span>
 </a>
 <div class="dropdown-menu">
 <ul>
 <li>
-<a href="/sale">
+<a data-analytics-event="main-nav" href="/sale">
 <span>All Sale</span>
 </a>
 </li>
 
 <li>
-<a href="/sale-newly-added">
+<a data-analytics-event="main-nav" href="/sale-newly-added">
 <span>Newly Added</span>
 </a>
 </li>
 
 <li>
-<a href="/sale-clothes">
+<a data-analytics-event="main-nav" href="/sale-clothes">
 <span>Clothes</span>
 </a>
 </li>
 
 <li>
-<a href="/sale-shoes">
+<a data-analytics-event="main-nav" href="/sale-shoes">
 <span>Shoes</span>
 </a>
 </li>
 
 <li>
-<a href="/sale-accessories">
+<a data-analytics-event="main-nav" href="/sale-accessories">
 <span>Accessories</span>
 </a>
 </li>
 
 <li>
-<a href="/60-percent-off-and-up">
+<a data-analytics-event="main-nav" href="/60-percent-off-and-up">
 <span>Final Sale</span>
 </a>
 </li>
 
 </ul>
 <div class="featured-item visible-desktop">
-<a href="/sale">
+<a data-analytics-event="main-nav" href="/sale">
 <script class="featured-item-template" type="text/template">
 <img src='//images.contentful.com/xrqt4fyyv2yx/39UjjKr39YUca0eGkaioeQ/c804b6a0ce751e737f9d9819ff1e66f1/160303_Sale_DD_714x500.jpg?h=500&amp;q=30'>
-<div class='featured-item-caption'>All Sale</div>
+<div class='featured-item-caption'>Shop Sale</div>
 </script>
 </a>
 </div>
@@ -532,13 +530,13 @@
 
 <li class="nav-item nav-item-blog">
 <div class="dropdown">
-<a class="dropdown-toggle" href="http://blog.nastygal.com" target="_blank">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="http://blog.nastygal.com" target="_blank">
 <span>Nasty Galaxy</span>
 </a>
 <div class="dropdown-menu">
 <ul class="js-rss-nav-list featured-item-list">
 <li class="hidden-desktop">
-<a href="http://blog.nastygal.com" target="_blank">
+<a data-analytics-event="main-nav" href="http://blog.nastygal.com" target="_blank">
 <span>All Nasty Galaxy</span>
 </a>
 </li>
@@ -549,19 +547,19 @@
 </ul>
 <div class="off-canvas-aux hidden-desktop">
 <div class="nav-item-account">
-<a href="/account">
+<a data-analytics-event="main-nav" href="/account">
 <span>My Account</span>
 </a>
 </div>
 </div>
 <div class="off-canvas-footer hidden-desktop">
 <div class="nav-item-customer-care">
-<a href="http://www.nastygal.com/customer-care/">
+<a data-analytics-event="main-nav" href="https://www.nastygal.com/customer-care/">
 <span>Customer Care</span>
 </a>
 </div>
 <div class="nav-item-locale">
-<a href="/localization">
+<a data-analytics-event="main-nav" href="/localization">
 <span>USD</span>
 <i class="sprite sprite-UnitedStates"></i>
 </a>
@@ -675,7 +673,7 @@ Search
 </div>
 </li><li class="nav-item nav-item-account">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/account" id="account-link">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/account" id="account-link">
 <span>
 My Account
 </span>
@@ -685,22 +683,22 @@ My Account
 <div class="wrapper logged-out">
 <ul>
 <li>
-<a href="/account">
+<a data-analytics-event="main-nav" href="/account">
 <span>My Account</span>
 </a>
 </li>
 <li>
-<a href="/crushes">
+<a data-analytics-event="main-nav" href="/crushes">
 <span>My Crushes</span>
 </a>
 </li>
 <li>
-<a href="/returns">
+<a data-analytics-event="main-nav" href="/returns">
 <span>Returns</span>
 </a>
 </li>
 <li>
-<a href="/orders">
+<a data-analytics-event="main-nav" href="/orders">
 <span>Order Status</span>
 </a>
 </li>
@@ -709,27 +707,27 @@ My Account
 <div class="wrapper logged-in">
 <ul>
 <li>
-<a href="/account">
+<a data-analytics-event="main-nav" href="/account">
 <span>My Account</span>
 </a>
 </li>
 <li>
-<a href="/crushes">
+<a data-analytics-event="main-nav" href="/crushes">
 <span>My Crushes</span>
 </a>
 </li>
 <li>
-<a href="/account/order-history">
+<a data-analytics-event="main-nav" href="/account/order-history">
 <span>Order History</span>
 </a>
 </li>
 <li>
-<a href="/returns">
+<a data-analytics-event="main-nav" href="/returns">
 <span>Returns</span>
 </a>
 </li>
 <li>
-<a href="/account/logout">
+<a data-analytics-event="main-nav" href="/account/logout">
 <span>Sign Out</span>
 </a>
 </li>
@@ -740,7 +738,7 @@ My Account
 </div>
 </li><li class="nav-item nav-item-crushes icon">
 <div class="dropdown">
-<a class="dropdown-toggle" href="/crushes" title="My Crushes">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/crushes" title="My Crushes">
 <span>
 My Crushes
 </span>
@@ -749,7 +747,7 @@ My Crushes
 </div>
 </li><li class="nav-item nav-item-tote icon">
 <div class="dropdown tote-dropdown">
-<a class="dropdown-toggle" href="/tote">
+<a class="dropdown-toggle" data-analytics-event="main-nav" href="/tote">
 <span>
 Tote
 </span>
@@ -762,7 +760,7 @@ Tote
 Adding item to tote...
 </div>
 </div>
-<a class="btn btn-checkout" href="/tote" id="btn-nav-tote-checkout">
+<a class="btn btn-checkout" data-analytics-event="main-nav" href="/tote" id="btn-nav-tote-checkout">
 View Tote / Checkout
 </a>
 </div>
@@ -775,8 +773,6 @@ View Tote / Checkout
 </header>
 
 <div class="site-content">
-<div class="site-subbanner-wrapper"></div>
-
 
 <div class="main-container clearfix" id="main-container">
 <div class="container">
@@ -805,12 +801,26 @@ privacy statement
             The family of Web sites operated by or on behalf of Nasty Gal (the "Services"), including, but not limited to, Web sites located at  <a href="http://www.nastygal.com">www.nastygal.com</a>, our mobile application(s), our blog(s), and any other Web site(s) owned and/or operated by Nasty Gal and any of their associated Web pages, are committed to implementing policies and procedures designed to protect your privacy and security, in addition to providing you with the best possible online experience. To achieve that goal, we want you to understand what kinds of information we gather from and about you, how this information is used, shared and safeguarded, and how you can control its use. In order to offer various products and services to our Customers, Nasty Gal needs to collect certain information as described in this Privacy Policy.
         </p>
         <p>
-            Nasty Gal has received TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html">TRUSTe program</a>. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through the Web site, <a href="http://www.nastygal.com">www.nastygal.com</a> and our mobile application. The TRUSTe Certification does not cover information that may be collected through software downloaded from this Web site, or social networking applications. If you have questions or concerns regarding this Privacy Policy, you should first contact us at <a href="mailto:privacy@nastygal.com">Privacy@nastygal.com</a> or to Nasty Gal Inc., Attn: Legal Department, 523 W. 6th Street, Suite 330, Los Angeles, CA 90014. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request">here</a>. 
+            If you have questions or concerns regarding this Privacy Policy, you should first contact us at <a href="mailto:privacy@nastygal.com">Privacy@nastygal.com</a> or to Nasty Gal Inc., Attn: Legal Department, 523 W. 6th Street, Suite 330, Los Angeles, CA 90014. 
         </p>
         <p>
-            Nasty Gal complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nasty Gal has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Nasty Gal’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
+            Nasty Gal complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Nasty Gal has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.&nbsp; To learn more about the Safe Harbor program, and to view Nasty Gal’s certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.
         </p>
         <p>
+            Nasty Gal participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Nasty Gal is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s www.privacyshield.gov/list. 
+        </p>
+        <p>
+            Nasty Gal is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Nasty Gal complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+        </p>
+        <p>
+            With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Nasty Gal is subject to the regulatory enforcement powers of the U.S. Federal Trade commission and/or the U.S. Department of Transportation. In certain situations, I Nasty Gal may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+        </p>
+        <p>
+            If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a target="_blank" href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.  
+        </p>
+        <p>
+          Under certain conditions, more fully described on the <a target="_blank" href="http://www.privacyshield.gov/welcome">www.privacyshield.gov/welcome</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+        </p><p>
             In conjunction with this Privacy Policy, you should also review our <a href="http://www.nastygal.com/terms-of-use/">Terms</a> for a more complete understanding of the rules governing our Services.  <a href="http://www.ftc.gov/privacy/index.html" target="_new">Click here</a> for information on Internet safety and security from the Federal Trade Commission.
         </p>
         <h3><strong>INFORMATION WE COLLECT FROM YOU</strong></h3>
@@ -846,7 +856,7 @@ privacy statement
         </p>
         <h3><strong>HOW YOUR INFORMATION IS USED AND SHARED</strong></h3>
         <p>
-            The use and sharing of information about you depends on the context in which it is collected. Please see the categories below that relate to the features and functionality of the Services that you wish to utilize.
+            The use and sharing of information about you depends on the context in which it is collected. Please see the categories below that relate to the features and functionality of the Services that you wish to utilize. If you do not want us to share your personal information with these companies, you may contact us at: <a href="mailto:privacy@nastygal.com">Privacy@nastygal.com</a>.
         </p>
         <p>
             <u>Personal Information</u>: We may share the Personal Information we collect from you only with your consent, and personal information you provide about others, as otherwise outlined in this Privacy Policy, or under the following circumstances:
@@ -864,7 +874,7 @@ privacy statement
             <em>User-Initiated Communication</em>: From time to time, portions of the Service(s) may enable you to send email and other types of messages to us  and to participate in blogs, product reviews, and other discussion groups. All such emails, reviews, comments and messages, and all such postings to blogs and/or discussion groups, become our property once you submit them (please see our  <a href="http://www.nastygal.com/terms-of-use/">Terms</a> for more details on this). Your Internet Protocol (IP) address may be included in any email that you send, whether to us or to third parties. Whenever you choose to initiate these kinds of communication with us, or anyone else, you may be contacted in return. Also, remember that our Services and blogs are open to the public, and, therefore, your postings can be seen by anyone and are therefore not protected by us or any other entity. Please use your own discretion when deciding whether and what to post and whom to contact. We reserve the right, in our sole discretion, to edit or delete postings from our Services, blogs, and discussion groups. This reservation of rights shall not under any circumstances obligate us to conduct such edits or deletions, nor shall it cause us to be liable for any such edits or deletions. To request removal of your personal information from our blog or community forum, please contact us at Unsubscribe@nastygal.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
         </p>
         <p>
-            <em>Protection of rights</em>: We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (1) comply with legal requests and processes; (2) enforce the  <a href="http://www.nastygal.com/terms-of-use/">Terms</a> for the applicable Services; (3) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (4) defend or respond to claims brought or threatened against Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others; or (5) otherwise protect or assert the rights, property, interests or personal safety of Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
+            <em>Protection of rights</em>: In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (1) comply with legal requests and processes; (2) enforce the  <a href="http://www.nastygal.com/terms-of-use/">Terms</a> for the applicable Services; (3) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (4) defend or respond to claims brought or threatened against Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others; or (5) otherwise protect or assert the rights, property, interests or personal safety of Nasty Gal, its employees, directors, suppliers or service providers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
         </p>
         <p>
             <em>Record Keeping</em>: It may be necessary for Nasty Gal keep records of certain Personal Information you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes, including but not limited to for internal accounting and administration, to supply you with information about your account, to respond to inquiries, to enhance customer service and product options, to improve product performance, promotions, and special offers where you voluntarily supplied your personal details, to administer sales records, to provide information about us, our products, services and special offers, and to analyze usage on our Services.
@@ -905,7 +915,7 @@ privacy statement
             To view, edit or delete the Personal Information that you submitted on the Services during registration, the purchase of a product or service, or otherwise, please follow these steps: (1) click “My Account” in the upper right corner of the Services and choose “Log In / Create”; (2) fill out the “Email” and “Password” fields in the “Sign In” section, then click “Sign In”; and (3) You will then be able to modify your account settings, including your email address and/or password related to this account, addresses and credit card information (if any).
         </p>
         <p>
-            If you would like us to delete/remove your Account, or for us to no longer use or share Personal Information we may gather from you to market information to you, with our agents, affiliates or other service providers, please send a request to  <a href="mailto:Privacy@nastygal.com">Privacy@nastygal.com</a>. We will respond to your request within a reasonable timeframe.
+            Upon request Winshuttle will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. If you would like us to delete/remove your Account, or for us to no longer use or share Personal Information we may gather from you to market information to you, with our agents, affiliates or other service providers, please send a request to  <a href="mailto:Privacy@nastygal.com">Privacy@nastygal.com</a>. We will respond to your request within a reasonable timeframe.
         </p>
         <p>
             However, archival or backup copies of Personal Information will not cease to exist and Nasty Gal shall not be liable for any problems in this editing process.
@@ -945,7 +955,7 @@ privacy statement
             Los Angeles, CA 90015<br>
             Email:  <a href="mailto:Privacy@nastygal.com">Privacy@nastygal.com</a>
         </p>
-        <div id="82970eb0-2c9f-4642-8805-63296e3fe9f3"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Nasty-Gal/asc?rid=82970eb0-2c9f-4642-8805-63296e3fe9f3"></script><a href="//privacy.truste.com/privacy-seal/Nasty-Gal/validation?rid=3b6bd737-58ec-445c-9c63-0cce0c378bd4" title="TRUSTe European Safe Harbor certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Nasty-Gal/seal?rid=3b6bd737-58ec-445c-9c63-0cce0c378bd4" alt="TRUSTe European Safe Harbor certification"></a></div>
+        <div><a href="//privacy.truste.com/privacy-seal/validation?rid=3b6bd737-58ec-445c-9c63-0cce0c378bd4" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=3b6bd737-58ec-445c-9c63-0cce0c378bd4" alt="TRUSTe Privacy Certification"></a></div>
 
     </div>
 </div>
@@ -963,7 +973,9 @@ privacy statement
 <div class="span8">
 <ul class="primary unstyled">
 <li class="menu">
-<span><a href="/account">My Account</a></span>
+<span>
+<a href="/account">My Account</a>
+</span>
 <ul class="submenu unstyled hidden-phone">
 <li>
 <a href="/crushes">My Crushes</a>
@@ -977,57 +989,64 @@ privacy statement
 </ul>
 </li>
 <li class="menu">
-<span><a href="http://www.nastygal.com/customer-care/">Customer Care</a></span>
+<span>
+<a href="/customer-care">Customer Care</a>
+</span>
 <ul class="submenu unstyled hidden-phone">
 <li>
-<a href="http://www.nastygal.com/customer-care/returns-information">Returns</a>
+<a href="/customer-care/returns-information">Returns</a>
 </li>
 <li>
-<a href="http://www.nastygal.com/customer-care/usa-shipping">Shipping Info</a>
+<a href="/customer-care/usa-shipping">Shipping Info</a>
 </li>
 <li>
-<a href="http://www.nastygal.com/gift-card">Gift Cards</a>
+<a href="/gift-card">Gift Cards</a>
 </li>
 <li>
-<a href="http://www.nastygal.com/customer-care/size-guide">Size Guide</a>
+<a href="/customer-care/size-guide">Size Guide</a>
 </li>
 </ul>
 </li>
 <li class="menu">
-<span><a href="http://www.nastygal.com/about-us/">About Us</a></span>
+<span>
+<a href="/about-us">About Us</a>
+</span>
 <ul class="submenu unstyled hidden-phone">
 <li>
-<a href="http://www.nastygal.com/stores">Stores</a>
+<a href="/stores">Stores</a>
 </li>
 <li>
-<a href="http://www.nastygal.com/careers">Careers</a>
+<a href="/careers">Careers</a>
 </li>
 <li>
-<a href="https://signup.linkshare.com/publishers/registration/landing?ls-locale=us&amp;amp;host=linkshare&amp;amp;mid=39917">Affiliate</a>
+<a href="https://signup.linkshare.com/publishers/registration/landing?ls-locale=us&amp;host=linkshare&amp;mid=39917">Affiliate</a>
 </li>
 <li>
-<a href="http://www.nastygal.com/press">Press &amp; More</a>
+<a href="/press">Press &amp; More</a>
 </li>
 </ul>
 </li>
-<li class="menu footer-girlboss hidden-phone">
-<span><a href="http://www.girlboss.com">#GIRLBOSS</a></span>
-<ul class="submenu unstyled">
+<li class="hidden-phone menu">
+<span>
+<a href="http://www.girlboss.com">#GIRLBOSS</a>
+</span>
+<ul class="submenu unstyled hidden-phone">
 <li>
-<a href="http://www.nastygal.com/product/girlboss-book--paperback">Buy the Book</a>
+<a href="/books-girlboss-nasty-galaxy">Buy the Book</a>
 </li>
 <li>
-<a target="_blank" href="http://www.girlboss.com/foundation/">Foundation</a>
+<a href="http://www.girlboss.com/foundation">Foundation</a>
 </li>
 <li>
-<a target="_blank" href="http://www.girlboss.com/listen/">#GIRLBOSS RADIO</a>
+<a href="http://www.girlboss.com/podcast">#GIRLBOSS Radio</a>
 </li>
 </ul>
 </li>
+
 </ul>
 <ul class="secondary unstyled visible-phone">
 <li>
-<a href="http://www.nastygal.com/customer-care/size-guide">Size Guide</a>
+<a href="https://www.nastygal.com/customer-care/size-guide">Size Guide</a>
 </li>
 <li>
 <a href="/orders">Order Status</a>
@@ -1040,7 +1059,7 @@ privacy statement
 </ul>
 </div>
 <div class="span4">
-<form method="post" id="email-signup" class="mailing-list-form" action="/email_signup" protect_from_csrf="true" accept-charset="UTF-8"><input value="8b5bd1e05b91564b86d308dc7055cbe4c0de2fa02bd280bcc0f3a21ad622acf9" name="authenticity_token" type="hidden"><input name="source" type="hidden" value="Footer">
+<form method="post" id="email-signup" class="mailing-list-form" action="/email_signup" protect_from_csrf="true" accept-charset="UTF-8"><input value="665901e8fb23af3816edb92c5c1c94104b5ec966284839f41bbe0ca9bb93967f" name="authenticity_token" type="hidden"><input name="source" type="hidden" value="Footer">
 <label class="email-signup-label" for="emailAddress">Join the Party:</label>
 <div class="input input-append">
 <input class="email-signup-input" id="emailAddress" name="email" placeholder="Sign up for email updates" required="" tabindex="-1" type="email">
@@ -1055,11 +1074,11 @@ privacy statement
 <span>Visit Us IRL:</span>
 <ul class="submenu unstyled inline">
 <li>
-<a target="_blank" href="http://www.nastygal.com/stores">Melrose
+<a target="_blank" href="https://www.nastygal.com/stores">Melrose
 </a>
 </li>
 <li>
-<a target="_blank" href="http://www.nastygal.com/stores">Santa Monica
+<a target="_blank" href="https://www.nastygal.com/stores">Santa Monica
 </a>
 </li>
 </ul>
@@ -1111,13 +1130,13 @@ privacy statement
 <p>©2006-2016 Nasty Gal Inc. All Rights Reserved.</p>
 <ul class="unstyled inline">
 <li>
-<a target="_blank" href="http://www.nastygal.com/customer-care">Contact Us</a>
+<a target="_blank" href="https://www.nastygal.com/customer-care">Contact Us</a>
 </li>
 <li>
-<a target="_blank" href="http://www.nastygal.com/terms-of-use">Terms of Use</a>
+<a target="_blank" href="/terms-of-use">Terms of Use</a>
 </li>
 <li>
-<a target="_blank" href="http://www.nastygal.com/privacy-statement">Privacy Policy</a>
+<a target="_blank" href="/privacy-statement">Privacy Policy</a>
 </li>
 </ul>
 </div>
@@ -1137,7 +1156,8 @@ kill_favorites = false,
 jirafe_active = true,
 localized = false,
 localized_countries = ["AU","AT","BE","CA","FI","FR","DE","GR","HK","IE","IT","LV","LU","MC","NL","NO","PT","SG","SI","ES","SE","AE","GB"],
-localized_region_strings = {"countryName":"United States"};
+localized_region_strings = {"countryName":"United States"},
+coming_soon_products = ["75046"];
 </script>
 
 <script type="text/javascript">
@@ -1150,7 +1170,7 @@ ga('require', 'displayfeatures');
 ga('require', 'ec');
 </script>
 
-<script src="//assets.nastygal.com/assets/3969e6c25ee3048161a24fc1afc325c7cfc188b0/site-global.min.js" type="text/javascript"></script>
+<script src="//assets.nastygal.com/assets/5eb3b0928f509d4e329b822d46f6a410a2fa0c5b/site-global.min.js" type="text/javascript"></script>
 
 <script src="//7210396.collect.igodigital.com/collect.js" type="text/javascript"></script>
 <script class="js-rss-item-template" type="text/template">
@@ -1170,20 +1190,26 @@ ga('require', 'ec');
 <script type="text/javascript">
 var NG = NG || {};
 
-NG.SetImmortalCookie('etCrush', true);
+NG.SetSessionCookie('etCrush', true);
 // $.removeCookie('etCrush', {path: '/'});
 
-// if (parseInt(NG.NgidFromCookie()[0], 16) < 8) {
-//   NG.SetImmortalCookie('arrivalDates', true);
+if (NG.CountryCode() == 'US') {
+  if (parseInt(NG.NgidFromCookie()[0], 16) < 8 || location.pathname.indexOf('/checkout2') > -1) {
+    NG.SetSessionCookie('arrivalDates', true);
+  }
+  if (location.pathname.indexOf('/checkout') > -1) {
+    if ($.cookie('arrivalDates')) {
+      NG.AddDimension1('arrival-dates-on');
+    } else {
+      NG.AddDimension1('arrival-dates-off');
+    }
+  }
+}
+// if (location.hostname == 'www.nastygal.com') {
+//   $.removeCookie('arrivalDates', {path: '/'});
+// } else {
+//   NG.SetSessionCookie('arrivalDates', true);
 // }
-// if (location.pathname.indexOf('/checkout') > -1) {
-//   if ($.cookie('arrivalDates')) {
-//     NG.AddDimension1('arrival-dates-on');
-//   } else {
-//     NG.AddDimension1('arrival-dates-off');
-//   }
-// }
-$.removeCookie('arrivalDates', {path: '/'});
 
 NG.AddStyleSheet('.country-AE .js-paypal-link { display: none; }');
 
@@ -1191,57 +1217,60 @@ if (location.pathname.indexOf('nasty-galaxy-signed-hardcover-preorder') > -1 && 
   NG.AddStyleSheet('.product-details .product-sold-out { display: none; }');
 }
 
+NG.PaypalOneTouch = function() {};
+
+if (location.pathname.indexOf('/checkout2') > -1) {
+  NG.AddDimension1('checkout2');
+} else if (location.pathname.indexOf('/checkout') > -1) {
+  NG.AddDimension1('checkout1');
+}
+
+// NG.CheckoutVersionSwitcher = function() { };
+
+
+NG.UseWebChat = function() {
+  // comment the next line out to fall back to Live Person
+  return (NG.IsDesktop() && !NG.IsWebView() && !$('body').hasClass('minimal') && !$('body').hasClass('shoppable-lookbook'));
+};
+
+if (NG.UseWebChat()) {
+  $('body').append('<div id="webchat-button" class="chat-button"><a class="webchat" href="/feedback/chat" rel="height:560,width:500"></a></div>');
+  $("#webchat-button .webchat").popupwindow();
+} else if (NG.UseLivePerson()) {
+  $('body').append('<div id="lpchatbutton" class="chat-button"></div>');
+  $('.live-chat-content').show();
+}
+
+NG.UseJirafe = function() {
+  return false;
+  // return jirafe_active;
+};
+
+// if (NG.GetUrlParam('fitA') !== 'true') {
+//   NG.AddStyleSheet('#fitanalytics { display: none !important }');
+// }
+
+NG.CheckoutABtest = function() {
+  // if (parseInt(NG.NgidFromCookie()[1], 16) < 8) {
+  //   return true;
+  // } else {
+    return false;
+  // }
+};
+
+
+$( document ).ready(function() {
+    $('.product-brand').prop("href","/trends-courtney-love-x-nasty-gal");
+});
 
 // DELETE AFTER RELEASE -------------------------------------------------------
-
-NG.GetTrackingOrderTotalsData = function() {
-  NG.data.order_subtotal = (subtotal - discount_amt).toString();
-  NG.data.order_tax_amt = tax_total;
-  NG.data.order_discount_amt = discount_amt;
-  NG.data.order_storecredit = store_credit;
-  NG.data.order_shipping_amt = shipping_total;
-  NG.data.order_total = basket_value;
-  NG.data.order_total_cents = parseFloat(basket_value) * 100;
-  NG.data.order_subtotal_cents = parseFloat(NG.data.order_subtotal) * 100;
-  NG.data.order_payment_type = payment_type;
-  NG.data.customer_type = (isFirstTimeOrder == "true") ? "New" : "Return";
-  NG.data.order_promo =  promoCode;
-
-  NG.FireGoogleAnalyticsEvent('Checkout', 'Selected Shipping Method - ' + shippingMethodName);
-};
-
-NG.AJAXupdateSKU = function(url) {
-  $.ajax({
-    url: '/update_sku' + (url ? url : window.location.pathname),
-    success: function(response, textStatus, request) {
-      // preserve selected option if possible
-      if ($('input[name=skuId]:checked').length > 0) {
-        var checkedID = $('input[name=skuId]:checked').attr('id');
-      }
-      $('.js-product-temporal-info .product-price').html($('<div>' + response + '</div>').find('.js-product-temporal-info .product-price').html());
-      $('.js-product-temporal-info .product-options').html($('<div>' + response + '</div>').find('.js-product-temporal-info .product-options').html());
-      if ($('.gift-card-form').length > 0) NG.GiftCardForm();
-      if (checkedID) $('#' + checkedID).prop('checked', true);
-      NG.FireGAEventFromCookieIfPresent();
-
-      // this AJAX call is used to return the geolocated state, because it has no caching for entire US
-      if (NG.CountryCode() == 'US' && request.getResponseHeader('prop65') == 'true') $('.js-prop-65-message').removeClass('hide');
-
-      // TODO remove when nasty galaxy ends
-      if (location.pathname.indexOf('nasty-galaxy-signed-hardcover-preorder') > -1 && $('.product-details .product-sold-out').text() == 'Final Sale') {
-        NG.AddStyleSheet('.product-details .product-sold-out { display: none; }');
-      }
-    },
-    suppressErrors: true
-  });
-};
 
 
 </script>
 
 
 <!--
-2016-06-23 13:12:22 +0000
+2016-12-29 08:30:50 +0000
 /privacy-statement
 -->
 </body></html>
