@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184301id_/http%3A//indianexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043944id_/http%3A//indianexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | The Indian Express
 
-Thank you for visiting Indianexpress.com, the website of [The Indian Express](http://indianexpress.com/) Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us. This is broadly how we handle the information we gather.
+Thank you for visiting Indianexpress.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us. This is broadly how we handle the information we gather.
 
 ### Information Collected and Stored Automatically
 
