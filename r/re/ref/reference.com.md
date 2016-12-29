@@ -1,60 +1,158 @@
-> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305184808id_/http%3A//dictionary.reference.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reference.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045246id_/https%3A//www.reference.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal Policy from Dictionary.com
+# Privacy Policy | Reference.com
 
-Privacy Policy - Your Privacy Rights Last revised: January 07, 2014
+_(Effective March 2, 2015)_
 
- **[Dictionary.com](http://dictionary.com/) LLC** respects your privacy. When you use [Dictionary.com](http://dictionary.com/), [Reference.com](http://reference.com/), [Thesaurus.com](http://thesaurus.com/) or any other online products or websites that we own (our "sites") and mobile applications (our "apps"), we collect information about you and use it to facilitate and improve our services. Information about you may also be shared with other companies. For instance, companies engaged in "targeted" or "behavioral" advertising present ads that might be of interest to you based on information about your online activities. We want to be clear about how information about you may be used and what your privacy options are.
+**Privacy Policy**
 
-This Privacy Policy explains what information we collect, how we use it, how other companies may use it, and tracking technologies used to collect information. If we make any material changes to our privacy practices, we will post a revised Privacy Policy on this page. If you have any questions, please contact us by sending an email here <http://content.dictionary.com/about/contact> or writing to [Dictionary.com](http://dictionary.com/) LLC, ATTN: Legal Department, 555 12th Street, 5th Floor, Oakland, CA 94607.
+**Last Updated On: March 2, 2015  
+**  
+At reference.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by IAC Publishing Labs(“we”, “us”, “our”) through our website (whether existing now or in the future, collectively, the “Services”).
 
-**Information collected automatically** : When you visit our sites and use our apps, we automatically collect and store information about your computer or mobile device and your activities. This information includes:
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-  * Your computer's IP address
-  * Technical information about your computer or mobile device (such as type of device, web browser or operating system)
-  * Your preferences and settings (time zone, language, etc.)
-  * Your mobile device's unique ID number
-  * Your mobile device's geographic location (specific geographic location if you've enabled collection of that information, or general geographic location automatically)
-  * The URL of the last web page you visited before coming to one of our sites
-  * The words you have looked up and results you selected
-  * The ads you clicked on
-  * How long you visited our sites or used our apps and which services and features you used
-  * For app users, the online or offline status of Your app
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes. 
+
+**1\. What information do we collect about you?**
+
+We explain below the main ways that we collect and process information about you.
+
+**Information You Provide To Us** **:**
+
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
+
+You may also provide personal information to us, if you choose to: 
+
+  * sign up to receive any additional services or request to receive certain communications from us; 
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services; 
+  * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes); 
+  * contact us about employment opportunities posted to the Services; or 
+  * otherwise use the Services in a manner that you have requested. 
 
 
 
-**Information you choose to provide** : You may choose to open an account and if you are age 13 or older, provide us with information in order to use certain services or products, like [Dictionary.com](http://dictionary.com/) Premium or Word Dynamo, or to take advantage of special offers, like a contest or a sweepstakes. This information may include your name, email address, phone number, credit card information (including billing address), and demographic information (age, gender, etc.). You may provide this information directly to us or you may choose to register using your Facebook account in which case you would authorize us to access certain Facebook profile information including your first name, last name, gender, birth date and email address. You may also choose to post content (such as custom flashcards) that you may share with others, through our site or through your Twitter or Facebook account. You do not have to provide any of this information to us. But if you do not provide certain information, you will not be able to use some of the services we offer. If you wish, we will delete your account information; to do so, please log into[Dictionary.com](http://dictionary.com/) using the account you wish to close,then close your acount at <http://app.dictionary.com/users/cancelaccount>.
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services. Also, if you choose to login to a product or feature via a social networking site, you are granting us permission to access and use information about you provided by the social network. For example, if you use a social network feature to login to a product, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself. **__**
 
-We use your information to provide and improve our services, customize services for you (such as by remembering your preferences), make special offers (like sweepstakes), better understand our users, diagnose and fix problems, and sell and display ads that may be relevant to you. Email addresses, mobile phone numbers, and credit card information are used only for providing you the services you requested upon creating your account.
+**Information We Collect When You Use The Services** **:**
 
-**Email Address** : We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at<http://app.dictionary.com/users/settings> or by clicking on the "unsubscribe" link at the bottom of the email. For specific services, you can unsubscribe here: [Word of the Day unsubscribe](http://dictionary.reference.com/help/faq/wordoftheday/#unsubscribe) or [Reference of the Day unsubscribe](http://www.reference.com/thisday/list/). We will also use your email address to respond to your customer service inquiries. If you are under the age of 13, certain messaging and site functionality may be non-existent or limited.
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including: 
 
-**Phone Number** : We use your mobile phone number only to send you SMS messages that you've requested. To stop receiving SMS messages, please enter your mobile number’s corresponding email address here: <http://dictionary.reference.com/help/faq/wordoftheday/index.html#unsubscribe>.
+(1) IP address of your computer
 
-**Credit Card Information** : We use your credit card information only to process your purchases and to detect and prevent fraud.
+(2) Unique mobile device identifier
 
-We share user information with other companies for various reasons. What information we make available to other companies depends on the nature of our relationships with them. We generally require these other companies to keep our users' information confidential.
+(3) Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.) 
 
-**Service Providers** : We may share all of the types of information we collect with vendors who provide services (such as voice transcription, email and SMS messaging, and payment processing), conduct surveys, and run sweepstakes on our behalf.
+(4) Your preferences and settings (time zone, language, etc.)
 
-**Advertisers** : Advertisers and advertising networks use tracking technologies to collect information about users' computers or mobile devices and their online activities (for example, web pages visited and searches made) as well as general geographic location and use that information to display targeted ads to users. We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you.
+(5) Internet provider or mobile carrier name
 
-**Analytics Companies** : We allow analytics companies to use tracking technologies to collect information about our users' computers or mobile devices and their online activities. These companies analyze this information to help us understand how our sites and apps are being used. Certain versions of our App have an "Opt out of Tracking" setting, which permits you to opt out of being tracked by third party analytics companies.
+(6) The URL of the last webpage you visited before visiting the Website
 
-**What we don't share** : We do not provide ad companies or analytics companies with your name, address, email address, phone number, or credit card information.
+(7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
 
-**Aggregated Information** : We may publicly disclose aggregated information about our users, such as the total number of our users and their overall demographics.
+(8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.
 
-**Legal Matters** : We may disclose user information: in response to a legal request, such as a subpoena, court order, or government demand; to investigate or report illegal activity; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale, merger or in the event of a bankruptcy proceeding.
+**2\. How do we use the information we collect?**
 
-We, as well as other companies, use tracking technologies to collect and store data about your computer or mobile device and your activities on our sites and apps.
+We use the information we collect from and about you for a variety of purposes, including to:
 
-**Cookies** : When you visit our sites, we place "cookies" (small text files) on your computer to recognize you. We do this to store your preferences and track your use of our sites. Ad companies place cookies on your computer to track your activities across various sites so that they can display targeted ads. Some ad companies and game developers use "flash cookies" for ads and games that use Flash media technology.
+  * verify your eligibility for our Services;
+  * respond to your queries with the best possible answers and search results;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions; 
+  * administer our Services, diagnose technical problems and otherwise manage our business; 
+  * distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel; 
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications; 
+  * send you questions from other users that you may be able to answer if you have registered with our Services; 
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services; 
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and 
+  * perform functions as otherwise described at the time of collection. 
 
-Many ad companies are members of the Network Advertising Initiative. NAI members allow users to opt out of being tracked by cookies. To opt out of cookie tracking by NAI members, you may visit <http://www.networkadvertising.org/> and click on the "Consumer Opt-out" button. Companies may also be members of the Digital Advertising Alliance ("DAA") and to opt out of cookie tracking by DAA members, you may visit <http://www.aboutads.info/choices/>. Finally, to learn how to remove cookies, you may visit these links: [deleting cookies](http://answers.ask.com/Computers/Networking_and_Security/how_to_delete_cookies_from_computer) and [deleting flash cookies](http://www.macromedia.com/support/documentation/en/flashplayer/help/). By using our site and products, you give us explicit consent to place cookies and other tracking technology on your computer or mobile device.
 
-**Pixel tags** : We embed pixel tags (also called web beacons or clear GIFs) on web pages, ads, and emails. These tiny, invisible graphics are used to access cookies and track user activities (such as how many times a page is viewed). We use pixel tags to measure the popularity of our features and services. Ad companies use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad).
 
-**Mobile Device IDs** : If you're using an app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We do this to store your preferences and track your use of our apps. Unlike cookies, device IDs cannot be deleted. Ad companies use device IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage.
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics. 
 
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the NAI “Consumer Opt-out” link and the DAA opt-out link above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+**3.How do we share the information we collect?**
+
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways: 
+
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_ **We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes. 
+  * **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp. __
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. 
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. 
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
+  * **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below. 
+
+
+
+**4\. Cookies and Online Advertising:**
+
+**Cookies.** We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies. 
+
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf. Cookies have a lot of jobs. For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings. We use third party cookies for functionality, performance / analytics, advertising and social media purposes. Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests. To understand more about cookies and pixel tags, click here. [here.](https://www.allaboutcookies.org/)
+
+**How To Control Or Delete Cookies** :  
+
+
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones IAC Publishing Labs uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options“ or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help”option in your browser for more details. 
+
+  * [Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](https://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](https://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](https://support.apple.com/kb/PH5042) and [iOS](https://support.apple.com/kb/HT1677). 
+
+
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information. 
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies.
+
+**Online Behavioral Advertising and Mobile.** Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on reference.com and other websites by visiting the following websites:
+
+  * Network Advertising Initiative ([www.networkadvertising.org/](https://www.networkadvertising.org/)) 
+  * Digital Advertising Alliance ([www.aboutads.info/consumers](https://www.aboutads.info/consumers)) 
+
+
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website. 
+
+If you are using an IAC Publishing Labs mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [oo.apple.com](https://oo.apple.com/). If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](https://www.google.com/ads/preferences/) page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+
+**Mobile Device Location Information.** When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions: 
+
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information. 
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services. 
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information. 
+
+
+
+**5\. Reviewing, changing or deleting information**
+
+If you would like to review, change or delete personal information we have collected from you, please contact the IAC Publishing Labs Privacy Officer: 
+
+IAC Publishing Labs  
+Attn: Privacy Officer  
+555 12th Street, 11th Floor  
+Oakland, CA 94607
+
+**Do Not Track.** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
+
+**6\. How do we keep the information we collect secure?**
+
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you. 
+
+**7\. How long do we keep the information we collect?**
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
+
+**8\. Children under 13**
+
+The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13. 
+
+**9\. Consent to Transfer of Information**
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
