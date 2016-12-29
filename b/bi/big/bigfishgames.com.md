@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616171036id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229094926id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish, Inc.
 
-Last modified: February 10th, 2016
+Last modified: December 13, 2016
 
 We at Big Fish have created this Privacy Policy to describe how information is collected, used, and disclosed when you visit or use a Big Fish Offering.  **By accessing and/or using this Big Fish website or any Big Fish Offering, you are accepting the practices described in this Privacy Policy.**
 
-The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The term **"Affiliate"** means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term **"Big Fish Offering"** means the websites of Big Fish, including [www.bigfishgames.com](http://www.bigfishgames.com/), [www.selfawaregames.com](http://www.selfawaregames.com/), any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
+The term **"Big Fish"** means Big Fish Games, Inc. and/or its Affiliates. The term **"Affiliate"** means, with respect to any party, any person or entity which controls, is controlled by, or is under common control with, such party. The term **"Big Fish Offering"** means the websites of Big Fish, including [www.bigfishgames.com](http://www.bigfishgames.com/), any other sites on which this Privacy Policy is posted, and any other Big Fish application, service or product licensed, downloaded or otherwise accessed by you through third party sites or sources, including the products and services available through any of the foregoing.
 
 ## INFORMATION THAT WE MAY COLLECT
 
@@ -66,7 +66,7 @@ We may share customer information with Big Fish Affiliates, and as described bel
 
 ### Third Party Marketplaces and Service Providers:
 
-We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your information only as necessary to perform their functions, and for no other purposes.
+We may disclose your personal information as well as aggregate, anonymous information to third party business partners, marketplaces, and third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, collecting and analyzing data, providing search results and links (including paid listings and links), and providing advertising and marketing assistance, including serving ads on our behalf on third party websites and mobile applications and serving ads on behalf of third parties within certain Big Fish Offerings. Those third parties have access to your personal information only as necessary to perform their functions, and for no other purposes.
 
 ### Business Transfers:
 
@@ -76,7 +76,9 @@ As Big Fish continues to grow, we might sell or buy certain subsidiaries and/or 
 
 We may also disclose your information if there is a violation of the [Terms of Use](http://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish, our customers or others. This includes exchanging information with entities for fraud detection and protection, and credit risk reduction.
 
-## YOUR CHOICES
+## ACCESSING YOUR INFORMATION AND YOUR CHOICES
+
+Big Fish enables you to access to a wide range of information about your account and your interactions with Big Fish Offerings. If you have created a customer account, you may access your account information by logging on to [www.bigfishgames.com](http://www.bigfishgames.com/) and clicking on "Account" on the top of your screen. You may also contact us about your information and your choices for limiting the use and disclosure of your information by visiting <http://www.bigfishgames.com/help>; by emailing us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com); or by sending us postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
 
 ### Promotional email communications:
 
@@ -86,7 +88,7 @@ At any time, you may opt-out of receiving a newsletter by selecting the " **unsu
 
 ### Cookies, Online Advertising and Analytics:
 
-Please refer to your browser settings and help section to learn about blocking, erasing or being notified of cookies. You can manage your Flash cookies by using Adobe's Flash management [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, because cookies allow you to take advantage of some of Big Fish Offerings' essential features, we recommend that you leave cookies turned on. For example, you may not be able make purchases on Big Fish Offerings without having cookies turned on. To opt out of receiving personalized advertising from many ad networks, data exchanges, marketing analytics and other services providers, please visit aboutads.info.
+Please refer to your browser settings and help section to learn about blocking, erasing or being notified of cookies. You can manage your Flash cookies by using Adobe's Flash management [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). However, because cookies allow you to take advantage of some of Big Fish Offerings' essential features, we recommend that you leave cookies turned on. For example, you may not be able make purchases on Big Fish Offerings without having cookies turned on. To opt out of receiving personalized advertising from many ad networks, data exchanges, marketing analytics and other services providers, please visit [aboutads.info](http://www.aboutads.info/).
 
 ### Mobile Advertising:
 
@@ -110,9 +112,9 @@ Big Fish Offerings are designed to avoid the collection and use of "personal inf
 
 Big Fish respects the privacy of parents and children and is committed to complying with COPPA . If a parent believes that his or her child has submitted personal information to Big Fish, he or she can contact us via email at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or postal mail at: Big Fish Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA. We will take steps to promptly delete the information upon learning that it relates to a child under the age of 13. We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
 
-## SAFE HARBOR PROGRAM
+## EU-US PRIVACY SHIELD PROGRAM
 
-We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. For more information about the Safe Harbor program and to view our certification, please visit the U.S. Department of Commerce's [Safe Harbor Website](http://www.export.gov/safeharbor/). To contact Big Fish directly about the Safe Harbor program, please email us at [safeharbor@bigfishgames.com](mailto:safeharbor@bigfishgames.com). Please note that if you are located in the E.U., Switzerland or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+We may transfer, store and/or process personal information in the U.S. or in other countries. Big Fish complies with the EU-US Privacy Shield Framework Principles (the "Framework") and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the processing of personal information from the European Union (EU) member countries and Switzerland. For more information about the Framework, please visit the Department of Commerce's [Privacy Shield website](https://www.privacyshield.gov/). To contact Big Fish directly about the Framework, please email us at [privacyshield@bigfishgames.com](mailto:privacyshield@bigfishgames.com). If we do not resolve your concern, you may contact [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), Big Fish’s designated Privacy Shield dispute resolution provider. Under certain conditions specified by the Framework, you may also be able to invoke binding arbitration to resolve your complaint. Big Fish is subject to the investigatory and enforcement powers of the FTC. If we share personal information of EU customers with a third party service provider that processes the data solely on our behalf, then Big Fish will be liable for that third party's processing of the information in violation of the Framework, unless Big Fish can prove that it is not responsible for the event giving rise to the damage. Please note that if you are located in the E.U., Switzerland or other region with laws governing data collection and use that may differ from U.S. law, you are transferring information to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
 
 ## AGREEMENT WITH BIG FISH POLICIES
 
