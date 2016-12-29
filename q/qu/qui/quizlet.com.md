@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614030708id_/https%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052452id_/https%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizlet
 
-  * [Terms of Service](https://web.archive.org/tos)
-  * [Privacy Policy](https://web.archive.org/privacy)
-  * [Copyright Infringement](https://web.archive.org/dmca)
-
-
-
-## Updated: May 17, 2016
+## Updated: December 12, 2016
 
 Your privacy is critically important to us. At Quizlet we have a few fundamental principles:
 
@@ -31,7 +25,15 @@ In order to view our relationship with TRUSTe please visit the validation page v
 
 Quizlet Inc. (" **Quizlet** ") has been awarded iKeepSafe’s FERPA badge. The Quizlet product, data collection, and handling practices along with other relevant company policies have been reviewed by iKeepSafe and found in alignment with iKeepSafe's FERPA Program Guidelines. For detailed information, you can view [Quizlet’s iKeepProfile here](http://ikeepsafe.org/participating-companies). iKeepSafe’s FERPA Program helps schools to easily determine whether or not a website, app, data management platform or other technology product could be used in compliance with their FERPA obligations, applicable state laws and local policies. If you have any questions, [contact iKeepSafe here.](mailto:privacy@ikeepsafe.org)
 
-Quizlet complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Quizlet has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Quizlet’s certification, please visit <http://www.export.gov/safeharbor/>
+### EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor
+
+Quizlet and its subsidiary company Quizlet LLC comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Quizlet has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Quizlet remains responsible for the processing of personal data it receives and subsequently transfers to a third party acting as an agent on its behalf. Quizlet complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. To learn more about the Privacy Shield program, and to view our certification, please visit the [Privacy Shield](https://www.privacyshield.gov/) website.
+
+If you have an inquiry regarding our privacy practices in relation to our Privacy Shield certification, please contact us at [privacy@quizlet.com](mailto:privacy@quizlet.com) so we can resolve any questions or concerns you have about our collection or use of your personal information. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, you also have the option to resolve any applicable disputes you have with us in connection with our certification through TRUSTe, an alternative dispute resolution provider based in the United States. You can contact TRUSTe through their [website](https://feedback-form.truste.com/watchdog/request). The services of TRUSTe are provided at no cost to you. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Quizlet is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Quizlet may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. The U.S. State Department Senior Coordinator serves as the Ombudsperson to facilitate the processing of requests relating to national security access to data transmitted from the EU to the U.S.
+
+Quizlet also complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Quizlet has certified that it adheres to the Safe Harbor Privacy Principles and also applies the EU-U.S. Privacy Shield Principles to personal information from Switzerland. To learn more about the Safe Harbor program, and to view Quizlet’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ### Website Visitors
 
@@ -97,9 +99,9 @@ You should be aware that any information you provide in these areas may be read,
 
 ### Tracking Technologies
 
-Technologies such as cookies, beacons, tags and scripts are used by Quizlet and our partners affiliates, or analytics or service providers, as described above. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies, beacons, tags and scripts are used by Quizlet and our partners' affiliates, or analytics or service providers, as described above. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. You can read our full [Cookie Policy here](https://quizlet.com/cookies).
 
-As is true of most Websites, we gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically-collected log information with other information we collect about you for analytics and support to improve the performance of the services we offer you.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically-collected log information with other information we collect about you for analytics and support to improve the performance of the services we offer you.
 
 ### Local Storage
 
@@ -107,7 +109,7 @@ Third parties, with whom we partner to provide certain features on our site or t
 
 ### Social Media Widgets
 
-Our website includes Social Media Features, such as the Facebook "Like" button, and widgets, such as the "Share This" button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing them.
+Our website includes Social Media Features and widgets, such as the "Share This" button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing them.
 
 ### Advertising on Quizlet
 
@@ -121,6 +123,8 @@ We use mobile analytics software to allow us a better understanding of the funct
 
 ### Control of Information You Provide to Quizlet
 
+Upon request Quizlet will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [quizlet.com/feedback](https://quizlet.com/feedback).
+
 Teachers: You always remain in control of the information you provide to Quizlet. You may review, edit or delete any information you submit to us at any time by signing into your Quizlet account; however, deletion of this information may restrict your ability to use the service effectively. You may also delete your account at any time. If you delete your account, all the study sets, folders, and classes that you've created are deleted.
 
 Users 13 years of age and older: You always remain in control of the information you provide to Quizlet. You may review, edit or delete any information you submit to us at any time by signing into your Quizlet account; however, deletion of this information may restrict your ability to use the service effectively. You may also delete your account at any time. If you delete your account, all the study sets, folders, and classes that you've created are deleted.
@@ -133,7 +137,7 @@ If you choose to use our referral service to tell a friend about our website, we
 
 ### Facebook Connect and Google Login
 
-You can log in to our site using sign-in services such as Facebook Connect and Google Login. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Facebook Connect and Google Login. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, date of birth, and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
 ### Security
 
@@ -145,11 +149,11 @@ We will retain your information for as long as your account is active or as need
 
 ### Data Breach Practices
 
-If we know or have reason to know of a systems security breach by an unauthorized party or that any of your Information was used for an unauthorized purpose, then we will immediately notify you electronically so that you can take appropriate protective steps. We will also post an additional notice through the Service if a security breach occurs. Depending on where you live, you may also have a legal right to receive notice of a security breach in writing, and we will provide you with such required written notice in addition to the electronic notice.
+We comply with relevant laws regarding data breaches. If we know or have reason to know of a systems security breach by an unauthorized party of your user data where that data is being or is likely to be used for an unauthorized purpose, we will promptly notify you so that you can take appropriate steps.
 
 ### Contact Us
 
-If you have questions or wish to send us comments about this Privacy Policy, please send an email to support@quizlet.com or write us:
+If you have questions or wish to send us comments about this Privacy Policy, please contact us at [quizlet.com/feedback](https://quizlet.com/feedback) or write us:
 
 Attention Privacy  
 Quizlet Inc.  
@@ -159,6 +163,6 @@ San Francisco, CA 94107 USA
 
 ### Privacy Policy Changes
 
-Quizlet reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we change how we use your personally-identifying information, we will notify, by email, and/ or by means of a notice on our Web site prior to the change becoming effective.
+Quizlet reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we change how we use your personally-identifying information, we will notify, by email, and/ or by means of a notice on our website prior to the change becoming effective.
 
 If we make material changes to how we collect and use personal information from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child's Personal Information.
