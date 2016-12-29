@@ -1,231 +1,206 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605120022id_/http%3A//www.marriott.com/marriott/privacy-us.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043213id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
 
 # Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
-This Statement was last updated on **November 18, 2011** , to describe the how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
+Last Updated: July 1, 2016
 
-###  Browsing
+The [Marriott Group](https://web.archive.org/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2015%2010K_Entity%20Only.pdf) , which includes Marriott International, Inc. and its affiliates, including The Ritz-Carlton Hotel Company, L.L.C., values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose information. This Privacy Statement describes the privacy practices of the Marriott Group in connection with information that we collect through websites operated by us from which you are accessing this Privacy Statement, including Marriott.com, Ritz-Carlton.com and other websites owned or controlled by the Marriott Group (collectively, the **“Websites”** ), through the software applications made available by us for use on or through computers and mobile devices (the **“Apps”** ), through our social media pages that we control from which you are accessing this Privacy Statement (collectively, our **“Social Media Pages”** ), through HTML-formatted email messages that we send to you that link to this Privacy Statement, and through your communications with us and when you stay as a guest at one of our hotels or other properties (collectively, including the Websites, the Apps and our Social Media Pages, the **“Online Services,”** and together with offline channels, the **“Services”** ). By providing Personal and Other Information to us, you agree to the terms and conditions of this Privacy Statement.
 
-This Web site does not collect personally identifiable information when you browse this Web site and request pages from our servers unless you provide it to us. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Web site unless you:
+Drawers
 
-  * access the Web site from a link in an email that we sent;
-  * are a Marriott or Ritz-Carlton Rewards member or have created a profile and you either log-in to your account or choose to be remembered via your cookie, including on your web-enabled mobile device.
+Collection of Personal Information
+    
 
+**“Personal Information”** is information that identifies you as an individual or relates to an identifiable individual. We may collect Personal Information such as:
 
+  * Name, gender, home and work address, telephone number and email address, your business title, date and place of birth, nationality, passport, visa or other government-issued identification information;
+  * Guest stay information, including the hotels where you have stayed, date of arrival and departure, goods and services purchased, special requests made, information and observations about your service preferences (including room type, facilities, holiday preferences, amenities requested, ages of children or any other aspects of the Services used);
+  * Telephone numbers dialed, faxes sent/received or receipt of telephone messages when connected to the telephone services we may provide guests during their stay;
+  * Credit and debit card number;
+  * Marriott or Ritz-Carlton Rewards information, online user accounts details, profile or password details and any frequent flyer or travel partner program affiliation;
+  * Employer or other relevant details if you are an employee of a corporate account, a vendor or other type of business partner (e.g., travel agent or meeting and event planner);
+  * Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents or similar providers);
+  * Profile picture;
+  * Social media account ID or user ID.
 
-In these cases we will know who you are based on the information you previously supplied to us. When you request a page from our Web site, our servers log the information provided in the HTTP request header including the IP number, the time of the request, the URL of your request and other information that is provided in the HTTP header. We collect the HTTP request header information in order to make our Web sites function correctly and provide you the functionality that you see on this Web site. We also use this information to personalize content presented to you, better understand how visitors use our Web site and how we can better tune it, its contents, and functionality to meet your needs.  
 
-###  Information We Collect and How We Use It
 
-When we need to collect personally identifiable information from you to provide you with a particular service, we will ask you to voluntarily supply us with the information we need. For example, if you would like to make a reservation at one of our hotels, we will ask you for information such as name, address, telephone number, email address, credit card number, Marriott or Ritz-Carlton Rewards number (if applicable) and room preference to process your reservation. We will use your email address to send a confirmation and, if necessary, might use the other information to contact you for help in processing the reservation. We will also use your contact information to:
+If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services (e.g., if you make a reservation for another individual), you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Statement.
 
-  1. send you a pre-arrival message summarizing your confirmation details and providing other information about the area and the hotel;
-  2. notify you about special offers and promotions as described in this privacy statement; as well as
-  3. send you periodic satisfaction or market research surveys.
+We and our service providers may collect Personal Information in a variety of ways, including:
 
+  * **Through Our Online Services:** We may collect Personal Information when you make a reservation or otherwise purchase goods and services from us, communicate with us via online chat services, inform us of any special requests or preferences you may have, or sign up for a newsletter or participate in a survey, contest, or promotional offer.
+  * **Through Our Offline Services:** We may collect Personal Information from you offline, such as when you visit one of our branded properties, make a reservation over the phone or contact customer service.
+  * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases, joint marketing partners, and other third parties. This may include information from your travel agent, airline, credit card, and other partners, and from social media platforms (including from people with whom you are friends or otherwise connected). For example, if you elect to login to, connect with or link to, the Online Services using your social media account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
+  * **From Authorized Licensees:** Marriott Group companies may from time to time enter into a license or similar agreement with a third party to sell products and services under a Marriott Group brand. Such an “Authorized Licensee” is independent from the Marriott Group. Examples of Authorized Licensees include entities such as Marriott Vacations Worldwide Corporation, the operator of the Marriott Vacation Club, developers of Marriott and Ritz-Carlton branded real estate, such as the Ritz-Carlton Residences, and the issuer of the Marriott Rewards Credit Card.
+  * **From Owners and Franchisees:** We will receive Personal Information about you from owners and franchisees of Marriott branded properties such as stay information, payment information, and observations about service preferences.
 
 
-You can opt out of marketing communications at any time. You can also opt out of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott or Ritz-Carlton Rewards promotion, enter a sweepstakes or online game, to enroll in the Marriott/Ritz-Carlton Rewards program or to redeem Marriott or Ritz-Carlton Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.
 
-Occasionally, you may be requested to provide personally identifiable information about others to us (for example, the name, address and contact details of your travel companion). In such cases, we rely on you to obtain that other persons' consent for disclosing their information to us and inform that other persons about us, how we will use the information and our contact details for any queries.  
+Use of Personal Information
+    
 
-###  Children’s Privacy
+We may use Personal Information in a variety of ways, including:
 
-This Web site is not intended for children and we do not knowingly solicit or collect personally identifiable information from children. We do present information regarding The Marriott Kids program on this site for the reference of adults that are interested in activities at our locations for children.
+  * To provide the services you request, such as to facilitate reservations, send confirmations or pre-arrival messages, to assist you with meetings, events or celebrations, and provide you with other information about the area and the hotel at which you are scheduled to stay.
+  * To complete and fulfill your reservation and stay, for example, to process your payment, ensure that your room is available, and provide you with related customer service.
+  * In connection with our eFolio program. Your Marriott or Ritz-Carlton Rewards number, as entered on your reservation, acts as an eFolio identifier, allowing the transmission of your bill to your email address. If your Marriott or Ritz-Carlton Rewards number is applied to another person's room reservation, or if you make a reservation for another person and provide your email address for that reservation, that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that his or her bill will be emailed to you when your Marriott or Ritz-Carlton Rewards number or email address is attached to his/her reservation unless he/she makes alternative arrangements with a front desk during the stay.
+  * To send you administrative information, marketing communications, promotional offers, periodic customer satisfaction, market research or quality assurance surveys.
+  * To personalize your experience when you stay in one of our hotels and with respect to the Online Services by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and other promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information. We suggest that you read any such rules carefully.
+  * For our business purposes, such as data analysis, audits, security and fraud monitoring and prevention (including through the use of closed circuit television, card keys, and other security systems), developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
 
-###  Reservations
 
-The personally identifiable information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. After making a reservation or completing your stay at a Marriott or Ritz-Carlton hotel, unless you tell us otherwise, the information you provide will be used by us and our Authorized Licensees for marketing of Marriott and Ritz–Carlton Hotel hotels and certain other Marriott-branded products. Marriott and Ritz-Carlton may use the services of third-party mail houses for the sole purpose of mailing materials.
 
-After your stay we retain your personally identifiable information including details of your stay, room type and accommodation type.
+We may also use Personal Information in connection with loyalty programs such as Marriott or Ritz-Carlton Rewards to:
 
-###  Click to Chat
+  * Send you information regarding your account status and activities;
+  * Assess the benefits to which you are entitled;
+  * Administer points earned through the Marriott Rewards Credit Card;
+  * Manage your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs) and track your points and transaction activity.
 
-To assist you in quickly accessing the information you want on this Web site, we use third party software to proactively initiate or offer online chat if it appears that you are having difficulties navigating the Web site, if we believe you would benefit from assistance to help direct you to the desired content quicker or to make you aware of other information or offers relevant to your search. It is your choice to use the online chat feature or to close the chat window. If you choose to use the online chat feature, the person that will chat with you may access your Marriott Rewards or Ritz-Carlton information and your past stay and chat history, if applicable. All information you enter via online chat may be associated to your email address and will be stored in our systems with any other information you provide and any transaction details.
 
-###  Accessing Marriott.com from a Web-enabled Mobile Device
 
-Currently applies to Marriott.com website only.
+Disclosure of Personal Information 
+    
 
-You can access Marriott.com from a web-enabled mobile device to find a hotel (including clicking to call the hotel) or view or cancel a reservation. In addition, you can download an application to your BlackBerry or iPhone to provide additional functionality as described below. If you desire to view or cancel a reservation you will be required to enter your Marriott Rewards account user name and password, or Marriott confirmation number and last name. No other personally identifiable information will be requested. In addition, you can make a reservation from a web-enabled device. When you make a reservation you will need to provide certain personally identifiable information such as name, email address and credit card information. You may also enroll in the Marriott Rewards program from a web-enabled device. When enrolling in Marriott Rewards you will be required to provide certain personally identifiable information such as name, email address and point earning preference.
+Your Personal Information may be disclosed in connection with the following services that we provide as a global hotel company:
 
-If you have downloaded the application to your device such as a BlackBerry or iPhone you can take advantage of finding a hotel near you that is provided via Global Positioning System (GPS) technology. No personally identifiable information is retained to deliver this service. In addition, these applications will allow you to select one touch authentication if you would like to have your Marriott Rewards number and password remembered so that you do not need to enter them every time when you are using these devices to access Marriott.com. These functions are only available from the downloaded BlackBerry and iPhone application.
+  * **Reservations:** The Personal Information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. The hotel may be owned and managed by Marriott or it may be owned or managed by a third party. After your stay we retain your Personal Information including details of your stay, preferences, room/accommodation type and amenities used.
+  * **Within the Marriott Group:** We may disclose your Personal Information to other companies within the [Marriott Group](https://web.archive.org/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2015%2010K_Entity%20Only.pdf) for the purposes described in this Privacy Statement, such as providing you with services associated with your stay at one of our hotels and for the purpose of sending you marketing communications, consistent with your choices.
+  * **To Service Providers:** We may disclose Personal Information to our third party service providers who provide services such as spa and restaurants within our hotels, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * **To Authorized Licensees:** We may disclose your Personal Information to an Authorized Licensee in connection with the Services, including with respect to a reservation you book through us, in connection with offerings of Travel Related Services or to developers of Marriott and Ritz-Carlton branded real estate, or to enable an Authorized Licensee to market and operate the business that it licenses. Such Personal Information may also include, for example, Marriott or Ritz-Carlton Rewards information. Please note that, if you visit a website operated by an Authorized Licensee, such as Marriott Vacation Club, any Personal Information you provide through that website will be subject to the privacy policy of that Authorized Licensee and not to this Privacy Statement.
+  * **To Franchisees:** We may disclose your Personal Information to franchisees in connection with the Services, including with respect to a reservation you book through us.
+  * **Travel Related Services:** We may share your Personal Information with select third-parties with whom we have agreements allowing them to offer Marriott- or Ritz-Carlton branded products to you. For example, this sharing enables these third-parties to provide you with a single source for purchasing packages that include other travel-related services such as airline tickets or rental cars. Please note that this Privacy Statement does not address any information you subsequently provide directly to one of these third-parties, such as information necessary to reserve a rental car.
+  * **eFolio Program:** If you are an employee of a company that participates in Marriott's eFolio Program and pay for your hotel expenses (hotel folio) at a Marriott participating property using the corporate credit card that your employer provided to you, an extract of your hotel folio detailing the goods and services provided to you during your hotel stay will be sent to the credit card company or its agents, who will in turn provide that extract to your employer to facilitate employee expense processing. This Privacy Statement does not apply to the handling of your Personal Information by your employer, any credit card companies, banks or their respective agents, and we are not responsible for their practices.
+  * **Sponsors of Sweepstakes, Contests and other Promotions.**
+  * **Through Social Media:** We may disclose your Personal Information to your friends associated with your social media account, to other website users and to your social media account provider, in connection with your social sharing activity, such as if you connect your social media account to your Online Services account or log-into your Online Services account from your social media account. By connecting your Online Services account and your social media account, you authorize us to share information with your social media account provider, and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want your Personal Information shared with other users or with your social media account provider, please do not connect your social media account with your Online Services account and do not participate in social sharing on the Online Services.
 
-###  Updating Your Marriott and/or Ritz-Carlton Rewards Account Information
+In addition, when you elect to post information on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages) any such information you post or disclose through these services will become public and may be available to other users and the general public. We urge you to be very careful when deciding to disclose any information on the Online Services.
 
-You can access and review, update, or deactivate your Marriott/Ritz-Carlton Rewards information online. If you deactivate your account, all information not already required and stored as a condition of membership will be deleted. Please note that Marriott or Ritz-Carlton will never send you an email requesting your password, credit card number or social security number. If you receive an email that looks like it's from Marriott, but asks you for your credit card number or social security number, it's a fraudulent email, or "phish." We recommend that you do the following:
+  * **Corporate Reorganization:** We may disclose your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-  * Forward the email to the US Federal Trade Commission at [spam@uce.gov](mailto:spam@uce.gov) or call 1-877-FTC-HELP (1-877-382-4357) to report it. The FTC uses the spam stored in this database to pursue law enforcement actions against people who send deceptive email.
-  * Delete the email.
 
 
+We may also use and disclose Personal Information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-If you believe "phishers" have gotten access to your personal or financial information, we recommend that you also do the following:
+Collection of Other Information
+    
 
-  * Change your password.
-  * Contact credit reporting services (such as Experian, Callcredit and Equifax) and have a fraud alert attached to your credit report file. Please be aware that the perpetrator may attempt to use your information to establish accounts or obtain credit at other businesses in their name.
+**“Other Information”** is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
 
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
 
-[Learn more about fraudulent email or "phish" and how to protect your personal information »](https://web.archive.org/marriott.mi?page=FraudulentEmails "Learn more about fraudulent email or phish and how to protect your personal information")
 
-###  Marriott Rewards Communications and Use of Member Information
+If we are required to treat Other Information as Personal Information under applicable law, then we may use it for the purposes for which we use and disclose Personal Information as detailed in this Statement.
 
-Communications of relevant information is important to administering the Marriott/Ritz-Carlton Rewards program and providing you the opportunity to maximize the benefits of membership
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-We will only disclose member and customer information within the Marriott Group (defined below), to person(s) authorized by you, to Marriott’s Authorized Licensees (defined below), to other third parties set out in this policy and to Marriott’s franchisees and property owners.    
+  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Online Services (such as the Apps) you are using. We use this information to ensure that the Online Services function properly.
+  * **Through your use of the Apps:** When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer or mobile device that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Services, pages visited, referring URL, language preferences, and other aggregated traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to collect statistical information, to personalize your experience while using the Online Services and to recognize your computer in order to assist your use of the Online Services, such as for the online reservation process. We also gather statistical information about use of the Online Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them.
 
-Customer information and member rewards information will be used for the following purposes
+Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Online Services or to send you advertisements and marketing emails. We may also use cookies or other technologies to track responses to our online advertisements and marketing emails. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html> . You can choose whether to accept cookies by changing the settings on your browser or by managing your tracking preferences by clicking on “Tracking Preferences” at [Marriott.com](http://marriott.com/). If, however, you do not accept cookies, you may experience some inconvenience in your use of the Online Services. For example, we may not be able to recognize your computer, and you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to your interests and needs. At this time, we do not respond to browser “Do-Not-Track” signals.
 
-Rewards Members Only:
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Online Services to, among other things, track the actions of users of the Online Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Online Services and response rates. We also use Google Analytics and Adobe Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. These services may collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/) , and opt-out by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout> . You can learn more about Adobe and opt-out by visiting <http://www.adobe.com/privacy/opt-out.html> .
+  * **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Online Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) . You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including those used in connection with the Online Services. For more information, you may also wish to refer to <https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+  *   * **IP Address:** Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Online Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Online Services. We may also derive your approximate location from your IP address.
+  *   * **Physical Location & Mobile Location-Based Services: **We may collect the physical location of your device by, for example, using satellite, cell phone tower, WiFi signals, or other technologies. We may use your device’s physical location to provide you with personalized location-based services and content, including enabling you to find a hotel near you.
 
-1) in order to better service your account and preferences by keeping you informed of your account status and activities through printed or electronic statements;
+If you have downloaded one of our Apps, you may enroll to receive special offers by agreeing to the use of technologies that enable us to collect information about your location when you are in our near participating hotels through your mobile device’s Bluetooth or similar capabilities. We will collect this information if you opt-in through the App (either during your initial login or later) to receive the special offers and by enabling these capabilities on your mobile device. If you have done so, the App will continue to collect location information when you are in or near a participating hotel until you log off (i.e., the App will collect this information if it is running in the background) or use your phone’s or other device’s setting to disable your mobile device’s applicable similar capabilities for the Marriott App.
 
-2) to assess your entitlement to benefits;
+We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
 
-3) to collect and process charges incurred by you in Marriott facilities;
+  * **By aggregating information:** Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-4) to offer you additional products and services;
 
-5) to provide packaged travel services and/or arrangements, such as airline tickets or rental cars
 
-6) to administer the Marriott Rewards Credit Card. Based on your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs), we do need to transmit certain transaction information to these companies so that your point and transaction activity is accurately recorded; and
+Use and Disclosure of Other Information 
+    
 
-7) to offer Marriott- or Ritz-Carlton-branded products or services provided by Marriott third-party partners.
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information (such as combining your name with your location). If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-All Customers:
+  * **Third Party Services:** This Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link, third party payment services, or any third-party website that is the landing page of the high-speed Internet providers at our hotels. The inclusion of a link on the Online Services does not imply endorsement of the linked site or service by us or by our affiliates. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Information.
 
-8) to send you Offers and Promotions from Marriott and its Affiliates and Authorized Licensees concerning any Marriott and Ritz-Carlton branded offers and promotions which we believe will be of interest to you including those related to the Marriott Vacation Club, Marriott and Ritz-Carlton Real Estate and the Marriott Rewards Credit Card (see further below); and
 
-9) send periodic satisfaction or market research surveys.
 
-Marketing communications may be via telephone, post and where applicable also by e-mail and text message.  
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
-###  Creating an Online Password for Your Marriott Rewards Account
+Drawers
 
-At your choice, you can create a password for your Marriott Rewards and Ritz Carlton Rewards account in order to view your information and manage your account online. You will be required to provide your name, email address, account number, a desired user name, desired password, and password reminder. Once you have an online Marriott/Ritz-Carlton Rewards account, you may review, correct, or delete information online. If you do not have online access to your account please notify your local [Marriott Rewards Guest Services](https://web.archive.org/rewards/csupp/csupp.mi "Marriott Rewards Guest Services") or Ritz-Carlton Guest Services office in writing to review, correct or delete information pertaining to your membership (there may be a charge as permitted by law), or to indicate your communication preferences.
+Security
+    
 
-###  Marriott Rewards/Chase Card Services Visa Card
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the _“Contacting Us”_ section below.
 
-Available to Marriott Rewards members only:
+Choices, Access and Retention
+    
 
-The Marriott Rewards Credit Card provides you with a means to earn Marriott Rewards points faster. If you chose to apply for a Marriott Rewards Credit Card you will link from this Web site to the credit card issuer’s Web site and will be required to enter certain personally identifiable information as part of the credit application process. You can refer to the credit card issuer’s privacy statement posted on their Web site to understand how the information you supply will be used. All terms and conditions of being a cardholder are dictated by the issuer of the card.
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by visiting our [unsubscribe page](https://web.archive.org/profile/email/unsubscribeChallenge.mi) or by following the instructions in any such email you receive from us.
 
-###  Securing the Transmission and Storage of Information
+In addition, members of Marriott Rewards and The Ritz-Carlton Rewards can also opt-out from communications through their Rewards account, or by sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA.
 
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and policies regarding protection and use of confidential information. When we ask you for credit card data, it is transferred over a Secured Sockets Layer (SSL) line, provided you are using a SSL enabled browser such as Microsoft Internet Explorer or Mozilla Firefox. We also use SSL on other pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer or web-enabled device. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. In addition, when accessing a secure server, the first characters of the site address will change from "http" to "https."
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-After information reaches Marriott and/or Ritz-Carlton, it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside of Marriott. Because laws applicable to personal information vary by country, our hotels or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the Web sites covered by this privacy statement is generally processed and stored in the United States.
+**Special Notice for California Residents:** Individual customers who reside in California and have provided their Personal Information to us may request information about our sharing of certain categories of Personal Information to third parties, including affiliates within the Marriott Group, for their direct marketing purposes. Such requests should be submitted to us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-###  Travel Related Services
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America  
+ 
 
-To provide you with a single source for purchasing packages that include other travel-related services such as airline tickets or rental cars, we have entered into agreements with select reputable third-party companies that aggregate inventory information from suppliers such as airlines and car rental companies or companies licensed to sell Marriott- or Ritz-Carlton-branded products. If you desire to purchase a package that is facilitated through Marriott.com or Ritzcarlton.com you will be linked to a Marriott/Ritz-Carlton-branded Web site that is hosted by the company. If you choose to purchase a package or Marriott- or Ritz-Carlton-branded vacation, it is necessary for you to provide personally identifiable information to execute the purchase. This information is then provided to the suppliers (e.g., airlines) for the purpose of fulfilling your order. We have entered into contracts with these third-party companies requiring that they secure your personally identifiable information as well as use it only to execute the transactions you request or to market Marriott- or Ritz-Carlton-branded vacation products. The same security and privacy commitments have been obtained from the suppliers. However, you should be aware that any personally identifiable information you have supplied directly to a supplier in any manner, in the past or in the future, is controlled by that supplier and is subject to their privacy statement and practices, for which Marriott has no responsibility.
+Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.
 
-###  Disclosure of Information to Third Parties
+**How you can access, change or suppress your Personal Information:**
 
-In addition to the travel-related services and required information sharing described directly above, Marriott and Ritz-Carlton does use the services of third party processors, such as market researchers, fulfillment houses, email service providers and mail houses that process mail for the Marriott Group, Marriott’s Authorized Licensees, persons authorized by you, and Marriott franchisees as well as such entities and marketing companies that provide these services for the Marriott Group, Marriott’s Authorized Licensees and Marriott franchisees. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose Marriott specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us.
+If you would like to review, correct, update, suppress or delete Personal Information that you have previously provided to us, you may contact us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-Except as described in this paragraph and the sections above titled “Marriott Rewards Communications and Use of Customer Information” and “Travel Related Services” we do not permit the sale or transfer of personally identifiable information to entities outside of the Marriott family of companies, franchisees, Authorized Licensees and hotels and our third party service providers for any non-Marriott use without your approval.
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America  
+ 
 
-[See our list of Third Party Vendors](https://web.archive.org/marriott/privacy-us/thirdpartyvendors.mi "See our list of Third Party Vendors")
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or other limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
-###  Ritz-Carlton – Gold Standard Service
+**Retention:** Unless specifically requested, we ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, national identification number, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
 
-As part our commitment to Gold Standard service at our Ritz-Carlton branded properties our staff members occasionally record details of guest preferences and other personal information about our guests in order to provide a more personalized experience on future visits.   This might include your meal or pillow preferences, anniversary dates or other things that make your stay more comfortable.  This information is made available to our other properties around the world.  If you wish to opt out of this program or have any preferences you would like us to make note of please let us know at any time. 
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase, reservation, or promotion). There may also be residual information that will remain within our databases and other records, which will not be removed. In addition, there may be certain information to which we are unable to enable you to review, for legal, security, or other reasons.
 
-###  Cookies
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Statement unless a longer retention period is required or permitted by law.
 
-Marriott Cookies
+Use of Services by Minors
+    
 
-Our Website uses "cookie" technology. "Cookies" are encrypted strings of text that a Web site stores on a user's computer. Our Web site requires the use of a Cookie throughout the online reservation process. Without Cookies we will not be able to keep information you enter on multiple pages together. For example, unless Marriott.com and Ritzcarlton.com can remember the dates you used in your hotel search, we will not be able to check room availability. Cookies also enable us to customize our Web site and offerings to your needs and provide you with a better online experience on Marriott.com and Ritzcarlton.com. In addition, Cookies are used to:
+The Services are not directed to individuals under the age of thirteen (13), and we request that they not provide Personal Information through the Services.
 
-  * Allow registered users to sign in without typing their email/Marriott and Ritz-Carlton Rewards number each time;
-  * Measure usage of various pages on our Web site to help us make our information more pertinent to your needs and easy for you to access; and
-  * Provide functionality such as online reservations, Marriott/Ritz-Carlton Rewards transactions, and other functionality that we believe would be of interest and value to you
+Cross-Border Transfer
+    
 
+Marriott Group is a global organization and provides a global service. Sharing information cross border is essential to the Services so that you receive the same high quality service wherever you are in the world. As a result, we may, subject to applicable law, transfer Personal and Other Information collected in connection with the Services, to these entities in countries where information protection standards may differ from those in the country where you reside. By making a reservation, staying at a Marriott property or using any Marriott-branded service, you understand that we may transfer your personal information globally.
 
+Updates to This Privacy Statement
+    
 
-The types of Cookies that we use are referred to as "session" Cookies and "persistent" Cookies. Session Cookies are temporary and are automatically deleted once you close your internet browser. Persistent Cookies remain on your computer hard drive until you delete them or are otherwise removed upon expiration. We do not use Cookies to ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Marriott or Ritz-Carlton. Cookies do not corrupt or damage your computer, programs, or computer files.
+We may change this Privacy Statement. The _“LAST UPDATED”_ legend at the top of this page indicates when this Privacy Statement was last revised. Any changes will become effective when we post the revised Privacy Statement on the Online Services. Your use of the Services following these changes means that you accept the revised Privacy Statement.
 
-Third Party Advertising Cookies
+Contacting Us
+    
 
-We use third-party advertising technology to serve ads when you visit our Web site and sites upon which we advertise. This technology uses information about your visits to this Web site and the sites upon which we advertise, (not including your name, address, or other personally identifiable information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party persistent Cookie may be placed or recognized on your browser. In addition, we use beacon gifs (see description below), provided by our ad-serving providers, to help manage our online advertising. These beacon gifs enable our ad server to recognize a browser's Cookie when a browser visits this site and to learn which banner ads bring users to our Web site and whether a reservation on Marriott.com is executed. The information our ad-serving providers and we collect through this technology is not personally identifiable but is used to create a profile which allows the ad-serving provider to serve adverts which are targeted towards you and your interests across the ad-serving network.
+If you have any questions about this Privacy Statement, please contact us at [privacy@marriott.com](mailto:%20privacy@marriott.com), or:
 
-You may set your browser to block Cookies (consult the instructions for your particular browser on how to do this), although doing so to block Marriott cookies will adversely affect your ability to perform certain transactions, use certain functionality, and access certain content on our Web site.    
+Marriott International, Inc.  
+Global Compliance, Privacy  
+10400 Fernwood Road  
+Bethesda, MD 20817  
+United States of America
 
-
-###  Pixel Tags
-
-Marriott, Ritz-Carlton and its third-party service providers use pixel tags (also known as "clear gifs" "beacon gifs" etc.). Pixel tags are not visible to the user of the Web site and consist of a few lines of computer coding delivered with the Web page. Pixel tags are not used to collect any personally identifiable information about you apart from what you voluntarily provide us in your dealings with Marriott and Ritz-Carlton. Marriott, Ritz-Carlton and our email service provider use pixel tags to:
-
-  * Track customer response to Marriott and Ritz-Carlton advertisements and Web site content;
-  * Determine your ability to receive HTML-based email messages. Our email service provider includes a pixel tag, which they refer to as a "coded sensor" in all of the HTML-based messages sent on our behalf. The sensor activates when the email message is opened and flags the email address of the user as one that is capable of receiving HTML-based email messages. This capability helps our service provider to send the email in a format you can read. The sensor does not collect or use any other information. If you cannot receive HTML, you will not receive a functioning sensor;
-  * Know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us; and
-  * Allow us to better target interactive advertising, enhance customer support and site usability, and provide offers and promotions that we believe would be of interest to you.
-
-
-
-###  Emails about Special Offers and Promotions and Opt-Out
-
-It is our intention is that you should only receive email communications that will be useful to you and that you want to receive. When you join Marriott and Ritz-Carlton Rewards, make a reservation, or request a copy of your hotel bill via email and provide your email address, we will periodically contact you via email and provide information about Marriott and/or Ritz-Carlton special offers and promotions that may be of interest to you (unless you opt out).  We will also give you the opportunity to receive Offers and Promotions from Marriott, its Affiliates and Authorized Licensees concerning other Marriott and Ritz-Carlton branded offers and promotions that we believe would be of interest to you including those relating to the Marriott Vacation Club, Marriott and Ritz-Carlton Real Estate and the Marriott Credit Card.
-
-We typically use third party email service providers to send emails. These service providers are contractually prohibited from using your email address for any purpose other than to send Marriott or Ritz-Carlton related email.
-
-We provide you the ability to define and modify your mailing preferences online at anytime including unsubscribe from all marketing communications. We maintain two email programs. You may select or modify your mailing preferences online at any time, including the option to unsubscribe from all marketing communications. You can unsubscribe from any of our email programs by visiting the unsubscribe page for either [Marriott](https://web.archive.org/profile/email/unsubscribe.mi "Link to Unsubscribe from Marriott Rewards programs") or The Ritz-Carlton . In addition, every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email. You may also opt-out online of Marriott Rewards and The Ritz-Carlton Rewards emails online by updating your Rewards account, or sending a letter to Internet Customer Care - Unsubscribe, 1818 North 90 Street, Omaha, Nebraska 68114-1315 USA. Please allow 10 business days for us to process your opt-out.
-
-###  eFolio
-
-If you choose to participate in the in the eFolio program ("Program") you will receive hotel bills by email ("eFolio"). The eFolio will be sent to you over the Internet in an unsecured (unencrypted) manner and could be subject to interception by third parties.
-
-If you are an employee of a company that participates in Marriott's eFolio Program and you enroll in the program and then use the corporate credit card that is provided to you by your employer to pay for your hotel expenses (hotel folio) at a Marriott property located in the United States, Canada, Mexico, Puerto Rico or Aruba, an extract of your hotel folio detailing the goods and services provided to you during your hotel stay (as an individual traveler, or as part of a group, meeting or event) will be transferred electronically to the credit card company or its agents, who will in turn, forward that extract to your employer to facilitate the processing and tracking of the travel related expenses of their employees.
-
-Additionally, please be advised that your Marriott/Ritz-Carlton Rewards number, as entered on your reservation, acts as the eFolio identifier, prompting your bill to be transmitted to your email address of record. If your Marriott or Ritz-Carlton Rewards number is applied to another person's room reservation, or if you make a reservation for another person and provide your email address for that reservation that person's bill will be transmitted to your email address as well. It is your responsibility to inform that person that their bill will be emailed to you when your Marriott or Ritz-Carlton Rewards number or email address is attached to his/her reservation unless he/she makes alternative arrangements with a front desk associate during the stay.
-
-###  Events and Meetings
-
-If you would like to submit a request for proposal online or order a complimentary copy of our Meeting Planner brochure you will be required to provide certain personally identifiable information. All personally identifiable information you provide such as name, mailing address, email address and telephone number will be transmitted to Marriott as an email via the Internet and is not encrypted. Personally identifiable information you provide to us will be treated as confidential information and is subject to our company's security procedures and policies regarding protection and use of confidential information. Marriott will not use this information for any other purposes.
-
-###  Vacation Club Ownership
-
-Marriott Vacation Club (MVC) is a separate business operated by Marriott Vacations Worldwide Corporation that uses the Marriott brand under license. As set out in this Privacy Statement Marriott may share your personality identifiable information with MVC for the purpose of allowing MVC to market its products and services to you and provide you with exciting offers and promotions.
-
-If you connect to the Marriott Vacation Club site please note that a separate privacy statement governs the use of that site (http://www.marriottvacationclub.com/general-information/full-privacy-policy.shtml).  We do not own or control Marriott Vacation Worldwide.
-
-If you e-mail us to ask not to receive further marketing communications then MVC will also cease sending you marketing communications.  
-
-###  Ritz-Carlton Real Estate  
-
-
-Ritz-Carlton is pleased to present luxury residences in various locations. In addition, we also offer fractional ownership interests in a variety of resorts.  As set out in this Privacy Statement, Marriott and its Authorized Licensees may use customer’s personality identifiable information for the purpose of marketing Marriott and Ritz-Carlton’s luxury residences and fractional ownership interests.  If you decide to purchase either a residence or fractional ownership interest you will be provided a specific disclosure around the personally identifiable information required to complete the transaction and the uses and protection of that information.
-
-###  Sweepstakes and Online Games
-
-On occasion, we conduct sweepstakes and online games that entitle the winners to prizes. Each sweepstakes or online game has it own terms and conditions. Some sweepstakes and online games require you to choose to enter and for others you will be entered automatically if certain elements described in the sweepstakes or online games terms and conditions are met (e.g., making a reservation with a certain credit card). You will be informed before a transaction is executed if it will result in an automatic entry into the sweepstakes. As part of entering a sweepstakes or online games certain personally identifiable information such as name and email address will be required. We may use this information to send future communications about specials and offers. As stated in the email section of this privacy statement, every time you receive a marketing email you will be provided the choice to opt-out of future marketing emails by following the instructions provided in the email.
-
-###  Careers at Marriott
-
-Applies to the Marriott.com website.
-
-Marriott uses select private label databases and tools hosted by third parties on their Web sites to collect information from individuals that wish to be considered for potential employment. Information you provide to us via these private label services is accessible and confidential to Marriott. By submitting your application and providing this information, you understand and agree that the information that you provide will be transferred to the United States and may also be transferred to additional countries, other than your country of origin, for consideration for employment.
-
-Marriott will not use the information you provide for any purpose other than to allow you to conduct automated job searches or determine your qualifications for potential employment with Marriott. The third-party service providers located in the United States or United Kingdom are prohibited from using the information you provide for any purpose other than collecting it on our behalf.
-
-###  Investor Relations Communications
-
-At your choice, you can use this Web site to opt-in to email communications such as notices of upcoming events. All personally identifiable information you provide such as email address will be transmitted to Marriott Investor Relations as an email via the Internet and is not encrypted. Personally identifiable information you provide to us will be treated as confidential information and is subject to our company's security procedures and policies regarding protection and use of confidential information. Marriott will not use this information for any other purposes.
-
-###  Other Sites
-
-Marriott is only responsible for the privacy statement and content of this Web site and information we collect. We are not responsible for the data collection and use practices and privacy policy or the use of cookies on Web sites that you have accessed this Web site from and to the non-Marriott Web sites that you may access from this Web site.
-
-###  Legal Issues
-
-This is a United States Web site and is subject to laws of the United States and the State of Maryland. Marriott and Ritz-Carlton will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to Marriott and Ritz-Carlton guests, visitors, associates, or property (including this site), or to others. As mentioned previously, laws related to personally identifiable information vary by country.
-
-If you are a customer who resides in the State of California, you have the right to request from Marriott a list of third parties with whom we shared personally identifiable information about you for their own direct marketing purposes during the previous calendar year. Although Marriott/Ritz-Carlton does not share personally identifiable information with unrelated third parties for their own direct marketing purposes, many of our hotels, which are separately owned and operated by franchisees of Marriott, are permitted to use the personally identifiable information they receive from Marriott to market the Marriott hotels that they franchise. If you would like to request information about the franchisees that may have obtained personally identifiable information about you during the immediately preceding calendar year, please send an email to [privacy@marriott.com](mailto:privacy@marriott.com) or letter to Marriott International, Inc., 10400 Fernwood Road, Dept. 52/995.63, Bethesda, MD 20817.
-
-In relation to personal data collected out of our Ritz-Carlton property in Dubai International Financial Centre please note that this personal data may be transferred to our other properties in the United Arab Emirates and other jurisdictions which may not be regarded as adequately protecting personal data.   When you check in at this property you expressly consent to such transfer.
-
-###  Other Marriott Sites Within Marriott.com
-
-Within Marriott.com are numerous other Marriott Web sites that are accessible from links within Marriott.com or via separate URLs. Namely, these Web sites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplace.com, towneplacesuites.com, conferencecenters.com, courtyard.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com, editionhotels.com autographhotelcollection.com and ritzcarlton.com
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
