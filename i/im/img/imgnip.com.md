@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgnip.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616050828id_/http%3A//imgnip.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgnip.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045433id_/http%3A//imgnip.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imgnip » More Information » Privacy Policy
 
