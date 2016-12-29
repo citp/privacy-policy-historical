@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061736id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061858id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Tmart
 
@@ -30,8 +30,6 @@ Your personal information will be automatically encrypted or encoded before it i
 Cookies  
 Cookie technology can provide you with tailored information while visiting a Web site. Cookies are data elements that a Web site can send to your browser and are stored on your system. Some Web site pages use cookies to better serve you when you return to these Sites. The Site cookie sent to your address contains the country location you have selected and whether you have selected on-line settings for visiting the Site or not. The Site does not store individual names, email addresses, street addresses, credit card numbers or phone numbers in cookies placed on your computer. However, the Site does collect non-identifiable information from visits to our Site to help us provide better customer service. For example, we track the domains people visit and we measure visitors’ activities on the Site, but we do so in ways that keep personal information non-identifiable. Tmart.com uses this data to analyze trends and statistics and to help us provide better customer service.
 
-{C}
-
 Updates to This Policy  
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of the latest information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so that you know whether this Privacy Policy has been updated. If you have any questions about the Privacy Policy, please contact us.
 
@@ -43,8 +41,10 @@ If you no longer wish to receive the promotional communications from Tmart.com, 
 
 **Company Info**
 
-Address： TMART LIMITED UNIT 01A 10/F CARNIVAL COMMERCIAL BLDG 18 JAVA RD NORTH POINT HK
+Address: SHENZHEN ZONGTENG TRADE CO.,LTD,  UNIT 01A 10/F CARNIVAL COMMERCIAL BLDG 18 JAVA RD NORTH POINT, HK  
+Company Registration Number: 52276817-000-05-12-0   TEL: +852 8197 7220  
+Email Address: service@tmart.com
 
-Company registration number： 52276817-000-05-12-0   TEL：+852 8197 7220
-
-Email Address：service@tmart.com
+Address: TMART TRADING LIMITED, 58 HIGH STREET WIMBLEDON, LONDON, BRITAIN  
+Company Registration Number: 10437434   TEL:+07548611879  
+Email Address: service@tmart.com 
