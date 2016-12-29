@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icypixels.com privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118015424id_/https%3A//icypixels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icypixels.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229011351id_/https%3A//icypixels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IcyPixels
 
