@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616091239id_/http%3A//www.bluefly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229125419id_/http%3A//www.bluefly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bluefly
 
@@ -59,10 +59,6 @@ Bluefly uses aggregated information (such as anonymous user usage data, cookies,
 In the Event of Merger, Sale, or Bankruptcy
 
 In the event that Bluefly is acquired by or merged with a third party entity, it reserves the right to transfer or assign the information it has collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of Bluefly's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Bluefly may not be able to control how your personal information is treated, transferred, or used.
-
-Lucky Orange Web Analytics Service
-
-This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at [www.luckyorange.com/disable.php](http://www.luckyorange.com/disable.php). Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
 
 CONDITIONS OF USE
 
