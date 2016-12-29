@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232714id_/http%3A//efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031119id_/http%3A//efukt.com/privacy) for the most accurate reproduction.*
 
-# Adult humor for adults | eFukt.com
-
-Privacy Policy
+# Privacy Policy | eFukt.com
 
 Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to efukt.com (the .Company.). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
 Adults Only Service
 
- **THIS IS AN ADULTS ONLY SERVICE.** We will terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
+**THIS IS AN ADULTS ONLY SERVICE.** We will terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Sites; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.
 
 Disclosures Made as Necessitated by Law or Safety
 
