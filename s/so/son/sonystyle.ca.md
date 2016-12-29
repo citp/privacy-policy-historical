@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194529id_/http%3A//www.sony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044322id_/http%3A//www.sony.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sony Corporation of America
 
-Last Updated and Effective: January 15, 2015
+Last Updated and Effective: September 8, 2016
 
 This privacy policy (" **Privacy Policy** ") applies to the information collected by **Sony Corporation of America** (“ **SCA** ”), both offline and online, including through [**www.sony.com**](http://www.sony.com/) and through any interactive features, applications, widgets, blogs, social networks and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, “ **SCA Websites** ” or “ **Websites** ”).  Please note that when you enter any subsites accessible through www.sony.com, such subsites may have their own specific privacy policies.  Additionally, the websites of affiliated Sony companies, including some that are linked to/from the SCA Websites,  and internet domains that are linked to/from the SCA Websites, may have different policies; therefore, please review the privacy policy notices on those websites if you visit them.
 
@@ -112,7 +112,7 @@ The SCA Websites may contain links to other websites that are operated and contr
 
 ###  Notice to California Residents
 
-**Your California Privacy Rights** : If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response.
+**Your California Privacy Rights** : If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 25 Madison Avenue, New York, New York, 10010, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response.
 
 **California Online Privacy Protection Act Notice** : Some web browsers incorporate a “Do Not Track” feature that signals to websites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform. For this reason, our Websites do not currently interpret, respond to or alter their practices when they receive Do Not Track signals. Please note that third parties may collect personal information about your online activities over time and across different websites when you visit our website or other online websites and services. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
@@ -134,4 +134,4 @@ The terms of this Privacy Policy will govern the use of any information collecte
 
 ###  Questions
 
-If you have any questions or comments about our practices regarding Personal Information or about this Privacy Policy, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com).
+If you have any questions or comments about our practices regarding Personal Information or about this Privacy Policy, please write to us at Sony Corporation of America, 25 Madison Avenue, New York, New York, 10010, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com).
