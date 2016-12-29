@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514112746id_/http%3A//www.ukforex.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229085332id_/http%3A//www.ukforex.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UKForex Foreign Exchange Services
 
@@ -7,15 +7,6 @@
 _This policy is effective as of April 28th, 2016_
 
 The UKForex service is provided by UKForex Limited (trading as OFX) a company registered in England and Wales with registered company number 04631395 (“OFX"). OFX is registered with HMRC as a Money Services Business under the Money Laundering Regulations (reg. no. 12219180) and regulated by the FCA as an Authorised Payment Institution (FRN: 521566). OFX is a subsidiary of OzForex Limited. OFX treats your privacy rights very seriously and will deal with any Personal Information you provide to us strictly in accordance with the following privacy principles. The term "Personal information" refers to information that could identify, or is related to the identity of, an individual. This Privacy Policy should be read in conjunction with the customer agreement that you enter into with OFX ("Customer Agreement").
-
-The TRUSTe certification applies to the following properties:
-
-[www.clearfx.com](http://www.clearfx.com/)  
-[www.ofx.com](http://www.ofx.com/)  
-[www.nzforex.co.nz](http://www.nzforex.co.nz/)  
-[www.ukforex.co.uk](http://www.ukforex.co.uk/)
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request.>
 
 ## Purpose
 
