@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the convertkit.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507094736id_/http%3A//convertkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertkit.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229021351id_/https%3A//convertkit.com/privacy) for the most accurate reproduction.*
 
-# ConvertKit
+# Privacy Policy - ConvertKit
 
 ## **CONVERTKIT LLC**
 
