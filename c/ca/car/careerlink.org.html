@@ -1,357 +1,287 @@
-<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504080653id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229205315id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>Careerlink.com | Privacy Policy</title>
-<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="/css/reset.css" rel="stylesheet" type="text/css">
-<link href="/css/site.css" rel="stylesheet" type="text/css">
-<link href="/css/table.css" rel="stylesheet" type="text/css">
-<link href="/css/form.css" rel="stylesheet" type="text/css">
-<link href="/css/tools.css" rel="stylesheet" type="text/css">
-<link href="/css/redesign.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-/*<![CDATA[*/
-h3 {
-    margin: 10px 0;
-}
-p {
-    padding-bottom: 10px;
-}
-/*]]>*/
-</style>
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="/js/scriptaculous/scriptaculous.js?load=effects"></script>
-<script type="text/javascript" src="/js/rt_exec.js"></script>
-<script type="text/javascript" src="/js/helpers.js"></script>
-<script type="text/javascript" src="/js/menu.js"></script>
-<script type="text/javascript">
-// <![CDATA[
-RTReg.addLoadEvent( function() {
-    $('jobseeker-tab').addClassName( 'selected' );
-    if( $('menu-bar') ) {
-        Menu.init( 'menu-bar', { orientation: Menu.VERTICAL } );
-    }
-} );
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write( unescape( "%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E" ) );
-try {
-    var pageTracker = _gat._getTracker( 'UA-610892-31' );
-    pageTracker._setDomainName( '.careerlink.com' );
-    pageTracker._trackPageview();
-} catch( err ) {}
-function loginAsEmployer() // ---------------------------------- loginAsEmployer
-{
-    if( document.location.protocol == "http:" ) {
-        document.location.replace( 'https://secure.careerlink.com/?emp_login' );
-    } else {
-        $('login-form').action = 'https://secure.careerlink.com/signin/emp';
-        $('login-name').update( 'Employer Username' );
-        $('login-bar').slideDown( {
-            duration: 0.4
-          , afterFinish: function() {
-                $('email').activate();
-            }
-        } );
-    }
-} // --- loginAsEmployer
-function loginAsJobSeeker() // -------------------------------- loginAsJobSeeker
-{
-    $('login-form').action = '/signin';
-    $('login-name').update( 'Job Seeker Email' );
-    $('login-bar').slideDown( {
-        duration: 0.4
-      , afterFinish: function() {
-            $('email').activate();
-        }
-    } );
-} // --- loginAsJobSeeker
-// ]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-</head>
+<!DOCTYPE html><html class="no-js" lang=""><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <title>Privacy Policy | Careerlink</title>
+        <meta name="description" content="When you use Careerlink services, you trust us with your information. This Privacy Policy is meant to help you understand how your information is used. ">
+        <meta property="og:title" content="Privacy Policy">
+        <meta property="og:description" content="When you use Careerlink services, you trust us with your information. This Privacy Policy is meant to help you understand how your information is used. ">
+        <meta property="og:image" content="http://careerlink.com/images/og_clink_180x110.gif">
+        <meta property="og:site_name" content="Careerlink.com">
+        <meta property="og:url" content="http://careerlink.com/privacy">
 
-<body>
-
-<header>
-<div class="top-tab-bar">
-    <div class="wrapper">
-        <div style="float:left">
-            <a href="http://aiminstitute.org/"><img src="/images/re_aim.png" width="165" height="46" alt="AIM Institute" style="margin:0 20px 10px 0"></a>
-            <a href="/"><img src="/images/re_clink_tab.png" width="174" height="70" alt="Careerlink.com" style="margin:5px 0 -3px 0"></a>
-<!--
-            <a href="http://infotec.org/"><img src="/images/re_infotec.png" width="82" height="22" alt="Infotec" style="margin:0 0 24px 20px" /></a>
--->
-        </div>
-    </div>
-</div>
-<div class="menu-bar-block" style="clear:both">
-    <div class="wrapper">
-        <ul id="menu-bar">
-            <li style="margin-left:0"><a id="jobseeker-tab" href="/" style="" class="selected">Job Seeker</a></li>
-            <li><a id="employer-tab" href="/employer">Employer</a></li>
-            <li><a id="student-tab" href="/student">Student</a></li>
-            <li><a id="educator-tab" href="/educator">Educator</a></li>
-            <li><a id="entrepreneur-tab" href="/entrepreneur">Entrepreneur</a></li>
-            <li>Login...
-                <ul>
-                    <li><a id="login-jobseeker" href="javascript:void(0)" onclick="loginAsJobSeeker()" class="submenu">as a Job Seeker</a></li>
-                    <li><a id="login-employer" href="javascript:void(0)" onclick="loginAsEmployer()">as an Employer</a></li>
-                </ul>
-            </li>
-            <li>Sign-Up...
-                <ul>
-                    <li><a id="signup-jobseeker" href="/signup" class="submenu">as a Job Seeker</a></li>
-                    <li><a id="signup-employer" href="/employer/pricing">as an Employer</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</div>
-
-<div class="blue-band">
-    <div id="login-bar" style="width:940px;height:36px;margin:0 auto;margin-top:10px;display:none">
-        <form id="login-form" action="/signin" method="post" class="blue-form" style="font-size:smaller">
-            <div style="text-align:center">
-                <div style="display:inline">
-                    <span id="login-name">Job Seeker Email</span>:&nbsp;
-                    <input id="email" type="text" name="email" style="width:11em" tabindex="1">
-                </div>
-                <div style="display:inline;margin-left:15px">
-                    Password:&nbsp;
-                    <input id="password" type="password" name="password" style="width:7em" tabindex="2">
-                </div>
-                <div style="display:inline;margin-left:15px">
-                    <input id="remember-me" type="checkbox" class="nobox" name="remember_me" tabindex="3">
-                    <label for="remember-me">Remember Me?</label>
-                </div>
-                <div style="display:inline;margin-left:15px">
-                    <input type="submit" value="LOGIN" class="submit" tabindex="4">
-                </div>
-
-                <div style="display:inline;margin-left:15px">
-                    <a href="/forgotpwd" tabindex="6">Forgot your Password?</a>
-                </div>
-            </div>
-        </form>
-    </div>
-</div>
-</header>
-
-<div style="background:#EEE !important;overflow:hidden;width:100%;">
-<div class="wrapper" style="margin-top:10px">
-    <h1 class="title">Privacy Policy</h1>
-<div class="content">
-    <div class="column100">
-        <table class="table full">
-            <tbody><tr>
-                <td class="headers first-col last-col"> <img class="info" src="/images/info.png" alt="Info">
-                <div class="browse">
-                    <a href="/feedback">Questions or Comments</a>
-                </div>
-                <h2>Privacy Policy</h2>
-                </td>
-            </tr>
-            <tr>
-                <td class="col first-col last-col" style="padding:20px">
-                <h3>
-                AIM Online Privacy Statement
-                </h3>
-                <p>
-                AIM is committed to protecting your privacy.&nbsp; Please read the AIM Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular AIM sites and services that you may use.&nbsp; This AIM Online Privacy Statement applies to data collected by AIM through the majority of its Web sites and services, as well as its offline product support services.
-                </p>
-                <h3>
-                Collection of Your Personal Information
-                </h3>
-                <p>
-                In order to access some AIM services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials.&nbsp; At some AIM sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number.&nbsp; We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites.&nbsp; If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address that is used to create an AIM billing account.&nbsp; We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with AIM sites and services.&nbsp; We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.&nbsp; In order to offer you a more consistent and personalized experience in your interactions with AIM, information collected through one AIM service may be combined with information obtained through other AIM services.
-                </p>
-                <h3>
-                Use of Your Personal Information
-                </h3>
-                <p>
-                AIM collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested.&nbsp; These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.&nbsp; We also use your personal information to communicate with you.&nbsp; We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.&nbsp; We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from AIM and its affiliates.&nbsp; Sharing of Your Personal Information Except as described in this statement, we will not disclose your personal information outside of AIM and its controlled subsidiaries and affiliates without your consent.&nbsp; Some AIM services may be co-branded and offered in conjunction with another company.&nbsp; If you register for or use such services, both AIM and the other company may receive information collected in conjunction with the co-branded services.&nbsp; We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on AIM; (b) protect and defend the rights or property of AIM (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of AIM services or members of the public.
-                </p>
-                <h3>
-                Resumes And Resume Databases
-                </h3>
-                <p>
-                AIM allows you to post your resume in our database.&nbsp; This feature allows you to market yourself to potential employers.&nbsp; When you post your resume in our resume database, then all businesses subscribing to our services will have access to your name, resume and contact information.&nbsp; We use our best efforts to grant access to this database only to subscribing businesses, but cannot guarantee that other parties will not, without our consent, gain access to this database.&nbsp; You may remove your resume from our search-able database at any time.&nbsp; However, businesses subscribing to AIM services may have retained a copy of your resume in their own files or databases.&nbsp; We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties for resumes submitted to our database.&nbsp; By using your selected ID and password, you may, at any time log in to the resume feature to, inactivate, change or correct your resume from the resume database or inactivate, change or correct your name and contact information.
-                </p>
-                <h3>
-                Online Applications Hosted by AIM
-                </h3>
-                <p>
-                Information you submit in response to a specific job posting is considered "personal information" and will be retained in our database.&nbsp; We use logins and passwords to protect this information.&nbsp; The information may also be provided in computer readable form directly to the respective employer for retention within system(s) that are solely under the control of that employer.&nbsp; We believe the employers represented on this site consider any resumes they receive to be valuable and worthy of appropriate protection; however, we cannot control how the application information provided to employers is used, stored, protected or distributed.
-                </p>
-                <h3>
-                Online Applications Not Hosted by AIM
-                </h3>
-                <p>
-                Some employers request AIM to direct applicants to an online application hosted by the employer or by a third party.&nbsp; AIM will attempt to provide notification when a visitor is leaving an AIM Web site.&nbsp; AIM is not responsible for the privacy practices or the content of such Web sites.&nbsp; You should review the privacy policies of any other Web site.
-                </p>
-                <h3>
-                Communication Preferences
-                </h3>
-                <p>
-                You can stop the delivery of future promotional e-mail from AIM sites and services by following the specific instructions in the e-mail you receive.&nbsp; These communication choices do not apply to mandatory service communications that are considered part of certain AIM services, which you may receive periodically unless you cancel the service.
-                </p>
-                <h3>
-                Security of Your Personal Information
-                </h3>
-                <p>
-                AIM is committed to protecting the security of your personal information.&nbsp; We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.&nbsp; For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.&nbsp; When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.&nbsp; If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.&nbsp; Do not share this information with anyone.&nbsp; If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
-                </p>
-                <h3>
-                Collection and Use of Children's Personal Information
-                </h3>
-                <p>
-                Many AIM sites and services are intended for general audiences and do not knowingly collect any personal information from children.&nbsp; When an AIM site does collect age information, and users identify themselves as under 13, the site will either block such users from providing personal information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information.&nbsp; We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.&nbsp; We encourage you to talk with your children about communicating with strangers and disclosing personal information online.
-                </p>
-                <h3>
-                Use of Third Party Ad Networks
-                </h3>
-                <p>
-                The majority of the online banner advertisements you see on AIM Web pages are displayed by AIM.&nbsp; However, we allow other companies, called third-party ad servers or ad networks, to display advertisements on AIM Web pages.&nbsp; Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement.&nbsp; In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on.&nbsp; This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you.&nbsp; AIM does not have access to the cookies that may be placed by the third-party ad servers or ad networks.&nbsp; AIM maintains a relationship with a third-party currently operating as Salary.com.&nbsp; Salary.com might maintain relationships with a number of third-party ad servers or ad networks.&nbsp; Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting.&nbsp; You may find more information at the Web site of either the individual ad network or the Network Advertising Initiative at <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a>.
-                </p>
-                <h3>
-                Links to Other Sites
-                </h3>
-                <p>
-                This site may contain links to other sites.&nbsp; AIM is not responsible for the privacy practices or the content of such Web sites.&nbsp; You should review the privacy policies of any other Web site.
-                </p>
-                <h3>
-                Controlling "Spam" or Unsolicited E-mail
-                </h3>
-                <p>
-                AIM is concerned about controlling unsolicited commercial e-mail, or "spam." AIM will not sell, lease or rent its e-mail subscriber lists to third parties.
-                </p>
-                <h3>
-                Enforcement of This Privacy Statement
-                </h3>
-                <p>
-                If you have questions regarding this statement, you should first contact <a href="mailto:privacy@aiminstitute.org">privacy@aiminstitute.org</a>.
-                </p>
-                <h3>
-                Changes to This Privacy Statement
-                </h3>
-                <p>
-                We will occasionally update this privacy statement to reflect changes in our services and customer feedback.&nbsp; When we post changes to this Statement, we will revise the "last updated" date at the top of this statement.&nbsp; If there are material changes to this statement or in how AIM will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification.&nbsp; We encourage you to periodically review this statement to be informed of how AIM is protecting your information.
-                </p>
-                <h3>
-                Contacting Us
-                </h3>
-                <p>
-                AIM welcomes your comments regarding this privacy statement.&nbsp; If you have questions about this statement or believe that we have not adhered to it, please contact <a href="mailto:privacy@aiminstitute.org">privacy@aiminstitute.org</a>.
-                </p>
-                </td>
-            </tr>
-            <tr>
-                <td class="col first-col last-col">Last Updated: August 11, 2009</td>
-            </tr>
-        </tbody></table>
-    </div>
-</div>
-
-<div id="promospace">
-        <div class="promo">
-        <div class="promohead">
-            <div class="browse"></div>
-            Careerlink Job Seeker Account        </div>
-        <div class="promotext">
-            <a title="Job Seeker Sign Up" href="http://careerlink.com/signup"><img class="aligncenter size-full wp-image-179" title="JSProfileAd" src="http://careerlink.com/main_content/modules/files/2012/01/JSProfileAd.png" alt="" width="280" height="155"></a>        </div>
-    </div>
-    <div class="promo spaced">
-        <div class="promohead">
-            <div class="browse"></div>
-            AIM Institute Celebrates 20 Years        </div>
-        <div class="promotext">
-            <p style="text-align: center;"></p><br>
-<p style="text-align: center;"></p><br>
-<p style="text-align: center;"><a href="http://www.aiminstitute.org/images//20th-anniversary-brochure.pdf"><img class="aligncenter size-full wp-image-208" title="AIM20_Logo_Horizontal_Final 1912" src="http://careerlink.com/main_content/modules/files/2012/01/AIM20_Logo_Horizontal_Final-1912.png" alt="" width="267" height="78"></a></p>        </div>
-    </div>
-    <div class="promo spaced third">
-        <div class="promohead">
-            <div class="browse"></div>
-            AIM Institute Speakers Bureau        </div>
-        <div class="promotext">
-            <a title="Speakers Bureau" href="http://www.aiminstitute.org/speakers-bureau/presenters-2.html" target="_blank"><img class="aligncenter size-full wp-image-165" title="SpeakersBureau" src="http://careerlink.com/main_content/modules/files/2012/01/SpeakersBureau.png" alt="" width="280" height="155"></a>        </div>
-    </div>
-</div>
-</div>
-</div>
-<div id="footer">
-    <div style="background:#EEE;height:50px"></div>
-<footer>
-<div class="wrapper">
-
-    <div style="position:relative;top:-31px;overflow:auto">
-        <table style="float:right">
-            <tbody><tr>
-                <td><img src="/images/re_icon_left.png" width="45" height="56" alt="Left Bookend"></td>
-                <td><a href="http://www.facebook.com/pages/Careerlinkcom/150702304996984"><img src="/images/re_facebook_icon.png" width="56" height="56" alt="Friend us on Facebook"></a></td>
-                <td><a href="http://twitter.com/careerlink"><img src="/images/re_twitter_icon.png" width="56" height="56" alt="Follow us on Twitter"></a></td>
-                <td><a href="http://www.youtube.com/AIMInstitute"><img src="/images/re_youtube_icon.png" width="56" height="56" alt="Watch our YouTube Channel"></a></td>
-                <td><a href="http://www.linkedin.com/company/34490?trk=tyah"><img src="/images/re_linkedin_icon.png" width="56" height="56" alt="Connect with us on LinkedIn"></a></td>
-<!--
-                <td><img src="/images/re_aim_icon.png" width="56" height="56" alt="AIM" /></td>
--->
-                <td><img src="/images/re_icon_right.png" width="9" height="56" alt="Right Bookend"></td>
-            </tr>
-        </tbody></table>
-    </div>
-    <div style="overflow:auto;text-align:left">
-        <div style="width:200px;float:left">
-            <ul style="text-transform:uppercase;margin:0;padding:0;list-style-type:none;font-weight:bold;line-height:1.4em">
-                <li><a href="http://www.aiminstitute.org/about-aim/goals.html">About AIM</a></li>
-                <li><a href="http://www.aiminstitute.org/membership/benefits-2.html">AIM Membership</a></li>
-                <li><a href="http://www.aiminstitute.org/research/studies.html">AIM Research</a></li>
-                <li style="margin-top:1em"><a href="/sitemap">Site Map</a></li>
-                <li><a href="/privacy">Privacy Policy</a></li>
-                <li><a href="/terms">Site Use Policy</a></li>
-                <li><a href="/feedback">Contact Us</a></li>
-                <li style="margin-top:1em"><a href="http://www.aiminstitute.org/economic-development/community.html">Community Partnerships</a></li>
-                <li><a href="http://www.aiminstitute.org/education/programs-and-services.html">Educational Programs</a></li>
-                <li><a href="http://www.aiminstitute.org/partnerships-grants/partnership-opportunities-2.html">Grant Services</a></li>
-            </ul>
-        </div>
-
-        <form id="subscribe-form" action="/subscribe" method="post" class="blue-form">
-            <div style="float:left;margin-left:20px;width:350px;overflow:auto;background:#061e4a;font-size:smaller">
-                <div style="padding:13px">
-                    <strong style="font-size:18px">Sign-up for e-News</strong>
-                    <div style="margin-top:15px">
-                        <span style="float:left;width:40px;line-height:23px"><label for="newsletter-name">Name</label>:</span>
-                        <input id="newsletter-name" name="newsletter-name" type="text" style="width:180px">
-                    </div>
-                    <div style="margin-top:10px">
-                        <span style="float:left;width:40px;line-height:23px"><label for="newsletter-email">Email</label>:</span>
-                        <input id="newsletter-email" name="newsletter-email" type="text" style="width:180px">
-                    </div>
-                    <div style="margin-top:10px">
-                        <label for="newsletter-comments">Comments</label> <em>(Optional)</em><br>
-                        <textarea id="newsletter-comments" name="newsletter-comments" rows="1" style="width:311px;max-width:311px;min-height:23px"></textarea>
-                    </div>
-                    <div style="margin:10px 3px 5px 0;text-align:right">
-                        <input type="submit" value="SUBMIT" class="submit">
+        <link rel="canonical" href="http://careerlink.com/privacy">
+                
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+        <!-- <link rel="stylesheet" href="/css/wireframe/bootstrap.min.css"> -->
+        <link rel="stylesheet" href="/css/wireframe/typeahead.css">
+        <link rel="stylesheet" href="/css/wireframe/select2.css">
+        <link rel="stylesheet" href="/css/wireframe/select2-bootstrap.css">
+        <link rel="stylesheet" href="/css/wireframe/main.css">
+        <link rel="stylesheet" href="/css/wireframe/jobseeker.css">
+        <link rel="stylesheet" href="/css/wireframe/bootstrap-switch.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PH84RP"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PH84RP"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PH84RP');</script>
+        <!-- End Google Tag Manager -->
+                    <!-- 'Log in as a job seeker to use this feature' Modal -->
+            <div class="modal fade login-to-use-modal" tabindex="-1" role="dialog" aria-labelledby="LoginToUse">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-body login-to-use">
+                <div class="row">
+                    <div class="col-md-12">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                        <h2>Create an Account</h2>
+                        <p>To take advantage of this feature, create an account.</p>
+                        <p>With a job seeker account on Careerlink, you can:</p>
+                        <ul>
+                            <li>Create or upload a resume for quick use when applying for jobs</li>
+                            <li>Get found by employers by adding your profile to our talent database</li>
+                            <li>Save jobs as you search and apply later</li>
+                            <li>Save job searches and get email notifications of new postings</li>
+                        </ul>
+                        <a href="https://careerlink.com/user/login?redirect=%2Fprivacy" class="btn btn-default" rel="nofollow">Log In</a>
+                        <a href="https://careerlink.com/user/signup?redirect=%2Fprivacy" class="btn btn-primary" rel="nofollow">Sign Up</a>
                     </div>
                 </div>
             </div>
-        </form>
-
-        <div style="color:#FFF;width:340px;float:right;overflow:auto;line-height:1.5em">
-<h1>AIM Institute</h1>The AIM Institute is a not-for-profit membership organization that provides information technology leadership Nationwide. We help our business, educational, and community partners to focus and coordinate their IT resources. Working together, we help initiate the changes and improvements necessary to meet emerging information technology needs, build a strong workforce, and expand economic growth in our communities.        </div>
+        </div>
     </div>
-    <div style="margin-top:30px;color:#999;text-align:center;font-size:12px">
-<div id="copyright">
-Copyright © 2012 AIM Institute, Inc.&nbsp; All Rights Reserved.
-</div>
+</div>        
+        <!-- Navigation -->
+        <nav role="navigation">
+            <div class="container">
+                <div class="dropdown hidden-md-up">
+                    <a id="top-menu" href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+                        <img src="//careerlink.com/images/cl-hamburger-menu-icon.png">
+                    </a>
+                    <ul id="top-menu" class="dropdown-menu pull-right" aria-labelledby="top-menu">
+                        <li><a href="/">Job Seeker</a></li>
+                        <li><a href="https://careerlink.com/lp/employers/">Employer</a></li>
+                        <li><a href="https://careerlink.com/lp/student/">Student</a></li>
+                        <li><a href="https://careerlink.com/lp/tech/">Tech</a></li>
+                        <li><a href="https://careerlink.com/lp/blog/">Blog</a></li>
+                    </ul>
+                </div>
+                <div class="navbar-header">
+                    <a href="/"><img src="//cdn.careerlink.com/images/aim_careerlink.svg" class="logo"></a>
+                </div>
+                <div id="navbar" class="dropdown">
+
+                    <ul id="top-menu" class="top-menu hidden-sm-down">
+                        <li class="hidden-md-down"><a href="/">Job Seeker</a></li>
+                        <li class="hidden-md-down"><a href="https://careerlink.com/lp/employers/">Employer</a></li>
+                        <li><a href="https://careerlink.com/lp/student/">Student</a></li>
+                        <li><a href="https://careerlink.com/lp/tech/">Tech</a></li>
+                        <li><a href="https://careerlink.com/lp/blog/">Blog</a></li>
+                    </ul>
+                    <div class="user-buttons">
+    <a href="https://careerlink.com/user/login?redirect=%2Fprivacy" rel="nofollow"><button class="btn btn-default login">Log In</button></a>
+    <a href="https://careerlink.com/user/signup?redirect=%2Fprivacy" rel="nofollow"><button class="btn btn-primary signup hidden-xs-down">Sign Up</button></a>
+</div>                </div>
+            </div>
+        </nav>
+        <!-- END Navigation -->
+
+<div class="header page">
+    <div class="container">
+       <a href="/search/advanced" class="new-search highlighted"><i class="fa fa-search" aria-hidden="true"></i> New Search</a>
     </div>
 </div>
-</footer>
 
+<div class="container page sitemap">
+    <div class="col-md-12 col-page-head">
+        <div class="row">
+            <div class="col-xl-8 col-xl-offset-2 page-heading">
+            <h1>Privacy Policy</h1>
+            <p></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12 col-page">
+        <div class="row">
+            <div class="col-xl-8 col-xl-offset-2 page-section">
+            <h2>AIM Online Privacy Statement</h2>
+            <p>
+            AIM is committed to protecting your privacy.&nbsp; Please read the AIM Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular AIM sites and services that you may use.&nbsp; This AIM Online Privacy Statement applies to data collected by AIM through the majority of its Web sites and services, as well as its offline product support services.
+            </p>
+            <h2>Collection of Your Personal Information</h2>
+            <p>
+            In order to access some AIM services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials.&nbsp; At some AIM sites, we ask you to provide personal information, such as your e-mail address, name, home or work address or telephone number.&nbsp; We may also collect demographic information, such as your ZIP code, age, gender, preferences, interests and favorites.&nbsp; If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address that is used to create an AIM billing account.&nbsp; We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with AIM sites and services.&nbsp; We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.&nbsp; In order to offer you a more consistent and personalized experience in your interactions with AIM, information collected through one AIM service may be combined with information obtained through other AIM services.
+            </p>
+            <h2>Use of Your Personal Information</h2>
+            <p>
+            AIM collects and uses your personal information to operate and improve its sites and deliver the services or carry out the transactions you have requested.&nbsp; These uses may include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services and technologies; and displaying content and advertising that are customized to your interests and preferences.&nbsp; We also use your personal information to communicate with you.&nbsp; We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.&nbsp; We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from AIM and its affiliates.&nbsp; Sharing of Your Personal Information Except as described in this statement, we will not disclose your personal information outside of AIM and its controlled subsidiaries and affiliates without your consent.&nbsp; Some AIM services may be co-branded and offered in conjunction with another company.&nbsp; If you register for or use such services, both AIM and the other company may receive information collected in conjunction with the co-branded services.&nbsp; We may access and/or disclose your personal information if we believe such action is necessary to: (a) comply with the law or legal process served on AIM; (b) protect and defend the rights or property of AIM (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of AIM services or members of the public.
+            </p>
+            <h2>Resumes And Resume Databases</h2>
+            <p>
+            AIM allows you to post your resume in our database.&nbsp; This feature allows you to market yourself to potential employers.&nbsp; When you post your resume in our resume database, then all businesses subscribing to our services will have access to your name, resume and contact information.&nbsp; We use our best efforts to grant access to this database only to subscribing businesses, but cannot guarantee that other parties will not, without our consent, gain access to this database.&nbsp; You may remove your resume from our search-able database at any time.&nbsp; However, businesses subscribing to AIM services may have retained a copy of your resume in their own files or databases.&nbsp; We are not responsible for the retention, use, or privacy of resumes in these instances, or for the use or privacy of resumes by any of such parties for resumes submitted to our database.&nbsp; By using your selected ID and password, you may, at any time log in to the resume feature to, inactivate, change or correct your resume from the resume database or inactivate, change or correct your name and contact information.
+            </p>
+            <h2>Online Applications Hosted by AIM</h2>
+            <p>
+            Information you submit in response to a specific job posting is considered "personal information" and will be retained in our database.&nbsp; We use logins and passwords to protect this information.&nbsp; The information may also be provided in computer readable form directly to the respective employer for retention within system(s) that are solely under the control of that employer.&nbsp; We believe the employers represented on this site consider any resumes they receive to be valuable and worthy of appropriate protection; however, we cannot control how the application information provided to employers is used, stored, protected or distributed.
+            </p>
+            <h2>Online Applications Not Hosted by AIM</h2>
+            <p>
+            Some employers request AIM to direct applicants to an online application hosted by the employer or by a third party.&nbsp; AIM will attempt to provide notification when a visitor is leaving an AIM Web site.&nbsp; AIM is not responsible for the privacy practices or the content of such Web sites.&nbsp; You should review the privacy policies of any other Web site.
+            </p>
+            <h2>Communication Preferences</h2>
+            <p>
+            You can stop the delivery of future promotional e-mail from AIM sites and services by following the specific instructions in the e-mail you receive.&nbsp; These communication choices do not apply to mandatory service communications that are considered part of certain AIM services, which you may receive periodically unless you cancel the service.
+            </p>
+            <h2>Security of Your Personal Information</h2>
+            <p>
+            AIM is committed to protecting the security of your personal information.&nbsp; We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure.&nbsp; For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.&nbsp; When we transmit highly confidential information (such as a credit card number or password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.&nbsp; If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential.&nbsp; Do not share this information with anyone.&nbsp; If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
+            </p>
+            <h2>Collection and Use of Children's Personal Information</h2>
+            <p>
+            Many AIM sites and services are intended for general audiences and do not knowingly collect any personal information from children.&nbsp; When an AIM site does collect age information, and users identify themselves as under 13, the site will either block such users from providing personal information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information.&nbsp; We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.&nbsp; We encourage you to talk with your children about communicating with strangers and disclosing personal information online.
+            </p>
+            <h2>Use of Third Party Ad Networks</h2>
+            <p>
+            The majority of the online banner advertisements you see on AIM Web pages are displayed by AIM.&nbsp; However, we allow other companies, called third-party ad servers or ad networks, to display advertisements on AIM Web pages.&nbsp; Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement.&nbsp; In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on.&nbsp; This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you.&nbsp; AIM does not have access to the cookies that may be placed by the third-party ad servers or ad networks.&nbsp; AIM maintains a relationship with a third-party currently operating as Salary.com.&nbsp; Salary.com might maintain relationships with a number of third-party ad servers or ad networks.&nbsp; Those ad networks that use persistent cookies may offer you a way to opt out of ad targeting.&nbsp; You may find more information at the Web site of either the individual ad network or the Network Advertising Initiative at <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a>.
+            </p>
+            <h2>Remarketing</h2>
+            <p>This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Careerlink website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+            </p>
+            <p>Users can opt out of Google's use of cookies by visiting <a href="https://www.google.com/settings/u/0/ads/authenticated">Google's Ads Settings</a>.</p>
+            <h2>Links to Other Sites</h2>
+            <p>
+            This site may contain links to other sites.&nbsp; AIM is not responsible for the privacy practices or the content of such Web sites.&nbsp; You should review the privacy policies of any other Web site.
+            </p>
+    		<h2>Controlling "Spam" or Unsolicited E-mail</h2>
+            <p>
+            AIM is concerned about controlling unsolicited commercial e-mail, or "spam." AIM will not sell, lease or rent its e-mail subscriber lists to third parties.
+            </p>
+            <h2>Enforcement of This Privacy Statement</h2>
+            <p>
+            If you have questions regarding this statement, you should first contact <a href="mailto:privacy@aimforbrilliance.org">privacy@aimforbrilliance.org</a>.
+            </p>
+            <h2>Changes to This Privacy Statement</h2>
+            <p>
+            We will occasionally update this privacy statement to reflect changes in our services and customer feedback.&nbsp; When we post changes to this Statement, we will revise the "last updated" date at the top of this statement.&nbsp; If there are material changes to this statement or in how AIM will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification.&nbsp; We encourage you to periodically review this statement to be informed of how AIM is protecting your information.
+            </p>
+            <h2>Contacting Us</h2>
+            <p>
+            AIM welcomes your comments regarding this privacy statement.&nbsp; If you have questions about this statement or believe that we have not adhered to it, please contact <a href="mailto:privacy@aimforbrilliance.org">privacy@aimforbrilliance.org</a>.
+            </p>
+            <p>Last Updated: August 2, 2016</p>
+
+            </div>
+        </div>
+    </div>
 </div>
 
 
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-12 logo">
+                                <img src="//cdn.careerlink.com/images/aim_careerlink.svg">
+                            </div>
+                            <div class="col-lg-8 col-md-8 col-sm-12 terms">
+                                <a href="/sitemap">Site Map</a> | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Site Use Policy</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-8 col-sm-offset-2 products">
+                        <div class="row">
+                            <div class="col-lg-3 col-sm-3 col-xs-6">
+                                <div class="footer-header">AIM</div>
+                                <ul>
+                                    <li><a target="_blank" rel="nofollow" href="http://aimforbrilliance.org/about/">About</a></li>
+                                    <li><a href="/contactus">Contact Us</a></li>
+                                    <li><a href="/search?flag_volunteer=Y">Volunteer</a></li>
+                                    <li><a href="/careerfairs">Career Fairs</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-sm-3 col-xs-6">
+                                <div class="footer-header">Events</div>
+                                <ul>
+                                    <li><a target="_blank" rel="nofollow" href="http://careerlink.com/infotec/">Infotec</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://bigomaha.co/">Big Omaha</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://marketechconference.org/">MarkeTech</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://siliconprairienews.com/tag/silicon-prairie-awards/">SP Awards</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://careerlink.com/hdc/">HDC</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-sm-3 col-xs-6">
+                                <div class="footer-header">Ventures</div>
+                                <ul>
+                                    <li><a target="_blank" rel="nofollow" href="http://siliconprairienews.com/">Silicon Prairie News</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://www.hatchfund.org/">Hatchfund</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-3 col-sm-3 col-xs-6">
+                                <div class="footer-header">Futures</div>
+                                <ul>
+                                    <li><a target="_blank" rel="nofollow" href="http://careerlink.com/setyouraim/">Set Your AIM</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://aimforbrilliance.org/futures/">Youth in Tech</a></li>
+                                    <li><a target="_blank" rel="nofollow" href="http://careerlink.com/brainexchange/">Brain Exchange</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="logos">
+                            <div class="fnts">
+                                Powered by
+                                <a rel="nofollow" href="https://fnts.com/" target="_blank"></a>
+                            </div>
 
+                            <div class="sponsors">
+                                Sponsored by
+                                <a rel="nofollow" href="https://www.cox.com/business/home.html" id="sponsor_link" target="_blank">
+                                    <img src="//cdn.careerlink.com/images/footer/cox_cb.svg" id="sponsor_image">
+                                </a>
+                            </div>
+
+                            <script type="text/javascript">
+                                // Logo rotater here for portability
+                                var current = 0;
+                                var logos = new Array();
+                                logos[0] = '//cdn.careerlink.com/images/footer/cox_cb.svg';
+                                var links = new Array();
+                                links[0] = 'https://www.cox.com/business/home.html';
+
+                                function rotate() {
+                                    document.getElementById('sponsor_image').src = logos[current];
+                                    document.getElementById('sponsor_link').href = links[current];
+                                    current = ( current == logos.length - 1 ) ? 0 : current + 1;
+                                    setTimeout( "rotate()", 5000 );
+                                }
+                                window.onload = rotate;
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="copyright">
+            Copyright © 2016 <span class="divvy">|</span> AIM <span class="divvy">|</span> All Rights Reserved
+        </div>
+        <!-- END Footer -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="/js/wireframe/bootstrap.min.js"></script>
+        <script src="/js/wireframe/typeahead.js"></script>
+        <script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+        <script src="/js/wireframe/cl-ads.js"></script>
+                <script src="//s7.addthis.com/js/250/addthis_widget.js#pub=careerlink"></script>
+
+    
 
 </body></html>
