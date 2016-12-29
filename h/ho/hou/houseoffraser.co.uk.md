@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619163141id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229141216id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - House of Fraser
 
@@ -46,7 +46,7 @@ Additionally, the data that we collect from you may be transferred to, and store
 
 ## Cookies
 
-When you enter this website, we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide.
+When you enter this website, we will use cookies. Cookies are tiny text files that identify your computer to our server. These cookies in no way allow us access to your computer and do not store any details relating to you or your credit cards. They are used to record the areas of the site that you have visited and for how long, which provides us with useful usage information that helps us make our site more accessible to our users in line with their needs. The use of cookies helps us to improve the quality of service that we provide. Please refer to our [cookie policy](https://web.archive.org/Cookies/Cookies,default,pg.html) for the full list of cookies that we use.
 
 You may also see House of Fraser adverts and content on other websites. For these adverts, our third party providers may use software that can set a cookie to your browser, this will enable us to monitor whether you see the adverts, click on them and buy from our website. Cookies are placed on your computer if your browser is set to allow these. If you wish to ‘turn off’ cookies, then please check your browser’s help files for guidance on how to do so. The Help section is usually found in the Menu bar at the top of the browser. Some browsers provide help if the F1 key is pressed. However, you may lose some of the functionality of this website. If you no longer wish to receive personalised banners on the websites you visit, if you wish to opt out, [visit the Criteo website](http://www.criteo.com/en/privacy-policy).
 
