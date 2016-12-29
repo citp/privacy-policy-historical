@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407075822id_/http%3A//www.milanoo.com/help/index-id-72-childcat-40.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051248id_/http%3A//www.milanoo.com/help/index-id-1459-childcat-2043.html) for the most accurate reproduction.*
 
 # Contact Us Contact Us Via Live Online Supporting Tools Contact Us By Regular Mail Contact Us By Telephone or Fax Contact Us By E-mail - Milanoo.com
 
@@ -8,7 +8,7 @@
 
 **·**  help us create content on this Site that is most relevant to you.
 
-**·**  alert you to new information, products, and services that we offer. 
+**·**  alert you to new information, products, and services that we offer.
 
 (a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. 
 
@@ -45,3 +45,7 @@
 (iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
 
 (v) We may also share your personally identifiable and/or your non-personally identifiable information, including your name, address, email address, and any transactions you conduct on our site or offline with us with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit other websites. Our advertising partner will anonymize the data we provide it so no one else will receive your personally identifiable information.
+
+**DATA SECURITY**
+
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
