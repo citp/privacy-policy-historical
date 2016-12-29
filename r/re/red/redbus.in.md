@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617232607id_/http%3A//www.redbus.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbus.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032242id_/https%3A//www.redbus.in/info/privacypolicy) for the most accurate reproduction.*
 
-# redBus - Privacy policy
+# 
 
-###  Privacy Policy 
+We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. 
 
-We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.  
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [ Terms of Use ](https://web.archive.org/Info/TermsCondition)
 
-**Note:**
-
-Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
-
-By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
-
-By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20160617232607id_/http%3A//www.redbus.in/TermsAndConditions.aspx)
-
-#### 1\. Collection of Personally Identifiable Information and other Information
+* **Collection of Personally Identifiable Information and other Information**
 
 When you use our Website, we store your browsing information. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose. 
 
@@ -32,38 +25,30 @@ If you choose to post reviews and tips about buses or post messages or leave fee
 
 We collect personally identifiable information (email address, name, phone number.) from you when you set up a free account with us. We do use your contact information to send you offers based on your previous orders and your interests. 
 
-####  Express Check Out
+**Express Check Out**
 
 With your explicit approval and to ease the payment process we may from time to time prompt you to allow us to save your credit/debit card information. With the help of Express check out, you can pay by credit/debit card using just one click. This will expedite the payment process and will only be done with your explicit approval. The details are stored on encrypted servers and you have our word that they will be safeguarded to the best of our ability. 
 
-#### 2\. Sharing of personal information
+* **Sharing of personal information**
 
 We will share personal information with companies, organizations or individuals outside of redBus if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-  1. meet any applicable law, regulation, legal process or enforceable governmental request.
-  2. enforce applicable Terms of Service, including investigation of potential violations.
-  3. detect, prevent, or otherwise address fraud, security or technical issues.
-  4. protect against harm to the rights, property or safety of redBus, our users or the public as required or permitted by law.
-
-
-
-We may share aggregated, non-personally identifiable information publicly and with our partners – like bus operators, agents or connected sites. For example, we may share information publicly to show trends about the general use of our services. We may also share consolidated information provided by like-minded users with bus operators without ever taking individual names, email ids or other contact details. 
+meet any applicable law, regulation, legal process or enforceable governmental request.  
+enforce applicable Terms of Service, including investigation of potential violations.   
+detect, prevent, or otherwise address fraud, security or technical issues.  
+protect against harm to the rights, property or safety of redBus, our users or the public as required or permitted by law.  
+We may share aggregated, non-personally identifiable information publicly and with our partners – like bus operators, agents or connected sites. Forexample, we may share information publicly to show trends about the general use of our services. We may also share consolidated information provided by like-minded users with bus operators without ever taking individual names, email ids or other contact details. 
 
 If redBus is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
-#### 3\. Security Precautions
+* **Security Precautions**
 
-Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. For example, we use [McAfee Secure](https://www.mcafeesecure.com/RatingVerify?ref=www.redbus.in&cb=51) to protect users against identity theft & spyware; etc. 
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. For example, we use McAfee Secure to protect users against identity theft & spyware; etc. 
 
-#### 4\. Google Analytics
+* **Google Analytics**
 
-  1. We have implemented and use Display Advertising through Remarketing with Google Analytics
-  2. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager.](https://www.google.com/settings/u/0/ads/preferences/)
-  3. Third-party vendors, including Google, show our ads on sites across the Internet.
-  4. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+We have implemented and use Display Advertising through Remarketing with Google Analytics You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [ Ads Preferences Manager.](https://www.google.com/settings/u/0/ads/authenticated) Third-party vendors, including Google, show our ads on sites across the Internet. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website. 
 
-
-
-#### 5\. Your Consent
+* **Your Consent**
 
 By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
