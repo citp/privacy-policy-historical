@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616073324id_/http%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudentroom.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061155id_/http%3A//www.thestudentroom.co.uk/faq.php%3Ffaq%3Dtsr_privacy_statement) for the most accurate reproduction.*
 
 # The Student Room - FAQ: Your privacy
 
 This Privacy Policy sets out the data processing practices carried out through the use of the internet and any other electronic communications networks by The Student Room Group ("TSRG", "we" or "us"). We believe that it is important you know how we treat the information about you, which we receive from you. If you have any requests concerning your personal information or any queries with regard to these practices please contact [support@thestudentroom.com](mailto:support@thestudentroom.com). Please note that all data thus captured will be used and held in accordance with the requirements of the Data Protection Act 1998.
 
-This statement (together with our terms of use and our cookie policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [thestudentroom.co.uk](http://www.thestudentroom.co.uk/) and other TSRG websites (the "TSRG site") you are accepting and consenting to practices described in this statement. If you do not accept the terms in this statement you should not access TSRG site.
+This statement (together with our terms of use and our cookie policy) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [thestudentroom.co.uk](https://www.thestudentroom.co.uk/) and other TSRG websites (the "TSRG site") you are accepting and consenting to practices described in this statement. If you do not accept the terms in this statement you should not access TSRG site.
 
 This policy applies to all users, members, subscribers, customers and person who visits and use the TSRG site ("you").
 
@@ -58,7 +58,7 @@ We may share your personal information with any member of our group, which means
   * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;advertisers and advertising networks that require the data to select and serve relevant adverts to you and others;
   * analytics and search engine providers that assist us in the improvement and optimisation of our site;
   * data when obliged to disclose such data by law, or the disclosure is 'necessary' for purposes of national security, taxation and criminal investigation;
-  * when you chose to register using the online payment method (i.e. debit or credit card) our payment processor, PayPal in order for them to safely and securely process the payment information (please contact PayPal via <http://www.paypal.co.uk/uk> for information on their Privacy statement and security measures);
+  * when you chose to register using the online payment method (i.e. debit or credit card) our payment processor, PayPal in order for them to safely and securely process the payment information (please contact PayPal via [http://www.paypal.co.uk/uk](https://www.paypal.co.uk/uk) for information on their Privacy statement and security measures);
   * when you elect to submit work on TSRG site to gain access to the database, such work will also be submitted along with your name to plagiarism detection software;
   * or we have your consent.
 
@@ -76,7 +76,7 @@ Given that the Internet is a global environment, using it to collect and process
 
 **Privacy Settings**
 
-Privacy settings on [thestudentroom.co.uk](http://www.thestudentroom.co.uk/) (TSR) enable you to customise the amount of personal information that you display to other members. These are vital for keeping you safe to enjoy TSR to the full, and The Student Room Group Ltd (“we”) want to make it as easy as possible for you to use the site without worrying. You can set your privacy settings to allow the following levels of access: Everyone; Registered Members; Contacts; or Friends only.
+Privacy settings on [thestudentroom.co.uk](https://www.thestudentroom.co.uk/) (TSR) enable you to customise the amount of personal information that you display to other members. These are vital for keeping you safe to enjoy TSR to the full, and The Student Room Group Ltd (“we”) want to make it as easy as possible for you to use the site without worrying. You can set your privacy settings to allow the following levels of access: Everyone; Registered Members; Contacts; or Friends only.
 
 The sorts of information that would be covered by your privacy settings are:
 
@@ -90,7 +90,7 @@ The sorts of information that would be covered by your privacy settings are:
 
 
 
-To edit your privacy settings, [click here](http://www.thestudentroom.co.uk/profile.php?do=privacy).
+To edit your privacy settings, [click here](https://www.thestudentroom.co.uk/profile.php?do=privacy).
 
 **Use of cookies**
 
