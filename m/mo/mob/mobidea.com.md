@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611090007id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041714id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile performance marketing leaders | Affiliate marketing Program
 
