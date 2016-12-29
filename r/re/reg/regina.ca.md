@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618085804id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regina.ca privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032837id_/http%3A//www.regina.ca/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - City of Regina
 
