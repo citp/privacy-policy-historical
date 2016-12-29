@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627044503id_/http%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229032124id_/http%3A//www.savings.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,9 +117,7 @@ California’s “Shine the Light” law, Civil Code section 1798.83, requires c
 Savings.com, Inc.  
 Attn: Customer Care  
 2500 Broadway, Suite F-125  
-Santa Monica, CA 90404  
+Santa Monica, CA 90404
 
-
-   
 Effective Date May 3, 2016  
 Copyright ©2016 Savings.com, Inc. All rights reserved.
