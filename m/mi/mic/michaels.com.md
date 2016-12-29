@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618173100id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073216id_/http%3A//www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
-This Privacy Statement (“Privacy Statement”) describes the information that Michaels Stores, Inc., its affiliated companies, subsidiaries and service partners (collectively, “Michaels”) collects about you; how we use and protect this information; and the choices you can make about how we use this information.
+This Privacy Statement (“Privacy Statement”) describes the information that Michaels Stores, Inc., its affiliated companies, subsidiaries and service partners including Aaron Brothers, Inc., Artistree, Inc., and Hancock Fabrics (collectively, “Michaels”) collects about you; how we use and protect this information; and the choices you can make about how we use this information.
 
 ### Information Covered by This Statement
 
@@ -96,7 +96,7 @@ We give you choices about how we communicate with you.
 
 _Electronic and Mobile Communications._ We only send you promotional mobile or email messages if you provide us with your contact information and opt in to receive the messages. You can stop receiving promotional mobile and email messages from Michaels by following the instructions provided in any such message you receive.
 
-You agree that by opting-in and providing your wireless telephone number to Michaels you’re expressly consenting to receive automated marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. You further understand that your information will be used as described here and in the Michaels Privacy Policy available at www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html 
+You agree that by opting-in and providing your wireless telephone number to Michaels you’re expressly consenting to receive automated marketing text messages from Michaels to the mobile number provided. Consent is not required to purchase goods or services. You further understand that your information will be used as described here and in the Michaels Privacy Policy available at www.michaels.com/your-privacy-rights/ca-your-privacy-rights.html
 
 _Postal Mail._ We may mail you unsolicited offers or product information that we believe is of interest to you. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
@@ -112,7 +112,7 @@ Our Site provides you the opportunity to opt-in and to opt-out of receiving comm
 
 **By email.** Send an email to custhelp@michaels.com from your email address of record with a subject line of UNSUBSCRIBE.
 
-**Click “Unsubscribe.”** Each email we send you contains an “UNSUBSCRIBE” link at the bottom of the email. Open your email, click “UNSUBSCRIBE”, and follow the instructions on the screen to change your communication preferences 
+**Click “Unsubscribe.”** Each email we send you contains an “UNSUBSCRIBE” link at the bottom of the email. Open your email, click “UNSUBSCRIBE”, and follow the instructions on the screen to change your communication preferences.
 
 **By phone.** Call 1-800-MICHAELS and ask to be removed from future mailings.
 
@@ -122,13 +122,13 @@ PLEASE NOTE: If you choose to stop receiving promotional messages from us, we wi
 
 ### Tracking Tools: Cookies, Web Beacons and other Technologies
 
-We may use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities. We might permit third parties to gather information through our websites, including for behavioral advertising purposes. You can opt out of online behavioral advertising by going to www.aboutads.info/choices. 
+We may use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities. We might permit third parties to gather information through our websites, including for behavioral advertising purposes. You can opt out of online behavioral advertising by going to www.aboutads.info/choices.
 
 Cookies. A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie. We use cookies to monitor how our sites are used and to help personalize your online experience. For example, when you register on our sites, we may store a unique code in a cookie on your computer. The next time you come back to the site from that computer, our servers use the cookie to recognize you. We can then use the information you provided when you registered combined with your activities on our sites to provide you advertising and offers of interest. Most browsers automatically accept cookies. Your browser gives you the ability to delete or reject browser cookies. If you block cookies, certain features on our website may not work. We do not store any sensitive personal information about you in the cookie. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
 Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies' use of cookies.
 
-Web Beacons. Web beacons are small bits of code embedded in web pages or in emails. We may use web beacons to deliver or communicate with cookies, to count users who have visited a web page, and to understand usage patterns. We also may include web beacons in e-mails to learn if messages have been opened, acted on, or forwarded. 
+Web Beacons. Web beacons are small bits of code embedded in web pages or in emails. We may use web beacons to deliver or communicate with cookies, to count users who have visited a web page, and to understand usage patterns. We also may include web beacons in e-mails to learn if messages have been opened, acted on, or forwarded.
 
 Other Technologies. Examples of other technologies we may use to provide better service to you include:
 
@@ -155,7 +155,7 @@ For example, we may rely on a service provider to:
 
 In addition we may also rely on a service provider to:
 
-  * Combine personal information about you that Michaels has collected with personal information about you that our business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not have direct access to any information we share about you with the service provider, and only the service provider will be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. . If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or by logging in to your account on Michaels.com, midesign.michaels.com/invitations, or midesign.michaels.com/digitalphoto and changing your communication settings. 
+  * Combine personal information about you that Michaels has collected with personal information about you that our business partner has collected so we can jointly send tailored promotional communications to you. In such instances, our business partner will not have direct access to any information we share about you with the service provider, and only the service provider will be allowed to use the combined set of information to send you joint communications that we hope will be of interest to you. . If you prefer not to receive these joint communications, you can always opt out by following the instructions provided in any such communication or by logging in to your account on Michaels.com, midesign.michaels.com/invitations, or midesign.michaels.com/digitalphoto and changing your communication settings.
   * Perform other services that we request.
 
 
@@ -233,21 +233,18 @@ For purposes of this paragraph, “Michaels” means Michaels stores and the sit
 Our Michaels affiliates who may have received your information are as follows:
 
 Aaron Brothers, Inc  
-1221 South Beltline Road, Suite 500  
-Coppell, TX 75019
+8001 Ridgepoint Drive  
+Irving, TX 75063
 
 Artistree, Inc.  
-850 North Lake Drive, Suite 500  
-Coppell, TX 75019
+2475 Esters Blvd, Suite 100  
+DFW Airport, TX 75261
+
+Hancock Fabrics  
+8000 Bent Branch Drive  
+Irving, TX 75063
 
 This same California law permits Michaels to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. Michaels designated email address for such requests is [CAPrivacyRights@michaels.com](mailto:CAPrivacyRights@michaels.com). You may also request this information by writing to: Legal Department, Michaels Stores, Inc., 8000 Bent Branch Drive, Irving, Texas 75063. Additionally, you may request that Michaels not share your personal information with third parties for their direct marketing use by following the How to Opt-In and Opt-Out procedures outlined above.
-
-NEVADA  
-For Nevada residents: We do not share your Customer Information with nonaffiliated third parties for purposes of their offering products and services to you. You do not need to take any action to limit this kind of information sharing. Nevada law requires that we provide you with the following contact information if you desire for Michaels to include you in our internal do not call registry:
-
-Michaels Stores, Inc Attn: Legal Dept 8000 Bent Branch Drive Irving, Texas 75063 
-
-Bureau of Consumer Protection Office of the Nevada Attorney General 555 E. Washington Street, Suite 3900 Las Vegas, Nevada 89101 Phone: (702) 486-3132 Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us)
 
 VERMONT  
 Vermont law places additional limits on sharing information about Vermont residents. As long as a user remains a resident of Vermont, we will not share information we collect about Vermont residents to companies outside of Michaels or to Michaels affiliates, except:
@@ -304,4 +301,4 @@ Telus, Rogers, Bell Mobility, Sasktel, Fido (Microcell), MTS Telebec, NorthernTe
 
 This site is owned and operated by Michaels Stores, Inc. located at 8000 Bent Branch Drive, Irving, Texas 75063.
 
-Last Updated: February 2016
+Last Updated: September 2016
