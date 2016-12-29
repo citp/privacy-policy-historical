@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virgin.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617204056id_/https%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgin.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054848id_/https%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin
+
+## Last updated on: September 14th, 2016
 
 Here at Virgin.com Limited ("Virgin.com", "we" or "us"), we take your privacy seriously. We're committed to protecting the privacy of any personal information you give us. We will comply with the UK's Data Protection Act 1998 and related UK legislation. We are registered on the public register of data controllers maintained by the Information Commissioner in the UK.
 
@@ -64,7 +66,7 @@ We collect information on your likes that are included on your Facebook page to 
 
 ## What information do we collect if you sign up for our newsletter?
 
-If you want to sign up to receive our newsletter we will collect the following personal information from you: your email address, name, date of birth and what you are interested in hearing more about. 
+If you want to sign up to receive our newsletter we will collect the following personal information from you: your email address, name, date of birth and what you are interested in hearing more about.
 
 ## Will we use your information for marketing?
 
@@ -135,6 +137,44 @@ Protecting the online privacy of children is especially important. If you are un
 
 Our site contains links to other websites. Obviously, we don't have any control over them and take no responsibility for any information you give them. Other sites have different privacy and security policies, which we advise you to read.
 
+## Virgin Disruptors 2016 Privacy Policy
+
+Virgin Disruptors is committed to providing attendees of the event with an experience that respects their privacy, for example including our use of social media. The purpose of this statement is to explain to you how we may use your personal information in connection with Virgin Disruptors. If you :
+
+Register your interest in Virgin Disruptors and its content  
+purchase a ticket to a Virgin Disruptors event;  
+Use the event app via bizzabo.com; or  
+Attend the event
+
+and/or by using the Virgin.com website www.virgin.com (“website”) generally, you agree to Virgin.com collecting information about you (as described in this policy) and using such information as described in this policy.
+
+What information do we collect?
+
+We collect the following from you:
+
+Web usage information (e.g. IP address)  to develop and improve the website;  
+Name, address, email and telephone number;  
+Other data including; click through information, time on page, access point, from time to time, to help us provide you with improved services;
+
+Please note that by attending the event, you may also be filmed or photographed and included in footage or photographs that are then streamed and or included on the Virgin.com site, Virgin.Com Newsletter, Video’s hosted on YouTube, Virgin social channels and/or throughout other collateral.
+
+By attending the event, you consent to Virgin.Com Ltd making photographic, video and audio recordings at the Virgin Disruptors event which may include the participant, and grants Virgin.Com Ltd the exclusive right to use such recordings for promoting Events in Virgin.Com Ltd print and digital media, including social media, perpetually and worldwide, by way of reproducing, disseminating and making publicly available such recordings. The participant may revoke this consent at any time for the future by contacting Virgin,com directly on disruptors@virgin.com.
+
+How will we use the information you collect?
+
+We use information to help us better understand your requirements and likes and dislikes. The main uses of the data are:
+
+Receive information about the Virgin Disruptors event once a ticket is purchased;  
+To enable us to review, develop and improve the products, services, and information we show you online and at the Virgin Disruptors event;  
+To occasionally carry out promotions and/or market research;  
+To send you details of products and services that we think will be of interest to you. If you do not wish to receive such information, please ensure you complete the relevant box provided when contacting us via email from the web site or click on the 'unsubscribe' link contained within such emails received from us;  
+To allow you to participate in interactive features of our website, when you choose to do so;  
+To keep you up to date with Virgin Disruptors.
+
+The data that we collect from you may be transferred to, and stored at, a destination outside of the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. By buying a ticket, attending the event or using the Virgin.com site, you agree to this transfer, storing or processing. Virgin.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+If you to participate in a Competition held at the Virgin Disruptors event, you agree to the Competition Terms and Conditions which will be disclosed when signing up to the competition. 
+
 ## How you can access your information
 
 You can request, at any time, access to the personal information we hold about you. You can write to us at the following address requesting access to your personal information.
@@ -154,5 +194,3 @@ Sometimes you may be asked to provide proof of identity before we show you your 
 ## Talk to us
 
 If you have any queries, comments or complaints regarding this privacy policy, just get in touch. You can contact us through the Contact Us section of this site or write to us at the address set out above.
-
-This policy was last updated on 10 July 2014.
