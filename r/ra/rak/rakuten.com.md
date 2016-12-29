@@ -1,44 +1,8 @@
-> *The following text is extracted and transformed from the rakuten.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005114id_/http%3A//www.rakuten.com/loc/privacy-policy/79085.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakuten.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063451id_/http%3A//www.rakuten.com/loc/privacy-policy/79085.html) for the most accurate reproduction.*
 
-# PrivacyPolicy - Rakuten.com
+# Privacy Policy - Rakuten.com
 
-Privacy Policy  
----  
-  
-At Rakuten.com, your privacy is a top priority. Please read our privacy policy details.  
-  
-Overview  
-We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This Policy may change from time to time, so please check back periodically. 
-
-To ensure the highest quality purchasing experience for you, we have relationships with our affiliated companies, including without limitation, BuyServices Inc. ("BuyServices"), Rakuten Card USA, Inc., and Rakuten LinkShare Corporation to operate certain portions of our site and provide site related and other services. Any references to "we" or to "us" includes and refers to each of these affiliated companies and to Buy.com Inc., d/b/a Rakuten.com. **_All information collected from you will be shared with Rakuten USA, Inc. and its affiliates._**
-
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information that we collect from you through the website “http://www.rakuten.com” and through “Rakuten.com mobile app.” (collectively, “Rakuten.com”). For some services, your personal information may be collected and transferred by us to a service provider that you have selected, or you may visit other merchants through links on our site that may collect and use your personal information. In those cases the privacy policy of that third-party service provider or that merchant will govern how your information is handled. We encourage you to ask questions and to be very cautious before you disclose your personal information to others. 
-
-This Privacy Policy will explain the following regarding use of our site: 
-
-  1. What information does Rakuten.com collect from you?
-  2. Where do we collect information from you and how do we use it?
-  3. Who is collecting your information?
-  4. With whom do we share your information?
-  5. How can you update or correct your Personally Identifiable Information?
-  6. What are your choices regarding limitations on the collection, use, and distribution of your information?
-  7. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
-  8. What about children's privacy?
-  9. What about “Do not track” signals?
-  10. What about Rakuten.com's use of third-party use of "cookies" and "action tags?"
-  11. Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com?
-  12. How do I contact Rakuten.com about privacy questions or concerns?
-  13. How can this Privacy Policy be changed?
-  14. Global ID Account
-
-
-
-* * *
-
-  
-
-
-  1. What information does Rakuten.com collect from you?    
+* What information does Rakuten.com collect from you?    
 In order to better provide you with numerous products and services, Rakuten.com collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
 
 _Personally Identifiable Information_   
@@ -49,7 +13,7 @@ Non-Personally Identifiable Information refers to information that does not by i
 
 On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent. 
 
-  2. Where do we collect information from you and how do we use it?    
+* Where do we collect information from you and how do we use it?    
 Our primary goal in collecting personal information is to provide Rakuten.com's visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems. 
 
 Demographic data also may be collected at our site from third party advertising servers, content servers, or web site analysis agents who provide us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the Rakuten.com visitors on an aggregate basis to determine customers' preferences. Rakuten.com also does research on our visitors' demographics, interests, and pages that they viewed, based upon the information provided that they have provided to us during ordering, a promotion, from our server log files, from our web site analysis agents, or from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services. We receive reports from third party ad servers, content servers, or web site analysis agents that tell us how many ads were presented and clicked upon or what content was served or viewed. 
@@ -117,7 +81,7 @@ We may use and allow others to use action tags or web beacons in the operation o
 _Marketplace_   
 As a buyer on the Rakuten.com Marketplace, we collect Personally Identifiable Information that is reasonably necessary for sellers to ship the products to you and to communicate with you regarding purchases and any issues that may arise in connection with your purchase. This Personally Identifiable Information includes your "ship to" information and your email address. As a seller on the Rakuten.com Marketplace, we collect Personally Identifiable Information that is reasonably necessary for buyers to communicate with you regarding the purchase and shipment of goods and services purchased from you and any issues that may arise in connection with their purchase. This Personally Identifiable Information includes the seller information provided during your marketplace registration and your email address. 
 
-  3. Who is collecting your information?
+* Who is collecting your information?
 
 _Ad Servers and Content Servers_   
 We may use third party ad servers or content servers to serve ads, product information, or other information both on and off our site. Those third parties may use "action tags" or web beacons throughout the site to count the number of visitors who click on a banner ad or other information and to track the number of customers who continue on to make a purchase. They may also place their own "cookie" on your computer to help those ads to run, analyze site usage and to provide you with personalized on-line advertisements. With respect to personalized on-line ad serving, our third party ad server may collect your first name and/or a product group/category (chosen by Rakuten.com based on your personal preferences and/or prior purchase history e.g., electronics, books, dvds), which are used to serve you the most relevant personalized on-line ad. Except as set in the following sentence, we do not provide them with any of your Personally Identifiable Information. For more information about the information they collect, please see the section "Use of Cookies and Action Tags" below. To learn more about the information practices of the third party ad serving company used to serve ads on our site, [Click here](http://www.247realmedia.com/privacy.html). To learn more about the information practices of the third party ad serving company used to serve you personalized ads, [Click here](http://www.owneriq.com/privacy-policy.php). To opt-out of a third party targeted ad network program, [Click here](http://www.networkadvertising.org/managing/opt_out.asp) and [Click here](http://privacy.microsoft.com/en-us/fullnotice.mspx#EIG)
@@ -154,7 +118,7 @@ Please be aware that our site may contain links to other sites on the Internet t
 _Marketplace_   
 As a buyer on the Rakuten.com Marketplace, sellers collect Personally Identifiable Information that is reasonably necessary for sellers to ship the products to you, to communicate with you regarding purchases and to communicate with you regarding any issues that may arise in connection with your purchase. This information includes your "ship to" information and your email address. As a seller on the Rakuten.com Marketplace, buyers collect Personally Identifiable Information that is reasonably necessary for buyers to communicate with you regarding the purchase and shipment of goods and services purchased from you and any issues that may arise in connection with their purchase. This information includes your seller information provided during your marketplace registration and your email address. In addition, as a seller on the Rakuten.com Marketplace, all visitors and potential buyers on the Site will be able to see and collect your basic "seller information", seller rating, buyer feedback of you and your seller email address. Our marketplace agreements and policies contain restrictions on a buyer's and seller's collection, use and disclosure of personal information obtained in connection with use of the marketplace. However, Rakuten.com cannot control any such collection, use and/or disclosure by buyers or sellers, and shall have no liability for any act or omission by a buyer or seller with respect to such information. 
 
-  4. With whom do we share your information?
+* With whom do we share your information?
 
 _Fulfillment_   
 The information collected by us is used for processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, provide customer service, provide you with credit and deliver promotional e-mails to you from Rakuten.com. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered. As mentioned previously, your Personally Identifiable Information is shared with our affiliate companies and our other third-party fulfillment partners and service providers, and with certain other merchants on our site. 
@@ -186,23 +150,23 @@ Rakuten.com and its affiliated companies (including without limitation BuyServic
 _Your California Privacy Rights_   
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at privacy@mail.rakuten.com. Please allow up to thirty (30) days for a response. 
 
-  5. How can you update or correct your Personally Identifiable Information?    
+* How can you update or correct your Personally Identifiable Information?    
 We believe you should have the ability to access and edit the personal information that you have provided to us. During the online ordering process you can review, change, or delete the information that you have submitted. You may change any of your personal information in your account online at any time. We encourage you to promptly update your information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past purchases, you cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. As a result, you should not expect that all of your Personally Identifiable Information will be completely removed from our backed-up databases. 
-  6. What are your choices regarding collection, use, and distribution of your information?    
+* What are your choices regarding collection, use, and distribution of your information?    
 You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to [optout@mail.rakuten.com](mailto:optout@mail.rakuten.com). After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, then you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. **Please Note: If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy. Any information about you that those third party service providers collect is not governed by this Policy and they will independently collect, use and share your Personally Identifiable Information in accordance with their own privacy policies. If you have questions about their information practices, then please read their privacy policies. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions. Opting out to "optout@Rakuten.com" as described above will not opt you out of promotional emails from third party service providers.**
 
 Note regarding Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so. 
 
-  7. What security precautions are in place to protect against the loss, misuse, or alteration of your information?    
+* What security precautions are in place to protect against the loss, misuse, or alteration of your information?    
 In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
 
 Within Rakuten.com, your information is kept on password protected, limited access servers. Wherever possible and applicable, Rakuten.com servers reside behind a corporate firewall that maintains controls on access to the system from both our internal network and the Internet. 
 
-  8. What about children's privacy?    
+* What about children's privacy?    
 You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a child under 13 years of age and believe that they have disclosed personally identifiable information to us, then please contact us at [privacy@mail.rakuten.com](mailto:privacy@mail.rakuten.com) so that we may delete the child's information. 
-  9. What about “Do Not Track” signals?    
+* What about “Do Not Track” signals?    
 Our website does not respond to “Do Not Track” signals. There is currently no universally recognized standard for “Do Not Track” signals. The World Wide Web Consortium is still working towards establishing a uniform “Do Not Track” web browser mechanism. Accordingly, at this time, our website does not respond to any “Do Not Track” signals. 
-  10. What about Rakuten.com and third-party use of "cookies" and "action tags?" 
+* What about Rakuten.com and third-party use of "cookies" and "action tags?" 
 
 _Rakuten.com Cookies:_ When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Rakuten.com. Our cookies store Non-personally Identifiable Information such as randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site. The cookies make your use of the site easier, allow you to retrieve an earlier shopping cart, make the site run more smoothly and help us to maintain a secure site. You will be unable to shop on our site without your browser set to accept cookies. 
 
@@ -220,12 +184,12 @@ _Action Tags, Web Beacons and other Data Collection Methods:_ An action tag or a
 
 _E-mail Distributor's Use of Action Tags:_ Our third-party e-mail distributor may also use action tags. They may, for example, keep track of when a promotional e-mail is opened and provide Rakuten.com with ongoing aggregated reports of how many customers have responded. We share with them Personally Identifiable Information such as web site usage information about visitors to our web site who have received a promotional e-mail or other targeted promotional campaign. They use the information for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party e-mail distributor note some of the pages you visit on our web site through the use of action tags. For more information about our third-party e-mail distributor's use of action tags and other data collection methods, please [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp?asp_object_1=&). 
 
-  11. Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com?    
+* Why should I carefully review privacy policies of any third party sites accessible from Rakuten.com?    
 Any information about you that those unaffiliated third parties collect is not governed by this Policy and they will independently collect, use and share your Personally Identifiable Information in accordance with their own privacy policies, data collection use and disclosure practices. If you have questions about their information practices, then please read their privacy policies. Rakuten.com is not responsible for the policies or practices of third parties. Please be aware that this site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those web sites linked to Rakuten.com are not covered by this Privacy Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies that place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. 
 
 On behalf of various sponsors, Rakuten.com provides sponsored links to third-party web sites. If you click on a sponsored link or banner ad, a "window" or "frame" containing a third-party's web site may appear in the foreground with the Rakuten.com web site in the background. Unless you are on Rakuten.com's web site, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site's privacy policy (if any). If you are unsure as to whose privacy policy applies, please contact us by sending a letter to the address below. 
 
-  12. How do I contact Rakuten.com about privacy questions or concerns?    
+* How do I contact Rakuten.com about privacy questions or concerns?    
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, then please contact Rakuten.com by sending a letter to: 
 
 > Attn: Privacy Compliance Officer  
@@ -235,9 +199,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 >  949-389-2000  
 > 
 
-  13. How can this Privacy Policy be changed?    
+* How can this Privacy Policy be changed?    
 This Privacy Policy was last changed on January 31, 2014. If Rakuten.com makes changes to any terms or conditions of the Privacy Policy, then the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
-  14. Global ID Account    
+* Global ID Account    
 Global ID Account enables you to access to other websites and services operated by Rakuten, Inc. and its group companies listed below. As of July 21, 2014, all new accounts created at Rakuten.com will be associated with the Global ID Account. 
 
 _What information will be shared?_   
@@ -271,8 +235,4 @@ _Data Centers_
 USA Data Center – Rakuten USA, Inc.   
 Japan Data Center – Rakuten, Inc.   
 European Data Center – Rakuten Europe Inc.   
-
-
-
-  
 
