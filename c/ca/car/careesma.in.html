@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careesma.in privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616063832id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careesma.in privacy policy that was archived on 2016-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229050405id_/http%3A//www.careesma.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><!--<![endif]--><head>
     
@@ -14,7 +14,7 @@
 <title>Careesma.in - Finding a job has never been so easy!</title>
 
 
-    <meta property="og:image" content="http://static.careesma.in/static/v02071aa07dbb/in/en/img/logos/header.png">
+    <meta property="og:image" content="http://static.careesma.in/static/v22105acaa43b/in/en/img/logos/header.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:site_name" content="Careesma.in">
     <meta property="fb:app_id" content="115195838637335">
@@ -33,10 +33,10 @@
     
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="shortcut icon" href="//static.careesma.in/static/v02071aa07dbb/in/en/img/favicon.ico">
+    <link rel="shortcut icon" href="//static.careesma.in/static/v22105acaa43b/in/en/img/favicon.ico">
     <link rel="search" type="application/opensearchdescription+xml" title="Careesma" href="/open-search">
     <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss">
-
+    
     
     
     <meta name="msvalidate.01" content="7CC150606B8534E8FF4F819567503266">
@@ -46,12 +46,12 @@
 
     
 
-    <link rel="stylesheet" href="//static.careesma.in/static/v02071aa07dbb/in/en/css/54e0cd013574.css" type="text/css" media="screen"><link rel="stylesheet" href="//static.careesma.in/static/v02071aa07dbb/in/en/css/18a3c61a0c92.css" type="text/css" media="print">
+    <link rel="stylesheet" href="//static.careesma.in/static/v22105acaa43b/in/en/css/294b2cd584a0.css" type="text/css" media="screen"><link rel="stylesheet" href="//static.careesma.in/static/v22105acaa43b/in/en/css/90b5e8d06bd7.css" type="text/css" media="print">
     
 
 
     
-    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//static.careesma.in/static/v02071aa07dbb/in/en/js/f8eb4b810c31.js"></script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZSFT5"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script><script type="text/javascript" src="//static.careesma.in/static/v22105acaa43b/in/en/js/a62b3b696aed.js"></script>
 
     <script type="text/javascript">
     jQuery.extend(jQuery.validator.messages, {
@@ -76,7 +76,7 @@
 
         // When focusing on a modal input on mobile hide the search and nav Menu
 
-        $('.touch #alertIdentifier').focus(function() {
+        $('.touchevents #alertIdentifier').focus(function() {
             $('.l-nav-container').hide();
             $('.header-search-wrapper').hide();
         });
@@ -87,14 +87,94 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#no-js-menu').hide();
-            $('#no-js-search').hide();
+            //$('#no-js-search').hide();
 
             // Needs to be executed always before form validation
             if (!Modernizr.input.placeholder){
                 $('input[placeholder], textarea[placeholder]').placeholder();
             }
         });
+
+        $(document).ready(function() {
+            if (Modernizr.mq('only screen and (min-width: 35em)')) {
+                jQuery('.header-search-wrapper').addClass('is-open');
+            } else {
+                jQuery('.header-search-wrapper').addClass('is-closed');
+            };
+            jQuery('button.btn-1st').click(function(event) {
+                if (jQuery('.header-search-wrapper').hasClass('is-closed')) {
+                    event.preventDefault();
+                    jQuery('.header-search-wrapper').removeClass('mobile-btn-only');
+                    jQuery('.header-search-wrapper').removeClass('is-closed').addClass('is-open');            
+                } else {
+                    console.log('click');     
+                }
+            });
+        });
+        
+
     </script>
+
+    <script type="text/javascript">
+        
+        function is_touch_device() {
+         return (('ontouchstart' in window)
+              || (navigator.maxTouchPoints > 0)
+              || (navigator.msMaxTouchPoints > 0));
+         //navigator.msMaxTouchPoints for microsoft IE backwards compatibility
+        }
+
+        var supportsTouch = is_touch_device();
+
+        if (supportsTouch) {
+            document.addEventListener("DOMContentLoaded", function(event) {
+                var fixedHeader = document.querySelector("header");
+                var headroom  = new Headroom(fixedHeader, {
+                    offset : 0,
+                    tolerance : 0,
+                    classes: {
+                      initial: "animated",
+                      pinned: "slideDown",
+                      unpinned: "slideUp"
+                    },
+                    onPin : function() {
+                        var d = document.getElementById("doc-content");
+                        d.className = "wrapper-parallax pinned-header";
+                        var t = document.getElementById("searchbox-finder-bar");
+                        if (t) {t.className = "sub-header-wrapper searchbox-finder animated slideDown";}
+                        var j = document.getElementById("job-head");
+                        if (j) {j.className = "pos-head head-block animated slideDownTop";}
+                    },
+                    onUnpin : function() {
+                        var d = document.getElementById("doc-content");
+                        d.className = "wrapper-parallax unpinned-header";
+                        var t = document.getElementById("searchbox-finder-bar");
+                        if (t) {t.className = "sub-header-wrapper searchbox-finder animated slideUp";}
+                        var j = document.getElementById("job-head");
+                        if (j) {j.className = "pos-head head-block animated slideUpTop";}
+                    },
+                });
+                headroom.init();
+            });
+        }
+       
+    </script>
+
+    
+    
+        <script>
+        WebFontConfig = {
+            google: {families: ['Lato:300,400,700']}
+        };
+
+        (function(d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js';
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+        </script>
+    
+
     
 
     
@@ -138,35 +218,58 @@ $(document).ready(function() {
     
 
     
-        <script src="//cdn.optimizely.com/js/3054990321.js"></script>
-    
-    
-    
 
   </head>
 
   <body class="len cin ">
+    <script>
+dataLayer = [{
 
+}];
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZSFT5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NZSFT5');</script>
+<!-- End Google Tag Manager -->
     
 
     
 
-    <div class="wrapper-parallax">
-        <header>
+    
+
+    <div id="doc-content" class="wrapper-parallax">
+        <header class="headroom">
             <div class="l-content-wrapper header-wrapper">
                 <div class="header-wrapper-tablet">
                     <div class="logo-wrapper">
                         
                             <a class="logo-careesma" href="/" title="jobs, job postings - Search jobs in India - Careesma">
-                              <img src="//static.careesma.in/static/v02071aa07dbb/in/en/new/img/logos/header.png" alt="jobs, job postings - Search jobs in India - Careesma">
+                              <img src="//static.careesma.in/static/v22105acaa43b/in/en/new/img/logos/header.png" alt="jobs, job postings - Search jobs in India - Careesma">
                             </a>
                         
+                    </div>
+                    <div class="o-grid__item box-shadow-menu mobile-nav-item">
+                        <button class="c-hamburger c-hamburger--htx">
+                          <span>Menu</span>
+                        </button>
                     </div>
                     
                         
 
 
-<div class="header-search-wrapper v2">
+<div class="header-search-wrapper mobile-btn-only v2 mobile-nav-item">
+    <span class="o-grid__item mobile-only is-hidden">
+        <button id="close-search-bar" class="static-close-icon">
+          <span>Close</span>
+        </button>
+    </span>
     <form method="get" action="/jobs" id="search">
         <fieldset>
             
@@ -184,8 +287,8 @@ $(document).ready(function() {
 </div>
 
                     
-                    <a href="#no-js-search" class="icon-fa icon-search box-shadow-search is-hidden">Search</a>
-                    <a href="#no-js-menu-on-footer" class="fa box-shadow-menu">Menu</a>
+                    <!--<a href="#no-js-search" class="icon-fa icon-search box-shadow-search is-hidden">Search</a>-->
+                    
                 </div>
 
                 
@@ -228,7 +331,7 @@ $(document).ready(function() {
     
 <div class="content-block-style col-box">
     <div class="privacy">
-                <h2 class="grey-heading">Privacy Policy</h2>
+                <h2>Privacy Policy</h2>
                 <p>
                     Careesma.in is firmly committed to protecting the privacy of users and has created this privacy policy in order to demonstrate our firm commitment to privacy. At Careesma, we take your privacy seriously. Please be assured that we will safeguard any information that you provide.
                 </p>
@@ -333,7 +436,7 @@ $(document).ready(function() {
             <div class="l-content-wrapper">
                 <div class="footer-coorp col-1-4 pull-left">
                     <div class="logo-wrapper">
-                        <a href="/" class="logo-link"><img src="//static.careesma.in/static/v02071aa07dbb/in/en/new/img/logos/header.png" alt="Careesma" class="grayscale"></a>
+                        <a href="/" class="logo-link"><img src="//static.careesma.in/static/v22105acaa43b/in/en/new/img/logos/header.png" alt="Careesma" class="grayscale"></a>
                     </div>
                     <div class="footer-claim">
                         
@@ -363,7 +466,7 @@ $(document).ready(function() {
                         <h6 class="recruiter">Recruiters</h6>
                         <ul class="footer-menu-list">
                             <li><a href="/company">Employer's Zone</a></li>
-                            <li><a href="/company#feature-anchor">Features</a></li>
+                            <li><a href="/company#features-block">Features</a></li>
                             <li><a href="/faq">FAQ</a></li>
                             <li><a href="/company/register">Sign up</a></li>
                             
@@ -375,9 +478,9 @@ $(document).ready(function() {
                         <ul id="footer-aboutus-menu" class="footer-menu-list">
                         
 <li><a href="/about-us" role="tablink" aria-controls="tab_item-0">About Us</a></li>
-<li><a href="/about-us#aboutUsTabs1" role="tablink" aria-controls="tab_item-1">Partners</a></li>
-<li><a href="/about-us#aboutUsTabs2" role="tablink" aria-controls="tab_item-2">Contact Us</a></li>
-<li class="non-mobile"><a href="/about-us#aboutUsTabs3" role="tablink" aria-controls="tab_item-3">Widgets</a></li>
+<li><a href="/about-us#aboutUsTabs2" role="tablink" aria-controls="tab_item-1">Partners</a></li>
+<li><a href="/about-us#aboutUsTabs3" role="tablink" aria-controls="tab_item-2">Contact Us</a></li>
+<li class="non-mobile"><a href="/about-us#aboutUsTabs4" role="tablink" aria-controls="tab_item-3">Widgets</a></li>
 
                             <li><a href="/sitemap">Sitemap</a></li>
                             
@@ -410,9 +513,8 @@ $(document).ready(function() {
                 
     <ul class="corp-links clear-me">
         <li><span><a href="http://www.careesma.com" title="Careesma.com">careesma.com</a>  in other countries:</span></li>
-        <li><a href="http://www.infojobs.it" title="InfoJobs.it">Italy</a></li>
         <li><a href="http://www.infopraca.pl" title="infoPraca.pl">Poland</a></li>
-        <li><a href="http://www.careesma.at" title="Careesma.at">Austria</a></li>
+        <li><a href="http://www.careesmajobs.at" title="Careesma.at">Austria</a></li>
     </ul>
 
     
@@ -516,7 +618,6 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 
   
   
-  
 <script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "10463202" });
@@ -556,14 +657,13 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 
     
 
-  
   <script>
     $(function() {
         
 load_autocomplete = function () {
     var items = [];
     $.ajax({
-        url: "//static.careesma.in/static/v02071aa07dbb/in/en/js/cities.js",
+        url: "//static.careesma.in/static/v22105acaa43b/in/en/js/cities.js",
         cache: true,
         dataType: 'jsonp',
         jsonp: false,
@@ -600,7 +700,7 @@ $(window).load(load_autocomplete);
 load_autocomplete = function () {
     var items = [];
     $.ajax({
-        url: "//static.careesma.in/static/v02071aa07dbb/in/en/js/keywords.js",
+        url: "//static.careesma.in/static/v22105acaa43b/in/en/js/keywords.js",
         cache: true,
         dataType: 'jsonp',
         jsonp: false,
@@ -661,6 +761,31 @@ $(window).load(load_autocomplete);
         
     });
 
+    (function() {
+
+    "use strict";
+
+    var toggles = document.querySelectorAll(".c-hamburger");
+
+    for (var i = toggles.length - 1; i >= 0; i--) {
+      var toggle = toggles[i];
+      toggleHandler(toggle);
+    };
+
+    function toggleHandler(toggle) {
+      toggle.addEventListener( "click", function(e) {
+        e.preventDefault();
+        (this.classList.contains("is-active") === true) ? this.classList.remove("is-active") : this.classList.add("is-active");
+      });
+    }
+
+    jQuery("#close-search-bar").click(function() {
+        jQuery(".header-search-wrapper").addClass("mobile-btn-only");
+        jQuery(".header-search-wrapper").addClass("is-closed");
+        jQuery(".header-search-wrapper").removeClass("is-open");
+    });
+
+    })();
   </script>
   
   
