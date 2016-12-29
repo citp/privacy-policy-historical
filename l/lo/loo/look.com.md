@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the look.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324214312id_/https%3A//www.look.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052500id_/https%3A//www.diapers.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Legal: Look.com
+# Legal: Diapers.com
 
 ## Last Updated: July 17, 2014
 
