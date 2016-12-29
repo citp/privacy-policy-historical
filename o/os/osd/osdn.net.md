@@ -1,63 +1,53 @@
-> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522075312id_/http%3A//osdn.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osdn.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229083430id_/https%3A//osdn.net/docs/Privacy_Policy) for the most accurate reproduction.*
 
-# OSTG | Open Source Technology Group
+# Privacy Policy - OSDN Docs (English) Wiki - OSDN Docs (English) - OSDN
 
-| 
+Original statement is <http://osdn.co.jp/privacy.shtml> (Japanese). 
 
-OSTG, Inc., comprised of the Internet sites ostg.com, slashdot.org, sourceforge.net, freshmeat.net, thinkgeek.com, itmanagersjournal.com, slashcode.com, linux.com, animationfactory.com, gifworks.com, mediabuilder.com, postcardmaker.com, 3dtextmaker.com, NewsForge.com, geocrawler.com and devchannel.org (the "OSTG Sites"), is committed to protecting the privacy of users of the OSTG Sites. At OSTG, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the OSTG Sites, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+At OSDN, our goal is to let users of OSDN's web sites have as much control right as possible regarding registration information including personal information. Through the publication of this statement, we explain how personal information is used when users use OSDN's web sites and related services. 
 
-Information Gathered through the OSTG Sites
+## Summary
 
-OSTG will track the domains from which people visit the OSTG Sites in order to gain aggregate data that may be analyzed for trends and statistics. Subject to the provisions of this Privacy Statement, OSTG may use accumulated aggregate data for several purposes including, but not limited to, marketing analysis, evaluation of OSTG's services, and business planning. 
+At OSDN, IP addresses, domain information, and browser information of the users are recorded for the purpose of creating better contents. On OSDN's web sites, the accumulated information may be used for the purpose of market analysis and service evaluation and planning, within the specified realm which will be defined here. OSDN's web sites include web sites administered by OSDN, links to the web sites administered by affiliated or non affiliated third parties. The privacy policies and all regulations sated by these linked web sites are no concern of ours, and we accept no liability. OSDN uses personal information for sending various notifications, sending explicitly requested e-mails, and enforcing any provision in TOS. User's name, email address, and all other information which the user gave permission for publication are open to general publication on all OSDN web sites as long as the user explicitly prohibits the publication of the information. Provided that a user voluntarily released the registration information which includes his/her personal information, or a user posted his/her personal information on a content which is being released under open source related license, the personal information will become open for publication in accordance with the license. OSDN may conduct various surveys for the purpose of marketing and business project. If the information collected by the survey is going to be released, we will explicitly express that when conducting the survey, and only aggregated results will be released without including information that may lead to identifying an individual who has cooperated in the survey. Provided that a survey requests respondents for comments, if the possibility of publication is specified at the time the survey is conducted, we have the right to release all comments in a manner that they don't contain information that leads to identifying an individual. 
 
-Currently, OSTG uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the OSTG Sites (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on the OSTG Sites.  When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum, or a publicly-released software application. 
+## To Monitor How Users are Traveling Between the Pages
 
-OSTG may conduct surveys or other studies of its user base and usage for marketing and planning purposes. Participation in such surveys is at the user's option, but OSTG does reserve the right to conduct mandatory surveys in the future. With respect to information collected from such surveys or studies, and in the event that responses are to be publicly disclosed, users will be notified at the time they take the survey and OSTG will disclose only aggregate information regarding its users and not personal information identifying any specific individual. Notwithstanding the foregoing, in cases where surveys allow users to submit written comments, and where OSTG advises users of the possibility of such disclosure at the time they take the survey, OSTG reserves the right to disclose text information provided by any user through such a survey, provided that no personal information identifying that user is disclosed.  Circumstances under which OSTG would publicly disclose aggregate information include, but are not limited to, sharing survey results with the site population, providing data to OSTG advertisers on user preferences and/or demographics, business planning, and publicizing overall usage data in press communications. 
+On OSDN's web sites, there are pages that use technology called web beacon (also called clear GIF). Web beacon is a technology to recognize how many times a certain page has been accessed. On OSDN's web sites, cookies are being used for the purpose of providing users the information they need. Cookie is a data that is sent from a website the user visited to a user's web browser, and the data is stored by the browser. If cookies are invalidated, there's a possibility that a part of or the entire OSDN's web sites may not function properly. Also, cookies may be used by the ads posted on the web sites. For details on the policy regarding each advertisement distributor and the invalidation of cookies, read Advertisement Distributor Policy and Control. 
 
-Cookies
+## E-mails
 
-OSTG employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory.  OSTG uses cookies to better serve users of our OSTG Sites; any cookies sent by OSTG will be marked so that they will be accessible only by OSTG Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. 
+Users can request to receive all kinds of notifications, news, and other information by e-mails. Also, one can stop the e-mail distribution that is addressed to oneself at any time. All e-mails that are sent on response to the user's request include a URL which gives the instruction on how to stop the distribution. 
 
-Other Notification
+### Contacting a User
 
-In order to implement or enforce the Terms, OSTG may use user-provided e-mail addresses to contact users on an individual basis.  At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will OSTG disclose individual user personal information to unrelated third parties that is not publicly available. 
+OSDN may use user's personal information to contact an individual in order to promote smooth management. 
 
-Links with other sites 
+### Profile
 
-The OSTG Sites contain links to other websites, whether owned or controlled by OSTG affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of the OSTG Sites. OSTG is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit. 
+On OSDN's web sites, user's personal information could get published on the user's profile page. Provided that a profile page has the feature to publish personal information, it is user's choice to either opt in or out on the entering or displaying of the information, and user can change the status at any time. 
 
-Choice 
+### E-mail Address
 
-"Opt-in" Emails
+As part of OSDN services, a user could send e-mails to other users or mailing list through the use of OSDN. In cases like that, the e-mails that are sent will include the user's valid e-mail address. Due to the user's settings or how it's been sent, the e-mail could include the user's real name. If the settings are configured to not include personal information, the user can not use this e-mail sending service. If a user voluntarily enters information regarding user registration or other personal information as part of a content that is going to be released under open source license, that piece of personal information will automatically be open to the public accordingly to the license. For example, this is applicable to situations where a user submits a comment that includes personal information to a forum that is open to the public, or a user includes personal information in a software that will be open to the public. Unless a user explicitly gives permission to do so, or OSDN has to provide information to abide the law, OSDN will not give user's personal information to an unrelated third party. 
 
-Users may "opt-in" to receive site notifications, newsletters, or other information via email. Users may remove themselves from such services at their discretion. Any email sent to an "opt-in" list will include directions for how a user may remove himself or herself from the list, or a URL where the user may find such directions. 
+### Questionnaire Survey and Collected Result
 
-Profile Display
+OSDN may conduct questionnaire surveys and various researches regarding users for the purpose of marketing and business planning. Participation is based on the user's free will. OSDN will not conduct a survey in a manner that forces users to participate against their will. If collected information ever goes open to the public, all participants will be notified, and the results will be released in a manner that no piece of information that leads to identifying a participant will be included. The main purpose of releasing the collected results is to share the information with the users, and to provide OSDN's ad clients the information regarding user's trends and preferences, but not necessarily limited to these. If a survey gives users the opportunity to leave comment, and at the same time the users are informed that their comments could be open to the public, OSDN will have the right to publish those comments entered by the participants in a manner that will not include information that may lead to identifying a participant. 
 
-In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses.  Users may also enlist this technique when posing comments on certain OSTG Sites.  In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
+## Access to Personal Information
 
-Email Display
+User can view his/her own personal information on his/her own profile page. Also, user can edit or update one's personal information through the use of OSDN services. If this update feature can not be provided, OSDN will do its best to comply to the user's will to edit his/her personal information. 
 
-In some cases, users may have the opportunity to use an OSTG Site to send electronic mail to another user or email list. In such cases, a user's valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt-out of such a display, but may choose to refrain from using such OSTG Site to transmit an email message. 
+## Security
 
-Access 
+For the purpose of maintaining the security of the web sites, we take necessary measures such as encryption and other general methods and procedures for confidentiality. The only people who can access the user's personal information and unreleased information is limited to web site admins and individuals that need access to the information. 
 
-On certain OSTG Sites, users can view their data on their personal profile page. When technically feasible, users are permitted to update their personal information directly through OSTG. When such updating service is not technically feasible, OSTG will make reasonable efforts to assist users in updating their personal information. 
+## Enforcement
 
-Security 
+In case of web site security breaching, or if OSDN detects unreleased personal information being leaked to a third party by other external factor, OSDN will take measures that OSDN thinks appropriate in that situation. That includes thorough internal investigation and reporting, and providing information and cooperation to the law enforcement. If personal information of users gets released in a manner that doesn't meet our privacy statement, we will notify those users of the extent of information mistakenly released, as quickly as possible to the best of our knowledge. 
 
-To secure site integrity, OSTG employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. 
+## Update of This Document
 
-Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis. 
+When this document gets updated, we will publish the update date and the execution date on OSDN's web sites. If the core part of the documents is going to be changed, we will notify all users at least before 15 days. 
 
-Enforcement 
-
-In the event that OSTG becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, OSTG shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement. 
-
-If OSTG becomes aware that a user's personal information provided to OSTG has been disclosed in a manner not in accordance with this Privacy Statement, OSTG shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that OSTG knows this information. 
-
-No Guarantees For Factors Beyond OSTG's Control 
-
-**While this Privacy Statement expresses OSTG's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond OSTG's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, OSTG disclaims any warranties or representations relating to maintenance or nondisclosure of private information.**
-
-**Last modified:** 06/22/04  | 
+last update: 2010/5/21 
