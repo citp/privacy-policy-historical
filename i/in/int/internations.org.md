@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616122233id_/https%3A//www.internations.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229070242id_/https%3A//www.internations.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InterNations
 
@@ -16,7 +16,7 @@ This Privacy Policy supplements the General Terms and Conditions for using www.i
 
 This Privacy Policy is designed to help you better understand how InterNations collects and deals with your personal data and information. 
 
-If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the [contact form](https://web.archive.org/about/contact) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. 
+If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. 
 
 By registering to use the InterNationsWebsites, you consent to the practices described in the following Privacy Policy. 
 
@@ -117,7 +117,7 @@ The use of InterNationsServices, and any disputes arising from it, are subject t
 
 ### Part B: User’s Consent
 
-The User acknowledges the principles set forth in this privacy policy (Part A) and also consents to the processing of his/her personal data as described below. The User shall be entitled to revoke his/her consent at any time and with effect for the future. For such revocation please contact InterNations by using the [contact form](https://www.internations.org/about/contact) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. The User declares the following: 
+The User acknowledges the principles set forth in this privacy policy (Part A) and also consents to the processing of his/her personal data as described below. The User shall be entitled to revoke his/her consent at any time and with effect for the future. For such revocation please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. The User declares the following: 
 
   1. Single-Sign-On-Process 
 
