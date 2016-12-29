@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radprimer.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053413id_/http%3A//www.elsevier.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radprimer.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042729id_/http%3A//www.elsevier.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ We may share your personal information with:
 
   * Relevant agents, representatives, joint venturers, and entities for which we are acting as an agent, licensee or publisher, such as societies and sponsors;
   * Applicable suppliers and service providers, including editors, reviewers, credit card processors, customer support, email service providers, mailing houses and shipping agents, and IT service providers; and
-  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about/at-a-glance](https://web.archive.org/web/20160616053413id_/http%3A//www.elsevier.com/legal/?a=60530 "Elsevier at a glance")),
+  * All of our affiliates, trading names and divisions within the Elsevier group of companies worldwide (for a list, visit [http://www.elsevier.com/about](https://www.elsevier.com/about "About Elsevier")),
 
 
 
