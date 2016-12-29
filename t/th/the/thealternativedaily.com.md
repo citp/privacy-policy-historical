@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210429id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thealternativedaily.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229105428id_/http%3A//www.thealternativedaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Alternative Daily
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -80,10 +80,8 @@ This policy was last modified in June 2015.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-The Alternative Daily
-
-http://www.thealternativedaily.com
-
+The Alternative Daily  
+http://www.thealternativedaily.com  
 The Alternative Daily  
 4300 S US Highway 1  
 Suite 203-196  
