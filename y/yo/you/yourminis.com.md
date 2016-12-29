@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622115638id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourminis.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229072815id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
 
 # AOL Privacy
 
@@ -24,12 +24,12 @@ The information we collect and receive is used to provide our Services, to impro
 
 ### How to Contact Us
 
- **AOL Privacy**  
+**AOL Privacy**  
 22000 AOL Way  
 Dulles, VA 20166  
 privacyquestions@aol.com
 
-[](http://www.networkadvertising.org/managing/learn_more.asp)
+[](http://www.networkadvertising.org/understanding-digital-advertising)
 
 [](http://www.aboutads.info/)
 
