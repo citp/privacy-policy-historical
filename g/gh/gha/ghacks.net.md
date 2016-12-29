@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052332id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051131id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
@@ -7,7 +7,7 @@ Below is information regarding ghacks.net's commitment to protect the privacy of
 
 Internet user privacy is of paramount importance to Ghacks.net. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website's privacy policies, please contact us. We are committed to ensuring that every user's needs are addressed.
 
-**Collection of Personal Information**
+ **Collection of Personal Information**
 
 In the course of delivering this site to you, Ghacks.net does NOT collect any personally-identifiable information about you, such as your name, address, phone number or email address from users of this web site without your knowledge, and are taking measures to protect your privacy.
 
@@ -17,7 +17,7 @@ Ads used on this website can use cookies and/or web beacons to collect data in t
 
 If you have any questions or concerns regarding this matter, please feel free to [contact us](http://www.ghacks.net/contact/).
 
-**Third Party Advertising:**
+ **Third Party Advertising:**
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click the links below.
 
