@@ -1,105 +1,154 @@
-> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051615id_/http%3A//www.biography.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biography.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045852id_/http%3A//biography.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Biography.com
 
-Last updated:  February 4, 2014
+Welcome to Biography, a Website operated by Say Media, Inc. ( **“Say Media”** ) on behalf of its client A+E Television Networks, LLC ( **“A+E”** ). This privacy policy covers how Say Media collects and uses information on the Site.
 
-Welcome to Biography, a Website operated by Say Media, Inc. (“Say Media”) on behalf of its client A+E Television Networks, LLC (“A+E”).  This privacy policy covers how Say Media collects and uses information on the Site.
+Say Media, Inc. ( **“Say Media,” “we”** or **“us”** ) knows that you care how information about you is used and shared. This Privacy Policy (the **“Policy”** ) explains how information that directly identifies you ( **“personal information”** ) is collected, used and disclosed by Say Media in connection with our website at www.saymedia.com (the **“Site”** ) and at third party websites and mobile services powered by Say Media ( **“Network Websites”** ). This Policy also explains how Say Media collects and uses information received in connection with third party advertisements placed by Say Media on the Network Websites and on third party websites as part of the Say Media Ad Platform Online Program (the **“Program”** ) (the Network Websites and Program are collectively referred to as the **“Say Media Services”** ). The Policy also may describe some of our practices for information that we collect or obtain that does not directly identify you. While this information is not personal information under this Policy, we may choose to treat as personal information in our sole discretion. By visiting or providing information through the Site or Network Websites, you signify that you have read, understood and agree to the collection, storage, use and disclosure of your personal information as described in this Policy.
 
-In addition to the Site itself, Say Media uses an ad network called the Say Media Ad Platform Online Program to display advertisements on the Site (the “Program”).  Say Media is a member of TRUSTe's TRUSTed Data Program and the Say Media Program has been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your information.  To get a better understanding of the Program and how Say Media collects and uses information in connection with the Program, click [here](http://www.saymedia.com/fine-print).
+##  **1\. Information We Collect, and How We Collect It**
 
-Please note that this privacy policy only applies to information Say Media collects at the Site and not any websites, webpages, blogs, applications, widgets or other experiences operated by any third party including our affiliates, advertisers, providers and partners.
+We collect information and personal information in connection with your visits to and use of the Site and Network Websites. This collection includes information that you provide in connection with the Site and Network Websites, information we receive from third parties, and information that is collected automatically such as through the use of cookies and other technologies. We also collect information in connection with your visits to websites that use the Program, which is typically collected automatically such as through the use of cookies and other technologies.
 
-We know that some of the words and concepts used in this privacy policy may be difficult to understand. To help you, we’ve included a brief glossary of terms which can be accessed by clicking [here](https://web.archive.org/page/privacy-policy/glossary). 
+###  **Information That You Provide**
 
-This privacy policy does not apply to: (i) people employed by Say Media or to entities owned or controlled by Say Media; and (ii) any websites, webpages, blogs, applications, widgets or other experiences offered by our participating affiliates and advertisers.
+We collect information and personal information that you provide in connection with the Site and Network Websites. The categories of information we collect can include:
 
- **Collection and Use of Personally Identifiable Information**
+  *  **** **Registration information.** We collect personal information that you provide when you register on a Site or Network Website, such as for a subscription or membership. If you use a social media or other third party service account to register, this information may include your name, user ID, profile picture, and other profile information that the social media account or third party service shares with us. If you do not use a social media or other third party service account to register, and you register directly with the Site or Network Website, we may collect information such as your name, username, email address, password, and other information you provide.
+  *  **Paid subscriptions and memberships.** If you sign up for a paid subscription or membership, we and/or our service providers may collect your payment information.
+  *  **Mailing List Information.** We will collect your email address if you provide it through a Site or Network Website, such as to receive newsletters, updates, or promotions.
+  *  **Inquiries and Feedback.** If you contact us, we will collect the information that you provide us, such as your contact information and the contents of your communication with us.
 
-Say Media may collect personally identifiable information when you register for the Site or for the use of certain features and services, such as email updates.  
 
-Say Media does not share personally identifiable information we learn about you with others except as described in this policy. 
 
-Say Media does not share your personally identifiable information with unrelated third parties for their direct marketing purposes. Say Media may use your personally identifiable information where it is necessary to operate or improve the Site, to do something that you have asked us to do or tell you about Say Media products, services and marketing events that we think may be of interest.
+You generally are not able to provide personal information to us in connection with the Program, though some information may be automatically collected from you, including as described below in this Policy. Occasionally, ads we transmit in the Program may offer the ability to interact, including by playing a game or viewing a video. The ads may also give you the opportunity to provide the advertiser with information about yourself. This may be done directly by the advertiser, but in some instances if you choose to interact with an advertisement or provide an advertiser with information about yourself, Say Media may collect information on behalf of the advertiser. In that case, the advertiser's privacy policy (and not this Policy) applies to the data collected.
 
-To receive optional email messages such as email updates and marketing and promotional offers, you will be required to provide us with your email address.  By providing your email address, you may also be opting in to receive marketing and promotional emails from A+E , which such A+E emails would be governed by A+E’s privacy policy available [here](http://www.aenetworks.com/privacy).  You will be required to opt out separately if you don’t wish to receive e-mails from either Say Media or A+E.  Opting out during your registration on the Site does not opt you out from previous registrations with A+E.   In additional to these Say Media and A+E optional email messages, Say Media may contact you via any email address you provide us with transactional or relationship messages such as account status messages, notifications of changes in the terms of your account or the services provided.  These types of transactional or relationship email messages are not optional.
+###  **Information from Third Parties**
 
-If you access the Site using any social media platform, we are able to access certain personal information through those platforms as set out in your privacy settings on the platform.
+We also collect and receive information about you from third parties, including the following:
 
- **Collection and Use of Non-Personally Identifiable Information on this site.**
+  *  **Information we receive from social networking sites.** When you interact with the Site or Network Websites through social media websites and services like Facebook, such as when you login to the Site or Network Websites using your social media credentials, share content from the Site or Network Websites with your social media accounts, use plugins or widgets we may receive information from those websites and services. The information we receive may include your public profile information, profile picture, user name, user ID associated with your social media account, email address, and any other information you permit the social media website or service to share with us or third parties generally. The data we receive may depend upon your privacy settings with the social media website or service, though we do not control those settings or promise they will be effective. You should always review and customize your privacy settings with social media websites and services before linking or connecting them to our Site or the Network Websites.
+  *  **Information we receive from third parties.** We may receive information about you from third parties like Krux (www.krux.com) and other companies like ad networks, data brokers, and others that sell or license data about people. This information may include demographic data (age range, gender, etc.), interests (e.g. shopping categories or topics of interest), ZIP Code or other similar location level data, IP addresses or unique device identifiers, and other information that they make available. We may also collect information about you from public records or that is otherwise publicly available.
 
-When visiting the Site, Say Media or its providers collect non-personally identifiable information that allow us to better understand how visitors interact with the Site. Say Media also serves advertisements directly to you within the Site and may allow advertisers, third party advertising networks and third party advertising serving companies to serve advertisements directly to you within the Site. Say Media may share such non-personally identifiable information with its clients, co-branders and other partners to optimize performance and use it to assist us in delivering relevant advertisements to you when you visit the Site.  These third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests.
 
-Say Media implements certain technologies to enable us to collect such information. An explanation of those technologies is described below.
 
- _Cookies_. Say Media uses both session and persistent cookies on this Site. We use cookies to assist us in understanding how the Site is used and improving our site.
+###  **Information That Is Automatically Collected (Cookies and Other Technologies)**
 
-Our use of cookies on this Site is anonymous and does not allow us to gather personally identifiable information about you.
+We also automatically collect information about you and any computer or device you use to access the Site, Network Websites, or websites that use the Program. Some of the information we collect, and ways we collect it, on the Site, Network Websites, and websites that use the Program include:
 
-If you do not want us to maintain cookies while you are visiting this Site, you can configure your browser’s settings to limit the acceptance of or disable cookies. Please note that some aspects of the Site may not properly function or display if you limit or disable cookies.
+  *  **Cookies.** We may send one or more cookies — small text files containing a string of alphanumeric characters — to your computer or device that allows us to uniquely identify your browser, computer, or device. A cookie may also convey other information to us, such as your Internet Protocol ( **“IP”** ) address, unique device identifiers, your browser settings and specifications, and information about how you use the Site, Network Websites, or websites that use the Program (e.g., the pages you view, the links you click, how frequently you access it, and other actions you take on it). Cookies also allow us to track your usage of the Site, Network Websites, and websites that use the Program over time.
+  *  **Scripts.** We may use scripts—short segments of computer code included in a web page or other content that can be used to set and access a cookie on your computer and to record your activity on a website.
+  *  **Log Files.** We may record log file information which may include information such as your web request, IP address, browser type, unique device identifiers, information about your device, referring / exit pages and URLs, number of clicks and how you interact with links, domain names, landing pages, pages viewed, and other such information.
+  *  **Clear GIFs and Click-Stream Data.** We may employ clear GIFs (also known as web beacons or pixel tags) which may collect information about you, your computer or device such as your web request, IP address, unique device identifiers, browser type, information about your device, pages viewed, and information about cookies, all of which can show your usage patterns for the Site, Network Websites, and websites that use the Program. We also use clear GIFs in conjunction with cookies to collect click-stream data which allows us to understand how visitors move from page to page within websites.
+  *  **Mobile Device Information, Identifiers and Location Data.** When you use a mobile device, we may collect and store a unique identifier associated with your device (including, for example, a UDID, Unique ID for Advertisers ( **“IDFA”** ), Google Ad ID, or Windows Advertising ID), mobile carrier, device type, model and manufacturer, mobile device operating system brand and model, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. A unique identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by Say Media. A unique identifier may convey information to us about how you browse the Site, Network Websites, or websites that use the Program. A unique identifier may remain persistently on your device, and some features of the Say Media Services may not function properly if use or availability of unique identifiers or location data are impaired or disabled.
 
- _Web Beacons/Click-stream Data_. Say Media uses web beacons in conjunction with cookies to collect click-stream data that helps us better understand how visitors move from page to page within the Site. As with cookies, our use of web beacons is anonymous and does not allow us to gather personally identifiable information about you.
 
- _Passive Browser Information/Server Logs_. Say Media collects passive browser information through its web servers. We use the passive browser information and server logs to help us understand how many visitors come to the Site, where they may come from and ultimately to help us make decisions about how to organize the Site.
 
-You can learn more about advertising displayed on the Site as well as how you can control the use of your data for such advertising by clicking [here](http://saymedia.com/privacy-policy.php).
+When you visit third party sites that use the Program, those third parties or other third parties may automatically collect information about you and any computer or device you use to access such sites, and this Policy does not describe the information collection or use practices that occur on those sites (other than our practices with respect to the Program).
 
- **Information Sharing**
+##  **2\. Information Third Parties Collect**
 
-Say Media takes reasonable efforts to protect personally identifiable information and hold it in confidence. There are instances in which personally identifiable information and non-personally identifiable information may be shared with third parties. 
+When you visit the Site or Network Websites third parties may obtain information about you or your computer or device. These third parties may include:
 
- _Non-personally identifiable information_. In connection with this Site, we may share non-personally identifiable information with our family of companies or other trusted businesses or persons for purposes of processing non-personally identifiable information or providing other services on our behalf.
+  *  **Service Providers.** We may use service providers to help with the Site or Network Websites or any other lawful activity may do, including the other activities we describe under this Policy. This means service providers may collect, process, and store any of the information that we may collect under the Policy, and information collected in connection with the Site or Network Websites may be collected directly by our service providers. For example, we may use service providers to help us process payments, store information we collect, facilitate interaction with the Site or Network Websites such as in forums or comments, and receive and transmit emails and communications.
+  *  **Third Party Tracking and Online Advertising.** Third party ad networks, social media companies, and other third party services may collect information about you, your computer or device when you visit or use the Site and Network Websites. This information may be collected automatically, including through cookies, social media plug-ins, and other technologies. The information collected, and manner in which it is collected, may include the information and methods described in the “Information That Is Automatically Collected (Cookies and Other Technologies)” section above. These third parties may collect information about your use of the Site and Network Websites over time, and they may combine it with other information that they possess or obtain about you, such as about your use of other websites and services. These third parties may use this information for our or for third party purposes, including commercial purposes such as tailoring advertising to you on the Site and Network Websites or in other locations like third party websites and services. Some examples of third parties that we use include the following: (1) Google Analytics, which may use technologies like clear gifs and cookies to collect information, including for our and for Google’s own purposes. Google wants us to provide you with a link to its webpage “How Google uses data when you use our partners’ sites or apps” at <https://www.google.com/policies/privacy/partners/>; and (2) DoubleClick, which may use technologies like clear gifs, cookies, and its Audience Management tags, to collect information, including for our and for DoubleClick and Google’s own purposes. Additional DoubleClick privacy information is available at <https://www.google.com/intl/en/policies/privacy/>. For information about choices that you may have about this information collection and use, see the “Your Choices” Section below.
 
- _Personally identifiable information_. Say Media only shares personally identifiable information with other companies or individuals outside of Say Media as follows: (i) if Say Media has your consent for the sharing of personally identifiable information; or (ii) to assist in the fulfillment of requests for services that you’ve requested from Say Media (for example, we may use a third party to help send e-mails in response to requests you’ve made). Note that any third party that Say Media chooses to share personally identifiable information will be required to enter into a confidentiality agreement with Say Media. Say Media may share your personally identifiable information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate. In addition, Say Media may share your personally identifiable information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the terms and conditions that may apply to our services, or as otherwise required by law.
 
-If Say Media sells all or part of its business or services, information you have shared with Say Media or Say Media has collected (both personally identifiable and non-personally identifiable) may be one of the business assets that will be transferred.   Additionally, if Say Media transfers any business or services back to a client, information you have shared with Say Media or Say Media has collected (both personally identifiable and non-personally identifiable) may be transferred to such client as well.  The transferred information will remain subject to the promises made in this privacy policy or subsequent policies to which you have consented.
 
- **Data Security**
+When you visit third party sites that use the Program, those third parties or other third parties may collect information about you or your computer or device, and this Policy does not describe the information collection or use practices that occur on those sites (other than our practices with respect to the Program).
 
-Say Media makes reasonable efforts to ensure data security on our systems to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. However, no data transmissions over the Internet can be guaranteed to be secure. As a result, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+## 3\. How We Use Information
 
- **Information relating to children**
+We collect, use, process, combine, retain and store information and personal information that we collect or receive for a variety of purposes, including the following:
 
-The Site is not structured to attract children under 13 years of age. Use of the Site by anyone under 13 years of age is prohibited, and we require any person providing access to the Site to anyone under 13 years of age to certify that he or she has the consent of the parent or legal guardian of such person and to provide reasonable verification required by Say Media. Say Media does not knowingly collect or maintain personal information of anyone under 13 years of age, and if we discover that we have inadvertently collected such information, we will promptly delete it. Parents and legal guardians may request us to review, delete or stop the collection of personally identifiable information of their child by contacting us at the email or postal addresses listed below.
+  * For our business activities, including to operate, maintain, and provide the features and functionality of the Site and Say Media Services;
+  * To track your preferences, and to maintain your account and subscription;
+  * To process your payments (e.g., for subscriptions);
+  * To communicate with you and respond to your requests, such as to respond to your questions, contact you about changes to the Site or Network Websites, account-related matters, or other matters related to the Site or Network Websites;
+  * To provide you with customized or personalized content or information on the Site or Say Media Services;
+  * For marketing and advertising purposes, such as to market to you or offer you our and third party special offers or other products or services we think that you may be interested in;
+  * To track analytics and use of the Site and Say Media Services;
+  * To monitor the effectiveness of our Site and Say Media Services features and functionality;
+  * To monitor and prevent fraud and abuse, enforce this Policy, to resolve disputes, and otherwise to carry out our obligations and enforce our rights, and to protect our business interests and the interests and rights of third parties;
+  * To comply with contractual and legal obligations and requirements;
+  * To fulfill any other purpose for which you provide personal information; and
+  * For any other lawful purpose, or other purpose that you consent to.
 
- **Collection and Use of Non-Personally Identifiable Information in the Program**
 
- _Other Third Party Sources_. Say Media may supplement the information it collects with other non-personally identifiable information it obtains from third parties.
 
- **Modifications to Privacy Policy**
+Some Network Websites may offer the ability to sign up for a premium account that allows you to visit those Network Websites without, or with limited, advertisements (a **“Premium Account”** ). If you use a Premium Account for a particular Network Website that supports Premium Accounts, we will not use personal information about you for advertising purposes. If you choose to click on an advertisement, to follow a link to an advertisement or advertiser’s website, or to provide information to an advertiser, the advertiser’s privacy policies, and not this Policy, apply, and personal information may be collected from you.
 
-This privacy policy may be modified by Say Media in its sole discretion at any time without prior notice to you. Say Media will post any revised privacy policy on this Site. Your continued access of this Site and your use of services after the privacy policy has been modified and posted will signify your acceptance of such modifications for information provided by you.
+## 4\. Sharing of Information
 
- **Legal Terms**
+We also transmit, disclose, grant access to, make available, and provide ( **“Disclose”** ) personal information to third parties, including:
 
-This Privacy Policy will be governed by the laws of the State of California and the United States of America.
+  * To service providers, subcontractors, partners, vendors, consultants, and others that help us with any of the purposes noted above or otherwise in this Policy;
+  * To our affiliates, parent companies, subsidiaries, and other related companies, all for the purposes noted above or otherwise in this Policy;
+  * To third parties that the Network Websites relate to, or that contain advertisements as part of the Program, including for marketing and advertising purposes;
+  * To third parties for our or third party research, marketing and advertising (including online advertising) purposes;
+  * To third parties to respond or comply with, in our sole discretion, a court order, subpoena, law enforcement or other government request (with or without notice to you, in our discretion);
+  * To buyers, successors, or others in connection with a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us may be among the assets transferred;
+  * To other third parties with your consent or upon your consent; and
+  * To third parties, in our discretion, to: (i) satisfy any applicable law or regulation, (ii) enforce this Policy, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, or (iv) protect against harm to the rights, property or safety of us, the Site or Network Websites or their users, or third parties.
 
-Should you have any questions or concerns about these privacy policies, including any questions or concerns about the management or use of personal information, please send us an email at privacy@Say Media.com. Our postal mailing address is:
 
-Say Media, Inc. 180 Townsend Street San Francisco, CA 94107 Attention: Data Privacy
 
-If requested, we will gladly, update, delete, or any answer any questions we can about your personal information.
+We also will Disclose information that does not constitute personal information to third parties for the purposes noted above, as well as for other purposes in our sole discretion.
 
- **Glossary of Terms**
+If you use a Premium Account for a particular Network Website, we will not share personal information about you with third parties for advertising purposes.
 
-“Adobe Flash Player” is a multimedia technology that can add interactivity and multi-media functionality to webpages. To find out more about Adobe Flash, please visit: http://www.adobe.com/products/flash/.
+We do not control third parties’ use of information or personal information. If you do not want us to Disclose personal information to third parties, please do not use the Site or Network Websites.
 
-“click-stream” means the pages viewed, elements or experiences interacted with and/or items clicked on when a user visits our website or one of our advertisements displayed in an experience of one of our Publishers.
+## 5\. Information Access and Correction
 
-Cookies:
+If you have registered for an account on the Site or Network Websites, we may provide you with the ability to access, review and change certain personal information by logging into your account and using the features and functionalities available there.
 
-“cookie” or “browser cookie” is a small text file that contains a string of numbers and characters sent by a web site that is saved on your hard disk by your computer’s browser.
+Not all personal information is maintained in a format that you can access or change. If you would like to request access to, or correction or deletion of personal information, you may send your request to us at privacy@saymedia.com. We will review your request, and may require you to provide additional information to identify yourself, but we do not promise that we will be able to satisfy your request. For example, the personal information may already have been relied or acted upon, or disclosed to third parties, and we generally do not take steps (or have the ability to take steps) to undo prior reliance or actions. We also may not accommodate a request to change information if we believe the change would violate any law or legal requirement, cause the information to be incorrect, or if doing so would be burdensome in our discretion.
 
-“flash” cookie is a form of persistent cookie but instead of being stored by your browser is stored by the Adobe Flash Player, a browser “add-in” that we use to deliver ads. To learn more about the Adobe Flash Player and “flash” cookies please visit: http://www.macromedia.com/support/documentation/en/flashplayer/help/index.html.
+## 6\. Your Choices
 
-“persistent” cookie is a cookie that remains on your hard drive for an extended period of time.
+We strive to give you choices about how your personal information is collected and used. For example, you can decline to provide certain types personal information to Say Media or you can stop using the Site and Network Websites, which may limit your use of the Site and Network Websites. We also provide you with the following choices:
 
-“session” cookie is a cookie that is temporary and disappears after you close your browser.
+  *  **Marketing Emails.** We may send you marketing emails from time to time. If you do not wish to receive them, you can opt-out following the unsubscribe instructions in the emails, or by contacting us at privacy@saymedia.com. We will work to honor your request within 10 business days. If you opt-out, we will still send you emails for service purposes, such as for communications about your account, responses to your requests, and other service purposes. If the emails are sent by third parties, such as those that the Network Websites relate to, please contact those third parties to opt-out. By providing your email address, you may also be opting in to receive marketing and promotional emails from A+E, which such A+E emails would be governed by A+E’s privacy policy available [here](http://www.aenetworks.com/privacy). You will be required to opt out separately if you don’t wish to receive emails from either Say Media or A+E. In addition to these Say Media and A+E optional email messages, Say Media may contact you via any email address you provide us with transactional or relationship message such as account status messages, notifications of changes in the terms of your account or the services provided. These types of transactional or relationship email messages are not optional.
+  *  **Program Online Advertising.** If you do not want Say Media to use information about you to tailor advertising that we deliver in connection with the Program, visit the Say Media opt-out page for instructions and details about the opt-out: <http://www.saymedia.com/fine-print>.
+  *  **Other Online Advertising.** You may be able to opt-out of other types of online advertising-related cookies used at the Site and Network Websites by actively managing the settings on your browser or mobile device, but we do not promise that such settings will be effective. Please refer to your browser’s or mobile device’s technical information for information on the settings offered for cookies or other tracking technologies. You also may be able to opt-out of some online-advertising related cookies: at the Digital Advertising Alliance’s Consumer Choice Opt-Out pages at <http://www.aboutads.info/choices> and <http://www.aboutads.info/choices-mobile> (for mobile devices); at the Network Advertising Initiative consumer opt-out page at <http://www.networkadvertising.org/choices/>; for Krux by following the instructions at <http://www.krux.com/privacy/consumer-choice/>; and for Disqus (a third party we may use on the Site and Network Websites for comments) using the options at <https://help.disqus.com/customer/portal/articles/1657951>. To learn more about cookies, you may wish to visit <https://www.consumer.ftc.gov/articles/0042-cookies-leaving-trail-web>.
 
-“non-personally identifiable information” or “anonymous data” is data that is not personally identifiable information.
 
-“server logs” are logs of information communicated by web browsers as they make requests to the server, including: (i) IP address from the requesting computer; (ii) date and time of the request; (iii) URL of the actual request; and (iv) any cookie returned by the browser.
 
-“personally identifiable information” is data intended to be used to identify, contact or locate a person, including, name, address, telephone number or e-mail address and any other information (even if non-personally identifiable) provided in combination with such personally identifiable information.
+## 7\. Do Not Track Preferences
 
-“web beacon” are generally a transparent 1x1 pixel image placed on the code of a web page that can be used to help Say Media understand what webpages, interactivity or experiences you are engaging.
+While we want to honor your privacy as described in this Policy, unfortunately the Site and Network Websites do not monitor for or behave differently if your computer or browser transmits a “do not track” or similar message to us, the Site, or Network Websites.
+
+## 8\. Data Protection
+
+We take what we believe to be commercially reasonable steps to help protect personal information that we collect, but we do not guarantee that personal information will be completely protected. For example, the transmission of information via the Internet is not completely secure. Any transmission of personal information by you is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site or Network Websites, including the illegal acts of third parties (such as criminal hacking).
+
+The safety and security of your information also depends on you. Where you have chosen account credentials (e.g., user names and passwords) for access to certain parts of the Site or Network Websites, you are responsible for keeping those credentials confidential. Do not give your credentials to anyone else. If you enter a section of the Site or Network Websites that requires a password, you should log out when you leave. If you believe that any account credentials for the Site or Network Websites have been compromised, please contact us immediately at privacy@saymedia.com.
+
+## 9\. Data Retention
+
+We tend to keep personal information for as long as we deem necessary for our business purposes, or as otherwise required to operate the Site or Say Media Services, comply with your requests, or comply with applicable law.
+
+## 10\. Information From Children
+
+The Site and Say Media Services are not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian of a child under the age of 13, and believe that your child may have provided us with personal information, please contact us at privacy@saymedia.com, and we will use commercially reasonable efforts to delete that information.
+
+## 11\. Third Party Websites
+
+The Site and Say Media Services may include links to third party websites and online services. This Policy does not describe the privacy practices of those websites or services. Please review the privacy policies of those websites or services before providing personal information to them.
+
+## 12\. Updates to This Policy
+
+We may amend this Policy from time to time. When we do so, we will update the “Last Revision Date” at the end of the Policy. Your continued use of the Site or Network Websites after an updated Policy is posted constitutes your consent to the revised Policy.
+
+## 13\. Governing Law
+
+This Policy is governed by the laws of the State of California and the United States of America.
+
+## 14\. Contacting Us
+
+If have questions about this Policy or our privacy practices, please contact us at privacy@saymedia.com.
+
+## 15\. Last Revision Date
+
+This Policy was last revised on August 30, 2016.
