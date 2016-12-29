@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419204131id_/http%3A//www.enjoydressup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229033436id_/http%3A//www.enjoydressup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Enjoydressup.com
 
-**Enjoydressup.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **Enjoydressup.com** protects your personal information. By accessing **Enjoydressup.com** , you acknowledge and fully understand **Enjoydressup.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
+**www.EnjoyDressup.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **www.EnjoyDressup.com** protects your personal information. By accessing **www.EnjoyDressup.com** , you acknowledge and fully understand **www.EnjoyDressup.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
 **Third Party Policies**
 
-Websites visited through links from this website may or may not have their own privacy statements and **Enjoydressup.com** is not responsible for the privacy practices or contents of those sites.
+Websites visited through links from this website may or may not have their own privacy statements and **www.EnjoyDressup.com** is not responsible for the privacy practices or contents of those sites.
 
 **What Information Is Collected?**
 
-**Enjoydressup.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
+**www.EnjoyDresup.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
 
 You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.networkadvertising.org/choices/ "Ads Settings").
 
-We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on Enjoydressup.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
+We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on enjoydressup.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
   * Your Internet protocol address.
   * The kind of browser or computer you use.
@@ -33,7 +33,7 @@ All the games published on this portal together with the Intellectual Property b
 
 **Notification of Claimed Copyright Infringement**
 
-Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, www.Enjoydressup.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] ideastudios.ro 
+Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, www.enjoydressup.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] ideastudios.ro 
 
 **The Comment System**
 
@@ -41,7 +41,7 @@ Enjoydressup.com uses the Disqus.com comment system. Disqus.com asks for one's e
 
 **How We Use the Information**
 
-User Profile information including members pavatars and usernames are displayed to people in order to facilitate user interaction in the **Enjoydressup.com** social networking community. Email addresses are used for the purposes of inviting new friends to join **Enjoydressup.com** , to add users to members' friends' networks, and to send notifications related to the service. Users full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service, **Enjoydressup.com** allows users to search for other members using gender, age and proximity.
+User Profile information including members pavatars and usernames are displayed to people in order to facilitate user interaction in the **www.EnjoyDressup.com** social networking community. Email addresses are used for the purposes of inviting new friends to join **www.EnjoyDressup.com** , to add users to members' friends' networks, and to send notifications related to the service. Users full names are never displayed to other members. To facilitate searching and finding friends and acquaintances on the service, **www.EnjoyDressup.com** allows users to search for other members using gender, age and proximity.
 
 We use visitors Personal Information for our internal purposes of enabling visitors to enter one of our online contests or sweepstakes, to subscribe to our online newsletter, or to inform visitors of upcoming events and special announcements. Each e-mail contains instructions on how to be removed from the subscription list.
 
@@ -59,4 +59,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **Changes to this Privacy Policy**
 
-**Enjoydressup.com** reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
+**www.EnjoyDressup.com** reserves the right to change this policy at any time. We ask that you review this Privacy Policy from time to time to insure you are familiar with the most current version of it.
