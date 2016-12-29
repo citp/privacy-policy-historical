@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bovada.lv privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907181648id_/https%3A//www.bovada.lv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bovada.lv privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051123id_/https%3A//www.bovada.lv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bovada
+# Privacy Policy - Bovada
 
 **COLLECTED INFORMATION**
 
@@ -43,9 +43,3 @@ From time to time, this Privacy Policy may be updated. When and if this is done 
 **INTEGRITY OF SPORT**
 
 Bovada is committed to ensuring the integrity of sport and to participating in efforts to identify and eradicate match fixing. As such, notwithstanding any other term of the Terms of Service, or any provision of the applicable Privacy Policy, by placing a bet or wager on the website, you expressly acknowledge and agree that Bovada at all times reserves the right in its sole discretion to report Irregular Betting Activity to such sports federations, regulators, agencies, commissions or associations (or their respective agents) as Bovada deems appropriate ("Regulatory Bodies") in order to enable identification of irregular activity and to support appropriate investigations. "Irregular Betting Activity" means activity that, in Bovada's sole assessment, deviates from expected betting patterns and includes, without limitation: (i) an unusual and significant number of bets originating from the same geographic region or through linked accounts; (ii) a bettor continuing to place bets at any price in the face of a steady reduction in the applicable odds; and/or (iii) any other indicator or pattern assessed by Bovada as indicative of potential match fixing. Bovada shall use reasonable commercial measures to ensure that any information provided to Regulatory Bodies pursuant to this provision is subject to reasonable contractual non-disclosure provisions, and that all information or documentation shall be destroyed by such Regulatory Bodies when it is no longer relevant in connection with any ongoing investigation, enquiry or disciplinary process.
-
-Meadway Leisure Ltd.  
-P.O. Box 2190  
-Kahnawake, QC  
-J0L 1B0  
-450-633-3592
