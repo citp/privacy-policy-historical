@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popupdomination.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604200817id_/http%3A//www.popupdomination.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popupdomination.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229193443id_/https%3A//popupdomination.com/privacy-policy) for the most accurate reproduction.*
 
-# PopUp Domination :: Privacy Policy
+# PopUp Domination
 
 IMPORTANT! THIS PRIVACY POLICY ("POLICY") DESCRIBES POPUPDOMINATION.COM, INCORPORATED PROTECTS, USES AND SHARES ANY INFORMATION WHICH IS PROVIDED BY YOU. BY ACCESSING THE SITE, YOU ARE INDICATING THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO THIS PRIVACY POLCY AND OUR TERMS OF SERVICE. IF YOU DO NOT AGREE TO THE TERMS OF SERVICE OR OUR PRIVACY POLICY, PLEASE DO NOT USE THE SITE OR ANY SERVICES OFFERED AT THE SITE.
 
