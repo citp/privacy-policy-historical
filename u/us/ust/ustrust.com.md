@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616092231id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustrust.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073232id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
 
 # Bank of America Privacy and Security
 
