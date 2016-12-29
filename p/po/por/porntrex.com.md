@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616125411id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073144id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornTrex | We Deliver The Best Free HD Porn Videos
+# Privacy Policy - PornTrex | Best Free HD Porn Videos, Premium Porn Tube Movies
+
+[вечернее платье](http://sofiyas.com/shop/category/platia) [женская одежда Казахстан](http://sofiyas.com.ua/)
 
 This document details important information regarding the use and disclosure of User Data collected on porntrex.com 
 
