@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060137id_/http%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultofmac.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050053id_/http%3A//www.cultofmac.com/privacy-policy) for the most accurate reproduction.*
 
 # Cult of Mac's privacy policy | Cult of Mac
 
   * [News](http://www.cultofmac.com/category/news/)
 
-[ ](http://www.cultofmac.com/privacy-policy/)Here's everything you need to know about the _Cult of Mac_ privacy policy.   
-_Photo: Jim Merithew/Cult of Mac_
+[ ](http://www.cultofmac.com/privacy-policy/)Here's everything you need to know about _Cult of Mac'_ s privacy policy.   
+_Photo: Ste Smith/Cult of Mac_
 
 ### Your privacy is important to us
 
-At _Cult of Mac_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.cultofmac.com and how it is used.
+At _Cult of Mac_ , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by our website and how it is used.
 
  **Log files**  
 Like many other websites, _Cult of Mac_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, internet service provider (ISP), date/timestamp, referring/exit pages and number of clicks. This data enables us to administer the site, analyze trends, track users’ movements around the site, and gather demographic information. IP addresses and other such data is not linked to any information that is personally identifiable.
