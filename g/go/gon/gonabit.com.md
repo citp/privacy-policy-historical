@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonabit.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617184700id_/https%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonabit.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229062242id_/https%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
 
 # LivingSocial
 
@@ -68,7 +68,7 @@ We may also develop non-personal information concerning LivingSocial users, usin
 
 In the event we go through a business transition such as a merger, acquisition by another company or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer’s assets may continue to process your Personal Information as set forth in this Privacy Policy.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend our rights or property, you, or third parties. You hereby consent to us sharing your Personal Information under the circumstances described herein.
+We may disclose your Personal Information if we believe in good faith that such disclosure may be required: (a) to comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to protect and defend our rights or property, you, or third parties; or (c) in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
 
 ## Your Choices Regarding Your Personal Information
 
@@ -100,10 +100,6 @@ LivingSocial does not direct its Websites to children under the age of thirteen.
 
 You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at [privacy@livingsocial.com](mailto:privacy@livingsocial.com). We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information that you think is inaccurate. You may change any of your profile information by editing it in the profile settings page.
 
-## Safe Harbor Dispute Resolution
-
-Personal or other information about you collected on LivingSocial sites and services may be stored and processed in the United States or any other country in which LivingSocial or its affiliates, subsidiaries and services providers maintain facilities. LivingSocial, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please click [here](https://www.truste.com/about-TRUSTe/contact-us/) for fax and postal mail information.
-
 ## Changes To This Privacy Policy
 
 This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page or may otherwise post an alert on the LivingSocial Website. If you object to any such changes, you must cease using LivingSocial. Continued use of LivingSocial following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
@@ -111,5 +107,9 @@ This Privacy Policy is subject to occasional revision at our discretion, and if 
 ## California Residents
 
 If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that LivingSocial has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to LivingSocial, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please e-mail [privacy@livingsocial.com](mailto:privacy@livingsocial.com).
+
+## Responsible Disclosure Policy
+
+If you are a security researcher and you have a security bug to report, please review our [responsible disclosure policy](https://www.livingsocial.com/security).
 
 If you have questions or concerns about our Privacy Policy, please contact us at: [privacy@livingsocial.com](mailto:privacy@livingsocial.com).
