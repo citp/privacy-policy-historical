@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the incisivemedia.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628130057id_/http%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incisivemedia.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230005850id_/http%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incisive Media
 
 **1\. INTRODUCTION**  
 Incisive Media Limited and all companies within its Group[1] (“Incisive Media” or “We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.incisivemedia.com//static/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](http://www.incisivemedia.com/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is Incisive Media Limited of Haymarket House, 28-29 Haymarket, London SW1Y 4RX.
 
