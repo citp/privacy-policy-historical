@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestar.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054704id_/http%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063724id_/https%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Toronto Star
 
@@ -11,6 +11,12 @@ This Privacy Policy governs the collection, use and disclosure of your personal 
 This Privacy Policy is available to the public through our Sites, and in paper form from the Star. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. **Please read this Privacy Policy carefully, and check back periodically as we may update it from time to time.**
 
  **What is personal information?**
+
+Personal information is any information about an identifiable individual.
+
+The Star is responsible for personal information in its possession and under its control. The Star has implemented policies and practices to give effect to this Privacy Policy, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star's parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star.
+
+ **What is excluded from privacy protection?**
 
 This Privacy Policy does not impose restrictions on: business contact information (e.g. name, title, work contact information) collected, used or disclosed solely for the purpose of communicating with the individual in relation to their employment, business or profession; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual's name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.
 
