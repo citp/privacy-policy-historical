@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.sg privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231095749id_/http%3A//www.vistaprint.sg/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.sg privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073601id_/http%3A//www.vistaprint.sg/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
@@ -13,7 +13,7 @@ Hudsonweg 8
 5928 LW Venlo  
 the Netherlands
 
-How to manage your account:If you wish to change your name, e-mail address, telephone number, password, communication and/or opt-in preferences after you have registered, you can access your account by logging into My Account and selecting Account Update. You may also request these changes by contacting customer care at http://www.vistaprint.co.uk/customer-care/contact-us.aspx or calling Customer Care at 800 130 1646 or writing to: 
+How to manage your account:If you wish to change your name, e-mail address, telephone number, password, communication and/or opt-in preferences after you have registered, you can access your account by logging into My Account and selecting Account Update. You may also request these changes by contacting customer care at http://www.vistaprint.co.uk/customer-care/contact-us.aspx or calling Customer Care at 800 723 1372 or writing to: 
 
 Vistaprint B.V.  
 Attn. Customer Care  
