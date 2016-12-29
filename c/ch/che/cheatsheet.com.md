@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatsheet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616061847id_/http%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatsheet.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044032id_/http%3A//www.cheatsheet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
