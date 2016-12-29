@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribune.com.pk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623232220id_/http%3A//tribune.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribune.com.pk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229174802id_/http%3A//tribune.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Express Tribune
 
