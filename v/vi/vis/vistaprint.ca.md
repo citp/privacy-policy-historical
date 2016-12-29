@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617204654id_/http%3A//www.vistaprint.ca/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.ca privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229074432id_/http%3A//www.vistaprint.ca/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Privacy & Security
 
