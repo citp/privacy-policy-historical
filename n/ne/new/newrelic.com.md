@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224235746id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052929id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
 
 # New Relic Privacy Policy | New Relic
 
-This Privacy Policy was last updated on August 24, 2015
+This Privacy Policy was last updated on September 30, 2016.
 
-New Relic, Inc (“ **New Relic** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the “ **Products** ”), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [http://newrelic.com/terms](https://web.archive.org/terms).
+New Relic has self-certified to the EU-US Privacy Shield. Please click [here](https://web.archive.org/privacy-shield) to view our Privacy Shield Notice.
+
+New Relic, Inc (" **New Relic** ," "We", "Us") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the " **Products** "), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [http://newrelic.com/terms](https://web.archive.org/terms).
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.newrelic.com and our service rpm.newrelic.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged New Relic.
-
-[](https://privacy.truste.com/privacy-seal/New-Relic,-Inc-/validation?rid=6d18ab8c-b6a2-4c05-aaf0-ae2a559caece "Validate TRUSTe privacy certification") New Relic, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry). If you are not satisfied with our response you can contact TRUSTe [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers the website [www.newrelic.com](http://www.newrelic.com/), New Relic RPM and New Relic mobile app. The TRUSTe program does not cover information that may be collected through downloadable software or through offline means.
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx) [](http://www.export.gov/safeharbor) New Relic complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. New Relic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view New Relic’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 #### User Consent
 
 By submitting or making available Application Data or Personal Data through our website, Products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Application Data and Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
+
+  
+
 
 ### Information We Collect About You
 
@@ -28,7 +29,7 @@ New Relic collects Personal Data and Anonymous Data from you when you visit our 
 
 #### Personal Data You Provide to Us
 
-We collect Personal Data from you, such as first and last name, phone number, zip code, e-mail, professional title, company name, and password, when you purchase Products, register to receive information, or post a comment on our blog. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you purchase Products or services on our website. We also retain information on your behalf, such as the Personal Data described above and any correspondence or blog comments. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. When you participate in one of our surveys, we may collect additional profile information such as your name, phone number, address, and e-mail address. When you post comments on our blog, the information contained in your posting will be stored on our servers and other users will be able to see it. To request removal of your personal information from our blog or community forum, contact us at [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We also collect other types of Personal Data that you provide to us voluntarily, such as operating system and version, information about your application and operating environment, and other requested information if you contact us via e-mail regarding support for the Products). We may also collect Personal Data at other points in our website that state that Personal Data is being collected.
+We collect Personal Data from you, such as first and last name, phone number, zip code, e-mail, professional title, company name, and password, when you purchase Products, register to receive information, or post a comment on our blog. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you purchase Products or services on our website. We also retain information on your behalf, such as the Personal Data described above and any correspondence or blog comments. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. When you participate in one of our surveys, we may collect additional profile information such as your name, phone number, address, and e-mail address. When you post comments on our blog, the information contained in your posting will be stored on our servers and other users will be able to see it. To request removal of your personal information from our blog or community forum, contact us at [support@newrelic.com](mailto:support@newrelic.com?subject=Privacy%20Policy%20inquiry). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We also collect other types of Personal Data that you provide to us voluntarily, such as operating system and version, information about your application and operating environment, and other requested information if you contact us via e-mail regarding support for the Products). We may also collect Personal Data at other points in our website that state that Personal Data is being collected.
 
 #### Personal Data Collected via Technology
 
@@ -94,13 +95,17 @@ You may change any of your Personal Data in your account by editing your profile
 
 #### Advertising
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences.truste.com/).
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may [opt-out by clicking here](http://preferences.truste.com/) (or if located in the [European Union click here](https://www.youronlinechoices.eu/)).
 
 Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 #### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry).
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at [dataprivacy@newrelic.com](mailto:dataprivacy@newrelic.com?subject=privacy%20policy%20inquiry).
+
+#### Unauthorized Profiles
+
+If an account/profile was created without your knowledge/authorization, please contact us at [support@newrelic.com](mailtto:support@newrelic.com) to request removal of the profile.
 
 #### Social Media Features and Widgets
 
@@ -108,7 +113,7 @@ Our web site includes social media features, such as the Facebook Like button an
 
 #### Your California Privacy Rights
 
-Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry)
+Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to [dataprivacy@newrelic.com](mailto:dataprivacy@newrelic.com?subject=privacy%20policy%20inquiry)
 
 #### Information Related to Data Collected for our Clients
 
@@ -154,13 +159,13 @@ New Relic is committed to protecting the security of your Application Data and P
 
 #### Contact Information
 
-New Relic welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry) or contact us at the following address:
+New Relic welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [dataprivacy@newrelic.com](mailto:dataprivacy@newrelic.com?subject=privacy%20policy%20inquiry) or contact us at the following address:
 
 New Relic, Inc.   
 Attn: Legal Department
 
-188 Spear Street, Suite 1200   
-San Francisco, CA 94105
+188 Spear St., Suite 1200   
+San Francisco, CA USA 94105
 
 #### Changes to This Privacy Policy
 
