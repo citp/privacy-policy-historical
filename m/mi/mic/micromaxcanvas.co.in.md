@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromaxcanvas.co.in privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801080854id_/http%3A//micromaxcanvas.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxcanvas.co.in privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230191042id_/http%3A//micromaxcanvas.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
