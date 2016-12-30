@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629204608id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230185830id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
 
-# Privacy Policy | Service | The Independent
+# Privacy Policy | The Independent
 
 Before using the Website – [www.independent.co.uk](http://www.independent.co.uk/) \- it is your responsibility to read the privacy policy.
 
@@ -102,7 +102,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **Who will you share my personal information with?**
 
-By using the Website, you agree that we may disclose your personal information to any company within the Independent.co.uk group of companies, which includes the companies which publish The Independent, Independent on Sunday, i and the London Evening Standard newspapers and Websites, and broadcasts London Live and its Website.
+By using the Website, you agree that we may disclose your personal information to any company within the Independent.co.uk group of companies, which includes the companies which publish The Independent and the London Evening Standard newspapers and Websites, and broadcasts London Live and its Website.
 
 Advertisers and advertising networks sometimes require data to select and serve relevant advertisements to you and others. However, we do not disclose information about identifiable individuals to advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1).
 
@@ -148,3 +148,5 @@ If you want further information, or wish to communicate with us about this priva
   * [user policies](https://web.archive.org/topic/user-policies)
 
 
+
+[Reuse content](https://web.archive.org/syndication/reuse-permision-form?url=http://www.independent.co.uk/service/privacy-policy-a6184181.html)
