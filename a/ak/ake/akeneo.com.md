@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529062436id_/https%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akeneo.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230021911id_/https%3A//www.akeneo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Akeneo – The Open Source PIM
+# Privacy Policy - Akeneo - The Open Source PIM
 
 ### Your Privacy Matters
 
@@ -8,9 +8,9 @@ Akeneo (“Akeneo”) is committed to respecting and protecting your privacy. Vi
 
 Akeneo, SAS.  
 Attention: Privacy Request  
-5 rue Le Nôtre  
-44000 Nantes  
-France
+2 place Général Mellinet  
+44100 NANTES  
+FRANCE
 
 Because Akeneo is committed to protecting your privacy, Akeneo will not sell, rent or otherwise disclose this information to any third party, except as described in this Privacy Policy. Akeneo maintains all personal information as private to the best of the company’s ability. However, personal information may be disclosed under the limited circumstances described below, and by submitting your personal information, you agree that Akeneo may do so.
 
