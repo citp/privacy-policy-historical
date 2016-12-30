@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofro.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605013626id_/http%3A//www.gofro.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofro.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230111316id_/http%3A//www.gofro.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,21 @@ We use personal information to provide the services you request. We use your per
 Cookies
 
 A "cookie" is a small piece of information stored by a Web server on a Web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. Gofro.com places both permanent and temporary cookies in your computer's hard drive. Gofro.com's cookies do not contain any of your personally identifiable information.
+
+Through our mobile app, we may disclose to third party services certain personally identifiable information listed below:
+
+  * information you provide us such as name, email, mobile phone number
+  * information we collect as you access and use our service
+  * including device information, location and network carrier
+
+
+
+This information is shared with third party service providers so that we can:
+
+  * personalize the app for you
+  * perform behavioral analytics
+
+
 
 #### Security Precautions
 
