@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the kingofwallpapers.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134903id_/http%3A//kingofwallpapers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingofwallpapers.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230202201id_/http%3A//kingofwallpapers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
+
+  
+
 
 The owners and operators of kingofwallpapers.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
