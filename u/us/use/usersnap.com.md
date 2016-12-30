@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606163217id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usersnap.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230181356id_/https%3A//usersnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Usersnap
 
