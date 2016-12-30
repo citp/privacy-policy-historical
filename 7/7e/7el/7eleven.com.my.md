@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629054334id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230160846id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
 
 # 7-Eleven Malaysia | Always There For You
 
@@ -14,122 +14,51 @@ In this Privacy Policy,
 
 "We", "us" or "our" means 7-Eleven Malaysia Holdings Berhad. 
 
-1\. Personal Information  
-1.1 What we collect from you
+Purpose
 
-Personal Information we collect about you, include but are not limited, to the following: 
+7-Eleven Malaysia in compliance with the Personal Data Protection Act 2010 is taking steps to ensure that we are in compliance with the new Act. 7-Eleven Malaysia is committed to ensure that so that all the staff or customers can be assured that your personal data is in secure and responsible hands. 
 
-Personal details such as name, identity card number, age, gender, nationality, date of birth, address, telephone number, email address and other details. 
+This Privacy Statement outlines the practices in collecting information and on your choices pertaining to the processing and disclosures of such information. 
 
-Information in connection with Products and Services you have purchased from us or have registered with us for purchase, services, information, updates, inquiries, etc. 
+What is Personal Information?
 
-Personal interests or preferences such as language, product or content interests, communicating and marketing preferences. 
+Personal information refers to all information that can be identifiable to you as an Individual including sensitive personal information which might relates to health, family, religious beliefs, etc. 
 
-Other information that are, have been or may be collected by us or which you provide to us, from time to time, in connection with any service, transaction, contest, survey, promotion, questionnaire, forms or communication with us. 
+What are we collecting personal information from you?
 
-Your photo and other image, by way of video surveillance installed in some parts of our premises as part of our security infrastructure. 
+Due to the need to ensure that we can provide you with effective and efficient services or to ensure that the position and job are in line with your personality, capabilities, next of kin contacts details in case of emergency, we need to collect relevant personal information on the staff/customers. The information that we require are but in not limited to; 
 
-When you visit our website, there is automatic collection of some information about your computer such as IP address, web browser software and other information about your visit. 
+Contact information such as name, date of Birth, gender, race, NRIC documents, KWSP, Socso, residential address, telephone number, email address, bank account number, bankruptcy checks, qualifications or family details. 
 
-Certain information requested by us are mandatory which you must provide and agree to the processing of such mandatory information by us, failing which, we will not be able to provide you the relevant Products and Services or information and updates pertaining to the Products. 
+How do we collect your personal information?
 
-1.2 How your Personal Information is collected
+We collect your personal information when you apply for a job by filling out our job application forms or in case of our customers/suppliers, when you fill one of the survey form/feedback form as a customer or when you register as one of our approved suppliers. For staff hired, we do collect additional information in form of family details and other information in the course of your employment with 7-Eleven Malaysia. 
 
-When you sign up to purchase the Products and Services or register your interest with us to purchase or to obtain information, services and updates on the Products and Services. 
+Use of information we collect
 
-When you visit our website or social networking sites. 
+Your personal information will be used for the following purposes:- 
 
-When you enter contests or respond to surveys, promotions or questionnaires. 
+1.Process potential staff application for employment  
+2.Verification of staff qualifications and experiences  
+3.To enroll in the statutory bodies to facilitate payment of KWSP/Socso/Income Tax  
+4.Transmission of salaries and other payments  
+5.In case of emergency, to contact the nearest Next of Kin  
+6.To process the details for insurance purposes  
+7.To manage staff training and skills improvement needs  
+8.To contact the customers on complaints, feedbacks and to conduct survey  
+9.To verify payment addresses, information and other matters pertaining to sales/purchases from customers/suppliers and to keep track of receipts/payments history  
+10.Marketing and cross selling of products, promotions and offers  
+11.Your personal information may also be disclosed to other companies within the Group, our strategic partners, merchants, professional advisors, financial institutions and credit bureaus, law enforcement agencies, government agencies  
+12.Your information maybe also be disclosed to a 3rd party as a result of restructuring, sale and acquisition of companies within and outside the group, provided that the onus is on the recipient company to use it for the purpose only 
 
-From third party sources such as credit reference agencies, fraud prevention agencies and publicly available sources of information. 
+Your rights to access, correct or deletion of your personal information
 
-Pursuant to any transaction or inquiry or communication made with or to us. 
+You may request for access, request for correction and deletion of your personal information held by us. You may also limit the processing at any time hereafter as well. If you wish to amend or update any of your personal information in our possession after we verify that you are the owner of the information, by writing via email or written form to the following address:- 
 
-When you fill in prize claim forms. 
+**Address:** Level 3A, Podium Block, Plaza Berjaya, No. 12, Jalan Imbi, 55100 Kuala Lumpur, Malaysia  
+**Phone:** 03-2142 1136  
+**Email Address:** [marketing@7eleven.com.my ](mailto:marketing@7eleven.com.my)
 
-1.3 Purpose of collecting and processing your Personal Information
+Updated to privacy statement
 
-To communicate with you. 
-
-To process your application, inquiry or request. 
-
-To provide the Products and Services to you. 
-
-For administrative purposes. 
-
-To respond to your queries. 
-
-To conduct research and statistical analysis. 
-
-To help us monitor and improve our services. 
-
-To comply with applicable laws, proceedings or inquiries from regulatory authorities, and enforcement agencies. 
-
-Any other purposes permitted by applicable laws. 
-
-To market and promote other products and services that are or may be offered by us or our partners from time to time. 
-
-For direct marketing purposes. 
-
-To provide you with information and updates on the Products and Services. 
-
-1.4 Sensitive Personal Data
-
-We do not collect Sensitive Personal Data from you unless required by applicable laws. If you do not want your Sensitive Personal Data collected by us, please do not submit it. 
-
-"Sensitive Personal Data" means any personal data consisting of information as to physical or mental health or condition, political opinions, religious beliefs or other beliefs of a similar nature, the commission or alleged commission of an offence or any personal data prescribed under law as sensitive personal data. 
-
-If you do choose to submit your Sensitive Personal Data to us, such data shall then be deemed to be and will be treated by us as Personal Information which will be subject to the terms and scope of this Privacy Policy including as to processing, usage and disclosure thereof. 
-
-2\. Disclosure
-
-To facilitate the purposes above and the provision of products and services to you, we may process, use and disclose your Personal Information to the following classes of third parties: 
-
-Regulatory authorities and enforcement agencies. 
-
-Any court of law or any relevant party in connection with any claim or legal proceedings. 
-
-Our contractors, service providers, consultants, and advisors on a need-to-know basis. 
-
-Any actual or potential assignee, transferee or acquirer of any of 7-Eleven Malaysia Holdings Berhad's businesses. 
-
-3\. Transfer Of Personal Information Outside Malaysia
-
-Your Personal Information may be transferred to a country outside Malaysia. You hereby consent to us transferring your Personal Information outside of Malaysia, including to the class of third parties set out above. 
-
-4\. Access Or Update Your Personal Information
-
-4.1 - You are responsible for providing accurate and complete information about yourself and any other person whose personal information you provide us (for e.g., your spouse, children, relatives or third parties), and as such, as and when such information becomes incorrect or outdated you should correct or update such information by contacting us or submitting fresh information. 
-
-4.2 - You may, by writing to us at the address set out in Section 7 below:   
-\- Request for a copy of the Personal Information we hold about you.  
-\- Request to rectify or update your Personal Information.  
-\- Please provide proof of your identity, address and sufficient information to enable us to identify you when submitting your request to us. 
-
-4.3 On receipt of your written request, we may:  
-\- Comply or refuse your request to access or rectify your Personal Information. If we refuse, we will notify you the reasons for such refusal.  
-\- Charge a fee for processing your request for access or rectification. 
-
-5\. Limit The Process Of Your Personal Information
-
-If you:  
-Do not wish to receive offers, promotions and marketing materials and information on other products and services from us or our partners. 
-
-Would like us to cease processing your Personal Information for a specified purpose or in a specified manner. 
-
-Please notify us in writing to the address set out in Section 6 below. In the absence of such written notification from you, we will deem it that you consent to the processing, usage and dissemination of your Personal Information in the manner, to the extent and within the scope of this Privacy Policy. If you do not consent to the processing of your Personal Information as above, we may not be able to provide you the Products and Services you requested. 
-
-6\. How To Contact Us
-
-Write in to us at: 
-
-##### Marketing Department
-
-Level 1, 7-Eleven Malaysia Holdings Berhad,  
-Podium Block, Plaza Berjaya,  
-No. 12, Jalan Imbi,  
-55100, Kuala Lumpur  
-Email: [marketing@7eleven.com.my](mailto:marketing@7eleven.com.my)  
-Tel: (+603 ) 2142 1136  
-Fax: (+603) 2142 1139  
-NOTE: In the event of discrepancies or inconsistencies between the English language version and Bahasa Malaysia version of this Privacy Policy, the English language version shall prevail. 
+We may update this privacy statement from time to time and the latest updated version shall apply and supercede all previous statements, including but not limited to leaflets and hardcopy versions. 
