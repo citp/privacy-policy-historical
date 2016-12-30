@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asos.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627094819id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asos.com privacy policy that was archived on 2016-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230140503id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="MasterLayout no-js wf-loading" lang="en-GB" data-platform="desktop" data-production="true" data-store="1" data-language="en-GB"><!--<![endif]--><head>
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
@@ -19,7 +19,9 @@
         <link rel="alternate" hreflang="en-AU" href="http://www.asos.com/au/privacy-policy/">
         <link rel="alternate" hreflang="en-GB" href="http://www.asos.com/privacy-policy/">
         <link rel="alternate" hreflang="ru-RU" href="http://www.asos.com/ru/privacy-policy/">
-    
+
+     
+<link rel="alternate" media="only screen and (max-width: 974px)" href="http://m.asos.com/privacy-policy/">
                
 
 
@@ -32,34 +34,57 @@
 <meta name="Slurp" content="NOYDIR">
     <link href="http://content.asos-media.com/~/media/240914045108en-GB/Images/global/iOS-Icons/apple-touch-icon.png" rel="apple-touch-icon">
     
-    <link rel="stylesheet" href="http://assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/MasterLayout.css">
+    <link rel="stylesheet" href="//assets.asosservices.com/MasterLayout/Stylesheets/MasterLayout/MasterLayoutBundle.css">
 
     
 
 
 <link rel="stylesheet" href="http://content.asos-media.com/~/media/020715105016en-GB/hotfix/Legal.css">	
     
-    <link rel="stylesheet" href="http://assets.asosservices.com/Store/Stylesheets/InfoPage/InfoPage.css">
+    <link rel="stylesheet" href="//assets.asosservices.com/Store/Stylesheets/InfoPage/InfoPage.css">
 
 
 
 
 
 
-<script src="//fonts.asos.com/lqd0ibp.js" type="text/javascript" async=""></script><script type="text/javascript" src="//assets.asosservices.com/asos-ui/Core/core.0.2.0.min.js"></script>
+
+
+
+<script src="https://fonts.asos.com/lqd0ibp.js" async=""></script><script type="text/javascript" src="//assets.asosservices.com/MasterLayout/Src/MasterLayout/Libs/nRelic.js"></script>
+
+<script type="text/javascript" src="https://assets.asosservices.com/MasterLayout/Javascript/MasterLayout/core.0.4.3.min.js"></script>
+
+
+
+<script type="text/javascript" src="https://assets.asosservices.com/asos-ui/FeaturesStoreControl.js"></script>
+
+ 
+
+
+<script type="text/javascript" src="https://assets.asosservices.com/identity/widgets/standalone/sdk.1.0.1.js"></script>
+
+
+<script type="text/javascript" src="https://assets.asosservices.com/MasterLayout/Javascript/MasterLayout/MasterLayout.Sdk.min.js"></script>
+
 <script type="text/javascript">
 
     require.config({
-        baseUrl: "http://assets.asosservices.com/MasterLayout/Src"
+        baseUrl: "//assets.asosservices.com/MasterLayout/Src"
     });
 
 </script>
     
-<script src="http://assets.asosservices.com/Store/Src/Libs/jquery-1.7.2.min.js"></script>
+
     
+<script src="//assets.asosservices.com/Store/Src/Libs/jquery-1.7.2.min.js"></script>
+
     
     <script type="text/javascript">
-
+    var Navigation = {
+        PageType:'help and faq', 
+        CountryCode:  'GB'
+    };
     define("Global.Config", ['devicetype'], function(devicetype) {
         return {
             siteDomain: 'www.asos.com',
@@ -68,9 +93,12 @@
             thousandsSeparator: ',',
             decimalSeparator: '.',
             languageCode: 'en',
+            geoLocationCountryCode: 'US',
+            storeCode: 'COM',
             regionalIsoCode: 'en-GB',
+            sizeSchema: 'UK',
             pageId: 'ccdc8449-4157-4c7a-86a4-dc5bd3faab86',
-            assetsPath: 'http://assets.asosservices.com/MasterLayout',
+            assetsPath: '//assets.asosservices.com/MasterLayout',
             usablenetPrefix: '',
             pageMode: 'Normal',
             pageType: 'help and faq',
@@ -84,12 +112,41 @@
             country: 'UK',
             countryCode: 'GB',
             gender: null,
+            bagServiceUrl: 'https://www.asos.com/api',
+            savedItemsServiceUrl: 'https://www.asos.com/api',
+            productCatalogueServiceUrl: '/api',
+            paymentOptionsServiceUrl: '/api',
+            subscriptionOptionsServiceUrl: 'https://www.asos.com/api',
+            pageLinks: {
+  checkout: 'https://secure.asos.com',
+  savedItemsPage: 'http://www.asos.com/saved-items/',
+  homepage: 'http://www.asos.com/',
+  voucherPage: 'https://www.asos.com/voucher-purchase/',
+  productPage: 'http://www.asos.com/prd/',
+  deliveryOptionsPage: {
+    delivery: 'http://www.asos.com/customer-service/delivery/',
+    premierDelivery: 'http://www.asos.com/customer-service/premier-delivery/',
+    deliverySummary: 'http://www.asos.com/customer-service/delivery/summary/',
+    returns: 'http://www.asos.com/customer-service/returns/'
+  },
+  checkoutLink: 'https://secure.asos.com/initialise',
+  newInClothingPage: 'http://www.asos.com/',
+  bagPage: 'http://www.asos.com/bag/',
+  sdkPostMessageUrl: 'https://www.asos.com/bag/gateway/'
+},
+            isProduction: true,
+            isSDK: false,
             brightTag: {
                 queryStringKeys: { ctaRef: 'CTARef' },
                 siteIds: {
                     desktop: '1Ayo9uP',
                     mobile: 'wcmJfbG'
                 }
+            },
+            identity: {
+                identityOrigin: '',
+                authenticationHost: 'https://my.asos.com/identity',
+                clientId: 'D91F2DAA-898C-4E10-9102-D6C974AFBD59'
             },
             cookies: {
                 asos: 'asos',
@@ -124,16 +181,23 @@
     });
 </script>
 
+
+<script>
+    require(["FeaturesStoreControl","Utils","Global.Config"],function(e,o,t){"use strict";function r(){for(var o=e,t=Object.keys(o),r=0;r<t.length;r++){var i=t[r],a=o[i];n(i,a)}}function n(e,o){var r=t.storeCode.toLowerCase(),n=o[r],C=i(e,r),f=a(C);f?u(C,n):s(C,n)}function i(e,o){return"Enable"+e+"-"+o}function a(e){return""!==o.Cookies.readCookie(e,!0)}function u(e,t){var r="true"===o.Cookies.readCookie(e,!0).toLowerCase();r?s(e,t):s(e,"false")}function s(e,t){o.Cookies.writeCookie(e,t.toString(),1/24)}return new r});
+</script>
+
+
+
 <script>
     (function () {
-        var PreferredSite = function (e, t, r, o) { "use strict"; var i = {}; i.Cookies = function () { var e = function (e, t, r) { var o = {}; if (e) for (var i = e.split(t), n = 0; n < i.length; n++) { var s = i[n].indexOf(r); o[$.trim(i[n].substr(0, s))] = i[n].substr(s + 1) } return o }, t = function (e, t, r) { var o = []; for (var i in e) o.push(i + r + e[i]); return o.join(t) }, r = function (t) { var r = e(document.cookie, ";", "="), o = r[t] || ""; return unescape(o) }, o = function (t) { var o = r(t); return e(o, "&", "=") }, i = function (e) { return document.cookie.indexOf(e) >= 0 ? !0 : !1 }, n = function (e) { var t = new Date; t.setFullYear(1900, 1, 1), document.cookie = e + "=; expires=" + t.toUTCString() + "; path=/" }, s = function (e, t, r) { var o = ""; if (r) { var i = new Date; i.setTime(i.getTime() + 24 * r * 60 * 60 * 1e3), o = "; expires=" + i.toGMTString() } document.cookie = e + "=" + t + o + ";path=/" }; return { readCookie: r, cookieExists: i, clearCookie: n, readFromCookie: function (e, t) { var r = o(e); return r[t] || "" }, writeToCookie: function (e, r, i, n) { var u = o(e); u[r] = escape(i); var a = t(u, "&", "="); s(e, a, n) }, writeCookie: function (e, t, r) { s(e, escape(t), r) } } }(), i.QueryString = function () { var e = function () { for (var e, t = location.search.slice(1).split("&"), r = {}, o = t.length - 1; o >= 0; o--) e = t[o].split("="), r[e[0]] ? $.isArray(r[e[0]]) ? r[e[0]].push(e[1] || "") : r[e[0]] = [r[e[0]], e[1] || ""] : r[e[0]] = e[1] || ""; return r }; return { getValue: function (t) { return e()[t] } } }(); var n = function () { this.pageModes = { Normal: "Normal", Editing: "Editing", Preview: "Preview" }, this.config = e, this.config.cookies.asos = e.cookies.asos, this.config.siteHostsLookup = e.siteHostsLookup, this.protocol = location.protocol, this.defaultCookieExpiryDays = 365 }; n.prototype.isPageModeNormal = function () { return !this.isPageModeEdit() && !this.isPageModePreview() }, n.prototype.isPageModeEdit = function () { return "edit" === i.QueryString.getValue("sc_mode") }, n.prototype.isPageModePreview = function () { return "preview" === i.QueryString.getValue("sc_mode") }, n.prototype.getDefaultCookieExpiryDays = function () { return this.defaultCookieExpiryDays }, n.prototype.getPreferredSite = function () { if (0 === this.config.siteHostsLookup.length) return i.Cookies.readFromCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite); for (var e, t = i.Cookies.readFromCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite), r = t.replace(/\/$/, ""), o = 0; o < this.config.siteHostsLookup.length; o++) this.config.siteHostsLookup[o][0] === r && (e = this.config.siteHostsLookup[o][1]); return e || "" }, n.prototype.setPreferredSite = function (e) { if (0 === this.config.siteHostsLookup.length) i.Cookies.writeToCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite, e, this.defaultCookieExpiryDays); else { for (var t, r = e, o = 0; o < this.config.siteHostsLookup.length; o++) this.config.siteHostsLookup[o][1] === r && (t = this.config.siteHostsLookup[o][0]); t = t || "", i.Cookies.writeToCookie(this.config.cookies.asos, this.config.cookies.keys.preferredSite, t, this.defaultCookieExpiryDays) } }, n.prototype.getQueryStringParameterValue = function (e, t) { return this.getQueryStringParameterValueInternal(e, t, !1) }, n.prototype.joinQueryString = function (e) { var t = ""; for (var r in e) t = t + "&" + r + "=" + encodeURIComponent(e[r]); return "" != t && (t = t.substring(1)), t }, n.prototype.combineQueryStringParts = function (e) { var t = e[0]; return "" != e[1] && (t = t + "?" + e[1]), "" != e[2] && (t = t + "#" + e[2]), t }, n.prototype.queryStringExists = function (e, t) { var r = this.queryStringGetParts(e), o = this.queryStringSplitQuery(r[1]), i = o[t]; return "undefined" != typeof i ? !0 : !1 }, n.prototype.addQueryStringValue = function (e, t, r) { var o = this.queryStringGetParts(e), i = this.queryStringSplitQuery(o[1]); return i[t] = r, o[1] = this.joinQueryString(i), this.combineQueryStringParts(o) }, n.prototype.queryStringSplitQuery = function (e, t) { var r, o = []; e = e.split("&"); for (var i = 0; i < e.length; i++) r = e[i].split("="), r && "" != r && (r[0] = t === !0 ? r[0].toLowerCase() : r[0], o[r[0]] = decodeURIComponent(r[1])); return o }, n.prototype.queryStringGetParts = function (e) { var t = [], r = "", o = "", i = e.indexOf("#"); i >= 0 && (r = e.substring(i + 1), e = e.substring(0, i)); var n = e.indexOf("?"); return n >= 0 && (o = e.substring(n + 1), e = e.substring(0, n)), t.push(e), t.push(o), t.push(r), t }, n.prototype.getQueryStringParameterValueInternal = function (e, t, r) { var o = this.queryStringGetParts(e), i = this.queryStringSplitQuery(o[1], r); t = r === !0 ? t.toLowerCase() : t; var n = i[t]; return n ? n : "" }; var s = new n(location), u = function () { return this.CommonInstance = r || s, this.Utils = o || i, this.shouldRedirect = "Home Page" === e.pageType || "Floor Page" === e.pageType ? !0 : !1, s.isPageModeNormal() && this.shouldRedirect ? (this.windowLocation = t || window.location, this.currentSiteDomain = e.siteDomain, this.preferredSite = this.CommonInstance.getPreferredSite(), this.preferredSite || (this.preferredSite = ""), "mobile" === e.platform.toLowerCase() && (this.hasPreferredSiteSet() || this.setPreferredSiteToCurrent()), void this.performSiteCheck()) : !1 }; return u.prototype.hasPreferredSiteSet = function () { return "" != this.preferredSite }, u.prototype.setPreferredSiteToCurrent = function () { this.CommonInstance.setPreferredSite(this.currentSiteDomain) }, u.prototype.isCurrentRequestRedirect = function () { var e = this.CommonInstance.getQueryStringParameterValue(this.windowLocation.search, "r"); return "" != e }, u.prototype.shouldBeRedirectedToPreferredSite = function () { return "" != this.preferredSite && this.preferredSite.toLowerCase() != this.currentSiteDomain.toLowerCase() }, u.prototype.performSiteCheck = function () { if (this.isCurrentRequestRedirect()) this.CommonInstance.setPreferredSite(this.currentSiteDomain), this.preferredSite = this.currentSiteDomain; else if (this.shouldBeRedirectedToPreferredSite()) { var e = this.getRedirectionUrl(); this.windowLocation.assign(e) } }, u.prototype.getRedirectionUrl = function () { var t = this.Utils.Cookies.readFromCookie(e.cookies.asosStore, e.cookies.keys.preferredFloor), r = "/"; "1000" == t ? r += "women/" : "1001" == t && (r += "men/"); var o = this.CommonInstance.addQueryStringValue(r, "r", "1"); o += window.location.search.replace("?", "&"); var i = this.windowLocation.protocol; return i + "//" + this.preferredSite + o }, new u(e) };
+        var PreferredSite=function(e,t,r,i){"use strict";var o={};o.Cookies=function(){var e=function(e,t,r){var i={};if(e)for(var o=e.split(t),n=0;n<o.length;n++){var s=o[n].indexOf(r);i[$.trim(o[n].substr(0,s))]=o[n].substr(s+1)}return i},t=function(e,t,r){var i=[];for(var o in e)i.push(o+r+e[o]);return i.join(t)},r=function(t){var r=e(document.cookie,";","="),i=r[t]||"";return unescape(i)},i=function(t){var i=r(t);return e(i,"&","=")},o=function(e){return document.cookie.indexOf(e)>=0?!0:!1},n=function(e){var t=new Date;t.setFullYear(1900,1,1),document.cookie=e+"=; expires="+t.toUTCString()+"; path=/"},s=function(e,t,r){var i="";if(r){var o=new Date;o.setTime(o.getTime()+24*r*60*60*1e3),i="; expires="+o.toGMTString()}document.cookie=e+"="+t+i+";path=/"};return{readCookie:r,cookieExists:o,clearCookie:n,readFromCookie:function(e,t){var r=i(e);return r[t]||""},writeToCookie:function(e,r,o,n){var u=i(e);u[r]=escape(o);var a=t(u,"&","=");s(e,a,n)},writeCookie:function(e,t,r){s(e,escape(t),r)}}}(),o.QueryString=function(){var e=function(){for(var e,t=location.search.slice(1).split("&"),r={},i=t.length-1;i>=0;i--)e=t[i].split("="),r[e[0]]?$.isArray(r[e[0]])?r[e[0]].push(e[1]||""):r[e[0]]=[r[e[0]],e[1]||""]:r[e[0]]=e[1]||"";return r};return{getValue:function(t){return e()[t]}}}();var n=function(){this.pageModes={Normal:"Normal",Editing:"Editing",Preview:"Preview"},this.config=e,this.config.cookies.asos=e.cookies.asos,this.config.siteHostsLookup=e.siteHostsLookup,this.protocol=location.protocol,this.defaultCookieExpiryDays=365};n.prototype.isPageModeNormal=function(){return!this.isPageModeEdit()&&!this.isPageModePreview()},n.prototype.isPageModeEdit=function(){return"edit"===o.QueryString.getValue("sc_mode")},n.prototype.isPageModePreview=function(){return"preview"===o.QueryString.getValue("sc_mode")},n.prototype.getDefaultCookieExpiryDays=function(){return this.defaultCookieExpiryDays},n.prototype.getPreferredSite=function(){if(0===this.config.siteHostsLookup.length)return o.Cookies.readFromCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite);for(var e,t=o.Cookies.readFromCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite),r=t.replace(/\/$/,""),i=0;i<this.config.siteHostsLookup.length;i++)this.config.siteHostsLookup[i][0]===r&&(e=this.config.siteHostsLookup[i][1]);return e||""},n.prototype.setPreferredSite=function(e){if(0===this.config.siteHostsLookup.length)o.Cookies.writeToCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite,e,this.defaultCookieExpiryDays);else{for(var t,r=e,i=0;i<this.config.siteHostsLookup.length;i++)this.config.siteHostsLookup[i][1]===r&&(t=this.config.siteHostsLookup[i][0]);t=t||"",o.Cookies.writeToCookie(this.config.cookies.asos,this.config.cookies.keys.preferredSite,t,this.defaultCookieExpiryDays)}},n.prototype.getQueryStringParameterValue=function(e,t){return this.getQueryStringParameterValueInternal(e,t,!1)},n.prototype.joinQueryString=function(e){var t="";for(var r in e)t=t+"&"+r+"="+encodeURIComponent(e[r]);return""!=t&&(t=t.substring(1)),t},n.prototype.combineQueryStringParts=function(e){var t=e[0];return""!=e[1]&&(t=t+"?"+e[1]),""!=e[2]&&(t=t+"#"+e[2]),t},n.prototype.queryStringExists=function(e,t){var r=this.queryStringGetParts(e),i=this.queryStringSplitQuery(r[1]),o=i[t];return"undefined"!=typeof o?!0:!1},n.prototype.addQueryStringValue=function(e,t,r){var i=this.queryStringGetParts(e),o=this.queryStringSplitQuery(i[1]);return o[t]=r,i[1]=this.joinQueryString(o),this.combineQueryStringParts(i)},n.prototype.queryStringSplitQuery=function(e,t){var r,i=[];e=e.split("&");for(var o=0;o<e.length;o++)r=e[o].split("="),r&&""!=r&&(r[0]=t===!0?r[0].toLowerCase():r[0],i[r[0]]=decodeURIComponent(r[1]));return i},n.prototype.queryStringGetParts=function(e){var t=[],r="",i="",o=e.indexOf("#");o>=0&&(r=e.substring(o+1),e=e.substring(0,o));var n=e.indexOf("?");return n>=0&&(i=e.substring(n+1),e=e.substring(0,n)),t.push(e),t.push(i),t.push(r),t},n.prototype.getQueryStringParameterValueInternal=function(e,t,r){var i=this.queryStringGetParts(e),o=this.queryStringSplitQuery(i[1],r);t=r===!0?t.toLowerCase():t;var n=o[t];return n?n:""};var s=new n(location),u=function(){return this.CommonInstance=r||s,this.Utils=i||o,this.shouldRedirect="Home Page"===e.pageType||"Floor Page"===e.pageType?!0:!1,s.isPageModeNormal()&&this.shouldRedirect?(this.windowLocation=t||window.location,this.currentSiteDomain=e.siteDomain,this.preferredSite=this.CommonInstance.getPreferredSite(),this.preferredSite||(this.preferredSite=""),"mobile"===e.platform.toLowerCase()&&(this.hasPreferredSiteSet()||this.setPreferredSiteToCurrent()),void this.performSiteCheck()):!1};return u.prototype.hasPreferredSiteSet=function(){return""!=this.preferredSite},u.prototype.setPreferredSiteToCurrent=function(){this.CommonInstance.setPreferredSite(this.currentSiteDomain)},u.prototype.isCurrentRequestRedirect=function(){var e=this.CommonInstance.getQueryStringParameterValue(this.windowLocation.search,"r");return""!=e},u.prototype.shouldBeRedirectedToPreferredSite=function(){return e.isSDK&&!e.isProduction?!1:""!=this.preferredSite&&this.preferredSite.toLowerCase()!=this.currentSiteDomain.toLowerCase()},u.prototype.performSiteCheck=function(){if(this.isCurrentRequestRedirect())this.CommonInstance.setPreferredSite(this.currentSiteDomain),this.preferredSite=this.currentSiteDomain;else if(this.shouldBeRedirectedToPreferredSite()){var e=this.getRedirectionUrl();this.windowLocation.assign(e)}},u.prototype.getRedirectionUrl=function(){var t=this.Utils.Cookies.readFromCookie(e.cookies.asosStore,e.cookies.keys.preferredFloor),r="/";"1000"==t?r+="women/":"1001"==t&&(r+="men/");var i=this.CommonInstance.addQueryStringValue(r,"r","1");i+=window.location.search.replace("?","&");var o=this.windowLocation.protocol;return o+"//"+this.preferredSite+i},new u(e)};
         new PreferredSite({pageType: 'help and faq',siteDomain: 'www.asos.com',platform: $("html").attr('data-platform'),siteHostsLookup: [],cookies: {asos: 'asos',asosStore: 'asosStore',refName: 'dcsref',keys: {preferredFloor: 'PreferredFloor',preferredSite: 'PreferredSite'}}});
     })();
 </script>
 
     
     
-        <script src="//ci.asosservices.com/core/core.min.js"></script>
+        <script src="https://ci.asosservices.com/core/core.min.js"></script>
 
 
 
@@ -150,13 +214,15 @@
         
 
 <script type="text/javascript">
-    (function () {
+    (function(d) {
         var config = {
             kitId: 'lqd0ibp',
-            scriptTimeout: 3000
-        };
-        var h = document.getElementsByTagName("html")[0]; h.className += " wf-loading"; var t = setTimeout(function () { h.className = h.className.replace(/(\s|^)wf-loading(\s|$)/g, " "); h.className += " wf-inactive" }, config.scriptTimeout); var tk = document.createElement("script"), d = false; tk.src = '//fonts.asos.com/' + config.kitId + '.js'; tk.type = "text/javascript"; tk.async = "true"; tk.onload = tk.onreadystatechange = function () { var a = this.readyState; if (d || a && a != "complete" && a != "loaded") return; d = true; clearTimeout(t); try { Typekit.load(config) } catch (b) { } }; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(tk, s)
-    })();
+            scriptTimeout: 3000,
+            protocol: 'https:',
+            async: true
+        },
+        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://fonts.asos.com/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
 </script>
 
     
@@ -188,9 +254,9 @@
 	    </div>
 	<!-- /ko -->
 </div>
-         <a id="top-of-page"></a>
+     <a id="top-of-page"></a>
     
-   
+    
 
 
      <div class="site-body">
@@ -218,7 +284,7 @@ new brands and vintage boutiques                        <br>
 </nav>
 
     <a id="logo" href="http://www.asos.com/?hrd=1" title="Back to the Home Page">
-    <img src="http://content.asos-media.com/~/media/240613124858en-GB/Images/uk/Archive/june/asos-logo.png" alt="ASOS Discover Fashion Online">
+    <img src="https://assets.asosservices.com/MasterLayout/images/_header/asos-logo.png" alt="ASOS Discover Fashion Online">
 </a>
 
 
@@ -227,41 +293,41 @@ new brands and vintage boutiques                        <br>
     
 <div id="localisationMenu" class="locale-currency-select" data-bind="event: { mouseout: hideMenu, mouseover: clearTimeoutForMenuHide }">
 	<a title="Change currency or country site" data-bind="click: showMenu" class="currency-locale-link" href="#siteSelectorList" tabindex="0">
-        <span class="flag store-1">United Kingdom</span>
+		<span class="flag store-1">United Kingdom</span>
 		<span class="selected-currency" data-bind="text: selectedCurrencyText"></span>
-		<span class="menu-arrow-shadow"></span> 
+		<span class="menu-arrow-shadow"></span>
 		<span class="menu-arrow"></span>
 	</a>
 	<div class="menu">
-			<p class="current-country">
-                <span class="flag store-1"></span>
-                United Kingdom
-			</p>
-			<div class="currency-list">
-			    <label for="currencyList">Change currency:</label>
-			    <select id="currencyList" name="currency-list" data-bind="valueFromOptions: currencies, value: selectedCurrencyId">
-							<option data-label="GBP" value="1">£ GBP</option>
-							<option data-label="USD" value="2">$ USD</option>
-							<option data-label="CAD" value="3">C$ CAD</option>
-							<option data-label="SEK" value="8">kr SEK</option>
-							<option data-label="NOK" value="9">kr NOK</option>
-							<option data-label="DKK" value="10">kr DKK</option>
-							<option data-label="CHF" value="14">₣ CHF</option>
-							<option data-label="EUR" value="19"> € EUR</option>
-							<option data-label="AUD" value="21">$ AUD</option>
-							<option data-label="RMB" value="10021">¥ RMB</option>
-							<option data-label="HKD" value="10042">$ HKD</option>
-							<option data-label="NZD" value="10064">$ NZD</option>
-							<option data-label="SGD" value="10078">$ SGD</option>
-							<option data-label="TWD" value="10085">NT$ TWD</option>
-							<option data-label="RUB" value="10123">руб.  RUB</option>
-			    </select>
-			 </div>
+		<p class="current-country">
+			<span class="flag store-1"></span>
+			United Kingdom
+		</p>
+		<div class="currency-list">
+			<label for="currencyList">Change currency:</label>
+			<select id="currencyList" name="currency-list" data-bind="valueFromOptions: currencies, value: selectedCurrencyId">
+						<option data-label="GBP" value="1">£ GBP</option>
+						<option data-label="USD" value="2">$ USD</option>
+						<option data-label="CAD" value="3">C$ CAD</option>
+						<option data-label="SEK" value="8">kr SEK</option>
+						<option data-label="NOK" value="9">kr NOK</option>
+						<option data-label="DKK" value="10">kr DKK</option>
+						<option data-label="CHF" value="14">₣ CHF</option>
+						<option data-label="EUR" value="19"> € EUR</option>
+						<option data-label="AUD" value="21">$ AUD</option>
+						<option data-label="RMB" value="10021">¥ RMB</option>
+						<option data-label="HKD" value="10042">$ HKD</option>
+						<option data-label="NZD" value="10064">$ NZD</option>
+						<option data-label="SGD" value="10078">$ SGD</option>
+						<option data-label="TWD" value="10085">NT$ TWD</option>
+						<option data-label="RUB" value="10123">руб.  RUB</option>
+			</select>
+		</div>
 
-			 <div id="siteSelectorList" class="site-selector-list">
-			     <p>Other country sites</p>
+		<div id="siteSelectorList" class="site-selector-list">
+			<p>Other country sites</p>
 
-                     
+			
 <ul>
             <li class="site-selector-2">
                 <a href="http://www.asos.com/pgeSiteRedirect.aspx?referrer=http%3a%2f%2fwww.asos.com%2fprivacy-policy%2f%3fsetPrefSite%3dtrue&amp;to=us.asos.com" data-bind="event: { focus: setMenuClosedState, blur: closeMenuStateAndHideMenu }"> 
@@ -306,19 +372,142 @@ new brands and vintage boutiques                        <br>
                 </a>
             </li>
 </ul>
-                    
-			    
-				</div>
-	</div>     
+
+
+		</div>
+	</div>
+
+	<div id="alert-box" class="message-alert" data-bind="visible: showError()" style="display: none">
+		<!-- ko template: { name: 'messageAlert' } --><!-- /ko -->
+	</div>
 </div>
 
+<div id="countryalert-box" class="message-alert" data-bind="visible: showError()" style="display: none">
+	<!-- ko template: { name: 'messageAlert' } --><!-- /ko -->
+</div>
+
+<script type="text/html" id="messageAlert">
+	<div class="message-content">
+		<p data-bind="html: errorMessage, attr: {class: selectedStore()}"></p>
+	</div>
+	<div class="message-controls">
+		<!-- ko if: 'confirmButtonText' in $data -->
+		<a href="#" data-bind="text: confirmButtonText, click: confirm" class="button"></a>
+		<!-- /ko -->
+		<!-- ko if: 'closeButtonText' in $data -->
+		<a href="#" data-bind="text: closeButtonText, click: hideMessage"></a>
+		<!-- /ko -->
+	</div>
+</script>
+
 <script type="text/javascript">
-        define('CurrencySelector.Config', function () {
-            return {
-                domNode: '#localisationMenu'
-            };
-        });
-    </script>
+	define('CurrencySelector.Config', function () {
+		return {
+			domNode: '#localisationMenu',
+			alertDomNode: '#alert-box',
+			countryMessages: {
+				'GB': {
+					close: "Close"
+				},
+				'US': {
+					close: "Close"
+				},
+				'FR': {
+					close: "Close"
+				},
+				'DE': {
+					close: "Close"
+				},
+				'IT': {
+					close: "Close"
+				},
+				'ES': {
+					close: "Close"
+				},
+				'AU': {
+					close: "Close"
+				},
+				'RU': {
+					close: "Close"
+				}
+			}
+		};
+	});
+	define('CountrySelector.Config', function () {
+		return {
+			domNode: '#siteSelectorList',
+			alertDomNode: '#countryalert-box',
+			countryMessages: {
+				"store-1": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "United Kingdom",
+					storeName: "UK",
+					countryCode: "GB"
+				},
+				"store-2": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "United States",
+					storeName: "USA",
+					countryCode: "US"
+				},
+				"store-3": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					messageTvop: "You're changing store to:",
+					messageBottom: "Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "France",
+					storeName: "FR",
+					countryCode: "FR"
+				},
+				"store-4": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "Deutschland",
+					storeName: "DE",
+					countryCode: "DE"
+				},
+				"store-7": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "Italia",
+					storeName: "IT",
+					countryCode: "IT"
+				},
+				"store-8": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "España",
+					storeName: "ES",
+					countryCode: "ES"
+				},
+				"store-9": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "Australia",
+					storeName: "AU",
+					countryCode: "AU"
+				},
+				"store-12": {
+					message: "You're changing store to: {0}Any items in your bag will be removed.",
+					confirmButton: "Change Store",
+					cancelButton: "Cancel",
+					fullName: "Россия",
+					storeName: "RU",
+					countryCode: "RU"
+				}
+			}
+		};
+	});
+</script>
     
     
 <div class="search" data-bind="bodyMouseUp: clearSuggestions">
@@ -371,24 +560,24 @@ new brands and vintage boutiques                        <br>
 
     <div id="anonymous" class="your-account hide" data-bind="css: { 'hide': customerState() != 'Anonymous' }">
         <span class="anonymous">Welcome to ASOS</span>
-        <a href="https://my.asos.com/register?lang=en-GB&amp;returnurl=https://www.asos.com/pgecustlogin.aspx?backurl=http://www.asos.com/privacy-policy/" title="">Join</a> |
-        <a href="https://www.asos.com/pgecustlogin.aspx" title="">Sign In</a>
+        <a href="https://my.asos.com/register?lang=en-GB&amp;returnurl=https://www.asos.com/pgecustlogin.aspx?backurl=http://www.asos.com/privacy-policy/" title="" data-bind="click: registerClicked">Join</a> |
+        <a href="https://www.asos.com/pgecustlogin.aspx" title="" data-bind="click: signInClicked">Sign In</a>
     </div>
 
     <div id="recognised" class="your-account hide" data-bind="css: { 'hide': customerState() != 'Recognised' }">
         <span class="recognised">Hi <span data-bind="text: customerName() "></span>,</span>
-        <a href="https://www.asos.com/pgecustlogout.aspx" title="Signs this user out" class="sign-out">not you?</a>
+        <a href="https://www.asos.com/pgecustlogout.aspx" title="Signs this user out" class="sign-out" data-bind="click: signOutClicked">not you?</a>
     </div>
     <div id="signedin" class="your-account hide" data-bind="css: { 'hide': customerState() != 'SignedIn' }">
         <span class="signed-in">Hi <span data-bind="text: customerName() "></span>,</span>
-        <a href="https://www.asos.com/pgecustlogout.aspx" title="Signs this user out" class="sign-out">sign out</a>
+        <a href="https://www.asos.com/pgecustlogout.aspx" title="Signs this user out" class="sign-out" data-bind="click: signOutClicked">sign out</a>
     </div>
 
 </div>
     
     <div class="nav-hdrlinks-wrap">
         
-<nav class="site-navigation">
+<nav class="site-navigation" data-bind="template: {name: 'wrapper', data: navigationData}">
     <ul class="floor-menus">
             <li class="home">
                 <a href="http://www.asos.com/?hrd=1">Home</a>
@@ -405,123 +594,123 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/sale/?via=top" class="red">SALE NOW ON</a></li>
 
 
-    <li><a href="http://www.asos.com/women/sale/dresses/cat/pgecategory.aspx?cid=5235&amp;via=top" class="red">SALE: Dresses</a></li>
+    <li><a href="http://www.asos.com/women/sale/dresses/cat/?cid=5235&amp;via=top" class="red">SALE: Dresses</a></li>
 
 
-    <li><a href="http://www.asos.com/women/sale/shoes/cat/pgecategory.aspx?cid=1931&amp;via=top" class="red">SALE: Shoes</a></li>
+    <li><a href="http://www.asos.com/women/sale/shoes/cat/?cid=1931&amp;via=top" class="red">SALE: Shoes</a></li>
 
 
-    <li><a href="http://www.asos.com/women/new-in-clothing/cat/pgecategory.aspx?cid=2623&amp;via=top">New In:  Clothing</a></li>
+    <li><a href="http://www.asos.com/women/new-in-clothing/cat/?cid=2623&amp;via=top">New In:  Clothing</a></li>
 
 
-    <li><a href="http://www.asos.com/women/new-in-shoes-accs/cat/pgecategory.aspx?cid=6992&amp;via=top">New In: Shoes &amp; Accs</a></li>
+    <li><a href="http://www.asos.com/women/new-in-shoes-accs/cat/?cid=6992&amp;via=top">New In: Shoes &amp; Accs</a></li>
 
 
-    <li><a href="http://www.asos.com/daily-deals/cat/pgecategory.aspx?cid=14788&amp;via=top" class="branddirectory">OUTLET: New In</a></li>
+    <li><a href="http://www.asos.com/women/beauty/new-in/cat/?cid=2426&amp;via=top">New In: Beauty </a></li>
 
 
-    <li><a href="http://www.asos.com/women/accessories/cat/pgecategory.aspx?cid=4174&amp;via=top">Accessories</a></li>
+    <li><a href="http://www.asos.com/women/ctas/daily-deals/cat/?cid=14788&amp;via=top" class="branddirectory">Outlet: New In</a></li>
 
 
-    <li><a href="http://www.asos.com/women/tops/asos-basics/cat/pgecategory.aspx?cid=17459&amp;via=top">ASOS Basic Tops</a></li>
+    <li><a href="http://www.asos.com/women/accessories/cat/?cid=4174&amp;via=top">Accessories</a></li>
 
 
-    <li><a href="http://www.asos.com/women/bags-purses/cat/pgecategory.aspx?cid=8730&amp;via=top">Bags &amp; Purses</a></li>
+    <li><a href="http://www.asos.com/women/tops/asos-basics/cat/?cid=17459&amp;via=top">ASOS Basic Tops</a></li>
+
+
+    <li><a href="http://www.asos.com/women/bags-purses/cat/?cid=8730&amp;via=top">Bags &amp; Purses</a></li>
 
 
     <li><a href="http://www.asos.com/women/beauty/?via=top">Beauty</a></li>
 
 
-    <li><a href="http://www.asos.com/women/blazers/cat/pgecategory.aspx?cid=11896&amp;via=top">Blazers</a></li>
+    <li><a href="http://www.asos.com/women/coats-jackets/blazers/cat/?cid=11896&amp;via=top">Blazers</a></li>
 
 
-    <li><a href="http://www.asos.com/women/co-ords/cat/pgecategory.aspx?cid=19632&amp;via=top">Co-ords</a></li>
+    <li><a href="http://www.asos.com/women/coats-jackets/cat/?cid=2641&amp;via=top">Coats &amp; Jackets</a></li>
 
 
-    <li><a href="http://www.asos.com/women/coats-jackets/cat/pgecategory.aspx?cid=2641&amp;via=top">Coats &amp; Jackets</a></li>
+    <li><a href="http://www.asos.com/women/curve-plus-size/cat/?cid=9577&amp;via=top">Curve &amp; Plus Size</a></li>
 
 
-    <li><a href="http://www.asos.com/women/curve-plus-size/cat/pgecategory.aspx?cid=9577&amp;via=top">Curve &amp; Plus Size</a></li>
+    <li><a href="http://www.asos.com/women/denim/cat/?cid=17014&amp;via=top">Denim </a></li>
 
 
-    <li><a href="http://www.asos.com/denim/cat/pgecategory.aspx?cid=17014&amp;via=top">Denim </a></li>
+    <li><a href="http://www.asos.com/women/designer-view-all/cat/?cid=15210&amp;via=top">Designer</a></li>
 
 
-    <li><a href="http://www.asos.com/womens-designer/designer-view-all/cat/pgecategory.aspx?cid=15210&amp;via=top">Designer</a></li>
+    <li><a href="http://www.asos.com/women/dresses/cat/?cid=8799&amp;via=top">Dresses</a></li>
 
 
-    <li><a href="http://www.asos.com/women/dresses/cat/pgecategory.aspx?cid=8799&amp;via=top">Dresses</a></li>
+    <li><a href="http://www.asos.com/women/gifts-for-her/cat/?cid=16095&amp;via=top">Gifts </a></li>
 
 
-    <li><a href="http://www.asos.com/women/gifts-for-her/cat/pgecategory.aspx?cid=16095&amp;wt.ac=ww%7cnav%7cgifts&amp;via=top">Gifts</a></li>
+    <li><a href="http://www.asos.com/women/tops/hoodies-sweatshirts/cat/?cid=11321&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
 
 
-    <li><a href="http://www.asos.com/women/hoodies-sweatshirts/cat/pgecategory.aspx?cid=11321&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
-
-
-    <li><a href="http://www.asos.com/women/jeans/cat/pgecategory.aspx?cid=3630&amp;via=top">Jeans</a></li>
+    <li><a href="http://www.asos.com/women/jeans/cat/?cid=3630&amp;via=top">Jeans</a></li>
                                                 </ul>
                                                     <ul class="items">
 
 
-    <li><a href="http://www.asos.com/women/jewellery-watches/cat/pgecategory.aspx?cid=4175&amp;via=top">Jewellery &amp; Watches</a></li>
+    <li><a href="http://www.asos.com/women/jewellery-watches/cat/?cid=4175&amp;via=top">Jewellery &amp; Watches</a></li>
 
 
-    <li><a href="http://www.asos.com/women/jumpers-cardigans/cat/pgecategory.aspx?cid=2637&amp;via=top">Jumpers &amp; Cardigans</a></li>
+    <li><a href="http://www.asos.com/women/jumpers-cardigans/cat/?cid=2637&amp;via=top">Jumpers &amp; Cardigans</a></li>
 
 
-    <li><a href="http://www.asos.com/women/jumpsuits-playsuits/cat/pgecategory.aspx?cid=7618&amp;via=top">Jumpsuits &amp; Playsuits</a></li>
+    <li><a href="http://www.asos.com/women/jumpsuits-playsuits/cat/?cid=7618&amp;via=top">Jumpsuits &amp; Playsuits</a></li>
 
 
-    <li><a href="http://www.asos.com/women/lingerie-nightwear/cat/pgecategory.aspx?cid=6046&amp;via=top">Lingerie &amp; Nightwear</a></li>
+    <li><a href="http://www.asos.com/women/lingerie-nightwear/cat/?cid=6046&amp;via=top">Lingerie &amp; Nightwear</a></li>
 
 
-    <li><a href="http://www.asos.com/loungewear/cat/pgecategory.aspx?cid=21867+&amp;via=top">Loungewear</a></li>
+    <li><a href="http://www.asos.com/women/loungewear/cat/?cid=21867&amp;via=top">Loungewear</a></li>
 
 
-    <li><a href="http://www.asos.com/women/maternity/cat/pgecategory.aspx?cid=5813&amp;via=top">Maternity</a></li>
+    <li><a href="http://www.asos.com/women/maternity/cat/?cid=5813&amp;via=top">Maternity</a></li>
 
 
-    <li><a href="http://www.asos.com/women/petite/cat/pgecategory.aspx?cid=4177&amp;via=top">Petite</a></li>
+    <li><a href="http://www.asos.com/women/petite/cat/?cid=4177&amp;via=top">Petite</a></li>
 
 
-    <li><a href="http://www.asos.com/women/tops/shirts-blouses/cat/pgecategory.aspx?cid=11318&amp;wt.ac=ww%7cnav%7cshirtsblouses&amp;via=top">Shirts &amp; Blouses</a></li>
+    <li><a href="http://www.asos.com/women/tops/shirts-blouses/cat/?cid=11318&amp;via=top">Shirts &amp; Blouses</a></li>
 
 
-    <li><a href="http://www.asos.com/women/shoes/cat/pgecategory.aspx?cid=4172&amp;via=top">Shoes</a></li>
+    <li><a href="http://www.asos.com/women/shoes/cat/?cid=4172&amp;via=top">Shoes</a></li>
 
 
-    <li><a href="http://www.asos.com/women/shorts/cat/pgecategory.aspx?cid=9263&amp;via=top">Shorts</a></li>
+    <li><a href="http://www.asos.com/women/shorts/cat/?cid=9263&amp;via=top">Shorts</a></li>
 
 
-    <li><a href="http://www.asos.com/women/skirts/cat/pgecategory.aspx?cid=2639&amp;via=top">Skirts</a></li>
+    <li><a href="http://www.asos.com/women/skirts/cat/?cid=2639&amp;via=top">Skirts</a></li>
 
 
-    <li><a href="http://www.asos.com/women/socks-tights/cat/pgecategory.aspx?cid=7657&amp;via=top">Socks &amp; Tights</a></li>
+    <li><a href="http://www.asos.com/women/socks-tights/cat/?cid=7657&amp;via=top">Socks &amp; Tights</a></li>
 
 
-    <li><a href="http://www.asos.com/women/sunglasses/cat/pgecategory.aspx?cid=4545&amp;via=top">Sunglasses</a></li>
+    <li><a href="http://www.asos.com/women/sunglasses/cat/?cid=4545&amp;via=top">Sunglasses</a></li>
 
 
-    <li><a href="http://www.asos.com/women/swimwear-beachwear/cat/pgecategory.aspx?cid=2238&amp;via=top">Swimwear &amp; Beachwear</a></li>
+    <li><a href="http://www.asos.com/women/swimwear-beachwear/cat/?cid=2238&amp;via=top">Swimwear &amp; Beachwear</a></li>
 
 
-    <li><a href="http://www.asos.com/women/t-shirts-vests/cat/pgecategory.aspx?cid=4718&amp;via=top">T-Shirts &amp; Vests</a></li>
+    <li><a href="http://www.asos.com/women/tops/t-shirts-vests/cat/?cid=4718&amp;via=top">T-Shirts &amp; Vests</a></li>
 
 
-    <li><a href="http://www.asos.com/women/tall/cat/pgecategory.aspx?cid=18984&amp;via=top">Tall</a></li>
+    <li><a href="http://www.asos.com/women/tall/cat/?cid=18984&amp;via=top">Tall</a></li>
 
 
-    <li><a href="http://www.asos.com/women/tops/cat/pgecategory.aspx?cid=4169&amp;via=top">Tops</a></li>
+    <li><a href="http://www.asos.com/women/tops/cat/?cid=4169&amp;via=top">Tops</a></li>
 
 
-    <li><a href="http://www.asos.com/women/trousers-leggings/cat/pgecategory.aspx?cid=2640&amp;via=top">Trousers &amp; Leggings</a></li>
+    <li><a href="http://www.asos.com/women/trousers-leggings/cat/?cid=2640&amp;via=top">Trousers &amp; Leggings</a></li>
 
 
-    <li><a href="http://www.asos.com/women/suits-separates/cat/pgecategory.aspx?cid=13632&amp;via=top">Workwear Suits</a></li>
+    <li><a href="http://www.asos.com/women/suits-separates/cat/?cid=13632&amp;via=top">Workwear Suits</a></li>
 
 
-    <li><a href="http://www.asos.com/women/multi-packs-save/cat/pgecategory.aspx?cid=19224&amp;via=top" class="red">Multipacks SAVE</a></li>
+    <li><a href="http://www.asos.com/women/multi-packs-save/cat/?cid=19224&amp;via=top" class="red">Multipacks SAVE</a></li>
                                                     </ul>
                                         </dd>
                                     </dl>
@@ -534,10 +723,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/adidas/cat/?cid=5906&amp;via=top">adidas</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-africa/cat/?cid=15683&amp;via=top">ASOS Africa</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-collection/cat/?cid=4877&amp;via=top">ASOS</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/asos-white/cat/?cid=11761&amp;via=top">ASOS White</a></li>
+
+
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/boohoo/cat/?cid=12936&amp;via=top">Boohoo</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/chi-chi/cat/?cid=19316&amp;via=top">Chi Chi London</a></li>
@@ -546,16 +738,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/glamorous/cat/?cid=15307&amp;via=top">Glamorous</a></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/lipsy/cat/?cid=1503&amp;via=top">Lipsy</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/miss-selfridge/cat/?cid=25520&amp;via=top">Miss Selfridge</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/missguided/cat/?cid=14001&amp;via=top">Missguided</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/monki/cat/?cid=17556&amp;via=top">Monki</a></li>
-
-
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/new-balance/cat/?cid=15892&amp;via=top">New Balance</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/new-look/cat/?cid=15872&amp;via=top">New Look</a></li>
@@ -567,13 +756,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/noisy-may/cat/?cid=17564&amp;via=top">Noisy May</a></li>
 
 
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/office/cat/?cid=25411&amp;via=top">Office</a></li>
+
+
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/reclaimed-vintage/cat/?cid=10597&amp;via=top">Reclaimed Vintage</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/river-island/cat/?cid=12268&amp;via=top">River Island</a></li>
-
-
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/vila/cat/?cid=6425&amp;via=top">Vila</a></li>
 
 
     <li><a href="http://www.asos.com/women/a-to-z-of-brands/weekday/cat/?cid=19511&amp;via=top">Weekday</a></li>
@@ -582,13 +771,13 @@ new brands and vintage boutiques                        <br>
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/women/a-to-z-of-brands/cat/pgehtml.aspx?cid=1340&amp;via=top" class="branddirectory">A To Z Of Brands</a></li>
+    <li><a href="http://www.asos.com/women/a-to-z-of-brands/cat/?cid=1340&amp;via=top" class="branddirectory">A To Z Of Brands</a></li>
 
 
-    <li><a href="http://www.asos.com/exclusives/cat/pgecategory.aspx?cid=16979&amp;wt.ac=ww%7cnav%7cexclusives&amp;via=top">Exclusive To ASOS</a></li>
+    <li><a href="http://www.asos.com/women/exclusives/cat/?cid=16979&amp;via=top">Exclusive To ASOS</a></li>
 
 
-    <li><a href="http://www.asos.com/women/eco-brands/cat/pgecategory.aspx?cid=10062&amp;via=top">Eco Edit</a></li>
+    <li><a href="http://www.asos.com/women/eco-brands/cat/?cid=10062&amp;via=top">Eco Edit</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -598,37 +787,37 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/ss-fashion-trend-7/cat/pgecategory.aspx?cid=20242&amp;via=top">Trend: Modern Romance</a></li>
+    <li><a href="http://www.asos.com/women/party-wear/cat/?cid=18761&amp;via=top">Partywear</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-6/cat/pgecategory.aspx?cid=13501&amp;via=top">Street Classics</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-7/cat/pgecategory.aspx?cid=16900&amp;via=top">Party Accessories</a></li>
 
 
-    <li><a href="http://www.asos.com/festival/cat/pgecategory.aspx?cid=7662&amp;via=top">Festival</a></li>
+    <li><a href="http://www.asos.com/women/ctas/fashion-online-20/cat/?cid=13525&amp;via=top">Party Hot Pieces</a></li>
+
+
+    <li><a href="http://www.asos.com/women/ctas/fashion-online-6/cat/?cid=13501&amp;via=top">Street Classics</a></li>
 
 
     <li class="spacer"></li>
-
-
-    <li><a href="http://www.asos.com/fashion-online-5/look-5/cat/pgecategory.aspx?cid=16890&amp;via=top">Summer Shop</a></li>
 
 
     <li><a href="http://www.asos.com/fashion-online-5/look-4/cat/pgecategory.aspx?cid=16889&amp;via=top">Wedding Shop</a></li>
 
 
-    <li><a href="http://www.asos.com/going-out-outfits/cat/pgecategory.aspx?cid=19903&amp;via=top">Going Out-Out</a></li>
+    <li><a href="http://www.asos.com/women/workwear/cat/?cid=19645&amp;via=top">Workwear</a></li>
 
 
-    <li><a href="http://www.asos.com/workwear/cat/pgecategory.aspx?cid=19645&amp;wt.ac=nav%7cwork&amp;via=top">Workwear</a></li>
+    <li><a href="http://www.asos.com/women/beach-bound/cat/?cid=6446&amp;via=top">Holiday</a></li>
 
 
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/women/marketplace-edits/cat/pgehtml.aspx?cid=19024+&amp;via=top" class="branddirectory">ASOS MARKETPLACE</a></li>
+    <li><a href="http://www.asos.com/women/marketplace-edits/cat/pgehtml.aspx?cid=19024&amp;via=top" class="branddirectory">ASOS MARKETPLACE</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-18/cat/pgecategory.aspx?cid=13521&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-3/cat/pgecategory.aspx?via=top" class="red">Up To 70% Off Sale!</a></li>
 
 
     <li><a href="http://www.asos.com/women/new-in-vintage/cat/pgehtml.aspx?cid=19566&amp;via=top">New In: Vintage </a></li>
@@ -643,13 +832,13 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/women/marketplace-edits/cat/pgehtml.aspx?cid=19024&amp;via=top" class="branddirectory">Marketplace Edits</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-5/look-6/cat/pgecategory.aspx?cid=16899&amp;via=top">Retro Festival</a></li>
+    <li><a href="http://www.asos.com/fashion-online-17/cat/pgecategory.aspx?cid=13518&amp;via=top">New Season Faves</a></li>
 
 
-    <li><a href="http://www.asos.com/women/scandi-style/cat/pgehtml.aspx?cid=21799&amp;via=top">Scandi Style </a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-6/cat/pgecategory.aspx?cid=16899&amp;via=top">Retro Jackets</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-5/cat/pgecategory.aspx?cid=13499&amp;via=top">Reworked Staples</a></li>
+    <li><a href="http://www.asos.com/fashion-online-5/look-1/cat/pgecategory.aspx?cid=16886&amp;via=top">90s Vintage</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -667,123 +856,105 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/sale/?via=top" class="red">SALE NOW ON</a></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/shoes-trainers/cat/pgecategory.aspx?cid=1935+&amp;via=top" class="red">SALE: Footwear</a></li>
+    <li><a href="http://www.asos.com/men/sale/shoes-trainers/cat/?cid=1935&amp;via=top" class="red">SALE: Footwear</a></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/t-shirts-vests/cat/pgecategory.aspx?cid=5232+&amp;via=top" class="red">SALE: T-Shirts </a></li>
+    <li><a href="http://www.asos.com/men/sale/jackets-coats/cat/?cid=2112&amp;via=top" class="red">SALE: Jackets &amp; Coats</a></li>
 
 
-    <li><a href="http://www.asos.com/men/new-in-clothing/cat/pgecategory.aspx?cid=6993&amp;via=top">New In: Clothing</a></li>
+    <li><a href="http://www.asos.com/men/new-in-clothing/cat/?cid=6993&amp;via=top">New In: Clothing</a></li>
 
 
-    <li><a href="http://www.asos.com/men/t-shirts/new-in-t-shirts/cat/pgecategory.aspx?cid=20778+&amp;via=top">New In: T-Shirts</a></li>
+    <li><a href="http://www.asos.com/men/shoes-boots-trainers/new-in-shoes-accs/cat/?cid=17184&amp;via=top">New In: Shoes &amp; Accs</a></li>
 
 
-    <li><a href="http://www.asos.com/men/new-in-shoes/cat/pgecategory.aspx?cid=17184&amp;via=top">New In: Shoes</a></li>
-
-
-    <li><a href="http://www.asos.com/men/new-in-accessories/cat/pgecategory.aspx?cid=17185&amp;via=top">New In: Accessories</a></li>
+    <li><a href="http://www.asos.com/men/sale/new-lines-added/cat/?cid=9862&amp;via=top" class="branddirectory">Outlet: New In</a></li>
 
 
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/men/sale/new-lines-added/cat/pgecategory.aspx?cid=9862&amp;via=top" class="branddirectory">OUTLET: New In </a></li>
+    <li><a href="http://www.asos.com/men/accessories/cat/?cid=4210&amp;via=top">Accessories</a></li>
 
 
-    <li><a href="http://www.asos.com/men/accessories/cat/pgecategory.aspx?cid=4210&amp;via=top">Accessories</a></li>
+    <li><a href="http://www.asos.com/men/bags/cat/?cid=9265&amp;via=top">Bags</a></li>
 
 
-    <li><a href="http://www.asos.com/men/basic-tops/cat/pgecategory.aspx?cid=21508&amp;via=top">ASOS Basic Tops</a></li>
+    <li><a href="http://www.asos.com/men/jackets-coats/blazers/cat/?cid=11903&amp;via=top">Blazers</a></li>
 
 
-    <li><a href="http://www.asos.com/men/bags/cat/pgecategory.aspx?cid=9265&amp;via=top">Bags</a></li>
+    <li><a href="http://www.asos.com/men/accessories/caps-hats/cat/?cid=6517&amp;via=top">Caps &amp; Hats</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jackets-coats/blazers/cat/pgecategory.aspx?cid=11903&amp;via=top">Blazers</a></li>
+    <li><a href="http://www.asos.com/men/gifts/cat/?cid=16091&amp;via=top">Gifts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/accessories/caps-hats/cat/pgecategory.aspx?cid=6517+&amp;via=top">Caps &amp; Hats</a></li>
+    <li><a href="http://www.asos.com/men/grooming/cat/?cid=19517&amp;via=top">Grooming</a></li>
 
 
-    <li><a href="http://www.asos.com/men/gifts-for-men/cat/pgecategory.aspx?cid=16091+&amp;via=top">Gifts</a></li>
+    <li><a href="http://www.asos.com/men/hoodies-sweatshirts/cat/?cid=5668&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/grooming/cat/pgecategory.aspx?cid=19517&amp;via=top">Grooming</a></li>
+    <li><a href="http://www.asos.com/men/jackets-coats/cat/?cid=3606&amp;via=top">Jackets &amp; Coats</a></li>
 
 
-    <li><a href="http://www.asos.com/men/hoodies-sweatshirts/cat/pgecategory.aspx?cid=5668&amp;via=top">Hoodies &amp; Sweatshirts</a></li>
+    <li><a href="http://www.asos.com/men/jeans/cat/?cid=4208&amp;via=top">Jeans</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jackets-coats/cat/pgecategory.aspx?cid=3606&amp;via=top">Jackets &amp; Coats</a></li>
+    <li><a href="http://www.asos.com/men/jewellery/cat/?cid=11330&amp;via=top">Jewellery</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jeans/cat/pgecategory.aspx?cid=4208&amp;via=top">Jeans</a></li>
+    <li><a href="http://www.asos.com/men/trousers-chinos/sweat-pants/cat/?cid=14274&amp;via=top">Joggers</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jewellery/cat/pgecategory.aspx?cid=11330&amp;via=top">Jewellery</a></li>
+    <li><a href="http://www.asos.com/men/jumpers-cardigans/cat/?cid=7617&amp;via=top">Jumpers &amp; Cardigans</a></li>
+
+
+    <li><a href="http://www.asos.com/men/loungewear/cat/?cid=18797&amp;via=top">Loungewear</a></li>
                                                 </ul>
                                                     <ul class="items">
 
 
-    <li><a href="http://www.asos.com/men/trousers-chinos/sweat-pants/cat/pgecategory.aspx?cid=14274&amp;via=top">Joggers</a></li>
+    <li><a href="http://www.asos.com/men/plus-size/cat/?cid=25997&amp;via=top" class="branddirectory">Plus Size</a></li>
 
 
-    <li><a href="http://www.asos.com/men/jumpers-cardigans/cat/pgecategory.aspx?cid=7617&amp;via=top">Jumpers &amp; Cardigans</a></li>
+    <li><a href="http://www.asos.com/men/polo-shirts/cat/?cid=4616&amp;via=top">Polo Shirts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/leather-jackets/cat/pgecategory.aspx?cid=11760&amp;via=top">Leather Jackets</a></li>
+    <li><a href="http://www.asos.com/men/shirts/cat/?cid=3602&amp;via=top">Shirts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/long-sleeve-t-shirts/cat/pgecategory.aspx?cid=13084&amp;via=top">Long Sleeve T-Shirts</a></li>
+    <li><a href="http://www.asos.com/men/shoes-boots-trainers/cat/?cid=4209&amp;via=top">Shoes, Boots &amp; Trainers</a></li>
 
 
-    <li><a href="http://www.asos.com/men/underwear-socks/loungewear/cat/pgecategory.aspx?cid=18797+&amp;via=top">Loungewear</a></li>
+    <li><a href="http://www.asos.com/men/shorts/cat/?cid=7078&amp;via=top">Shorts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/t-shirts/oversized-t-shirts-sweatshirts/cat/pgecategory.aspx?cid=19449&amp;wt.ac=mw%7cnav%7coversized&amp;via=top">Oversized &amp; Longline</a></li>
+    <li><a href="http://www.asos.com/men/suits/cat/?cid=5678&amp;via=top">Suits</a></li>
 
 
-    <li><a href="http://www.asos.com/men/polo-shirts/cat/pgecategory.aspx?cid=4616&amp;via=top">Polo Shirts</a></li>
+    <li><a href="http://www.asos.com/men/sunglasses/cat/?cid=6519&amp;via=top">Sunglasses</a></li>
 
 
-    <li><a href="http://www.asos.com/men/shirts/cat/pgecategory.aspx?cid=3602&amp;via=top">Shirts</a></li>
+    <li><a href="http://www.asos.com/men/swimwear/cat/?cid=13210&amp;via=top">Swimwear</a></li>
 
 
-    <li><a href="http://www.asos.com/men/shoes-boots-trainers/cat/pgecategory.aspx?cid=4209&amp;via=top">Shoes, Boots &amp; Trainers</a></li>
+    <li><a href="http://www.asos.com/men/tall/cat/?cid=20753&amp;via=top" class="branddirectory">Tall</a></li>
 
 
-    <li><a href="http://www.asos.com/men/shorts/cat/pgecategory.aspx?cid=7078&amp;via=top">Shorts</a></li>
+    <li><a href="http://www.asos.com/men/trousers-chinos/cat/?cid=4910&amp;via=top">Trousers &amp; Chinos</a></li>
 
 
-    <li><a href="http://www.asos.com/men/suits/cat/pgecategory.aspx?cid=5678&amp;via=top">Suits</a></li>
+    <li><a href="http://www.asos.com/men/t-shirts-vests/cat/?cid=7616&amp;via=top">T-Shirts &amp; Vests</a></li>
 
 
-    <li><a href="http://www.asos.com/men/sunglasses/cat/pgecategory.aspx?cid=6519&amp;via=top">Sunglasses</a></li>
+    <li><a href="http://www.asos.com/men/underwear-socks/cat/?cid=4030&amp;via=top">Underwear &amp; Socks</a></li>
 
 
-    <li><a href="http://www.asos.com/men/swimwear/cat/pgecategory.aspx?cid=13210&amp;via=top">Swimwear</a></li>
+    <li><a href="http://www.asos.com/men/watches/cat/?cid=5034&amp;via=top">Watches</a></li>
 
 
-    <li><a href="http://www.asos.com/men/trousers-chinos/cat/pgecategory.aspx?cid=4910&amp;via=top">Trousers &amp; Chinos</a></li>
-
-
-    <li><a href="http://www.asos.com/men/t-shirts/cat/pgecategory.aspx?cid=7616&amp;via=top">T-Shirts </a></li>
-
-
-    <li><a href="http://www.asos.com/men/underwear-socks/cat/pgecategory.aspx?cid=4030&amp;via=top">Underwear &amp; Socks</a></li>
-
-
-    <li><a href="http://www.asos.com/men/vests/cat/pgecategory.aspx?cid=9178&amp;via=top">Vests</a></li>
-
-
-    <li><a href="http://www.asos.com/men/jackets-coats/waistcoats/cat/pgecategory.aspx?cid=12287&amp;via=top">Waistcoats</a></li>
-
-
-    <li><a href="http://www.asos.com/men/watches/cat/pgecategory.aspx?cid=5034&amp;via=top">Watches</a></li>
-
-
-    <li><a href="http://www.asos.com/men/multi-packs-save/cat/pgecategory.aspx?cid=20831&amp;via=top" class="red">Multi Packs SAVE</a></li>
+    <li><a href="http://www.asos.com/men/multi-packs-save/cat/?cid=20831&amp;via=top" class="red">Multi Packs SAVE</a></li>
                                                     </ul>
                                         </dd>
                                     </dl>
@@ -847,7 +1018,7 @@ new brands and vintage boutiques                        <br>
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/men/a-to-z-of-brands/cat/pgehtml.aspx?cid=1361&amp;via=top" class="branddirectory">A To Z Of Brands</a></li>
+    <li><a href="http://www.asos.com/men/a-to-z-of-brands/cat/?cid=1361&amp;via=top" class="branddirectory">A To Z Of Brands</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
@@ -857,25 +1028,19 @@ new brands and vintage boutiques                        <br>
                                                 <ul class="items">
 
 
-    <li><a href="http://www.asos.com/men/fashion-online-38/cat/pgecategory.aspx?cid=19841&amp;via=top">New Trend: Riviera</a></li>
+    <li><a href="http://www.asos.com/men/ctas/fashion-online-15/cat/?cid=13526&amp;via=top">New Trend</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-3/cat/pgecategory.aspx?cid=13503&amp;via=top">Summer</a></li>
+    <li><a href="http://www.asos.com/men/ctas/fashion-online-2/cat/?cid=13500&amp;via=top">Neutral Colours</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-30/cat/pgecategory.aspx?via=top">The Suit Guide</a></li>
-
-
-    <li><a href="http://www.asos.com/mens-occasionwear/wedding-attire/cat/pgecategory.aspx?cid=21809&amp;via=top" class="branddirectory">Wedding</a></li>
-
-
-    <li><a href="http://www.asos.com/men/fashion-online-2/cat/pgecategory.aspx?cid=13500&amp;via=top">Neutral Colours</a></li>
+    <li><a href="http://www.asos.com/fashion-online-30/cat/pgecategory.aspx?via=top">The Partywear Guide</a></li>
 
 
     <li class="spacer"></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-8/cat/pgecategory.aspx?cid=13514&amp;via=top">Sneaker Brands</a></li>
+    <li><a href="http://www.asos.com/men/ctas/fashion-online-8/cat/?cid=13514&amp;via=top">Sneaker Brands</a></li>
 
 
     <li><a href="http://www.asos.com/men/jeans-find-your-style/cat/pgehtml.aspx?cid=20391&amp;via=top">Jeans: Find Your Style</a></li>
@@ -884,7 +1049,7 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/discover/t-shirts/?via=top">The T-Shirt Guide</a></li>
 
 
-    <li><a href="http://www.asos.com/mens-exclusives/cat/pgecategory.aspx?cid=21049&amp;via=top">Exclusives</a></li>
+    <li><a href="http://www.asos.com/men/mens-exclusives/cat/?cid=21049&amp;via=top">Exclusives</a></li>
 
 
     <li class="spacer"></li>
@@ -893,7 +1058,7 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/marketplace/cat/pgecategory.aspx?cid=20783&amp;via=top" class="branddirectory">ASOS MARKETPLACE</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-14/cat/pgecategory.aspx?cid=13524&amp;via=top" class="red">Up To 50% Off Sale!</a></li>
+    <li><a href="http://www.asos.com/fashion-online-29/cat/pgecategory.aspx?via=top" class="red">Up To 70% Off Sale!</a></li>
 
 
     <li><a href="http://www.asos.com/men/new-in-vintage/cat/pgehtml.aspx?cid=19570&amp;via=top">New In: Vintage </a></li>
@@ -908,26 +1073,30 @@ new brands and vintage boutiques                        <br>
     <li><a href="http://www.asos.com/men/marketplace-edits/cat/pgehtml.aspx?cid=20119&amp;via=top" class="branddirectory">Marketplace Edits</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-31/cat/pgecategory.aspx?cid=18846&amp;via=top">Spring Shades</a></li>
+    <li><a href="http://www.asos.com/fashion-online-31/cat/pgecategory.aspx?cid=18846&amp;via=top">Retro Shirts</a></li>
 
 
-    <li><a href="http://www.asos.com/men/streetwear/cat/pgehtml.aspx?cid=20098&amp;via=top">Streetwear</a></li>
+    <li><a href="http://www.asos.com/fashion-online-32/cat/pgecategory.aspx?cid=19835&amp;via=top">90s Classics</a></li>
 
 
-    <li><a href="http://www.asos.com/fashion-online-26/cat/pgecategory.aspx?cid=16774&amp;via=top">Retro Jackets</a></li>
+    <li><a href="http://www.asos.com/fashion-online-26/cat/pgecategory.aspx?cid=16774&amp;via=top">Vintage Jackets</a></li>
                                                 </ul>
                                         </dd>
                                     </dl>
                         </div>
                     </li>
-    </ul>       
+    </ul>
 </nav>
-
 
     <script type="text/javascript">
         define('Navigation.Config', function () {
             return {
-                rootNode: 'html',
+                rootNode: '.site-navigation',
+                endpoint: "http://fashionapi.asos.com/navigation/v1?channel=desktop-web&store={1}&lang={2}&depth={3}",
+                endpointTimeout: "5000",
+                maxColumnLength: 20,
+                categoryDepth: '3',
+                sessionName: 'navigationCache-desktop-web-{1}',
                 floorSelector: '.site-navigation li.floor_1 > a, .site-navigation li.floor_2 > a',
                 itemSelector: 'nav.site-navigation .sub-floor-menu .items li',
                 homeSelector: '.site-navigation  li.home > a',
@@ -937,18 +1106,50 @@ new brands and vintage boutiques                        <br>
         });
     </script>
 
+<script type="text/html" id="wrapper">
+    <ul class="floor-menus">
+        <li class="home">
+            <a data-bind="attr: { href: navRoot.linkUrl }, text: navRoot.name"></a>
+        </li>
+        <!-- ko foreach: all -->
+        <li class="asyncNav" data-bind="css: $data.class">
+            <a data-bind="attr: { href: $data.linkUrl }">
+                <span data-bind="text: $data.name"></span>
+            </a>
+            <div class="sub-floor-menu">
+                <!-- ko foreach: {data: $data.columns, as: 'column'} -->
+                <dl class="section">
+                    <dt data-bind="text: column.name"></dt>
+                    <dd>
+                        <!-- ko foreach: {data: column.navigation, as: 'subcolumn'} -->
+                        <ul class="items">
+                            <!-- ko foreach: { data: subcolumn, as: 'item' } -->
+                            <li data-bind="if:item.type != 'Spacer'">
+                                <a data-bind="attr: { href: item.linkUrl },text: item.name, css: item.style"></a>
+                            </li>
+                            <!-- /ko -->
+                        </ul>
+                        <!-- /ko -->
+                    </dd>
+                </dl>
+                <!-- /ko -->
+            </div>
+        </li>
+        <!-- /ko -->
+    </ul>
+</script>
 
         <ul class="my-details">
                     <li>
             <a href="http://www.asos.com/help/pgehtml.aspx?cid=17989&amp;CTARef=Header|Help"><span>Help</span></a>
         </li>   
 
-            <li id="my-account-link" class="account-link hide" data-bind="css: { hide: !isSignedIn() }">
+            <li id="my-account-link" class="account-link">
     <a href="https://www.asos.com/account/pgeaccmenu.aspx" title="My Account">My Account</a>
 </li>
                 
 <li>
-    <a href="http://www.asos.com/basket/pgesavedlist.aspx" class="saved-items">Saved items</a>
+    <a href="http://www.asos.com/basket/pgesavedlist.aspx" class="saved-items">Saved Items</a>
 </li>
 
 
@@ -964,6 +1165,19 @@ new brands and vintage boutiques                        <br>
 
 
     
+<script>
+    define('MiniBasket.Config', function() {
+        return {
+            domNode: '#miniBasket',
+            basketNode: '#miniBasket .bag-link',
+            settings: {"ErrorGetBasket":"Oops! Please try again","ErrorProductRemoved":"Oops! Sorry the product was not removed from your bag, please try again","ErrorSaveForLater":"Oops! Please try again","SaveForLaterUrl":"http://www.asos.com/basket/pgebasket.aspx#your-saved-items"}
+        };
+    });
+</script>
+
+
+<li id="miniBagApp"></li>
+
 <li id="miniBasket" data-bind=" hoverEnd: close, hoverEndTimeout: 500, hoverStart: open">
     <a title="View contents of your shopping bag" href="http://www.asos.com/basket/pgebasket.aspx" class="bag-link">
         Bag
@@ -973,73 +1187,67 @@ new brands and vintage boutiques                        <br>
         <p class="info-message" data-bind=" fadeInSlideOut: productHasBeenRemoved, fadeInDuration: 700, slideOutDuration: 500, showDuration: 4000">Removed from your bag...</p>
         <p class="mini-bag-error hide" id="miniBasketError" data-bind="showDuration: showDuration, hideMiniBagAfterError: hideMiniBagAfterError, text: errorText, showAndHide: true"></p>
         <div class="empty-minibag" data-bind="visible: (!errorVisible() &amp;&amp; !hasBasketItems())">
-                <p>Your bag is empty</p>
-                <a href="http://www.asos.com/basket/pgebasket.aspx#your-saved-items" title="" class="button grey small view-saved-items" id="viewSavedItems">VIEW SAVED ITEMS</a>
-            </div>
+            <p>Your bag is empty</p>
+            <a href="http://www.asos.com/basket/pgebasket.aspx#your-saved-items" title="" class="button grey small view-saved-items" id="viewSavedItems">VIEW SAVED ITEMS</a>
+        </div>
         <div data-bind="visible: (!errorVisible() &amp;&amp; hasBasketItems())">
             <a class="prev" data-bind=" css: {'disabled': (!pager().HasPrevPage())}, click: pager().prevPage()">
-                    <span class="arrow-border"></span>
-                    <span class="arrow"></span>
-                </a>
+                <span class="arrow-border"></span>
+                <span class="arrow"></span>
+            </a>
             <div class="items-wrapper">
                 <div class="items" data-bind=" foreach: {data: items, beforeRemove: removeAnimateBasketItem}, pageVerticalScroll: pager().CurrentPage, pageHeight: 411, pageAnimationSpeed: 500, pageEnd: pager().clearPaging()">
                     <div class="item" data-bind="click:goToProduct, attr: { 'data-id': inventoryId }">
                         <img class="thumb" src="" alt="" data-bind="attr: { 'src': imagePath }">
-                                <div class="detail">
+                        <div class="detail">
                             <p class="price" data-bind="html: price"></p>
                             <p class="title" data-bind="text: productName"></p>
                             <p data-bind="text: color"></p>
                             <p data-bind="text: size"></p>
                             <p class="quantity">Qty <span data-bind="text: quantity"></span></p>
-                                </div>
-                        <a class="remove" data-bind="click: function(){ return $parent.removeBasketItem($data)}, clickBubble: false" title="Remove" href="#">x</a>
                         </div>
-                    </div>  
+                        <a class="remove" data-bind="click: function(){ return $parent.removeBasketItem($data)}, clickBubble: false" title="Remove" href="#">x</a>
+                    </div>
                 </div>
+            </div>
             <a class="next" data-bind="css: { 'disabled': (!pager().HasNextPage()) }, click:pager().nextPage()">
-                    <span class="arrow-border"></span>
-                    <span class="arrow"></span>
-                </a>
-                <div class="summary">
+                <span class="arrow-border"></span>
+                <span class="arrow"></span>
+            </a>
+            <div class="summary">
                 <a class="save-for-later" data-bind="visible: allowSaveForLater, click:saveMiniBag, clickBubble: false" title="" href="http://www.asos.com/basket/pgebasket.aspx#your-saved-items">SAVE BAG</a>
                 <p class="total-price" data-bind="html: totalPriceFormatted"></p>
-                    <p class="total-label">TOTAL</p>
-                    <div class="vat-message"><span></span></div>
-                </div>
-                <div class="links">
-                    <a class="button grey large view-bag" title="" href="http://www.asos.com/basket/pgebasket.aspx">VIEW BAG</a>
-                    <a class="button orange pay" title="" href="https://www.asos.com/pgecheckout.aspx">PAY NOW</a>
-                </div>
-                <div class="mini-bag-banner"><div class="minibag uk">
+                <p class="total-label">TOTAL</p>
+                <div class="vat-message"><span></span></div>
+            </div>
+            <div class="links">
+                <a class="button grey large view-bag" title="" href="http://www.asos.com/basket/pgebasket.aspx">VIEW BAG</a>
+                <a class="button orange pay" title="" href="https://www.asos.com/pgecheckout.aspx">PAY NOW</a>
+            </div>
+            <div class="mini-bag-banner"><div class="minibag uk">
 	<p class="double">
 		<strong>Free DELIVERY</strong> Worldwide*
 		<span class="small"><a href="/infopages/pgeshiptocountry.aspx">*MORE INFO HERE  ›</a></span>
 	</p>
 </div></div>
-            </div>
         </div>
+    </div>
 </li>
+    
 
-<script type="text/javascript">
-        define('MiniBasket.Config', function() {
-            return {
-                domNode: '#miniBasket',
-                basketNode: '#miniBasket .bag-link',
-                serviceEndpoint: '/services/srvBasket.asmx/',
-                settings: {"ErrorGetBasket":"Oops! Please try again","ErrorProductRemoved":"Oops! Sorry the product was not removed from your bag, please try again","ErrorSaveForLater":"Oops! Please try again","SaveForLaterUrl":"http://www.asos.com/basket/pgebasket.aspx#your-saved-items"}
-                };
-        });
-    </script>
+
+
 
 
         </ul>
     </div>
+    
     <div class="global-banner-wrapper">
-    <link mpdisnav="" href="http://images.asos.com/css/creative/global-banner-ss16-v21.css" rel="stylesheet" type="text/css" media="all">
-<!-- <link mpdisnav href="creative/global-banner-ss16-v21.css" rel="stylesheet" type="text/css" media="all" /> --><ul id="globalBanner" class="uk global-banner v2box-160620">
+        <link mpdisnav="" href="http://images.asos.com/css/creative/global-banner-161230.css" rel="stylesheet" type="text/css" media="all">
+<!-- <link mpdisnav href="creative/global-banner-161230.css" rel="stylesheet" type="text/css" media="all" /> --><ul id="globalBanner" class="uk global-banner v2box-161230">
   <li class="is-hover box-left promos box-content">
-    <span class="promo-message">
-      <strong>Did someone say up-to-50%-off sale?*</strong>
+    <span class="promo-message double">
+       <strong>Grab it before it's gone...<br>sale's now up to 70% off*</strong>
     </span>
     <a class="gb-fade link-left link" rel="nofollow" href="http://www.asos.com/women/sale/?CTARef=GlobalBanner1|WW">
       <strong>Women ›</strong>
@@ -1048,17 +1256,18 @@ new brands and vintage boutiques                        <br>
       <strong>Men ›</strong>
     </a>
     <div class="tooltip">
-      *Valid for a limited time only on selected items that are marked down on site. Brand exclusions apply.
+      *Limited time only, while stocks last. Selected items marked down on site. See full <a href="http://www.asos.com/terms-and-conditions/?CTARef=GlobalBanner1">terms</a>.
     </div>
   </li>
   <li class="gb-fade box-right box-content">
-        <a class="link double" rel="nofollow" href="http://www.asos.com/infopages/pgeshiptocountry.aspx?CTARef=GlobalBanner2">
-              <strong>FREE DELIVERY</strong> WORLDWIDE*<br>
-              *MORE INFO HERE  ›
-        </a>  
+    <a class="link double" rel="nofollow" href="http://www.asos.com/customer-service/delivery/?country=gb&amp;CTARef=GlobalBanner2">
+        <strong>FREE DELIVERY</strong> WORLDWIDE*<br>
+        *MORE INFO HERE ›
+    </a>
   </li>
 </ul>
-</div>
+    </div>
+
 </header>
 
              
@@ -1272,15 +1481,16 @@ new brands and vintage boutiques                        <br>
 <p style="line-height: 16.8pt; background: none repeat scroll 0% 0% white;">You may also have choices available to you through the device or software you use to access ASOS. For example, the browser you use may provide you with the ability to control cookies or other types of local data storage, or your mobile device may provide you with choices around how and whether location or other data is shared with us.&nbsp; [In particular, if online adverts are not to your liking, we would encourage you to find out more about the Do Not Track browser setting.] To learn more about these choices, please refer to your device or software provider.</p></dd>
 
     <dt><span class="title">Protecting your security</span><a class="desc-toggle-btn"></a></dt>
-    <dd><p style="line-height: 16.8pt; background: none repeat scroll 0% 0% white; text-align: justify;">We are always striving to make sure your information is protected.&nbsp; As soon as we receive your information, we use various security features and procedures, taking into account industry standards, to try to protect the personal information that you provide and to prevent unauthorised access to that information.&nbsp; For example:</p>
+    <dd><p style="line-height: 16.8pt; background: none 0% 0% repeat scroll white; text-align: justify;">We are always striving to make sure your information is protected.&nbsp; As soon as we receive your information, we use various security features and procedures, taking into account industry standards, to try to protect the personal information that you provide and to prevent unauthorised access to that information.&nbsp; For example:</p>
 <ul>
-    <li>We also offer secure “https” access to the transactional parts of ASOS.com website (that is to the bits where you are required to provide Directly Provided Data). [This includes to existing SSL access over mobile devices]. [We’re&nbsp;working on making secure “https” access a default&nbsp;across ASOS.]</li>
+    <li>We also offer secure “https” access to the transactional parts of ASOS.com website (that is to the bits where you are required to provide Directly Provided Data).&nbsp;</li>
     <br>
     <li>Access to your data on ASOS is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the ASOS Services. To further secure your credit card, we also don’t keep details of the security code (or CCV number) that you need to input in order to complete an order using your credit card.</li>
     <br>
-    <li>To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements. &nbsp;&nbsp;We also use a tier-one secured-access data center.</li>
+    <li>To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements. &nbsp;</li>
 </ul>
-<p style="line-height: 16.8pt; background: none repeat scroll 0% 0% white; text-align: justify;">We will do our best to protect your personal data.&nbsp; Unfortunately, security cannot be guaranteed though.&nbsp; There are therefore a number of general things we would also recommend that you do. &nbsp;Please help keep your account safe by using a strong password that includes characters other than just letters.&nbsp; We will also encourage you not to use the same password across all or many of your online accounts.&nbsp; As emails, instant messaging, and similar means of communication are not encrypted, we also would recommend not communicating any confidential information through these means. <strong></strong></p></dd>
+<p style="line-height: 16.8pt; background: none 0% 0% repeat scroll white; text-align: justify;">We will do our best to protect your personal data, however, there are also a number of things that you can help with.&nbsp; You can keep your account safe by using a strong password that includes characters other than just letters.&nbsp; We will also encourage you not to use the same password across all or many of your online accounts.&nbsp; As emails, instant messaging, and similar means of communication are not encrypted, we also would recommend not communicating any confidential information through these means.<br>
+<strong></strong></p></dd>
 
     <dt><span class="title">Contacting us</span><a class="desc-toggle-btn"></a></dt>
     <dd><p style="line-height: 16.8pt; text-align: justify; background: none 0% 0% repeat scroll white;">Both the information you provide to us, and the information we collect, is controlled by ASOS.com Limited, including for the purpose of the Data Protection Act 1998 (the Act) and any other applicable laws. </p>
@@ -1294,8 +1504,8 @@ HP2 4NW<br>
 UK</p></dd>
 
     <dt><span class="title">Changes to this Policy</span><a class="desc-toggle-btn"></a></dt>
-    <dd><p style="line-height: 16.8pt; text-align: justify; background: none 0% 0% repeat scroll white;">We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will make that clear on the ASOS website or Services, or by some other means such as email, so that you are able to review the changes before you continue to use ASOS. </p>
-<p style="line-height: 16.8pt; text-align: justify; background: none 0% 0% repeat scroll white;">This page was last updated on 1 July 2015.</p></dd>
+    <dd><p style="line-height: 16.8pt; background: none 0% 0% repeat scroll white; text-align: justify;">We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will make that clear on the ASOS website or Services, or by some other means such as email, so that you are able to review the changes before you continue to use ASOS. </p>
+<p style="line-height: 16.8pt; background: none 0% 0% repeat scroll white; text-align: justify;">This page was last updated on 1 November 2016.</p></dd>
     </dl>
 </section>
 </section>
@@ -1350,7 +1560,10 @@ UK</p></dd>
             <a href="https://www.asos.com/account/pgereceipttracking.aspx">Track Order</a>
         </li>
         <li>
-            <a href="http://www.asos.com/help/pgehtml.aspx?cid=17989&amp;help=/app/answers/detail/a_id/69">Returns</a>
+            <a href="http://www.asos.com/customer-service/delivery/">Delivery</a>
+        </li>
+        <li>
+            <a href="http://www.asos.com/customer-service/returns/">Returns</a>
         </li>
     </ul>
     <ul>
@@ -1378,7 +1591,7 @@ UK</p></dd>
             <a href="http://twitter.com/ASOS" target="_blank">Twitter</a>
         </li>
         <li>
-            <a href="http://www.youtube.com/asosfashion" target="_blank">YouTube</a>
+            <a href="http://www.youtube.com/asos" target="_blank">YouTube</a>
         </li>
     </ul>
     <ul>
@@ -1386,7 +1599,7 @@ UK</p></dd>
             <h2>More About Asos</h2>
         </li>
         <li>
-            <a href="http://www.asosplc.com/responsibility.aspx">Corporate Responsibility</a>
+            <a href="http://www.asosplc.com/corporate-responsibility.aspx">Corporate Responsibility</a>
         </li>
         <li>
             <a href="https://asoscareers.asos.com/">Jobs at ASOS</a>
@@ -1400,13 +1613,10 @@ UK</p></dd>
             <h2>More Asos Sites</h2>
         </li>
         <li>
-            <a href="http://www.asos.com/mobile-site-promo/cat/pgehtml.aspx?cid=12137">Mobile and ASOS apps</a>
+            <a href="http://www.asos.com/discover/our-apps/">Mobile and ASOS apps</a>
         </li>
         <li>
             <a href="https://marketplace.asos.com/" target="_blank">Marketplace</a>
-        </li>
-        <li>
-            <a href="http://www.covetique.com" target="_blank">Covetique</a>
         </li>
     </ul>
 </div>
@@ -1414,9 +1624,8 @@ UK</p></dd>
 
 
         <div>
-            
-<div class="cards">
-    <img alt="Visa, Mastercard, PayPal, American Express, Electron, Switch/Maestro, Delta, iDEAL, Dankort " src="http://content.asos-media.com/~/media/010415092255en-GB/Images/uk/footer/footer-card-images.png">
+            <div class="cards">
+    <img alt="Visa, Mastercard, PayPal, American Express, Electron, Switch/Maestro, Delta, iDEAL, Dankort " src="https://assets.asosservices.com/MasterLayout/images/_footer/footer-card-images-1.png">
 </div>
 
 
@@ -1475,7 +1684,7 @@ UK</p></dd>
                
         <li class="first"><a href="http://www.asos.com/privacy-policy/">Privacy &amp; Cookies</a></li>
         <li><a href="http://www.asos.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
-        <li><a href="http://www.asos.com/infopages/pgeaccessibilitystmt.aspx">Accessibility</a></li>
+        <li><a href="http://www.asos.com/accessibility/">Accessibility</a></li>
         <li><a href="http://www.asos.com/about/">About Us</a></li>
     </ul>
 	<p>The celebrities named or featured on asos.com have not endorsed recommended or approved the items offered on site</p>
@@ -1498,77 +1707,8 @@ UK</p></dd>
 </div>
 
 
-<script src="http://assets.asosservices.com/MasterLayout/Src/MasterLayout/Libs/swfobject.js"></script>
+<script src="//assets.asosservices.com/MasterLayout/Src/MasterLayout/Libs/swfobject.js"></script>
 
-
-
-    <script type="text/javascript">
-        define('CountryCodeMapping.Config', function() {
-            return {
-                map: {"en-GB":"www.asos.com","en-US":"us.asos.com","fr-FR":"www.asos.fr","de-DE":"www.asos.de","it-IT":"www.asos.com/it","es-ES":"www.asos.com/es","en-AU":"www.asos.com/au","ru-RU":"www.asos.com/ru"}
-                };
-        });
-        define('Affiliate.Config', function() {
-            return {
-                xAffIdName: 'xAffId',
-                affIdName: 'affId',
-                domNode: '.site-header .site-selector-list ul, header .site-selector-list ul, footer .site-selector-list ul',
-                domNodeMobile: '#scm-select-country',
-                desktopLink: '.scm-info-list li:last a'
-            };
-        });
-        define('iPad.Config', function() {
-            return {
-                domNode: 'body',
-                className: 'ipad'
-            };
-        });
-        define('UserState.Config', function() {
-            return {
-                endpoint: "/CustomServices/UserDetails/GetUserDetails/",
-                states: {
-                    SignedIn: 'SignedIn',
-                    Anonymous: 'Anonymous',
-                    Recognised: 'Recognised'
-                },
-                containers: ['my-account-link', 'your-account-container']
-            };
-        });
-        
-        define('SignUpBanner.Config', function() {
-        	return {
-        		domNode: '#site-banner',
-        		endpoint: "/CustomServices/SignUpBanner/GetSignUpBanner"
-        	};
-        });
-
-        define('SiteSuggest.Config', function() {
-            return {
-                domNode: '.site-suggest-bar',
-                endpoint: "/CustomServices/SiteSuggestion/GetSuggestedSite",
-                redirectUrlFormat: "http://{0}/pgeSiteRedirect.aspx?referrer={1}&to={2}"
-            };
-        });
-        define('CookieDisclaimer.Config', function () {
-            return {
-                selectors: {
-                    cookieMessage: "#cookieLaw",
-                    okButton: "#btnClose"
-                }
-            };
-        });
-
-    </script>
-
-
-
-<script src="http://assets.asosservices.com/MasterLayout/Javascript/MasterLayout/MasterLayout.Controller.Desktop.min.js"></script>
-
-<script>
-    require(['MasterLayout/MasterLayout.Controller.Desktop'], function(MLController) {
-        new MLController();
-    });
-</script>
 
 
 <script type="text/html" id="recentlyViewedTemplate">
@@ -1624,105 +1764,127 @@ UK</p></dd>
 <div class="quickview-container" data-bind="template: {name: 'quickview-template'}"></div>
 <script type="text/html" id="quickview-template">
     <div class="quickview-panel" data-bind="modal: visible, modalOnClose: close" style="display: none">
-        <div class="mini-carousel" data-bind="visible: smallImages().length">
-            <ul data-bind="foreach: { data: smallImages() }">
-                <li>
+
+        <div class="mini-carousel" data-bind="visible: smallImages().length, css: {mediaVisible: isVideoVisible() || isSpinViewerVisible()}">
+            <ul>
+                <!-- ko foreach: smallImages() -->
+                <li data-bind="css: {active: imageActive() === true}">
                     <a href="#" data-bind="click: $root.makeMainImage.bind($root, $index)">
                         <img data-bind="attr: { src: SmallImageSrc }" />
                     </a>
                 </li>
+                <!-- /ko -->
+                <!-- ko if: isSpinViewerButtonVisible() -->
+                <li>
+                    <a class="video-button play-video-button" data-bind="click: onSpinViewerButtonActivated, css: { active: isSpinViewerVisible }" href="#">
+                        <span class="three-sixty">View 360</span>
+                    </a>
+                </li>
+                <!-- /ko -->
+                <!-- ko if: videoPlaybackEnabled() -->
+                <li>
+                    <a class="video-button play-video-button" data-bind="click: onVideoButtonActivated, css: { active: isVideoVisible }" href="#">
+                        <span class="catwalk" data-bind="visible: isWomensCatwalkVisible">View Catwalk</span>
+                        <span class="catwalk" data-bind="visible: isMensVideoVisible">Watch Video</span>
+                    </a>
+                </li>
+                <!-- /ko -->
+
             </ul>
         </div>
-        <div class="carousel">
-            <div id="js-video-player" class="video-player" data-bind="visible: videoDisplayed, flash: videoDisplayed, flashUrl: videoUrl, flashParameters: { playlist: 'http://images.asos.com/htmlpages/catWalkPlayer/playList.xml' }">
-                <div id="play-js-video-player">
-                    <div class="alternative-content"><p>To view this feature you'll need to install the latest version of Macromedia's Flash player.</p>
-<ol><li><a onclick="window.open('http://www.macromedia.com/go/getflashplayer/');return false;" href="#">Click here to get flash player</a> (opens in a new window).</li><li>Follow the on screen instructions.</li><li>Close the window to come back to ASOS.</li></ol><p><a href='http://www.asos.com/infopages/pgehelpdesk.aspx#cantviewvid'>Visit our help section</a> if you're still having problems.</p>
-   
-</div>
-                </div>
-            </div>
+
+
+        <div class="carousel" data-bind="css: { 'single-image-view': smallImages().length < 1}">
+
+            <div class="video-player-wrapper asos-media" data-bind="component: { name: 'asos-video-player', params: { scene7: { imageServer: scene7Config.videoPlayer.imageServer, videoServer: scene7Config.videoPlayer.videoServer }, player: { startInFullScreen: scene7Config.videoPlayer.startInFullScreen, initialLoopCount: scene7Config.videoPlayer.initialLoopCount, replayLoopCount: scene7Config.videoPlayer.initialLoopCount }, api: videoPlayerApi, messages: { replayButtonText: '', returnButtonText: '', errorHeaderText: scene7Content.ErrorHeaderText, errorMessageText: scene7Content.ErrorMessageText, refreshButtonText: scene7Content.RefreshButtonText } } }, visible: isVideoVisible()"></div>
+
+            <div class="video-player-wrapper spin-viewer asos-media" data-bind="component: { name: 'asos-spin-viewer', params: { scene7: { imageServer: scene7Config.spinViewer.imageServer, videoServer: scene7Config.spinViewer.videoServer },  viewer: { spinSpeed: scene7Config.spinViewer.spinSpeed, initialSize: scene7Config.spinViewer.initialSize, forceFullScreen: scene7Config.spinViewer.forceFullScreen, zoomFactors: { container: [0.4,0.8], fullScreen: [0.4,0.8] }, reverseVerticalDirection: scene7Config.spinViewer.reverseVerticalDirection, reverseHorizontalDirection: scene7Config.spinViewer.reverseHorizontalDirection, baseJpgQlt: 80, zoomJpgQlt: 90 }, api: spinViewerApi,  messages: scene7Content } }, visible: isSpinViewerVisible()"></div>
+
+
+
+            
+
             <div class="images">
                 <ul data-bind="imageSlide: mainImages"></ul>
             </div>
-            <a class="next" data-bind="click: carouselRight.bind($root, $root.imageSlideSpeed(), $root.imageSingleAnimation()), visible: !hideCarouselControls()"></a>
-            <a class="prev" data-bind="click: carouselLeft.bind($root, $root.imageSlideSpeed(), $root.imageSingleAnimation()), visible: !hideCarouselControls()"></a>
-            <div class="play-video-button" data-bind="click: startVideo, visible: !videoDisplayed() && videoKind()">
-                <a class="catwalk" data-bind="visible: isWomensCatwalkVisible">View Catwalk</a>
-                <a class="catwalk" data-bind="visible: isMensVideoVisible">Watch Video</a>
-                <a class="three-sixty" data-bind="visible: is360Visible">View 360</a>
-            </div>
-            <div class="stop-video-button" data-bind="click: stopVideo, visible: videoDisplayed" style="position: absolute;">
-                <div class="tooltip">Back to images</div>
-            </div>
+            <a class="next" data-bind="click: carouselRight.bind($root), visible: !hideCarouselControls()"></a>
+            <a class="prev" data-bind="click: carouselLeft.bind($root), visible: !hideCarouselControls()"></a>
         </div>
+
         <div class="outer-details">
             <div class="details">
                 <h2 class="product-title">
                     <a data-bind="text: title, attr: { href: productUrl() }"></a>
                 </h2>
-                <div class="previous-price" data-bind="visible: previousPrice, css: { isRrp: isRrp }">
-                    <span class="rrp-label" data-bind="visible: isRrp">RRP</span>
-                    <span data-bind="text: previousPrice" />
-                </div>
+				
                 <div class="current-price" data-bind="css: { isRrp: isRrp, isDiscounted: isNowPrice }">
                     <span data-bind="visible: isNowPrice">NOW</span>
                     <span data-bind="visible: isFromPrice">FROM</span>
                     <span data-bind="text: currentPrice"></span>
                 </div>
-                <div class="view-product-link">
-                    <a data-bind="attr: { href: productUrl() }">
-                        View Full Details ›
-                    </a>
+                <div class="previous-price" data-bind="visible: previousPrice, css: { isRrp: isRrp }">
+                    <span class="rrp-label" data-bind="visible: isRrp">RRP</span>
+                    <span data-bind="text: previousPrice" />
                 </div>
-                <div data-bind="visible: isFullyOutOfStock()">
-                    <div class="outofstock">Out Of Stock</div>
-                </div>
-                <div data-bind="visible: !isFullyOutOfStock()">
-                    <div class="option-dropdowns">
-                        <select class="colour-dropdown" data-bind="visible: !hasColourSwatch(), options: sizeColours, optionsText: 'Text', value: selectedSizeColour, enable: colourDropDownEnabled"></select>
-                        <select class="size-dropdown" data-bind="options: sizes, optionsText: 'Text', value: selectedSize, enable: sizeDropDownEnabled, visible: displaySizeDropDown"></select>
-                    </div>
-                    <div class="buttons">
-                        <a href="#add-to-bag" class="button orange add-to-bag" data-bind="event: { click: addToBag, touchstart: addToBag }">
-                            ADD TO BAG
-                        </a>
-                        <a href="#save-for-later" class="button grey small save-for-later" data-bind="event: { click: saveForLater, touchstart: saveForLater }">
-                            SAVE FOR LATER
-                        </a>
-                    </div>
-                </div>
-                <div class="low-in-stock-message" data-bind="visible: showLowInStock()">
-                    <span class="stock-message">Low In Stock</span>
-                </div>
-                <div class="shipping-restrictions" data-bind="visible: shippingRestrictionInfo()">
-                    <a href="#" data-bind="text: shippingRestrictionInfo() ? shippingRestrictionInfo().Text : '', click: shippingLinkClick" data-popup="True"></a>
-                </div>
-            </div>
-        </div>
-        <button type="button" class="close">close</button>
-    </div>
+				<div data-bind="visible: isFullyOutOfStock()">
+					<div class="outofstock">Out Of Stock</div>
+				</div>
+				<div data-bind="visible: !isFullyOutOfStock()">
+					<div class="option-dropdowns">
+						<select class="colour-dropdown" data-bind="visible: !hasColourSwatch(), options: sizeColours, optionsText: 'Text', value: selectedSizeColour, enable: colourDropDownEnabled"></select>
+						<select class="size-dropdown" data-bind="options: sizes, optionsText: 'Text', value: selectedSize, enable: sizeDropDownEnabled, visible: displaySizeDropDown"></select>
+					</div>
+					<div class="buttons">
+						<a href="#add-to-bag" class="button orange add-to-bag" data-bind="event: { click: addToBag, touchstart: addToBag }">
+							ADD TO BAG
+						</a>
+						<a href="#save-for-later" class="button grey small save-for-later" data-bind="event: { click: saveForLater, touchstart: saveForLater }">
+							SAVE FOR LATER
+						</a>
+					</div>
+				</div>
+				<div class="low-in-stock-message" data-bind="visible: showLowInStock()">
+					<span class="stock-message">Low In Stock</span>
+				</div>
+				<div class="shipping-restrictions" data-bind="visible: shippingRestrictionInfo()">
+					<a href="#" data-bind="text: shippingRestrictionInfo() ? shippingRestrictionInfo().Text : '', click: shippingLinkClick" data-popup="True"></a>
+				</div>
+			</div>
+			<div class="quickview-footer">
+				<div class="view-product-link">
+					<a data-bind="attr: { href: productUrl() }">
+						View Full Details ›
+					</a>
+				</div>
+			</div>
+		</div>
+		<button type="button" class="close"></button>
+	</div>
 </script>
 
 <script>
-    define('QuickView.Config', function() {
-        return {
-            domNode: '.quickview-container',
-            quickViewEndpoint: '/services/quickview/srvquickview.asmx/DataForInventoryItem',
-            localisations: {
-                incorrectSelection: 'Please select from the available size and colour option',
-                popupLoadError: '\u003cp\u003eOh no! This is embarrassing, something is up..\u003c/p\u003e\r\n\u003cp\u003eWe\u0027re working hard to fix it....give us a few minutes and try again\u003c/p\u003e\r\n',
-                sizeDropdownText: 'Select size',
-                colourDropdownText: 'First select from {0} colours',
-                addToBagSuccess: '\u003cp\u003eThis item has been added to your bag\u003c/p\u003e\r\n\u003cp\u003e\u003ca href=\"http://www.asos.com/basket/pgebasket.aspx\"\u003eView your bag\u003c/a\u003e\u003c/p\u003e',
-                addToBagError: '\u003cp\u003eOops! Sorry the product was not added to your bag, please try again.\u003c/p\u003e',
-                saveForLaterSuccess: '\u003cp\u003eThis item has been saved for 60 days.\u003c/p\u003e\r\n\u003cp\u003e\u003ca href=\"http://www.asos.com/basket/pgesavedlist.aspx\"\u003eView saved items\u003c/a\u003e\u003c/p\u003e',
-                saveForLaterError: '\u003cp\u003eSorry this item could not be saved. Please try again.\u003c/p\u003e',
-                sizeOutOfStock: 'Please select a size that is in stock',
-                itemNotAddedToBagMessage: '\u003cp\u003eUh oh, that\u0027s all we have available for this product. Shop something else?\u003c/p\u003e'
-            }
-        };
-    });
+	define('QuickView.Config', function () {
+		return {
+		    domNode: '.quickview-container',
+		    saveForLaterDomNode: '.save-for-later',
+			scene7: {
+				imageServer: 'http://images.asos-media.com/',
+				videoServer: 'http://video.asos-media.com/'
+			},
+			localisations: {
+				incorrectSelection: 'Please select from the available size and colour option',
+				popupLoadError: '\u003cp\u003eOh no! This is embarrassing, something is up..\u003c/p\u003e\r\n\u003cp\u003eWe\u0027re working hard to fix it....give us a few minutes and try again\u003c/p\u003e\r\n',
+				sizeDropdownText: 'Select size',
+				colourDropdownText: 'First select from {0} colours',
+				addToBagSuccess: '\u003cp\u003eThis item has been added to your bag\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://www.asos.com/bag/\"\u003eView your bag\u003c/a\u003e\u003c/p\u003e',
+				addToBagError: '\u003cp\u003eOops! Sorry the product was not added to your bag, please try again.\u003c/p\u003e',
+				saveForLaterSuccess: '\u003cp\u003eThis item has been saved for 60 days.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://www.asos.com/saved-items/\"\u003eView saved items\u003c/a\u003e\u003c/p\u003e',
+				saveForLaterError: '\u003cp\u003eSorry this item could not be saved. Please try again.\u003c/p\u003e',
+				sizeOutOfStock: 'Please select a size that is in stock',
+				itemNotAddedToBagMessage: '\u003cp\u003eUh oh, that\u0027s all we have available for this product. Shop something else?\u003c/p\u003e'
+			}
+		};
+	});
 
 </script>
 
@@ -1744,6 +1906,78 @@ UK</p></dd>
 
 
 
+
+
+    <script type="text/javascript">
+        define('CountryCodeMapping.Config', function() {
+            return {
+                map: {"en-GB":"www.asos.com","en-US":"us.asos.com","fr-FR":"www.asos.fr","de-DE":"www.asos.de","it-IT":"www.asos.com/it","es-ES":"www.asos.com/es","en-AU":"www.asos.com/au","ru-RU":"www.asos.com/ru"}
+                };
+        });
+        define('Affiliate.Config', function() {
+            return {
+                xAffIdName: 'xAffId',
+                affIdName: 'affId',
+                domNode: '.site-header .site-selector-list ul, header .site-selector-list ul, footer .site-selector-list ul',
+                domNodeMobile: '#scm-select-country',
+                desktopLink: '.scm-info-list li:last a'
+            };
+        });
+        define('iPad.Config', function() {
+            return {
+                domNode: 'body',
+                className: 'ipad'
+            };
+        });
+        define('UserState.Config', function() {
+            return {
+                endpoint: "/CustomServices/UserDetails/GetUserDetails",
+                states: {
+                    SignedIn: 'SignedIn',
+                    Anonymous: 'Anonymous',
+                    Recognised: 'Recognised'
+                },
+                containers: ['my-account-link', 'your-account-container']
+            };
+        });
+        
+        define('SignUpBanner.Config', function() {
+        	return {
+        		domNode: '#site-banner',
+        		endpoint: "/CustomServices/SignUpBanner/GetSignUpBanner"
+        	};
+        });
+
+        define('SiteSuggest.Config', function() {
+            return {
+                domNode: '.site-suggest-bar',
+                endpoint: "/CustomServices/SiteSuggestion/GetSuggestedSite",
+                redirectUrlFormat: "http://{0}/pgeSiteRedirect.aspx?referrer={1}&to={2}"
+            };
+        });
+        define('CookieDisclaimer.Config', function () {
+            return {
+                selectors: {
+                    cookieMessage: "#cookieLaw",
+                    okButton: "#btnClose"
+                }
+            };
+        });
+
+    </script>
+
+
+
+<script src="//assets.asosservices.com/MasterLayout/Javascript/MasterLayout/MasterLayout.Controller.Desktop.min.js"></script>
+
+<script src="//assets.asosservices.com/MasterLayout/Javascript/MasterLayout/Resources/en-GB.js"></script>
+
+<script>
+    require(['MasterLayout/MasterLayout.Controller.Desktop'], function(MLController) {
+        new MLController();
+    });
+</script>
+
          </div>
      </div>
 
@@ -1752,7 +1986,7 @@ UK</p></dd>
  
 
     
-    <script src="http://assets.asosservices.com/Store/Javascript/InfoPage/InfoPage.min.js"></script>
+    <script src="//assets.asosservices.com/Store/Javascript/InfoPage/InfoPage.min.js"></script>
 
     
 
