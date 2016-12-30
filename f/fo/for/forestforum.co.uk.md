@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestforum.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622184341id_/http%3A//www.forestforum.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestforum.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231003122id_/http%3A//www.forestforum.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # LTLF Forest Forum - Privacy Policy
 
