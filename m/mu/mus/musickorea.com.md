@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musickorea.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083814id_/http%3A//musickorea.com/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musickorea.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231005000id_/http%3A//www.musickorea.com/About/privacy) for the most accurate reproduction.*
 
 # MUSIC KOREA: K-POP CDs Online Shop
 
@@ -77,7 +77,7 @@ and the content of duties for delegation (delegated duties)
   
 ---|---  
   
-**[** **EMS,DHL** **]** ****
+Korea Post, DHL
 
 | 
 
@@ -89,7 +89,7 @@ Koreacenter.com Co., Ltd.
 
 Management by consignment of customer information DB system (outsourcing for data processing)  
   
-**[Paypal,Eximbay ]**
+PayPal, Eximbay
 
 | 
 
@@ -129,19 +129,19 @@ By selecting options in your web browser, you may allow all cookies, pass throug
 
 The company has designated the authorized relevant department and the personal information control manager in order to protect personal information of customers and handle personal information related complaints as follows:
 
-• Department for Customer Service : **[Muscikorea** **]**
+• Department for Customer Service : MusicKorea
 
-• Telephone No. : **[** **02-3789-8210** **]**
+• Telephone No. : +82-2-3789-8210
 
-• E-mail : **[** **woo680821@naver.com** **** **]**                 
+• E-mail : woo680821@naver.com                 
 
 | 
 
-• Name of Personal Information Control Manager : **[박찬수** **]**
+• Name of Personal Information Control Manager : 박찬수
 
-• Telephone No. : **[02-3789-8210** **]**
+• Telephone No. :﻿ +82-2-3789-8210
 
-• E-mail : **[woo680821@naver.com** **]**  
+• E-mail : ﻿woo680821@naver.com  
   
 ---|---  
   
