@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422024609id_/https%3A//www.asknow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknow.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230201739id_/https%3A//www.asknow.com/privacy) for the most accurate reproduction.*
 
 # AskNow.com
 
