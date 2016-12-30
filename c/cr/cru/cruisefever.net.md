@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruisefever.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607081207id_/http%3A//cruisefever.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisefever.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230151400id_/http%3A//cruisefever.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Cruise Fever
 
 **Privacy Policy for www.CruiseFever.net**
 
