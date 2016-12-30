@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the komparify.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208124829id_/https%3A//www.komparify.com/blog/index.php/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komparify.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230200816id_/https%3A//www.komparify.com/blog/index.php/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy – About Information we collect and how we use it » Komparify Blog » Komparify (formerly 3gsimplified) » The Simplest way to find the best mobile 2g/3g plan. Reduce your mobile plan cost now!
+# Privacy Policy – About Information we collect and how we use it » Komparify Blog » Komparify helps you find the best plan!
 
 In order to provide our full range of services, we may collect the following types of information:
 
