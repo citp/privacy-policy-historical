@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052331id_/http%3A//us.venere.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venere.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230205058id_/http%3A//us.venere.com/customer_care/privacy.html) for the most accurate reproduction.*
 
-# Venere.com - Hotel rooms with reviews. Discounts and Deals on 85,000 hotels worldwide
+# Venere.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
 
 Below you will find the updated Privacy Policy for Venere.com, which applies to any information provided or collected through this Web site.
 
