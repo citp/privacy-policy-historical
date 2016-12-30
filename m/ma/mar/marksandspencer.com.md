@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602020952id_/http%3A//help.marksandspencer.com/support/legal-and-ethical/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230153051id_/http%3A//help.marksandspencer.com/support/legal-and-ethical/privacy-policy1) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -206,7 +206,7 @@ You have the following rights:
 
 
 
-If you wish to exercise any of the above rights, please contact us using the contact details specified above.  However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you or, alternatively, by visiting our [e-mail newsletter preference centre. ](http://www.marksandspencer.com/gp/subscription/276-5650863-9572915?ie=UTF8&mnSBrand=core&viewID=email-preferences)
+If you wish to exercise any of the above rights, please contact us using the contact details specified above.  However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you or, alternatively, by visiting our [e-mail newsletter preference centre. ](http://www.marksandspencer.com/MSNewsletterSubscriptionValidatorCmd?storeId=10151&langId=-24&emailId=your@email.com&email-newsletter=go)
 
 **Third party sites**
 
@@ -224,4 +224,4 @@ This privacy policy was last updated in March 2015. Please check back regularly 
 
 If you have any questions please [contact us](http://www.marksandspencer.com/s/contact-us "Contact Us").
 
-[Back to top](http://help.marksandspencer.com/support/company-website/privacy-policy)
+[Back to top](http://help.marksandspencer.com/support/legal-and-ethical/privacy-policy1)
