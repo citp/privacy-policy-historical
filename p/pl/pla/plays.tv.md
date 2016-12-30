@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2014-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141201194841id_/http%3A//plays.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plays.tv privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230183937id_/http%3A//plays.tv/privacy) for the most accurate reproduction.*
 
-# Plays.tv - Privacy Policy
+# Privacy Policy - Plays.tv
 
 Welcome to Plays.tv! Plays.tv is committed to respecting the privacy rights and concerns of all users of the Plays.tv Service.
 
@@ -88,6 +88,6 @@ For more information, please visit http://www.export.gov/safeharbor.
 
 **Notification of changes.** By visiting the Site or using the Plays.tv Features, you consent to the collection and use of information by us as set forth in this privacy statement. If we decide to change our privacy statement, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-**Contacting us.** If you have any questions about our privacy practices or your dealings with the Plays.tv Features, please do not hesitate to contact privacy@plays.tv or Plays.tv, Inc., 701 N Shoreline Blvd, Mountain View, CA 94043
+**Contacting us.** If you have any questions about our privacy practices or your dealings with the Plays.tv Features, please do not hesitate to contact privacy@plays.tv or Plays.tv, Inc., 555 Twin Dolphin Dr Ste 630, Redwood City, CA 94065
 
 **Terms and Conditions.** Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site and the Plays.tv Service.
