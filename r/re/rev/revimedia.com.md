@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603003735id_/http%3A//www.revimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revimedia.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230101243id_/http%3A//www.revimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviMedia
 
@@ -104,7 +104,7 @@ If your personal information changes, or if you no longer desire our service, yo
 
 By submitting your information to us, you are consenting to receive marketing communications from Provider and its third party marketing partners. If, after you have shared your information with us, you decide that you do not want to receive marketing communications from Provider, you can discontinue the communications by sending an email [**here**](http://www.revimedia.com/contact-us/) with the phrase “opt out” (or similar language) in the subject heading, or by calling **1-800-491-7025**. You may also send opt-out requests to the following address:
 
- **ReviMedia, Inc** , 8 Beach St, 6th Floor, New York, NY 10013, **USA**
+ **ReviMedia, Inc** , 44 Wall St, Suite 505, New York, NY 10005, **USA**
 
 If you have registered or submitted information under more than one email account, you must submit separate opt-out requests for each account.
 
