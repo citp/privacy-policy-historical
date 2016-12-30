@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628023439id_/http%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230100943id_/http%3A//www.samhsa.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | SAMHSA
 
@@ -52,7 +52,7 @@ If you choose to provide SAMHSA with personal information – for example by com
 
 We will retain the information only for as long as necessary to respond to your question or to fulfill the stated purpose of the communication. Electronically submitted information, like information submitted in paper form, is maintained and destroyed in accordance with the Federal Records Act and records schedules of the National Archives and Records Administration. It may be subject to disclosure in certain cases (for example, if lawfully required in response to a Freedom of Information Act request, court order, or Congressional access request, or if authorized by a Privacy Act System of Records Notice). It is subject to the Privacy Act if maintained in a Privacy Act system.
 
-Learn more about your rights under the [Freedom of Information Act and the Privacy Act](http://www.samhsa.gov/foia/).
+Learn more about your rights under the [Freedom of Information Act and the Privacy Act](https://www.samhsa.gov/foia/).
 
 * * *
 
@@ -117,8 +117,8 @@ For each system of records, a specified Agency employee, known as a system manag
 
 **See Also:**
 
-  * [System of Record Notices (SORNS)](http://www.samhsa.gov/privacy/sorns "SORNS")
-  * [Privacy Impact Assessment (PIA)](http://www.samhsa.gov/privacy/pia "PIA")
+  * [System of Record Notices (SORNS)](https://www.samhsa.gov/privacy/sorns "SORNS")
+  * [Privacy Impact Assessment (PIA)](https://www.samhsa.gov/privacy/pia "PIA")
   * [U.S. Federal Government related policies, including Privacy Act of 1974](http://www.hhs.gov/ocio/securityprivacy/pglandreports/polguidlegrep.html)
   * [HHS Privacy Contacts (HHS Intranet)](http://intranet.hhs.gov/it/cybersecurity/privacy/index.html)
   * [Personally Identifiable Information (PII) Breach Response Team (BRT) Policy](http://www.hhs.gov/ocio/policy/20080001.003.html)
