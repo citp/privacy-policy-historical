@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313132050id_/http%3A//pushfire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascendgence.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230105215id_/https%3A//pushfire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PushFire®
 
@@ -23,9 +23,12 @@ If you supply us with your postal address online you will only receive the infor
 
 Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of:
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads and remarketing codes on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information and connection with social networks. For further information, consult the privacy policies of:
 
-www.google.com/analytics
+www.google.com/analytics  
+www.optimizely.com/privacy/  
+www.google.com/policies/technologies/ads/  
+www.facebook.com/policy.php
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at a future date, we will use for these new purposes only data collected from the time of the policy change and going forward.
 
