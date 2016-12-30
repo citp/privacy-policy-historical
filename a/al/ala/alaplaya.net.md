@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaplaya.net privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619063120id_/https%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaplaya.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230030621id_/https%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
 # Play the Best MMO, Browser, and Mobile Games for Free
 
