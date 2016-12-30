@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladymarielle.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613064613id_/http%3A//www.ladymarielle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladymarielle.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230134347id_/http%3A//www.ladymarielle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,3 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **  
 Please note: If at any time you would like to unsubscribe from receiving future emails, you can email us at[marielle.altenor@gmail.com](http://www.ladymarielle.com/contact-me/)**
-
-  *   *   *   * [](https://www.pinterest.com/pin/create/button/)
-  *   * 
-
