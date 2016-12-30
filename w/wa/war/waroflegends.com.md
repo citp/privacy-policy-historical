@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516190056id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230060906id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Privacy policy - Jagex Games Studio
+
+Effective Date: 7 June 2016
 
   1. Introduction
   2. What Personally Identifiable Information do we collect and store?
