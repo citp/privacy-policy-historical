@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613115732id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230042955id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and cookies information – University of Reading
 
