@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbmaradio.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616110842id_/http%3A//www.redbull.com/en/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbmaradio.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230021819id_/http%3A//www.redbull.com/en/data-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Bull
 
@@ -35,6 +35,9 @@
 ### 5\. Analysis and Advertising
 
 5.1 We use third party tools, including the Turn Audience Suite and related tools provided by Turn to make the advertising we show you on our Website and/or our partner websites more relevant and interesting to you. For this purpose, we use cookies, web beacons or similar technologies to collect information about your browsing behaviour (see sections 2.5 and 2.6 above) and deliver interest-based ads to you. For further information about the use of data by Turn please click on the following link: <http://www.turn.com/trust/privacy-guidelines>. You may opt-out at any time from the collection and use of your data by Turn by clicking the following link: <http://www.turn.com/trust/consumer-opt-out>.
+
+5.2 We also use third party tools, including Facebook Custom Audience and related tools provided by Facebook to provide advertising to you on other websites (including social media networks such as Facebook). Facebook Custom Audience is a tool provided by Facebook which matches a Red Bull customer/visitor with a Facebook user in order to provide advertising on the Facebook platform. For this purpose, we share your information with these third party providers (e.g. Facebook) and use cookies or similar technologies on our website to analyse the effectiveness of our advertising on other websites. For more information about the use of data by Facebook, please click on the following link: <https://www.facebook.com/privacy/explanation>. You may withdraw your consent at any time from the use of your data for these purposes, by contacting us by email on privacy@redbull.com.  
+ 
 
 ### 6\. Cookies and other technologies
 
