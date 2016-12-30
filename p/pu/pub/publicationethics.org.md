@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicationethics.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610182128id_/http%3A//publicationethics.org/resources/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicationethics.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230130151id_/http%3A//publicationethics.org/resources/privacy) for the most accurate reproduction.*
 
 # COPE Privacy Policy | Committee on Publication Ethics: COPE
 
@@ -17,6 +17,8 @@ The information we collect and how we use it:
 1.1 What information is being collected and how is it used?
 
 When you apply to become a COPE member, we collect information indicated on the application form and collected so to process your application and so we can fulfil our obligations to you. We then use this information to hold your customer details and generally fulfil our obligations to you. We will then contact you by email, fax, post and telephone in relation to your membership. Journal names of publishers who subscribe to COPE, are displayed on our website.
+
+Google Analytics Demographics and Interest Reporting, based on Display Advertising, has been implemented on the site. We will be using this information to understand our users better so that we can improve the experience. Visitors can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
 
 1.2. What else do we collect when you use our website?
 
