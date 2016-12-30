@@ -1,27 +1,78 @@
-> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041315id_/http%3A//www.templatewire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatewire.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230151558id_/http%3A//www.templatewire.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Templates, CSS Templates, Flash Templates - TemplateWire
+# Privacy Policy - TemplateWire
 
-To protect your privacy, TemplateWire provides this notice explaining our information practices and the choices you can make about the way your information is collected and used.
+This Privacy Policy governs the manner in which TemplateWire.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.templatewire.com](http://www.templatewire.com/) website ("Site").
 
-##### 1\. Information collected during your use of service
+##### Personal identification information
 
-In order to register to TemplateWire, users are required to give us contact information (e.g., your name and email address), unique identifiers (e.g., your password), and demographic information (e.g., your zip code). Certain information, such as passwords and email addresses, is collected in order to verify your identity and for use in our records.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Financial information, such as your credit card number, credit card expiration date is not collected by us, but by our secured payment processors, Paypal and 2Checkout.
+##### Non-personal identification information
 
-##### 2\. Use of your information
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We use customer contact information from the registration form to send you information TemplateWire and promotional material from some of our partners. Your contact information is also used to contact you when necessary. We may use your IP address to help protect our partners and us from fraud.
+##### Web browser cookies
 
-##### 3\. Disclosure of your information
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described in this Privacy Policy and without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+##### How we use collected information
 
-TemplateWire will never willfully sell, lease, or rent any of your or your business' personally identifiable information to any third party.
+TemplateWire.com may collect and use Users personal information for the following purposes:
 
-##### 4\. Security
+  * **To run and operate our Site**
 
-In order to maximize the protection of your information, TemplateWire uses state-of-the-art technology to protect your data from use, misuse, or alteration by unauthorized third parties. 
+We may need your information display content on the Site correctly.
 
-If you have any questions about this privacy statement or the practices of this site, please [contact us](https://web.archive.org/contact/).
+  * **To improve customer service**
+
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+
+  * **To personalize user experience**
+
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * **To improve our Site**
+
+We may use feedback you provide to improve our products and services.
+
+  * **To send periodic emails**
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
+
+
+
+
+##### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+##### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+##### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+##### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+##### Google Adsense
+
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+##### Changes to this privacy policy
+
+TemplateWire.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+##### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+##### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.templatewire.com/contact).
+
+This document was last updated on July 12, 2016
