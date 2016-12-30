@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the honolulu.gov privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629064240id_/http%3A//www.honolulu.gov/footer-links/56-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honolulu.gov privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230063740id_/http%3A//www.honolulu.gov/footer-links/56-privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - City and County of Honolulu
-
-﻿
+# Privacy Statement
 
 Privacy Statement
 
@@ -21,4 +19,4 @@ We automatically collect and store only the following information about your vis
 
 
 
- _ _City and County of Honolulu, Hawaii__ uses this information to make the Web portal more useful to visitors--to learn about the number of visitors to our site and the types of technology visitors use. We do not use information to track or record information about individuals and their visits. 
+__City and County of Honolulu, Hawaii__ uses this information to make the Web portal more useful to visitors--to learn about the number of visitors to our site and the types of technology visitors use. We do not use information to track or record information about individuals and their visits. 
