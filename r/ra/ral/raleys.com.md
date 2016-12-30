@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606193406id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230064610id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
 
 # We Appreciate Your Privacy: Our website privacy statement
 
