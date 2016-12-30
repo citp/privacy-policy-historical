@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321004346id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230164312id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
 
