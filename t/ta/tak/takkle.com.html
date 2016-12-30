@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the takkle.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624185752id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the takkle.com privacy policy that was archived on 2016-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230080452id_/http%3A//www.break.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head data-page-type="legal">
 		<title>Privacy</title>
@@ -40,8 +40,7 @@
 			};
 
 			
-				BUI.globals.experiments.push({dim : 17, expName : 'Break'});
-				BUI.globals.experiments.push({dim : 14, expName : '1'});
+				BUI.globals.experiments.push({dim : 14, expName : '3'});
 
 		    
 		    var expDimensionValue = window.canRunAds === undefined ? 'ad-blocked' : 'not-ad-blocked'; // canRunAds is defined in http://media5.break.com/campaigns/block-test/advertisement.js
@@ -52,6 +51,9 @@
 			// get the deeplink from backend (with a trick from Querystring to disable it).
 			// couldn't find how to get the current url via C#
 			BUI.deepLink = ('' + '?altUrl=' + window.location.href).replace(/^\?.*$/,'');
+
+			// GTM Timeout for header bidding - see PLT 8497
+	    	BUI.globals.GTM_TIMEOUT = 5000; //Wait 5 Seconds
 		</script>
 
 		
@@ -77,19 +79,19 @@
 		
 
 		
-		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/062116_113151/">
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/layoutCssLight/122116_113226/">
 		
 		
 		
-	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/062116_113151/">
+	<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/legalCss/122116_113226/">
 
 		
 		
-		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/062116_113151/">	
+		<link rel="stylesheet" type="text/css" href="http://s.brkmd.com/combres.axd/LightColorSchemeCss/122116_113226/">	
 		<script src="http://s.brkmd.com/Scripts/break/js/libs/modernizr-2.6.2-custom.min.js"></script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/062116_113151/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/coreJsLight/122116_113226/"></script>
 		
 
 		
@@ -133,14 +135,14 @@
 		</script>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/062116_113151/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutTopJs/122116_113226/"></script>
 			
 		
 		
 
 		
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/062116_113151/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/brktrkrJs/122116_113226/"></script>
 
 		
 		
@@ -177,6 +179,7 @@
 
 			}, BUI.globals.GTM_TIMEOUT);
 
+
 			
 			BUI.ads.normalizeAdArray = function (actual) {
 				'use strict';
@@ -190,6 +193,35 @@
 				}
 				
 				return newArray;
+			}
+
+			/**
+			 * Provide a mapping between the slot div id and ad human name
+			 * @param id {String} The div id 
+			 * @return {String} return slot human name (used for GA tracking)
+			 */
+			BUI.ads.getSlotName = function (id) {
+				var divs = {
+					'div-gpt-ad-leaderboard-fullscreen' : 'page_type',
+					'div-gpt-ad-leaderboard' : 'page_type',
+					'div-gpt-ad-rectangle-1' : 'page_type',
+					'div-gpt-ad-oop' : 'interstitial',
+					'div-gpt-ad-rectangle-2' : 'cdp_promo',
+					'div-gpt-ad-rectangle-3' : 'below_the_fold',
+					'div-gpt-ad-promoted-video' : 'promoted_video',
+					'div-gpt-ad-breadking-news' : 'breaking_news'
+				};
+
+				if (typeof divs[id] !== 'undefined') {
+
+					if (id === 'div-gpt-ad-rectangle-1') {
+						return BUI.ads.getAdZone(divs[id]) + '_rectangle';
+					} else {
+						return BUI.ads.getAdZone(divs[id]);
+					}
+				} else {
+					return 'unknown';
+				}
 			}
 
 			
@@ -313,6 +345,74 @@
 			BUI.ads.props.pageType = 'legal';
 			
 			googletag.cmd = googletag.cmd || [];
+
+			// PLT-8692
+			// This needs to be the first command pushed to the array
+			// TODO: Check if googletag.cmd is empty if not then insert at first position
+			googletag.cmd.push(function () {
+				var defineSlot = googletag.defineSlot, // Save reference to the original defineSlot method
+					oopDefineSlot = googletag.defineOutOfPageSlot, // Save reference to the original defineSlot method
+					adDivs,
+					divId,
+					i;
+			
+				// Get all divs with an id in the page
+				adDivs = document.querySelectorAll('div[id]');
+
+				// Loop through the list 
+				for (i = 0 ; i < adDivs.length ; i++) {
+					divId = adDivs[i].getAttribute('id');
+
+					// If match the test it is an Ad Div
+					if (divId.indexOf('div-gpt-') === 0) {
+						// Trigger GA event
+						BUI.tracking.trackGptEvents('Slot Rendered', BUI.ads.getSlotName(divId), BUI.ads.props.pageType);
+					}
+				};
+
+				// Hook the out of page method to send the DFP Called event (interstitial)
+				googletag.defineOutOfPageSlot = function (adUnitPath, id) {
+					var slotName = BUI.ads.getSlotName(id);
+
+					// if slotName exist in the mapping array
+					if (slotName !== 'unknown') {
+						// Send DFP Called event
+						BUI.tracking.trackGptEvents('DFP Called', slotName, BUI.ads.props.pageType);
+					} else {
+						BUI.utils.log('Skipped GA event [DFP Called] for ', adUnitPath, id);
+					}
+
+					// Call original method and return slot
+					return oopDefineSlot.apply(googletag, arguments);
+				};
+
+				// rewrite the defineSlot method with our hacked version
+				googletag.defineSlot = function (adunitPath, sizes, id) {
+					var slotName = BUI.ads.getSlotName(id);
+
+					// if slotName exist in the mapping array
+					if (slotName !== 'unknown') {
+						// Send DFP Called event
+						BUI.tracking.trackGptEvents('DFP Called', slotName, BUI.ads.props.pageType);
+					} else {
+						BUI.utils.log('Skipped GA event [DFP Called] for ', adUnitPath, sizes, id);
+					}
+
+					// Call original method and return slot
+					return defineSlot.apply(googletag, arguments);
+				};
+
+				// Add event listener to trigger the DFP responded GA event
+				googletag.pubads().addEventListener('slotRenderEnded', function (e) {
+
+					// Is the slot populated
+					if (!e.isEmpty) {
+						// Trigger the GA event
+						BUI.tracking.trackGptEvents('DFP Responded', BUI.ads.getSlotName(e.slot.getSlotId().getDomId()), BUI.ads.props.pageType);
+					}
+				});
+			});
+
 
 			if (typeof ord === 'undefined') {
 				ord = Math.ceil(Math.random() * 10000000000000000);
@@ -447,8 +547,8 @@
 	})();
 </script>
 <!-- End PageFair Monitor Javascript snipper -->
-
-	</head>
+        
+	<script async="" src="http://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#nol_apid=T78FBC15A-A79D-454D-9FD1-7ED2093DE93B&amp;nol_sfcode=dcr-cert&amp;nol_apn=Break&amp;nol_ci=us-103628&amp;nol_vc=c05&amp;nol_assetname=web&amp;nol_segA=20161230080452id_&amp;nol_segB=http:"></script></head>
 	<body id="legal" class="legal">
 		
 <svg style="display:none">
@@ -467,6 +567,9 @@
 			c0.442,2.702,2.473,4.713,2.473,4.713s-0.016,1.899-0.707,2.01C10.311,21.814,2,25.48,2,29.5h28
 			C30,25.48,21.689,21.814,19.463,21.461L19.463,21.461z"></path>
 	</symbol>
+	<symbol id="dfy-upload-icon" viewBox="0 0 32 36"><defs><style>.cls-1{fill:#fff;}</style></defs>
+		<path class="cls-1" d="M8.77,13.27,13.5,8.54V25a2.5,2.5,0,0,0,5,0V8.54l4.73,4.73a2.5,2.5,0,1,0,3.54-3.54l-9-9,0,0a2.51,2.51,0,0,0-.36-.3L17.19.32,17,.19,16.71.11,16.49,0A2.51,2.51,0,0,0,16,0h0a2.51,2.51,0,0,0-.46,0l-.22.07L15,.19l-.24.13-.19.1a2.51,2.51,0,0,0-.36.3l0,0-9,9a2.5,2.5,0,0,0,3.54,3.54Z"></path><path class="cls-1" d="M29.5,26.5A2.5,2.5,0,0,0,27,29v2H5V29a2.5,2.5,0,0,0-5,0v4.5A2.5,2.5,0,0,0,2.5,36h27A2.5,2.5,0,0,0,32,33.5V29A2.5,2.5,0,0,0,29.5,26.5Z"></path>
+	</symbol>
 </svg>
 
 
@@ -480,16 +583,16 @@
 					cookie	 : true,  // enable cookies to allow the server to access
 					// the session
 					xfbml	  : true,  // parse social plugins on this page
-					version	: 'v2.0' // use version 2.0
+					version	: 'v2.8' // use version 2.8
 				});
 
 				// Check login status (uncomment to use for testing)
 				//FB.getLoginStatus(function(response) {
-				//	console.log(response);
+				//	console.log('FB.getLoginStatus: ' + JSON.stringify(response));
 				//});
 			};
 
-			// Load Facebook SDK 2.0 asynchronously
+			// Load Facebook SDK asynchronously
 			(function(d, s, id) {
 				var js, fjs = d.getElementsByTagName(s)[0];
 				if (d.getElementById(id)) return;
@@ -528,6 +631,63 @@
 	<!-- End Google Tag Manager <noscript> part -->
 
 
+        
+        <script async="">
+var pathArray = window.location.pathname.split('/'),
+    nielsenMetadata,
+    assetName,
+    segA = '',
+    segB = '';
+
+if (pathArray[0] === "") {
+  pathArray.shift(); // Clear beginning '/'.
+}
+
+switch (pathArray.length) {
+  case 1: // Homepage or Channel pages. ex) / or /animals
+    assetName = pathArray[0] === "" ? 'homepage' : pathArray.pop();
+    break;
+  case 2: // CDP pages. ex) /video/filename
+    assetName = pathArray[0]; // video
+    segA = pathArray[1]; // filename
+    break;
+  default : // CDP pages. ex) /video/***/filename
+    assetName = pathArray[0]; // video
+    segA = pathArray[1]; // ***
+    segB = pathArray[2]; // filename
+    break;
+}
+
+// create object with required metadata 
+nielsenMetadata = {
+    // Configuration Metadata
+    nol_apid: 'T78FBC15A-A79D-454D-9FD1-7ED2093DE93B', // assigned App ID will be provided for testing
+    nol_sfcode: 'dcr-cert', // location of collections environment. 'dcr-cert' will be used for testing
+    nol_apn: 'Break', // custom value to identify integration
+
+    // Content Metadata
+    nol_ci: 'us-103628',  // pass provided nielsen client ID   
+    nol_vc: 'c05', //pass provided nielsen sub-brand value
+    nol_assetname: assetName.substring(0, 127) , // *DYNAMIC METADATA*: section of site, limit to 128 characters, fallback to ‘homepage’.
+    nol_segA: segA.substring(0, 127), // *DYNAMIC METADATA*: custom segment, passing filename conditionally.
+    nol_segB: segB.substring(0, 127) // *DYNAMIC METADATA*: custom segment, passing filename conditionally.
+};
+
+// dynamically build the script tag and inject on page
+(function (params) {        
+  var url = 'http://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#';                  
+  var query = [];
+  for (var param in params) {query.push(param + '=' + params[param]);}
+  url += query.join('&');
+  var script = window.document.createElement("script");
+  script.async = true;
+  script.src = url;
+  window.document.getElementsByTagName('head')[0].appendChild(script);
+})(nielsenMetadata);
+
+</script>
+
+
 		<!-- Comscore Beacon -->
 		
 		<script>
@@ -541,7 +701,7 @@
 			})();
 		</script>
 		<noscript>
-		<img alt="Comscore beacon image" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=4000003&amp;c3=&amp;c4=http://www.break.com/corp/privacy&amp;c5=&amp;c6&amp;c15&amp;cv=2.0&amp;cj=1">
+		<img alt="Comscore beacon image" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=4000003&amp;c3=&amp;c4=http://www.break.com/corp/privacy/&amp;c5=&amp;c6&amp;c15&amp;cv=2.0&amp;cj=1">
 		</noscript>
 
 
@@ -577,6 +737,7 @@
                     <option value="feedback">Feedback / Tips (Send us ideas on how to make the site better) </option>
                     <option value="advertising">Advertising (Questions about the advertising on the site)</option>
                     <option value="copyright">Copyright (Videos or pictures that need to be taken down)</option>
+                    <option value="licensing">Licensing (To license video content from us or any related questions)</option>
                     <option value="marketing">PR/Marketing (Questions about PR or Marketing) </option>
                     <option value="help">Support (Questions on site functionality, payments for content)</option>
                     <option value="tech">Technical Issues (Something on the site is not working) </option>
@@ -628,6 +789,7 @@
         }
 
 		googletag.cmd.push(function () {
+
 			 googletag.defineSlot('/4678/brk.brk/' + adZone, [
 				[728, 90],
 				[960, 1],
@@ -641,7 +803,7 @@
 			], 'div-gpt-ad-leaderboard').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
 
 			googletag.pubads()
-				.setTargeting('category', BUI.ads.props.movieCategories)
+				.setTargeting('category', (BUI.ads.props.movieCategories) ? BUI.ads.props.movieCategories : 'other')
 				.setTargeting('mar', BUI.ads.props.mar)
 				.setTargeting('seriesName', BUI.ads.props.seriesname)
 				.setTargeting('cntid', BUI.ads.props.adid)
@@ -656,15 +818,58 @@
 				.setTargeting('videoviews', BUI.ads.props.videoviews.toString())
 				.setTargeting('brkref', BUI.ads.props.brkref)
 				.setTargeting('sourcedomain', BUI.ads.props.sourcedomain)
-				.setTargeting('utmc', BUI.ads.props.utmc);
+				.setTargeting('utmc', (BUI.ads.props.utmc) ? BUI.ads.props.utmc : 'other');
 
 			//Set targeting for header bidding
 			if (typeof pbjs_setTargeting === 'function') {
 				pbjs_setTargeting();
 			}
-				
+
+			googletag.pubads().addEventListener('impressionViewable', function(event) {
+				var slotId = event.slot.getSlotElementId();
+
+				if(slotId === 'div-gpt-ad-leaderboard') {
+					$.publish('impressionViewable.leaderboard', {
+						'slotId': slotId
+					});
+				}
+			});
+
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				var slotId = event.slot.getSlotElementId(),
+					stickyTypeData = [],
+					limitLineSelector = null,
+					adZone,
+					configObj;
+
+				if (slotId === 'div-gpt-ad-leaderboard') {	
+					adZone = BUI.ads.getAdZone();
+
+					switch (adZone) {
+						case 'vid_contentdetail': // Video CDP
+						case 'series_contentdetail':
+							stickyType = stickyTypeData.push('sticky-timely','sticky-limited');
+							limitLineSelector = '.brk-cdp-share-stats';
+							break;
+						case 'gallery_contentdetail': // Gallery CDP
+							stickyType = stickyTypeData.push('sticky-limited');
+							limitLineSelector = '.brk-cdp-share-stats';
+							break;
+						default:
+							stickyType = stickyTypeData.push('sticky-timely');
+					}
+
+					DFY.SITE.stickyLeaderboard.init({
+						stickyType: stickyTypeData,
+						limitLineSelector: limitLineSelector,
+						zIndex: 1000
+					});
+				}
+			});
+
 			googletag.enableServices();
 			googletag.display('div-gpt-ad-leaderboard');
+			
 		});
 	</script>
 </div>
@@ -679,7 +884,7 @@
 
 
 
-<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/062116_113151/"></script>
+<script type="text/javascript" src="http://s.brkmd.com/combres.axd/authJs/122116_113226/"></script>
 
 <header class="SiteNav">
 
@@ -703,26 +908,6 @@
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="2991101" data-content-uri="http://www.break.com/video/karate-thats-funny-2991101" data-title-sequence="0">
-
-        
-                    <img src="http://media11.break.com/dnet/media/101/991/2991101/why-you-shouldn-t-make-fun-of-your-opponent-s-skills-until-after-you-win1_550x309.jpg" alt="Why You Shouldn’t Make Fun Of Your Opponent’s Skills Until After You Win" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
-
-        <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
-    </div>
-
-		<div class="ui-ContentBottom">
-			<h1>
-				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/karate-thats-funny-2991101">Why You Shouldn’t Make Fun Of Your Opponent’s Skills Until After You Win</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">5 months ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">115,744</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">166</span>
-			</h1>
-		</div>
-	</article>
-<!-- article:end -->
-
-	<article class="ui-HoverTrigger clearfix scaling ct-block VideosNav-flyout-featured">
     <div class="ui-ContentThumbNail ui-ContentThumbNail--thirdParty" data-content-id="2991373" data-content-uri="http://www.break.com/video/documenting-the-urban-wildlife-found-at-the-gym-2991373" data-title-sequence="0">
 
         
@@ -733,10 +918,9 @@
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/documenting-the-urban-wildlife-found-at-the-gym-2991373">Funny! Documenting Urban Wildlife Found At The Gym</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">5 months ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">165,209</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">4,300</span>
+				<a data-ga="Navigation:Featured_1" href="http://www.break.com/video/documenting-the-urban-wildlife-found-at-the-gym-2991373">Funny! Documenting Urban Wildlife Found At The Gym</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">12 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">222,999</span>
 			</h1>
 		</div>
 	</article>
@@ -753,10 +937,9 @@
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Featured_3" href="http://www.break.com/video/prank-bank/hot-girl-naked-office-prank-prank-bank-2984699">This Prank Asks How You'd React After Seeing Another Man's Wife Naked</a>
-				<span class="ui-Icon ui-Icon--clock "></span><span class="date">6 months ago</span>
-							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">286,738</span>
-				<span class="ui-Icon ui-Icon--thumbsUp"></span><span class="share">0</span>
+				<a data-ga="Navigation:Featured_2" href="http://www.break.com/video/prank-bank/hot-girl-naked-office-prank-prank-bank-2984699">This Prank Asks How You'd React After Seeing Another Man's Wife Naked</a>
+				<span class="ui-Icon ui-Icon--clock "></span><span class="date">13 months ago</span>
+							<span class="ui-Icon ui-Icon--eyeball"></span><span class="share">406,699</span>
 			</h1>
 		</div>
 	</article>
@@ -775,7 +958,7 @@
 	</ul>
 	<hr>
 
-	<div class="VideosNav-flyout-count"><span>339,830</span> viral videos (and counting)</div>
+	<div class="VideosNav-flyout-count"><span>347,366</span> viral videos (and counting)</div>
 	<a href="/content/surpriseme/" data-ga="Navigation:SurpriseMe" class="VideosNav-flyout-surprise">Surprise Me</a>
 </div>
 		</li>
@@ -790,63 +973,63 @@
 
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="3030276" data-content-uri="http://www.break.com/video/epic-how-to-2810344/how-to-survive-the-wild-west-epic-how-to-3030276" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3070299" data-content-uri="http://www.break.com/video/break-compilations-2591623/top-wins-of-2016-breaking-videos-3070299" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/276/030/3030276/how-to-survive-the-wild-west-epic-how-todefault1-1_550x309.jpg?109" alt="How to Survive The Wild West - EPIC HOW TO" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/299/070/3070299/top-wins-of-2016-breaking-videosdefault1-1_550x309.jpg?99" alt="Top Wins of 2016 - Breaking Videos" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_1:Epic How To" href="http://www.break.com/video/epic-how-to-2810344/how-to-survive-the-wild-west-epic-how-to-3030276">How to Survive The Wild West - EPIC HOW TO</a>
+				<a data-ga="Navigation:Latest_1:Breaking Videos" href="http://www.break.com/video/break-compilations-2591623/top-wins-of-2016-breaking-videos-3070299">Top Wins of 2016 - Breaking Videos</a>
 						</h1>
 			<p>
 
-			Planning on time travelling back to the notorious Wild West? Don't worry, e...
+			Hey Break fans! Check out our latest compilation, Top Wins of 2016! Let us ...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="3029153" data-content-uri="http://www.break.com/video/new-justice-league-details-what-do-they-mean-3029153" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3069070" data-content-uri="http://www.break.com/video/man-at-arms/sword-of-altair-assassins-creed-man-at-armsref-3069070" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/153/029/3029153/new-justice-league-details-what-do-they-meandefault1-15_550x309.jpg?40" alt="New Justice League Details - What Do They Mean?" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/070/069/3069070/sword-of-altair-assassins-creed-man-at-armsreforgeddefault1-1_550x309.jpg?54" alt="Sword of Altair - Assassin's Creed - MAN AT ARMS:REFORGED" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_2:" href="http://www.break.com/video/new-justice-league-details-what-do-they-mean-3029153">New Justice League Details - What Do They Mean?</a>
+				<a data-ga="Navigation:Latest_2:Man at Arms" href="http://www.break.com/video/man-at-arms/sword-of-altair-assassins-creed-man-at-armsref-3069070">Sword of Altair - Assassin's Creed - MAN AT ARMS:REFORGED</a>
 						</h1>
 			<p>
 
-			Huge Justice League News dropped this week and our panel comes to the rescu...
+			This week, the guys at Baltimore Knife and Sword take on Ezio’s Sword from ...
 			</p>
 		</div>
 	</article>
 <!-- article:end -->
 
 	<article class="ui-HoverTrigger clearfix scaling ct-block SeriesNav-flyout-featured">
-    <div class="ui-ContentThumbNail " data-content-id="3029942" data-content-uri="http://www.break.com/video/break-compilations-2591623/motorcycle-wipeouts-breaking-videos-3029942" data-title-sequence="0">
+    <div class="ui-ContentThumbNail " data-content-id="3069660" data-content-uri="http://www.break.com/video/diy-cosplay-shop/one-punch-man-diy-cosplay-shop-3069660" data-title-sequence="0">
 
         
-                    <img src="http://media11.break.com/dnet/media/942/029/3029942/motorcycle-wipeouts-breaking-videosdefault1-1_550x309.jpg?195" alt="Best Motorcycle Fail Compilation!  - Breaking Videos" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
+                    <img src="http://media11.break.com/dnet/media/660/069/3069660/one-punch-man-diy-cosplay-shopdefault1-1_550x309.png" alt="One Punch Man – DIY COSPLAY SHOP" onerror="SwapImage(this,'http://s.brkmd.com/content/break/img/404/_550x309.jpg?1778')" class="ui-ContentThumbNail-img">
 
         <span class="ui-ContentThumbNailDesc"><span class="ui-ContentThumbNailDesc-icon ui-Icon ui-Icon--play" aria-hidden="true"></span><span class="ui-ContentThumbNailDesc-callAction">Play Video</span></span>
     </div>
 
 		<div class="ui-ContentBottom">
 			<h1>
-				<a data-ga="Navigation:Latest_3:Break Compilations" href="http://www.break.com/video/break-compilations-2591623/motorcycle-wipeouts-breaking-videos-3029942">Best Motorcycle Fail Compilation!  - Breaking Videos</a>
+				<a data-ga="Navigation:Latest_3:DIY Cosplay Shop" href="http://www.break.com/video/diy-cosplay-shop/one-punch-man-diy-cosplay-shop-3069660">One Punch Man – DIY COSPLAY SHOP</a>
 						</h1>
 			<p>
 
-			There's always that one obnoxious person on a motorcycle trying to do somet...
+			Elizabeth Rage takes you through the steps to create the look from One Punc...
 			</p>
 		</div>
 	</article>
@@ -861,49 +1044,6 @@
 		<li class="SeriesNav-series SeriesNav-series--fourth"><a data-ga="Navigation:Series_SpeakEasy" href="https://www.youtube.com/watch?v=CnrzJV5hRRc&amp;index=10&amp;list=PLB1BCF71220A59769" target="_blank"></a></li>
 		<li class="SeriesNav-series SeriesNav-series--fifth"><a data-ga="Navigation:Series_PrankBank" href="https://www.youtube.com/watch?v=t7uoeBjJlog&amp;list=PLi4_17dTpNzV28u2fasoA4MH3V0vScMXB&amp;index=93" target="_blank"></a></li>
 	</ul>
-</div>
-		</li>
-		<li class="PrimaryNav-link PrimaryNav-link--new MoviesNav">
-			<a data-ga="Navigation:Movies" href="/movies/">Movies</a>
-			<div class="MoviesNav-flyout">
-	<ul class="MoviesNav-allCategories">
-		<li class="MoviesNav-category MoviesNav-category--screenJunkies">
-			<a data-ga="Navigation:Movie_screen-junkies-approved" href="/movies/screen-junkies-approved/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--comedy">
-			<a data-ga="Navigation:Movie_comedy" href="/movies/comedy/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--action">
-			<a data-ga="Navigation:Movie_action" href="/movies/action/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--thriller">
-			<a data-ga="Navigation:Movie_thriller" href="/movies/thriller/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--overlookedGems">
-			<a data-ga="Navigation:Movie_overlooked-gems" href="/movies/overlooked-gems/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--horror">
-			<a data-ga="Navigation:Movie_horror" href="/movies/horror/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--drama">
-			<a data-ga="Navigation:Movie_drama" href="/movies/drama/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--rememberThe90s">
-			<a data-ga="Navigation:Movie_remember-the-90s" href="/movies/remember-the-90s/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--420Flicks">
-			<a data-ga="Navigation:Movie_420-flicks" href="/movies/420-flicks/"></a>
-		</li>
-		<li class="MoviesNav-category MoviesNav-category--allMovies">
-			<a data-ga="Navigation:MovieAll" href="/movies/"></a>
-		</li>
-	</ul>
-	<div class="MoviesNav-goToHub">
-		<a data-ga="Navigation:MovieAll" href="/movies/">
-			<img src="/Content/break/img/logos/break-movies-logo-132x74.png" alt="Break Movies">
-		</a>
-		<a data-ga="Navigation:MovieAll" href="/movies/" class="MoviesNav-seeAllButton">See All »</a>
-	</div>
 </div>
 		</li>
 		<li class="PrimaryNav-link AppsNav">
@@ -923,6 +1063,13 @@
 	</ul>
 
 	<ul id="js-user-actions" class="UserActions">
+		<li>
+			<button data-ga-redirect="Navigation_click:Upload button:Upload Click" class="UserActions-upload btnUploadVideo">
+				<svg>
+					<use xlink:href="#dfy-upload-icon"></use>
+				</svg>
+			</button>
+		</li>
 		<li>
 			<div class="js-useractions-search UserActions-iconBackground UserActions-search">
 				<svg class="UserActions-icon">
@@ -964,36 +1111,35 @@
 	<nav class="SubNav">
                     <a data-ga="Navigation:SubNav_today-for-you" class="SubNavLink" href="http://www.break.com/">
 Today For You                    </a>
-                    <a data-ga="Navigation:" class="SubNavLink" href="http://sites.break.com/prank-it-fwd/?utm_source=funbar&amp;utm_campaign=PIF">
-                            <img src="http://s.brkmd.com/content/break/img/misc/prank-it-fwd.png" alt="Prank It Fwd" class="SubNavLink-thumb">                    </a>
+                    <a data-ga="Navigation:SubNav_funny-pictures" class="SubNavLink" href="http://www.break.com/pictures">
+Funny Pictures                    </a>
+                    <a data-ga="Navigation:SubNav_just-submitted" class="SubNavLink" href="http://www.break.com/videos/newest/just-submitted">
+Just Submitted                    </a>
                     <a data-ga="Navigation:SubNav_most-popular" class="SubNavLink" href="http://www.break.com/most-popular">
 Most Popular                    </a>
-                    <a data-ga="Navigation:SubNav_funny" class="SubNavLink" href="http://www.break.com/360fly">
-360fly                    </a>
-                    <a data-ga="Navigation:SubNav_heartwarming" class="SubNavLink" href="http://www.break.com/heartwarming">
-Heartwarming                    </a>
-                    <a data-ga="Navigation:SubNav_weird" class="SubNavLink" href="http://www.break.com/weird">
-Weird                    </a>
                     <a data-ga="Navigation:SubNav_pranks-and-fails" class="SubNavLink" href="http://www.break.com/pranks-and-fails">
 Pranks &amp; Fails                    </a>
+                    <a data-ga="Navigation:SubNav_saucy" class="SubNavLink" href="http://www.break.com/saucy">
+Saucy                    </a>
+                    <a data-ga="Navigation:SubNav_weird" class="SubNavLink" href="http://www.break.com/weird">
+Weird                    </a>
                     <a data-ga="Navigation:SubNav_geeky" class="SubNavLink" href="http://www.break.com/geeky">
 Geeky                    </a>
                     <a data-ga="Navigation:SubNav_animals" class="SubNavLink" href="http://www.break.com/animals">
 Animals                    </a>
-                    <a data-ga="Navigation:SubNav_enterainment" class="SubNavLink" href="http://www.break.com/entertainment">
-Entertainment                    </a>
+                    <a data-ga="Navigation:" class="SubNavLink" href="http://www.break.com/funny">
+Funny                    </a>
 		<div class="SubNav-moreTab">
 			More
 			<div class="SubNav-moreMenu">
 				<div class="SubNav-moreContent">
 					<div class="SubNav-MoreChannels">
 								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:SubNav_animals" href="http://www.break.com/animals">Animals</a>
-								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:SubNav_enterainment" href="http://www.break.com/entertainment">Entertainment</a>
+								<a class="SubNav-MoreChannels--extra" data-ga="Navigation:" href="http://www.break.com/funny">Funny</a>
+								<a data-ga="Navigation:SubNav_heartwarming" href="http://www.break.com/heartwarming">Heartwarming</a>
+								<a data-ga="Navigation:SubNav_enterainment" href="http://www.break.com/entertainment">Entertainment</a>
 								<a data-ga="Navigation:SubNav_sports" href="http://www.break.com/sports">Sports</a>
-								<a data-ga="Navigation:SubNav_saucy" href="http://www.break.com/saucy">Saucy</a>
 					</div>
-					<a data-ga="Navigation:SubNav_just-submitted" href="/videos/newest/just-submitted/">Just Submitted</a>
-					<a data-ga="Navigation:SubNav_funny-pictures" href="/pictures/">Funny Pictures</a>
 				</div>
 			</div>
 		</div>
@@ -1207,6 +1353,9 @@ Entertainment                    </a>
 									<nav>
 									<h1>Archives</h1>
 									    <ul>
+											    <li><a href="http://www.break.com/archives/2016/">Archives 2016</a></li>
+											    <li><a href="http://www.break.com/archives/2015/">Archives 2015</a></li>
+											    <li><a href="http://www.break.com/archives/2014/">Archives 2014</a></li>
 											    <li><a href="http://www.break.com/archives/2013/">Archives 2013</a></li>
 											    <li><a href="http://www.break.com/archives/2012/">Archives 2012</a></li>
 											    <li><a href="http://www.break.com/archives/2011/">Archives 2011</a></li>
@@ -1300,7 +1449,7 @@ Entertainment                    </a>
 	</div>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/062116_113151/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/layoutBottomJsLight/122116_113226/"></script>
 
 		
 		
@@ -1431,7 +1580,7 @@ Entertainment                    </a>
 			</div>
 		</script>
 
-		<!-- 2016-06-24 11:57 APP02 -->
+		<!-- 2016-12-30 00:04 APP07 -->
 		
 		<script type="text/javascript">
 			var _sf_async_config={};
@@ -1490,6 +1639,6 @@ Entertainment                    </a>
 </footer>
 
 		
-		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/062116_113151/"></script>
+		<script type="text/javascript" src="http://s.brkmd.com/combres.axd/contactFormJs/122116_113226/"></script>
 	
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
