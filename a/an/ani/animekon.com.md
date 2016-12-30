@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animekon.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622092112id_/http%3A//www.animekon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animekon.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230223904id_/http%3A//www.animekon.com/privacy.html) for the most accurate reproduction.*
 
 # Animekon - Privacy Policy
 
@@ -52,8 +52,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.animekon.com/
 
 Serban Stokker Cheregi  
-Corneliu Coposu st. 15, bl. AN21, sc. E, ap. 6  
-Oradea, Bihor 410445  
+Oradea, Bihor  
 Romania
 
  **Privacy policy customer pledge**
