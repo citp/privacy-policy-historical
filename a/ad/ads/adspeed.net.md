@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.net privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419040917id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230162624id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -18,7 +18,7 @@ We log your IP address to help identify any unauthorized access to your account.
 
 #### Browser Cookie
 
-AdSpeed.com uses a browser cookie, a data file stored within your browser, to allow and decline access to the appropriate person(s) to your account. The browser cookie helps our server know that you are an authorized user and let you navigate around the website without asking you for authorization repeatedly. For visitors, we use a browser cookie to improve our website navigation. We do not track visitors through different websites once you leave AdSpeed.com. 
+AdSpeed.com uses a browser cookie, a data file stored within your browser, to allow and decline access to the appropriate person(s) to your account. The browser cookie helps our server know that you are an authorized user and let you navigate around the website without asking you for authorization repeatedly. For visitors, we use a browser cookie to improve our website navigation. We do not track visitors through different websites once you leave AdSpeed.com. We use Google Analytics to anonymously track website usage and activity. 
 
 #### Newsletter Opt In/Out
 
@@ -28,13 +28,9 @@ When signing up, you have an option to subscribe to our monthly newsletter. If y
 
 This website contains links to external websites. We are not responsible for the privacy practices or the content of such websites. 
 
-#### Public Forums
-
-To help our members with the service, we provide forums and message boards to members. Please note that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
 #### Spyware and Deceptive Advertising
 
-Our [Terms of Service](https://web.archive.org/Terms-of-Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://web.archive.org/Knowledges/223/Technical/howto_remove_spyware_malware_computer.html)
+Our [Terms of Service](https://web.archive.org/Terms-of-Service.html) clearly states our policy against spyware, adware and deceptive advertising. We take actions promptly to protect your privacy and our own reputation. [Learn more](https://web.archive.org/Knowledges/223/Technical/howto-remove-spyware-malware-computer.html)
 
 #### General
 
