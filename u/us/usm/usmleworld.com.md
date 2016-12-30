@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325013220id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230152733id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # UWorld
 
