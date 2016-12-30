@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraftprojects.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314150046id_/http%3A//www.minecraftprojects.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftprojects.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230231521id_/http%3A//www.minecraftprojects.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
