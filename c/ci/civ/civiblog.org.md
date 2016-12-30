@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civiblog.org privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310104014id_/http%3A//civiblog.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civiblog.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230013749id_/http%3A//civiblog.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Civi Blog
+# Privacy / Civi Blog
 
 Privacy Policy
 
