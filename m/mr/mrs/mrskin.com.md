@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505032518id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230075757id_/http%3A//www.mrskin.com/help/privacy) for the most accurate reproduction.*
 
 # "Privacy Policy | Mr. Skin"
 
