@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the lorealusa.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331205701id_/http%3A//www.lorealusa.com/miscellaneous/privacy-and-cookie-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorealusa.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230204326id_/http%3A//www.lorealusa.com/privacy-and-cookie-notice) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice - L’Oréal Group
 
 Thank you for visiting the Lorealusa.com website. We appreciate the importance of your trust and have set forth this Privacy Policy and Cookie Notice to explain how we ( “we”, “us”, or “our”) collect, protect, share and use your information as part of our technology platforms, including, without limitation, our company websites, web pages, sponsored social media platforms, mobile sites and mobile apps (the “Sites”).
 
 Your use of the Sites constitutes your acceptance of this Privacy and Cookie Notice and consent to the practices described.
+
+  
+
 
 ## **INFORMATION COLLECTED**
 
