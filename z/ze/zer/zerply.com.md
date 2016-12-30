@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627155328id_/https%3A//zerply.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230164735id_/https%3A//zerply.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zerply
 
