@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414054549id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231000656id_/https%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TaxConnections
 
-**TAXCONNECTIONS PRIVACY POLICY - UPDATED JUNE 12, 2013**
+**TAXCONNECTIONS PRIVACY POLICY - UPDATED SEPTEMBER 5, 2016**
 
 This privacy policy describes how TaxConnections Inc, a company incorporated in the State of Delaware, in the United States of America collects and uses the personal information you provide on our company website [www.taxconnections.com](http://www.taxconnections.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **COLLECTION AND USE OF PERSONAL INFORMATION**
+
+TaxConnections Never Sells Or Gives Away Your Personal Information
+
+TaxConnections does NOT sell or give away your personal information, such as your name or e-mail address, that you provide or sign up for a TaxConnections Membership. We will use your name and e-mail address only to send our content and our sponsors content to you through our client relationship management service. You can unsubscribe at any time by clicking on the Unsubscribe link at the foot of every page of the TaxConnections site.
+
+As is typical of many other blogs and websites, this site may passively collect your personal information, such as your country of access, time of access, accessed posts and pages, etc., through the use of Google Analytics and/or the Jetpack WordPress Plugin. This site does NOT sell or give away this information. TaxConnections Tax Blog is set up separately on WordPress from the rest of our site but our rules span our entire site.
 
 We collect the following personal information from you: 
   * Contact Information such as name, email address, mailing address, and phone number
@@ -29,9 +35,17 @@ As is true of most websites, we automatically gather information about your comp
   * Improve our website to provide you with better services
   * Conduct research and analysis
   * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
-  * List you in our publicly accessible, interactive “Worldwide Directory of Tax Professionals” if you are a subscribing member of this directory 
+  * List you in our publicly accessible, interactive “Worldwide Directory of Tax Professionals” if you are a subscribing member of this directory
 
 
+
+**SPONSORED LINKS**
+
+The TaxConnections site uses advertisements and sponsored links. TaxConnections does not control the content of the advertisements, sponsorships or the conduct of the third parties whose content is being served on our site. If you click on a sponsors ad and are taken to a third party website, please check that site’s privacy policy if you want to learn how your personal information is used by that site, including whether that site is tracking your behavior or clicks and whether that site is using cookies or other persistent identifiers.
+
+If you click on a third party advertisement or one of our Sponsored links on this site and are taken to a third party’s website, that third party site may track information regarding your visit or collect personal information that you submit. TaxConnections does NOT have control over or knowledge of how or whether this occurs and you should read that site’s privacy policy if you want to learn about how your information may be used.
+
+We take great pride in our ability to reach out to Sponsors to research their products and services prior to promoting them on the TaxConnections site. We encourage visitors to tell us of their experiences with these products and services. Your feedback is important to us and to our Sponsors in order to enable them to continually improve their products and services to customers.
 
 **CHOICE/OPT-OUT**
 
@@ -42,10 +56,6 @@ We enable you to create a profile, and share information such as messages, photo
 **TESTIMONIALS**
 
 We post customer testimonials on our web site which may contain personal information, such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to posting the testimonial. If you want to remove your personal information that is being displayed on the public-facing pages of our website, please send your request to [support@taxconnections.com](mailto:support@taxconnections.com?)
-
-**INFORMATION OBTAINED FROM THIRD PARTIES**
-
-We obtain credit information about you from an outside credit reporting agency to help us with customer authentication and credit-related decisions. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
 **TAX QUESTIONS, TAX POLLS AND FORUM**
 
@@ -101,17 +111,17 @@ We will retain your information for as long as your account is active or as need
 
 **SECURITY**
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@taxconnections.com](mailto:%20support@taxconnections.com). 
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@taxconnections.com](mailto:%20support@taxconnections.com).
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy policy and security practices will also apply to your information. We encourage you to read that privacy policy before providing your information.
 
 **ADDITIONAL POLICY INFORMATION**
 
-**_Social Media Widgets_**
+**Social Media Widgets**
 
 Our website includes widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc.). Personal information, such as your email address, may be collected through the widget. Cookies may also be set by the widget to enable it to function properly. Information collected by this widget is governed by the privacy policy of the company that created it.
 
-**_Blog and Forum_**
+**Blog and Forum**
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@taxconnections.com](mailto:%20support@taxconnections.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
