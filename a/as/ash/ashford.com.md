@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201238id_/http%3A//www.ashford.com/us/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230044102id_/http%3A//www.ashford.com/us/info/privacy.jsp) for the most accurate reproduction.*
 
 # Luxury Watch Movado, Ebel, Tag Heuer, Concord, Bulova, Breitling, Seiko, ESQ, Cartier, Corum, Kenneth Cole, Citizen, Bulgari, Chopard - Ashford.com
 
@@ -15,3 +15,15 @@ All information is fully protected by SSL encryption technology. Credit card inf
 ### Other Questions
 
 Contact one of our expert customer service agents for assistance at 866-ASHFORD (866-274-3673) or [customerservice@ashford.com](mailto:customerservice@ashford.com).
+
+### Third Party Requests
+
+You should be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect Ashford, the users of our website or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at <http://mouseflow.com/opt-out>.
+
+### Compliance with other Internet privacy regulations
+
+Privacy of Young Children (FTC Regulation): Ashford is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children’s products we sell are for purchase by adults only.
+
+California Privacy Rights: Under California law, customers of Ashford who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, you may send us an email at [2]customerservice@ashford.com with the words “California Privacy Rights” in the subject line or write us at 545 Broadway Brooklyn, NY 11206. 
