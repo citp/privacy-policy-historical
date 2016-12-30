@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315233801id_/https%3A//www.bedstar.co.uk/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedstar.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230033059id_/https%3A//www.bedstar.co.uk/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security And Privacy - bedstar.co.uk
-
-## Who We Are
 
 In this Privacy Policy references to "we" and "us" are to bedstar Limited company number 05204678 , registered office Registered office 2 Mount Parade, Harrogate, HG1 1BX.  
 What information we collect and how  
