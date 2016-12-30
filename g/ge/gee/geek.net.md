@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the geek.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617081718id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geek.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230075418id_/http%3A//www.thinkgeek.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy & Security | ThinkGeek
 
-As of July 17, 2015, Geeknet joined the Gamestop family of brands. Learn more [here](http://investor.gamestop.com/phoenix.zhtml?c=130125&p=irol-irhome).
+As of July 17, 2015, Geeknet joined the GameStop family of brands. Learn more [here](http://investor.gamestop.com/phoenix.zhtml?c=130125&p=irol-irhome).
 
 ### Privacy Policy
 
-We at Geeknet, Inc. (“Geeknet,” “we,” “our,” “us,” the “Company”), including our two divisions of ThinkGeek, Inc. (“ThinkGeek”) and ThinkGeek Solutions, Inc., are committed to respecting your privacy and the security of your personal information.
+We at Geeknet, Inc., more commonly known as "ThinkGeek," are committed to respecting your privacy and the security of your personal information.
 
-By visiting or using the ThinkGeek.com or any other site that is owned or operated by us (each, a “Site,” and collectively, the “Sites”) or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing, you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
+By visiting or using the ThinkGeek.com or any other site that is owned or operated by ThinkGeek (each, a “Site,” and collectively, the “Sites”) or any other linked pages, features, content, mobile applications, and any other services we offer from time to time in connection with any of the foregoing, you hereby acknowledge and consent to the terms of this Privacy Policy and the [Terms of Use](https://web.archive.org/help/terms-of-use.shtml), of which this Privacy Policy is a part. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [legal@ThinkGeek.com](mailto:legal@thinkgeek.com).
 
 As you use our Sites, we want you to be clear on how we care about how your personal information is used and shared, as well as the ways in which you can protect your privacy. Our Privacy Policy explains:
 
@@ -33,7 +33,7 @@ We collect information in two ways:
 
       * When you create an account; place an order or make a return; inquire about our services; request emails from us about our offerings; provide us with marketing preferences; receive a gift from someone else who purchases through our Sites; follow us or submit information, including photographs, via third-party social media platforms (e.g., Facebook, Twitter, Google+, etc.); enter a contest or participate in a marketing survey; and submit other information to us directly or through third-party services, you are asked to provide personally identifiable information that uniquely identifies you.
 
-      * We collect the following types of personally identifiable information: your contact information (such as name, postal or email address, or phone number), name and email address of gift card recipients, username and password, payment information such as PayPal or credit card details[1], shipping information (including the shipping address and phone number), purchase history at our Sites, shopping preferences (such as an interest in a particular fandom or product category), demographic information, information you provide by interacting with us through social media, and photographs that you submit on our Sites or through our social media channels. Also, by submitting a photograph, you waive any rights thereto and authorize us to copyright, use and publish the same in print or electronically for any lawful purpose. All photographs submitted to our Sites become the property of Geeknet.
+      * We collect the following types of personally identifiable information: your contact information (such as name, postal or email address, or phone number), name and email address of gift card recipients, username and password, payment information such as PayPal or credit card details, shipping information (including the shipping address and phone number), purchase history at our Sites, shopping preferences (such as an interest in a particular fandom or product category), demographic information, information you provide by interacting with us through social media, and photographs that you submit on our Sites or through our social media channels. Also, by submitting a photograph, you waive any rights thereto and authorize us to copyright, use and publish the same in print or electronically for any lawful purpose. All photographs submitted to our Sites become the property of ThinkGeek.
 
       * Note that any personal information that you post voluntarily now or in the future through the Sites or on an area of a social network monitored by us (e.g., our Facebook page) may be visible to others and collected by third-parties.
 
@@ -125,7 +125,7 @@ In the event we become aware that the security of the Sites has been compromised
 
     * This Privacy Policy covers our treatment of personally identifiable information that we gather when you are accessing or using our Sites.
 
-    * This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Sites. Links to third-party web sites are provided solely as a convenience to you. Once you leave our Sites, we neither control nor have responsibility for third-party sites, their content, or their privacy practices.
+    * This Privacy Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage, even if you have accessed the websites or services of those companies through our Sites. Our services may provide services or features that are not owned or controlled by ThinkGeek. When you access or use third party services, you agree to comply with any applicable terms or conditions thereof. Links to third-party web sites are provided solely as a convenience to you. Once you leave our Sites, we neither control nor have responsibility for third-party sites, their content, or their privacy practices. We encourage you to read the terms and conditions and privacy policy of each third party service that you access or utilize.
 
     * Our Sites are not intended for use by anyone under the age of 13. If you are under 13, please do not attempt to create an account or send any information about yourself to us, including your name, address, telephone number or email address. No one under the age of 13 may provide any personal information to us, and we do not knowingly collect personal information from anyone under the age of 13. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com).
 
@@ -137,13 +137,15 @@ We work hard to protect us and our users from unauthorized access to or unauthor
 
     * We use encryption when using the Internet to transfer or receive requested sensitive personally identifiable information;
 
-    * When you enter sensitive information (such as a credit card number) on our order forms, we use 128-bit encryption to transmit that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@ThinkGeek.com](mailto:%20legal@thinkgeek.com)
+    * When you enter sensitive information (such as a credit card number) on our order forms, we use encryption to transmit that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [legal@ThinkGeek.com](mailto:%20legal@thinkgeek.com)
 
-    * Credit card numbers are NOT stored in our database. We keep on file only the last 4 digits to verify the card that was used. Once the information is transmitted to our servers for processing, we use encryption in the back end to transmit the request to our payment processor to verify the credit card and place an authorization for the order total; and
+    * While we transmit the entire credit card number to the appropriate credit card payment processor during order processing, we reveal only the last 4 digits when confirming an order. Once the information is transmitted to our servers for processing, we use encryption in the back end to transmit the request to our payment processor to verify the credit card and place an authorization for the order total; 
+
+    * Some customers may choose to store their payment information in our secure wallet. To the extent you opt to store or update payment settings, note that we tokenize the credit card information with our credit card processor and retain only this cryptographic hash of the card. We do not store the actual card number in our systems; and
 
     * We restrict access to personally identifiable information to our employees, contractors and agents on a need-to-know basis and who are bound by confidentiality agreements.
 
-To minimize the risk of having your account being compromised, we recommend that you set up your account password using unique numbers, letters and special characters. Do not disclose passwords to others. Please notify us of any password compromises and change passwords periodically to maintain account protection.
+To the extent that you use our websites, and connect to us through your computer, anyone with access to your computer may be able to access our websites and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer. To minimize the risk of having your account being compromised, we recommend that you set up your account password using unique numbers, letters and special characters. Do not disclose passwords to others. Please notify us of any password compromises and change passwords periodically to maintain account protection.
 
   6. #### Your choices
 
@@ -159,7 +161,7 @@ We offer you choices about the information we collect, how we use and disclose t
 
     * **Updating Your Profile.** You may update or correct your personally identifiable information related to your account directly on the site or by contacting Customer Support at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com). If you wish to request deletion of your personal information, then please contact us at custserv@ThinkGeek.com. We will respond requests within a reasonable timeframe. We retain and use your information as necessary to comply with our legal obligations, contractual statute of limitations, resolution of disputes, and enforcement of our agreements. Please note that we may not be able to delete data upon request depending on the reasons above and the nature of your interactions (e.g., we retain data to notify customers of product recalls).`
 
-    * **Contests.** From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice about whether or not to disclose this information. We may use a third party service provider to conduct these surveys or contests; in those cases, that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+    * **Contests.** From time to time, we may provide you the opportunity to participate in contests, sweepstakes, surveys and/or other promotions on our site. If you participate, we will request certain personally identifiable information from you. Participation in these contests, sweepstakes, surveys and/or promotions is completely voluntary, and you therefore have a choice about whether or not to disclose this information. We may use a third party service provider to conduct these surveys or contests; in those cases, that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest, sweepstakes, survey and/or promotion with other third parties unless we give you prior notice and choice.
 
     * **Gift Card Recipients.** Your gift card recipient may contact us at [custserv@ThinkGeek.com](mailto:custserv@thinkgeek.com) to request an update, correction or deletion of their personally information. Again, for various reasons stated above, we may not be able to delete information upon request. 
 
@@ -178,7 +180,7 @@ We may display personal testimonials of satisfied customers on our website in ad
   10. #### Questions or concerns
 
 **Geeknet, Inc.**  
-11216 Waples Mill Rd., Suite 103  
+11216 Waples Mill Rd., Suite 100  
 Fairfax, VA 22030  
 508-970-2002 
 
@@ -187,16 +189,14 @@ If you have any questions or concerns regarding our Privacy Policy, please send 
 
 
 
-We do not store credit card numbers or other details longer than it takes to fulfill your order.
-
-_Last Modified: January 11, 2016_
+_Last Modified: November 29, 2016_
 
 ### Security
 
 Credit card information for web orders is protected in the following ways:
 
   * 128-bit encryption to and from the servers and web browser.
-  * Credit card numbers are not stored in our database. We keep on file only the last 4 digits to verify the card that was used.
+  * Credit card numbers are not stored in our database. We keep on file only the last 4 digits to verify the card that was used. If you've chosen to store your payment method with us in your virtual wallet, what we actually have is not your credit card number but an encrypted token we use to communicate with the credit card processor about your orders.
   * Once the information is transmitted to our servers for processing, we use encryption in the back end to transmit the request to our payment processor to verify the credit card and place an authorization for the order total.
   * If the authorization, address verification and risk assessment all clear, the order is accepted and a unique ID is associated with the order for purposes of billing the previous authorization. This ID contains no identifiable link to the credit card number.
 
