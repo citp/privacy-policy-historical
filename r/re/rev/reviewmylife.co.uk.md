@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewmylife.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610230325id_/http%3A//www.reviewmylife.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewmylife.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230062014id_/http%3A//www.reviewmylife.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | reviewmylife
 
