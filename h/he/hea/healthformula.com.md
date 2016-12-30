@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018073431id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230140121id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
 
 # Health Formula
 
@@ -12,7 +12,7 @@ Now - here's the official version:
 
 We will never release any personally identifiable information such as your name, address, e-mail address, phone number or credit card information without your consent. During the checkout process, we collect personal information that we use only to process your order.
 
-We will only share or disclose such information in order to conform to the edicts of the law; protect and defend the right or property of Health Formula, Inc.; or act under exigent circumstances to protect the personal safety of its members or the public.
+We will only share or disclose such information in order to conform to the edicts of the law; protect and defend the right or property of Array.; or act under exigent circumstances to protect the personal safety of its members or the public.
 
 Secure ordering online   
 This website uses technology called Secure Socket Layer (SSL) to encrypt any personal information you transmit to us online. We use 128-bit encryption, currently the strongest commercially available, to encrypt your order information. Your order is encrypted on your computer and decoded after it reaches our secure server. This information cannot be decrypted during transit.
@@ -33,7 +33,7 @@ As described above, ordering on our website is safe and secure because we use Se
 At any time, you may request from us the information we have collected from you. Simply contact us. To protect your privacy, we will only e-mail this information to the e-mail address associated with your order. No credit card information will be divulged. We are unable to give out personal information over the phone.
 
 **"Cookies"**   
-Cookies are pieces of information that are stored by your Web browser on your computer's hard drive. Health Formula, Inc cookies do not contain any personal identification information, but they do enable us to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser's settings to prevent that. You can also delete all the cookies on your computer at any time.
+Cookies are pieces of information that are stored by your Web browser on your computer's hard drive. Array cookies do not contain any personal identification information, but they do enable us to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you can usually change your browser's settings to prevent that. You can also delete all the cookies on your computer at any time.
 
 Even without a cookie, you can still use most of the features on www.dermboutique.com - including placing items in your shopping cart and purchasing them online.
 
@@ -41,8 +41,8 @@ Even without a cookie, you can still use most of the features on www.dermboutiqu
 
 You may write to us at:
 
-Health Formula, Inc   
-314 E. Dania Beach Blvd. #132   
-Dania Beach, FL 33004-3028 - USA
+Array   
+398 E. Dania Beach Blvd #400   
+Dania Beach, FL 33004
 
-Call us at 1-800-414-8009 or send us an [email](https://web.archive.org/web/20151018073431id_/http%3A//www.healthformula.com/contact.html).
+Call us at 1-800-414-8009 or send us an [email](https://web.archive.org/web/20161230140121id_/http%3A//www.healthformula.com/contact.html).
