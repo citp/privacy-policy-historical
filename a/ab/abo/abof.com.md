@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abof.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624191323id_/http%3A//www.abof.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abof.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230020351id_/http%3A//www.abof.com/privacy-policy) for the most accurate reproduction.*
 
 # Privay policy
 
@@ -6,7 +6,7 @@
 
 _Capitalized terms used under this Privacy Policy and not defined herein shall have the same meaning as ascribed thereto under the Terms and Conditions of Use_
 
-Abof through its Website/Mobile Application, is extremely proud of its commitment to protect your privacy. We value your trust in us. We have adopted the following Privacy Policy, which is applicable to all Personal Information that you provide to abof through the Website/Mobile Application, either directly or which we get from your use of our Services.
+abof through its Website/Mobile Application, is extremely proud of its commitment to protect your privacy. We value your trust in us. We have adopted the following Privacy Policy, which is applicable to all Personal Information that you provide to abof through the Website/Mobile Application, either directly or which we get from your use of our Services.
 
 You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any registration process on the Website/Mobile Application or prior to availing of any Services offered if you wish not to disclose any Personal Information you may refrain from doing so; however if you don't provide the Personal Information that is requested it is possible that the registration process would be incomplete and/or you would not be able to avail of the Services.
 
