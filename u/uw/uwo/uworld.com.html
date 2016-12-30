@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uworld.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325013220id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uworld.com privacy policy that was archived on 2016-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161230152733id_/http%3A//www.uworld.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta charset="UTF-8"><title>
 	UWorld
@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="/assets/css/bootstrap-3.3.2-dist/css/bootstrap.min.css"><link rel="stylesheet" href="/assets/Font-Awesome-master/css/font-awesome.min.css"><link rel="stylesheet" href="/assets/css/style.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:700italic,400,300,600,700,800" type="text/css">
     <script src="/assets/js/placeholders.jquery.min.js"></script>
-
+    <script src="../assets/js/browserDetect.js"></script>
     <!--Google analytics code -->
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -116,7 +116,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
                                 </a>
                             </div>
                         </div>
-                        <div class="col-sm-5 hidden-xs" style="padding-left: 0; text-align: right;">
+                        <div class="col-sm-5 hidden-xs" style="padding-left: 0; text-align: right; padding-right: 0px;">
                             <p class="nav-rightlinks">
                                 
                                 <a href="/ViewCart.aspx" class="hidden-xs" style="margin-right: 0px; position: relative">
@@ -134,9 +134,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
                                     <b class="hidden-xs hidden-sm hidden-md mainControlIcons">Forums</b>
                                 </a>
                                 <a href="https://www.uworld.com/sign_in.aspx" id="pnlLogin">
-                                    <img class="hidden-xs hidden-sm" src="../assets/media/images/Login_button.png" width="25" title="Login">
+                                    <img class="hidden-xs hidden-sm hidden-md" src="/assets/media/images/Login_button.png" width="25" title="Login">
                                     <b class="mainControlIcons hidden-xs hidden-sm hidden-md">Login</b>
-                                    <b class="btn btn-primary  hidden-md hidden-lg">Login</b>
+                                    <b class="btn btn-primary hidden-lg">Login</b>
 
                                 </a>
                                 
@@ -252,7 +252,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
                         </li>
                         
 
-                        <li class="limobilenav"><a href="/viewcart.aspx">Cart&nbsp;<span id="lblmobileItemCount"></span></a></li>
+                        <li class="limobilenav"><a href="/viewcart.aspx">Cart<span id="lblmobileItemCount"></span></a></li>
                         <li class="limobilenav"><a href="/contact_us.aspx">Support</a></li>
                         <li class="limobilenav"><a href="/forum/default.aspx?gid=1">Forums</a></li>
                         <br>
@@ -364,7 +364,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
                     <a class="hidden-768">•</a> &nbsp; <a class="a-footer-links" href="/privacy_policy.aspx">Privacy</a> &nbsp; 
                     <a class="hidden-768">•</a> &nbsp; <a class="a-footer-links" href="/terms_conditions.aspx">Terms of Use</a> &nbsp; 
                     <a class="hidden-768">•</a> &nbsp; <a class="a-footer-links" href="/jobs.aspx">Careers</a>
-                    <a class="hidden-768">•</a> &nbsp; <a class="a-footer-links" href="/forum/default.aspx?gid=1">Forums</a>
+                    
                 </p>
             </div>
         </div>
@@ -389,7 +389,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
                 <div class="modal-content">
                     <div class="modal-header">
                         <div class="modal-header-logo" style="float: left">
-                            <img src="/assets/media/images/error.png" width="32" height="32">
+                            <img id="modal-title-icon" src="/assets/media/images/error.png" width="32" height="32">
                         </div>
                         <div id="modal-title" style="float: left; margin-left: 10px; font-weight: 700; color: white; font-size: 14pt">
                             Error
@@ -415,50 +415,48 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
             </div>
         </div>
 
-
-        
-
         <script type="text/javascript">
             var element = document.getElementById('copyright');
             var year = new Date().getFullYear();
             element.innerHTML = 'Copyright &copy; UWorld ' + year + '. All rights reserved.';
-
-            $(function () {
-                if (isIE(9, 'lte')) {
-                    $('input, textarea').placeholder();
-                }
-            });
         </script>
 
         <script type="text/javascript">
 
             $(document).ready(function () {
-
+                var browserMessage = "Website is not compatible with this version of the browser.<br/><br/> For best viewing experience please use Internet Explorer 11.0, Firefox 34.0, Google Chrome 40.0, Safari 8.0 or higher versions";
                 $("#mobileMenu").height($(window).height() - 120);
-
-                if (isIE(8, 'lte')) {
-                    $('#errorClientModal .p-modal-error').html("Website is not compatible with this version of the browser.<br/> For best viewing experience please use Internet Explorer 9.0, Firefox 30.0,Google Chrome 40.0 , Safari 5.0 or higher browsers");
-                    $('#errorClientModal').modal('show');
+                var browserName = agent.Browser();
+                if (browserName == "Firefox") {
+                    if (parseInt(agent.Version) < 34) {
+                        $('#errorClientModal .p-modal-error').html(browserMessage);
+                        $('#errorClientModal').modal('show');
+                    }
+                } else if (browserName == "Chrome") {
+                    if (eval(agent.Version) < 40) {
+                        $('#errorClientModal .p-modal-error').html(browserMessage);
+                        $('#errorClientModal').modal('show');
+                    }
+                } else if (browserName == "Safari") {
+                    if (eval(agent.Version) < 8) {
+                        $('#errorClientModal .p-modal-error').html(browserMessage);
+                        $('#errorClientModal').modal('show');
+                    }
                 }
-            })
-
-            function isIE(version, comparison) {
-                var cc = 'IE',
-                    b = document.createElement('B'),
-                    docElem = document.documentElement,
-                    isIE;
-
-                if (version) {
-                    cc += ' ' + version;
-                    if (comparison) { cc = comparison + ' ' + cc; }
+                else if (browserName == "Internet Explorer") {
+                    if (eval(agent.Version) <= 10) {
+                        $('#errorClientModal .p-modal-error').html(browserMessage);
+                        $('#errorClientModal').modal('show');
+                    }
                 }
 
-                b.innerHTML = '<!--[if ' + cc + ']><b id="iecctest"></b><![endif]-->';
-                docElem.appendChild(b);
-                isIE = !!document.getElementById('iecctest');
-                docElem.removeChild(b);
-                return isIE;
-            }
+                if (browserName == "Internet Explorer") {
+                    if (eval(agent.Version) <= 9) {
+                        $('input, textarea').placeholder();
+                    }
+                }
+            });
+
         </script>
 
     </form>
@@ -477,9 +475,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$SM1', 'form1', [], [], 
         </div>
     </noscript>
     <!-- End Google Code for Remarketing Tag -->
-
-
-
 
 
 </body></html>
