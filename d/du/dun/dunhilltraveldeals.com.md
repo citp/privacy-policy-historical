@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326101002id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230190157id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
 
 # Dunhill Travel Deals Privacy Policy for Top Travel Deals Newsletter
 
