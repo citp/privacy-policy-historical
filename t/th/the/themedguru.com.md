@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403020723id_/http%3A//www.themedguru.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230140524id_/http%3A//themedguru.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
