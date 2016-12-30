@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508183805id_/http%3A//www.kjrh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230125157id_/http%3A//www.kjrh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
