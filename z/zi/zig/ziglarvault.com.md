@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziglarvault.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530210830id_/http%3A//ziglarvault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziglarvault.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230100901id_/http%3A//ziglarvault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ziglar Vault
 
