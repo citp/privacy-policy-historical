@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628162452id_/https%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoreseller.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231000449id_/https%3A//www.seoreseller.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SEO Reseller, White Label SEO & SEO Outsource Provider - SEO Reseller, White Label SEO & SEO Outsource Provider
-
-## SEOReseller.com Online Privacy Statement
+# SEOReseller Online Privacy Policy | SEO Reseller
 
 Our company, seoreseller.com, is committed to protecting your privacy. Please read the Online Privacy Statement regarding the privacy practices of our website found on www.seoreseller.com. Please note that this statement applies only to the collection and use of information obtained online and not to data gathered offline. By using our site, you consent to our website’s privacy policy. When you visit our website, expect to be notified of the following:
 
