@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410054449id_/http%3A//www.adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcouncil.org privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230061537id_/http%3A//adcouncil.org/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdCouncil
 
