@@ -1,8 +1,24 @@
-> *The following text is extracted and transformed from the ice-watch.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329012940id_/https%3A//www.ice-watch.com/uk-en/doc/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice-watch.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230145521id_/https%3A//www.ice-watch.com/be-en/doc/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Ice-Watch
 
-[ __ ](https://www.ice-watch.com/uk-en/ "Return to Home") > [About](https://www.ice-watch.com/uk-en/contenu/about.cfm "About") > Privacy Policy
+[ __ ](https://www.ice-watch.com/be-en/ "Return to Home") > [About](https://www.ice-watch.com/be-en/contenu/about.cfm "About") > Privacy Policy
+
+September 2015
+
+**Visiting ICE's _[ice-watch.com](https://www.ice-watch.com/be-en/)_ website (the “Website”) confirms that you agree and understand the terms of our privacy policy ("Privacy Policy")**. **If you do not agree with the terms of this Privacy Policy, or any modification(s) thereto, please exit the Website now and do not purchase any of the products offered for sale on the Website.**
+
+This Website and in particular the sale of watches is operated by Supplies Distributors SA, rue Louis Blériot 5, 4460 Grâce-Hollogne, Belgium (company number: 0475.286.142; VAT BE 0475.286.142) (hereafter "SDSA") in its own name, as a business partner of ICE SA S.A.(“ICE”). ICE has created this Privacy Policy in order to communicate ICE's policies and practices relating to the collection, use and disclosure of personal information i.e. information that identifies an individual, which we collect when you use the Website, namely, your name, gender, postal address (including billing and shipping addresses), telephone number, fax number, email address, credit and debit card information ("PI").
+
+This Privacy Policy describes our practices in connection with PI that we collect through this Website. We may change this Privacy Policy by posting a new privacy policy on the Website. You can determine when this Privacy Policy was last revised by referring to the legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Website. However, all significant changes to our Privacy Policy, which would lower the protection of your PI already provided to us, will only become effective upon receiving your explicit consent.
+
+**What information is collected on the Website?**
+
+You may use the Website without providing any PI to ICE. You will however need to provide PI if you choose to (i) purchase products offered on the Website for the purposes of paying for the products you ordered and processing your order (ii) contact us. Any information you provide on the Website may be processed in Europe and United States of America.
+
+You allow ICE and SDSA to store this PI in the ICE customer database. Your PI are kept five years.
+
+You may request by sending an e-mail to ICE to modify or delete your PI at any time as soon as your order has been processed and delivered (see "Changes and access to your PI”). ICE and SDSA may collect non-personal information about you even if you do not purchase any products on the Website.
 
 **Newsletters**
 
