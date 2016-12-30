@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiptechnews.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619062217id_/http%3A//www.tiptechnews.com/p/privacy-tiptechnews-respects-your.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptechnews.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230175407id_/http%3A//www.tiptechnews.com/p/privacy-tiptechnews-respects-your.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tip Tech News
 
