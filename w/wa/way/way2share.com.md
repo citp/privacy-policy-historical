@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the way2share.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529152917id_/http%3A//www.way2share.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2share.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230070328id_/http%3A//www.way2share.com/privacy-policy) for the most accurate reproduction.*
 
-# Way2Share - Buy Sell Rent and Post Free Ads in India
+# India Buy Sell Rent and Post Free Ads in India
 
 **We respect your privacy and we are committed to safeguarding your privacy while online at our site www.99likes.com.    
 The following discloses our information gathering and dissemination practices for this Web site. We never sell your personal information to third parties.**
