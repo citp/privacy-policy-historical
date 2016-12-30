@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508085911id_/https%3A//sealedair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230124338id_/https%3A//sealedair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sealed Air
 
@@ -92,6 +92,6 @@ If you have any questions or comments about this Privacy Policy, or if you would
 
 Sealed Air  
 (Attn: Executive Director, Digital Marketing)  
-200 Riverfront Boulevard  
-Elmwood Park, NJ 07407    
+8215 Forest Point Boulevard  
+Charlotte, NC 28273    
 [contact.us@sealedair.com](mailto:contact.us@sealedair.com)
