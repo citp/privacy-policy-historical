@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazzmyride.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517033303id_/http%3A//www.jazzmyride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzmyride.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230235621id_/http%3A//www.jazzmyride.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
