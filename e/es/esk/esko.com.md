@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630194822id_/http%3A//www.esko.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230071403id_/https%3A//www.esko.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Esko Privacy Policy - Esko
+# 
+
+* * *
 
 Esko created this Privacy Policy in order to demonstrate our commitment to privacy. Your right to privacy and data security is a primary concern.
 
@@ -33,7 +35,7 @@ This website may make forums and message boards available to you. Please remembe
 
 **Electronic newsletters**
 
-Esko offers various free electronic newsletters. Users can sign up by clicking on the “[Subscribe to the More! E-zine](https://web.archive.org/en/company/newsletter/more-e-zine)” button on the homepage. Or the More! E-zine link in the top navigation under Company. We don't spam, never sell or rent email addresses, and there's an easy unsubscribe in every email you'll receive. Alternately users may remove themselves from mailing lists by sending an email to [privacy@esko.com](mailto:privacy@esko.com).
+Esko offers various free electronic newsletters. Users can sign up by clicking on the “[Subscribe to the More! E-zine](https://web.archive.org/en/company/newsletter/more-e-zine "Subscribe")” button on the homepage. Or the More! E-zine link in the top navigation under Company. We don't spam, never sell or rent email addresses, and there's an easy unsubscribe in every email you'll receive. Alternately users may remove themselves from mailing lists by sending an email to [privacy@esko.com](mailto:privacy@esko.com "Request removal from mailing lists").
 
 **Contests**
 
@@ -82,15 +84,15 @@ We also collect information through the use of Web beacons. Web beacons are tiny
 
 **Information correction and updating**
 
-Esko offers you the ability to correct or change the information collected during registration. You may change this information by returning to that website or emailing [_privacy@esko_.com](mailto:privacy@esko.com). You may unsubscribe to any of our electronic newsletters by following the instructions provided in each electronic newsletter or emailing [privacy@esko.com](mailto:privacy@esko.com). 
+Esko offers you the ability to correct or change the information collected during registration. You may change this information by returning to that website or emailing [_privacy@esko_.com](mailto:privacy@esko.com "Change information"). You may unsubscribe to any of our electronic newsletters by following the instructions provided in each electronic newsletter or emailing [privacy@esko.com](mailto:privacy@esko.com "Unsubscribe"). 
 
 **Deleting/Opt-Out policy**
 
-Esko does not offer you a means by which to completely delete personal information, but you can opt-out of any future communications from us by emailing [_privacy@esko.com_](mailto:privacy@esko.com).
+Esko does not offer you a means by which to completely delete personal information, but you can opt-out of any future communications from us by emailing [_privacy@esko.com_](mailto:privacy@esko.com "Opt-out").
 
 **SECURITY**
 
-Esko operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can email us at [ _privacy@esko_.com](mailto:privacy@esko.com).
+Esko operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can email us at [ _privacy@esko_.com](mailto:privacy@esko.com "Ask about our security").
 
 **Children's privacy protection**
 
@@ -102,7 +104,7 @@ Esko may transfer personal information to a third party that acquires a business
 
 CONTACT Esko
 
-For Privacy Policy questions, email [privacy@esko.com](mailto:privacy@esko.com) or via postal mail at:
+For Privacy Policy questions, email [privacy@esko.com](mailto:privacy@esko.com "Got questions?") or via postal mail at:
 
 **Esko-Graphics bvba  
 **Marketing Department  
