@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627094819id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230140503id_/http%3A//www.asos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies | ASOS
 
@@ -286,17 +286,18 @@ Protecting your security
 
 We are always striving to make sure your information is protected.  As soon as we receive your information, we use various security features and procedures, taking into account industry standards, to try to protect the personal information that you provide and to prevent unauthorised access to that information.  For example:
 
-  * We also offer secure “https” access to the transactional parts of ASOS.com website (that is to the bits where you are required to provide Directly Provided Data). [This includes to existing SSL access over mobile devices]. [We’re working on making secure “https” access a default across ASOS.]
+  * We also offer secure “https” access to the transactional parts of ASOS.com website (that is to the bits where you are required to provide Directly Provided Data). 
   
 
   * Access to your data on ASOS is password-protected, and sensitive data (such as credit card information) is protected by SSL encryption when it is exchanged between your web browser and the ASOS Services. To further secure your credit card, we also don’t keep details of the security code (or CCV number) that you need to input in order to complete an order using your credit card.
   
 
-  * To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements.   We also use a tier-one secured-access data center.
+  * To protect any data you store on our servers, we regularly monitor our system for possible vulnerabilities and attacks, as well as carrying out penetration testing of our own on those systems to try to identify possible improvements.  
 
 
 
-We will do our best to protect your personal data.  Unfortunately, security cannot be guaranteed though.  There are therefore a number of general things we would also recommend that you do.  Please help keep your account safe by using a strong password that includes characters other than just letters.  We will also encourage you not to use the same password across all or many of your online accounts.  As emails, instant messaging, and similar means of communication are not encrypted, we also would recommend not communicating any confidential information through these means. ****
+We will do our best to protect your personal data, however, there are also a number of things that you can help with.  You can keep your account safe by using a strong password that includes characters other than just letters.  We will also encourage you not to use the same password across all or many of your online accounts.  As emails, instant messaging, and similar means of communication are not encrypted, we also would recommend not communicating any confidential information through these means.  
+****
 
 Contacting us
     
@@ -318,4 +319,4 @@ Changes to this Policy
 
 We may change this Privacy Policy from time to time. If we make significant changes in the way we treat your personal information, or to the Privacy Policy, we will make that clear on the ASOS website or Services, or by some other means such as email, so that you are able to review the changes before you continue to use ASOS. 
 
-This page was last updated on 1 July 2015.
+This page was last updated on 1 November 2016.
