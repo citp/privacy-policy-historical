@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingwizard.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908215339id_/http%3A//www.bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwizard.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231084015id_/http%3A//www.bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies
+# Privacy and Cookies - Blogging Wizard
 
 **_Privacy and Cookies Policy_**
 
@@ -25,9 +25,11 @@ The use of cookies on this website may employ the following cookies (but is not 
 
 **(5)**  Affiliate promotions – within this website you may encounter links to services that are considered as affiliate promotions. If you click on an affiliate link and you make a purchase through the particular website, then we may or may not receive a small amount of commission as a result. Please be aware that these affiliate links may utilize a cookie file that allows the vendor of the affiliate program to track where their sales are originating from.
 
-The reason for using such links is to offset the costs of running this website which will allow us to continue to operate and bring you value further into the future. If you do click on a link on our website and you make a purchase on the external website via our affiliate link whether it be for following a recommendation or just following a link on our website then you must ensure that you do your own due dilligence before purchasing any product, however we would never recommend a product that we do not believe in, we believe in only offering the truest and most sincere recommendations of goods and services.
+The reason for using such links is to offset the costs of running this website which will allow us to continue to operate and bring you value further into the future. If you do click on a link on our website and you make a purchase on the external website via our affiliate link whether it be for following a recommendation or just following a link on our website then you must ensure that you do your own due diligence before purchasing any product, however we would never recommend a product that we do not believe in, we believe in only offering the truest and most sincere recommendations of goods and services.
 
 **(6)**  Google Custom Search – we may at times employ the use of Google’s custom search engine, which works in a similar method to their Adsense service, for more information on that please see the privacy policy section further on in this document.
+
+**(7)** Facebook Tracking Pixel – we use Facebook’s tracking pixel for use with remarketing activities. This allows us to share offers and content with you via Facebook.
 
 **Privacy Policy** **  
 **  
