@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622005746id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtontimes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231185906id_/http%3A//www.washingtontimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Times
 
@@ -66,9 +66,9 @@ Advertisers that display Ads on our site (and other advertising services) may us
 
  ** _Data Collected in Connection with Emails_**
 
-Email newsletters you elect to receive from us are transmitted through Sailthru. Sailthru uses pixel tag technology to determine whether an email has been opened. In addition, when you click on any link in an email newsletter or marketing message you have elected to receive, Sailthru recognizes that fact. This information is used in the aggregate to measure the rate at which emails are opened and various links are clicked, to measure user interests and traffic patterns, and to improve the content of the email newsletters and the services and features offered through the email newsletter and marketing messages.
+Email newsletters you elect to receive from us are transmitted through Marketo. Marketo uses pixel tag technology to determine whether an email has been opened. In addition, when you click on any link in an email newsletter or marketing message you have elected to receive, Marketo recognizes that fact. This information is used in the aggregate to measure the rate at which emails are opened and various links are clicked, to measure user interests and traffic patterns, and to improve the content of the email newsletters and the services and features offered through the email newsletter and marketing messages.
 
-Because some of this information is linked to individual email addresses, it is personally identifiable. You can view Sailthru’s privacy policy at <http://www.sailthru.com/legal/#privacy>.
+Because some of this information is linked to individual email addresses, it is personally identifiable. You can view Marketo’s privacy policy at <http://legal.marketo.com/privacy/>.
 
 Our email newsletters contain advertisements, some of which are supplied by a company named LiveIntent, and are from companies that comply with the Digital Advertising Alliance Principles and the Newspaper Association of America, as well as the Network Advertising Initiative and the Online Behavioral Advertising self-regulatory program. LiveIntent is the first email ecosystem company to implement AdChoices. AdChoices is a self-regulatory system that gives the user the ability to:
 
