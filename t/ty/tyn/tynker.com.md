@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417173800id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tynker.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231023530id_/https%3A//www.tynker.com/privacy) for the most accurate reproduction.*
 
-# Tynker | Programming courses for kids - Tynker | Coding for kids
+# Tynker | Programming courses for kids | Coding for Kids | Tynker
 
 NEURON FUEL, Inc.  Privacy Policy
 
