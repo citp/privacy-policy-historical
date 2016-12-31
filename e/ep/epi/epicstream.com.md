@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicstream.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423175644id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicstream.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231205724id_/http%3A//epicstream.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # page title
 
