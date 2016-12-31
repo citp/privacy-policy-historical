@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621165207id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231040105id_/https%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -15,7 +15,7 @@ We have prepared this Privacy Policy to help you understand how Viator collects,
 Viator is an online service that enables users to research, find, and book travel experiences worldwide. Viator's products and services are made available through Viator.com and Viator-affiliated websites around the world as well as Viator Applications.
 
   * **Viator.com** (together with other Viator-branded websites) is our flagship website, where we offer our complete range of products and services directly to consumers.
-  * At Viator we also work with hundreds of **affiliates** ([click here](http://www.viator.com/partnership#distribution) to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates' product-information and booking pages, and manage payment and credit card information.
+  * At Viator we also work with hundreds of **affiliates** ([click here](https://web.archive.org/partnership#distribution) to view a partial list of Viator affiliates) who distribute our products and services to consumers through their individual websites. We typically host our affiliates' product-information and booking pages, and manage payment and credit card information.
   * We also work with **distributors** (as discussed below) who manage the hosting, purchase and payment for our products and services.
 
 
