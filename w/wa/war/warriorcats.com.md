@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorcats.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014451id_/http%3A//www.harpercollinschildrens.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorcats.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231113440id_/http%3A//www.harpercollinschildrens.com/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy HarperCollins Publishers US
 
