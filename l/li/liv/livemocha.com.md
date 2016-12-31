@@ -1,101 +1,138 @@
-> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412021707id_/http%3A//livemocha.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemocha.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231022109id_/http%3A//resources.rosettastone.com/CDN/us/agreements/US_Privacy_Policy-102513.pdf) for the most accurate reproduction.*
 
-# Privacy Policy - Livemocha
+# Rosetta Stone Website Privacy Policy
 
-Welcome to Livemocha.com (the “Site”), an online service designed to provide language learning content, language learning curriculum, and to facilitate language exchanges and foreign language practice. Livemocha.com is owned and operated by Livemocha, Inc. (“Livemocha,” “we,” or “us”). This privacy policy explains our data collection, use, and disclosure practices with respect to information collected on the Site. If you have questions about these practices, please contact us by email at privacyofficer@rosettastone.com.
+                       Rosetta Stone Website Privacy Policy
+Rosetta Stone Ltd. (“Rosetta Stone”) is the developer of the Rosetta Stone® technology-based
+learning solutions. We take the privacy of our customers seriously. We are committed to
+safeguarding your privacy while providing a personalized and valuable service.
+Overview
+This Privacy Policy statement explains the data processing practices of Rosetta Stone. If you
+have any requests concerning your personal information or any questions about these practices
+please contact our Privacy Officer by e-mail at privacyofficer@RosettaStone.com. We
+encourage you to periodically review this statement as it may change at any time at our sole
+discretion.
+Our site contains links to third party sites, which are not subject to this privacy policy. Rosetta
+Stone does not endorse and is not responsible for the privacy practices or content on these sites.
+We recommend that you read the privacy policy of any such sites that you visit.
+Information provided by you may be requested from one of our websites under the Rosetta Stone
+or Rosetta World brand names, or from one of our reputable co-marketing partner sites that
+represent our brands on their own websites under their company and/or brand name. In the event
+that you provide us with personal information for the purposes of free registration and you later
+make a purchase, whether directly from us or facilitated by one of our e-commerce partners, your
+privacy rights will be protected according to our stated policies and the stated privacy policies of
+these partners, which will be posted and available for your review at the time of purchase.
+Information Collected
+Personal information is collected by Rosetta Stone. We collect personally identifiable
+information about you (your “Data”) through:
+       The use of inquiry and registration forms.
+       The purchase process when you buy any of our products or services
+       The provision of your details to us either online or offline
+The elements of your Data that we collect may include:
+       Name
+       Job title
+       Company name
+       Home, shipping and billing addresses, phone and fax number
+       Mobile telephone number
+       E-mail address
+       IP address and browser information
+       Payment details such as credit card information
+       Market research data such as customer usage patterns
+REV09302016
 
-## 1\. Information Collected
 
-When you register for an account on the Site, you provide us with certain personal information, such as your email address and your spoken and learning languages. Also, we may offer the ability to connect to Third-Party Connected Services (as defined below in the “Third-Party Connected Services” section of this Policy) during the registration process, either to register for our Site or to link a Third-Party Connected Service to your account on the Site. We collect personal information from those Third-Party Connected Services as described below in that section.
+Use and Disclosure of Personal Information
+We use your Data for purposes which may include:
+       Providing our customers with a personalized service.
+       Processing orders, registrations and inquiries.
+       Conducting market research surveys.
+       Running competitions.
+       Measuring interest in and improving our website, products, and services.
+       Providing you with information about products and services we offer. You may stop the
+        delivery of marketing emails by following the instructions accompanying a particular
+        communication or by contacting us at privacyofficer@RosettaStone.com.
+       Resolving disputes, collecting fees, and troubleshooting problems.
+We use the information you provide when placing an order to complete that order. We do not
+share this information with outside parties except 1. To the extent necessary to complete that
+order or to provide services where the outside party is acting on our behalf and has no
+independent right to use the information we provide (e.g., third-party shipping, business analytics,
+or customer support ), or 2. To successors in title to our business, or 3. In accordance with legal
+and regulatory requirements, or 4. As necessary, in Rosetta Stone‟s sole discretion, to protect the
+perceived rights, safety and property of Rosetta Stone, users of our websites, and the public.
+Other than as set out above, you will be notified when Personal Information about you will be
+shared with third parties, and you will have an opportunity to choose not to have us share such
+information.
+We also use information in aggregate form (so that no individual user is identified):
+       To build up marketing profiles
+       To aid strategic development
+       To audit usage of the site
+Use of Cookies and Other Tracking Devices
+We use cookies and other tracking devices, including local shared objects written with Adobe
+flash technology (flash cookies), to help personalize your use of our sites. A cookie is a small
+piece of information which is sent to your computer‟s hard drive by the web server so that the
+website can remember who you are. This information may include information relating to your
+use of our sites, information about your computer such as the computer‟s IP address and browser
+type, demographic data and, if you arrived at our site via a link from a third party site, the URL
+of the linking page. We do not use any tracking devices to track your usage of the Internet on
+other sites not operated by Rosetta Stone. If you are a registered user this may include your
+name and email address for verification purposes.
+REV09302016
 
-Additionally, when you use the Site, we collect additional personal information when you engage in activities such as setting up your personal profile, making connections with other users, sending messages, performing searches and queries, enrolling in events and courses, and transmitting information through various channels. We retain such information indefinitely. When you update personal information, we may keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
 
-You can choose not to provide certain personal information to us, but some basic information about your language skills and language goals are required in order for you to register and participate in the features offered through the Site.
+We use information from cookies for purposes which may include:
+       Identifying returning users and registrants
+       Enabling you to move more easily around our site
+       Tracking your use of our site to better develop our sites in accordance with your
+        requirements
+       Building up a demographic profile
+       If you do not want to help us learn how to improve our site, products, offers and
+        marketing strategy, you may choose to set your Web browser to not accept cookies.
+        Further information on how to prevent cookies from being stored on your computer can
+        be found on http://www.allaboutcookies.org under the „manage cookies‟ section.
+        Alternatively, go to the help menu within your Internet browser. Flash cookies may be
+        removed using the latest versions of Google Chrome, Mozilla Firefox, and Microsoft
+        Internet Explorer, which you may upgrade to on these browsers, or you may remove or
+        block flash cookies by going to Adobe‟s Website Storage Settings Panel.
+From time to time we may permit third party companies to set cookies on Rosetta Stone sites for
+purposes which may include market research, revenue tracking or to improve functionality of the
+site.
+Security Policy
+Rosetta Stone has appropriate measures in place to help ensure that our users‟ Data is protected
+against unauthorized access or use, alteration, unlawful or accidental destruction and accidental
+loss. Although we make reasonable efforts to protect your Personal Information from loss,
+misuse, or alteration by third parties, you should be aware that there is always some risk involved
+in transmitting information over the Internet. There is also some risk that thieves could find a
+way to thwart our security systems.
+Transfer of Data
+The Internet is a global environment. Using the Internet to collect and process personal Data
+necessarily involves the transmission of Data on an international basis. For individuals located
+in the European Union, Rosetta Stone Ltd. participates in the EU-U.S. Privacy Shield
+Framework (the "Framework"). For more information about our certification to the Framework,
+please click here: http://www.rosettastone.com/privacy-shield. In addition, Rosetta Stone Ltd.
+continues to comply with the U.S.-EU and U.S.-Swiss Safe Harbor Framework as set forth by
+the U.S. Department of Commerce regarding the collection, use and retention of personal data
+from the European Union and Switzerland. To learn more about the Safe Harbor program, and
+to view Rosetta Stone Ltd.‟s certification, please visit http://www.export.gov/safeharbor/.
+Access to Data and Contact Info
+You may request a copy or send a correction of the personal information we hold about you by
+contacting the Privacy Officer at privacyofficer@RosettaStone.com or writing to:
+REV09302016
 
-We automatically collect some information about your computer or other device when you visit the Site. Such automatically-collected information includes, for example, your IP address, Web browser software (e.g., Google Chrome or Internet Explorer), and referring web site. We also may collect information about your activity on this Site, such as the courses in which you enroll. One of our goals in collecting this automatic information is to help improve your user experience.
 
-We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”). If we link or associate any information gathered through passive means with personal information, we treat the combined information as personal information under this privacy policy. Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form. We may use and disclose information that has been aggregated or otherwise is not personally identifiable to third parties for various purposes.
-
-We also may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you that we collect on the Site. If we do so, this privacy policy governs any combined information that we maintain in personally identifiable format.
-
-## 2\. Use of Personal Information
-
-We will use personal information about you for the following general purposes: to provide you with the products and services you request; to respond to your questions and comments; to communicate with you via regular mail and email (or other electronic means) about our programs and services; to personalize content on the Site; to measure interest in, and to administer and improve, our services and Site, and to develop new features, functionality, products, and services; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to understand and analyze the usage trends and preferences of our users; to prevent potentially illegal activities; and to enforce our Terms of Service.
-
-We may also use personal information for any other purposes that we may disclose to you in connection with a request for your personal information, and for any other use for which you may provide your consent.
-
-Please review “Your choices with respect to the Collection and Use of Personal Information” below.
-
-## 3\. Disclosure of Personal Information
-
-We display your profile information (minus your email address and password) to other registered and unregistered users of the Site, including people browsing for connections on the Site, and to support other Site functions. We also may disclose your personal information in the following circumstances:
-
-(a) To third-party vendors who provide services or functions on our behalf, such as customer service, business analytics, marketing, and services to us in connection with operating the Site. These vendors have access to personal information needed to perform their functions and we require them to agree not to share or use the information for any other purpose.
-
-(b) To business partners with whom we may jointly offer a language education product (e.g. dictionaries, flashcards, study aids, etc.) or service offering (e.g. tutoring, classroom instruction, etc.). Please note that we do not control the privacy practices of these third-party business partners, but we will make reasonable effort to ensure they protect your privacy.
-
-(c) When we deem it advisable or necessary to conform to legal and regulatory requirements.
-
-(d) As necessary, in our sole discretion, to protect the perceived rights, safety and property of users of the Site, and the public.
-
-(e) In connection with a change of control or operations, including without limitation in any merger, acquisition, reorganization, restructuring or any other transfer of all or substantially all of our assets, or a transfer of the operations of the Site.
-
-(f) If you have access to premium content on the Site via a Livemocha enterprise subscription agreement between Livemocha and your employer or another entity, you hereby permit Livemocha to provide reports regarding your usage of the services on the Site, including personal information, to the subscribing entity during the term of that enterprise subscription.
-
-Other than as set out above and for any other disclosures for which you provide your consent, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to have us share such information.
-
-Also, as an example of the uses and disclosures that we may make of information that has been aggregated or otherwise is anonymous, we may share such information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors to the Site.
-
-## 4\. A Special Word about Communications Channels and Profile Information
-
-Please keep in mind that whenever you voluntarily disclose personal information on areas of our Site that are accessible by third parties (including users of the Site and others), such as user profiles or information that you share through communications channels available on the Site, that information can be collected and used by others. By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. We may make available from time to time options for keeping certain user profile information private, but we cannot guarantee that third parties will not gain access to any such information.
-
-## 5\. Suggested Language Partners
-
-If you elect to let Livemocha suggest language partners, we will display a list of people who may be useful learning partners. This list is generated using only the information about languages you both speak and learn and your proficiency in each. You can choose whether or not to interact with these individuals; Livemocha does not take responsibility for the content or effects of these interactions.
-
-## 6\. Access to Personal Information
-
-You may access and update many categories of personal information we maintain about you by updating your profile information while logged in to the Site. You may request that LIVEMOCHA, INC update or make changes to personal information that we have collected on the Site by sending an email to privacyofficer@rosettastone.com. We may require a user who seeks to make updates or changes to personal information to take steps to allow us to verify his or her identity.
-
-## 7\. Your Choices With Respect to the Collection and Use of Personal Information
-
-(a) As noted above, you can choose not to provide us with personal information, although it may be needed to register as a member on the Site and to participate in certain features offered through the Site.
-
-(b) You may stop the delivery of email communications by making the appropriate election while logged into the Site, following the instructions accompanying a particular communication, or by contacting us at privacyofficer@rosettastone.com.
-
-## 8\. Security
-
-While no web site can guarantee security, we have implemented administrative, technical, and physical security procedures to help protect personal information in our control. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions.
-
-## 9\. Children Under 13
-
-The Site may only be used by children under 13 with the written authorization provided by the school or other educational organization registering the child. We do not permit self-registration by children under 13. We do not authorize disclosure of personally identifiable information by any child under 13. If you believe that any personally identifiable information from or about a child under 13 is displayed in a member profile on the Site, please contact us at privacyofficer@rosettastone.com. We will immediately investigate and delete any personally identifiable information about a child under 13 and inform the school or educational organization of the change.
-
-## 10\. Third Party Websites and Services
-
-Web sites and services to which this Site links do not operate under this privacy policy. We recommend that you examine the privacy statements posted on those other web sites and services to understand their procedures for collecting, using, and disclosing personal information.
-
-## 11\. Third Party Connected Services
-
-We may from time to time permit users with accounts on certain third-party services such as Facebook (“Third-Party Connected Services”) to log in to such third-party services through the Site, and may offer you the ability to connect to Third-Party Connected Services on the Site. For example, we may allow you to register for our Site through use of a Third-Party Connected Service. If you connect to any of our Services through a Third-Party Connected Service, you may be able to send alerts, comments, and messages on such third-party services, and may publish some of your activities on our Site to the third-party service. In any request for authorization to connect, we may ask you for additional rights or permissions with respect to Third-Party Connected Services and information, including personal information, that we obtain from them.
-
-Any personal information you provide on or to any Third-Party Connected Service is provided directly to such Third-Party Connected Service and is subject to that third party’s policies governing privacy and security. We are not responsible for the sharing, posting, commenting, or other content and information-gathering practices on any Third-Party Connected Services. Please review their terms of service and privacy policies carefully before using any Third-Party Connected Services and connecting to our Services.
-
-By connecting to any Third-Party Connected Services in connection with our Site, you permit us to access and use all information related to your account on the Third-Party Connected Service that may be accessible to us through the any Third-Party Connected Service pursuant to this Policy. For example, if you permit us to connect to your Facebook profile, we may collect information from your Facebook profile such as your name, profile picture, gender, networks, user ID, list of friends, and any other information you’ve made public. To limit or control the information that is available to us through any such Third-Party Connected Service, or to disconnect any Third-Party Connected Service from our Site, you should check (and, if applicable, modify) the applicable settings on the Third-Party Connected Service.
-
-## 12\. Changes to this Privacy Policy
-
-We may update this Privacy Policy in the future to reflect changes in our privacy practices, our website functionality, or applicable legislation, so please check back often. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Site.
-
-## 13\. How You Can Contact Us
-
-If you have questions about this privacy policy, email us at privacyofficer@rosettastone.com, or write to us at:
-
-Livemocha, Inc. – Privacy Officer  
-1011 Western Ave.  
-Suite #1000 (Floor 10)  
-Seattle WA 98104  
-United States of America
-
-This Privacy Policy is effective as of March 28, 2012.
+Privacy Officer
+Rosetta Stone Ltd.
+135 West Market Street
+Harrisonburg VA 22801
+USA
+We may charge the allowable fee under applicable law for provision of this information.
+Children Under 13
+We do not intentionally collect any information on children under 13 years of age. We will
+undertake to delete any details of such users where a parent or guardian has notified us that any
+such details have been obtained.
+Changes to this Policy
+This policy is effective September 30, 2016. From time to time we may make changes to this
+privacy policy statement to reflect any changes to our privacy practices in accordance with
+changes in legislation, best practice or website enhancements. We will notify you about material
+changes to this Privacy Policy by sending a notice to the email address you provided to us or by
+placing a prominent notice on our website.
+REV09302016
