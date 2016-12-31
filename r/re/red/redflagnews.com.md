@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redflagnews.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602174754id_/http%3A//www.redflagnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflagnews.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231013911id_/http%3A//www.redflagnews.com/privacy) for the most accurate reproduction.*
 
-# Your Privacy — RedFlag News
+# Privacy — RedFlagNews.com
 
 ### Privacy Policy for www.redflagnews.com 
 
