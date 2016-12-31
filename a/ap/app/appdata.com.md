@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612153444id_/http%3A//www.appdata.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdata.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231090344id_/http%3A//appdata.com/privacy_policy) for the most accurate reproduction.*
 
 # AppData - App Analytics, Metrics and Research
 
