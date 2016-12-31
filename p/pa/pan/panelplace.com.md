@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412070507id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231065437id_/http%3A//www.panelplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PanelPlace
 
@@ -63,7 +63,7 @@ We will share your information with third parties only in the ways that are desc
 
   * as required by law, such as to comply with a subpoena, or similar legal process.
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * if PanelPlace LLP is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * if PanelPlace International Pte. Ltd. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * to any other third party with your prior consent to do so.
 
 
@@ -94,7 +94,7 @@ Feedback
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-PanelPlace  
+PanelPlace International Pte. Ltd.  
 261 Waterloo Street #03-32 Waterloo Centre  
 Singapore, 180261
 
