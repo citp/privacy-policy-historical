@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educateinspirechange.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601134149id_/http%3A//educateinspirechange.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educateinspirechange.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231153548id_/http%3A//educateinspirechange.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Educate Inspire Change
+# Privacy Policy
 
 This privacy policy is your guarantee that any personal information given to [educateinspirechange.org](http://educateinspirechange.org/) will remain private. Any personal information gathered will never be sold to any third party for any reason. [educateinspirechange.org](http://educateinspirechange.org/) only collects personal information from visitors in order to process requests initiated by the filling out of forms on our site. [educateinspirechange.org](http://educateinspirechange.org/) is committed to keeping your personal information private. Please review our privacy policy below for more detailed information. At [educateinspirechange.org](http://educateinspirechange.org/), we are committed to protecting your privacy. We promise to keep all the information that you share with us confidential. We use your personal information only to process requests for information; we do not share your information with any third parties. That would be really lame of us, wouldn’t it?
 
