@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324182553id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231135016id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
 
 # Questions and Answers – Kgb Answers
+
+We use cookies to provide you a better service, to personalise content and ads, to provide social media features and to analyse our traffic.[ See details](https://web.archive.org/web/20180922185825/http://542542.com/privacy)[I Understand]()
 
 #### INFORMATION ABOUT THE NUMBER AND OUR WEBSITE
 
