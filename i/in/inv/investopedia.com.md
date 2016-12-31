@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628183343id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231134403id_/http%3A//www.investopedia.com/corp/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Investopedia
 
 **Privacy Policy**
 
-**Last Updated On: May 1, 2015**
+**Last Updated On: September 21, 2016**
 
 At Investopedia, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by Investopedia, LLC (“Investopedia”, “we”, “us”, “our”) through the use of (i) our Investopedia website (the “Website”) and (ii) our Investopedia mobile applications (collectively, the “Services”).
 
@@ -18,19 +18,19 @@ We explain below the main ways that we collect and process information about you
 
 **Information You Provide To Us:**
 
-Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional personal/demographic information to enhance your profile, such as your full name, professional title, year of birth, company name, and household income, investment interests, and communications preferences.
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional personal/demographic information to enhance your profile, such as your full name, professional title, year of birth, company name, and household income, investment interests, retirement information, and communications preferences. If you are a Financial Advisor participating in our Advisor Insights program, you may provide us further information about your credentials, including, without limitation, your broker CRD number, job title, state, zip code, phone number, professional website URL, biographical information and profile picture.
 
 You may also provide personal information to us, if you choose to:
 
-• submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * participate in some of the features accessible via the Services (for example, message boards, games, surveys, polls, promotions, contests, or sweepstakes);
+  * sign up to receive any information and/or services from any third party provider or partner using our Website (If you submit information to a third party provider or partner, please note that their use and disclosure of your information is subject to their own privacy policy)
+  * contact us about employment opportunities posted to the Services; or
+  * otherwise use the Services in a manner that you have requested.
 
-• participate in some of the features accessible via the Services (for example, message boards, games, surveys, polls, promotions, contests, or sweepstakes);
 
-• contact us about employment opportunities posted to the Services; or
 
-• otherwise use the Services in a manner that you have requested.
-
-Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, and information posted by you on sites accessed via the Services. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself. 
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, and information posted by you on sites accessed via the Services. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public. You should be careful about revealing any sensitive details about yourself.
 
 **Email Referral**
 
@@ -60,21 +60,16 @@ When you use the Services, we automatically collect and store certain informatio
 
 We use the information we collect from and about you for a variety of purposes, including to:
 
-• verify your eligibility for our Services;
+  * verify your eligibility for our Services;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+  * administer our Services, diagnose technical problems and otherwise manage our business;
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and
+  * perform functions as otherwise described at the time of collection.
 
-• understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
 
-• administer our Services, diagnose technical problems and otherwise manage our business;
-
-• send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
-
-• deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
-
-• provide you with customer support;
-
-• enable us to show you ads that are more relevant to you; and
-
-• perform functions as otherwise described at the time of collection.
 
 We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
@@ -82,17 +77,18 @@ We may also generate, use and disclose aggregated and/or anonymized information 
 
 We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways:
 
-• **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+**_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
 
-• **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp. 
+  * **_Service requests:_** We enable you to request information and/or services from third party service providers or partners by filling out a registration, information request, or similar service request form for specific services from them (e.g., filling in a sponsored partner’s form to identify your retirement risk profile and/or submitting a request with such information for more information from that partner or another party). When you fill out and submit a service request form through our Website, you consent to our providing your personal information and request to the third party provider and/or partner. Sharing this information with the party provider and/or partner allows them to contact you using the contact information you provided. Additionally, we have other contractual partners that that utilize their own service provider to supplement our offering, and we share your information with them in order to attempt to provide the services requested.
+  * **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActiveCorp.
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **_Law enforcement purposes and public safety:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  * **_Sale or merger of our business:_** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-• **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
 
-• **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
 
-• **_Sale or merger of our business:_** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
-
-• **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below.
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Investopedia is potentially liable.
 
 **4\. Cookies and Online Advertising:**
 
@@ -104,13 +100,12 @@ There are two broad categories of cookies: (1) first party cookies, served direc
 
 Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Investopedia uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
 
-• [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
 
-• [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
 
-• [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
-
-• [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
 
 Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
 
@@ -118,9 +113,10 @@ Third parties whose products or services are accessible or advertised through th
 
 **Online Behavioral Advertising and Mobile.** Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Investopedia and other websites by visiting the following websites:
 
-• Network Advertising Initiative (<http://www.networkadvertising.org/>)
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>)
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
 
-• Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
+
 
 Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
 
@@ -130,21 +126,21 @@ If you are using an iOS device and you do not want to receive tailored in-applic
 
 **Mobile Device Location Information.** When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
 
-• If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
 
-• If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
 
-• If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
 
-**5\. Reviewing, changing or deleting information**
+**5\. Right to Access, Review, change or delete information**
 
-If you would like to review, change or delete personal information we have collected from you, please contact the Investopedia Privacy Officer:
+If you would like to access, review, change or delete personal information we have collected from you, please contact the Investopedia Privacy Officer:
 
 Investopedia, LLC
 
 Attn: Privacy Officer
 
-555 12th Street, Suite 500
+555 12th Street, Suite 400
 
 Oakland, CA 94607
 
@@ -174,10 +170,24 @@ If you are visiting the Services from outside the United States, your data will 
 
 If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. Investopedia qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to us at [**privacy@investopedia.com**](mailto:privacy@investopedia.com), or you may contact us via regular mail at: Investopedia, LLC, 555 12th Street, Suite 500, Oakland, CA 94607, Attn: Your California Privacy Rights c/o Privacy Administrator. **All requests sent via regular mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code (your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping).
 
-**11\. U.S.-EU Safe Harbor Notice**
+**11\. Self-Regulatory Framework and Complaint Handling**
 
-The Investopedia Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.
+**EU-US Privacy Shield Notice**
 
-Investopedia has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+The Website and mobile applications comply with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Investopedia has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Investopedia’s certification for the Website and mobile applications, please visit **https://www.privacyshield.gov**
 
-To learn more about the Safe Harbor program, and to view Investopedia’s certification for the Website and mobile applications, please visit <http://www.export.gov/safeharbor/>.
+In compliance with the EU-US Privacy Shield Principles, Investopedia commits to resolve complaints about your privacy and our collection or use of your personal information. **European Union individuals** with inquiries or complaints regarding this Privacy Policy should first contact us at the address set forth under section 5.
+
+Investopedia has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the EU- US Privacy Shield to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU PRIVACY SHIELD web site at www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+
+**U.S.-Swiss Safe Harbor Framework**
+
+The Website and mobile applications are certified under U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Investopedia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-Swiss Safe Harbor Principles, Investopedia commits to resolve complaints about your privacy and our collection or use of your personal information. **Swiss citizens** with inquiries or complaints regarding this Privacy Policy should first contact us at the address set forth under section 5.
+
+Investopedia has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through the channels listed in this Privacy Policy, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Investopedia is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
