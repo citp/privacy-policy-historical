@@ -1,121 +1,45 @@
-> *The following text is extracted and transformed from the pumashop.in privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825035554id_/http%3A//in.puma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumashop.in privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120636id_/http%3A//www.pumashop.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Puma Shop
 
-### PRIVACY POLICY
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@pumashop.in).
 
-**Important information regarding the use of this site.**
+At www.pumashop.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.pumashop.in and how we use it.
 
-PUMA is committed to ensuring the privacy of your personal information and this privacy notice is designed to  tell you which information we collect from you, how this information may be used and how it is protected.
+**Log Files**  
+Like many other Web sites, www.pumashop.in makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Collection And Use Of Personal Information**
+**Cookies and Web Beacons**  
+www.pumashop.in uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-  
-PUMA limits its requests for information to what is required to ensure accurate service. Most of the information we collect is very basic and is needed to complete a purchase or provide a refund. Examples of user information that may be collected may include your name, address, telephone number, e-mail address, credit-or debit-card information, a description of the item requested or purchased and the IP address of your computer.
+**DoubleClick DART Cookie**
 
-**Navigation Information**
+→ Google, as a third party vendor, uses cookies to serve ads on www.pumashop.in.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.pumashop.in and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-  
-Even if you do not make a purchase on our site, we have the ability to track usage of our web site – including the server from which the site was visited. This information is not used to track information about individuals, but is used on an aggregate level to customize our site, improve the on-line experience and plan advertising and promotions. Information Voluntarily Provided  
-There are times when you may provide information to us voluntarily. This occurs when you provide your feedback to us though e-mails, return forms, letters or telephone calls. We use this information to respond to your query and to keep track of customer feedback.
+**Our Advertising Partners**
 
-**Internet Database**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-PUMA India has created an Internet database to allow consumers to store their shipping and billing information, track the status of their order, list previous orders and retain email preferences. Registration is entirely voluntary and you have the ability to correct or delete the information at any time. This information is accessed through the "My Account" section of the site.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.pumashop.in._
 
-**Marketing Information**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.pumashop.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-  
-PUMA does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. We only send marketing information to those customers who specifically sign up for our mailing list. Customers can opt-out of receiving information by using the "unsubscribe" option in any marketing e-mail that they receive or by changing their preferences in the "My Account" section of the site.
+www.pumashop.in has no access to or control over these cookies that are used by third-party advertisers.
 
-**Use of Google Analytics** & Adobe SiteCatalyst (Omniture)
+**Third Party Privacy Policies**
 
-  
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”) and Adobe SiteCatalyst, a tool provided by Adobe Systems Incorporated (“Adobe”). Google Analytics and Adobe Sitecatalyst use “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google and Adobe on servers in the United States.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pumashop.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
-. The IP-anonymisation is active on this website. Please note that on this website, Google Analytics code is supplemented by “_anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-Google and Adobe will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.pumashop.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.pumashop.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-The IP-address, that your Browser conveys within the scope of Google Analytics and Adobe SiteCatalyst, will not be associated with any other data held by Google and Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>.
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-Please use the following link to be excluded from the usage of Adobe SiteCatalyst: <http://www.adobe.com/de/privacy/opt-out.html>
-
-**Disclosure And Retention Of Personal Information**
-
-  
-PUMA will share your personal information internally with those staff members who need it to complete your purchase or carry out your instructions regarding the receipt of marketing information. We will not disclose your personal information to any third party without your written consent unless required to do so by law.
-
-PUMA keeps your personal information for only as long as required to fulfill the purpose for which it was collected. In some cases, such as credit- or debit-card purchases, we are required by law to keep your personal information for a specified period of time. For those customers who have registered for the mailing list, their personal information is kept until we are notified that they no longer want their information stored.
-
-**Accuracy And Protection Of Personal Information**
-
-  
-PUMA relies on our customers to notify us of any changes in personal information. Should inaccurate information come to our attention, we will investigate and correct the information and, if necessary, advise you of the change. Only those staff members who need your personal information in order to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from unauthorized access and information that is stored in document form is kept in secure locations to prevent access by unauthorized persons.
-
-**Transaction Security**
-
-  
-In order to make every effort to ensure that your experience at store.puma.com is secure, we use encryption technology to protect you against the loss, misuse or alteration of your personal information. When you fill out any contact forms or access your account, a secure server encrypts all of your information through the use of Secure Socket Layers (SSLs).
-
-To be sure you're browsing secure pages for transactions, check your Web browser's status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in your web browser to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://) in the Web site address to indicate that you are in a secure environment
-
-**Access To Personal Information**
-
-  
-PUMA is commented to ensuring that we have no personal information about customers that is not absolutely necessary in order to provide them with excellent service. We are also committed to ensuring that information about our customers is accurate and up-to-date.
-
-In order to ensure compliance with these policies, PUMA has appointed a Privacy Officer[[tj3]](file:///D:/Puma%202012/puma.com/privacy%20policy_2082013/Datenschutzrichtlinie%20PUMA%20USA.docx#_msocom_3)  to oversee all aspects of its privacy policies and practices. If you wish to know what information we currently have about you, or are dissatisfied with PUMA’s privacy policies or practices, you should send a written request or complaint to the Privacy Officer at the address below.
-
-PUMA.com Privacy Officer  
-5 Lyberty Way  
-Westford, MA, USA 01886
-
-The Privacy Officer will investigate the matter and respond to your request within 30 days. In the event that you become aware that the information we have about you is incorrect, you should notify the Privacy Officer, who will ensure the information is updated. In the case of a complaint, the Privacy Officer will take corrective action (if necessary) and will advise you of the steps taken to correct the problem. If you are still unsatisfied with the actions taken, you may be entitled to make a written complaint to the appropriate government or legislative body. Effective Date: September 1, 2004
-
-© PUMA SE, 2013
-
-**Privacy Policy- PUMA India- Specific**
-
-PUMA INDIA is committed to ensuring the privacy of our customers' personal information, and this privacy notice is designed to voluntarily comply with current privacy legislation.
-
-**COLLECTION AND USE OF PERSONAL INFORMATION**
-
-PUMA INDIA limits its requests for information to what is required to ensure accurate service. Most of the information we collect is very basic and is needed to complete a purchase or provide a refund. Examples of customer information that may be collected include your name, address, telephone number, email address, etc.
-
-**Navigation Information**
-
-Even if you do not make a purchase on our site, we have the ability to track usage of our web site, including what pages are visited, what products are viewed, and the third-party sites that led you to **in.puma.com**. This information is not used to track information about individuals, but is used at an aggregate level to customize our site, improve the online experience, and plan advertising and promotions.
-
-**Information Voluntarily Provided**
-
-There are times when you may provide information to us voluntarily. This occurs when you provide feedback to us through emails, letters, or telephone calls. We use this information to respond to your query, to keep track of customer feedback, and to improve our service to customers.
-
-**Internet Database**
-
-PUMA INDIA has created an Internet database to allow customers to store their shipping and billing information, track the status of their order, list previous orders, and retain email preferences. Registration is entirely voluntary, and you have the ability to correct or delete the information at any time. This information is accessed through the " **My Account** " section of the site.
-
-**Marketing Practices**
-
-PUMA INDIA does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. We only send marketing information to those customers who specifically sign up for our mailing list. Customers can opt-out of receiving information by using the "unsubscribe" option in any marketing email that they receive or by changing their preferences in the " **My Account** " section of the site.
-
-**DISCLOSURE AND RETENTION OF PERSONAL INFORMATION**
-
-PUMA INDIA will share your personal information internally with those staff members who need it to complete your purchase or carry out your instructions regarding the receipt of marketing information. Authorized PUMA service providers may also have access to this information in order to carry out their responsibilities directly connected with the processing of your purchases or handling of customer service issues. Outside of these activities, we will not disclose your personal information to any third party without your written consent unless  
-required to do so by law.
-
-PUMA INDIA keeps your personal information for only as long as required to fulfill the purpose for which it was collected. For those customers who have registered for the mailing list, their personal information is kept until we are notified that they no longer want their information stored.
-
-PUMA INDIA, as with many other web sites, makes use of "cookies" to help deliver a better customer shopping experience. They enable our systems to recognize your browser and to offer you valuable services, such as saving the contents of your shopping basket, to allow you to access your account information, and to deliver a more personalized shopping experience.
-
-**ACCURACY AND PROTECTION OF PERSONAL INFORMATION**
-
-PUMA INDIA relies on our customers to notify us of any changes in personal information. Should inaccurate information come to our attention, we will investigate and correct the information and, if necessary, advise you of the change. Only those staff members who need your personal information in order to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from unauthorized access, and information that is stored in document form is kept in secure locations to prevent access by unauthorized persons.
-
-**Transaction Security**
-
-All credit card / debit card payments are done through the bank payment gateways. To be sure you're browsing secure pages for transactions, check your web browser's status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in your web browser to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://) in the web site address to indicate that you are in a secure environment.
-
-**PUMA SAFE SHOPPING GUARANTEE**
-
-We guarantee that every online transaction you make will be 100% safe. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
