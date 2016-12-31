@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627124059id_/https%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmblr.co privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231110336id_/https%3A//www.tumblr.com/privacy_policy) for the most accurate reproduction.*
 
 # Tumblr
 
