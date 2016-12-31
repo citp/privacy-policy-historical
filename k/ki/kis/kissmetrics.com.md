@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054001id_/https%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231073200id_/https%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kissmetrics
 
   
 
 
-#### Effective Date: March 10, 2014
+#### Effective Date: September 26, 2016
 
 As used in this “Privacy Policy”, “Kissmetrics” refers to all websites (including [http://www.kissmetrics.com](https://web.archive.org/) and [http://blog.kissmetrics.com](http://blog.kissmetrics.com/ "Blog")), properties, and services owned or operated by Space Pencil, Inc., aka Kissmetrics. 
 
-This Privacy Policy is part of [Kissmetrics’ Terms of Use](https://web.archive.org/terms) and describes the privacy practices of Kissmetrics. It explains when and how Kissmetrics collects end user and client information, including Personally Identifiable Information (defined below), how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Kissmetrics observes for compliance with laws in the United States as well as other applicable laws, including those followed regarding the transfer of Personally Identifiable Information from the European Economic Area (“EEA”) and/or Switzerland to the United States under the U.S. – EU and U.S. – Swiss Safe Harbors, respectively (collectively, the “Safe Harbor”). 
+This Privacy Policy is part of [Kissmetrics’ Terms of Use](https://web.archive.org/terms) and describes the privacy practices of Kissmetrics. It explains when and how Kissmetrics collects end user and client information, including Personally Identifiable Information (defined below), how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Kissmetrics observes for compliance with laws in the United States as well as other applicable laws, including those followed regarding the transfer of Personally Identifiable Information from the European Economic Area (“EEA”) and/or Switzerland to the United States under the U.S. – EU Privacy Shield and U.S. – Swiss Safe Harbor, respectively (collectively, the “Safe Harbor and Privacy Shield”). 
 
 By visiting the Kissmetrics website, visiting a Kissmetrics client website that provides notice of its use of Kissmetrics and/or this policy, or registering for our service, you acknowledge that you accept and consent to the practices outlined in this Privacy Policy. 
 
@@ -68,7 +68,7 @@ _Visitors to Kissmetrics’ Clients’ Websites._ Except as described in the “
 
 Kissmetrics does not collect or aggregate information about end user behavior across multiple, different websites that are operated by different Clients, nor does it use any Client User Data for purposes of behavioral advertising. However, Kissmetrics may analyze Client User Data in the aggregate for purposes of internal research and/or to determine overall trends or metrics concerning how users are engaging with websites, and may report such general trends publicly, without disclosing any Client User Data. 
 
-_Our Client’s Use of Kissmetrics._ Kissmetrics contractually requires its Clients to abide by all applicable laws, rules and regulations, including the Safe Harbor where it applies, as well as other applicable laws relating to privacy and data collection (“Applicable Laws”). Kissmetrics also contractually requires its Clients to obtain any necessary consents from visitors to its website(s) for the Client’s use of Kissmetrics’ services, comply with all Applicable Laws (including, as an example, the Safe Harbor where it applies) with respect to the transfer of Personally Identifiable Information of EU or Swiss subjects through the Service, and to post an online privacy policy that provides each visitor with clear notice of its practices regarding data collection, use, and disclosure (including the Client’s use of Kissmetrics), along with a link to the Kissmetrics Privacy Policy and to the Kissmetrics Service Opt-Out (discussed below). 
+_Our Client’s Use of Kissmetrics._ Kissmetrics contractually requires its Clients to abide by all applicable laws, rules and regulations, including the Safe Harbor and Privacy Shield where it applies, as well as other applicable laws relating to privacy and data collection (“Applicable Laws”). Kissmetrics also contractually requires its Clients to obtain any necessary consents from visitors to its website(s) for the Client’s use of Kissmetrics’ services, comply with all Applicable Laws (including, as an example, the Safe Harbor and Privacy Shield where it applies) with respect to the transfer of Personally Identifiable Information of EU or Swiss subjects through the Service, and to post an online privacy policy that provides each visitor with clear notice of its practices regarding data collection, use, and disclosure (including the Client’s use of Kissmetrics), along with a link to the Kissmetrics Privacy Policy and to the Kissmetrics Service Opt-Out (discussed below). 
 
 Kissmetrics cannot be held responsible for any Client’s failure to make these disclosures on its website or for any Client’s use or collection of Client User Data that is not permitted under this Privacy Policy or otherwise. For more details on the terms that apply to our Clients’ use of the Kissmetrics Service, please see Section 4 (“Privacy”) in the [Kissmetrics Terms of Use](https://web.archive.org/terms). 
 
@@ -149,22 +149,15 @@ San Francisco, CA 94111
 
 We will use reasonable efforts to respond promptly, within 10-20 business days, to requests, questions or concerns you may have regarding access to Personally Identifiable Information about you that we have collected. We may contact you for follow up information. 
 
-### Safe Harbor and Dispute Resolution
+### Safe Harbor and Privacy Shield Dispute Resolution
 
-Kissmetrics complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kissmetrics has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Kissmetrics’ certification, please visit [ http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/ "Safe Harbor"). 
+Kissmetrics complies with the U.S. - E.U. Privacy Shield framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kissmetrics has certified that it adheres to the Safe Harbor and Privacy Shield Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor and Privacy Shield programs, and to view Kissmetrics’ certification, please visit [ http://www.export.gov/safeharbor/ ](http://www.export.gov/safeharbor/ "Safe Harbor") and [ https://www.privacyshield.gov/ ](https://www.privacyshield.gov/ "Privacy Shield"). 
 
 Any questions or concerns regarding the use or disclosure of Personally Identifiable Information should be directed to the Kissmetrics Privacy Office at the address given above. Kissmetrics will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personally Identifiable Information by reference to the principles contained in this Privacy Policy. For complaints that cannot be resolved between Kissmetrics and the complainant, disputes will be resolved pursuant to Sections 13.4 through 13.6 of the Terms of Use. For the avoidance of doubt, the dispute resolution procedures will be conducted in English. 
 
-Kissmetrics is a participant in The DMA Safe Harbor Program. If you are from the European Union member countries or Switzerland and you believe Kissmetrics has not satisfactorily addressed your data privacy concerns, please contact the DMA’s Safe Harbor line at: 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at: 
 
-[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
-[ http://thedma.org/consumer-guide ](http://thedma.org/consumer-guide "Consumer Guide")
-
-Safe Harbor Line  
-Direct Marketing Association 
-
-1615 L Street, NW – Suite 1100,   
-Washington, DC 20036
+[ https://feedback-form.truste.com/watchdog/request/ ](https://feedback-form.truste.com/watchdog/request/ "TRUSTe Dispute Resolution"). 
 
 ### Effective Date of this Privacy Policy
 
