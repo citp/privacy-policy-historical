@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630141929id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231070808id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Piriform - Privacy Policy
 
@@ -27,6 +27,9 @@ Information which we collect may be used in the following ways:
 **Log files**   
 When you visit our website, our servers automatically record information that your browser sends. These log files tell us generally about the visitors to our site - general geographic regions, length of visits, pages clicked on, and so forth. We can't tell who you are by examining our log files, except as anonymous users.
 
+**Device Information**   
+We may collect information about the device you are using, our products and services or, including what type of device it is, what operating systems you are using, device settings, application IDs, unique device identifiers, and crash data. We use device identifiers to analyse our traffic.
+
 **Information you give to us**   
 We will use this information:
 
@@ -37,8 +40,18 @@ We will use this information:
 
 
 
+**Information we receive from other sources**   
+We work closely with third party service providers and may receive information about you from them. These services providers collect usage data in compliance with their privacy policies. These service providers are described below:
+
+  * Google analytics: for information regarding how Google uses data please visit [How Google uses data when you use our partners' sites or apps](http://www.google.com/intl/en/policies/privacy/partners/)
+  * Google AdMob: our CCleaner android application uses Google’s AdMob advertising service. AdMob’s privacy policy is available at [www.google.com/intl/en/policies/privacy](https://www.google.com/intl/en/policies/privacy/)
+
+
+
 **Product Use Information**   
-Some of our products allow us to gather information about your computer (including your IP address) and about what features you use in our software. This is common for many software products, including games, AntiVirus and office tools. This information is always completely anonymous and only ever used to better understand how people use our software and how we can improve our products.
+Some of our products allow us to gather information about your computer (including your IP address), other software you use, and about what features you use in our software. This is common for many software products, including games, AntiVirus and office tools. This information is always completely anonymous and only ever used to better understand how people use our software and how we can improve our products.
+
+We may disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our license terms or terms of use and other agreements; or to protect the rights, property, or safety of Piriform Software Limited, our customers, or others.
 
 ## Feedback
 
@@ -106,4 +119,4 @@ Mail: The Data Protection Officer, Piriform Software Ltd, One Euston Square, 40 
 
 Telephone: 1-800-816-9004
 
-Email: 
+Email: [legal@piriform.com](mailto:legal@piriform.com)
