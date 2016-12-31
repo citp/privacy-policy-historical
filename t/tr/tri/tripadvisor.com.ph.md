@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629213007id_/https%3A//www.tripadvisor.com.ph/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.com.ph privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120833id_/https%3A//www.tripadvisor.com.ph/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
-TripAdvisor.com.ph (" **TripAdvisor** ", " **we** ", " **our** ", " **us** ") is an online service that provides users (" **you** ") with recommendations for hotels, resorts, inns, vacations, travel packages, travel guides, flights, vacation rentals, and lots more. Our website, mobile properties, and related applications (collectively, our “ **Website** ”) are part of the TripAdvisor® Media Network, which is owned and operated by TripAdvisor LLC.
+TripAdvisor (" **TripAdvisor** ", " **we** ", " **our** ", " **us** ") is an online service that provides users (" **you** ") with recommendations for hotels, resorts, inns, vacations, travel packages, travel guides, flights, vacation rentals, and lots more. Our website, mobile properties, and related applications (collectively, our “ **Website** ”) are part of the TripAdvisor® Media Network, which is owned and operated by TripAdvisor LLC.
 
 By accessing our Website and utilizing our services, you acknowledge that you have read understood this Privacy Policy and the information collection and handling practices outlined in it.
 
@@ -176,7 +176,7 @@ You can choose not to provide us with your personal information, although it may
   * • We endeavor to ensure that your personal information is relevant to its intended use, accurate, and complete. You can also review, add or update the information you have provided to us by visiting your subscriptions page on our Website.
   * • You also can add or update information and close your account as described above. If you decide to close your TripAdvisor account, we will deactivate your account and remove your profile information from active view.
   * • You can close your TripAdvisor account by contacting us using [this form](https://web.archive.org/GeneralSupport). We will send you an email to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time.
-  * • When you register as a member of TripAdvisor.com.ph you will have the opportunity to provide us with your marketing preferences, and will be given a choice as to whether you want to receive email marketing messages from TripAdvisor.com.ph. As a registered TripAdvisor.com.ph member, you can modify your choices at any time through the Email Settings of your subscriptions page.
+  * • When you register as a member of TripAdvisor you will have the opportunity to provide us with your marketing preferences, and will be given a choice as to whether you want to receive email marketing messages from TripAdvisor. As a registered TripAdvisor member, you can modify your choices at any time through the Email Settings of your subscriptions page.
   * • Whether registered as a TripAdvisor member or not, you also will be given the opportunity to unsubscribe from promotional messages in any such email we send.
   * • Please note that we may send you other communications, including service announcements, and administrative messages relating to your TripAdvisor account.
 
