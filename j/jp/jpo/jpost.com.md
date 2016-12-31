@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624173025id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231113854id_/http%3A//www.jpost.com/landedpages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -47,7 +47,10 @@ You are not obligated under law to provide your information, but without providi
   
 
 
-  * 1.5 **3rd Party Services:** In order to provide You with Services and to better understand what You and other users engage in Services, The Jerusalem Post retains and uses 3rd party services, such as Google, Facebook, CrazyEgg, Wibiya, DoubleClick and Conduit. Each of these services has a unique and distinct privacy policy which You should read and inspect prior to using Services.
+  * 1.5 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [**www.networkadvertising.org**](http://www.networkadvertising.org/)
+
 
   
 
