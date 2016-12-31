@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621152437id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120311id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NY Daily News
 
@@ -65,6 +65,8 @@ Note that, after choosing to opt-out via any of the methods above, if you use a 
 
 _Statistical Analysis._ We may use collected information to create aggregate statistics about activity on and visitors to the Daily News Services, including the number of return visits to the Daily News Services or our advertisers’ websites, the number of unique visitors that have viewed or “clicked” a particular ad or visited a particular web page and how much time is spent on each page of the Daily News Services. We may also create aggregate demographic statistics. We may use these aggregate statistics to measure interest in various areas of the Daily News Services, to better design the Daily News Services and to improve our marketing strategy and product offerings. We may share the aggregate statistical information with third parties. We also use third parties to assist us with collecting and using these aggregate statistics. Click [here ](http://www.nielsen-online.com/privacy.jsp?section=leg_scs) to learn more information about how we use a third party service with cookies (flash and non-flash) and web beacons to collect and use information on the Daily News Services.
 
+_Market Research._ The Daily News Services may feature Nielsen proprietary measurement software, which will allow you to contribute to market research. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>. 
+
 #### Disclosures Required by Law.
 
 As described above, certain uses of collected information may involve disclosure to third parties. In addition, we may disclose collected information in the good faith belief that we are required to do so by law, or when doing so is reasonably necessary to: (1) comply with the law or legal process; (2) respond to any claims; (3) protect and defend the rights, property or personal safety of Daily News, L.P. and its subsidiaries and affiliates, as well as our customers, users or the public; or (4) protect against misuse or unauthorized use of the Daily News Services. In addition, collected information may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition.
@@ -90,4 +92,4 @@ Daily News, L.P.
 4 New York Plaza  
 New York, NY 10004
 
-**Last Updated on November 25, 2015**
+**Last Updated on November 2, 2016**
