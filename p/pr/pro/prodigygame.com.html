@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2016-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528062317id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231020100id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html style="background-color: #f5f5f5;"><head>
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
@@ -9,7 +9,7 @@
 <meta name="google-site-verification" content="ZGpq8HPfeC-lJfJ0tiG60N3N-WjlBr8vHKPzbTu7-p4">
 
 <meta name="description" content="Prodigy is a free math game for Grades 1 - 8 that kids absolutely love! Learn over 300 critical math skills in our self-paced math game."><meta property="title" content="Prodigy Math Game"><title>Prodigy Math Game</title>
-<script async="" charset="utf-8" src="//v2.zopim.com/?28uRNxjJJThy7zMtGFBEdvLcLB5ql9Kg" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580384400000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580384400000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -66,7 +66,7 @@ e.parentNode.insertBefore(n, e);
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1464416596">
+	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1483149661">
 	<!--[if IE 7]>
 		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie7.css">	
 	<![endif]-->
@@ -74,7 +74,7 @@ e.parentNode.insertBefore(n, e);
 		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie8.css">	
 	<![endif]-->
 
-	<script src="/Includes/Scripts/Libraries/lodash.min.js"></script>
+	<script src="/assets/scripts/libraries/lodash.min.js"></script>
 	<script src="/Includes/Scripts/Libraries/jquery.min.js"></script>
 	<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async=""></script>
 	
@@ -87,10 +87,210 @@ e.parentNode.insertBefore(n, e);
 		var prodigyWeb = {};
 
 		var session_user_id = false;var openRegisterOnLoad = false;
-		ga('create', 'UA-40390561-1', 'auto');		ga('send', 'pageview');
+		ga('create', 'UA-40390561-1', 'auto', {'allowLinker': true});
+	ga('require', 'linker');
+	ga('linker:autoLink', ['prodigygame.myshopify.com'] );
+	ga('send', 'pageview');
 	</script>
 
-		<script id="add-students-template" type="text/x-handlebars-template">
+		<script id="account-settings-section-template" type="text/x-handlebars-template"></script>
+
+<script id="account-settings-section-error-template" type="text/x-handlebars-template">
+	<div id="account-settings-section__error">
+		There was an error loading this section. Please refresh the page and try again.
+	</div>
+</script>
+
+<script id="general-account-settings-section-template" type="text/x-handlebars-template">
+	<form id="general-account-settings-form">
+		<div class="card__wrapper">
+			<header class="card__header">
+				{{title}}
+			</header>
+
+			<main class="card__main">
+				<label for="general-account-settings-form-username" id="general-account-settings-form-username-label">Username</label>
+				<input type="text"  name="username" id="general-account-settings-form-username" value="{{username}}" readonly="true" disabled/>
+
+				<label for="general-account-settings-form-email" id="general-account-settings-form-email-label">Email</label>
+				<input type="text" name="email" id="general-account-settings-form-email" value="{{email}}" sw-input sw-type="email" sw-error="Invalid email address." sw-label="#general-account-settings-form-email-label"/>
+
+				<label for="general-account-settings-form-name" id="general-account-settings-form-name-label">Full Name</label>
+				<input type="text" name="name" id="general-account-settings-form-name" value="{{name}}" sw-input sw-type="text" sw-error="Name must be at least 2 characters" sw-label="#general-account-settings-form-name-label"/>
+			</main>
+
+			<footer class="card__footer">
+				<input type="submit" value="Submit" class="btn btn--primary"/>
+			</footer>
+		</div>
+	</form>
+</script>
+
+<script id="password-account-settings-section-template" type="text/x-handlebars-template">
+	<form id="password-account-settings-form">
+		<div class="card__wrapper">
+			<header class="card__header">
+				{{title}}
+			</header>
+
+			<main class="card__main">
+				<label for="password-account-settings-form-password" id="password-account-settings-form-password-label">New Password</label>
+				<input type="password" name="password" id="password-account-settings-form-password" sw-input sw-type="password" sw-error="Password must be at least 4 characters" sw-label="#password-account-settings-form-password-label" autocomplete="off"/>
+				<label for="password-account-settings-form-password-confirm" id="password-account-settings-form-password-confirm-label">Verify New Password</label>
+				<input type="password" name="password-confirm" id="password-account-settings-form-password-confirm" sw-input sw-type="text" sw-confirm="#password-account-settings-form-password" sw-error="Passwords must match." sw-label="#password-account-settings-form-password-confirm-label" autocomplete="off"/>
+			</main>
+
+			<footer class="card__footer">
+				<input type="submit" value="Submit" class="btn btn--primary"/>
+			</footer>
+		</div>
+	</form>
+</script>
+
+<script id="email-account-settings-section-template" type="text/x-handlebars-template">
+	<form id="email-account-settings-form">
+		<div class="card__wrapper">
+			<header class="card__header">
+				{{title}}
+			</header>
+
+			<main class="card__main">
+				<label><input id="disable-communication-input" type="checkbox" name="email-opt-out" {{#if isOptedOut}}checked="checked"{{/if}}/>Disable all email communication from Prodigy</label>
+			</main>
+
+			<footer class="card__footer">
+				<input type="submit" value="Submit" class="btn btn--primary"/>
+			</footer>
+		</div>
+	</form>
+</script>
+
+<script id="memberships-account-settings-section-template" type="text/x-handlebars-template"></script>
+
+<script id="location-account-settings-section-template" type="text/x-handlebars-template">
+	<form id="location-account-settings-form">
+		<div class="card__wrapper">
+			<header class="card__header">
+				{{title}}
+			</header>
+
+			<main class="card__main">
+				<div id="location-account-settings"></div>
+			</main>
+
+			<footer class="card__footer">
+				<input type="submit" value="Submit" class="btn btn--primary"/>
+			</footer>
+		</div>
+	</form>
+</script>
+
+<script id="account-settings-section-location-select-template" type="text/x-handlebars-template">
+	<div id="location-select-search-container">
+		<div class="search-container">
+			<div id="location-select-input-container"></div>
+			<div id="location-select-results-container"></div>
+		</div>
+	</div>
+</script>
+
+<script id="activity-report-skill-detail-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--responsive nested-list__item-row--skill-detail">
+
+		<div class="nested-list__item-column nested-list__item-column--sample-question">
+			<h1>Sample Question</h1>
+			<div class="skill-detail__sample-question js-skill-detail-sample-question" id="js-sample-question-{{id}}"></div>
+		</div>
+
+		<div class="nested-list__item-column nested-list__item-column--student-breakdown">
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--struggling">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{struggling_students.length}}</span> Students below 60%</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each struggling_students}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.name}}</li>
+					{{/each}}
+				</ul>
+			</div>
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--average">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{average_students.length}}</span> Students 60-79%</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each average_students}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.name}}</li>
+					{{/each}}
+				</ul>
+			</div>
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--mastered">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{good_students.length}}</span> Students above 80%</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each good_students}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.name}}</li>
+					{{/each}}
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</script>
+
+<script id="activity-report-skill-detail-grade-tooltip-template" type="text/x-handlebars-template">
+	<table class="activity-report-grade-tooltip__table">
+		<tbody>
+			<tr>
+				<th>Correct</th>
+				<td>{{correct}}</td>
+			</tr>
+			<tr>
+				<th>Incorrect</th>
+				<td>{{incorrect}}</td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<th>Grade</th>
+				<td>{{grade}}%</td>
+			</tr>
+		</tfoot>
+	</table>
+</script>
+
+<script id="activity-report-skill-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--expandable js-toggle-skill-detail">
+		<div class="activity-report__summary-breakdown">
+			<div class="activity-report__num-struggling {{strugglingStudentsOpacityClass}}">{{numStruggling}}</div>
+			<div class="activity-report__num-average {{averageStudentsOpacityClass}}">{{numAverage}}</div>
+			<div class="activity-report__num-good {{goodStudentsOpacityClass}}">{{numGood}}</div>
+		</div>
+		<div class="nested-list__item-column nested-list__item-column--toggle activity-report__title"><i class="fa fa-caret-right"></i></div>
+		<div class="nested-list__item-column activity-report__title">{{name}}</div>
+	</div>
+	<div class="js-togglable-area js-skill-detail" style="display:none;"></div>
+</script>
+
+<script id="activity-report-template" type="text/x-handlebars-template">
+	<header class="report__header card__header">
+		<div class="report__title">
+			{{title}}
+		</div>
+
+		<div class="date-range__container">
+		</select>
+	</header>
+
+	<main class="report__container card__main js-report-container">
+		<div class="js-loader-container module-overlay--light gone"></div>
+		<div class="report__content js-report-content">
+		</div>
+		{{#unless data}}
+			<div class="js-empty-state row-md text-center">
+				<img class="text-center" src="/assets/images/ed/@1x/ed-fail@1x.png" />
+				<h5 class="text-center text-light">There weren't any questions answered this week!</h5>
+			</div>
+		{{/unless}}
+		
+	</main>
+</script>
+
+<script id="add-students-template" type="text/x-handlebars-template">
 
 	{{#if feature.classcode}}
 		<div class="clearfix">
@@ -183,9 +383,9 @@ e.parentNode.insertBefore(n, e);
 
 	<button class="js-create-students btn btn--block btn--blue text-mb-none text-mt-md">
 		{{#if isCreateStudents}}
-			Create student accounts
+			Create {{studentCopy.singular}} accounts
 		{{else}}
-			Link student accounts
+			Link {{studentCopy.singular}} accounts
 		{{/if}}
 	</button>
 </script>
@@ -193,16 +393,16 @@ e.parentNode.insertBefore(n, e);
 <script id="add-students-manual-new-student-row-template" type="text/x-handlebars-template">
 	<tr sw-student-row="{{index}}">
 		<td class="text-center">{{index}}</td>
-		<td><input name="first_name" class="input--plain" type="text" title="Enter student's name"></td>
-		<td><input name="last_name" class="input--plain" type="text" title="Enter student's last name or initial."></td>			
+		<td><input name="first_name" class="input--plain" type="text" title="Enter {{studentCopy.singular}}'s name"></td>
+		<td><input name="last_name" class="input--plain" type="text" title="Enter {{studentCopy.singular}}'s last name or initial."></td>			
 	</tr>
 </script>
 
 <script id="add-students-manual-existing-student-row-template" type="text/x-handlebars-template">
 	<tr sw-student-row="{{index}}">
 		<td class="text-center">{{index}}</td>
-		<td><input name="username" class="input--plain" type="text" title="Enter student's username" autocomplete="off"></td>
-		<td><input name="password" class="input--plain" type="password" title="Enter student's password"></td>			
+		<td><input name="username" class="input--plain" type="text" title="Enter {{studentCopy.singular}}'s username" autocomplete="off"></td>
+		<td><input name="password" class="input--plain" type="password" title="Enter {{studentCopy.singular}}'s password"></td>			
 	</tr>
 </script>
 
@@ -228,20 +428,162 @@ e.parentNode.insertBefore(n, e);
 	{{/if}}
 	<label class="warning-text small text-normal text-lh-md">Errors on rows: <b>{{rowsWithErrors}}</b></label>
 </script>
+<script id="assign-membership-header-template" type="text/x-handlebars-template">
+	Assign Membership
+</script>
+<script id="assign-membership-main-template" type="text/x-handlebars-template">
+	<label>Choose a student account</label>
+
+	<select class="js-assign-membership-choose">
+		<option
+			{{#ifCond licenseeID "==" "0"}}
+			selected="selected"
+			{{/ifCond}}
+
+			value="0"
+		>
+			No student
+		</option>
+
+		{{#each students}}
+		<option
+			{{#ifCond userID "==" ../licenseeID}}
+			selected="selected"
+			{{/ifCond}}
+			value="{{userID}}"
+		>
+			{{name}} ({{username}})
+		</option>
+		{{/each}}
+
+	</select>
+	<p><a href="/dashboard/#students">Need to add a student? Click here.</a></p>
+</script>
+<script id="assign-membership-footer-template" type="text/x-handlebars-template">
+	<button class="js-assign-membership-cancel btn btn--white btn--small">Cancel</button>
+	<button class="js-assign-membership-save btn btn--blue btn--small"
+		{{#if assignedStudentIsInClass}}
+		disabled="disabled"
+		{{/if}}
+	>
+		Save Changes
+	</button>
+</script>
+
+<script id="assignment-form-template" type="text/x-handlebars-template">
+
+	<div class="assignment-form__field context">
+		<label>Skills</label>	
+		<div class="js-select-skills select-btn select-btn--blue">
+			<input readonly="" type="text" placeholder="Select skills..." 
+				{{#if skills}}
+					value="{{skills.name}}" title="{{skills.name}}"
+				{{else}}
+					title="Select the skills in this assignment."
+				{{/if}}
+			>
+			{{#if skills}}
+				<button>Edit</button>
+			{{else}}
+				<button>Select</button>
+			{{/if}}
+		</div>
+	</div>
+
+	<div class="assignment-form__field context">
+		<label>Students and Options</label>	
+		<div class="js-select-options select-btn select-btn--blue">
+			<input readonly="" type="text" placeholder="Select students..."
+				{{#if studentIDs}}
+					value="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned" 
+					title="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned"
+				{{else}}
+					 title="Select which students receive this assignment and options."
+				{{/if}}
+			>
+			{{#if studentIDs}}
+				<button>Edit</button>
+			{{else}}
+				<button>Select</button>
+			{{/if}}
+		</div>
+	</div>
+
+	<div class="assignment-form__field context">
+		<label>Date range</label>		
+		<div class="js-date-range select-btn select-btn--blue">
+			<input readonly="" type="text" placeholder="Select a date range..." 
+			{{#if readableDateRange}}
+				title="Assignment is active {{readableDateRange}}." value="{{readableDateRange}}"
+			{{else}}
+				title="Select when the assignment takes place."
+			{{/if}}
+			>
+			{{#if endDate}}
+				<button>Edit</button>
+			{{else}}
+				<button>Select</button>
+			{{/if}}
+		</div>
+	</div>
+
+	<div class="assignment-form__btn-container">		
+		<button class="js-cancel-item-form assignment-form__btn btn btn--red">Cancel</button>
+	</div>
+	
+	<div class="assignment-form__btn-container">
+		{{#if isBeingEdited}}
+			<button class="js-save-assignment-edits assignment-form__btn btn btn--primary">Save</button>
+		{{else}}
+			<button class="js-create-assignment assignment-form__btn btn btn--primary context">Create</button>
+		{{/if}}
+	<div>
+</script>
+<script id="assignment-options-template" type="text/x-handlebars-template">
+	<label class="js-assignment-name-label assignment-options__label">Assignment Name</label>
+	<input class="js-assignment-name-input text-mb-md" type="text" name="name" value="{{name}}">
+
+	<label class="assignment-options__label">Number of questions</label>
+	<select class="js-assignment-questions-select text-mb-md">
+		{{#each questionNumArr}}
+			<option value="{{this}}">{{this}}</option>
+		{{/each}}
+	</select>
+
+	{{#if students}}
+	<div class="assignment-options__students">
+		<header class="assignment-options__students-header">
+			<input id="assignment-options-student-toggle" class="js-toggle-student-selection sw-checkbox" type="checkbox" {{#if valid}}checked{{/if}}>
+			<label for="assignment-options-student-toggle" class="js-toggle-student-selection-label sw-checkbox-label assignment-options__student-checkbox"><i class="fa fa-check"></i></label>
+			<label for="assignment-options-student-toggle" class="assignment-options__label text-m-none">Students</label>
+		</header>
+		<main class="assignment-options__students-main">				
+			{{#each students}}
+				<label class="assignment-options__label assignment-options__student-label">
+					<input id="assignment-options-student-{{userID}}" class="js-student-checkbox sw-checkbox" type="checkbox" value="{{userID}}">
+					<label for="assignment-options-student-{{userID}}" class="sw-checkbox-label assignment-options__student-checkbox"><i class="fa fa-check"></i></label>
+					{{name}}
+				</label>
+			{{/each}}
+		</main>
+	</div>	
+	{{else}}	
+		<div class="warning-text row-md">There are no students in this class! Visit the <a href="#students">students page</a> to find out how to add&nbsp;them.</div>
+	{{/if}}
+</script>
 <script id="calendar-template" type="text/x-handlebars-template">
-	<div class="calendar-nav text-right hide-mobile">
-		<i class="calendar-nav__calendar-icon fa fa-calendar-o"></i> {{firstDateMonth}} {{firstDateDay}} - {{lastDateMonth}} {{lastDateDay}}
-		<i class="calendar-nav__shift-icon js-previous-week fa fa-chevron-left"></i> <i class="calendar-nav__shift-icon js-next-week fa fa-chevron-right"></i>
+
+	<div class="js-calendar-nav calendar__navigation">
+		<div class="js-calendar-date-range date-range date-range--today">
+			<span class="date-range__dates date-range__dates--auto-width">{{firstDateMonthShort}} {{firstDateDay}} - {{lastDateMonthShort}} {{lastDateDay}}</span>
+			<button class="js-previous-week date-range__btn" aria-label="Previous week"><i class="fa fa-caret-left" aria-hidden="true"></i></button>
+			<button class="js-back-to-today date-range__btn">Today</button>
+			<button class="js-next-week date-range__btn" aria-label="Next week"><i class="fa fa-caret-right" aria-hidden="true"></i></button>
+		</div>
 	</div>
 
-	<div class="calendar-nav text-center show-mobile-only clearfix">
-		<i class="left calendar-nav__shift-icon js-previous-week fa fa-chevron-left"></i>
-		<span style="line-height: 2rem;">{{firstDateMonthShort}} {{firstDateDay}} - {{lastDateMonthShort}} {{lastDateDay}}</span>
-		<i class="right calendar-nav__shift-icon js-next-week fa fa-chevron-right"></i>
-	</div>
-
-	<div class="calendar-wrapper">
-		<table class="calendar">
+	<div class="js-calendar-wrapper calendar__table-wrapper">
+		<table class="js-calendar-inner calendar__table">
 			<thead>
 				<tr>
 					<th class="calendar__day-heading">SUN</th>
@@ -267,14 +609,75 @@ e.parentNode.insertBefore(n, e);
 	</div>
 	<div class="calendar__day-events"></div>
 </script>
+<script id="calendar-item-template" type="text/x-handlebars-template">
+	<div class="calendar__day-item calendar__day-item--{{type}} calendar__day-item--{{segmentLength}} {{extraClasses}}" style="top: {{topPosition}};" sw-item-id="{{id}}" sw-item-type="{{type}}" sw-item-index="{{index}}">
+		<div class="calendar__day-item-inner">
+			<div class="calendar__day-item-content">
+				<div class="calendar__day-item-content-inner">{{name}}</div>
+			</div>
+		</div>
+	</div>
+</script>
+<script id="cancel-membership-header-template" type="text/x-handlebars-template">
+	Cancel Membership
+</script>
+<script id="cancel-membership-main-template" type="text/x-handlebars-template">
+	<p>The auto-renewal for your Prodigy premium membership subscription will be canceled. You will not be billed again for this membership.</p>
+		<p>Your child/student will continue to receive their membership benefits until {{expiryDate}}.</p>
+</script>
+<script id="cancel-membership-footer-template" type="text/x-handlebars-template">
+	<button class="js-cancel-membership-cancel btn btn--white btn--small">Nevermind</button>
+	<button class="js-cancel-membership-proceed btn btn--red btn--small">Cancel Membership</button>
+
+</script>
+
+<script id="card-template" type="text/x-handlebars-template">
+	<div class="card__wrapper">
+		{{#if header}}
+			<header class="card__header {{{customClasses.headerClass}}}">{{{header}}}</header>
+		{{/if}}
+
+		<main class="card__main {{{customClasses.mainClass}}}">{{{main}}}</main>
+
+		{{#if footer}}
+			<footer class="card__footer {{{customClasses.footerClass}}}">{{{footer}}}</footer>
+		{{/if}}
+	</div>
+</script>
+
 <script id="class-preview-template" type="text/x-handlebars-template">
 	<div class="class-preview__inner">
 		<i class="js-edit-class-btn class-preview__edit-icon fa fa-cog"></i>
 		<h1 class="class-preview__name ellipsis">{{name}}</h1>
-		<p class="class-preview__students">{{numOfStudents}} Student{{#if isStudentsPlural}}s{{/if}}</p>
+		<p class="class-preview__students">{{studentsText}}</p>
 		<p class="class-preview__classcode">Class Code: {{classCode}}</p>
-		<a href="#classes/class/{{id}}" class="btn btn--block btn--blue text-m-none">Manage class</a href="#classes/class/{{classID}}">			
+		<button class="js-class-preview-manage btn btn--block btn--blue text-m-none">View class</button>
 	</div>
+</script>
+<script id="class-select-template" type="text/x-handlebars-template">
+	<select id="class-select-input" class="class-select__input" sw-select>
+		{{#each classes}}
+			<option value="{{this.id}}" {{#if this.isSelected}}selected{{/if}}>{{this.name}}</option>
+		{{/each}}
+	</select>
+</script>
+<script id="collapse-menu-template" type="text/x-handlebars-template">
+	<span class="js-toggle-collapse-menu-btn clickable">
+		{{iconText}}
+		<i class="fa fa-{{iconType}}" aria-hidden="true"></i>
+	</span>
+	<ul class="js-collapse-menu-item-container collapse-menu__items gone">
+		{{#each menuItems}}
+			<li class="collapse-menu__item">
+				<a 
+					{{#if onclick}}onclick="{{onclick}}"{{/if}}
+					{{#if target}}target="{{target}}"{{/if}} 
+					{{#if url}}href="{{url}}"{{/if}}>
+						{{text}}
+				</a>
+			</li>
+		{{/each}}
+	</ul>
 </script>
 <script id="connect-parents-template" type="text/x-handlebars-template">	
 	<div class="text-center">
@@ -311,7 +714,7 @@ e.parentNode.insertBefore(n, e);
 	</div>						
 </script>
 <script id="create-class-template" type="text/x-handlebars-template">
-	
+
 	<p class="text-center text-m-none row-md row-collapse-t">Enter details for your new class</p>
 
 	<form>
@@ -322,7 +725,7 @@ e.parentNode.insertBefore(n, e);
 						<label id="class-name-label" class="form-table__label" for="class-name">Class name</label>
 					</td>
 					<td class="form-table__input-cell">
-						<input id="class-name" class="form-table__input" name="name" type="text" placeholder='e.g. "Homeroom"' sw-input sw-type="text" sw-label="#class-name-label">
+						<input id="class-name" class="form-table__input" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label">
 					</td>
 				</tr>
 				<tr class="form-table__input-row">
@@ -338,7 +741,7 @@ e.parentNode.insertBefore(n, e);
 						</select>
 					</td>
 				</tr>
-			</table>	
+			</table>
 		</div>
 
 		<div class="row-xl row-collapse-b">
@@ -346,21 +749,168 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	<form>
 </script>
+
+<script id="create-class-form-template" type="text/x-handlebars-template">
+	<form>
+		<label id="class-name-label" for="class-name">Class name</label>
+		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" autocomplete="off">
+
+		<label id="class-grade-label" for="class-grade-select">Grade</label>
+		<select id="class-grade-select" name="grade" sw-select sw-input sw-type="text" sw-label="#class-grade-label">
+			<option value="" selected disabled hidden>Select a grade</option>
+			{{#each curricula}}
+				<option value="{{curriculumID}}">{{name}}</option>
+			{{/each}}
+		</select>
+
+		<button class="btn btn--blue btn--block">Create classroom</button>
+	<form>
+</script>
+
+<script id="curriculum-report-expectation-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--expandable nested-list__item-row--responsive js-toggle-skills-list">
+		<div class="nested-list__item-column nested-list__item-column--warning js-expectation-warning"><i class="fa fa-exclamation-triangle"></i></div>
+		<div class="nested-list__item-column nested-list__item-column--progress js-expectation-progress"></div>
+		<div class="nested-list__item-column nested-list__item-column--toggle"><i class="fa fa-caret-right"></i></div>
+		<div class="nested-list__item-column nested-list__item-column--expectation-name">{{name}}</div>
+		<ul class="nested-list__item-column nested-list__item-column--expectation-legend js-expectation-legend hidden">
+			<li class="expectation-legend__item expectation-legend__item--struggling"><i class="fa fa-square" aria-hidden="true"></i>Struggling</li>
+			<li class="expectation-legend__item expectation-legend__item--not-started"><i class="fa fa-square" aria-hidden="true"></i>Not Started</li>
+			<li class="expectation-legend__item expectation-legend__item--in-progress"><i class="fa fa-square" aria-hidden="true"></i>In-Progress</li>
+			<li class="expectation-legend__item expectation-legend__item--mastered"><i class="fa fa-square" aria-hidden="true"></i>Mastered</li>
+		</ul>
+	</div>
+	<div class="js-togglable-area js-skills-list" style="display:none;"></div>
+</script>
+
+<script id="curriculum-report-skill-detail-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--responsive nested-list__item-row--skill-detail">
+
+		<div class="nested-list__item-column nested-list__item-column--sample-question">
+			<h1>Sample Question</h1>
+			<div class="skill-detail__sample-question js-skill-detail-sample-question" id="js-sample-question-{{id}}"></div>
+		</div>
+
+		<div class="nested-list__item-column nested-list__item-column--student-breakdown">
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--struggling">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{strugglingStudents.length}}</span> Struggling</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each strugglingStudents}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.fullname}}</li>
+					{{/each}}
+				</ul>
+			</div>
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--not-started">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{notStartedStudents.length}}</span> Not Started</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each notStartedStudents}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.fullname}}</li>
+					{{/each}}
+				</ul>
+			</div>
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--in-progress">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{inProgressStudents.length}}</span> In Progress</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each inProgressStudents}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.fullname}}</li>
+					{{/each}}
+				</ul>
+			</div>
+			<div class="skill-detail__student-breakdown skill-detail__student-breakdown--mastered">
+				<h1 class="student-breakdown__title js-toggle-student-breakdown-list"><span class="student-breakdown__count">{{masteredStudents.length}}</span> Mastered</h1>
+				<ul class="student-breakdown__list student-breakdown__list--expanded">
+					{{#each masteredStudents}}
+						<li class="js-skill-detail-student" data-incorrect="{{this.incorrect}}" data-correct="{{this.correct}}" data-grade="{{this.grade}}">{{this.fullname}}</li>
+					{{/each}}
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</script>
+
+<script id="curriculum-report-skill-detail-grade-tooltip-template" type="text/x-handlebars-template">
+	<table class="curriculum-report-grade-tooltip__table">
+		<tbody>
+			<tr>
+				<th>Correct</th>
+				<td>{{correct}}</td>
+			</tr>
+			<tr>
+				<th>Incorrect</th>
+				<td>{{incorrect}}</td>
+			</tr>
+		</tbody>
+		<tfoot>
+			<tr>
+				<th>Grade</th>
+				<td>{{grade}}%</td>
+			</tr>
+		</tfoot>
+	</table>
+</script>
+
+<script id="curriculum-report-skill-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--expandable nested-list__item-row--responsive js-toggle-skill-detail">
+		<div class="nested-list__item-column nested-list__item-column--toggle"><i class="fa fa-caret-right"></i></div>
+		<div class="nested-list__item-column nested-list__item-column--skill-name">{{name}}</div>
+		<div class="nested-list__item-column nested-list__item-column--progress-breakdown js-skill-progress-breakdown"></div>
+	</div>
+	<div class="js-togglable-area js-skill-detail" style="display:none;"></div>
+</script>
+
+<script id="curriculum-report-strand-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row nested-list__item-row--expandable js-toggle-expectations-list">
+		<div class="nested-list__item-column nested-list__item-column--warning js-strand-warning"><i class="fa fa-exclamation-triangle"></i></div>
+		<div class="nested-list__item-column nested-list__item-column--progress js-strand-progress"></div>
+		<div class="nested-list__item-column nested-list__item-column--toggle"><i class="fa fa-caret-right"></i></div>
+		<div class="nested-list__item-column nested-list__item-column--strand-name">{{name}}</div>
+	</div>
+	<div class="js-togglable-area js-expectations-list" style="display:none;"></div>
+</script>
+
+<script id="curriculum-report-template" type="text/x-handlebars-template">
+	<header class="report__header card__header">
+		<div class="report__title">
+			{{title}}
+		</div>
+
+		<select class="curriculum-report__curricula-select js-curriculum-report-curricula-select">
+			{{#each curricula}}
+				<option value="{{this.curriculumID}}">{{this.name}}</option>
+			{{/each}}
+		</select>
+	</header>
+
+	<main class="report__container card__main js-report-container">
+		<div class="js-loader-container module-overlay--light gone"></div>
+		<div class="report__content js-report-content"></div>
+	</main>
+</script>
+
 <script id="curriculum-select-template" type="text/x-handlebars-template">
-	<p class="text-size-5">Choose your curriculum</p>
-	<select id="curriculum-select" class="icon-select text-strong" sw-select>
-		<option value="0" disabled selected hidden>Please choose a curriculum</option>
+	{{#if showLabel}}<label id="curriculum-select-label" for="curriculum-select">Curriculum</label>{{/if}}
+	<select id="curriculum-select" name="curriculum-select" class="icon-select js-curriculum-select" sw-select sw-input sw-type="text" sw-label="#curriculum-select-label" sw-error="Please select a curriculum.">
+		<option value="0" disabled selected hidden>Select a curriculum</option>
 		<option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Prodigy Math Curriculum (Default)</option>
 		<option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Ontario Math Curriculum</option>
 		<option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">Common Core State Standards</option>
 		<option value="3" sw-select-option-url="/assets/images/svg/flag-america.svg">MAFS (Florida)</option>
 		<option value="4" sw-select-option-url="/assets/images/svg/flag-america.svg">TEKS (Texas)</option>
 	</select>
-
-	<div class="row-sm">
-		<button id="curriculum-next-button" class="js-tutorial-next-step btn btn--primary btn--feature" disabled>Choose curriculum</button>
-	</div>
 </script>
+
+
+<script id="curriculum-select-location-template" type="text/x-handlebars-template">
+    {{#if showLabel}}<label id="curriculum-select-label" for="curriculum-select">Location</label>{{/if}}
+    <select id="curriculum-select" name="curriculum-select" class="icon-select js-curriculum-select" sw-select sw-input sw-type="text" sw-label="#curriculum-select-label" sw-error="Please select a location.">
+        <option value="0" disabled selected hidden>Select a location</option>
+        <option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">United States</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Canada</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Other</option>
+    </select>
+</script>
+
 <script id="dash-question-template" type="text/x-handlebars-template">
 	<div class="dash-block__inner">
 		<div class="dash-block__content">
@@ -375,6 +925,22 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</div>
 </script>
+<script id="date-range-template" type="text/x-handlebars-template">
+	<span class="js-date-range date-range__dates"> <i class="fa fa-calendar-o"></i> {{dateRangeText}}</span>
+
+	<span class="date-range__btn-group">
+		<button class="js-previous-range date-range__btn" aria-label="Previous week">
+			<i class="fa fa-caret-left" aria-hidden="true"></i>
+		</button>
+
+		<button class="js-today-range date-range__btn {{#if nextRangeDisabled}}btn--disabled{{/if}}">Today</button>
+
+		<button class="js-next-range date-range__btn {{#if nextRangeDisabled}}btn--disabled{{/if}}" aria-label="Next week">
+			<i class="fa fa-caret-right" aria-hidden="true"></i>
+		</button>
+	</span>
+</script>
+
 <script id="alert-dialog-template" type="text/x-handlebars-template">
 	<div class="dialog__wrapper">
 		{{#if title}}
@@ -552,10 +1118,11 @@ e.parentNode.insertBefore(n, e);
 <script id="edit-class-template" type="text/x-handlebars-template">
 	<form>
 		<label id="class-name-label" for="class-name">Change class name</label>
-		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
+		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
 
 		<label id="class-grade-label" for="class-grade-select">Change grade</label>
-		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-optional="true">
+		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a grade for your class.">
+			<option value="" selected disabled hidden>Select a grade</option>
 			{{#each curricula}}
 				<option value="{{curriculumID}}">{{name}}</option>
 			{{/each}}
@@ -566,15 +1133,29 @@ e.parentNode.insertBefore(n, e);
 		{{/unless}}
 	<form>
 
-	{{!-- Delete class is disabled until full multiple class feature is released. --}}
-	{{!-- <a class="js-delete-class-btn text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Delete this class</a> --}}
+	<a class="js-delete-class-btn text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Delete this class</a>
+</script>
+
+<script id="edit-class-form-template" type="text/x-handlebars-template">
+	<form>
+		<label id="class-name-label" for="class-name">Class name</label>
+		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
+
+		<label id="class-grade-label" for="class-grade-select">Grade</label>
+		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a grade for your class.">
+			<option value="" selected disabled hidden>Select a grade</option>
+			{{#each curricula}}
+				<option value="{{curriculumID}}">{{name}}</option>
+			{{/each}}
+		</select>
+	<form>
 </script>
 <script id="edit-student-template" type="text/x-handlebars-template">
 	<form>
-		<label id="student-name-label" for="student-name">Student's name</label>
+		<label id="student-name-label" for="student-name">{{student.singularCapPossesive}} name</label>
 		<input id="student-name" name="student-name" type="text" sw-input sw-type="name" sw-label="#student-name-label" sw-error="Name should be at least 2 characters long." value="{{fullname}}">
 
-		<label id="student-override-label" for="student-override">Grade Override</label>
+		<label id="student-override-label" for="student-override">Grade override</label>
 		<select id="student-override" name="student-override">
 			<option value="">No Override</option>
 			{{#each curricula}}
@@ -590,7 +1171,45 @@ e.parentNode.insertBefore(n, e);
 		{{/unless}}
 	<form>
 
-	<a class="js-remove-student text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Remove student from class</a>
+	<a class="js-remove-student text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Remove {{student.singular}} from class</a>
+</script>
+<script id="existing-user-modal-tooltip-template" type="text/x-handlebars-template">
+	<div class="tooltip__content">			
+		{{content}}
+	</div>
+	<div class="tooltip__footer">
+		Step {{currentStep}} of {{steps.length}}
+		{{#if buttonText}}
+			<button class="btn btn--blue tooltip__footer-btn js-modal-sequence-next">{{buttonText}}</button>
+		{{/if}}
+	</div>
+</script>
+<script id="game-base-template" type="text/x-handlebars-template">
+	<div id="game-maintenance-container"></div>
+	<div id="game-loading-container"></div>
+</script>
+
+<script id="game-maintenance-template" type="text/x-handlebars-template">
+	<div id='announcement-message' class='game-announcement announcement clearfix'>
+        <h5 class="alert alert-warning alert-top">{{maintenanceMessage}}</h5>
+        <div class='announcement-close'><i class="fa fa-2x fa-times"></i></div>
+    </div>
+</script>
+
+<script id="game-loading-template" type="text/x-handlebars-template">
+	<div class="game-loading container">
+		<img class="game-loading__ed" src="/assets/images/ed/@2x/ed-stars@2x.png" />
+		<p class="text-white text-center text-mt-md">Loading Prodigy Game Files...</p>
+		<div id="game-loading__bar"></div>
+	</div>
+</script>
+
+<script id="game-error-template" type="text/x-handlebars-template">
+	<div class="game-loading container">
+		<img class="game-loading__ed" src="/assets/images/ed/@2x/ed-sad@2x.png" />
+		<h4 class="text-white text-center text-mt-md">Uh oh! We were unable to connect to the Prodigy servers.</h4>
+		<p class="text-white text-center text-mt-md">Please ensure that you are connected to the Internet, and try reloading the page.<br />If this message persists, please email our <a href="mailto:support@prodigygame.com" class="text-white"><strong><u>support team</u></strong></a> or visit our <a href="https://twitter.com/prodigystatus" class="text-white"><u><strong>status page</strong></u></a> for more details.</p>
+	</div>
 </script>
 <script id="class-code-username-template" type="text/x-handlebars-template">
 	<div class="modal-section-container">
@@ -643,16 +1262,25 @@ e.parentNode.insertBefore(n, e);
 
 <script id="class-code-display-template" type="text/x-handlebars-template">
 	<div class="modal-section-container">
-		<div class="modal--advanced__heading">{{classCode}}</div>
-		<div class="modal-section">
-			<div id="class-code-display-form">
-				<p>This is your class code. Enter this value for each of your students to add them to your class list.</p>
-				{{#if newAccount}}
-					<p>We have also emailed you this information, along with a link to complete your teacher account setup.</p>
-				{{/if}}
-				<button id="class-code-display-close" class="btn btn-md btn-primary">Close</button>
+		{{#if classes}}
+			<div class="modal--advanced__heading">Choose a class</div>
+			<div class="modal-section">
+				<div id="class-code-display-form">
+					<div class="class-code-lookup__list">				
+						{{#each classes}}
+							<a class="js-class-code class-code-lookup__code" data-class-code="{{class_code}}">{{class_code}} - {{name}}</a>
+						{{/each}}
+					</div>
+				</div>
 			</div>
-		</div>
+		{{/if}}
+
+		{{#unless classes}}
+			<div class="modal--advanced__heading">No classes found</div>
+			<div class="modal-section">
+				<p class="text-left">We couldn't find any classes attached to this teacher.</p>
+			</div>
+		{{/unless}}
 	</div>
 </script>
 
@@ -665,7 +1293,6 @@ e.parentNode.insertBefore(n, e);
 	</div>	
 </script>
 <script id="location-select-base-template" type="text/x-handlebars-template">
-	
 	<div id="location-select-search-container">
 		<div class="search-container">
 			<div id="location-select-input-container"></div>
@@ -678,11 +1305,6 @@ e.parentNode.insertBefore(n, e);
 	</div>
 
 	<div id="location-select-add-school-container" style="display:none;"></div>
-
-	<div id="location-select-curriculum-container" style="display:none;"></div>
-	
-	<button id="location-select-submit" class="js-location-select-submit btn btn--primary btn--block text-strong" style="display:none;" disabled>Continue</button>
-
 </script>
 
 <script id="location-select-search-template" type="text/x-handlebars-template">
@@ -710,7 +1332,7 @@ e.parentNode.insertBefore(n, e);
 		{{#if emptySearch}}
 			<div class="search__results-note">
 				<p>We couldn't find your school. Add it now!</p>
-				<a class="js-start-add-school btn btn--primary text-strong">Add your school</a>
+				<a class="js-start-add-school btn btn--mariner">Add your school</a>
 			</div>
 		{{/if}}
 	</div>
@@ -737,7 +1359,7 @@ e.parentNode.insertBefore(n, e);
 						<input id="board-name" class="js-location-field form-table__input" name="name" type="text" sw-type="name" sw-label="#board-name-label" sw-error="" placeholder="Peel District School Board">
 					</td>
 				</tr>
-			</table>	
+			</table>
 		</div>
 	</form>
 	<div class="text-right">
@@ -745,19 +1367,57 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 
-<script id="location-select-curriculum-template" type="text/x-handlebars-template">
-	<div class="row-md">
-		<p class="text-size-5">Choose your curriculum</p>
-		<select id="curriculum-select" class="icon-select text-strong" sw-select>
-			<option value="0" disabled selected hidden>Please choose a curriculum</option>
-			<option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Prodigy Math Curriculum</option>
-			<option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Ontario Math Curriculum</option>
-			<option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">Common Core State Standards</option>
-			<option value="3" sw-select-option-url="/assets/images/svg/flag-america.svg">MAFS (Florida)</option>
-			<option value="4" sw-select-option-url="/assets/images/svg/flag-america.svg">TEKS (Texas)</option>
-		</select>
+<script id="login-form-template" type="text/x-handlebars-template">
+	<div class="login-form__wrapper">
+		<div class="login-form__message">Please log in to a parent or teacher account to view this page!</div>
+
+		<div class="login-form__error"></div>
+		
+		<input type="hidden" name="method" value="login"/>
+
+		<label for="login-form__username" id="login-form__username-label">Email</label>
+		<input type="text" name="username" id="login-form__username" value="{{username}}" sw-input sw-type="email" sw-label="#login-form__username-label" sw-error="This doesn't look like a valid email address."/>
+
+		<label for="login-form__password">Password</label>
+		<input type="password" name="password" id="login-form__password"/>
+
+		<div class="login-form__actions btn-group btn-group--2 btn-group--responsive">
+			<button type="button" class="reset-password btn btn-ghost">I forgot my password</button>
+			<button type="button" class="login btn btn-primary">Login</button>
+		</div>
 	</div>
 </script>
+
+<script id="login-form-card-template" type="text/x-handlebars-template">
+	<div class="card__wrapper card__wrapper--login-form">
+		<header class="card__header card__header--login-form"></header>
+
+		<main class="card__main card__main--login-form"></main>
+
+		<footer class="card__footer card__footer--login-form card__footer--centered">
+			Don't have an account? <strong><a href="/#start-now">Start now, free forever!</a></strong>
+		</footer>
+	</div>
+</script>
+
+<script id="login-form-card-header-template--login" type="text/x-handlebars-template">
+	<header class="card__header card__header--login-form card__header--login-form-login">
+		Please Log In
+	</header>
+</script>
+
+<script id="login-form-card-header-template--reset-password" type="text/x-handlebars-template">
+	<header class="card__header card__header--login-form card__header--login-form-reset-password">
+		Reset Password
+	</header>
+</script>
+
+<script id="login-form-card-header-template--reset-password-success" type="text/x-handlebars-template">
+	<header class="card__header card__header--login-form card__header--login-form-reset-password-success">
+		Success
+	</header>
+</script>
+
 <script id="login-modal-template" type="text/x-handlebars-template">
 	<div class="modal--advanced__heading">Login To Prodigy</div>
 	<form id="login-form">
@@ -810,6 +1470,196 @@ e.parentNode.insertBefore(n, e);
 		<button class="js-back-btn btn btn--md btn--block btn--primary">Ok</button>
 	</div>
 </script>
+<script id="login-or-reset-password-template" type="text/x-handlebars-template">
+	<div class="login-or-reset-password__wrapper">
+		<form class="login-or-reset-password__form"></form>
+	</div>
+</script>
+
+<script id="maintenance-message-template" type="text/x-handlebars-template">
+    {{#if isVisible}}
+        <div class="maintenance-message__wrapper">
+            <div class="maintenance-message__message">{{message}}</div>
+            <i class="maintenance-message__dismiss fa fa-times js-dismiss"></i>
+        </div>
+    {{/if}}
+</script>
+
+<script id="membership-purchase-success-template" type="text/x-handlebars-template">
+    <div class="membership-purchase-success__header">
+        <h1 class="membership-purchase-success__heading">Purchase Successful</h1>
+        <p>Your child is now a member on Prodigy!</p>
+        <i class="js-dialog-close dialog__close-icon fa fa-times dialog__close-icon--light text-white"></i>
+    </div>
+
+    <form class="js-complete-register-form membership-purchase-success__form" autocomplete="off">
+        <div class="membership-purchase-success__main">
+            <div class="membership-purchase-success__main-content">
+                <p>Complete your parent account!</p>
+                <p>This account will keep you up to date with your child's progress, and allow you to manage your membership.</p>
+            </div>
+
+            <div class="membership-purchase-success__inner-form">
+                <div class="membership-purchase-success__input-group">
+                    <label>Parent Username</label>
+                    <input type="text" name="username" value="{{username}}" disabled>
+                </div>
+
+                <div class="membership-purchase-success__input-group">
+                    <label id="password-input-label" for="password-input">Parent Password</label>
+                    <input 
+                        id="password-input" 
+                        type="password" 
+                        name="password" 
+                        required 
+                        sw-input 
+                        sw-type="password" 
+                        sw-error="Password must be at least 4 characters" 
+                        sw-label="#password-input-label"
+                    >
+                </div>
+
+                <div class="membership-purchase-success__input-group">
+                    <label id="confirm-password-input-label" for="confirm-password-input">Confirm Parent Password</label>
+                    <input
+                        id="confirm-password-input"
+                        type="password"
+                        name="confirm-password"
+                        required
+                        sw-input
+                        sw-type="text"
+                        sw-confirm="#password-input"
+                        sw-error="Passwords must match."
+                        sw-label="#confirm-password-input-label"
+                        autocomplete="off"
+                    >
+                </div>
+
+                <label id="marketing-consent-label" class="membership-purchase-success__consent-label" for="marketing-consent">
+                    <input id="marketing-consent" name="marketingConsent" value="true" type="checkbox"> Receive emails about Prodigy news and promotions
+                </label>
+
+                <!-- <a class="js-dialog-close membership-purchase-success__cancel-link">I don't want an account right now.</a> -->
+            </div>
+        </div>
+        
+        <div class="membership-purchase-success__footer">
+            <button class="membership-purchase-success__btn">Create Account</button>
+        </div>
+    </form>
+</script>
+
+<script id="membership-purchase-success-complete-template" type="text/x-handlebars-template">
+    <div class="membership-purchase-success__complete">
+        <div class="membership-purchase-success__complete-inner">
+            <i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+            <h1>Thanks <span class="membership-purchase-success__name">{{name}}</span>, <div>your account is complete!</div></h1>
+            <img height="142px" src="/assets/images/svg/ed/ed-happy.svg" />
+            <p>Your child will receive their membership benefits the next time they log into the game.</p>
+            <button class="js-dialog-close membership-purchase-success__btn">Okay</button>
+        </div>
+    </div>
+</script>
+
+<script id="memberships-template" type="text/x-handlebars-template">
+	<div class="card__wrapper">
+		<header class="card__header memberships__header">
+			Memberships
+		</header>
+		<main class="card__main memberships__main">
+			{{#if memberships.length}}
+			<div class="memberships__list">
+				{{#each memberships}}
+
+				{{#unless licenseeID}}
+					{{#unless expired}}
+				<div class="memberships__item memberships__item--unassigned" id="membership-{{id}}">
+					{{else}}
+				<div class="memberships__item" id="membership-{{id}}">
+					{{/unless}}
+				{{else}}
+				<div class="memberships__item" id="membership-{{id}}">
+				{{/unless}}
+
+					<div class="memberships__item-row memberships__item-toggle js-toggle-drawer-event">
+						<div class="memberships__item-column memberships__item-column--name">
+							{{#if licenseeID}}
+								{{licenseeName}} <span class="memberships__item-username">({{licenseeUsername}})</span>
+							{{else}}
+								<span class="memberships__item-nostudent">Unassigned</span>
+								{{#unless expired}}
+								&nbsp;<i class="fa fa-exclamation-triangle"><span>Please choose a student.</span></i>
+								{{/unless}}
+							{{/if}}
+						</div>
+						<div class="memberships__item-column memberships__item-column--status">
+							{{#if expired}}
+							<span class="memberships__item-status memberships__item-status--expired">expired</span>
+							{{else}}
+								{{#if recurringPayment}}
+									{{#if canceled}}
+									<span class="memberships__item-status memberships__item-status--canceled">canceled</span>
+									{{else}}
+									<span class="memberships__item-status memberships__item-status--recurring">recurring</span>
+									{{/if}}
+								{{else}}
+								<span class="memberships__item-status memberships__item-status--free">free</span>
+								{{/if}}
+							{{/if}}
+						</div>
+						<div class="memberships__item-column memberships__item-column--next-billing">
+							<div class="memberships__item-column-heading js-canceled-membership-update-next-billing-heading">
+							{{#if expired}}
+								Membership Ended
+							{{else}}
+								{{#if canceled}}
+									Membership Ending
+								{{else}}
+									{{#if recurringPayment}}
+										Next Billing Date
+									{{else}}
+										Membership Ending
+									{{/if}}
+								{{/if}}
+							{{/if}}
+							</div>
+							<p>{{ expiryDate }}</p>
+						</div>
+						<div class="memberships__item-column memberships__item-column--buttons">
+							{{#unless expired}}
+								{{#if licenseeID}}
+								<button data-membership-id="{{id}}" class="btn btn--white btn--sm js-assign-membership-event">Switch Student</button>
+								{{/if}}
+
+								{{#unless licenseeID}}
+								<button data-membership-id="{{id}}"  class="btn btn--blue btn--sm js-assign-membership-event">Choose Student</button>
+								{{/unless}}
+
+								{{#unless canceled}}
+									{{#if recurringPayment}}
+									<button data-membership-id="{{id}}" class="btn btn--white btn--sm js-cancel-membership-event">Cancel Membership</button>
+									{{/if}}
+								{{/unless}}
+							{{/unless}}
+						</div>
+					</div>
+				</div>
+				{{/each}}
+			</div>
+			{{else}}
+			<div class="memberships__empty">
+				<img src="/assets/images/svg/happy-star.svg" alt="A cute little happy star!" />
+				<h3>Looks like you don’t have any memberships</h3>
+				<p>Being a Prodigy Member keeps students engaged, which means more math practice!</p>
+				<p><a href="/membership/" target="_blank">See why thousands of students are upgrading every day.</a></p>
+				<p><a href="/membership/" target="_blank" class="btn btn--blue">Purchase a Membership</a></p>
+			</div>
+			{{/if}}
+		</main>
+	</div>
+</script>
+
+<script id="modal-sequence-template" type="text/x-handlebars-template"></script>
 <script id="advanced-modal-base-template" type="text/x-handlebars-template">
 
 	<div class="modal--advanced__container">
@@ -827,7 +1677,12 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 <script id="move-students-template" type="text/x-handlebars-template">
-	<p>Move the {{students.length}} selected students to a different class.</p>
+    {{#if isParent}}
+	   <p>Move the {{students.length}} selected {{pluralize students.length 'child' 'children'}} to a different class.</p>
+    {{else}}
+        <p>Move the {{students.length}} selected {{pluralize students.length 'student'}} to a different class.</p>
+    {{/if}}
+	<p class="small"><i>{{studentCopy.pluralCapitalized}} who are moved will no longer receive assignments or plans from their previous class.</i></p>
 	<div class="js-error-container text-warning"></div>
 	<select class="js-select-class move-students__class-select">
 		{{#each classes}}
@@ -839,8 +1694,10 @@ e.parentNode.insertBefore(n, e);
 		<a class="js-open-create-class-dialog clickable">Create new class</a>
 	{{/unless}}
 </script>
+<script id="nested-list-template" type="text/x-handlebars-template"></script>
+<script id="nested-list__item-template" type="text/x-handlebars-template"></script>
 <script id="notifications-template" type="text/x-handlebars-template">
-	<i class="js-toggle-notifications notifications__icon fa fa-bell-o"></i>
+	<i class="js-toggle-notifications notifications__icon fa fa-bell"></i>
 
 	{{#if numNewNotifications}}
 		<span class="js-toggle-notifications notifications__counter {{counterClass}}">{{notificationIconText}}</span>
@@ -853,8 +1710,8 @@ e.parentNode.insertBefore(n, e);
 			</div>
 			<ul class="notifications__items">
 				{{#each notifications}}
-					<li>
-						<a class="{{readStatusClass}} {{eventClass}}" href="{{url}}", target="{{target}}">
+					<li class="js-notification-item" data-index="{{@index}}">
+						<a class="{{readStatusClass}} {{eventClass}}" {{#if url}}href="{{url}}"{{/if}} target="{{target}}">
 							<i class="{{iconColorClass}} fa {{iconTypeClass}}"></i>
 
 							<div class="notifications__item-details">
@@ -873,56 +1730,60 @@ e.parentNode.insertBefore(n, e);
 
 </script>
 
+<script id="page-navigation-template" type="text/x-handlebars-template">
+	<ul class="page-navigation__menu">
+		{{#each pages}}
+			<li id="{{this.id}}" class="page-navigation__menu-item {{this.extraClasses}}">
+				<a href="{{this.href}}"><i class="page-navigation__menu-icon fa {{this.iconClasses}}" aria-hidden="true"></i> <span>{{this.label}}</span></a>
+			</li>
+		{{/each}}
+	</ul>
+</script>
 <script id="planner-calendar-form-template" type="text/x-handlebars-template">
-	<div class="planner-calendar__form clearfix">
-		<div class="js-plan-topic-input-group planner-calendar__form-group planner-calendar__form-group--input">
-			<label>Topic</label>
-			<div class="context">
-				<div class="planner-calendar__form-select-input">
-					<input readonly class="js-planner-calendar-topic-input js-select-topic" type="text" placeholder="Select a topic..." {{#if topic}}value="{{topic.topicName}}" title="{{topic.topicName}}"{{/if}}>
-					<button class="js-select-topic">Select</button>
-				</div>
+	<div class="plan-form">
+		
+		<div class="js-plan-topic-input-group plan-form__field context">	
+			<label>Topic</label>		
+			<div class="select-btn select-btn--blue context">
+				<input readonly class="js-planner-calendar-topic-input js-select-topic" type="text" placeholder="Select a topic..." {{#if topic}}value="{{topic.topicName}}" title="{{topic.topicName}}"{{/if}}>
+				<button class="js-select-topic">Select</button>
 			</div>
 		</div>
 
-		<div class="js-plan-start-date-input-group planner-calendar__form-group planner-calendar__form-group--input">
+		<div class="js-plan-start-date-input-group plan-form__field context">
 			<label>Start Date</label>
-			<div class="context">
-				<input readonly disabled class="js-planner-calendar-topic-input planner-calendar__form-input" type="text" value="{{startDateReadable}}">
+			<div class="context select-btn select-btn--only-input">
+				<input readonly disabled class="js-planner-calendar-topic-input plan-form__icon-input cursor-default" type="text" value="{{startDateReadable}}">
 				{{#if startDate}}
-					<i class="js-edit-start-date planner-calendar__edit-input-icon fa fa-times-circle"></i>
+					<i class="js-edit-start-date plan-form__edit-input-icon fa fa-times-circle"></i>
 				{{/if}}			
 			</div>
 			
 		</div>
 
-		<div class="js-plan-end-date-input-group planner-calendar__form-group planner-calendar__form-group--input">
+		<div class="js-plan-end-date-input-group plan-form__field context">
 			<label>End Date</label>
-			<div class="context">
-				<input readonly disabled class="js-planner-calendar-topic-input planner-calendar__form-input" type="text" value="{{endDateReadable}}">
+			<div class="context select-btn select-btn--only-input">
+				<input readonly disabled class="js-planner-calendar-topic-input plan-form__icon-input cursor-default" type="text" value="{{endDateReadable}}">
 				{{#if endDate}}
-					<i class="js-edit-end-date planner-calendar__edit-input-icon fa fa-times-circle"></i>
+					<i class="js-edit-end-date plan-form__edit-input-icon fa fa-times-circle"></i>
 				{{/if}}
 			</div>
 			
 		</div>
 
-		<div class="planner-calendar__form-group planner-calendar__form-group--btn">
-			{{#if isBeingEdited}}
-				<button class="planner-calendar__form-btn btn btn--red btn--block js-cancel-plan-btn">Cancel edit</button>				
-			{{else}}
-				<button class="planner-calendar__form-btn btn btn--red btn--block js-cancel-plan-btn">Cancel</button>
-				
-			{{/if}}
-		</div>
+		{{#if isBeingEdited}}
+			<button class="plan-form__btn btn btn--red js-cancel-plan-btn">Cancel edit</button>				
+		{{else}}
+			<button class="plan-form__btn btn btn--red js-cancel-plan-btn">Cancel</button>
+			
+		{{/if}}
 
-		<div class="js-plan-save-btn-group planner-calendar__form-group planner-calendar__form-group--btn">
-			{{#if isBeingEdited}}
-				<button class="planner-calendar__form-btn btn btn--primary btn--block js-create-plan-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>				
-			{{else}}
-				<button class="planner-calendar__form-btn btn btn--primary btn--block js-create-plan-btn" disabled="true">Create</button>
-			{{/if}}
-		</div>
+		{{#if isBeingEdited}}
+			<button class="plan-form__btn btn btn--primary js-create-plan-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>				
+		{{else}}
+			<button class="plan-form__btn btn btn--primary js-create-plan-btn" disabled="true">Create</button>
+		{{/if}}
 	</div>
 </script>
 
@@ -934,14 +1795,193 @@ e.parentNode.insertBefore(n, e);
 
 		<div class="col col--8of12 cell-md">
 			<div class="dialog__title">Your plan has been created!</div>
-			<p><b class="text-primary">{{startDateString}}</b> Your plan will begin, and we will automatically focus your students on the topic you chose.</p>
-			<p><b class="text-primary">{{endDateString}}</b> Your plan will end, and we will email you a report on how your students performed.</p>
+            {{#if isParent}}
+    			<p><b class="text-primary">{{startDateString}}</b> Your plan will begin, and we will automatically focus your children on the topic you chose.</p>
+    			<p><b class="text-primary">{{endDateString}}</b> Your plan will end, and we will email you a report on how your children performed.</p>
+            {{else}}
+                <p><b class="text-primary">{{startDateString}}</b> Your plan will begin, and we will automatically focus your students on the topic you chose.</p>
+                <p><b class="text-primary">{{endDateString}}</b> Your plan will end, and we will email you a report on how your students performed.</p>
+            {{/if}}
 		</div>
 	</div>
 </script>
-<script id="progress-bar-template" type="text/x-handlebars-template">
-	<div class="js-progress-bar-segment progress-bar__segment {{elementClassModifiers.segment}}"></div>
+
+<script id="planner-calendar-selection-toast-template" type="text/x-handlebars-template">
+	<div class="planner-calendar__selection-toast">
+		<i class="fa fa-arrow-down" aria-hidden="true"></i> Now choose the start and end date <i class="fa fa-arrow-down" aria-hidden="true"></i>
+	</div>
 </script>
+
+<script id="planner-item-creation-buttons-template" type="text/x-handlebars-template">
+	<button id="planner-create-plan-btn" class="planner-calendar__item-btn btn btn--mariner btn--spacing-sm js-create-item context overflow-v" data-type="plan">Create plan</button>
+	<button id="planner-create-assignment-btn" class="planner-calendar__item-btn btn btn--wisteria js-create-item context overflow-v" data-type="assignment">Create assignment</button>
+</script>
+
+<script id="planner-calendar-view-toggle-template" type="text/x-handlebars-template">
+	<div class="planner-calendar__view-toggle">
+		<input id="planner-view-calendar-radio" class="hidden-accessible" name="planner-view-radio" type="radio" value="calendar">
+		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--first clickable" for="planner-view-calendar-radio">
+			<i class="fa fa-calendar" aria-hidden="true"></i> Calendar
+		</label>
+
+		<input id="planner-view-list-radio" class="hidden-accessible" name="planner-view-radio" type="radio" value="list">
+		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--last clickable" for="planner-view-list-radio">
+			<i class="fa fa-list-ul" aria-hidden="true"></i> List
+		</label>
+	</div>
+</script>
+<script id="planner-item-list-template" type="text/x-handlebars-template">
+
+	{{#if items.length}}
+		<div class="planner-item-list__header">
+			<div class="planner-item-list__header-inner">
+				<div class="planner-item-list__item-cell planner-item-list__item-cell--wide">Name</div>
+				<div class="planner-item-list__item-cell">Start</div>
+				<div class="planner-item-list__item-cell">End</div>
+				<div class="planner-item-list__item-cell">Type</div>
+				<div class="planner-item-list__item-cell planner-item-list__item-cell--wide">Status</div>
+			</div>
+		</div>
+
+		<ul class="planner-item-list__list">
+			{{#each items}}
+				<li class="planner-item-list__item planner-item-list__item--{{type}}" sw-item-id={{id}}>
+					<div class="planner-item-list__item-inner">
+						<div class="planner-item-list__item-cell planner-item-list__item-cell--name">
+							<span class="planner-item-list__item-name">{{name}}</span>
+						</div>
+						<div class="planner-item-list__item-cell">
+							<span class="planner-item-list__item-cell-title">Start</span> <span>{{startDateString}}</span>
+						</div>
+						<div class="planner-item-list__item-cell">
+							<span class="planner-item-list__item-cell-title">End</span> <span>{{endDateString}}</span>
+						</div>
+						<div class="planner-item-list__item-cell text-capitalize">
+							<span class="planner-item-list__item-cell-title">Type</span> <span>{{type}}</span>
+						</div>
+						<div class="planner-item-list__item-cell">
+							<span class="planner-item-list__item-cell-title">Status</span> <span>{{status}}</span>
+						</div>
+						<div class="planner-item-list__item-cell planner-item-list__item-cell--block">
+							{{#if reportLink}}
+								<a class="js-planne-item-list-report planner-item-list__btn" href="{{reportLink}}" target="_blank">View Report</a>
+							{{/if}}
+							<button class="js-planner-item-more-actions planner-item-list__btn"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></button>
+						</div>
+					</div>
+				</li>
+			{{/each}}
+		</ul>
+	{{else}}
+		{{#if lastLoadedTime}}
+			<div class="planner-item-list__empty">
+				<img src="/assets/images/svg/happy-create.svg" alt="">
+				<div class="planner-item-list__empty-heading">Create a plan or assignment</div>
+				<p class="planner-item-list__empty-text">Plans and assignments are great tools for aligning Prodigy with what you're teaching in class.</p>
+				<button class="btn btn--mariner btn--spacing-sm js-create-item" data-type="plan">Create plan</button>
+				<button class="btn btn--wisteria js-create-item" data-type="assignment">Create assignment</button>	
+			</div>
+		{{else}}
+			<div class="row-md">				
+				<div class="js-loading-icon css-spinner spinner-block"><img class="spinner" src="/assets/images/svg/tail-spin.svg" alt="Content is loading."></div>
+			</div>
+		{{/if}}
+	{{/if}}
+</script>
+
+<script id="planner-item-list-more-options-template" type="text/x-handlebars-template">
+	<ul class="planner-item-list__more-option-list">
+		<li class="js-planne-item-list-edit planner-item-list__more-option-item clickable" aria-role="button">Edit</li>
+		<li class="js-planne-item-list-delete planner-item-list__more-option-item clickable" aria-role="button">Delete</li>
+	</ul>
+</script>
+<script id="primary-navigation-template" type="text/x-handlebars-template">
+	<div class="primary-nav__inner">
+		<div class="primary-nav__col primary-nav__col--collapsed-menu">
+			<div class="js-mobile-menu-container primary-nav__mobile-menu"></div>
+		</div>
+
+		{{#if breadcrumb}}
+			<div class="primary-nav__col primary-nav__col--breadcrumb">
+				<a class="primary-nav__breadcrumb" href="#classes"><i class="primary-nav__breadcrumb-arrow-icon fa fa-arrow-left" aria-hidden="true"></i> Classrooms</a>
+			</div>
+		{{else}}
+			<div class="primary-nav__col primary-nav__col--logo">
+				<a href="/dashboard/#classes"><img class="primary-nav__logo" src="/assets/images/svg/logo/logo-white.svg" alt="Prodigy"></a>
+			</div>
+		{{/if}}
+
+		<div class="js-primary-nav-class-select primary-nav__col gone"></div>
+
+		<div class="primary-nav__col primary-nav__col--menu">
+			<ul class="primary-nav__menu">
+				{{#if account}}
+					<li class="primary-nav__menu-item primary-nav__menu-item--account">
+						<div class="js-account-menu-container primary-nav__account"></div>						
+					</li>							
+				{{/if}}
+
+				{{#if notifications}}
+					<li class="primary-nav__menu-item primary-nav__menu-item--notifcations"><div class="js-notifications-container"></div></li>	
+				{{/if}}
+
+				{{#if help}}
+					<li class="primary-nav__menu-item primary-nav__menu-item--help">
+						<div class="js-help-menu-container"></div>
+					</li>
+				{{/if}}
+			</ul>
+		</div>
+	</div>
+</script>
+<script id="progress-bar-default-template" type="text/x-handlebars-template">
+	{{#each segments}}
+		<div
+			class="js-progress-bar-segment progress-bar__segment {{this.elementClassModifiers}}"
+			data-segment-key="{{this.key}}"
+			{{#if description}}title="{{description}}"{{/if}}
+		></div>
+	{{/each}}
+</script>
+
+<script id="progress-bar-100-percent-template" type="text/x-handlebars-template">
+	{{#each segments}}
+		<div
+			class="js-progress-bar-segment progress-bar__segment {{this.elementClassModifiers}}"
+			data-segment-key="{{this.key}}"
+			{{#if description}}title="{{description}}"{{/if}}
+		></div>
+	{{/each}}
+</script>
+
+<script id="progress-bar-dot-template" type="text/x-handlebars-template">
+	{{#each completeSegments}}
+		<div
+			class="js-progress-bar-segment progress-bar__segment progress-bar__segment--mariner"
+			data-segment-key="{{this.key}}"
+			{{#if description}}title="{{description}}"{{/if}}
+		></div>
+	{{/each}}
+
+	{{#each incompleteSegments}}
+		<div
+			class="js-progress-bar-segment progress-bar__segment progress-bar__segment--alto"
+			data-segment-key="{{this.key}}"
+			{{#if description}}title="{{description}}"{{/if}}
+		></div>
+	{{/each}}
+</script>
+
+<script id="progress-bar-discrete-dot-template" type="text/x-handlebars-template">
+	{{#each segments}}
+		<div
+			class="js-progress-bar-segment progress-bar__segment {{this.elementClassModifiers}}"
+			data-segment-key="{{this.key}}"
+			{{#if description}}title="{{description}}"{{/if}}
+		></div>
+	{{/each}}
+</script>
+
 <script id="purchase-flow-billing-step-template" type="text/x-handlebars-template">
 	<h1 class="flow-step-heading text-center">Enter your payment information.</h1>
 
@@ -1460,60 +2500,153 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</form>
 </script>
-<script id="share-class-template" type="text/x-handlebars-template"></script>
-<script id="skill-details-menu-template" type="text/x-handlebars-template">	
-	<h2 class="h3 slide-menu-title">{{name}}</h2>
+<script id="report-template" type="text/x-handlebars-template">
+	<header class="report__header card__header">{{title}}</header>
 
-	<p class="slide-menu-subhead">{{description}}</p>
+	<main class="report__container card__main js-report-container">
+		<div class="js-loader-container module-overlay--light gone"></div>
+		<div class="report__content js-report-content"></div>
+	</main>
 
-	<div class='question-sample-title'>Sample Question:</div>
-	<hr class='question-sample-title-underline'/>
-	<div id='question-sample-image' class='question-sample-image'></div>		
+	{{#if footer}}
+		<footer class="report__footer card__footer">{{{footer}}}</footer>
+	{{/if}}
 </script>
-<script id="skill-group-template" type="text/x-handlebars-template">
-	<h3 class="skill-group-name">{{name}}</h3>
 
-	<ul class="skills-list">
+<script id="report-error-template" type="text/x-handlebars-template">
+	{{#if error}}
+		{{error}}
+	{{else}}
+		There was an error loading the report.
+	{{/if}}
+</script>
+
+<script id="reset-password-form-template" type="text/x-handlebars-template">
+	<div class="reset-password-form__wrapper">
+		<div class="reset-password-form__message">Enter your email for instructions to reset your password!</div>
+
+		<div class="reset-password-form__error"></div>
+
+		<input type="hidden" name="method" value="send-password-reset"/>
+
+		<label for="reset-password-form__username" id="reset-password-form__username-label">Email</label>
+		<input type="text" name="email" id="reset-password-form__username" value="{{username}}" sw-input sw-type="email" sw-label="#reset-password-form__username-label" sw-error="This doesn't look like a valid email address.">
+
+		<div class="reset-password-form__actions btn-group btn-group--2 btn-group--responsive">
+			<button class="reset-password-back btn btn-ghost">Go Back</button>
+			<button class="reset-password-submit btn btn-primary">Submit</button>
+		</div>
+	</div>
+</script>
+
+<script id="reset-password-form-success-template" type="text/x-handlebars-template">
+	<div class="reset-password-form__wrapper">
+		<div class="reset-password-form__message">Instructions to reset your password have been emailed to you. Please check your email!</div>
+	</div>
+</script>
+
+<script id="select-assignment-options-card-header-template" type="text/x-handlebars-template">
+	Customize your assignment options
+
+	{{#if inDialog}}
+		<i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+	{{/if}}
+</script>
+
+<script id="select-assignment-options-card-footer-template" type="text/x-handlebars-template">
+	<button class="js-dialog-close select-assignment-options-card__footer-btn btn-ghost btn-ghost--blue">Cancel</button>
+	<button class="js-confirm-options select-assignment-options-card__footer-btn btn btn--primary" {{#unless valid}}disabled="true"{{/unless}}>Next</button>
+</script>
+<script id="select-skills-card-header-template" type="text/x-handlebars-template">
+	{{#if chooseSkillsState}}
+		Choose a skill for your assignment
+	{{/if}}
+
+	{{#if customizeSkillsState}}
+		Customize Skills is not supported yet!
+	{{/if}}
+
+	{{#if inDialog}}
+		<i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+	{{/if}}
+</script>
+
+<script id="select-skills-card-footer-template" type="text/x-handlebars-template">
+	{{#if chooseSkillsState}}
+		{{#if selectedSkillName}}
+			<div class="select-skills-card__footer-note">Selected skill: <b>{{selectedSkillName}}</b></div>
+		{{/if}}
+
+		<button class="js-dialog-close select-skills-card__footer-btn btn-ghost btn-ghost--blue">Cancel</button>
+		<button class="js-confirm-skills select-skills-card__footer-btn btn btn--primary" {{#unless selectedSkillName}}disabled="true"{{/unless}}>Next</button>
+	{{else}}
+
+	{{#if customizeSkillsState}}
+		Customize Skills is not supported yet!
+	{{/if}}
+
+	{{/if}}
+</script>
+<script id="share-class-template" type="text/x-handlebars-template"></script>
+<script id="skill-group-template" type="text/x-handlebars-template">
+	<header class="skill-group__header">{{name}}</header>
+	<ul class="skill-group__list">
 		{{#each skills}}
-			<li>
-				<a class="skill-link" data-skill-id="{{skillID}}">{{name}}{{#if isNew}}&nbsp<span class='badge-label'>New!</span>{{/if}}
-				</a>
-				
+			<li id="skill-group-skill-{{skillID}}" class="skill-group__list-item">
+				<label class="skill-group__skill" data-skill-id="{{skillID}}">
+					{{#if @root.enableSelection}}
+						{{!-- <input class="skill-group__skill-input" type="checkbox"> --}}
+						<div class="skill-group__skill-input-container">
+							<input name="skill-group-input" class="skill-group__skill-input" type="radio" value="{{skillID}}">
+						</div>
+					{{/if}}
+					<div>
+						{{name}}{{#if isNew}}&nbsp<span class='badge-label'>New!</span>{{/if}}
+					</div>
+				</label>				
 			</li>
 		{{/each}}
 	</ul>				
 </script>
-<script id="select-student-sublayer-template" type="text/x-handlebars-template">
-	<div class="slide-menu-content student-select-content">
-		<h2 class="slide-menu-title student-select-title">Select Students</h2>
-
-		<div class="student-select-group-container">
-			<div class="student-select-options btn-group btn-group--2">
-				<button class="js-select-all btn-ghost btn-ghost--primary">All</button>		
-				<button class="js-select-none btn-ghost btn-ghost--primary">None</button>	
-			</div>
-			{{#each students}}
-				<div class="student-select-group">					
-					<label for="{{userID}}" class="js-student-hover studentNameLabel"><input id="{{userID}}" class="js-student-hover studentCheckbox" type="checkbox" value="{{userID}}">{{name}}</label>				
-				</div>
-			{{/each}}
+<script id="skill-group-collection-template" type="text/x-handlebars-template">
+	<div class="skill-group-collection__input-container">
+		<div class="skill-group-collection__select-group">
+			<label>Curriculum</label>
+			<select class="js-skill-group-curriculum-select skill-group-collection__select">
+				<option selected>Loading...</option>
+			</select>			
 		</div>
-
-		<div class="student-select-btn-group btn-row">
-			<button class="js-save btn btn--accent btn--md sub-layer-primary-btn">Save</button>		
-			<button class="js-back btn-ghost btn-ghost--secondary btn-ghost--md sub-layer-secondary-btn">Back</button>	
+		<div class="skill-group-collection__select-group skill-group-collection__select-group--2">			
+			<label>Grade</label>
+			<select class="js-skill-group-grade-select skill-group-collection__select">
+				<option selected>Loading...</option>
+			</select>	
 		</div>
+	</div>	
+
+	<hr>
+
+	<div class="js-skill-group-loading-container"></div>
+
+	<form class="js-skill-groups-container skill-group-collection__container">
+		<div class="js-skill-groups-col-1 skill-group-collection__col"></div>
+		<div class="js-skill-groups-col-2 skill-group-collection__col"></div>
+		<div class="js-skill-groups-col-3 skill-group-collection__col"></div>
+	</form>
+</script>
+
+<script id="skill-group-collection-error-template" type="text/x-handlebars-template">
+	<div class="text-center">
+		There was a problem loading our skills. You can try to load them again or attempt to refresh the page.
+	</div>
+	
+	<div class="row-md">
+		<button class="js-reload-skills btn btn--md btn--center">Try Again</button>
 	</div>
 </script>
-<script id="slide-menu-base-template" type="text/x-handlebars-template">
-	<div class="slide-layer-main">
-		<div class="slide-menu-options">
-			<div class="slide-menu-arrow js-exit">&larr;</div>
-		</div><!-- END .slide-menu-option -->
 
-		<div class="slide-menu-content">
-		</div><!-- END slide-menu-content -->
-	</div><!-- END .slide-layer-main -->
+<script id="skill-sample-controller-template" type="text/x-handlebars-template">
+	<i class="js-skill-sample-controller-icon skill-sample-controller__icon fa fa-external-link"></i>	
 </script>
 <script id="student-preview-template" type="text/x-handlebars-template">
 	<div class="student-preview__inner">
@@ -1545,22 +2678,121 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</div>
 </script>
+<script id="student-usage-report-template" type="text/x-handlebars-template">
+
+	<main class="report__container card__main js-report-container">
+		<div class="js-loader-container module-overlay--light gone"></div>
+		<div class="report__content js-report-content"></div>
+	</main>
+
+</script>
+
+<script id="student-usage-report-error-template" type="text/x-handlebars-template">
+	<div class="card__wrapper">
+		<main class="card__main row-md text-center">
+			<img class="text-center" src="/assets/images/ed/@1x/ed-fail@1x.png" />
+			<h4 class="text-center text-light">Something went wrong.</h5>
+			<h6 class="text-center text-light">Sorry, we can't get that information right now. Please try again later.</h6>
+
+			<button class="js-reload-student-report btn btn--blue"><i class="fa fa-repeat" aria-hidden="true"></i>&nbsp;&nbsp;Reload The Page</button>
+		</main>
+	</div>
+</script>
+
+<script id="student-usage-report-controls-template" type="text/x-handlebars-template">
+    <div id="student-usage-report-controls-container" class="student-usage-report-controls__container">
+        <span class="student-usage-report-controls-dropdown__container">
+            {{#if students.length}}
+                <select class="js-student-select">
+                    <option value="" {{#unless isFiltered}}selected{{/unless}}>All Students</option>
+                    {{#each students}}
+                        <option value={{this.id}} data-test={{../filteredStudentID}} {{#if (eq this.id ../filteredStudentID)}}selected{{/if}}>{{this.name}}</option>
+                    {{/each}}
+                </select>
+            {{/if}}
+        </span>
+
+        <span class="student-usage-report-controls-date-range__container js-date-range__container"></span>
+    </div>
+</script>
+
+<script id="student-usage-report-graph-template" type="text/x-handlebars-template">
+	<div id="student-usage-report-graph-container" class="student-usage-report-graph__container"></div>
+</script>
+
+<script id="student-usage-report-table-date-row-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row js-toggle-student-activity-list {{#unless isFiltered}}nested-list__item-row--expandable{{/unless}}">
+        <div class="nested-list__item-column nested-list__item-column--toggle">
+            {{#unless isFiltered}}
+                <i class="fa fa-caret-right"></i>
+            {{/unless}}
+        </div>
+
+		<div class="nested-list__item-column nested-list__item-column--day">{{day}}</div>
+		<div class="nested-list__item-column nested-list__item-column--at-home">{{atHome}}</div>
+		<div class="nested-list__item-column nested-list__item-column--at-school">{{atSchool}}</div>
+		<div class="nested-list__item-column nested-list__item-column--total">{{total}}</div>
+	</div>
+	<div class="js-togglable-area js-students-list" style="display:none;"></div>
+</script>
+
+<script id="student-usage-report-table-student-row-template" type="text/x-handlebars-template">
+	<div class="nested-list__item-row">
+		<div class="nested-list__item-column nested-list__item-column--toggle"></div>
+		<div class="nested-list__item-column nested-list__item-column--name">{{name}}</div>
+		<div class="nested-list__item-column nested-list__item-column--at-home">{{atHome}}</div>
+		<div class="nested-list__item-column nested-list__item-column--at-school">{{atSchool}}</div>
+		<div class="nested-list__item-column nested-list__item-column--total">{{total}}</div>
+	</div>
+</script>
+
+<script id="student-usage-report-table-template" type="text/x-handlebars-template">
+	<div class="report student-usage-report-table__container">
+		<div class="nested-list__row-header">
+			<div class="nested-list__item-column nested-list__item-column--spacer-5"></div>
+			<div class="nested-list__item-column nested-list__item-column--spacer-25"></div>
+			<div class="nested-list__item-column nested-list__item-column--header">HOME</div>
+			<div class="nested-list__item-column nested-list__item-column--header">SCHOOL</div>
+			<div class="nested-list__item-column nested-list__item-column--header nested-list__item-column--header-total">TOTAL</div>
+		</div>
+	</div>
+</script>
+
+<script id="sub-navigation-template" type="text/x-handlebars-template">
+	<ul class="sub-nav__menu">
+		{{#unless hidden.jobs}}<li class="sub-nav__menu-item"><a href="/jobs/" target="_blank">Jobs</a></li>{{/unless}}
+		{{#unless hidden.blog}}<li class="sub-nav__menu-item"><a href="https://www.prodigygame.com/blog/" target="_blank">Blog</a></li>{{/unless}}
+		{{#unless hidden.privacyPolicy}}<li class="sub-nav__menu-item"><a href="/privacy-policy/" target="_blank">Privacy Policy</a></li>{{/unless}}
+		{{#unless hidden.termsAndServices}}<li class="sub-nav__menu-item"><a href="/terms-conditions/" target="_blank">Terms &amp; Conditions</a></li>{{/unless}}
+	</ul>
+
+	{{#unless hidden.copyRight}}
+		<div class="sub-nav__copyright">
+			<span>&copy; {{currentYear}} Prodigy</span>
+		</div>
+	{{/unless}}
+</script>
+<script id="subnavigation-template" type="text/x-handlebars-template">
+	<ul class="subnavigation__list"></ul>
+	<select class="subnavigation__dropdown"></select>
+</script>
+
+<script id="subnavigation-item-list-item-template" type="text/x-handlebars-template">
+	{{! This template represents a subnavigation list item in the above subnavigation__list. }}
+	<li class="subnavigation__list-item" data-key="{{key}}">{{label}}</li>
+</script>
+
+<script id="subnavigation-item-dropdown-item-template" type="text/x-handlebars-template">
+	{{! This template represents a subnavigation dropdown item in the above subnavigation__dropdown. }}
+	<option class="subnavigation__dropdown-item" data-key="{{key}}" value="{{key}}">{{label}}</option>
+</script>
+
 <script id="toast-template" type="text/x-handlebars-template">
 	<div class="toast__inner">
 		<div class="toast__content cell">{{{content}}}</div> 
 		<div class="cell"><i class="js-toast-close toast__close-btn fa fa-times"></i></div>
 	</div>
 </script>
-<script id="tooltip-template" type="text/x-handlebars-template">
-	{{#if heading}}
-		<div class='tooltip__heading'>{{heading}}</div>
-	{{/if}}
-
-	<div class='tooltip__content'>{{{content}}}</div>
-</script>
-
-
-
 <script id="topic-select-template" type="text/x-handlebars-template">
 	<div class="topic-select__inner {{#if selectedTopic}}topic-select--selected{{/if}}">
 
@@ -1623,7 +2855,7 @@ e.parentNode.insertBefore(n, e);
 					</div>
 
 					<div class="js-skill-sample topic-select__skill-sample topic-select__skill-sample--hidden">
-						<p class="topic-select__skill-sample-title">Example:</p>
+						{{!-- <p class="topic-select__skill-sample-title">Example:</p> --}}
 						<div id="sample-skill-{{data.ID}}" class="js-skill-sample-inner context" style="width=100%; height: 100%;"></div>
 					</div>
 				</li>
@@ -1631,233 +2863,273 @@ e.parentNode.insertBefore(n, e);
 		</ul>
 	</div>
 </script>
-<script id="tutorial-step-welcome-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-section text-center">		
-			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Prodigy isn't just an engaging math game. It's an adaptive math tool that <strong>makes your life easier</strong> in the classroom!</span></p>
 
-			<div class="row-lg">
-				<img src="/assets/images/svg/ed/ed-raised-hand.svg" alt="Ed the green monster point up." style="max-width: 225px; margin-left: -2%;">
-			</div>
+<script id="topic-select-minimal-template" type="text/x-handlebars-template">
+	<div class="topic-select__inner {{#if selectedTopic}}topic-select--selected{{/if}}">
+		<label id="create-plan-curriculum-select-label">Topic</label>
 
-			<button class="js-tutorial-start js-tutorial-next-step btn btn--primary btn--feature">See How</button>
+		<div class="topic-select__search">
+			{{#if selectedTopic}}
+				<input class="js-topic-search topic-select__search-input topic-select__text" type="text" placeholder="No topic" readonly="true" value="{{selectedTopic.topicName}}">
+				<i class="js-reset-topic-selection topic-select__search-icon fa fa-times-circle clickable"></i>
+			{{else}}
+				<input class="js-topic-search topic-select__search-input" autofocus="true" type="text" placeholder="No topic">
+				<i class="topic-select__search-icon fa fa-search"></i>
+			{{/if}}
+
+			<div class="topic-select__filter-wrapper"></div>
 		</div>
 	</div>
 </script>
 
+<!-- new teacher tutorial -->
+
+<script id="tutorial-step-welcome-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-step tutorial-step--welcome">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
+			</div>
+
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Welcome to Prodigy!</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">You're about to see just how excited your students can get about math! We can't wait for you to get started.</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">First, select your curriculum below.</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
+			</div>
+
+			<div class="tutorial-step__row">
+				<button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script id="tutorial-step-create-class-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-step tutorial-step--create-class">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
+			</div>
+
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Let’s create your first class</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">Organizing your students into classes makes viewing reports and aligning Prodigy simple! </p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="js-edit-class-container tutorial-step__create-class-container"></div>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__actions">
+					<button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script id="tutorial-step-create-plan-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-step tutorial-step--create-plan">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/ed/ed-calendar-point.svg" class="tutorial-step__image tutorial-step__image--ed-calendar-point" alt="Ed references a calendar.">
+			</div>
+
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">What topic should your students start on?</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">As they answer questions, Prodigy will adapt and progress them through the curriculum at their own pace!</p>
+
+			</div>
+
+			<div class="tutorial-step__row">
+				<form class="js-create-plan-form tutorial-step__create-plan-form">
+					<div class="create-plan-form__topic-select-wrapper">
+						<div class="js-create-plan-form-topic-select"></div>
+					</div>
+
+					<button class="js-create-plan-step-submit btn btn--blue btn--block" type="button">Align Prodigy</button>
+					<a class="js-tutorial-next-step tutorial-step__skip">Skip this step</a>
+				</form>
+			</div>
+		</div>
+	</div>
+</script>
 
 <script id="tutorial-step-location-template" type="text/x-handlebars-template">
 	<div class="app-section">
-		<div class="tutorial-section">
-			<p class="row-lg row-collapse-b text-size-4 text-height-md text-center"><span class="text-scales">{{{locationStepTitle}}}</span></p>
+		<div class="tutorial-step tutorial-step--location">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/school.svg" class="tutorial-step__image tutorial-step__image--school" alt="An empty classroom.">
+			</div>
 
-			<div class="row-sm">
-				<div id="tutorial-search-container" class="tutorial__search-container">
-					<p class="text-size-5">Join your school:</p>
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Connect to your school</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">Join the other teachers in your school and receive prioritized help from our support staff!</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__location-select-wrapper">
+					<label class="tutorial-step__location-select-label">Your school</label>
+					<div class="location-select js-location-select"></div>
+				</div>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__actions">
+					<button class="btn btn--blue btn--block js-location-select-submit" type="text">Set your school</button>
+					<!-- <a class="js-tutorial-next-step tutorial-step__skip">Skip this step</a> -->
 				</div>
 			</div>
 		</div>
 	</div>
 </script>
 
-<script id="tutorial-step-reports-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-section text-center">
+<!-- multiple classes migration tutorial -->
 
-			{{#if isParent}}
-				<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Our reports highlight where <strong>your child is excelling</strong>, and where they need additional support:</span></p>
-			{{else}}
-				<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Our reports highlight where <strong>your students are excelling</strong>, and where they need additional support:</span></p>
-			{{/if}}
-	
-			<div style="position: relative;" class="row-md">
-				<img class="js-struggling-skills-tooltip tutorial__svg-tooltip gone" src="/assets/images/svg/page/tutorial/struggling-tooltip.svg">
-				<img src="/assets/images/svg/page/tutorial/struggling-widget.svg" style="max-height:400px;">
+<script id="tutorial-step-multiple-classes-migration-welcome-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--welcome">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
 			</div>
 
-			<button class="js-tutorial-next-step btn btn--primary btn--feature">Next</button>
-		</div>
-	</div>
-</script>
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Welcome back to Prodigy!</h1>
+			</div>
 
-<script id="tutorial-step-align-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-section text-center">
-			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">You can also <strong>align Prodigy</strong> with the topics you are teaching in the classroom in just a few&nbsp;clicks!</p>
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">We've made some changes while you were away. You are now able to group students into <strong>multiple classes</strong>, so you can keep your reports and tools organized!</p>
+			</div>
 
-			<div class="row-sm">
-				<div class="js-topic-select-container text-left tutorial-step__topic-container"></div>
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__actions">
+					<button class="js-tutorial-next-step btn btn--blue btn--block">Take a quick look!</button>
+				</div>
 			</div>
 		</div>
 	</div>
 </script>
-<script id="tutorial-step-curriculum-template" type="text/x-handlebars-template">
+
+<script id="tutorial-step-multiple-classes-migration-review-class-template" type="text/x-handlebars-template">
 	<div class="app-section">
-		<div class="tutorial-section text-center">
-			<p class="row-lg row-collapse-b text-size-4 text-height-md text-center"><span class="text-scales">Prodigy <strong>automatically adapts</strong> for each student and progresses them through your curriculum at their own&nbsp;pace!</span></p>
-			<div id="tutorial-curriculum-container" class="row-sm">
-				
+		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--review-class">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
+			</div>
+
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Are these still your students?</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">If they are, we can add them to your first class. If not, we can remove them from your list and start with a new class.</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="multiple-classes-tutorial-step__students-list-wrapper">
+					<ul class="multiple-classes-tutorial-step__students-list js-students-list"></ul>
+				</div>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__actions">
+					<button class="js-actions-continue btn btn--white btn--block">Continue with these students</button>
+					<button class="js-actions-new-class btn btn--mariner btn--block">Start with a new class</button>
+				</div>
 			</div>
 		</div>
 	</div>
-
 </script>
 
-
-<!-- PARENT TUTORIALS -->
-
-
-<script id="tutorial-step-parent-welcome-template" type="text/x-handlebars-template">
+<script id="tutorial-step-multiple-classes-migration-update-class-template" type="text/x-handlebars-template">
 	<div class="app-section">
-		<div class="tutorial-section text-center">		
-			<p class="row-lg row-collapse-b text-size-4 text-height-md"><span class="text-scales">Prodigy isn't your typical math game. It's been designed to <strong>maximize engagement, learning, and confidence</strong> with math!</span></p>
-
-			<div class="row-lg">
-				<img src="/assets/images/svg/ed/ed-raised-hand.svg" alt="Ed the green monster point up." style="max-width: 225px; margin-left: -2%;">
+		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--update-class">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
 			</div>
 
-			<button class="js-tutorial-start js-tutorial-next-step btn btn--primary btn--feature">Get Started</button>
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Finalize your class!</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">Give your class a grade and a unique name to distinguish it from your other classes!</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="js-edit-class-container tutorial-step__edit-class-container"></div>
+			</div>
+
+			<div class="tutorial-step__row">
+				<div class="tutorial-step__actions">
+					<button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
+				</div>
+			</div>
 		</div>
 	</div>
+</script>
+
+<!-- new parent tutorial -->
+
+<script id="new-parent-welcome-tutorial-step-template" type="text/x-handlebars-template">
+	<div class="app-section">
+		<div class="tutorial-step tutorial-step--welcome">
+			<div class="tutorial-step__row">
+				<img src="/assets/images/svg/ed/ed-parent.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
+			</div>
+
+			<div class="tutorial-step__row">
+				<h1 class="tutorial-step__header">Parents, Welcome to Prodigy!</h1>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">Prodigy isn't your typical math game. It's been designed to maximize <strong>engagement</strong>, <strong>learning</strong>, and <strong>confidence</strong> with math!</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<p class="tutorial-step__lead">First, select your location below.</p>
+			</div>
+
+			<div class="tutorial-step__row">
+				<form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
+			</div>
+
+			<div class="tutorial-step__row">
+				<button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
+			</div>
+		</div>
+	</div>
+</script>
+
+<script id="account-settings-template" type="text/x-handlebars-template">
+	<div id="account-settings__subnavigation"></div>
+	<div id="account-settings__section"></div>
 </script>
 
 <script id="app-page-base-template" type="text/x-handlebars-template">
-	<nav id="main-app-nav" class="app-nav">
-		<ul>
-			<li class="app-nav__item hide-md-down">
-				<a href="/dashboard/"><img src="/assets/images/icons/nav/@1x/sidenav-ed@1x.png" alt="Ed, Prodigy's little furry, green monster."></a>
-			</li>	
-
-			{{#each appNav}}
-				<li id="{{id}}" class="app-nav__item {{extraClasses}}">
-					<a href="{{href}}" target="{{target}}">
-						<div class="app-nav__item__contents">
-							<img src="{{imgSrc}}" alt="{{imgAlt}}">	
-							<p class="app-nav__item__label">{{label}}</p>
-						</div>
-					</a>
-
-					{{#if hasTooltip}}
-						<div class="app-nav__item__tooltip">
-							<i class="js-nav-tooltip-close dialog__close-icon fa fa-times"></i>
-							<h1 class="app-nav__item__tooltip__title">{{tooltipTitle}}</h1>
-							<p class="app-nav__item__tooltip__content">{{tooltipContent}}</p>
-
-							<div>
-								<img class="app-nav__item__tooltip__img" src="/assets/images/ed/pointing-ed.png" alt="Prodigy's mascot Ed, pointing up over head.">
-								<a class="js-video-btn btn btn-primary app-nav__item__tooltip__btn" href="{{tooltipVideoUrl}}">Watch a short video</a>
-							</div>
-						</div>
-					{{/if}}
-				</li>
-			{{/each}}
-
-			<li class="js-app-nav-dropdown app-nav__item hide-md-up">
-				<div class="app-nav__item__contents">
-					<i class="js-app-page-menu-toggle menu-toggle"><p class="app-nav__item__label">Menu</p></i>						
-				</div>
-			</li>	
-		</ul>
-	</nav>
-
-	<div class="app-page__wrapper">
-		<div class="app-page__header"></div>
-
+	<div class="app-page__wrapper {{#if hasPageNav}}app-page__wrapper--left-pad{{/if}}">
 		<div class="app-page__main"></div>
 	</div>
-</script>
-
-
-
-<script id="app-sub-menu-template" type="text/x-handlebars-template">
-	<div class="js-app-page__sub-menu app-page__main-sub-menu">
-		<div class="app-page__main-sub-menu__header">
-			<h1 class="h5">Menu</h1>
-		</div>
-		<ul class="app-page__main-sub-menu__list">
-			{{#unless hiddenOptions.classCode}}
-				<li class="app-page__menu__item">
-					<a href="/Actions/getClassCodePDF.php?classCode={{classCode}}" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
-						Class Code: <span class="text-primary--light spacing--left">{{classCode}}</span>
-					</a>
-				</li>		
-			{{/unless}}
-
-			<li class="app-page__menu__item"><a class="app-page__link" href="/dashboard#students/">Students</a></li>
-			<li class="app-page__menu__item"><a class="app-page__link" href="/assignments">Assignments</a></li>
-			<li class="app-page__menu__item"><a class="app-page__link" href="http://prodigygame.vanillacommunity.com/" target="_blank">Community</a></li>
-			<li class="app-page__menu__item"><a class="app-page__link" href="/resources/" taret="_blank">Resources</a></li>
-
-		</ul>
-
-		<ul class="app-page__main-sub-menu__list">
-			{{#unless hiddenOptions.help}}
-				<li class="js-app-hint app-page__menu__item app-page__link">
-					<span class="hide-md-up spacing--right">Help</span> <i class="text-primary--light hide-md-down fa fa-question"></i>
-				</li>			
-			{{/unless}}
-
-			<li class="app-page__menu__item"><a class="app-page__link" href="/play/">Play Prodigy</a></li>
-			<li class="app-page__menu__item"><a class="app-page__link" href="/support/">Support</a></li>
-			<li class="app-page__menu__item"><a class="app-page__link" href="/licenses/">Membership</a></li>
-
-			{{#unless hiddenOptions.account}}	
-				<li class="app-page__menu__item"><a class="app-page__link" href="/account/">Account</a></li>
-				<li class="app-page__menu__item"><span class="app-page__link" onclick="sw.user.logout()">Logout</span></li>						
-			{{/unless}}
-		</ul>
-	</div>
-</script>
-
-<script id="app-page-base-header-template" type="text/x-handlebars-template">
-	{{#unless hiddenOptions.appNav}}
-		<div class="app-page__header__section--left">
-			{{#if page.rootTitle.length}}<a class="js-breadcrumb-link app-page__breadcrumb-link" href="/dashboard/#/{{page.rootRouterName}}">{{page.rootTitle}}</a> <i class="spacing--both fa fa-chevron-right"></i> {{/if}}<span class="text-primary--light">{{page.title}}</span>
-		</div>
-
-		<div class="app-page__header__section--right">		
-			<ul class="app-page__menu">
-				{{#unless hiddenOptions.classCode}}
-					<li class="app-page__menu__item hide-md-down">
-						<a href="/Actions/getClassCodePDF.php?classCode={{classCode}}" class='app-page__link' target="_blank" title="View instructions on how to use your class code">
-							Class Code: <span class="text-primary--light spacing--left">{{classCode}}</span>
-						</a>
-					</li>		
-				{{/unless}}
-
-				{{#unless hiddenOptions.membership}}
-					<li class="app-page__menu__item hide-md-down">
-						<a class="app-page__link" href="/membership/" target="_blank">Membership</a>
-					</li>
-				{{/unless}}
-
-				{{#unless hiddenOptions.account}}
-					<li class="app-page__menu__item hide-md-down">
-						<span class="js-app-page-toggle-sub-menu hide-md-down app-page__link">{{user.name}} <i class="text-primary--light spacing--left text-bold fa fa-angle-down"></i></span>
-						<ul class="js-app-page-sub-menu app-page_sub-menu">
-							<li><a class="app-page__menu__item app-page__link" href="/play/">Play Prodigy</a></li>
-							<li><a class="app-page__menu__item app-page__link" href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Support</a></li>
-							<li><a class="app-page__menu__item app-page__link" href="/licenses/">Memberships</a></li>
-							<li><a class="app-page__menu__item app-page__link" href="/account/">Account</a></li>
-							<li class="app-page__menu__item app-page__link" onclick="sw.user.logout()">Logout</li>
-						</ul>
-					</li>							
-				{{/unless}}
-
-				{{#unless hiddenOptions.notifications}}
-					<li class="app-page__menu__item--notifications app-page__link">
-						<div class="js-notifications-container"></div>
-					</li>	
-				{{/unless}}
-
-				{{#unless hiddenOptions.help}}
-					<li class="js-app-hint app-page__menu__item app-page__link hide-md-down">
-						<i class="text-primary--light fa fa-question"></i>
-					</li>			
-				{{/unless}}
-			</ul>
-		</div>
-	{{/unless}}
 </script>
 
 <script id="app-page-error-template" type="text/x-handlebars-template">
@@ -1895,55 +3167,55 @@ e.parentNode.insertBefore(n, e);
 	{{#if isParent}}
 		<h1 class="app-section text-center text-bold">Engage your child with math in 3 simple&nbsp;steps.</h1>
 	{{else}}
-		<h1 class="app-section text-center text-bold">Get your class started in just 2&nbsp;minutes.</h1>
-		<h4 class="app-section text-center text-light">It&#39;s so easy, over 25,000 students get started with Prodigy every day!</h4>
+		<h1 class="app-section text-center text-bold">Your class is ready to play Prodigy!</h1>
+		<h4 class="app-section text-center text-light">Just follow these three simple steps and get started in minutes!</h4>
 	{{/if}}
 	
 	<div class="{{#if isParent}}row-display-xs row-collapse-t{{/if}} dash-block-group dash-block-group--3">
-		<div class="tutorial-step dash-block">
-			<div class="tutorial-step__inner dash-block__inner">
-				<div class="tutorial-step__content dash-block__content">
-					<img class="tutorial-step__step-icon" src="/assets/images/svg/step1.svg" alt="">
-					<div class="tutorial-step__img-wrapper">
-						<img class="tutorial-step__img" src="/assets/images/badges/small/browser.png" alt="">
+		<div class="dashboard-tutorial-step dash-block">
+			<div class="dashboard-tutorial-step__inner dash-block__inner">
+				<div class="dashboard-tutorial-step__content dash-block__content">
+					<img class="dashboard-tutorial-step__step-icon" src="/assets/images/svg/step1.svg" alt="">
+					<div class="dashboard-tutorial-step__img-wrapper">
+						<img class="dashboard-tutorial-step__img" src="/assets/images/badges/small/browser.png" alt="">
 					</div>
 
 					{{#if isParent}}
-						<p class="tutorial-step__desc">To play Prodigy, have your child visit <span class="text-bold">prodigygame.com/play</span>.</p>										
+						<p class="dashboard-tutorial-step__desc">To play Prodigy, have your child visit <span class="text-bold">prodigygame.com/play</span>.</p>
 					{{else}}
-						<p class="tutorial-step__desc">Get your students to visit <span class="text-bold">prodigygame.com/play</span>.</p>					
+						<p class="dashboard-tutorial-step__desc">Get your students to visit <span class="text-bold">prodigygame.com/play</span>.</p>
 					{{/if}}
 				</div>
 			</div>
 		</div>
-		<div class="tutorial-step dash-block">
-			<div class="tutorial-step__inner dash-block__inner">
-				<div class="tutorial-step__content dash-block__content">
-					<img class="tutorial-step__step-icon" src="/assets/images/svg/step2.svg" alt="">
-					<div class="tutorial-step__img-wrapper">
-						<img class="tutorial-step__img" src="/assets/images/badges/small/chalk-board.png" alt="">
+		<div class="dashboard-tutorial-step dash-block">
+			<div class="dashboard-tutorial-step__inner dash-block__inner">
+				<div class="dashboard-tutorial-step__content dash-block__content">
+					<img class="dashboard-tutorial-step__step-icon" src="/assets/images/svg/step2.svg" alt="">
+					<div class="dashboard-tutorial-step__img-wrapper">
+						<img class="dashboard-tutorial-step__img" src="/assets/images/badges/small/chalk-board.png" alt="">
 					</div>
 
 					{{#if isParent}}
-						<p class="tutorial-step__desc">As they play, we&#39;ll move them through the curriculum at <span class="text-bold">their own&nbsp;pace</span>.</p>
+						<p class="dashboard-tutorial-step__desc">As they play, we&#39;ll move them through the curriculum at <span class="text-bold">their own&nbsp;pace</span>.</p>
 					{{else}}
-						<p class="tutorial-step__desc">Have them select <span class="text-bold">New Student</span>, and enter your class code:&nbsp;<span class="text-bold">{{classCode}}</span>.</p>
+						<p class="dashboard-tutorial-step__desc">Have them select <span class="text-bold">New Student</span>, and enter your class code:&nbsp;<span class="text-bold">{{classCode}}</span>.</p>
 					{{/if}}
 				</div>
 			</div>
 		</div>
-		<div class="tutorial-step dash-block">
-			<div class="tutorial-step__inner dash-block__inner">
-				<div class="tutorial-step__content dash-block__content">
-					<img class="tutorial-step__step-icon" src="/assets/images/svg/step3.svg" alt="">
-					<div class="tutorial-step__img-wrapper">
-						<img class="tutorial-step__img" src="/assets/images/badges/small/castle.png" alt="">
+		<div class="dashboard-tutorial-step dash-block">
+			<div class="dashboard-tutorial-step__inner dash-block__inner">
+				<div class="dashboard-tutorial-step__content dash-block__content">
+					<img class="dashboard-tutorial-step__step-icon" src="/assets/images/svg/step3.svg" alt="">
+					<div class="dashboard-tutorial-step__img-wrapper">
+						<img class="dashboard-tutorial-step__img" src="/assets/images/badges/small/castle.png" alt="">
 					</div>
 
 					{{#if isParent}}
-						<p class="tutorial-step__desc"><span class="text-bold">Add your child to your account</span> to view their math progress and trouble&nbsp;spots.</p>
+						<p class="dashboard-tutorial-step__desc"><span class="text-bold">Add your child to your account</span> to view their math progress and trouble&nbsp;spots.</p>
 					{{else}}
-						<p class="tutorial-step__desc">They create their own character, and are ready to <span class="text-bold">start&nbsp;playing!</span></p>
+						<p class="dashboard-tutorial-step__desc">They'll create a character, and can <span class="text-bold">start&nbsp;playing!</span></p>
 					{{/if}}
 				</div>
 			</div>
@@ -1959,7 +3231,7 @@ e.parentNode.insertBefore(n, e);
 	{{#unless isParent}}
 		<div class="app-section btn-group text-center" style="margin-top: 33px; margin-bottom: 66px;">
 			<a class="js-intro-tutorial-print btn btn--primary btn--md tutorial__btn-pair" href="/actions/getClassCodePDF.php?classCode={{classCode}}"><i class="fa fa-print icon-inline--left"></i> Print instructions</a>
-			<a class="js-video-btn btn-ghost btn-ghost--primary btn-ghost--md tutorial__btn-pair" href="//fast.wistia.net/embed/iframe/67v23w4gco?autoPlay=true"><i class="fa fa-play-circle icon-inline--left"></i> See Prodigy in action</a>
+			<a class="btn-ghost btn-ghost--primary btn-ghost--md tutorial__btn-pair" href="/dashboard/#students"><i class="fa fa-user-plus icon-inline--left"></i> Add students manually</a>
 		</div>
 	{{/unless}}
 
@@ -1969,8 +3241,22 @@ e.parentNode.insertBefore(n, e);
 		<div class="js-qa-container-2 dash-question-column"></div>
 	</div>
 </script>
+
 <script id="influencer-page-template" type="text/x-handlebars-template">
 </script>
+<script id="memberships-page-template" type="text/x-handlebars-template">
+	<div class="memberships-page__header clearfix">
+		<a href="/membership/" target="_blank" class="memberships-page__header-btn btn btn--white btn--md btn--block">
+			<i class="fa fa-plus" aria-hidden="true"></i>
+			&nbsp; Add new Membership
+		</a>
+	</div>
+	<div class="js-memberships-container"></div>
+</script>
+
+<script id="not-logged-in-page-template" type="text/x-handlebars-template">
+</script>
+
 <script id="planner-dialog-template" type="text/x-handlebars-template">
 	<div class="col-row">
 		<div class="col col--4of12 cell-md">
@@ -1979,17 +3265,70 @@ e.parentNode.insertBefore(n, e);
 
 		<div class="col col--8of12 cell-md">
 			<div class="dialog__title">The Planner Tool</div>
-			<p>This tool allows you to customize the math topics your students encounter while playing Prodigy. It is a great way to align the game with what you are teaching in class!</p>
+            {{#if isParent}}
+                <p>This tool allows you to customize the math topics your child will encounter while playing Prodigy. It is a great way to give them extra practice on specific skills!</p>
+            {{else}}
+                <p>This tool allows you to customize the math topics your students encounter while playing Prodigy. It is a great way to align the game with what you are teaching in class!</p>
+            {{/if}}
 		</div>
+	</div>
+</script>
+
+<script id="assignment-notice-dialog-template" type="text/x-handlebars-template">
+	<div class="col-row">
+		<div class="col col--4of12 cell-md">
+			<img class="center row-sm" src="/assets/images/svg/ed/ed-calendar.svg" width="220px" alt="Ed, peeking over a calendar.">
+		</div>
+
+		<div class="col col--8of12 cell-md">
+			<div class="dialog__title">Assignments have moved!</div>
+			<p>We've integrated assignments <strong>into the planner</strong> so you can easily manage them in one spot!</p>
+			<p>With these changes, you can now:</p>
+			<ol class="ol--circled">
+				<li>Schedule assignments in relation to plans</li>
+				<li>Fully edit existing assignments</li>
+				<li>Switch between a calendar or list format</li>
+			</ol>
+		</div>
+	</div>
+</script>
+<script id="reports-page-template" type="text/x-handlebars-template">
+	
+	{{#if isAdmin}}
+		<div>
+			<div class="report-preview">
+				<div class="card__wrapper">					
+					<main class="card__main">
+						<h3 class="report-preview__title">Admin Report</h3>
+						<p class="report-preview__description text-light">An overview of your school or district's usage.</p>
+						<a href="/reporting/board" target="_blank" class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
+					</main>
+				</div>
+			</div>
+		</div>
+
+		<hr class="app-page__hr">
+	{{/if}}
+
+	<div class="reports-preview__container">
+		{{#each reports}}
+			<div class="report-preview">
+				<div class="card__wrapper">					
+					<main class="card__main">
+						<h3 class="report-preview__title">{{name}}</h3>
+						<p class="report-preview__description text-light">{{description}}</p>
+						<a href="{{url}}" {{#if target}}target="{{target}}"{{/if}} class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
+					</main>
+				</div>
+			</div>
+		{{/each}}
 	</div>
 </script>
 <script id="students-page-template" type="text/x-handlebars-template">
 	<div class="students-page__header">
 		<div class="students-page__header-details">
 			<h1 class="students-page__header-title"><span class="text-middle">{{name}} {{#if curriculum.name}}- {{curriculum.name}}{{/if}}</span> <i class="js-edit-class students-page__edit-icon fa fa-pencil text-middle"></i></h1>
-			{{#unless isParent}}
-				<p class="students-page__header-classcode">Class Code: <span class="text-blue">{{classCode}}</span></p>
-			{{/unless}}
+			<p class="students-page__header-classcode">Class Code: <span class="text-blue">{{classCode}}</span></p>
 		</div>
 		<div class="students-page__header-buttons">
 			{{#if students}}
@@ -2004,26 +3343,46 @@ e.parentNode.insertBefore(n, e);
 				{{/if}}
 			{{/if}}
 
-			{{!--  <button class="js-share-class btn btn--alabaster text-bold">Share Class</button> --}}
+			{{!-- <button class="js-share-class btn btn--alabaster text-bold">Share Class</button> --}}
 		</div>
 	</div>
 
-	<div class="students-page__main">
-		{{#if students}}
-			<div class="students-page__student-actions">
-				<button class="js-add-students btn btn--blue text-bold">Add Students</button>
-				{{!-- <button class="js-move-students btn btn--alabaster text-bold">Move Students</button> --}}
-				<button class="js-remove-students btn btn--alabaster text-bold">Remove Students</button>
-				<button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>								
-			</div>
-			<div class="js-student-container students-page__students-wrapper clearfix"></div>
-		{{else}}
-			<div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
-				<p class="text-bold">You don't have any students in your class yet!</p>
-				<button class="js-add-students btn btn--blue btn--max-sm">Add Students</button>
-			</div>		
-		{{/if}}
-	</div>
+    {{#if feature.parentCopy}}
+        <div class="students-page__main">
+            {{#if students}}
+                <div class="students-page__student-actions">
+                    <button class="js-add-students btn btn--blue text-bold">Add Children</button>
+                    <button class="js-remove-students btn btn--alabaster text-bold">Remove Children</button>
+                    <button class="js-move-students btn btn--alabaster text-bold">Move Children</button>
+                    <button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>                               
+                </div>
+                <div class="js-student-container students-page__students-wrapper clearfix"></div>
+            {{else}}
+                <div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
+                    <p class="text-bold">You haven't added your children yet!</p>
+                    <button class="js-add-students btn btn--blue btn--max-sm">Add Children</button>
+                </div>      
+            {{/if}}
+        </div>
+    {{else}}
+    	<div class="students-page__main">
+    		{{#if students}}
+    			<div class="students-page__student-actions">
+    				<button class="js-add-students btn btn--blue text-bold">Add Students</button>
+    				<button class="js-remove-students btn btn--alabaster text-bold">Remove Students</button>
+    				<button class="js-move-students btn btn--alabaster text-bold">Move Students</button>
+    				<button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>								
+    			</div>
+    			<div class="js-student-container students-page__students-wrapper clearfix"></div>
+    		{{else}}
+    			<div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
+    				<p class="text-bold">You don't have any students in your class yet!</p>
+    				<button class="js-add-students btn btn--blue btn--max-sm">Add Students</button>
+    			</div>		
+    		{{/if}}
+    	</div>
+    {{/if}}
+
 </script>
 <script id="topic-report-base-template" type="text/x-handlebars-template">
 	<div id="topic-report-options-container"></div>
@@ -2142,6 +3501,16 @@ e.parentNode.insertBefore(n, e);
 			{{/each}}
 		</div>
 	</section>
+</script>
+<script id="app-footer-region-template" type="text/x-handlebars-template"></script>
+<script id="app-header-region-template" type="text/x-handlebars-template"></script>
+<script id="app-modal-region-template" type="text/x-handlebars-template"></script>
+<script id="app-page-region-template" type="text/x-handlebars-template"></script>
+<script id="app-root-region-template" type="text/x-handlebars-template">
+	<header id="app-header-region"></header>
+	<main id="app-page-region"></main>	
+	<footer id="app-footer-region"></footer>
+	<div id="app-modal-region"></div>
 </script>
 <script id="influence-leaderboard-card-content-template" type="text/x-handlebars-template">
 	<div class="card__inner-wrapper">
@@ -2387,7 +3756,7 @@ e.parentNode.insertBefore(n, e);
 	<div class="assignment-widget__create-wrapper">
 		<img class="assignment-widget__create-img" src="/assets/images/ed/@1x/ed-pointingclosed-grey@1x.png" alt="Ed pointing up and smiling.">
 		<p class="assignment-widget__create-content">Looks like you don&#39;t have any assignments!</p>
-		<a class="btn btn--primary btn--md" href="/assignments/create.php">Create an Assignment</a>
+		<a class="btn btn--primary btn--md" href="/dashboard/#planner">Create an Assignment</a>
 	</div>
 </script>
 <script id="grade-comparison-widget-empty-template" type="text/x-handlebars-template">
@@ -2473,7 +3842,11 @@ e.parentNode.insertBefore(n, e);
 </script>
 <script id="planner-widget-empty-template" type="text/x-handlebars-template">
 	<div class="text-center">
-		<h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy to your classroom!</h1>
+        {{#if isParent}}
+            <h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy for your children!</h1>
+        {{else}} 
+            <h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy to your classroom!</h1>
+        {{/if}}
 		<img class="img-max-w-md center row-md" src="{{imgSrc}}" alt="{{imgAlt}}">
 		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
 	</div>
@@ -2562,75 +3935,6 @@ e.parentNode.insertBefore(n, e);
 	</table>
 
 </script>
-<script id="assignment-creation-menu-error-template" type="text/x-handlebars-template">	
-	<h2 class="h3 slide-menu-title">Oops, this skill was not found.</h2>
-
-	<p class="slide-menu-subhead">Usually a skill cannot be opened due to a failed Internet connection. We suggest confirming your connection and trying again.</p> 
-
-	<p class="slide-menu-subhead">If the problem persist despite your connectivity, you can contact our support team at <a target="_blank" href="https://www.prodigygame.com/support/">www.prodigygame.com/support/</a></p>
-
-	<button class="js-update-skill-data btn btn-accent btn-lg">Try Again</button>		
-</script>
-<script id="assignment-creation-menu-template" type="text/x-handlebars-template">	
-	<h2 class="h3 slide-menu-title">{{name}}</h2>
-
-	<p class="slide-menu-subhead">{{description}}</p>
-
-	<div class='question-sample-title'>Sample Question:</div>
-	<hr class='question-sample-title-underline'/>
-	<div id='question-sample-image' class='question-sample-image'></div>
-
-	<form id="create-assignment-form">
-	  	<div id="customize-assignment-fields" style="display:none;">	
-
-	  		<div class="slide-menu-form-group">
-			    <label for="inputStartDate">Assignment Name: <span class="js-error-msg"></span></label>
-			    <input id="inputName" name="startDate" type="text">
-		  	</div><!-- .slide-menu-form-group -->
-
-			<div class="slide-menu-form-group">
-			    <label for="inputQuestions">Number of questions: <span class="js-error-msg"></span></label>
-
-			    <select id='inputQuestions' name="numerOfQuestions">
-			    {{#each numQuestions}}
-			    	<option value="{{this}}">{{this}}</option>
-			    {{/each}}
-			    </select>
-			   
-		  	</div><!-- .slide-menu-form-group -->	
-
-		  	<div class="slide-menu-form-group">
-			    <label for="inputAssignTo">Assign to: <span class="js-error-msg"></span></label>
-		    	<select id="inputAssignTo" name="selectedStudents">
-		    		<option selected="selected" value="all">All Students</option>
-		    		<option value="select">Select Students</option>{{!-- if this option is selected, show checkbox inputs --}}
-		    	</select>
-		  	</div><!-- .slide-menu-form-group -->	
-
-		  	<div class="slide-menu-form-group">
-			    <label for="inputStartDate">Start date: <span class="js-error-msg"></span></label>
-			    <input id="inputStartDate" name="startDate" type="text" readonly="true">
-		  	</div><!-- .slide-menu-form-group -->	
-
-		  	<div class="slide-menu-form-group">
-			    <label for="inputEndDate">End date: <span class="js-error-msg"></span></label>
-			    <input id="inputEndDate" name="endDate" type="text" readonly="true">
-		  	</div><!-- .slide-menu-form-group -->	
-		</div><!-- #customize-assignment-fields -->
-
-		<div class="slide-menu-form-group">
-	  		<button class="js-submit-assignment btn btn--accent btn--lg btn--block" type="submit">Create Assignment</button>	
-	  	</div><!-- .slide-menu-form-group -->				
-	</form>
-
-	<button id="customize-assignment-link" class="btn-ghost btn-ghost--primary btn-ghost--block" type='button'>Customize Assignment</button>
-
-	<ul class='slide-menu-details'>
-		<li class='slide-menu-details-item'><i class="fa fa-users slide-menu-details-icon"></i><span id="numOfStudents" class="text-capitalize">all students</span></li>
-		<li class='slide-menu-details-item'><i class="fa fa-list-ul slide-menu-details-icon"></i><span id="numOfQuestions">{{recommendedNumberOfQuestions}}</span> Questions</li>
-		<li class='slide-menu-details-item'><i class="fa fa-calendar slide-menu-details-icon"></i><span id="start-date">Today </span> to <span id="end-date"></span></li>
-	</ul>
-</script>
 
 	
 
@@ -2654,24 +3958,35 @@ e.parentNode.insertBefore(n, e);
 		<header id="main-header">
 			<nav id="main-nav" class="nav-page clearfix">
 				<a href="/" class="left">
-					<img class="menu-logo" alt="Prodigy Logo" src="/assets/images/logo/logo-banner.png">
+					<img class="menu-logo" alt="Prodigy Logo" src="/assets/images/svg/logo/logo-white.svg">
 				</a>
-				<ul class="menu">
-					<li class="menu-item"><a class="menu-item-link" href="/Membership/">Membership</a></li>
-					<li class="menu-item"><a class="menu-item-link" href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Support</a></li>
-					<li class="menu-item"><a class="menu-item-link" onclick="new LoginForm()">Login</a></li>
-					<li class="menu-item menu-item-play js-play-button"><a class="menu-item-link" href="/Play/">Play Prodigy</a></li>
-				</ul><!-- END of .menu -->
-			</nav><!-- END of #main-nav -->
-		</header><!-- END of #main-header -->
+			</nav>
+		</header>
 
 		<div class="logged-in-wrapper">		<div id="main-wrapper">
-		
-
-	
 
 
 
+ <style>
+ li {
+ 	list-style-type: initial;
+ }
+
+ a {
+ 	color:#4E97D5;
+ }
+
+ h2 {
+ 	padding-top:22px;
+ }
+ .list-indent {
+ 	margin-left:30px;
+ }
+
+ .ikeepsafe-badge {
+ 	height:200px;
+ }
+ </style>
 
 <div id="border-top"></div>
 <div id="terms-conditions" class="main-content">
@@ -2680,51 +3995,327 @@ e.parentNode.insertBefore(n, e);
 		<h1 class="title">Privacy Policy</h1>
 
 		<p>
-			SMARTeacher Inc. (“SMARTeacher”) is committed to protecting the privacy of our users and providing a safe environment for children to learn. This Privacy Policy outlines what information we collect and why, how this information is used, and what your options are regarding your personal information.
-		</p>
-		 
-
-		<h2 class="subtitle">1. Personally Identifiable Information collected</h2>
-
-		<p>
-			SMARTeacher collects information in a number of different ways in order to provide our completely personalized education experience. During registration, SMARTeacher will ask for your name, email address, and how you heard of our service. When purchasing a paid subscription, we will ask for your billing address and credit card information.
-
-			</p><p><strong>Please note:</strong> SMARTeacher does NOT store your credit card information. All transactions are processed using PayPal and Stripe.</p>
-
-			SMARTeacher does not knowingly collect personal information from children under the age of 13 without parental consent.
-
-			When using our products, SMARTeacher will automatically collect data regarding usage patterns. This information may include questions answered, time spent in-game, and other information regarding the choices made in-game or through our website. We use this information to personalize each child’s experience and provide information to parents and teacher’s regarding their usage.
-		<p></p>
-		 
-
-		<h2 class="subtitle">2. How information is used</h2>
-
-		<p>
-			The personal information that you provide allows us to provide our high-quality educational service. SMARTeacher may use data you’ve provided internally to refine our product or service offering. SMARTeacher may also share aggregated, anonymous data, such as overall performance improvements through the use of our products or services, with third-parties such as marketing agencies, advertisers, or potential investors. In the event that SMARTeacher sells some or all of its assets, customer information may be included in the sale. In such an event, the acquiring company would be required to protect your information in accordance with this Privacy Policy.
-		</p>
-		 
-
-		<h2 class="subtitle">3. Your options regarding personally-identifiable information</h2>
-
-		<p>
-			While the information collected by SMARTeacher is required for the use of our products and services, you may contact us as outlined in Section 5 to request changes to your personal information, or to request that it be deleted. Please note, that by deleting this information, our products or services will no longer function correctly and may therefore lead to the termination of the affected SMARTeacher accounts and/or memberships.
-		</p>
-		 
-
-		<h2 class="subtitle">4. Cookies</h2>
-
-		<p>
-			Cookies are small files that identify your browser when using our website. This allows us to save you time when returning to our site and anonymously track website usage to improve our services. These cookies may also be used to advertise to potential customers as they visit other websites. Cookies cannot store personally identifiable information about you from your computer. Should you choose to turn off cookies, some of our services may not function correctly.
-		</p>
-		 
-
-		<h2 class="subtitle">5. Additional information.</h2>
-
-		<p>
-			If you have any questions or comments about SMARTeacher’s policies, please contact us directly by emailing support@prodigygame.com. This Privacy Policy may be updated from time to time without notice.
+			In delivering on Prodigy's mission to foster a love of learning in children worldwide, we are committed to protecting the privacy of our users and providing a safe, online environment for students, educators, and parents to collaborate and advance learning.
 		</p>
 
-		<p>Updated: January 15, 2013</p>
+		<p>
+			This Privacy Policy outlines what information we collect and why we collect it, how this information is used and shared, and what your options are regarding your personal information (accessing, updating and deleting your information).
+		</p>
+
+		<img class="ikeepsafe-badge" src="/assets/images/privacy-policy/ikeepsafe.png">		
+		<p>
+			In our commitment to protect the privacy of children, Prodigy participates in the iKeepSafe Safe Harbor program. Prodigy has been granted the iKeepSafe Privacy California Student Badge, signifying that our products have been reviewed and approved for having policies and practices surrounding the collection, use, maintenance and disclosure of personal information from children consistent with each of the following program guidelines.
+		</p>
+
+		<ul class="list-default">
+			<li class="list-default">The Children's Online Privacy Protection Act <a href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule">(COPPA)</a></li>
+			<li>The Family Education Rights and Protection Act <a href="http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html">(FERPA)</a></li>
+			<li>The California Student Privacy Act <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB1177">(link)</a></li>
+				<li class="list-indent">Collection of Student Information from Social Media (California Education Code 49073.6 Pupil Records: Social Media)</li>
+				<li class="list-indent">California AB 1584 - Privacy of Pupil Records: 3rd-Party Digital Storage &amp; Education Software (California Education Code section 49073.1)</li>
+			<li>The Protection of Pupil Rights Amendment <a href="http://familypolicy.ed.gov/ppra">(PPRA)</a></li>
+			<li>The Student Online Personal Information Protection Act <a href="https://www.commonsensemedia.org/kids-action/our-issues/a-positive-media-and-technology-world/sopipa">(SOPIPA)</a></li>
+			<li>The Health Insurance Portability and Accountability Act <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/">(HIPAA)</a> of 1996</li>
+		</ul>
+
+		<p>This Privacy Policy applies to all products and services provided by SMARTeacher Inc. (hereinafter called "Prodigy", "we", "us", or "our").</p>
+
+		<p>Last Modified Date: November 22, 2016</p>
+
+		<h2 class="subtitle">Table of Contents</h2>
+		<ol>
+			<li><a href="#what-is-prodigy">What is Prodigy and who uses it?</a></li>
+			<li><a href="#what-does-prodigy-collect">What information does Prodigy collect and why?</a></li>
+			<li><a href="#how-does-prodigy-protect">How does Prodigy protect and secure my information?</a></li>
+			<li><a href="#what-student-info-is-visible">What student information is visible to others within Prodigy’s virtual world?</a></li>
+			<li><a href="#does-prodigy-share-data">Does Prodigy share data with third parties?</a></li>
+			<li><a href="#parental-choices">Parental Choices</a></li>
+			<li><a href="#automatically-collected-info">Automatically Collected Information</a></li>
+			<li><a href="#how-can-i-modify-information">How can I view, modify, or delete my information?</a></li>
+			<li><a href="#how-will-prodigy-notify-me">How will Prodigy notify me of changes to this Privacy Policy?</a></li>
+			<li><a href="#how-can-i-contact-prodigy">How can I contact Prodigy with privacy questions?</a></li>
+			<li><a href="#how-prodigy-maintains-ferpa"> How Prodigy maintains FERPA compliance</a></li>
+			<li><a href="#how-prodigy-maintains-coppa">How Prodigy maintains COPPA compliance</a></li>
+		</ol>
+
+
+		<h2 class="subtitle">Overview</h2>
+
+		<p>
+			Personally Identifiable Information (PII) is any information you provide to us that personally identifies you, like your name or email address, or other information which could be reasonably linked to such identifying information by us.  We will only collect, use, and share your personal information in accordance with this Privacy Policy.
+		</p>
+		 
+		<h2 id="what-is-prodigy" class="subtitle">1. What is Prodigy and who uses it?</h2>
+
+		<p>
+			Prodigy is an online math game and education platform that is used by millions of students, parents, and teachers across the world.
+		</p>
+		<p>
+			Students log in to Prodigy's online game to play and learn math.  Within Prodigy, students get to design their own wizard avatar and explore a massive online world.  They encounter monsters and engage in ‘math battles', where they must answer curriculum-aligned math questions in order to defeat their opponent.  As students play, Prodigy is constantly adapting the educational content that they encounter, so that each student advances through the curriculum and succeeds at their own pace.
+		</p>
+		<p>
+			Educators such as teachers and school/district administrators use Prodigy to engage and assess their students. While Prodigy is not intended to be used as a sole assessment tool, there are built-in features that simplify the assessment process through analyzing performance data that is aligned with the curriculum.  As students play, teachers are able to access real-time reports on how many questions their students are answering, which expectations/standards they've covered, and where they are having difficulty.  Teachers can also create custom ‘assignments' or ‘plans' to better align Prodigy to their lesson plan and assess students on specific topics or skills.
+		</p>
+		<p>
+
+			Parents use Prodigy to engage, assess, and allow their children an opportunity for differentiated math practice.  As children play, parents are able to access real-time reports on how many questions their child is answering, which expectations/standards they've covered, and where they are having difficulty.  Parents can also create custom ‘assignments' or ‘plans' to cater the math content that their child is working on in the game.
+		</p>
+
+		<h2 id="what-does-prodigy-collect" class="subtitle">2. What information does Prodigy collect and why?</h2>
+
+		<p>
+			Prodigy collects information in a number of different ways in order to provide a completely personalized education experience for each child, and to provide real-time reporting and assessment features to teachers and parents.
+		</p>
+
+		<p>
+			Prodigy has been certified by <a href="http://ikeepsafe.org/">iKeepSafe</a>, an FTC-approved COPPA Safe Harbor, for compliance with their COPPA Safe Harbor program. We do not ask for or require children to provide personal information beyond that which is reasonably necessary to use Prodigy. Information collected from students is never used or disclosed for third-party advertising or any kind of behaviorally-targeted advertising, and it is never sold or rented to anyone, including marketers or advertisers.
+		</p>
+
+		<h2 class="subtitle">If a student is registering to play Prodigy</h2>
+
+		<p>
+			Prodigy collects the minimum amount of information from students to allow for a personalized educational experience and to facilitate progress monitoring for parents and teachers.
+		</p>
+
+		<p>
+			There are two ways a student can be signed up for Prodigy: through their parent/teacher's account, or independently through the game.
+		</p>
+
+		<p>
+			When students are signed up for the game through a parent or teacher's account the parent/teacher is asked to enter the student's name (first name and last name or last initial), and Prodigy asks the student for:
+		</p>
+
+		<ul>
+			<li>A fictional avatar name that students can select from a pre-specified list of options (e.g. Billy Summerwalker)</li>
+			<li>Fictional avatar appearance</li>
+		</ul>
+
+		<p>
+			When students sign up directly through the game with a teacher's class code (an alphanumeric code that is unique to a teacher's account) or parent's email address, Prodigy asks for:
+		</p>
+
+		<ul>
+			<li>First name</li>
+			<li>Last name initial</li>
+			<li>Password</li>
+			<li>Location including State/Province and/or Country (e.g. Ontario, Other Canadian Province, Texas, Florida, Other US State, or Other Country)</li>
+			<li>Grade</li>
+			<li>Parent's email address</li>
+			<li>A fictional avatar name that students can select from a pre-specified list of options (e.g. Billy Summerwalker)</li>
+			<li>Fictional avatar appearance</li>
+		</ul>
+		 
+		 <p>Prodigy automatically generates a unique username based on the student's first name, last initial, and a number (e.g. AlexP57).  Since students are asked to only enter their initial for their last name (without a linked parent/teacher account), Prodigy does not have PII for these students.</p>
+
+		 <p>The student's name is used to identify that student to their parent or teacher so that they are able to effectively differentiate instruction.  The student's grade and location are used to place them in the most appropriate curriculum (e.g. Common Core Math Standards) and grade level.  The student's username and password are used to allow them to securely log in to Prodigy's game via Prodigy's website.  The student's fictional avatar name is used to display their avatar online to other players, while keeping their real name and identity hidden.  The student's parent's email address is used to inform parents that their child has registered for an account on Prodigy.</p>
+
+		 <p>As students play, Prodigy collects information on the game features they interact with, math skills they encounter, and questions they answer (hereinafter referred to as "Performance Data").  Prodigy uses a student's Performance Data to customize their educational experience, including finding an optimal path through Prodigy's math curriculum.</p>
+
+		 <p>Performance Data from one or more students may also be aggregated and used by Prodigy to improve Prodigy's educational algorithms.</p>
+
+		 <p>Select components of a student's Performance Data are reported back to a student's parent and/or teacher, in order to allow the parent/teacher to monitor the student's progress and customize the student's educational experience.</p>
+
+		 <p>In addition to the information entered by the student, Prodigy automatically collects some information from any use of our Service as set forth in the "Automatically Collected Information" section.</p>
+
+		 <p>If a student is signed up through a teacher account, the school remains in control of the student's Personally Identifiable Information.</p>
+
+		 <h2 class="subtitle">If a parent is registering to play Prodigy</h2>
+
+		 <p>When parents sign up for a free account on Prodigy, Prodigy asks for:</p>
+
+		 <ul>
+		 	<li>Full name</li>
+		 	<li>Email address</li>
+		 	<li>Password</li>
+		 	<li>Curriculum (e.g., Ontario Math Curriculum)</li>
+		 </ul>
+
+		 <p>A parent's name, email address, and password are used for identification purposes and to allow the parent to securely log in to Prodigy's parent dashboard.  Email addresses are also used to communicate important information about the parent's account via email.  A parent's choice of curriculum allows Prodigy to report progress against the most appropriate list of standards or expectations.</p>
+
+		 <p>Parents who sign up for a paid membership to Prodigy are asked for their child's username, child's password, credit card number, postal/zip code, card expiration date, and Card Verification Code (CVC), in addition to all of the information required for a free parent account (listed in the paragraph above).  This information is used by Prodigy to apply the appropriate charges to the parent's credit card, and to ensure that the membership is applied to the correct student account.  Prodigy does NOT directly store any credit card information - all credit card information and transactions are stored by our payment provider, <a href="https://stripe.com">Stripe</a>.  Please <a href="https://stripe.com/docs/security">click here</a> for more information about how Stripe secures customer information.</p>
+
+		 <p>In addition, Prodigy automatically collects some information from any use of our Service as set forth in the "Automatically Collected Information" section.</p>
+
+		 <h2 class="subtitle">If a teacher is registering to play Prodigy</h2>
+
+		 <p>When teachers sign up for a free account on Prodigy, Prodigy asks for:</p>
+		 <ul>
+		 	<li>Full name</li>
+		 	<li>Email address</li>
+		 	<li>Password</li>
+		 	<li>Grade</li>
+		 	<li>Curriculum (e.g. Common Core Math Standards)</li>
+		 	<li>District/board</li>
+		 	<li>School</li>
+		 </ul>
+
+		 <p>A teacher's name, email address, and password are used for identification purposes and to allow the teacher to securely log in to Prodigy's teacher dashboard.  Email addresses are also used to communicate important information about the teacher's account via email.  A teacher's choice of curriculum allows Prodigy to report progress against the most appropriate list of standards or expectations.</p>
+
+		 <p>In addition, Prodigy automatically collects some information from any use of our Service as set forth in the "Automatically Collected Information" section.</p>
+
+		 <h2 class="subtitle">School/District Administrators</h2>
+
+		 <p>Prodigy collects all of the information required for a free teacher account from school/district administrators, in addition to a list of the specific schools within the district that the administrator works with.  For security purposes, Prodigy also reserves the right to verify a school administrator's identity via email, telephone, or another method that we deem appropriate.</p>
+
+		 <h2 id="how-does-prodigy-protect" class="subtitle">3. How does Prodigy protect and secure my information?</h2>
+
+		 <p>Protecting your information is extremely important to us. In addition to annual staff training to ensure the security and confidentiality of student records,  we take several precautions to ensure that user information is secure:</p>
+
+		 <p><strong>Password protection</strong> - Secure passwords are the first line of defense for your student, parent, teacher, or school/district administrator account.  In order to prevent unauthorized access to your account, we recommend choosing a password that is memorable but hard to guess, and keeping your password confidential at all times.  Additional information on password safety is available on the <a href="http://www.getcybersafe.gc.ca/cnt/prtct-yrslf/prtctn-dntty/usng-psswrds-eng.aspx">Government of Canada's website</a>, the <a href="https://www.us-cert.gov/ncas/tips/ST04-002">US Department of Homeland Security's website</a>, and at <a href="http://www.connectsafely.org/tips-to-create-and-manage-strong-passwords/">ConnectSafely.org</a>.</p>
+
+		 <p><strong>SSL encryption</strong> - Prodigy protects any information transferred through our website by encrypting it with the Secure Socket Layer (SSL) protocol by default.  This makes it more difficult for malicious third parties to intercept your information.</p>
+
+		 <p><strong>Salted hashing</strong> - Passwords and other sensitive information are never stored in plain text, and are instead protected via salted hashes.</p>
+
+		 <p><strong>Independent service-level APIs</strong> - Students' PII is only available through a select few APIs.  This minimizes the impact of a potential breach of any individual API.</p>
+
+		 <p><strong>Database protection</strong> - Prodigy's databases are inaccessible to all IP addresses except for a pre-specified list of whitelisted IP addresses.  All databases are also password protected.</p>
+
+		 <p><strong>Periodic data review</strong> - Our team periodically reviews our data collection, storage, and processing policies and practices against leading industry standards to ensure that we are compliant.</p>
+
+		 <p>While we do our best to keep your data secure, Prodigy cannot guarantee the security of your data.  Several factors including, but not limited to, hardware/software failure, outages, human error, attacks, or unauthorized use may compromise the security of our users' information.  In the case of a data security breach, we will do our best to alert any affected users electronically via our website, the email account you have provided, and/or another medium that we deem appropriate, depending on the magnitude and severity of the breach.</p>
+
+		 <p>Prodigy maintains computerized data that includes personal information that Prodigy does not own.  Should a breach occur, Prodigy will notify the account owner of the breach of the security of the data immediately following discovery, if the personal information was, or is reasonably believed to have been, acquired by an unauthorized person. </p>
+
+		 <p>The security breach notification will be written in plain language and will be titled "Notice of Data Breach." The breach notification will include the following information:</p>
+
+		 <ul>
+		 	<li>What happened</li>
+		 	<li>What information was involved</li>
+		 	<li>What we are doing about the breach</li>
+		 	<li>What you can do</li>
+		 	<li>Contact information</li>
+		 </ul>
+
+		 <h2 id="what-student-info-is-visible" class="subtitle">4. What student information is visible to others within Prodigy's virtual world?</h2>
+
+		 <p>Since Prodigy is an online multiplayer game, students are able to interact with other players within our virtual world.  However, we do take several precautions to ensure that any Personally Identifiable Information (PII) is only visible to an authorized parent and/or teacher within their password-protected Prodigy account, and is not available to the public or other players within Prodigy's virtual world.</p>
+
+		 <p>Information that is visible to other players within Prodigy's virtual world includes:</p>
+
+		 <p><strong>Avatar names</strong> - Students get to choose a name for their wizard avatar from a pre-specified list (e.g. Alex Fairydancer).  This avatar name is displayed to others in the Prodigy world, in order to protect the student's real name.</p>
+
+		 <p><strong>Avatar profiles</strong> - A student's avatar's appearance, clothing, items, and key game statistics (e.g. level, hearts, stars, gold, etc.) are available for other players to view in the game.  This does not include any of the student's personal information.</p>
+
+		 <p><strong>Student usernames</strong> - To discourage students from using their full name or other personal information, student usernames are generated based on a combination of their first name, last initial, and a number (e.g. AlexP123).  Student usernames are only visible to the respective student and their parent/teacher.</p>
+
+		 <p><strong>Safe chat messages</strong> - Students have the ability to send safe chat messages to others within Prodigy's virtual world.  These messages can only be selected from a pre-specified list of phrases (e.g. "I like your outfit"), and hence, students are not able to disclose personal information such as their telephone number or address.  This also prevents students from sending offensive or inappropriate messages.</p>
+
+		 <h2 id="does-prodigy-share-data" class="subtitle">5. Does Prodigy share data with third parties?</h2>
+
+		 <p>As a website trusted by millions of educators, parents, and students worldwide, Prodigy is committed to never selling or leasing your or your students' personal information with third parties.</p>
+
+		 <p>Prior to engaging into a relationship with a third-party service provider, Prodigy will first review their privacy policies and ensure that these are compliant with those regulations that Prodigy is adhering to and that they are aware that Prodigy is directed to children. Third-party service providers will have their privacy policies reviewed by Prodigy on an annual basis to ensure that any changes made do not affect compliance with all applicable legislations.  Please visit our support website for a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of our service providers</a>.</p>
+
+		 <p>We value your privacy, and hence restrict sharing your data with third parties, with the exception of the following circumstances:</p>
+
+		 <p><strong>Other users that have invited you to Prodigy</strong> - As a teacher or parent, if you are invited to create an account on Prodigy by another teacher or parent on Prodigy, we will let them know if you have created an account, and the number of Active Students linked to your account.  Active Students are students that have answered at least 20 questions within Prodigy.</p>
+
+		<p><strong>School/District Administrators</strong> - Verified school/district administrators (e.g. your student's Principal or Superintendent) who have created accounts on Prodigy may be able to see your and your students' names, activity, and Performance Data on Prodigy.</p>
+
+
+		<p><strong>Third-party integrations on Prodigy</strong> - When you use third-party apps, websites, or services to log into (e.g. using your Google Classroom to log in to your teacher account) or share information from Prodigy (e.g. sending out a tweet on the number of questions answered in your class), they may receive information on your activity on Prodigy and/or what you share.  Information collected by third-party integrations is subject to the third party's own terms and privacy policy.</p>
+
+
+		<p><strong>Service providers</strong> - Prodigy uses various vendors, partners, and service providers to help us deliver our services to our users.  For example, we use a mail service called <a href="https://www.sparkpost.com/">Sparkpost</a> to deliver emails to our users on our behalf, as it would take a lot of resources for us to develop our own email delivery platform.  As a result, some of your information, including Personally Identifiable Information, may be shared with our service providers in order for them to perform their tasks.  Wherever possible, we ensure that we only share the minimal amount of information for the respective service provider to perform their service.  We carefully vet all of our service providers and ensure that they protect and secure your information in a way that is consistent with this Privacy Policy.  Please see a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of third-party service providers here</a>.</p>
+
+
+		<p><strong>Analytics services</strong> - Prodigy uses third-party analytics services to better understand how our users are interacting with our product, and to improve our product over time.  For example, we use a video tracking software called <a href="https://wistia.com/">Wistia</a> to track which one of our tutorial videos is being clicked on most frequently and how our users are interacting with these videos.  In this process, some of your personal information, Performance Data, and interactions with our product may be collected by or shared with these analytics services in order for them to perform their service.  We carefully vet all of our analytics services and ensure that they protect and secure your information in a way that is consistent with this Privacy Policy.  Please see a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of third-party analytics services here</a>.</p>
+
+
+		<p><strong>Non-personally identifiable information</strong> - Prodigy may share aggregated, non-personally identifiable information with the public for marketing or other purposes.  For example, we may share data on the percentage of students on Prodigy who use the game both at home and in school in our marketing materials to parents.  None of this information will contain any Personally Identifiable Information about individual users.</p>
+
+
+		<p><strong>Legal requirements</strong> - Prodigy may share our users' information if we are legally obligated to do so to comply with the law.  In these cases, we will disclose only the information that is deemed a legal necessity by the applicable law, so as to protect the rights and safety of our users.</p>
+
+
+		<p><strong>Change of control</strong> - In the case that Prodigy is acquired or merges with a third party, your data will still be protected as per the terms outlined in this Privacy Policy.  In the case that Prodigy goes out of business or files for bankruptcy, we will protect your personal information, and will not sell it to any third party.</p>
+
+
+		<p><strong>Consent</strong> - Prodigy reserves the right to share your or your students' information with your explicit consent, given verbally, on paper, or electronically.  For example, we may publish a case study with a teacher's name, school, district, and the number of questions her students have answered on Prodigy with her explicit consent.</p>
+
+
+
+
+		<h2 id="parental-choices" class="subtitle">6. Parental Choices</h2>
+
+		<p>We understand that as a parent or legal guardian of a child, controlling your child's information and access to online resources can be difficult.  In accordance with COPPA, if a child signs up for a Prodigy account independently, we require the child to enter a parent's email address so that an email can be sent to their parent seeking the parent's consent for the child to engage with our services.</p>
+
+
+		<p>While we do our best to protect your child's information and provide them with an awesome educational experience, legal parents or guardians do have the right to request that their child's account be deleted by contacting us.  In order to do so, we may require verification of the parent or guardian's identity, and verification that they are the legal parent and/or guardian of that child.  Please keep in mind that this will also prohibit your child from using their Prodigy account in class, and that they may miss out on class work or homework if their teacher uses Prodigy as part of their math strategy.</p>
+
+
+		<h2 id="automatically-collected-info" class="subtitle">7. Automatically Collected Information</h2>
+		
+		<p>In addition to information that you provide, Prodigy (and our Service Providers or Analytics Services) may also collect certain information automatically while you are engaging with our Service in order to track trends, help us to improve our service, and provide a more customized experience to our users.</p>
+
+
+		<p>For example, we automatically track your approximate location to provide you with information on the most relevant math curriculum/standards in your state/country.  A user viewing our website from Ontario, Canada would get information on the Ontario Math Curriculum, while a user from Texas, USA, would get information from the Texas Essential Knowledge and Skills (TEKS) standards.</p>
+
+
+		<p>This automatically collected information includes but is not limited to: device information, location information, session information, browser information, and cookies and similar technologies.</p>
+
+		<h2 id="how-can-i-modify-information" class="subtitle">8. How can I view, modify, or delete my information?</h2>
+
+		<p>As a parent, teacher, or school/district administrator, you can view and/or modify your information through your password-protected Prodigy account.  Your Prodigy account also allows you to view and/or modify information for your child(ren) and student(s).</p>
+
+
+		<p>As a parent, teacher or school district, you have the ability to contact us at any time to review Personally Identifiable Information and categories of data being held in education records. </p>
+
+
+		<p>Your Prodigy account may limit you from modifying certain information (e.g. the username that you use to log in to your teacher or parent account), and in these cases, we suggest contacting us, as we may be able to modify the information on your behalf.</p>
+
+
+		<p>While we would be sad to see you go, you are able to request to delete your account at any time by writing to us.  You are also able to request to delete your child/student's account as long as you have a parent or teacher account that is linked to that child.  In this event, we will delete your and/or your child's personal information from our systems, and will remove access from the account within 10 business days of your request.</p>
+
+
+		<p>Please send your written request to: support@prodigygame.com or mail it in to: 1100 Burloak Drive, Suite 200, Burlington, ON, L7L 6B2 or call us at 1 866 585 4655.</p>
+
+		<h2 id="how-will-prodigy-notify-me" class="subtitle">9. How will Prodigy notify me of changes to this Privacy Policy?</h2>
+
+		<p>We are committed to keeping your data private and secure, and as technology, privacy laws, and best practices evolve over time, we will do our best to keep this Privacy Policy up-to-date.</p>
+
+
+		<p>For minor changes which do not reduce your rights under this Privacy Policy, we will notify our users via our website and/or directly by email (using the email address provided).  For more major changes, we will notify our users directly by email (using the email address provided).</p>
+
+
+		<p>Schools signed up for a membership will be notified in advance of any material changes to privacy policies, including practices around new or additional data collection, or practices that may lessen the previously noted protections around student-data privacy.</p>
+
+
+		<p>We encourage all users to review this Privacy Policy from time to time and write to us with any questions or concerns.  If you do not agree with any updates, you have the option of terminating your account and discontinuing your use of our services.  However, by continuing to use our services after a change to this Privacy Policy, you are agreeing to accept the changes and the terms of the updated Privacy Policy in their entirety.</p>
+
+
+		<h2 id="how-can-i-contact-prodigy" class="subtitle">10. How can I contact Prodigy with privacy questions?</h2>
+
+		<p>If you have any questions or concerns about our Privacy Policy, please contact our support team at: support@prodigygame.com or mail it in to: 1100 Burloak Drive, Suite 200, Burlington, ON, L7L 6B2 or call us at 1 866 585 4655.</p>
+
+
+		<h2 id="how-prodigy-maintains-ferpa" class="subtitle">11. How does Prodigy maintain FERPA compliance?</h2>
+		<p>FERPA is "The Family Educational Rights and Privacy Act". It protects the privacy of students' "Educational Records" by specifying how and with whom schools can share information from these records.</p> 
+
+
+		<p>Prodigy has been granted the iKeepSafe California Student Privacy Badge, which validates our compliance with FERPA.  Please refer to this <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217991063">support article</a> for more details.</p>
+		
+		<h2 id="how-prodigy-maintains-coppa" class="subtitle">12. How does Prodigy maintain COPPA compliance?</h2>
+		<p>The Children's Online Privacy Protection Act (COPPA) is a Federal Trade Commission (FTC) Rule designed to ensure that parents remain in control of personal information collected from their young children online.</p>
+
+
+		<p>Prodigy has been granted the iKeepSafe California Student Privacy Badge, which validates our compliance with COPPA.  Please refer to this <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217075546">support article</a> for more details.</p>
+
+
+		<p>iKeepSafe is a FTC-approved COPPA Safe Harbor Organization.  For information on how consumers can ask questions or file complaints related to Prodigy's Privacy Policy and practices, please email COPPAPrivacy@ikeepsafe.org.</p>
+
+
+
+
+
+
+
+
+
+
+
+
 	</div>
 
 </div>
@@ -2749,9 +4340,9 @@ e.parentNode.insertBefore(n, e);
 				<nav class="app-page__footer__section--right">
 					<ul class="app-footer__menu">
 						<li class="app-footer__menu-item"><a href="/jobs/" target="_blank">Jobs</a></li>
-						<li class="app-footer__menu-item"><a href="http://blog.prodigygame.com/" target="_blank">Blog</a></li>
+						<li class="app-footer__menu-item"><a href="https://www.prodigygame.com/blog/" target="_blank">Blog</a></li>
 						<li class="app-footer__menu-item"><a href="/terms-conditions/" target="_blank">Terms &amp; Conditions</a></li>
-						<li class="app-footer__menu-item"><a href="/privacy-policy/" target="_blank">Privacy Policy</a></li>
+						<li class="app-footer__menu-item"><a href="/privacy-policy/" target="_blank"><strong class="text-white text-boldest">Privacy Policy</strong></a></li>
 					</ul>
 				</nav>	
 
@@ -2776,113 +4367,6 @@ e.parentNode.insertBefore(n, e);
 			<input id="reset-password-email-field" type="text" class="left clear" \="">
 			<button id="reset-password-submit-button" class="base-button orange-button" type="submit"><span class="button-title" id="reset-password-submit-text">Submit Email</span></button>
 		</form>
-	</div>
-
-	<div id="buy-popup" class="buy-popup popup hidden">
-		<h2 class="close" style="clearboth" onclick="closePopup()">X</h2>
-		<div class="popup-inner">
-			<h2>Become a premium member</h2>
-
-			<div id="buy-step-1">
-				<div class="basic-buy">
-					<h3 class="step-title">Step 1: Choose a plan</h3>
-					<div class="buy-step clear content-wrapper span70">
-						<button class="buy-plan orange-button left" data-type="premiumMonthly">
-							<h1 class="buy-time">Monthly</h1>
-							<h1 class="buy-price">$8.95</h1>
-							<div class="buy-notes">
-								<h4>Per Month</h4>
-							</div>
-						</button>
-						<button class="buy-plan orange-button right" data-type="premiumYearly">
-							<h1 class="buy-time">Yearly</h1>
-							<h1 class="buy-price">$4.99</h1>
-							<div class="buy-notes">
-								<h4>Per Month - Charged Annually</h4>
-							</div>
-						</button>
-						<div class="clearfix"></div>
-					</div>
-					<h4 class="align-center no-margin-top">Memberships automatically renew, <a href="https://prodigygame.zendesk.com/hc/en-us/articles/201580243-How-do-I-cancel-my-premium-membership-" target="_blank">cancel anytime</a></h4>
-				</div>
-			</div>
-
-			<div id="buy-step-2" class="gone">
-				<div class="basic-buy">
-					<h3 class="clear step-title">Step 2: Choose the number of subscriptions</h3>
-					<div class="buy-step clear content-wrapper span70">
-						<button id="buy-1-students" data-type="1" class="buy-subscription-number orange-button left">
-							<h1>1<br>Student</h1>
-						</button>
-						<button id="buy-2-students" data-type="2" class="buy-subscription-number buy-subscription-number-mid orange-button left">
-							<h1>2<br>Students</h1>
-						</button>
-						<button id="buy-3-students" data-type="3" class="buy-subscription-number orange-button left">
-							<h1>3<br>Students</h1>
-						</button>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-			</div>
-			
-			<div id="buy-step-3" class="gone">
-				<div id="buy-account-information" class="gone clearfix">
-					<h3 class="clear step-title">Step 3: Login or Create Your Parent Account</h3>
-					
-					<div class="buy-step buy-card-entry clear content-wrapper span70">
-						<div class="span66 left">
-							<div id="buy-account-information" class="buffer-bottom">
-								<h5 class="align-center no-margin-bottom">Note: If you don't have a parent account, a new one will be created for you with this email and password</h5>
-								<div class="left align-center">
-									<h4 class="input-title">Parent Email <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="What is a parent account?" data-html="true" data-content="Parent accounts are used to monitor a student's progress. If you do not have a parent account, one will be created for you with this email."></i></h4>
-									<input id="buy-email-field" type="text" name="email" class="buffer-bottom" \="">
-								</div>
-								<div class="right align-center">
-									<h4 class="input-title">Parent Password <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="Forgotton your password?" data-html="true" data-content="If you have a parent account but forgot your password, click the login button at the top of the page and select 'Forgot your password'</span>"></i></h4>
-									<input id="buy-password-field" type="password" name="buy-password" class="buffer-bottom" \="">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<h3 class="clear step-title">Last Step: Enter your payment information</h3>
-				<div class="buy-step buy-card-entry clear content-wrapper span70">
-					<div class="span66 left">
-					<div class="align-center buffer-top">
-							<img src="/Includes/Images/Sales/secure-payments.png" \="">
-						</div>
-						<div class="left align-center">
-							<h4 class="input-title">Name on Card</h4>
-							<input id="buy-card-name" type="text" name="card-name" \="">
-						</div>
-						<div class="right align-center">
-							<h4 class="input-title">Credit Card #</h4>
-							<input id="buy-cc-number" type="text" name="card-number" \="">
-						</div>
-						<div class="left align-center">
-							<h4 class="input-title">CVC/CVV <i id="cvc-popover" class="fa fa-question-circle m-icon" data-toggle="popover" title="Where the CVC is located" data-html="true" data-content="<img src='/Includes/Images/Popovers/cvc.gif' \>"></i></h4>
-							<input id="buy-cc-cvc" type="text" name="cvc" \="">
-						</div>
-						<div class="right card-expiry-input align-center">
-							<h4 class="input-title">Expiry Date (mm/yy)</h4>
-							<input id="buy-cc-expiry-month" type="text" name="expiry-month" \="">
-							<input id="buy-cc-expiry-year" type="text" name="expiry-year" \="">
-						</div>
-						<div class="left clear align-center">
-							<h4 class="input-title">Postal/Zip Code</h4>
-							<input id="buy-postal-code" type="text" name="postalCode" \="">
-						</div>
-						
-					</div>
-					<button id="buy-submit-button" class="clear span66 orange-button buffer-bottom left" onclick="submitBuy()"><span class="button-title" id="buy-submit-button-text">Review Order</span></button>
-					<div class="span66 clear buffer-top">
-						<h4 class="align-center clear">This is a secure page. We will never sell or share your information with third parties.</h4>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</div>
 	</div>
 
 	<div id="apply-license-existing-user" class="popup popup-small fixed hidden">
@@ -2922,7 +4406,7 @@ e.parentNode.insertBefore(n, e);
 	
 </div>
 <div id="notices">
-</div><script src="/Includes/Scripts/web.min.js?v=1464416596"></script>
+</div><script src="/Includes/Scripts/web.min.js?v=1483149661"></script>
 
 
 
@@ -2932,7 +4416,6 @@ e.parentNode.insertBefore(n, e);
 		    var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert = function(s){};
 		    return c;
 		})();
-		Shadowbox.init();
 		if(openRegisterOnLoad) {
 			new Register();
 		}
@@ -2973,25 +4456,10 @@ if(oldonload){oldonload()}};
 }());
 
 </script>
-
-<!--Start of Zopim Live Chat Script-->
-	<script type="text/javascript">
-	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-	d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-	_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-	$.src="//v2.zopim.com/?28uRNxjJJThy7zMtGFBEdvLcLB5ql9Kg";z.t=+new Date;$.
-	type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-	
-	</script>
-
-	<script>
-		$zopim(function() {
-			$zopim.livechat.window.onHide(function(){
-				$zopim.livechat.button.show()
-			});
-		});
-	</script>
-<!--End of Zopim Live Chat Script-->
+<!-- Start of prodigygame Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","prodigygame.zendesk.com");
+/*]]>*/</script>
+<!-- End of prodigygame Zendesk Widget script -->
 
 
 
