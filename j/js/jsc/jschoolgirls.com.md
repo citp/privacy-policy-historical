@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jschoolgirls.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515174552id_/http%3A//www.jschoolgirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jschoolgirls.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231081349id_/http%3A//jschoolgirls.com/privacy) for the most accurate reproduction.*
 
-# jschoolgirls.com - Privacy Statement
+# jSchoolGirls.com - Privacy Statement
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected or submitted on jschoolgirls.com and all websites in the network.
+This notice applies to all information collected or submitted on jSchoolGirls.com and all websites in the network.
 
 **What information do we collect?**
 
