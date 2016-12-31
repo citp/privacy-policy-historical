@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the howstuffworks.com privacy policy that was archived on 2016-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630124050id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the howstuffworks.com privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231123848id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="article-with-html-code content-555" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><head>
+<!DOCTYPE html><html class="article-with-html-code content-555" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en"><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">				
+									
 		<title>Privacy Policy | HowStuffWorks</title>
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -11,16 +12,16 @@
 			<meta property="og:url" content="http://www.howstuffworks.com/privacy.htm">
 			<meta property="og:site_name" content="HowStuffWorks">
 			<meta property="og:description" content="Privacy Statement for HowStuffWorks.com">
-			<meta property="fb:admins" content="100001675325868"> <!-- fb account (dci.dit) -->
-			<meta property="fb:app_id" content="508246805972410"> <!-- application name (howstuffworks.com Global Application) -->
+							<meta property="fb:admins" content="100001675325868"> <!-- fb account (dci.dit) -->
+				<meta property="fb:app_id" content="508246805972410"> <!-- application name (howstuffworks.com Global Application) -->
+			
 				<meta property="og:type" content="article">
 				<meta property="article:publisher" content="http://www.howstuffworks.com">
 				<meta property="article:published_time" content="2000-04-01T00:00:00-05:00">
 			
 	
 			
-			  <meta property="fb:pages" content="20767777944">
-				<meta name="twitter:card" content="summary_large_image">
+							<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@HowStuffWorks">
 <meta name="twitter:image" content="http://r.hswstatic.com/u_0/w_480/gif/hsw-logo-120x90.jpg">
 		
@@ -97,9 +98,21 @@
 		
 
 
-<script src="http://assets.hswstatic.com/lite/303/js/base.min.js"></script><script>
+<script src="http://assets.hswstatic.com/lite/382/js/base.min.js"></script><script>
 		$(document).ready(function () {
 			$('img').unveil();
+
+			$('#offcanvas').on('show.bs.offcanvas', function (e) {
+				if (dataLayer) {
+					var menuOpen = {
+						'event'         : 'raw-event-interactive',
+						'eventCategory' : 'page-interaction',
+						'eventAction'   : 'link-click',
+						'eventLabel'    : 'Mobile Menu : Open'
+					};
+					dataLayer.push(menuOpen);
+				}
+			});
 		});		</script>		<script>
 //Detect and extract any SEM referral tracking data
 var semCookie = HSW.utilities.getCookie('ws_hsw_rt'), semVars = {};
@@ -163,8 +176,24 @@ var pageMetricsData = {
 var GACtest = HSW.utilities.getCookie('hsw_abs') || '';
 </script>
 
-								<script src="http://assets.hswstatic.com/lite/303/js/hsw.ads.min.js"></script>
-<script src="//s.hswstatic.com/ddm/javascript/apis/4.0.11/dist/prebid.min.js"></script>
+<script>
+//Let user set AB test case using hash on URL; ex: <url>#ab=test18
+if (location.hash !== '') {
+	var hashArray = location.hash.substr(1).split('=');
+	if (hashArray[0] === 'ab') {
+		GACtest = hashArray[1];
+	}
+}
+</script><script>
+if (HSW.utilities.getCookie('hsw_abs'))
+{
+	var GACtest = '';
+	HSW.ab.tracksession();
+}
+</script>
+
+								<script src="http://assets.hswstatic.com/lite/382/js/hsw.ads.min.js"></script>
+<script src="//s.hswstatic.com/ddm/javascript/apis/4.0.12/dist/prebid.min.js"></script>
 
 <script>
 
@@ -198,7 +227,9 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 				
 	<script>
 
-		dfpSettings.ads = new Array;					dfpSettings.ads.push('ad-div-bannerTop');
+		dfpSettings.ads = new Array;					dfpSettings.ads.push('ad-div-nativeTop');
+								dfpSettings.ads.push('ad-div-mobNativeTop');
+								dfpSettings.ads.push('ad-div-bannerTop');
 								dfpSettings.ads.push('ad-div-bannerBottom');
 								dfpSettings.ads.push('ad-div-rectangleRailTop');
 								dfpSettings.ads.push('ad-div-rectangleRailMiddle');
@@ -212,17 +243,26 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 	</script>
 
 
-						<script>HSW.ads.init(dfpSettings);</script>
-		<link rel="stylesheet" href="http://assets.hswstatic.com/lite/303/css/editorial.min.css"><style>
-				</style>
-
+						<script>
+			if (location.hash.substring(1) === 'ads=off') {
+				STUFF.ads.init = function () {};
+				STUFF.ads.refresh = function () {};
+			}
+			HSW.ads.init(dfpSettings);
+			</script>
+		<link rel="stylesheet" href="http://assets.hswstatic.com/lite/382/css/editorial.min.css"><style>
+				</style>			
+		
 	</head>
 
 	<body class="cid-555 interior editorial-content  editorial article-template">
 
 		<nav id="offcanvas" class="navmenu navmenu-fixed-right navmenu-site offcanvas" data-track-gtm="Mobile Menu">
-		<div id="offcanvas-navigation">
+
+	
+		<div id="offcanvas-navigation" class="link-menu">
 			<ul>
+
 				<li class="unit"><a class="navLink" href="http://now.howstuffworks.com">NOW</a></li>
 				<li class="unit"><a class="navLink" href="http://adventure.howstuffworks.com">Adventure</a></li>
 				<li class="unit"><a class="navLink" href="http://animals.howstuffworks.com/">Animals</a></li>
@@ -247,6 +287,8 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 			<p><a class="symbol ss-social-circle ss-twitter" href="http://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=HowStuffWorks" target="_blank">Twitter</a></p>
 			<p><a class="symbol ss-social-circle ss-pinterest" href="https://www.pinterest.com/HowStuffWorks/" target="_blank">Pinterest</a></p>
 		</div>
+
+	
 	</nav>
 				<div id="ad-wrap-moboutofpage">
 	<div id="ad-div-moboutofpage" class="ad-tag ">
@@ -257,12 +299,12 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 </div></div>
 			
 	<div id="wrap">
-				<header data-track-gtm="Header">
+								<header data-track-gtm="Header">
 	<div class="row fb-hsw-like-wrapper" data-track-gtm="Facebook Like">
 		<div class="col-xs-12 col-sm-12 col-md-12 fb-hsw-like">
 			<span id="like-us">Like HowStuffWorks on Facebook!</span>			<script>
-			//Only activate for our AB test
-			if (GACtest === 'test2') {
+			//Only activate for mobile users
+			if (HSW.utilities.isMobile()) {
 				(function(d, s, id) {
 				  var js, fjs = d.getElementsByTagName(s)[0];
 				  if (d.getElementById(id)) return;
@@ -292,7 +334,7 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 				<div class="row">
 					<div class="expanded-logo">
 						<div class="hswLogo pull-left" data-track-gtm="Logo Graphic">
-							<a href="http://www.howstuffworks.com"><img src="http://s.hswstatic.com/en-us/hsw/img/logo.png" alt="HowStuffWorks" width="120" height="120"></a>
+							<a href="http://www.howstuffworks.com/"><img src="http://s.hswstatic.com/en-us/hsw/img/logo.png" alt="HowStuffWorks" width="120" height="120"></a>
 						</div>
 						<div class="col-xs-6 col-sm-6 col-md-6 sectionLogo">
 														<img src="http://s.hswstatic.com/gif/hsw_home_logo.png">
@@ -319,13 +361,11 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 					 <div class="headerModule col-xs-12 col-sm-4 col-md-4">
 						<div id="socialFollowSection" class="hidden-xs" data-track-gtm="Social Follow">
 							<p class="followText">Follow us</p>
-
-							<p><a class="symbol ss-social-circle ss-facebook" href="http://www.facebook.com/HowStuffWorks" target="_blank">Facebook</a></p>
+														<p><a class="symbol ss-social-circle ss-facebook" href="http://www.facebook.com/HowStuffWorks" target="_blank">Facebook</a></p>
 							<p><a class="symbol ss-social-circle ss-youtube" href="http://www.youtube.com/user/HowStuffWorks?sub_confirmation=1" target="_blank">YouTube</a></p>
 							<p><a class="symbol ss-social-circle ss-twitter" href="http://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=HowStuffWorks" target="_blank">Twitter</a></p>
 							<p><a class="symbol ss-social-circle ss-pinterest" href="https://www.pinterest.com/HowStuffWorks/" target="_blank">Pinterest</a></p>
-
-						</div>
+													</div>
 						<div class="searchSection">
 							<div class="searchBar">
 								<form class="searchForm" action="http://www.howstuffworks.com/search.php">
@@ -356,7 +396,7 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 				<div class="row">
 
 					<ul>
-						<li><a href="http://now.howstuffworks.com">NOW</a></li>
+											<li><a href="http://now.howstuffworks.com">NOW</a></li>
 						<li><a href="http://adventure.howstuffworks.com">Adventure</a></li>
 						<li><a href="http://animals.howstuffworks.com">Animals</a></li>
 						<li><a href="http://auto.howstuffworks.com">Auto</a></li>
@@ -383,7 +423,7 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 						<li class="subNav"><a href="http://www.howstuffworks.com/videos">Video</a></li>
 						<li class="subNav"><a href="http://shows.howstuffworks.com">Shows</a></li>
 						<li class="subNav"><a href="http://people.howstuffworks.com/quizzes.htm">Quizzes</a></li>
-					</ul>
+										</ul>
 
 				</div>
 			</div>
@@ -392,7 +432,6 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 	</div>
 </header>
 		
-
 		<div id="page">
 			<div class="container" data-track-gtm="Page">
 				<div id="ad-wrap-bannerTop">
@@ -405,9 +444,7 @@ dfpSettings.isMobile = HSW.utilities.isMobile();
 	<div class="row ">
 
 		<div class="col-xs-12 editorial-title">
-			
 			<h1>Privacy Policy</h1>
-
 		</div>
 
 				<div class="col-xs-7 col-sm-8 share-right">
@@ -434,8 +471,13 @@ node.parentNode.insertBefore(js, node);
 		
 
 		<div class="col-xs-12 col-sm-8 title-sub text-uppercase">
-						
-			<a href=""></a> | <a href="http://www.howstuffworks.com/">HSW</a>
+			<div class="media">
+								<div class="media-body">
+										
+											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href=""></a> | <a href="http://www.howstuffworks.com/">HSW</a>
+									</div>
+			</div>
 		</div>
 
 
@@ -461,26 +503,25 @@ node.parentNode.insertBefore(js, node);
 														</div>
 
 				<article class="editorial-body infinite-container">
-										
+
+															
 		
 			
-			<div id="page-title-wrapper">
-				<div class="list-title h2 media">
-					<div class="article-media-body title-name">Privacy Policy</div>
-				</div>
-			</div>
+				
 																	<div id="pagination-upper" class="sticky" data-track-gtm="Pagination : Top">
-			
-	
+			  
+
+		
+				
 
 
 
 	&nbsp;
 	
 
-							
-		
+							  
 
+							
 
 
 
@@ -495,8 +536,9 @@ node.parentNode.insertBefore(js, node);
 
 
 
+
 	
-	<p>This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.</p>
+			<p>This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.</p>
 
 
 
@@ -775,7 +817,7 @@ node.parentNode.insertBefore(js, node);
 
 
 
-<p>InfoSpace LLC</p>
+<p>InfoSpace Holdings LLC</p>
 
 
 
@@ -790,10 +832,6 @@ node.parentNode.insertBefore(js, node);
 <p>Bellevue, WA 98004</p>
 
 
-
-
-
-<p>Phone: (425) 201-6100</p>
 
 
 
@@ -978,7 +1016,7 @@ node.parentNode.insertBefore(js, node);
 
 
 
-<p>If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.</p>
+<p>If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.</p>
 
 
 
@@ -996,15 +1034,14 @@ node.parentNode.insertBefore(js, node);
 
 
 
-<p>InfoSpace LLC</p>
+<p>InfoSpace Holdings LLC</p>
 <p>10900 NE 8th Street, Suite 800</p>
 <p>Bellevue, WA 98004</p>
-<p>Phone: (425) 201-6100</p>
 <p>Email: <a href="mailto:hsw_privacy@infospace.com">hsw_privacy@infospace.com</a></p>
 
 
-<p>Last Updated On: 05/16/2016</p>
-
+<p>Last Updated On: 08/10/2016</p>
+	
 	
 	
 
@@ -1030,14 +1067,13 @@ node.parentNode.insertBefore(js, node);
 					</div>
 
 					<div class="row text-center">
-												<p><a href="http://www.howstuffworks.com/privacy.htm/printable">Print</a> | <a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content="Please copy/paste the following text to properly cite this HowStuffWorks.com article:<br /><br />	 &quot;Privacy Policy&quot; 1 April 2000.<br />HowStuffWorks.com. &amp;lt;http://www.howstuffworks.com/privacy.htm&amp;gt; 30 June 2016" href="#">Citation &amp; Date</a></p>
-					</div>
+																									<p><span class="hidden-sm hidden-xs"> <a href="http://www.howstuffworks.com/privacy.htm/printable">Print</a>  | </span> <a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content="Please copy/paste the following text to properly cite this HowStuffWorks.com article:<br /><br />	 &quot;Privacy Policy&quot; 1 April 2000.<br />HowStuffWorks.com. &amp;lt;http://www.howstuffworks.com/privacy.htm&amp;gt; 31 December 2016" href="#">Citation &amp; Date</a></p>
+											</div>
 					<script>
 					$(function () {
 						$('.citation').click(function (e) { e.preventDefault(); }).popover();
 					});
 					</script>
-
 
 									
 					
@@ -1058,30 +1094,33 @@ node.parentNode.insertBefore(js, node);
 	
 					<hr>
 			<div id="recirc-body">
-			<div class="row module" data-track-gtm="Outbrain" id="ob_body_wrapper">
-	<div class="col-xs-12">
-		<h3>More to Explore</h3>
-		<div class="OUTBRAIN" data-src="http://www.howstuffworks.com/privacy.htm" data-ob-template="howstuffworks" id="outbrain-well" style="font-family: arial;"></div>
+			
+<div class="row module" data-track-gtm="Outbrain" id="ob_body_wrapper">
+	<div class="col-xs-12"><div class="OUTBRAIN" data-src="http://www.howstuffworks.com/privacy.htm" data-ob-template="howstuffworks" id="outbrain-well" style="font-family: arial;"></div>
 	</div>
 </div>
 
 <script>
 var widgetLoadEvents = widgetLoadEvents || [];
-	//Content well placement
-	var widgetId = "AR_3";
-	$('#outbrain-well').attr('data-widget-id', widgetId);
+var domain = location.host.split('.')[1];
+//Content well placement
+var widgetId = "AR_3";
 
-	widgetLoadEvents.push({
-		url         : location.pathname + location.hash,
-		event       : "object-load",
-		eventAction : "outbrain-widget",
-		eventLabel  : "outbrain_" + widgetId
-	});
-	if (HSW.utilities.isMobile() === true) {
-		$.getScript('//widgets.outbrain.com/outbrain.js');
-	}
+//Todo: remove this once Outbrain has built an AR_3 version of the HSWBlogs template
+if (domain !== 'howstuffworks') {
+	widgetId = 'AR_4';
+}
+
+$('#outbrain-well').attr('data-widget-id', widgetId);
+
+widgetLoadEvents.push({
+	url         : location.pathname + location.hash,
+	event       : "object-load",
+	eventAction : "outbrain-widget",
+	eventLabel  : "outbrain_" + widgetId
+});
+$.getScript('//widgets.outbrain.com/outbrain.js');
 </script>
-
 			</div>
 		
 									<div id="relatedLinksModule">
@@ -1099,16 +1138,16 @@ var widgetLoadEvents = widgetLoadEvents || [];
 			</div>
 </div>		
 									<hr>
-								<div class="module" data-track-gtm="NOW">
+														<div class="module" data-track-gtm="NOW">
 	<h3 class="text-uppercase hidden-xs">Today's Headlines</h3>
 
 		
 	<div class="row margin-top1">
 		<div class="col-sm-5">
-			<a href="http://now.howstuffworks.com/2016/06/29/north-korea-birds-waterfowl-migration"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/143cccb9-ee73-42cc-bfb7-5a77089c32ef-1210-680.jpg" alt="How North Korea Being Bad for People Is Good for Birds" title="How North Korea Being Bad for People Is Good for Birds"></a>
+			<a href="http://now.howstuffworks.com/2016/12/29/what-are-odds-youve-met-psychopath"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/6dabc40f-4fca-4781-bc6d-229f2aa65a4b-1210-680.jpg" alt="What Are the Odds You've Met a Psychopath? " title="What Are the Odds You've Met a Psychopath? "></a>
 		</div>
 		<div class="col-sm-7">
-			<p><strong><a href="http://now.howstuffworks.com/2016/06/29/north-korea-birds-waterfowl-migration">How North Korea Being Bad for People Is Good for Birds</a></strong></p>
+			<p><strong><a href="http://now.howstuffworks.com/2016/12/29/what-are-odds-youve-met-psychopath">What Are the Odds You've Met a Psychopath? </a></strong></p>
 		</div>
 	</div>
 
@@ -1116,10 +1155,10 @@ var widgetLoadEvents = widgetLoadEvents || [];
 		
 	<div class="row margin-top1">
 		<div class="col-sm-5">
-			<a href="http://now.howstuffworks.com/2016/06/29/put-your-phone-down-concertgoers-apple-may-do-it-you"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/093b1c70-43ab-4e8b-930e-dbfb6e205351-1210-680.jpg" alt="Put Those Phones Down, Concertgoers, or Apple May Do It for You" title="Put Those Phones Down, Concertgoers, or Apple May Do It for You"></a>
+			<a href="http://now.howstuffworks.com/2016/12/28/whats-happening-when-people-suddenly-gain-superstrength"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/c290d28e-22b1-4e2e-9870-a6186b2974cd-1210-680.jpg" alt="What's Happening When People Suddenly Gain Superstrength?" title="What's Happening When People Suddenly Gain Superstrength?"></a>
 		</div>
 		<div class="col-sm-7">
-			<p><strong><a href="http://now.howstuffworks.com/2016/06/29/put-your-phone-down-concertgoers-apple-may-do-it-you">Put Those Phones Down, Concertgoers, or Apple May Do It for You</a></strong></p>
+			<p><strong><a href="http://now.howstuffworks.com/2016/12/28/whats-happening-when-people-suddenly-gain-superstrength">What's Happening When People Suddenly Gain Superstrength?</a></strong></p>
 		</div>
 	</div>
 
@@ -1127,10 +1166,10 @@ var widgetLoadEvents = widgetLoadEvents || [];
 		
 	<div class="row margin-top1">
 		<div class="col-sm-5">
-			<a href="http://now.howstuffworks.com/2016/06/29/secret-life-gift-card-industry"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/509bb987-348b-436f-a8d5-0ceba6a8b170-1210-680.jpg" alt="The Secret Life of the Gift Card Industry" title="The Secret Life of the Gift Card Industry"></a>
+			<a href="http://now.howstuffworks.com/2016/12/27/lava-tubes-moon-colony"><img height="75" src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://cdn.now.howstuffworks.com/media-content/bae29dbf-6f73-4aa0-ab21-6123287a2d74-1210-680.jpg" alt="Massive Lunar Lava Tubes Could Become Home for Moon Colonists" title="Massive Lunar Lava Tubes Could Become Home for Moon Colonists"></a>
 		</div>
 		<div class="col-sm-7">
-			<p><strong><a href="http://now.howstuffworks.com/2016/06/29/secret-life-gift-card-industry">The Secret Life of the Gift Card Industry</a></strong></p>
+			<p><strong><a href="http://now.howstuffworks.com/2016/12/27/lava-tubes-moon-colony">Massive Lunar Lava Tubes Could Become Home for Moon Colonists</a></strong></p>
 		</div>
 	</div>
 
@@ -1138,7 +1177,7 @@ var widgetLoadEvents = widgetLoadEvents || [];
 </div>
 
 <p><strong><a class="text-uppercase" href="http://now.howstuffworks.com">See More Headlines »</a></strong></p>
-					
+									
 					<div id="ad-wrap-rectangleRailMiddle">
 	<div id="ad-div-rectangleRailMiddle" class="ad-tag ad-border-top">
 			</div>
@@ -1199,29 +1238,64 @@ var widgetLoadEvents = widgetLoadEvents || [];
 </div>
 
 		
-					<div data-track-gtm="Outbrain" class="module">
+							
+<div data-track-gtm="Recirculate Widget" class="module">
 	<hr>
-	<h3>More to Explore</h3>
+	<h3 id="ob_tower_title" style="display:none;">More to Explore</h3>
 
 	<div id="ob_tower" data-src="http://www.howstuffworks.com/privacy.htm" data-widget-id="SB_3" data-ob-template="howstuffworks" style="font-family: arial;"></div>
 
 </div>
 
-<script>
-var widgetLoadEvents = widgetLoadEvents || [];
-if (HSW.utilities.isMobile() === false) {
-	$('#ob_tower').addClass('OUTBRAIN');
-	$.getScript('//widgets.outbrain.com/outbrain.js');
 
-	var widgetLoadEvents = widgetLoadEvents || [];
-	widgetLoadEvents.push({
-		url         : location.pathname + location.hash,
-		event       : "object-load",
-		eventAction : "outbrain-widget",
-		eventLabel  : "outbrain_SB_3"
-	});
+<script>
+var domain = window.location.hostname.split('.')[1];
+var zergnetId = null;
+
+if (HSW.utilities.isMobile() === false) {
+	//Outbrain
+	if ( domain === 'howstuffworks' &&
+		    ( pageMetricsData.template !== 'Article' ||
+		      zergnetId === null ||
+		      zergnetId === 42436 ||
+		      zergnetId === 42443 )
+	   ) {
+		var widgetLoadEvents = widgetLoadEvents || [];
+
+		$('#ob_tower').addClass('OUTBRAIN');
+		$('#ob_tower_title').show();
+		$.getScript('//widgets.outbrain.com/outbrain.js');
+
+		var widgetLoadEvents = widgetLoadEvents || [];
+		widgetLoadEvents.push({
+			url         : location.pathname + location.hash,
+			event       : "object-load",
+			eventAction : "outbrain-widget",
+			eventLabel  : "outbrain_SB_3"
+		});
+
+	}
+	//Zergnet
+	else {
+		(function() {
+			var zergnet = document.createElement('script');
+			zergnet.type = 'text/javascript';
+			zergnet.async = true;
+			zergnet.src = 'http://www.zergnet.com/zerg.js?id=' + zergnetId;
+			var znscr = document.getElementsByTagName('script')[0];
+			znscr.parentNode.insertBefore(zergnet, znscr);
+		})();
+		var widgetLoadEvents = widgetLoadEvents || [];
+		widgetLoadEvents.push({
+			url         : location.pathname + location.hash,
+			event       : "object-load",
+			eventAction : "zergnet-widget",
+			eventLabel  : "zergnet-www"
+		});
+	}
 }
-</script>		
+</script>
+		
 					<div id="ad-wrap-rectangleRailBottom">
 	<div id="ad-div-rectangleRailBottom" class="ad-tag ad-border-top">
 			</div>
@@ -1328,8 +1402,39 @@ if (HSW.utilities.isMobile() === false) {
 				<hr class="visible-xs">
 			</div>
 
+			<div class="stuffo-footer">
+				<h4>More From The Stuff Network</h4>
+				<div id="s49652">
+				 	<a href="http://www.brainstuffshow.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_BrianStuff.png" height="95" width="150" alt="BrainStuff" title="BrainStuff"><p>BrainStuff</p></a>
+				</div>
+				<div id="s49466">
+				 	<a href="http://www.carstuffshow.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_CarStuff.png" height="95" width="150" alt="CarStuff" title="CarStuff"><p>CarStuff</p></a>
+				</div>
+				<div id="s49653">
+				 	<a href="http://www.stuffmomnevertoldyou.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_SMNTY.png" height="95" width="150" alt="Stuff Mom Never Told You" title="Stuff Mom Never Told You"><p>Stuff Mom Never Told You</p></a>
+				</div>
+				<div id="s49283">
+				 	<a href="http://www.geniusstuff.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_StuffofGenius.png" height="95" width="150" alt="Stuff of Genius" title="Stuff of Genius"><p>Stuff of Genius</p></a>
+				</div>
+				<div id="s49651">
+				 	<a href="http://www.stufftheydontwantyoutoknow.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_STDWYTK.png" height="95" width="150" alt="Stuff They Don't Want You to Know" title="Stuff They Don't Want You to Know"><p>Stuff They Don't Want You to Know</p></a>
+				</div>
+				<div id="s48629">
+				 	<a href="http://www.fwthinking.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_FWThinking.png" height="95" width="150" alt="FW:Thinking" title="FW:Thinking"><p>FW:Thinking</p></a>
+				</div>
+				<div id="s48758">
+				 	<a href="http://www.stufftoblowyourmind.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_STBYM.png" height="95" width="150" alt="Stuff to Blow Your Mind" title="Stuff to Blow Your Mind"><p>Stuff to Blow Your Mind</p></a>
+				</div>
+				<div id="s48831">
+				 	<a href="http://www.stuffyoushouldknow.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_SYSK.png" height="95" width="150" alt="Stuff You Should Know" title="Stuff You Should Know"><p>Stuff You Should Know</p></a>
+				</div>
+				<div id="s50626">
+				 	<a href="http://www.missedinhistory.com"><img src="http://s.hswstatic.com/gif/transparent.gif" data-src="http://s.hswstatic.com/en-us/hsw/img/footer_MissedinHistory.png" height="95" width="150" alt="Stuff You Missed in History Class" title="Stuff You Missed in History Class"><p>Stuff You Missed in History Class</p></a>
+				</div>
+			</div>
+
 			<div class="col-xs-12 col-md-6 copyright">
-				<p data-track-gtm="Copyright">Copyright © 2016 <a href="http://www.howstuffworks.com">HowStuffWorks</a>,<br>a division of <a href="http://www.infospace.com/">InfoSpace LLC</a></p>
+				<p data-track-gtm="Copyright">Copyright © 2016 <a href="http://www.howstuffworks.com">HowStuffWorks</a>,<br>a division of <a href="http://www.infospace.com/">InfoSpace Holdings LLC</a></p>
 			</div>
 
 
@@ -1394,14 +1499,14 @@ u();setTimeout(a,50)}}var D=Date.now();w(l,"sans-serif",k);w(m,"serif",k);w(n,"m
 						<div id="ad-wrap-brandscape">
 	<div id="ad-div-brandscape" class="ad-tag ">
 			</div>
-</div>			<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXHP8V"
+</div>			
+				<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NXHP8V"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer',"GTM-NXHP8V");</script>		
-				
+})(window,document,'script','dataLayer',"GTM-NXHP8V");</script>			
 	
 			
 		
@@ -1431,7 +1536,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<script>
 		// was in tout_embed prior to a/b testing
-		if (typeof(TOUT) !== 'undefined') {
+		if (typeof(TOUT) !== 'undefined' && location.hash.substring(1) !== 'tout=off') {
 			$("#abtout").addClass("tout-sdk tout-mid-article");
 			$.getScript( "http://platform.tout.com/sdk.js" );
 		}
@@ -1440,7 +1545,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			$('#page .container').css('margin-top', '-40px');
 		}
 		</script>
-	
+	<script>
+               $.getScript('http://cdn.widget.infospace.com/javascripts/more-stuff.js', function(data, textStatus, jqxhr) {
+                       morestuff.showAll();
+               });
+</script>
+
+
 
 
 </body></html>
