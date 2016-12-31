@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108082540id_/http%3A//www.drwaynedyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231095657id_/http%3A//www.drwaynedyer.com/priv-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### Privacy
 
 DrWayneDyer.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Our online e-newsletter asks users to give us contact information (like their name and e-mail address). This information is used to contact the visitor when necessary about special promotions, events, discounts, and messages from Dr. Wayne W. Dyer, and is never divulged to third parties. This site contains links to other sites. Dr. Wayne W. Dyer is not responsible for the privacy practices or the content of such Web sites.
 
@@ -14,6 +12,4 @@ Please contact Customer Service to request the removal of your information from 
 
 #### Contacting the Web site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Dr. Wayne W. Dyer at the address below.
-
-Dr. Wayne W. Dyer c/o Hay House, Inc. P.O. Box 5100 Carlsbad, CA 92018-5100 t: 800.654.5126
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Hay House, Inc. via Customer Care.
