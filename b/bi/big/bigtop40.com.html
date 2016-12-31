@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigtop40.com privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614132531id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigtop40.com privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231035915id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,6 +9,11 @@
 		<link rel="canonical" href="http://www.bigtop40.com/privacy-policy/">
 		
 	
+
+        
+        
+        
+
 	    
 	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script>var _sf_startpt=(new Date()).getTime()</script>
     
@@ -25,7 +30,7 @@
 		
 	
 		
-		<link rel="stylesheet" href="http://bigtop40v2.gcstatic.com/d/bigtop40.com/css/combined/bigtop40-minified__03d5377c.css" media="screen" type="text/css">
+		<link rel="stylesheet" href="http://bigtop40v2.gcstatic.com/d/bigtop40.com/css/combined/bigtop40-minified__3d5e00bb.css" media="screen" type="text/css">
 		
 	
 		
@@ -177,6 +182,8 @@
         gusto.stations = { };
 		gusto.twitter_default_id = "@bigtop40";
 		gusto.disable_digital_redirect = false;
+        gusto.page_id = "229";
+        gusto.render_mode = "v3";
 
 		// UKRP Popup - ListenLive buttons and targets
 		gusto.player_url_default  = '/radio/player/';  // best effort player for prefered station
@@ -215,7 +222,7 @@
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
 gusto.build_streaming_params = function() {
-    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1465907129;");
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1483156754;");
 };
 //    this comes from app settings for ukrp
 gusto.streaming_params_cookie_name = 'ukrp_streamparams';
@@ -259,16 +266,23 @@ gusto.build_streaming_params = function() {
     var params = [];
     
         try {
-            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1465907129;"));
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1483156754;"));
         } catch(e) {
             param_error('amsparams');
         }
         
     
         try {
-            params.push('awparams=' + stitch('', "p0:" + gusto.udb_user.grid + ";p1:" + gusto.udb_user.gender + ";p2:" + gusto.udb_user.age_segment + ";"));
+            params.push('awparams=' + stitch('|', "kxsegs:" , Krux.segments , ";"));
         } catch(e) {
             param_error('awparams');
+        }
+        
+    
+        try {
+            params.push('kuid=' + stitch('', Krux('get', 'user')));
+        } catch(e) {
+            param_error('kuid');
         }
         
     
@@ -321,9 +335,9 @@ window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
 
 
 <!-- Google Tag Manager - Data Layer -->
-<script>dataLayer = [{"google_analytics_id": "UA-29524849-1", "render_mode": "v3", "category_top_level": "bigtop40.com", "brand": "bigtop40", "cb_data_json": "{\"domain\": \"bigtop40.com\", \"sections\": \"bigtop40.com\", \"uid\": 134, \"author\": \"\"}", "content_type": "article", "full_path": "/privacy-policy/"}];</script>
+<script>dataLayer = [{"google_analytics_id": "UA-29524849-1", "render_mode": "v3", "category_top_level": "bigtop40.com", "brand": "bigtop40", "content_type": "article", "full_path": "/privacy-policy/"}];</script>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7KJ77&google_analytics_id=UA-29524849-1&render_mode=v3&category_top_level=bigtop40.com&brand=bigtop40&cb_data_json=%7B%22domain%22%3A+%22bigtop40.com%22%2C+%22sections%22%3A+%22bigtop40.com%22%2C+%22uid%22%3A+134%2C+%22author%22%3A+%22%22%7D&content_type=article&full_path=%2Fprivacy-policy%2F"
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7KJ77&google_analytics_id=UA-29524849-1&render_mode=v3&category_top_level=bigtop40.com&brand=bigtop40&content_type=article&full_path=%2Fprivacy-policy%2F"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -468,13 +482,7 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 		
 		       <li>
 	               
-	                   <a href="/list/">Lists</a>
-	               
-	           </li>
-		
-		       <li>
-	               
-	                   <a href="/news/">News</a>
+	                   <a href="/list/">Playlists</a>
 	               
 	           </li>
 		
@@ -484,9 +492,9 @@ if (navigator.appVersion.indexOf('MSIE 6') === -1) document.body.className = ((d
 	               
 	           </li>
 		
-		       <li>
+		       <li class="childless">
 	               
-	                   <a href="/artist/">Artists</a>
+	                   <a href="/christmas/">Christmas</a>
 	               
 	           </li>
 		
@@ -573,11 +581,27 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     var index_param = '';
     
 
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2194050|0|3466|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    var window_top = window.top;
+    var page_id = window_top.gusto.page_id;
+    var render_mode = window_top.gusto.render_mode;
+    var get_bp = function() {
+        if(render_mode === "ukrp" && window.opener && window.opener.gusto) {
+            render_mode = window.opener.gusto.render_mode;
+        }
+        if (render_mode === "v4" || window_top.gusto.breakpoints){
+            if (window_top.gusto.breakpoints){
+                return window_top.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'mobweb'; // must be v4
+        }
+        return 'desktop'; // must be v3
+    };
+    var kv_at = get_bp();
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2194050|0|3466|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';kvat=' + kv_at + ';kvpid='+ page_id +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2194050|0|3466|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=276;misc=1580456797819"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2194050|0|3466|ADTECH;loc=100;kvkrx=;kvat=desktop;kvpid=229;target=_blank;key=None_article+None+article+key4;grp=378;misc=1580456798631"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2194050|0|3466|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2194050|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -613,11 +637,27 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     var index_param = '';
     
 
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    var window_top = window.top;
+    var page_id = window_top.gusto.page_id;
+    var render_mode = window_top.gusto.render_mode;
+    var get_bp = function() {
+        if(render_mode === "ukrp" && window.opener && window.opener.gusto) {
+            render_mode = window.opener.gusto.render_mode;
+        }
+        if (render_mode === "v4" || window_top.gusto.breakpoints){
+            if (window_top.gusto.breakpoints){
+                return window_top.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'mobweb'; // must be v4
+        }
+        return 'desktop'; // must be v3
+    };
+    var kv_at = get_bp();
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';kvat=' + kv_at + ';kvpid='+ page_id +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=276;misc=1580456797826"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048350|0|454|ADTECH;loc=100;kvkrx=;kvat=desktop;kvpid=229;target=_blank;key=None_article+None+article+key4;grp=378;misc=1580456798633"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2048350|0|454|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2048350|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -735,7 +775,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	
 		
-<h2><span>News</span></h2>
+<h2><span>Playlists</span></h2>
 	
 
 	
@@ -754,12 +794,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/news/future-hits/june-2016-2/" class="">
+        <a href="/list/playlists/best-dance-songs-2016/" class="">
 	    
 	    
 
      
-        <img src="http://assets2.bigtop40.com/2016/24/mo-final-song-1465824143-editorial-promo-0.png" alt="MO Final Song" height="138" width="138">
+        <img src="http://assets2.bigtop40.com/2016/14/say-you-do-sigala-music-video-1459871339-editorial-promo-0.png" alt="Say You Do Sigala Music Video" height="138" width="138">
     
 
 	<span class="headline">
@@ -769,7 +809,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		5 Future Hits You Might Not Know, But Really Should! (12th June 2016)</span>
+		Turn It Up! 15 Of The Best Dance Chart Songs To Party To In 2016</span>
 
     
 	    
@@ -797,12 +837,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/2016-number-1-single/" class="">
+        <a href="/list/best-pop-songs-2016/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.bigtop40.com/2016/15/bt40-2016-no1-vote-1460386325-editorial-promo-0.png" alt="BT40 2016 No.1 Vote" height="138" width="138">
+        <img src="http://assets1.bigtop40.com/2016/19/justin-timberlake-cant-stop-the-feeling-music-video-1462809417-editorial-promo-0.png" alt="Justin Timberlake Can't Stop The Feeling Music vid" height="138" width="138">
     
 
 	<span class="headline">
@@ -812,7 +852,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		VOTE: What is YOUR Favourite No.1 Single Of 2016...So Far!</span>
+		Top Chart Hits: 20 Of The Best Pop Songs Of 2016...So Far!</span>
 
     
 	    
@@ -840,12 +880,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/news/this-weeks-new-songs/12th-june-2016/" class="">
+        <a href="/news/monthly-playlist/december-2016/" class="">
 	    
 	    
 
      
-        <img src="http://assets3.bigtop40.com/2016/02/shawn-mendes-instagram16-1452615603-editorial-promo-0.png" alt="Shawn Mendes Instagram" height="138" width="138">
+        <img src="http://assets2.bigtop40.com/2016/48/ragnbone-man-human-1480626242-editorial-promo-0.png" alt="Rag'n'Bone Man Human" height="138" width="138">
     
 
 	<span class="headline">
@@ -855,7 +895,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		This Week's New Chart Songs (12th June 2016)</span>
+		13 Songs, Remixes &amp; Albums You HAVE To Check Out In December 2016</span>
 
     
 	    
@@ -883,12 +923,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/news/this-weeks-new-songs/new-entries-2016-5th-june/" class="">
+        <a href="/list/christmas/alternative-christmas-songs/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.bigtop40.com/2016/17/drake-views-booklet-1-1461934412-editorial-promo-1.png" alt="Drake Views Booklet" height="138" width="138">
+        <img src="http://assets4.bigtop40.com/2015/48/the-killers-feel-it-in-my-bones-1448988724-editorial-promo-0.png" alt="The Killers Feel it In My Bones" height="138" width="138">
     
 
 	<span class="headline">
@@ -898,7 +938,202 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		This Week's New Chart Songs (5th June 2016)</span>
+		10 Alternative Christmas Songs That Are Just As Good As The Classics</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+			
+		
+	
+	
+	
+		
+	
+</div>
+<div class="mod thumbnail horiz container_2  ">
+
+	
+		
+<h2><span>News</span></h2>
+	
+
+	
+		
+			
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 first_row cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/news/this-weeks-new-songs/christmas-day-2016/" class="">
+	    
+	    
+
+     
+        <img src="http://assets2.bigtop40.com/2016/13/dave-clark-five-1459072089-editorial-promo-0.jpg" alt="hall of fame" height="138" width="138">
+    
+
+	<span class="headline">
+		
+		    
+              
+            
+        
+        
+		This Week's New Chart Songs (Christmas Day 2016)</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/list/chart-top-ten/christmas-2016-top-10/" class="">
+	    
+	    
+
+     
+        <img src="http://assets8.bigtop40.com/2016/52/matt-terry-christmas-big-top-40-1482690690-editorial-promo-0.jpg" alt="Matt Terry Christmas Big Top 40" height="138" width="138">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Picture Gallery</em>
+              
+            
+        
+        
+		2016's Christmas Day Top 10</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 cycle_start cycle_end  has_video">
+
+	<h3>
+	    
+        <a href="/news/matt-terry-ed-sheeran/" class="">
+	    
+	    
+
+     
+        <img src="http://assets6.bigtop40.com/2016/51/matt-terry-in-the-big-top-40-studio-1482094408-editorial-promo-0.jpg" alt="Matt Terry In the Big Top 40 studio" height="138" width="138">
+    
+
+	<span class="headline">
+		
+		    
+              <em class="has_video">Watch</em>
+            
+        
+        
+		Matt Terry Revealed The First Thing He's Going To Do When He Finally Meets Ed Sheeran</span>
+
+    
+	    
+	    </a>
+	    
+	
+	</h3>
+
+	
+		
+	
+</article>
+
+
+				
+					
+
+
+
+
+<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
+
+
+<article class="grid_2 gallery last cycle_start cycle_end  ">
+
+	<h3>
+	    
+        <a href="/list/chart-top-ten/18th-december-2016/" class="">
+	    
+	    
+
+     
+        <img src="http://assets9.bigtop40.com/2016/51/matt-terry-in-the-big-top-40-studio-1482077663-editorial-promo-0.jpg" alt="Matt Terry In the Big Top 40 studio" height="138" width="138">
+    
+
+	<span class="headline">
+		
+		    
+              
+                <em class="gallery">Picture Gallery</em>
+              
+            
+        
+        
+		This Week's Top 10 (18th December 2016)</span>
 
     
 	    
@@ -945,12 +1180,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/sigala-john-newman-nile-rodgers-give-me-your-love/" class="">
+        <a href="/songs/nevada-mark-morrison-fetty-wap-the-mack/" class="">
 	    
 	    
 
      
-        <img src="http://assets4.bigtop40.com/2016/18/sigala-give-me-your-love-music-video-1462267942-editorial-promo-1.png" alt="Sigala 'Give Me Your Love' Music Video" height="138" width="138">
+        <img src="http://assets5.bigtop40.com/2016/49/nevada-the-mack-music-video-1481108281-editorial-promo-0.png" alt="Nevada The Mack Music video" height="138" width="138">
     
 
 	<span class="headline">
@@ -960,7 +1195,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Sigala feat. John Newman &amp; Nile Rodgers - 'Give Me Your Love'</span>
+		Nevada feat. Mark Morrison &amp; Fetty Wap - 'The Mack'</span>
 
     
 	    
@@ -988,12 +1223,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/cheat-codes-x-kriss-kross-amsterdam-sex/" class="">
+        <a href="/songs/ragnbone-man-human/" class="">
 	    
 	    
 
      
-        <img src="http://assets1.bigtop40.com/2016/23/cheat-code-sex-music-video-1465126742-editorial-promo-0.png" alt="Cheat Code Sex Music Video" height="138" width="138">
+        <img src="http://assets8.bigtop40.com/2016/49/human-ragnbone-man-video-1481106761-editorial-promo-0.png" alt="Human RagNBone Man Video" height="138" width="138">
     
 
 	<span class="headline">
@@ -1003,7 +1238,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Cheat Codes x Kriss Kross Amsterdam - 'Sex'</span>
+		Rag'N'Bone Man - 'Human'</span>
 
     
 	    
@@ -1031,12 +1266,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/gnash-i-hate-u-i-love-u/" class="">
+        <a href="/songs/charli-xcx-lil-yachty-after-the-afterparty/" class="">
 	    
 	    
 
      
-        <img src="http://assets9.bigtop40.com/2016/22/gnash-i-hate-u-i-love-u-music-video-1464683374-editorial-promo-0.png" alt="gnash i hate u i love u music video" height="138" width="138">
+        <img src="http://assets4.bigtop40.com/2016/44/charli-xcx-after-the-afterparty-video-1477912479-editorial-promo-0.png" alt="Charli XCX After The Afterparty Video" height="138" width="138">
     
 
 	<span class="headline">
@@ -1046,7 +1281,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		gnash - 'i hate u, i love u'</span>
+		Charli XCX feat. Lil Yachty - 'After The Afterparty'</span>
 
     
 	    
@@ -1074,12 +1309,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/kungs-vs-cookin-on-3-burners-this-girl/" class="">
+        <a href="/songs/robbie-williams-love-my-life/" class="">
 	    
 	    
 
      
-        <img src="http://assets7.bigtop40.com/2016/22/kungs-vs-cookin-on-3-burners-this-girl-1464682155-editorial-promo-0.png" alt="Kungs Vs Cookin On 3 Burners This Girl" height="138" width="138">
+        <img src="http://assets6.bigtop40.com/2016/47/robbie-williams-love-my-life-music-video-1479992325-editorial-promo-0.png" alt="Robbie Williams Love My Life music video" height="138" width="138">
     
 
 	<span class="headline">
@@ -1089,7 +1324,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Kungs Vs Cookin' On 3 Burners - 'This Girl'</span>
+		Robbie Williams - 'Love My Life'</span>
 
     
 	    
@@ -1117,12 +1352,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/ariana-grande-into-you/" class="">
+        <a href="/songs/olly-murs-grow-up/" class="">
 	    
 	    
 
      
-        <img src="http://assets8.bigtop40.com/2016/21/ariana-grande-into-you-video-1464073464-editorial-promo-0.png" alt="Ariana Grande Into You Video" height="138" width="138">
+        <img src="http://assets8.bigtop40.com/2016/47/olly-murs-grow-up-music-video-1479990660-editorial-promo-0.png" alt="Olly Murs Grow Up music video" height="138" width="138">
     
 
 	<span class="headline">
@@ -1132,201 +1367,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Ariana Grande - 'Into You'</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-			
-		
-	
-	
-	
-		
-	
-</div>
-<div class="mod thumbnail horiz container_2  no_header ">
-
-	
-
-	
-		
-			
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery first_row cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/list/2016-number-one-singles/" class="">
-	    
-	    
-
-     
-        <img src="http://assets7.bigtop40.com/2016/15/drake-on-stage-2016-1460384735-editorial-promo-0.jpg" alt="Drake on stage 2016" height="138" width="138">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Picture Gallery</em>
-              
-            
-        
-        
-		Every No.1 Vodafone Big Top 40 Single Of 2016...So Far!</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/list/sexiest-music-videos-2016/" class="">
-	    
-	    
-
-     
-        <img src="http://assets5.bigtop40.com/2016/11/luvbug-best-is-yet-to-come-video-2-1458215495-editorial-promo-0.png" alt="LuvBug Best Is Yet To Come Video 2" height="138" width="138">
-    
-
-	<span class="headline">
-		
-		    
-              
-            
-        
-        
-		HOT! 13 Sexiest Music Videos Of 2016..So Far</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/list/chart-top-ten/29th-may-2016/" class="">
-	    
-	    
-
-     
-        <img src="http://assets4.bigtop40.com/2016/22/clean-bandit-louisa-twitter-1464523042-editorial-promo-0.jpeg" alt="Clean Bandit Louisa Twitter" height="138" width="138">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Picture Gallery</em>
-              
-            
-        
-        
-		This Week's Top 10 (29th May 2016)</span>
-
-    
-	    
-	    </a>
-	    
-	
-	</h3>
-
-	
-		
-	
-</article>
-
-
-				
-					
-
-
-
-
-<!--[if lte IE 7]><div class="mod_shim"></div><![endif]-->
-
-
-<article class="grid_2 gallery last cycle_start cycle_end  ">
-
-	<h3>
-	    
-        <a href="/list/chart-top-ten/22nd-may-2016/" class="">
-	    
-	    
-
-     
-        <img src="http://assets2.bigtop40.com/2016/20/justin-timberlake-cant-stop-the-feeling-video-1463475280-editorial-promo-0.png" alt="Justin Timberlake in front of car" height="138" width="138">
-    
-
-	<span class="headline">
-		
-		    
-              
-                <em class="gallery">Picture Gallery</em>
-              
-            
-        
-        
-		This Week's Top 10 (22nd May 2016)</span>
+		Olly Murs - 'Grow Up'</span>
 
     
 	    
@@ -1370,13 +1411,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 					
 
 
-<article class="grid_2 cycle_start cycle_end  win"><a href="/win/kinky-boots-new-york/"><em class="win">Win</em><h3><img src="http://assets8.bigtop40.com/2016/23/kinky-boots-cast-photo-1465561340-hero-promo-0.png" alt="Kinky Boots Cast Photo" height="298" width="298"><span>Win An Incredible Holiday To New York With The Fantastic 'Kinky Boots the Musical'</span></h3></a></article>
-
-				
-					
-
-
-<article class="grid_2 last cycle_start cycle_end  "><a href="/win/my-vodafone-app/"><h3><img src="http://assets7.bigtop40.com/2016/22/my-vodafone-app-competition-1464780785-hero-promo-0.jpg" alt="My Vodafone App Competition" height="298" width="298"><span>Give The My Vodafone App A Spin &amp; You Could Win A Brand New Car!</span></h3></a></article>
+<article class="grid_2 last cycle_start cycle_end  "><a href="/win/vodafone-trending-8/"><h3><img src="http://assets4.bigtop40.com/2016/50/vodafone-samsung-gold-1481730466-hero-promo-0.jpeg" alt="Vodafone Samsung Gold" height="298" width="298"><span>Win A Samsung Galaxy S7 &amp; 12 Months of The Best Entertainment!</span></h3></a></article>
 
 				
 			
@@ -1404,60 +1439,60 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 				
 
 <li class="first_row">
-	<a href="/news/future-hits/june-2016-1/" class="">
-
-		
-        
-        
-		5 Future Hits You Might Not Know, But Really Should! (5th June 2016)</a>
-</li>
-
-			
-				
-
-<li>
-	<a href="/news/future-hits/june-2016/" class="">
-
-		
-        
-        
-		5 Future Hits You Might Not Know, But Really Should! (29th May 2016)</a>
-</li>
-
-			
-				
-
-<li>
-	<a href="/news/this-weeks-new-songs/new-entries-2016-29th-may/" class="">
-
-		
-        
-        
-		This Week's New Chart Songs (29th May 2016)</a>
-</li>
-
-			
-				
-
-<li>
-	<a href="/news/megan-davies-mash-up/" class="has_scheme has_video ">
+	<a href="/songs/taylor-swift-zayn-i-dont-wanna-live-forever/" class="has_scheme has_video ">
 
 		<em>Watch</em>
         
         
-		Watch: This Mash-Up Of Ellie Goulding, Wiz Khalifa &amp; Maroon 5 Is Incredible</a>
+		Taylor Swift &amp; ZAYN Have ACTUALLY Collaborated &amp; It Is Incredible</a>
+</li>
+
+			
+				
+
+<li>
+	<a href="/songs/louis-tomlinson-just-hold-on-steve-aoki/" class="has_scheme has_video ">
+
+		<em>Watch</em>
+        
+        
+		WATCH: Louis Tomlinson Debuted His New Single 'Just Hold On' In An Incredibly Emotional Performance</a>
+</li>
+
+			
+				
+
+<li>
+	<a href="/news/this-weeks-new-songs/new-songs-5th-december-2016/" class="">
+
+		
+        
+        
+		This Week's New Chart Songs (5th December 2016)</a>
+</li>
+
+			
+				
+
+<li>
+	<a href="/list/chart-top-ten/5th-december-2016/" class="gallery ">
+
+		
+        <em>Pictures</em>
+        
+		This Week's Top 10 (5th December 2016)</a>
 </li>
 
 			
 				
 
 <li class="last">
-	<a href="/news/justin-bieber-sorry-without-music/" class="has_scheme has_video ">
+	<a href="/news/future-hits/27th-november-2016/" class="">
 
-		<em>Watch</em>
+		
         
         
-		Justin Bieber's 'Sorry' Video Without Music Is The Funniest Thing You'll Watch Today</a>
+		5 Future Hits You Might Not Know, But Really Should! (27th November 2016)</a>
 </li>
 
 			
@@ -1492,11 +1527,27 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     var index_param = '';
     
 
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065542|0|170|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    var window_top = window.top;
+    var page_id = window_top.gusto.page_id;
+    var render_mode = window_top.gusto.render_mode;
+    var get_bp = function() {
+        if(render_mode === "ukrp" && window.opener && window.opener.gusto) {
+            render_mode = window.opener.gusto.render_mode;
+        }
+        if (render_mode === "v4" || window_top.gusto.breakpoints){
+            if (window_top.gusto.breakpoints){
+                return window_top.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'mobweb'; // must be v4
+        }
+        return 'desktop'; // must be v3
+    };
+    var kv_at = get_bp();
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065542|0|170|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';kvat=' + kv_at + ';kvpid='+ page_id +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065542|0|170|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=276;misc=1580456797883"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065542|0|170|ADTECH;loc=100;kvkrx=;kvat=desktop;kvpid=229;target=_blank;key=None_article+None+article+key4;grp=378;misc=1580456798648"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2065542|0|170|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2065542|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -1526,12 +1577,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/mike-posner-i-took-a-pill-in-ibiza/" class=" internal">
+        <a href="/songs/halsey-the-chainsmokers-closer/" class=" internal">
 	    
 	    
 
      
-        <img src="http://assets4.bigtop40.com/2016/08/mike-posner-1456506969-small-pod-1.jpg" alt="Mike Posner 2016">
+        <img src="http://assets6.bigtop40.com/2016/27/the-chainsmokers-instagram-1467709040-small-pod-0.png" alt="The Chainsmokers Instagram">
     
 
 	<span class="headline">
@@ -1541,7 +1592,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Mike Posner</span>
+		The Chainsmokers</span>
 
     
 	    
@@ -1569,12 +1620,12 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 	<h3>
 	    
-        <a href="/songs/zara-larsson-lush-life/" class=" internal">
+        <a href="/songs/clean-bandit-anne-marie-sean-paul-rockabye/" class=" internal">
 	    
 	    
 
      
-        <img src="http://assets9.bigtop40.com/2016/10/zara-larsson--1457620517-small-pod-0.png" alt="Zara Larsson ">
+        <img src="http://assets2.bigtop40.com/2016/43/clean-bandit-press-shot-2016-1477406238-small-pod-0.jpeg" alt="Clean Bandit ">
     
 
 	<span class="headline">
@@ -1584,7 +1635,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
             
         
         
-		Zara Larsson</span>
+		Clean Bandit</span>
 
     
 	    
@@ -1634,8 +1685,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 <h4>
     <span class="num">1</span>
-    <span class="track">This Girl (Kungs vs. Cookin' On 3 Burners) - Single</span>
-    <span class="artist">Kungs &amp; Cookin' On 3 Burners</span>
+    <span class="track">Rockabye (feat. Sean Paul &amp; Anne-Marie)</span>
+    <span class="artist">Clean Bandit</span>
 </h4>
 
 
@@ -1646,8 +1697,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://a1492.phobos.apple.com/us/r2000/002/Music69/v4/c3/e2/d0/c3e2d02b-788b-61c8-8059-e112db704189/mzaf_6814532755333555568.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "This Girl (Kungs vs. Cookin' On 3 Burners) - Single"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/d6/03/33/d6033314-bcd2-c04c-d4d2-f122d9e08aa7/mzaf_9219307760149533298.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Rockabye (feat. Sean Paul &amp; Anne-Marie)"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1657,8 +1708,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/this-girl-kungs-vs.-cookin/id1083967920?i=1083967923&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "This Girl (Kungs vs. Cookin' On 3 Burners) - Single" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/rockabye-feat.-sean-paul-anne/id1164046086?i=1164046335&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Rockabye (feat. Sean Paul &amp; Anne-Marie)" from iTunes</span>
         </a>
     </p>
     
@@ -1673,8 +1724,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 <h4>
     <span class="num">2</span>
-    <span class="track">CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's "Trolls")</span>
-    <span class="artist">Justin Timberlake</span>
+    <span class="track">I Would Like</span>
+    <span class="artist">Zara Larsson</span>
 </h4>
 
 
@@ -1685,8 +1736,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/2b/81/d0/2b81d05a-1ec6-c904-73ff-07eecc0d1d03/mzaf_906386727451420159.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's "Trolls")"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/48/c2/b1/48c2b124-9a60-440d-67fa-067577df85ba/mzaf_2769591539120670352.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "I Would Like"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1696,8 +1747,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/cant-stop-feeling!-original/id1110121889?i=1110121977&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's "Trolls")" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/i-would-like/id1174091029?i=1174091103&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "I Would Like" from iTunes</span>
         </a>
     </p>
     
@@ -1712,8 +1763,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 <h4>
     <span class="num">3</span>
-    <span class="track">Tears (feat. Louisa Johnson)</span>
-    <span class="artist">Clean Bandit</span>
+    <span class="track">Human</span>
+    <span class="artist">Rag'n'Bone Man</span>
 </h4>
 
 
@@ -1724,8 +1775,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/e8/86/75/e88675f4-ff0c-d896-447f-dd8917d49baf/mzaf_5358742248454714076.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Tears (feat. Louisa Johnson)"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/b2/0e/2a/b20e2a8b-c1de-8b80-bf69-da019ec7d53e/mzaf_5273995364061759870.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Human"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1735,8 +1786,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/tears-feat.-louisa-johnson/id1117368897?i=1117369364&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Tears (feat. Louisa Johnson)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/human/id1123546735?i=1123546970&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Human" from iTunes</span>
         </a>
     </p>
     
@@ -1745,14 +1796,14 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
         </li>
         
-        <li class=" explicit">
+        <li>
             
 
 
 <h4>
     <span class="num">4</span>
-    <span class="track">i hate u, i love u (feat. olivia o’brien)</span>
-    <span class="artist">gnash</span>
+    <span class="track">24K Magic</span>
+    <span class="artist">Bruno Mars</span>
 </h4>
 
 
@@ -1763,8 +1814,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://a1056.phobos.apple.com/us/r1000/168/Music49/v4/7a/e4/45/7ae4459d-8eb0-3c2a-bd78-55bd7fea7df4/mzaf_6307477429332270273.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "i hate u, i love u (feat. olivia o’brien)"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/3d/08/e9/3d08e90d-8a92-7bb1-7600-b5e21f0159a4/mzaf_7663430749007496866.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "24K Magic"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1774,13 +1825,13 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/i-hate-u-i-love-u-feat.-olivia/id1085770123?i=1085770125&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "i hate u, i love u (feat. olivia o’brien)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/24k-magic/id1161501068?i=1161501203&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "24K Magic" from iTunes</span>
         </a>
     </p>
     
 
-    <p class="explicit">Explicit</p>
+    
 
         </li>
         
@@ -1790,8 +1841,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 <h4>
     <span class="num">5</span>
-    <span class="track">This Is What You Came For (feat. Rihanna)</span>
-    <span class="artist">Calvin Harris</span>
+    <span class="track">Touch</span>
+    <span class="artist">Little Mix</span>
 </h4>
 
 
@@ -1802,8 +1853,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/6b/64/92/6b649211-8567-6397-aee8-3d293a24e069/mzaf_4598255182483434373.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "This Is What You Came For (feat. Rihanna)"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/09/e9/82/09e982c6-0e82-83f9-954b-2bdd8494a781/mzaf_1529128366738780709.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Touch"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1813,8 +1864,47 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/this-is-what-you-came-for/id1108212521?i=1108212668&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "This Is What You Came For (feat. Rihanna)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/touch/id1164491324?i=1164491472&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Touch" from iTunes</span>
+        </a>
+    </p>
+    
+
+    
+
+        </li>
+        
+        <li>
+            
+
+
+<h4>
+    <span class="num">6</span>
+    <span class="track">So Good</span>
+    <span class="artist">Louisa Johnson</span>
+</h4>
+
+
+
+    
+
+
+
+    
+    <p class="listen">
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/97/c6/33/97c63340-e381-9ab3-f833-cb5cd4d4b0ff/mzaf_6678999890693204394.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "So Good"</span>
+            <canvas></canvas>
+        </a>
+    </p>
+    
+
+
+
+    
+    <p class="download">
+        <a href="https://itunes.apple.com/gb/album/so-good/id1163345584?i=1163345678&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "So Good" from iTunes</span>
         </a>
     </p>
     
@@ -1828,9 +1918,9 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 
 <h4>
-    <span class="num">6</span>
-    <span class="track">Too Good (feat. Rihanna)</span>
-    <span class="artist">Drake</span>
+    <span class="num">7</span>
+    <span class="track">Starboy (feat. Daft Punk)</span>
+    <span class="artist">The Weeknd</span>
 </h4>
 
 
@@ -1841,8 +1931,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/47/45/e4/4745e42c-9345-5691-4a66-ce7712805ac4/mzaf_7707229900673612008.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Too Good (feat. Rihanna)"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/91/b7/64/91b764f2-7df5-d99e-df27-12b48618795e/mzaf_2259698722382871422.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Starboy (feat. Daft Punk)"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1852,52 +1942,13 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/too-good-feat.-rihanna/id1108742399?i=1108742794&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Too Good (feat. Rihanna)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/starboy-feat.-daft-punk/id1156443286?i=1156443304&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Starboy (feat. Daft Punk)" from iTunes</span>
         </a>
     </p>
     
 
     <p class="explicit">Explicit</p>
-
-        </li>
-        
-        <li>
-            
-
-
-<h4>
-    <span class="num">7</span>
-    <span class="track">Hotter Than Hell</span>
-    <span class="artist">Dua Lipa</span>
-</h4>
-
-
-
-    
-
-
-
-    
-    <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/f2/e8/df/f2e8df48-4da9-1c0b-db50-4fbfc3b644e9/mzaf_142756947975918113.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Hotter Than Hell"</span>
-            <canvas></canvas>
-        </a>
-    </p>
-    
-
-
-
-    
-    <p class="download">
-        <a href="https://itunes.apple.com/gb/album/hotter-than-hell/id1098768021?i=1098768478&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Hotter Than Hell" from iTunes</span>
-        </a>
-    </p>
-    
-
-    
 
         </li>
         
@@ -1907,8 +1958,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 <h4>
     <span class="num">8</span>
-    <span class="track">One Dance (feat. Wizkid &amp; Kyla)</span>
-    <span class="artist">Drake</span>
+    <span class="track">Love Me Now</span>
+    <span class="artist">John Legend</span>
 </h4>
 
 
@@ -1919,8 +1970,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/a4/53/a8/a453a8b5-0f15-7704-1b37-7d10b103536a/mzaf_2087253678833064914.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "One Dance (feat. Wizkid &amp; Kyla)"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/5c/bd/af/5cbdaf79-9864-defe-8e95-cc4750967f9a/mzaf_742285114003402939.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Love Me Now"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1930,8 +1981,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/one-dance-feat.-wizkid-kyla/id1108742399?i=1108742784&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "One Dance (feat. Wizkid &amp; Kyla)" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/love-me-now/id1170697676?i=1170698158&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Love Me Now" from iTunes</span>
         </a>
     </p>
     
@@ -1940,14 +1991,14 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
         </li>
         
-        <li class=" explicit">
+        <li>
             
 
 
 <h4>
     <span class="num">9</span>
-    <span class="track">Sex</span>
-    <span class="artist">Cheat Codes x Kris Kross Amsterdam</span>
+    <span class="track">Sexual (feat. Dyo)</span>
+    <span class="artist">NEIKED</span>
 </h4>
 
 
@@ -1958,8 +2009,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/da/00/e4/da00e4c8-06ee-33d5-d042-715b0960dfab/mzaf_1306804782454091373.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Sex"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview62/v4/6a/22/5f/6a225fbc-e028-bd2f-21f9-3e28e54880c5/mzaf_4030913446122752.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Sexual (feat. Dyo)"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -1969,24 +2020,24 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/sex/id1108435766?i=1108435966&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Sex" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/sexual-feat.-dyo/id1147292943?i=1147293162&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Sexual (feat. Dyo)" from iTunes</span>
         </a>
     </p>
     
 
-    <p class="explicit">Explicit</p>
+    
 
         </li>
         
-        <li class=" explicit">
+        <li>
             
 
 
 <h4>
     <span class="num">10</span>
-    <span class="track">Hold Up</span>
-    <span class="artist">Beyoncé</span>
+    <span class="track">Love My Life</span>
+    <span class="artist">Robbie Williams</span>
 </h4>
 
 
@@ -1997,8 +2048,8 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="listen">
-        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/f1/76/81/f17681fe-c884-212c-25f5-73067fca6a3f/mzaf_8739198412879989803.plus.aac.p.m4a" target="_blank">
-            <span>Listen to a clip of "Hold Up"</span>
+        <a class="preview_player jp-play" href="http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/67/65/54/6765545a-3258-7484-3d3e-69c95fb56ad0/mzaf_8615392015823430460.plus.aac.p.m4a" target="_blank">
+            <span>Listen to a clip of "Love My Life"</span>
             <canvas></canvas>
         </a>
     </p>
@@ -2008,19 +2059,19 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
     
     <p class="download">
-        <a href="https://itunes.apple.com/gb/album/hold-up/id1107429221?i=1107429329&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
-            <span>Download "Hold Up" from iTunes</span>
+        <a href="https://itunes.apple.com/gb/album/love-my-life/id1156851310?i=1156851556&amp;uo=2&amp;at=10lwHC&amp;ct=Bigtop40_Miscellaneous" target="_blank">
+            <span>Download "Love My Life" from iTunes</span>
         </a>
     </p>
     
 
-    <p class="explicit">Explicit</p>
+    
 
         </li>
         
     </ol>
     
-    <p class="updated">Last updated: 02.05 pm 14/06/2016</p>
+    <p class="updated">Last updated: 03.40 am 31/12/2016</p>
     
 </div>
         
@@ -2250,7 +2301,7 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
 
 			</div>
 		
-	
+
 	<!--[if IE 6]><div><![endif]-->
 	<!--
 	<div id="leaderboard_wrapper">
@@ -2271,7 +2322,23 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     var index_param = '';
     
 
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    var window_top = window.top;
+    var page_id = window_top.gusto.page_id;
+    var render_mode = window_top.gusto.render_mode;
+    var get_bp = function() {
+        if(render_mode === "ukrp" && window.opener && window.opener.gusto) {
+            render_mode = window.opener.gusto.render_mode;
+        }
+        if (render_mode === "v4" || window_top.gusto.breakpoints){
+            if (window_top.gusto.breakpoints){
+                return window_top.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'mobweb'; // must be v4
+        }
+        return 'desktop'; // must be v3
+    };
+    var kv_at = get_bp();
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2048349|0|225|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';kvat=' + kv_at + ';kvpid='+ page_id +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 
     
     -->
@@ -2304,11 +2371,27 @@ if (window.dataLayer) dataLayer.push({'user': gusto.udb_user});
     var index_param = '';
     
 
-    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065553|0|16|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+    var window_top = window.top;
+    var page_id = window_top.gusto.page_id;
+    var render_mode = window_top.gusto.render_mode;
+    var get_bp = function() {
+        if(render_mode === "ukrp" && window.opener && window.opener.gusto) {
+            render_mode = window.opener.gusto.render_mode;
+        }
+        if (render_mode === "v4" || window_top.gusto.breakpoints){
+            if (window_top.gusto.breakpoints){
+                return window_top.gusto.breakpoints.check('medium-down') ? 'mobweb' : 'desktop'; // v4r
+            }
+            return 'mobweb'; // must be v4
+        }
+        return 'desktop'; // must be v3
+    };
+    var kv_at = get_bp();
+    document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065553|0|16|ADTECH;loc=100'+ index_param + local_krux_adtech_param +';kvat=' + kv_at + ';kvpid='+ page_id +';target=_blank;key=None_article+None+article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 
     
     -->
-    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065553|0|16|ADTECH;loc=100;kvkrx=;target=_blank;key=None_article+None+article+key4;grp=276;misc=1580456797905"></script>
+    </script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2065553|0|16|ADTECH;loc=100;kvkrx=;kvat=desktop;kvpid=229;target=_blank;key=None_article+None+article+key4;grp=378;misc=1580456798714"></script>
     <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2065553|0|16|ADTECH;loc=300;key=None_article+None+article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2065553|0||ADTECH;loc=300;key=None_article+None+article+key4;" width="1" height="1" alt=""></a></p></noscript>
     
 
@@ -2456,45 +2539,8 @@ height="1" width="1" border="0" alt=""></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.2. -->
 
 
-	
-	
-<script type="text/javascript">
-    var _sf_async_config={"domain": "bigtop40.com", "sections": "bigtop40.com", "uid": 134, "author": ""};
-    (function(){
-		function loadChartbeat() {
-			window._sf_endpt=(new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src',
-			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-			"js/chartbeat.js");
-			document.body.appendChild(e);
-		}
-		var oldonload = window.onload;
-		window.onload = (typeof window.onload != 'function') ?
-		loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	})();
-</script>
-
-
-
-
-		
-<script type="text/javascript">
-    var url = "http://loadeu.exelator.com/load/?p=503&c=285367&g=003&ctg=bigtop40.com&ag="+gusto.udb_user.dob_year+"&gd="+gusto.udb_user.gender;
-    
-    
-    
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = url;
-    script = $(script);
-    $("body").append(script);
-    window._test_script_exelate = script;  // Script is inserted into the global variable scope so it is accessible to the at_suite to assert the correct url was constructed.
-</script>
 
 
 	
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
