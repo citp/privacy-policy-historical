@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zinio.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185505id_/https%3A//sg.zinio.com/www/legal/terms.jsp%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinio.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124940id_/https%3A//www.zinio.com/www/legal/terms.jsp%23policy) for the most accurate reproduction.*
 
-# 
+# None
 
 Please review Zinio's Terms of Service, Privacy Policy, and Refund Policy below. 
 
@@ -10,15 +10,15 @@ Please review Zinio's Terms of Service, Privacy Policy, and Refund Policy below.
 
 
 
- _Last updated January 13, 2015_
+ _Last updated December 15, 2015_
 
-Welcome to Zinio! Access to, and use of Zinio's website located at www.zinio.com (the “Site”) and other Zinio Internet services (together with access to, and use of the Site, the “Service”) are subject to the following Terms of Service (these “Terms”) and subject to our Privacy Policy. Please read these Terms carefully. Creating an account with Zinio or otherwise accessing or using the Service will signify that you have read, understand, and agree to be bound by these Terms and to comply with all applicable laws and regulations. These Terms constitute a binding agreement between you and Zinio LLC (“Zinio” or “we” or "our"). If you do not agree to these Terms, you may not use the Service.
+Welcome to Zinio! Access to, and use of Zinio's website located at www.zinio.com (the “Site”) and other Zinio services (together with access to, and use of the Site, the “Service”) are subject to the following Terms of Service (these “Terms”) and subject to our Privacy Policy. Please read these Terms carefully. Creating an account with Zinio or otherwise accessing or using the Service will signify that you have read, understand, and agree to be bound by these Terms and to comply with all applicable laws and regulations. These Terms constitute a binding agreement between you and Zinio LLC (“Zinio” or “we” or "our"). If you do not agree to these Terms, you may not use the Service.
 
 THESE TERMS CONTAIN WARRANTY DISCLAIMERS AND OTHER PROVISIONS THAT LIMIT THE LIABILITY OF ZINIO. PLEASE READ THESE TERMS IN THEIR ENTIRETY.
 
 ##  **1\. Description Of Service**
 
-The Service is operated by Zinio, and includes the Site through which you order, subscribe to and receive various digital magazines and other publications, content and products (collectively, the "Publications"). Use of the Zinio Reader software is also subject to the [Zinio Reader License Agreement.](https://web.archive.org/www/legal/reader-license.jsp)
+The Service is operated by Zinio, and includes the Site through which you order, subscribe to and receive various digital magazines and other publications, content and products (collectively, the "Publications"), Z-Pass, Zinio Unlimited and the Zinio Reader applications. Use of the Zinio Reader software is also subject to the [Zinio Reader License Agreement.](https://web.archive.org/www/legal/reader-license.jsp)
 
 ##  **2.Your Account**
 
@@ -50,7 +50,7 @@ The Service may contain links to other Internet sites and third-party resources.
 
 ## **7\. Modifications To Service**
 
-We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. Your continued use of the Service shall serve as your consent to any such modifications to the Service. You agree that Zinio shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof), including the removal of Publications, with or without notice. Your continued use of the Service shall serve as your consent to any such modifications to the Service. You agree that Zinio shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
 
 ##  **8\. Disclaimer Of Warranties**
 
@@ -78,17 +78,17 @@ Zinio retains the right, but not the obligation, to monitor the Service to deter
 
 Zinio may terminate the Service at any time. Without limiting the foregoing, Zinio may, in its sole discretion and without liability, terminate your password, or use of the Service for any reason, including, without limitation, if Zinio believes that you have violated or acted inconsistently with the letter or spirit of these Terms. Any termination of your access to the Service under any provision of these Terms may be effected without prior notice, and Zinio may immediately deactivate or delete your account and all related information and/or bar any further access to the Service. Sections 2, 4, 5, 6 and 8 through 17 shall survive termination of these Terms.
 
-##  **13\. Continuous Service Program**
+##  **13\. Subscriptions**
 
-All subscription orders will include "Continuous Service" which enables you to receive uninterrupted delivery of Publications until you cancel your subscriptions or Z-Pass. You may cancel subscriptions or Z-Pass at any time and, in the case of subscriptions, receive a refund for any unserved issues (see Refund Policy below). With Continuous Service, after all issues of a Publication in your initial subscription period have been served, you will be billed automatically, at the end of your initial subscription period, for the next subscription period in accordance with the then-current offer terms applicable to that Publication as they appear on our Service. 
+Certain of our Services are offered on a subscription basis ("Subscription"). A valid credit card or other payment method ("Billing Method") accepted by Zinio is required at the time of registration for such Services, and you agree to be billed periodically, based on the length of your Subscription. You agree to keep all Billing Method and other required information current. All Subscriptions will include "Continuous Service" which enables you to receive uninterrupted access to such Service, and delivery of associated Publications until you cancel your Subscription. You will be billed automatically, at the end of your then-current offer terms applicable to that Service, The end date of your current Subscription period is available in your account settings. You will be billed each month on the calendar day that your Subscription commenced. Where your Subscription began on a day not contained in a given month, you will be billed on the last day of such month. If your Billing Method has expired at the time of Subscription renewal, Zinio may immediately suspend, deactivate or delete your account and access to the Service. You may cancel a Subscription at any time. Where a Subscription is for a particular Publication, you will receive a refund for any unserved issues (see Refund Policy below). Where the Subscription is for access to Zinio Unlimited or Z-Pass, such access will continue until the end of the then-current subscription period and no refund will be offered. 
 
-## **14\. Z-Pass**
+## **14\. Zinio Unlimited**
 
-All Z-Pass orders will include monthly "Continuous Service" which enables you to receive uninterrupted delivery of your Z-Pass publications until you cancel. A valid credit card is required at the time of registration, and you agree to be billed monthly for this service. You agree to keep all credit card and other required information current.
+Zinio Unlimited allows you to access a selection of Publications only while you have an active Subscription. Upon cancellation of your Subscription, you will no longer have any rights to access any Publications downloaded or otherwise accessed while your Subscription was active. You shall not login to Zinio Unlimited on more than 5 devices for the purposes of accessing Publications. Your use of the Zinio Unlimited applications is subject to the Zinio Reader License Agreement.
 
 ##  **15\. Free Trials**
 
-If you purchase a subscription or Z-Pass that includes a free trial, you will receive free access to Publications during the free trial period. If you cancel the subscription or Z-Pass during the free trial period, you will not be billed. If you do not cancel the subscription or Z-Pass during the free trial period, you will be billed at the end of the free trial period for the first subscription period occurring thereafter applicable to the Publication or Z-Pass that you purchased. Free trials are limited to one per user per Publication.
+If you purchase a Subscription to a Service that includes a free trial, you will receive free access to the Publication during the free trial period. If you cancel the Subscription during the free trial period, you will not be billed. If you do not cancel the Subscription during the free trial period, you will be billed at the end of the free trial period for the first Subscription period occurring thereafter applicable to the Service that you purchased. Free trials are limited to one per user per Service.
 
 ##  **16\. Pricing And Tax**
 
