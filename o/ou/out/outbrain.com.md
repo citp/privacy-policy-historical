@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629074950id_/http%3A//www.outbrain.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120033id_/http%3A//www.outbrain.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Outbrain
+# Privacy and Cookie Policy | Outbrain.com
 
 This privacy and cookie policy (“ **Privacy Policy** “) applies to information collected through the Outbrain Inc. (“ **Outbrain** “) family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URL: **Outbrain.com** (the “ **Site** “) and our platforms: Amplify, Engage, Visual Revenue and Sphere whether accessed via computer, mobile device or other technology (collectively, the “ **Service** “). The Service is offered by Outbrain Inc. and its subsidiaries and affiliated companies (collectively, “ **Outbrain** ,” or “ **we** “, “ **us** “, “ **our** “).
 
@@ -8,21 +8,19 @@ This privacy and cookie policy (“ **Privacy Policy** “) applies to informati
 
 When you use the Service or access the Site, we employ “cookies” and other similar tracking devices to help us collect and store information about you and other users.
 
-Please read this Privacy Policy carefully, because by using the Service and/or accessing the Site, you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [Engage Terms](https://web.archive.org/legal/tos), which govern your implementation of the Service on your site and our [Amplify Terms](https://web.archive.org/legal/amplify-terms), which govern any content you provide or promote to or through the Service.
+Please read this Privacy Policy carefully, because by using the Service, and/or accessing the Site, and/or interacting with Outbrain’s widget via the Service, you are acknowledging that you understand and agree to the terms of this Privacy Policy.
 
- **TRUSTe’s Privacy Seal**
+ **TRUSTe**
 
-Outbrain has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program, viewable on the validation page. TRUSTe’s validation page is available by clicking the TRUSTe seal located on our website. The TRUSTe certification covers personal information collected on the site: www.outbrain.com and the Outbrain Service.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe, our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+ **Data Transfers Outside the EU/EEA**
 
- **Safeharbor**
-
-To the extent Safe Harbor is in effect, Outbrain complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Prior to its invalidation, Outbrain certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. In addition, Outbrain Inc. has entered into the EU Model Clauses with Outbrain UK Limited. This ensures that to the extent any data is provided to Outbrain UK Limited and transferred to Outbrain Inc., the transfer is in full compliance with EU Data Protection Laws. To learn more about the Safe Harbor program and to view Outbrain’s certification, please visit <http://www.export.gov/safeharbor>.
+To the extent any data is provided to Outbrain UK Limited and transferred to Outbrain Inc or to any other recipient outside the EU/EEA, Outbrain ensures the transfer is in full compliance with EU Data Protection Laws by ensuring that an adequate level of protection is given to that data and that adequate safeguards are put in place to protect the data. As an example, Outbrain Inc. has entered into the EU Model Clauses with Outbrain UK Limited and does also adhere to other methods for meeting the ‘adequate protection’ requirements of Article 25 of the EU Data Protection Directive (95/46/EC), such as standard contract clauses or Binding Corporate Rules.
 
 *  **Information We Collect Automatically**
 
-Whenever you visit or interact with the Service, Outbrain, as well as any third-party vendors and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Service is accessed and used (“ **Usage Information** “). Usage Information may include, in part, browser type, operating system, device type, an estimate of your geographic location associated with your IP address, the page served, the time, referring URLs and other information normally transmitted in HTTP requests. This statistical data provides us with information about the use of the Service, such as how many visitors visit a specific page on which the Service is installed, how long they stay on that page, the type of content on that page, which hyperlinks, if any, they “click” on and how they generally engage with that page. This information helps us keep the Service fresh and interesting to our users and tailor content to each visitor’s interests. Usage Information is generally non-identifying, but if Outbrain associates it with you as a specific and identifiable person (for example, because you have registered for the Service), Outbrain treats it as “ **Personal Information** ” (i.e., information that could reasonably be used to contact you or to identify you personally, such as your name, e-mail address, telephone number or home address) and will use it to provide you with more targeted recommendations.
+Whenever you visit or interact with the Service, Outbrain, as well as any third-party vendors and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Service is accessed and used (“ **Usage Information** “). Usage Information may include, in part, browser type, operating system, device type, an estimate of your geographic location associated with your IP address, the page served, the time, referring URLs and other information normally transmitted in HTTP requests. This statistical data provides us with information about the use of the Service, such as how many visitors visit a specific page on which the Service is installed, how long they stay on that page, the type of content on that page, which hyperlinks, if any, they “click” on and how they generally engage with that page. This information helps us keep the Service fresh and interesting to our users and tailor content to each visitor’s interests. Usage Information is generally non-identifying, but to the extent Usage Information may be associated with you as a specific and identifiable person (for example, because you have registered for the Service) and thereby provided Outbrain with personal information such as name, e-mail address, telephone number or home address) Outbrain treats such information as “ **Personal Information** ” (i.e., information that could be used to contact you or to identify you personally) and will only use it for the purposes described in this Privacy Policy.
 
 We also automatically collect the internet protocol (“ **IP** “) address or other unique identifier (“ **Device Identifier** “) for each computer, mobile device, technology or other device (collectively, “ **Device** “) you use to access the Service. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers, and our computers identify each Device by its Device Identifier.
 
@@ -88,6 +86,8 @@ We may use third party analytics vendors to evaluate and provide us with informa
 
 We may also use third party redirects, which will redirect you through a third party server before redirecting to the final landing page. On this redirect, the third party may place its own cookies, pixel tags and similar technologies on your device (e.g., for purposes of retargeting) and collect or have access to information about you, including Usage Information.
 
+ **Websites**
+
 **If the privacy of your clicks on recommendations or the pages you visit is a concern for you, we urge you to do the following:**
 
   * Do NOT click on any recommendation you do not want to be associated with.
@@ -99,6 +99,16 @@ We may also use third party redirects, which will redirect you through a third p
 You have Opted In to Outbrain tracking. Outbrain will serve you personalized recommendations
 
 You have Opted Out of Outbrain tracking. You will no longer receive personalized recommendations
+
+ **Applications**
+
+To opt-out of the collection and use of data on your mobile application(s), you can adjust your Device’s settings. Here are two examples for iOS and Android Devices:
+
+     iOS Devices: Settings > Privacy > Advertising > Limit Ad Tracking
+
+     Android Devices: Google Settings App > Ads > Opt Out of Interest-based Advertising
+
+Your opt-out process may differ from the examples above, depending on which version of operating system is installed on your Device.
 
  **Please note, even though you have opted out:**
 
@@ -113,7 +123,7 @@ We use cookies to help us understand how you interact with the Site, including t
 
 *  **Your Privacy Rights, Choice And Access**
 
-To the extent you have previously registered with us, you may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications, by following the removal instructions in the communication that you receive. Please note that we do not send any communications to you unless you have previously indicated to us that you would like to receive such communication. In any event, you can always unsubscribe each time you receive any marketing communication from Outbrain by clicking on the unsubscribe link in any such communication, or Unsubscribe Here. Your request will be processed within 10 days of the date on which we receive it.
+To the extent you have previously registered with us, you may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications, by following the removal instructions in the communication that you receive. Please note that we do not send any communications to you unless you have previously indicated to us that you would like to receive such communication. In any event, in each commercial communication we send, we provide an opportunity to opt-out of such communication via an unsubscribe link. Please note that (i) it may take time to process email opt-out requests consistent with applicable law (but no longer than 10 days after receipt of a request) and (ii) you cannot opt-out of transactional or relationship messages sent to registered users of the Service or those who have engaged in transactions with us (e.g., account notifications).
 
 If you wish to verify, correct, update or request the deactivation of your information collected through the Site or Service, you may edit your profile preferences or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Service. We will respond to requests for access within 30 days. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
