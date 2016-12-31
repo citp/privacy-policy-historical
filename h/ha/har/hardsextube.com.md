@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624141456id_/http%3A//www.gotporn.com/privacy-policy%3Fsrc%3Dmenu%3Afooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231130807id_/http%3A//www.hardsextube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GotPorn.com
+# Privacy Policy - HardSexTube.com
 
 * **General**
 
@@ -62,6 +62,6 @@ If you provide your information to us, use the SITE, or subscribe to any of our 
 
 * **Our Commitment to Data Security -** We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
 
-* **How to Access or Modify Your Information -** We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [gotporn@gotporn.com](mailto:gotporn@gotporn.com).
+* **How to Access or Modify Your Information -** We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [hardsextube@hardsextube.com](mailto:hardsextube@hardsextube.com).
 
-* **Where to Direct Questions About Our Privacy Policy -** If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [gotporn@gotporn.com](mailto:gotporn@gotporn.com).
+* **Where to Direct Questions About Our Privacy Policy -** If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [hardsextube@hardsextube.com](mailto:hardsextube@hardsextube.com).
