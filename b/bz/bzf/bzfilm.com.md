@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506182631id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231010851id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BZFilm.com
+# Privacy Policy
 
 First of all, thanks again for stopping by – we appreciate every reader. Our privacy policy tells you how we use personal information collected at “BZFilm.com”.
 
