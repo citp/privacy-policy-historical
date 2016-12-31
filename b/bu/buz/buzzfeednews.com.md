@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzfeednews.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621141230id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzfeednews.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231181811id_/https%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Information Collected Automatically:
 
 We automatically receive and record information from your device or web browser when you interact with the Services. This information may include, your IP address, an ID that we may crate and associate with our content, cookie information, and other details. This information is used for fighting spam/malware, to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on and shared with others, including via email and social media), and to otherwise personalize, improve and continue to operate the Services.
 
-To opt-out of data collection concerning the links you have shared with others, please click [here](https://web.archive.org/about/optout) We will continue to collect information concerning your other interactions with the Services.
+To opt-out of data collection concerning the links you have shared with others, please click [here](https://www.networkadvertising.org/choices/) We will continue to collect information concerning your other interactions with the Services.
 
 Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site or mobile application. We may use this data in aggregate form, that is, as a statistical measure. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
@@ -84,7 +84,7 @@ While we collect and store IP address information, that information is not made 
 
 Information You Elect to Share:
 
-You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information we collect in connection with the Services.
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. Some of those Third Party Services may report information back to us (for example, retailers participating in our advertising programs may share information about users' purchases with us). We are not responsible for the privacy policies and practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information we collect in connection with the Services.
 
 Aggregate Information: 
 
