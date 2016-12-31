@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219062850id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231013634id_/http%3A//www.opentext.com/who-we-are/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -80,12 +80,6 @@ If you are an OpenText customer or partner, please contact [Customer Support](ht
 If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [otst@opentext.com](mailto:otst@opentext.com).
 
 Please click [here](https://web.archive.org/who-we-are/copyright-information/security-acknowledgements) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
-
-### Safe Harbor
-
-The U.S. Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQs) ("the U.S.-EU Safe Harbor Framework") to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EU to the United States. The U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles and frequently asked questions (FAQs) ("the U.S.-Swiss Safe Harbor Framework") to enable U.S. companies to satisfy Swiss law requirements for adequate protection of personal information transferred from Switzerland to the United States.
-
-This Policy is in accordance with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework and we are registered with the U.S. Department of Commerce's Safe Harbor Program. To learn more about the Safe Harbor program and to view our certification, please visit <http://export.gov/safeharbor/>.
 
 ### Information or other rights with regard to your Personal Data
 
