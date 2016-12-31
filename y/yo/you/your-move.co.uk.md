@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-move.co.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025144848id_/https%3A//www.your-move.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-move.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222750id_/https%3A//www.your-move.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Your Move Estate Agents
 
@@ -30,11 +30,8 @@ The personal information held by us is held on and processed by computers situat
 
 #### Security
 
-We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains your responsibility:
-
-  * to protect against unauthorised access to your log in details;
-  * if you open more than one browser of the same type whilst using the website, to
-  * if you share a computer with someone else or use a public Internet access then we remember to close down all browser windows when you finish.advise you to delete the browsing history and log off the computer. This will help ensure any personal information stored temporarily in the computer's memory is lost.
+  1. We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains your responsibility to protect against unauthorised access to your log in details. If you open more than one browser of the same type whilst using the website, remember to close down all browser windows when you finish.
+  2. If you share a computer with someone else or use a public Internet access then we remember to close down all browser windows when you finish.advise you to delete the browsing history and log off the computer. This will help ensure any personal information stored temporarily in the computer's memory is lost.
 
 
 
