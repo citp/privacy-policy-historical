@@ -1,113 +1,98 @@
-> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604161335id_/http%3A//www.web-hosting.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-hosting.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231150633id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Cheap web hosting services, website cheap hosts, cheapest web hosting providers.
+# Namecheap.com - Privacy Policy
 
-## Privacy policy
+## Privacy Policy
 
-This site is owned and operated by web-hosting.com, a wholly owned subsidiary of Namecheap, Inc. ("web-hosting.com").
+Effective Date: 09/07/2011
 
-Your privacy on the Internet is of the utmost importance to Us. At web-hosting.com, We want to make Your experience online satisfying and safe. Because We gather certain types of information about Our users, We feel You should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy, Terms and Conditions and Acceptable Use Policy, set out Our policies applicable to Your account and disclose what information We gather and how We use it.
+Namecheap Inc. (“Namecheap.com”) respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for the site [www.namecheap.com.](http://www.namecheap.com/)
 
-web-hosting.com gathers and keeps track of:
+  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions made by You in order to receive Our electronic newsletters, to participate in Our message boards or forums, to email a friend, and from participation in polls and surveys.
-  * Information web-hosting.com gathers through aggregated tracking information derived mainly by tallying page views throughout Our sites. This information allows Us to better tailor Our content to readers' needs and to help Our advertisers and sponsors better understand the demographics of Our audience. Because web-hosting.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping Our service free to users. Under no circumstances does web-hosting.com divulge any information about an individual user to a third party.
+  * We send email to you only if you have elected to receive it.
 
-
-
-web-hosting.com gathers information about its users as follows:
-
-### OPTIONAL VOLUNTARY INFORMATION SUBMISSION
-
-web-hosting.com offers the following free services, which require some type of voluntary submission of personal information by users:
-
-#### 1\. Electronic newsletters (Dispatches)
-
-web-hosting.com offers a free electronic newsletter to users. web-hosting.com gathers the email addresses of users who voluntarily subscribe to this service. At any time, users are free to remove themselves from this mailing list by following the link provided in every newsletter pointing the user to the subscription management page.
-
-#### 2\. Message Boards/Forums
-
-Users of the web-hosting.com's Message Boards and Forums can login to these areas with their web-hosting.com usernames free of charge in order to post messages. Authorization is not required in order to visit or otherwise use web-hosting.com's other services and/or products.
-
-#### 3\. "E-mail this to a friend" Service
-
-web-hosting.com users can choose to electronically forward a link, page, or documents to someone else by clicking on "e-mail this to a friend". In order to do so, the user must provide his email address, as well as the email address of the intended recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know the identity of the sender. The information collected is not used for any other purpose.
-
-#### 4\. Polling
-
-web-hosting.com occasionally offers interactive polls to users in order to enable the users to share their experience with other users as well as to improve web-hosting.com's services. The collected information, including user opinions, testimony and other submitted information is aggregated. This information is not identifiable to any particular user. However, web-hosting.com may employ action "tags" (also known as single pixel gifs or web beacons) to tag users after they have voted, in order to prevent the same user from voting multiple times on the same issue. This "tag" is not correlated with the subject user's individual information.
-
-#### 5\. Surveys
-
-web-hosting.com may occasionally conduct user surveys to better target Our content to Our audience. We sometimes share the aggregated demographic information in these surveys with Our sponsors, advertisers and partners. However, in doing so, We will never share specific user information with any third party.
-
-### CHILDREN
-
-Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), We will never knowingly request personally identifiable information from anyone under the age of 13 without first requesting parental consent.
-
-### USAGE TRACKING
-
-web-hosting.com tracks user traffic patterns throughout its various sites. However, We do not correlate this information with specific data about individual users. web-hosting.com does break down overall usage statistics according to a user's domain name, browser type, and Multipurpose Internet Mail Extension ("MIME") type by gathering such information from the browser string (information contained in every user's browser).
-
-web-hosting.com sometimes tracks and catalogs the search terms entered by users in Our Search function. However, this tracking is never associated with individual users. We use tracking information to determine which areas of Our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps Us continue to improve Our services for Our users.
-
-### COOKIES
-
-We may place a text file called a "cookie" in the browser files of Your computer. The cookie itself does not contain personal information, although it will enable Us to relate Your use of this site to information that You have specifically and knowingly provided. The only personal information a cookie can contain is information supplied by the user. A cookie cannot read data from the user's hard disk or read cookie files created by other sites. web-hosting.com uses cookies to track user traffic patterns (as described above).
-
-Our advertising system delivers a one-time cookie to improve tracking of advertisement impressions and click rates.
-
-You can refuse cookies by turning the cookie function off in Your browser. If Your browser is set to provide a warning before the cookie is accepted, You will receive the warning message with each cookie. You do not need to have cookies turned on to use web-hosting.com's site. However, You will need to enable/accept cookies if You wish to actively participate in Our message boards, forums, polling and surveys.
-
-### USE OF INFORMATION
-
-web-hosting.com uses information voluntarily submitted by Our users to enhance the user experience in Our network of sites, whether by providing interactive or personalized elements on the sites or by improving future content in response to the interests of Our users.
-
-As stated above, We use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regularly set schedule corresponding with the frequency of the particular publication, and occasionally send out special editions when We think subscribers might be particularly interested in something We are doing. web-hosting.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-We use tracking information to determine which areas of Our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps Us continue to build a better service for You. We track search terms entered in Search function as one of many measures of what interests Our users. But We don't track which terms a particular user enters.
-
-web-hosting.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This enables Our advertisers to advertise more effectively, and allows Our users to receive advertisements that are tailored to their needs. Because We don't track the usage patterns of individual users, an advertiser or sponsor will never know which particular user clicked their advertisement.
-
-### SHARING OF THE INFORMATION
-
-web-hosting.com uses the above-described information to tailor Our content to suit Your needs and help Our advertisers better understand its audience's demographics. This is essential to keeping Our select services free. We will not share information about individual users with any third party, except in order to comply with applicable law or valid legal process or to protect the personal safety of Our users or the public.
-
-### SECURITY
-
-web-hosting.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary. Only authorized individuals have access to the information provided by Our customers.
-
-Our sites contain links to other sites. web-hosting.com is not responsible for the privacy practices or the content of such other websites.
-
-### OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * The option to not register to receive Our electronic newsletters; and 
-  * The option to not participate in certain interactive areas, which completely obviates Our need to gather any personally identifiable information from Our users.
+  * If we determine that any account with us is being used for the purpose of sending spam, we will take action to shut it down as soon as possible.
 
 
 
-### YOUR CONSENT
 
-By using this site, You consent to the collection and use of this information by web-hosting.com. If We decide to change Our Privacy Policy, We will post those changes on this page so that You are always aware of what information We collect, how We use it, and under what circumstances We disclose it.
+Because domain name registration information is available to the public, anyone can access it through "Whois" searches. At times, our customers may have been included within these searches. However, the spam they received does not in any way come from Namecheap. 
 
-### NECESSARY DISCLOSURE
+We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (such as your name, address, phone number, fax number, billing information and email address) so you can create an account, place orders, request information etc. We use your customer information only when it is important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you'll find valuable, and to provide customer service. If you would rather not receive this promotional information, please use the "Purpose and Newsletter" account functionality in “My Account -> Manage Profile” to change your preferences at any time. Additionally, you may follow the unsubscribe instructions contained in the newsletters you receive. 
 
-We will not share Your personal information except with a third party to assist Us in the processing or securing of Your personal information or when We are required by law unless We have given You notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or We must comply with a legal process served on Our web site. We may also need to give out Your information if one of Our partners requires it, but these situations are rare.
+We use information gathered about you from our site statistics via log files provided by third-party tracking partners (for example, your IP address) to help diagnose problems with our server and to administer our website. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experiences more enjoyable. This is not linked to any personally identifiable information. 
 
-### PERSONAL INFORMATION FOLLOWING TERMINATION OF ACCOUNT
+Our site uses cookies to keep track of your session information. We do link the information we store in cookies to personally identifiable information you submit while on our site. 
 
-When Your web-hosting.com account is cancelled (either voluntarily or involuntarily) all of Your personally identifiable information is placed in "deactivated" status within Our corresponding databases. However, You should know that deactivation of Your account does not mean Your personally identifiable information has been deleted from Our database entirely. We will retain and use Your personally identifiable information if necessary in order to resolve disputes or enforce Our agreements.
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your internet browser’s “help” file. 
 
-### CONTACT US
+We also use cookies to store your username if you request to have your username remembered during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies. 
 
-If You have questions or concerns regarding this statement, You can contact web-hosting.com at [support@web-hosting.com](mailto:support@web-hosting.com). You can also write to Us at the following address:
+The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to help us improve our site and make your browsing and purchasing experiences more enjoyable. 
 
-Expert Creations Inc, dba web-hosting.com  
-4435 S Eastern Ave  
-Las Vegas,  
-NV 89119  
-US
+Our third-party tracking utility company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with unique identifiers, similar in function to cookies; they are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. Our tracking utility company does not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-[support@web-hosting.com](mailto:support@web-hosting.com)
+Our site also contains links to other third-party websites. Namecheap ([www.namecheap.com](http://www.namecheap.com/)) is not responsible for the privacy practices or the content of such websites. We encourage you to carefully read the privacy statement of any website you visit.
+
+Our site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128-bit SSL security to encrypt any transmissions when you provide credit card information, personal data, etc. No method of electronic storage or transmission over the internet is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at support@namecheap.com. 
+
+  1. ## Sending Emails
+
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links at the bottom of most pages and on our "Contact" page to allow you to contact us directly. We strive to promptly reply to your messages.
+
+The information you send to us may be stored and used to improve our site and our products, or it may be reviewed and discarded. However, your information will be shared with third parties only with your explicit permission. 
+
+  2. ## Only If We Have To
+
+As stated previously in this policy, we will never give out your information without your permission or in ways other than as outlined in this policy. The only exceptions to this are when we are required by law, in the good faith belief that such action is necessary in order to conform to the edicts of the law, or when we must comply with a legal process served on our website.
+
+If Namecheap.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+  3. ## Changes In Our Practices
+
+If we change our information-handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 7 days prior to their implementation. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please review our privacy policies from time to time to know about the changes. We may also try to notify you through email of the privacy changes if necessary.
+
+  4. ## Service Providers
+
+We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. If you would like to know more about privacy policies of our credit card processing company, you may email us at [support@namecheap.com.](mailto:support@namecheap.com)
+
+  5. ## Contests
+
+From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to respond and disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+  6. ## Registrant Contact information
+
+When you are providing us with registrant contact information, we give you the opportunity to give us the personal information (such as the name, address, email address, phone and fax number) of other individuals (such as the billing or technical contact). If this information changes or you wish to update it, please see “Access to Personally Identifiable Information” below.
+
+Your registrant contacts may email us at support@namecheap.com to request that we remove this information from our database.
+
+  7. ## Access to Personally Identifiable Information
+
+If your personally identifiable information changes or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@namecheap.com](mailto:support@namecheap.com)
+
+  8. ## Personal Information Following Termination of Account
+
+When Your Namecheap account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status within our corresponding databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
+
+  9. ## Testimonials
+
+We post customer testimonials on our website which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to request the removal of your testimonial from the site contact us at [support@namecheap.com.](mailto:support@namecheap.com)
+
+  10. ## Public Forums
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@namecheap.com.](mailto:support@namecheap.com) In some cases, we may not be able to remove your personal information. If this occurs, we will let you know if we are unable to do so and why.
+
+  11. ## Contacting the Website
+
+If you have questions or concerns regarding this statement, you can contact Namecheap at [support@namecheap.com.](mailto:support@namecheap.com) You may also contact us at:
+
+Namecheap.com  
+11400 W. Olympic Blvd.  
+Suite 200  
+Los Angeles, CA 90064  
+USA  
+[support@namecheap.com.](mailto:support@namecheap.com)
+
+
+
