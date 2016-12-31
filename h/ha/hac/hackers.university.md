@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hackers.university privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113120423id_/http%3A//hackers.university/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackers.university privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231235024id_/http%3A//hackersuniversity.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HackersUniversity
+# Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
