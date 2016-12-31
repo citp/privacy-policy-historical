@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606175411id_/http%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedify.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231115714id_/http%3A//speedify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Speedify
 
@@ -41,7 +41,7 @@ We will not sell or rent your personal information to any outside party, for any
 
 
 
-During our normal course of duties, Connectify does NOT throttle, rate-limit, monitor, record, or store the content of our paying customer’s Internet activities. Certain protocols, such as Bitorrent or Tor, may be blocked on some or all servers. Free users may be throttled or rate-limited, as specified in the user’s license terms. We do not log the contents of your data, or what IP addresses you connect to through the Service. The following user specific logging data are captured by the servers: (1) the time and network location from which a Speedify connection was made; (2) the amount of data transferred, and (3) the duration of the Speedify connection. This information enables Connectify to enforce our Terms, investigate crimes using the Services, troubleshoot, and improve performance.
+During our normal course of duties, Connectify does NOT throttle, rate-limit, monitor, record, or store the content of our paying customer’s Internet activities. Certain protocols, such as Bitorrent or Tor, may be blocked on some or all servers. Free users may be throttled or rate-limited, as specified in the user’s license terms. We do not log the contents of your data sent or received through the Service. The following user specific logging data are captured by the servers: (1) the time and network location from which a Speedify connection was made; (2) the amount of data transferred, and (3) the duration of the Speedify connection. The IP addresses connected to through the Service may be logged and retained for up to 7 days. This information enables Connectify to enforce our Terms, investigate crimes using the Services, troubleshoot, and improve performance.
 
 So we can furnish you with bandwidth usage data, and offer products and services that may require it, we may store bandwidth transferred per service.
 
@@ -53,7 +53,7 @@ Google Analytics is a web analysis service provided by Google. Google utilizes t
 
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s privacy policy [here](http://www.google.com/intl/en/policies/privacy/).
+Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s privacy policy [here](https://www.google.com/intl/en/policies/privacy/).
 
   6. **Raygun.io**
 
@@ -99,7 +99,7 @@ Our Services are not intended for use by children under the age of eighteen (18)
 
 If this policy is updated, we will post changes on this page and update the Privacy Policy modification date below. If we make any changes to this Privacy Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Site.
 
-This policy was last modified on 06/01/2016.
+This policy was last modified on 07/26/2016.
 
   13. **Contacting Us**
 
