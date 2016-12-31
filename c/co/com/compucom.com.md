@@ -1,141 +1,163 @@
-> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002113id_/http%3A//www.compucom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compucom.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231074847id_/http%3A//compucom.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | CompuCom
 
-Your right to privacy and data security is a primary concern. When you visit our web site, we help you to maintain control over your personal data on the Internet. We use the following guidelines for protecting the information you provide us during a visit to our site:    
+Your privacy is important to CompuCom Systems, Inc. and its subsidiaries and affiliates ("CompuCom").
 
-  * CompuCom Respects Your Privacy
-  * Preserving the Security of Your Personal Information
-  * Collection of Your Personal Information
-  * Use of Your Personal Information
-  * Access To, and Accuracy of, Your Personal Information
-  * Sharing of Your Personal Information
-  * Sites Covered by This Privacy Statement
-  * Your Choices & Selection of Your Privacy Preferences
-  * Changes to This Statement
-  * Contact Us
-  * Dispute Resolution
+**Sites Covered by This Privacy Policy**  
+CompuCom has corporate presence world-wide, with legal entities, business processes, management structures, and technical systems that span across borders. Except with respect to the EU-U.S. Privacy Shield and the U.S.-Swiss Safe Harbor Framework (which are applicable only to websites and domains operated by CompuCom Systems, Inc.), this Privacy Policy applies to all CompuCom-owned websites and domains.
 
+**EU-U.S. Privacy Shield Framework**  
+CompuCom Systems, Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. CompuCom Systems, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
+CompuCom Systems, Inc. is subject to the jurisdiction, and investigatory and enforcement powers of the Federal Trade Commission (“FTC”) with respect to compliance with the EU-U.S. Privacy Shield.
 
-**CompuCom Respects Your Privacy:**  
-CompuCom Systems Inc., together with all of its subsidiaries and affiliates (hereafter referred to as "CompuCom "), complies with the U.S. - EU or Switzerland Safe Harbor privacy principles, and the 15 FAQs that comprise the Safe Harbor Framework, as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from citizens of European Union member countries and Switzerland.
+Personal information we collect under the Privacy Shield Framework includes contact information such as your name, address, telephone number, and email address, as well as billing and transaction information such as your credit card number, order details, and user IDs and passwords for accessing our websites. We collect and use this personal information to: assist you in connection with a transaction or order; communicate with you about products and services; provide service and support; update you on services and benefits; provide personalized promotional offers; select content to be communicated to you; and/or prevent and detect fraud or other malicious activity. Any credit card information we collect is used solely for processing payments and is not used for any other purpose.
 
-Specifically, CompuCom adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, access, security, data integrity, and enforcement with regard to outbound, cross-border flows of EU or Swiss personal information, as stipulated below.
+We may disclose certain types of your personal information to third-party service providers who provide services directly to us for our own purposes, and we may disclose registration information (name and contact information) to our business partners for use in connection with a joint marketing campaign with that business partner. For additional information on disclosures, generally, please see the section titled “Sharing of Your Personal Information,” below.
 
-CompuCom is committed to protecting the privacy of our clients and business partners with whom we have the privilege to work every day.
+We may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-To learn more about the Safe Harbor program, and to view CompuCom Systems, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-U.S. Privacy Shield, CompuCom Systems, Inc. is potentially liable.
 
-This Privacy Statement informs you of our privacy practices, the choices you can make about the way your information is collected online, and how that information is used.
+If your personal information is subject to the Privacy Shield Principles you have the rights to request access to that information (as well as information about its processing, recipients of that information, and categories of information involved), and to correct, amend, or delete information that is inaccurate or processed in violation of the Principles (except where the burden or expense of providing access would be disproportionate to the risks to your privacy for the case in question, or where the rights of persons other than yourself would be violated).
 
-**Preserving the Security of Your Personal Information:**  
-CompuCom charges its associates with protecting your personal information while it is in our custody. Collectively, we at CompuCom take extensive precautions to protect your personal information. We have put in place a combination of physical, administrative, and technical controls to safeguard the information we collect from you.
+With respect to sharing of data described elsewhere in this Privacy Policy, you have the right under the Privacy Shield Principles to opt out of: our sharing of personal information with third parties for purposes other than their performance of services for us and on our behalf, use of your personal information for a purpose that is materially different from the purpose(s) for which it was originally collected from you or subsequently authorized by you, and use of your personal information for direct marketing purposes. In order to do so, or if you have any questions or concerns about our practices relating to the Privacy Shield, please contact us at [privacy@compucom.com](mailto:privacy@compucom.com) or using the other contact information provided below.
 
-The personal information you provide us is stored on computer systems located in facilities with controlled access. Any credit card information we collect is used solely for processing payments and is not used for any other purpose.
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to [privacy@compucom.com](mailto:privacy@compucom.com) or use the contact information provided in the next paragraph. If requested to remove data, we will respond within a reasonable timeframe.
 
-Our focus on protection is not just on collection, storage, and processing of personal information, but secure transfer of that information as well.
+In compliance with the EU-U.S. Privacy Shield Principles, CompuCom Systems, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact CompuCom Systems, Inc. at:
 
-**Collection of Your Personal Information:**  
-In general, you can visit CompuCom websites without telling us who you are or revealing any information about yourself. There are times, however, when we may need personal information from you in order to provide you with the service or information you request.
+CompuCom Systems, Inc.  
+c/o Sharon Johnson, CompuCom Legal Department  
+[sharon.johnson@compucom.com](mailto:sharon.johnson@compucom.com)  
+8383 Dominion Parkway  
+Plano, TX 75024  
+USA
 
-We collect only the personal information we need to successfully conduct the business transaction at hand. Further, we ensure that notice and the opportunity for consent are provided during these transactions. Unless you consent otherwise, we will use the personal information we collect from you only for its original, intended purpose (for example, registration for special events or promotions, handling of any questions or issues you may have, etc.).
+CompuCom Systems, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.   
 
-The types of personal information you provide us on these web pages may include contact information such as your name, address, telephone number, email address; as well as billing and transaction information such as your credit card number; and other unique information such as user IDs and passwords. If you prefer not to provide contact information via our websites, please call us at 972-856-3600 to request information about our services.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
-In addition to the information you provide directly to CompuCom, we may also collect information about your visit to a CompuCom website through such methods as automated data collection tools (e.g., cookies) and embedded web links.
+**U.S.-Swiss Safe Harbor Framework**  
+CompuCom Systems, Inc. complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. CompuCom Systems, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the U.S.-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-These tools can collect certain standard information that your browser sends to our website such as your browser type, language, access times.   If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can remove them from your computer.
+In compliance with the U.S.-Swiss Safe Harbor Principles, CompuCom Systems, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact CompuCom Systems, Inc. at:
 
-**Use of Your Personal Information:**  
+CompuCom Systems, Inc.  
+c/o Sharon Johnson, CompuCom Legal Department  
+[sharon.johnson@compucom.com](mailto:sharon.johnson@compucom.com)  
+8383 Dominion Parkway  
+Plano, TX 75024  
+USA
+
+CompuCom Systems, Inc. has further committed to refer unresolved privacy complaints under the U.S.-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+
+**Preserving the Security of Your Personal Information**  
+CompuCom charges its employees with protecting your personal information while it is in our custody. Collectively, we at CompuCom take extensive precautions to protect your personal information. We have put in place a combination of physical, administrative, and technical controls to safeguard the information we collect from you.
+
+**Collection of Your Personal Information**  
+We collect only the personal information we need to successfully conduct the business transaction at hand. Where practicable or required by law, we ensure that notice and choice are provided during these transactions. Unless otherwise stated in this Privacy Policy, we will use the personal information we collect from you only for its original, intended purpose (for example, registration for special events or promotions, handling of any questions or issues you may have, etc.).
+
+The types of personal information you provide us on our web pages may include contact information such as your name, address, telephone number, and email address, as well as billing and transaction information such as your credit card number, order details, and user IDs and passwords for accessing our sites. If you prefer not to provide contact information via our websites, please call us at 972-856-3600 to request information about our services.
+
+**Use of Your Personal Information**  
 CompuCom may use your personal information in one or more of the following ways:
 
-  * Assist you in completing a transaction or order;
-  * Communicate with you about products and services;
-  * Provide service and support;
-  * Update you on services and benefits;
-  * Provide personalized promotional offers;
-  * Select content to be communicated to you;
-  * Prevent and detect fraud or other malicious activity.
+  * to assist you in connection with a transaction or order;
+  * to communicate with you about products and services;
+  * to provide service and support;
+  * to update you on services and benefits;
+  * to provide personalized promotional offers;
+  * to select content to be communicated to you; or
+  * to prevent and detect fraud or other malicious activity.
 
 
 
-**Use of Web Beacons**  
-We may use Web Beacons - also known as single pixel or clear GIFs - on our web sites to analyze traffic patterns such as the frequency of use of particular parts of the site. The data collected helps us learn what information is of most interest to our customers and what offers our customers would most like to see. If you do not want to assist us in improving our Web sites, you can “opt-out” of this web site analysis by disabling JavaScript on your computer. If you disable JavaScript, some of the features on web sites will not work.
+Any credit card information we collect is used solely for processing payments and is not used for any other purpose.
 
-We may also use web beacons in promotional email messages to determine whether the message was opened and acted on. We may use this information on email response to develop future promotions you may enjoy. For these purposes, some of our Web beacons are tied to your e-mail address.
+**Cookies**  
+In addition to the information you provide directly to CompuCom, we may collect information about your visit to a CompuCom website through such methods as automated data collection tools (e.g., cookies, which are small text files that a website saves on your computer or mobile device when you visit the website) and embedded web links.
 
-Except for the email address you have previously provided, the information we collect does not identify you. To modify your privacy options, visit here.
+The cookies we use may be session cookies (those that only last during your session on the site) or persistent cookies (those that remain on your device for a pre-defined period of time). These cookies, which are set by third parties acting on our behalf, include those placed by GoogleAnalytics, HubSpot, Inc., Monster.com, Spiceworks Inc., and CRM Targeting. Information collected via these cookies may be accessible by the third party setting the cookie.
 
-**Use of E-mail Addresses**  
-The CompuCom.com website provides you with the opportunity to request information regarding CompuCom's services. We use email addresses provided to us in the following ways:
+The cookies are used to enhance website functionality, deliver content faster based on your geographic location, analyze website uses, remember your preferences and customize your online experience, enhance our marketing and advertising efforts, and for analytical purposes. Information collected via cookies may be matched with other information we have about you in order to enhance our outreach efforts to you.
 
-  * Return e-mail: We use e-mail addresses to answer the e-mail we receive. Your e-mail address is not shared with outside parties, except as indicated in this Privacy Statement.
-  * E-mail messages to existing clients: From time to time, we may send promotional e-mails to our existing clients. We offer you the option not to receive e-mail messages related to product promotions and services (by e-mailing us at  [Privacy@compucom.com](mailto:Privacy@compucom.com)). Please see the "Opt-out Provision" section below.
-  * E-mail addresses obtained from events: To market our products and services, we use e-mail addresses obtained through business reply cards and forms at events (for example, seminars). If you receive an e-mail from us following such an event, we will provide a "message reply" option for you to elect not to receive future e-mail messages related to our product and service promotions (or you may e-mail us at [Privacy@compucom.com](mailto:Privacy@compucom.com)).
+These tools can collect certain standard information that your browser sends to our website such as your browser type, language, access times. You may be able to set your browser to alert you when cookies are being sent. You can also control and/or delete cookies as you wish – for details, see [http://aboutcookies.org](http://aboutcookies.org/). You may also exercise options regarding Google Analytics cookies at <http://tools.google.com/dlpage/gaoptout>. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit our websites and some features of our websites may not function properly.
 
+We may also use web beacons in promotional email messages to determine whether the message was opened and acted on. We may use this information concerning email response to develop future promotions you may enjoy.
 
+**Online Tracking**  
+We do not collect personally identifiable information about your online activities over time and across third-party websites or online services other than as described herein. We do not permit our third-party service providers to collect information from this website for other websites other than as described herein. This website does not respond to web-browser “do-not-track” or other similar mechanisms.
 
-**Access To, and Accuracy of, Your Personal Information:**  
-CompuCom provides individuals with reasonable access to their own personal information that they provide to us.
+**Use of Email Addresses**  
+We use email addresses provided to us in the following ways:
 
-Individuals have the ability to review and correct their personal information, as well as request anonymity or deletion of the information, except when the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or when the rights of persons other than the individual would be violated.
+Return email: We use email addresses to answer the email we receive.
 
-To protect your privacy and security, we may take reasonable steps to verify your identity, such as requiring a User ID and password, before granting access to your data.
+Promotional email: From time to time, we may send promotional emails to our existing clients and to others that have demonstrated an interest in our products and services. We offer you the option not to receive such promotional email messages  (by emailing us at [privacy@compucom.com](mailto:privacy@compucom.com)).
 
-CompuCom strives to maintain accurate records of your personal information. To help maintain this accuracy, we use a variety of technologies and management techniques. If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request at [Privacy@compucom.com](mailto:Privacy@compucom.com).
+Email addresses obtained from events: To market our products and services, we use email addresses obtained through business reply cards and forms at events (for example, seminars). If you receive an email from us following such an event, we may provide a "message reply" option for you to elect not to receive future email messages related to our product and service promotions (or you may always email us at [privacy@compucom.com](mailto:privacy@compucom.com)).
 
-**Sharing of Your Personal Information:**  
-CompuCom will not sell, rent or lease your personal information, or share it with others, except as indicated in this Privacy Statement.
+We will obtain express or implied consent from you before contacting you whenever we are required to do so by law (such as the Canadian “anti-spam” law).
 
-CompuCom will not disclose an individual's personal information to third parties, except when one or more of the following conditions is true:
+**Your Account**  
+If you set up an account for use on our website, we will collect information from you as necessary to support your use of the account and to process transactions you make using the account. In addition, when you create an account, you will be required to create a username and password. It is your responsibility to maintain the confidentiality and security of your account username and password. You are responsible for all activity occurring in or through your account using your username and password.
+
+**Access To, and Accuracy of, Your Personal Information**  
+CompuCom provides individuals with reasonable access to their own personal information that they provide to us. To protect your privacy, we may take reasonable steps to verify your identity before granting access to your data.
+
+CompuCom strives to maintain accurate records of personal information. To help maintain this accuracy, we use a variety of technologies and management techniques. If your personal information changes or you would like to review the personal information we may have on file, please email us with the new information or your review request at [privacy@compucom.com](mailto:privacy@compucom.com).
+
+**Sharing of Your Personal Information**  
+CompuCom will not sell, rent or lease your personal information, or share it with others, except as indicated in this Privacy Policy.
+
+Other than sharing within the CompuCom family of companies, CompuCom will not disclose an individual's personal information to third parties, except when one or more of the following conditions is true:
 
   * CompuCom has the individual's permission to make the disclosure;
-  * The personal information in question is publicly available;
-  * The disclosure is reasonably related to the sale or disposition of all or part of our business;
-  * The disclosure is to another CompuCom entity or to persons or entities providing services on CompuCom's or the individual's behalf.
+  * the disclosure is reasonably related to the sale or disposition of all or part of our business;
+  * the disclosure is to persons or entities providing services on CompuCom's or the individual's behalf; or
+  * the disclosure is to a business partner and consists of registration information (name and contact information) submitted in connection with a joint marketing campaign with that business partner.
 
 
 
-CompuCom may share your information to protect the safety, property, or other rights of CompuCom, its affiliates, customers, or associates, or when we believe that the law requires it. We will share your information:
+CompuCom may share your information to protect the safety, property, or other rights of CompuCom, its affiliates, customers, or employees, or when we believe that the law requires it. We will share your information:
 
-  * When release is required by law or regulation, or is requested by a government agency (for example, a subpoena);
-  * When the disclosure is reasonably necessary for the establishment or defense of legal claims; or,
-  * Upon discovery of fraudulent activity or other deceptive practices if we believe a governmental agency should be notified.
+  * when release is required by law or regulation, or is otherwise required to be produced to a government agency (for example, in response to a subpoena);
+  * when the disclosure is reasonably necessary for the establishment or CompuCom’s defense of legal claims; or
+  * upon discovery of potential fraudulent activity or other deceptive practices, to a governmental agency that we believe should be notified.
 
 
 
-Additionally, CompuCom may use "non-identifying" information in the aggregate to better design our website and to share with our business partners. For example, CompuCom may inform a business partner that a certain number of individuals visited a certain area on our website or that a certain number filled out a registration form, but we would not disclose any personal information that could be used to identify those individuals.
-
-**Sites Covered by This Privacy Statement:**  
-CompuCom has corporate presence world-wide, with legal entities, business processes, management structures, and technical systems that span across borders. This Privacy Statement applies to all CompuCom-owned websites and domains.
+Note that CompuCom may share aggregate information (not personally identifiable) with our business partners. For example, CompuCom may inform a business partner that a certain number of individuals visited a certain area on our website or that a certain number filled out a registration form.
 
 **Links to Other Sites**  
-You should be aware that when you are on a CompuCom website, you could be directed to other sites that are not under our control - taking you outside our service. These other sites may send their own cookies to users, or otherwise collect data or solicit personal information. If the CompuCom website links you to any third-party website, we make no representation or warranty as to the existence, sufficiency, accuracy or completeness of that party's privacy practices. We encourage you to review the privacy policy of any party before submitting your personal information to it.
+If, when you are on a CompuCom website, you choose to navigate to other sites, remember that those sites are not under our control. These other sites may send their own cookies to users, or collect personal information from or about you. If the CompuCom website provides a link to any third-party website, we make no representation or warranty as to the existence, sufficiency, accuracy or completeness of the third party's privacy practices. We encourage you to review the privacy policy of any third-party website before submitting your personal information to it.
 
-We may also provide social media features that enable you to share information with your social networks and to interact with CompuCom on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+We may also provide social media features that enable you to share information with social networks and to interact with CompuCom on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. Actions you take in connection with social media features may be reflected in a manner visible to others; for example, if you “Like” us on Facebook, others may be able to see that you have done so.
 
-**Your Choices & Selection of Your Privacy Preferences:**
+**No Use by Children Under the Age of 18**  
+We are committed to complying with all applicable laws and regulations regarding the collection, storage and use of personal information of minors under the age of 18, including the Children’s Online Privacy Protection Act of 1998, and California’s statute titled “Privacy Rights for California Minors in the Digital World.”
 
-**Opt-out Provision**  
-When CompuCom asks for information, we give our users the opportunity to "opt-out" from having their information used for purposes not directly related to the business purpose. Users who no longer wish to receive our promotional materials may opt-out from receiving these communications by e-mailing us at: [Privacy@compucom.com](mailto:Privacy@compucom.com). 
+Individuals under the age of 18 are not permitted to use CompuCom sites without the supervision of a parent or legal guardian. We do not knowingly collect or solicit personal information from children under the age of 18 or knowingly allow such persons to register for an online account or to place orders or provide personal information through CompuCom sites. If we learn that someone under the age of 18 has provided any personal information through at CompuCom site, we will remove and delete that information as soon as reasonably possible.
 
-**Changes to This Statement:**  
-If CompuCom changes this privacy statement, we will post the revisions on this website. Such changes will be effective upon posting. If we make significant changes, we may also notify you by other means, such as sending an email or posting a notice on our home page.
+If you are a parent or guardian who believes that your minor under the age of 18 has submitted personal information or other information to us without your consent, please contact [privacy@compucom.com](mailto:privacy@compucom.com). Once we verify that you are the parent or legal guardian, we will cooperate with you to discuss what, if any, personal information we may have about your child and how that information may have been shared or used.
 
-**Contact Us:**  
-CompuCom welcomes your comments regarding our privacy practices. If you have questions about this statement, or how your personal information is handled, please contact us at [Privacy@compucom.com](mailto:Privacy@compucom.com).
+**Your California Privacy Rights**  
+Under California’s “Shine the Light” law, California residents who provide personal information in connection with purchasing products or services from us may make a request concerning personal information, if any, that we have shared with other businesses for their own direct marketing purposes. Such a request may be made by sending an email message to [privacy@compucom.com](mailto:privacy@compucom.com) with “Request for California Privacy Information” in the subject line of the message. In response to such a request, we will provide information as required by the California law for the previous calendar year concerning such other businesses and the categories of personal information, if any, that we have shared with them.
 
-If you prefer an alternative to contacting us on-line, call us at 972-856-3600 and ask to speak with the Privacy Officer.
+**Changes to This Policy**  
+If CompuCom changes this Privacy Policy, we will post the revised version on this website. Such revised version will be effective upon posting. If we make significant changes, we may also notify you by other means, such as sending an email or posting a notice on our home page.
 
-Individuals with formal inquiries or complaints regarding this Privacy Statement or CompuCom's privacy practices should contact CompuCom at:
+**Contact Us**  
+CompuCom welcomes your comments regarding our privacy practices. If you have questions about this Privacy Policy, or how your personal information is handled, please contact us at [privacy@compucom.com](mailto:privacy@compucom.com).
+
+If you prefer an alternative to contacting us online, call us at 972-856-3600 and ask to speak with CompuCom’s Privacy Officer. Individuals with formal inquiries or complaints regarding this Privacy Policy or CompuCom's privacy practices should contact CompuCom at:
 
 CompuCom Systems, Inc.  
 c/o CompuCom Legal Department  
-7171 Forest Lane  
-Dallas, TX 75230
+8383 Dominion Parkway  
+Plano, TX 75024  
+USA
 
-**Dispute Resolution:**
-
-**Privacy Complaints by European Union or Swiss Citizens:**  
-CompuCom has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by CompuCom, please visit the BBB EU SAFE HARBOR web site at <http://bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+Effective October 12, 2016.
