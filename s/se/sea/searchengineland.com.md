@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624102501id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125854id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
@@ -71,4 +71,10 @@ We may buy or sell a company or property. If we sell a business, we may transfer
 
 ### Policy Changes, Questions & Comments
 
-We’ll post changes to this policy on this page. Questions about this policy should be emailed using [this form](http://thirddoormedia.com/contact/feedback.shtml) or sent to our offices at Third Door Media, 279 Newtown TPKE, Redding, CT 06896.
+We’ll post changes to this policy on this page. Questions about this policy should be emailed using [ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
+
+[ ](http://thirddoormedia.com/contact/%3Ethis%20form%3C/a%3E%20or%20sent%20to%20our%20offices%20at%20Third%20Door%20Media,%20279%20Newtown%20TPKE,%20Redding,%20CT%20%2006896.%3C/p%3E%3C/div%3E%3C/div%3E%3C/article%3E%3Caside%20class=)
+
+### The Periodic Table of Seo Success
+
+[](http://searchengineland.com/seotable/)
