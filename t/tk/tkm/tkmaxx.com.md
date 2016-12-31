@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617222850id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231172345id_/http%3A//www.tkmaxx.com/privacy-and-cookie-policy/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - TK Maxx
 
