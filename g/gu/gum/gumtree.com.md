@@ -1,127 +1,251 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621104815id_/https%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140102id_/https%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Gumtree.com
 
-## Table of contents
+**Posted: 26 July 2016.**  
+[Previous version](https://web.archive.org/privacy_policy_2016)
 
-  1. General
-  2. What personal information do we collect
-  3. How we use your personal information
-  4. Marketing Purposes
-  5. Cookies
-  6. Access to, review and rectification of your personal information
-  7. Protection and retention of your personal information
-  8. Other Information
+Gumtree's website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If [Customer Support](http://help.gumtree.com/articles/General_Information/Get-in-touch-with-Gumtree) cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification applies only to information that is collected through this website, [www.gumtree.com](https://www.gumtree.com/)
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d "TRUSTe Privacy Certification")
 
+Gumtree.com Limited ("Gumtree", "we" or "us" or "our"), 5 New Street Square, London, United Kingdom, EC4A 3TW, registered in England and Wales with number 3934849 is the data controller and operator of Gumtree.com. ("the Site"). 
 
-## 1\. General
+##  Scope and Consent 
 
-This privacy policy describes the policy of www.gumtree.com regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the Gumtree website ("Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. In formal terms, Gumtree.com Limited ("Gumtree", "we" or "us"), 5 New Street Square, London, United Kingdom, EC4A 3TW, registered in England and Wales with number 3934849 is the data controller of your personal information.
+This Privacy Notice describes our collection, use, disclosure, retention, and protection of your personal information. It applies to any Gumtree site where this Privacy Notice appears in the footer, and to any Gumtree application, service, or tool (collectively "Services") where this Privacy Notice is referenced, regardless of how you access or use them, including through mobile devices. 
 
-**Scope and consent:** By using www.gumtree.com and related Services, you give explicit consent to Gumtree for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use.
+By using our Services or registering for an account with us, you are accepting our [Terms of Use](https://www.gumtree.com/termsofuse), this Privacy Notice and our [Cookies Policy](https://www.gumtree.com/cookies), and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Notice. 
 
-Gumtree may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of 25th June 2014.
+You are contracting with Gumtree (the data controller) which is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards as well as applicable national laws. Gumtree may transfer your personal information to third party processors in other countries including other members of the Gumtree corporate family as described in this Privacy Notice. We may process and retain your personal information on our servers in the U.S. and elsewhere in the world where our data centres are located. 
 
-Gumtree is part of eBay Inc. and is therefore bound to the global privacy standards of eBay Inc. (Binding Corporate Rules). More information on how we handle your personal information and privacy can be found in the eBay Binding Corporate Rules that you can access through the [eBay Privacy Center](http://ebayprivacycenter.com/).
+### Personal Information
 
-## 2\. What personal information do we collect
+"Personal information" is information that can be associated with a specific person and could be used to identify that specific person whether from that data or from that data and other information that Gumtree has or is likely to have access to. We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used to identify a specific person, whether in combination with other information or otherwise. 
 
-You can visit our Website without registering for an account. When you decide to provide us with your personal information, you agree that such information is sent to and stored on our servers. We collect the following types of personal information:
+### Changes to this Notice
 
-**Information we collect automatically:** When you visit our Website, use our Services and or reply to ads or other content, we automatically collect the information sent to us by your computer, mobile device or other equipment that provides access. This information includes, but is not limited to:
+We may amend this Privacy Notice at any time by posting an updated Privacy Notice with the amended terms on this site. 
 
-  * information from your interaction with our Website and Services, including, but not limited to, device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from www.gumtree.com, referring URL, ad data, IP address and standard web log information; and
-  * information we collect through cookies, web beacons and similar technologies.
+##  Global Privacy Standards 
 
+Gumtree complies with global privacy standards known as Binding Corporate Rules (BCRs) which are our commitment to protect your personal information and honour our privacy obligations regardless of where your personal information is collected, processed, or retained within our corporate family. 
 
+Gumtree is an eBay Inc. ("eBay") company and eBay's BCRs have been approved by a number of European Union Privacy Regulators. That means we treat your personal information everywhere within our eBay Inc. corporate family according to European Union privacy standards. More information about our BCRs and global privacy standards is available at our [eBay Privacy Center](http://www.ebayprivacycenter.com/privacy). 
 
-**Information you provide to us:** We collect and store any information you enter on our Website or that you provide to us when you use our Services. This information includes, but is not limited to:
+##  Collection 
 
-  * information that you provide to us when you register for an account or for the Services that you use including for example, your name, address, email address, telephone number or financial information;
-  * additional information that you may provide to us through social media sites or third party Services;
-  * information provided in the context of dispute resolution, correspondence through our Website or correspondence that is sent to us; and
-  * information about your location and the location of your device, including your device's unique identifier information if you have enabled this service on your mobile device.
-  * Information from other sources: We may receive or collect additional information about you from third parties and add this to our account information. This information includes, but is not limited to: demographic data, navigation data, additional contact data and additional data about you from other sources, such as public authorities, to the extent permitted by law.
+We collect, process, and retain personal information from you and any devices (including mobile devices) you may use when you: use our Services, register for an account with us, provide us information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us regarding our Services. 
 
+### The personal information we collect includes the following:
 
+Personal information you give us when you use our Services or register for an account with us
 
-## 3\. How we use your personal information
-
-You agree that we may use your personal information (see above) for the following purposes:
-
-  * to provide you access to our Services and Customer Support by means of e-mail or telephone;
-  * to prevent, detect and investigate potentially prohibited or illegal activities, fraud and security breaches and to enforce our Terms of Use;
-  * to personalize, measure and improve our Services, content and ads;
-  * to contact you, by e-mail, push notification, text message (SMS) or by telephone, to inquire about our Services and the services of companies that are part of the eBay Inc. 'corporate family' (hereinafter referred to as the 'eBay Group') for the purpose of targeted marketing activities, updates, and promotional offers based on your message preferences (where applicable), or for any other purposes as set forth in this Privacy Policy; and
-  * to provide you with other services that you have requested, as described when we collected the information.
+  * Any identifying information such as your name, addresses, telephone numbers or email addresses when you register for an account with us.
+  * Buying or selling information you provide during a transaction, or other transaction-based content that you generate or is connected to your account as a result of a transaction you are involved in.
+  * Other content that you may generate, or that is connected to your account and your use of our website including your use of the following website functions: My Gumtree (Manage my ads, Messages, Favourites, Saved Searches, My Favourites, My Details, Create Account), Post an Ad or the Help section.
+  * Financial and billing information (such as credit card or bank account numbers) in connection with a transaction which is held by our trusted payment processing service providers.
+  * You may also provide us with your information by submitting a web form, updating or adding information to your account, through your participation in community discussions, chats, dispute resolution, or when you otherwise correspond with us regarding our Services.
+  * Additional information we are required or authorized by applicable national laws to collect and process in order to authenticate or identify you or to verify the information we have collected.
 
 
 
-**Sharing information with and registration on social media sites:** We may offer sign-on Services that enable you to access the Website or related websites with your login credentials. We can also offer Services that enable you to share information with third party social media websites, such as Facebook, Google Plus and Twitter.
+Personal information we collect automatically when you use our Services or register for an account with us
 
-If you provide us access to personal information stored on third party websites, the scope of access to this personal information shall vary per website and will be determined by both your own browser settings and your consent. If you wish to connect your third party account to your www.gumtree.com account and you consent to us accessing the information in these third party accounts, you agree that we can collect, use and store information from this third party website in accordance with this Privacy Policy.
-
-Transfer of your personal information to third parties: We may disclose your personal information to third parties in accordance with this Privacy Policy and applicable legislation and regulations. As further described under Section 4, we will not disclose your personal information to third parties for their marketing purposes without your explicit consent. We may share your personal information with:
-
-  * companies of the eBay Group to provide joint content and services (such as registration and customer support), to prevent, detect and investigate possible illegal activities, violations of our policy, fraud and/or data security breaches, and to support decision making on products, websites, applications, services, tools and communication. The eBay Group companies will only use this information to send you marketing messages when you yourself have requested their services, and they will use your personal information in accordance with their respective privacy policy.
-  * service providers with whom we have entered into an agreement to help us provide our Services on the website, such as financial service providers, marketing agencies and technical support. In such cases, the personal information shall remain under the control of Gumtree.
-  * certain third parties (such as intellectual property rights holders, supervisory authorities, tax authorities, police and other regulatory authorities) if we are required to do so by law, or in accordance with our Privacy Policy. We may share your personal information: 
-    * to comply with legal obligations or a court order; or
-    * if this is necessary for the prevention, detection or prosecution of criminal offenses, such as fraud, deceit or prosecution, or
-    * if it is necessary to maintain our policies or to protect the rights and freedoms of others.
-  * other third parties to whom you have given consent to share your information via [same as above], e.g. in the framework of a cooperation;
-  * companies that we intend to merge with in the context of a reorganisation or that acquire us;
-  * an intellectual property owner if the owner of an intellectual property right or an intermediary in good faith believes that an advertisement violates the rights of the owner. Before personal information is provided, the IP owner will enter into an agreement that, inter alia, stipulates that information is only provided on the strict condition that it may only be used in the context of legal proceedings and/or obtaining legal advice and/or to answer questions from the relevant advertiser
+  * We also collect information about your interaction with our Services, your advertising preferences, and your communications with us. This is information we receive from the devices (including mobile devices) you use when you use our Services, register for an account with us, provide information on a web form, update or add information to your account, participate in community discussions, chats, or dispute resolution, or when you otherwise correspond with us regarding our Services. This information includes the following: device ID or unique identifier, device type, ID for advertising, and unique device token.
+  * Geo-location information, including location information from your mobile device. Keep in mind that most mobile devices allow you to control or disable the use of location services by any application on your mobile device in the device's 'Settings' menu.
+  * Computer and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, your IP address, your browsing history, and your web log information.
 
 
 
-Without limitation to the foregoing, we shall moreover - in our efforts to respect your privacy and to keep the website free of malicious persons or parties - not disclose your personal information to third parties without a court order or formal request from the government in accordance with applicable law, unless we believe in good faith that such disclosure (i) is necessary for the purpose of, or in connection with, any legal proceedings (including prospective legal proceedings), for the purpose of obtaining legal advice or is necessary for the purposes of establishing, exercising or defending legal rights, (ii) is necessary for the prevention or detection of crime, the capture or prosecution of offenders, or the assessment or collection of tax or duty, (iii) is requested by a body that performs public regulatory functions, or (iv) is otherwise authorized under the Data Protection Act 1998.
+Personal information we collect using cookies, web beacons, and similar technologies
 
-**Information you share on www.gumtree.com:** Our Website allows users to share advertisements and other information with other users, thereby making this shared information accessible to other users. Since our Website also enables you to directly contact a buyer or seller, we recommend that you consider how you share your personal information with others. You are solely responsible for the personal information you share through our Website and therefore we cannot guarantee the privacy or security of the information shared by you with other users.
+We use cookies, web beacons, unique identifiers, and similar technologies to collect information about the pages you view, the links you click, and other actions you take on our Services, within our advertising or e-mail content. For more information about our use of these technologies and how to control them, see our notice on [Cookies, Web Beacons and Similar Technologies](http://pages.ebay.com/help/account/cookies-web-beacons.html). 
 
-In case you visit our Website from a shared computer or a computer in an internet café, we strongly recommend that you log off after each session. If you do not want the shared computer to remember you and/or your credentials, you will need to remove cookies and/or the history of your website visits.
+Personal information from other sources
 
-## 4\. Marketing Purposes
-
-You agree that we may use the information collected by us to send you offers, whether personalised or not, or to contact you by telephone regarding products or Services offered by Gumtree or companies of the eBay Group.
-
-We will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our Services and functionalities.
-
-When you no longer wish to receive marketing communications from us, you can, where applicable, change your preferences in your MyGumtree account, or follow the unsubscribe link in the marketing communication you received.
-
-## 5\. Cookies
-
-When you use our Services, we and our service providers may place cookies (data files on your phone or mobile device's drive) or web beacons (electronic images that are placed in a web page's the code) or similar technologies. We use cookies to help us identify you as a user, to provide you a better experience on our Website, to measure promotional effectiveness and to ensure trust and safety on our Website. For more detailed information about our use of these technologies, we refer you to our Policy on Cookies, Webbeacons and Similar Technologies.
-
-## 6\. Accessing, Reviewing and Changing Your Personal Information
-
-We cannot modify your personal information or account information. You can modify your own information by logging into your MyGumtree account. When you place a classified ad, you may not be able to change your listing or delete your message. If you want to close your account (where applicable) with us, please send us a request [here](http://gumtree.force.com/Help/knowledgeContactSearch). We will process your request within a reasonable period of time and process your personal information in accordance with applicable law. Alternatively, you can also contact Customer Support at [sargt@gumtee.com](mailto:sargt@gumtee.com) to access your personal information stored by us that is not directly accessible on Gumtree, unless Gumtree is not required to provide access under the Data Protection Act 1998. We may charge a fee to compensate costs; however the fee shall not exceed the amount permitted by law. If your information is factually incorrect or incomplete or irrelevant for the purposes for which we process your information, you can request us to modify or delete your information. Such requests will be handled in accordance with the Data Protection Act 1998. If you have any questions, please contact us with the subject line "Request Privacy Policy":
-
-  * via the [Contact Form](http://gumtree.force.com/Help/knowledgeContactSearch); or
-  * by writing to the Data Controller at:  
-Gumtree.com Limited  
-Attention: Privacy Policy Requests  
-5 New Street Square  
-London  
-United Kingdom  
-EC4A 3TW  
+  * We may supplement the personal information we collect with information from third parties and add it to your account information including but not limited to demographic information that is publicly available, additional contact information, credit check information, and information from credit bureaus, as allowed by applicable national laws.
+  * We may allow you to share information with social media sites, or use social media sites to create your account or to connect your account with the respective social media site. Those social media sites may give us automatically access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or may have clicked on, etc.). If you provide us with access to any site with video content, then you agree that we may share your video viewing with, or obtain information about your video viewing from, third-party social media sites for at least two years or until you withdraw consent. You control the personal information you allow us to have access to through the privacy settings on the applicable social media site and the permissions you give us when you grant us access to your personal information retained by the respective social media site about you. By associating an account managed by a social media site with your account and authorizing us to have access to this information, you agree that we may collect, use and retain the information provided by these social media sites in accordance with this Privacy Notice.
+  * If you give us personal information about someone else, you must do so only with their explicit and prior consent. You have to inform them how we collect, use, disclose, and retain their personal information according to our Privacy Notice.
 
 
 
+##  Use and Retention 
 
-## 7\. Protection and retention of your personal information
+We use the personal information we collect to: provide and improve our Services, provide you with a personalized experience on our sites (especially, by offering you services and items that you may like), contact you about your account and our Services, provide you with customer service, provide you with personalized advertising and marketing, and detect, prevent, mitigate, and investigate fraudulent or illegal activities. 
 
-We protect your information by using technical and administrative security measures (such as firewalls, data encryption, and physical and administrative access controls to the data and servers) that limit the risk of loss, abuse, unauthorised access, disclosure, and alteration. Nevertheless, if you believe your account has been abused, please contact us through the Contact Form.
+We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Terms of Use and take other actions permitted or required by applicable national laws. 
 
-We retain personal information no longer than is legally permissible and delete personal information when it is no longer necessary for the purposes as described above.
+We use the personal information we collect to: provide and improve our Services, to provide you with a personalized experience on our sites (especially, by offering you services and items that you may like), to contact you about your account and our Services, to provide you customer service, to provide you with personalized advertising and marketing, and to detect, prevent, mitigate and investigate fraudulent or illegal activities. We may use and retain your personal information as follows: 
 
-## 8\. Other information
+### Provide, improve, and personalize our Services
 
-**Abuse and unsolicited commercial communications ("spam"):** We do not tolerate abuse of our Website. You do not have permission to add other Gumtree users to your mailing list (e-mail or postal) for commercial purposes, even if a user has purchased something from you, unless the user has given his explicit consent. If you notice that someone is abusing our Website (spam or spoof emails), please notify us [here](http://help.gumtree.com/knowledgeContactSearch).
+  * Provide access to and use of our Services.
+  * Offer you site content that includes items and services that you may like.
+  * Keep track of your Saved Searches, Favourites and to manage your ads.
+  * Give you access to your internal messages and other features.
+  * Provide you with credit offers and opportunities on behalf of other members of our Gumtree corporate family and their financial institution partners.
+  * Customize, measure, and improve our Services.
+  * Provide other services requested by you as described when we collect the information.
+  * We may use geo-location information to provide you with location based services (such as advertising, search results, and other personalized content).
 
-It is not allowed to use our member-to-member communication resources to send spam or content that violates our Terms of Use in any other way. For your security, we may scan messages automatically and check for spam, viruses, phishing and other malicious activity or illegal or prohibited content. We do not permanently store messages sent through these resources.
 
-**Third Parties:** Unless explicitly provided otherwise in this Privacy Policy, this Privacy Policy applies only to the use and transfer of information we collect from you. Gumtree has no control over the privacy policies of third parties that may apply to you. When we work with third parties or use third party tools to provide certain services, we will explicitly indicate which privacy policy applies to you. We therefore encourage you to ask questions before you disclose your personal information to others.
 
-**Contact:** If you have any questions about Gumtree and our Website please contact us by clicking here. For more information about eBay Inc. and how eBay handles personal information and privacy, you can contact the [eBay Privacy Center](http://ebayprivacycenter.com/).
+### Contact you about your account and provide you customer service
+
+  * Contact you to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, or as otherwise necessary to provide you customer service.
+  * Contact you as necessary to enforce our Terms of Use, applicable national laws, and any agreement we may have with you.
+  * For these purposes we may contact you via email, telephone, text messages, and postal mail. When contacting you via telephone, to ensure efficiency, we may use auto-dialled or pre-recorded calls and text messages as described in our Terms of Use. Message and data rates may apply.
+
+
+
+### Personalize our advertising and marketing communications
+
+  * Personalize, measure, and improve our advertising based on your advertising customization preferences.
+  * Contact you, either via email, telephone, text messages, and postal mail in order to: offer you coupons, discounts and special promotions, and inform you about our Services and those of our eBay Inc. corporate family. We will use the contact information you have provided to contact you by e-mail, SMS text and/or telephone if you have consented to such contact. Message and data rates may apply.
+  * Deliver targeted marketing, service updates and promotional offers based on your communication preferences.
+
+
+
+### Prevent, detect, mitigate, and investigate fraudulent or illegal activities
+
+  * Prevent, detect, mitigate, and investigate fraud, security breaches, potentially prohibited or illegal activities.
+  * Enforce our Privacy Notice, Terms of Use or other policies.
+
+
+
+We retain your personal information as long as it is necessary and relevant for our operations. In addition, we may retain personal information from closed accounts to comply with national laws, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce our Terms of Use and take other actions permitted or required by applicable national laws. After it is no longer necessary for us to retain your personal information, we dispose of it in a secure manner according to our data retention and deletion policies. 
+
+##  Choice 
+
+You have a choice about how we use your personal information to communicate with you, to send you marketing information, how we provide you with customized and relevant advertising, and whether you want to stay signed into your account. 
+
+### Communication preferences
+
+You can control the methods by which we may contact you in My Gumtree. There, you can also change your password or update your cv. 
+
+### Marketing
+
+If you do not wish to receive marketing communications from us, you can unsubscribe using the link in the email you receive, change your marketing preferences in My Gumtree, or indicate your communication preferences in a direct communication to us by contacting [Customer Support](http://help.gumtree.com/articles/General_Information/Get-in-touch-with-Gumtree). 
+
+### Advertising
+
+If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [AdChoice program](http://pages.ebay.com/help/account/adchoice.html). The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of information for certain purposes such as usage, research, analytics and internal online services operation purposes). In addition to that, we do not allow third parties to track or collect your personal information on our sites for their own advertising purposes without your consent. 
+
+### Signed in
+
+When you sign into your account on our Services, we may give you the option to stay signed in to your account for a certain period of time. If you are using a public or shared computer, we encourage you not to choose to stay signed in. You or any other user of the computer/browser you signed in on will be able to view and access most parts of your account and take certain specific actions during this signed in period without any further authorization. The specific actions and account activities that you or any other user of this computer/browser may take include: 
+
+  * Listing or enquiring about an ad
+  * Manage your ads
+  * View My Gumtree page
+  * View my Favourites
+  * View the profile page
+  * Send member-to-member messages
+
+
+
+If you attempt to change your password, update any other account information or attempt other account activity beyond those listed above, you will be asked to enter your password. 
+
+You can typically end your signed in session by either signing out and/or clearing your cookies. If you have certain browser privacy settings enabled, simply closing your browser may also end your signed in session. If you are using a public or shared computer you should sign out and/or clear your cookies when you are done using our Services in order to protect your account and your personal information. 
+
+### Withdraw consent
+
+If you withdraw your consent for the use or disclosure of your personal information for purposes set out in this Privacy Notice you may not have access to all our Services and we might not be able to provide you all of the Services and customer support offered to our users and authorized under this Privacy Notice and our Terms of Use. 
+
+##  Access 
+
+We take steps to ensure that the personal information we collect is accurate and up to date, and that you have the ability to access and make corrections to it. 
+
+Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable national laws. 
+
+You can update or correct your personal information on your own Gumtree account or if you do not have a Gumtree account, you may request that we correct or update your information at [sargt@gumtree.com](mailto:sargt@gumtree.com). 
+
+You can request a copy of the personal information that Gumtree holds about you by contacting us at [sargt@gumtree.com](mailto:sargt@gumtree.com) and we will let you know if any fees apply. Where you have a statutory right to request access or request the modification or erasure of your personal information, we can still withhold that access or decline to modify or erase your personal information in some cases in accordance with applicable national laws, but will give you reasons if we do so. 
+
+##  Disclosure 
+
+We may disclose your personal information to other members of the Gumtree corporate family or to third parties. This disclosure may be required for us to provide and to provide you access to our Services, to comply with our legal obligations, to enforce our Terms of Use, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We minimize the amount of personal information we disclose to what is directly relevant and necessary to accomplish the specified purpose. As stated above, we do not disclose your personal information to third parties for their marketing and advertising purposes without your consent. 
+
+We may disclose your personal information to the following parties and for the following purposes.
+
+### eBay Inc. corporate family members, who may use it to:
+
+  * Provide joint content and services (like registration, transactions, and customer support).
+  * Help detect and prevent potentially fraudulent and illegal acts, violations of our Terms of Use, and data security incidents and breaches.
+  * Provide you personalized advertising.
+  * Guide decisions about their products, sites, applications, services, tools, and marketing communications. Members of our Gumtree corporate family will use your personal information to send you marketing communications only if you have consented to receive such communications from them.
+
+
+
+### Service Providers and financial institutions partners
+
+  * Third party service providers who help us to provide our Services, payment processing services, assist us in providing customized advertising, to assist us with the prevention, detection, mitigation, and investigation of potentially illegal acts, violations of our Terms of Use, fraud and/or security breaches, bill collection, affiliate and rewards programs, co-branded credit cards and other business operations.
+  * Third party financial institution partners who may offer financial products to you, for them to provide joint content and services (such as, registration, transactions and customer support). These third party financial institution partners will use your personal information to send you marketing communications only if you have requested their services.
+
+
+
+### Law enforcement, legal proceedings, and as authorized by law
+
+  * To comply with our legal requirements, enforce our Terms of Use, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property or safety.
+  * To law enforcement or governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged or suspected illegal activity or any other activity that may expose us, you, or any other of our users to legal liability. We will only disclose information we deem relevant to the investigation or inquiry, such as name, address, city, state, postcode, telephone number, email address, User ID history, IP address, fraud complaints, bidding and listing history.
+  * To participants of Gumtree's [Brand Infringement NTD](http://help.gumtree.com/articles/General_Information/Intellectual-Property-NTD?at=Brand%20Infringement%20\(NTD\)&c=All) Program as we in our sole discretion deem necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, we may disclose contact details including seller's name, street address, city, , postcode, country, phone number, email address and company name to participants of Gumtree's [Brand Infringement NTD](http://help.gumtree.com/articles/General_Information/Intellectual-Property-NTD?at=Brand%20Infringement%20\(NTD\)&c=All) Program.
+  * To credit agencies or bureaus as authorized by applicable national laws (e.g. information on late or missed payments or other defaults on your account that may be reflected in your credit report or file).
+  * To third parties involved in a legal proceeding, if they provide us with a subpoena, court order or substantially similar legal procedure, or we otherwise believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+
+
+
+We may transfer your information to data processors outside the European Economic Area in accordance with applicable data protection laws and regulations. In some of these countries, the privacy and data protection laws may differ from those in the country where you live. 
+
+### Change of Ownership
+
+If we were to merge with or be acquired by another company, we may share information with them in accordance with our global privacy standards. Should such an event occur, we will require that the new combined entity follow this Privacy Notice with respect to your personal information. If your personal information will be collected, used, disclosed, or retained for any purposes not covered in this Privacy Notice, you will receive prior notification of the processing of your personal information for the new purposes. 
+
+##  Security 
+
+We protect your information using appropriate technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. 
+
+##  Important Information 
+
+This section describes some additional important information related to your use of our Services.
+
+There are just a few more pieces of important privacy information related to your use of our Services that we need to cover: 
+
+### When you share your personal information on our sites or applications - what happens?
+
+Other users may have access to the information you share on Gumtree including feedback, ratings and associated comments and any information you chose to share in your profile or your collections. 
+
+Your User ID is displayed throughout Gumtree and is available to the public. It is connected to all of your Gumtree activity. Notices sent to other users about suspicious activity and notice violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your Gumtree activities. 
+
+To help protect your privacy, we allow only limited access to other users' contact, shipping and financial information as necessary to facilitate your transactions and collect payments. However, when users are involved in a transaction, they have access to each other's name, User ID, email address and other contact and shipping information. 
+
+### How you should use the information you receive on Gumtree
+
+When you are in a transaction with another user we may provide you with the personal information of the other user (such as his/her name, account ID) to complete the transaction. We encourage you to inform the other user about your privacy practices and respect his/her privacy. In all cases, you must give the other user a chance to remove himself/herself from your database and give him/her a chance to review what information you have collected about them. 
+
+You may use the personal information that you have access to only for Gumtree transaction-related purposes, or for other services offered through Gumtree (such as fraud complaints, and member-to-member communications), and for purposes expressly consented by the user to whom the information relates. Using personal information of other users that you have access to for any other purpose constitutes a violation of our Terms of Use. 
+
+### Unwanted or threatening email
+
+We do not tolerate abuse of our Services. You do not have permission to add other users to your mailing list (email or postal), call, or send him/her text messages for commercial purposes, even if this user purchased something from you, unless the user has given his/her explicit consent. Sending unwanted or threatening email and text messages is against our Terms of Use. [To report Gumtree-related spam or spoof emails please notify us here](https://gumtree.secure.force.com/Help/apex/knowledgeChatForm?endpoint=https%3A%2F%2Fgumtree.secure.force.com%2FHelp%2Fapex%2FknowledgeChatWindow%3Flanguage%3D%23deployment_id%3D57220000000CaZh%26org_id%3D00D200000006AK6%26button_id%3D57320000000CaZh%26session_id%3De4530bcd-21bf-4c20-b716-6225349cdab9). 
+
+### Children's Privacy
+
+Our websites are general audience websites, and our Services are not intended for individuals under the age of 18. We do not knowingly collect personal information from users in this age group. 
+
+### Third Party Privacy Practices
+
+This Privacy Notice addresses only the use and disclosure of personal information we collect from you. If you disclose your information to others, or if you are directed to a third party website, their privacy notices and practices will apply. 
+
+We cannot guarantee the privacy or security of your information once you provide it to a third party and we encourage you to evaluate the privacy and security policies of your trading partner before entering into a transaction and choosing to share your information. This is true even where the third parties to whom you disclose personal information are bidders, buyers or sellers on our sites. 
+
+### Questions or Complaints
+
+If you have a question or a complaint about this Privacy Notice or eBay's global privacy standards or information handling practices, you can contact the Global Privacy Office in the following ways: 
+
+  * By writing to: eBay Inc, Attn: Legal - Global Privacy Office, 2065 Hamilton Avenue, San Jose, California 95125, USA
+  * By using the Contact us link at our [eBay Privacy Centre](http://www.ebayprivacycenter.com/about-us)
+
+
+
+Please identify the website that you are contacting us about and we will try to provide a prompt response to your complaint. If you do not think our response is satisfactory, contact your privacy regulator. For any other questions or complaints please contact [Customer Support](http://help.gumtree.com/articles/General_Information/Get-in-touch-with-Gumtree). 
