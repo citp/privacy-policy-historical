@@ -1,82 +1,196 @@
-> *The following text is extracted and transformed from the govype.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202043931id_/http%3A//uk.govype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govype.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231093426id_/https%3A//www.govype.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vype UK
 
-This Privacy Policy explains how we, Nicoventures Trading Limited, may collect, use and share your Personal Information when visiting this website.
+This Privacy Policy (together with the [Terms and Conditions](https://www.govype.com/uk/terms-of-use), [Conditions of Sale](https://www.govype.com/uk/conditions-of-sale), Cookie Policy and any other documents we refer to in this policy or those Terms) explains how we, Nicoventures Trading Limited, may collect, use and share your personal information when visiting <https://www.govype.com/uk> (‘Website’).
 
-  * What information we collect about you
-  * How we use information we collect about you
-  * Where we store our information about you
-  * Our cookie policy
-  * How to contact us
-  * Definitions
+We are committed to protecting and respecting your privacy.  Please read the following carefully.
 
+By visiting and using the Website you are agreeing to the use of your personal information in the way that is described in this Privacy Policy.
 
+Please refer to our Cookie Policy below if you would like detailed information on the types of cookies we use on the Website, the purposes for which we use each cookie, how you can disable and enable the use of certain cookies and the consequences of doing so.
 
-## What information we collect about you
+If you have any queries or concerns regarding this Privacy Policy, please contact us at info@govype.com.
 
-We collect Personal Information you submit to us when you:
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-  * make an order;
-  * subscribe to our newsletter;
-  * set up an account with us; or
-  * correspond with us.
-
-
-
-We also automatically collect information about how visitors use our site (such as statistical data on click-through rates, sales on the website and information about where traffic to our website comes from) by using cookies and similar technology. To learn more about how we use cookies please see our Cookie Policy.
-
-## How we use information we collect about you
-
-We will use your Personal Information to provide you with the products and services you request from us. To do this we may need to share your Personal Information with third parties (for example, in order to fulfil your order).
-
-We may use your information to tell you more about our products and services we think may interest you. We will only send you information electronically if you have already agreed to this.
-
-If you choose to answer our market research questions when registering or checking out (for example, "how did you hear about us?"), we will use your answers for market research. ** __**
-
-Please see our Cookie Policy for details of how we use Personal Information we collect or process with cookies.
-
-## Where we store our information about you
-
-We make sure that we store Personal Information securely. Depending on where our servers are located, and what we are permitted to do under applicable data protection legislation, this could be anywhere in the world.
-
-## Our cookie policy
-
-We use cookies on this website. This is to provide you with a better user experience when you browse our website. It also enables us to improve our website. This policy explains how we do that.
-
-### What is a cookie?
-
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer tablet, or mobile device when you first visit our website. The cookie will help our website, or another website, recognise your computer the next time you visit. A cookie can contain Personal Information. We detail what cookies we use, and what information they contain, below.
-
-### What types of cookie do we use?
-
-We use the following cookies:
-
-  * Strictly necessary cookies: These are the cookies required to operate our website (for example, using a shopping cart or making use of e-billing services).
-  * Analytics cookies: These allow us to recognise and count the number of visitors and to see how visitors move around our website. This helps us improve the design of this website.
-  * Functionality cookies: These are used to recognise you when you return to our website. This enables us to personalise our content for you and remember your preferences (for example, your choice of language or region).
-  * Targeting cookies: These cookies record your visit to our website, the pages you visited and the links you followed. We use this information to provide you with advertising and content we think you will be interested in. For this purpose we may share that information with third parties.
+  * [What information do we collect about you](https://www.govype.com/uk/privacy-policy#what)
+  * Verifying your age
+  * [What do we do with information we collect about you](https://www.govype.com/uk/privacy-policy#how)
+  * [Where do we store our information about you](https://www.govype.com/uk/privacy-policy#where)
+  * Your rights
+  * Changes to this Policy
+  * [How to contact us](https://www.govype.com/uk/privacy-policy#contact)
 
 
 
-### Who else uses cookies on our website?
+What information do we collect about you
 
-Some third parties may use their own cookies, over which we have no control. For example, an advertiser might use targeting cookies to provide you with more relevant banner adverts during your visit to our website.
+We collect and process the following data about you (‘your information’):
 
-In other cases we may use their cookies (be they analytics, functionality or targeting cookies) to help us with market research or improving the design of this website. For example, like many other website operators, we use Google Analytics.
+  * information that you submit online via the Website; 
 
-### How can I block cookies?
 
-You can block cookies by activating the setting on your browser that allows you to refuse all, or some, cookies. If you block all cookies (including essential cookies) you may find that parts of our website do not work properly, or you may not be able to access our website at all.
+  * any correspondence you send to us; 
 
-### When do cookies stop?
 
-Except for strictly necessary cookies our cookies expire after 60 days.
+  * details of your visits to the Website and the resources that you access (which may include, amongst other things, traffic data and communication data); and 
 
-## How to contact us
 
-If you wish to contact us with any queries or concerns, please see our [Contact Us](https://web.archive.org/contacts) page or email us at [info@govype.com](mailto:info@govype.com) or write to us via post at Customer Services, Nicoventures Trading Ltd. Phoenix Park Unit 1, Blakewater Rd, Blackburn, Lancashire, BB1 5SJ.
+  * details of transactions you carry out or orders you place through the Website.
 
-## Definitions
 
-"Personal Information" means any information relating to you from which you can be identified either (a) by that information alone, or (b) by that information with other information which is in the possession of, or likely to come into the possession of, us.
+
+We are aware that your information may be confidential and we will protect the confidentiality of your information in accordance with our normal procedures and legal requirements.
+
+We also automatically collect information about how visitors use our Website by using cookies and similar technology. To learn more about how we use cookies please see our [Cookie Policy](https://www.govype.com/uk/privacy-policy#cookies).
+
+Verifying your age
+
+As this Website relates to vaping and vaping products, we must make sure that users paying by debit card only are verified on the Website and are aged 18 years or over. Failing age verification will mean you cannot complete a purchase.
+
+In order to enable us to do this we will require certain information about you. This will then be passed to our service provider (GB Group plc) who will check it against public sources of information to deliver confirmation, usually in real time.
+
+In order to verify your identity, we may also require you to provide demographic information (such as gender and birth date) and additional personally identifiable information which may be used by GB Group Plc to verify your details and may include;
+
+  * Passport number; or
+  * Driving licence number.
+
+
+
+This information is checked against secure independent data sources, such as the electoral roll, in order to help verify identity.
+
+The verification process may include disclosing your information to third party data providers including credit reference agencies. The data providers may check the details supplied against any particulars on any database (public or otherwise) to which they have access.
+
+Any verification check with a credit reference agency will be registered as an ‘unrecorded enquiry’ on your credit report. An unrecorded enquiry means that the search was not made for lending purposes and it is only included on your credit report so that you know the search was made. It is not visible to lenders so it does not affect your credit rating or score when you apply for credit. As part of this process, we will not receive any additional information from the credit reference agency about you.
+
+In some cases, we may need to ask for further information in order to verify your age. If this is necessary, we will contact you to explain why.
+
+What we do with information we collect about you
+
+Use of information
+
+We use your information in the following ways:
+
+  * to ensure that the Website’s content is presented as effectively as possible for you; 
+
+
+  * for our internal purposes, such as quality control, Website performance, system administration and to evaluate use of the Website, so that we can provide you with enhanced services; 
+
+
+  * to notify you about changes to our services; 
+
+
+  * to provide you with information, products or services that you request from us, or which we feel may interest you (provided of course that you agree); 
+
+
+  * to create reports to assist with future marketing; 
+
+
+  * to verify your age (see the section above for further details);
+
+
+  * to carry out our obligations arising from any contracts with you and for billing and delivery purposes; and 
+
+
+  * to enable you to participate in the features of the Website, when you choose to do so.
+
+
+
+We may monitor your use of the Website and record your email address and/or IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical information about our users’ browsing actions and patterns and does not identify any individual.
+
+We collect non-personal aggregated statistics data about visitors to the Website and sales and traffic patterns. Just to be clear, this information does not identify users in any personal capacity and we do not use this information to build profiles on individual users: it just contains generalised information about the users of the Website.
+
+We only keep your information for as long as is necessary.
+
+Marketing
+
+If you are an existing customer or you have made a sales enquiry, we may contact you by email / telephone / post with information about products and services which are similar to those we previously provided to you, unless you have indicated that you do not want to hear from us.
+
+Otherwise, we may contact you by email / telephone / post only if you consent.
+
+We may also pass your information to other organisations (if you consent) who may contact you to provide marketing information about their products and services by email / telephone / post.
+
+If you do not want us to use your information in this way, please tick the relevant boxes during the order process when we collect your information.  You may ask us at any time not to use your information for marketing purposes by contacting us at [**_info@govype.com_**](mailto:info@govype.com) _._
+
+Sharing your information
+
+With whom do we share your information? We may share your information with other organisations:
+
+  * if we sell or buy any business or assets (as we may share your data with the prospective seller or buyer); 
+
+
+  * if we or substantially all of our company assets are acquired by another party, in which case your information will be one of the transferred assets; 
+
+
+  * with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006; 
+
+
+  * with business partners, suppliers, sub-contractors for the performance of any contract we enter with them or you; and 
+
+
+  * if we have to share your information to comply with legal or regulatory requirements, or if we have to enforce or apply our Terms or any other agreements or to protect our rights, property or our customers, etc.  This may involve exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+We may share the non-personal aggregated statistics data about visitors to the Website with third parties.
+
+We may also share your information with selected third parties for the purposes of credit card clearance/credit reference/order fulfilment/delivery/data analysis/customer support/storage services.
+
+We may pass your email address to selected third parties (as described above under the heading of ‘Marketing’) provided that you have explicitly consented to this when we take your order.
+
+We do not send any personal information that we collect about you on the Website to any social media sites that you link to your account, e.g. Facebook, nor do we share that information with such sites.  We do not collect any personal information about you from those sites.
+
+If you pay for a product over this Website, we use Worldpay to process your payment. Worldpay operates a secure server to process your payment details. They encrypt your credit or debit card information and authorise payment directly. This means that your credit card or debit card details are never revealed to us. Please read the Worldpay privacy policy  <http://www.worldpay.com/uk/privacy-policy> to see what security measures they have in place and how they treat your information.
+
+Where do we store our information about you
+
+Security
+
+All your information is stored on our secure servers.  Any payment transactions will be stored on Worldpay hosting services.  Any actions you perform on the Website which are related to your account will be encrypted.  If you have a username, password or other login details which enable you to access certain parts of the Website, you must not allow any other person to use them and must treat them as confidential.  If you believe or suspect that someone else knows your login details you must contact us at [info@govype.com](mailto:info@govype.com) as soon as possible. Please also see our Conditions of Sale.
+
+Unfortunately, the transmission of information via the Internet is not completely secure.  Although we will apply our normal procedures and comply with legal requirements to protect your information, we cannot guarantee the security of your information transmitted to the Website and any transmission is at your own risk.  Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+The Website may from time to time contain links to and from other websites.  If you follow a link to any of those sites, please note that those sites ought to have their own privacy policies and that we do not accept any responsibility or liability for those sites or for their privacy policies.  Please check those privacy policies before you submit your information to those sites. 
+
+Where do we transfer your information? 
+
+We may transfer your information to, or store it in, countries located outside the European Economic Area (‘EEA’) which do not have as developed data protection laws.  It may also be processed by staff at our affiliates, suppliers, agents or appointed representatives’ offices overseas.
+
+Please do not send us your information if you do not want it to be transferred to or stored outside the EEA. By providing your information to us you agree and consent to us transferring to, and storing your information at, a destination outside the EEA.
+
+Your rights
+
+You can access and rectify certain parts of your personal information by logging into your account.
+
+Under the Data Protection Act you have the right to see the personal information that we hold about you, whether collected through your use of the Website or through any communications that you have had with us. You have the right to access your information and should direct any request for your information to us at **_info@govype.com_**. 
+
+Please note that currently a fee of ten pounds sterling ( **£10.00** ) may be payable to meet our costs in providing you with details of the information we hold about you.
+
+You have the right to rectify your information by sending a written request to us at **_info@govype.com_**.
+
+You have the right to ask us not to process your information (or pass your information to other companies or organisations) for marketing purposes.  You can tick the appropriate box on the forms when we collect your information or later at any time by contacting us at **_info@govype.com_**.
+
+If you have a complaint about how we have used your information, you have the right to complain to the Information Commissioner’s Office <https://ico.org.uk/>
+
+Changes
+
+We may make changes to this Privacy Policy at any time by sending you an email with the modified terms or by posting a copy of them on the Website.  Any changes will take effect 7 days after the date of our email or the date on which we post the modified terms on the Website, whichever is the earlier. Your continued use of the Website after that period expires means that you agree to be bound by the modified policy.
+
+How to contact us
+
+If you wish to contact us with any queries or concerns, please see our [Contact Us](https://www.govype.com/contacts) page or email us at [info@govype.com](mailto:info@govype.com) or write to us via post at:
+
+Customer Services
+
+Nicoventures Trading Ltd
+
+One Eton Street
+
+Richmond Upon Thames
+
+London
+
+TW9 1EF
+
+Last Posted 6th December 2016
