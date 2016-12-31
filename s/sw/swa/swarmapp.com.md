@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621120633id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231011825id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # Foursquare
 
