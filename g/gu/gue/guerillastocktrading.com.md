@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618093908id_/https%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231042345id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,17 @@ Some of our business partners may use cookies on our site (for example, advertis
 **Links**
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+### Top Performing GuerillaStockTrading Picks For Week Ending December 30 2016
+
+### STOCK MARKET PREDICTION SHOW OVER 24,000 SUBSCRIBERS!
+
+[](https://www.youtube.com/watch?v=qhWty-jCk58)
+
+[](http://www.guerillastocktrading.com/tsaasf-certification/)
+
+### Disclosure Statement
+
+We are a professional website that receives compensation from the companies whose products we review and recommend. We are independently owned and the opinions we express here are our own. We have high standards and a reputation to uphold. Our recommendations are researched carefully and if the company or companies we currently recommend do not maintain their high quality of service, we will take appropriate action including updating this website to reflect any necessary changes.
+
+The information on this website is for informational purposes only. DO NOT BASE ANY INVESTMENT DECISION UPON ANY MATERIALS FOUND ON THIS WEBSITE. We are not registered as a securities broker-dealer or an investment adviser either with the U.S. Securities and Exchange Commission (the SEC) or with any state securities regulatory authority. We are neither licensed nor qualified to provide investment advice. The contents of this website are not provided to any particular individual with a view toward their individual circumstances. You should seek advice from a licensed and registered investment adviser for your particular situation.
