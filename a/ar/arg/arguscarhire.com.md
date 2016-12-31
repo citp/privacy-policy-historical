@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515010430id_/http%3A//www.arguscarhire.com/privacy-policy/%3Fc%3Dus%7C%7Cen-gb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arguscarhire.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231142552id_/http%3A//www.arguscarhire.com/privacy-policy) for the most accurate reproduction.*
 
 # Argus Car Hire compares the prices of 1200 car hire agents at 30,000 locations worldwide to find you the cheapest deal!
 
