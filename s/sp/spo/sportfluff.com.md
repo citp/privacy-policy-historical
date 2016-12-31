@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportfluff.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604145452id_/http%3A//www.sportfluff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportfluff.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231223322id_/http%3A//www.sportfluff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SportFluff
 
