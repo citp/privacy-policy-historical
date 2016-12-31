@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624185023id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231100740id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
 
-# Huffingtonpost.CA Privacy Policy
+# Huffington Post Canada Privacy Policy
 
-**HUFFINGTONPOST.CA PRIVACY POLICY**
-
-This privacy policy applies to users of the HuffingtonPost.ca website (the "Site") which is a part of AOL Canada Inc. and the family of companies owned and operated by AOL Inc. (collectively "AOL"). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+This privacy policy applies to users of The Huffington Post Canada website (the "Site") which is a part of AOL Canada Inc. and the family of companies owned and operated by AOL Inc. (collectively "AOL"). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
 **1\. Scope**
 
@@ -19,10 +17,10 @@ We limit the personal information that we collect to what is necessary for the p
 You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including: 
 
 • Registration and contact information, such as name, email address, postal address, phone number, and mobile number;   
-• username and password;  
-• information posted in community discussions and other interactive online features;   
-• search queries conducted on the Site; and  
-• correspondence you send to us.
+• Username and password;  
+• Information posted in community discussions and other interactive online features;   
+• Search queries conducted on the Site; and  
+• Correspondence you send to us.
 
   
 **Information automatically collected when you visit and interact with the Site:**
@@ -42,7 +40,7 @@ When you visit and interact with the Site, certain information may be collected 
 • standard server log information; and  
 • information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. 
 
-For more information, please see our discussion of [cookies and other technologies.](http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html)
+For more information, please see our discussion of [cookies and other technologies.](http://privacy.aol.ca/cookies/)
 
 **Information we collect from other sources:**
 
@@ -70,10 +68,17 @@ With your consent, we may use your mobile number to send you promotions, notific
 
 **Advertising:**
 
-In order to provide our readers with free access to our content, we display advertisements on the Site. To create a more customized online experience for you, some of the ads you may receive are tailored to your preferences using information collected through cookies, web beacons, and other sources, such as ad networks which help us to present customized content and advertisements on the Site. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies. ](http://www.huffingtonpost.com/privacy/cookies-and-other-technologies.html)
+In order to provide our readers with free access to our content, we display advertisements on the Site. To create a more customized online experience for you, some of the ads you may receive are tailored to your preferences using information collected through cookies, web beacons, and other sources, such as ad networks which help us to present customized content and advertisements on the Site. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. For more information on how cookies and other technologies work, please see our discussion of [cookies and other technologies. ](http://privacy.aol.ca/cookies/)
 
-Third-party advertisers and advertising platforms also may serve targeted ads on the Site. For more information, please see our section on [third party advertising](http://www.huffingtonpost.com/privacy/third-party-online-advertising.html). Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. 
 
+Please remember that the Huffington Post Canada does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
+
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Digital Advertising Alliance of Canada ("DAAC"), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the DAAC's [website](http://youradchoices.ca/). 
+
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
+
+  
 **User Accounts:**
 
 To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators. For more information on this process, please see our [FAQ section](http://www.huffingtonpost.com/p/frequently-asked-question.html) about comment moderation guidelines. 
@@ -92,7 +97,7 @@ We may use the information that we collect to meet legal and regulatory requirem
 
 **4\. Information Sharing**
 
-The HuffingtonPost.ca values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
+The Huffington Post Canada values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
 
 • We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.   
 • We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.  
@@ -135,15 +140,15 @@ You can deactivate your account at any time by visiting the [preferences page](h
 
 **Cookies and Other Technologies**
 
-As discussed in the sections on cookies and other technologies and third party advertising, some information is collected about you automatically through cookies and other technologies to customize your online experience. You can opt out of the use of your information for targeting purposes through the following procedures:
+As discussed in the sections on cookies and other technologies, some information is collected about you automatically through cookies and other technologies to customize your online experience. You can opt out of the use of your information for targeting purposes through the following procedures:
 
-• Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioural advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit http://networkadvertising.org/managing/opt_out.asp.  
+• Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Digital Advertising Alliance of Canada "DAAC." To opt out of having information collected by DAAC member companies used for behavioural advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit the [DAAC's](http://youradchoices.ca/choices/) site.  
 • Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser. 
 
   
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. 
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third party advertising](http://www.huffingtonpost.com/privacy/third-party-online-advertising.html) and visit the [Digital Advertising Alliance](http://www.aboutads.info/consumers) website. 
+Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please visit the [Digital Advertising Alliance of Canada's website](http://youradchoices.ca/). 
 
 **7\. Access**
 
@@ -161,7 +166,7 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 **  
 10\. Information May Be Collected, Transferred, Stored, or Processed Outside of Canada**
 
-The HuffingtonPost.ca and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries. 
+The Huffington Post Canada and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries. 
 
 **11\. Children's Guidelines**
 
@@ -183,5 +188,4 @@ Chief Privacy Officer
 AOL Inc.  
 22000 AOL Way  
 Dulles, VA 20166  
-Effective Date: May 26, 2011  
-
+Effective Date: October 07, 2016
