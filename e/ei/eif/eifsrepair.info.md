@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eifsrepair.info privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628020035id_/http%3A//www.eifsrepair.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eifsrepair.info privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231184445id_/http%3A//www.eifsrepair.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EIFS Repair
 
