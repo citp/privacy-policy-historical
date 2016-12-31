@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408110849id_/http%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231215434id_/https%3A//www.lillypulitzer.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy and Security - Lilly Pulitzer
+# Privacy and Security | Lilly Pulitzer
 
-We have created this ecommerce privacy policy to demonstrate our firm commitment to your privacy and the protection of your email and personal information. This privacy policy (this "Policy") applies to your use of the www.LillyPulitzer.com website (the "Website"), which is owned and operated by Sugartown Worldwide LLC ("Sugartown Worldwide", "Lilly Pulitzer", "us", "our" or "we"). Your privacy and security are important to us. Please read this Policy carefully to understand how we will use and protect the personal information you provide us. We will not share your personal information with anyone except as described in this Policy. This Policy describes the personal information we collect about you, why we collect it, how we use it and under what circumstances we share it with third parties. This Policy also describes the decisions you can make about how you provide your personal information to us. If this Policy changes in the future, we will post an updated version on our website. You can tell if this Policy has changed by checking the revision date that appears at the bottom. You may change how you provide your personal information to us at any time. 
+We have created this ecommerce privacy policy to demonstrate our firm commitment to your privacy and the protection of your email and personal information. This privacy policy (this "Policy") applies to your use of our mobile applications, the www.LillyPulitzer.com website (the "Website"), and our stores, which are owned and operated by Sugartown Worldwide LLC ("Sugartown Worldwide", "Lilly Pulitzer", "us", "our" or "we"). Your privacy and security are important to us. Please read this Policy carefully to understand how we will use and protect the personal information you provide us. We will not share your personal information with anyone except as described in this Policy. This Policy describes the personal information we collect about you, why we collect it, how we use it and under what circumstances we share it with third parties. This Policy also describes the decisions you can make about how you provide your personal information to us. If this Policy changes in the future, we will post an updated version on our website. You can tell if this Policy has changed by checking the revision date that appears at the bottom. You may change how you provide your personal information to us at any time. 
 
   
 
 
 ## Our Privacy Policy: Contents
+
+[Lilly x Stila Giveaway](https://web.archive.org/content.jsp?pageName=summersweepstakes)  
+[Mother's Day Sweepstakes](https://web.archive.org/content.jsp?pageName=mothersdaysweepstakes)
 
   * Information We Collect
   * Using Information We Collect
@@ -22,7 +25,7 @@ We have created this ecommerce privacy policy to demonstrate our firm commitment
 
 
 
-### Information We Collect
+## Information We Collect
 
 We may collect personal information from you, such as your name, email address, postal address, phone number, gender, birthday, and product preferences when engaging in any of the activities listed below: 
 
@@ -46,7 +49,7 @@ For visitors who upload, post, e-mail or otherwise make available data, text, ph
   
 
 
-### Using Information We Collect
+## Using Information We Collect
 
 To provide you with the best possible customer experience, we may use your personal information in the following ways:
 
@@ -68,7 +71,7 @@ You have the option not to receive marketing information or calls. For instructi
   
 
 
-### Sharing Information We Collect
+## Sharing Information We Collect
 
 We may share your personal information in the following ways:
 
@@ -79,9 +82,9 @@ We may share your personal information in the following ways:
 
 
 
-### Your Decisions on Receiving Marketing Communications
+## Your Decisions on Receiving Marketing Communications
 
-You can review your personal information at any time. To access your personal information online, simply click Your Account at the top of any web page, sign in when prompted. You can update your personal information, by calling Guest Services at 1.888.725.4559. We want to communicate with you only if you want to hear from us. Lilly Pulitzer provides a choice in communication for customers so you can receive information from us at your discretion. We communicate with our customers by promotional email, mailings (postal) and telephone. If you would like to be removed from our promotional email, mailings (postal) or telephone lists, please contact us by calling Guest Services at 1.888.725.4559 or by sending an email toservice@lillypulitzer.com. You may also write to us at: 
+You can review your personal information at any time. To access your personal information online, simply click Your Account at the top of any web page, sign in when prompted. You can update your personal information, by calling Guest Services at 1.888.725.4559. We want to communicate with you only if you want to hear from us. Lilly Pulitzer provides a choice in communication for customers so you can receive information from us at your discretion. We communicate with our customers by promotional email, mailings (postal) and telephone. If you would like to be removed from our promotional email, mailings (postal) or telephone lists, please contact us by calling Guest Services at 1.888.725.4559 or by sending an email to service@lillypulitzer.com. You may also write to us at: 
 
 Lilly Pulitzer Guest Services  
 800 3rd Avenue  
@@ -95,7 +98,7 @@ Alternatively, if you do not want to receive promotional emails (i.e. not order-
   
 
 
-### Our Use of Cookies
+## Our Use of Cookies
 
 We regularly use browser tracking cookies. A cookie is a small text file that is placed on your hard disk by a website. Cookies are uniquely assigned to you, and can only be read by a website or web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. 
 
@@ -120,7 +123,7 @@ We work with a variety of advertising companies to place our ads on websites acr
   
 
 
-### Security
+## Security
 
 We do our best to provide you with a safe shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information. 
 
@@ -133,28 +136,28 @@ Identity thieves sometimes send fraudulent email messages to trick customers int
   
 
 
-### Children's Privacy
+## Children's Privacy
 
 Protecting children's privacy is important to us. Our website is a general audience site. We do not collect or maintain information from those we actually know are under 13, and no part of our website is targeted to attract anyone under 13. We also do not send email correspondence to anyone who tells us that they are under the age of 13 without their parent's consent. Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
 
   
 
 
-### Mobile Location Analytics Data
+## Mobile Location Analytics Data
 
 We may use tracking technology to collect certain information about your Wi-Fi enabled mobile device, including the presence of the device in our stores, its signal strength, its manufacturer, and a unique identifier known as its Media Access Control (“MAC”) address (collectively, “Customer Mobile Device Data”). This Customer Mobile Device Data may be collected for the purpose of determining the amount, location and frequency of customer traffic into our stores. A mobile device’s MAC address identifies a specific device to the surrounding Wi-Fi networks. The MAC address does not disclose the identity or any other personal data of the mobile device user. You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: [https://optout.smart-places.org](https://optout.smart-places.org/). To learn more about the use of Customer Mobile Device Data and your choices, please visit: [http://smart-places.org](http://smart-places.org/). 
 
   
 
 
-### Links to Other Sites
+## Links to Other Sites
 
 Occasionally we provide links on our website to other sites we think you will enjoy. These sites operate independently of us and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit. We are not responsible for the content or practices of any linked websites which are provided solely for the convenience and information of our visitors. 
 
   
 
 
-### California Privacy Rights / Questions or Comments
+## California Privacy Rights / Questions or Comments
 
 California Civil Code Section 1798.83 permits residents of California the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for the direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To make such a request, or for any other questions or comments please feel free to contact us at the following address: 
 
