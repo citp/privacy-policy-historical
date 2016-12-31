@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004201id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231134407id_/http%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
@@ -42,6 +42,8 @@ With regard to the site:
 With regard to our site and mobile applications we may receive information from other sources. We may receive information about you if you use any of the other websites or mobile applications we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 When you sign up or subscribe for an irishtimes.com service, we will track and aggregate non personal information previously collected about you through our site and mobile applications with the personal information provided when you register.
+
+Our website uses JavaScript to detect the use of ad blocking extensions for web browsers. This script is implemented in the source code of our website. The script simulates the display of an ad and confirms that it is displayed on a user’s device. To do this, we do not store any information on users’ devices and process no personal data.
 
 **Uses made of the information**
 
@@ -87,7 +89,7 @@ We may disclose your personal information to third parties:
 
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If The Irish Times Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+If The Irish Times DAC or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our TOS.
 
