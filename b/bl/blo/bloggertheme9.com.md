@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623151328id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertheme9.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231162651id_/http%3A//www.bloggertheme9.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Blogger Template | Bloggertheme9
+# Privacy Policy - Bloggertheme9
 
 At **Bloggertheme9.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by bloggertheme9.com and how it is used. The following discloses the information gathering and dissemination practices for this website.
 
