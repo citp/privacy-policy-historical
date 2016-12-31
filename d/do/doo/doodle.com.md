@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627153117id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231194111id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doodle
 
@@ -16,7 +16,7 @@ When you use Doodle, you send pieces of data to Doodle; this can be a name, an e
 
 Doodle records certain requests and transactions in log files. This log data is used for troubleshooting, statistics, analytics, quality assurance, and to monitor system security and can be analyzed to that end. Doodle can publish anonymous statistics under the condition that no personally identifiable information can be derived from such statistics.
 
-Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
+Doodle also uses KISSmetrics, Google Analytics and Google Firebase Analytics (for iOS and Android apps) to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy>, <http://www.google.com/privacy> and <https://firebase.google.com/terms/analytics>. Doodle [ anonymizes IP addresses ](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
 
 Doodle also employs NET-Metrix and AGOF to certify its traffic statistics in Switzerland and Germany. Detailed information (in German) on how this certification works and what information is collected can be found here: [NET-Metrix](http://www.net-metrix.ch/index.php?nodeId=157) and [AGOF](http://www.agof.de/methode.585.html). An appendix at the end of the [German version of this policy](https://web.archive.org/privacy-policy?locale=de) also provides further information on how information is collected for web traffic that originates from Germany. 
 
@@ -88,4 +88,4 @@ Doodle may share personal information with other companies or individuals only i
 
 Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [doodle.com/privacy-policy](https://web.archive.org/privacy-policy). 
 
-September 2 2015
+December 7 2016
