@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221032119id_/http%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120307id_/https%3A//www.infolinks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Infolinks
+# Privacy Policy
 
-Privacy Policy was updated on January 27th, 2015
+Privacy Policy was updated on September 27th, 2016
 
 Infolinks is a digital advertising technology Company. Infolinks provides a technology that places advertising onto our marketplace of publishers’ websites. We also have a platform that helps us understand how users interact with our technology. We provide both our advertiser and publisher clients with access to the platform so they can understand user interactions with our technologies as well.
 
