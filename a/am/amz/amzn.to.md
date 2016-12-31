@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amzn.to privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617220433id_/http%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amzn.to privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231144337id_/https%3A//www.amazon.com/gp/help/customer/display.html/ref%3Dfooter_privacy%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
 # Amazon.com Help: Amazon.com Privacy Notice
 
-**Last updated: March 3, 2014.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
+**Last updated: September 30, 2016.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
 
 Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -14,7 +14,7 @@ Amazon.com knows that you care how information about you is used and shared, and
   * Which Information Can I Access?
   * What Choices Do I Have?
   * Are Children Allowed to Use Amazon.com?
-  * Does Amazon.com Participate in the Safe Harbor Program?
+  * EU-US Privacy Shield
   * Conditions of Use, Notices, and Revisions
   * Examples of Information Collected
 
@@ -66,14 +66,14 @@ Our site includes third-party advertising and links to other Web sites. For more
 
 ##  Which Information Can I Access? 
 
-Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our Web site evolves. 
+Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) to see some examples, the list of which will change as our Web site evolves. 
 
 ##  What Choices Do I Have? 
 
   * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile), [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist) , [Customer Reviews](https://web.archive.org/gp/help/customer/display.html?nodeId=200791000), and [Amazon Prime](https://www.amazon.com/gp/browse.html/ref=hp_468496_prime?node=13819211). 
-  * You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records. 
+  * You can add or update certain information on pages such as those referenced in the [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) section. When you update information, we usually keep a copy of the prior version for our records. 
   * If you do not want to receive e-mail or other mail from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/gss/ccp/ref=hp_468496_ccp3) . (If you do not want to receive [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions2?node=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/adprefs/ref=hp_468496_advertisingpref2) . 
+  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com/gp/dra/info/ref=hp_468496_advertisingpref2) . 
   * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
 
 
@@ -82,13 +82,9 @@ Amazon.com gives you access to a broad range of information about your account a
 
 Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
 
-##  Does Amazon.com Participate in the Safe Harbor Program? 
+## EU-US Privacy Shield
 
-Amazon.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. We have certified that we adhere to the [Safe Harbor Privacy Principles](https://build.export.gov/main/safeharbor/eu/eg_main_018475) agreed upon by the U.S. and (1) the E.U. and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor) Web site. 
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
-
-Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](https://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint.
+Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
 
 ##  Conditions of Use, Notices, and Revisions 
 
@@ -117,7 +113,7 @@ Examples of the information we collect and analyze include the Internet protocol
 
 **Mobile**
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520) . If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
 
 **Information from Other Sources**
 
@@ -130,3 +126,25 @@ Examples of businesses with which we offer joint or co-branded products and othe
 **Information You Can Access**
 
 Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). 
+
+## EU-US Privacy Shield
+
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+
+If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+
+As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
+
+You can review our Privacy Shield registration [here](https://www.commerce.gov/tags/eu-us-privacy-shield). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+## Amazon Group Companies
+
+As of September 30, 2016, the following entities are included in Amazon.com, Inc.'s Privacy Shield Certification:
+
+Amazon.com, Inc.
+
+Amazon Media Group LLC
+
+Amazon Web Services, Inc.
+
+Audible, Inc.
