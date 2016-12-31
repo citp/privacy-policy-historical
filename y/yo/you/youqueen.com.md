@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624013428id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191925id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YouQueen
 
@@ -32,8 +32,8 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 YOUQUEEN LIMITED may collect and use Users personal information for the following purposes:
 
-  * _To improve customer service_  Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To improve our Site  _We may use feedback you provide to improve our products and services.
+  *  _To improve customer service_  Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _To improve our Site  _We may use feedback you provide to improve our products and services.
 
 
 
