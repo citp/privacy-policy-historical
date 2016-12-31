@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630171004id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124343id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Firstpost
+
+[ ](http://www.firstpost.com/world/how-did-donald-trump-win-the-us-presidential-election-heres-an-exploration-of-theories-3101950.html "Just how did Donald Trump win the US elections?")
 
 **Our Commitment**  
 firstpost.com is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
