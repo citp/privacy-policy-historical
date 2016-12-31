@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hairyboyz.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402043505id_/http%3A//www.ragingstallion.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairyboyz.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231210620id_/http%3A//www.ragingstallion.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Raging Stallion
+# RagingStallion.com
 
 **Last revised on 22 July 2015**
 
