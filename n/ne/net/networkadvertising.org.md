@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619122849id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124643id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAI: Network Advertising Initiative
 
@@ -42,7 +42,7 @@ If you login to the members-only section of our site, we set a cookie with a ran
 
 We also serve cookies to help us anonymously track web traffic, as described above. 
 
-In addition, NAI member companies serve cookies via this website as part of the opt-out process. To enable a consumer to opt out of IBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the NAI offers a [tool](https://web.archive.org/protector-license) that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](https://web.archive.org/choices).
+In addition, NAI member companies serve cookies via this website as part of the opt-out process. To enable a consumer to opt out of IBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the DAA offers a [tool](http://www.aboutads.info/pmc) that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](https://web.archive.org/choices).
 
 You have the ability to manage the use of cookies on your computer using controls in your browser. To learn more about how to manage cookies, visit <http://www.allaboutcookies.org/>.
 
