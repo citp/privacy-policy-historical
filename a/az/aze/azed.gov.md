@@ -1,53 +1,55 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610005307id_/http%3A//www.azed.gov/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231053138id_/http%3A//www.azed.gov/newade/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY STATEMENT | The Official Website of the Arizona Department of Education
+# Privacy Policy - The Arizona Department of Education - Arizona Department of Education
 
-Thank you for visiting the Arizona Department of Education web site and reviewing our Privacy Policy Statement. Pursuant to A.R.S. § 41-4152 _et seq_., all agency web sites of the State of Arizona shall contain a Privacy Policy Statement. This statement is designed to inform our customers about the information available online through the Arizona Department of Education web site, how that information will be used, and what steps are being taken to ensure the security of customer data. State employees, as well as agents or employees of private contractors who are providing services on behalf of the State, may be given access to and possession of your information. Your rights to privacy are of utmost importance to the Arizona Department of Education in building trust and confidence when conducting business through the Internet.
+In accordance with state and federal law, the Arizona Department of Education (ADE) provides this privacy policy to explain when information may be collected from you, how it will be used, when it might be shared, and how it will be protected. Your privacy is of the utmost importance to ADE; if you have any questions regarding this policy, please [contact us](http://www.azed.gov/feedback/).
 
-### Online Customer Service and Alternatives
+This privacy policy is provided in compliance with [A.R.S. § 41-4152 et seq.](http://www.azleg.gov/ars/41/04152.htm) and applicable federal law. This policy applies to all public websites and web-based applications owned and operated by ADE. In the policy below, all websites and applications will be referred to as “sites”.
 
-The Arizona Department of Education web site offers services online that you might otherwise transact in person or by mail. Our goal is to provide citizens with a more convenient and efficient means in which to interact with the Arizona Department of Education. If at any time you choose not to proceed with a transaction offered through the Arizona Department of Education web site, your choice will in no way affect your ability to receive benefits or services. If you prefer to apply for benefits or services in person, or by mail, you may do so.
+### Provided Services
 
-### Collection and Use of Information
+This site is provided as a service of ADE in support of educational activities in the state of Arizona, it offers information and services online that might otherwise be obtained or conducted in person, by telephone, or by correspondence. Our goal is to provide citizens with a more convenient and efficient means to interact with the agency.
 
-The information collected from an application submitted online will be treated in the same manner as the information collected from an application submitted on a hard copy. The information you disclose to the State of Arizona will generally become a matter of public record pursuant to A.R.S. § 39-121, _et seq._ The State may be required to divulge personal information in response to a public records request and in response to a warrants, subpoenas and/or other court orders. __ Not all of the information contained within a public record, however, may be re-disclosed by the State to other persons or entities. Social security numbers, for example, are protected by the Federal Privacy Act of 1974, and the Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. If you have inquiries regarding how the information you submit online will be treated, please contact he Arizona Department of Education directly.
+### Alternatives
 
-Personal information such as name, home address, birth date, medical or disability information, social security and credit card numbers that are provided online through the Arizona Department of Education web site, will be treated as confidential and thus, with only limited exceptions, will not be shared, sold or otherwise disseminated to any outside person or entity. If any personal information is intended to be released to third parties, A.R.S. § 41-4152 (5) and (6) requires the Arizona Department of Education to identify when, how and to whom that information will be released. The Arizona Department of Education may not refuse to process a person’s request for services or benefits because he or she does not wish to have their information disclosed to another individual or entity.
+If at any time you choose not to proceed with a transaction offered through an ADE website or application, your choice will in no way affect your ability to receive benefits or services from the agency.
 
-The Arizona Department of Education web site will obtain your consent to disclose such personal information to other third parties by providing a method of identifying your approval. The Arizona Department of Education web site and State agencies may not refuse to process an individual’s request for services or benefits because he or she does not wish to have his or her information disclosed to another individual, entity or third party.
+### Online Collection of Information
 
-The Arizona Department of Education may have statutory and/or contract requirements to share your information with either the Federal government, State agencies, State contractors and possibly other cities, counties and local governments. This sharing depends on the program services and benefits you are applying for, of which Federal and State statutes will be cited as sharing authority. This information is obtained in order for these organizations to perform their duties in completing your benefits and/or services, and therefore, any refusal on your part may be cause for denial of State benefits and/or services.
+This site does not collect information about you or your personal online activities unless you voluntarily participate in an activity that asks for such information. In other words, this site collects user information only when voluntarily submitted by the user. The information requested by this site is identical to the information that would be requested if you were conducting business with the Arizona Department of Education in person at an ADE office.
 
-Please refer to respective benefits and/or services web pages within the Arizona Department of Education web site for disclosure of when, how and to whom information will be released to third parties, A.R.S. § 41-4152 (5) and (6).
+#### Site Analytics and Login Tokens
+
+ADE servers automatically log certain pieces of anonymous information related to site usage. This information never identifies you personally and consists of only the following items: IP address, Internet domain, date and time of access. This data is used to analyze site usage and performance.
+
+If you have created a login identity and/or used an authorized login pathway (such as a student information system) to enter this site, the site may use tokens or cookies to facilitate login between sections of this site, other approved ADE sites, and select local student information systems. Login information is controlled by the user or local administrators.
+
+#### Notice to Parents
+
+ADE does not maintain any sites or sections of sites directed at children under the age of 13, nor does it collect personal information from children either directly or indirectly. Any information about minor children submitted by parents to ADE will be protected in accordance with all applicable state and federal laws and guidelines, including the [Children’s Online Privacy Protection Act of 1998 (COPPA) (15 U.S.C. 6501, et seq.)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule) and the [Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99).](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
+
+### Use of Information Collected Online
+
+ADE is fully committed to protecting the privacy of all individuals, with special consideration given to protecting all personal and identifying information (PII). Personal and identifying information submitted to or through this site will be safeguarded as required by federal and state laws, such as the [Federal Privacy Act of 1974](http://www.justice.gov/opcl/privacyact1974.htm) and the [Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99).](http://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
+
+#### Public Records
+
+Please be aware that per [A.R.S. §39-121 et seq.](http://www.azleg.gov/ArizonaRevisedStatutes.asp?Title=39), information submitted to this site becomes a matter of public record and subject to all laws and guidelines governing the release and protection thereof. The state or agency may be required to release this information, including personal information, in response to a public records request and in response to warrants, subpoenas and/or other court orders. However, sensitive information covered by the aforementioned federal laws and other applicable laws or statues will not be disclosed.
+
+#### Information Sharing
+
+ADE does not collect information on behalf of any other entity, public or private. However, ADE may have statutory and/or contract requirements to share submitted information with other governmental, public, or educational institutions. You will be notified should such sharing will take place.
 
 ### Security
 
-The Arizona Department of Education and its consultants, as developer and manager of the Arizona Department of Education web site, have taken several steps to safeguard the integrity of its computer systems and networks. These steps include, but are not limited to individual authentication, the security of transmitted data, security monitoring, auditing, and encryption of your information. Security methods and measures have been integrated into the design, implementation and day-to-day practices of the Arizona Department of Education web site.
+ADE has taken numerous steps to safeguard the integrity of its computer systems and networks. These steps include, but are not limited to, individual authentication, the security of transmitted data, security monitoring, auditing, and encryption of submitted information. Security methods and measures are integrated into the design, implementation, and day-to-day practices of the entire site.
 
-### Cookies
+#### External Links
 
-To better serve our customers, the Arizona Department of Education web site uses “cookies” to ease the flow from page to page in password-protected applications, such as the Common Logon. Cookies are simple text files stored on your computer by your web browser. They identify your domain name or Internet Protocol address, as a method of distinguishing among visitors to the Arizona Department of Education web site. Cookies are used only by the Arizona Department of Education and are not shared with any other individuals, third parties, or entities. Areas of the Arizona Department of Education web site that do not require password protection, also do not require cookies. You can refuse a cookie or delete a cookie file from your computer system by selecting various options on your computer’s browser.
+This site may contain links to sites not owned or operated by ADE. When you click on one of these links, you will leave ADE web space. This privacy policy does not apply to any non-ADE site or application. Any links to external sites or applications are included for user convenience and do not imply ADE endorsement. ADE is not responsible for the accuracy or reliability of information on any non-ADE site or application.
 
-### Other External Links Disclaimer
+### Disclaimer — Privacy Policy Subject to Change
 
-The Arizona Department of Education web site has links to other web sites. These links may include, for example, web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the Arizona Department of Education web site and this Privacy Statement will not apply to other sites. When you link to another web site, you are subject to the privacy policy of that new site. Links to web sites outside of State government are offered solely for your convenience. The State of Arizona is not responsible for and has no control over the policies or content of any third party sites.
+This privacy policy is subject to change and may be updated or revised without advance notice. Please check this page periodically to learn of any substantive change to the way in which information you disclose to this site is collected, used, or disseminated.
 
-Neither the Arizona Department of Education, nor any agency, officer, or employee of the Arizona Department of Education warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
-
-### Privacy Policy Statement Is Subject To Change
-
-This policy may be updated or revised from time to time, so please check back with the Arizona Department of Education web site periodically in order to receive advance notice of any substantive changes to the manner in which the information you disclose on this web site may be collected, used or disseminated.
-
-### Contact Information
-
-To offer comments about the Arizona Department of Education web site, or about the information presented in this Privacy Policy, contact the Arizona Department of Education:
-
-By E-mail: | [webmaster@ade.az.gov](mailto:webmaster@ade.az.gov)  
----|---  
-By Telephone: | (602) 542-7378  
-By Mail: | **Webmaster  
-The Arizona Department of Education  
-1535 West Jefferson Street, Bin #17  
-Phoenix, Arizona 85007**  
-  
-The Arizona Department of Education will use your email to respond to your issues and requests that you have identified, and/or possibly forward your email to another State agency for appropriate action.
+All information and services on this site are provided in good faith. Neither ADE nor its employees shall be held responsible for the accuracy or reliability of information on this site. Any person or entity using this site or information obtained hereon does so at their own risk.
