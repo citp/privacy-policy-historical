@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gangofgamers.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328185503id_/http%3A//www.gangofgamers.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gangofgamers.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120441id_/http%3A//www.gangofgamers.com/corporate/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - GangofGamers.com - Play Free Games Online
 
