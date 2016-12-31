@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotogulf.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315220118id_/http%3A//gotogulf.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotogulf.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231171942id_/http%3A//gotogulf.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ As a Job site, GotoGulf.com will ask job seekers and employers to submit any inf
 
 **Registration**
 
-To fully participate in our job and candidate databases or search activities, we require you to register as a GotoGulf.com member. Non-registered users are granted partial participation access (for example - Non-registered job seekers may view positions may not apply for them without registering).
+To fully participate in our job and candidate databases or search activities, we require you to register as a GotoGulf.com member. Non-registered users are granted partial participation access (for example - Non-registered job seekers may view positions, but may not apply for them without registering).
 
 To register, we will ask for contact information (job seekers and employers) and information on your company (employers). GotoGulf.com is the sole owner of information collected on the registration pages and we will not disclose this information to anyone outside of GotoGulf.com. Your contact information (such as name and email address) may however be used to contact you about any features/services on our site and partner sites which we believe may be of interest. Our goal is to provide our users with a personalized experience every time they log onto GotoGulf.com and to that end we may direct you to jobs/articles/forums etc. that we think may assist you in your career/lifestyle activities.
 
@@ -16,15 +16,19 @@ To register, we will ask for contact information (job seekers and employers) and
 
 Candidates can have extensive control of their profile and resume which they submit to GotoGulf.com
 
-After registering, Candidates can choose to Block their current employer, few employers or all employers from viewing their profile and resume in search results. The option to permit resume view or not can be changed any time by Candidates.
+After registering, Candidates can choose to Block employers from viewing their profile and resume in search results. The option to permit resume view or not can be changed any time by Candidates.
 
-Candidates can choose to receive or not receive Job alerts from GotoGulf.com and employers using the site.
+Candidates can choose to receive or not receive Job digests and Job alerts from GotoGulf.com.
 
 **Job Postings**
 
-Employers are asked to submit detailed information about the position requirements as part of their job posting activity. Information is submitted purely voluntarily. Job details may be viewed by any registered job seeker members. Non-members may view position but do not have access to apply; they must register first to be able to contact your company.
+Employers & Recruiters are requested to submit detailed information about the position requirements as part of their job posting activity. Information is submitted purely voluntarily. Job details may be viewed by any registered job seeker members. Non-members may view position but do not have access to apply; they must register first to be able to apply.
 
-You may change/modify/delete any information you provide at any point in time.
+You may change/modify/delete any information you provide at any point in time. Jobs posted on GotoGulf.com will be made available in our network sites, details of them are available in About us page. Many Job aggregators, Search Engines, Job sites pick up jobs posted on GotoGulf and share it to their visitors either directly or through their partner sites.
+
+**Third Party Jobs**
+
+Recruiters & Employers are hard pressed for time to post jobs in multiple sites & to facilitate our candidates not lose out on these opportunities, we pick up a few good positions (from various sources - both online and offline) & post it online in our site. On posting a job, we immediately email to recruiters about the same & ask if they want it removed & remove the job if so requested. This service is purely a value added service to Candidates.
 
 **Member Control Panel**
 
