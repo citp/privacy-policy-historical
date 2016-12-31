@@ -1,33 +1,120 @@
-<!--The following is the downloaded HTML source of the wanderingpioneer.com privacy policy that was archived on 2015-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150104135642id_/http%3A//wanderingpioneer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wanderingpioneer.com privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231103850id_/http%3A//wanderingpioneer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-	<meta charset="UTF-8">
+
+	<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		var url = location.href;
+        if (url.search(/\?/)>-1)
+        {
+                var url_arr = url.split(/\?/);
+                var query_string = url_arr[1];
+                var campaign_pattern = /[^&?]*?campaign=([^&?]+)*/i;
+                var source_pattern = /[^&?]*?source=([^&?]+)*/i;
+
+                var campaign_matches = query_string.match(campaign_pattern);
+                if (campaign_matches!=null) {
+                	document.cookie = "utm_campaign="+campaign_matches[1]+"; expires="+(1*24*60*60*1000)+"; path=/";
+                }
+                var source_matches = query_string.match(source_pattern);
+                if (source_matches!=null) {
+                	document.cookie = "utm_source="+source_matches[1]+"; expires="+(1*24*60*60*1000)+"; path=/";                        	
+                }
+                var params = url.split("?");
+                string = params[1];
+                var components = string.split("&");
+                for (var index in components)
+                {
+                        parts = components[index].split("=");
+                        var parameter = parts[1].replace(/%/g,"").replace(/{/g,"").replace(/}/g,"");
+                        parameter = encodeURIComponent(parameter);
+                        components[index] = parts[0]+"="+parameter;
+                        string = components.join("&");
+                }
+                document.cookie = "qs="+string+"; expires="+(1*24*60*60*1000)+"; path=/";
+
+        }
+        var string = getValue('qs');
+        if (url.search(/\?/)==-1 && string!=null)
+        {
+                url = url+"?"+string;
+                window.history.pushState(null, null, url); // Change the addressbar url
+        }
+        function getValue(name)
+        {
+                var name = name+"=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i<ca.length; i++) {
+                                var c = ca[i];
+                                while (c.charAt(0)==' ') c = c.substring(1);
+                                if (c.indexOf(name) == 0) return decodeURIComponent(c.substring(name.length,c.length));
+                }
+                return null;
+        }
+	</script>
+<script type="text/javascript" src="http://cdn.wanderingpioneer.com/widgets.js"></script>
+<script>
+var widgetAreaResponse = getWidgets();
+</script>
+<script>
+var campaign_name = '';
+if (getValue('qs')!=null)
+{
+        var patternCampaign = /[^&?]*?[campaign]=([^&?]+)*/i;
+        var matchesCampaign = getValue('qs').match(patternCampaign);
+        campaign_name = matchesCampaign[1];
+}
+</script>
+	<meta property="fb:app_id" content="746511705460975">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Privacy Policy | Wandering Pioneer</title>	
+    <title>Privacy Policy | WanderingPioneer</title>	
     
     <!-- for mobile devices -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta name="format-detection" content="telephone=no">
+	<meta charset="UTF-8">
 		
     <!-- Favicon Icon -->
 		
 	<link rel="shortcut icon" href="http://wanderingpioneer.com/wp-content/uploads/2014/08/wandering-pioneer-favicon.png" type="image/vnd.microsoft.icon">
 	<link rel="icon" href="http://wanderingpioneer.com/wp-content/uploads/2014/08/wandering-pioneer-favicon.png" type="image/x-ico">	
 		
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript">
         var search_placeholder = '';
     </script>
     
 	 <!--[if IE]>
 	  <link rel="stylesheet" type="text/css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/IELow.css"/>		
 	<![endif]-->
-	<link rel="alternate" type="application/rss+xml" title="Wandering Pioneer » Feed" href="http://wanderingpioneer.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Wandering Pioneer » Comments Feed" href="http://wanderingpioneer.com/comments/feed/">
-<link rel="stylesheet" id="ajax-load-more-css-css" href="http://wanderingpioneer.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="sb_instagram_styles-css" href="http://wanderingpioneer.com/wp-content/plugins/instagram-feed/css/sb-instagram.css?1&amp;ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="zilla-likes-css" href="http://wanderingpioneer.com/wp-content/plugins/zilla-likes/styles/zilla-likes.css?ver=4.0.1" type="text/css" media="all">
+	<meta name="robots" content="noindex,follow">
+<!-- Begin Convert Experiments code-->
+<script type="text/javascript">var _conv_page_type='page';var _conv_product_name='Privacy Policy';</script>
+<script src="//cdn-3.convertexperiments.com/js/10015865-10015274.js" type="text/javascript"></script>
+<!-- End Convert	Experiments code -->
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="WanderingPioneer » Feed" href="http://wanderingpioneer.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="WanderingPioneer » Comments Feed" href="http://wanderingpioneer.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wanderingpioneer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://wanderingpioneer.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="internal-content-style-css" href="http://wanderingpioneer.com/wp-content/plugins/internal-widgets/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6" type="text/css" media="all">
+<link rel="stylesheet" id="zilla-likes-css" href="http://wanderingpioneer.com/wp-content/plugins/zilla-likes/styles/zilla-likes.css?ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="font-awesome-style-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/font-awesome.min.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="owl-carousel-style-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/owl.carousel.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="owl-carousel-transitions-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/owl.transitions.css?ver=1.0" type="text/css" media="all">
@@ -35,91 +122,202 @@
 <link rel="stylesheet" id="prettyPhoto-style-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/prettyPhoto.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="default-style-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/style.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="media-style-css" href="http://wanderingpioneer.com/wp-content/themes/paulblack/css/media.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="paginext_link_pages-css" href="http://wanderingpioneer.com/wp-content/plugins/paginext-link-pages/css/paginext-link-pages.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="posts-by-tag-css" href="http://wanderingpioneer.com/wp-content/plugins/posts-by-tag/css/posts-by-tag-custom.css?ver=4.0.1" type="text/css" media="all">
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/widget-area-init/js/cookie.min.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/widget-area-init/js/cookie-setter.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="stylesheet" id="paginext_link_pages-css" href="http://wanderingpioneer.com/wp-content/plugins/paginext-link-pages/css/paginext-link-pages.css?ver=4.6.1" type="text/css" media="all">
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/widget-area-init/js/cookie.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/widget-area-init/js/cookie-setter.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var zilla = {"ajaxurl":"http:\/\/wanderingpioneer.com\/wp-admin\/admin-ajax.php"};
 var zilla_likes = {"ajaxurl":"http:\/\/wanderingpioneer.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/zilla-likes/scripts/zilla-likes.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/zilla-likes/scripts/zilla-likes.js?ver=4.6.1"></script>
+<link rel="https://api.w.org/" href="http://wanderingpioneer.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wanderingpioneer.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wanderingpioneer.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.1">
+<meta name="generator" content="WordPress 4.6.1">
 <link rel="canonical" href="http://wanderingpioneer.com/privacy-policy/">
 <link rel="shortlink" href="http://wanderingpioneer.com/?p=39">
-
-			<style type="text/css">
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats {
-					height: 28px
-				}
-
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats a {
-					height: 28px;
-					padding: 0
-				}
-
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats a img {
-					padding: 4px 5px;
-					height: 20px;
-					width: 99px;
-				}
-			</style>
-		<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-55945789-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-    <script type="text/javascript">
-        widgetAreaResponse = {};
-        ajaxurl = "http://wanderingpioneer.com/wp-admin/admin-ajax.php";
-        var data;
-        data = {
-            "action": "get_widget_containers",
-            "positions": ["blog-sidebar","single_below_title","single_below_content","social_below_content","half_internal","tablet_bottom","half_external","desktop-end-of-slideshow"]        };
-        jQuery.ajax({type: "POST", url: ajaxurl, data: data, async:false, dataType: "json", success: function(response) {
-            widgetAreaResponse = response;
-        }});
-    </script>
-    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<link rel="alternate" type="application/json+oembed" href="http://wanderingpioneer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwanderingpioneer.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://wanderingpioneer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwanderingpioneer.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
 		
-	<link rel="stylesheet" href="http://wanderingpioneer.com/wp-content/themes/paulblack/custom.css">
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script id="sh-pollware-loader" src="//pollware-cdn.sodahead.com/pollware/pollware_477.js"></script></head>
+	<link rel="stylesheet" href="http://wanderingpioneer.com/wp-content/themes/paulblack/custom.css">	
+	<script type="text/javascript">
+
+	// Load widget dynamically for mobile, tablet and desktop
+	// each one of the variables contain the id of their widget or blank
+	function load_widget(mobile,tablet,desktop) {
+		var showWidget = cookie.get('showWidget','');
+		var width = parseFloat(jQuery(window).width());
+		if (width<750 && mobile!='') { // You may replace this for a smaller or bigger resolution to be captured as mobile
+			if( showWidget == 'regular' ){
+				if (widgetAreaResponse[mobile]!=undefined)
+				{
+					if (widgetAreaResponse[mobile].search("<~----~>")=="-1") {
+						return widgetAreaResponse[mobile];
+					}else{
+						return split_response(widgetAreaResponse[mobile]);
+					}
+				}
+			}else{
+				if (typeof widgetAreaResponse[mobile+"-no-utm"] !== 'undefined')
+				{
+					if (widgetAreaResponse[mobile+"-no-utm"].search("<~----~>")=="-1") {
+						return widgetAreaResponse[mobile+"-no-utm"];
+					}else{
+						return split_response(widgetAreaResponse[mobile+"-no-utm"]);
+					}
+				}else{
+					if (widgetAreaResponse[mobile].search("<~----~>")=="-1") {
+						return widgetAreaResponse[mobile];
+					}else{
+						return split_response(widgetAreaResponse[mobile]);
+					}
+				}
+			}
+		}else if(width<1051  && width>= 750 && tablet!='') {
+			if( showWidget == 'regular' ){
+				if (widgetAreaResponse[tablet]!=undefined) {
+					if (widgetAreaResponse[tablet].search("<~----~>")=="-1") {
+						return widgetAreaResponse[tablet];
+					}else{
+						return split_response(widgetAreaResponse[tablet]);
+					}
+				}
+			}else{
+				if (typeof widgetAreaResponse[tablet+"-no-utm"] !== 'undefined')
+				{
+					if (widgetAreaResponse[tablet+"-no-utm"].search("<!----!>")=="-1") {
+						return widgetAreaResponse[tablet+"-no-utm"];
+					}else{
+						return split_response(widgetAreaResponse[tablet+"-no-utm"]);
+					}
+				}else{
+					if (widgetAreaResponse[tablet].search("<~----~>")=="-1") {
+						return widgetAreaResponse[tablet];
+					}else{
+						return split_response(widgetAreaResponse[tablet]);
+					}
+				}
+			}
+		}else if(width>1051 && desktop!=''){
+			if( showWidget == 'regular' ){
+				if (widgetAreaResponse[desktop]!=undefined)
+				{
+					if (widgetAreaResponse[desktop].search("<~----~>")=="-1") {
+						return widgetAreaResponse[desktop];
+					}else{
+						return split_response(widgetAreaResponse[desktop]);
+					}
+				}
+			}else{
+				if (typeof widgetAreaResponse[desktop+"-no-utm"] !== 'undefined')
+				{
+					if (widgetAreaResponse[desktop+"-no-utm"].search("<~----~>")=="-1") {
+						return widgetAreaResponse[desktop+"-no-utm"];
+					}else{
+						return split_response(widgetAreaResponse[desktop+"-no-utm"]);
+					}
+				}else{
+					if (widgetAreaResponse[desktop]!=undefined)
+					{
+						if (widgetAreaResponse[desktop].search("<~----~>")=="-1") {
+							return widgetAreaResponse[desktop];
+						}else{
+							return split_response(widgetAreaResponse[desktop]);
+						}
+					}
+				}
+			}
+		}else{
+			return '';
+		}
+	}
+	
+	function split_response(widget) {
+		var page = "0";
+		var response = widget.match(/<~----~>(.*?[\s\S]*?)>!----!</g);
+		if (page==="0")
+		{
+			page = 1;
+		}
+		for (i=0;i<response.length;i++)
+		{
+			if (typeof response[i] !== "undefined")
+			{
+				var conditional_widget = response[i].replace("<~----~>","").replace(">!----!<","");
+				conditional_widget = conditional_widget.split("|~|");
+				var new_response;
+				if (conditional_widget[0]==page)
+				{
+					widget = widget.replace(response[i],conditional_widget[1]);
+				}
+				else
+				{
+					widget = widget.replace(response[i],"");
+				}
+			}
+		}
+		return widget;
+	}
+	</script>
+		<script type="text/javascript">
+		document.write(load_widget('mobile-in-head','','desktop-in-head'));
+	</script>
+	<script src="//cdn.optimizely.com/js/3119880310.js"></script>
+<script type="text/javascript">
+window._tfa = window._tfa || [];
+_tfa.push({notify:"action", name: 'page_view'});
+</script>
+<script src="//cdn.taboola.com/libtrc/solutionswide-wanderingpioneer-sc/tfa.js"></script>
+<!-- Analytics extra dimensions -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-55945789-1', 'auto');
+// Optimizely Universal Analytics Integration
+window.optimizely = window.optimizely || [];
+window.optimizely.push("activateUniversalAnalytics");
+ga('send', 'pageview');
+
+ga('set', 'dimension1', '');
+ga('set', 'dimension2', '');
+ga('set', 'dimension3', '');
+ga('set', 'dimension4', '');
+</script>
+</head>
 <body class="page page-id-39 page-template-default wpb-js-composer js-comp-ver-4.1.3.1 vc_responsive">
 
 <div class="header-wrapper header2 absolute">
 </div>
 <div class="full-container center">
-	
-	<div class="header-wrapper header1">
+<div class="header-wrapper header3">
 	<div class="center">
-		<div class="logo"><a href="http://wanderingpioneer.com" title=""><img id="logoImage" src="http://wanderingpioneer.com/wp-content/uploads/2014/08/wandering-pioneer-logo.jpg" alt="" title=""></a></div>		<div class="main-menu menu menu-header1">
-			
-			<div class="menu-menu-1-container"><ul id="menu-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-25"><a href="http://wanderingpioneer.com/category/wanderings/">Wanderings</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-27"><a href="http://wanderingpioneer.com/category/homestead/">Homestead</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-28"><a href="http://wanderingpioneer.com/category/equipment/">Equipment</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-1"><a href="http://wanderingpioneer.com/category/provisionslibations/">Provisions &amp; Libations</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-24"><a href="http://wanderingpioneer.com/category/inspiration/">Inspiration</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-14"><a href="http://wanderingpioneer.com/category/photography/">Photography</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-15"><a href="http://wanderingpioneer.com/category/news/">News</a></li>
-</ul></div>		</div>
-		<div class="clear"></div>
+		<div class="logo"><a href="http://wanderingpioneer.com" title=""><img id="logoImage" src="http://cdn.wanderingpioneer.com/wp-content/uploads/2014/08/wandering-pioneer-logo1.jpg" alt="" title=""></a></div>		<div class="clear"></div>
 	</div>
 </div>
-	<div class="clear"></div>
+<div class="center">
+	<div class="main-menu menu-header3">
+		<div class="menu-menu-1-container"><ul id="menu-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-15"><a href="http://wanderingpioneer.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-24"><a href="http://wanderingpioneer.com/category/inspiration/">Inspiration</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-25"><a href="http://wanderingpioneer.com/category/wanderings/">Wanderings</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-item-28"><a href="http://wanderingpioneer.com/category/equipment/">Equipment</a></li>
+</ul></div>	</div>
+	<div class="menu-header3-shadow">
+		<img src="http://wanderingpioneer.com/wp-content/themes/paulblack/images/header3-shadow.png">
+	</div>
+</div>
+<div class="clear"></div>
 <div class="container-wrapper">
-	<div class="center">	
-					<div class="page-title-wrapper">
+	<div class="center">
+	
+									<div class="page-title-wrapper">
 				<div class="page-title">
 					<div class="left-side">
 						<h1>Privacy Policy</h1>
@@ -133,43 +331,27 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<div class="page-wrapper">
 											
 							<div id="post-39" class="post-39 page type-page status-publish hentry">
-								<p>WanderingPioneer.com (“We”) are committed to protecting and respecting your privacy.</p>
-<p>This policy (together with our terms of use for WanderingPioneer.com and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.</p>
-<p>This policy only applies to our site. If you leave our site via a link or otherwise, you will be subject to the policy of that website provider. We have no control over that policy or the terms of the website and you should check their policy before continuing to access the site.</p>
-<p>Information we may collect from you</p>
-<p>We may collect and process the following data about you:</p>
-<ul>
-<li>Information that you provide by filling in forms on our site WanderingPioneer.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service or requesting further services. We may also ask you for information when you report a problem with our site.</li>
-<li>If you contact us, we may keep a record of that correspondence.</li>
-<li>We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
-<li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
-</ul>
-<p>IP addresses and cookies</p>
-<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual and we will not collect personal information in this way.</p>
-<p>We may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:</p>
-<ul>
-<li>To estimate our audience size and usage pattern.</li>
-<li>To store information about your preferences, and so allow us to customise our site according to your individual interests.</li>
-<li>To speed up your searches.</li>
-<li>To recognise you when you return to our site.</li>
-</ul>
-<p>You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.</p>
-<p><strong>DoubleClick’s DART Cookie</strong></p>
-<p>&nbsp;</p>
-<p>Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to the website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></p>
-<p>&nbsp;</p>
-<p>Your rights</p>
-<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:info@wanderingpioneer.com">info@wanderingpioneer.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
-<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</p>
-<p>Access to information</p>
-<p>The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-<p>Changes to our privacy policy</p>
-<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. However, we advise that you check this page regularly to keep up to date with any necessary changes.</p>
-<p>Contact</p>
-<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:info@wanderingpioneer.com">info@wanderingpioneer.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
-							</div>
+								<p><em>Last Updated: January 26, 2015</em></p>
+<p>Generally WANDERINGPIONEER.COM (“Site” or “we”, “our” or “us”) does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter “PII”).</p>
+<p>WANDERINGPIONEER.COM is owned by Wandering Pioneer LLC. For WANDERINGPIONEER.COM, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.</p>
+<p><strong>What does this Privacy Policy cover?</strong></p>
+<p>This Privacy Policy applies to collection, use, storage and disclosure of information by us.<br>
+Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.</p>
+<p><strong>What information does WANDERINGPIONEER.COM collect and how is it used? Does WANDERINGPIONEER.COM disclose information to third parties?</strong></p>
+<p>We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) (“Non-PII”). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of WANDERINGPIONEER.COM.</p>
+<p>(a) Traffic or Clickstream Data (“Clickstream Data”). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and WANDERINGPIONEER.COM, but only in anonymous form. Notwithstanding the foregoing, such third parties and WANDERINGPIONEER.COM may combine such Clickstream Data with any PII that you choose to give to such third parties or WANDERINGPIONEER.COM when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.</p>
+<p>(b) Non-Personally Identifiable Information. As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. “Log files” track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. “Web beacons” are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. “Cookies” are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.</p>
+<p>There are two classes of Cookies based on how long they remain on your system: (i) “Session Cookies” may be used only during your visit to the Site and are erased once you close your browser, and (ii) “Persistent Cookies” (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site.</p>
+<p>There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information.</p>
+<p>A useful resource on understanding Cookies may be found at http://www.allaboutcookies.org.</p>
+<p>(c) Third Party Advertising. We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.</p>
+<p><strong>Is data stored by WANDERINGPIONEER.COM secure?</strong></p>
+<p>We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.</p>
+<p><strong>How can I learn about changes to this privacy policy?</strong></p>
+<p>We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English.</p>
+<p><strong>How do I find out more about WANDERINGPIONEER.COM information practices?</strong></p>
+<p>If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us by e-mail at INFO@WANDERINGPIONEER.COM</p>
+<a href="#" class="zilla-likes" id="zilla-likes-39" title="Like this"><span class="zilla-likes-count">46</span> <span class="zilla-likes-postfix"></span></a>															</div>
 											</div>
 				</div>
 				<div class="sidebar">
@@ -177,75 +359,50 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 							
 				</div>	
 		</div><!-- end container -->		
-</div> <!-- end center -->
+		</div> <!-- end center -->
 <div class="clear"></div>
 <div class="under-footer">
 	<div class="center">
-		<div class="left">
-		<p>Copyright 2014 <a href="http://wanderingpioneer.com">WanderingPioneer.com</a></p>		</div>
-		<div class="right">
-		<p><a href="http://wanderingpioneer.com/privacy-policy">Privacy Policy</a> | <a href="http://wanderingpioneer.com/about/">About Us</a></p>		</div>
+		<div class="left" style="padding-left: 20px">
+		<p>Copyright 2016&nbsp;<a href="http://wanderingpioneer.com">WanderingPioneer.com</a></p>		</div>
+		<div class="right" style="padding-right: 20px">
+		<p><a href="http://wanderingpioneer.com/privacy-policy/">Privacy Policy</a> | <a href="http://wanderingpioneer.com/about/">About Us</a>&nbsp;|&nbsp;<a href="http://wanderingpioneer.com/terms/">Terms</a>&nbsp;|&nbsp;<a href="http://wanderingpioneer.com/dmca/">DMCA Notice</a></p>		</div>
 		<div class="clear"></div>
 	</div>
 </div>
 </div> <!-- end container-wrapper -->
- <style>  .category-bg-color-27 { background-color: #704429 !important; }  .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-27.current-menu-item > a, .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-27 a:hover {   background-color: #704429 !important; }  .category-bg-color-1 { background-color: #d95317 !important; }  .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-1.current-menu-item > a, .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-1 a:hover {   background-color: #d95317 !important; } </style> <script> </script><style> .under-footer {  background-color: #ffffff;  } </style><style type="text/css"></style><script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.4"></script>
+ <style>  .category-bg-color-27 { background-color: #704429 !important; }  .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-27.current-menu-item > a, .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-27 a:hover {   background-color: #704429 !important; }  .category-bg-color-1 { background-color: #d95317 !important; }  .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-1.current-menu-item > a, .header-wrapper.header1 .menu ul.sf-menu ul  li.menu-cat-item-1 a:hover {   background-color: #d95317 !important; } </style> <script> </script><style> .under-footer {  background-color: #ffffff;  } </style><style type="text/css"></style><!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 376808233]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code --><script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var alm_localize = {"ajaxurl":"http:\/\/wanderingpioneer.com\/wp-admin\/admin-ajax.php","alm_nonce":"565667f778","pluginurl":"http:\/\/wanderingpioneer.com\/wp-content\/plugins\/ajax-load-more"};
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/ajax-load-more/core/js/ajax-load-more.min.js?ver=1.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/wanderingpioneer.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var sb_instagram_js_options = {"sb_instagram_at":"<style>.ig-b- { display: inline-block; } .ig-b- img { visibility: hidden; } .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; } .ig-b-v-24 { width: 137px; height: 24px; background: url(\/\/badges.instagram.com\/static\/images\/ig-badge-view-sprite-24.png) no-repeat 0 0; } @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 \/ 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) { .ig-b-v-24 { background-image: url(\/\/badges.instagram.com\/static\/images\/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }<\/style> <a href=\\\"http:\/\/instagram.com\/wanderingpioneer?ref=badge\\\" class=\\\"ig-b- ig-b-v-24\\\"><img src=\\\"\/\/badges.instagram.com\/static\/images\/ig-badge-view-24.png\\\" alt=\\\"Instagram\\\" \/><\/a>"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/instagram-feed/js/sb-instagram.js?2&amp;ver=1.8"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/audioplayer.min.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/modernizr.custom.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/snap.svg-min.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.isotope.min.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/toucheffects.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.easy-pie-chart.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/owl.carousel.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/audioplayer.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/modernizr.custom.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/snap.svg-min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.isotope.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/toucheffects.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.easy-pie-chart.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/owl.carousel.js?ver=4.6.1"></script>
 <script type="text/javascript" src="http://wanderingpioneer.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.js?ver=4.1.3.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.mobilemenu.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/superfish.js?ver=4.0.1"></script>
-<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/custom.js?ver=4.0.1"></script>
-	<!-- Clicky Web Analytics - http://clicky.com, WordPress Plugin by Yoast - https://yoast.com/wordpress/plugins/clicky/ -->
-			<script type="text/javascript">
-			function clicky_gc(name) {
-				var ca = document.cookie.split(';');
-				for (var i in ca) {
-					if (ca[i].indexOf(name + '=') != -1) {
-						return decodeURIComponent(ca[i].split('=')[1]);
-					}
-				}
-				return '';
-			}
-			var username_check = clicky_gc('comment_author_545246b99456521d3256e986ca73d99b');
-			if (username_check) var clicky_custom_session = {username: username_check};
-		</script>
-		<script type="text/javascript">
-				var clicky = { log : function () { return true;	}, goal: function () { return true;	} };
-		var clicky_site_id = 100765065;
-		(function () {
-			var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = '//static.getclicky.com/js';
-			( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild(s);
-		})();
-	</script>
-	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100765065ns.gif" /></p></noscript>
-	</div>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/jquery.mobilemenu.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/superfish.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/custom.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+</div>
 	<!-- Quantcast Tag -->
 		<script type="text/javascript">
 			var _qevents = _qevents || [];
@@ -270,22 +427,29 @@ var sb_instagram_js_options = {"sb_instagram_at":"<style>.ig-b- { display: inlin
 			</div>
 		</noscript>
 	<!-- End Quantcast tag -->
-
-
-<!-- Pollware for WanderingPioneer -->
-<script>
-!function(D,id,s){
-if(D.getElementById(id))return;
-s=D.createElement('script');s.id=id;
-s.src='//pollware-cdn.sodahead.com/pollware/pollware_477.js';
-D.getElementsByTagName('head')[0].appendChild(s);
-}(document,'sh-pollware-loader');
-</script>
-
 <script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
+	jQuery(document).on('error','img',function(){
+	        jQuery(this).hide();
+	});
+</script>
+<script type="text/javascript" src="http://wanderingpioneer.com/wp-content/themes/paulblack/js/hammer.min.js"></script>
+<script type="text/javascript">
+Hammer(document.getElementsByTagName("BODY")[0]).on("swipeleft", function(event) {
+	var url = jQuery(".next-btn").parent().attr("href");
+	if (url!=undefined)
+		location.href=url;
+});
+Hammer(document.getElementsByTagName("BODY")[0]).on("swiperight", function(event) {
+	var url = jQuery(".previous-btn").parent().attr("href");
+	if (url!=undefined)
+		location.href=url;
+});
+</script>
+<script type="text/javascript">
+	document.write(load_widget('mobile-in-footer','','desktop-in-footer'));
 </script>
 
-</body></html>
+
+
+<!--Cached using Nginx-Helper on 2016-12-20 19:56:33. It took 7 queries executed in 0.146 seconds.-->
+<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details--></body></html>
