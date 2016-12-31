@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324101035id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstable.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231075248id_/https%3A//www.starstable.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Star Stable
 
@@ -6,7 +6,7 @@ Effective: October 2015
 
 Star Stable is an online horse game for players all over the world where they can dive into the joys of horse-riding and adventure. Star Stable Online is a product owned and developed by Star Stable Entertainment AB in Stockholm, Sweden.
 
-This privacy policy applies to the online game and interactions contained in Star Stable Online available at [https://www.starstable.com](https://web.archive.org/web/20160324101035id_/https%3A//www.starstable.com/en/%E2%80%9Chttps://www.starstable.com%E2%80%9D) and from different international variations. This privacy policy does not apply to third party companies/sites which may link or redirect to Star Stable Entertainment AB sites or products.
+This privacy policy applies to the online game and interactions contained in Star Stable Online available at [https://www.starstable.com](https://www.starstable.com/) and from different international variations. This privacy policy does not apply to third party companies/sites which may link or redirect to Star Stable Entertainment AB sites or products.
 
 Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email. If we make any material changes in the way we handle children’s personal information, we will first notify and obtain the prior consent of a parent or legal guardian. 
 
@@ -96,9 +96,7 @@ Or reach us at our corporate headquarters at:
 
 Star Stable Entertainment AB  
 Att: Privacy Request / Customer Care  
-Malmskillnadsgatan 32  
-111 51 Stockholm  
+Jakobsbergsgatan 31  
+111 44 Stockholm  
 SWEDEN  
 
-
-You may also contact us by phone at 1.888.415.52.90 (Toll Free)
