@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gordmans.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416043346id_/http%3A//www.gordmans.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordmans.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231201030id_/http%3A//www.gordmans.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Gordmans Privacy Policy
 
 This Privacy Policy (“Privacy Policy”) is designed to help you understand how Gordmans, Inc. (“Gordmans”, “we” or “us” ) collects and processes the information that you share when you use this and any of our websites, mobile applications and microsites (together, the “Site”).
 
