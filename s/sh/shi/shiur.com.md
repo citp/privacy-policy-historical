@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511172710id_/http%3A//shiur.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiur.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231014412id_/http%3A//shiur.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Shiur.com - Best Torah Shiurim
+# Privacy Policy | Shiur.com - Best Torah Lectures
 
 What is this Privacy Policy for?
 
