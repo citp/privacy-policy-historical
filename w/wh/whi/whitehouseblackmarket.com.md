@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417204632id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231083828id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
 
 # Privacy Policy - White House | Black Market
 
-Revision Date: March 6, 2015
+Revision Date: February 26, 2016
 
 We know that your privacy is important to you. It is important to us. So, please read our privacy policy (the “Privacy Policy”). 
 
@@ -65,7 +65,7 @@ We retain your personal information for as long as necessary to fulfill the purp
 
 ## Cookies
 
-Our site uses “cookies” which are small data files stored on your computer’s hard drive or mobile device when you visit a site. Cookies may be used in a variety of ways which enhance and personalize your online browsing and shopping experience. For instance, cookies allow us to remember what’s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits. You may set your browser not to accept cookies (“do not track”) or to notify you when you receive cookies. If you do not accept cookies, you will need to re-enter your personal information each time you decide to make a purchase online. 
+Our site uses “cookies” which are small data files stored on your computer’s hard drive or mobile device when you visit a site. Cookies may be used in a variety of ways which enhance and personalize your online browsing and shopping experience. For instance, cookies allow us to remember what’s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here. Also, you may set your browser not to accept cookies (“do not track”) or to notify you when you receive cookies. If you do not accept cookies, you will need to re-enter your personal information each time you decide to make a purchase online. 
 
 ## Third Party Ads
 
