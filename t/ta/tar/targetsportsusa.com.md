@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623070851id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231213750id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Details | Target Sports USA.com
 
