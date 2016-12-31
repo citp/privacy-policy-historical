@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the unicreditgroup.eu privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325231251id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unicreditgroup.eu privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231134017id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -27,6 +27,7 @@
 
 
 
+
 	<meta name="robots" content="FOLLOW, INDEX">
     
     <!-- Page title -->
@@ -43,16 +44,14 @@
 
 
 
-	<!-- Schema.org markup for Google+ -->
-	<meta itemprop="name" content="Privacy">
 
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@UniCredit_PR">
+	<meta name="twitter:site" content="">
 	<meta name="twitter:title" content="Privacy">
 	<meta name="twitter:creator" content="">
 
-	<!-- Open Graph data used by Facebook and LinkedIn -->
+	<!-- Open Graph data -->
 	<meta property="og:title" content="Privacy">
 	<meta property="og:type" content="article">
 	
@@ -61,9 +60,8 @@
 
 	<meta property="article:modified_time" content="2015-08-12T15:13:08.853+02:00">
 	<meta property="article:section" content="Info footer pages">
-	<meta property="article:tag" content="">
 	
-	<!-- <meta property="fb:admins" content="Facebook numberic ID" /> -->
+
   
     <!-- Fav Icon -->
     	    
@@ -101,9 +99,11 @@
 
 
 
+
   
  	<!-- JS/CSS files -->
 	
+
 
 
 
@@ -178,7 +178,7 @@ CQURLInfo = {
 		<!--analytics head part -->
 		<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/foundation/librarymanager.js"></script>
 <script type="text/javascript">
-CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/ie6/themes/default.css","c":["ie6"]}],false);
+CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/ie6/themes/default.css","c":["ie6"]}],false);
 </script><script src="/etc/clientlibs/foundation/jquery.js" type="text/javascript"></script>
 <script src="/etc/clientlibs/foundation/shared.js" type="text/javascript"></script>
 <script src="/etc/clientlibs/foundation/jquery-ui.js" type="text/javascript"></script>
@@ -194,6 +194,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 </script></div>
 
 		<!--analytics head end -->
+		
 		<div id="message" style="display: none;">Messaggio</div>
 		
 		<div class="base topbar">
@@ -206,12 +207,22 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
 <script type="text/javascript">
-	function onlineBankingAction(obj){
+	function onlineBankingAction(event,obj){
+		
+		
 		var componentPath = 'unicreditgroupn/components/page/homepage/static/topbar';
 		if(componentPath.startsWith('/apps/')){
 		    componentPath = componentPath.substring(6,componentPath.length);
 		}
+		var hrefPath = $(obj).attr('href');
+        if(typeof hrefPath !="undefined"){
+        	event.preventDefault();
+            CQ_Analytics.registerAfterCallback(function(){
+                window.location = hrefPath;
+            }, 90);
+        }
 		CQ_Analytics.record({event: 'onlineBanking', values: { menuName: 'online banking'}, options: { obj: obj, defaultLinkType: 'o' }, componentPath: componentPath});
 	}
 	
@@ -305,7 +316,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		</ul>
 	</div>
 	<div class="online-banking hidden-xs hidden-print">
-		<a href="/en/info/find-your-home-banking-website.html" onclick="onlineBankingAction(this)">
+		<a href="/en/info/find-your-home-banking-website.html" onclick="onlineBankingAction(event,this)">
 			<span class="icon icon-online-Banking_A-3">
 				<span class="path1"></span>
 				<span class="path2"></span>
@@ -317,7 +328,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 	<div class="search visible-xs">
 		<a class="searchToolHeader" href="javascript:void(0);"></a>
 	</div>
-	<div class="panel ucg_search" style="display: none; width: 1286px;">
+	<div class="panel ucg_search" style="display: none; width: 1287px;">
 		<div class="container">	
 			<input class="findAsYouType" type="text" name="querySearch" data-resultspage="/content/unicreditgroup-eu/en/search.html" placeholder="Search for..." data-threshold="3" data-lang="en">
 			<button value="" class="findButton"></button>
@@ -337,6 +348,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 			
 			<div class="body-container-cell">
 				<div class="base sidebar">
+
 
 
 
@@ -370,21 +382,23 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/unicredit-at-a-glance.html" data-section="unicreditataglance" data-link="masterLink">UniCredit at a glance</a></li>
+							<li><a class=" masterLink" href="/en/unicredit-at-a-glance.html?topmenu=INT-TM_ABO0_en052" data-section="unicreditataglance" data-link="masterLink">UniCredit at a glance</a></li>
 							
-											<li><a class="0" href="/en/unicredit-at-a-glance/our-identity.html" data-section="unicreditataglance" data-link="0">Our identity</a></li>
+											<li><a class="0" href="/en/unicredit-at-a-glance/our-identity.html?topmenu=INT-TM_ABO1_en053" data-section="unicreditataglance" data-link="0">Our identity</a></li>
 											
-											<li><a class="1" href="/en/unicredit-at-a-glance/organizational-structure.html" data-section="unicreditataglance" data-link="1">Organizational Structure</a></li>
+											<li><a class="1" href="/en/unicredit-at-a-glance/organizational-structure.html?topmenu=INT-TM_ABO2_en054" data-section="unicreditataglance" data-link="1">Organizational Structure</a></li>
 											
-											<li><a class="2" href="/en/unicredit-at-a-glance/our-approach-to-business.html" data-section="unicreditataglance" data-link="2">Our approach to business</a></li>
+											<li><a class="2" href="/en/unicredit-at-a-glance/our-approach-to-business.html?topmenu=INT-TM_ABO3_en055" data-section="unicreditataglance" data-link="2">Our approach to business</a></li>
 											
-											<li><a class="3" href="/en/unicredit-at-a-glance/culture-society.html" data-section="unicreditataglance" data-link="3">Culture and society</a></li>
+											<li><a class="3" href="/en/unicredit-at-a-glance/culture-society.html?topmenu=INT-TM_ABO4_en056" data-section="unicreditataglance" data-link="3">Culture and society</a></li>
 											
-											<li><a class="4" href="/en/unicredit-at-a-glance/innovation.html" data-section="unicreditataglance" data-link="4">Innovation</a></li>
+											<li><a class="4" href="/en/unicredit-at-a-glance/innovation.html?topmenu=INT-TM_ABO5_en057" data-section="unicreditataglance" data-link="4">Innovation</a></li>
 											
-											<li><a class="5" href="/en/unicredit-at-a-glance/communication.html" data-section="unicreditataglance" data-link="5">Communication</a></li>
+											<li><a class="5" href="/en/unicredit-at-a-glance/communication.html?topmenu=INT-TM_ABO6_en058" data-section="unicreditataglance" data-link="5">Communication</a></li>
 											
-											<li><a class="6" href="/en/unicredit-at-a-glance/awards-and-honour.html" data-section="unicreditataglance" data-link="6">Awards and honour</a></li>
+											<li><a class="6" href="/en/unicredit-at-a-glance/headquarter-unicredit-tower.html" data-section="unicreditataglance" data-link="6">Headquarter: UniCredit Tower</a></li>
+											
+											<li><a class="7" href="/en/unicredit-at-a-glance/awards-and-honour.html?topmenu=INT-TM_ABO7_en059" data-section="unicreditataglance" data-link="7">Awards and honour</a></li>
 											
 						</ul>
 					</div>
@@ -405,35 +419,35 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/governance.html" data-section="governance" data-link="masterLink">Governance</a></li>
+							<li><a class=" masterLink" href="/en/governance.html?topmenu=INT-TM_GOV0_en022" data-section="governance" data-link="masterLink">Governance</a></li>
 							
-											<li><a class="0" href="/en/governance/governance-system-and-policies.html" data-section="governance" data-link="0">Governance system and policies</a></li>
+											<li><a class="0" href="/en/governance/governance-system-and-policies.html?topmenu=INT-TM_GOV1_en023" data-section="governance" data-link="0">System and policies</a></li>
 											
-											<li><a class="1" href="/en/governance/shareholders-structure.html" data-section="governance" data-link="1">Shareholders structure</a></li>
+											<li><a class="1" href="/en/governance/shareholders-structure.html?topmenu=INT-TM_GOV2_en024" data-section="governance" data-link="1">Shareholders structure</a></li>
 											
-											<li><a class="2" href="/en/governance/board-of-directors.html" data-section="governance" data-link="2">Board of Directors</a></li>
+											<li><a class="2" href="/en/governance/board-of-directors.html?topmenu=INT-TM_GOV3_en025" data-section="governance" data-link="2">Board of Directors</a></li>
 											
-											<li><a class="3" href="/en/governance/management.html" data-section="governance" data-link="3">Management</a></li>
+											<li><a class="3" href="/en/governance/management.html?topmenu=INT-TM_GOV4_en026" data-section="governance" data-link="3">Management</a></li>
 											
-											<li><a class="4" href="/en/governance/board-of-statutory-auditors.html" data-section="governance" data-link="4">Board of Statutory Auditors</a></li>
+											<li><a class="4" href="/en/governance/board-of-statutory-auditors.html?topmenu=INT-TM_GOV5_en027" data-section="governance" data-link="4">Board of Statutory Auditors</a></li>
 											
-											<li><a class="5" href="/en/governance/supervisor-body.html" data-section="governance" data-link="5">Supervisory body</a></li>
+											<li><a class="5" href="/en/governance/supervisor-body.html?topmenu=INT-TM_GOV6_en028" data-section="governance" data-link="5">Supervisory body</a></li>
 											
-											<li><a class="6" href="/en/governance/control-systems.html" data-section="governance" data-link="6">Internal control systems</a></li>
+											<li><a class="6" href="/en/governance/control-systems.html?topmenu=INT-TM_GOV7_en029" data-section="governance" data-link="6">Internal control systems</a></li>
 											
-											<li><a class="7" href="/en/governance/auditing-firm.html" data-section="governance" data-link="7">Auditing firm</a></li>
+											<li><a class="7" href="/en/governance/auditing-firm.html?topmenu=INT-TM_GOV8_en030" data-section="governance" data-link="7">Auditing firm</a></li>
 											
-											<li><a class="8" href="/en/governance/compensation.html" data-section="governance" data-link="8">Compensation</a></li>
+											<li><a class="8" href="/en/governance/compensation.html?topmenu=INT-TM_GOV9_en031" data-section="governance" data-link="8">Compensation</a></li>
 											
-											<li><a class="9" href="/en/governance/internal-dealings.html" data-section="governance" data-link="9">Internal Dealings</a></li>
+											<li><a class="9" href="/en/governance/internal-dealings.html?topmenu=INT-TM_GOV10_en032" data-section="governance" data-link="9">Internal Dealings</a></li>
 											
-											<li><a class="10" href="/en/governance/related-parties-and-associated-persons.html" data-section="governance" data-link="10">Related Parties &amp; Associated Persons</a></li>
+											<li><a class="10" href="/en/governance/related-parties-and-associated-persons.html?topmenu=INT-TM_GOV11_en033" data-section="governance" data-link="10">Related Parties &amp; Associated Persons</a></li>
 											
-											<li><a class="11" href="/en/governance/shareholders-meeting.html" data-section="governance" data-link="11">Shareholders meeting</a></li>
+											<li><a class="11" href="/en/governance/shareholders-meeting.html?topmenu=INT-TM_GOV12_en034" data-section="governance" data-link="11">Shareholders meeting</a></li>
 											
-											<li><a class="12" href="/en/governance/corporate-transactions.html" data-section="governance" data-link="12">Corporate transactions</a></li>
+											<li><a class="12" href="/en/governance/corporate-transactions.html?topmenu=INT-TM_GOV13_en035" data-section="governance" data-link="12">Corporate transactions</a></li>
 											
-											<li><a class="13" href="/en/governance/capital-strengthening.html" data-section="governance" data-link="13">Capital Strengthening</a></li>
+											<li><a class="13" href="/en/governance/capital-strengthening.html?topmenu=INT-TM_GOV14_en036" data-section="governance" data-link="13">Capital Strengthening</a></li>
 											
 						</ul>
 					</div>
@@ -454,27 +468,29 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/investors.html" data-section="investors" data-link="masterLink">Investors</a></li>
+							<li><a class=" masterLink" href="/en/investors.html?topmenu=INT-TM_INV0_en000" data-section="investors" data-link="masterLink">Investors</a></li>
 							
-											<li><a class="0" href="/en/investors/share-information.html" data-section="investors" data-link="0">Share Information</a></li>
+											<li><a class="0" href="/en/investors/capital-markets-day.html" data-section="investors" data-link="0">Capital Markets Day</a></li>
 											
-											<li><a class="1" href="/en/investors/financial-highlights.html" data-section="investors" data-link="1">Financial Highlights</a></li>
+											<li><a class="1" href="/en/investors/share-information.html?topmenu=INT-TM_INV1_en001" data-section="investors" data-link="1">Share Information</a></li>
 											
-											<li><a class="2" href="/en/investors/group-results.html" data-section="investors" data-link="2">Group results</a></li>
+											<li><a class="2" href="/en/investors/financial-highlights.html?topmenu=INT-TM_INV2_en002" data-section="investors" data-link="2">Financial Highlights</a></li>
 											
-											<li><a class="3" href="/en/investors/financial-reports.html" data-section="investors" data-link="3">Financial Reports</a></li>
+											<li><a class="3" href="/en/investors/group-results.html?topmenu=INT-TM_INV3_en003" data-section="investors" data-link="3">Group results</a></li>
 											
-											<li><a class="4" href="/en/investors/third-pillar-basel-two-and-three.html" data-section="investors" data-link="4">Third Pillar of Basel 2 and 3</a></li>
+											<li><a class="4" href="/en/investors/financial-reports.html?topmenu=INT-TM_INV4_en004" data-section="investors" data-link="4">Financial Reports</a></li>
 											
-											<li><a class="5" href="/en/investors/presentations-and-documents.html" data-section="investors" data-link="5">Other Presentations and documents</a></li>
+											<li><a class="5" href="/en/investors/third-pillar-basel-two-and-three.html?topmenu=INT-TM_INV5_en005" data-section="investors" data-link="5">Third Pillar of Basel 2 and 3</a></li>
 											
-											<li><a class="6" href="/en/investors/financial-calendar.html" data-section="investors" data-link="6">Financial calendar</a></li>
+											<li><a class="6" href="/en/investors/presentations-and-documents.html?topmenu=INT-TM_INV6_en006" data-section="investors" data-link="6">Other Presentations and documents</a></li>
 											
-											<li><a class="7" href="/en/investors/consensus-and-analysts.html" data-section="investors" data-link="7">Consensus and analysts</a></li>
+											<li><a class="7" href="/en/investors/financial-calendar.html?topmenu=INT-TM_INV7_en007" data-section="investors" data-link="7">Financial calendar</a></li>
 											
-											<li><a class="8" href="/en/investors/funding-and-ratings.html" data-section="investors" data-link="8">Funding and ratings</a></li>
+											<li><a class="8" href="/en/investors/consensus-and-analysts.html?topmenu=INT-TM_INV8_en008" data-section="investors" data-link="8">Consensus and analysts</a></li>
 											
-											<li><a class="9" href="/en/investors/contacts.html" data-section="investors" data-link="9">Contacts</a></li>
+											<li><a class="9" href="/en/investors/funding-and-ratings.html?topmenu=INT-TM_INV9_en009" data-section="investors" data-link="9">Funding &amp; Ratings</a></li>
+											
+											<li><a class="10" href="/en/investors/contacts.html?topmenu=INT-TM_INV10_en010" data-section="investors" data-link="10">Contacts</a></li>
 											
 						</ul>
 					</div>
@@ -495,21 +511,21 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/press-media.html" data-section="pressmedia" data-link="masterLink">Press &amp; Media</a></li>
+							<li><a class=" masterLink" href="/en/press-media.html?topmenu=INT-TM_PRE00_en069" data-section="pressmedia" data-link="masterLink">Press &amp; Media</a></li>
 							
 											<li><a class="0" href="/en/press-media/press-releases.html" data-section="pressmedia" data-link="0">Press Releases</a></li>
 											
-											<li><a class="1" href="/en/press-media/news.html" data-section="pressmedia" data-link="1">News</a></li>
+											<li><a class="1" href="/en/press-media/news.html?topmenu=INT-TM_PRE02_en071" data-section="pressmedia" data-link="1">News</a></li>
 											
-											<li><a class="2" href="/en/press-media/events.html" data-section="pressmedia" data-link="2">Events Calendar</a></li>
+											<li><a class="2" href="/en/press-media/events.html?topmenu=INT-TM_PRE03_en072" data-section="pressmedia" data-link="2">Events Calendar</a></li>
 											
-											<li><a class="3" href="/en/press-media/social-media.html" data-section="pressmedia" data-link="3">Social Media</a></li>
+											<li><a class="3" href="/en/press-media/social-media.html?topmenu=INT-TM_PRE04_en073" data-section="pressmedia" data-link="3">Social Media</a></li>
 											
-											<li><a class="4" href="/en/press-media/magazine-and-publications.html" data-section="pressmedia" data-link="4">Magazine &amp; Publications</a></li>
+											<li><a class="4" href="/en/press-media/magazine-and-publications.html?topmenu=INT-TM_PRE05_en074" data-section="pressmedia" data-link="4">Magazine &amp; Publications</a></li>
 											
-											<li><a class="5" href="/en/press-media/press-kit.html" data-section="pressmedia" data-link="5">Press Kit</a></li>
+											<li><a class="5" href="/en/press-media/press-kit.html?topmenu=INT-TM_PRE06_en075" data-section="pressmedia" data-link="5">Press Kit</a></li>
 											
-											<li><a class="6" href="/en/press-media/contacts.html" data-section="pressmedia" data-link="6">Contacts</a></li>
+											<li><a class="6" href="/en/press-media/contacts.html?topmenu=INT-TM_PRE07_en076" data-section="pressmedia" data-link="6">Contacts</a></li>
 											
 						</ul>
 					</div>
@@ -530,15 +546,17 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/careers.html" data-section="careersatunicredit" data-link="masterLink">Careers at UniCredit</a></li>
+							<li><a class=" masterLink" href="/en/careers.html?topmenu=INT-TM_CAR00_en085" data-section="careersatunicredit" data-link="masterLink">Careers at UniCredit</a></li>
 							
-											<li><a class="0" href="/en/careers/what-set-us-apart.html" data-section="careersatunicredit" data-link="0">What set us apart</a></li>
+											<li><a class="0" href="/en/careers/what-set-us-apart.html?topmenu=INT-TM_CAR01_en086" data-section="careersatunicredit" data-link="0">What set us apart</a></li>
 											
-											<li><a class="1" href="/en/careers/our-organization.html" data-section="careersatunicredit" data-link="1">Our Organization</a></li>
+											<li><a class="1" href="/en/careers/our-organization.html?topmenu=INT-TM_CAR02_en087" data-section="careersatunicredit" data-link="1">Our Organization</a></li>
 											
-											<li><a class="2" href="/en/careers/student-and-graduates.html" data-section="careersatunicredit" data-link="2">Students &amp; Graduates</a></li>
+											<li><a class="2" href="/en/careers/student-and-graduates.html?topmenu=INT-TM_CAR03_en088" data-section="careersatunicredit" data-link="2">Students &amp; Graduates</a></li>
 											
-											<li><a class="3" href="/en/careers/professionals.html" data-section="careersatunicredit" data-link="3">Professionals</a></li>
+											<li><a class="3" href="/en/careers/professionals.html?topmenu=INT-TM_CAR04_en089" data-section="careersatunicredit" data-link="3">Professionals</a></li>
+											
+											<li><a class="4" href="/en/careers/unimanagement-learning-centre.html" data-section="careersatunicredit" data-link="4">UniManagement Learning Centre</a></li>
 											
 						</ul>
 					</div>
@@ -549,9 +567,9 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 						<div class="sidebar-collapser-container">
 						<span class="icon icon-Sustainibility"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span>
 							<a class="sidebar-collapser" href="javascript:void(0);" data-img="" data-name="asustainablebank" data-target="#sidebar .sidebar-element.asustainablebank .collapse">
-								Sustainabilty
+								Sustainability
 								<span class="labelFadeContainer">
-									<span class="labelFade">Sustainabilty</span>
+									<span class="labelFade">Sustainability</span>
 								</span>
 							</a>
 						</div>
@@ -561,11 +579,11 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 						<ul>
 							<li><a class=" masterLink" href="/en/a-sustainable-bank.html" data-section="asustainablebank" data-link="masterLink">A sustainable Bank</a></li>
 							
-											<li><a class="0" href="/en/a-sustainable-bank/our-capitals.html" data-section="asustainablebank" data-link="0">Our capitals</a></li>
+											<li><a class="0" href="/en/a-sustainable-bank/our-capitals.html?topmenu=INT-TM_SUS01_en096" data-section="asustainablebank" data-link="0">Our capitals</a></li>
 											
-											<li><a class="1" href="/en/a-sustainable-bank/sustainability-governance.html" data-section="asustainablebank" data-link="1">Sustainability governance</a></li>
+											<li><a class="1" href="/en/a-sustainable-bank/sustainability-governance.html?topmenu=INT-TM_SUS02_en097" data-section="asustainablebank" data-link="1">Sustainability governance</a></li>
 											
-											<li><a class="2" href="/en/a-sustainable-bank/sustainability-reporting.html" data-section="asustainablebank" data-link="2">Sustainability reporting</a></li>
+											<li><a class="2" href="/en/a-sustainable-bank/sustainability-reporting.html?topmenu=INT-TM_SUS03_en098" data-section="asustainablebank" data-link="2">Reports</a></li>
 											
 						</ul>
 					</div>
@@ -586,11 +604,11 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					</div>
 					<div class="collapse">
 						<ul>
-							<li><a class=" masterLink" href="/en/uefa.html" data-section="uefa" data-link="masterLink">UEFA</a></li>
+							<li><a class=" masterLink" href="/en/uefa.html?topmenu=INT-TM_UEF00_en103" data-section="uefa" data-link="masterLink">UEFA</a></li>
 							
 											<li><a class="0" href="/en/uefa/sponsorship-uefa.html" data-section="uefa" data-link="0">The Sponsorship</a></li>
 											
-											<li><a class="1" href="/en/uefa/uefa-champions-league.html" data-section="uefa" data-link="1">UEFA Champions League</a></li>
+											<li><a class="1" href="/en/uefa/uefa-champions-league.html?topmenu=INT-TM_UEF02_en105" data-section="uefa" data-link="1">UEFA Champions League</a></li>
 											
 											<li><a class="2" href="/en/uefa/uefa-europa-league.html" data-section="uefa" data-link="2">UEFA Europa League</a></li>
 											
@@ -635,11 +653,14 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 			</div>
 			
 			<div class="body-container-cell">
-				<div id="mainContainer" data-browser="chrome" style="width: 1286px; min-height: 0px;">
-					<div class="mainContainer-wrapper" style="width: 1286px; min-height: 0px;">
+				<div id="mainContainer" data-browser="chrome" style="width: 1287px; min-height: 0px;">
+					<div class="mainContainer-wrapper" style="width: 1287px; min-height: 0px;">
+						
+												
 						
 						
 						<div class="ucg_breadcrumb_edit_cls">
+
 
 
 
@@ -683,17 +704,28 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 					
 				</div>
 				<!-- /END BUTTONS -->
+				
 				<!-- SHARING -->
 				<div class="ucg_breadcrumb_sharing static col-xs-12">
+					
 					<div class="icon collapsed">
 						<a href="javascript:void(0);" data-target=".ucg_breadcrumb_sharing_panel.static.collapse" data-toggle="collapse">Share</a>
 					</div>
+					
+					<div class="print-link">
+						<a href="javascript:window.print()"><span class="ico-cor-Print"></span>Print</a>
+					</div>
+					<div class="send-link">
+						<a href="#" class="static"><span class="ico-cor-Send"></span>Send</a>
+					</div>
 				</div>
 				<!-- /END SHARING -->
+					
 			</div>
 		</div>
 		<div class="clear"></div>
 	</div>
+	
 	<!-- SHARING COLLAPSABLE-->
 	
 
@@ -702,8 +734,9 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
  
-	<div class="panel ucg_breadcrumb_arrow_panel static" style="display: none">
+	<div class="panel ucg_breadcrumb_arrow_panel static ucg_share" style="display: none">
 		<div class="container">
 			<div class="arrows">
 				<!-- nope, just nope<img class="arrow-down" alt="Arrow Down" src="/etc/designs/unicreditgroupn/img/static/breadcrumb-share-down-arrow.png"> -->
@@ -778,6 +811,88 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 	
 
 	<!-- SHARING COLLAPSABLE-->
+	
+	
+	<!-- SEND MODAL FORM -->
+	
+
+
+
+
+
+
+
+
+
+
+
+	<div class="panel ucg_breadcrumb_arrow_panel static ucg_send" style="display: none">
+		<div class="container">
+			<div class="arrows">
+				<span class="arrow-down arrow"></span>
+			</div>
+		</div>
+	</div>
+	<div class="panel panel-collapse ucg_breadcrumb_send_panel static collapse">
+		<div class="container">
+			<div class="col-xs-12 col-sm-4 col-md-3 left">
+				<h2>Recomend this page</h2>
+			</div>
+			<div class="col-xs-12 col-sm-7 col-md-8 ucg_send_form_container">
+				<div class="spinner"></div>
+				<div class="success"><p>Thank you, we sent your recommendation to the desired recipient.</p></div>
+				<div class="error" data-body="#sender# recommends to have a look to this page of UniCredit Group corporate web site:#url#"><p>Sorry, this functionality is not available right now.<br>Please try with this <a href="#">link</a>. Thank you.</p></div>
+				<form class="ucg_form" id="send-recommended-page-form">
+					
+					<input type="hidden" name="page-title" value="Privacy">
+					
+					<div class="row marB15">
+						<div class="col-xs-12 col-md-6">
+							<p>Sender:</p>
+							<input type="text" name="sender" placeholder="Name" class="required" maxlength="100" data-toggle="popover" data-validation="text" data-validation-msg="[{&quot;error&quot;:&quot;This field is mandatory&quot;}]">
+						</div>
+						<div class="col-xs-12 col-md-6 ucgn-sm-mart-10">
+							<p>Recipient (e-mail address):</p>
+							<input type="text" name="recipient" placeholder="E-mail" class="required" maxlength="100" data-toggle="popover" data-validation="email" data-validation-msg="[{&quot;error&quot;:&quot;This field is mandatory&quot;},{&quot;error&quot;:&quot;The value inserted has an invalid format&quot;}]">
+						</div>
+					</div>
+					<div class="row marB10">
+						<div class="col-xs-12 col-md-6">
+							<img id="send_cq_captchaimg_static" class="send_cq_captchaimg" src="/content/unicreditgroup-eu/en/info/privacy.png?id=123" alt="">
+							<a href="javascript:void(0);" onclick="sendCaptchaRefresh('static');return false;" class="captcha_refresh">New picture</a>
+						</div>
+						<div class="col-xs-12 col-md-6 ucgn-sm-mart-10">
+							<p>Rewrite captcha:</p>
+							<input type="text" placeholder="Captcha" class="required" id="captcha" name="captcha" data-validation="captcha" data-validation-msg="[{&quot;error&quot;:&quot;This field is mandatory&quot;},{&quot;error&quot;:&quot;Invalid captcha code&quot;}]" maxlength="100" data-toggle="popover">
+							<input id="captcha_hidden_static" value="captcha" type="hidden">
+							<input type="hidden" name="captchakey" id="send_captchakey_static">
+							<div id="send_cq_captchatimer" class="form_captchatimer" style="width: 63px;"></div>
+							<script type="text/javascript">
+								var sendCaptchaStartTime = 0;
+								sendCaptchaTimer();
+							</script>
+						</div>
+					</div>
+					<div class="ucg_horizontal_line">
+						<div class="spacer1"></div>
+						<div class="spacer2"></div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-12 ucg_button">
+							<button type="submit" class="btn ucg_button_confirm" title="Send">Send</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<div class="closer hidden-xs">
+				<a href="javascript:void(0);" data-target=".ucg_breadcrumb_send_panel.collapse.static" data-toggle="collapse">
+					<img alt="Cross" src="/etc/designs/unicreditgroupn/img/static/breadcrumb-share-cross.png">
+					<span class="crs"></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- SEND MODAL FORM -->
 </div>
 <!-- /END BREADCRUMB -->
 
@@ -803,7 +918,9 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
 <div class="content-parsys parsys" style="padding-bottom: 287px;"><a name="content-parsys_seo_title" style="visibility:hidden"></a><div class="base section seo-title">
+
 
 
 
@@ -827,6 +944,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
 <div class="ucg_spacer" data-ucg-height-mobile="20" data-ucg-height="20"></div>
 
 
@@ -841,6 +959,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 <div class="ucg_spacer" data-ucg-height-mobile="20" data-ucg-height="20"></div>
 </div>
 <a name="content-parsys_title" style="visibility:hidden"></a><div class="base section title">
+
 
 
 
@@ -880,90 +999,85 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
+
+
+
+
+
+
 <div class="panel ucg_image_text">
 	<div class="container">
 		<div class="ucg_txt">
 			
-                    <p>This page describes the methods of management of the Website of UniCredit S.p.A., with reference to the processing of the personal data of users who consult it. This is a disclosure made also under the terms of Art. 13 of Legislative Decree 196 of 30 June 2003 (henceforth the Privacy Code) to those who interact with the web services of UniCredit S.p.A., accessible by electronic means via the addresses:</p>
-<p><br>
-</p>
-<p><a href="http://www.unicredit.eu" class="ucg_ext_link" target="_blank" data_type="extUrl">http://www.unicredit.eu</a></p>
-<p><br>
-</p>
-<p><a href="http://www.unicredit.it" class="ucg_ext_link" target="_blank" data_type="extUrl">http://www.unicredit.it</a></p>
-<p>&nbsp;</p>
-<p>corresponding to the homepages of the UniCredit S.p.A. websites. The disclosure is made only for the UniCredit S.p.A. websites and not also for any other websites consulted by the user through links.</p>
-<p>The disclosure is based also on Recommendation No 2/2001 which the European Personal Data Protection Authority, meeting as the Working Party established by Art. 29 of Directive 95/46/EC, adopted on 17 May 2001 to identify certain minimum requirements for the on-line gathering of personal data and, in particular, the methods, times and nature of the information that Data Controllers must provide to users when they visit web pages, irrespective of the purposes of the visit.</p>
-<p><br>
-</p>
-<p></p>
-<p><span class="mainTitle">The "Data Controller"</span></p>
-<p>Following consultation of this website, data on identified or identifiable persons may be processed. The "data controller" is UniCredit S.p.A., whose Registered Office is in Rome at Via Alessandro Specchi n. 16 and whose Operational Headquarters is in Milan, Piazza Gae Aulenti, 3, Tower A - 20154 Milan.</p>
-<p>In case of data processing running, within the various sections of the website will be pointed out the relevant Data Processors.</p>
-<p><br>
-</p>
-<p></p>
-<p><span class="mainTitle">Place of data processing</span></p>
-<p>The processing of data connected with the web services of this site takes place at the above Headquarters and also at the office in Via Livio Cambi, 1, in Milan and is performed only by the personnel of UniCredit S.p.A., in charge of the processing, or by employees of UniCredit Business Integrated Solutions S.C.p.A., the "Data Processor" designated by the controller UniCredit S.p.A..</p>
-<p>No personal data deriving from the web service is disseminated.</p>
-<p>The personal data provided by users are used for the sole purpose of performing the service or task requested and are communicated to third parties only when necessary for this purpose.</p>
-<p><br>
-</p>
-<p></p>
-<p><span class="mainTitle">Types of data processed</span></p>
-<p><span class="paragraphTitle">Navigation data</span></p>
-<p>During their normal operation, the information systems and software procedures used for the functions of this website acquire certain personal data the transmission of which is implicit in the use of the Internet, which is based on the TCP/IP protocol.</p>
-<p>This is information which is not gathered to be associated with identified data subjects, but which by its very nature could, through processing and association with data held by others, enable the users to be identified.</p>
-<p>This category of data includes the "IP addresses" or domain names of the computers used by users who visit the website, the addresses in URI (Uniform Resource Identifier) format of the resources requested, the time of the request, the method used in submitting the request to the web server, the dimensions of the file obtained in response, the numerical code indicating the state of the response given by the web server (success, error, etc...) and other parameters relating to the user's operating system and IT environment. These data are used for the sole purpose of obtaining anonymous statistical information on the use of the website and to check the correct operation of the UniCredit S.p.A. website.</p>
-<p>It should be noted that the above data could be used to ascertain responsibility in the case of computer crime which harms the UniCredit S.p.A. website or the structures of the data processor UniCredit Business Integrated Solution S.C.p.A., or other websites connected or linked to it: except in this case, the data on the web contacts are not kept for more than a few days</p>
-<p><br>
-</p>
-<p>Data provided voluntarily by the user</p>
-<p>Requests to send e-mail to the addresses indicated in the relevant section of the UniCredit S.p.A. website entail the subsequent acquisition of certain personal data of the applicant, including the applicant's e-mail address, necessary to respond to the requests.</p>
-<p>Specific summary disclosures will be progressively contained or displayed on the pages of the website prepared for these particular services on request.</p>
-<p><br>
-</p>
-<p>Cookies</p>
-<p>A cookie is a small "data file" that some websites, while they are being visited, may send to the address of the user who is visiting them in order to trace his or her route within the site and gather data in an exclusively anonymous form to improve the services and user-friendliness of the website itself. For these reasons, during navigation of its site, the UniCredit web server may also exchange cookies with the users' computers. All users may in any case, if they so choose, set their browsers in such a way as to receive a warning of the presence of a cookie and decide whether to accept it or refuse it. It is also possible to refuse the reception of cookies automatically activating the specific option in the browser: failure to use cookies, however, could entail difficulties in interaction with the Bank's website.</p>
-<p>&nbsp;</p>
-<p>Data provided through use of the Call Center</p>
-<p>The systems and procedures arranged for operation of the Bank's Call Center acquire certain data in relation to customers' calls. This category includes the caller's remote number (if not hidden), the navigation data in the IVR call flow (that is the actions/key pad inputs that the customer performs to gain access to the various services), duration of the call, and, only in the cases expressly envisaged and after notifying the caller, audio recording of the call.</p>
-<p>The above data are processed in order to obtain anonymous statistical information on the use of the Call Center, to check that it is operating correctly and to ensure its security, as well as for the aware of responsibility in the event of any crimes that damage the Bank or its customers.</p>
-<p>Optionality of conferment of personal data</p>
-<p>&nbsp;</p>
-<p>Apart from the details provided for navigation data, users are free to provide their personal data included in the specific electronic request forms, in the sections of the website prepared for the particular services on request.</p>
-<p>It should be noted, however, that failure to provide such information may make it impossible to fulfil the request.</p>
-<p>Processing method and security measures</p>
-<p>&nbsp;</p>
-<p>The personal data are processed with automated and non-automated instruments, only for the time strictly necessary to achieve the purposes for which they have been gathered. Specific security measures are observed to prevent loss of data, illegal or incorrect uses and unauthorized access.</p>
-<p>In particular, in the sections of the website prepared for particular services, where personal data are requested from users navigating the site, the data are encrypted by means of a security technology entitled Secure Sockets Layer, abbreviated as SSL. The SSL technology codifies the information before it is exchanged via the Internet between the user's computer and the UniCredit S.p.A. central systems, making it incomprehensible to unauthorized persons and thus guaranteeing the confidentiality of the information transmitted.</p>
-<p>The use of SSL requires however a compatible browser capable of "swapping" a security key with a minimum length of 128 bits, necessary to establish the said secure connection with the UniCredit S.p.A. central systems.</p>
-<p>Rights of data subjects</p>
-<p>&nbsp;</p>
-<p>Subjects to whom any personal data gathered in the said specific sections refer, have the right at any time to obtain confirmation of the existence or otherwise of the said data and to know their content and origin, check their exactness or request additions or updates, or rectification under the terms of Art. 7 of the Privacy Code.</p>
-<p>The data subject has the right to request the cancellation, transformation into an anonymous form, or to object to their processing, in any case, for legitimate reasons.</p>
-<p>Any such requests must be sent to:</p>
-<p><br>
-</p>
-<p><span class="paragraphTitle">UniCredit S.p.A.</span></p>
-<p><span class="paragraphTitle">Claims</span></p>
-<p>Via Del Lavoro, 42</p>
-<p>40127 Bologna</p>
-<p>Tel.: +39 051.6407285</p>
-<p>Fax: +39 051.6407229</p>
-<p>E-mail: <a href="mailto:Privacyart7@unicredit.eu" target="_blank" data_type="email">Privacyart7@unicredit.eu</a></p>
-<p><br>
-</p>
-<p><span class="mainTitle">Minors</span></p>
-<p>UniCredit S.p.A. does not knowingly use its website to request data from persons of less than 18 years of age.</p>
-<p>Versions of the privacy policy</p>
+			
+                    <p>This page describes the methods of management of the Website of UniCredit S.p.A., with reference to the processing of the personal data of users who consult it. This is a disclosure made also under the terms of Art. 13 of Legislative Decree 196 of 30 June 2003 (henceforth the Privacy Code) to those who interact with the web services of UniCredit S.p.A., accessible by electronic means via the addresses:</p> 
+<p><br> </p> 
+<p><a href="http://www.unicredit.eu" class="ucg_ext_link" target="_blank" data_type="extUrl">http://www.unicredit.eu</a></p> 
+<p><br> </p> 
+<p><a href="http://www.unicredit.it" class="ucg_ext_link" target="_blank" data_type="extUrl">http://www.unicredit.it</a></p> 
+<p>&nbsp;</p> 
+<p>corresponding to the homepages of the UniCredit S.p.A. websites. The disclosure is made only for the UniCredit S.p.A. websites and not also for any other websites consulted by the user through links.</p> 
+<p>The disclosure is based also on Recommendation No 2/2001 which the European Personal Data Protection Authority, meeting as the Working Party established by Art. 29 of Directive 95/46/EC, adopted on 17 May 2001 to identify certain minimum requirements for the on-line gathering of personal data and, in particular, the methods, times and nature of the information that Data Controllers must provide to users when they visit web pages, irrespective of the purposes of the visit.</p> 
+<p><br> </p>  
+<h4 class="mainTitle" style="">The "Data Controller"</h4> 
+<p>Following consultation of this website, data on identified or identifiable persons may be processed. The "data controller" is UniCredit S.p.A., whose Registered Office is in Rome at Via Alessandro Specchi n. 16 and whose Operational Headquarters is in Milan, Piazza Gae Aulenti, 3, Tower A - 20154 Milan.</p> 
+<p>In case of data processing running, within the various sections of the website will be pointed out the relevant Data Processors.</p> 
+<p><br> </p>  
+<h4 class="mainTitle" style="">Place of data processing</h4> 
+<p>The processing of data connected with the web services of this site takes place at the above Headquarters and also at the office in Via Livio Cambi, 1, in Milan and is performed only by the personnel of UniCredit S.p.A., in charge of the processing, or by employees of UniCredit Business Integrated Solutions S.C.p.A., the "Data Processor" designated by the controller UniCredit S.p.A..</p> 
+<p>No personal data deriving from the web service is disseminated.</p> 
+<p>The personal data provided by users are used for the sole purpose of performing the service or task requested and are communicated to third parties only when necessary for this purpose.</p> 
+<p><br> </p>  
+<h4 class="mainTitle" style="">Types of data processed</h4> 
+<p><span class="paragraphTitle">Navigation data</span></p> 
+<p>During their normal operation, the information systems and software procedures used for the functions of this website acquire certain personal data the transmission of which is implicit in the use of the Internet, which is based on the TCP/IP protocol.</p> 
+<p>This is information which is not gathered to be associated with identified data subjects, but which by its very nature could, through processing and association with data held by others, enable the users to be identified.</p> 
+<p>This category of data includes the "IP addresses" or domain names of the computers used by users who visit the website, the addresses in URI (Uniform Resource Identifier) format of the resources requested, the time of the request, the method used in submitting the request to the web server, the dimensions of the file obtained in response, the numerical code indicating the state of the response given by the web server (success, error, etc...) and other parameters relating to the user's operating system and IT environment. These data are used for the sole purpose of obtaining anonymous statistical information on the use of the website and to check the correct operation of the UniCredit S.p.A. website.</p> 
+<p>It should be noted that the above data could be used to ascertain responsibility in the case of computer crime which harms the UniCredit S.p.A. website or the structures of the data processor UniCredit Business Integrated Solution S.C.p.A., or other websites connected or linked to it: except in this case, the data on the web contacts are not kept for more than a few days</p> 
+<p><br> </p> 
+<p>Data provided voluntarily by the user</p> 
+<p>Requests to send e-mail to the addresses indicated in the relevant section of the UniCredit S.p.A. website entail the subsequent acquisition of certain personal data of the applicant, including the applicant's e-mail address, necessary to respond to the requests.</p> 
+<p>Specific summary disclosures will be progressively contained or displayed on the pages of the website prepared for these particular services on request.</p> 
+<p><br> </p> 
+<p>Cookies</p> 
+<p>A cookie is a small "data file" that some websites, while they are being visited, may send to the address of the user who is visiting them in order to trace his or her route within the site and gather data in an exclusively anonymous form to improve the services and user-friendliness of the website itself. For these reasons, during navigation of its site, the UniCredit web server may also exchange cookies with the users' computers. All users may in any case, if they so choose, set their browsers in such a way as to receive a warning of the presence of a cookie and decide whether to accept it or refuse it. It is also possible to refuse the reception of cookies automatically activating the specific option in the browser: failure to use cookies, however, could entail difficulties in interaction with the Bank's website.</p> 
+<p>&nbsp;</p> 
+<p>Data provided through use of the Call Center</p> 
+<p>The systems and procedures arranged for operation of the Bank's Call Center acquire certain data in relation to customers' calls. This category includes the caller's remote number (if not hidden), the navigation data in the IVR call flow (that is the actions/key pad inputs that the customer performs to gain access to the various services), duration of the call, and, only in the cases expressly envisaged and after notifying the caller, audio recording of the call.</p> 
+<p>The above data are processed in order to obtain anonymous statistical information on the use of the Call Center, to check that it is operating correctly and to ensure its security, as well as for the aware of responsibility in the event of any crimes that damage the Bank or its customers.</p> 
+<p>Optionality of conferment of personal data</p> 
+<p>&nbsp;</p> 
+<p>Apart from the details provided for navigation data, users are free to provide their personal data included in the specific electronic request forms, in the sections of the website prepared for the particular services on request.</p> 
+<p>It should be noted, however, that failure to provide such information may make it impossible to fulfil the request.</p> 
+<p>Processing method and security measures</p> 
+<p>&nbsp;</p> 
+<p>The personal data are processed with automated and non-automated instruments, only for the time strictly necessary to achieve the purposes for which they have been gathered. Specific security measures are observed to prevent loss of data, illegal or incorrect uses and unauthorized access.</p> 
+<p>In particular, in the sections of the website prepared for particular services, where personal data are requested from users navigating the site, the data are encrypted by means of a security technology entitled Secure Sockets Layer, abbreviated as SSL. The SSL technology codifies the information before it is exchanged via the Internet between the user's computer and the UniCredit S.p.A. central systems, making it incomprehensible to unauthorized persons and thus guaranteeing the confidentiality of the information transmitted.</p> 
+<p>The use of SSL requires however a compatible browser capable of "swapping" a security key with a minimum length of 128 bits, necessary to establish the said secure connection with the UniCredit S.p.A. central systems.</p> 
+<p>Rights of data subjects</p> 
+<p>&nbsp;</p> 
+<p>Subjects to whom any personal data gathered in the said specific sections refer, have the right at any time to obtain confirmation of the existence or otherwise of the said data and to know their content and origin, check their exactness or request additions or updates, or rectification under the terms of Art. 7 of the Privacy Code.</p> 
+<p>The data subject has the right to request the cancellation, transformation into an anonymous form, or to object to their processing, in any case, for legitimate reasons.</p> 
+<p>Any such requests must be sent to:</p> 
+<p><br> </p> 
+<p><span class="paragraphTitle">UniCredit S.p.A.</span></p> 
+<p><span class="paragraphTitle">Claims</span></p> 
+<p>Via Del Lavoro, 42</p> 
+<p>40127 Bologna</p> 
+<p>Tel.: +39 051.6407285</p> 
+<p>Fax: +39 051.6407229</p> 
+<p>E-mail: <a href="mailto:Privacyart7@unicredit.eu" target="_blank" data_type="email">Privacyart7@unicredit.eu</a></p> 
+<p><br> </p> 
+<h4 class="mainTitle" style="">Minors</h4> 
+<p>UniCredit S.p.A. does not knowingly use its website to request data from persons of less than 18 years of age.</p> 
+<p>Versions of the privacy policy</p> 
 <p>Considering that the stage of development of the automatic control mechanisms does not currently make them exempt from errors and malfunctioning, it should be noted that the present document constitutes the "Privacy Policy" of the UniCredit S.p.A. website and will be subject to updates (in any case the various versions of the same will be made available).</p>
-<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
-
             
 		</div>
 	</div>
-</div></div>
+</div>
+</div>
 
 </div>
 
@@ -978,10 +1092,12 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
 			
 						
 						
 							<div class="base social-footer" style="bottom: 201px;">
+
 
 
 
@@ -1088,6 +1204,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 
 
+
+
 <script>
 	UCGN.fn.contentParsysHeight();
 </script>
@@ -1132,6 +1250,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		</div>
 		
 		
+
 
 
 
@@ -1206,15 +1325,15 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
       					
       					mapping.push({scVar:"prop53",cqVar:"eventdata.responsiveLayout",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
-      					mapping.push({scVar:"server",cqVar:"eventdata.server",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
-      					
       					mapping.push({scVar:"hier1",cqVar:"eventdata.hier1",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"channel",cqVar:"eventdata.channel",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
-      					mapping.push({scVar:"prop56",cqVar:"eventdata.breadcrumb",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
+      					mapping.push({scVar:"server",cqVar:"eventdata.server",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"hier2",cqVar:"eventdata.hier2",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
+      					
+      					mapping.push({scVar:"prop56",cqVar:"eventdata.breadcrumb",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
       					mapping.push({scVar:"prop6",cqVar:"eventdata.language",resourceType:"unicreditgroupn/components/content/generic/analytics-page"});
       					
@@ -1293,7 +1412,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
       	});
       </script>
 
-<noscript><img src="https://sucmetrics.unicredit.it/b/ss/unicreditgroup-eu-it/1/H.27.5--NS/1458921233694?cdp=2&amp;ns=unicreditgroup&amp;pageName=ucg%3Ainfo%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="https://sucmetrics.unicredit.it/b/ss/unicreditgroup-eu-it/1/H.27.5--NS/1482983078328?cdp=2&amp;ns=unicreditgroup&amp;pageName=ucg%3Ainfo%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 
 
 
@@ -1311,6 +1430,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 	                            'language':'en'
 	                          }"></span>
 	                          
+<!--googleoff: snippet-->
 <div id="analyticsDebug" style="border: 1px solid green; position: fixed; top:25%; left:25%;width: 50%;background-color: white;z-index: 999;padding:10px;display:none;'">
 	<h3>basic</h3>
 	<ul style="color: blue">
@@ -1332,7 +1452,8 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 		<li>eventdata.responsiveLayout: [ prop53, by js ]</li>
 		<li>eventdata.revisionId: [ prop30, by js ]</li>
 	</ul>
-</div></div>
+</div>
+<!--googleon: snippet--></div>
 
 </div>
 
