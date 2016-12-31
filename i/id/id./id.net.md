@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507062850id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231050225id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
 
 # id.net
 
@@ -6,11 +6,11 @@
 
 Last modified: September 20, 2012
 
-The Privacy Policy (the “Policy”) offered here, along with Our [Terms of Service](https://www.id.net/terms-of-service) (“Terms”), discloses the privacy practices of ID.net Ltd. regarding any personal data You may provide to Us or that We receive from You. 
+The Privacy Policy (the “Policy”) offered here, along with Our [Terms of Service](https://www.id.net/terms-of-service) (“Terms”), discloses the privacy practices of id.net Ltd. regarding any personal data You may provide to Us or that We receive from You. 
 
 Please read this Policy carefully. By accessing or using Our website, You acknowledge that You have read, understand and agree to be bound by the terms of this Policy on this Website. If You do not agree with this Policy, please do not use this Website. It is Your responsibility to review this Policy frequently and remain informed about any changes to it, so We encourage You to visit this page often. 
 
-_For purposes of the Hong Kong Personal Data (Privacy) Ordinance, Our Data Controller is ID.net Ltd._
+_For purposes of the Hong Kong Personal Data (Privacy) Ordinance, Our Data Controller is id.net Ltd._
 
 Our Privacy Policy explains:
 
@@ -36,9 +36,9 @@ In order to facilitate Your reading, here is an outline of Our Privacy Policy:
 
 ### I. Definitions
 
-Id.Net Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy (Us, Our, Ours, We), the provisions are referring to the Company and/or any other website We may choose to operate in the future.
+id.net Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy (Us, Our, Ours, We), the provisions are referring to the Company and/or any other website We may choose to operate in the future.
 
-The term “Website” is used to refer to the id.net website published by Us. Id.net is a login system for Internet Users and webmasters.
+The term “Website” is used to refer to the id.net website published by Us. id.net is a login system for Internet Users and webmasters.
 
 The terms “You”, “Your”, the “User”, as well as all second-person pronoun, are used to refer to as the user of this Website and/or services.
 
@@ -107,7 +107,7 @@ The Company is headquartered in Hong Kong. However, Our login system is hosted b
 
 ### III. Other websites
 
-#### (a) About ID.net Website
+#### (a) About id.net Website
 
 Id.net Website lets You connect with other websites, involving games or social interaction for example, through the use of a login system. In this way, the Company helps You make Your experiences on the web more personalized.
 
