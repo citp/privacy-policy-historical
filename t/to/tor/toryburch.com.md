@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428173816id_/http%3A//www.toryburch.com/content-privacy/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222712id_/https%3A//www.toryburch.com/content-privacy/content-privacy.html) for the most accurate reproduction.*
 
 # Tory Burch | Privacy & Usage Policy
 
 ### TORY BURCH PRIVACY & USAGE POLICY
 
-### August 11, 2015
+### August 4, 2015
 
 ##### Introduction
 
-Tory Burch LLC (together with its affiliates “Tory Burch”) values its customers and respects their privacy. This Privacy and Usage Policy applies to personal information that we collect about you in the United States, including but not limited to data collected through our websites, mobile applications (collectively the "website") and in our stores. This information is used to improve your shopping experience and to communicate with you about our products, services and promotions. Neither your name nor any of your personal information is sold to any other non- affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with business partners that help this site function or assist us in fulfilling or servicing your order, as well otherwise detailed below. Personal information that we collect about you outside of the United States shall be governed by separate privacy policies. 
+Tory Burch LLC (together with its affiliates “Tory Burch”) values its customers and respects their privacy. This Privacy and Usage Policy applies to personal information that we collect about you in the United States, including but not limited to data collected through our websites, mobile applications (collectively the "website") and in our stores. This information is used to improve your shopping experience and to communicate with you about our products, services and promotions. Neither your name nor any of your personal information is sold to any other non-affiliated company or agency. However, as described in greater detail below, we may share your information under certain circumstances with business partners that help this site function or assist us in fulfilling or servicing your order, as well otherwise detailed below. Personal information that we collect about you outside of the United States shall be governed by separate privacy policies. 
 
 This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use certain information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears on this policy. We shall not apply changes in our policy retroactively to information collected from you under a prior policy if, in the reasonable exercise of our discretion, we determine that the changes substantively affect your rights, unless we have given you notice of the changes of the policy and an opportunity to opt out. We will provide this notice to you by email if we have a current email address for you and otherwise by posting notice of the change prominently on the home page of our website. 
 
@@ -124,19 +124,17 @@ Under California Civil Code sections 1798.83-1798.84, California residents are e
 
 You acknowledge that this Privacy and Usage Policy is part of the Terms of Use and you agree: (1) that using our website signifies your assent to Tory Burch's Privacy and Usage Policy and related terms of use provided above; (2) that such policy is subject to all applicable laws; and (3) your use is undertaken at your own risk. Tory Burch reserves the right to change this Privacy and Usage Policy at any time, without advance notice. As described above, if we decide to change our Privacy and Usage Policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it. In the event of a corporate reorganization or asset transfer, your personal information may also be transferred. However, use of your personal information will remain subject to this Privacy and Usage Policy. By giving us your personal information you consent to those transfers occurring. 
 
-##### SAFE HARBOR PRIVACY POLICY
+##### FOR EUROPEAN CITIZENS
 
-Tory Burch’s practices regarding the collection, storage, transfer, use and other processing of personal information for European citizens follow the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement. 
+Your data may be stored and processed in and transferred to the United States and other non-European countries. Data may also be processed by people around the world who work for us or for one of our suppliers or vendors. These people may be engaged in, among other things, the fulfilment of your information requests, meeting your orders and the provision of support services. By consenting to this Privacy Policy, you confirm to be aware of and to accept the fact that these countries are deemed by the EU and other European authorities to not have data privacy laws that provide equivalent protection as the EU. However, Tory Burch takes what it considers to be appropriate technical and organizational measures to guard against unauthorized or unlawful processing of your data and against accidental loss or destruction of, or damage to, your data. Tory Burch has security measures in place designed to protect its customer database. 
 
 ##### HOW TO CONTACT US
 
 If you have any questions about your privacy or security on our website, please contact us at [inquiries@toryburch.com](mailto:inquiries@toryburch.com). 
 
-For European citizens, Tory Burch has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if you believe that Tory Burch has not satisfactorily addressed your complaint please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
-
 ### TERMS OF USE
 
-### August 11, 2015
+### August 4, 2015
 
 Please read the following terms and conditions (the “Terms of Use”) carefully before using the website. By accessing this website, you agree to be bound by these Terms of Use. If you do not agree with these Terms of Use, you may not use the website. We recommend that you keep a printed copy of these Terms of Use for future reference.
 
