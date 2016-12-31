@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611195139id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venus.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231012742id_/http%3A//www.venus.com/privacy.aspx) for the most accurate reproduction.*
 
 # VENUS.com Privacy Policy - Website Terms of Use
 
 Venus Privacy Statement - Effective Date September 16, 2015 
 
-Venus has created this privacy statement in order to demonstrate our firm commitment to your privacy and security. This document describes Venus’ practices with respect to the collection of user information from this Web site. This document only applies to the Venus site [www.Venus.com](http://www.venus.com/). We have taken extra steps to make sure your online shopping experience is the best and is safe and secure. 
+Venus has created this privacy statement in order to demonstrate our firm commitment to your privacy and security. This document describes Venus’ practices with respect to the collection of user information from this Web site. This document only applies to the Venus site [www.Venus.com](http://www.venus.com/default.aspx). We have taken extra steps to make sure your online shopping experience is the best and is safe and secure. 
 
-As a visitor to Venus’ web site, [www.Venus.com](http://www.venus.com/), you have the right to understand our information privacy practices prior to providing Venus with any of your personal information _(Personal information includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address)._
+As a visitor to Venus’ web site, [www.Venus.com](http://www.venus.com/default.aspx), you have the right to understand our information privacy practices prior to providing Venus with any of your personal information _(Personal information includes information that can be linked to a specific individual, such as name, address, phone number, or e-mail address)._
 
 By providing you with this Privacy Statement, Venus is pledging our continued commitment to protecting the information you provide to us. Venus regularly examines our information privacy practices to determine whether we are adhering to the disclosures about the collection, use, sharing, and protection of your personal information made in this privacy statement. 
 
 Privacy Statement 
 
-This Venus Privacy Statement discloses the information privacy practices for Venus' web sites, [http://www.venus.com](http://www.venus.com/) and [http://m.venus.com](http://m.venus.com/) ("Venus"). 
+This Venus Privacy Statement discloses the information privacy practices for Venus' web sites, [http://www.venus.com](http://www.venus.com/default.aspx) and [http://m.venus.com](http://m.venus.com/) ("Venus"). 
 
 Children’s Privacy 
 
