@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the store.wordpress.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053906id_/https%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the store.wordpress.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231110247id_/https%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Automattic
 
@@ -49,7 +49,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Comments
 
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives or missed spam, in which case we store them long enough to use them to improve the service to avoid future false positives and missed spam.
 
 ### Privacy Policy Changes
 
@@ -57,6 +57,7 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
+  * _November 2, 2016_ : Added that comments submitted as missed spam are retained by Akismet to improve future performance.
   * _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0.
   * _September 18, 2013:_   Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
   * _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph.
