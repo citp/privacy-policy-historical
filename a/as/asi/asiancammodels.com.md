@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiancammodels.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105064708id_/http%3A//www.asiancammodels.com/exec/privacy-policy.jsp%3Fnats%3DMDowOjE3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancammodels.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231160834id_/http%3A//www.asiancammodels.com/exec/privacy-policy.jsp%3Fnats%3DMC4wLjQ0LjQ2LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
 # Asian Cam Models - Live sex chat, live asian webcams, free sex online and adult cams
 
@@ -6,7 +6,7 @@
 
 **PERSONAL INFORMATION**
 
-We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their motherтАЩs maiden name).
+We only collect personal information from visitors to our web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother's maiden name).
 
 **NON-PERSONAL INFORMATION**
 
