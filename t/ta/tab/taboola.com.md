@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618065639id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140113id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World's Largest Discovery Platform | Taboola
 
