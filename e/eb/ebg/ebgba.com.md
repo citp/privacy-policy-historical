@@ -1,85 +1,199 @@
-> *The following text is extracted and transformed from the ebgba.com privacy policy that was archived on 2005-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050620004457id_/http%3A//www.internet.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgba.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231200400id_/http%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# Jupitermedia Privacy Policy
+# Privacy Policy – Privacy & Terms – Google
 
-  
-Jupitermedia Corporation Privacy Policy
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy. 
+Our Privacy Policy explains: 
 
-**What information are you collecting and how are you collecting it?**
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" [IP address](http://webopedia.internet.com/TERM/I/IP_address.html). When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also **Will you disclose the information you collect to outside third parties?** We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
 
-**What are cookies?**
 
-From time to time, JUPM or its advertisers may send a ["cookie](http://webopedia.internet.com/TERM/c/cookie.html)" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-**How do you use single-pixel gifs?**
+## Information we collect
 
-JUPM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser. 
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
 
-**What information do you collect when I register for something?**
+We collect information in the following ways: 
 
-JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients. Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See **Will you disclose the information that you collect to outside third parties?**
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
 
-**What other information do you request?**
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
+    * **[Device information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
 
-We may from time to time send e-mail announcing new JUPM products and services. Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other third party companies. 
+We collect [device-specific information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
 
-When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
+    * **Log information**
 
-When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
 
-When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-**What information do you collect when I purchase something?**
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
 
-If you are purchasing something from an JUPM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
+    * **Unique application numbers**
 
-Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+    * **Local storage**
 
-**Will you disclose the information you collect to outside third parties?**
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to:   
-    1)    Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM, 
+    * **Cookies and similar technologies**
 
-    2)   Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties, 
+We [and our partners](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
 
-    3)   Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties, 
 
-    4)   Fulfill a user's order or request. 
 
-JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users  
-_See_ below, **What else should I know about my privacy when online? See What information do you collect when I register for something.**
 
-**Opt-in announcement List Privacy Policy**
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
 
-When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
+## How we use information we collect
 
-**What else should I know about my privacy when online?**
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our site). Please check with those Web sites to determine their privacy policy. 
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
- **Your Consent To This Agreement**
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-Please send any questions about JUPM's Privacy Policy to: [privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-(Revised March 30, 2005) 
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-* * *
+## Transparency and choice
 
-  
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+
+
+
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
+
+## Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
+
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+## Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our [affiliates](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+[non-personally identifiable information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/frameworks/), including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
+  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
+  * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [Google Apps for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+
+
+
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/product-privacy/). 
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
 
