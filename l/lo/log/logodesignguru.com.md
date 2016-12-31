@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613151659id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231050130id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy) for the most accurate reproduction.*
 
 # Logo Design Guru: Expert Logo Design and Graphic Designs
 
@@ -88,8 +88,8 @@ If we change our privacy statement, we will post the revised statement here, wit
 
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the LDG Privacy Office or write to us at the following address:  
 LDG Privacy Mailbox  
-8 Commerce Way  
-Suite 130A  
-Hamilton, NJ 08691  
+1670 Whitehorse – Hamilton Square Road  
+Suite 3  
+Hamilton, NJ 08690  
 USA  
 
