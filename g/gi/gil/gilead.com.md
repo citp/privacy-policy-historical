@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilead.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430191910id_/http%3A//www.gilead.com/Privacy/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilead.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231083401id_/http%3A//www.gilead.com/Privacy/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | Gilead
 
@@ -60,19 +60,11 @@ SECURITY: Gilead uses physical, technical, and managerial safeguards to keep you
 
 ENFORCEMENT: Gilead will conduct periodic compliance audits of its relevant privacy practices to verify adherence to this Privacy Statement.
 
-Gilead will investigate and attempt to resolve complaints, disputes and requests to revoke consent regarding collection, use and disclosure of Personal Information in accordance with the principles contained in this Privacy Statement. Complaints, disputes and/or requests to revoke consent to the collection, use or disclosure of Personal Information should be sent to Gilead’s address, provided below under “Contact Information”. Complaints or disputes that cannot be resolved between Gilead and the complainant will be handled through the TRUSTe dispute resolution process. 
+Gilead will investigate and attempt to resolve complaints, disputes and requests to revoke consent regarding collection, use and disclosure of Personal Information in accordance with the principles contained in this Privacy Statement. Complaints, disputes and/or requests to revoke consent to the collection, use or disclosure of Personal Information should be sent to Gilead’s address, provided below under “Contact Information”. Complaints or disputes that cannot be resolved between Gilead and the complainant will be handled through an independent dispute resolution process as described below. 
 
 ### Independent Recourse Mechanism
 
-Gilead has engaged TRUSTe as an independent recourse mechanism. TRUSTe is an independent organization, whose mission is to build user trust and confidence by promoting the use of fair information practices. In the event that Gilead is unable to resolve a complaint or dispute to the satisfaction of the complainant, an appeal may be made to TRUSTe online at <https://feedback-form.truste.com/watchdog/request>, by mail at the following address:
-
-Watchdog Complaints  
-TRUSTe  
-835 Market St., Suite 800  
-San Francisco, CA 94103  
-USA
-
-or by fax at +1 (415) 520-3420. Such fax or mailing to TRUSTe to lodge a complaint must include the following information: (i) the name of the company; (ii) the alleged privacy violation: (iii) contact information of the complainant; and (iv) whether the complainant would like the particulars of the complaint shared with Gilead.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
 
 ### International Data Transfers from the EEA to Third Countries
 
@@ -98,4 +90,4 @@ All communications to Gilead should include the individual's name and contact in
 
 Gilead reserves the right to amend this Privacy Statement from time to time to reflect technological advancements, legal and regulatory changes, and Gilead's business practices, subject to applicable laws. If Gilead changes its privacy practices, an updated version of this Privacy Statement will reflect those changes. Gilead will provide notice of such changes by updating the effective date listed on this Privacy Statement. It is your responsibility to check this Privacy Statement frequently to view any amendments. Your continued interaction with Gilead, in the activities covered above, will be subject to the then-current Privacy Statement.
 
-**Last Updated: 11 November, 2015**
+**Last Updated: 18 November, 2016**
