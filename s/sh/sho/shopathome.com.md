@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629082525id_/http%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121642id_/http%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShopAtHome.com
 
-This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our Savings Browser App ("[Browser App](http://www.shopathome.com/sahpages/terms-and-conditions.aspx?#4)"). Any capitalized terms we don't define in this policy are defined in our [Terms and Conditions](http://www.shopathome.com/sahpages/terms-and-conditions.aspx). 
+This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our Savings Browser App ("[Browser App](http://www.shopathome.com/terms-and-conditions?#4)"). Any capitalized terms we don't define in this policy are defined in our [Terms and Conditions](http://www.shopathome.com/terms-and-conditions). 
 
 ####  We collect information from you and about you. 
 
@@ -12,7 +12,7 @@ This Policy describes how we treat personal information. This includes on the we
 
 **Information You Submit or Post.** We collect the information you post in a public space on our site. We also collect information when you contact us. We may also collect information you share about a friend if you use our Tell-a-Friend feature. 
 
-**Purchases You Make with Others.** If you participate in our programs, we get information when you make a purchase from an [Affiliate Store](http://www.shopathome.com/sahpages/terms-and-conditions.aspx?#AffiliateStores). We may also collect purchase information about you from other third parties. 
+**Purchases You Make with Others.** If you participate in our programs, we get information when you make a purchase from an [Affiliate Store](http://www.shopathome.com/terms-and-conditions?#AffiliateStores). We may also collect purchase information about you from other third parties. 
 
 **Demographic Information.** We may collect information like your gender and age. We may also collect your zip code. We might collect this when you contact us or enter a promotion. 
 
@@ -26,11 +26,11 @@ This Policy describes how we treat personal information. This includes on the we
 
 **We get information about you from third parties.** For example, social media platforms may also give us information about you. This might include getting information from social media plugins. Affiliates or other business partners may also give us information. This might include information they gathered passively. 
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>. 
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. The cookies may reflect demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>. 
 
 ####  We use information as disclosed and described here. 
 
-**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. Or, we might use your information to process Cash Back Rewards if you participate in that program. We may use your information to notify you if you complete a [Qualified Transaction](http://www.shopathome.com/sahpages/terms-and-conditions.aspx?#Qualified). 
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your customer feedback. Or, we might use your information to process Cash Back Rewards if you participate in that program. We may use your information to notify you if you complete a [Qualified Transaction](http://www.shopathome.com/terms-and-conditions?#Qualified). 
 
 **We use information to improve our products and services.** We may use your information to make our Sites and Browser App better. We might use your information to customize your experience with us or understand your preferences. We may combine information we get from you with information about you we get from third parties. This includes using your information as described [here](http://www.shopathome.com/ad-tracking-policy). 
 
@@ -50,7 +50,7 @@ If you use our Browser App, we may use features on the Browser App alert you to 
 
 **We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites or run a promotion. 
 
-**We will share information with our business partners.** This includes sharing for marketing or advertising purposes. For example, we will share information with Affiliate Stores to process orders or understand preferences. Or we might share information that third parties can use to serve you with ads they think you will like. This could include sharing with our partners what ads you look at. Third parties may use information for their own marketing or advertising purposes. Please click here to learn more. 
+**We will share information with our business partners.** This includes sharing for marketing or advertising purposes. For example, we will share information with Affiliate Stores to process orders or understand preferences. Or we might share information that third parties can use to serve you with ads they think you will like. This could include sharing with our partners what ads you look at. Third parties may use information for their own marketing or advertising purposes. Please [click here ](http://www.shopathome.com/ad-tracking-policy) to learn more. 
 
 **We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud. 
 
@@ -101,7 +101,7 @@ If you have any questions or concerns about this Privacy Policy, you may contact
   * 5575 DTC Parkway, Suite 300
   * Greenwood Village, CO 80111
   * Email: privacy@shopathome.com
-  * Or via our Customer Service link at [Belcaro.Discounts.URL.SahUrls.HelpUrl](http://www.shopathome.com/help)
+  * Or via our Customer Service link at [ Help ](http://www.shopathome.com/help)
 
 
 
