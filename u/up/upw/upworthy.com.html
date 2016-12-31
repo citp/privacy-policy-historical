@@ -1,111 +1,103 @@
-<!--The following is the downloaded HTML source of the upworthy.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627211758id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upworthy.com privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231124059id_/http%3A//www.upworthy.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-  <!-- allow our pages to send referers, used to do referer checking when redirecting -->
-  <meta name="referrer" content="always">
-  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
-    /* polyfill performance.now at the top of the page so that we can get on with it
-     * see: https://gist.github.com/paulirish/5438650
-     * Put in place because my naive attempt to do this resulted in obscure errors
-     * on real browsers twice
-     */
-    (function(){
-      if ("performance" in window == false) {
-        window.performance = {};
-      }
-
-      Date.now = (Date.now || function () {  // thanks IE8
-        return new Date().getTime();
-      });
-
-      if ("now" in window.performance == false){
-        var nowOffset = Date.now();
-
-        if (performance.timing && performance.timing.navigationStart){
-          nowOffset = performance.timing.navigationStart
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+    <!-- allow our pages to send referrers, used to do referrer checking when redirecting -->
+    <meta name="referrer" content="always">
+    <meta charset="utf-8">
+<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"05ec10e79b","applicationID":"33706880","transactionName":"e18PEUJZXgpQRElSV1ZEBAtEGVEKXFUNUFpRXAgRSRlBDlpB","queueTime":0,"applicationTime":338,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <script type="text/javascript">
+      /* polyfill performance.now at the top of the page so that we can get on with it
+       * see: https://gist.github.com/paulirish/5438650
+       * Put in place because my naive attempt to do this resulted in obscure errors
+       * on real browsers twice
+       */
+      (function() {
+        if ("performance" in window === false) {
+          window.performance = {};
         }
-
-        window.performance.now = function now(){
-          return Date.now() - nowOffset;
+        Date.now = (Date.now || function () {  // thanks IE8
+          return new Date().getTime();
+        });
+        if ("now" in window.performance === false) {
+          var nowOffset = Date.now();
+          if (performance.timing && performance.timing.navigationStart){
+            nowOffset = performance.timing.navigationStart;
+          }
+          window.performance.now = function now(){
+            return Date.now() - nowOffset;
+          };
         }
-      }
-    })();
-  </script>
-  <script type="text/javascript">
-    window._startTime = performance.now();
-  </script>
-
-  <meta charset="utf-8">
-  <!-- Use the .htaccess and remove this line to avoid edge case issues.
-       More info: h5bp.com/i/378 -->
-  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
-  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-  <link rel="stylesheet" media="screen" href="/assets/application-cbf757489840c1267d3d9b7bd9609e00.css">
-  
-  <script>
+      })();
+    </script>
+    <script type="text/javascript">
+      window._startTime = performance.now();
+    </script>
+    <script>
 //<![CDATA[
 
-    window.config = {
-      "environment" : "production",
-      "mailScraperImapUsername": "mailer@upworthy.com",
-      "mixpanelId" : "",
-      "googleAnalyticsId" : "UA-30098361-1",
-      "youtubeChannelId" : "UCswDowOOvJ-fkCgH9YAITjQ",
-      "facebookId" : "153163221468956",
-      "facebookDomain" : "upworthy.com",
-      "dfpId" : "47017164",
-      "dfpStatus": "full",
-      "farmUri" : "https://farm.upworthy.com/",
-      "siloUri" : "https://analytics.upworthy.com",
-      "geoipUri" : "https://www.upworthy.com/api/geo.json",
-      "attentionGranularity" : 10,
-      "attentionDecay" : 5,
-      "comscoreId": "18736521"
-    };
-    window.featuresConfig = {"events.video.seconds-played":"on","events.geo":"on","log":"off","team":"on","display-video-durations":"off","categories":"on","looker-mongo-cache":"on","ned":"on","shares.image_url":"on","social-proof":"off","fb-later":"off","fb-ask":"off","subscribe.popup":"off","nugget-load-more":"off","share-like":"off","clickability.impressions":"on","holler.impressions":"on","teads.tv":"on","rc-variants":"off","client.profiles":"on","client-cadbury":"off","nugget-header":"off","flagpoles":"on"}
+      window.config = {
+        "environment" : "production",
+        "mailScraperImapUsername": "mailer@upworthy.com",
+        "mixpanelId" : "",
+        "googleAnalyticsId" : "UA-30098361-1",
+        "youtubeChannelId" : "UCswDowOOvJ-fkCgH9YAITjQ",
+        "facebookId" : "153163221468956",
+        "facebookDomain" : "upworthy.com",
+        "dfpId" : "47017164",
+        "dfpStatus": "full",
+        "farmUri" : "https://farm.upworthy.com/",
+        "siloUri" : "https://analytics.upworthy.com",
+        "geoipUri" : "https://www.upworthy.com/api/geo.json",
+        "attentionGranularity" : 10,
+        "attentionDecay" : 5,
+        "comscoreId": "18736521",
+        "brightcoveAccountId": "5152706220001"
+      };
+      window.featuresConfig = {"categories":"on","client-cadbury":"off","display-video-durations":"off","events.geo":"on","fb-later":"off","flagpoles":"off","log":"off","ned":"on","mobiledoc":"on","rc-variants":"off","share-like":"off","shares.image_url":"on","site-redesign":"on","social-proof":"off","teads.tv":"on","team":"on","video-testing-tool":"on","video-uploader":"on","eycatcher-header":"on"}
 
 //]]>
-</script>    <script type="text/javascript">window.pageType="static";</script>
+</script>
+    <link rel="stylesheet" media="screen" href="/assets/application-02207853ba692dd87a111c0191767d33.css">
+    
 
-  <!-- Disable no-js styles if javascript is turned on. http://paulirish.com/2009/avoiding-the-fouc-v3/ -->
-  <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+      <meta name="description" content="Stories that connect us and sometimes even change the world.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
 
-    <title>Privacy Policy</title>
+      <title>Privacy Policy</title>
 
-    <meta name="description" content="Upworthy: Awesome, fun, interesting videos and graphics about stuff that matters.">
+    <!-- mobile touch icons -->
+      <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57-ee6e8c0297910c657c23091a2ce07e53.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60-3440de29ede50eac5b067146ec120c11.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72-04d96e9730d29e1c195896a6da4511cd.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76-58047adfcbbf72a26acf7d6cbbe52631.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114-3404ee52028daed04da40a409906c7df.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicons/apple-touch-icon-120x120-ce115e3623a65cce73a93c5613ae1786.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144-3f89b576c22a52da28f5bdd90230a0f8.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152-c8ab100b0a3ccfa8c20d1906a897f830.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180-2e9bbe1053d4e33838a4496ec52871f7.png">
 
-  <!-- Mobile viewport optimized: h5bp.com/viewport -->
-  <meta name="viewport" content="width=device-width, maximum-scale=2.0, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- favicons -->
+      <link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16-05f1ad1caa7681a1c689d97336a23a23.png" sizes="16x16">
+      <link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32-1fce2f32d81b382977041af61fd99348.png" sizes="32x32">
+      <link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96-9069fb7b8ce1ed3777b76bb4d478c73d.png" sizes="96x96">
+      <link rel="icon" type="image/png" href="/assets/favicons/favicon-194x194-2c0225bb9b0024a6426db93bd214a0b4.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/assets/favicons/android-chrome-192x192-c68a5d4e777083df432b3bce5f45776f.png" sizes="192x192">
+    <link rel="manifest" href="/assets/favicons/manifest-66d22abae9bc8bb32a42c0f68fe4040d.json">
+    <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab-bb77f705a3336d7d19d9321bdd4c1741.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/assets/favicons/favicon-6b6970e18891b70aefe1bc0d77b5d5ca.ico">
+    <meta name="msapplication-TileColor" content="#ff5d00">
+    <meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144-e214f4f7f668c16b57dac7ab881ff2d5.png">
+    <meta name="msapplication-config" content="/assets/favicons/browserconfig-00aed2943d6072478e60eddf351d9704.xml">
+    <meta name="theme-color" content="#ff5d00">
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicons/apple-touch-icon-57x57-ee6e8c0297910c657c23091a2ce07e53.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicons/apple-touch-icon-60x60-3440de29ede50eac5b067146ec120c11.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicons/apple-touch-icon-72x72-04d96e9730d29e1c195896a6da4511cd.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicons/apple-touch-icon-76x76-58047adfcbbf72a26acf7d6cbbe52631.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicons/apple-touch-icon-114x114-3404ee52028daed04da40a409906c7df.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/favicons/assets/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicons/apple-touch-icon-144x144-3f89b576c22a52da28f5bdd90230a0f8.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicons/apple-touch-icon-152x152-c8ab100b0a3ccfa8c20d1906a897f830.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon-180x180-2e9bbe1053d4e33838a4496ec52871f7.png">
-  <link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32-1fce2f32d81b382977041af61fd99348.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="/assets/favicons/favicon-194x194-2c0225bb9b0024a6426db93bd214a0b4.png" sizes="194x194">
-  <link rel="icon" type="image/png" href="/assets/favicons/favicon-96x96-9069fb7b8ce1ed3777b76bb4d478c73d.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="/assets/favicons/android-chrome-192x192-c68a5d4e777083df432b3bce5f45776f.png" sizes="192x192">
-  <link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16-05f1ad1caa7681a1c689d97336a23a23.png" sizes="16x16">
-  <link rel="manifest" href="/assets/favicons/manifest-66d22abae9bc8bb32a42c0f68fe4040d.json">
-  <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab-bb77f705a3336d7d19d9321bdd4c1741.svg" color="#5bbad5">
-  <link rel="shortcut icon" href="/assets/favicons/favicon-6b6970e18891b70aefe1bc0d77b5d5ca.ico">
+    <link rel="alternate" type="application/rss+xml" title="Upworthy (RSS2.0)" href="http://feeds.feedburner.com/upworthy">
+    <link rel="publisher" href="https://plus.google.com/103863989923615589024">
 
-  <meta name="msapplication-TileColor" content="#ff5d00">
-  <meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144-e214f4f7f668c16b57dac7ab881ff2d5.png">
-  <meta name="msapplication-config" content="/assets/favicons/browserconfig-00aed2943d6072478e60eddf351d9704.xml">
-  <meta name="theme-color" content="#ff5d00">
-
-  <link rel="alternate" type="application/rss+xml" title="Upworthy (RSS2.0)" href="http://feeds.feedburner.com/upworthy">
-  <link rel="publisher" href="https://plus.google.com/103863989923615589024">
-
-      <meta property="og:image" content="/privacy.thumbnail.jpeg">
+    <!-- Facebook Metatags -->
+        <meta property="og:image" content="/privacy.thumbnail.jpeg">
   <meta property="og:site_name" content="Upworthy">
   <meta property="og:title" content="Upworthy: Privacy Policy">
   <meta property="og:url" content="http://www.upworthy.com/privacy">
@@ -119,41 +111,21 @@
     <meta property="fb:admins" content="707140716">
     <meta property="fb:admins" content="14702274">
     <meta property="fb:admins" content="13806670">
-  <meta property="fb:app_id" content="153163221468956">
+    <meta property="fb:app_id" content="153163221468956">
 
-  <script type="text/javascript" src="https://www.upworthy.com/api/geo.js"></script>
-  <script src="/assets/ads/ads-b7fee093e8fe52d61aec2c2231894273.js"></script>
+    <script src="/assets/ads/ads-b7fee093e8fe52d61aec2c2231894273.js"></script>
 
-  
-
-  <!--[if gte IE 9]>
+    <!--[if gte IE 9]>
     <style type="text/css">.gradient {filter: none;}</style>
-  <![endif]-->
+    <![endif]-->
 
-  <!-- HTML5 Shiv (style HTML5 elements in IE8) -->
-  <!--[if lt IE 9]>
-  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-</head>
-<body class="wide privacy-policy events.video.seconds-played events.geo team categories looker-mongo-cache ned shares.image_url clickability.impressions holler.impressions teads.tv client.profiles flagpoles">
-
-  <div data-react-class="SurveyModal" data-react-props="{}"></div>
-
-  <script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: window.config.comscoreId });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18736521&cv=2.0&cj=1" />
-</noscript>
-
-  
+    <!-- HTML5 Shiv (style HTML5 elements in IE8) -->
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body class="privacy-policy categories events.geo ned mobiledoc shares.image_url site-redesign teads.tv team video-testing-tool video-uploader eycatcher-header">
+    
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="display: none;">
 
   <symbol id="ico-navicon" viewBox="0 0 28 28">
@@ -172,6 +144,10 @@
   <path class="path1" d="M832 128h-640c-105.6 0-192 86.4-192 192v384c0 105.6 86.4 192 192 192h640c105.6 0 192-86.4 192-192v-384c0-105.6-86.4-192-192-192zM384 768v-512l320 256-320 256z"></path>
   </symbol>
 
+  <symbol id="ico-google-plus" viewBox="0 0 18 30">
+    <path d="M1181 913q0 208-87 370.5t-248 254-369 91.5q-149 0-285-58t-234-156-156-234-58-285 58-285 156-234 234-156 285-58q286 0 491 192l-199 191q-117-113-292-113-123 0-227.5 62t-165.5 168.5-61 232.5 61 232.5 165.5 168.5 227.5 62q83 0 152.5-23t114.5-57.5 78.5-78.5 49-83 21.5-74h-416v-252h692q12 63 12 122zm867-122v210h-209v209h-210v-209h-209v-210h209v-209h210v209h209z"></path>
+  </symbol>
+
   <symbol id="ico-angle-down" viewBox="0 0 21 28">
     <path d="M1.375 13.143q0-0.232 0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l7.018 7.018 7.018-7.018q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411t-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411z"></path>
   </symbol>
@@ -180,7 +156,7 @@
     <path d="M1.375 21.143q0-0.232 0.179-0.411l8.321-8.321q0.179-0.179 0.411-0.179t0.411 0.179l8.321 8.321q0.179 0.179 0.179 0.411t-0.179 0.411l-0.893 0.893q-0.179 0.179-0.411 0.179t-0.411-0.179l-7.018-7.018-7.018 7.018q-0.179 0.179-0.411 0.179t-0.411-0.179l-0.893-0.893q-0.179-0.179-0.179-0.411z"></path>
   </symbol>
 
-  <symbol id="ico-times" viewBox="0 0 48 48">
+  <symbol id="ico-times" viewBox="8 8 32 32">
     <path d="M38 12.83l-2.83-2.83-11.17 11.17-11.17-11.17-2.83 2.83 11.17 11.17-11.17 11.17 2.83 2.83 11.17-11.17 11.17 11.17 2.83-2.83-11.17-11.17z"></path><path d="M0 0h48v48h-48z" fill="none"></path>
   </symbol>
 
@@ -212,12 +188,12 @@
     <path d="M0 15.946q0-2.804 1.089-5.348t2.92-4.384 4.375-2.929 5.33-1.089 5.33 1.089 4.375 2.929 2.92 4.384 1.089 5.348-1.089 5.357-2.92 4.393-4.375 2.929-5.33 1.089-5.33-1.089-4.375-2.929-2.92-4.393-1.089-5.357zM4 15.946q0 2.893 1.589 5.339l13.482-13.464q-2.411-1.625-5.357-1.625-2.643 0-4.875 1.304t-3.536 3.554-1.304 4.893zM8.411 24.125q2.446 1.589 5.304 1.589 1.982 0 3.777-0.777t3.098-2.080 2.071-3.116 0.768-3.795q0-2.875-1.554-5.268z"></path>
   </symbol>
 
-  <symbol id="ico-angle-right" viewBox="0 0 11 28">
-    <path d="M0.232 24.571q0-0.232 0.179-0.411l7.018-7.018-7.018-7.018q-0.179-0.179-0.179-0.411t0.179-0.411l0.893-0.893q0.179-0.179 0.411-0.179t0.411 0.179l8.321 8.321q0.179 0.179 0.179 0.411t-0.179 0.411l-8.321 8.321q-0.179 0.179-0.411 0.179t-0.411-0.179l-0.893-0.893q-0.179-0.179-0.179-0.411z"></path>
+  <symbol id="ico-angle-right" viewBox="0 0 57 100">
+    <path d="M56.042,50.057l-48.8,49.9-6.1-6.24L43.8,50.062,0.957,6.221,7.077-.039,56.041,50.022l-0.016.017Z"></path>
   </symbol>
 
-  <symbol id="ico-angle-left" viewBox="0 0 11 28">
-    <path d="M0.804 17.143q0-0.232 0.179-0.411l8.321-8.321q0.179-0.179 0.411-0.179t0.411 0.179l0.893 0.893q0.179 0.179 0.179 0.411t-0.179 0.411l-7.018 7.018 7.018 7.018q0.179 0.179 0.179 0.411t-0.179 0.411l-0.893 0.893q-0.179 0.179-0.411 0.179t-0.411-0.179l-8.321-8.321q-0.179-0.179-0.179-0.411z"></path>
+  <symbol id="ico-angle-left" viewBox="0 0 57 100">
+    <path d="M1 50.1l48.8 49.9 6.1-6.2L13.2 50.1 56 6.2 49.9 0 1 50l0 0Z"></path>
   </symbol>
 
   <symbol id="ico-ellipsis" viewBox="0 0 31 12">
@@ -236,63 +212,47 @@
     <line stroke-width="1" x1="" y1="" x2="" y2="" stroke="#449FDB" opacity=""></line><path d="M2.2 16.6q0-0.7 0.5-1.2l2.4-2.4q0.5-0.5 1.2-0.5t1.2 0.5l5.3 5.3 11.7-11.7q0.5-0.5 1.2-0.5t1.2 0.5l2.4 2.4q0.5 0.5 0.5 1.2t-0.5 1.2l-15.4 15.4q-0.5 0.5-1.2 0.5t-1.2-0.5l-8.9-8.9q-0.5-0.5-0.5-1.2z"></path>
   </symbol>
 
+  <symbol id="ico-play" viewBox="0 0 106.813 123.313">
+    <path d="M219.705,150.284L112.914,211.939V88.628Z" transform="translate(-112.906 -88.625)"></path>
+  </symbol>
+
   <symbol id="ico-list" viewBox="0 0 1024 1024">
     <path class="path1" d="M819.2 460.8h-614.4c-28.262 0-51.2 22.938-51.2 51.2s22.938 51.2 51.2 51.2h614.4c28.314 0 51.2-22.938 51.2-51.2s-22.886-51.2-51.2-51.2zM204.8 358.4h614.4c28.314 0 51.2-22.938 51.2-51.2s-22.886-51.2-51.2-51.2h-614.4c-28.262 0-51.2 22.938-51.2 51.2s22.938 51.2 51.2 51.2zM819.2 665.6h-614.4c-28.262 0-51.2 22.886-51.2 51.2s22.938 51.2 51.2 51.2h614.4c28.314 0 51.2-22.886 51.2-51.2s-22.886-51.2-51.2-51.2z"></path>
   </symbol>
 </svg>
 
-  <div id="upworthy-web-app-wrapper" class="up-wrapper">
-
-
-        <div data-react-class="ControlBar" data-react-props="{}"></div>
-
-      <div id="fb-ask" class="fb-ask">
-		<div class="fb-ask__close-wrapper">
-			<a id="fbAskClose" class="fb-ask__close clearfix" href="#close"><svg class="icon times" data-reactid=".2.2.2"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ico-times"></use></svg></a>
-		</div>
-	<div class="fb-ask__wrap">
-		<h3 class="fb-ask__title">At Upworthy,<br> we tell stories for a better world.</h3>
-		<p class="fb-ask__intro">Like us on Facebook to get them first:</p>
-		<p class="fb-ask__intro fb-ask__intro--opt2">Like Upworthy on Facebook:</p>
-			<div class="fb-like" data-href="https://www.facebook.com/upworthy" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-	</div>
-</div>
-
-      <div data-react-class="BillboardAd" data-react-props="{}"></div>
-
-      <div class="fluid-header">
-        <header class="nav-header">
-
-    <div data-react-class="HeaderLogo" data-react-props="{&quot;logo&quot;:&quot;/assets/upworthy-logo-2015-9478cf5b9a196530e8d62089b65de4bc.svg&quot;}"></div>
-    <div data-react-class="NavMenu" data-react-props="{}"></div>
-    <div data-react-class="HeaderSearch" data-react-props="{}"></div>
-
-</header>
-
-
-      </div>
-
 
     
 
-    
+    <div id="upworthy-web-app-wrapper" class="up-wrapper">
+          <div data-react-class="ControlBar" data-react-props="{}"></div>
 
-    <div class="fluid-page">
+        <div class="layout">
+          <div class="layout__full-width background--white">
+            <div data-react-class="Navbar" data-react-props="{&quot;topics&quot;:[{&quot;name&quot;:&quot;Being Well&quot;,&quot;slug&quot;:&quot;being-well&quot;},{&quot;name&quot;:&quot;Culture&quot;,&quot;slug&quot;:&quot;culture&quot;},{&quot;name&quot;:&quot;Breakthroughs&quot;,&quot;slug&quot;:&quot;breakthroughs&quot;},{&quot;name&quot;:&quot;Real Life&quot;,&quot;slug&quot;:&quot;real-life&quot;},{&quot;name&quot;:&quot;The Conversation&quot;,&quot;slug&quot;:&quot;the-conversation&quot;}],&quot;logo&quot;:{&quot;src&quot;:&quot;/assets/upworthy-logo-2015-9478cf5b9a196530e8d62089b65de4bc.svg&quot;}}"></div>
+          </div>
+        </div>
+
+      
+
+      
+
+      <div class="fluid-page">
     <div class="static-page white--bg">
       <div class="up-wrapper__content mobile--pb pvx2">
         <h1>The Official Upworthy Privacy Policy</h1>
 
-        <p>Upworthy.com is owned and operated by Cloud Tiger Media, Inc. (“Upworthy,” “we,” or “us”). Upworthy is on a mission to tell stories that bring people together — because we’re all part of the same story. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our&nbsp; <a href="/tos">Terms of Use</a>.</p>
+        <p>Upworthy.com is owned and operated by Cloud Tiger Media, Inc. (“Upworthy,” “we,” or “us”). Upworthy is on a mission to tell stories that bring people together — because we’re all part of the same story. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our&nbsp; <a class="link--basic" href="/tos">Terms of Use</a>.</p>
 
         <ol>
-          <li><a href="/privacy#collection">How We Collect and Use Information</a></li>
-          <li><a href="/privacy#sharing">Sharing of Your Information</a></li>
-          <li><a href="/privacy#storage">How We Store and Protect Your Information</a></li>
-          <li><a href="/privacy#your-choices">Your Choices About Your Information</a></li>
-          <li><a href="/privacy#children">Children’s Privacy</a></li>
-          <li><a href="/privacy#external">Links to Other Websites and Services</a></li>
-          <li><a href="/privacy#contact">How to Contact Us</a></li>
-          <li><a href="/privacy#changes">Changes to Our Privacy Policy</a></li>
+          <li><a class="link--basic" href="/privacy#collection">How We Collect and Use Information</a></li>
+          <li><a class="link--basic" href="/privacy#sharing">Sharing of Your Information</a></li>
+          <li><a class="link--basic" href="/privacy#storage">How We Store and Protect Your Information</a></li>
+          <li><a class="link--basic" href="/privacy#your-choices">Your Choices About Your Information</a></li>
+          <li><a class="link--basic" href="/privacy#children">Children’s Privacy</a></li>
+          <li><a class="link--basic" href="/privacy#external">Links to Other Websites and Services</a></li>
+          <li><a class="link--basic" href="/privacy#contact">How to Contact Us</a></li>
+          <li><a class="link--basic" href="/privacy#changes">Changes to Our Privacy Policy</a></li>
         </ol>
 
         <h2 id="collection">1. How We Collect and Use Information</h2>
@@ -300,23 +260,31 @@
         <p><strong>Personally Identifiable Information:</strong>&nbsp;We collect information that can be used to identify you as an individual (“Personally Identifiable Information”) only when you provide such information directly to us in connection with the Service.</p>
 
         <ul>
-          <li><strong>Types of Personally Identifiable Information you provide us directly:</strong>&nbsp;You aren’t required to provide us with any Personally Identifiable Information in order to use our Service; however, you may choose to provide certain Personally Identifiable Information to us such as your first and last name, birthdate, phone number, ZIP code and email address in response to optional prompts featured on our Service, including “Hollers” and other clearly identified opt-in prompts. Each Holler will identify the specific types of Personally Identifiable Information collected. You may choose to respond to our Hollers and “Holler Back,” or not. We may also retain the contents of any messages you send to us or through the Service, and we may collect information you provide in User Content that you post to the Service. If you elect to make a donation or purchase merchandise through the Service, you may also provide us or a trusted third-party provider with the financial information required to process and fulfill your transaction. Finally, we may now or in the future allow Users to create accounts. If you choose to sign up for a User account, we may collect certain Personally Identifiable Information, including your username, first and last name, phone number, and email address. If you sign up for our email newsletter, we will collect your email address.</li>
+          <li><strong>Types of Personally Identifiable Information you provide us directly:</strong>&nbsp;You aren’t required to provide us with any Personally Identifiable Information in order to use our Service; however, you may choose to provide certain Personally Identifiable Information to us such as your first and last name, birthdate, phone number, ZIP code and email address in response to optional prompts featured on our Service. We may also retain the contents of any messages you send to us or through the Service, and we may collect information you provide in User Content that you post to the Service. If you elect to make a donation or purchase merchandise through the Service, you may also provide us or a trusted third-party provider with the financial information required to process and fulfill your transaction. Finally, we may now or in the future allow Users to create accounts. If you choose to sign up for a User account, we may collect certain Personally Identifiable Information, including your username, first and last name, phone number, and email address. If you sign up for our email newsletter, we will collect your email address.</li>
           <li><strong>Personally Identifiable Information we may receive from third parties:</strong>&nbsp;We may now or in the future receive Personally Identifiable Information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” adding an Upworthy application, linking your account to the Upworthy Service, “liking” a particular cause or campaign featured on the Service, etc., that third party may pass certain information about your use of its service to Upworthy. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Upworthy Service.</li>
           <li><strong>Use of Personally Identifiable Information:</strong>&nbsp;We may use the Personally Identifiable Information we collect or receive to communicate directly with you. We may also send you emails containing newsletters, promotions, and special offers. If you do not want to receive such email messages, we will give you the option to opt out or change your preferences. We also use your Personally Identifiable Information to send you Service-related emails or other emails that we believe may interest you (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related emails. As discussed below, we may also combine your Personally Identifiable Information with third-party analytics information to build a broader profile of our individual Users.</li>
-          <li><strong>Inviting a friend to use Upworthy:</strong>&nbsp;If you choose to use our invitation service to invite a third party to the Service, we will ask you for that person’s email address and automatically send an email invitation to the invitee. We store this information to send this email, to register the invitee if your invitation is accepted, and to track the success of our invitation service. Unless the invitee becomes a registered User of the Service, we do not use the invitee’s email address for marketing purposes, and we do not share the invitee’s email address with third parties other than Upworthy’s service providers. The invitee may contact us at any time to request that we remove his or her information from our database at <a href="mailto:support@upworthy.com">support@upworthy.com</a>.</li>
+          <li><strong>Inviting a friend to use Upworthy:</strong>&nbsp;If you choose to use our invitation service to invite a third party to the Service, we will ask you for that person’s email address and automatically send an email invitation to the invitee. We store this information to send this email, to register the invitee if your invitation is accepted, and to track the success of our invitation service. Unless the invitee becomes a registered User of the Service, we do not use the invitee’s email address for marketing purposes, and we do not share the invitee’s email address with third parties other than Upworthy’s service providers. The invitee may contact us at any time to request that we remove his or her information from our database at <a class="link--basic" href="mailto:support@upworthy.com">support@upworthy.com</a>.</li>
         </ul>
 
         <p><strong>Non-Personally Identifiable Information:</strong>&nbsp;We also collect and use information about your interactions with the Service in a manner and format that does not identify you as an individual (“Non-Personally Identifiable Information”). We may collect, use, and disclose the following types of Non-Personally Identifiable Information:</p>
 
         <ul>
           <li><strong>Analytics information.</strong>&nbsp;We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser as part of a web page request, including the web pages you visit, your browser add-ons, your browser’s width and height, and other information that assists us in improving the Service. We may collect and use this analytics information together with your Personally Identifiable Information to build a broader profile of our individual Users so that we can serve you better, to improve the Service and for internal business purposes. We may disclose this combined information to our third-party business partners in aggregated, anonymized form as described below in the section entitled “Sharing of Your Information — Non-Personally Identifiable Information.”</li>
-          <li><strong>Google Analytics:</strong> We use a tool called “Google Analytics” to collect information about use of the Service, including the Google Analytics Demographics and Interest Reporting feature. Google Analytics collects information such as how often users visit the Service, what pages they visit when they do so, and what other sites they used prior to visiting the Service. We use the information we get from Google Analytics to maintain and improve the Service, and we may share anonymous statistical information from our use of Google Analytics with our business partners for such purposes. Google Analytics collects the IP address assigned to you on the date you visit the Service, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to the Service is restricted by the <a target="_blank" href="http://www.google.com/analytics/terms/us.html">Google Analytics Terms of Service</a>, and the <a target="_blank" href="http://www.google.com/policies/privacy/">Google Privacy Policy</a>. You can prevent Google Analytics from recognizing you on return visits to the Service by disabling cookies on your browser. In addition, if you want to prevent your data from being provided to Google Analytics, you can <a target="_blank" href="https://tools.google.com/dlpage/gaoptout">learn how to opt out using a Google plug-in</a></li>
-          <li><strong>Cookies information:</strong>&nbsp;When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Upworthy help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.</li>
+          <li><strong>Google Analytics:</strong> We use a tool called “Google Analytics” to collect information about use of the Service, including the Google Analytics Demographics and Interest Reporting feature. Google Analytics collects information such as how often users visit the Service, what pages they visit when they do so, and what other sites they used prior to visiting the Service. We use the information we get from Google Analytics to maintain and improve the Service, and we may share anonymous statistical information from our use of Google Analytics with our business partners for such purposes. Google Analytics collects the IP address assigned to you on the date you visit the Service, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to the Service is restricted by the <a target="_blank" class="link--basic" href="http://www.google.com/analytics/terms/us.html">Google Analytics Terms of Service</a>, and the <a target="_blank" class="link--basic" href="http://www.google.com/policies/privacy/">Google Privacy Policy</a>. You can prevent Google Analytics from recognizing you on return visits to the Service by disabling cookies on your browser. In addition, if you want to prevent your data from being provided to Google Analytics, you can <a target="_blank" class="link--basic" href="https://tools.google.com/dlpage/gaoptout">learn how to opt out using a Google plug-in</a></li>
+          <li><strong>Cookies and local storage information:</strong>&nbsp;When you visit the Service, we may send one or more cookies or local storage files — a small data file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Upworthy help you log in faster, enable customized ads, content, and/or services,  and enhance your navigation through the site. Local storage or a cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click, and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies and local storage can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies and/or local storage or to indicate when a cookie or local storage is being sent. However, some features of the Service may not function properly if the ability to accept cookies or local storage is disabled.</li>
           <li><strong>Log file information:</strong>&nbsp;Log file information is automatically reported by your browser each time you access a web page. When you use our Service, our servers (whether operated by us or a third-party provider) automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.</li>
-          <li><strong>Clear gifs/web beacons information:</strong>&nbsp;When you use the Service, we may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened and which links are clicked by recipients. This information allows for more accurate reporting and improvement of the Service.</li>
+          <li><strong>Clear gifs/web beacons information:</strong>&nbsp;When you use the Service, we may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened and which links are clicked by recipients. This information allows for more accurate reporting and improvement of the Service. If you wish to disable web beacons, you can do so by turning images “off” in your email client.</li>
           <li><strong>Device identifiers:</strong>&nbsp;When you access the Service by or through a mobile device (including but not limited to smartphones or tablets), we may access, collect, monitor, and/or remotely store one or more “device identifiers,” such as a unique device identifier (“UDID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Upworthy. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.</li>
           <li><strong>Location data:</strong>&nbsp;When you access the Service by or through a mobile device, we may access, collect, monitor, and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.</li>
           <li><strong>Use of Non-Personally Identifiable Information we collect:</strong>&nbsp;We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) provide advertising to your browser or device, and (h) automatically update the Upworthy application on your mobile devices.</li>
+          <li><strong>Illustrative list of authorized service providers who use cookies:</strong>
+            <ul>
+              <li>Criteo - Criteo cookies re/target users to display custom advertisements. You can access their privacy policy <a href="http://www.criteo.com/privacy/" class="link--basic" target="_blank">here</a>.</li>
+              <li>Rubicon Project’s <a href="http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/" class="link--basic" target="_blank">opt-out page</a></li>
+              <li>Network Advertising Initiative’s <a href="http://www.networkadvertising.org/" class="link--basic" target="_blank">opt-out page</a></li>
+              <li>Digital Advertising Alliance’s <a href="http://youradchoices.com/" class="link--basic" target="_blank">opt-out page</a></li>
+              <li>European Interactive Digital Advertising Alliance’s <a href="http://www.youronlinechoices.eu/" class="link--basic" target="_blank">opt-out page</a></li>
+            </ul></li>
         </ul>
 
         <h2 id="sharing">2. Sharing of Your Information</h2>
@@ -344,93 +312,138 @@
         <p><strong>Opting out of collection of Non-Personally Identifiable Information:</strong>&nbsp;Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies and other tracking/recording tools. Note that disabling cookies on your mobile device or browser prevents Upworthy or its business partners from tracking your browser’s activities in relation to the Service and for use in targeted online advertising. However, doing so may disable many of the features available through the Service. Additional information on opting out of Google Analytics is described in Section 1 in the heading “Google Analytics.”</p>
 
         <h2 id="children">5. Children’s Privacy</h2>
-        <p>Upworthy does not knowingly collect or solicit Personally Identifiable Information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at&nbsp;<a href="mailto:support@upworthy.com">support@upworthy.com</a>.</p>
+        <p>Upworthy does not knowingly collect or solicit Personally Identifiable Information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at&nbsp;<a class="link--basic" href="mailto:support@upworthy.com">support@upworthy.com</a>.</p>
 
         <h2 id="external">6. Other Websites and Services</h2>
 
         <p>We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and do not control any third parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third party access to your User Content, you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from sources other than through the Service.</p>
         <h2 id="contact">7. How to Contact Us</h2>
-        <p>If you have any questions about this Privacy Policy or the Service, please contact us at <a href="mailto:support@upworthy.com">support@upworthy.com</a>.</p>
+        <p>If you have any questions about this Privacy Policy or the Service, please contact us at <a class="link--basic" href="mailto:support@upworthy.com">support@upworthy.com</a>.</p>
+        <br>
         <h2 id="changes">8. Changes to Our Privacy Policy</h2>
         <p>Upworthy may, in its sole discretion, modify or update this Privacy Policy from time to time, so you should review this page periodically. When we change the policy in a material manner, we will update the “last modified” date at the bottom of this page.</p>
-        <p>This privacy policy was last modified on 2/16/15 and was first made effective on 3/20/12.</p>
+        <p>This privacy policy was last modified on 9/2/16 and was first made effective on 3/20/12.</p>
       </div>
     </div>
 </div>
 
+
+      
+
+        <div class="layout">
+          <div class="layout__full-width background--white">
+            <div data-react-class="PageFooter" data-react-props="{}"></div>
+          </div>
+        </div>
+
+      <div data-react-class="NavMenuSiteOverlay" data-react-props="{&quot;topics&quot;:[{&quot;name&quot;:&quot;Being Well&quot;,&quot;slug&quot;:&quot;being-well&quot;},{&quot;name&quot;:&quot;Culture&quot;,&quot;slug&quot;:&quot;culture&quot;},{&quot;name&quot;:&quot;Breakthroughs&quot;,&quot;slug&quot;:&quot;breakthroughs&quot;},{&quot;name&quot;:&quot;Real Life&quot;,&quot;slug&quot;:&quot;real-life&quot;},{&quot;name&quot;:&quot;The Conversation&quot;,&quot;slug&quot;:&quot;the-conversation&quot;}]}"></div>
+    </div><!-- /#upworthy-web-app-wrapper -->
+
+    <div data-react-class="NavMenuContent" data-react-props="{&quot;topics&quot;:[{&quot;name&quot;:&quot;Being Well&quot;,&quot;slug&quot;:&quot;being-well&quot;},{&quot;name&quot;:&quot;Culture&quot;,&quot;slug&quot;:&quot;culture&quot;},{&quot;name&quot;:&quot;Breakthroughs&quot;,&quot;slug&quot;:&quot;breakthroughs&quot;},{&quot;name&quot;:&quot;Real Life&quot;,&quot;slug&quot;:&quot;real-life&quot;},{&quot;name&quot;:&quot;The Conversation&quot;,&quot;slug&quot;:&quot;the-conversation&quot;}]}"></div>
+
+    <div data-react-class="PostEventModal" data-react-props="{}"></div>
+    <div data-react-class="SurveyModal" data-react-props="{}"></div>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      /* eslint-disable brace-style */
+      (function () {
+        (function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject'] = r;i[r] = i[r] || function() {
+          (i[r].q = i[r].q || []).push(arguments);},i[r].l = 1 * new Date();a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];a.async = 1;a.src = g;m.parentNode.insertBefore(a,m);
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', window.config.googleAnalyticsId, 'auto');
+        window.addEventListener('load', () => { ga('send', 'pageview'); });
+      })();
+    </script>
+
+      <script type="text/javascript" src="https://cdn.optimizely.com/js/38179760.js"></script>
+
+    <script src="/assets/up.core.bundle-55f0d946e74dc533aeb72118e5bb7909.js"></script>
     
 
-      <div data-react-class="PageFooter" data-react-props="{&quot;aboutPath&quot;:&quot;/about&quot;}"></div>
-
-  </div> <!-- /#upworthy-web-app-wrapper -->
-
-  <div data-react-class="NavMenuContent" data-react-props="{&quot;topics&quot;:[{&quot;name&quot;:&quot;Being A Better Human&quot;,&quot;slug&quot;:&quot;being-a-better-human&quot;},{&quot;name&quot;:&quot;Citizenship \u0026 Democracy&quot;,&quot;slug&quot;:&quot;citizenship-democracy&quot;},{&quot;name&quot;:&quot;Culture&quot;,&quot;slug&quot;:&quot;culture&quot;},{&quot;name&quot;:&quot;Education&quot;,&quot;slug&quot;:&quot;education&quot;},{&quot;name&quot;:&quot;Health \u0026 Well-Being&quot;,&quot;slug&quot;:&quot;health-well-being&quot;},{&quot;name&quot;:&quot;Identities&quot;,&quot;slug&quot;:&quot;identities&quot;},{&quot;name&quot;:&quot;Inspiration&quot;,&quot;slug&quot;:&quot;inspiration&quot;},{&quot;name&quot;:&quot;Money \u0026 Work&quot;,&quot;slug&quot;:&quot;money-work&quot;},{&quot;name&quot;:&quot;Places&quot;,&quot;slug&quot;:&quot;places&quot;},{&quot;name&quot;:&quot;Relationships&quot;,&quot;slug&quot;:&quot;relationships&quot;},{&quot;name&quot;:&quot;Science \u0026 Technology&quot;,&quot;slug&quot;:&quot;science-technology&quot;}],&quot;activeTopics&quot;:null}"></div>
-
-  <div data-react-class="PostEventModal" data-react-props="{}"></div>
-
-    <script type="text/javascript" src="//cdn.optimizely.com/js/38179760.js"></script>
-
-  <!-- JavaScript Includes -->
-  <script src="/assets/up.bundle-c10fcb22a0a6d9374339ec4ace6c08a6.js"></script>
-  
-
-  <!-- external analytics & services -->
-
-    <!-- Facebook Pixel Code -->
-    <script>
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-    fbq('init', '1676218835946757');
-    fbq('track', "PageView");</script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1676218835946757&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-
-    <!-- Begin Quantcast -->
+    <!-- Twitter intents -->
     <script type="text/javascript">
-    var _qevents = _qevents || [];
-
-    (function() {
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-    qacct:"p-46reRfD7EnxVE"
-    });
+      window.twttr = (function (d, s, id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s); js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f); } });
+      }(document, "script", "twitter-wjs"));
     </script>
-    <noscript>
-    <div style="display:none;">
-    <img src="//pixel.quantserve.com/pixel/p-46reRfD7EnxVE.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-    </noscript>
-    <!-- End Quantcast -->
 
-    <!-- START Parse.ly Include: Standard -->
-    <div id="parsely-root" style="display: none">
-      <div id="parsely-cfg" data-parsely-site="upworthy.com"></div>
-    <script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
-    <script>
-      (function(s, p, d) {
-        var h=d.location.protocol, i=p+"-"+s,
-            e=d.getElementById(i), r=d.getElementById(p+"-root"),
-            u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-            :"static."+p+".com";
-        if (e) return;
-        e = d.createElement(s); e.id = i; e.async = true;
-        e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-      })("script", "parsely", document);
-    </script>
-    <!-- END Parse.ly Include -->
+      <!-- Facebook Pixel Code -->
+      <script>
+      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+      document,'script','//connect.facebook.net/en_US/fbevents.js');
 
+      fbq('init', '1676218835946757');
+      fbq('track', "PageView");</script>
+      <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=1676218835946757&ev=PageView&noscript=1"
+      /></noscript>
+      <!-- End Facebook Pixel Code -->
+
+      <!-- Comscore -->
+      <script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: window.config.comscoreId });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18736521&cv=2.0&cj=1" />
+</noscript>
+
+      <!-- Begin Quantcast -->
+      <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function() {
+          var elem = document.createElement('script');
+          elem.src = (document.location.protocol === "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+          elem.async = true;
+          elem.type = "text/javascript";
+          var scpt = document.getElementsByTagName('script')[0];
+          scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        _qevents.push({
+          qacct:"p-46reRfD7EnxVE"
+        });
+      </script>
+      <noscript>
+        <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-46reRfD7EnxVE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+        </div>
+      </noscript>
+      <!-- End Quantcast -->
+
+      <!-- START Parse.ly Include: Standard -->
+      <div id="parsely-root" style="display: none">
+        <div id="parsely-cfg" data-parsely-site="upworthy.com"></div>
+      <script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+      <script>
+        (function(s, p, d) {
+          var h=d.location.protocol, i=p+"-"+s,
+              e=d.getElementById(i), r=d.getElementById(p+"-root"),
+              u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+              :"static."+p+".com";
+          if (e) return;
+          e = d.createElement(s); e.id = i; e.async = true;
+          e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+      </script>
+      <!-- END Parse.ly Include -->
+  
 
 </body></html>
