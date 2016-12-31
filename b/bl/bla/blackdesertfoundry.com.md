@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdesertfoundry.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411165929id_/http%3A//blackdesertfoundry.com/tos-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdesertfoundry.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231011056id_/http%3A//blackdesertfoundry.com/tos-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy | BDFoundry
 
