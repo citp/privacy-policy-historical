@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616014506id_/https%3A//www.lawcareers.net/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcareers.net privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231144042id_/http%3A//www.lawcareers.net/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy - Information
 
 Globe Business Publishing Ltd ("We"), trading as Globe Business Media Group, are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/TermsOfUse) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting www.citylawlive.com (“our site”) and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy.
+This policy (together with our [terms of use](https://web.archive.org/TermsOfUse) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and the basis on which it will be disclosed to third parties. By visiting www.lawcareers.net (“our site”) and/or registering for the service and/or providing information about yourself you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Globe Business Publishing Limited Ltd. We have our registered office at St Brides House, 10 Salisbury Square, London, EC4Y 8EH. Our main trading address is New Hibernia House, Winchester Walk, London Bridge, London SE1 9AG.
 
