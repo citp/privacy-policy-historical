@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datingbuzz.co.za privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425064803id_/http%3A//www.datingbuzz.co.za/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingbuzz.co.za privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231152911id_/http%3A//www.datingbuzz.co.za/s/help/privacy.php) for the most accurate reproduction.*
 
 # DatingBuzz South Africa - Privacy Policy
 
-## Privacy Policy
+## Privacy Policy 
 
 Last Modified: 30 September 2013
 
