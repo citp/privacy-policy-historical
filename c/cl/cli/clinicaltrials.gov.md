@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630050456id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231233529id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -33,7 +33,7 @@ Session Cookies: We use session cookies for technical purposes such as to enable
 
 Persistent Cookies: NLM uses persistent cookies to enhance the Web experience for our users. Persistent cookies remain on your computer between visits to NLM until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected.
 
-For example, NLM uses persistent cookies to enable a PubMed retrieval system feature called "MyNCBI." The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their MyNCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take the American Customer Satisfaction Inventory (ACSI) survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patterns and improve our users' experience on NLM Web sites.
+For example, NLM uses persistent cookies to enable a PubMed retrieval system feature called "MyNCBI." The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their MyNCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take our ForeSee customer satisfaction survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patterns and improve our users' experience on NLM Web sites.
 
 ### How to Opt Out or Disable Cookies
 
@@ -73,7 +73,7 @@ NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are
 
 NLM has multiple Facebook pages where we share information about NLM news, program activities, and other items that may be of interest to you. You do not need to register or provide personal information to view our Facebook pages. The complete list of NLM Facebook pages is at <http://www.nlm.nih.gov/socialmedia/index.html>.
 
-If you have a Facebook account and "Like" NLM Facebook pages, you may post comments or click the "Like" link for individual entries. If you comment on or "Like" NLM Facebook content, personally identifying information will be visible to other Facebook visitors, including NLM staff. The amount of visible personal information about you will depend on your own Facebook privacy settings. To avoid displaying your personally identifiable information, you should not create a Facebook account, post comments or click on the "Like" options in Facebook. ****
+If you have a Facebook account and "Like" NLM Facebook pages, you may post comments or click the "Like" link for individual entries. If you comment on or "Like" NLM Facebook content, personally identifying information will be visible to other Facebook visitors, including NLM staff. The amount of visible personal information about you will depend on your own Facebook privacy settings. To avoid displaying your personally identifiable information, you should not create a Facebook account, post comments or click on the "Like" options in Facebook.
 
 NLM does not collect, use or disclose any information about visitors who comment on or "Like" NLM Facebook pages. Facebook collects and reports non-personally identifiable information about activities on NLM's Facebook pages. This information is password protected and only available to NLM managers and the administrators of the NLM Facebook pages, who require this information to perform their duties. The Facebook Privacy Policy is available at: <http://www.facebook.com/policy.php>.
 
