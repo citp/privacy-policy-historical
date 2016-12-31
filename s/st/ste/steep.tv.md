@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331133210id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231043150id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
 
 # Steep TV
 
