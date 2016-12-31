@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622040553id_/https%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.in privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120723id_/https%3A//www.tripadvisor.in/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TripAdvisor
 
-TripAdvisor.in (" **TripAdvisor** ", " **we** ", " **our** ", " **us** ") is an online service that provides users (" **you** ") with recommendations for hotels, resorts, inns, vacations, travel packages, travel guides, flights, vacation rentals, and lots more. Our website, mobile properties, and related applications (collectively, our " **Website** ") are part of the TripAdvisor® Media Group, which is owned and operated by TripAdvisor LLC. 
+TripAdvisor (" **TripAdvisor** ", " **we** ", " **our** ", " **us** ") is an online service that provides users (" **you** ") with recommendations for hotels, resorts, inns, vacations, travel packages, travel guides, flights, vacation rentals, and lots more. Our website, mobile properties, and related applications (collectively, our " **Website** ") are part of the TripAdvisor® Media Group, which is owned and operated by TripAdvisor LLC. 
 
 By accessing our Website and utilizing our services, you acknowledge that you have read understood this Privacy Policy and the information collection and handling practices outlined in it. This Privacy Policy was last updated on January 22, 2016. We may change this Privacy Policy from time to time so please check back regularly to keep informed of any updates. 
 
@@ -11,6 +11,20 @@ By accessing our Website and utilizing our services, you acknowledge that you ha
 This Privacy Policy describes in detail our policy and practices regarding our collection, use and disclosure of information about you. 
 
 We understand that providing information online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us when you visit our Website or use our services. 
+
+  * What information we collect from you
+  * How we use your information
+  * With whom we share your information
+  * How you can access your information
+  * Your choices with respect to the collection and use of your information
+  * How we protect your information
+  * Children's privacy
+  * External links
+  * Visiting our Website from outside the United States
+  * Changes to this Privacy Policy
+  * How you can contact us
+
+
 
 ### What information we collect from you
 
@@ -164,7 +178,7 @@ We will not retain your personal information for longer than is necessary for ou
   * We endeavor to ensure that your personal information is relevant to its intended use, accurate, and complete. You can also review, add or update the information you have provided to us by visiting your subscriptions page on our Website. 
   * You also can add or update information and close your account as described above. If you decide to close your TripAdvisor account, we will deactivate your account and remove your profile information from active view. 
   * You can close your TripAdvisor account by contacting us using [this form](https://web.archive.org/generalsupport). We will send you an email to confirm your request. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. 
-  * When you register as a member of TripAdvisor.in you will have the opportunity to provide us with your marketing preferences, and will be given a choice as to whether you want to receive email marketing messages from TripAdvisor.in. As a registered TripAdvisor.in member, you can modify your choices at any time through the Email Settings of your subscriptions page. 
+  * When you register as a member of TripAdvisor you will have the opportunity to provide us with your marketing preferences, and will be given a choice as to whether you want to receive email marketing messages from TripAdvisor. As a registered TripAdvisor member, you can modify your choices at any time through the Email Settings of your subscriptions page. 
   * Whether registered as a TripAdvisor member or not, you also will be given the opportunity to unsubscribe from promotional messages in any such email we send. 
   * Please note that we may send you other communications, including service announcements, and administrative messages relating to your TripAdvisor account. 
 
@@ -214,4 +228,4 @@ Please be aware that calls to and from TripAdvisor may be recorded. We may use t
 ©2016 TripAdvisor LLC. All rights reserved.  
 
 
-This Privacy Policy is effective as of June 28, 2014 
+This Privacy Policy is effective as of October 31, 2016 
