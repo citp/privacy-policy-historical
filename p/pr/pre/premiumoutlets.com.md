@@ -1,69 +1,101 @@
-> *The following text is extracted and transformed from the premiumoutlets.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumoutlets.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121147id_/http%3A//www.simon.com/legal/privacy) for the most accurate reproduction.*
 
-# Premium Outlets: Terms of Use and Privacy Policy
+# Site Privacy Policy & Your California Privacy Rights - Simon
 
-Effective date: November 1, 2009.
+#### Privacy Policy
 
-At Premium Outlets® | Simon Property Group, we are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. 
+Last Updated: June 6, 2016
 
-As part of the normal operation of our services, we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. 
+The Simon websites located at [http://www.simon.com](http://www.simon.com/) and [http://www.premiumoutlets.com](http://www.premiumoutlets.com/), and the Simon mobile websites located at [http://m.simon.com](http://m.simon.com/) and [http://m.premiumoutlets.com](http://m.premiumoutlets.com/) (collectively, "Sites"), and the [Simon mobile applications](http://www.simon.com/simon-mobile-app) for iOS and Android ("Apps") are operated by Simon Property Group, L.P. and its affiliates (collectively, “Simon”). The Sites include these sub-websites: [business.simon.com](http://business.simon.com/), [investors.simon.com](http://investors.simon.com/), [careers.simon.com](http://careers.simon.com/), [kidgits.simon.com](http://kidgits.simon.com/), [dashboard.simon.com](http://dashboard.simon.com/), [syf.org](http://syf.org/), [traveltrade.simon.com](http://traveltrade.simon.com/), [simonmuse.com](http://simonmuse.com/), [simoninsider.com](http://simoninsider.com/), [simoninnovationgroup.com](http://simoninnovationgroup.com/), [simonventuregroup.com](http://simonventuregroup.com/), [futureofcopley.com](http://futureofcopley.com/) and [said.simon.com](http://said.simon.com/) (the Sites and their sub-websites, along with the Apps, are the “Platform”). 
 
-#### What Information Do We Collect?
+This Privacy Policy (“Policy”) explains Simon’s information collection, use and disclosure practices for the Platform. Specifically, this Policy outlines the types of information that Simon gathers about you while you are using the Platform, and the ways in which Simon uses and shares this information. This Policy does not apply to any information you may provide to Simon, or that Simon may collect, offline and/or through other means (for example, at a live event or through the mail). As used herein, the words “user,” “you” and “your” mean users of the Platform and the words “we,” “us" and "our" mean Simon. 
 
-In order to use certain services provided on the site or to participate in sweepstakes or similar promotional programs, you will need to register with us. When you register, we will gather such information as your name, mailing address and email address, and demographic information, such as zip code, age, or income level. If you make a purchase, we may also ask you for your credit card information to process your order. This credit card information will not be used for any other purpose than order processing and/or referencing of your order and will not be shared with anyone outside of Premium Outlets. We may also track certain information about how you use our website. In the course of using our site, we automatically track certain information about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), what browser you are using, and your Internet Protocol (IP) address. Many sites automatically collect this information.
+Because the web is an evolving medium, this Policy may be updated from time-to-time, in which case we will post the revised Policy on the Platform and update the "Last Updated" date to reflect the date of the changes.
 
-#### A Note To Parents and Children 13 and Younger
+#### Personally Identifiable Information (PII)
 
-Except as provided below, we do not knowingly collect personally identifiable information from children 13 years old or younger. Premium Outlets does not market our website to individuals under the age of 13. We require that all visitors who wish to register on our website certify that they are 13 years of age or older. If they do not certify that they are 13 years of age or older, visitors will be redirected to [Simon Property Group](http://www.simon.com/).
+We do not collect any PII about you through the Platform (such as your name, address, mobile phone number or e-mail address) unless you provide it.
 
-#### How Do We Use It? / Purpose of Use
+You must provide PII in order to use, or participate in, certain optional features of the Platform, including, but not limited to, [Simon Giftcard®](https://www.simon.com/giftcard/), [Simon Rewardcard Visa Prepaid Card](https://www.simon.com/myrewardcard) or [American Express Simon Rewardcard](https://www.simon.com/rewardcard) purchases; [retailer gift card purchases](https://gift.giftcardmall.com/simon); [gift card registrations](https://www.simon.com/giftcard/account_register.aspx); [gift card activations](https://www.simon.com/giftcard/account_activate.aspx); creating a [gift card account](https://www.simon.com/giftcard/register.aspx); [gift card balance checks](https://www.simon.com/giftcard/card_balance.aspx); using one of many [contact us forms](https://www.simon.com/contact); [applying for a job](http://careers.simon.com/job-openings); registering for or using the [Simon retailer showcase program](https://www.simon.com/retailpromotions/default.aspx); using the free in-center Simon Wi-Fi network; signing up for [Simon press release news alerts](http://investors.simon.com/); submitting a survey response; [requesting support or assistance](https://helpme.simon.com/hc/en-us); signing up and/or using the [Simon Kidgits program](http://kidgits.simon.com/); leaving a comment within a [Simon SAID](http://said.simon.com/) story; signing up for or using [Simon Rewards®](https://simonrewards.com/), [Simon Insider](https://www.simoninsider.com/) and/or the [Premium Outlets VIP Shopper Club](https://www.premiumoutlets.com/vip) loyalty programs; signing up for [e-mail newsletters](https://www.simon.com/mall-insider) (a/k/a the [Simon Mall Insider®](https://www.simon.com/mall-insider) program); joining or using the [Simon Travel Trade community](http://simon-tourism.force.com/Tourism/CommunitiesLogin); signing up for [mobile SMS alerts](http://www.simon.com/simon-mobile-shopper-club) (a/k/a the [Mobile Shopper Club®](http://www.simon.com/simon-mobile-shopper-club)); [making a donation](http://donate.syf.org/site/Donation2?df_id=1622&mfc_pref=T&1622.donation=form1) or [applying for a scholarship](http://programs.applyists.com/syf/) with the Simon Youth Foundation; or playing any instant win game or sweepstakes. The manner in which we will use this information, if any, will be disclosed on the page through which you sign up for, or otherwise provide information to use, or participate in, the applicable feature. We will not share or use your mobile number for any purpose other than to send you mobile SMS alerts, in accordance with Simon’s [mobile text terms of use](http://www.simon.com/legal/mobile-text-help). 
 
-We use your information in a number of ways. For example, we conduct internal research on our user's demographics, interests, and site usage, to better understand and service you.  
+When you complete forms online or otherwise provide us information in connection with a program, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any information you provide is untrue, inaccurate or incomplete, we may prohibit you from further participation in the applicable program and pursue any appropriate legal remedies.
+
+We may share PII, such as your telephone or e-mail contact information, with social media outlets, like Facebook and Instagram, in connection with our agreement to share such information with them, in order to provide more targeted advertisements about goods and services from us or mall retailers that may be of interest to you.
+
+Except as set out in this Policy, or as disclosed when you sign up for, or otherwise provide information to use, or participate in, an optional feature on the Platform, we will not disclose any PII to a third party without your express prior authorization, nor will we use such PII for any purpose other than as set out in this Policy or to provide the applicable feature.
+
+#### Non-Personally Identifiable Information (Non-PII)
+
+In some cases, when you use the Platform, we and/or specific third parties authorized by Simon may collect and store non-PII about you which is generated automatically through your use of the Platform, such as, but not limited to your IP address (a unique number that is automatically assigned to your computer whenever you are surfing the web), your network MAC address (a unique number that is assigned to your network card by the manufacture), your Bluetooth MAC address (a unique number that is assigned to your Bluetooth radio by the manufacturer) your Identifier for Advertising (IDFA) on iOS devices, your Google Advertising ID (AAID) on Android devices, your network operator, your browser type, your browser version, your operating system, your operating system version, your type of mobile device, your device’s preferred language, your country, your IP-determined location, a randomly assigned, unique user identification number (UID), and other characteristics relating to your device, its software and the mode of communication with us. This information, by itself, cannot be used to identify you. We may also collect and store information that you chose to upload to the Platform, such as feedback, reviews and comments.
+
+We use this information for various purposes, such as to create aggregated data reports that we may disclose to third parties, including entities with whom we have entered into an agreement to provide such information. We may also study aggregate data in order to enhance our existing services or develop new services and use non-PII to enable Simon or a third party to provide you with information about products and services while you are using the Platform.
+
+Additionally, we may use third-party advertising companies, advertising networks, ad-tech partners and others to serve ads to you on our behalf and on behalf of our mall retailers when you visit the Platform and to re-target you later on other third party websites. These companies may use cookies and non-PII about your visits to and usage of the Platform and other websites in order to provide advertisements about goods and services from us or our mall retailers that may be of interest to you.
+
+We can and will use IP addresses and/or MAC addresses to identify a user when we feel it is necessary to enforce compliance with our [Terms of Use](https://web.archive.org/legal) or to protect the Platform, customers, or other individuals. We also reserve the right to use or disclose non-PII in any manner we see fit. 
+
+####  Use of Browser Based Cookies, HTML 5 Storage, Web Beacons and Do Not Track 
+
+Simon uses browser-based, HTTP and/or HTTPS web cookies, which are small text files placed on your computer's hard drive or mobile device’s on board storage and subsequently read as you visit a website, as well as web beacons (also known as pixel tags), which are electronic images embedded into a webpage, and HTML5 storage on the Sites. We may also engage third party vendors to use these technologies on our behalf.
+
+Web cookies and web beacons are commonly used for record keeping, to track your movements when you visit the Sites and to help Simon and our authorized third party advertising and/or analytics vendors determine what type of information to present to you. The use of web cookies and web beacons is an industry standard practice used at most websites and can enhance a user’s experience on a website. Simon’s web cookies and web beacons do not contain PII, and do not damage or alter your system files. Simon’s web cookies and/or third party vendor web cookies are persistent web cookies, which are web cookies that remain within your computer or mobile device over a period of time. Information from a web cookie may be collected and used in aggregate form or, alternatively, data may be collected into an individual profile or record. That individual record may either be unique or anonymous. Simon and/or its third party vendors may use these profiles in a way for them to be linked with information that identifies you as an individual, typically for fraud detection purposes within gift card portions of the Platform. The information gathered from web cookies, web beacons and HTML5 storage may also be used to provide advertisements about goods and services from us or our mall retailers that may be of interest to you.
+
+The first time you visit the Sites via a web browser, Simon assigns you a unique, anonymous ID, which is stored in the cookie file on your computer or mobile device. Although you can choose not to accept cookies through a setting on most browsers (which can also be set to notify you each time a cookie is set), if you choose to refuse cookies, you may not be able to use all of the features of the Sites. In addition to Simon creating and placing a HTTP and/or HTTPS cookie on your computer or mobile device, our third party vendors may also create a place HTTP and/or HTTPS cookies on your computer or mobile device as a result of visiting the Sites. These third party vendors change from time to time, and typically include, but are not limited to, Google, DoubleClick, Quantcast, Marin Software, iGoDigital and MaxMind.
+
+Do Not Track is a voluntary program among Internet advertisers that is intended to give users the ability to opt-out of behavioral targeting and advertising. There are a few ways in which your computer may transmit a “do not track” signal to certain websites and online services you visit. Simon does not honor Do Not Track settings. We may, however, as described above, use the information we collect to present you with content we believe may be of interest to you. If you do not agree with our policy not to honor Do Not Track, your only remedy is to stop using the Sites.
+
+#### Location Information
+
+We will collect location information that you enter when using the Sites (such as your ZIP Code, city, state or latitude/longitude) or that is provided by your Internet service provider (ISP), in order to provide specific services, such as locating a nearby mall. If you use such features in the Apps, we will collect the location information (such as your current latitude/longitude coordinates) that is provided by your mobile device (if you so choose to share your location information with a Simon App). We use Bluetooth (BLE) Beacons and Wi-Fi technologies within our malls that may communicate with your device and identify its location if your device is Bluetooth and/or Wi-Fi enabled and you have these radio(s) on. If you use one of our public Wi-Fi networks to access the Internet, your use will be logged and certain [Wi-Fi specific terms of use](http://www.simon.com/legal/wifi-terms-of-use) will apply to that use.
+
+We may use the location and Wi-Fi information gathered to generate reports, such as foot traffic at our malls, which we may share with retailers and third parties to improve the consumer experience at our malls. We may also use this information to send you news about the mall, such as promotions from mall retailers, and to provide advertisements about goods and services that may be of interest to you.
+
+#### Ad Choices
+
+We employ advertising agencies to engage in advertising on our behalf and on behalf of mall retailers, including contextual advertising and interest-based advertising. Those agencies are instructed to follow industry guidelines with regard to interest-based advertising, such as the Digital Advertising Alliance's principles for online behavioral advertising. Among other things, the ads that are displayed to you should have the AdChoices icon or a similar mechanism which you may click to direct you to a website where you may opt-out of interest-based advertising. If you would like more information about this practice and how to opt-out of receiving communications from these third-party advertising companies, please visit [this link](http://www.networkadvertising.org/choices/). 
+
+Simon also participates in a program administered by Ghostery, Inc. (“Ghostery”) that enables users to see if cookies are placed on the Sites by Simon or third party vendors, and a means to opt-out of data collection through those cookies as permitted by the vendor. You may access Ghostery’s program for the Sites here for [Simon Malls and Simon Mills locations](http://info.evidon.com/pub_info/7866?v=1&nt=0&nw=false) and here for [Simon Premium Outlets locations](http://info.evidon.com/pub_info/7867?v=1&nt=0&nw=false). Simon offers this as a benefit to users and believes the information and program provided by Ghostery is accurate, but Simon does not assume any responsibility or liability for Ghostery’s program. You may learn more about [Ghostery here](https://www.ghostery.com/).
+
+Some mall retailers may employ their own advertising campaigns and adhere to differing practices. You may learn about a specific retailer's practices by reviewing that retailer's privacy policy.
+
+#### Retention of Information
+
+Any information we collect may be retained for an indeterminate period of time.
+
+#### Confidentiality and Security
+
+Simon is committed to protecting the security of the information collected from users of the Platform and has implemented generally accepted standards of technology security in order to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. It is not possible, however, to guarantee the security or integrity of such information, particularly when transmitted through the Internet. Simon may use a third party service provider or providers to process credit card transactions and fulfill online gift card orders, which service provider(s) may share information and credit card numbers with a ticket agent, a credit card processing company, a fraud detection service, an issuing bank, the card network issuer, a shipping/fulfillment company and/or other parties in order to complete an order. Simon does not have control over the information processed by such third parties.
+
+We urge you to take every precaution to protect your PII when you are on the Internet. If a password is used to help protect that information, it is your responsibility to keep your password confidential. If you are sharing a computer with anyone, we suggest you log out before leaving a site or service in order to protect subsequent users from gaining access to your information and decline to have your Internet browser remember your password.
+
+Because no physical or electronic security is impenetrable, by using the Platform or e-mailing information to Simon, you agree to assume all risk in connection with the security and integrity of that information.
+
+####  Links to Other Sites 
+
+The Platform may have links to third party websites. Please be aware that, when you click on such a link, you will leave the Platform and are no longer subject to the terms of this Policy. Simon is not responsible for the privacy practices of other websites or third party service providers, and does not control, or endorse, the third party website or its privacy policy. This Policy also does not extend to anything that is inherent in the operation of the Internet, and therefore beyond Simon’s control, and is not to be applied in any manner contrary to applicable law or governmental regulation.
+
+####  Children's Privacy Statement 
+
+This section explains our practices with respect to the online collection and use of PII from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.
+
+  * The Platform is not directed to children under the age of 13 and we do not knowingly collect PII from children under the age of 13 via the Platform, nor do we knowingly distribute such information to third parties.
+  * We do not knowingly allow children under the age of 13 to publicly post or otherwise distribute PII through the Platform.
+  * In many areas of the Platform, we attempt to screen users who wish to provide PII in order to prevent users under the age of 18 from providing such information, by having them confirm that they are at least 18 years of age or older. If we become aware that we have inadvertently received PII from a user under the age of 18, we will take the appropriate steps to inactivate and/or delete such information from our records.
 
 
-If you opt in, we may share user information with businesses affiliated with Premium Outlets. They may use this information as we would, and you may occasionally receive product and service information from them. We may also use your information to deliver information to you that, in some cases, is targeted to your interests. In the future, we may make our email address list available to carefully screened companies whose products may be of interest to you. If you wish to unsubscribe you may do so by filling out the [unsubscribe form](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/vip/unsubscribe.asp) or by going to the [Contact Us](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and sending an email.  
 
+####  Changes to this Privacy Policy 
 
-In addition, if you opt in, we may share user information with third parties that we believe are reputable in order to offer products and services that may be of interest to you.  
+All versions of the Policy are dated with the effective date of that version of the Policy (i.e., the date on which the applicable version of the Policy was posted to the Platform). Simon’s use of information it learns about you will be governed by the most recent Policy in effect. Your use of the Platform signifies your assent to the most recent Policy in effect.
 
+####  Disclosures to Third Party Providers 
 
-Finally, if you opt in, we may share user information with outside vendors and organizations that provide support services to us or that help us with our marketing programs.  
+Simon may share with its contractors, consultants, vendors, service providers or business partners PII for the purpose of operating the Platform or providing you with a feature or service via the Platform (including providers to process credit card transactions as noted above). For example, Simon may engage third parties to host the Platform or to support certain components of the Platform. Those third parties may have access to PII, but only for purposes of providing a contracted service to Simon. Simon may also engage third parties to fulfill your requests, such as to process your request for a gift card. The third party will be provided PII necessary to fulfill that request.
 
+####  Disclosures Required By Law or to Protect Interests 
 
-At no time will we share credit card or social security numbers in any fashion other than aggregate demographic information, or as required by law.  
+Though we make every effort to preserve user privacy, we may need to disclose information, including, without limitation, PII, as required by law, rule or regulation, and/or to comply with a judicial proceeding, court order, request by a governmental or law enforcement authority or other legal process. We may also disclose such information to avoid liability, or to protect our rights or property or the rights or property of anyone else. This disclosure may include exchanging information with other companies and organizations for fraud protection and credit risk reduction, to report any suspected illegal activity to law enforcement for investigation or prosecution and/or in connection with legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) rights or property of Simon and/or the rights or property of any third party. We reserve the right to release information concerning any user of the Platform when that user is in violation of our [Terms of Use](http://www.simon.com/legal) or other published guidelines or partakes (or is reasonably suspected of partaking) in any illegal activity. 
 
+#### Disclosures for Corporate Activity
 
-Should we intend to use personal information for a purpose other than those listed above, we will announce so in advance to the relevant people, or to the public. We will not use personal information for any purpose other than the purposes mentioned above. 
-
-#### How Do We Protect Your Information?
-
-We use industry standard technology and efforts to safeguard the confidentiality of your personal identifiable information. These include secure servers and firewalls. All of the user data we collect is protected against unauthorized access. Only authorized employees who need the information to perform a specific job are granted access to this information. 
-
-#### What About "Cookies?"
-
-A "cookie" is a piece of data stored on the user's hard drive, containing information about the user. We use cookies on our site, but none of them contain any personally identifiable information. In addition, we may decide to use cookies on certain pages of our site. Cookies can help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session.  
-
-
-Some of our business partners also use cookies on our site, for example, in connection with their advertising. We have no control over these cookies, and we may not have access to the information these advertisers collect. You may choose not to accept cookies by setting your browser to refuse all cookies or to notify you each time a cookie is set. If you choose to refuse cookies, however, you may not be able to use all features of our site. 
-
-#### What About Links to Third-Party Websites?
-
-Our site sometimes provides links to websites that are operated solely by third parties that are not under our control. This Privacy Statement applies to our site only, and is not intended to describe the privacy policies of any third party sites.
-
-#### Your Consent
-
-By using our website, you consent to the collection and use of the information described in this policy.
-
-#### Can Users Update or Change the Information We Collect?
-
-VIP Club Members can update or change their information by logging into [ The VIP Lounge](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/vip/index.asp) and clicking [My Profile](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/vip/member_edit.asp) located at the top of the page. You may also use the [ Contact Us](https://web.archive.org/web/20150905080559id_/http%3A//www.premiumoutlets.com/contact/index.asp) page and make an email request.
-
-#### Accuracy of Sale and Coupon Information
-
-Offers posted on this site are provided for general information only and are subject to change or may be withdrawn without notice. Premium Outlets is not responsible for any typographical errors, last minute changes or substitutions made by its merchants when submitting offers to post on our website. Please see stores for details.
-
-#### Will Our Privacy Policy Change in the Future?
-
-We are always improving and updating our website to further enhance your shopping experience. As a result, our policies will continue to evolve. As we implement new technology and provide new services, we will update our Privacy Policy. We encourage you to refer to this page on an ongoing basis for our most current policy and practices. 
-
-#### Want to Share Your Thoughts on Privacy with Us?
+If Simon sells assets (or the assets of a division or subsidiary) to another entity or if Simon is acquired by or merged with another entity, you agree that, without obtaining your consent, Simon may provide and transfer to such entity information about users of the Platform, including, without limitation, PII, that is related to that part of our business that is sold to or merged with the other entity. However, we will take steps to assure that any PII is used in a manner consistent with the Policy under which it was collected.
