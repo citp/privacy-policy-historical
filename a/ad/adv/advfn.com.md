@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194410id_/http%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231051709id_/http%3A//www.advfn.com/common/legal/privacy) for the most accurate reproduction.*
 
 # Free share alerts by email - price, news and forum
 
