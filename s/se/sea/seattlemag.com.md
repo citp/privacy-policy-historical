@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625053234id_/http%3A//www.seattlemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191228id_/http%3A//seattlemag.com/seattle-magazine-privacy-policy) for the most accurate reproduction.*
 
-# Seattle Magazine | SeattleMag.com Privacy Policy
+# Seattle Magazine Privacy Policy | Seattle Magazine
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -30,7 +30,6 @@ We do not use an SSL certificate
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-  
 **We use cookies to:**
 
        **•**  Keep track of advertisements.
@@ -59,7 +58,7 @@ We have not enabled Google AdSense on our site but we may do so in the future.
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more here. [http://consumercal.org/california-online-privacy-protection-act-caloppa/...](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf "http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf")
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more here. [http://consumercal.org/california-online-privacy-protection-act-caloppa/...](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
 
 **According to CalOPPA we agree to the following:**
 
