@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410113822id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120607id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Rover.com Dog Boarding
 
@@ -44,7 +44,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 As part of the Service, Rover.com Users may communicate with Rover.com Members through use of the "Contact" feature on the site. Where Rover.com Users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Rover.com to those email addresses on their behalf. These email addresses will be used only for the purpose of sending the email communication to the addressee.
 
-Your friend may contact us at [support@rover.com](mailto:support@rover.com) to request that we remove this information from our database, and we will use reasonable efforts to remove the information.
+Your friend may visit our [Help Center](https://support.rover.com/) to request that we remove this information from our database, and we will use reasonable efforts to remove the information.
 
 You can import contacts from your email account address book to invite them to send you a recommendation. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose only. By choosing to import your contacts, you consent to our access of your email address book. Your use of the “Contact” feature (or any other messaging feature) of the Site is subject to the [Terms of Service](https://web.archive.org/tos/). We have the right, but not the obligation, to review, save, edit, decline to transmit, and otherwise use such messages, including their contents, in our sole discretion. YOUR USE OF THE “CONTACT” OR ANY OTHER MESSAGING FEATURE OF THE SITE CONSTITUTES BOTH YOUR ACKNOWLEDGEMENT THAT MESSAGES SENT USING THESE FEATURES ARE NOT PRIVATE, AND YOUR CONSENT FOR US TO REVIEW, SAVE, EDIT, DECLINE TO TRANSMIT, AND OTHERWISE USE THE MESSAGES OR THEIR CONTENTS OR DISCLOSE THEIR CONTENTS TO THIRD PARTIES, IN OUR SOLE DISCRETION. 
 
@@ -82,11 +82,11 @@ Rover.com may sell, transfer or otherwise share some or all of its assets, inclu
 
 ## 14\. Changing or Deleting Your Information
 
-All Members may review, update, or correct the Personal Information in their registration profile by contacting us at [support@rover.com](mailto:support@rover.com) or editing the relevant part of their profile. If you contact us, we will attempt to accommodate your request, including any request to deactivate your record in our system. See below for privacy contact information.
+All Members may review, update, or correct the Personal Information in their registration profile by visiting our [Help Center](https://support.rover.com/) or editing the relevant part of their profile. If you contact us, we will attempt to accommodate your request, including any request to deactivate your record in our system. See below for privacy contact information.
 
 ## 15\. Security
 
-We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@rover.com](mailto:support@rover.com).
+We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can visit our [Help Center](https://support.rover.com/).
 
 We will attempt to make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
@@ -96,7 +96,7 @@ Our Site contains links to other websites. If you choose to visit an advertiser 
 
 ## 17\. Our Policy Toward Children
 
-We do not knowingly collect personally identifiable information from children under 18; nor do we allow such persons to use our Site or Services. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [support@rover.com](mailto:support@rover.com). If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
+We do not knowingly collect personally identifiable information from children under 18; nor do we allow such persons to use our Site or Services. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should visit our [Help Center](https://support.rover.com/). If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
 
 ## 18\. International Visitors
 
@@ -104,4 +104,4 @@ The Service is hosted in and provided from the United States. If you use our Ser
 
 ## 19\. Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [support@rover.com](mailto:support@rover.com).
+If you have any questions about this Privacy Policy, please visit our [Help Center](https://support.rover.com/).
