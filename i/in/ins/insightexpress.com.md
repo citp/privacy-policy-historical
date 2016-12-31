@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506015052id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231235452id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Millward Brown Digital
+# Privacy Policy | Kantar Millward Brown - Media & Digital
 
-**Last updated: March 18, 2015**
+**Last updated: August 23, 2016**
 
 This Web site is provided by Dynamic Logic LLC d/b/a Millward Brown Digital (“Millward Brown Digital”). The purpose of this privacy policy is to set out the principles governing our use of information that we collect from this Web site. 
 
@@ -82,11 +82,6 @@ If you are a registered user, you can access and update your contact information
 If we are going to use your previously collected personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection, you will be notified via email if possible. You will have a choice as to whether or not we use your information in this different manner and instructions for how to make that choice will be included in the notification. We will not use personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection without notifying you.
 
 If we make a material change to this policy, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised.
-
-**Safe Harbor**  
-Dynamic Logic, LLC d/b/a Millward Brown Digital complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland. To view the Millward Brown Digital certification on the Safe Harbor list or to learn more about the Safe Harbor programs principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, please visit <http://www.export.gov/safeharbor>.
-
-If you have questions or concerns regarding our compliance with the U.S. E.U. and U.S. Swiss Safe Harbor framework, you should first contact us at [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com). If you do not receive acknowledgement of your inquiry in 30 days, or your inquiry has not been satisfactorily addressed, you have the option to contact American Arbitration Association (AAA), our third party Safe Harbor dispute resolution provider, register and file a claim at <https://apps.adr.org/webfile/>.
 
 **United States of America**  
 Our web servers are maintained in the United States of America. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this privacy policy. 
