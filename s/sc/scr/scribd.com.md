@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628184717id_/https%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124811id_/https%3A//www.scribd.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy : Support Desk
+# Privacy policy – Scribd Help Center
 
 April 18, 2013
 
@@ -8,7 +8,7 @@ Scribd values the privacy of the users, subscribers, publishers, members, and ot
 
 By using the Scribd Platform, you expressly consent to the information handling practices described in this notice.
 
-This Privacy Notice is incorporated into and is subject to the Scribd Platform Terms of Use. Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the Terms of Use. Terms for “Scribd” and the “Scribd Platform” apply to any site or mobile application owned and operated by Scribd, Inc, including [Scribd.com](http://scribd.com/), [Float.com](http://float.com/), and the Float mobile application.
+This Privacy Notice is incorporated into and is subject to the Scribd Platform Terms of Use. Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the Terms of Use. Terms for “Scribd” and the “Scribd Platform” apply to any site or mobile application owned and operated by Scribd, Inc, including [Scribd.com](http://scribd.com/) and the Scribd mobile application.
 
   1. The Information Scribd Collects
   2. The Way Scribd Uses Information
@@ -36,7 +36,7 @@ This Privacy Notice is incorporated into and is subject to the Scribd Platform T
 
   * Scribd uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Scribd Platform as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
   * Scribd may also use the information that you provide or that we collect to serve you with advertisements.
-  * We will use your email address, without further consent, for administrative communications such as notifying you of major Scribd Platform updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Scribd Platform.
+  * We will use your email address, without further consent, for administrative communications such as notifying you of major updates, for customer service purposes, to address copyright infringement or policy issues, or to contact you regarding any content that you have posted to, read on, or downloaded from Scribd. You also consent to receive other communications from Scribd, such as newsletters about new releases, special offers, promotional announcements, and customer surveys via email or other methods. If you no longer wish to receive certain non-transactional communications, you may opt-out via the “[Account Settings > Preferences](https://www.scribd.com/account-settings/preferences)” panel after you have logged into the Scribd website. 
   * Scribd uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Scribd Platform works and looks, and to create new features and functionality.
   * Scribd may use “Automatically Collected” information and “Cookies” information to: (a) automatically update the Scribd application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Scribd Platform; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; (d) provide such metrics to Users as they pertain to such User’s uploaded content; and (e) track your entries, submissions, and status in any promotions or other activities.
 
@@ -64,9 +64,9 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 ## 5.  Third-Party Advertisers
 
-Scribd adheres to the Digital Advertising Alliance’s  _Self-Regulatory Principles for Online Behavioral Advertising_ , available at [http://www.aboutads.info](http://www.aboutads.info/).  Our advertising partners, such as RapLeaf, Bizo and BlueKai, may use technology to provide the advertisements that appear on the Scribd Platform and to use data collected through the Scribd Platform, as [described above](http://support.scribd.com/entries/25580-Privacy-policy#disclose) and in this section, to better target ads shown on Scribd and other websites. For a list of many of the advertisers that may work with Scribd please visit <http://www.aboutads.info/participating>.
+Scribd adheres to the Digital Advertising Alliance’s  _Self-Regulatory Principles for Online Behavioral Advertising_ , available at [http://www.aboutads.info](http://www.aboutads.info/).  Our advertising partners, such as RapLeaf, Bizo and BlueKai, may use technology to provide the advertisements that appear on the Scribd Platform and to use data collected through the Scribd Platform, as [described above](https://web.archive.org/entries/25580-Privacy-policy#disclose) and in this section, to better target ads shown on Scribd and other websites. For a list of many of the advertisers that may work with Scribd please visit <http://www.aboutads.info/participating>.
 
-Our advertising partners may also use cookies or pixel tags to enable the serving of customized advertisements and content to you both on Scribd and on other websites and services based on your visits to, and use of Scribd, as well as based on your visits to third-party sites and services on the Internet.   These cookies or pixel tags may contain non-personally identifiable demographic or other data.  You may opt-out of receiving interest-based advertising from many of our advertising partners by visiting <http://www.aboutads.info/choices/> or <http://www.networkadvertising.org/managing/opt_out.asp>
+Our advertising partners may also use cookies or pixel tags to enable the serving of customized advertisements and content to you both on Scribd and on other websites and services based on your visits to, and use of Scribd, as well as based on your visits to third-party sites and services on the Internet.   These cookies or pixel tags may contain non-personally identifiable demographic or other data.  You may opt-out of receiving interest-based advertising from many of our advertising partners by visiting <http://www.aboutads.info/choices/> or http://www.networkadvertising.org/managing/opt_out.asp
 
 **6\. OUR COMMITMENT TO DATA SECURITY**
 
