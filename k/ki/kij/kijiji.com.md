@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621000410id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125330id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
@@ -6,10 +6,15 @@
 
 **Privacy Policy for Kijiji Canada**
 
-**Updated: March 4th, 2016**
-
-Table of contents  
  
+
+**Updated: October 12th, 2016**
+
+Kijiji’s website is a licensee of the TRUSTe Web Privacy Program.  In order to view our relationship with TRUSTe, please visit the validation page by clicking on the TRUSTe seal below. 
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d "TRUSTe Privacy Certification")
+
+Table of contents 
 
   1. General
   2. What personal information do we collect
@@ -29,7 +34,7 @@ This privacy policy describes the policy of Kijiji Canada regarding the collecti
 
 **Scope and consent:** By using Kijiji and related Services, you give explicit consent to Kijiji for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use. 
 
-Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of March, 2016. 
+Kijiji may change this Privacy Policy from time to time. We advise you to read it regularly. Substantial changes to our Privacy Policy will be announced on our Website. The amended Privacy Policy will be effective immediately after it is first posted on our Website. This Privacy Policy is effective as of October 12th, 2016. 
 
 Kijiji is part of eBay Inc. and is therefore bound to the global privacy standards of eBay Inc. (Binding Corporate Rules). More information on how we handle your personal information and privacy can be found in the eBay Binding Corporate Rules that you can access through the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
 
@@ -134,3 +139,5 @@ It is not allowed to use our member-to-member communication resources to send sp
 **Third Parties:** Unless explicitly provided otherwise in this Privacy Policy, this Privacy Policy applies only to the use and transfer of information we collect from you. Kijiji has no control over the privacy policies of third parties that may apply to you. When we work with third parties or use third party tools to provide certain services, we will explicitly indicate which privacy policy applies to you. We therefore encourage you to ask questions before you disclose your personal information to others. 
 
 **Contact:** If you have any questions about Kijiji and our Website please contact us by [clicking here](https://web.archive.org/helpdesk/email-us/). For more information about eBay Inc. and how eBay handles personal information and privacy, you can contact the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
+
+If Customer Support cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process at <https://feedback-form.truste.com/watchdog/request>. 
