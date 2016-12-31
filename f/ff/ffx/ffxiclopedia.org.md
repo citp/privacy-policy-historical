@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the ffxiclopedia.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624221632id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiclopedia.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231114506id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wikia
+# Privacy Policy | Fandom powered by Wikia
 
-Date of Last Revision: June, 2016 
+## Ad blocker interference detected!
 
-This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
+  
+
+
+### Wikia is a free-to-use site that makes money from advertising. We have a modified experience for viewers using ad blockers 
+
+Wikia is not accessible if you’ve made further modifications. Remove the custom ad blocker rule(s) and the page will load as expected. 
+
+Date of Last Revision: October, 2016 
+
+This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia and Fandom, powered by Wikia (collectively, the “Service” or “Site”), operated by Wikia, Inc. (the "Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
 
 ##  The Information We Collect, And What We Do With It 
 
