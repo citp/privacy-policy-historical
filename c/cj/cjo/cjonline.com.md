@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629194055id_/http%3A//cjonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjonline.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231085317id_/http%3A//cjonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CJOnline.com
+# Privacy Policy
 
 The Topeka Capital-Journal is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. We intend to give you as much control as possible over your personal information. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Our site(s) may contain links to other Web sites, including Web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Web site sponsor when linking to other Web sites. CJOnline strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number and other information) subject to the terms of this privacy policy. Please note this policy applies only to information collected by The Topeka Capital-Journal online and does not impact information collected or used by The Topeka Capital-Journal or its affiliates through other means.
 
@@ -36,7 +36,7 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 ##### Children
 
-The Topeka Capital-Journal does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe CJOnline has any information from or about anyone under the age of 13, please contact us at webmaster@cjonline.com.
+The Topeka Capital-Journal does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe CJOnline has any information from or about anyone under the age of 13, please contact us at [webmaster@cjonline.com](mailto:webmaster@cjonline.com).
 
 ##### Compliance with legal process
 
@@ -48,4 +48,4 @@ For any questions or comments, you may contact us:
 The Topeka Capital-Journal  
 616 S.E. Jefferson Street  
 (785) 295-1178  
-webmaster@cjonline.com
+[webmaster@cjonline.com](mailto:webmaster@cjonline.com)
