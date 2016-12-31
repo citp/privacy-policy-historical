@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestashop.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614224415id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestashop.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124954id_/https%3A//www.prestashop.com/en/privacy-policy) for the most accurate reproduction.*
 
 # PrestaShop - Build an online store with PrestaShop - Free Open-source E-commerce Software
 
