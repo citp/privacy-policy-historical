@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iheartintelligence.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630185100id_/http%3A//privacypolicies.com/privacy/view/jpMSnq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartintelligence.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231173325id_/http%3A//privacypolicies.com/privacy/view/jpMSnq) for the most accurate reproduction.*
 
 # Privacy policy for http://iheartintelligence.com/
 
