@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620111804id_/http%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicjacksupport.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231061602id_/http%3A//www.magicjack.com/privacy.html) for the most accurate reproduction.*
 
 # magicJack Privacy Policy
 
