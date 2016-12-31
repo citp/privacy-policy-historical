@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608110428id_/http%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231085227id_/http%3A//www.dowjones.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dow JonesDow Jones
+# Privacy Policy - Dow Jones
 
 **THE DOW JONES PRIVACY POLICY**
 
