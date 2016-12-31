@@ -1,36 +1,14 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616054655id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222444id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Rolling Stone
+# Privacy Policy - Rolling Stone
 
-Effective Date: February 20, 2015
+#### Effective Date February 20, 2015
 
-To learn more on what types of information we collect, click here
+## Introduction
 
-To understand how location tracking is used when you access RS Applications through a mobile device, click here
+The website rollingstone.com is owned and operated by Rolling Stone LLC and its affiliates (collectively, “we,” “our” or “us”). This privacy policy (“Privacy Policy”) explains our information collection practices at rollingstone.com, other websites owned by us and our other interactive properties, including but not limited to our mobile websites and applications (each, an “RS Application”) and through offline means. It explains the types of information we collect regarding users of the RS Application and subscribers to our magazine and how we may use that information so you can make an informed decision about whether to view the content and/or use our services ("Services"). Thus this Privacy Policy applies to information we collect via (1) the RS Application (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) email or electronic newsletters; (3) offline means such as telephone and traditional mail; and (4) any other means or applications in which you connect with us.
 
-To learn how we use and share information collected, click here
-
-To opt out of email newsletters, click here
-
-To opt-out of email promotions, click here
-
-To opt-out of direct mail promotions, click here
-
-To understand how we use third party analytic tracking technologies (e.g., cookies) and how you can opt out, click here
-
-To learn how we respond to browser Do Not Track signals, click here
-
-Your California Privacy Rights: Note to California Users, click here
-
-To learn how to contact us about your magazine subscription or change your subscription information, click here
-
-To learn how to contact Rolling Stone regarding this Privacy Policy, click here
-
-## _Introduction_
-
-The website rollingstone.com is owned and operated by Rolling Stone LLC and its affiliates (collectively, “ **we,** ” “ **our** ” or “ **us** ”). This privacy policy (“ **Privacy Policy** ”) explains our information collection practices at rollingstone.com, other websites owned by us and our other interactive properties, including but not limited to our mobile websites and applications (each, an “ **RS Application** ”) and through offline means. It explains the types of information we collect regarding users of the RS Application and subscribers to our magazine and how we may use that information so you can make an informed decision about whether to view the content and/or use our services (" **Services** "). Thus this Privacy Policy applies to information we collect via (1) the RS Application (however accessed and/or used, whether via personal computers, mobile devices or otherwise); (2) email or electronic newsletters; (3) offline means such as telephone and traditional mail; and (4) any other means or applications in which you connect with us.
-
-This Privacy Policy is incorporated into and subject to the RS Application's [Terms of Use](https://web.archive.org/services/terms). Each time that you access or use the RS Application you signify that you have read, understand, and agree to be bound by the [Terms of Use](https://web.archive.org/services/terms), and this Privacy Policy. If you do not agree to the [Terms of Use](https://web.archive.org/services/terms) and this Privacy Policy, you must discontinue using our Services.
+This Privacy Policy is incorporated into and subject to the RS Application's Terms of Use. Each time that you access or use the RS Application you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
 ## 1\. Information That Is Collected 
 
@@ -136,31 +114,33 @@ We may access, use, preserve, transfer and disclose your information (including 
 
 We may share your information, including your Personal Information and Usage Information with our parent, subsidiaries and affiliates for internal business purposes. In addition, in the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, Personal Information may be one of the assets sold or merged in connection with that transaction. Information about our visitors and registered users may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, use of such information will be subject to the rights and obligations as described in this Privacy Policy.
 
-## **3\. Information You Disclose Publicly**
+## 3\. Information You Disclose Publicly
 
 The RS Application may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information (collectively, “User Content”). We or others may reproduce, publish, distribute or otherwise use User Content in any media or format (currently existing or hereafter developed). Others may have access to this User Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the RS Application. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the RS Application. For the full terms and conditions regarding User Content you submit to the RS Application, please review our [Terms of Use](https://web.archive.org/services/terms).
 
-## **4\. Third Party Content and Links To Third Party Sites**
+## 4\. Third Party Content and Links To Third Party Sites
 
 The RS Application may contain content that is supplied by a third party, and those third parties may collect RS Application usage information and your Device Identifier when web pages from the RS Application are served to your browser. In addition, when you are on the RS Application you may be directed to other web sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third parties or third party web sites. For example, if you “click” on a banner advertisement, the “click” may take you off the RS Application onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to note when you leave our RS Application and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.
 
-## **5\. Consent to Transfer Information To The United States**
+## 5\. Consent to Transfer Information To The United States
 
 The RS Application is operated in the United States and is intended for users located in the United States. If you are located anywhere outside of the United States, please be aware that information we collect, including Personal Information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to the laws of the United States. By using the RS Application or providing us with any information, you consent to the transfer, processing and storage of your information in the United States. You are also consenting to the application of United States federal and New York state law in all matters concerning the RS Application and this Privacy Policy.
 
-## **6\. Children's Privacy**
+## 6\. Children's Privacy
 
 The RS Application is for general audiences and is not intended for use by children. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13), and we will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13). If you believe a child under the age of thirteen (13) has disclosed Personal Information to us, please write to us at the street address provided in the “Contact Us” section set forth at the end of this Privacy Policy.
 
-## **7\. Security**
+## 7\. Security
 
 We have incorporated safeguards to help prevent the loss, misuse and alteration of information under our control. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet. Please note that we cannot ensure the security of any information you transmit to us, and your use of the RS Application indicates that you are willing to assume this risk.
 
-## **8\. Changes to the Privacy Policy**
+## 8\. Changes to the Privacy Policy
 
 We reserve the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy.
 
-## **9\. Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)**
+##  **9\. Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)**
+
+ **
 
 California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
@@ -170,11 +150,11 @@ California’s "Shine the Light" law, Civil Code section 1798.83, requires certa
 
 California customers may request further information about our approach to this law by writing to us at the address provided in the “Contact Us” section located at the end of this document.
 
-## **10\. Disputes; No Rights of Third Parties.**
+## 10\. Disputes; No Rights of Third Parties.
 
 If you choose to access the RS Application, subscribe to our magazine or use any of our Services, any dispute over privacy is subject to our Terms of Use, including limitations on damages, resolution of disputes, and application of the laws of the United States, and the State of New York. This Privacy Policy does not create rights enforceable by third parties.
 
-## **11\. How Do I Contact You about My Magazine Subscription? How do I Change My Subscription Information?**
+## 11\. How Do I Contact You about My Magazine Subscription? How do I Change My Subscription Information?
 
 If you have a question or issue relating to your Rolling Stone magazine subscription, such as wanting to change your mailing address, cancel a subscription or report a missing issue, please click [here](https://secure.customersvc.com/wes/servlet/Show?WESPAGE=am/Services/wes_email.jsp&MSRSMAG=RS) to go to the RS Application’s customer service page.
 
@@ -183,4 +163,4 @@ If you have any questions or concerns about any aspect of this policy, please co
 Privacy Coordinator  
 Rolling Stone  
 1290 Avenue of the Americas  
-New York, NY 10104
+New York, NY 10104 **
