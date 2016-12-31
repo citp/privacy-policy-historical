@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626035459id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231193329id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
@@ -65,9 +65,9 @@ We encourage you to contact us with any questions or concerns you have about you
 Globe and Mail Privacy Officer  
 Executive Office  
 The Globe and Mail  
-444 Front St. West  
+351 King St. East, Suite 1600  
 Toronto, ON  
-M5V 2S9 
+M5A 0N1 
 
 ### What is not covered by this policy:
 
@@ -178,10 +178,10 @@ Most browsers are initially set up to accept cookies, but offer a number of ways
 
 For step-by-step instructions on how to modify cookie preferences, please consult your browser’s support documentation. You can find instructions for commonly used browsers here:
 
-  * [Internet Explorer](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
+  * [Internet Explorer](https://windows.microsoft.com/en-ca/windows-vista/block-or-allow-cookies)
   * [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
-  * [Safari](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/support.apple.com/kb/ph5042)
-  * [Firefox](https://web.archive.org/web/20160626035459id_/http://www.theglobeandmail.com/help/privacy-policy/support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Safari](https://support.apple.com/kb/ph5042)
+  * [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
 
 
 
