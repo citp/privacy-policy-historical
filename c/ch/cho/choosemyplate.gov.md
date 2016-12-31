@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choosemyplate.gov privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223012535id_/http%3A//www.usda.gov/wps/portal/usda/usdahome%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choosemyplate.gov privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231135042id_/http%3A//www.usda.gov/wps/portal/usda/usdahome%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
@@ -40,7 +40,7 @@ We do not track your web activities beyond your browsing the USDA website. We do
   
 | 
 
-[COPPA](http://www.coppa.org/comply.htm "External link or third-party site, opens in new window.") applies to the online collection of personal information from children under age 13. USDA complies with COPPA and does not knowingly collect personal information about children.   
+[COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule "Opens in new window.") applies to the online collection of personal information from children under age 13. USDA complies with COPPA and does not knowingly collect personal information about children.   
   
 | Cookies  
   
