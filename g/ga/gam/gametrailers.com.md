@@ -1,334 +1,199 @@
-> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026044547id_/http%3A//www.gametrailers.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametrailers.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231200400id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GameTrailers
+# Privacy Policy – Privacy & Terms – Google
 
-Last Modified: August 14, 2014
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-**  
-PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
+Our Privacy Policy explains: 
 
-This is the privacy policy (" _Privacy Policy_ ") for GameTrailers.com (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website owned and operated by Defy Media, LLC (" _Defy_ " and, together with the Site, " _Gametrailers_ ").
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-This Privacy Policy is intended to explain our privacy practices and covers the following areas:
 
-1.   When This Privacy Policy Applies.
 
-2.   United States of America Governing Law.
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-3.   Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
+## Information we collect
 
-4.   Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
 
-5.   Wireless Marketing Services and Associated Promotional Opportunities.
+We collect information in the following ways: 
 
-6.   Sharing and Disclosure of Personal Information and Other Information.
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
 
-7.   Reviewing, Updating or Deleting Certain Information.
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
 
-8.   Protection of Information.
+    * **[Device information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
 
-9.   Your California Privacy Rights.
+We collect [device-specific information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
 
-10.   Changes to this Privacy Policy and Notice.
+    * **Log information**
 
-11.   Miscellaneous.
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
 
-**1\. When This Privacy Policy Applies.**
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-This Privacy Policy applies whether you: (i) are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a " _Device_ "); and/or (ii) you are accessing the Site as a registered user (if offered by the Site) or other user of the Site. **THIS PRIVACY POLICY GOVERNS ONLY THE PERSONAL INFORMATION AND OTHER INFORMATION (AS THOSE TERMS ARE DEFINED BELOW) COLLECTED BY THE SITE AND DOES NOT COVER ANY SUCH INFORMATION COLLECTED IN ANY OTHER MANNER (SUCH AS BY DEFY MEDIA, LLC NOT THROUGH THE SITE) OR BY ANY OTHER WEBSITE OFFERED BY DEFY AND/OR ANY SUBSIDIARIES AND AFFILIATES OF DEFY (COLLECTIVELY, " _AFFILIATES_ ") OR COLLECTED BY ANY OTHER COMPANY, UNLESS SPECIFICALLY STATED.** We may from time to time, combine Information (as that term is defined below) with other information we collect from other sources, such as information received from Defy, Affiliates, marketing companies or Advertisers and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
 
-This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
+    * **Unique application numbers**
 
-**2\. United States of America Governing Law.**
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-The Site is designed and targeted to United States of America audiences and is governed by and operated in accordance with the laws of the United States of America We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our **_Terms of Use Agreement_**. If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+    * **Local storage**
 
-If you are located outside of the United States of America, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. **Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the United States of America and/or transferred to the United States of America and subject to United States of America law.** By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the United States of America, (ii) acknowledge that United States of America law may provide a lower standard of protection for personal data than the laws of your location (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML)) and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and United States of America law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-**3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
+    * **Cookies and similar technologies**
 
-When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "Other Information", we mean any information other than Personal Information that may be collected about you **(Personal Information and Other Information, together, the " _Information_ "). **
+We [and our partners](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
 
-**a.   Information We Collect that You Provide Us.**
 
-  * **User Registration.** To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your "User ID") and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested during the registration process (but not required).
 
-  * **In Connection with Certain Features and Functions.** We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration. Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the **Terms of Use Agreement** ), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number if collected will be via a secure transmission.
 
-  * **In Connection with Promotions such as Contests and Sweepstakes.** There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion, but submission of such Information may be optional. The Promotion's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (" _Advertisers_ ") as a result of your use of the Site in connection with many of these types of Promotions.
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
 
+## How we use information we collect
 
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-**b.   Information Collected Through Use of Cookies and Other Tracking Technologies.**
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. "Web beacons" (also known as image tags, gif or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. The Site and/or third parties may use "cookies", "web beacons" and other similar tracking technologies (collectively, "Tracking Technologies") to collect Other Information automatically as you browse the Site and the web.
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-We use Tracking Technologies to help tailor our content, allow users to move between associated sites without logging into each site, understand Site and internet usage, improve or customize the content, offerings or advertisements on this Site, personalize your experience on this Site (for example, to recognize you by name when you return to the Site), understand your interactions with email messages (such as the links clicked on and whether the messages were opened or forwarded), save your password in password-protected areas, save your online game or video player settings, enable you to use shopping carts on the Site, help us offer you products, programs or services that may be of interest to you, deliver relevant advertising, maintain and administer the Site and for other purposes described in the "Use of Information", "Other Information Collected by Us" section below. These Tracking Technologies collect "click stream" data and additional Other Information regarding your visits to the Site (such as your visits to the Site's webpages, use of our features and purchasing history or preferences), may collect such Other Information across multiple sessions on this Site and other websites offered by Defy and/or Affiliates and may also collect your IP address or some other identifier unique to the Device you use to access the Site ("Identifier"). An Identifier is automatically assigned to any Device you use to access the Site. Your Personal Information is not collected as part of this process but we may associate Other Information collected by Tracking Technologies with Personal Information.
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies and that we may use Tracking Technologies in the emails we send to you.
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, " _Third Party Advertising Service Providers_ ") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site (" _Targeting Services_ "). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
 
-The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-**b.   Use of Information.**
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-As set forth in this Privacy Policy, we may share Information with Defy and Affiliates
+## Transparency and choice
 
-  1. **_Personal Information_** We, and/or Defy and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
 
 
-  * Sending marketing and promotional e-mails or, subject to the " ** _Wireless Marketing Services and Associated Promotional Opportunities_** " Section below, text messages offering the purchase of goods and/or services that may be of interest to users, whether those goods and/or services are provided by the Site, Defy, Affiliates or third parties (for example, we may send you an email about a product sold by a third party);
 
-  * Processing your registration with the Site, such as verifying that your e-mail address is active and valid;
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
 
-  * Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, any goods and/or services or Products you have ordered or any other transactions you have undertaken with the Site;
+## Information you share
 
-  * Allowing you to participate in the public areas and/or other features of the Site;
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
 
-  * Responding to your questions or other requests;
+## Accessing and updating your personal information
 
-  * Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site's policies;
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
 
-  * Improving the Site or our services and for internal business purposes;
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
 
-  * Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-  * Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;
+## Information we share
 
-  * Otherwise to maintain and administer the Site and
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
 
-  * For other purposes disclosed at the time you provide the Personal Information.
+  * **With your consent**
 
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
 
+  * **With domain administrators**
 
-  2. **Other Information Collected by Us**. We, and/or Defy and Affiliates, use the Other Information we collect from you in a variety of ways, including:
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
 
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
 
+Please refer to your domain administrator’s privacy policy for more information. 
 
-  * Keeping count of your return visits to the Site or Defy's, Affiliates', Advertisers' or partners' sites;
+  * **For external processing**
 
-  * Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
+We provide personal information to our [affiliates](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
 
-  * Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and improve our services and the Site and display advertising and marketing information;
+  * **For legal reasons**
 
-  * Preparing statistics reports;
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-  * Allowing you to participate in the public areas and/or other features of the Site;
+    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-  * Improving the Site or our services and for internal business purposes;
 
-  * Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;
 
-  * Saving certain Other Information for use on your return visits to the Site;
+[non-personally identifiable information](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
 
-  * Otherwise to maintain and administer the Site
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
-  * For the uses described for "Personal Information" above and
+## Information security
 
-  * For other purposes disclosed at the time you provide the Other Information.
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
 
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 
-  3. **Other Information Collected by Third Party Advertising Service Providers and Advertisers**. The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy.
 
+## When this Privacy Policy applies
 
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
 
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
 
-However: (i) please see " ** _Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_** )" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers; and (ii) please visit **_Online Tracking and Advertising_** for further information regarding the collection and usage of your personal information, including how to disable cookies.
+## Compliance and cooperation with regulatory authorities
 
-**4.  ** **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/frameworks/), including the EU-US Privacy Shield Framework. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
 
-**a.  ** **Opting-Out of Certain Uses of Personal Information.**
+## Changes
 
-  * **In Connection with Marketing and Promotional E-mail and Offers.**. You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the Site's preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, Defy, Affiliates and/or third parties. You may also use the opt-out mechanism that is contained in each such email. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an email, you are not opting out of receiving marketing and promotional e-mails from other Defy brands. Please see Section 4.a.ii below for your newsletter options.
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
-  * **In connection with Newsletters and other Editorial-based E-mails**. To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may click on the newsletter link provided in the footer of our website to select which newsletters you receive OR, follow the unsubscribe link in the applicable newsletter, or unsubscribe through [privacy@gametrailers.com](mailto:privacy@gametrailers.com). Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing and promotional e-mail options.
+## Specific product practices
 
-  * **In Connection with Wireless Marketing Services**. See " **Termination of Wireless Services by Users** " under the "Wireless Marketing Services and Associated Promotional Opportunities" Section for more information on how you may unsubscribe from receiving text messages.
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
 
-  * **Certain Continuing Rights Regardless of Opt-Outs**. However, even if you exercise your opt-out rights above, we, or Defy or Affiliates, may continue to contact you for the other purposes described in the " **Use of Information** " Section above, such as for maintenance and administrative purposes.
+  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
+  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
+  * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [Google Apps for Education](https://www.google.com/work/apps/terms/education_privacy.html)
 
 
 
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/product-privacy/). 
 
-**b.  ** **Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/), including: 
 
-  1. **Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
+  * Information about our [technologies and principles](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20161231200400id_/https://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
 
 
-
-  * Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.
-
-  * You can opt-out of the use of Other Information for these advertising purposes by DoubleClick/Google, by using such Third Party Advertising Service Provider’s opt-out tools. You can access DoubleClick's tool at [**http://www.google.com/intl/en/privacy/ads/**](http://www.google.com/intl/en/privacy/ads/) or as described in the next bullet point.
-
-  * We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site. Some of these Third Party Advertising Service Providers and Advertisers may participate in the [**Network Advertising Initiative's Opt-Out Tool**](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [**Self-Regulatory Program for Online Behavioral Advertising**](http://www.aboutads.info/choices/). Please click on the links to these tools to learn more about your choices.
-
-  * Please note the following with respect to opting out:
-
-    * **_The opt-out tools discussed above are "cookie based."_** This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices. If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.
-
-    * **_Opt-outs are "browser-specific."_** The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences. This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device. It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.
-
-    * You also can prevent the use of certain Tracking Technologies (other than Flash cookies) on a particular Device by using the controls in your Web browser. To do so, you must:
-
-      * _Delete existing_ Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; _and_
-
-      * _Disable future Tracking Technologies_ through the same browser controls. Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature. 
-
-  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature.
-
-  * Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads. Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site.
-
-  * **PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER. PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES.**
-
-
-
-  2. **Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options:
-
-
-
-  * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must:
-
-    * _Delete existing Tracking Technologies_ through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; _and_
-
-    * _Disable future Tracking Technologies_ through the same browser controls. Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.)
-
-  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature.
-
-
-
-
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
-
-  3. **Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [**http://kb2.adobe.com/cps/526/52697ee8.html**](http://kb2.adobe.com/cps/526/52697ee8.html).
-
-  4. **Do-Not-Track Signals and Similar Mechanisms.** Some web browsers may transmit "do-not-track" signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.
-
-
-
-
-We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii). 
-
-**5.  ** **Wireless Marketing Services and Associated Promotional Opportunities.**
-
-GameTrailers may provide users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from GameTrailers, either by registering on the Site or via their wireless device. Such services and promotional opportunities are provided by Defy and/or Affiliates for GameTrailers. The Information requested as part of the online registration process may include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Additional Information may be requested for specific Promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement.
-
-We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party's interception of messages or a user's Personal Information when using a wireless communications device.
-
-Users that register for GameTrailers' wireless marketing services acknowledge, understand and agree that they will be charged by the user's wireless carrier for all messages sent to the user from GameTrailers. Standard messaging rates will apply, unless noted otherwise. **Under no circumstances will the Site, Defy or Affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user's wireless device, telephone number, or email address.**
-
-  * **Registration.** To the extent we provide wireless marketing services, there are two registration methods provided for GameTrailers' wireless marketing services. Standard rate Promotions will be subject to either the "single opt-in" or the "double-opt-in" (Site/SMS) method, at the discretion of GameTrailers depending on the type of Promotion. Premium rate services will require the "double opt-in" (Site/SMS or SMS/SMS) method.
-
-    * **Single Opt-in Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to GameTrailers will mean that the user has freely and affirmatively granted permission to GameTrailers to send text messages to him or her. GameTrailers will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from GameTrailers or by sending a text message to GameTrailers that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". 
-
-    * **Double Opt-in (Site/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to GameTrailers' sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by GameTrailers) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and **_Terms of Use Agreement_** before the online registration process is completed. GameTrailers will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from GameTrailers to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of GameTrailers' wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time _provided that_ GameTrailers may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while GameTrailers continues to offer the specific wireless marketing service.
-
-    * **Double Opt-in (SMS/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. GameTrailers will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from GameTrailers to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of GameTrailers' wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that GameTrailers may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while GameTrailers continues to offer the specific wireless marketing service.
-
-  * **Termination of Wireless Services by User.** Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from GameTrailers by the following procedure:
-
-A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by GameTrailers at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". GameTrailers will terminate the user's registration for the most recent wireless service sent to the user. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with GameTrailers. If the user unsubscribes from one or all of GameTrailers service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user's previous opt-in.
-
-  * **Termination of Wireless Services by GameTrailers.** A user understands, acknowledges and agrees that GameTrailers may, in its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. GameTrailers may provide notice of terminations or changes in services on this Site.
-
-  * **Use of Information.** GameTrailers will not use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with Defy and Affiliates.
-
-
-
-
-**6.  ** **Sharing and Disclosure of Personal Information and Other Information.**
-
-  * **Sharing and Disclosure of Personal Information.**
-
-Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.
-
-    * **Disclosure to Defy and Affiliates**. We may disclose Personal Information to Defy and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in the " **Opting-Out of Certain Uses of Personal Information** " Section above.
-
-    * **Disclosure of Certain Information in Postings Intended to Be Disclosed**. Certain Personal Information associated with a Posting may be intended for disclosure (" _Posting Information_ "), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
-
-    * **Disclosure In Connection with Co-Branded Services and Features**. The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or Defy or Affiliates (" _Co-Branded Partner_ ") and that may be hosted on the Site and/or our Co-Branded Partner's website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect the Information provided in connection with the specific co-branded feature or service and to use such Information for the fulfillment of the feature or service and for marketing or administrative purposes. The Co-Branded Partner will be identified on the co-branded feature or service, along with the Co-Branded partner's privacy policy. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner's privacy policy. 
-
-    * **Disclosure to Operational Service Providers**. We also have the right to disclose your Personal Information and Other Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as " _operational service providers_ ". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to operational service providers for the purpose of providing services to us. 
-
-    * **Disclosure to Certain Other Third Parties.** In addition to the above, we will make your Personal Information and Other Information available to certain third parties in the following limited circumstances:
-
-      * When we are compelled to do so by a governmental agency, court or other entity ( _e.g._ , to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
-
-      * If we believe your actions violate any law, rule, regulation and/or the **_Terms of Use Agreement_** , including, without limitation, this Privacy Policy, Rules or Additional Terms;
-
-      * In connection with Promotions, as necessary to administer the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners' lists or make required filings as appropriate);
-
-      * If you opt-in or otherwise agree to have your Personal Information shared with or otherwise disclosed to a third party for marketing purposes, in which case the third party's use of your Information is subject to the third party's own privacy policy;
-
-      * If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, Defy Media, LLC, Defy, the Affiliates, or any of its or their operational service providers, licensors, suppliers, Advertisers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the Terms of Use Agreement and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities and/or
-
-      * In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination involving us, or Defy or Affiliates.
-
-  * **Sharing and Disclosure of Other Information.** We may share or otherwise disclose Other Information with third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.
-
-
-
-
-**7.  ** **Reviewing, Updating or Deleting Certain Information.**
-
-Generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site and logged into the Site, by clicking "Profile" or your display name at the top of the Site and then selecting "Edit Profile." However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.
-
-You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site, selecting "Edit Profile" or "Manage Account" and selecting the "Privacy" tab.
-
-Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request. 
-
-If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries
-
-**_Children or Ineligible Teenagers._** If we, or Defy or Affiliates, inadvertently send an email or text message to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of certain features of this Site (" _Ineligible Teenagers_ "), the child (or Ineligible Teenager) or the child's (or Ineligible Teenager's) parent or legal guardian (the " _Parent_ ") always has the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 (or the age of majority in your state). 
-
-In addition, Parents of children or Ineligible Teenagers who wish to terminate their child's or Ineligible Teenager's membership must use their child's or Ineligible Teenager's User ID to gain direct access to the account, and follow the procedures in the "Deactivation/Termination of Your Registration or Use" Section of the **_Terms of Use Agreement_** to terminate their child's or Ineligible Teenager's member; alternatively, Parents may send an email to the Site's Privacy Administrator and provide us with your child's or Ineligible Teenager's User ID and request to terminate your child's or Ineligible Teenager's account and registration. We will not allow direct access to a user's account and Personal Information by any person without the user's User ID. If a Parent does not have his or her child's or Ineligible Teenager's User ID, the Parent will be required to send an email to the Privacy Administrator that includes the Parent's name, address, telephone and email address, in addition to the child's or Ineligible Teenager's name and email address as registered on the Site, plus the child's or Ineligible Teenager's date of birth. The Parent must also provide verifiable identification that they are the parent or legal guardian of the child or Ineligible Teenager. GameTrailers will send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child's or Ineligible Teenager's account and registration. The Parent must then confirm by sending a reply email to the designated return address. GameTrailers will then terminate the child's or Ineligible Teenager's account but will notify the child or Ineligible Teenager of the termination request via email and will identify the name, address and email address of the person making the request.
-
-**8.  ** **Protection of Information.**
-
-While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information. However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the Site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow similar standards of security and confidentiality.
-
-**_Phishing_**. Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers. **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!** If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at [**privacy@gametrailers.com**](mailto:privacy@gametrailers.com), and then immediately delete the fraudulent email from your computer. 
-
-**9.  ** **Your California Privacy Rights.**
-
-If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
-
-If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at [**privacy@gametrailers.com**](mailto:privacy@gametrailers.com) or by postal mail to: 
-
-Defy Media, LLC   
-498 7th Avenue, 19th Floor  
-New York, NY 10018   
-Attn: California Privacy
-
-**All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card.** For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
-
-**10.  ** **Changes to this Privacy Policy and Notice.**
-
-We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting. Notice of material changes will be posted on the Site's homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.
-
-**11.  ** **Miscellaneous.**
-
-  * **Accuracy and Confidentiality.** It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. **WE CANNOT AND WILL NOT BE RESPONSIBLE FOR ANY PROBLEMS OR LIABILITY THAT MAY ARISE IF YOU DO NOT GIVE US ACCURATE, TRUTHFUL OR COMPLETE INFORMATION OR PERSONAL INFORMATION OR YOU FAIL TO UPDATE SUCH INFORMATION OR PERSONAL INFORMATION.** We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy. You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your User ID (whether used by you or any others who use your User ID), unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions.
-
-Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any Information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. GameTrailers is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
-
-  * **Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to [**privacy@gametrailers.com**](mailto:privacy@gametrailers.com) or please contact us at:
-
-Defy Media, LLC   
-498 7th Avenue, 19th Floor  
-New York, NY 10018   
-Attn: Privacy
-
-  * **Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
-
-  * **Other: Please review** our **_Terms of Use Agreement_** which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.
-
-
-
-
-This Privacy Policy was last modified on the date indicated above and is effective immediately.
-
-Copyright © 2014 Defy Media, LLC. - All Rights Reserved.
