@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the disclose.tv privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611233846id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the disclose.tv privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231013728id_/http%3A//www.disclose.tv/pages/view/id/2) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -49,7 +49,7 @@
         
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 
-            <link rel="stylesheet" type="text/css" media="screen" href="http://d38zt8ehae1tnt.cloudfront.net/css/frontend.desktop.css?v=6829">
+            <link rel="stylesheet" type="text/css" media="screen" href="http://d38zt8ehae1tnt.cloudfront.net/css/frontend.desktop.css?v=6922">
     
     <link rel="publisher" href="https://plus.google.com/+disclosetv">
     <meta name="p:domain_verify" content="7d5bc4cae9843714437995a0d2a0e797">
@@ -65,16 +65,20 @@
         if (window.performance) {
             var PREBID_TIMEOUT = Math.round(performance.now());
 
+                        console.log('LOADED: ' + PREBID_TIMEOUT);
             
             if (PREBID_TIMEOUT < 1000) PREBID_TIMEOUT = 1000;
+            if (PREBID_TIMEOUT > 1500) PREBID_TIMEOUT = 1500;
         }
         else
         {
-            var PREBID_TIMEOUT = 1000;
+            var PREBID_TIMEOUT = 1500;
         }
+
 
         var start_time = new Date().getTime();
 
+                console.log('TIMEOUT: ' + PREBID_TIMEOUT);
         
         var adUnits = [
 
@@ -84,25 +88,25 @@
                 code: 'atf_header',
                 sizes: [[970,90], [728,90]],
                 bids: [
-                    {
+                                        {
                         bidder: 'sovrn',
                         params: {
                             tagid: '351910'
                         }
                     },
-                    {
+                                                            {
                         bidder: 'sovrn',
                         params: {
                             tagid: '351909'
                         }
                     },
-                    {
+                                                            {
                         bidder: 'brealtime',
                         params: {
                             placementId: '7464837'
                         }
                     },
-                    {
+                                                            {
                         bidder: 'pulsepoint',
                         params: {
                             cf: '970x90',
@@ -110,7 +114,7 @@
                             ct: 455294
                         }
                     },
-                    {
+                                                            {
                         bidder: 'pulsepoint',
                         params: {
                             cf: '728X90',
@@ -118,7 +122,7 @@
                             ct: 455293
                         }
                     },
-                    {
+                                                            {
                         bidder: 'aol',
                         params: {
                             placement: '4007439',
@@ -127,7 +131,7 @@
                             alias: 'Disclose.tv 970x90 atf_header'
                         }
                     },
-                    {
+                                                            {
                         bidder: 'aol',
                         params: {
                             placement: '4007441',
@@ -136,12 +140,70 @@
                             alias: 'Disclose.tv 728x90 atf_header'
                         }
                     }
-                ]
+                                    ]
             }
 
             
+
                     ];
+
+        var pbjs = pbjs || {};
+        pbjs.que = pbjs.que || [];
+        
+        pbjs.bidderSettings = {
+            standard: {
+                adserverTargeting: [
+                    {
+                        key: "hb_bidder",
+                        val: function (bidResponse) {
+                            return bidResponse.bidderCode;
+                        }
+                    }, {
+                        key: "hb_adid",
+                        val: function (bidResponse) {
+                            return bidResponse.adId;
+                        }
+                    },  {
+                        key: "hb_pb",
+                        val: function (bidResponse) {
+                            var cpm = bidResponse.cpm;
+                            var bidder = bidResponse.bidder;
+                            var end_time = new Date().getTime();
+                            var bid_time = end_time - start_time;
+                            console.log('Bid '+bidder+' Time: ' + Math.round(bid_time));
+
+                            if (cpm < 0.10) {
+                                                                console.log('Bid '+bidder+': ' + cpm);
+                                console.log('Bid '+bidder+': ' + (Math.floor(cpm * 100) / 100).toFixed(2));
+                                                                return (Math.floor(cpm * 100) / 100).toFixed(2);
+                            } else if (cpm < 3.00) {
+                                                                console.log('Bid '+bidder+': ' + cpm);
+                                console.log('Bid '+bidder+': ' + (Math.floor(cpm * 10) / 10).toFixed(2));
+                                                                return (Math.floor(cpm * 10) / 10).toFixed(2);
+                            } else if (cpm < 20.00) {
+                                                                console.log('Bid '+bidder+': ' + cpm);
+                                console.log('Bid '+bidder+': ' + (Math.floor(cpm * 2) / 2).toFixed(2));
+                                                                return (Math.floor(cpm * 2) / 2).toFixed(2);
+                            } else {
+                                return '20.00';
+                            }
+                        }
+                    }
+                ]
+            },
+            brealtime: {
+                bidCpmAdjustment : function(bidCpm){
+                    return bidCpm * .80;
+                }
+            },
+            aol: {
+                bidCpmAdjustment : function(bidCpm){
+                    return bidCpm * .80;
+                }
+            }
+        };
     </script>
+
 
     
     <script>
@@ -151,61 +213,14 @@
             googletag.pubads().disableInitialLoad();
         });
 
-        var pbjs = pbjs || {};
-        pbjs.que = pbjs.que || [];
-
         pbjs.que.push(function() {
             pbjs.addAdUnits(adUnits);
+
+            pbjs.setBidderSequence('random');
+
             pbjs.requestBids({
                 bidsBackHandler: sendAdserverRequest
             });
-
-            pbjs.bidderSettings = {
-                standard: {
-                    adserverTargeting: [
-                        {
-                            key: "hb_bidder",
-                            val: function (bidResponse) {
-                                return bidResponse.bidderCode;
-                            }
-                        }, {
-                            key: "hb_adid",
-                            val: function (bidResponse) {
-                                return bidResponse.adId;
-                            }
-                        },  {
-                            key: "hb_pb",
-                            val: function (bidResponse) {
-                                var cpm = bidResponse.cpm;
-                                var bidder = bidResponse.bidder;
-                                var end_time = new Date().getTime();
-                                var bid_time = end_time - start_time;
-                                console.log('Bid '+bidder+' Time: ' + Math.round(bid_time));
-
-                                if (cpm < 0.10) {
-                                                                        return (Math.floor(cpm * 100) / 100).toFixed(2);
-                                } else if (cpm < 3.00) {
-                                                                        return (Math.floor(cpm * 10) / 10).toFixed(2);
-                                } else if (cpm < 20.00) {
-                                                                        return (Math.floor(cpm * 2) / 2).toFixed(2);
-                                } else {
-                                    return '20.00';
-                                }
-                            }
-                        }
-                    ]
-                },
-                brealtime: {
-                    bidCpmAdjustment : function(bidCpm){
-                        return bidCpm * .80;
-                    }
-                },
-                aol: {
-                    bidCpmAdjustment : function(bidCpm){
-                        return bidCpm * .80;
-                    }
-                }
-            };
         });
 
         function sendAdserverRequest() {
@@ -215,8 +230,26 @@
                 pbjs.que.push(function() {
                     pbjs.setTargetingForGPTAsync();
 
-                                    });
-                googletag.pubads().refresh();
+                                        console.log('Are all bids available? : ' + pbjs.allBidsAvailable());
+
+                    console.log('Targeting params:');
+                    console.log(pbjs.getAdserverTargeting());
+
+                    console.log('Dumping all bid objects to console:');
+                    console.log(pbjs.getBidResponses());
+
+                    var targetingParams = pbjs.getAdserverTargeting();
+                    var container = document.getElementById('container');
+                    // container.innerHTML = JSON.stringify(targetingParams);
+                    console.log(JSON.stringify(targetingParams));
+                    
+                    googletag.pubads().refresh();
+
+                    var targetingParams = pbjs.getAdserverTargeting();
+                    var container = document.getElementById('container');
+                    container.innerHTML = JSON.stringify(targetingParams, null, 2);
+                });
+
             });
         }
 
@@ -248,7 +281,7 @@
         });
     </script>
 
-    
+
     <meta name="robots" content="noindex, follow">
 
 <script type="text/javascript">
@@ -260,13 +293,12 @@
     ga('create', 'UA-350822-11', 'auto');
     ga('send', 'pageview');
     pbjs.que.push(function () {
-        pbjs.enableAnalytics({
+        pbjs.enableAnalytics([{
             provider: 'ga',
             options: {
-                global: 'ga',
                 enableDistribution: false
             }
-        });
+        }]);
     });
 </script>
 
@@ -284,12 +316,11 @@
     <script src="http://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-            <script src="http://d38zt8ehae1tnt.cloudfront.net/js/desktop.js?v=6829"></script>
+            <script src="http://d38zt8ehae1tnt.cloudfront.net/js/desktop.js?v=6922"></script>
     </head>
 <body>
-<header>
 
-    
+<header>
     <!-- google_ad_section_start(weight=ignore) -->
         
     
@@ -299,7 +330,7 @@
                 <a class="portalLogo" href="/"><img width="216" height="50" alt="Disclose.tv" src="http://d38zt8ehae1tnt.cloudfront.net/images/frontend/disclose_logo.png"></a>            </div>
 
                             <div id="search" class="searchWrapper">
-                    <form id="searchForm" method="get" action="/search/desktop" class="clearfix">
+                    <form id="searchForm" method="get" action="/search/desk" class="clearfix">
                         <input class="searchInput onClickClear" name="title" placeholder="Looking for?">
                         <div id="searchFormButton" class="desktop_sprite_search"></div>
                                             </form>
@@ -311,17 +342,16 @@
                         <div id="socialButtons">
     <div class="socialButtonsLeft">
     
-    <a target="_blank" rel="nofollow" href="http://www.facebook.com/disclosetv/"><div class="desktop_sprite_facebook"></div></a><a target="_blank" rel="nofollow" href="http://twitter.com/disclosetv/"><div class="desktop_sprite_twitter"></div></a><a target="_blank" rel="nofollow" href="https://plus.google.com/+disclosetv"><div class="desktop_sprite_google"></div></a><a target="_blank" rel="nofollow" href="https://www.pinterest.com/disclosetv/"><div class="desktop_sprite_pinterest"></div></a><a target="_blank" rel="nofollow" href="http://www.disclose.tv/rss/"><div class="desktop_sprite_rss"></div></a>
+    <a target="_blank" rel="nofollow" href="http://www.facebook.com/disclosetv/"><div class="desktop_sprite_facebook"></div></a><a target="_blank" rel="nofollow" href="http://twitter.com/disclosetv/"><div class="desktop_sprite_twitter"></div></a><a target="_blank" rel="nofollow" href="https://plus.google.com/+disclosetv"><div class="desktop_sprite_google"></div></a><a target="_blank" rel="nofollow" href="https://www.pinterest.com/disclosetv/"><div class="desktop_sprite_pinterest"></div></a><a target="_blank" href="https://www.youtube.com/c/disclosetv/"><div class="desktop_sprite_youtube"></div></a><a target="_blank" rel="nofollow" href="http://www.disclose.tv/rss/"><div class="desktop_sprite_rss"></div></a>
   </div>
 
-  <div class="socialButtonsRight">
-  <div class="fb-like" data-href="http://www.facebook.com/disclosetv" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-colorscheme="light" data-font="arial" style="opacity: 1;"></div>
-</div>
-</div>                    </div>
+  </div>                    </div>
                     <div class="right">
                         <nav>
     <ul id="topmenu">
-                                                                                                                <li class="withSeparator">
+                                                                                     <esi:include src="/getChat.php"></esi:include>
+            
+                                        <li class="withSeparator">
                                                         <a rel="nofollow" href="/signup">Create Account</a>                                            </li>
 
                     <span class="liSeparator"> | </span>
@@ -337,7 +367,6 @@
     </ul>
 </nav>                     </div>
                 </div>
-
             </div>
         </div>
 
@@ -373,7 +402,7 @@
         </li>
                 <li id="dropMenu6" data-id="6">
           <i class="fa fa-comments-o"></i>
-          <a href="http://www.disclose.tv/forum/">Forums </a>
+          <a href="http://www.disclose.tv/board/">Forums </a>
         </li>
 
         <li id="dropMenu8" data-id="8">
@@ -389,11 +418,7 @@
       <div id="categoryDropContainer">
                 <div class="footermenu nav-sub sub2 dropCategory" id="dropCategory9999" style="display:none">
           <ul>
-            <li><a href="http://www.disclose.tv/action/documents/page/1/all/filter/" rel="nofollow">Browse Documents</a></li>
-            <li><a href="http://www.disclose.tv/action/musiclist/page/1/all/filter/" rel="nofollow">Browse Podcasts</a></li>
-            <li><a href="http://www.disclose.tv/action/photolist/page/1/all/filter/" rel="nofollow">Browse Photos</a></li>
-                          <li>---</li>
-              <li><a href="http://www.disclose.tv/newsletter" rel="nofollow">Newsletter</a></li>
+                            <li><a href="http://www.disclose.tv/newsletter" rel="nofollow">Newsletter</a></li>
               <li><a href="http://www.disclose.tv/trending/">Trending</a></li>
               <li>---</li>
                         <li><a href="http://www.disclose.tv/contact/advertising" rel="nofollow">Advertising</a></li>
@@ -405,7 +430,6 @@
         </div>
       </div>
 
-
       <div class="subMainMenu">
         <a href="http://www.disclose.tv/cryptozoology/">Cryptozoology</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/environment/">Environment</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/health/">Health</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/history/">History &amp; Ancient Origins</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/politics/">Politics</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/prepping/">Prepping</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/prophecy/">Prophecy</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/science/">Science &amp; Technology</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/society/">Society &amp; Activism</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.disclose.tv/spirituality/">Spirituality</a>
       </div>
@@ -415,18 +439,19 @@
 
 
     </div>
-    <!-- google_ad_section_end -->
 
-</header>
+            <esi:include src="/varnish_esi_breaking.php?mobile=0">
+        <!-- google_ad_section_end -->
+</esi:include></header>
 
-<div style="width: 970px; text-align: center; min-height: 90px; max-height: 250px; margin: auto;">
-    <!-- PRE_D_ATF_HEADER_ADSENSE -->
-    <div id="atf_header">
-        <script type="text/javascript">
-            googletag.cmd.push(function() { googletag.display('atf_header'); });
-        </script>
+    <div style="width: 970px; text-align: center; min-height: 90px; max-height: 250px; margin: auto;">
+        <!-- PRE_D_ATF_HEADER_ADSENSE -->
+        <div id="atf_header">
+            <script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('atf_header'); });
+            </script>
+        </div>
     </div>
-</div>
 
 <div id="wrapper" class="clearfix">
 
@@ -458,7 +483,7 @@
 	  //
 	  if(direction == 'left')
 	  {
-		  page = 1999;
+		  page = 2016;
 	  }
 	  else
 	  {
@@ -497,84 +522,84 @@
     <li class="clearfix">
       
             <div class="hoverTop clearfix">
-            <img src="http://d38zt8ehae1tnt.cloudfront.net/images/defUser.jpg?v=1465683986">            <p class="owner">
-                Exopoliticstv                            </p>
+            <img src="http://d38zt8ehae1tnt.cloudfront.net/user_id555_21x21_108338.jpg?v=1452016403">            <p class="owner">
+                id555                            </p>
             <p>
-                01:20                             </p>
+                11:00                             </p>
         </div>
     
                     <div class="noBackground hoverBottom">
                                                         <h3>
-                                                            <a title="NASA Whistleblower’s Apollo Mission Image Shows Alien Base On Lunar Surface" href="/action/viewvideo/228978/nasa_whistleblowers_apollo_mission_image_shows_alien_base_on_lunar_surface/">NASA Whistleblower’s Apollo Mission Image Shows...</a>                </h3>
+                                                            <a title="Illuminati's Grand Wizard Abert Pike: 'We Will Use Islam To Spark World War 3'" href="/action/viewvideo/231477/illuminatis_grand_wizard_abert_pike_we_will_use_islam_to_spark_world_war_3/">Illuminati's Grand Wizard Abert Pike: ...</a>                </h3>
                     </div>
     
     
     
-                    <a alt="NASA Whistleblower’s Apollo Mission Image Shows Alien Base On Lunar Surface" title="NASA Whistleblower’s Apollo Mission Image Shows Alien Base On Lunar Surface" class="play" href="/action/viewvideo/228978/nasa_whistleblowers_apollo_mission_image_shows_alien_base_on_lunar_surface/">Play</a>    
-            <a class="thumbnail clearfix" href="/action/viewvideo/228978/nasa_whistleblowers_apollo_mission_image_shows_alien_base_on_lunar_surface/"><img alt="NASA Whistleblowers Apollo Mission Image Shows Alien Base On Lunar Surface" src="http://d38zt8ehae1tnt.cloudfront.net/22/89/nasa_whistleblowers_apollo_mission_image_shows_alien_base_on_lunar_surface_200x112_228978.jpg?v=1465664049"><span>#</span></a>    
+                    <a alt="Illuminati's Grand Wizard Abert Pike: 'We Will Use Islam To Spark World War 3'" title="Illuminati's Grand Wizard Abert Pike: 'We Will Use Islam To Spark World War 3'" class="play" href="/action/viewvideo/231477/illuminatis_grand_wizard_abert_pike_we_will_use_islam_to_spark_world_war_3/">Play</a>    
+            <a class="thumbnail clearfix" href="/action/viewvideo/231477/illuminatis_grand_wizard_abert_pike_we_will_use_islam_to_spark_world_war_3/"><img alt="Illuminatis Grand Wizard Abert Pike We Will Use Islam To Spark World War 3" src="http://d38zt8ehae1tnt.cloudfront.net/illuminatis_grand_wizard_abert_pike_we_will_use_islam_to_spark_world_war_3_200x112_231477.jpg?v=1483097723"><span>#</span></a>    
         </li>
      
     <!-- $mediaIndex=2 -->
     <li class="clearfix">
       
             <div class="hoverTop clearfix">
-            <img src="http://d38zt8ehae1tnt.cloudfront.net/images/defUser.jpg?v=1465683986">            <p class="owner">
-                Exopoliticstv                            </p>
+            <img src="http://d38zt8ehae1tnt.cloudfront.net/user_Isotrop_21x21_4773.jpg?v=1458286954">            <p class="owner">
+                Isotrop                            </p>
             <p>
-                14:15                             </p>
+                01:08                             </p>
         </div>
     
                     <div class="noBackground hoverBottom">
                                                         <h3>
-                                                            <a title="10 Most Mysterious Mass UFO Sightings" href="/action/viewvideo/228977/10_most_mysterious_mass_ufo_sightings/">10 Most Mysterious Mass UFO Sightings</a>                </h3>
+                                                            <a title="The Occultist Podesta, to the FBI: 'All the leakers should just shut-up.'" href="/action/viewvideo/231475/the_occultist_podesta_to_the_fbi_all_the_leakers_should_just_shutup/">The Occultist Podesta, to the FBI: 'All th...</a>                </h3>
                     </div>
     
     
     
-                    <a alt="10 Most Mysterious Mass UFO Sightings" title="10 Most Mysterious Mass UFO Sightings" class="play" href="/action/viewvideo/228977/10_most_mysterious_mass_ufo_sightings/">Play</a>    
-            <a class="thumbnail clearfix" href="/action/viewvideo/228977/10_most_mysterious_mass_ufo_sightings/"><img alt="10 Most Mysterious Mass UFO Sightings" src="http://d38zt8ehae1tnt.cloudfront.net/22/89/10_most_mysterious_mass_ufo_sightings_200x112_228977.jpg?v=1465662989"><span>#</span></a>    
+                    <a alt="The Occultist Podesta, to the FBI: 'All the leakers should just shut-up.'" title="The Occultist Podesta, to the FBI: 'All the leakers should just shut-up.'" class="play" href="/action/viewvideo/231475/the_occultist_podesta_to_the_fbi_all_the_leakers_should_just_shutup/">Play</a>    
+            <a class="thumbnail clearfix" href="/action/viewvideo/231475/the_occultist_podesta_to_the_fbi_all_the_leakers_should_just_shutup/"><img alt="The Occultist Podesta to the FBI All the leakers should just shut up" src="http://d38zt8ehae1tnt.cloudfront.net/the_occultist_podesta_to_the_fbi_all_the_leakers_should_just_shutup_200x112_231475.jpg?v=1483088577"><span>#</span></a>    
         </li>
      
     <!-- $mediaIndex=3 -->
     <li class="clearfix">
       
             <div class="hoverTop clearfix">
-            <img src="http://d38zt8ehae1tnt.cloudfront.net/user_Grey_21x21_4.jpg?v=1444470762">            <p class="owner">
-                Grey                            </p>
+            <img src="http://d38zt8ehae1tnt.cloudfront.net/images/defUser.jpg?v=1483146395">            <p class="owner">
+                thinkbig                            </p>
             <p>
-                03:28                             </p>
+                19:39                             </p>
         </div>
     
                     <div class="noBackground hoverBottom">
                                                         <h3>
-                                                            <a title="1981 cop radio  recording of UFO sighting and ufo sound" href="/action/viewvideo/228976/1981_cop_radio__recording_of_ufo_sighting_and_ufo_sound/">1981 cop radio  recording of UFO sighting and u...</a>                </h3>
+                                                            <a title="9/11 - US Army General  Proves That A Missle Hit The Pentagon" href="/action/viewvideo/231474/911__us_army_general__proves_that_a_missle_hit_pentagon/">9/11 - US Army General  Proves That A Missle Hi...</a>                </h3>
                     </div>
     
     
     
-                    <a alt="1981 cop radio  recording of UFO sighting and ufo sound" title="1981 cop radio  recording of UFO sighting and ufo sound" class="play" href="/action/viewvideo/228976/1981_cop_radio__recording_of_ufo_sighting_and_ufo_sound/">Play</a>    
-            <a class="thumbnail clearfix" href="/action/viewvideo/228976/1981_cop_radio__recording_of_ufo_sighting_and_ufo_sound/"><img alt="1981 cop radio recording of UFO sighting and ufo sound" src="http://d38zt8ehae1tnt.cloudfront.net/22/89/1981_cop_radio__recording_of_ufo_sighting_and_ufo_sound_200x112_228976.jpg?v=1465662970"><span>#</span></a>    
+                    <a alt="9/11 - US Army General  Proves That A Missle Hit The Pentagon" title="9/11 - US Army General  Proves That A Missle Hit The Pentagon" class="play" href="/action/viewvideo/231474/911__us_army_general__proves_that_a_missle_hit_pentagon/">Play</a>    
+            <a class="thumbnail clearfix" href="/action/viewvideo/231474/911__us_army_general__proves_that_a_missle_hit_pentagon/"><img alt="911 US Army General Proves That A Missle Hit The Pentagon" src="http://d38zt8ehae1tnt.cloudfront.net/911__us_army_general__proves_that_a_missle_hit_pentagon_200x112_231474.jpg?v=1483084590"><span>#</span></a>    
         </li>
      
     <!-- $mediaIndex=4 -->
     <li class="clearfix">
       
             <div class="hoverTop clearfix">
-            <img src="http://d38zt8ehae1tnt.cloudfront.net/user_Abovetopvideos_21x21_58787.jpg?v=">            <p class="owner">
-                Abovetopvideos                            </p>
+            <img src="http://d38zt8ehae1tnt.cloudfront.net/user_Cultura_21x21_139860.jpg?v=1478793280">            <p class="owner">
+                Cultura                            </p>
             <p>
-                04:24                             </p>
+                12:15                             </p>
         </div>
     
                     <div class="noBackground hoverBottom">
                                                         <h3>
-                                                            <a title="Is NASA Planning For New World Order? We Might Be In Danger…" href="/action/viewvideo/228950/is_nasa_planning_for_new_world_order_we_might_be_in_danger/">Is NASA Planning For New World Order? We Might ...</a>                </h3>
+                                                            <a title="The Most Important 20 Government UFO Whistleblowers" href="/action/viewvideo/231473/the_most_important_20_government_whistleblowers_that_speaks_out/">The Most Important 20 Government UFO Whistleblo...</a>                </h3>
                     </div>
     
     
     
-                    <a alt="Is NASA Planning For New World Order? We Might Be In Danger…" title="Is NASA Planning For New World Order? We Might Be In Danger…" class="play" href="/action/viewvideo/228950/is_nasa_planning_for_new_world_order_we_might_be_in_danger/">Play</a>    
-            <a class="thumbnail clearfix" href="/action/viewvideo/228950/is_nasa_planning_for_new_world_order_we_might_be_in_danger/"><img alt="Is NASA Planning For New World Order We Might Be In Danger" src="http://d38zt8ehae1tnt.cloudfront.net/22/89/is_nasa_planning_for_new_world_order_we_might_be_in_danger_200x112_228950.jpg?v=1465656494"><span>#</span></a>    
+                    <a alt="The Most Important 20 Government UFO Whistleblowers" title="The Most Important 20 Government UFO Whistleblowers" class="play" href="/action/viewvideo/231473/the_most_important_20_government_whistleblowers_that_speaks_out/">Play</a>    
+            <a class="thumbnail clearfix" href="/action/viewvideo/231473/the_most_important_20_government_whistleblowers_that_speaks_out/"><img alt="The Most Important 20 Government UFO Whistleblowers" src="http://d38zt8ehae1tnt.cloudfront.net/the_most_important_20_government_whistleblowers_that_speaks_out_200x112_231473.jpg?v=1483050324"><span>#</span></a>    
         </li>
       </ul>
 
@@ -758,6 +783,8 @@ Germany</p>
 
 <div id="footerWrapper">
 
+    <div style="margin: auto; width: 970px;"><a href="https://www.facebook.com/disclosetv" target="_blank"><img src="http://d38zt8ehae1tnt.cloudfront.net/images/fb_logo_conspiracy.jpg"></a></div>
+
     <div class="signup_newsletter">
         <div class="signup4">
             <div>
@@ -789,13 +816,11 @@ Germany</p>
 
             <div class="submenuWrapper">
                 <ul class="footerSubmenu">
-                    <li><a href="/news/archive/">News</a></li>
-                    <li><a href="/videos/archive/">Videos</a></li>
-                    <li><a href="/photos/archive/">Photos</a></li>
-                    <li><a href="/documents/archive/">Documents</a></li>
-                    <li><a href="/audios/archive/">Audios</a></li>
+                    <li><a href="/news/archive/">News Archive</a></li>
+                    <li><a href="/videos/archive/">Videos Archive</a></li>
                 </ul>
             </div>
+
 
             <div class="submenuWrapper">
                 <ul class="footerSubmenu">
@@ -819,7 +844,6 @@ Germany</p>
                 <ul class="footerSubmenu">
                     <li><a href="/action/videolist/page/1/all/filter/">Strange Videos</a></li>
                     <li><a href="/blogs/page/1/all/filter/">Weird News</a></li>
-                    <li><a href="/forum/">Conspiracy Forum</a></li>
                 </ul>
             </div>
 
@@ -829,6 +853,8 @@ Germany</p>
         </div><!-- .footerMenu -->
 
         <div id="back-to-top" title="Return to top of page"><div id="arrowup"></div></div>
+</div>
+
 </div>
 
 <br><br>
@@ -846,26 +872,14 @@ Germany</p>
             </script>
 
     
-    <script type="text/javascript">
-        function downloadJSAtOnload() {
-            var element = document.createElement("script");
-                        element.text = 'jQuery.getScript("http://d38zt8ehae1tnt.cloudfront.net/js/defer_desktop.js?v=6829", function(){ ';
-                        element.text +=' DTV.Navigation.initDesktop(); ';
-            element.text +='});';
-            document.body.appendChild(element);
-        }
-        if (window.addEventListener)
-            window.addEventListener("load", downloadJSAtOnload, false);
-        else if (window.attachEvent)
-            window.attachEvent("onload", downloadJSAtOnload);
-        else window.onload = downloadJSAtOnload;
-    </script>
-
+    
+            <script src="http://d38zt8ehae1tnt.cloudfront.net/js/defer_desktop.js?v=6922"></script>
+    
     
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=816112428467297&ev=PageView&noscript=1"/></noscript>
 
     <!-- google_ad_section_end -->
-</div></footer>
+</footer>
 
 
-<script>jQuery.getScript("http://d38zt8ehae1tnt.cloudfront.net/js/defer_desktop.js?v=6829", function(){  DTV.Navigation.initDesktop(); });</script></body></html>
+</body></html>
