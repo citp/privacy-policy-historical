@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steamcommunity.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626075734id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamcommunity.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231132652id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
 
 # Privacy Policy Agreement
 
-Valve® Corporation and Valve S.A.R.L (collectively, “Valve”) respect the privacy of its online visitors and users of its products and services. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites. 
+Valve® Corporation respects the privacy of its online visitors and users of its products and services and complies with the Privacy Shield Framework as agreed to by the US Department of Commerce and the European Commission. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites.
 
 This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.
 
@@ -49,7 +49,7 @@ Valve gives users the option to receive promotional email communications from Va
 
 **Storage and Security of Personally Identifiable Information**
 
-Personally identifiable information provided to Valve by customers in the EU is controlled by Valve S.a.r.l, with place of business set out below. Personally identifiable information provided to Valve will be collected, processed and stored by Valve Corporation in the United States. Valve has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. Valve Corporation complies with the Safe Harbor framework developed by the U.S. Department of Commerce and the European Union relating to the transfer and processing of personally identifiable information. For more information about the Safe Harbor program or to view Valve’s certification visit <http://safeharbor.export.gov/companyinfo.aspx?id=28415>.
+Personally identifiable information provided to Valve will be collected, processed and stored by Valve Corporation in the United States. Valve has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
 
 **Corrections, Updates and Removal of Personally Identifiable Information**
 
@@ -57,14 +57,20 @@ If you are concerned about the accuracy of personally identifiable information m
 
 **Contacting Valve**
 
-If you have any questions or complaints about this privacy policy, or the privacy practices of Valve, please contact us [here](http://store.steampowered.com/ssa_feedback). You may also contact Valve Corp. or Valve S.a.r.l. at the addresses below.   
+If you have any questions or complaints about this privacy policy, or the privacy practices of Valve, please contact us [here](http://store.steampowered.com/ssa_feedback). You may also contact Valve Corp. at the address below.
+
 Valve Corporation  
 P.O. Box 1688  
 Bellevue, WA 98004
 
-Valve S.a.r.l.  
-Regus City Center Suite 227  
-26 Boulevard Royal  
-L-2449 Luxembourg
+**Privacy Shield**
 
-_Revision Date: March 24th 2015_
+Valve complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Valve has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).
+
+In compliance with the Privacy Shield Principles, Valve commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Valve [**here**](http://store.steampowered.com/ssa_feedback). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. As explained in the Privacy Shield documentation (<https://www.privacyshield.gov/article?id=ANNEX-I-introduction>) certain residual claims not resolved by other means may be subject to binding arbitration. In such event, an arbitration option will be made available to you.
+
+The Privacy Shield Principles describe Valve's accountability for personal data that it subsequently transfers to a third party agent. Under the Principles, Valve shall remain liable if third party agents process the personal information in a manner inconsistent with the Principles, unless Valve proves it is not responsible for the event giving rise to the damage.
+
+The Federal Trade Commission has jurisdiction over Valve’s compliance with the Privacy Shield.
+
+_Revision Date: November 16th 2016_
