@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the socrata.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630091104id_/https%3A//www.socrata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrata.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231134000id_/https%3A//socrata.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Socrata, Inc.
 
-## Last Revised: May 27, 2009
+  * Last reviewed: July 15, 2016
+  * Revised: May 27, 2009
+
+
 
 This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by Socrata, Inc., formerly known as blist, Inc. (“Company”, “we” or “us”) with respect to your use of the web site located at www.Socrata.com (the “Site”) so you can make an informed decision about using the Site and the features and service offered through the Site (the “Services”). We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
@@ -59,4 +62,4 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ### HOW YOU CAN CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION
 
-If you have any questions or comments about this Policy or the practices relating to the Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at privacy@Socrata.com, and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. In lieu of email, you may also contact us by mail at the following address: 83 S. King Street, Suite 107, Seattle, WA 98104.
+If you have any questions or comments about this Policy or the practices relating to the Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at privacy@Socrata.com, and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. In lieu of email, you may also contact us by mail at the following address: 705 5th Ave S., Suite 600, Seattle, WA 98104.
