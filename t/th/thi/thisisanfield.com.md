@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621074311id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231182017id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Legal - This Is Anfield
+# Privacy Policy / Legal - This Is Anfield - This Is Anfield
 
 **This Website**  
 [This Is Anfield](http://www.thisisanfield.com/) is operated by Soccer Publishing Limited. Company number: 9214549. Registered office: Carlton House, Grammar School St, Bradford, West Yorkshire BD1 4NS.
