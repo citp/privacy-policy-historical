@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627182544id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231122343id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective date:** January 30, 2016
+**Effective date:** November 1, 2016
 
   * Introduction
   * Hootsuite Data and Customer Content
@@ -26,9 +26,9 @@
 
 Hootsuite Media Inc. and its affiliates (“ _Hootsuite_ ”) are committed to protecting the privacy of all individuals who:
 
-  * visit Hootsuite’s website located at [hootsuite.com](http://www.hootsuite.com/), which includes all subdomains, present and future (the “ _Website_ ”);
+  * visit any websites or mobile sites offered by Hootsuite, including without limitation [hootsuite.com](http://www.hootsuite.com/), and including all subdomains, present and future (the “ _Website_ ”);
   * use the mobile applications that Hootsuite makes available from time to time (the " _Applications_ ");
-  * use the Services including Hootsuite Free, Pro, Enterprise, Ow.ly, Amplify, Podium, Campaigns and other Hootsuite products and services (the " _Platforms_ "); and
+  * use the Services including Hootsuite Free, Pro, Professional, Team, Business, Enterprise, Ow.ly, Amplify, Academy, Insights, Campaigns and other Hootsuite products and services (the " _Platforms_ "); and
   * purchase Hootsuite-branded and other items from the Hootsuite Shop located at shop.hootsuite.com and other domains (the “ _Shop_ ”). When we talk about “Personal Information”, we mean information relating to you or other identifiable individuals.
 
 
@@ -39,7 +39,7 @@ It is Hootsuite’s policy to respect your privacy and the privacy of all users 
 
 Hootsuite reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [hootsuite.com/legal/privacy](https://web.archive.org/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
 
-Hootsuite’s Privacy Policy forms part of its wider terms of service. If you are a visitor to the Website or if you are a Hootsuite Free or Hootsuite Pro user, these terms of service are available at [ https://hootsuite.com/legal/terms](https://web.archive.org/legal/terms). If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterpriseterms](https://web.archive.org/legal/enterprise-terms). Additional terms may apply to other Services purchased. To make this policy easier to read, any applicable Hootsuite terms of service are referred to as the “ _Terms_ ”. Both the Terms and the Privacy Policy apply to your use of the Services. 
+Hootsuite’s Privacy Policy forms part of its wider terms of service. If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterprise-terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fenterprise-terms&sa=D&sntz=1&usg=AFQjCNG5x6D-1DdDGoimSZ8TkP6XR5CJ0A), and/or are subject to a negotiated agreement governing your access to and use of Hootsuite Enterprise Services. If you use or access any other websites, mobile sites, mobile applications, products or services offered by Hootsuite Media Inc., these terms of service are available at [https://hootsuite.com/legal/terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fterms&sa=D&sntz=1&usg=AFQjCNFp5A8iEjiqr5B1Z5ZDbLDsCfeCZA). Additional terms may apply to other Services purchased. To make this policy easier to read, any applicable Hootsuite terms of service are referred to as the “ _Terms_ ”. Both the Terms and the Privacy Policy apply to your use of the Services. 
 
 ## Hootsuite Data and Customer Content
 
@@ -207,7 +207,7 @@ If you have any questions, please feel free to [contact us](mailto:privacy@hoots
 
 ## Email preferences
 
-Hootsuite uses email as the primary mode of communications with our users. We want to respect your privacy by only sending emails of interest to you. You can manage your email preferences, such as opting-out or unsubscribing from emails sent by Hootsuite, by adjusting your preferences in your account settings. You may also opt out or unsubscribe from any future email communications from within a link provided in each email correspondence that we send you.
+You may opt out of marketing communications sent by Hootsuite by managing your email preferences on our [Preferences Management page](https://socialbusiness.hootsuite.com/preferences-management.html), or by following the unsubscribe instructions included in each marketing email.
 
 ## Your rights
 
@@ -219,14 +219,14 @@ You should be aware that Hootsuite acts as a conduit between our users and the v
 
 If you have any questions about this Privacy Policy, please contact:
 
-[General Counsel, Hootsuite Legal Services](mailto:privacy@hootsuite.com)
+[Hootsuite Legal Services](mailto:privacy@hootsuite.com)
 
 or:
 
-General Counsel, Hootsuite Legal Services  
+Hootsuite Legal Services  
 c/o Hootsuite Media Inc.  
 5 East 8th Avenue  
 Vancouver, BC V5T 1R6  
 Canada 
 
-© Hootsuite Media 2015
+© Hootsuite Media Inc. 2016
