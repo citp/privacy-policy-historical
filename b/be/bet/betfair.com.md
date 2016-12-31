@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617004103id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231181727id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -39,7 +39,7 @@ Betfair uses 'cookies' in order to provide you with a better experience. To find
 
 ### How your Personal Information will be used?
 
-Betfair will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from Betfair, you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. Betfair will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database.
+Betfair will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to enable us to comply with any legal or regulatory requirements, to allow quicker account registration should you open a betting account with another company within the Group (for example, if you were to open an account with Paddy Power, we could use the verification documents submitted to Betfair to comply with our legal and regulatory requirements), to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes.
 
 Betfair will also retain such information and may analyse it in order to investigate any actual or suspected criminal activity or, in respect of any event featured on our website, any threat to the integrity of that event and/or breaches of the rules of that event as laid down by the relevant governing (including sporting) bodies. All rights in the manner of recording your Personal Information held by Betfair (including copyright and database rights) are and shall remain its property.
 
@@ -53,60 +53,6 @@ Where required by law, your Personal Information may also be disclosed to an app
 
 In connection with the above purposes it may be necessary, or a legal requirement, for Betfair to disclose information to entities located in countries outside the UK, Malta, the EU and Australia in each case in accordance with appropriate technical and organizational security measures. By agreeing to this policy, by use of the Betfair site or otherwise, you agree that Betfair may store and use historical data relating to you and your account(s) for the purposes outlined in this policy.
 
-Betfair has entered into MOUs with the following regulatory and/or sporting bodies:
-
-  * The British Horseracing Authority
-  * The Association of Professional Tennis Players
-  * The Darts Regulation Authority
-  * The International Cricket Council
-  * Cricket Australia
-  * The Rugby Football League
-  * The English Football Association
-  * The National Horseracing Authority of South Africa
-  * UEFA
-  * The Greyhound Board of Great Britain
-  * The Thoroughbred Racing Protective Bureau (US horseracing)
-  * Grand Slam Committee
-  * The Lawn Tennis Association
-  * The International Tennis Federation
-  * The WTA (Women's Professional Tennis)
-  * The Australian Football League
-  * The Rugby Football Union
-  * The British Darts Organisation
-  * The Royal Belgian Football Association
-  * The Irish Football Association
-  * The Turf Club (Irish horseracing)
-  * The Football Association of Ireland
-  * The Football Federation of Australia
-  * Racing Victoria Limited
-  * Racing Services Tasmania
-  * National Rugby League Limited
-  * Lawn Tennis Association of Australia Limited
-  * PGA Tour of Australasia Limited
-  * Deutscher Tennis Bund e.V (German Tennis)
-  * Racing and Wagering Western Australia
-  * Australian Rugby Union
-  * Harness Racing Queensland
-  * Thoroughbred Racing South Australia
-  * Greyhound Racing South Australia Limited
-  * Harness Racing South Australia
-  * Greyhound Racing New South Wales
-  * Racing New South Wales
-  * Harness Racing New South Wales
-  * The National Hockey League
-  * World Snooker Ltd
-  * Harness Racing Victoria
-  * Greyhound Racing Victoria
-  * The Tennis Integrity Unit
-  * Racing Queensland Limited
-  * New Zealand Racing Board
-  * Victorian Racing Integrity Commissioner
-  * Professional Squash Association
-
-
-
-Further MOUs may have been entered with other organizations the details of which are available on request.
-
 ### Consent
 
 By providing your Personal Information and registering with us or logging on with us when you enter our website, you explicitly consent to the Group processing and disclosing your Personal Information for the purposes, and otherwise in the manner set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by notifying us in writing. Our contact details are located in the 'Contact Us' pages of our website.
@@ -118,23 +64,6 @@ You may at any time request a copy of your Personal Information held by Betfair 
 Betfair reserves the right to change the Privacy Policy including altering the purposes for which it processes your Personal Information. In the event that Betfair considers it appropriate to make any such change, the Privacy Policy will be updated and posted on our site. Your continued use of the site will constitute acceptance of those changes.
 
 For full details about Group members, where they operate, or for a copy of your Personal Information or any other queries you may have about our Privacy Policy, please contact us. Again, our contact details are located in the 'Contact Us' pages of our website.
-
-## Special terms applicable only to customers betting on australian events*
-
-***Australian Event means an event that takes place on Australian soil and/or an event that is specifically identified in the relevant market information as being governed by Betfair's Australian licence.**
-
-Your Personal Information may also be disclosed to the Tasmanian Gaming Commission ("TGC") and such regulatory agencies as the TGC directs pursuant to the Gaming Control Act 1993 (Tasmania). Specifically any information relating to your use of our site may (at the TGC's direction) be monitored and recorded or otherwise provided to the following regulatory agencies:
-
-  * The TGC;
-  * The Director of Racing appointed under section 5 of the Racing Regulation Act 2004 (Tasmania);
-  * A Council within the meaning of the Racing Regulation Act 2004 (Tasmania); and
-  * Another person or body nominated by the TGC that either in Tasmania or elsewhere exercises powers or performs functions in respect of the conduct of racing or gaming.
-
-
-
-NOTE: There may be restrictions placed your betting on Australian Events if you have not complied with Betfair's know your client ("KYC") processes. Further information can be found in the 'Help' pages of the website.
-
-© 2011 The Sporting Exchange Limited. All rights reserved. BETFAIR® is a registered trade mark of The Sporting Exchange Limited.
 
 ### Cookie Policy
 
@@ -308,4 +237,4 @@ Please include a cheque for £10 made payable to Betfair Limited with your reque
 
 Subject access requests may take up to 40 days to be processed from the date of receipt by Betfair.
 
-V 01/16 02/02/16
+V 02/16 13/10/2016
