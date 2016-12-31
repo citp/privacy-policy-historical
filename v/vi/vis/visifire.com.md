@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509215214id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visifire.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231132325id_/http%3A//www.visifire.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Silverlight charting component
 
