@@ -1,45 +1,39 @@
-> *The following text is extracted and transformed from the plashporn.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607065742id_/http%3A//www.plashporn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plashporn.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231171718id_/http%3A//www.plashporn.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-**PlashPorn  Privacy Policy**
+Last Updated, June 23, 2015.
 
- **This document details important information regarding the use and disclosure of User Data collected on PlashPorn.com**  
-**The security of your Data is very important to PlashPorn.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.**  
-**This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.**
+Plashporn knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
 
-   
-**DATA COLLECTED**  
-Personal Information:  
-Non-Registered users can watch videos without registering and without any information being collected and processed.  
-Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
-Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
-Cookies: When you visit **PlashPorn.com** , we may send one or more cookies to your computer that uniquely identifies your browser session. **PlashPorn.com** uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site’s features may not function properly.  
-Log File Information: When you visit **PlashPorn.com** , our servers may record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.  
-Emails: If you contact us, we may keep a record of that correspondence.
+### What Personal Information About Users we Gather?
 
- **USES**  
-Your Personally identifiable information submitted to **PlashPorn.com** is used to provide to the user the website’s features and special personalized features.  
-Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the **PlashPorn.com** private mail, etc. Other Users can contact you through, private messages.  
-Any videos that you submit to **PlashPorn.com** may be redistributed through the internet and other media channels, and may be viewed by the general public.  
-We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.  
-We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).  
-We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the **PlashPorn.com** user-experience.
+1\. Information You Give Us.  
+2\. Automatic Information.  
+3\. E-mail Communications.
 
- **DISCLOSURE OF INFORMATION**  
-if under duty to do so **PlashPorn.com** may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of **PlashPorn.com** or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is **PlashPorn.com** ’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.  
-Should you deliberately upload any illegal material PormHub.com shall forward all available information to all relevant authorities and this without notice.  
-– We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+### Browser Information
 
- **SECURITY**  
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.  
-Unfortunately, the transmission of information via the Internet is not completely secure. **PlashPorn.com** uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to **PlashPorn.com** and you do so at your own risk.
+We collect data regarding the users of Plashporn, including: (i) The Internet Protocol (IP) address of the user’s computer. This may or may not be associated with a particular Internet Service Provider (ISP); (ii) The referring URL, if any; (iii) The browser software identification (i.e. the brand and version of your browser software).
 
- **YOUR RIGHTS**  
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at support@plashporn.com.
+### Statistical Information
 
- **OPT-IN AND USER COMMUNICATION**  
-Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber’s preference by either clicking or entering “accept” (alternatively “yes”) or “decline” (alternatively “no”). By selecting or clicking the “accept” or “yes”, the subscriber indicates that the subscriber “OPTS-IN” to that offer and thereby agrees and assents that the subscriber’s personal information, including its email address and data may be used for that matter or disclosed to third-parties.
+We log certain information concerning user’s movie browsing. For example, it is possible for us to know which movies you watch.
 
- **OPT-OUT AND USER COMMUNICATION**  
-Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. “OPT-OUT” of the offer) then the site may transfer the subscriber’s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
+### Use of Personal Information
+
+We will use the email address provided by you when you register to contact you from time to time. This may be for security reasons (so that we can check that you are who you say you are), to ask your opinion about the Website, or it may be to keep you updated on the services currently available on the Website and any changes to those services and those that we intend to launch in the future. We may also use such personal information to send you notices, on behalf of others and ourselves, regarding products and services that we think may be of interest to you. You can always unsubscribe.
+
+### Links
+
+We may display links to third party sites. However, we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their terms of use and privacy policies to find out how they are treating your personal information.
+
+### Cookies
+
+Plashporn collects information about you using cookies. We use this information to help us improve the efficiency and quality of our service.
+
+### Third-Party Ad Servers
+
+We may use third-party advertising companies to target and serve ads when you visit our Website. These third party advertisers may drop cookies onto your device when serving these adverts. Please note that we do not disclose personally identifiable information about you, which you have privately provided to Plashporn, to our advertiser partners without your consent.
+
+If you have any questions or comments concerning this site please feel free to contact us.
