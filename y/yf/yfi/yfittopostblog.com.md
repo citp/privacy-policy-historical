@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624142710id_/https%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yfittopostblog.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231115201id_/https%3A//info.yahoo.com/privacy/sg/yahoo) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Welcome to the Yahoo Privacy Center—take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
+Welcome to the Yahoo Privacy Center—take a look around. You'll learn how Yahoo treats your personal information, along with ways to control your preferences and settings. As always, Yahoo is committed to gaining your trust.
 
-## **WHAT THIS PRIVACY POLICY COVERS**
+## **What This Privacy Policy Covers**
 
-### **Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
+**Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.**
 
-### **How Yahoo Uses Your Personal Information**
+**How Yahoo Uses Your Personal Information**
 
 This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-### **This privacy policy only applies to Yahoo**
+**This privacy policy only applies to Yahoo**
 
-This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](https://policies.yahoo.com/us/en/yahoo/privacy/topics/acquiredcompanies/index.html).
+This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/acquiredcompanies/index.htm).
 
-## **INFORMATION COLLECTION AND USE**
+## **Information Collection And Use**
 
-### **General**
+**General**
 
 Yahoo collects personal information when you register with Yahoo, when you use [Yahoo products or services](https://policies.yahoo.com/sg/en/yahoo/privacy/products/index.htm), when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter [promotions or sweepstakes](https://policies.yahoo.com/sg/en/yahoo/privacy/products/promotions/index.htm). Yahoo may combine information about you that we have with information we obtain from business partners or other companies.
 
@@ -26,11 +26,11 @@ When you register we ask for information such as your name, email address, birth
 
 Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Yahoo automatically receives and records information from your computer and browser, including your [IP address](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/ipaddresses/index.html), Yahoo [cookie](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/cookies/index.html) information, software and hardware attributes, and the page you request.
+Yahoo automatically receives and records information from your computer and browser, including your [IP address](https://web.archive.org/web/20161231115206id_/https://policies.yahoo.com/sg/en/yahoo/privacy/topics/ipaddress/index.htm), Yahoo [cookie](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/cookies/index.html) information, software and hardware attributes, and the page you request.
 
 Yahoo uses information for the following general purposes: to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-## **INFORMATION SHARING AND DISCLOSURE**
+## **Information Sharing And Disclosure**
 
 Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -48,9 +48,9 @@ Yahoo displays targeted advertisements based on personal information. Advertiser
 
 
 
-Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](https://policies.yahoo.com/sg/en/yahoo/privacy/products/index.htm).
+Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/thirdparties/index.htm).
 
-## **COOKIES**
+## **Cookies**
 
 Yahoo may set and access Yahoo [cookies](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/cookies/index.html) on your computer.
 
@@ -58,11 +58,11 @@ Yahoo lets [other companies](https://policies.yahoo.com/sg/en/yahoo/privacy/topi
 
 Yahoo uses [web beacons](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/webbeacons/index.html) to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
 
-## **YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
+## **Your Ability To Edit And Delete Your Account Information And Preferences**
 
-### **General**
+**General**
 
-You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time.
+You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subs.communications.yahoo.com/unsubscribe_all.html?c=1111?), at any time.
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
@@ -70,7 +70,7 @@ We reserve the right to send you certain communications relating to the Yahoo se
 
 You can delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/datastorage/index.html) to read about information that might possibly remain in our archived records after your account has been deleted.
 
-## **CONFIDENTIALITY AND SECURITY**
+## **Confidentiality And Security**
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
 
@@ -78,15 +78,15 @@ We have physical, electronic, and procedural safeguards that comply with federal
 
 To learn more about security, including the security steps Yahoo has taken and security steps you can take, please read [Security at Yahoo](https://policies.yahoo.com/sg/en/yahoo/privacy/topics/security/index.html).
 
-## **CHANGES TO THIS PRIVACY POLICY**
+## **Changes To This Privacy Policy**
 
 Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site.
 
-## **QUESTIONS AND SUGGESTIONS**
+## **Questions And Suggestions**
 
 If you have questions or suggestions, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVVik8xGjMq26i14B7w5xr5vkw0GgpY9YySHm4mkb0qn0o%253D&locale=en_SG&page=contactform&selectedChannel=email-icon) or you can contact us at:
 
 Yahoo! Asia Pacific Pte. Ltd.  
 60 Anson Road, #13-01 Mapletree Anson, Singapore 079914
 
-Last Updated: January 26, 2011
+_Last Updated: January 26, 2011_
