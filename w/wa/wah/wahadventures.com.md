@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313144957id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahadventures.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231112326id_/http%3A//www.wahadventures.com/disclosure) for the most accurate reproduction.*
 
-# Privacy - WAHA
+# Privacy - Make Money Online
 
 **What information do we collect?  **We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
 
