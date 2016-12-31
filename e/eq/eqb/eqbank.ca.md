@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eqbank.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630022307id_/https%3A//www.eqbank.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eqbank.ca privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231151439id_/https%3A//www.eqbank.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Agreement | EQ Bank Canada
 
-## PRIVACY AGREEMENT 
+## Privacy Agreement
 
 Equitable Bank (variously 'we', 'us' or the 'Bank') is committed to protecting all Personal Information obtained in the course of conducting our business. The term “Personal Information” refers to information in any form about an identifiable individual (e.g., personal or financial details), and the Bank is accountable for all Personal Information in our possession. To help us meet this commitment, we have designated a Chief Privacy Officer to oversee our privacy program and practices.
 
