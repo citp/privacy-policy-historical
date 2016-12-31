@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621151542id_/https%3A//www.exoclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231115424id_/https%3A//www.exoclick.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ExoClick
 
