@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesun.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622044120id_/http%3A//www.newsprivacy.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesun.co.uk privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222222id_/http%3A//www.newsprivacy.co.uk) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
