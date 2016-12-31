@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srijan.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001110id_/https%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srijan.net privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231010318id_/https%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
 
 # Web service privacy policy | Mollom
 
