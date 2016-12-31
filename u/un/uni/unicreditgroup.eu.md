@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicreditgroup.eu privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325231251id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicreditgroup.eu privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231134017id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy - UniCredit
 
@@ -12,13 +12,13 @@ corresponding to the homepages of the UniCredit S.p.A. websites. The disclosure 
 
 The disclosure is based also on Recommendation No 2/2001 which the European Personal Data Protection Authority, meeting as the Working Party established by Art. 29 of Directive 95/46/EC, adopted on 17 May 2001 to identify certain minimum requirements for the on-line gathering of personal data and, in particular, the methods, times and nature of the information that Data Controllers must provide to users when they visit web pages, irrespective of the purposes of the visit.
 
-The "Data Controller"
+#### The "Data Controller"
 
 Following consultation of this website, data on identified or identifiable persons may be processed. The "data controller" is UniCredit S.p.A., whose Registered Office is in Rome at Via Alessandro Specchi n. 16 and whose Operational Headquarters is in Milan, Piazza Gae Aulenti, 3, Tower A - 20154 Milan.
 
 In case of data processing running, within the various sections of the website will be pointed out the relevant Data Processors.
 
-Place of data processing
+#### Place of data processing
 
 The processing of data connected with the web services of this site takes place at the above Headquarters and also at the office in Via Livio Cambi, 1, in Milan and is performed only by the personnel of UniCredit S.p.A., in charge of the processing, or by employees of UniCredit Business Integrated Solutions S.C.p.A., the "Data Processor" designated by the controller UniCredit S.p.A..
 
@@ -26,7 +26,7 @@ No personal data deriving from the web service is disseminated.
 
 The personal data provided by users are used for the sole purpose of performing the service or task requested and are communicated to third parties only when necessary for this purpose.
 
-Types of data processed
+#### Types of data processed
 
 Navigation data
 
@@ -90,7 +90,7 @@ Fax: +39 051.6407229
 
 E-mail: [Privacyart7@unicredit.eu](mailto:Privacyart7@unicredit.eu)
 
-Minors
+#### Minors
 
 UniCredit S.p.A. does not knowingly use its website to request data from persons of less than 18 years of age.
 
