@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630124050id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231123848id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | HowStuffWorks
 
-This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
 **A. Information Collected**
 
@@ -96,13 +96,11 @@ It is possible that we may receive information given to us or pertaining to chil
 
 Questions regarding privacy, including children's privacy should be directed to:
 
-InfoSpace LLC
+InfoSpace Holdings LLC
 
 10900 NE 8th Street, Suite 800
 
 Bellevue, WA 98004
-
-Phone: (425) 201-6100
 
 Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
 
@@ -164,20 +162,18 @@ Some parts of the Sites require that personally identifiable information be subm
 
 **O. Contacting HSW**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-InfoSpace LLC
+InfoSpace Holdings LLC
 
 10900 NE 8th Street, Suite 800
 
 Bellevue, WA 98004
 
-Phone: (425) 201-6100
-
 Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
 
-Last Updated On: 05/16/2016
+Last Updated On: 08/10/2016
